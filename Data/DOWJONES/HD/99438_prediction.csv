@@ -1,0 +1,61 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-18 06:02:00,"MoneyMorning.com Report - For Aug. 18, 2015, here are your stock market futures, earnings reports, top stock market news, and stocks to watch ...
+
+Futures for the Dow Jones Industrial Average today, Aug. 18, forecast a 61-point slide after another broad sell-off in Chinese stocks.",0.023892870172858238,0.9597586989402771,0.016348356381058693,negative,-0.9358658194541931
+1,2015-08-18 06:02:00,"This morning, China's benchmark Shanghai Composite Index fell more than 6.1% as traders raised new concerns about the nation's recent currency devaluation.",0.020732304081320763,0.9692074656486511,0.010060177184641361,negative,-0.948475182056427
+2,2015-08-18 06:02:00,"A busy day of earnings reports include quarterly figures from Home Depot Inc. ( HD ), Wal-Mart Stores Inc. ( WMT ), Sina Corp. (Nasdaq: SINA), The Hain Celestial Group Inc. (Nasdaq: HAIN), TJX Co. Inc. ( TJX ), and Medtronic Inc. ( MDT ).",0.07115574181079865,0.14078573882579803,0.7880584597587585,neutral,-0.06962999701499939
+3,2015-08-18 06:02:00,"On Monday, the Dow Jones Industrial Average added nearly 68 points, fueled by a surge in U.S. homebuilder sentiment in August.",0.918270468711853,0.03278971090912819,0.048939939588308334,positive,0.8854807615280151
+4,2015-08-18 06:02:00,"The National Association of Home Builders said the NAHB/Wells Fargo Housing Market Index jumped from 60 to 61 over the last month, the highest level reached since November 2005.",0.9353222846984863,0.026347674429416656,0.038330018520355225,positive,0.9089745879173279
+5,2015-08-18 06:02:00,The news gave a boost to housing stocks.,0.9144859313964844,0.03164983168244362,0.0538642518222332,positive,0.882836103439331
+6,2015-08-18 06:02:00,Shares of D.R.,0.03472286835312843,0.01137439627200365,0.9539027214050293,neutral,0.023348473012447357
+7,2015-08-18 06:02:00,"Horton Inc. (NYSE: DHI), KB Home (NYSE: KBH), Lennar Corp. (NYSE: LEN), PulteGroup Inc. (NYSE: PHM), and Toll Brothers Inc. (NYSE: TOL) all rose more than 1% on the day.",0.9144101738929749,0.019675498828291893,0.06591429561376572,positive,0.8947346806526184
+8,2015-08-18 06:02:00,"Yesterday, the SPDR Homebuilder ETF ( XHB ) gained more than 1.1%.",0.95400470495224,0.022538984194397926,0.023456385359168053,positive,0.931465744972229
+9,2015-08-18 06:02:00,"• The Stock Market Today: Today, investors will focus on the NFIB Small Business Optimism Index and a monthly update on Productivity and Costs.",0.06892246007919312,0.010538035072386265,0.9205395579338074,neutral,0.058384425938129425
+10,2015-08-18 06:02:00,"With economic data and oil prices in focus, investors are eyeing Wednesday's pending release of last month's minutes from the Fed Open Market Committee meeting.",0.10719113796949387,0.029206063598394394,0.863602876663208,neutral,0.07798507809638977
+11,2015-08-18 06:02:00,"• Petco Push: On Monday, pet retailer Petco Holdings Inc. filed for its initial public offering, making it the third time it has aimed to go public over the last three decades.",0.3796282112598419,0.01028551533818245,0.6100862622261047,neutral,0.3693426847457886
+12,2015-08-18 06:02:00,The firm was last public in 2006 after it went private through a $1.8 billion leveraged buyout by Texas Pacific Group and Leonard Green & Partners.,0.038811977952718735,0.006544343661516905,0.954643726348877,neutral,0.03226763382554054
+13,2015-08-18 06:02:00,• Oil Outlook: Oil prices slid on news of Japan's economic downturn in the second quarter and broader concerns about global demand due to the Chinese economy.,0.023845668882131577,0.9665976166725159,0.009556679986417294,negative,-0.942751944065094
+14,2015-08-18 06:02:00,WTI crude futures for September fell nearly 0.4% to hit $41.70 per barrel.,0.017607640475034714,0.9714598059654236,0.010932556353509426,negative,-0.9538521766662598
+15,2015-08-18 06:02:00,"Meanwhile, Brent oil prices dipped nearly 0.5% to $48.48 per barrel.",0.022186391055583954,0.9662595987319946,0.01155391987413168,negative,-0.9440732002258301
+16,2015-08-18 06:02:00,• Pre-Market Movers No.,0.04013077914714813,0.14497452974319458,0.8148946762084961,neutral,-0.10484375059604645
+17,2015-08-18 06:02:00,"1, URBN: Shares of Urban Outfitters Inc. (Nasdaq: URBN) surged more than 5% after the company bested Wall Street earnings expectations and reported record sales.",0.9516934752464294,0.026160316541790962,0.022146090865135193,positive,0.9255331754684448
+18,2015-08-18 06:02:00,"The firm's per-share earnings hit $0.53 for the quarter, beating analyst expectations of $0.48.",0.9481489062309265,0.030090821906924248,0.021760305389761925,positive,0.9180580973625183
+19,2015-08-18 06:02:00,• Pre-Market Movers No.,0.04013077914714813,0.14497452974319458,0.8148946762084961,neutral,-0.10484375059604645
+20,2015-08-18 06:02:00,"2, SUNE: Shares of SunEdison Inc. (Nasdaq: SUNE) were up nearly 4% on news that the renewable energy giant is forming a $1 billion investment partnership with Goldman Sachs Group Inc. 's (GS) West Street Infrastructure Partners III.",0.944777250289917,0.020433587953448296,0.03478924185037613,positive,0.9243436455726624
+21,2015-08-18 06:02:00,The deal will help fund construction costs and allow the firms to purchase new operating assets.,0.8758769631385803,0.013271057978272438,0.11085204780101776,positive,0.8626059293746948
+22,2015-08-18 06:02:00,• Pre-Market Movers No.,0.04013077914714813,0.14497452974319458,0.8148946762084961,neutral,-0.10484375059604645
+23,2015-08-18 06:02:00,"3, ESPR: Shares of Esperion Therapeutics Inc. (Nasdaq: ESPR) surged more than 10% in pre-market hours after gaining another 10.5% during Monday's trading hours.",0.951910674571991,0.02446180395781994,0.02362753264605999,positive,0.9274488687515259
+24,2015-08-18 06:02:00,Shares rallied after the company reported positive news from its recent meeting with the U.S. Food and Drug Administration over its new cholesterol drug.,0.9252563118934631,0.02061803825199604,0.05412564426660538,positive,0.9046382904052734
+25,2015-08-18 06:02:00,The company will begin a late-stage clinical study for the drug by January 2016.,0.11919223517179489,0.007872954942286015,0.872934877872467,neutral,0.11131928116083145
+26,2015-08-18 06:02:00,• Pre-Market Movers No.,0.04013077914714813,0.14497452974319458,0.8148946762084961,neutral,-0.10484375059604645
+27,2015-08-18 06:02:00,"4, HD: Shares of home improvement giant Home Depot Inc. ( HD ) gained more than 1% this morning after the company reported stronger than expected quarterly same-store sales numbers and raised its forward guidance.",0.9517540335655212,0.02617333084344864,0.022072557359933853,positive,0.9255806803703308
+28,2015-08-18 06:02:00,The company also said it plans to complete its acquisition of Interline Brands Inc. and to increase stock buybacks in the future.,0.7451334595680237,0.01139093842357397,0.2434755563735962,positive,0.7337425351142883
+29,2015-08-18 06:02:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+30,2015-08-18 06:02:00,"1,SEAS: Shares of SeaWorld Entertainment Inc. (Nasdaq: SEAS) were gaining on news that the company has appointed a new CFO.",0.9234364032745361,0.02798032946884632,0.048583243042230606,positive,0.895456075668335
+31,2015-08-18 06:02:00,"The firm's board of directors appointed Peter Crage as CFO, effective Sept. 1.",0.053023338317871094,0.007793326862156391,0.9391833543777466,neutral,0.04523001238703728
+32,2015-08-18 06:02:00,Crage most recently served as CFO at Extended Stay America Inc. (STAY).,0.018336845561861992,0.010328167118132114,0.9713349342346191,neutral,0.008008678443729877
+33,2015-08-18 06:02:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+34,2015-08-18 06:02:00,"2,WMB: Shares of Williams Co. Inc. (WMB) are in focus this morning after jumping more than 5% yesterday.",0.9206631779670715,0.036972351372241974,0.04236439988017082,positive,0.8836908340454102
+35,2015-08-18 06:02:00,Rumors emerged that Spectra Energy Corp. (SE) is prepared to make a bid for the oil and gas infrastructure company.,0.19406965374946594,0.031083788722753525,0.7748465538024902,neutral,0.16298586130142212
+36,2015-08-18 06:02:00,"In June, Williams placed itself up for auction after it turned down an all-stock offer from Energy Transfer Equity LP (ETE).",0.4108984172344208,0.31101056933403015,0.2780909538269043,positive,0.09988784790039062
+37,2015-08-18 06:02:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+38,2015-08-18 06:02:00,"3,ZU: Shares of online retailer zulily Inc. (Nasdaq: ZU) surged more than 48% yesterday on news that Liberty Media Corp. 's (Nasdaq: LMCA) shopping network QVC announced plans to purchase the company for $2.4 billion in cash and stock.",0.93238765001297,0.022927461192011833,0.04468485713005066,positive,0.909460186958313
+39,2015-08-18 06:02:00,"Despite the surge in today's stock, the company's shares are still down 55% over the last 52 weeks, and its deal value is less than half of its $5 billion valuation during its IPO in November 2013.",0.01756865344941616,0.9671440720558167,0.01528728473931551,negative,-0.9495754241943359
+40,2015-08-18 06:02:00,"• Productivity and Costs at 8:30 a.m.
+
+What Investors Must Know This Week
+• Why We're Still Bullish on Apple Stock (Nasdaq: AAPL)
+• The Best Way to Add Gold to Your Portfolio Today
+• The 4 Real Reasons Oil Prices Are Slipping - and How to Profit
+
+To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.13487830758094788,0.010273170657455921,0.8548485040664673,neutral,0.12460513412952423
+41,2015-08-18 06:02:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+42,2015-08-18 06:02:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+43,2015-08-18 06:02:00,Disclaimer: © 2015 Money Morning and Money Map Press.,0.013070347718894482,0.010420763865113258,0.9765089154243469,neutral,0.0026495838537812233
+44,2015-08-18 06:02:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+45,2015-08-18 06:02:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+46,2015-08-18 06:02:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+47,2015-08-18 06:02:00,"16 W. Madison St. Baltimore, MD, 21201.",0.04034261777997017,0.013275643810629845,0.9463818073272705,neutral,0.027066973969340324
+48,2015-08-18 06:02:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

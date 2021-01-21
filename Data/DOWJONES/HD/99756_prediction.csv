@@ -1,0 +1,26 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-21 01:35:00,"Office Depot, Inc .",0.016199203208088875,0.012142828665673733,0.9716579914093018,neutral,0.004056374542415142
+1,2014-10-21 01:35:00,( ODP ) became one of the first retailers to start accepting Apple Pay following its launch on Oct 20 across the U.S. Apple Inc's.,0.5157402753829956,0.01180579699575901,0.4724539816379547,positive,0.5039345026016235
+2,2014-10-21 01:35:00,( AAPL ) Apple Pay is a mobile payment application available on the recently launched iPhone 6 and iPhone 6 plus and soon-to-be launched Apple Watch.,0.060221508145332336,0.005542307160794735,0.9342362284660339,neutral,0.05467920005321503
+3,2014-10-21 01:35:00,"Further, Office Depot plans to integrate Apple Pay into its iOS app in 2015.",0.4886380732059479,0.008991698734462261,0.5023702383041382,neutral,0.47964638471603394
+4,2014-10-21 01:35:00,"This will facilitate one-touch payment of in-app purchases on iPhone 6, iPhone 6 Plus, iPad Air 2 and iPad mini 3.",0.1023421362042427,0.005074760410934687,0.8925831317901611,neutral,0.09726737439632416
+5,2014-10-21 01:35:00,The acceptance of Apple Pay will enrich the shopping experience of customers as it makes purchases hassle free and a secure affair.,0.7899034023284912,0.012070690281689167,0.19802600145339966,positive,0.7778326869010925
+6,2014-10-21 01:35:00,"In addition to Office Depot and Apple stores, Apple pay will be used by over 220,000 retail stores that include Macy's Inc. ( M ), Panera Bread Company ( PNRA ), Aeropostale, Inc. ( ARO ), American Eagle Outfitters, Inc. ( AEO ), Bloomingdale's and Whole Foods Market, Inc. ( WFM ).",0.016985788941383362,0.0060607679188251495,0.9769534468650818,neutral,0.010925021022558212
+7,2014-10-21 01:35:00,Apple Pay expects more retail collaborators going ahead.,0.5470091104507446,0.016015641391277313,0.43697530031204224,positive,0.5309934616088867
+8,2014-10-21 01:35:00,Apple Pay does not store credit/debit card data.,0.008357325568795204,0.03565468266606331,0.9559879899024963,neutral,-0.027297357097268105
+9,2014-10-21 01:35:00,"Instead, after linking a credit/debit card, it generates a unique Device Account Number that is encrypted and safely stored in the 'Secure Element' of the cellular device.",0.04210824891924858,0.007623865269124508,0.9502679109573364,neutral,0.0344843827188015
+10,2014-10-21 01:35:00,"Then, while making payments; it generates a one-time password, and does not use the security code mentioned on the card.",0.0092793432995677,0.02007814683020115,0.9706425070762634,neutral,-0.01079880353063345
+11,2014-10-21 01:35:00,This makes the whole payment mechanism very secure as no information of the cardholder is stored either with Apple Pay or with the other party.,0.05409056693315506,0.006946710404008627,0.9389626979827881,neutral,0.047143857926130295
+12,2014-10-21 01:35:00,"This seems a very powerful technological advancement, especially in the light of massive security breaches at retailers like Target Corp. ( TGT ) and Home Depot Inc. ( HD ).",0.8850816488265991,0.015218217857182026,0.0997001975774765,positive,0.8698634505271912
+13,2014-10-21 01:35:00,"Recently, Staples, Inc. ( SPLS ) also raised concerns regarding a potential security breach of its database.",0.026230812072753906,0.9572224020957947,0.016546819359064102,negative,-0.9309915900230408
+14,2014-10-21 01:35:00,"However, some experts are of the opinion that it is too early to brand Apple Pay as a completely safe application.",0.1982492357492447,0.0655161663889885,0.7362346053123474,neutral,0.1327330768108368
+15,2014-10-21 01:35:00,They conclude that only a glitch free sustained usage can eliminate the possibilities of kinks in the security.,0.09350984543561935,0.7515644431114197,0.15492573380470276,negative,-0.6580545902252197
+16,2014-10-21 01:35:00,"Til then, they maintain a cautious stance.",0.09114386886358261,0.019966352730989456,0.888889729976654,neutral,0.07117751240730286
+17,2014-10-21 01:35:00,"Nevertheless, with the launch of Apple Pay, Apple seeks to revolutionize mobile payment systems.",0.7430071830749512,0.013840018771588802,0.24315281212329865,positive,0.7291671633720398
+18,2014-10-21 01:35:00,"Moreover, if this app works out it is likely to trigger a war in the mobile payment apps arena as other technological giants, including Google Inc. ( GOOGL ), are already eyeing this lucrative opportunity.",0.5576032400131226,0.14564922451972961,0.29674750566482544,positive,0.41195401549339294
+19,2014-10-21 01:35:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+20,2014-10-21 01:35:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+21,2014-10-21 01:35:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+22,2014-10-21 01:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

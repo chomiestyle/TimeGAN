@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-05 02:30:00,"Many retailers have seen their businesses decimated in recent years, as the relentless rise of e-commerce has disrupted the traditional brick-and-mortar retail industry.",0.02070222795009613,0.960508406162262,0.018789397552609444,negative,-0.9398061633110046
+1,2018-03-05 02:30:00,Yet a select few retailers have bucked the trend.,0.6248854398727417,0.03164508193731308,0.3434695303440094,positive,0.5932403802871704
+2,2018-03-05 02:30:00,"Home Depot (NYSE: HD) is certainly among them , and Target (NYSE: TGT) also appears to have regained its footing in recent months.",0.8113476634025574,0.015785403549671173,0.17286695539951324,positive,0.7955622673034668
+3,2018-03-05 02:30:00,But which of these retail giants is the better buy today?,0.2141125649213791,0.03425560146570206,0.7516317963600159,neutral,0.17985695600509644
+4,2018-03-05 02:30:00,Let's find out.,0.08110534399747849,0.011257982812821865,0.9076367020606995,neutral,0.06984736025333405
+5,2018-03-05 02:30:00,Home Depot's economic moat is derived in part from its focus on large and heavy building materials that are difficult and expensive to ship.,0.045205868780612946,0.008920487947762012,0.9458736181259155,neutral,0.03628538176417351
+6,2018-03-05 02:30:00,This has helped to insulate it from the threat of e-commerce.,0.8136296272277832,0.022133922204375267,0.1642364114522934,positive,0.791495680809021
+7,2018-03-05 02:30:00,"Moreover, its exclusive products and ability to attract professional customers such as contractors help to further strengthen its competitive position.",0.9465540647506714,0.015131414867937565,0.038314495235681534,positive,0.9314226508140564
+8,2018-03-05 02:30:00,"Target's competitive strategy has been to offer a more pleasant shopping experience than heavy discounters such as Walmart , with a large selection of comparably priced -- albeit slightly more expensive -- goods.",0.5175305604934692,0.01906941458582878,0.4634000360965729,positive,0.49846115708351135
+9,2018-03-05 02:30:00,It's a formula that's resonated well with higher-income shoppers.,0.5767634510993958,0.012283827178180218,0.41095274686813354,positive,0.564479649066925
+10,2018-03-05 02:30:00,"However, with more and more people choosing the convenience of shopping from home combined with fast and often free delivery, e-commerce king Amazon.com (NASDAQ: AMZN) is steadily taking share in this important segment.",0.769787609577179,0.016560012474656105,0.21365244686603546,positive,0.7532275915145874
+11,2018-03-05 02:30:00,"In addition, Amazon's recent acquisition of Whole Foods makes it an even bigger threat to Target's large grocery business.",0.049071088433265686,0.8967690467834473,0.05415986105799675,negative,-0.8476979732513428
+12,2018-03-05 02:30:00,"For these reasons, I'd argue that Home Depot has the wider economic moat than Target.",0.059465955942869186,0.011749659664928913,0.9287844300270081,neutral,0.04771629720926285
+13,2018-03-05 02:30:00,Let's now take a look at how these retailers stack up with regard to financial strength.,0.023995686322450638,0.00737414788454771,0.9686301350593567,neutral,0.016621537506580353
+14,2018-03-05 02:30:00,"Home Depot may have more debt than Target, but it also generates substantially more operating profits and free cash flow.",0.48818692564964294,0.01688457280397415,0.49492859840393066,neutral,0.4713023602962494
+15,2018-03-05 02:30:00,"That's important because ultimately, it's a company's cash profits that allow it to invest in growth initiatives and pay dividends to shareholders.",0.48714321851730347,0.008777331560850143,0.5040794610977173,neutral,0.4783658981323242
+16,2018-03-05 02:30:00,So I'll give the edge to Home Depot here.,0.09681764245033264,0.010954991914331913,0.8922273516654968,neutral,0.0858626514673233
+17,2018-03-05 02:30:00,"Target's earnings per share (EPS) are projected to fall by about 1% annually over the next five years, with the retailer expected to continue to struggle with tepid sales growth and rising costs .",0.015374608337879181,0.9711030721664429,0.013522284105420113,negative,-0.9557284712791443
+18,2018-03-05 02:30:00,"Home Depot, meanwhile, is forecasted to grow its EPS by more than 14% annually during this same time, fueled by its e-commerce and "" interconnected retail "" initiatives.",0.9528249502182007,0.017217054963111877,0.029957927763462067,positive,0.93560791015625
+19,2018-03-05 02:30:00,"As such, Home Depot has a clear edge in terms of expected earnings growth over the next half-decade.",0.9234384298324585,0.013773435726761818,0.06278819590806961,positive,0.9096649885177612
+20,2018-03-05 02:30:00,No better-buy discussion should take place without a look at valuation.,0.04294119030237198,0.07265805453062057,0.8844007253646851,neutral,-0.029716864228248596
+21,2018-03-05 02:30:00,"Let's check out some key value metrics for these two retailers, including price-to-earnings, price-to-sales, and price-to-free-cash-flow ratios.",0.05285162478685379,0.0054865130223333836,0.9416618347167969,neutral,0.047365110367536545
+22,2018-03-05 02:30:00,"On all four metrics, Target's shares are significantly less expensive than Home Depot's.",0.048577576875686646,0.5890476703643799,0.36237475275993347,negative,-0.5404701232910156
+23,2018-03-05 02:30:00,"That's to be expected, considering Home Depot's higher projected growth rates.",0.6156691908836365,0.018653705716133118,0.3656771183013916,positive,0.5970155000686646
+24,2018-03-05 02:30:00,"Still, at current prices, Target's shares are more attractively priced.",0.7635850310325623,0.01798401214182377,0.21843096613883972,positive,0.7456009984016418
+25,2018-03-05 02:30:00,"The better buy is...
+
+Target's stock may be cheaper, but Home Depot's stronger competitive advantages, cash flow generation, and growth prospects make it the better buy today.",0.8949639201164246,0.023660147562623024,0.0813758373260498,positive,0.8713037967681885
+26,2018-03-05 02:30:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+27,2018-03-05 02:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+28,2018-03-05 02:30:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+29,2018-03-05 02:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+30,2018-03-05 02:30:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+31,2018-03-05 02:30:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+32,2018-03-05 02:30:00,Joe Tenebruso has no position in any of the stocks mentioned.,0.009518484584987164,0.049896471202373505,0.9405850768089294,neutral,-0.040377985686063766
+33,2018-03-05 02:30:00,The Motley Fool owns shares of and recommends Amazon.,0.05119821056723595,0.03092995285987854,0.9178718328475952,neutral,0.020268257707357407
+34,2018-03-05 02:30:00,The Motley Fool has the following options: short May 2018 $175 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.012950422242283821,0.029934365302324295,0.9571152329444885,neutral,-0.016983943060040474
+35,2018-03-05 02:30:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+36,2018-03-05 02:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2018-03-05 02:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

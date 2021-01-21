@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-01 05:18:00,Artificial intelligence (AI) is all the rage.,0.03588322922587395,0.02233881689608097,0.9417778849601746,neutral,0.013544412329792976
+1,2017-10-01 05:18:00,It seems as if every big company is racing to figure out how to harness AI for their benefit.,0.1764601618051529,0.013320145197212696,0.8102197051048279,neutral,0.16314001381397247
+2,2017-10-01 05:18:00,"And for good reason: AI holds the promise to radically change how products are designed, manufactured, and sold.",0.49687185883522034,0.010853896848857403,0.4922742545604706,positive,0.48601797223091125
+3,2017-10-01 05:18:00,But there's another related technology that could be even more important over the next couple of decades: intelligence augmentation (IA).,0.15730105340480804,0.007061925251036882,0.8356369733810425,neutral,0.15023912489414215
+4,2017-10-01 05:18:00,It's quite possible that IA makes more money for investors putting money in the market today than AI does -- at least over the next decade or so.,0.13867484033107758,0.006831242237240076,0.8544939160346985,neutral,0.13184359669685364
+5,2017-10-01 05:18:00,Here's what you need to know about this AI sibling.,0.025574959814548492,0.012317007407546043,0.9621080160140991,neutral,0.013257952407002449
+6,2017-10-01 05:18:00,"""Artificial intelligence"" is the term used to refer to machines that can perform tasks normally requiring human intelligence.",0.028691427782177925,0.019102206453680992,0.9522064328193665,neutral,0.009589221328496933
+7,2017-10-01 05:18:00,"You'll sometimes also hear references to machine learning and deep learning , both of which apply to specific AI algorithms that enable computer systems to learn from data and make categorizations or predictions from other data.",0.03494845703244209,0.02902921289205551,0.9360223412513733,neutral,0.005919244140386581
+8,2017-10-01 05:18:00,Intelligence augmentation broadly refers to the use of information technology to enhance human intelligence.,0.06711897999048233,0.0049934713169932365,0.927887499332428,neutral,0.06212550774216652
+9,2017-10-01 05:18:00,"Today, though, IA has become to commonly be used to emphasize the potential for AI to assist humans in performing tasks rather than completely replace them.",0.12749919295310974,0.01478987094014883,0.8577109575271606,neutral,0.11270932108163834
+10,2017-10-01 05:18:00,"You might think of IA as a kinder, gentler form of AI that is going to try to help you in your job, rather than take away your job.",0.31435132026672363,0.022197777405381203,0.6634508967399597,neutral,0.292153537273407
+11,2017-10-01 05:18:00,"IA technologies can help increase the productivity of workers and take care of those boring, repetitive tasks that most people don't like to do.",0.6360976696014404,0.020452408120036125,0.3434499502182007,positive,0.6156452894210815
+12,2017-10-01 05:18:00,We don't have to look far to find existing uses of IA.,0.031504660844802856,0.007074829190969467,0.961420476436615,neutral,0.02442983165383339
+13,2017-10-01 05:18:00,Tesla 's (NASDAQ: TSLA) autonomous-car technology doesn't completely replace a human driver.,0.03952626511454582,0.04394318535923958,0.9165305495262146,neutral,-0.004416920244693756
+14,2017-10-01 05:18:00,"Instead, the technology uses AI to take over from the driver.",0.04900263249874115,0.016773050650954247,0.9342243671417236,neutral,0.032229579985141754
+15,2017-10-01 05:18:00,"If the AI system encounters a situation it can't handle effectively, it gives control of the car back to the person in the driver's seat.",0.027752311900258064,0.24585972726345062,0.7263879179954529,neutral,-0.2181074172258377
+16,2017-10-01 05:18:00,That's a textbook example of IA in action.,0.17699435353279114,0.07445742934942245,0.7485482096672058,neutral,0.10253692418336868
+17,2017-10-01 05:18:00,"IBM (NYSE: IBM) embraces the concept of IA and refers to its efforts as ""cognitive computing.""",0.07086028903722763,0.004721374250948429,0.9244183301925659,neutral,0.06613891571760178
+18,2017-10-01 05:18:00,"The technology giant says it focuses ""on building practical AI applications that assist people with well-defined tasks,"" as opposed to attempting to replicate human intelligence.",0.1028510183095932,0.007338257506489754,0.8898107409477234,neutral,0.0955127626657486
+19,2017-10-01 05:18:00,Probably the best example of IBM's IA efforts is Watson.,0.2065538465976715,0.011882835999131203,0.7815632820129395,neutral,0.19467100501060486
+20,2017-10-01 05:18:00,A good example of how Watson augments human intelligence is in drug discovery.,0.06789373606443405,0.008236387744545937,0.9238698482513428,neutral,0.059657350182533264
+21,2017-10-01 05:18:00,"Last year, IBM worked with Barrow Neurological Institute to identify RNA-binding proteins (RBPs) that are linked to amyotrophic lateral sclerosis (ALS).",0.4489062428474426,0.0122471759095788,0.5388466119766235,neutral,0.4366590678691864
+22,2017-10-01 05:18:00,Watson was used to analyze abstracts published before 2012 so that it could learn text patterns of known RBPs linked to ALS.,0.05908931791782379,0.008912722580134869,0.9319979548454285,neutral,0.05017659440636635
+23,2017-10-01 05:18:00,It then used what it learned to evaluate a set of proteins that had been discovered to be related to ALS after 2012.,0.14657579362392426,0.007913792505860329,0.8455104231834412,neutral,0.13866199553012848
+24,2017-10-01 05:18:00,Watson identified all three of them -- plus five new RBPs that had not been previously linked to ALS.,0.058389801532030106,0.014102094806730747,0.9275081157684326,neutral,0.04428770765662193
+25,2017-10-01 05:18:00,This bodes well for use of IBM's IA technology in helping speed up drug discovery.,0.7176882028579712,0.012534938752651215,0.2697769105434418,positive,0.7051532864570618
+26,2017-10-01 05:18:00,Another potential application for IA is in education.,0.05785581097006798,0.008774349465966225,0.9333698153495789,neutral,0.049081459641456604
+27,2017-10-01 05:18:00,Online learning programs already use natural language processing -- the ability of a computer to understand human speech -- and machine learning to enable college instructors to teach more students while still addressing individual students' specific learning needs and styles.,0.2117798626422882,0.009948896244168282,0.7782711982727051,neutral,0.20183096826076508
+28,2017-10-01 05:18:00,These are just a few potential applications for IA.,0.02032267488539219,0.008560752496123314,0.9711166024208069,neutral,0.011761922389268875
+29,2017-10-01 05:18:00,Nearly every industry could benefit from the technology.,0.4977710545063019,0.010978031903505325,0.4912509024143219,positive,0.48679301142692566
+30,2017-10-01 05:18:00,"According to CB Insights , over 550 start-ups with AI-focused products raised $5 billion in capital last year.",0.6843240261077881,0.011507049202919006,0.3041689693927765,positive,0.6728169918060303
+31,2017-10-01 05:18:00,I suspect that many of those products actually fit into the IA category.,0.06184309348464012,0.005366216879338026,0.9327906966209412,neutral,0.05647687613964081
+32,2017-10-01 05:18:00,"However, these start-ups don't yet present opportunities for average investors.",0.060448333621025085,0.012764198705554008,0.9267874360084534,neutral,0.04768413305282593
+33,2017-10-01 05:18:00,We have already identified two IA investing alternatives that you could buy: Tesla and IBM.,0.11420061439275742,0.005346993915736675,0.8804523944854736,neutral,0.10885362327098846
+34,2017-10-01 05:18:00,Both companies are actively working on IA-related initiatives.,0.5292320847511292,0.010607277043163776,0.46016064286231995,positive,0.5186247825622559
+35,2017-10-01 05:18:00,"They present dramatically different choices, though.",0.0934654101729393,0.03324662148952484,0.8732879757881165,neutral,0.06021878868341446
+36,2017-10-01 05:18:00,"Tesla stock is up big this year, while IBM's share price has fallen.",0.031470030546188354,0.9362030625343323,0.03232688456773758,negative,-0.9047330617904663
+37,2017-10-01 05:18:00,Tesla is losing money but is growing sales; IBM is making a profit but sales are declining .,0.029515082016587257,0.8956456184387207,0.07483924925327301,negative,-0.866130530834198
+38,2017-10-01 05:18:00,"Still, both stocks could be solid long-term winners in IA.",0.9118455648422241,0.02528323046863079,0.0628713071346283,positive,0.8865623474121094
+39,2017-10-01 05:18:00,Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is another company that focuses heavily on IA.,0.01952139288187027,0.006598613224923611,0.9738799929618835,neutral,0.012922779656946659
+40,2017-10-01 05:18:00,"There's a good chance you have already benefited from some of the company's IA initiatives in Google's maps, speech recognition, Gmail, and other apps.",0.8577092289924622,0.013100848533213139,0.12918992340564728,positive,0.8446083664894104
+41,2017-10-01 05:18:00,"What's great about Alphabet is that, unlike Tesla, it's very profitable.",0.25374636054039,0.0071199433878064156,0.7391337156295776,neutral,0.24662642180919647
+42,2017-10-01 05:18:00,"And unlike IBM, sales are soaring.",0.9124293327331543,0.017463525757193565,0.070107102394104,positive,0.8949658274650574
+43,2017-10-01 05:18:00,One of the best practical users of IA right now is salesforce.com (NYSE: CRM) .,0.0644695982336998,0.009474338963627815,0.9260560870170593,neutral,0.05499526113271713
+44,2017-10-01 05:18:00,The company's Einstein Intelligence module can help organize leads based on how likely they are to close.,0.031896404922008514,0.006857962813228369,0.9612456560134888,neutral,0.02503844164311886
+45,2017-10-01 05:18:00,"Salesforce projects that AI could create 800,000 net new jobs by 2021.",0.8123412132263184,0.03373352810740471,0.15392526984214783,positive,0.7786076664924622
+46,2017-10-01 05:18:00,"As we've seen, AI that creates jobs rather than replaces them fits squarely in the IA realm.",0.06248319149017334,0.009852973744273186,0.9276638031005859,neutral,0.052630215883255005
+47,2017-10-01 05:18:00,"While Salesforce stock is pricey, the company is expected to grow earnings by nearly 30% annually over the next five years.",0.9520420432090759,0.016970356926321983,0.030987553298473358,positive,0.9350717067718506
+48,2017-10-01 05:18:00,Many other stocks typically associated with AI could also be IA plays.,0.02771996520459652,0.09676561504602432,0.8755143880844116,neutral,-0.06904564797878265
+49,2017-10-01 05:18:00,"While most of the companies probably don't use the IA term, what they're doing certainly fits the IA definition.",0.06081797555088997,0.007851406000554562,0.931330680847168,neutral,0.05296656861901283
+50,2017-10-01 05:18:00,Artificial intelligence could realistically replace a lot of humans in various industries over the coming decades.,0.23005680739879608,0.009490289725363255,0.760452926158905,neutral,0.2205665111541748
+51,2017-10-01 05:18:00,"However, intelligence augmentation is already enhancing humans' ability to do their jobs.",0.8893853425979614,0.01830412819981575,0.09231054037809372,positive,0.8710812330245972
+52,2017-10-01 05:18:00,There could be a lot more IA-flavored AI products in the medium term -- and smart investors could make a lot of money from them.,0.27836868166923523,0.009257984347641468,0.7123733758926392,neutral,0.26911070942878723
+53,2017-10-01 05:18:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+54,2017-10-01 05:18:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+55,2017-10-01 05:18:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+56,2017-10-01 05:18:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+57,2017-10-01 05:18:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+58,2017-10-01 05:18:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+59,2017-10-01 05:18:00,Keith Speights owns shares of Alphabet (A shares).,0.01355716586112976,0.010135064832866192,0.97630774974823,neutral,0.003422101028263569
+60,2017-10-01 05:18:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), and Tesla.",0.022598357871174812,0.007967490702867508,0.9694342017173767,neutral,0.014630867168307304
+61,2017-10-01 05:18:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+62,2017-10-01 05:18:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+63,2017-10-01 05:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

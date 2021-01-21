@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-20 04:20:00,"U.S. equities fell hard on Monday - in fact, it was the worst start to the week since the June 2015 - amid sharp selling pressure in big-cap tech stocks.",0.023001156747341156,0.9674302339553833,0.009568566456437111,negative,-0.9444290995597839
+1,2018-03-20 04:20:00,"These were the ""safe havens"" in the weeks since the February panic, and they were the site of massive inflows as investors chased the relative outperformance seen in stocks like Amazon.com, Inc. (NASDAQ: AMZN ) and Facebook Inc (NASDAQ: FB ).",0.3874002993106842,0.37358608841896057,0.2390136420726776,positive,0.013814210891723633
+2,2018-03-20 04:20:00,"In the end, the Dow Jones Industrial Average lost 1.4%, the S&P 500 lost 1.4%, the Nasdaq Composite lost 1.8%, and the Russell 2000 lost 1%.",0.01918555051088333,0.9691987633705139,0.011615641415119171,negative,-0.9500132203102112
+3,2018-03-20 04:20:00,"Gold fell, crude oil gained a touch, and the dollar was mixed.",0.16365888714790344,0.7233012318611145,0.11303988099098206,negative,-0.5596423149108887
+4,2018-03-20 04:20:00,Treasury bonds were unchanged.,0.03412913531064987,0.015354979783296585,0.9505159258842468,neutral,0.018774155527353287
+5,2018-03-20 04:20:00,"Tech stocks overall lost 2.1% followed by energy, down 1.7%.",0.018513914197683334,0.9668457508087158,0.01464028749614954,negative,-0.9483318328857422
+6,2018-03-20 04:20:00,"Fundamentally, lots of headwinds are in play.",0.0507705882191658,0.19149930775165558,0.7577301263809204,neutral,-0.14072871208190918
+7,2018-03-20 04:20:00,"The tech sector is ripe for a revaluation of fortunes from higher taxes, higher regulation or increased competition.",0.7386513948440552,0.029530178755521774,0.23181848227977753,positive,0.7091212272644043
+8,2018-03-20 04:20:00,The Federal Reserve is going to raise interest rates again on Wednesday.,0.32442596554756165,0.05981165170669556,0.6157624125480652,neutral,0.2646143138408661
+9,2018-03-20 04:20:00,The Donald Trump Administration is heading for a showdown with Robert Mueller and his Russia investigation as another budget deadline looms.,0.18799112737178802,0.4540676772594452,0.35794124007225037,negative,-0.26607656478881836
+10,2018-03-20 04:20:00,"And all the while, the red-hot labor market is raising the specter of wage-push inflation.",0.2544385492801666,0.36092063784599304,0.3846408426761627,neutral,-0.10648208856582642
+11,2018-03-20 04:20:00,Buckle up.,0.08779208362102509,0.01987592875957489,0.8923320174217224,neutral,0.0679161548614502
+12,2018-03-20 04:20:00,Volatility is set to return.,0.8829928636550903,0.016529429703950882,0.10047769546508789,positive,0.8664634227752686
+13,2018-03-20 04:20:00,"Here are three tickers to watch on Tuesday:
+
+On a technical basis, the big news was that the Dow seems to have violated a very tight wedge pattern with a downside break - setting the stage for a test of the early February lows in the PowerShares QQQ Trust (NASDAQ: QQQ ).",0.3161916136741638,0.5669494867324829,0.11685897409915924,negative,-0.2507578730583191
+14,2018-03-20 04:20:00,"Followed by the ""abandoned baby"" or island pattern on the Nasdaq, with its gapped push to new highs on March 9 mirrored by today's gapped move lower.",0.6935304999351501,0.1492123007774353,0.1572571098804474,positive,0.5443181991577148
+15,2018-03-20 04:20:00,This was the pattern seen at the very top of the dot-com bubble … and stocks were 32% lower two months later.,0.022417739033699036,0.9417204260826111,0.03586182743310928,negative,-0.9193027019500732
+16,2018-03-20 04:20:00,"FB shares closed just two cents above their 200-day moving average, a level that hasn't been violated since January 2017 and has only hit those prices for a handful of days since the company IPO'd in 2012.",0.14912107586860657,0.7924266457557678,0.05845220759510994,negative,-0.6433055400848389
+17,2018-03-20 04:20:00,"Shares are now back to levels first reached last summer as the stock has faced down a number of negative headlines including charges of political weaponization and now, the departure of its chief security officer.",0.39343908429145813,0.4868374764919281,0.11972342431545258,negative,-0.09339839220046997
+18,2018-03-20 04:20:00,"When the company last reported results on Jan. 21, earnings of $2.21 per share beat estimates by 24 cents on a 47.3% rise in revenues.",0.9474658966064453,0.03268181160092354,0.019852284342050552,positive,0.9147840738296509
+19,2018-03-20 04:20:00,The company will next report on May 2 after the close.,0.00990565400570631,0.012406334280967712,0.9776880145072937,neutral,-0.002500680275261402
+20,2018-03-20 04:20:00,Analysts are looking for earnings of $1.35 per share on revenues of $11.4 billion.,0.08065691590309143,0.014607463963329792,0.9047355651855469,neutral,0.06604944914579391
+21,2018-03-20 04:20:00,"While all the focus is on the tech stocks, the plight of General Electric Company (NYSE: GE ) pretty much summarizes the pressure many industrial stocks such as Home Depot Inc (NYSE: HD ) and Caterpillar Inc. (NYSE: CAT ) have been under lately.",0.027277318760752678,0.41289517283439636,0.559827446937561,neutral,-0.38561785221099854
+22,2018-03-20 04:20:00,"GE has been hit with disappointment with its new management, poorly timed bets on energy, and its uninspired turnaround plans.",0.021357489749789238,0.9650196433067322,0.013622851110994816,negative,-0.943662166595459
+23,2018-03-20 04:20:00,"A break below the two-month trading range would be catastrophic, setting up a return to the late 2011 lows.",0.30683809518814087,0.5736405849456787,0.11952129006385803,negative,-0.26680248975753784
+24,2018-03-20 04:20:00,The company will next report results on April 20 before the bell.,0.014373891986906528,0.009438524954020977,0.976187527179718,neutral,0.0049353670328855515
+25,2018-03-20 04:20:00,Analysts are looking for earnings of 12 cents per share on revenues of $27.5 billion.,0.14783591032028198,0.014122456312179565,0.8380416035652161,neutral,0.13371345400810242
+26,2018-03-20 04:20:00,"When the company last reported on Jan. 24, earnings of 27 cents per share missed estimates by a penny on a 5.1% decline in revenues.",0.020257845520973206,0.9710666537284851,0.008675528690218925,negative,-0.9508088231086731
+27,2018-03-20 04:20:00,Check out Serge Berger's Trade of the Day for March 20.,0.019220886752009392,0.01813501864671707,0.962644100189209,neutral,0.0010858681052923203
+28,2018-03-20 04:20:00,"To see a list of the companies reporting earnings today, click here .",0.014546800404787064,0.017688948661088943,0.9677643179893494,neutral,-0.00314214825630188
+29,2018-03-20 04:20:00,"For a list of this week's economic reports due out, click here .",0.027637025341391563,0.04756663367152214,0.9247964024543762,neutral,-0.019929608330130577
+30,2018-03-20 04:20:00,Tell us what you think about this article!,0.029382027685642242,0.011061700992286205,0.9595562815666199,neutral,0.018320325762033463
+31,2018-03-20 04:20:00,"Drop us an email ateditor@investorplace.com,chat with us on Twitter at@InvestorPlaceorcomment on the post on Facebook.",0.046804897487163544,0.0937739834189415,0.8594210743904114,neutral,-0.046969085931777954
+32,2018-03-20 04:20:00,Read more about ourcomments policy here.,0.028527598828077316,0.010262719355523586,0.9612097144126892,neutral,0.018264878541231155
+33,2018-03-20 04:20:00,Anthony Mirhaydari is founder of the Edge (ETFs) and Edge Pro (Options) investment advisory newsletters.,0.027615662664175034,0.008342556655406952,0.9640418291091919,neutral,0.01927310600876808
+34,2018-03-20 04:20:00,Free two- and four-week trial offers have been extended to InvestorPlace readers.,0.3558202087879181,0.010618026368319988,0.6335617303848267,neutral,0.34520217776298523
+35,2018-03-20 04:20:00,"• 10 Dividend Aristocrats You Never Have to Worry About
+• The 10 Best Stocks to Invest In Right Now
+
+The post Battered Facebook Inc Drags Down the Nasdaq Composite appeared first on InvestorPlace .",0.12697352468967438,0.08569768071174622,0.7873287796974182,neutral,0.04127584397792816
+36,2018-03-20 04:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-20 10:03:00,"Wall Street's main indexes rose on Tuesday as investors hoped for more stimulus from Washington, with Senate Republicans preparing to vote on a bill to help small businesses hammered by the COVID-19 pandemic.",0.83921879529953,0.06666740030050278,0.09411375224590302,positive,0.772551417350769
+1,2020-10-20 10:03:00,".N
+
+At 12:16 ET, the Dow Jones Industrial Average .DJI was up 0.68% at 28,386.19.",0.9036447405815125,0.037249911576509476,0.05910532921552658,positive,0.8663948178291321
+2,2020-10-20 10:03:00,"The S&P 500 .SPX was up 0.68% at 3,450.29 and the Nasdaq Composite .IXIC was up 0.54% at 11,541.126.",0.907164990901947,0.03308366239070892,0.05975133553147316,positive,0.8740813136100769
+3,2020-10-20 10:03:00,"The top three S&P 500 .PG.INX percentage gainers: ** Comerica Inc <CMA.N>, up 6.9% ** General Motors <GM.N>, up 6.4% ** Pentair Plc <PNR.N>, up 5.7% The top three S&P 500 .PL.INX percentage losers: ** International Business Machines Corp <IBM.N>, down 5.8% ** Pioneer Natural Resources Co <PXD.N>, down 5.4% ** Synchrony Financial <SYF.N>, down 5.1% The top three NYSE .PG.N percentage gainers: ** Weidai Ltd <WEI.N>, up 292% ** Natuzzi Spa <NTZ.N>, up 26.1% ** JinkoSolar Holding Co Ltd <JKS.N>, up 12.7% The top three NYSE .PL.N percentage losers: ** Renren Inc <RENN.N>, down 14.1% ** Navios Maritime Holdings Inc <NM.N>, down 10.7% ** AMC Entertainment Holdings Inc <AMC.N>, down 9.9% The top three Nasdaq .PG.O percentage gainers: ** Cleveland BioLabs Inc <CBLI.O>, up 71.9% ** Aptinyx Inc <APTX.O>, up 28.7% ** VOXX International Corp <VOXX.O>, up 23.1% The top three Nasdaq .PL.O percentage losers: ** Kaixin Auto Holdings <KXIN.O>, down 38.7% ** Brainstorm Cell Therapeutics Inc <BCLI.O>, down 21.3% ** Nano Dimension Ltd <NNDM.O>, down 19.7% ** Emcore Corp EMKR.O: up 7.9%
+
+BUZZ-Emcore Corp: Soars as it expects Q4 rev to exceed estimates ** Globus Maritime Ltd GLBS.O: down 36.8%
+
+BUZZ-BancorpSouth rises as Q3 profit tops estimates ** Aptinyx Inc APTX.O: up 28.7%
+
+BUZZ-Aptinyx: Surges on positive results from PTSD therapy study ** Acorda Therapeutics Inc ACOR.O: up 47.8%
+
+BUZZ-Acorda jumps as co entitled to milestone payment from Biogen International
+
+BUZZ-Hexcel: Down on surprise quarterly loss as COVID-19 hits demand ** International Business Machines Corp IBM.N: down 5.8%
+
+BUZZ-IBM falls after co issues no forecast on COVID-19 uncertainty ** Travelers Co Inc TRV.N: up 4.2%
+
+BUZZ-Travelers Companies Inc: Rises on Q3 profit beat ** Moderna Inc MRNA.O: up 2.0%
+
+BUZZ-Moderna: Up on emergency use approval likelihood for COVID-19 vaccine in Dec ** Cleveland BioLabs Inc CBLI.O: up 71.9%
+
+BUZZ-Cleveland BioLabs rises on merger agreement with Cytocom Inc ** Parsley Energy Inc PE.N: up 3.6%
+
+BUZZ-Parsley Energy: Rises on report of Pioneer Natural Resources in takeover talks ** Cara Therapeutics Inc CARA.O: up 3.7%
+
+BUZZ-Cara Therapeutics: Up on license agreement for kidney disease vaccine ** Centogene CNTG.O: up 8.6%
+
+BUZZ-General Motors: Rises on EV investment plans in U.S.; Citi hikes PT ** Isoray Inc ISR.N: down 22.4%
+
+BUZZ-UBS: U.S.-listed shares up on solid Q3 profit beat, buyback hopes ** IQVIA Holdings Inc IQV.N: up 5.7%
+
+BUZZ-IQVIA: Gains on Q3 profit beat, full-year profit forecast raise ** Rayonier Advanced Materials Inc RYAM.N: up 1.0%
+
+BUZZ-Flour: Up on 5-year pipeline maintenance contract in Peru ** AMC Entertainment Holdings Inc AMC.N: down 9.9%
+
+BUZZ-AMC falls after filing to sell up to 15 mln shares ** Synchrony Financial SYF.N: down 5.1%
+
+BUZZ-Synchrony Financial slips on dismal Q3 ** Amphenol Corp APH.N: up 2.0% ** TE Connectivity Ltd TEL.N: up 1.6% ** Sensata Technologies Holding PLC ST.N: up 2.3%
+
+BUZZ-Tech hardware cos: JPM raises PTs on upside from end market recovery ** Albertsons Co Inc ACI.N: up 4.2%
+
+BUZZ-Albertsons: Eyes 2-month high after forecast beat ** Dave & Buster's Entertainment Inc PLAY.O: up 5.7%
+
+BUZZ-Dave & Buster's: Gains after BMO upgrades to 'outperform' ** Purple Innovation Inc PRPL.O: up 3.9%
+
+REFILE-BUZZ-Purple Innovation Inc: Gains after Craig-Hallum raises PT ** Kohl's Corp KSS.N: up 7.6%
+
+BUZZ-Kohl's jumps on active wear push, new athleisure brand ** DraftKings Inc DKNG.O: down 1.7%
+
+BUZZ-Lockheed Martin: Dips on weak 2021 sales outlook ** Philip Morris International Inc PM.N: down 4.1%
+
+BUZZ-Philip Morris slips despite forecast lift; heated tobacco vols disappoint ** Virgin Galactic Holdings Inc SPCE.N: up 5.7%
+
+BUZZ-Whirlpool rises as brokerages raise PT ahead of Q3 results ** JPMorgan Chase & Co JPM.N: up 0.6% ** Citigroup C.N: up 1.5% ** Goldman Sachs GS.N: up 1.8% ** Wells Fargo WFC.N: up 1.3% ** Bank of America BAC.N: up 1.9% ** Morgan Stanley MS.N: up 1.7%
+
+BUZZ-U.S. big banks follow Treasury yields higher on hopes of fresh stimulus ** Pentair Plc PNR.N: up 5.7%",0.916590690612793,0.04526085406541824,0.03814838081598282,positive,0.8713298439979553

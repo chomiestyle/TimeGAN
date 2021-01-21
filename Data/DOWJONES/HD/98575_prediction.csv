@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-11 08:05:00,"The saga of Whole Foods Market, Inc. (NASDAQ: WFM ) has been rather unexpected, to be honest.",0.0655987411737442,0.00854131393134594,0.9258599877357483,neutral,0.05705742537975311
+1,2017-01-11 08:05:00,"For many years, I believed WFM to be the category killer for organic food.",0.39450809359550476,0.010429437272250652,0.5950624346733093,neutral,0.38407865166664124
+2,2017-01-11 08:05:00,"WFM had everything going for it: brand name, decent footprint, secular tailwinds and solid financials.",0.723998486995697,0.013027430512011051,0.2629740536212921,positive,0.7109710574150085
+3,2017-01-11 08:05:00,"Then something happened that I really did not expect, and it blew my conception about WFM out of the water.",0.07609567791223526,0.34642860293388367,0.5774757266044617,neutral,-0.270332932472229
+4,2017-01-11 08:05:00,The thing about category killers is that they are massive one-stop shops for what are effectively commodities.,0.035778630524873734,0.014893448911607265,0.9493279457092285,neutral,0.020885180681943893
+5,2017-01-11 08:05:00,"Home Depot Inc (NYSE: HD ) wiped out the local hardware store because it carries everything at lower prices, which it can obtain via economies of scale.",0.024179603904485703,0.9321748614311218,0.04364561289548874,negative,-0.9079952836036682
+6,2017-01-11 08:05:00,"WFM, however, is not quite the same concept.",0.02056846022605896,0.019581938162446022,0.9598496556282043,neutral,0.000986522063612938
+7,2017-01-11 08:05:00,"At first, and up until recently, it was moving in that direction by opening de novo stores and by rolling up small organic grocery stores.",0.1941090077161789,0.007153018843382597,0.7987379431724548,neutral,0.186955988407135
+8,2017-01-11 08:05:00,"The key point, however, is that WFM was not selling commoditized products.",0.012866566888988018,0.09600065648555756,0.8911327719688416,neutral,-0.08313409239053726
+9,2017-01-11 08:05:00,"It was selling specialized products, which meant it was building itself into the primary supplier of those products - organic and ""responsible"" food.",0.6836142539978027,0.011262484826147556,0.3051232099533081,positive,0.6723517775535583
+10,2017-01-11 08:05:00,"However, in the past couple of years, everyone has gotten into the organics game.",0.06935274600982666,0.018906451761722565,0.911740779876709,neutral,0.050446294248104095
+11,2017-01-11 08:05:00,"Grocers of every stripe, Wal-Mart Stores, Inc. (NYSE: WMT ), and even the dollar stores started selling organics.",0.15626172721385956,0.01011708565056324,0.8336211442947388,neutral,0.14614464342594147
+12,2017-01-11 08:05:00,"• 10 Stocks That Will Hurt Your Retirement, Not Help It
+
+Originally, I thought that this would not present any real competition to WFM.",0.041524600237607956,0.11826787143945694,0.8402074575424194,neutral,-0.07674327492713928
+13,2017-01-11 08:05:00,"My faulty assumption was that the Whole Foods shopper was loyal to Whole Foods, and had no reason to shop anywhere else.",0.041129760444164276,0.3558284342288971,0.6030417680740356,neutral,-0.3146986663341522
+14,2017-01-11 08:05:00,WFM patrons fit a certain upscale demographic.,0.03993398696184158,0.00550455879420042,0.9545614719390869,neutral,0.03442942723631859
+15,2017-01-11 08:05:00,Where I went wrong was that organics have effectively become commoditized.,0.06264650076627731,0.01778218150138855,0.9195712804794312,neutral,0.04486431926488876
+16,2017-01-11 08:05:00,You can find organic chicken and meat and vegetable and fruit in just about any large grocery store.,0.03502091392874718,0.010440497659146786,0.9545385837554932,neutral,0.024580415338277817
+17,2017-01-11 08:05:00,"It doesn't matter if it is ""lower quality"" organic or not compared to WFM.",0.018385203555226326,0.15619449317455292,0.8254203200340271,neutral,-0.13780929148197174
+18,2017-01-11 08:05:00,"The point is that labeling something ""organic"" is evidence enough to the general consumer.",0.06555719673633575,0.04290197789669037,0.8915408849716187,neutral,0.022655218839645386
+19,2017-01-11 08:05:00,"With organics now commoditized, the Whole Foods shopper no longer has loyalty, as we would expect of a commodity business.",0.020720889791846275,0.33325472474098206,0.6460244059562683,neutral,-0.31253382563591003
+20,2017-01-11 08:05:00,"Thus, consumers have bailed on the substantially higher prices of Whole Foods and deign to visit the regular grocery stores more often.",0.7690249681472778,0.1592140942811966,0.07176095992326736,positive,0.6098108887672424
+21,2017-01-11 08:05:00,"The result has led to lower same-store sales, and other struggles for WFM stock.",0.021270692348480225,0.9645929932594299,0.014136378653347492,negative,-0.9433223009109497
+22,2017-01-11 08:05:00,Costs have also gotten more painful for Whole Foods stock.,0.02065020054578781,0.9548323750495911,0.024517452344298363,negative,-0.9341821670532227
+23,2017-01-11 08:05:00,"Even though revenue rose almost 11% from fiscal year 2014 to FY16, operating income fell from $934 million to $857 million, a nearly 300-basis-point drop in gross margins.",0.016602911055088043,0.9745118618011475,0.008885195478796959,negative,-0.9579089283943176
+24,2017-01-11 08:05:00,"Net income fell from $579 million to $507 million, with margins declining almost 200 bps.",0.01667131297290325,0.9736053347587585,0.009723410941660404,negative,-0.9569340348243713
+25,2017-01-11 08:05:00,"The good news is that both operating and free cash flow have remained relatively unchanged, at about $1.1 billion and $800 million, respectively.",0.19139619171619415,0.2813261151313782,0.5272776484489441,neutral,-0.08992992341518402
+26,2017-01-11 08:05:00,"However, the company raised a billion dollars in debt in early 2016, for the worst of all possible reasons: to repurchase shares.",0.12951569259166718,0.15577974915504456,0.7147045135498047,neutral,-0.02626405656337738
+27,2017-01-11 08:05:00,I hate this.,0.14383478462696075,0.37791311740875244,0.4782520532608032,neutral,-0.2340783327817917
+28,2017-01-11 08:05:00,I absolutely hate it.,0.14685791730880737,0.4431093633174896,0.4100327491760254,negative,-0.29625144600868225
+29,2017-01-11 08:05:00,"Instead of figuring out how to grow the business and find traction, Whole Foods is buying WFM stock that is trading at 19.7x FY16 earnings while net income is stagnant or falling.",0.09928286075592041,0.2533981502056122,0.647318959236145,neutral,-0.15411528944969177
+30,2017-01-11 08:05:00,"WFM thus goes from a company with no long-term debt to one with a billion dollars in debt, paying 5% interest and stealing about 10% of profits to service debt.",0.2524987459182739,0.010965541005134583,0.7365357279777527,neutral,0.24153320491313934
+31,2017-01-11 08:05:00,"• Tesla Motors Inc (TSLA) Stock Is Risky, Pricey and Absolutely Right
+
+That's why I don't think you should invest in Whole Foods stock.",0.03650156408548355,0.15563857555389404,0.8078598380088806,neutral,-0.11913701146841049
+32,2017-01-11 08:05:00,"It's no longer an investment with a clear, long-term vision provided by management.",0.024753686040639877,0.008555668406188488,0.9666906595230103,neutral,0.016198016703128815
+33,2017-01-11 08:05:00,So you trade it.,0.07686932384967804,0.01439738180488348,0.9087333083152771,neutral,0.062471941113471985
+34,2017-01-11 08:05:00,"If you look at the one-year chart, you'll see WFM stock has been in a trading range between $28 and $35.",0.04167008027434349,0.056451696902513504,0.9018781781196594,neutral,-0.014781616628170013
+35,2017-01-11 08:05:00,I would say to buy it under $30 and flip it above $33 to be safe.,0.09303968399763107,0.02498297020792961,0.8819773197174072,neutral,0.06805671751499176
+36,2017-01-11 08:05:00,"For more aggressive traders, you could short it above $33 and cover under $30.",0.1309690624475479,0.045399244874715805,0.8236317038536072,neutral,0.08556981384754181
+37,2017-01-11 08:05:00,"In both cases, however, set a 5%-7% stop loss.",0.09646419435739517,0.7913722991943359,0.1121634915471077,negative,-0.694908082485199
+38,2017-01-11 08:05:00,"Lawrence Meyers is the CEO of PDL Capital, and manager of the forthcoming Liberty Portfolio stock newsletter.",0.020456477999687195,0.009572276845574379,0.969971239566803,neutral,0.010884201154112816
+39,2017-01-11 08:05:00,"As of this writing, has no position in any stock mentioned.",0.008229552768170834,0.016836419701576233,0.9749339818954468,neutral,-0.0086068669334054
+40,2017-01-11 08:05:00,"He has 22 years' experience in the stock market, and has written more than 1,600 articles on investing.",0.0551670640707016,0.007404183968901634,0.9374287128448486,neutral,0.047762878239154816
+41,2017-01-11 08:05:00,Lawrence Meyers can be reached at TheLibertyPortfolio@gmail.com.,0.036163315176963806,0.02545534260571003,0.9383813142776489,neutral,0.010707972571253777
+42,2017-01-11 08:05:00,"• 10 Companies That Should Fear Donald Trump's ""America First"" Plans
+• 10 of the Worst Values on Wall Street
+
+The post Whole Foods Market, Inc. (WFM) Stock Not Worth Investing In appeared first on InvestorPlace .",0.1765907108783722,0.4834991693496704,0.339910089969635,negative,-0.3069084584712982
+43,2017-01-11 08:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

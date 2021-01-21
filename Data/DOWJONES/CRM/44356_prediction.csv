@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-06 06:10:00,U.S. stock futures are trading slightly higher this morning.,0.8628068566322327,0.041428375989198685,0.09576469659805298,positive,0.8213784694671631
+1,2019-06-06 06:10:00,"Ahead of the bell, futures on the Dow Jones Industrial Average are up 0.11%, and S&P 500 futures are higher by 0.11%.",0.9001155495643616,0.03425992652773857,0.06562449038028717,positive,0.8658556342124939
+2,2019-06-06 06:10:00,Nasdaq-100 futures have added 0.04%.,0.8392095565795898,0.07795227319002151,0.08283808827400208,positive,0.7612572908401489
+3,2019-06-06 06:10:00,"In the options pits, calls once again ruled the roost even as overall volume fell back toward average levels.",0.04884776100516319,0.9076805710792542,0.04347164183855057,negative,-0.858832836151123
+4,2019-06-06 06:10:00,"Specifically, about 19.2 million calls and 17.6 million puts changed hands on the session.",0.02768813632428646,0.08437132090330124,0.8879405856132507,neutral,-0.05668318271636963
+5,2019-06-06 06:10:00,The action at the CBOE was similar with calls leading the charge.,0.16074174642562866,0.02925856225192547,0.8099997043609619,neutral,0.13148318231105804
+6,2019-06-06 06:10:00,The single-session equity put/call volume ratio fell to 0.64 — a one-week low.,0.018226174637675285,0.9731488227844238,0.008625008165836334,negative,-0.9549226760864258
+7,2019-06-06 06:10:00,"Meanwhile, the 10-day moving average held firm at 0.70.",0.7556959390640259,0.0991610661149025,0.14514298737049103,positive,0.6565348505973816
+8,2019-06-06 06:10:00,Call buyers ran the tables in individual stocks.,0.07974828034639359,0.1829843819141388,0.737267255783081,neutral,-0.10323610156774521
+9,2019-06-06 06:10:00,Salesforce (NYSE:) topped earnings estimates for the first-quarter sending its share price up 5%.,0.9522351622581482,0.02408384159207344,0.02368103340268135,positive,0.9281513094902039
+10,2019-06-06 06:10:00,Cronos Group (NASDAQ:) benefited from a Bank of America (NYSE:) analyst upgrade from underperform to buy.,0.9571171402931213,0.01759101077914238,0.025291807949543,positive,0.9395261406898499
+11,2019-06-06 06:10:00,"Uber (NYSE:) rose to a new record high, finally departing its post-IPO range.",0.9003883004188538,0.03910806030035019,0.06050369516015053,positive,0.8612802624702454
+12,2019-06-06 06:10:00,Salesforce shares were flying high following Tuesday night’s earnings report.,0.9125902652740479,0.03018936701118946,0.057220425456762314,positive,0.8824008703231812
+13,2019-06-06 06:10:00,"For the first quarter, CRM adjusted earnings-per-share of 93 cents on revenue of $3.74 billion.",0.07259845733642578,0.031739071011543274,0.8956624865531921,neutral,0.04085938632488251
+14,2019-06-06 06:10:00,Both measures smashed analysts’ estimates.,0.29081568121910095,0.47175332903862,0.23743106424808502,negative,-0.18093764781951904
+15,2019-06-06 06:10:00,"CRM stock rallied 5%, reclaiming in a single session, all the ground it lost over the past month.",0.9166383743286133,0.04288091883063316,0.04048067703843117,positive,0.8737574815750122
+16,2019-06-06 06:10:00,The jump boosted other marquee software stocks that had recently fallen prey to the selling pressure in the Nasdaq.,0.9298306703567505,0.024050479754805565,0.04611882567405701,positive,0.9057801961898804
+17,2019-06-06 06:10:00,CRM now sits back above its 50-day and 20-day moving averages.,0.19908945262432098,0.7280844449996948,0.07282618433237076,negative,-0.5289949774742126
+18,2019-06-06 06:10:00,"It’s a bullish signal, to be sure, but the stock still sits in the middle of its five-month trading range.",0.32098135352134705,0.26104581356048584,0.4179728031158447,neutral,0.059935539960861206
+19,2019-06-06 06:10:00,It will take a breakout above $167 resistance to kick-off the next up-leg.,0.6440764665603638,0.15694399178028107,0.19897951185703278,positive,0.4871324896812439
+20,2019-06-06 06:10:00,"On the options trading front, traders favored calls over puts.",0.3812369108200073,0.09186547994613647,0.5268976092338562,neutral,0.28937143087387085
+21,2019-06-06 06:10:00,"Activity swelled to 264% of the average daily volume, with 111,495 total contracts traded.",0.89109206199646,0.030781973153352737,0.0781259685754776,positive,0.8603100776672363
+22,2019-06-06 06:10:00,Calls accounted for 58% of the day’s take.,0.02661876194179058,0.02435462921857834,0.9490266442298889,neutral,0.002264132723212242
+23,2019-06-06 06:10:00,"The expected move ahead of earnings was $7.75 or 5%, which means Wednesday’s gap was in-line with forecasts.",0.36171969771385193,0.5812578201293945,0.05702245980501175,negative,-0.2195381224155426
+24,2019-06-06 06:10:00,The post-earnings volatility crush was on full display driving the reading to 32% or the 28th percentile of its one-year range.,0.9111043810844421,0.03520015999674797,0.0536954291164875,positive,0.8759042024612427
+25,2019-06-06 06:10:00,Premiums are now pricing in daily moves of $3.18 or 2%.,0.46430879831314087,0.0452226959168911,0.49046847224235535,neutral,0.4190860986709595
+26,2019-06-06 06:10:00,Cronos shares rocketed as much as 15.8% higher on Wednesday before falling back to a 10.9% gain on the session.,0.04605216532945633,0.9289085268974304,0.025039279833436012,negative,-0.8828563690185547
+27,2019-06-06 06:10:00,"The catalyst for the sudden surge was an upgrade by Christopher Carey, an analyst for Bank of America.",0.6758153438568115,0.032139744609594345,0.29204490780830383,positive,0.6436756253242493
+28,2019-06-06 06:10:00,"Citing the Canadian company’s plans for its entrance into the U.S. market, Mr. Carey ratcheted his rating from underperform to buy.",0.9088934063911438,0.018993442878127098,0.07211319357156754,positive,0.8898999691009521
+29,2019-06-06 06:10:00,"Alongside the upgrade, he raised his price target from $13 to $20.",0.8485499024391174,0.01726001501083374,0.13419011235237122,positive,0.8312898874282837
+30,2019-06-06 06:10:00,The timing of the upgrade couldn’t have been better.,0.3310263454914093,0.039855364710092545,0.6291183233261108,neutral,0.29117098450660706
+31,2019-06-06 06:10:00,"CRON stock has been stuck in a downtrend ever since March, losing almost half of its value.",0.01805797964334488,0.967147171497345,0.014794852584600449,negative,-0.9490891695022583
+32,2019-06-06 06:10:00,It was also testing the oft-watched 200-day moving average and in need of something positive to bring buyers out of the woodwork.,0.7615792155265808,0.11693624407052994,0.12148453295230865,positive,0.6446429491043091
+33,2019-06-06 06:10:00,"With the jump, the technical picture has improved, but the downtrend has yet to reverse fully.",0.9038152694702148,0.032018668949604034,0.06416602432727814,positive,0.8717966079711914
+34,2019-06-06 06:10:00,"For that, we need a close above the 50-day moving average and horizontal resistance at $16.50.",0.16685430705547333,0.041476935148239136,0.7916687726974487,neutral,0.1253773719072342
+35,2019-06-06 06:10:00,"On the options trading front, traders gobbled up calls all day long.",0.32187947630882263,0.19406965374946594,0.48405078053474426,neutral,0.1278098225593567
+36,2019-06-06 06:10:00,"Total activity grew to 388% of the average daily volume, with 91,214 contracts traded; 69% of the trading came from call options alone.",0.789080798625946,0.018554534763097763,0.1923646330833435,positive,0.7705262899398804
+37,2019-06-06 06:10:00,The increased demand drove implied volatility slightly higher on the day to 70% placing it at the 10th percentile of its one-year range.,0.9318845868110657,0.028818951919674873,0.039296556264162064,positive,0.9030656218528748
+38,2019-06-06 06:10:00,Premiums are baking in daily moves of 71 cents or 4.4%.,0.2852417230606079,0.07434618473052979,0.6404120922088623,neutral,0.21089553833007812
+39,2019-06-06 06:10:00,"While UBER stock is still in its infancy as a publicly traded vehicle, it seems to have finally found its footing.",0.855872631072998,0.01499070692807436,0.12913665175437927,positive,0.8408819437026978
+40,2019-06-06 06:10:00,"For proof, I point you toward yesterday’s trading session, which saw the ride-hailing kingpin eclipse the high of its IPO day.",0.4310707151889801,0.03483337536454201,0.5340959429740906,neutral,0.3962373435497284
+41,2019-06-06 06:10:00,"Indeed, Wednesday’s close of $45 marks a new record close and suggests UBER was able to absorb any selling pressure coming into the market after its IPO.",0.9362754821777344,0.02700277976691723,0.03672175481915474,positive,0.9092727303504944
+42,2019-06-06 06:10:00,"With only one month of data to chew on, chart watchers still have few inputs for their analysis.",0.023579757660627365,0.8181551098823547,0.1582651138305664,negative,-0.7945753335952759
+43,2019-06-06 06:10:00,"Nonetheless, the trend, short as it is, points higher.",0.8522067070007324,0.0353374183177948,0.11245585232973099,positive,0.8168692588806152
+44,2019-06-06 06:10:00,Near-term support sits at $39 so as long as we remain above it the path of least resistance is north.,0.21257661283016205,0.02245226688683033,0.7649710774421692,neutral,0.19012434780597687
+45,2019-06-06 06:10:00,"On the options trading front, traders stampeded into call options.",0.2692124843597412,0.22830913960933685,0.5024783611297607,neutral,0.04090334475040436
+46,2019-06-06 06:10:00,"Total activity climbed to 229% of the average daily volume, with 135,979 contracts traded; 76% of the trading came from call options alone.",0.9413776993751526,0.019478796049952507,0.03914361447095871,positive,0.9218989014625549
+47,2019-06-06 06:10:00,"Implied volatility ticked higher to 47%, but remains at the lower end of its range.",0.4798857271671295,0.4139937162399292,0.10612048953771591,positive,0.06589201092720032
+48,2019-06-06 06:10:00,"As of this writing, Tyler Craig didn’t hold a position in any of the aforementioned securities.",0.010344179347157478,0.029837410897016525,0.9598184823989868,neutral,-0.019493231549859047
+49,2019-06-06 06:10:00,Check out his recently released to learn how to defend your portfolio against market volatility.,0.13160638511180878,0.009493033401668072,0.8589006066322327,neutral,0.12211335450410843
+50,2019-06-06 06:10:00,The post appeared first on InvestorPlace.,0.06827229261398315,0.03990982100367546,0.8918178081512451,neutral,0.028362471610307693

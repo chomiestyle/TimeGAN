@@ -1,0 +1,35 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-21 03:17:00,Futures for the S&P 500 index were little changed Wednesday morning.,0.07372041046619415,0.6591526865959167,0.26712682843208313,negative,-0.5854322910308838
+1,2017-11-21 03:17:00,"[ibd-display-video id=2354661 width=50 float=left autostart=true] Charles Schwab ( SCHW ), Palo Alto Networks ( PANW ), Ollie's Bargain Outlet ( OLLI ) and Extreme Networks ( EXTR ) were top-rated stocks clearing buy points Tuesday, at least intraday, as the S&P 500 index, Nasdaq composite and Dow industrials all hit record highs.",0.8518797159194946,0.0680818110704422,0.08003854006528854,positive,0.7837979197502136
+2,2017-11-21 03:17:00,"Charles Schwab, Ollie's Bargain Outlet and Extreme Networks all have Composite Ratings above 95 out of a possible 99.",0.16988463699817657,0.02139207348227501,0.8087232708930969,neutral,0.14849255979061127
+3,2017-11-21 03:17:00,All-time winners often have Composite Ratings of at least 95 near the start of their big runs.,0.18084873259067535,0.03099416382610798,0.7881571054458618,neutral,0.14985457062721252
+4,2017-11-21 03:17:00,Palo Alto Networks has an 87 Composite Rating.,0.08820884674787521,0.008223507553339005,0.9035676121711731,neutral,0.07998533546924591
+5,2017-11-21 03:17:00,That CR is rising quickly as its Relative Strength Rating rebounds to a still-meh 67 to complement a best-possible 99 EPS Rating.,0.9490885138511658,0.023128824308514595,0.02778271958231926,positive,0.9259597063064575
+6,2017-11-21 03:17:00,S&P 500 index futures were a fraction higher vs. fair value.,0.7586022019386292,0.12803031504154205,0.11336749792098999,positive,0.6305719017982483
+7,2017-11-21 03:17:00,So were Nasdaq 100 futures.,0.07401080429553986,0.027347182855010033,0.8986419439315796,neutral,0.046663619577884674
+8,2017-11-21 03:17:00,Dow futures climbed 0.1%.,0.8206564784049988,0.08834511786699295,0.09099840372800827,positive,0.7323113679885864
+9,2017-11-21 03:17:00,"That's despite Salesforce.com ( CRM ), HP Inc. (HPQ) and Hewlett Packard Enterprise (HPE) falling in the premarket following their late Tuesdayearnings , with HPE CEO Meg Whitman stepping down as well.",0.01786523312330246,0.9600166082382202,0.022118138149380684,negative,-0.9421513676643372
+10,2017-11-21 03:17:00,Farm equipment giant Deere (DE) rose after topping quarterly earnings estimates early Wednesday.,0.9378503561019897,0.028699155896902084,0.033450473099946976,positive,0.9091511964797974
+11,2017-11-21 03:17:00,A slew of economic data is due Wednesday morning ahead of the Thanksgiving holiday.,0.06072477996349335,0.07539424300193787,0.8638809323310852,neutral,-0.014669463038444519
+12,2017-11-21 03:17:00,"Friday's session will be shortened, with stock markets closing at 1 p.m.",0.022315738722682,0.8120484948158264,0.16563576459884644,negative,-0.7897327542304993
+13,2017-11-21 03:17:00,ET.,0.04076192528009415,0.02084074728190899,0.9383973479270935,neutral,0.019921177998185158
+14,2017-11-21 03:17:00,"Charles Schwab rose 2.1% to 46.08 on Tuesday, rising as high as 46.33 intraday and briefly clearing a 46.31 flat-base buy point .",0.9327118396759033,0.02836034446954727,0.038927797228097916,positive,0.9043514728546143
+15,2017-11-21 03:17:00,"Volume was 22% above normal, which is pretty good in this holiday week.",0.724545955657959,0.04554939642548561,0.22990469634532928,positive,0.6789965629577637
+16,2017-11-21 03:17:00,Schwab shares rose a fraction to 46.25 before the open on the stock market today .,0.937166690826416,0.01964421011507511,0.04318906366825104,positive,0.9175224900245667
+17,2017-11-21 03:17:00,"One troublesome sign: Schwab's Relative Strength line, which tracks the stock vs. the S&P 500 index, has made a series of slightly lower highs since peaking in late January.",0.026954319328069687,0.9515061974525452,0.02153945527970791,negative,-0.9245519042015076
+18,2017-11-21 03:17:00,"Meanwhile, Schwab rival E-Trade Financial (ETFC) is closing in on its own breakout, while TD Ameritrade (AMTD) is already in a buy zone.",0.8074036836624146,0.03015070967376232,0.1624455600976944,positive,0.7772529721260071
+19,2017-11-21 03:17:00,"The cybersecurity software firm topped earnings and revenue targets late Monday, sending shares up 4.8% to 149.40 and gapping above their 50-day line.",0.9353228807449341,0.03941508010029793,0.025262076407670975,positive,0.8959078192710876
+20,2017-11-21 03:17:00,"Palo Alto rose as high as 156.85, a nine-month best and briefly topping a 153.45 entry.",0.8621767163276672,0.06503066420555115,0.07279260456562042,positive,0.7971460819244385
+21,2017-11-21 03:17:00,Volume was very heavy in the post-earnings session.,0.3361643850803375,0.020299764350056648,0.643535852432251,neutral,0.315864622592926
+22,2017-11-21 03:17:00,But the stock closed near session lows.,0.038030754774808884,0.896865963935852,0.06510332971811295,negative,-0.8588352203369141
+23,2017-11-21 03:17:00,"Ollie's Bargain Outlet rose 0.75% to 47, closing exactly on a 47 buy point.",0.9262129664421082,0.04210244491696358,0.03168462589383125,positive,0.8841105103492737
+24,2017-11-21 03:17:00,"It was the closeout retailer's third straight gain in accelerating, above-average volume after reversing higher from an intraday low of 42.36 last Friday.",0.9468972086906433,0.02786906249821186,0.025233780965209007,positive,0.9190281629562378
+25,2017-11-21 03:17:00,Ollie's hit a record 47.20 intraday Tuesday.,0.7076162099838257,0.056303903460502625,0.23607993125915527,positive,0.6513122916221619
+26,2017-11-21 03:17:00,"Extreme Networks shot up 7.25% to 13.91 in double average volume, easily passing a 13.30 buy point from a short consolidation and hitting its best levels in nearly 16 years.",0.9468005895614624,0.028017736971378326,0.025181621313095093,positive,0.9187828302383423
+27,2017-11-21 03:17:00,"These Five Top Stocks Are Carving This 'Super Growth' Pattern
+
+Why Wal-Mart, Cisco And GM Are The New 'Growth' Stocks
+
+Bullish Chart Patterns II: How To Find The Exact Buy Point
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.013717154040932655,0.010187065228819847,0.9760957360267639,neutral,0.0035300888121128082

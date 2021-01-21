@@ -1,0 +1,36 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-20 06:34:00,"More than anything else, Salesforce (NYSE: CRM) is a sales-enablement system that handles customer relationship management -- more commonly referred to as ""CRM"" in tech parlance -- for large and growing enterprise clients.",0.07201525568962097,0.004903285298496485,0.9230814576148987,neutral,0.06711196899414062
+1,2019-03-20 06:34:00,And yet the Salesforce story was always more about cloud computing than it was about better computing for sales teams.,0.09241156280040741,0.012988190166652203,0.8946003317832947,neutral,0.07942337542772293
+2,2019-03-20 06:34:00,"Yes, of course, it matters to have good software.",0.2294105440378189,0.008350403048098087,0.7622390389442444,neutral,0.2210601419210434
+3,2019-03-20 06:34:00,"What CEO and co-founder Marc Benioff was after was a great hook to sell the idea that any software could be made to work through the cloud, including big-ticket business software.",0.36241620779037476,0.010467583313584328,0.6271162629127502,neutral,0.351948618888855
+4,2019-03-20 06:34:00,"To this day, the company's founding ""No Software"" slogan is the ""SaaSy"" mascot that embodies the pitch lives on in conferences and fan photos.",0.0813441351056099,0.05661856010556221,0.8620373010635376,neutral,0.024725575000047684
+5,2019-03-20 06:34:00,"So, it's with no small hint of irony that the future of Salesforce is grounded squarely in having a platform for creating, deploying, and integrating software anywhere, using the cloud as the enabling technology.",0.37208274006843567,0.008318573236465454,0.6195986866950989,neutral,0.3637641668319702
+6,2019-03-20 06:34:00,You know what?,0.08938020467758179,0.0907953754067421,0.8198244571685791,neutral,-0.0014151707291603088
+7,2019-03-20 06:34:00,It's resonating.,0.214087575674057,0.009885760955512524,0.7760266661643982,neutral,0.2042018175125122
+8,2019-03-20 06:34:00,"Pivoting to growth -- and getting it
+
+According to the most recent 10-K annual filing, MuleSoft, the application integration platform Salesforce purchased last May for $6.5 billion in cash and equity, provided a significant growth tailwind for the company in fiscal 2019.",0.9340568780899048,0.021395275369286537,0.04454788193106651,positive,0.912661612033844
+9,2019-03-20 06:34:00,Just look at the math.,0.042410001158714294,0.019721103832125664,0.9378688931465149,neutral,0.02268889732658863
+10,2019-03-20 06:34:00,"The ""Salesforce Platform and Other"" segment, within which MuleSoft revenue is now classified, grew 49% year over year, a massive increase from the 33% gain from 2017 to 2018.",0.9592751860618591,0.01899762824177742,0.021727239713072777,positive,0.9402775764465332
+11,2019-03-20 06:34:00,MuleSoft accounted for 12.6% of the total.,0.011979774571955204,0.015586012043058872,0.9724341630935669,neutral,-0.003606237471103668
+12,2019-03-20 06:34:00,Think about that for a minute.,0.07958667725324631,0.0314260832965374,0.8889872431755066,neutral,0.04816059395670891
+13,2019-03-20 06:34:00,"Without MuleSoft, Salesforce Platform revenue would have been roughly $2.49 billion, up a very respectable 30% year over year but still a slowdown from the year before.",0.04995179548859596,0.9364466071128845,0.013601548969745636,negative,-0.8864948153495789
+14,2019-03-20 06:34:00,That data alone should be enough to show the value of the MuleSoft deal.,0.3994029462337494,0.014584282413125038,0.5860127210617065,neutral,0.3848186731338501
+15,2019-03-20 06:34:00,"However, it also speaks to a broader shift in Salesforce's strategy to go beyond being just a provider of applications.",0.829595148563385,0.01326523907482624,0.1571395993232727,positive,0.8163298964500427
+16,2019-03-20 06:34:00,"The ""No Software"" company is betting its future on enabling developers to create cloud-first software that can connect to anything, anywhere, for the purpose of making it easier to sell to, serve, and support customers.",0.4196665585041046,0.012044491246342659,0.5682889223098755,neutral,0.4076220691204071
+17,2019-03-20 06:34:00,Color me thrilled.,0.4728716015815735,0.02806643769145012,0.4990619122982025,neutral,0.44480517506599426
+18,2019-03-20 06:34:00,"""No Software"" was a marketing slogan, and it got Benioff and Salesforce to where it is today, but it's not the future.",0.08348220586776733,0.03018956072628498,0.8863282799720764,neutral,0.0532926470041275
+19,2019-03-20 06:34:00,We need software.,0.06440096348524094,0.01182200014591217,0.9237770438194275,neutral,0.052578963339328766
+20,2019-03-20 06:34:00,We just need it to be in the cloud.,0.0656869038939476,0.010314119048416615,0.923999011516571,neutral,0.05537278577685356
+21,2019-03-20 06:34:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+22,2019-03-20 06:34:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+23,2019-03-20 06:34:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+24,2019-03-20 06:34:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+25,2019-03-20 06:34:00,Tim Beyers owns shares of Salesforce.com.,0.01489010825753212,0.013046970590949059,0.972062885761261,neutral,0.0018431376665830612
+26,2019-03-20 06:34:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+27,2019-03-20 06:34:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+28,2019-03-20 06:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

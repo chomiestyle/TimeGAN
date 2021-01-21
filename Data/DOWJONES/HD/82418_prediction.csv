@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-11 22:46:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Bristol-Myers Squibb Co. (Symbol: BMY), where a total volume of 42,952 contracts has been traded thus far today, a contract volume which is representative of approximately 4.3 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05440342053771019,0.010914771817624569,0.93468177318573,neutral,0.043488647788763046
+1,2018-09-11 22:46:00,"That number works out to 88% of BMY's average daily trading volume over the past month, of 4.9 million shares.",0.6911308765411377,0.017006080597639084,0.29186302423477173,positive,0.6741247773170471
+2,2018-09-11 22:46:00,"Particularly high volume was seen for the $57.50 strike put option expiring October 19, 2018 , with 10,814 contracts trading so far today, representing approximately 1.1 million underlying shares of BMY.",0.2408304065465927,0.009806319139897823,0.7493633031845093,neutral,0.23102408647537231
+3,2018-09-11 22:46:00,"Below is a chart showing BMY's trailing twelve month trading history, with the $57.50 strike highlighted in orange:
+
+Cimarex Energy Co (Symbol: XEC) options are showing a volume of 9,614 contracts thus far today.",0.027550602331757545,0.049220290035009384,0.9232290983200073,neutral,-0.02166968770325184
+4,2018-09-11 22:46:00,"That number of contracts represents approximately 961,400 underlying shares, working out to a sizeable 84.3% of XEC's average daily trading volume over the past month, of 1.1 million shares.",0.16994939744472504,0.009366276673972607,0.8206843733787537,neutral,0.16058312356472015
+5,2018-09-11 22:46:00,"Particularly high volume was seen for the $115 strike call option expiring December 20, 2019 , with 8,803 contracts trading so far today, representing approximately 880,300 underlying shares of XEC.",0.3837936520576477,0.013238632120192051,0.6029677391052246,neutral,0.37055501341819763
+6,2018-09-11 22:46:00,"Below is a chart showing XEC's trailing twelve month trading history, with the $115 strike highlighted in orange:
+
+And Home Depot Inc (Symbol: HD) options are showing a volume of 36,028 contracts thus far today.",0.018958311527967453,0.03510697931051254,0.9459347724914551,neutral,-0.01614866778254509
+7,2018-09-11 22:46:00,"That number of contracts represents approximately 3.6 million underlying shares, working out to a sizeable 81.7% of HD's average daily trading volume over the past month, of 4.4 million shares.",0.17444628477096558,0.009784410707652569,0.8157693147659302,neutral,0.16466186940670013
+8,2018-09-11 22:46:00,"Especially high volume was seen for the $200 strike put option expiring October 19, 2018 , with 5,353 contracts trading so far today, representing approximately 535,300 underlying shares of HD.",0.27614516019821167,0.0118099981918931,0.712044894695282,neutral,0.26433515548706055
+9,2018-09-11 22:46:00,"Below is a chart showing HD's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+For the various different available expirations for BMY options , XEC options , or HD options , visit StockOptionsChannel.com.",0.010194373317062855,0.02375701442360878,0.9660486578941345,neutral,-0.013562641106545925
+10,2018-09-11 22:46:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

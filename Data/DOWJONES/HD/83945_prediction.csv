@@ -1,0 +1,590 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-02-20 07:24:00,"Good day, and welcome to The Home Depot Q4 2017 Earnings Conference Call.",0.15971603989601135,0.01344106812030077,0.8268429040908813,neutral,0.14627496898174286
+1,2018-02-20 07:24:00,Today's conference is being recorded.,0.018556658178567886,0.010307381860911846,0.9711359143257141,neutral,0.00824927631765604
+2,2018-02-20 07:24:00,"[Operator Instructions]
+
+At this time, I'd like to turn the conference over to Ms. Diane Dayhoff, Vice President, Investor Relations.",0.02669318951666355,0.006921408697962761,0.9663854241371155,neutral,0.01977178081870079
+3,2018-02-20 07:24:00,"Please go ahead, ma'am.",0.06950704008340836,0.014487193897366524,0.9160057902336121,neutral,0.05501984804868698
+4,2018-02-20 07:24:00,"Thank you, Abby, and good morning to everyone.",0.23825427889823914,0.015846585854887962,0.7458990812301636,neutral,0.22240769863128662
+5,2018-02-20 07:24:00,"Joining us on our call today are Craig Menear, Chairman, CEO and President; Ted Decker, EVP of Merchandising; and Carol Tomé, Chief Financial Officer and Executive Vice President, Corporate Services.",0.035971932113170624,0.007291452493518591,0.9567365646362305,neutral,0.028680479153990746
+6,2018-02-20 07:24:00,"Following our prepared remarks, the call will be opened for analysts' questions.",0.017540112137794495,0.00844484567642212,0.9740150570869446,neutral,0.009095266461372375
+7,2018-02-20 07:24:00,Questions will be limited to analysts and investors.,0.013581243343651295,0.010368344374001026,0.9760504364967346,neutral,0.0032128989696502686
+8,2018-02-20 07:24:00,"And, as a reminder, we would appreciate it if the participants would limit themselves to one question with one follow-up, please.",0.05742774158716202,0.01054356712847948,0.9320287108421326,neutral,0.04688417539000511
+9,2018-02-20 07:24:00,"If we are unable to get to your question during the call, please call our Investor Relations Department at 770-384-2387.",0.01353491935878992,0.046642642468214035,0.9398224353790283,neutral,-0.03310772404074669
+10,2018-02-20 07:24:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+11,2018-02-20 07:24:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+12,2018-02-20 07:24:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+13,2018-02-20 07:24:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+14,2018-02-20 07:24:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+15,2018-02-20 07:24:00,"Now, before I turn the call over to Craig, let me remind you that today's press release and the presentations made by our executives include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995.",0.02667957916855812,0.008119738660752773,0.965200662612915,neutral,0.018559839576482773
+16,2018-02-20 07:24:00,These statements are subject to risks and uncertainties that could cause actual results to differ materially from our expectations and projections.,0.03480007126927376,0.5150991082191467,0.4501008093357086,negative,-0.4802990257740021
+17,2018-02-20 07:24:00,"These risks and uncertainties include, but are not limited to, the factors identified in the release and in our filings with the Securities and Exchange Commission.",0.011081153526902199,0.009157911874353886,0.9797608852386475,neutral,0.0019232416525483131
+18,2018-02-20 07:24:00,Today's presentations will also include certain non-GAAP measures.,0.02155068889260292,0.0058854673989117146,0.9725638031959534,neutral,0.015665221959352493
+19,2018-02-20 07:24:00,Reconciliation of these measures is provided on our website.,0.019075870513916016,0.007040499709546566,0.9738836288452148,neutral,0.01203537080436945
+20,2018-02-20 07:24:00,"Now, let me turn the call over to Craig.",0.04389161989092827,0.015234746970236301,0.9408736228942871,neutral,0.02865687385201454
+21,2018-02-20 07:24:00,"Thank you, Diane, and good morning, everyone.",0.1407247632741928,0.01933129131793976,0.8399438858032227,neutral,0.12139347195625305
+22,2018-02-20 07:24:00,"Before I start, I'd like to recognize Diane Dayhoff.",0.07564558833837509,0.024279627948999405,0.9000747799873352,neutral,0.05136596038937569
+23,2018-02-20 07:24:00,This is Diane's last earnings call.,0.02157074771821499,0.12632793188095093,0.8521013259887695,neutral,-0.10475718230009079
+24,2018-02-20 07:24:00,I want to thank Diane for all of her amazing contributions to the company in her nearly 15 years.,0.5571795105934143,0.013028045184910297,0.4297924041748047,positive,0.5441514849662781
+25,2018-02-20 07:24:00,"Diane, we wish you all the best in retirement.",0.24925807118415833,0.017842251807451248,0.7328997254371643,neutral,0.23141582310199738
+26,2018-02-20 07:24:00,Fiscal 2017 was another record year for our business and we achieved the highest sales and net earnings in company history.,0.9373949766159058,0.014821729622781277,0.047783393412828445,positive,0.9225732684135437
+27,2018-02-20 07:24:00,"Fiscal 2017 sales grew $6.3 billion to $100.9 billion and an increase of 6.7% from Fiscal 2016, while diluted earnings per share grew 13% to $7.29.",0.9554957747459412,0.021340152248740196,0.02316405065357685,positive,0.9341556429862976
+28,2018-02-20 07:24:00,"Sales for the fourth quarter were $23.9 billion, up 7.5% from last year.",0.9567005634307861,0.022056257352232933,0.021243220195174217,positive,0.9346442818641663
+29,2018-02-20 07:24:00,"Comp sales were also up 7.5% from last year, and our US stores had a positive comp of 7.2%.",0.9561449885368347,0.024392282590270042,0.01946272887289524,positive,0.9317526817321777
+30,2018-02-20 07:24:00,Diluted earnings per share were $1.52 in the fourth quarter.,0.02096698433160782,0.7131108641624451,0.2659221589565277,negative,-0.6921438574790955
+31,2018-02-20 07:24:00,We continue to see broad based growth across the stores in our geographies.,0.8810965418815613,0.011558931320905685,0.10734464228153229,positive,0.8695375919342041
+32,2018-02-20 07:24:00,"All three of our US divisions posted positive comps in the fourth quarter, but we did see more variability in regional performance than we have in several quarters due to weather.",0.5381895303726196,0.33177071809768677,0.1300397664308548,positive,0.20641881227493286
+33,2018-02-20 07:24:00,"Internationally, both Mexico and Canada posted another quarter of positive comps in local currency.",0.9442896842956543,0.02893255650997162,0.026777731254696846,positive,0.9153571128845215
+34,2018-02-20 07:24:00,"While sales did benefit from hurricane recovery efforts, we also had hurricane related expenses.",0.15194159746170044,0.21161283552646637,0.6364455223083496,neutral,-0.05967123806476593
+35,2018-02-20 07:24:00,"Our merchants, store teams, supplier partners, and supply chain teams did an outstanding job delivery value and service to our customers throughout the quarter, both in stores and online.",0.8619439005851746,0.012919685803353786,0.1251363456249237,positive,0.84902423620224
+36,2018-02-20 07:24:00,"As Ted will detail, both ticket and transactions grew in the quarter, and we saw growth in both pro and DIY categories.",0.9185309410095215,0.013063754886388779,0.06840521842241287,positive,0.9054672122001648
+37,2018-02-20 07:24:00,"Pro sales, once again, outpaced DIY sales in the quarter as the work that we're doing to enhance service capabilities for our pros continue to resonate.",0.9510602355003357,0.02811110019683838,0.020828617736697197,positive,0.9229491353034973
+38,2018-02-20 07:24:00,"We are pleased with the growth of sales to our DIY customers, who also gave us a likelihood to shop again score of 86%, up almost 150 basis points from last year.",0.9573662877082825,0.018436847254633904,0.024196863174438477,positive,0.9389294385910034
+39,2018-02-20 07:24:00,Our interconnected business made great strides in 2017 as the team continued to enhance our digital assets to enable a more seamless experience for our customers no matter how they choose to shop with us.,0.9292031526565552,0.013926301151514053,0.05687052011489868,positive,0.915276825428009
+40,2018-02-20 07:24:00,"We implemented a new e-commerce platform, enhanced our search and mobile functionality, increased checkout speed, and expanded chat functionality to improve the customer experience with our online contact centers.",0.9194245338439941,0.013793393038213253,0.06678202748298645,positive,0.9056311249732971
+41,2018-02-20 07:24:00,We continue to invest in our digital properties and it has increased traffic and conversion.,0.9316297769546509,0.012822712771594524,0.055547427386045456,positive,0.9188070893287659
+42,2018-02-20 07:24:00,"Versus prior year, our online sales grew 21% in the fourth quarter and 21.5% in Fiscal 2017, now representing 6.7% of our total sales.",0.9358934760093689,0.018699543550610542,0.04540696367621422,positive,0.9171939492225647
+43,2018-02-20 07:24:00,"While we're seeing significant growth in our online sales, these online shoppers see the relevance of our stores as approximately 46% of our online US orders are picked up in our stores, a testament to the power of our interconnected retail strategy.",0.8370771408081055,0.01217244379222393,0.15075041353702545,positive,0.8249046802520752
+44,2018-02-20 07:24:00,We have talked a lot about the progress we have made in building our upstream supply chain network over the past several years.,0.8733521103858948,0.01192158367484808,0.11472633481025696,positive,0.8614305257797241
+45,2018-02-20 07:24:00,We've also told you about the $1.2 billion investment we plan to make over the next five years to leverage the capabilities and competitive advantages we have in our upstream network while significantly improving our downstream proficiencies to leverage our scale and convenient locations.,0.9148480892181396,0.011642968282103539,0.07350891083478928,positive,0.9032050967216492
+46,2018-02-20 07:24:00,"This year, we will pilot the local flatbed DFCs and market delivery operations.",0.34569934010505676,0.006736495532095432,0.647564172744751,neutral,0.3389628529548645
+47,2018-02-20 07:24:00,"But, I want to remind you that this investment in One Home Depot's supply chain is a five-year journey where the financial benefits won't be realized until the initiative is complete.",0.15369871258735657,0.0239139124751091,0.8223873972892761,neutral,0.12978479266166687
+48,2018-02-20 07:24:00,"These investments are critical to meet the evolving needs of our customers, and we are committed to creating the fastest, most efficient delivery network for home improvement products.",0.7523967623710632,0.010956238023936749,0.23664695024490356,positive,0.7414405345916748
+49,2018-02-20 07:24:00,We are not an organization that rests on our laurels of previous accomplishments.,0.11230099946260452,0.007388609927147627,0.8803104162216187,neutral,0.10491239279508591
+50,2018-02-20 07:24:00,I don't want to miss this opportunity to applaud each and every one of our associates for the incredible work that has brought us to this point in our company's history.,0.5314584374427795,0.012863287702202797,0.4556782841682434,positive,0.5185951590538025
+51,2018-02-20 07:24:00,"As I mentioned, Fiscal 2017 was a record sales and earnings year on the heels of a record Fiscal 2016.",0.9001060128211975,0.028725536540150642,0.07116848230361938,positive,0.8713804483413696
+52,2018-02-20 07:24:00,"In 2017, our associates and suppliers served our customers during their time of need as we navigated the disruptions caused by various natural disasters.",0.30659550428390503,0.010311378166079521,0.6830930709838867,neutral,0.29628413915634155
+53,2018-02-20 07:24:00,We also welcomed two new teams to the Home Depot family through the acquisitions of Compact Power and The Company Store.,0.8087025880813599,0.011432143859565258,0.17986524105072021,positive,0.7972704172134399
+54,2018-02-20 07:24:00,All of this was accomplished during a time marked by a high degree of change in our business as we respond to the rapidly evolving retail environment.,0.6758187413215637,0.009746529161930084,0.3144347369670868,positive,0.6660721898078918
+55,2018-02-20 07:24:00,"As they always do, our associates continued to adapt to these changes while consistently delivering outstanding customer service.",0.905523419380188,0.012782488018274307,0.08169404417276382,positive,0.8927409052848816
+56,2018-02-20 07:24:00,"Today, our board announced a 15.7% increase in our quarterly dividend to $1.03 per share.",0.92119300365448,0.01503456849604845,0.06377248466014862,positive,0.906158447265625
+57,2018-02-20 07:24:00,We remain committed to maintaining disciplined capital allocation to create value for our shareholders.,0.7298365235328674,0.010586791671812534,0.259576678276062,positive,0.7192497253417969
+58,2018-02-20 07:24:00,"Turning to 2018 and beyond, I'm very excited about the opportunities that are ahead of us.",0.5616674423217773,0.011506684124469757,0.4268259108066559,positive,0.5501607656478882
+59,2018-02-20 07:24:00,"Carol will take you through the details, but we expect 2018 to be another year of growth, with expected sales growth of approximately 6.5% and diluted earnings per share of approximately $9.31.",0.4026740491390228,0.48455649614334106,0.11276944726705551,negative,-0.08188244700431824
+60,2018-02-20 07:24:00,"At our investor conference in December, we outlined our three-year financial targets and an accelerated investment plan to create the One Home Depot experience for our customers.",0.6602553129196167,0.009446758776903152,0.33029791712760925,positive,0.650808572769165
+61,2018-02-20 07:24:00,"Today, we are reaffirming our investment strategy and our 2020 targets to grow sales as high as $120 billion with operating margin as high as 15%.",0.9047826528549194,0.011580576188862324,0.0836368054151535,positive,0.8932020664215088
+62,2018-02-20 07:24:00,We are updating our return on invested capital target to now more than 40%.,0.7134029269218445,0.013025845400989056,0.2735711932182312,positive,0.7003771066665649
+63,2018-02-20 07:24:00,One of the areas that we're investing in is our associates.,0.08996918797492981,0.004476204980164766,0.9055546522140503,neutral,0.08549298346042633
+64,2018-02-20 07:24:00,"In the fourth quarter, we did just that.",0.11950194090604782,0.0063572414219379425,0.8741407990455627,neutral,0.11314469575881958
+65,2018-02-20 07:24:00,"We recognized associates through success sharing, our profit sharing program for our ROE associates.",0.702289879322052,0.010924313217401505,0.2867857813835144,positive,0.6913655400276184
+66,2018-02-20 07:24:00,"For the second half of the year, 99% of our stores qualified for success sharing.",0.6674805283546448,0.012664047069847584,0.3198554813861847,positive,0.6548165082931519
+67,2018-02-20 07:24:00,"Beyond success sharing, we were pleased to be able to pay out an incremental one-time bonus to our hourly associates in light of tax reform.",0.9019830226898193,0.017192218452692032,0.08082468807697296,positive,0.8847907781600952
+68,2018-02-20 07:24:00,"Together, this was an investment in our associates of more than $240 million in the back half of the year.",0.49725309014320374,0.009421886876225471,0.4933250844478607,positive,0.4878312051296234
+69,2018-02-20 07:24:00,I want to close by thanking all of our associates for their hard work and dedication to our customers in the fourth quarter and throughout the year.,0.5993202924728394,0.015127090737223625,0.3855525851249695,positive,0.584193229675293
+70,2018-02-20 07:24:00,We look forward to continuing this momentum in 2018.,0.8341895341873169,0.011675894260406494,0.1541346311569214,positive,0.8225136399269104
+71,2018-02-20 07:24:00,"And with that, let me turn the call over to Ted.",0.04174811393022537,0.010211247019469738,0.9480406641960144,neutral,0.03153686597943306
+72,2018-02-20 07:24:00,"Thanks, Craig, and good morning, everyone.",0.1901790052652359,0.02835601009428501,0.7814649939537048,neutral,0.16182298958301544
+73,2018-02-20 07:24:00,We had a strong fourth quarter as sales exceeded our expectations.,0.942365825176239,0.017803402617573738,0.03983066976070404,positive,0.924562394618988
+74,2018-02-20 07:24:00,"We saw strength across the store, led by our pro customer, and our online sales continued their double-digit growth.",0.9515561461448669,0.01668519712984562,0.03175869584083557,positive,0.9348709583282471
+75,2018-02-20 07:24:00,"Looking at our departments, lumber, electrical, and tools had double-digit comps in the quarter.",0.1791476011276245,0.34142863750457764,0.47942376136779785,neutral,-0.16228103637695312
+76,2018-02-20 07:24:00,"Appliances, plumbing, and building materials were also above the company's average comp.",0.0788290947675705,0.012827541679143906,0.9083433151245117,neutral,0.06600154936313629
+77,2018-02-20 07:24:00,"Décor, flooring, millwork, paint, indoor garden, hardware, outdoor garden, and kitchen and bath were positive, but below the company average.",0.031489986926317215,0.8677453398704529,0.10076462477445602,negative,-0.8362553715705872
+78,2018-02-20 07:24:00,Lighting recorded a low single-digit negative comp primarily due to LED price deflation.,0.022174032405018806,0.9311730861663818,0.04665283486247063,negative,-0.9089990258216858
+79,2018-02-20 07:24:00,"In the fourth quarter, we saw growth in both ticket and transactions.",0.8360300064086914,0.011822941713035107,0.15214699506759644,positive,0.824207067489624
+80,2018-02-20 07:24:00,Comp average ticket increased 5.5% and comp transactions increased 1.9%.,0.9504860639572144,0.016892245039343834,0.032621681690216064,positive,0.9335938096046448
+81,2018-02-20 07:24:00,"Commodity price inflation in lumber, building materials, and copper positively impacted average ticket growth by approximately 105 basis points.",0.03778631612658501,0.8874909281730652,0.0747227743268013,negative,-0.8497046232223511
+82,2018-02-20 07:24:00,Foreign exchange rates also positively impacted average ticket growth by approximately 42 basis points.,0.5532554388046265,0.23681409657001495,0.20993050932884216,positive,0.3164413571357727
+83,2018-02-20 07:24:00,"Big ticket sales in the fourth quarter were transactions over $900.00, which represent approximately 22% of our US sales, were up 9.8%.",0.9403494000434875,0.021724862977862358,0.037925638258457184,positive,0.9186245203018188
+84,2018-02-20 07:24:00,"The increase in big ticket sales was driven in part by strength in vinyl plank flooring, fencing, and appliances.",0.9039453864097595,0.01665724255144596,0.07939738780260086,positive,0.8872881531715393
+85,2018-02-20 07:24:00,"Transactions for tickets under $50.00, which make up approximately 16% of our US sales, grew by 0.8% in the quarter.",0.9337161779403687,0.01987128145992756,0.04641249403357506,positive,0.913844883441925
+86,2018-02-20 07:24:00,"In the fourth quarter, we saw strong sales with both our DIY and pro customers.",0.9513856768608093,0.01621478982269764,0.03239954635500908,positive,0.9351708889007568
+87,2018-02-20 07:24:00,Sales to our professional customers were double digits in the quarter.,0.6082196831703186,0.02129128761589527,0.3704890012741089,positive,0.5869283676147461
+88,2018-02-20 07:24:00,"Pro heavy categories such as lumber, pressure treated decking, insulation, and gypsum, all had double-digit growth during the quarter with solid unit productivity.",0.9494088292121887,0.016647838056087494,0.03394336253404617,positive,0.932761013507843
+89,2018-02-20 07:24:00,Our paint initiatives continue to gain traction as we saw strong sales to both our pro and DIY customers throughout the quarter.,0.9555870890617371,0.016559459269046783,0.02785344235599041,positive,0.9390276074409485
+90,2018-02-20 07:24:00,"Turning toward DIY customers, we saw a terrific response to our events throughout the quarter.",0.9156450629234314,0.0146267618983984,0.06972812116146088,positive,0.9010183215141296
+91,2018-02-20 07:24:00,"Traffic was strong, both in store and online during our black Friday gift center and Holiday events.",0.8632959723472595,0.015246937982738018,0.12145709246397018,positive,0.8480490446090698
+92,2018-02-20 07:24:00,"During the quarter, our DIY customers drove strong comps in power tools, hand tools, rugs, appliances, and decorative Holiday.",0.9142023921012878,0.014761685393750668,0.0710359662771225,positive,0.8994407057762146
+93,2018-02-20 07:24:00,"We also continue to see strength in storm related categories in the quarter with double-digit comps in generators, wet/dry vacs, and portable heating.",0.9108977913856506,0.0198922511190176,0.069209985435009,positive,0.8910055160522461
+94,2018-02-20 07:24:00,"As part of our focus on balancing the art and science of retail, we continue to refine and localize our assortments.",0.44978463649749756,0.008002224378287792,0.5422131419181824,neutral,0.4417824149131775
+95,2018-02-20 07:24:00,"A recent example is with our Artscape category, which includes pavers, wall block, and landscape rock.",0.030376246199011803,0.007108303252607584,0.9625154733657837,neutral,0.023267943412065506
+96,2018-02-20 07:24:00,We are leveraging the power of our clustering and space optimization tools to assign assortments and facings at a local store level.,0.22195522487163544,0.005947202909737825,0.7720975875854492,neutral,0.2160080224275589
+97,2018-02-20 07:24:00,"As a result, we have been able to optimize on-shelf inventory levels to provide job life quantities for our customers, minimize shelf maintenance for our store associates, and maintain a meaningful and innovative assortment.",0.8825173377990723,0.011997141875326633,0.10548552870750427,positive,0.8705201745033264
+98,2018-02-20 07:24:00,Initial results in warm weather markets have been strong.,0.9258350133895874,0.0202418714761734,0.0539231039583683,positive,0.9055931568145752
+99,2018-02-20 07:24:00,Now let me turn our attention to the first quarter.,0.023419581353664398,0.008120503276586533,0.9684599041938782,neutral,0.015299078077077866
+100,2018-02-20 07:24:00,Product innovation and speed to market allow The Home Depot to maintain its position as the number one retailer in product authority in home improvement.,0.9326131343841553,0.014787180349230766,0.05259968340396881,positive,0.9178259372711182
+101,2018-02-20 07:24:00,"To that end, our merchants are constantly collaborating with our suppliers to deliver new products exclusively to The Home Depot.",0.6206825375556946,0.009836028330028057,0.36948147416114807,positive,0.6108465194702148
+102,2018-02-20 07:24:00,"For example, we recently updated our assortment of Klein tools for professional electricians.",0.1393406242132187,0.005724113434553146,0.8549352884292603,neutral,0.13361650705337524
+103,2018-02-20 07:24:00,"This includes the new 9-inch Journeyman diagonal cutting pliers that provide 57% more cutting surface, and a new magnetizer tool that is great when needing to magnetize a screwdriver or bit.",0.4053898751735687,0.008610134944319725,0.5859999656677246,neutral,0.39677974581718445
+104,2018-02-20 07:24:00,The addition of these new products to our existing assortment of big-box exclusive client tools keeps us winning with the electrician.,0.8908577561378479,0.014529773034155369,0.09461243450641632,positive,0.8763279914855957
+105,2018-02-20 07:24:00,"With spring quickly approaching, we are gearing up to fulfill the needs of our customers as they complete their outdoor projects and get ready to enjoy the warm weather.",0.5943965315818787,0.010470866225659847,0.3951326310634613,positive,0.5839256644248962
+106,2018-02-20 07:24:00,"In addition to our annual spring Black Friday event, we are excited about our new patio set offerings, which provide customers great value across a wide selection to fit their specific style and needs.",0.6695117354393005,0.010868201032280922,0.3196200728416443,positive,0.6586435437202454
+107,2018-02-20 07:24:00,"New this year, as part of our exclusive Hampton Bay collection, we are offering cushion guard technology, which guarantees water repellency as well as protection from fading and stains.",0.40240705013275146,0.00810505636036396,0.5894879102706909,neutral,0.39430198073387146
+108,2018-02-20 07:24:00,This gives our customers peace of mind and reassurance that they are purchasing quality material at an everyday low price.,0.28007274866104126,0.014345639385282993,0.7055816650390625,neutral,0.26572710275650024
+109,2018-02-20 07:24:00,"With that, I'd like to turn the call over to Carol.",0.07499536126852036,0.010893501341342926,0.9141111373901367,neutral,0.06410185992717743
+110,2018-02-20 07:24:00,"Thank you, Ted, and good morning, everyone.",0.16625136137008667,0.021994946524500847,0.8117536902427673,neutral,0.14425641298294067
+111,2018-02-20 07:24:00,"In the fourth quarter, total sales were $23.9 billion, an increase of 7.5%.",0.941848635673523,0.0174722783267498,0.040679167956113815,positive,0.924376368522644
+112,2018-02-20 07:24:00,"Through last year, a weaker US dollar positively impacted total sales growth by approximately $100 million, or 0.5%.",0.08217444270849228,0.8813029527664185,0.036522675305604935,negative,-0.799128532409668
+113,2018-02-20 07:24:00,"Additionally, we estimate that hurricane related sales positively impacted total company sales growth in the quarter by 1.7%, or $380 million.",0.07648753374814987,0.8902790546417236,0.03323343023657799,negative,-0.8137915134429932
+114,2018-02-20 07:24:00,"Our total company comps, or same-store sales, were positive 7.5% for the quarter, with positive comps of 8.3% in November, 11.5% in December, and 3.1% in January.",0.6237139105796814,0.18124394118785858,0.19504213333129883,positive,0.4424699544906616
+115,2018-02-20 07:24:00,"Comps for US stores were positive 7.2% for the quarter, with positive comps of 8.2% in November, 11.4% in December, and 2.5% in January.",0.7834405303001404,0.12108484655618668,0.09547470510005951,positive,0.6623556613922119
+116,2018-02-20 07:24:00,Our monthly comps were distorted by the timing of Christmas.,0.02475999854505062,0.9460374712944031,0.02920261211693287,negative,-0.9212774634361267
+117,2018-02-20 07:24:00,"This year, the Christmas holiday fell in our fiscal January rather than December.",0.02575083263218403,0.8555248975753784,0.11872423440217972,negative,-0.8297740817070007
+118,2018-02-20 07:24:00,"Adjusting for this timing shift, our total company comps would have bee 8.3% in November, 8.5% in December, and 5.8% in January.",0.0658734068274498,0.09931741654872894,0.8348091244697571,neutral,-0.033444009721279144
+119,2018-02-20 07:24:00,"For Fiscal 2017, our sales increased 6.7% to $100.9 billion, and total company comp sales were positive 6.8%.",0.94928377866745,0.015836076810956,0.03488010913133621,positive,0.9334477186203003
+120,2018-02-20 07:24:00,Comps for US stores were positive 6.9%.,0.8864818215370178,0.05210350081324577,0.06141471117734909,positive,0.8343783020973206
+121,2018-02-20 07:24:00,"During the year, foreign exchange rates positively impacted total sales growth by approximately $67 million, or 0.1%.",0.1881517916917801,0.7562884092330933,0.055559851229190826,negative,-0.5681366324424744
+122,2018-02-20 07:24:00,"In the fourth quarter, our gross margin was 33.9%, a decline of 12 basis points from last year.",0.02264213003218174,0.9692241549491882,0.008133736439049244,negative,-0.946582019329071
+123,2018-02-20 07:24:00,We attribute the modest decline in our gross margin primarily to lower margin hurricane related sales.,0.02169150486588478,0.9575515985488892,0.020756829530000687,negative,-0.9358600974082947
+124,2018-02-20 07:24:00,"For the year, we experienced 11 basis points of gross margin contractions in line with our plan.",0.14221446216106415,0.8223748803138733,0.035410672426223755,negative,-0.680160403251648
+125,2018-02-20 07:24:00,"In the fourth quarter, operating expense as a percent of sales decreased by 30 basis points to 20.5%.",0.04406146705150604,0.9455540776252747,0.01038446370512247,negative,-0.9014925956726074
+126,2018-02-20 07:24:00,Our expense leverage was driven primarily by our strong sales performance.,0.36870095133781433,0.008322578854858875,0.6229764819145203,neutral,0.3603783845901489
+127,2018-02-20 07:24:00,"During the quarter, we had a few expenses that we did not plan.",0.02415708266198635,0.7139863967895508,0.2618565559387207,negative,-0.6898292899131775
+128,2018-02-20 07:24:00,"First, as a result of the one-time cash bonus stemming from tax reform, we incurred approximately $117 million of incremental expense.",0.09802982211112976,0.6332237124443054,0.268746554851532,negative,-0.535193920135498
+129,2018-02-20 07:24:00,"And, we incurred approximately $66 million of hurricane related expenses.",0.030173925682902336,0.5176095962524414,0.4522164762020111,negative,-0.4874356687068939
+130,2018-02-20 07:24:00,"Fiscal 2017 operating expense as a percent of sales was 19.5%, a decrease of 47 basis points from last year.",0.02036052569746971,0.9707469940185547,0.008892528712749481,negative,-0.9503864645957947
+131,2018-02-20 07:24:00,"For the year, our expenses grew at approximately 63% of our sales growth rate.",0.35132285952568054,0.010035078041255474,0.6386420726776123,neutral,0.3412877917289734
+132,2018-02-20 07:24:00,"Ignoring hurricane related sales and expense and backing out the one-time bonus, our expenses grew at approximately 45% of our sales growth rate in Fiscal 2017.",0.22968478500843048,0.019578779116272926,0.7507364153862,neutral,0.2101060003042221
+133,2018-02-20 07:24:00,"Our operating margin for the fourth quarter was 13.4%, and for the year was 14.6%.",0.031355880200862885,0.06097804009914398,0.9076660871505737,neutral,-0.029622159898281097
+134,2018-02-20 07:24:00,"Interest and other expense for the fourth quarter grew by $11 million to $246 million, reflecting for the most part, a higher long-term debt balance versus last year.",0.9478936791419983,0.02333354577422142,0.028772693127393723,positive,0.9245601296424866
+135,2018-02-20 07:24:00,"In the fourth quarter, our effective tax rate was 39.6%, compared to 35.2% in the fourth quarter of Fiscal 2016.",0.26877090334892273,0.6866877675056458,0.04454132542014122,negative,-0.417916864156723
+136,2018-02-20 07:24:00,"In the fourth quarter, we recorded a net tax expense of approximately $127 million, resulting from tax reform.",0.05103946104645729,0.22809118032455444,0.7208693623542786,neutral,-0.17705172300338745
+137,2018-02-20 07:24:00,"While this is a provisional charge, it was slightly better than our initial estimates.",0.8574122190475464,0.047579050064086914,0.09500880539417267,positive,0.8098331689834595
+138,2018-02-20 07:24:00,"Our diluted earnings per share for the fourth quarter were $1.52, an increase of 5.6% from last year.",0.9362888932228088,0.03769886493682861,0.02601226419210434,positive,0.8985900282859802
+139,2018-02-20 07:24:00,"For the year, diluted earnings per share were $7.29, an increase of 13% compared to Fiscal 2016.",0.9499654173851013,0.02374015562236309,0.026294447481632233,positive,0.9262252449989319
+140,2018-02-20 07:24:00,Our fourth quarter and Fiscal 2017 diluted earnings per share were negatively impacted by approximately $0.17 due to the one-time bonus and net tax expense previously mentioned.,0.018779484555125237,0.9566628336906433,0.02455773577094078,negative,-0.9378833770751953
+141,2018-02-20 07:24:00,"Moving on to some additional highlights, during the fiscal year, we opened six new stores, including three in the US and three in Mexico, for an ending store count of 2,284.",0.5350999236106873,0.01586729660630226,0.4490327835083008,positive,0.5192326307296753
+142,2018-02-20 07:24:00,Selling square footage at the end of the year was 237 million square feet.,0.01398400031030178,0.01679782196879387,0.9692182540893555,neutral,-0.0028138216584920883
+143,2018-02-20 07:24:00,"For the fiscal year, total sales per square foot increased 6.7% to $417.00, the highest level since Fiscal 1999.",0.9535878300666809,0.019246749579906464,0.02716534398496151,positive,0.9343410730361938
+144,2018-02-20 07:24:00,"At the end of the quarter, merchandise inventories were $12.7 billion, up $199 million from last year.",0.9523088932037354,0.024848004803061485,0.0228431336581707,positive,0.9274609088897705
+145,2018-02-20 07:24:00,"Inventory turns were 5.1 times, up from 4.9 times last year.",0.9504326581954956,0.026951558887958527,0.0226158257573843,positive,0.9234811067581177
+146,2018-02-20 07:24:00,"Moving on to capital allocation, in Fiscal 2017, we generated approximately $12.3 billion of cash from the business and used that cash, as well as proceeds from $3.3 billion of both short- and long-term debt issuances, to invest in the business.",0.14881369471549988,0.005908429156988859,0.8452779054641724,neutral,0.14290526509284973
+147,2018-02-20 07:24:00,We purchased our shares and paid dividends to our shareholders.,0.035250261425971985,0.005502165295183659,0.9592475295066833,neutral,0.0297480970621109
+148,2018-02-20 07:24:00,"During the year, we invested approximately $2.3 billion back into the business through capital expenditures and acquisitions.",0.4065723419189453,0.010223598219454288,0.5832040309906006,neutral,0.3963487446308136
+149,2018-02-20 07:24:00,"Further, we repurchased approximately $8 billion, or about 49.5 million, of our outstanding shares, including roughly $2.1 billion, or 11.5 million shares, in the fourth quarter.",0.07558149844408035,0.00788962934166193,0.9165288209915161,neutral,0.067691870033741
+150,2018-02-20 07:24:00,"Finally, during the year, we paid $4.2 billion in dividends.",0.08285416662693024,0.009227595292031765,0.9079182147979736,neutral,0.0736265704035759
+151,2018-02-20 07:24:00,"Computing on the average of beginning and ending long-term debt and equity for the trailing 12 months, return on invested capital was approximately 34.2%, 280 basis points higher than the end of Fiscal 2016.",0.9232280850410461,0.02033817209303379,0.05643375217914581,positive,0.9028899073600769
+152,2018-02-20 07:24:00,Today's press release includes our guidance for Fiscal 2018.,0.014855558052659035,0.007959163747727871,0.9771853089332581,neutral,0.006896394304931164
+153,2018-02-20 07:24:00,I want to take a few moments to comment on the highlights.,0.02748587541282177,0.010636168532073498,0.9618779420852661,neutral,0.016849707812070847
+154,2018-02-20 07:24:00,"Remember that we guide off of GAAP, so Fiscal 2018 guidance will launch from our reported results from Fiscal 2017.",0.030848359689116478,0.008445605635643005,0.9607059955596924,neutral,0.022402754053473473
+155,2018-02-20 07:24:00,There are a few things to keep in mind when thinking about our Fiscal 2018.,0.02235809713602066,0.013546356000006199,0.9640955328941345,neutral,0.008811741136014462
+156,2018-02-20 07:24:00,"First, Fiscal 2018 will include a 53rd week.",0.0157536081969738,0.011372871696949005,0.9728735685348511,neutral,0.0043807365000247955
+157,2018-02-20 07:24:00,"So, the fourth quarter of Fiscal 2018 will consist of 14 weeks.",0.014495349489152431,0.029958609491586685,0.9555460810661316,neutral,-0.015463260002434254
+158,2018-02-20 07:24:00,"We will continue to report comps on a 52-week basis, but we will base our overall guidance on 53 weeks.",0.019361605867743492,0.007132779806852341,0.9735055565834045,neutral,0.012228826060891151
+159,2018-02-20 07:24:00,"Second, beginning in the first quarter of Fiscal 2018, we will adopt ASU 2014-09, which addresses revenue recognition.",0.07318450510501862,0.004927637055516243,0.9218878746032715,neutral,0.06825686991214752
+160,2018-02-20 07:24:00,This accounting standard will not have a material impact on our sales or our operating margin guidance.,0.009262768551707268,0.0208281259983778,0.9699090719223022,neutral,-0.011565357446670532
+161,2018-02-20 07:24:00,"But, it will change the geography of certain items on our income statements.",0.017221909016370773,0.08930698037147522,0.8934711217880249,neutral,-0.07208506762981415
+162,2018-02-20 07:24:00,Our guidance today does not incorporate this new standard.,0.009557360783219337,0.01568986289203167,0.9747527241706848,neutral,-0.006132502108812332
+163,2018-02-20 07:24:00,We will give you a more detailed update during our first quarter conference call in May.,0.023069152608513832,0.006111278664320707,0.9708195328712463,neutral,0.016957873478531837
+164,2018-02-20 07:24:00,"Finally, our guidance incorporates investment plans we laid out in December and the impact of tax reform.",0.034831102937459946,0.004886362701654434,0.960282564163208,neutral,0.02994474023580551
+165,2018-02-20 07:24:00,"So, with that, let's zoom out and look at the macro environments.",0.04085151478648186,0.0074952212162315845,0.951653242111206,neutral,0.03335629403591156
+166,2018-02-20 07:24:00,The US economy is strong and tax reform is net positive for the housing industry.,0.864849865436554,0.0159323550760746,0.11921773850917816,positive,0.8489174842834473
+167,2018-02-20 07:24:00,"We expect higher job growth, higher income growth, and yes, higher mortgage rates.",0.8977711200714111,0.014976764097809792,0.08725219964981079,positive,0.8827943801879883
+168,2018-02-20 07:24:00,"But, with that, comes higher home price appreciation and rising housing demand, which should drive home improvement spending.",0.7672157287597656,0.029801785945892334,0.20298242568969727,positive,0.7374139428138733
+169,2018-02-20 07:24:00,"For Fiscal 2018, we expect sales to grow approximately 6.5% with the extra week adding approximately $1.6 billion in sales.",0.9297606945037842,0.01615789718925953,0.054081324487924576,positive,0.9136027693748474
+170,2018-02-20 07:24:00,"During Fiscal 2018, we expect total company comp sales of approximately 5% and we're planning to open three new stores.",0.10427100211381912,0.005573809612542391,0.8901551961898804,neutral,0.09869719296693802
+171,2018-02-20 07:24:00,"For Fiscal 2018, we are projecting our gross margin rate to be about the same as it was in Fiscal 2017, reflecting for the most part, the benefit of the extra week.",0.19904392957687378,0.01718546263873577,0.7837706804275513,neutral,0.18185846507549286
+172,2018-02-20 07:24:00,"As we discussed during our December investor conference, we have a number of investments planned, which will cause our expense growth factor to be higher than what it's been in the past.",0.8325453400611877,0.012887977063655853,0.1545667052268982,positive,0.8196573853492737
+173,2018-02-20 07:24:00,"Further, with tax reform we have elected to pull some of the investments forward into Fiscal 2018.",0.7366290092468262,0.015551840886473656,0.24781914055347443,positive,0.7210771441459656
+174,2018-02-20 07:24:00,We expect our 2018 operating expenses to grow a little more than 100% of our sales growth rate.,0.8762906789779663,0.01726810447871685,0.10644122213125229,positive,0.8590225577354431
+175,2018-02-20 07:24:00,"For the year, we expect that our operating margin will be approximately 14.5%, with the extra week adding approximately $300 million in operating profit.",0.7173380851745605,0.019031045958399773,0.26363086700439453,positive,0.6983070373535156
+176,2018-02-20 07:24:00,"For Fiscal 2018, incorporating tax reform, we estimate our effective tax rate to be approximately 26%.",0.07828662544488907,0.009142864495515823,0.9125704765319824,neutral,0.06914375722408295
+177,2018-02-20 07:24:00,"We expect Fiscal 2018 diluted earnings per share to grow approximately 28% to $9.31, with the 53rd week contributing approximately $0.19.",0.9539593458175659,0.018751947209239006,0.02728867717087269,positive,0.9352074265480042
+178,2018-02-20 07:24:00,Our earnings per share guidance includes our plan to repurchase approximately $4 billion of outstanding shares during the year.,0.05042877420783043,0.004796481691300869,0.9447747468948364,neutral,0.045632291585206985
+179,2018-02-20 07:24:00,"For the year, we project cash flow from the business of roughly $14.1 billion, which includes about $1.8 billion of cash resulting from tax reform.",0.1454659104347229,0.007061416283249855,0.8474726676940918,neutral,0.1384044885635376
+180,2018-02-20 07:24:00,We will invest $2.5 billion of this cash back into the business in support of the strategic initiatives we outlined at our investor conference.,0.4704340994358063,0.008168900385499,0.5213969945907593,neutral,0.4622651934623718
+181,2018-02-20 07:24:00,We will also use this cash to pay $4.8 billion of dividends.,0.0824337899684906,0.006175491027534008,0.9113907217979431,neutral,0.07625830173492432
+182,2018-02-20 07:24:00,"As Craig mentioned, we just announced a 15.7% increase in our quarterly dividend, which equates to an annual dividend of $4.12, in line with our targeting dividend payout ratio of 55% of earnings.",0.944794774055481,0.015418585389852524,0.03978666663169861,positive,0.9293761849403381
+183,2018-02-20 07:24:00,"Finally, we will repurchase $4 billion of outstanding shares.",0.06542987376451492,0.005106645170599222,0.9294635057449341,neutral,0.06032322719693184
+184,2018-02-20 07:24:00,Note that this is a preliminary share repurchase target and may be adjusted throughout the year.,0.04497544467449188,0.008686643093824387,0.9463379383087158,neutral,0.036288801580667496
+185,2018-02-20 07:24:00,"At our investor conference in December, we shared with you our long-term financial targets and our strategy to create One Home Depot.",0.2461826205253601,0.006735637318342924,0.7470817565917969,neutral,0.2394469827413559
+186,2018-02-20 07:24:00,"Over the next three years, we will nearly double our investments into the business to enhance the customer experience, invest for the future, and create value.",0.8851813673973083,0.01189453061670065,0.10292405635118484,positive,0.8732868432998657
+187,2018-02-20 07:24:00,"Today, we are reaffirming and updating our long-term targets.",0.2630424499511719,0.008255020715296268,0.7287025451660156,neutral,0.254787415266037
+188,2018-02-20 07:24:00,"By Fiscal 2020, we are aiming to grow our sales to a range of $115-120 billion with an operating margin of 14.4-15%.",0.8943545818328857,0.011461775749921799,0.09418359398841858,positive,0.8828927874565125
+189,2018-02-20 07:24:00,"Reflecting the impact of tax reform and a resulting higher net operating profit after tax, we now believe our return on invested capital in Fiscal 2020 will be more than 40%.",0.9433908462524414,0.018589939922094345,0.038019176572561264,positive,0.9248009324073792
+190,2018-02-20 07:24:00,"So, we thank you for your participation in today's call.",0.4402044117450714,0.0140081737190485,0.5457874536514282,neutral,0.42619624733924866
+191,2018-02-20 07:24:00,"Abby, we are now ready for questions.",0.09609785676002502,0.014843226410448551,0.8890589475631714,neutral,0.08125463128089905
+192,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+193,2018-02-20 07:24:00,[Operator instructions] We will take our first question from Simeon Gutman with Morgan Stanley.,0.03325812518596649,0.008121022023260593,0.9586208462715149,neutral,0.025137104094028473
+194,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+195,2018-02-20 07:24:00,Thanks.,0.17633011937141418,0.04143369942903519,0.7822362184524536,neutral,0.1348964273929596
+196,2018-02-20 07:24:00,"Good morning, everyone.",0.20900587737560272,0.031081542372703552,0.7599125504493713,neutral,0.17792433500289917
+197,2018-02-20 07:24:00,"Congratulations, Diane.",0.2780841588973999,0.02732991613447666,0.694585919380188,neutral,0.2507542371749878
+198,2018-02-20 07:24:00,"My first question is on the top line, the fourth quarter.",0.018708011135458946,0.010181499645113945,0.9711105227470398,neutral,0.008526511490345001
+199,2018-02-20 07:24:00,You're cycling two warm winters.,0.08789633214473724,0.04247119277715683,0.8696324825286865,neutral,0.045425139367580414
+200,2018-02-20 07:24:00,"I realize the hurricane was some benefit in the quarter, but if you look at the underlying run rate of the business, is there anything to glean?",0.15943148732185364,0.011800963431596756,0.8287675976753235,neutral,0.14763052761554718
+201,2018-02-20 07:24:00,Like the fact that some of these categories are still hanging in despite you've had more normalized weather?,0.0781543031334877,0.04523139074444771,0.8766142725944519,neutral,0.03292291238903999
+202,2018-02-20 07:24:00,Does that mean we should see an even stronger spring when we get there?,0.27456599473953247,0.04889180138707161,0.6765422224998474,neutral,0.22567419707775116
+203,2018-02-20 07:24:00,"We're first of all very pleased with the performance in the quarter, both across categories as well as geographies.",0.8685105443000793,0.013361437246203423,0.11812802404165268,positive,0.8551490902900696
+204,2018-02-20 07:24:00,"To your point, we definitely had benefit from hurricane recovery sales, particularly offset by a real winter in January this year.",0.9166508913040161,0.020814450457692146,0.0625346228480339,positive,0.8958364129066467
+205,2018-02-20 07:24:00,"Carol, you might want to share how we made up the fourth quarter.",0.10908912122249603,0.011491534300148487,0.8794193863868713,neutral,0.09759758412837982
+206,2018-02-20 07:24:00,Yeah.,0.26731187105178833,0.08938504010438919,0.6433030962944031,neutral,0.17792683839797974
+207,2018-02-20 07:24:00,We were really pleased with the results in the fourth quarter.,0.8647142052650452,0.013812974095344543,0.12147284299135208,positive,0.8509012460708618
+208,2018-02-20 07:24:00,"Clearly, the hurricane sales were higher than what we had included in our guidance at the end of the third quarter, so we were pleased with that.",0.9253909587860107,0.018098134547472,0.05651099234819412,positive,0.9072928428649902
+209,2018-02-20 07:24:00,"But, just the underlying business was very strong.",0.5232608914375305,0.013236275874078274,0.46350279450416565,positive,0.5100246071815491
+210,2018-02-20 07:24:00,We had winter.,0.06251206994056702,0.02256791479885578,0.9149200320243835,neutral,0.039944157004356384
+211,2018-02-20 07:24:00,"If you look at the month of January alone and the comps across our divisions, the comp in the Western division and Southern division in the month of January was higher than the comp for the company for the quarter.",0.8470566868782043,0.042981069535017014,0.10996227711439133,positive,0.8040755987167358
+212,2018-02-20 07:24:00,"Now, in the North, where we had real winter, our comp was low single-digit, as you expected.",0.03300370275974274,0.1841605305671692,0.7828357219696045,neutral,-0.15115682780742645
+213,2018-02-20 07:24:00,"So that means we should have a pretty good spring, I would think, when you have a normal winter.",0.27875563502311707,0.018679393455386162,0.7025649547576904,neutral,0.26007625460624695
+214,2018-02-20 07:24:00,"Looking at the housing market in total, and looing at the market color you guys have, in more mature markets, where the housing market has already recovered, can you talk about any trends, good or bad, and then alternatively, in less mature recovery markets, anything that you're seeing that's encouraging about the pace of sales in those markets?",0.0858575627207756,0.016837721690535545,0.8973047733306885,neutral,0.06901983916759491
+215,2018-02-20 07:24:00,"If you look at the variability in our regions, the spread was a bit wider than we've seen in the past several quarters, but that's because of the hurricane related sales, where we had high high double-digit comps.",0.2763011157512665,0.11785203963518143,0.6058468222618103,neutral,0.15844908356666565
+216,2018-02-20 07:24:00,"But, if you ignore the hurricane related sales, you actually see the variability tightening.",0.05556197836995125,0.10047687590122223,0.8439611196517944,neutral,-0.04491489753127098
+217,2018-02-20 07:24:00,That's because the economic environment in the cities that have recovered is robust and there is a housing shortage.,0.5806475281715393,0.050829317420721054,0.36852312088012695,positive,0.5298182368278503
+218,2018-02-20 07:24:00,"So, let's take a look at San Francisco, for example.",0.039806678891181946,0.01333686150610447,0.9468563795089722,neutral,0.026469817385077477
+219,2018-02-20 07:24:00,San Francisco is very robust.,0.8269320726394653,0.015974080190062523,0.1570938378572464,positive,0.8109579682350159
+220,2018-02-20 07:24:00,The month's supply in San Francisco are [inaudible -- recording breaks up] [00:29:08] .,0.03336960822343826,0.7974969744682312,0.16913342475891113,negative,-0.7641273736953735
+221,2018-02-20 07:24:00,"So, we continue to see strong growth there.",0.9302133321762085,0.014390164986252785,0.05539644509553909,positive,0.9158231616020203
+222,2018-02-20 07:24:00,"And areas of the country that haven't fully recovered -- good news there, too.",0.8026441931724548,0.026644526049494743,0.17071124911308289,positive,0.7759996652603149
+223,2018-02-20 07:24:00,Housing as an asset class across the country continues to be very good.,0.7992547154426575,0.013156461529433727,0.1875889003276825,positive,0.7860982418060303
+224,2018-02-20 07:24:00,"If you look at a market like Dallas, which has had tremendous growth in home value appreciations, the affordability index is still terrific.",0.7323406934738159,0.01479361392557621,0.25286567211151123,positive,0.7175470590591431
+225,2018-02-20 07:24:00,"So, we're looking at housing continuing to be a tailwind for us.",0.05756419524550438,0.14923346042633057,0.7932023406028748,neutral,-0.09166926145553589
+226,2018-02-20 07:24:00,Thank you very much.,0.21456867456436157,0.014343257062137127,0.7710880041122437,neutral,0.20022541284561157
+227,2018-02-20 07:24:00,We will take our next question from Brian Nagel with Oppenheimer.,0.030856285244226456,0.016629640012979507,0.952514111995697,neutral,0.014226645231246948
+228,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+229,2018-02-20 07:24:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+230,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+231,2018-02-20 07:24:00,Nice quarter.,0.4694533944129944,0.02395138144493103,0.506595253944397,neutral,0.44550201296806335
+232,2018-02-20 07:24:00,"Congratulations, Diane.",0.2780841588973999,0.02732991613447666,0.694585919380188,neutral,0.2507542371749878
+233,2018-02-20 07:24:00,I wanted to follow-up on Simeon's question on hurricanes.,0.09220537543296814,0.035797640681266785,0.8719969391822815,neutral,0.056407734751701355
+234,2018-02-20 07:24:00,"If we look at the cadence of business in the last couple of quarters, it seems like you actually got a bigger benefit from hurricanes here in the fourth quarter, which was a surprise to us.",0.7399383187294006,0.026351777836680412,0.23370984196662903,positive,0.7135865688323975
+235,2018-02-20 07:24:00,"Any new insights in watching these sales come through, as to how long these benefits could persist into 2018?",0.1744854897260666,0.008335672318935394,0.8171788454055786,neutral,0.1661498248577118
+236,2018-02-20 07:24:00,"Overall, the fourth quarter was almost comparable to the third quarter in terms of total benefit.",0.3476836681365967,0.025071073323488235,0.6272452473640442,neutral,0.32261258363723755
+237,2018-02-20 07:24:00,Fourth quarter was slightly stronger than what we had anticipated.,0.8886865377426147,0.03276956453919411,0.07854387909173965,positive,0.8559169769287109
+238,2018-02-20 07:24:00,"When we look at the go forward in the business for 2018, we expect the sales from hurricanes to be somewhat comparable to what we experienced in 2017 overall, and most of that coming in the first half of the year.",0.23432657122612,0.016322031617164612,0.7493513822555542,neutral,0.21800453960895538
+239,2018-02-20 07:24:00,"Just to put some numbers behind that, we believe we had $662 million of hurricane related sales in the back half of 2017, and we expect to have that same number of sales in 2018.",0.11911618709564209,0.01163921132683754,0.8692445755004883,neutral,0.10747697949409485
+240,2018-02-20 07:24:00,The difference is that the 2018 sales will be a little bit more profitable than what we experienced in 2017.,0.5012013912200928,0.022660985589027405,0.47613760828971863,positive,0.47854042053222656
+241,2018-02-20 07:24:00,"In fact, when you add it all up, we lost money on those sales.",0.01903885044157505,0.9516945481300354,0.029266538098454475,negative,-0.9326556921005249
+242,2018-02-20 07:24:00,We lost about $11 million on those sales in 2017 and we expect to lose a little bit of money on those sales in 2018.,0.025499174371361732,0.908728301525116,0.06577250361442566,negative,-0.88322913646698
+243,2018-02-20 07:24:00,Got it.,0.18765351176261902,0.016000896692276,0.796345591545105,neutral,0.17165261507034302
+244,2018-02-20 07:24:00,"Carol, you mentioned in your prepared comments the pull forward a bit in the cadence of the investments that you laid out and how the tax legislation was just passed.",0.16322222352027893,0.01021089032292366,0.8265668749809265,neutral,0.15301133692264557
+245,2018-02-20 07:24:00,Do you have any color on specifically what investments you're pulling forward earlier?,0.020037714391946793,0.010597256943583488,0.9693650603294373,neutral,0.009440457448363304
+246,2018-02-20 07:24:00,How should we think about the potential of return on those investments?,0.06382602453231812,0.006515475455671549,0.9296584725379944,neutral,0.057310547679662704
+247,2018-02-20 07:24:00,Let me just give you a breakdown of our expense growth factor guidance for 2018.,0.01720334030687809,0.007213910110294819,0.9755827784538269,neutral,0.009989430196583271
+248,2018-02-20 07:24:00,Our core expenses will grow at about 45% of our sales growth next year.,0.2831951677799225,0.007107562851160765,0.7096973061561584,neutral,0.27608761191368103
+249,2018-02-20 07:24:00,"We add to that, then, about 10% related to acquisitions.",0.033517900854349136,0.006406367290765047,0.9600757360458374,neutral,0.027111534029245377
+250,2018-02-20 07:24:00,"As we've talked in the past, our acquisitions have more variable expenses than our core.",0.03285957872867584,0.10419195890426636,0.862948477268219,neutral,-0.07133238017559052
+251,2018-02-20 07:24:00,"So, when you add up core and acquisitions, expenses growing at 55% of our sales growth.",0.038030363619327545,0.015924789011478424,0.9460448622703552,neutral,0.02210557460784912
+252,2018-02-20 07:24:00,"Then the investments that we're making -- add another 46-plus, so that our expenses will be a little more than 100% of our sales growth in 2018.",0.3751566708087921,0.012335941195487976,0.6125074625015259,neutral,0.36282074451446533
+253,2018-02-20 07:24:00,What are we pulling forward?,0.10929496586322784,0.030568178743124008,0.860136866569519,neutral,0.07872678339481354
+254,2018-02-20 07:24:00,"Well, if you remember the pie chart that we shared with you at our investor day and we showed buckets of expense, one of the buckets of expense was a bucket called other.",0.03973991051316261,0.032674092799425125,0.9275859594345093,neutral,0.007065817713737488
+255,2018-02-20 07:24:00,"In that bucket called other, were people expenses.",0.08828065544366837,0.3110910654067993,0.6006282567977905,neutral,-0.22281041741371155
+256,2018-02-20 07:24:00,We are pulling forward some of those people expenses because those are easy things to do.,0.390971839427948,0.011889653280377388,0.597138524055481,neutral,0.37908217310905457
+257,2018-02-20 07:24:00,Some of the other investments we're making takes time.,0.03495810180902481,0.0064141880720853806,0.9586277008056641,neutral,0.02854391373693943
+258,2018-02-20 07:24:00,We talked to you about supply chain as an example.,0.06705233454704285,0.008704397827386856,0.9242432117462158,neutral,0.05834793671965599
+259,2018-02-20 07:24:00,Our supply chain initiative is actually a five-year initiative.,0.21983668208122253,0.006792840082198381,0.7733704447746277,neutral,0.21304383873939514
+260,2018-02-20 07:24:00,"But, the people investments are things that we can pull forward and we think that's the right thing to do.",0.5238463282585144,0.011693041771650314,0.46446067094802856,positive,0.5121532678604126
+261,2018-02-20 07:24:00,Thank you very much.,0.21456867456436157,0.014343257062137127,0.7710880041122437,neutral,0.20022541284561157
+262,2018-02-20 07:24:00,Congrats again.,0.5601788759231567,0.04729694873094559,0.3925241231918335,positive,0.5128819346427917
+263,2018-02-20 07:24:00,Our next question comes from Mike Baker with Deutsche Bank.,0.021893877536058426,0.01708180271089077,0.961024284362793,neutral,0.004812074825167656
+264,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+265,2018-02-20 07:24:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+266,2018-02-20 07:24:00,Thanks.,0.17633011937141418,0.04143369942903519,0.7822362184524536,neutral,0.1348964273929596
+267,2018-02-20 07:24:00,"Can you explain the calendar shift in a little bit more detail, December versus January?",0.03315034508705139,0.02840697020292282,0.9384427070617676,neutral,0.0047433748841285706
+268,2018-02-20 07:24:00,How does Christmas end up in January?,0.04194563999772072,0.03597312420606613,0.9220812320709229,neutral,0.005972515791654587
+269,2018-02-20 07:24:00,"Even when that make that adjustment, January does seem to have been a little bit softer, but is that just the winter weather?",0.030639469623565674,0.1040995866060257,0.8652609586715698,neutral,-0.07346011698246002
+270,2018-02-20 07:24:00,"Michael, it's just our accounting convention.",0.024319976568222046,0.021825311705470085,0.9538547396659851,neutral,0.0024946648627519608
+271,2018-02-20 07:24:00,"We have a 445 close, and it's just when Christmas Day falls.",0.040813930332660675,0.03846811503171921,0.9207179546356201,neutral,0.0023458153009414673
+272,2018-02-20 07:24:00,"Christmas this year was a Sunday more Monday and, anyway, it just fell into another month.",0.036675017327070236,0.1520262360572815,0.8112987279891968,neutral,-0.11535121500492096
+273,2018-02-20 07:24:00,It's just calendar.,0.057377491146326065,0.07052791863679886,0.8720945715904236,neutral,-0.013150427490472794
+274,2018-02-20 07:24:00,That's all it is.,0.038254670798778534,0.011327787302434444,0.9504175782203674,neutral,0.026926882565021515
+275,2018-02-20 07:24:00,"In terms of our January comp, even on an adjusted basis, it was lower than the previous two months.",0.01928064599633217,0.9675713181495667,0.013147972524166107,negative,-0.9482906460762024
+276,2018-02-20 07:24:00,"But, we had a winter in January.",0.034290533512830734,0.21818336844444275,0.7475261092185974,neutral,-0.18389283120632172
+277,2018-02-20 07:24:00,"Our Western and Southern divisions, in the month of January, comps were higher than the company average for the quarter.",0.9482709765434265,0.023648560047149658,0.028080454096198082,positive,0.9246224164962769
+278,2018-02-20 07:24:00,"But, in the North, where we had winter, it was low single digits.",0.022404061630368233,0.11702868342399597,0.8605672121047974,neutral,-0.09462462365627289
+279,2018-02-20 07:24:00,Right.,0.15228153765201569,0.04138581082224846,0.8063325881958008,neutral,0.11089572310447693
+280,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+281,2018-02-20 07:24:00,That makes sense.,0.15861138701438904,0.01709693670272827,0.8242917060852051,neutral,0.14151445031166077
+282,2018-02-20 07:24:00,"Rates -- it doesn't seem like it's an issue yet, but I think in the past, you've given some color on where's that breakpoint where we start to become worried about rates, either measured on a 10-year bond or a 30-year fixed mortgage or however you look at it?",0.08390460163354874,0.15917524695396423,0.7569201588630676,neutral,-0.0752706453204155
+283,2018-02-20 07:24:00,30-year rates today are 4.2%.,0.07121939957141876,0.02432216703891754,0.9044584631919861,neutral,0.04689723253250122
+284,2018-02-20 07:24:00,The consensus estimate for 2018 is 4.3%.,0.0385531447827816,0.0244224201887846,0.9370244145393372,neutral,0.014130724593997002
+285,2018-02-20 07:24:00,I've seen a high estimate out there of 4.6%.,0.10851123183965683,0.013647442683577538,0.8778413534164429,neutral,0.09486378729343414
+286,2018-02-20 07:24:00,"But, to put into perspective, our math suggests that for every 25 basis points of a mortgage rate increase, it's $40.00 of additional mortgage interest per month.",0.2882625162601471,0.012950774282217026,0.6987866759300232,neutral,0.27531173825263977
+287,2018-02-20 07:24:00,"So, we don't see any concern with a rising interest rate over the next several years actually.",0.02694644406437874,0.015668364241719246,0.9573851823806763,neutral,0.011278079822659492
+288,2018-02-20 07:24:00,Remember that historical 30-year mortgage is 5.6%.,0.018841668963432312,0.010717655532062054,0.9704407453536987,neutral,0.008124013431370258
+289,2018-02-20 07:24:00,"The affordability index, broadly speaking, is still very good at over 155%.",0.8570553064346313,0.015681790187954903,0.1272628903388977,positive,0.8413735032081604
+290,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+291,2018-02-20 07:24:00,Appreciate the color.,0.23818641901016235,0.014297498390078545,0.7475160956382751,neutral,0.22388891875743866
+292,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+293,2018-02-20 07:24:00,Our next question comes from Michael Lasser with UBS.,0.022542793303728104,0.013197115622460842,0.9642601013183594,neutral,0.009345677681267262
+294,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+295,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+296,2018-02-20 07:24:00,"Congratulations, Diane.",0.2780841588973999,0.02732991613447666,0.694585919380188,neutral,0.2507542371749878
+297,2018-02-20 07:24:00,"As we look out over the course [audio cuts out] we expect to see the composition of your same store sales change at all, particularly as you make more ecomm investments and your ecomm comprises a bigger percentage of the total?",0.0881616547703743,0.014318276196718216,0.897520124912262,neutral,0.07384337484836578
+298,2018-02-20 07:24:00,"Or, as you've said in the past, should we expect half coming from ticket and half coming from traffic?",0.030107980594038963,0.010850099846720695,0.9590418934822083,neutral,0.019257880747318268
+299,2018-02-20 07:24:00,"We still look at it on a split of roughly 50/50 over time, coming from ticket and traffic overall.",0.04345718398690224,0.0070865037851035595,0.9494563341140747,neutral,0.03637067973613739
+300,2018-02-20 07:24:00,"From departments, we still have opportunity in larger ticket building material, special order kitchens, lumber -- while lumber has certainly run up in price, the project business is still growing, and we still have significant opportunities.",0.8872396945953369,0.013628344051539898,0.09913195669651031,positive,0.873611330986023
+301,2018-02-20 07:24:00,"So, from a department perspective, we see more continued growth in those departments.",0.890795111656189,0.01350575964897871,0.09569905698299408,positive,0.877289354801178
+302,2018-02-20 07:24:00,"And, Ted, is there anything to read into about the performance of the lighting category?",0.01924550160765648,0.011419207789003849,0.9693352580070496,neutral,0.00782629381865263
+303,2018-02-20 07:24:00,A price deflation in LED has been happening for a long time.,0.1605702042579651,0.4199444651603699,0.41948533058166504,negative,-0.2593742609024048
+304,2018-02-20 07:24:00,Could it be now that the category's just reached either a maturity point or is now starting to shift more online?,0.17555361986160278,0.02685459516942501,0.7975918054580688,neutral,0.14869903028011322
+305,2018-02-20 07:24:00,We see the price deflation continuing into 2018 and we plan for meaningful deflation to continue throughout 2018.,0.12937943637371063,0.013411157764494419,0.8572093844413757,neutral,0.11596827954053879
+306,2018-02-20 07:24:00,"There is some good news with price deflation, though, because we are relamping our stores with LED light.",0.2273155301809311,0.01825007051229477,0.7544344067573547,neutral,0.20906546711921692
+307,2018-02-20 07:24:00,It was a good thing that we waited for this investment because the cost is coming down.,0.44712069630622864,0.04303833469748497,0.5098410248756409,neutral,0.40408235788345337
+308,2018-02-20 07:24:00,Glass half full here.,0.11292974650859833,0.095668725669384,0.7914015650749207,neutral,0.017261020839214325
+309,2018-02-20 07:24:00,Thank you so much.,0.34473732113838196,0.01695277728140354,0.6383098363876343,neutral,0.32778453826904297
+310,2018-02-20 07:24:00,Our next question comes from Seth Sigman with Credit Suisse.,0.020030315965414047,0.012570872902870178,0.9673987627029419,neutral,0.007459443062543869
+311,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+312,2018-02-20 07:24:00,"Thanks a lot, and good morning.",0.2949221730232239,0.02541765198111534,0.6796602010726929,neutral,0.26950451731681824
+313,2018-02-20 07:24:00,Nice quarter.,0.4694533944129944,0.02395138144493103,0.506595253944397,neutral,0.44550201296806335
+314,2018-02-20 07:24:00,"Diane, congrats.",0.3225002884864807,0.051578279584646225,0.6259214282035828,neutral,0.2709220051765442
+315,2018-02-20 07:24:00,I wanted to follow-up on the gross margin outlook for flattish in 2018.,0.05493871122598648,0.007065751124173403,0.9379956126213074,neutral,0.047872960567474365
+316,2018-02-20 07:24:00,I'm wondering if you can reconcile that with the longer-term guidance that calls for a decline of 40 basis points over the next three years.,0.3378286063671112,0.11942009627819061,0.5427513122558594,neutral,0.2184085100889206
+317,2018-02-20 07:24:00,"And, related to that, presumably frayed and mixed could still be headwinds as you look into '18.",0.05430414900183678,0.6437240839004517,0.3019717335700989,negative,-0.589419960975647
+318,2018-02-20 07:24:00,What are you assuming as other offsets in there?,0.016927825286984444,0.015901319682598114,0.9671708345413208,neutral,0.0010265056043863297
+319,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+320,2018-02-20 07:24:00,We've guided gross margin flattish for the year.,0.18510210514068604,0.3028205335140228,0.5120773315429688,neutral,-0.11771842837333679
+321,2018-02-20 07:24:00,That includes the 53rd week.,0.020708346739411354,0.015642566606402397,0.9636490941047668,neutral,0.005065780133008957
+322,2018-02-20 07:24:00,The margin in that 53rd week will be higher because it doesn't have as much fixed cost allocated to it.,0.5734123587608337,0.03523480147123337,0.3913528025150299,positive,0.5381775498390198
+323,2018-02-20 07:24:00,"So, if you ignored the 53rd week, the gross margin for the business would be down call it seven-ish basis points.",0.038698721677064896,0.10964386910200119,0.8516573905944824,neutral,-0.070945143699646
+324,2018-02-20 07:24:00,"We have factored into our outlook a tightening transportation market, higher fuel costs -- although, that has gotten better recently.",0.8677474856376648,0.019641568884253502,0.11261093616485596,positive,0.8481059074401855
+325,2018-02-20 07:24:00,We're going to have to stay close to this.,0.17564675211906433,0.02111843228340149,0.8032348155975342,neutral,0.15452831983566284
+326,2018-02-20 07:24:00,We have lots of cost out opportunities that we will certainly drive.,0.7227059006690979,0.0116044282913208,0.2656897008419037,positive,0.7111014723777771
+327,2018-02-20 07:24:00,"But, the transportation market is tightening.",0.10385335236787796,0.28652048110961914,0.6096261739730835,neutral,-0.18266713619232178
+328,2018-02-20 07:24:00,"We might have a little pressure there, but we'll manage through it.",0.7594837546348572,0.021908871829509735,0.2186073362827301,positive,0.7375748753547668
+329,2018-02-20 07:24:00,"On the delivery from store initiative, I think it's been in stores for over a year now.",0.08764127641916275,0.010935899801552296,0.9014227986335754,neutral,0.07670537382364273
+330,2018-02-20 07:24:00,"Can you speak about the performance, the types of pros that are utilizing it and if you're seeing actually new customer come in, or is it just driving share of existing pros wallet?",0.06712038069963455,0.007604502607136965,0.9252750873565674,neutral,0.059515878558158875
+331,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+332,2018-02-20 07:24:00,"We're very pleased with growth overall in delivery, and we're seeing that happen both with our pro and with our consumer.",0.880379319190979,0.01201628241688013,0.10760439932346344,positive,0.8683630228042603
+333,2018-02-20 07:24:00,Mark's here.,0.19596563279628754,0.013006988912820816,0.7910273671150208,neutral,0.18295864760875702
+334,2018-02-20 07:24:00,I'll let him comment.,0.048508260399103165,0.015914639458060265,0.9355770945549011,neutral,0.03259362280368805
+335,2018-02-20 07:24:00,We're seeing the same kind of mix of pro and consumer that we see across the business.,0.07436323910951614,0.005716047715395689,0.9199207425117493,neutral,0.06864719092845917
+336,2018-02-20 07:24:00,We're very pleased that that store based delivery continues to grow.,0.9128027558326721,0.011949313804507256,0.07524792104959488,positive,0.9008534550666809
+337,2018-02-20 07:24:00,"One highlight there -- we're continuing to roll out the car and van lower cost delivery options to more markets as we go, including our home market of Atlanta now.",0.5249954462051392,0.008644686080515385,0.46635982394218445,positive,0.5163507461547852
+338,2018-02-20 07:24:00,Expect to have that rolled out by spring to all of the major markets.,0.17340828478336334,0.0067751239985227585,0.8198166489601135,neutral,0.16663315892219543
+339,2018-02-20 07:24:00,And the question always is incrementality.,0.06701797246932983,0.03916555270552635,0.8938164710998535,neutral,0.027852419763803482
+340,2018-02-20 07:24:00,"And, based on our analysis, we're driving incremental growth here.",0.7850560545921326,0.012164665386080742,0.20277927815914154,positive,0.7728914022445679
+341,2018-02-20 07:24:00,Very helpful.,0.3645314872264862,0.020971549674868584,0.6144968867301941,neutral,0.34355995059013367
+342,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+343,2018-02-20 07:24:00,Good luck.,0.19168654084205627,0.036697451025247574,0.7716159820556641,neutral,0.154989093542099
+344,2018-02-20 07:24:00,Our next question comes from Matt Fassler with Goldman Sachs.,0.019940124824643135,0.013536014594137669,0.9665238261222839,neutral,0.0064041102305054665
+345,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+346,2018-02-20 07:24:00,Thanks a lot.,0.32342246174812317,0.04129796847701073,0.6352795362472534,neutral,0.28212448954582214
+347,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+348,2018-02-20 07:24:00,"Diane, thanks so much for all of your years.",0.47721001505851746,0.023923158645629883,0.4988667368888855,neutral,0.4532868564128876
+349,2018-02-20 07:24:00,"Isabel, welcome back to you.",0.48314571380615234,0.034156110137701035,0.4826982021331787,positive,0.448989599943161
+350,2018-02-20 07:24:00,"Carol, you gave the adjusted comps on a monthly basis for the total company.",0.01611333154141903,0.012564319185912609,0.9713223576545715,neutral,0.00354901235550642
+351,2018-02-20 07:24:00,Do you have the December and January numbers for the US stores alone?,0.015918787568807602,0.023963797837495804,0.9601173996925354,neutral,-0.008045010268688202
+352,2018-02-20 07:24:00,"It's a 300 basis point shift, so you can just do that math.",0.05054030939936638,0.03628673404455185,0.9131730198860168,neutral,0.01425357535481453
+353,2018-02-20 07:24:00,Great.,0.3208116292953491,0.06538097560405731,0.6138074398040771,neutral,0.2554306387901306
+354,2018-02-20 07:24:00,"If you talk about the transactions under $50.00, we're used to at this point the bigger ticket transactions growing at or close to double-digit and the smaller ticket transactions growing low singles.",0.0334966816008091,0.12619704008102417,0.840306282043457,neutral,-0.09270036220550537
+355,2018-02-20 07:24:00,"Are those transactions being subsumed under visits, i.e.",0.01123737171292305,0.015755530446767807,0.9730070233345032,neutral,-0.004518158733844757
+356,2018-02-20 07:24:00,the visits are coming down and that's just reflected in a bigger ticket?,0.15695630013942719,0.09050383418798447,0.752539873123169,neutral,0.06645246595144272
+357,2018-02-20 07:24:00,Is it a question of market shares and a question of that business being done online?,0.020404547452926636,0.028218034654855728,0.9513774514198303,neutral,-0.007813487201929092
+358,2018-02-20 07:24:00,How should we think about that trend in the small ticket business?,0.02709789201617241,0.018636807799339294,0.9542652368545532,neutral,0.008461084216833115
+359,2018-02-20 07:24:00,"Matt, we've actually done some work in this area.",0.4294225573539734,0.01169484294950962,0.5588826537132263,neutral,0.4177277088165283
+360,2018-02-20 07:24:00,I would start with a comment that this has been impacted by both innovation and inflation.,0.015642810612916946,0.05436650663614273,0.9299907088279724,neutral,-0.038723696023225784
+361,2018-02-20 07:24:00,"I'll let Carol walk through the details of this, but we're pleased with what we're seeing.",0.25244978070259094,0.008748352527618408,0.738801896572113,neutral,0.24370142817497253
+362,2018-02-20 07:24:00,We are.,0.19354002177715302,0.012514268979430199,0.7939457297325134,neutral,0.18102575838565826
+363,2018-02-20 07:24:00,We took our ticket and broke it into quintals.,0.07741612941026688,0.010765821672976017,0.9118180871009827,neutral,0.06665030866861343
+364,2018-02-20 07:24:00,"If you look at the bottom quintal, we see the price has jumped through innovation and inflation 11% over the past couple of years.",0.8435171842575073,0.036245279014110565,0.12023758888244629,positive,0.8072718977928162
+365,2018-02-20 07:24:00,"So, it's moving out of that less than $50.00 bucket into a higher bucket.",0.2703624665737152,0.028835847973823547,0.7008017301559448,neutral,0.24152661859989166
+366,2018-02-20 07:24:00,The other contributor is price inflation in LED light bulbs.,0.03728550672531128,0.7054930925369263,0.25722137093544006,negative,-0.668207585811615
+367,2018-02-20 07:24:00,LED light bulbs would be in that $50.00 bucket.,0.03420483320951462,0.021788353100419044,0.9440068006515503,neutral,0.012416480109095573
+368,2018-02-20 07:24:00,It's just a change in the business model and we're reacting to that change.,0.17934414744377136,0.013810739852488041,0.8068451285362244,neutral,0.1655334085226059
+369,2018-02-20 07:24:00,"Thank you so much, guys.",0.41568243503570557,0.018871920183300972,0.565445601940155,neutral,0.39681050181388855
+370,2018-02-20 07:24:00,Our next question comes from Chuck Grom with Gordon Haskett.,0.018926361575722694,0.015047772787511349,0.9660258293151855,neutral,0.0038785887882113457
+371,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+372,2018-02-20 07:24:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+373,2018-02-20 07:24:00,Thanks.,0.17633011937141418,0.04143369942903519,0.7822362184524536,neutral,0.1348964273929596
+374,2018-02-20 07:24:00,Just a quick modeling question.,0.05403847247362137,0.02132667787373066,0.9246348142623901,neutral,0.03271179646253586
+375,2018-02-20 07:24:00,"On the expense growth factor of slightly north of 100%, should we expect that to be pretty even throughout the year by quarter or are you expecting any lumpiness throughout the year?",0.09565307199954987,0.14724713563919067,0.7570998072624207,neutral,-0.05159406363964081
+376,2018-02-20 07:24:00,It will be lumpy.,0.03551106154918671,0.015246220864355564,0.9492427110671997,neutral,0.020264841616153717
+377,2018-02-20 07:24:00,It will be higher in the first half of the year than in the back half of the year.,0.8467767238616943,0.04871951416134834,0.10450375080108643,positive,0.7980571985244751
+378,2018-02-20 07:24:00,"In the back of the year of '17, we had hurricane related expenses that will not repeat.",0.029703356325626373,0.699639618396759,0.2706570029258728,negative,-0.6699362397193909
+379,2018-02-20 07:24:00,Helpful.,0.18708054721355438,0.07381124794483185,0.739108145236969,neutral,0.11326929926872253
+380,2018-02-20 07:24:00,"Historically, when you have the type of winter that you guys are going through this year -- and us as well -- can you remind us how the business tends to pick back up in the spring, based on your historical experience?",0.09611532092094421,0.011499081738293171,0.8923856616020203,neutral,0.08461623638868332
+381,2018-02-20 07:24:00,It totally is dependent on when spring actually breaks.,0.020561059936881065,0.05402481183409691,0.9254141449928284,neutral,-0.03346375375986099
+382,2018-02-20 07:24:00,That can happen early or late.,0.02475915290415287,0.057581689208745956,0.9176591634750366,neutral,-0.03282253444194794
+383,2018-02-20 07:24:00,Mother nature will control that.,0.0351485013961792,0.012724473141133785,0.9521269798278809,neutral,0.02242402732372284
+384,2018-02-20 07:24:00,"But, what we do see from that type of activity is generally, when you have a harsh winter, you have a lot of garden opportunity with replacement of shrubs.",0.02354111522436142,0.008975093252956867,0.9674838185310364,neutral,0.014566021971404552
+385,2018-02-20 07:24:00,You have ice damage and roofing.,0.10471649467945099,0.5979455709457397,0.2973378896713257,negative,-0.49322909116744995
+386,2018-02-20 07:24:00,"So, there are different types of elements within the business that will actually see a benefit from a hard winter.",0.073672816157341,0.00779897952452302,0.9185282588005066,neutral,0.06587383896112442
+387,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+388,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+389,2018-02-20 07:24:00,Our next question comes from Elizabeth Suzuki with Bank of America Merrill Lynch.,0.028225025162100792,0.02267935872077942,0.949095606803894,neutral,0.005545666441321373
+390,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+391,2018-02-20 07:24:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+392,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+393,2018-02-20 07:24:00,"Generally, when costs are rising -- transportation, labor, general inflation, etc.",0.023139921948313713,0.022299302741885185,0.9545608162879944,neutral,0.0008406192064285278
+394,2018-02-20 07:24:00,-- how much of these cost increases are you able to pass through to the consumer?,0.23308388888835907,0.010377729311585426,0.7565383911132812,neutral,0.2227061539888382
+395,2018-02-20 07:24:00,"First of all, in each situation, with cost in our first cost of goods, we look at that on a case-by-case basis and work with our suppliers to help them try to minimize as many impacts as we possibly can.",0.32365158200263977,0.00843812059611082,0.6679102182388306,neutral,0.31521347165107727
+396,2018-02-20 07:24:00,"Candidly, we look at a portfolio approach to how we actually deal with that.",0.02632693387567997,0.006619288120418787,0.9670537114143372,neutral,0.01970764622092247
+397,2018-02-20 07:24:00,Cost may not necessarily go into a category where we may absorb some costs.,0.02505476213991642,0.008224424906075,0.9667208194732666,neutral,0.016830336302518845
+398,2018-02-20 07:24:00,It could go somewhere else.,0.08448685705661774,0.06029084697365761,0.8552223443984985,neutral,0.02419601008296013
+399,2018-02-20 07:24:00,We obviously look to offset that within our own business to try to hold value for the customer.,0.5112714767456055,0.00947127677500248,0.4792572259902954,positive,0.5018001794815063
+400,2018-02-20 07:24:00,Our next question comes from Dennis McGill with Zelman & Associates.,0.024272803217172623,0.015230919234454632,0.9604963064193726,neutral,0.009041883982717991
+401,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+402,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+403,2018-02-20 07:24:00,"Thank you, everybody.",0.1643044501543045,0.016942396759986877,0.818753182888031,neutral,0.14736205339431763
+404,2018-02-20 07:24:00,"Carol, on investor day, I think you talked about investments adding somewhere in the neighborhood of 50-200 basis points to same store sales growth.",0.4998740255832672,0.012438321486115456,0.4876875877380371,positive,0.4874356985092163
+405,2018-02-20 07:24:00,How did you think about the benefit in '18 when you formed the plan?,0.04831540584564209,0.011415018700063229,0.9402696490287781,neutral,0.03690038621425629
+406,2018-02-20 07:24:00,Not a lot of benefit in '18.,0.06219441816210747,0.05048982799053192,0.8873158097267151,neutral,0.011704590171575546
+407,2018-02-20 07:24:00,We have to first make the investments.,0.06752338260412216,0.006507874466478825,0.9259687066078186,neutral,0.06101550906896591
+408,2018-02-20 07:24:00,"If you think about it, we talked about a lump of $1 billion investment over the next three years.",0.117919921875,0.005280745681375265,0.8767992854118347,neutral,0.1126391738653183
+409,2018-02-20 07:24:00,We're going to ramp up.,0.7111117243766785,0.012846946716308594,0.27604132890701294,positive,0.6982647776603699
+410,2018-02-20 07:24:00,You'll see more of the return in the back half of the three-year planning than you do in the initial part of the three-year plan.,0.17882822453975677,0.010089052841067314,0.811082661151886,neutral,0.1687391698360443
+411,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+412,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+413,2018-02-20 07:24:00,"When you talk about the cash flow from the business and look at the guidance for share repurchases, can you talk about how you thought about getting to that $4 billion number, especially with repatriation being an opportunity?",0.09517175704240799,0.009328478015959263,0.8954997062683105,neutral,0.0858432799577713
+414,2018-02-20 07:24:00,"Also, maybe just update us on where that stands as far as getting that cash back?",0.09853025525808334,0.013739549554884434,0.8877301812171936,neutral,0.08479070663452148
+415,2018-02-20 07:24:00,Yeah.,0.26731187105178833,0.08938504010438919,0.6433030962944031,neutral,0.17792683839797974
+416,2018-02-20 07:24:00,"Based on the cash flow guidance that we've given you and the use of cash, you're like, ""Wow, you're going to have some leftover cash.""",0.315494567155838,0.033140696585178375,0.6513646841049194,neutral,0.28235387802124023
+417,2018-02-20 07:24:00,That's right.,0.1880534589290619,0.024162976071238518,0.7877835631370544,neutral,0.16389048099517822
+418,2018-02-20 07:24:00,We are.,0.19354002177715302,0.012514268979430199,0.7939457297325134,neutral,0.18102575838565826
+419,2018-02-20 07:24:00,We're exploring what to do with that cash.,0.0586974211037159,0.005149741657078266,0.9361528158187866,neutral,0.053547680377960205
+420,2018-02-20 07:24:00,"It could be additional share repurchases, dividends, pay back debt, build cash for the future, and so on.",0.16747988760471344,0.0058568622916936874,0.8266631960868835,neutral,0.1616230309009552
+421,2018-02-20 07:24:00,"We're going to take our time to think through this and, as we determine what to do with the cash, we will let you know.",0.11233416199684143,0.006257169414311647,0.88140869140625,neutral,0.10607699304819107
+422,2018-02-20 07:24:00,"The $4 billion specifically is what we had on our investor day, so we just kept that for the year and we'll update you as the year continues.",0.04309564083814621,0.006449567619711161,0.950454831123352,neutral,0.03664607182145119
+423,2018-02-20 07:24:00,Our next question comes from Scot Ciccarelli with RBC Capital Markets.,0.0160669032484293,0.01736479438841343,0.9665683507919312,neutral,-0.0012978911399841309
+424,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+425,2018-02-20 07:24:00,"Good morning, everyone.",0.20900587737560272,0.031081542372703552,0.7599125504493713,neutral,0.17792433500289917
+426,2018-02-20 07:24:00,"Carol, what is the mortgage rate that you think starts to adversely impact home pricing trends?",0.025092897936701775,0.05606171488761902,0.9188453555107117,neutral,-0.030968816950917244
+427,2018-02-20 07:24:00,"Related to that, real estate is a very localized industry.",0.0360260047018528,0.009029777720570564,0.9549441933631897,neutral,0.026996226981282234
+428,2018-02-20 07:24:00,Do you have thoughts regarding the potential impact on home prices in affected areas?,0.011867358349263668,0.030733685940504074,0.9573989510536194,neutral,-0.01886632665991783
+429,2018-02-20 07:24:00,Let's look at the latter part of your question first.,0.018695008009672165,0.01423767302185297,0.9670673608779907,neutral,0.004457334987819195
+430,2018-02-20 07:24:00,"80% of American households are going to have more money this year because of tax reform, given the increase in the standard deduction.",0.8368979692459106,0.01849941350519657,0.14460265636444092,positive,0.8183985352516174
+431,2018-02-20 07:24:00,"Further, many corporations are enjoying lower taxes and we see many corporations taking that cash and investing it in the people, like Home Depot is.",0.16563110053539276,0.011468974873423576,0.8228999376296997,neutral,0.15416212379932404
+432,2018-02-20 07:24:00,We think those two things by themselves offset any negative that could arise with the change in the mortgage interest deduction or the cap on state and local tax deduction.,0.0743158683180809,0.015579200349748135,0.9101049304008484,neutral,0.05873666703701019
+433,2018-02-20 07:24:00,Just a few other things.,0.03478400781750679,0.017474154010415077,0.9477418661117554,neutral,0.017309853807091713
+434,2018-02-20 07:24:00,"On the cap on mortgage interest deduction of $750,000, only 5% of houses that are sold in a year are $750,000 or above.",0.014147870242595673,0.08037460595369339,0.9054775238037109,neutral,-0.06622673571109772
+435,2018-02-20 07:24:00,"So, it's a small subset of what happens in the housing market.",0.011745892465114594,0.012923945672810078,0.9753301739692688,neutral,-0.0011780532076954842
+436,2018-02-20 07:24:00,"As we've talked bout, only about 30% of tax filers itemize, and only about 22% of them itemize for mortgage deductions.",0.010111663490533829,0.05698379501700401,0.9329046010971069,neutral,-0.046872131526470184
+437,2018-02-20 07:24:00,"On the state and local tax front, if you live in California or New York, it's not going to feel very good.",0.025467582046985626,0.24566280841827393,0.728869616985321,neutral,-0.2201952338218689
+438,2018-02-20 07:24:00,"But then, there's a housing shortage.",0.032571956515312195,0.3058134913444519,0.6616145372390747,neutral,-0.2732415199279785
+439,2018-02-20 07:24:00,I commented on San Francisco with 0.8 months of supply.,0.05239725112915039,0.024741150438785553,0.9228615760803223,neutral,0.027656100690364838
+440,2018-02-20 07:24:00,New York City has 2.2 months of supply.,0.0578448623418808,0.009593241848051548,0.9325619339942932,neutral,0.048251621425151825
+441,2018-02-20 07:24:00,We don't actually think there's going to be an impact on housing as a result.,0.022492362186312675,0.2228994071483612,0.7546082139015198,neutral,-0.20040704309940338
+442,2018-02-20 07:24:00,"Although, if you live in New York or California, you may feel it.",0.02928205206990242,0.025335615500807762,0.945382297039032,neutral,0.003946436569094658
+443,2018-02-20 07:24:00,"On mortgage rates, you can't just look at mortgage rates alone.",0.03315884247422218,0.06723875552415848,0.8996024131774902,neutral,-0.034079913049936295
+444,2018-02-20 07:24:00,You have to look at where home prices are going to look at affordability.,0.02661975286900997,0.009680615738034248,0.9636995792388916,neutral,0.016939137130975723
+445,2018-02-20 07:24:00,"But, if you just kept home prices where they are today, it's our view that mortgage rates could go to 7% before there's any issue on the affordability end of it.",0.09461943805217743,0.05364106222987175,0.8517394661903381,neutral,0.04097837582230568
+446,2018-02-20 07:24:00,The other way to look at it is just averages.,0.018652673810720444,0.034799229353666306,0.9465480446815491,neutral,-0.016146555542945862
+447,2018-02-20 07:24:00,The average mortgage rate over the past 30 years is 5.6%.,0.017376363277435303,0.02266785316169262,0.9599557518959045,neutral,-0.005291489884257317
+448,2018-02-20 07:24:00,"So, that might be a good number for us all to land on.",0.32744237780570984,0.017369525507092476,0.6551881432533264,neutral,0.3100728392601013
+449,2018-02-20 07:24:00,Got it.,0.18765351176261902,0.016000896692276,0.796345591545105,neutral,0.17165261507034302
+450,2018-02-20 07:24:00,Thank you very much.,0.21456867456436157,0.014343257062137127,0.7710880041122437,neutral,0.20022541284561157
+451,2018-02-20 07:24:00,Our next question comes from Alan Rifkin with BTIG.,0.023406043648719788,0.014610130339860916,0.961983859539032,neutral,0.008795913308858871
+452,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+453,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+454,2018-02-20 07:24:00,"Congratulations, Diane, and welcome back, Isabel.",0.39897429943084717,0.019416986033320427,0.5816087126731873,neutral,0.3795573115348816
+455,2018-02-20 07:24:00,"Shortly before the tax reform was passed, you laid out your three-year goals.",0.11984513700008392,0.009784987196326256,0.8703699111938477,neutral,0.11006014794111252
+456,2018-02-20 07:24:00,"Presumably, they're going to be incremental investments from the tax savings.",0.1496955305337906,0.0067086974158883095,0.8435957431793213,neutral,0.14298683404922485
+457,2018-02-20 07:24:00,That will result in increased returns.,0.921515166759491,0.012853976339101791,0.06563081592321396,positive,0.9086611866950989
+458,2018-02-20 07:24:00,Why is there no change to the three-year 2020 guidance if the returns by that point should be realized?,0.026882842183113098,0.02130235731601715,0.9518147706985474,neutral,0.005580484867095947
+459,2018-02-20 07:24:00,We're actually not looking to do incremental investment beyond what we shared.,0.09111259877681732,0.00990904401987791,0.8989783525466919,neutral,0.08120355755090714
+460,2018-02-20 07:24:00,$11.1 billion over three years is what we believe that we need to do.,0.2903279960155487,0.007441890425980091,0.7022301554679871,neutral,0.2828861176967621
+461,2018-02-20 07:24:00,"There is an, if you will, do-ability factor to making that all happen.",0.06594214588403702,0.01079336553812027,0.9232645630836487,neutral,0.05514878034591675
+462,2018-02-20 07:24:00,There is not the opportunity to add a whole bunch of new investment on top.,0.05328492075204849,0.020564978942275047,0.9261500835418701,neutral,0.032719939947128296
+463,2018-02-20 07:24:00,"We are pulling some investments forward to make it happen faster, but don't look for us to add a whole new layer of investment on top of the $11.1 billion.",0.39808934926986694,0.011661950498819351,0.590248703956604,neutral,0.3864274024963379
+464,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+465,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+466,2018-02-20 07:24:00,"I believe you said that the flooring category, while comping positive, was below the corporate average.",0.046397220343351364,0.7293180227279663,0.2242847979068756,negative,-0.6829208135604858
+467,2018-02-20 07:24:00,"It seems like, for the first time in many quarters, that is the case.",0.27803391218185425,0.03337947279214859,0.6885865926742554,neutral,0.24465444684028625
+468,2018-02-20 07:24:00,"Can you provide some color as to what is going on in that category, in your opinion?",0.032998085021972656,0.011955251917243004,0.9550465941429138,neutral,0.021042833104729652
+469,2018-02-20 07:24:00,We're very pleased with the performance.,0.8541750311851501,0.013673651032149792,0.13215132057666779,positive,0.8405013680458069
+470,2018-02-20 07:24:00,"You have to remember, Alan, the average is 7.5%.",0.06377233564853668,0.027823051437735558,0.9084046483039856,neutral,0.035949282348155975
+471,2018-02-20 07:24:00,It's very healthy across the flooring portfolio.,0.508908748626709,0.010750881396234035,0.4803403615951538,positive,0.4981578588485718
+472,2018-02-20 07:24:00,Thank you very much.,0.21456867456436157,0.014343257062137127,0.7710880041122437,neutral,0.20022541284561157
+473,2018-02-20 07:24:00,Our next question comes from Christopher Horvers with JP Morgan.,0.01986725814640522,0.014857400208711624,0.9652754068374634,neutral,0.005009857937693596
+474,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+475,2018-02-20 07:24:00,"Thanks, and good morning.",0.296669602394104,0.03136298432946205,0.6719674468040466,neutral,0.26530662178993225
+476,2018-02-20 07:24:00,"Following up on the SG&A to sales growth rate, you guided over the three years 75-90%.",0.2382824867963791,0.012966614216566086,0.7487508654594421,neutral,0.2253158688545227
+477,2018-02-20 07:24:00,Is the pull forward mainly from 2019 into 2018 and how should we think about the cadence of that 75-90% as we look past this year?,0.030920621007680893,0.015313336625695229,0.9537660479545593,neutral,0.015607284381985664
+478,2018-02-20 07:24:00,Is '19 thus lower as a result?,0.13944773375988007,0.5943629741668701,0.266189306974411,negative,-0.45491522550582886
+479,2018-02-20 07:24:00,We pull forward both from '19 and '20.,0.8130378127098083,0.018259894102811813,0.16870230436325073,positive,0.7947779297828674
+480,2018-02-20 07:24:00,We'll update you on 2019 and 2020 guidance when we get to those two years.,0.024798445403575897,0.006364377681165934,0.9688372015953064,neutral,0.01843406818807125
+481,2018-02-20 07:24:00,"But, nothing changes from the overall expense growth factor guidance that we gave you back in December.",0.03964000195264816,0.009326044470071793,0.951033890247345,neutral,0.03031395748257637
+482,2018-02-20 07:24:00,Understood.,0.1541440486907959,0.011029113084077835,0.8348268270492554,neutral,0.14311493933200836
+483,2018-02-20 07:24:00,"As you think about how robust the backdrop here is in home improvement, have there been any changes in terms of the promotional environment?",0.03254956752061844,0.011912519112229347,0.9555379152297974,neutral,0.02063704840838909
+484,2018-02-20 07:24:00,It seems like some prices are being passed through here.,0.13705778121948242,0.014624617993831635,0.848317563533783,neutral,0.12243316322565079
+485,2018-02-20 07:24:00,Is it becoming less promotional?,0.05495091900229454,0.14069764316082,0.8043514490127563,neutral,-0.08574672043323517
+486,2018-02-20 07:24:00,Any change at all sequentially?,0.035782311111688614,0.03260960057377815,0.9316080808639526,neutral,0.0031727105379104614
+487,2018-02-20 07:24:00,I don't think there's been a significant change in the promotional activity.,0.023764686658978462,0.09231887757778168,0.8839163780212402,neutral,-0.06855419278144836
+488,2018-02-20 07:24:00,"If anything, we were less promotional in Q4.",0.06005265563726425,0.7883257269859314,0.15162160992622375,negative,-0.7282730937004089
+489,2018-02-20 07:24:00,"But, the overall market was very similar to prior year.",0.14124898612499237,0.018147259950637817,0.840603768825531,neutral,0.12310172617435455
+490,2018-02-20 07:24:00,Thanks very much.,0.4369763433933258,0.01696130819618702,0.5460623502731323,neutral,0.42001503705978394
+491,2018-02-20 07:24:00,Have a great spring.,0.2364928424358368,0.012914330698549747,0.7505928874015808,neutral,0.22357851266860962
+492,2018-02-20 07:24:00,Our next question comes from Eric Bosshard with Cleveland Research Company.,0.024033723399043083,0.016069797798991203,0.959896445274353,neutral,0.00796392560005188
+493,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+494,2018-02-20 07:24:00,Good morning.,0.219324991106987,0.035897620022296906,0.7447773814201355,neutral,0.1834273636341095
+495,2018-02-20 07:24:00,"In terms of pro and online, what have you learned?",0.10342872142791748,0.009131742641329765,0.887439489364624,neutral,0.09429697692394257
+496,2018-02-20 07:24:00,Any big learnings from those two areas in '17?,0.16761572659015656,0.03303777799010277,0.7993465662002563,neutral,0.1345779448747635
+497,2018-02-20 07:24:00,How do you think about the growth rate in '18 relative to '17 in those areas?,0.05505087226629257,0.017122827470302582,0.9278263449668884,neutral,0.03792804479598999
+498,2018-02-20 07:24:00,"Overall, we were very pleased with our pro business in '17.",0.9125385284423828,0.0161256343126297,0.0713357925415039,positive,0.8964129090309143
+499,2018-02-20 07:24:00,We continue to see growth there.,0.9034562706947327,0.01480200793594122,0.08174172043800354,positive,0.8886542916297913
+500,2018-02-20 07:24:00,"As customers continue to take on bigger projects as a result of feeling good about their home values, we see that continuing as we move into 2018.",0.7534631490707397,0.011302194558084011,0.23523470759391785,positive,0.742160975933075
+501,2018-02-20 07:24:00,"Bill, do you have any other comments on that?",0.023582879453897476,0.018227234482765198,0.9581899642944336,neutral,0.0053556449711322784
+502,2018-02-20 07:24:00,"William G.Lennie -- EVP of Outside Sales and Service
+
+I'd say the other learning is the more dimensional our relationship with our pro is, the stronger our share of wallet becomes.",0.8123412728309631,0.01495291292667389,0.17270582914352417,positive,0.7973883748054504
+503,2018-02-20 07:24:00,"I think that was exemplified by the pros that are managed by our POSs, which was one of our fastest growing areas for our pro business.",0.523491382598877,0.00918013695627451,0.46732842922210693,positive,0.5143112540245056
+504,2018-02-20 07:24:00,"So, it's that pro engagement and that one-on-one recognition that seems to be resonating with the customer.",0.31603720784187317,0.01295008510351181,0.6710127592086792,neutral,0.30308711528778076
+505,2018-02-20 07:24:00,We'll carry that into next year.,0.258049875497818,0.0072739566676318645,0.7346762418746948,neutral,0.25077593326568604
+506,2018-02-20 07:24:00,"As it relates to online, very pleased with what the team was able to accomplish in our online business, setting in a whole new platform we operate on, enhancing our capabilities around search and mobile.",0.9367848038673401,0.01445350144058466,0.048761799931526184,positive,0.9223312735557556
+507,2018-02-20 07:24:00,Kevin's here.,0.20204070210456848,0.012616676278412342,0.7853426337242126,neutral,0.18942402303218842
+508,2018-02-20 07:24:00,I'll let him speak how to we're thinking about '18.,0.03181839734315872,0.016189733520150185,0.9519919157028198,neutral,0.015628663823008537
+509,2018-02-20 07:24:00,"From a learning perspective, it just reinforced what we've been chasing -- chasing the customer.",0.3385276198387146,0.013770587742328644,0.6477017998695374,neutral,0.32475703954696655
+510,2018-02-20 07:24:00,"Wherever they lead us, we invest in significantly to eliminate a lot of friction between the different channels as we pursue our One Home Depot strategy.",0.5964598655700684,0.010019371286034584,0.3935207426548004,positive,0.5864405035972595
+511,2018-02-20 07:24:00,"Investing in expertise and knowledge in the online property, you'll see more of that in 2018, with similar growth aspirations.",0.7499571442604065,0.01112071517854929,0.23892216384410858,positive,0.738836407661438
+512,2018-02-20 07:24:00,We have a consistent track record of over $1 billion of growth in each of the last few years in our online property.,0.801024854183197,0.010457700118422508,0.18851743638515472,positive,0.79056715965271
+513,2018-02-20 07:24:00,We'll look to do that again in '18.,0.07774432003498077,0.007045677397400141,0.9152100086212158,neutral,0.07069864124059677
+514,2018-02-20 07:24:00,The inventory leverage was solid in 2017.,0.8414968848228455,0.018574535846710205,0.1399286538362503,positive,0.8229223489761353
+515,2018-02-20 07:24:00,The two points within that?,0.1135479137301445,0.10623031854629517,0.7802217602729797,neutral,0.007317595183849335
+516,2018-02-20 07:24:00,What contributed to that and how should we think about the path of that moving forward?,0.042787522077560425,0.011761430650949478,0.945451021194458,neutral,0.031026091426610947
+517,2018-02-20 07:24:00,We were very pleased with our overall inventory position as we came through the fourth quarter and finished the fiscal year.,0.8817011713981628,0.014661947265267372,0.10363692045211792,positive,0.8670392036437988
+518,2018-02-20 07:24:00,"Our primary focus, when it comes to inventory, is to maintain in stock.",0.02627037838101387,0.006828491576015949,0.9669011235237122,neutral,0.019441887736320496
+519,2018-02-20 07:24:00,"That is first and foremost, so that we have what the customer needs on the shelf when they come in.",0.04768530651926994,0.004897086415439844,0.9474176168441772,neutral,0.04278821870684624
+520,2018-02-20 07:24:00,"Mark, do you want to make any additional comments?",0.030458899214863777,0.01962875947356224,0.9499123096466064,neutral,0.010830139741301537
+521,2018-02-20 07:24:00,"Customer service begins with in stock, so that's always the top initiative.",0.07210412621498108,0.006843342445790768,0.9210524559020996,neutral,0.06526078283786774
+522,2018-02-20 07:24:00,"But, we expect to continue to leverage inventory as our business continues to grow in the quarter.",0.9277135133743286,0.01485579926520586,0.05743063986301422,positive,0.912857711315155
+523,2018-02-20 07:24:00,"We'll be making some investments as we open new distribution facilities for online, but we continue to expect to leverage our inventory.",0.8561578392982483,0.011219443753361702,0.13262267410755157,positive,0.8449383974075317
+524,2018-02-20 07:24:00,"If you just want a model, model inventory turnaround at 5.35.",0.051565319299697876,0.03271132707595825,0.9157233238220215,neutral,0.018853992223739624
+525,2018-02-20 07:24:00,"Abby, we have time for one more question.",0.057958222925662994,0.017521623522043228,0.9245201945304871,neutral,0.040436599403619766
+526,2018-02-20 07:24:00,Okay.,0.17223595082759857,0.04849379137158394,0.7792702913284302,neutral,0.12374216318130493
+527,2018-02-20 07:24:00,Our last question will come from Daniel Binder with Jefferies.,0.013488996773958206,0.016296986490488052,0.9702140092849731,neutral,-0.002807989716529846
+528,2018-02-20 07:24:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+529,2018-02-20 07:24:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+530,2018-02-20 07:24:00,"On the pro, would you talk a little bit about that gap between DIY and pro?",0.04468390718102455,0.055097226053476334,0.9002189040184021,neutral,-0.010413318872451782
+531,2018-02-20 07:24:00,I know it's been consistently growing faster than DIY.,0.8898371458053589,0.015616188757121563,0.0945465937256813,positive,0.8742209672927856
+532,2018-02-20 07:24:00,Is that accelerating?,0.16504767537117004,0.12031582742929459,0.714636504650116,neutral,0.04473184794187546
+533,2018-02-20 07:24:00,Can you also talk a little bit about the online trends?,0.04585060849785805,0.01721365936100483,0.9369357824325562,neutral,0.028636949136853218
+534,2018-02-20 07:24:00,The one thing we're seeing is that there is a little cloudiness in where the actual purchases are coming from.,0.036029476672410965,0.07101716101169586,0.8929533958435059,neutral,-0.0349876843392849
+535,2018-02-20 07:24:00,"In some cases, you're seeing people that had DIY projects that are now electing their pros to go and do both the purchase and the work.",0.028974279761314392,0.016763757914304733,0.9542620182037354,neutral,0.012210521847009659
+536,2018-02-20 07:24:00,"But, we're very pleased with the DIY growth and seeing strength with our consumer business as well as the pros.",0.8991305232048035,0.013268595561385155,0.08760084211826324,positive,0.8858619332313538
+537,2018-02-20 07:24:00,There is a good balance there.,0.44432103633880615,0.021228574216365814,0.5344504117965698,neutral,0.42309245467185974
+538,2018-02-20 07:24:00,"As far as online, we're pleased with the progress and results.",0.839808464050293,0.012916086241602898,0.14727553725242615,positive,0.8268923759460449
+539,2018-02-20 07:24:00,"We saw strong sales growth in all three end markets -- institutional, multifamily, and trades.",0.9298924207687378,0.013125114142894745,0.05698245391249657,positive,0.9167672991752625
+540,2018-02-20 07:24:00,We continue to see traction in pro purchase in the MRO initiative.,0.9017975926399231,0.014152172952890396,0.08405018597841263,positive,0.887645423412323
+541,2018-02-20 07:24:00,"So, we're pleased with the progress.",0.8767992258071899,0.013883122242987156,0.10931774228811264,positive,0.862916111946106
+542,2018-02-20 07:24:00,And maybe one difference that we are seeing is the rate of growth for the high spend pro is the same as the rate of growth of the low spend pro.,0.07072784006595612,0.011392548680305481,0.917879581451416,neutral,0.059335291385650635
+543,2018-02-20 07:24:00,That's where we are in terms of recovery.,0.2011539191007614,0.013391219079494476,0.7854548692703247,neutral,0.18776270747184753
+544,2018-02-20 07:24:00,"They are busy, which is good news.",0.3265802264213562,0.05246080085635185,0.6209589838981628,neutral,0.27411943674087524
+545,2018-02-20 07:24:00,"One merchandising, one of the merging trends we've seen out there is the connected home.",0.09429308772087097,0.006400506477802992,0.8993064165115356,neutral,0.08789258450269699
+546,2018-02-20 07:24:00,Just wondering when we'll see more from Home Depot on that.,0.04815943166613579,0.00935975182801485,0.9424808025360107,neutral,0.03879968076944351
+547,2018-02-20 07:24:00,"It seems like you're pretty well positioned to capitalize on it, but maybe a little bit further behind some other players in the electronics space in that area of the business.",0.6452895402908325,0.019422058016061783,0.3352883458137512,positive,0.625867486000061
+548,2018-02-20 07:24:00,"Yes, we're roiling out some more dedicated end caps and one-, two-, and three-bay sets as the connected home products come into the store.",0.14180880784988403,0.00664243521168828,0.8515487313270569,neutral,0.13516637682914734
+549,2018-02-20 07:24:00,We're super excited.,0.39163485169410706,0.011846364475786686,0.5965188145637512,neutral,0.37978848814964294
+550,2018-02-20 07:24:00,"There is new product coming from Ring, from Nest, and on light and fan controls by Lutron.",0.25651097297668457,0.007420538458973169,0.7360685467720032,neutral,0.24909043312072754
+551,2018-02-20 07:24:00,"So, across the board, all of our major suppliers are coming up with great innovative product and we're growing the space in the store to merchandise it appropriately.",0.8378331065177917,0.011893680319190025,0.15027321875095367,positive,0.825939416885376
+552,2018-02-20 07:24:00,"The other thing that you'll see is, in general, in every bay in the store where there's an opportunity to have product that is enabled through technology, you'll see that happen over the next five years.",0.1033676415681839,0.005725577007979155,0.8909067511558533,neutral,0.09764206409454346
+553,2018-02-20 07:24:00,It will continue to evolve.,0.32506516575813293,0.007761486805975437,0.6671733260154724,neutral,0.31730368733406067
+554,2018-02-20 07:24:00,"And, it won't be so much a section over the next five years.",0.024124179035425186,0.016190679743885994,0.9596851468086243,neutral,0.007933499291539192
+555,2018-02-20 07:24:00,It will be in every bay in the store.,0.03796040639281273,0.007226375862956047,0.9548132419586182,neutral,0.030734030529856682
+556,2018-02-20 07:24:00,That will happen because the manufacturers are finding ways to enhance their product for the customer.,0.7640820145606995,0.011586680077016354,0.22433137893676758,positive,0.7524953484535217
+557,2018-02-20 07:24:00,"Thank you, everyone, for joining us today.",0.2916015088558197,0.013317112810909748,0.695081353187561,neutral,0.2782844007015228
+558,2018-02-20 07:24:00,We look forward to talking to you on our first quarter call in May.,0.10155877470970154,0.007038880605250597,0.8914023637771606,neutral,0.09451989084482193
+559,2018-02-20 07:24:00,"Ladies and gentlemen, this does conclude today's call.",0.08923595398664474,0.00792304240167141,0.9028409719467163,neutral,0.08131290972232819
+560,2018-02-20 07:24:00,We thank you for your participation.,0.40001219511032104,0.012283037416636944,0.5877047777175903,neutral,0.3877291679382324
+561,2018-02-20 07:24:00,You may now disconnect.,0.03466736525297165,0.06188971921801567,0.9034428596496582,neutral,-0.02722235396504402
+562,2018-02-20 07:24:00,"William G.Lennie -- EVP of Outside Sales and Service
+
+This article is a transcript of this conference call produced for The Motley Fool.",0.013774113729596138,0.011475943960249424,0.9747499227523804,neutral,0.002298169769346714
+563,2018-02-20 07:24:00,"While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript.",0.032834578305482864,0.649779736995697,0.31738564372062683,negative,-0.6169451475143433
+564,2018-02-20 07:24:00,"As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings.",0.05683249235153198,0.008310320787131786,0.934857189655304,neutral,0.04852217063307762
+565,2018-02-20 07:24:00,"Please see ourTerms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.",0.011666156351566315,0.010616809129714966,0.9777170419692993,neutral,0.0010493472218513489
+566,2018-02-20 07:24:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+567,2018-02-20 07:24:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+568,2018-02-20 07:24:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+569,2018-02-20 07:24:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+570,2018-02-20 07:24:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+571,2018-02-20 07:24:00,The Motley Fool has the following options: short May 2018 $175 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.012950422242283821,0.029934365302324295,0.9571152329444885,neutral,-0.016983943060040474
+572,2018-02-20 07:24:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+573,2018-02-20 07:24:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+574,2018-02-20 07:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

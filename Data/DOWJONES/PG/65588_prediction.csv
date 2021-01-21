@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-13 07:17:00,"In early trading on Wednesday, shares of Nike topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.2%.",0.9396664500236511,0.031529318541288376,0.0288042351603508,positive,0.9081371426582336
+1,2019-11-13 07:17:00,"Year to date, Nike registers a 22.2% gain.",0.9394323825836182,0.019632792100310326,0.040934763848781586,positive,0.9197995662689209
+2,2019-11-13 07:17:00,"And the worst performing Dow component thus far on the day is Dow, trading down 1.7%.",0.020678536966443062,0.9645865559577942,0.014734834432601929,negative,-0.9439080357551575
+3,2019-11-13 07:17:00,Dow Inc is showing a gain of 8.9% looking at the year to date performance.,0.9453068971633911,0.022040994837880135,0.03265203535556793,positive,0.9232658743858337
+4,2019-11-13 07:17:00,"Two other components making moves today are Intel, trading down 1.1%, and Procter & Gamble, trading up 0.9% on the day.",0.02687353454530239,0.9392299056053162,0.03389659896492958,negative,-0.9123563766479492

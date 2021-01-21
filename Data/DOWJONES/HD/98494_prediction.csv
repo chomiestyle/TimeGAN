@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-22 00:39:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in CVR Energy Inc (Symbol: CVI), where a total volume of 5,257 contracts has been traded thus far today, a contract volume which is representative of approximately 525,700 underlying shares (given that every 1 contract represents 100 underlying shares).",0.03688008710741997,0.010903480462729931,0.9522164463996887,neutral,0.025976605713367462
+1,2017-02-22 00:39:00,"That number works out to 63.7% of CVI's average daily trading volume over the past month, of 825,110 shares.",0.7838073968887329,0.02224191464483738,0.19395065307617188,positive,0.7615655064582825
+2,2017-02-22 00:39:00,"Especially high volume was seen for the $17.50 strike call option expiring March 17, 2017 , with 2,450 contracts trading so far today, representing approximately 245,000 underlying shares of CVI.",0.23971492052078247,0.011309516616165638,0.7489755749702454,neutral,0.2284054011106491
+3,2017-02-22 00:39:00,"Below is a chart showing CVI's trailing twelve month trading history, with the $17.50 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) options are showing a volume of 21,528 contracts thus far today.",0.020695002749562263,0.040141426026821136,0.9391635656356812,neutral,-0.019446423277258873
+4,2017-02-22 00:39:00,"That number of contracts represents approximately 2.2 million underlying shares, working out to a sizeable 58.2% of HD's average daily trading volume over the past month, of 3.7 million shares.",0.14582356810569763,0.01013350859284401,0.8440428972244263,neutral,0.13569006323814392
+5,2017-02-22 00:39:00,"Especially high volume was seen for the $135 strike call option expiring August 18, 2017 , with 1,605 contracts trading so far today, representing approximately 160,500 underlying shares of HD.",0.31762298941612244,0.012004539370536804,0.670372486114502,neutral,0.3056184649467468
+6,2017-02-22 00:39:00,"Below is a chart showing HD's trailing twelve month trading history, with the $135 strike highlighted in orange:
+
+And Chefs' Warehouse Inc (Symbol: CHEF) saw options trading volume of 765 contracts, representing approximately 76,500 underlying shares or approximately 53.7% of CHEF's average daily trading volume over the past month, of 142,555 shares.",0.019687369465827942,0.010298747569322586,0.9700138568878174,neutral,0.009388621896505356
+7,2017-02-22 00:39:00,"Especially high volume was seen for the $15 strike put option expiring April 21, 2017 , with 413 contracts trading so far today, representing approximately 41,300 underlying shares of CHEF.",0.19288358092308044,0.009618772193789482,0.7974976301193237,neutral,0.1832648068666458
+8,2017-02-22 00:39:00,"Below is a chart showing CHEF's trailing twelve month trading history, with the $15 strike highlighted in orange:
+
+For the various different available expirations for CVI options , HD options , or CHEF options , visit StockOptionsChannel.com.",0.010238192975521088,0.022881273180246353,0.9668805003166199,neutral,-0.012643080204725266
+9,2017-02-22 00:39:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

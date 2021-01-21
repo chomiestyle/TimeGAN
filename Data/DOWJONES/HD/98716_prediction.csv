@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-18 06:37:00,Apple Inc. (NASDAQ: AAPL ) has seen its early lead with Siri slip as competing personal digital assistants get smarter.,0.04461558163166046,0.9323073625564575,0.023077012971043587,negative,-0.8876917958259583
+1,2016-10-18 06:37:00,"Its rivals have invested heavily in machine learning and artificial intelligence, and that has paid off.",0.8697550296783447,0.01381317712366581,0.1164318174123764,positive,0.8559418320655823
+2,2016-10-18 06:37:00,"But Apple hopes to rectify that, hiring its first director of AI research in a bid to boost Siri's capabilities.",0.927973210811615,0.01945371739566326,0.05257299542427063,positive,0.9085195064544678
+3,2016-10-18 06:37:00,"Siri Helped Take AI Mainstream, But Fell Behind
+
+Apple didn't create Siri, but it did purchase its digital assistant as an app.",0.3935387134552002,0.023368313908576965,0.583092987537384,neutral,0.3701704144477844
+4,2016-10-18 06:37:00,"Samsung (OTCMKTS: SSNLF ) actually bought the latest AI company from the Siri developers, but that's another story .",0.03972755745053291,0.00808792281895876,0.9521844387054443,neutral,0.03163963556289673
+5,2016-10-18 06:37:00,"Once in the AAPL fold, Siri was baked into iOS and released in 2011 as a tentpole feature of the iPhone 4s.",0.15831661224365234,0.011401839554309845,0.8302814960479736,neutral,0.1469147801399231
+6,2016-10-18 06:37:00,"Since then, Apple has continued to improve the Siri experience and rolled it out to all its iOS devices, the Apple TV, Apple Watch and Mac computers.",0.8772004246711731,0.012066020630300045,0.11073349416255951,positive,0.8651344180107117
+7,2016-10-18 06:37:00,But those improvements have been incremental - Siri's capabilities haven't taken a great leap forward.,0.5740371942520142,0.01871158555150032,0.407251238822937,positive,0.5553256273269653
+8,2016-10-18 06:37:00,"As one of the early examples of mass market artificial intelligence, Siri did well, but AAPL's personal digital assistant has been falling behind.",0.1724550724029541,0.3997970521450043,0.427747905254364,neutral,-0.22734197974205017
+9,2016-10-18 06:37:00,"• Apple CEO Stands Up for Gay Rights in the Work Place
+
+Rivals Microsoft Corporation (NASDAQ: MSFT ), Amazon.com, Inc. (NASDAQ: AMZN ) and especially Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ) have invested heavily in AI, machine learning and the massive server infrastructure needed to support advancing the field.",0.5318770408630371,0.011617322452366352,0.4565056264400482,positive,0.5202597379684448
+10,2016-10-18 06:37:00,"As a result, in the time since Siri first appeared, Apple's personal digital assistant has in many ways been left behind by the competition: Cortana, Alexa, Google Now and the latest, Google Assistant.",0.03786555305123329,0.2427535206079483,0.7193809747695923,neutral,-0.2048879712820053
+11,2016-10-18 06:37:00,"Apple continues to set the standard in seamless integration, but the artificial intelligence advantage the others hold has begun to pay off with the ability to answer more complex questions and predictive capabilities.",0.8167954087257385,0.014566916972398758,0.16863767802715302,positive,0.8022285103797913
+12,2016-10-18 06:37:00,"Google has really thrown down the gauntlet with its new Pixel smartphone , which incorporates Google Assistant as a key, exclusive feature.",0.5163706541061401,0.06410188227891922,0.41952744126319885,positive,0.4522687792778015
+13,2016-10-18 06:37:00,"Carnegie Mellon Professor Becomes Director of New AI Team
+
+Yesterday, Russ Salakhutdinov tweeted that he was joining Apple as a director of AI research .",0.06112798675894737,0.015757305547595024,0.9231146574020386,neutral,0.0453706830739975
+14,2016-10-18 06:37:00,"In the same tweet, he invited applications to work with his new team at AAPL.",0.5025778412818909,0.020887000486254692,0.47653523087501526,positive,0.4816908538341522
+15,2016-10-18 06:37:00,The job posting is for research scientists in machine learning with a PhD.,0.0503450408577919,0.067408487200737,0.8822464942932129,neutral,-0.0170634463429451
+16,2016-10-18 06:37:00,The new AI director is clearly looking to assemble a high profile group.,0.3540209233760834,0.009034693241119385,0.6369444727897644,neutral,0.344986230134964
+17,2016-10-18 06:37:00,There are two significant points in this news.,0.03071727231144905,0.014306794852018356,0.954975962638855,neutral,0.016410477459430695
+18,2016-10-18 06:37:00,• Apple obviously is ramping up its investment in artificial intelligence.,0.8927806615829468,0.01351233758032322,0.09370702505111694,positive,0.8792683482170105
+19,2016-10-18 06:37:00,"Less than two months ago, AAPL made headlines for a machine learning acquisition and formation of a devision with Apple dedicated to the technology .",0.4934943914413452,0.031614720821380615,0.47489088773727417,positive,0.4618796706199646
+20,2016-10-18 06:37:00,"It's not immediately clear how closely integrated the new AI team will be with that machine learning division, but it only makes sense that they will be working closely together.",0.2892727255821228,0.00981499720364809,0.7009122967720032,neutral,0.2794577181339264
+21,2016-10-18 06:37:00,• The second is the choice of Salakhutdinov to fill the director of AI role.,0.075650654733181,0.00994348805397749,0.9144058227539062,neutral,0.06570716947317123
+22,2016-10-18 06:37:00,Based at Carnegie Mellon University - recognized as being a leader in artificial intelligence research - he specializes in neural networks and deep learning.,0.12482989579439163,0.00692121684551239,0.8682488799095154,neutral,0.11790867894887924
+23,2016-10-18 06:37:00,"As CNET points out, his focus has led to being at the forefront of research on enabling AI to learn from raw data .",0.4799366295337677,0.011534526012837887,0.5085288286209106,neutral,0.46840211749076843
+24,2016-10-18 06:37:00,Successfully applying this sort of artificial intelligence research to Siri could result in a super-charged personal digital assistant that leapfrogs the competition.,0.2931707501411438,0.020173214375972748,0.6866559982299805,neutral,0.27299752831459045
+25,2016-10-18 06:37:00,"Outside of Siri, there also are applications for Apple services.",0.01369007583707571,0.00793542806059122,0.9783744812011719,neutral,0.0057546477764844894
+26,2016-10-18 06:37:00,"For example, song recommendations based on user listening patterns on Apple Music.",0.018229179084300995,0.017590932548046112,0.9641798734664917,neutral,0.0006382465362548828
+27,2016-10-18 06:37:00,Apple's hire of Salakhutdinov is a signal that it's serious about artificial intelligence.,0.1752910166978836,0.03504646196961403,0.7896625399589539,neutral,0.14024455845355988
+28,2016-10-18 06:37:00,"The payoff for Siri is that Apple is laying the groundwork to make the leap from being the company that took personal digital assistants mainstream, to being the company with the ""smartest.""",0.811323344707489,0.013752317987382412,0.17492437362670898,positive,0.7975710034370422
+29,2016-10-18 06:37:00,"That would be more than bragging rights - it would be a key selling point to help move more iPhones, iPads, Macs, Apple TVs and Apple Watches.",0.7786042094230652,0.016590286046266556,0.20480549335479736,positive,0.7620139122009277
+30,2016-10-18 06:37:00,"As of this writing, Brad Moon did not hold a position in any of the aforementioned securities.",0.008681283332407475,0.022830314934253693,0.9684883952140808,neutral,-0.014149031601846218
+31,2016-10-18 06:37:00,"• Amazon.com, Inc. (AMZN) Stock Is Selling Off?",0.02283581532537937,0.9445022344589233,0.03266194462776184,negative,-0.9216664433479309
+32,2016-10-18 06:37:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+33,2016-10-18 06:37:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+34,2016-10-18 06:37:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+35,2016-10-18 06:37:00,"• Home Depot Inc (HD) Stock Is Threatening to Fail Here
+• The 10 Best ETFs on the Planet
+
+The post Apple Inc. Is Giving Siri a Helping Hand (AAPL) appeared first on InvestorPlace .",0.4610546827316284,0.2165854573249817,0.3223598897457123,positive,0.24446922540664673
+36,2016-10-18 06:37:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

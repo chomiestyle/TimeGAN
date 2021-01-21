@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2010-10-29 06:55:00,"When you're saving for a truly long-term goal, investing in stocks makes a lot of sense.",0.16801868379116058,0.008394398726522923,0.8235868811607361,neutral,0.15962427854537964
+1,2010-10-29 06:55:00,But what you choose to do with the money that you don't put into stocks can be just as important as picking winning stocks .,0.05288231000304222,0.01289171539247036,0.9342260360717773,neutral,0.03999059647321701
+2,2010-10-29 06:55:00,"Unfortunately, many investors aren't being very rational about what they do with their spare cash, and their bad decisions may end up costing them more than they think.",0.027875153347849846,0.8238905668258667,0.14823436737060547,negative,-0.7960154414176941
+3,2010-10-29 06:55:00,"If you look at performance over the past few years, you'd conclude that the best place to invest spare cash is the bond market .",0.1254388988018036,0.009237383492290974,0.8653237223625183,neutral,0.11620151251554489
+4,2010-10-29 06:55:00,"The combination of weak economic activity and loose fiscal and monetary policy has pushed interest rates lower, making bonds that investors already owned more valuable.",0.11393600702285767,0.7568278908729553,0.12923607230186462,negative,-0.6428918838500977
+5,2010-10-29 06:55:00,"The problem, though, is that those falling rates and higher returns have pushed the cost of bonds so high that even their best-case returns aren't all that attractive.",0.054895784705877304,0.7245955467224121,0.22050869464874268,negative,-0.6696997880935669
+6,2010-10-29 06:55:00,"Five-year Treasury bonds, for instance, yield less than 1.25%.",0.019972126930952072,0.786736249923706,0.1932915896177292,negative,-0.7667641043663025
+7,2010-10-29 06:55:00,"And even if you go into the corporate arena , rates aren't that much better.",0.08551903069019318,0.20135287940502167,0.7131280303001404,neutral,-0.11583384871482849
+8,2010-10-29 06:55:00,"Wal-Mart (NYSE: WMT ) bonds yield 1.5% currently, while Home Depot (NYSE: HD ) debt pays around 2.2%.",0.020182915031909943,0.022702975198626518,0.9571141600608826,neutral,-0.0025200601667165756
+9,2010-10-29 06:55:00,"Only by taking on a lot of default risk can you find outstanding yields; MGM Resorts (NYSE: MGM ) issued six-year notes paying more than 10% earlier this week, but with the debt expected to carry a junk bond rating of CCC+, investors can hardly call that a risk-free return.",0.23596332967281342,0.07008496671915054,0.6939517259597778,neutral,0.16587835550308228
+10,2010-10-29 06:55:00,The typical choice investors make when yields are this low is to buy longer-term bonds.,0.033937957137823105,0.024005066603422165,0.9420568943023682,neutral,0.00993289053440094
+11,2010-10-29 06:55:00,But that raises two more concerns.,0.051908425986766815,0.2756459414958954,0.6724457144737244,neutral,-0.22373750805854797
+12,2010-10-29 06:55:00,"First, even long-bond yields aren't all that high.",0.05468931794166565,0.03651442751288414,0.9087961912155151,neutral,0.01817489042878151
+13,2010-10-29 06:55:00,Travelers (NYSE: TRV ) issued 10-year bonds yesterday that paid less than 4%.,0.02490171417593956,0.27504339814186096,0.7000548839569092,neutral,-0.2501416802406311
+14,2010-10-29 06:55:00,"Johnson & Johnson 's(NYSE: JNJ ) 10-years paid less than 3% , and even its 30-year debt carries a yield of just 4.5%.",0.022352300584316254,0.8181947469711304,0.159452885389328,negative,-0.7958424687385559
+15,2010-10-29 06:55:00,"Moreover, those bonds are more sensitive to interest rate increases, which many consider imminent .",0.230679452419281,0.03723263740539551,0.7320879697799683,neutral,0.1934468150138855
+16,2010-10-29 06:55:00,"Where to find better yields
+
+Even with bond yields so low, many investors see little choice but to take what they can get.",0.09879270195960999,0.18604625761508942,0.7151610851287842,neutral,-0.08725355565547943
+17,2010-10-29 06:55:00,"After all, a typical asset allocation strategy requires you to keep a substantial portion of your money in bonds, and the older and more conservative you are with your investments, the more you need to keep in bonds.",0.08529327809810638,0.018310561776161194,0.8963961601257324,neutral,0.06698271632194519
+18,2010-10-29 06:55:00,"What many investors forget is that some investments act pretty much exactly like bonds, even if they have another name.",0.025407737120985985,0.02826436422765255,0.9463278651237488,neutral,-0.002856627106666565
+19,2010-10-29 06:55:00,One example is the simple bank certificate of deposit .,0.026188641786575317,0.010052310302853584,0.9637590646743774,neutral,0.016136331483721733
+20,2010-10-29 06:55:00,"If you think about it, you'll realize that the lowly bank CD is, at least for small investors, just as safe as a Treasury bond.",0.3855140507221222,0.018527483567595482,0.5959584712982178,neutral,0.36698657274246216
+21,2010-10-29 06:55:00,"With FDIC insurance on CDs up to $250,000, you don't have to worry about the creditworthiness of the bank you choose.",0.027116645127534866,0.007593299727886915,0.9652900695800781,neutral,0.019523344933986664
+22,2010-10-29 06:55:00,"If the worst happens and your bank fails, then the government will step in and reimburse your lost money.",0.05084715038537979,0.11636745184659958,0.8327853679656982,neutral,-0.06552030146121979
+23,2010-10-29 06:55:00,"Meanwhile, the CD has almost identical traits to a bond.",0.17160943150520325,0.009113170206546783,0.8192773461341858,neutral,0.16249626874923706
+24,2010-10-29 06:55:00,You can choose to take interest payments just like a bond pays.,0.022186990827322006,0.011092000640928745,0.9667209386825562,neutral,0.011094990186393261
+25,2010-10-29 06:55:00,"When the CD matures, you get your money back.",0.12863771617412567,0.00859511736780405,0.862767219543457,neutral,0.1200425997376442
+26,2010-10-29 06:55:00,"In fact, in some ways, the CD is actually better than a bond, because if you need your money early, you can get it just by paying an early withdrawal penalty.",0.5334396958351135,0.025792885571718216,0.44076743721961975,positive,0.5076467990875244
+27,2010-10-29 06:55:00,"With regular bonds, you'd have to sell them into the secondary bond market, at whatever price a buyer was willing to pay -- which could be much more of a hit than what the bank would charge.",0.05379929021000862,0.08405402302742004,0.8621466755867004,neutral,-0.030254732817411423
+28,2010-10-29 06:55:00,"When it comes to returns, though, banks beat Treasuries by a substantial margin.",0.9104058742523193,0.03606494888663292,0.05352914705872536,positive,0.8743409514427185
+29,2010-10-29 06:55:00,"Discover Financial 's(NYSE: DFS ) Discover Bank pays a 2.6% rate on a five-year CD, while AIG 's(NYSE: AIG ) AIG Bank pays 2.2%.",0.01352266501635313,0.023446353152394295,0.9630310535430908,neutral,-0.009923688136041164
+30,2010-10-29 06:55:00,It's astounding that you can get an extra percentage point or more of yield over comparable Treasuries.,0.5716709494590759,0.01476181298494339,0.41356727480888367,positive,0.5569091439247131
+31,2010-10-29 06:55:00,"In some cases, it's even more than what high-quality corporate bonds pay -- without any default risk at all.",0.14634445309638977,0.009286710061132908,0.8443688154220581,neutral,0.13705773651599884
+32,2010-10-29 06:55:00,"A bond by any other name
+
+So if you're wondering where the best place is to put your cash, but are worried about a potential bubble in the bond market, take a closer look at bank CDs.",0.04502588137984276,0.016543423756957054,0.9384307265281677,neutral,0.028482457622885704
+33,2010-10-29 06:55:00,"They aren't glamorous, but with their yields higher than riskier alternatives, you could certainly do worse.",0.0687713623046875,0.61687171459198,0.3143569529056549,negative,-0.5481003522872925
+34,2010-10-29 06:55:00,Many investors are turning to dividend-paying stocks for income.,0.12467566132545471,0.16941796243190765,0.7059063911437988,neutral,-0.04474230110645294
+35,2010-10-29 06:55:00,"Find the best ones by clicking hereto get the Motley Fool's free report,13 High-Yielding Stocks to Buy Today.",0.08152047544717789,0.03356526046991348,0.8849142789840698,neutral,0.047955214977264404
+36,2010-10-29 06:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-04 10:35:00,"In afternoon trading on Friday, Technology & Communications stocks are the worst performing sector, showing a 1.9% loss.",0.02057851292192936,0.9697123169898987,0.009709087200462818,negative,-0.9491338133811951
+1,2020-09-04 10:35:00,"Within that group, NVIDIA Corp (Symbol: NVDA) and Salesforce.com Inc (Symbol: CRM) are two large stocks that are lagging, showing a loss of 6.0% and 5.3%, respectively.",0.021319489926099777,0.9666669368743896,0.012013544328510761,negative,-0.9453474283218384
+2,2020-09-04 10:35:00,"Among technology ETFs, one ETF following the sector is the Technology Select Sector SPDR ETF (Symbol: XLK), which is down 2.7% on the day, and up 27.90% year-to-date.",0.023390593007206917,0.9641420841217041,0.012467254884541035,negative,-0.9407514929771423
+3,2020-09-04 10:35:00,"NVIDIA Corp, meanwhile, is up 108.21% year-to-date, and Salesforce.com Inc is up 54.38% year-to-date.",0.9047707915306091,0.02795420028269291,0.06727500259876251,positive,0.8768165707588196
+4,2020-09-04 10:35:00,"Combined, NVDA and CRM make up approximately 6.7% of the underlying holdings of XLK.",0.015060539357364178,0.007534486707299948,0.9774048924446106,neutral,0.00752605265006423
+5,2020-09-04 10:35:00,"The next worst performing sector is the Healthcare sector, showing a 1.1% loss.",0.019853370264172554,0.9674657583236694,0.012680879794061184,negative,-0.9476124048233032
+6,2020-09-04 10:35:00,"Among large Healthcare stocks, DexCom Inc (Symbol: DXCM) and ABIOMED, Inc. (Symbol: ABMD) are the most notable, showing a loss of 5.0% and 4.6%, respectively.",0.01943856291472912,0.9565702080726624,0.02399122342467308,negative,-0.9371316432952881
+7,2020-09-04 10:35:00,"One ETF closely tracking Healthcare stocks is the Health Care Select Sector SPDR ETF (XLV), which is down 1.1% in midday trading, and up 4.13% on a year-to-date basis.",0.022531362250447273,0.9643758535385132,0.013092708773911,negative,-0.9418444633483887
+8,2020-09-04 10:35:00,"DexCom Inc, meanwhile, is up 79.35% year-to-date, and ABIOMED, Inc. is up 64.41% year-to-date.",0.908490777015686,0.020913628861308098,0.0705956369638443,positive,0.8875771760940552
+9,2020-09-04 10:35:00,"Combined, DXCM and ABMD make up approximately 1.3% of the underlying holdings of XLV.",0.015132825821638107,0.007071823347359896,0.9777953624725342,neutral,0.008061002939939499
+10,2020-09-04 10:35:00,"Comparing these stocks and ETFs on a trailing twelve month basis, below is a relative stock price performance chart, with each of the symbols shown in a different color as labeled in the legend at the bottom:
+
+Here's a snapshot of how the S&P 500 components within the various sectors are faring in afternoon trading on Friday.",0.01730167493224144,0.0332874171435833,0.9494108557701111,neutral,-0.015985742211341858
+11,2020-09-04 10:35:00,"As you can see, two sectors are up on the day, while seven sectors are down.",0.06520792096853256,0.4436424672603607,0.49114951491355896,neutral,-0.37843453884124756

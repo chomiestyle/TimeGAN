@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-07 06:30:00,"Chicago, IL - December 07, 2015 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.016867393627762794,0.008819131180644035,0.9743134379386902,neutral,0.00804826244711876
+1,2015-12-07 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2015-12-07 06:30:00,"Stocks recently featured in the blog include Wal-Mart Stores Inc. ( WMT ), Home Depot ( HD ), Pfizer Inc. ( PFE ) and Merck & Co. Inc. ( MRK ).",0.018162036314606667,0.011190303601324558,0.9706476926803589,neutral,0.006971732713282108
+3,2015-12-07 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2015-12-07 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2015-12-07 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+The Dow moved lower during a holiday shortened week, dragged down by disappointing holiday sales results, the oil price slump and ECB's lower-than-expected monetary stimulus.",0.0257257129997015,0.9646821618080139,0.009592117741703987,negative,-0.9389564394950867
+6,2015-12-07 06:30:00,"The index declined on Monday, dragged down by declines in consumer and healthcare stocks.",0.01899726502597332,0.9698526859283447,0.011150061152875423,negative,-0.9508554339408875
+7,2015-12-07 06:30:00,The index posted its biggest increase in almost two weeks on Tuesday led by gains in healthcare shares.,0.9417255520820618,0.028915243223309517,0.029359249398112297,positive,0.9128103256225586
+8,2015-12-07 06:30:00,"The index suffered losses on Wednesday, dragged down by declines in energy and utility shares.",0.01998515985906124,0.9709843993186951,0.009030532091856003,negative,-0.9509992599487305
+9,2015-12-07 06:30:00,"The index moved lower on Thursday, losing 1.4%, after the European Central Bank's (ECB) smaller-than-expected monetary stimulus failed to boost investors' sentiment.",0.019129963591694832,0.9720361828804016,0.00883395317941904,negative,-0.9529061913490295
+10,2015-12-07 06:30:00,The Dow has declined 1.8% during the first four trading days.,0.019294623285531998,0.9698694944381714,0.010835892520844936,negative,-0.9505748748779297
+11,2015-12-07 06:30:00,"The index declined 0.4% on Monday, dragged down by declines in consumer and healthcare stocks.",0.0194100309163332,0.9717134833335876,0.008876531384885311,negative,-0.9523034691810608
+12,2015-12-07 06:30:00,"While investors weighed the discouraging brick-and-mortar stores sales results during the holiday shopping weekend, decline in biotech stocks had a negative impact on the healthcare sector.",0.0207346323877573,0.9659157395362854,0.013349653221666813,negative,-0.945181131362915
+13,2015-12-07 06:30:00,Decline in consumer shares dragged benchmarks into negative territory on Monday.,0.024963917210698128,0.9610996842384338,0.013936481438577175,negative,-0.9361357688903809
+14,2015-12-07 06:30:00,A National Retail Federation (NRF) survey showed that spending at brick-and-mortar stores were less compared to online shopping during the Thanksgiving weekend.,0.02036539651453495,0.9635590314865112,0.016075650230050087,negative,-0.9431936144828796
+15,2015-12-07 06:30:00,Shares of brick-and-mortar stores including Wal-Mart Stores Inc. ( WMT ) decreased 1.8%.,0.019161676988005638,0.9696373343467712,0.011201017536222935,negative,-0.9504756331443787
+16,2015-12-07 06:30:00,"Meanwhile, the Pending Home Sales Index increased 0.2% to 107.7 in October.",0.953192412853241,0.022431382909417152,0.024376191198825836,positive,0.9307610392570496
+17,2015-12-07 06:30:00,"Separately, the Institute for Supply Management-Chicago noted that Chicago Business Barometer decreased to 48.7 in November from October's reading of 56.2.",0.018825681880116463,0.9719567894935608,0.009217465296387672,negative,-0.9531310796737671
+18,2015-12-07 06:30:00,The Dow gained 0.3% during the month of November.,0.9273050427436829,0.04213032126426697,0.03056473843753338,positive,0.8851747512817383
+19,2015-12-07 06:30:00,"Benchmarks ended in the green for the month, buoyed by gains in the financial and energy sectors.",0.9335653185844421,0.030126862227916718,0.036307767033576965,positive,0.9034384489059448
+20,2015-12-07 06:30:00,Encouraging third quarter earnings report from companies including Wal-Mart Stores and Home Depot ( HD ) also had a positive impact on benchmarks.,0.9321912527084351,0.034769657999277115,0.033039167523384094,positive,0.8974215984344482
+21,2015-12-07 06:30:00,Merger and acquisition news also boosted investor sentiment.,0.9020257592201233,0.024076206609606743,0.07389792054891586,positive,0.8779495358467102
+22,2015-12-07 06:30:00,Strong auto sales data and better-than-expected reading of ISM Services Index helped benchmarks to finish the month in the green.,0.9155493378639221,0.05001883953809738,0.03443191200494766,positive,0.8655304908752441
+23,2015-12-07 06:30:00,"Additionally, benchmarks gained after minutes from last month's Fed meeting confirmed that ""most participants"" were open to a rate hike in December.",0.858352780342102,0.06744619458913803,0.07420099526643753,positive,0.7909066081047058
+24,2015-12-07 06:30:00,"The index rose almost 1% on Tuesday, posting its biggest increase in almost two weeks led by gains in healthcare shares.",0.9395825266838074,0.029624085873365402,0.030793417245149612,positive,0.9099584221839905
+25,2015-12-07 06:30:00,"Key stocks from the sector including Pfizer Inc. ( PFE ) and Merck & Co. Inc. ( MRK ) increased 2.6% and 2.9%, respectively.",0.9457185864448547,0.02221480756998062,0.03206663206219673,positive,0.9235037565231323
+26,2015-12-07 06:30:00,"The ISM manufacturing index declined from October's 50.1% to 48.6% in November, in contrast to the consensus estimate of a rise to 50.4%.",0.018945874646306038,0.9727374911308289,0.00831661093980074,negative,-0.953791618347168
+27,2015-12-07 06:30:00,"However, investors ignored weak manufacturing data and focused on expectations that the ECB will expand its stimulus measures when policymakers meet on Thursday.",0.8058873414993286,0.05919524282217026,0.13491734862327576,positive,0.7466921210289001
+28,2015-12-07 06:30:00,"Construction spending increased 1% in October to $1,107.4 billion from September's revised figure of $1,096.6 billion.",0.9559203386306763,0.022525863721966743,0.02155386283993721,positive,0.9333944916725159
+29,2015-12-07 06:30:00,"Meanwhile, U.S auto sales in November increased to 18.19 million from 17.2 million a year ago, according to Autodata.",0.9548613429069519,0.024602606892585754,0.020535951480269432,positive,0.9302587509155273
+30,2015-12-07 06:30:00,End-of-year holiday promotions helped U.S. auto sales to top 18 million for three straight months for the first time ever.,0.9345669746398926,0.02781784161925316,0.03761512041091919,positive,0.9067491292953491
+31,2015-12-07 06:30:00,"The index lost 0.9% on Wednesday, dragged down by declines in energy and utility shares.",0.019987912848591805,0.9717828035354614,0.008229288272559643,negative,-0.9517948627471924
+32,2015-12-07 06:30:00,Report on a mass shooting in southern California also negatively impacted all the three major indexes.,0.018345458433032036,0.9433347582817078,0.038319818675518036,negative,-0.9249892830848694
+33,2015-12-07 06:30:00,Energy shares declined due to a drop in global oil prices .,0.017039578408002853,0.9666821956634521,0.016278207302093506,negative,-0.9496425986289978
+34,2015-12-07 06:30:00,"U.S. government data revealed a 10th straight weekly increase in U.S. oil supplies, which eventually had a negative impact on global oil prices.",0.0354272723197937,0.9400238394737244,0.024548858404159546,negative,-0.9045965671539307
+35,2015-12-07 06:30:00,"While the U.S. crude oil prices settled below $40 for the first time since August, the Brent crude oil plummeted to an almost seven-year low.",0.08254300057888031,0.8374082446098328,0.08004875481128693,negative,-0.7548652291297913
+36,2015-12-07 06:30:00,"Meanwhile, in a speech to the Economic Club of Washington, Federal Reserve chair Janet Yellen expressed her confidence in the state of the U.S. economy.",0.7378451228141785,0.05981523543596268,0.20233963429927826,positive,0.6780298948287964
+37,2015-12-07 06:30:00,A strong private sector employment report also raised hopes of an interest rate hike this month.,0.8765010833740234,0.040432848036289215,0.08306612074375153,positive,0.8360682129859924
+38,2015-12-07 06:30:00,Utility stocks took a beating on Wednesday since they tend to underperform in a higher interest rate environment.,0.06372758746147156,0.9065821170806885,0.029690267518162727,negative,-0.8428544998168945
+39,2015-12-07 06:30:00,"The index moved lower on Thursday, losing 1.4%, after ECB's smaller-than-expected monetary stimulus failed to boost investors' sentiment.",0.01895378716289997,0.9722267985343933,0.008819437585771084,negative,-0.9532729983329773
+40,2015-12-07 06:30:00,The ECB extended its asset purchasing program of 60 billion euro a month until March 2017 from September 2016.,0.7246555685997009,0.01273596752434969,0.26260846853256226,positive,0.7119196057319641
+41,2015-12-07 06:30:00,"However, the ECB didn't increase the size of the monthly purchases to the extent many investors were looking for.",0.3934754729270935,0.024055663496255875,0.5824688673019409,neutral,0.36941981315612793
+42,2015-12-07 06:30:00,"The ECB also announced that it had trimmed its deposit rate to minus 3% from minus 2%, while keeping the lending rate unchanged at 0.05%.",0.250843346118927,0.6488943696022034,0.10026229172945023,negative,-0.39805102348327637
+43,2015-12-07 06:30:00,The ECB's move to lower its negative deposit rate came in at the low end of expectations.,0.048311226069927216,0.8542932868003845,0.09739547967910767,negative,-0.8059820532798767
+44,2015-12-07 06:30:00,Disappointing stimulus measures pushed the euro to a one-month high versus the dollar.,0.2868991196155548,0.6502324938774109,0.06286834180355072,negative,-0.3633333742618561
+45,2015-12-07 06:30:00,"On the domestic front, Fed Chair Janet Yellen again expressed confidence that the U.S. economy will grow modestly over the next year or two.",0.8993410468101501,0.02648823894560337,0.07417077571153641,positive,0.8728528022766113
+46,2015-12-07 06:30:00,The ISM Services Index decreased to 55.9% in November from October's reading of 59.1%.,0.018447384238243103,0.9723754525184631,0.009177209809422493,negative,-0.9539280533790588
+47,2015-12-07 06:30:00,"Initial claims increased 9,000 to 269,000 in the week ending Nov 28.",0.9214954376220703,0.02288813330233097,0.05561632290482521,positive,0.8986073136329651
+48,2015-12-07 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+49,2015-12-07 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.05650392174720764,0.005220244638621807,0.9382758140563965,neutral,0.05128367617726326
+50,2015-12-07 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+51,2015-12-07 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+52,2015-12-07 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+53,2015-12-07 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+54,2015-12-07 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+55,2015-12-07 06:30:00,Find out What is happening in the stock market today on zacks.com.,0.01665451191365719,0.01796547882258892,0.9653800129890442,neutral,-0.0013109669089317322
+56,2015-12-07 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+57,2015-12-07 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+58,2015-12-07 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+59,2015-12-07 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

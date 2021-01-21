@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-02 22:45:00,"In a volatile week for the stock market, with the S&P 500 rising 1.5% before it ended the week down 2%, three stories in tech stood out.",0.039002761244773865,0.9190937280654907,0.041903525590896606,negative,-0.8800909519195557
+1,2018-03-02 22:45:00,"Online marketplace Etsy (NASDAQ: ETSY) soared 22% and salesforce.com (NYSE: CRM) jumped 6%, driven by their most recent earnings reports.",0.9404500722885132,0.023661836981773376,0.03588809072971344,positive,0.9167882204055786
+2,2018-03-02 22:45:00,"Meanwhile, Spotify announced plans to begin trading on the New York Stock Exchange.",0.24192997813224792,0.007197427097707987,0.7508726716041565,neutral,0.23473255336284637
+3,2018-03-02 22:45:00,Here's a look at each story.,0.026414668187499046,0.011645721271634102,0.9619396328926086,neutral,0.014768946915864944
+4,2018-03-02 22:45:00,"With its quarterly gross merchandise sales crossing $1 billion for the first time and its adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization) margin hitting all-time highs in Q4, the company's recent initiatives to refocus on profitability and its best growth opportunities are paying off.",0.9477706551551819,0.018547190353274345,0.03368217125535011,positive,0.9292234778404236
+5,2018-03-02 22:45:00,"Last year, Etsy announced a series of changes to its business, beginning with the replacement of its CEO .",0.07077924907207489,0.18730460107326508,0.7419161796569824,neutral,-0.11652535200119019
+6,2018-03-02 22:45:00,"To support profitability and ""faster execution,"" Etsy reduced its global headcount by 230 positions, or about 22% of its global workforce.",0.017095517367124557,0.9712385535240173,0.01166595984250307,negative,-0.9541430473327637
+7,2018-03-02 22:45:00,"""In order to drive focus, we took decisive steps to double down on the fewest, highest-impact initiatives in our core marketplace while de-prioritizing other projects and streamlining our resources,"" said Etsy's new CEO, Josh Silverman, last year about the realignment and cost-savings initiatives.",0.9186815619468689,0.01440915185958147,0.06690923869609833,positive,0.9042724370956421
+8,2018-03-02 22:45:00,"Etsy's changes to its business are proving their worth, with fourth-quarter revenue growth accelerating to 23.6% year over year.",0.954475998878479,0.017492197453975677,0.028031758964061737,positive,0.9369838237762451
+9,2018-03-02 22:45:00,"Further, Etsy's fourth-quarter EBITDA margin rose to 25.6%, up 11.7 percentage points year over year.",0.956849992275238,0.020716097205877304,0.02243395708501339,positive,0.9361339211463928
+10,2018-03-02 22:45:00,"Shares of salesforce.com got a boost after the customer relationship platform company got a boost as its fourth-quarter results beat expectations for revenue, earnings per share, and guidance.",0.9403492212295532,0.026938559487462044,0.03271220996975899,positive,0.9134106636047363
+11,2018-03-02 22:45:00,But beneath Salesforce's headline financial results was a notable achievement in the company's aggressive artificial intelligence efforts: Salesforce's said Einstein is now delivering over 1 billion AI-powered predictions in a single day.,0.8971896171569824,0.015670709311962128,0.08713967353105545,positive,0.8815189003944397
+12,2018-03-02 22:45:00,"This achievement shows how Einstein, which uses an automated machine learning framework to create personalized AI models and predictions for Salesforce customers, has quickly grown in importance to Salesforce's business.",0.8778848052024841,0.01383939292281866,0.10827584564685822,positive,0.8640454411506653
+13,2018-03-02 22:45:00,"You can soon buy Spotify stock
+
+Spotify announced this week that it is taking its shares public.",0.0662936344742775,0.0059318807907402515,0.9277744293212891,neutral,0.06036175414919853
+14,2018-03-02 22:45:00,"But instead of going public with a traditional public offering in which Spotify issues new shares as part of the listing, Spotify will simply directly list some of its registered shareholders' holdings.",0.01708432100713253,0.007226636633276939,0.9756891131401062,neutral,0.00985768437385559
+15,2018-03-02 22:45:00,The direct listing lets Spotify skip over investment banks and save money going public.,0.8895960450172424,0.01893382892012596,0.09147009253501892,positive,0.8706622123718262
+16,2018-03-02 22:45:00,"Spotify's F-1 filing, which is like an S-1 Registration Statement, except for foreign issuers, included some interesting information about Spotify's business , including the following:
+• Spotify has 159 million monthly active users, up 29% year over year in 2017.",0.8080037832260132,0.013150062412023544,0.1788460910320282,positive,0.7948537468910217
+17,2018-03-02 22:45:00,"• Spotify has 71 million paying subscribers, up 46% year over year.",0.9543325304985046,0.019740985706448555,0.025926433503627777,positive,0.93459153175354
+18,2018-03-02 22:45:00,• Spotify's average revenue per user has declined from 7.06 euros ($8.61) in 2015 to 5.24 euros ($6.39) in 2017.,0.016314774751663208,0.9725257158279419,0.011159412562847137,negative,-0.9562109708786011
+19,2018-03-02 22:45:00,• Spotify's content hours streamed were up an incredible 48% in 2017 compared to 2016.,0.9548695087432861,0.023873671889305115,0.021256841719150543,positive,0.9309958219528198
+20,2018-03-02 22:45:00,"One of Spotify's biggest challenges, of course, will be going up against competition from tech giants such as Apple (NASDAQ: AAPL) , which Spotify says is its ""nearest competitor.""",0.8377098441123962,0.022155748680233955,0.14013433456420898,positive,0.8155540823936462
+21,2018-03-02 22:45:00,"But Spotify is off to a good start, since it already has about twice as many paid subscribers as Apple Music.",0.7665141224861145,0.017561929300427437,0.2159239798784256,positive,0.7489522099494934
+22,2018-03-02 22:45:00,"As of last count, Apple had 36 million paying subscribers .",0.020117100328207016,0.012995244935154915,0.9668876528739929,neutral,0.007121855393052101
+23,2018-03-02 22:45:00,"Spotify plans to list its stock on the New York Stock Exchange under the symbol ""SPOT.""",0.03037160262465477,0.005086726974695921,0.9645416140556335,neutral,0.02528487518429756
+24,2018-03-02 22:45:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+25,2018-03-02 22:45:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+26,2018-03-02 22:45:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+27,2018-03-02 22:45:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+28,2018-03-02 22:45:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+29,2018-03-02 22:45:00,Daniel Sparks owns shares of Apple.,0.02223740890622139,0.012015443295240402,0.9657471179962158,neutral,0.010221965610980988
+30,2018-03-02 22:45:00,The Motley Fool owns shares of and recommends Apple.,0.0575864277780056,0.0276399664580822,0.9147735834121704,neutral,0.0299464613199234
+31,2018-03-02 22:45:00,The Motley Fool has the following options: long January 2020 $150 calls on Apple and short January 2020 $155 calls on Apple.,0.015124468132853508,0.041013702750205994,0.9438618421554565,neutral,-0.025889234617352486
+32,2018-03-02 22:45:00,The Motley Fool recommends Etsy and Salesforce.com.,0.020458167418837547,0.02900650165975094,0.9505352973937988,neutral,-0.008548334240913391
+33,2018-03-02 22:45:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+34,2018-03-02 22:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-14 07:11:00,"In early trading on Thursday, shares of Microsoft ( MSFT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.7%.",0.9400705695152283,0.030863994732499123,0.02906539849936962,positive,0.9092065691947937
+1,2015-05-14 07:11:00,"Year to date, Microsoft registers a 4.3% gain.",0.9441325068473816,0.023262150585651398,0.03260531276464462,positive,0.9208703637123108
+2,2015-05-14 07:11:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.1%.",0.021411729976534843,0.9648293852806091,0.013758812099695206,negative,-0.9434176683425903
+3,2015-05-14 07:11:00,Home Depot is showing a gain of 5.8% looking at the year to date performance.,0.9484378099441528,0.020336797460913658,0.031225448474287987,positive,0.9281010031700134
+4,2015-05-14 07:11:00,"Two other components making moves today are Merck & Co. ( MRK ), trading flat on the day, and DuPont ( DD ), trading up 1.7% on the day.",0.09574493020772934,0.7736733555793762,0.13058175146579742,negative,-0.6779284477233887
+5,2015-05-14 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

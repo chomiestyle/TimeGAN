@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-06 03:49:00,"Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel , we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",0.0258023664355278,0.0078038182109594345,0.9663938879966736,neutral,0.017998548224568367
+1,2016-06-06 03:49:00,"For the PowerShares Dynamic Building & Construction Portfolio ETF (Symbol: PKB), we found that the implied analyst target price for the ETF based upon its underlying holdings is $28.39 per unit.",0.0372563973069191,0.00584351597353816,0.9569000601768494,neutral,0.03141288086771965
+2,2016-06-06 03:49:00,"With PKB trading at a recent price near $25.92 per unit, that means that analysts see 9.52% upside for this ETF looking through to the average analyst targets of the underlying holdings.",0.6998709440231323,0.03734029829502106,0.262788861989975,positive,0.6625306606292725
+3,2016-06-06 03:49:00,Three of PKB's underlying holdings with notable upside to their analyst target prices are U.S.,0.05232565104961395,0.009332926943898201,0.9383414387702942,neutral,0.0429927259683609
+4,2016-06-06 03:49:00,"Concrete, Inc. (Symbol: USCR), American Woodmark Corp. (Symbol: AMWD), and Home Depot Inc (Symbol: HD).",0.015764767304062843,0.010939400643110275,0.9732958078384399,neutral,0.004825366660952568
+5,2016-06-06 03:49:00,"Although USCR has traded at a recent price of $60.24/share, the average analyst target is 26.16% higher at $76.00/share.",0.5081756114959717,0.05123324692249298,0.44059112668037415,positive,0.4569423794746399
+6,2016-06-06 03:49:00,"Similarly, AMWD has 11.76% upside from the recent share price of $69.79 if the average analyst target price of $78.00/share is reached, and analysts on average are expecting HD to reach a target price of $144.33/share, which is 9.56% above the recent price of $131.74.",0.9098243713378906,0.0195491723716259,0.07062647491693497,positive,0.8902751803398132
+7,2016-06-06 03:49:00,"Below is a twelve month price history chart comparing the stock performance of USCR, AMWD, and HD:
+
+Combined, USCR, AMWD, and HD represent 9.52% of the PowerShares Dynamic Building & Construction Portfolio ETF.",0.017705583944916725,0.011999574489891529,0.9702947735786438,neutral,0.005706009455025196
+8,2016-06-06 03:49:00,"Below is a summary table of the current analyst target prices discussed above:
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now?",0.033522360026836395,0.28399592638015747,0.6824817061424255,neutral,-0.2504735589027405
+9,2016-06-06 03:49:00,"Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments?",0.05164404958486557,0.013284869492053986,0.9350711107254028,neutral,0.038359180092811584
+10,2016-06-06 03:49:00,"A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past.",0.16977764666080475,0.0406530387699604,0.7895692586898804,neutral,0.12912461161613464
+11,2016-06-06 03:49:00,These are questions that require further investor research.,0.039497386664152145,0.026686135679483414,0.9338164925575256,neutral,0.012811250984668732
+12,2016-06-06 03:49:00,"10 ETFs With Most Upside To Analyst Targets »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010627641342580318,0.014856908470392227,0.9745154976844788,neutral,-0.004229267127811909

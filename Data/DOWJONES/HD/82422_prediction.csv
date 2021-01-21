@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-11 07:02:00,"Most analysts have consistently touted Home Depot (NYSE: HD ) this year, and for good reason.",0.4557950794696808,0.021476397290825844,0.5227285027503967,neutral,0.4343186914920807
+1,2018-09-11 07:02:00,"Year-to-date, Home Depot stock has returned shareholders 12.6%.",0.8744432926177979,0.03178419917821884,0.09377259016036987,positive,0.8426591157913208
+2,2018-09-11 07:02:00,"While I wouldn't call this haul remarkable in and of itself, as a consumer staple, you couldn't ask for more.",0.19314809143543243,0.024562912061810493,0.7822890281677246,neutral,0.1685851812362671
+3,2018-09-11 07:02:00,Another powerful element moving in favor toward HD stock is its resilience toward Amazon (NASDAQ: AMZN ) or any would-be e-commerce competitor.,0.8048382997512817,0.020716149359941483,0.17444556951522827,positive,0.7841221690177917
+4,2018-09-11 07:02:00,"Sure, Amazon has disrupted several industries, and now they're eyeing home improvement .",0.051257092505693436,0.5664539933204651,0.38228896260261536,negative,-0.5151969194412231
+5,2018-09-11 07:02:00,"That doesn't scare HD as the company levers both a popular brick-and-mortar solution, and an online channel.",0.7072555422782898,0.029731111600995064,0.2630133330821991,positive,0.6775244474411011
+6,2018-09-11 07:02:00,"But with Home Depot stock closing up Monday at an all-time high , that dynamic lends itself to an obvious question: Is now the time to dump Home Depot shares?",0.07921308279037476,0.15328872203826904,0.7674981951713562,neutral,-0.07407563924789429
+7,2018-09-11 07:02:00,"On the surface level, HD stock appears overextended.",0.02987092174589634,0.8339233994483948,0.13620570302009583,negative,-0.804052472114563
+8,2018-09-11 07:02:00,"As a secular name, you worry about shares getting ahead of themselves.",0.1341828852891922,0.15287144482135773,0.7129456996917725,neutral,-0.018688559532165527
+9,2018-09-11 07:02:00,"HD opened this week with a strong 2% performance in the markets, but on no direct news.",0.7470803260803223,0.06421712040901184,0.18870259821414948,positive,0.6828632354736328
+10,2018-09-11 07:02:00,"Therefore, a healthy correction seems logical.",0.7644558548927307,0.03461715206503868,0.2009270042181015,positive,0.7298387289047241
+11,2018-09-11 07:02:00,"At the same time, CNBC reported a literal tailwind for Home Depot stock.",0.027221444994211197,0.9490079879760742,0.02377055585384369,negative,-0.9217865467071533
+12,2018-09-11 07:02:00,"With Hurricane Florence forecasted to strike the southeastern region of the U.S., HD shares, along with rival Lowe's (NYSE: LOW ), have enjoyed speculative sentiment.",0.8074561357498169,0.06345723569393158,0.12908659875392914,positive,0.7439988851547241
+13,2018-09-11 07:02:00,"Risk-tolerant investors are gambling that sales of plywood, generators and other home-improvement products will spike during this storm season.",0.9090046882629395,0.03222140297293663,0.0587739534676075,positive,0.8767833113670349
+14,2018-09-11 07:02:00,"Initially, this argument makes perfectly logical sense.",0.055721405893564224,0.01245493907481432,0.9318236112594604,neutral,0.04326646775007248
+15,2018-09-11 07:02:00,"Weather experts have reported that Florence strengthened into a category 4 storm, implying significant damages.",0.16799619793891907,0.7920712232589722,0.039932604879140854,negative,-0.6240750551223755
+16,2018-09-11 07:02:00,"As cynical of a play towards Home Depot stock as this is, it's also incredibly shrewd.",0.06215647608041763,0.04195225238800049,0.8958912491798401,neutral,0.020204223692417145
+17,2018-09-11 07:02:00,But is this tactic effective?,0.1336977779865265,0.038509905338287354,0.8277922868728638,neutral,0.09518787264823914
+18,2018-09-11 07:02:00,The actual numbers provide a more nuanced story.,0.031652554869651794,0.018048211932182312,0.9502992630004883,neutral,0.013604342937469482
+19,2018-09-11 07:02:00,Are Storms Actually Beneficial for Home Depot Stock?,0.1136520579457283,0.11659397184848785,0.7697539925575256,neutral,-0.002941913902759552
+20,2018-09-11 07:02:00,"To answer this question, I foolishly had the idea of juxtaposing the Home Depot stock price against all major storms.",0.040783364325761795,0.06273826956748962,0.8964783549308777,neutral,-0.02195490524172783
+21,2018-09-11 07:02:00,I realized very quickly that this was a gargantuan task.,0.08862724900245667,0.20116958022117615,0.7102031707763672,neutral,-0.11254233121871948
+22,2018-09-11 07:02:00,"Plus, I'd make my editors extremely angry and that is never a good thing in my business.",0.046917010098695755,0.6581020951271057,0.29498088359832764,negative,-0.6111850738525391
+23,2018-09-11 07:02:00,"Therefore, I settled on the top ten most-economically damaging storms, according to Weather.com .",0.06652595102787018,0.1153503805398941,0.8181236386299133,neutral,-0.048824429512023926
+24,2018-09-11 07:02:00,"If HD stock benefited from increased emergency-products sales, I should see a convincing trend against the worst storms ever.",0.9302783012390137,0.018884489312767982,0.05083722993731499,positive,0.9113938212394714
+25,2018-09-11 07:02:00,"But the data provided mixed results, with my conclusion being that HD benefits only from ""contextually favorable storms.""",0.03262706845998764,0.8844095468521118,0.08296334743499756,negative,-0.851782500743866
+26,2018-09-11 07:02:00,"Allow me to explain:
+
+Of the top-ten worst storms, Home Depot stock gained an average of 1.8% from the month before the tempest to the month during.",0.9402332901954651,0.02666521817445755,0.03310145065188408,positive,0.9135680794715881
+27,2018-09-11 07:02:00,"Considering that the average month-over-month gain in HD is only 0.9% since January 2000, this storm-based lift is fairly impressive.",0.8881565928459167,0.02505914494395256,0.08678420633077621,positive,0.8630974292755127
+28,2018-09-11 07:02:00,"But before you jump on board the home-improvement bandwagon, HD has a somewhat negative correlation with resultant economic damages.",0.025729602202773094,0.7337326407432556,0.24053780734539032,negative,-0.708003044128418
+29,2018-09-11 07:02:00,"In other words, the more damage a storm causes, the less likely that HD stock will benefit.",0.057114578783512115,0.5817314982414246,0.3611539602279663,negative,-0.5246168971061707
+30,2018-09-11 07:02:00,"As an example, hurricanes Ivan, Rita and Wilma each produced less than $30 billion in damages.",0.03515367582440376,0.5748328566551208,0.3900134563446045,negative,-0.5396791696548462
+31,2018-09-11 07:02:00,"During their storm months, Home Depot stock gained an average 3.3%.",0.9538438320159912,0.021885650232434273,0.024270499125123024,positive,0.9319581985473633
+32,2018-09-11 07:02:00,"On the other hand, hurricanes Andrew, Katrina, Ike, Sandy, Harvey, Irma and Maria caused $82.5 billion in damages, and HD averaged 2.3%.",0.02673521637916565,0.8939970135688782,0.07926778495311737,negative,-0.8672617673873901
+33,2018-09-11 07:02:00,Hurricane Katrina represents the most extreme example.,0.11379364877939224,0.4091353118419647,0.47707098722457886,neutral,-0.2953416705131531
+34,2018-09-11 07:02:00,"With $160 billion in damages, HD stock tanked over 7%.",0.0224306583404541,0.9622674584388733,0.01530195027589798,negative,-0.9398368000984192
+35,2018-09-11 07:02:00,"On the other end of the spectrum, Irma and Maria caused $50 billion and $90 billion in damages, respectively.",0.03470882773399353,0.848755955696106,0.1165352538228035,negative,-0.81404709815979
+36,2018-09-11 07:02:00,Yet shares skyrocketed nearly 10%.,0.867004930973053,0.06776408851146698,0.06523098051548004,positive,0.7992408275604248
+37,2018-09-11 07:02:00,"Admittedly, this sample size is very small.",0.028052305802702904,0.029039718210697174,0.9429079294204712,neutral,-0.0009874124079942703
+38,2018-09-11 07:02:00,"I suspect, though, that if I broadened the scope to include the top 20 or 30 most damaging storms, we'd see similar trends.",0.23571601510047913,0.010994596406817436,0.7532894015312195,neutral,0.22472141683101654
+39,2018-09-11 07:02:00,"Primarily, I say this because the contextual correlation makes sense.",0.07970109581947327,0.007086780853569508,0.9132121801376343,neutral,0.07261431217193604
+40,2018-09-11 07:02:00,"Katrina devastated Louisiana, and particularly New Orleans.",0.07285068184137344,0.8170177340507507,0.11013148725032806,negative,-0.7441670298576355
+41,2018-09-11 07:02:00,Several impacted areas have yet to fully recover.,0.05461563915014267,0.7572551965713501,0.18812918663024902,negative,-0.7026395797729492
+42,2018-09-11 07:02:00,That's net negative for HD stock.,0.01751338317990303,0.9543726444244385,0.02811393514275551,negative,-0.9368592500686646
+43,2018-09-11 07:02:00,Temporary increases in plywood and generators are offset by profound economic damages.,0.04119469225406647,0.9221627116203308,0.0366426557302475,negative,-0.8809680342674255
+44,2018-09-11 07:02:00,"Moreover, many lower-income families in those regions couldn't afford emergency supplies anyways.",0.028188135474920273,0.9292381405830383,0.0425737164914608,negative,-0.9010500311851501
+45,2018-09-11 07:02:00,I can make the same argument about Hurricane Harvey.,0.05950525403022766,0.05428532510995865,0.8862093687057495,neutral,0.0052199289202690125
+46,2018-09-11 07:02:00,"Not only did Harvey caused $125 billion in damages, it took 106 American lives.",0.06159825995564461,0.7932832837104797,0.14511854946613312,negative,-0.7316850423812866
+47,2018-09-11 07:02:00,"Additionally, the mega-storm hit regions that really couldn't afford it financially.",0.029467690736055374,0.9349948167800903,0.035537440329790115,negative,-0.9055271148681641
+48,2018-09-11 07:02:00,"Subsequently, HD stock barely moved.",0.043891798704862595,0.4289495646953583,0.5271586179733276,neutral,-0.3850577771663666
+49,2018-09-11 07:02:00,"Sandy, on the other hand, lashed out its severity toward the northeastern states.",0.1366497129201889,0.5242884755134583,0.33906176686286926,negative,-0.38763874769210815
+50,2018-09-11 07:02:00,"Although it was incredibly damaging at $70.2 billion, Sandy victims could better absorb the financial strain.",0.6506001353263855,0.22343161702156067,0.12596821784973145,positive,0.42716851830482483
+51,2018-09-11 07:02:00,Home Depot stock increased 1.7% during this storm.,0.9480164647102356,0.01901194080710411,0.032971546053886414,positive,0.9290045499801636
+52,2018-09-11 07:02:00,"Of course, outliers exist that contradict these trends and my thesis.",0.029835551977157593,0.22914239764213562,0.7410220503807068,neutral,-0.19930684566497803
+53,2018-09-11 07:02:00,Which is why I wouldn't play storm-chaser with HD stock.,0.05689806118607521,0.0603208914399147,0.8827810883522034,neutral,-0.003422830253839493
+54,2018-09-11 07:02:00,"Instead, buy this home-improvement giant for its strong business, and its distinct ability to remain relevant in all circumstances.",0.6502141356468201,0.010499664582312107,0.3392862379550934,positive,0.6397144794464111
+55,2018-09-11 07:02:00,"As of this writing, Josh Enomoto did not hold a position in any of the aforementioned securities.",0.008661911822855473,0.025846272706985474,0.9654918313026428,neutral,-0.017184361815452576
+56,2018-09-11 07:02:00,"• 15 Tech Stocks to Buy Amid Fears of a Trade War With China
+• 10 Oil Stocks That Are Worth a Second Look
+• 5 Penny Stocks You'd Have to Be Crazy to Buy
+
+The post Don't Chase the Storm in Home Depot Stock appeared first on InvestorPlace .",0.12050376832485199,0.07216720283031464,0.8073290586471558,neutral,0.048336565494537354
+57,2018-09-11 07:02:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

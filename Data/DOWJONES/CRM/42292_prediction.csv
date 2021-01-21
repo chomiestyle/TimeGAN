@@ -1,0 +1,38 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-25 12:56:00,"Tuesday was a mixed day for the stock market, but overall, market participants seemed to be pleased about how the economy is progressing in the shadow of the COVID-19 pandemic.",0.8000238537788391,0.05145901441574097,0.14851704239845276,positive,0.7485648393630981
+1,2020-08-25 12:56:00,"Broader measures like the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite once again closed at record levels, but the Dow Jones Industrial Average (DJINDICES: ^DJI) got held back largely by declines in the stocks that will soon no longer be part of the average.",0.029019203037023544,0.944789469242096,0.026191307231783867,negative,-0.9157702922821045
+2,2020-08-25 12:56:00,"The big news of the day was that the governing board overseeing the Dow Jones Industrials decided to add three new stocks to the average, replacing three others.",0.26833173632621765,0.035417187958955765,0.6962510347366333,neutral,0.23291455209255219
+3,2020-08-25 12:56:00,"Tuesday was a rough day for the soon-to-be-former Dow components, but the new recruits celebrated the news.",0.44365015625953674,0.1578981876373291,0.39845171570777893,positive,0.28575196862220764
+4,2020-08-25 12:56:00,"Three new stocks are coming to the Dow
+
+Late Monday, S&P Dow Jones Indices announced the moves.",0.06198355183005333,0.011439493857324123,0.9265769720077515,neutral,0.05054405704140663
+5,2020-08-25 12:56:00,"The three newest Dow members will be biotech giant Amgen (NASDAQ: AMGN), defense and aerospace manufacturer Honeywell (NYSE: HON), and customer-relationship management software specialist Salesforce.com (NYSE: CRM).",0.08656109124422073,0.005130092613399029,0.9083088040351868,neutral,0.08143100142478943
+6,2020-08-25 12:56:00,S&P explained that the moves were necessary primarily as a result of Apple's (NASDAQ: AAPL) decision to do a stock split.,0.21370580792427063,0.026152096688747406,0.7601420879364014,neutral,0.18755370378494263
+7,2020-08-25 12:56:00,"With Apple having wielded more influence in the price-weighted average than any other stock, the 4-for-1 split had a huge disruptive impact on sector weightings within the Dow.",0.0381331741809845,0.9220080375671387,0.03985880687832832,negative,-0.8838748931884766
+8,2020-08-25 12:56:00,"Salesforce was chosen to boost the tech component, while Amgen replaced pharma company Pfizer (NYSE: PFE), and Honeywell took the place of industry peer Raytheon Technologies (NYSE: RTX).",0.3809696435928345,0.010467813350260258,0.6085625886917114,neutral,0.3705018162727356
+9,2020-08-25 12:56:00,What's behind the big gains in these stocks?,0.1704726666212082,0.023565202951431274,0.8059621453285217,neutral,0.14690746366977692
+10,2020-08-25 12:56:00,"Often, when new stocks join an index, there's an immediate bump.",0.1839447319507599,0.05654032528400421,0.7595149278640747,neutral,0.12740440666675568
+11,2020-08-25 12:56:00,"That's somewhat at play here, but the Dow isn't as closely followed as the S&P 500 among index investors.",0.06058277189731598,0.06088609993457794,0.8785311579704285,neutral,-0.0003033280372619629
+12,2020-08-25 12:56:00,"Amgen rose the most of the three, gaining 5%.",0.9333348274230957,0.02299254946410656,0.04367263987660408,positive,0.910342276096344
+13,2020-08-25 12:56:00,"Investors are excited about the company becoming the first biotech to join the Dow, and they see the move as validation of the impressive business model that the innovative healthcare company has developed over the past couple of decades.",0.9159678220748901,0.014730730094015598,0.06930144131183624,positive,0.9012370705604553
+14,2020-08-25 12:56:00,Honeywell picked up 3%.,0.3158632814884186,0.01724466122686863,0.6668919920921326,neutral,0.2986186146736145
+15,2020-08-25 12:56:00,"The company has actually been in the Dow before, having joined in 2003 upon its merger with Dow component AlliedSignal.",0.05335665121674538,0.0070282830856740475,0.9396150708198547,neutral,0.04632836952805519
+16,2020-08-25 12:56:00,"However, Honeywell got replaced in early 2008 to make way for Chevron (NYSE: CVX).",0.025729477405548096,0.590069055557251,0.3842014670372009,negative,-0.5643395781517029
+17,2020-08-25 12:56:00,"Salesforce picked up 4% in the regular session, but it added another 12% in the first 30 minutes of after-hours trading Tuesday after announcing strong second-quarter earnings results.",0.9382955431938171,0.03847861662507057,0.023225804790854454,positive,0.8998169302940369
+18,2020-08-25 12:56:00,"Revenue jumped 29% year over year, and net income soared from the year-ago period's negligible levels.",0.9561396241188049,0.02030523121356964,0.023555157706141472,positive,0.9358344078063965
+19,2020-08-25 12:56:00,Salesforce also boosted its full-year fiscal 2021 revenue guidance to imply a growth rate of 21% to 22%.,0.9534358382225037,0.018399301916360855,0.028164949268102646,positive,0.9350365400314331
+20,2020-08-25 12:56:00,That was more than enough to make investors happy about Salesforce's future.,0.8718201518058777,0.027543243020772934,0.1006365492939949,positive,0.8442769050598145
+21,2020-08-25 12:56:00,"The Dow changes will take effect on August 31, which is also when Apple's stock split becomes effective.",0.02363547310233116,0.010359955951571465,0.9660046100616455,neutral,0.013275517150759697
+22,2020-08-25 12:56:00,"In the interim, investors will have to see how the new Dow stocks trade before they're officially inducted into the index.",0.044682543724775314,0.007945516146719456,0.9473719000816345,neutral,0.03673702850937843
+23,2020-08-25 12:56:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+24,2020-08-25 12:56:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+25,2020-08-25 12:56:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+26,2020-08-25 12:56:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+27,2020-08-25 12:56:00,Dan Caplinger owns shares of Apple.,0.022835472598671913,0.013721096329391003,0.9634434580802917,neutral,0.00911437626928091
+28,2020-08-25 12:56:00,The Motley Fool owns shares of and recommends Apple and Salesforce.com.,0.03965669125318527,0.03497915714979172,0.9253641366958618,neutral,0.004677534103393555
+29,2020-08-25 12:56:00,The Motley Fool recommends Amgen.,0.058421194553375244,0.05450756475329399,0.8870712518692017,neutral,0.003913629800081253
+30,2020-08-25 12:56:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

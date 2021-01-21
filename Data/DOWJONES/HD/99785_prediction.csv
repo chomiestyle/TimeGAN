@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-09 06:00:00,"When the housing market crashed in 2007 and 2008, home-improvement stores were some of the hardest hit companies around.",0.02830614522099495,0.9020125269889832,0.06968134641647339,negative,-0.8737064003944397
+1,2014-10-09 06:00:00,Case in point: Home Depot 's stock plummeted 56% between early 2007 and March 2009.,0.021206479519605637,0.9674743413925171,0.011319276876747608,negative,-0.94626784324646
+2,2014-10-09 06:00:00,"Fast-forward five years, however, and the company has come roaring back -- returning a whopping 500% for investors since the market bottomed.",0.9183028340339661,0.03314324468374252,0.04855396971106529,positive,0.8851596117019653
+3,2014-10-09 06:00:00,"But while that is good news for investors who owned the stock over that time frame, it doesn't help those looking to buy it today.",0.08265724033117294,0.787367582321167,0.12997514009475708,negative,-0.7047103643417358
+4,2014-10-09 06:00:00,Which of course begs the question: What does the future look like for Home Depot's stock and its dividend?,0.009131822735071182,0.020413953810930252,0.970454216003418,neutral,-0.01128213107585907
+5,2014-10-09 06:00:00,"The most important metric for dividend investors
+
+When it comes to dividends, no metric is more important to watch than a company's free cash flow.",0.0640927106142044,0.0077738589607179165,0.9281334280967712,neutral,0.05631885305047035
+6,2014-10-09 06:00:00,"This represents the total amount of cash that a company brings in during a year, minus whatever it spends on capital expenditures (like building new Home Depot locations).",0.020763659849762917,0.00934896431863308,0.9698873162269592,neutral,0.011414695531129837
+7,2014-10-09 06:00:00,"Dividends are paid from free cash flow, which is why the metric is so important.",0.05921538546681404,0.006192764267325401,0.9345918893814087,neutral,0.05302262306213379
+8,2014-10-09 06:00:00,Here's what Home Depot's free cash flow situation has looked like since 2010.,0.03666087985038757,0.009954233653843403,0.9533849358558655,neutral,0.026706647127866745
+9,2014-10-09 06:00:00,Let me put the above chart in perspective for you: it's just about as awesome as any shareholder could hope for.,0.42932239174842834,0.013339800760149956,0.5573378205299377,neutral,0.41598260402679443
+10,2014-10-09 06:00:00,"For starters, free cash flow has grown every year.",0.9069638252258301,0.013630391098558903,0.07940581440925598,positive,0.8933334350585938
+11,2014-10-09 06:00:00,"When a company needs to balance the inventory it has on hand, and figure out how much to spend on capital expenditures each year, it can be tough to consistently grow free cash flow.",0.07154106348752975,0.7361023426055908,0.19235657155513763,negative,-0.6645612716674805
+12,2014-10-09 06:00:00,"But Home Depot has pulled the feat off, which shows an impressive ability to predict trends in its business.",0.47349998354911804,0.2277715653181076,0.29872846603393555,positive,0.24572841823101044
+13,2014-10-09 06:00:00,"More important, the company's dividend is rock solid.",0.7791722416877747,0.014515846967697144,0.20631197094917297,positive,0.7646564245223999
+14,2014-10-09 06:00:00,"Currently, only 35% of the company's free cash flow is used to pay out its dividend.",0.01201286818832159,0.1299453228712082,0.8580418229103088,neutral,-0.11793245375156403
+15,2014-10-09 06:00:00,Home Depot could double its payout tomorrow and it would still be relatively safe.,0.8393644094467163,0.028513645753264427,0.13212193548679352,positive,0.8108507394790649
+16,2014-10-09 06:00:00,"But for the time being, investors should be satisfied knowing that the dividend will be around even if times get tough, and that it will continue to grow in even a sideways economy.",0.8930249214172363,0.01511454302817583,0.0918605774641037,positive,0.8779103755950928
+17,2014-10-09 06:00:00,So is the stock a buy?,0.1754932403564453,0.022302944213151932,0.8022037744522095,neutral,0.15319029986858368
+18,2014-10-09 06:00:00,"With companies like Home Depot, two metrics really illustrate the strength of the overall business: comparable-store sales, or comps, and profit margin.",0.17690874636173248,0.011981694959104061,0.8111096024513245,neutral,0.16492705047130585
+19,2014-10-09 06:00:00,"Any company can grow revenue by building new stores, but comps let investors know if the business is really taking off.",0.42628130316734314,0.012474405579268932,0.5612443089485168,neutral,0.41380688548088074
+20,2014-10-09 06:00:00,Anything that outpaces inflation is good news.,0.6563538312911987,0.018200041726231575,0.32544615864753723,positive,0.6381537914276123
+21,2014-10-09 06:00:00,Profit margin also tells a big part of the story.,0.06414329260587692,0.006830637343227863,0.9290260076522827,neutral,0.057312656193971634
+22,2014-10-09 06:00:00,"When you are bringing in billions in revenue every year -- like Home Depot does -- seeing your profit margin go from, say, 4% to 5%, is a huge deal to the order of hundreds of millions of dollars.",0.5864351987838745,0.022158373147249222,0.39140650629997253,positive,0.5642768144607544
+23,2014-10-09 06:00:00,"Knowing that, here's how the company has performed on those two metrics over the same time frame.",0.14061659574508667,0.007001081481575966,0.8523823022842407,neutral,0.13361550867557526
+24,2014-10-09 06:00:00,"Again, this looks pretty amazing.",0.455718457698822,0.014935913495719433,0.5293456315994263,neutral,0.4407825469970703
+25,2014-10-09 06:00:00,"Not only had comps been accelerating until recently, but the profit margin was expanding at a very healthy pace.",0.9431950449943542,0.016478024423122406,0.04032687097787857,positive,0.9267170429229736
+26,2014-10-09 06:00:00,"I wouldn't worry too much about the slowdown in comps over the last six months, as they still outpace inflation.",0.05586200952529907,0.07493279874324799,0.8692051768302917,neutral,-0.019070789217948914
+27,2014-10-09 06:00:00,"Also, after four years of comps growing at such a pace, it becomes increasingly difficult to post such high numbers.",0.27164727449417114,0.07571858167648315,0.6526341438293457,neutral,0.195928692817688
+28,2014-10-09 06:00:00,All that leaves to investigate is the stock's price.,0.011966324411332607,0.03677557408809662,0.95125812292099,neutral,-0.024809248745441437
+29,2014-10-09 06:00:00,"Trading at 22 times earnings and 19 times free cash flow, Home Depot shares are not cheap by any means.",0.0210221279412508,0.29972490668296814,0.6792529821395874,neutral,-0.2787027657032013
+30,2014-10-09 06:00:00,But neither are most of today's blue-chip stocks.,0.02143280766904354,0.03413454815745354,0.9444326162338257,neutral,-0.012701740488409996
+31,2014-10-09 06:00:00,"Offering a 2% dividend yield today that has a high probability of growing, Home Depot is a stock worth taking a closer look at.",0.530840277671814,0.010962897911667824,0.4581967890262604,positive,0.5198773741722107
+32,2014-10-09 06:00:00,"If you want to own a piece, I suggest buying a small starter position, and adding to it over time at better and better value points.",0.3385718762874603,0.00887248758226633,0.6525556445121765,neutral,0.32969939708709717
+33,2014-10-09 06:00:00,Is Home Depot a top dividend stock for the next decade?,0.19580215215682983,0.009589762426912785,0.7946081161499023,neutral,0.18621239066123962
+34,2014-10-09 06:00:00,"Obviously, Home Depot is a great dividend stock.",0.46942782402038574,0.010366307571530342,0.5202058553695679,neutral,0.45906150341033936
+35,2014-10-09 06:00:00,But it's not the only one out there.,0.07786685228347778,0.08387195318937302,0.8382611870765686,neutral,-0.006005100905895233
+36,2014-10-09 06:00:00,Our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio...including yours.,0.0913439467549324,0.0053047724068164825,0.9033512473106384,neutral,0.08603917062282562
+37,2014-10-09 06:00:00,Is Home Depot one of those stocks?,0.03930233418941498,0.021502692252397537,0.9391949772834778,neutral,0.01779964193701744
+38,2014-10-09 06:00:00,"To see our free report on these stocks, just click here .",0.015726452693343163,0.014490216039121151,0.9697833061218262,neutral,0.0012362366542220116
+39,2014-10-09 06:00:00,The article How Safe is The Home Depot Inc. Stock and Its Dividend?,0.03557657450437546,0.016165627166628838,0.9482578039169312,neutral,0.01941094733774662
+40,2014-10-09 06:00:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+41,2014-10-09 06:00:00,Brian Stoffel has no position in any stocks mentioned.,0.011061043478548527,0.05123596638441086,0.9377029538154602,neutral,-0.040174923837184906
+42,2014-10-09 06:00:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+43,2014-10-09 06:00:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+44,2014-10-09 06:00:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+45,2014-10-09 06:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+46,2014-10-09 06:00:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+47,2014-10-09 06:00:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+48,2014-10-09 06:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+49,2014-10-09 06:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

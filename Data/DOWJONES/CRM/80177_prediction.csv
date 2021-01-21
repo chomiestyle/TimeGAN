@@ -1,0 +1,11 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,,The Russell 1000 Index is a market-capitalization-weighted index of the 1000 largest publicly traded companies in the U.S.,0.05237344652414322,0.008057540282607079,0.9395689964294434,neutral,0.04431590437889099
+1,,It represents approximately 92% of the total market capitalization of all listed stocks in the U.S. equity market.,0.038305193185806274,0.004844953306019306,0.9568498730659485,neutral,0.03346024081110954
+2,,"For that reason, it is considered a bellwether for large-cap investing.",0.41555869579315186,0.010315211489796638,0.5741260647773743,neutral,0.40524348616600037
+3,,"Some of the largest companies in the index include Microsoft Corp. (MSFT), Facebook Inc. (FB), and Johnson & Johnson (JNJ).",0.04819463938474655,0.01071237027645111,0.9410929679870605,neutral,0.03748226910829544
+4,,"The Russell 1000's total return is 15.7% over the past 12 months, as of September 29, 2020.﻿﻿ All statistics in the tables below are as of September 30.",0.013052679598331451,0.013229514472186565,0.9737178087234497,neutral,-0.00017683487385511398
+5,,"Here are the top 5 stocks with the best value, the fastest growth, and the most momentum.",0.09314693510532379,0.006957264617085457,0.8998957872390747,neutral,0.08618967235088348
+6,,"Value investing is a factor-based investing strategy in which you pick stocks that you believe are trading for less than what they are intrinsically worth, usually by measuring the ratio of the stock's price to one or more fundamental business metrics.",0.02365492843091488,0.01576676033437252,0.9605782628059387,neutral,0.007888168096542358
+7,,A widely accepted value metric is the price-to-earnings ratio (P/E Ratio).,0.04719385877251625,0.00549363624304533,0.9473125338554382,neutral,0.041700221598148346
+8,,"Value investors believe that if a business is cheap compared to its intrinsic value, in this case as measured by its P/E ratio, the stock price may rise faster than others as the price comes back in line with the worth of the company.",0.8939977288246155,0.024189604446291924,0.08181270956993103,positive,0.8698081374168396
+9,,These are the stocks with the lowest 12-month trailing price-to-earnings (P/E) ratio.,0.024681344628334045,0.7774174809455872,0.19790121912956238,negative,-0.7527361512184143

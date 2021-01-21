@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-20 08:30:00,It's not business as usual at Lowe's (NYSE: LOW) these days.,0.031515900045633316,0.25867167115211487,0.7098124027252197,neutral,-0.22715577483177185
+1,2018-11-20 08:30:00,"Under the leadership of a new CEO, who previously worked as top executive at Home Depot (NYSE: HD) , the retailer is restructuring itself in hopes of closing the persistent operating gap between the two companies.",0.7264491319656372,0.15265010297298431,0.1209007278084755,positive,0.5737990140914917
+2,2018-11-20 08:30:00,"In third-quarter earnings results posted this week, Lowe's didn't show progress against that goal.",0.048471599817276,0.8192675113677979,0.13226087391376495,negative,-0.7707959413528442
+3,2018-11-20 08:30:00,"Instead, the home improvement retailer reduced its 2018 outlook despite generally favorable industry trends.",0.01914873532950878,0.9433300495147705,0.03752123564481735,negative,-0.924181342124939
+4,2018-11-20 08:30:00,More on that worsening forecast in a moment.,0.1133565604686737,0.3287113308906555,0.5579320788383484,neutral,-0.2153547704219818
+5,2018-11-20 08:30:00,"First, here's how the latest numbers compare with the prior-year period:
+
+Sales came in below expectations for the second straight quarter even though the broader home improvement market saw healthy growth.",0.019010888412594795,0.9650981426239014,0.015890926122665405,negative,-0.9460872411727905
+6,2018-11-20 08:30:00,"Lowe's struggled with fundamental selling capabilities, including having the right inventory in place at the right time.",0.04612787812948227,0.697300374507904,0.2565717399120331,negative,-0.6511725187301636
+7,2018-11-20 08:30:00,These challenges pressured earnings and sent profitability lower.,0.022853396832942963,0.9574522972106934,0.019694337621331215,negative,-0.9345989227294922
+8,2018-11-20 08:30:00,"The key highlights of the quarter:
+• Comparable-store sales, or sales at locations open at least a year, expanded by 1.5% to mark a slowdown from the prior quarter's 5% uptick.",0.8440927267074585,0.1345268189907074,0.02138037607073784,positive,0.7095658779144287
+9,2018-11-20 08:30:00,"Rival Home Depot also saw its growth pace slow from the seasonally strong second quarter , but its 5% rate implies market-share gains against its smaller peer.",0.37870436906814575,0.5791565179824829,0.04213917255401611,negative,-0.20045214891433716
+10,2018-11-20 08:30:00,• Gross profit margin fell to 32.5% of sales from 34% a year ago as Lowe's struggled to convert increased customer traffic into higher sales volumes.,0.01831703633069992,0.9734212160110474,0.008261813782155514,negative,-0.9551041722297668
+11,2018-11-20 08:30:00,"In contrast, Home Depot's margin held steady at 35% for the same period.",0.7550591826438904,0.0527261458337307,0.19221465289592743,positive,0.7023330330848694
+12,2018-11-20 08:30:00,• Lowe's posted higher selling expenses and took a $280 million charge associated with store closures and the exiting of several noncore business lines.,0.029450682923197746,0.9583413600921631,0.01220800168812275,negative,-0.9288907051086426
+13,2018-11-20 08:30:00,These costs ensured that earnings fell significantly despite a lower tax rate.,0.31187084317207336,0.6352730989456177,0.05285600945353508,negative,-0.3234022557735443
+14,2018-11-20 08:30:00,"After accounting for the restructuring charges, adjusted profits fell by 1%.",0.016988784074783325,0.9737560153007507,0.009255277924239635,negative,-0.956767201423645
+15,2018-11-20 08:30:00,"What management had to say
+
+In just his second quarter as CEO, Marvin Ellison had to again deliver discouraging news to investors about Lowe's retailing struggles.",0.031016813591122627,0.9238902926445007,0.04509291797876358,negative,-0.8928734660148621
+16,2018-11-20 08:30:00,"""The favorable macroeconomic environment, combined with great values, drove traffic to our stores and website,"" he said in a press release.",0.9000123143196106,0.014274846762418747,0.08571291714906693,positive,0.8857374787330627
+17,2018-11-20 08:30:00,"""However, continued challenges with inventory out of stocks, poor reset execution, and assortment concerns in certain categories pressured our ability to turn those visits into transactions.""",0.15459293127059937,0.7774192690849304,0.067987821996212,negative,-0.622826337814331
+18,2018-11-20 08:30:00,"On the bright side, Ellison said the management team made solid progress in its business reassessment and, with that key project behind it, ""we can now intensify our focus on the core retail business.""",0.9372631311416626,0.01575075462460518,0.04698609560728073,positive,0.9215123653411865
+19,2018-11-20 08:30:00,"Lowe's is becoming a leaner organization, having closed all of its Orchard Supply locations and now exiting its entire retail operation in Mexico.",0.016628393903374672,0.9385738372802734,0.04479771479964256,negative,-0.9219454526901245
+20,2018-11-20 08:30:00,"The company expects these moves to help its selling trends and profitability improve, slowly, over time.",0.9402347207069397,0.013635729439556599,0.0461294949054718,positive,0.9265989661216736
+21,2018-11-20 08:30:00,"""Our transformation will take time,"" Ellison said, ""but we have assembled an experienced team and developed a comprehensive plan to make steady progress.""",0.9196960926055908,0.014659165404736996,0.065644770860672,positive,0.9050369262695312
+22,2018-11-20 08:30:00,"In the meantime, Lowe's reduced its 2018 outlook and now sees sales rising by about 2.5% rather than the 3% target executives set three months ago and the 3.5% initial goal they outlined for the year.",0.13802316784858704,0.7987891435623169,0.06318765878677368,negative,-0.6607660055160522
+23,2018-11-20 08:30:00,"That trend stands in stark contrast with Home Depot, which last week boosted its growth outlook to 5.3% from 5%.",0.9381895661354065,0.03122069500386715,0.03058968111872673,positive,0.906968891620636
+24,2018-11-20 08:30:00,"Lowe's sees its profitability taking another step away from its bigger rival, too, as operating margin is expected to fall by 2 percentage points to roughly 8% of sales, compared to Home Depot's 14.5%.",0.01810372620820999,0.9706509113311768,0.01124532986432314,negative,-0.9525471925735474
+25,2018-11-20 08:30:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+26,2018-11-20 08:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+27,2018-11-20 08:30:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+28,2018-11-20 08:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+29,2018-11-20 08:30:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+30,2018-11-20 08:30:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+31,2018-11-20 08:30:00,The Motley Fool has the following options: short February 2019 $185 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013949581421911716,0.03693100064992905,0.9491194486618042,neutral,-0.022981420159339905
+32,2018-11-20 08:30:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+33,2018-11-20 08:30:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+34,2018-11-20 08:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

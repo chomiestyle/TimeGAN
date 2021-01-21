@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-30 06:24:00,You may have heard that the retail industry is in tatters.,0.048456113785505295,0.8040844798088074,0.14745938777923584,negative,-0.7556283473968506
+1,2017-03-30 06:24:00,"For the vast majority of brick-and-mortar chains, that's true.",0.036520738154649734,0.01181984506547451,0.9516593813896179,neutral,0.024700893089175224
+2,2017-03-30 06:24:00,Department stores are shedding profits as fewer customers visit their local mall.,0.01804334670305252,0.971059262752533,0.010897299274802208,negative,-0.953015923500061
+3,2017-03-30 06:24:00,"Apparel companies are struggling as they face increasing competition from e-commerce operators like Amazon (NASDAQ: AMZN) and fast-fashion chains like H&M, and bankruptcies have hit a range of sectors from sporting goods to apparel to electronics.",0.018310388550162315,0.9584181904792786,0.0232713520526886,negative,-0.9401078224182129
+4,2017-03-30 06:24:00,But one corner of retail has stood out as a winner even as much of the industry crumbles around it.,0.7945313453674316,0.034401651471853256,0.17106707394123077,positive,0.7601296901702881
+5,2017-03-30 06:24:00,"Led by Home Depot (NYSE: HD) , the home-improvement sector continues to grow as sales have increased 5.9% over the last three months, according to the Census Bureau, better than almost any other retail segment.",0.9511282444000244,0.017185447737574577,0.031686361879110336,positive,0.9339427947998047
+6,2017-03-30 06:24:00,Here are three reasons why the best is still to come for Home Depot.,0.025080135092139244,0.012159261852502823,0.9627605676651001,neutral,0.012920873239636421
+7,2017-03-30 06:24:00,"Almost across the board, retailers have seen their businesses pressured by Amazon.",0.02566342055797577,0.9506990313529968,0.02363753877580166,negative,-0.9250355958938599
+8,2017-03-30 06:24:00,"From books to electronics to clothes, each time Amazon has entered a new category, brick-and-mortar businesses have suffered.",0.021473441272974014,0.9288393259048462,0.04968719184398651,negative,-0.9073658585548401
+9,2017-03-30 06:24:00,"But the e-commerce giant has largely avoided the home-improvement segment, and it's easy to see why.",0.020144499838352203,0.1611335724592209,0.8187219500541687,neutral,-0.14098906517028809
+10,2017-03-30 06:24:00,"With heavy and large products like drywall, 2x4s, and windows, it's not a category that lends itself to delivery.",0.029956132173538208,0.008058648556470871,0.961985170841217,neutral,0.021897483617067337
+11,2017-03-30 06:24:00,Doing so would be inefficient as similarly priced items in other categories are usually much smaller.,0.04377034306526184,0.6300305128097534,0.32619914412498474,negative,-0.586260199546814
+12,2017-03-30 06:24:00,"Though Amazon has been increasingly experimenting with physical retail formats, the company seems focused on books, gadgets, and groceries, which should occupy its brick-and-mortar strategy for the foreseeable future.",0.1065138429403305,0.00552683649584651,0.887959361076355,neutral,0.100987009704113
+13,2017-03-30 06:24:00,"Other storefront businesses like restaurants have seen an indirect effect from Amazon as spillover retail traffic has fallen, but Home Depot, with an average transaction of around $60, is a destination in and of itself and not dependent on shoppers who are browsing in malls, the way restaurants are.",0.020504316315054893,0.9118382334709167,0.067657470703125,negative,-0.8913339376449585
+14,2017-03-30 06:24:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+15,2017-03-30 06:24:00,"The housing market is getting stronger
+
+Home Depot stock has soared since the recession, up more than 700% since the market's bottom in 2009.",0.9448106288909912,0.019802777096629143,0.035386618226766586,positive,0.9250078797340393
+16,2017-03-30 06:24:00,"The housing market has steadily recovered over that time, and home prices are now at record highs again.",0.8812201619148254,0.03209248185157776,0.08668732643127441,positive,0.8491276502609253
+17,2017-03-30 06:24:00,"Similarly, existing home sales hit a 10-year high in January, and other figures also show an expanding housing market.",0.8955004215240479,0.025627952069044113,0.07887162268161774,positive,0.8698724508285522
+18,2017-03-30 06:24:00,"While there is some concern about another bubble, consumer and small business confidence are at post-recession highs, and there is plenty of slack in the labor market from people who stopped looking for jobs, despite figures that show the country is near full employment.",0.045601796358823776,0.9181951284408569,0.03620307520031929,negative,-0.872593343257904
+19,2017-03-30 06:24:00,A business-friendly administration in the White House with plans to invest as much as $1 trillion in infrastructure could also help.,0.8599793314933777,0.020792346447706223,0.11922840774059296,positive,0.83918696641922
+20,2017-03-30 06:24:00,"Rising interest rates may eventually cool the housing market, but the Federal Reserve has thus far been restrained in raising rates.",0.3601020276546478,0.25601014494895935,0.3838878273963928,neutral,0.10409188270568848
+21,2017-03-30 06:24:00,"Finally, Home Depot and rival Lowe's (NYSE: LOW) own figures, along with data from the Census Bureaushow increasing investment in home improvement, and other trends have shown that millennials tend to spend more money on kitchen and bathroom remodels.",0.673103392124176,0.09367240220308304,0.2332242727279663,positive,0.5794309973716736
+22,2017-03-30 06:24:00,"Over the last decade, Home Depot has made a number of wise decisions, avoiding pitfalls that have hurt other retailers.",0.8641813397407532,0.01962212100625038,0.11619659513235092,positive,0.8445591926574707
+23,2017-03-30 06:24:00,"In 2012, the company pulled out of China, shuttering seven stores after coming to the conclusion that the do-it-yourself ethos that drives business in the U.S wasn't a cultural fit in the world's No.",0.02102472446858883,0.955287516117096,0.02368779294192791,negative,-0.9342628121376038
+24,2017-03-30 06:24:00,2 economy.,0.05261901766061783,0.0201165359467268,0.9272644519805908,neutral,0.03250247985124588
+25,2017-03-30 06:24:00,Management has also shown similar restraint at home.,0.569483757019043,0.07250826805830002,0.3580079674720764,positive,0.49697548151016235
+26,2017-03-30 06:24:00,"Unlike most retail giants, it has refused to open new stores since 2008, with its store count remaining at 2,274, all of them in America, Canada and Mexico.",0.017694735899567604,0.9146626591682434,0.06764260679483414,negative,-0.8969679474830627
+27,2017-03-30 06:24:00,"With nearly 2,000 stores in the U.S., the company already has a store within 10 miles of most Americans, and rightly believed that opening new stores would cannibalize existing ones.",0.12162680178880692,0.5031564235687256,0.3752168118953705,negative,-0.38152962923049927
+28,2017-03-30 06:24:00,"Instead, it invested in e-commerce, store improvements, and returning capital to shareholders.",0.23175612092018127,0.008801198564469814,0.7594426870346069,neutral,0.22295492887496948
+29,2017-03-30 06:24:00,"As a return, management has steadily knocked down the growth goals it has set.",0.02906550094485283,0.9350935220718384,0.035841017961502075,negative,-0.9060280323028564
+30,2017-03-30 06:24:00,"The company seems well on its way to hitting its goals for next year, announced in 2015, including revenue of $101 billion, representing a compound annual sales growth rate of 4.7%, operating margin going from 13% to 14.5%, and return on invested capital jumping from 27% to 35%.",0.9331256151199341,0.018803905695676804,0.04807049036026001,positive,0.9143217206001282
+31,2017-03-30 06:24:00,"As the housing market expands and Home Depot approaches those numbers, the stock should only move higher.",0.34664881229400635,0.018845653161406517,0.6345055103302002,neutral,0.3278031647205353
+32,2017-03-30 06:24:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+33,2017-03-30 06:24:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+34,2017-03-30 06:24:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+35,2017-03-30 06:24:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+36,2017-03-30 06:24:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+37,2017-03-30 06:24:00,Jeremy Bowman has no position in any stocks mentioned.,0.011148006655275822,0.04919901862740517,0.9396529793739319,neutral,-0.03805101290345192
+38,2017-03-30 06:24:00,The Motley Fool owns shares of and recommends Amazon.,0.05119821056723595,0.03092995285987854,0.9178718328475952,neutral,0.020268257707357407
+39,2017-03-30 06:24:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+40,2017-03-30 06:24:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+41,2017-03-30 06:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

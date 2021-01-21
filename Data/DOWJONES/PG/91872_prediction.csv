@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-28 01:49:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-03-28 01:49:00,"Today's Research Daily features new research reports on 16 major stocks, including Johnson & Johnson (JNJ), Intel (INTC) and Procter & Gamble (PG).",0.04708588495850563,0.007959899492561817,0.9449542164802551,neutral,0.03912598639726639
+2,2018-03-28 01:49:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-03-28 01:49:00,"You can see all of today's research reports here >>>
+
+Buy-rated Johnson & Johnson 's shares have lost -2.2% in the last six months, outperforming the -5.4% decline of the Zacks Large Cap Pharmaceuticals industry.",0.018676482141017914,0.9716233015060425,0.009700233116745949,negative,-0.9529468417167664
+4,2018-03-28 01:49:00,J&J's sales growth accelerated in the second half of 2017 backed by higher sales in the Pharmaceutical segment and improving performance in Medical Devices.,0.9556300044059753,0.01673651486635208,0.027633490040898323,positive,0.9388934969902039
+5,2018-03-28 01:49:00,"Though quite a few key products in J&J's portfolio like Remicade and Concerta are facing generic competition, the Zacks analyst thinks new products in all segments, label expansion of drugs like Imbruvica and Darzalex and contribution from recent acquisitions - mainly Actelion - can support top-line growth.",0.9340416789054871,0.013201777823269367,0.05275649577379227,positive,0.9208399057388306
+6,2018-03-28 01:49:00,"Meanwhile, share buybacks and the restructuring initiative should provide bottom-line support.",0.8379889726638794,0.01725011132657528,0.14476092159748077,positive,0.8207388520240784
+7,2018-03-28 01:49:00,J&J is also making rapid progress with its pipeline and line extensions.,0.9287897348403931,0.01426844671368599,0.05694182589650154,positive,0.9145212769508362
+8,2018-03-28 01:49:00,"However, headwinds like generics, pricing pressure and soft global market conditions remain.",0.03293194994330406,0.9173542857170105,0.049713727086782455,negative,-0.8844223618507385
+9,2018-03-28 01:49:00,(You can read the full research report on Johnson & Johnson here >>> ).,0.013885675929486752,0.011374055407941341,0.9747402667999268,neutral,0.00251162052154541
+10,2018-03-28 01:49:00,"Shares of Intel 's shares have outperformed the Zacks General Semiconductor industry over the past six months, gaining +34.4% vs. +27.2%.",0.6909139752388,0.2868128716945648,0.022273121401667595,positive,0.40410110354423523
+11,2018-03-28 01:49:00,Intel is the world's largest manufacturer of semiconductor products.,0.34267088770866394,0.00867950078099966,0.6486496329307556,neutral,0.3339913785457611
+12,2018-03-28 01:49:00,"The company is benefiting from robust performance of the DCG, IoT Group, NSG and PSG.",0.9523280262947083,0.015903504565358162,0.03176851198077202,positive,0.9364244937896729
+13,2018-03-28 01:49:00,These segments form the crux of Intel's data-centric business model.,0.02953232452273369,0.005162399727851152,0.9653052687644958,neutral,0.024369925260543823
+14,2018-03-28 01:49:00,"Further, the launch of FPGA SDK for OpenCL solution, Xeon Scalable, Core 8 chips, Myriad X and next-generation desktop processors are key catalysts.",0.7160636782646179,0.01147957518696785,0.2724567651748657,positive,0.7045841217041016
+15,2018-03-28 01:49:00,"Lately, Intel's Movidius vision processing has gained strong adoption.",0.935005247592926,0.015729302540421486,0.04926541447639465,positive,0.9192759394645691
+16,2018-03-28 01:49:00,The processor was selected by Alphabet's Google division and Amazon.com's DeepLens.,0.19994696974754333,0.007995134219527245,0.7920579314231873,neutral,0.19195184111595154
+17,2018-03-28 01:49:00,"Intel's partnerships with BMW, Nissan, Volkswagen AG and Ferrari will boost sales of processing chips, sensor-chips, cloud software and many more, which will drive top-line growth.",0.948479950428009,0.018179066479206085,0.03334099054336548,positive,0.9303008913993835
+18,2018-03-28 01:49:00,"However, stiff competition from peers adds to its woes.",0.09372567385435104,0.8693252801895142,0.03694899007678032,negative,-0.7755995988845825
+19,2018-03-28 01:49:00,(You can read the full research report on Intel here >>> ).,0.014734398573637009,0.013562409207224846,0.9717032313346863,neutral,0.0011719893664121628
+20,2018-03-28 01:49:00,Procter & Gamble 's shares have underperformed the Zacks Soap and Cleaning Materials industry over the last six months (-14.5% vs. -10.6%).,0.15099965035915375,0.8216920495033264,0.02730831876397133,negative,-0.6706923842430115
+21,2018-03-28 01:49:00,"The Zacks analyst likes its strong brand recognition, diversified portfolio, impressive product development capabilities and marketing prowess as well as strong cash flow productivity.",0.8973270654678345,0.013060495257377625,0.0896124392747879,positive,0.8842665553092957
+22,2018-03-28 01:49:00,"The company remains focused on balanced growth through improved product, packaging, and marketing initiatives and productivity cost-savings plan.",0.8996971249580383,0.012836354784667492,0.08746648579835892,positive,0.8868607878684998
+23,2018-03-28 01:49:00,Earnings estimates for fiscal 2018 have moved north over the last 60 days signaling analysts' optimism.,0.8371783494949341,0.06148535758256912,0.10133633762598038,positive,0.7756929993629456
+24,2018-03-28 01:49:00,"However, slowing market growth, weak volumes and organic sales have been hurting sales.",0.020871460437774658,0.9673427939414978,0.011785798706114292,negative,-0.9464713335037231
+25,2018-03-28 01:49:00,Soft consumer-spending environment in developed markets and uncertainties in emerging countries also add to the worries.,0.09388434886932373,0.5690229535102844,0.33709272742271423,negative,-0.4751386046409607
+26,2018-03-28 01:49:00,"That said, P&G is speeding up innovations and investments to counter the softening industry growth.",0.8501840829849243,0.012819827534258366,0.13699613511562347,positive,0.8373642563819885
+27,2018-03-28 01:49:00,(You can read the full research report on Procter & Gamble here >>> ).,0.013788774609565735,0.010992237366735935,0.9752189517021179,neutral,0.0027965372428297997
+28,2018-03-28 01:49:00,"Other noteworthy reports we are featuring today include Caterpillar (CAT), Raytheon (RTN) and Halliburton (HAL).",0.04029747098684311,0.005201478023082018,0.9545010924339294,neutral,0.03509599342942238
+29,2018-03-28 01:49:00,Will You Make a Fortune on the Shift to Electric Cars?,0.16753385961055756,0.018516888841986656,0.8139492273330688,neutral,0.14901697635650635
+30,2018-03-28 01:49:00,Here's another stock idea to consider.,0.05285736173391342,0.007070568855851889,0.9400720596313477,neutral,0.045786794275045395
+31,2018-03-28 01:49:00,"Much like petroleum 150 years ago, lithium power may soon shake the world, creating millionaires and reshaping geo-politics.",0.47791752219200134,0.07177354395389557,0.4503089487552643,positive,0.4061439633369446
+32,2018-03-28 01:49:00,Soon electric vehicles (EVs) may be cheaper than gas guzzlers.,0.5187358856201172,0.013680092990398407,0.4675840437412262,positive,0.5050557851791382
+33,2018-03-28 01:49:00,Some are already reaching 265 miles on a single charge.,0.453574001789093,0.02303212694823742,0.5233939290046692,neutral,0.43054187297821045
+34,2018-03-28 01:49:00,"With battery prices plummeting and charging stations set to multiply, one company stands out as the #1 stock to buy according to Zacks research.",0.515029788017273,0.07344300299882889,0.41152721643447876,positive,0.44158679246902466
+35,2018-03-28 01:49:00,It's not the one you think.,0.04626888781785965,0.042117830365896225,0.9116132855415344,neutral,0.004151057451963425
+36,2018-03-28 01:49:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+37,2018-03-28 01:49:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+38,2018-03-28 01:49:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+J&J's (JNJ) New Products and Acquisition to Support Top-Line
+
+Per the Zacks analyst, lululemon's digital business has transformed in 2017 through investments in process and IT.",0.8934046626091003,0.01391525287181139,0.09268003702163696,positive,0.8794894218444824
+39,2018-03-28 01:49:00,This along with the website re-launch boosted e-commerce comps in the fourth quarter.,0.9407989978790283,0.027320099994540215,0.03188092261552811,positive,0.9134789109230042
+40,2018-03-28 01:49:00,"Chemed's prospects in core plumbing, drain cleaning and water restoration units will boost its Roto-Rooter business.",0.9544143080711365,0.01694406382739544,0.02864164486527443,positive,0.9374702572822571
+41,2018-03-28 01:49:00,"The Zacks analyst stresses that, Built-to-Order process enables homebuyers to personalize their homes, thus giving KB Home competitive advantage over its peers.",0.921804666519165,0.01427384652197361,0.06392145901918411,positive,0.9075308442115784
+42,2018-03-28 01:49:00,"Per the Zacks analyst, solid inflow of contracts for its combat-proven missiles drives Raytheon's growth trajectory.",0.9472656846046448,0.014040726236999035,0.0386936329305172,positive,0.9332249760627747
+43,2018-03-28 01:49:00,"Per the Zacks analyst, new innovative product launches are helping BorgWarner to widen its product portfolio and improve its technology solution offerings for combustion, hybrid and electric vehicles.",0.9496400952339172,0.015900233760476112,0.03445969149470329,positive,0.9337398409843445
+44,2018-03-28 01:49:00,The Zacks analyst is concerned about the pricing pressure that ResMed is facing in the United States and Europe.,0.03214932605624199,0.6502996683120728,0.31755101680755615,negative,-0.6181503534317017
+45,2018-03-28 01:49:00,"Per the Zacks analyst, Dolby's partnerships with industry frontrunners will boost market traction of Dolby Vision, Dolby Voice and Dolby Cinema's offerings.",0.9553027749061584,0.019028136506676674,0.025669103488326073,positive,0.9362746477127075
+46,2018-03-28 01:49:00,The Zacks analyst likes the company's performance with respect to unit revenues.,0.6679167151451111,0.030943581834435463,0.3011396527290344,positive,0.6369731426239014
+47,2018-03-28 01:49:00,Efforts to modernize its fleet and reward shareholders also raise optimism in the stock.,0.9272335767745972,0.021799789741635323,0.050966572016477585,positive,0.9054337739944458
+48,2018-03-28 01:49:00,"Per the Zacks analyst, Fifth Third's strategic initiatives will grow revenues, lower costs and optimize balance sheet position by 2019.",0.9380504488945007,0.014968504197895527,0.04698106646537781,positive,0.9230819344520569
+49,2018-03-28 01:49:00,"Also, top-line continues to benefit from rising loan balances.",0.9492772221565247,0.01863841712474823,0.03208436444401741,positive,0.9306387901306152
+50,2018-03-28 01:49:00,"Per the Zacks analyst, new product additions will enhance the Western Digital's existing product portfolio and aid it in securing a strong foothold in the global SSD market.",0.951521098613739,0.015196375548839569,0.03328260779380798,positive,0.9363247156143188
+51,2018-03-28 01:49:00,"The Zacks analyst believes delay in approval for $1.6B Northern Pass transmission project can jeopardize its prospects, while lower than expected performance from third parties could hurt business.",0.02144673280417919,0.9667961597442627,0.011757107451558113,negative,-0.9453494548797607
+52,2018-03-28 01:49:00,"The Zacks analyst is concerned about the recent price escalation of sand, a key ingredient to hydraulically fracture new wells, which has driven up Halliburton's service costs.",0.02576473355293274,0.9459303617477417,0.028304940089583397,negative,-0.9201656579971313
+53,2018-03-28 01:49:00,"Per the Zacks analyst, raw material cost inflation and higher restructuring charges will weigh on Caterpillar's margins in 2018.",0.06973516196012497,0.839185893535614,0.09107893705368042,negative,-0.7694507241249084
+54,2018-03-28 01:49:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+55,2018-03-28 01:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+56,2018-03-28 01:49:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+57,2018-03-28 01:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

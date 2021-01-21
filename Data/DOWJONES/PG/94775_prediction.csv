@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2010-07-19 22:24:00,SAN DIEGO (ETFguide.com) - I have good news and bad news.,0.050582095980644226,0.20573659241199493,0.7436813116073608,neutral,-0.1551544964313507
+1,2010-07-19 22:24:00,Here's the good news: The May 6th 'Flash Crash' that spooked global markets is over.,0.11834889650344849,0.0346415676176548,0.847009539604187,neutral,0.08370733261108398
+2,2010-07-19 22:24:00,Now for the bad news: It's exact causes still aren't known and could reoccur.,0.040667686611413956,0.4668687880039215,0.49246352910995483,neutral,-0.42620110511779785
+3,2010-07-19 22:24:00,What was the 'Flash Crash' and how did it happen?,0.05081399530172348,0.06603280454874039,0.8831532597541809,neutral,-0.015218809247016907
+4,2010-07-19 22:24:00,"And moreover, how likely is another similar episode in the future?",0.04569527879357338,0.028101695701479912,0.9262030720710754,neutral,0.017593583092093468
+5,2010-07-19 22:24:00,Let's investigate together.,0.12671945989131927,0.011524423956871033,0.8617560863494873,neutral,0.11519503593444824
+6,2010-07-19 22:24:00,"The Anatomy of an Epic Decline
+
+The 'Flash Crash' on May 6th triggered a massive decline in stocks and sent shockwaves throughout global financial markets.",0.1540287584066391,0.6434971690177917,0.20247404277324677,negative,-0.48946839570999146
+7,2010-07-19 22:24:00,"The Dow Jones Industrial Average (NYSEArca: DIA), a barometer of 30 U.S. blue chip stocks, fell a record 998.5 points or 9.2% in value.",0.020856741815805435,0.9694157838821411,0.009727404452860355,negative,-0.948559045791626
+8,2010-07-19 22:24:00,Other leading market indexes like the S&P 500 (NYSEArca: SPY) and Nasdaq Composite (NasdaqGS: ONEQ) were also hammered.,0.04772106930613518,0.8900498747825623,0.06222908943891525,negative,-0.8423287868499756
+9,2010-07-19 22:24:00,Among the most surprising aspects of the 'Flash Crash' was the suspicious trading activity of certain stocks.,0.044597409665584564,0.5859988927841187,0.36940374970436096,negative,-0.5414015054702759
+10,2010-07-19 22:24:00,Procter and Gamble ( PG ) fell almost 37% before quickly rebounding.,0.05931954085826874,0.9117417931556702,0.02893858402967453,negative,-0.8524222373962402
+11,2010-07-19 22:24:00,Other stocks like Accenture ( ACN ) and Exelon ( EXC ) briefly traded for cents.,0.12869255244731903,0.6600679755210876,0.2112395167350769,negative,-0.5313754081726074
+12,2010-07-19 22:24:00,"And perhaps the most amazing part of the stock market's colossal decline on May 6th wasn't the $1 trillion that temporarily vanished, but its unprecedented immediately rebound.",0.5726969838142395,0.18746986985206604,0.23983319103717804,positive,0.38522711396217346
+13,2010-07-19 22:24:00,"By the final 15 minutes of the trading session, stocks reversed their intraday losses.",0.65426105260849,0.22582437098026276,0.11991460621356964,positive,0.4284366965293884
+14,2010-07-19 22:24:00,"When, besides never, has this ever happened in stock market history?",0.03509087488055229,0.04757107421755791,0.9173380732536316,neutral,-0.012480199337005615
+15,2010-07-19 22:24:00,There are various explanations of why the 'Flash Crash' occurred and virtually all of them are unsatisfactory.,0.03250473365187645,0.3579213321208954,0.6095739603042603,neutral,-0.32541659474372864
+16,2010-07-19 22:24:00,The Wall Street Journal suggested a large order of put options by a hedge fund might have been a factor.,0.11631787568330765,0.32848355174064636,0.5551985502243042,neutral,-0.2121656835079193
+17,2010-07-19 22:24:00,Another report claims a $4 billion trade of e-mini contracts on the Chicago Mercantile Exchange was at fault.,0.024274924769997597,0.9524092078208923,0.023315880447626114,negative,-0.9281342625617981
+18,2010-07-19 22:24:00,Others blame an errant trade made by someone that pressed the wrong button their keyboard.,0.03753019496798515,0.9143333435058594,0.04813650995492935,negative,-0.8768031597137451
+19,2010-07-19 22:24:00,"In Congressional testimony, S.E.C.",0.020882295444607735,0.021812520921230316,0.9573051929473877,neutral,-0.0009302254766225815
+20,2010-07-19 22:24:00,Chairwoman Mary Schapiro said 'stub quotes' may have caused certain stocks to trade for 1 cent a share.,0.04500677436590195,0.8982840776443481,0.056709107011556625,negative,-0.853277325630188
+21,2010-07-19 22:24:00,"'The absurd result of valuable stocks being executed for a penny likely was attributable to the use of a practice called stub quoting,'' she stated.",0.04688309505581856,0.2686484158039093,0.6844684481620789,neutral,-0.22176532447338104
+22,2010-07-19 22:24:00,"'When a market order is submitted for a stock, if available liquidity has already been taken out, the market order will seek the next available liquidity, regardless of price.",0.04852645471692085,0.008809375576674938,0.9426641464233398,neutral,0.03971707820892334
+23,2010-07-19 22:24:00,"When a market maker's liquidity has been exhausted, or if it is unwilling to provide liquidity, it may at that time submit what is called a stub quote - for example, an offer to buy a given stock at a penny.",0.08179589360952377,0.055735353380441666,0.8624688386917114,neutral,0.026060540229082108
+24,2010-07-19 22:24:00,A stub quote is essentially a place holder quote because that quote would never - it is thought - be reached.',0.048850785940885544,0.1472165882587433,0.8039326667785645,neutral,-0.09836579859256744
+25,2010-07-19 22:24:00,"While Schapiro's explanation sounds intellectually smart, she never explained why the S.E.C.",0.022129900753498077,0.08065232634544373,0.8972178101539612,neutral,-0.05852242559194565
+26,2010-07-19 22:24:00,allowed harmful stub quotes to exist in the first place.,0.04860387742519379,0.01816023699939251,0.9332358837127686,neutral,0.030443640425801277
+27,2010-07-19 22:24:00,"Since then, the S.E.C.",0.02685522846877575,0.02434832602739334,0.9487963914871216,neutral,0.002506902441382408
+28,2010-07-19 22:24:00,has moved to ban the practice.,0.09115608036518097,0.6322710514068604,0.2765728533267975,negative,-0.5411149859428406
+29,2010-07-19 22:24:00,Any honest doctor will openly admit it's difficult to cure a problem when you don't know its exact causes.,0.10109467804431915,0.21935047209262848,0.67955482006073,neutral,-0.11825579404830933
+30,2010-07-19 22:24:00,"In fact, prescribing medication without knowing the source of the patient's problem could endanger their life.",0.03625888377428055,0.8746715784072876,0.08906948566436768,negative,-0.8384127020835876
+31,2010-07-19 22:24:00,"None of this, of course, has stopped Wall Street's cop, the S.E.C., from prescribing a wide range of experimental solutions.",0.06556101888418198,0.43343260884284973,0.5010063648223877,neutral,-0.36787158250808716
+32,2010-07-19 22:24:00,Better communication and oversight among the public exchanges that list securities and derivatives is being tried.,0.2646986246109009,0.009069923311471939,0.7262314558029175,neutral,0.25562870502471924
+33,2010-07-19 22:24:00,Among the other fixes being tested are trading cubs also known as circuit breakers.,0.04137403890490532,0.020694933831691742,0.9379310011863708,neutral,0.020679105073213577
+34,2010-07-19 22:24:00,The system acts as a sort of fire alarm that automatically halts trading for five minutes on any S&P 500 stock that rises or declines more than 10% within a five-minute period.,0.02668076567351818,0.21959827840328217,0.7537209391593933,neutral,-0.19291751086711884
+35,2010-07-19 22:24:00,How well have the fire alarms been performing?,0.40687039494514465,0.05885115638375282,0.5342784523963928,neutral,0.34801924228668213
+36,2010-07-19 22:24:00,"On June 2nd, the share price of Diebold ( DBD ) briefly fell 35% before circuit breakers went into effect.",0.018602371215820312,0.9677991271018982,0.013598504476249218,negative,-0.9491967558860779
+37,2010-07-19 22:24:00,"In other words, the problem of market crashes in both individual securities and broadly diversified benchmarks still hasn't been resolved.",0.038862988352775574,0.6020609736442566,0.35907605290412903,negative,-0.5631979703903198
+38,2010-07-19 22:24:00,Do you believe in tame lions and tigers?,0.09420892596244812,0.016220035031437874,0.8895710706710815,neutral,0.0779888927936554
+39,2010-07-19 22:24:00,How about tame markets?,0.12689433991909027,0.03600310534238815,0.8371025323867798,neutral,0.09089123457670212
+40,2010-07-19 22:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-19 07:14:00,"In early trading on Thursday, shares of Walmart topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.6%.",0.9373582005500793,0.03343852236866951,0.029203327372670174,positive,0.9039196968078613
+1,2020-03-19 07:14:00,"Year to date, Walmart registers a 4.4% gain.",0.943347692489624,0.025938089936971664,0.030714308843016624,positive,0.9174095988273621
+2,2020-03-19 07:14:00,"And the worst performing Dow component thus far on the day is Home Depot, trading down 7.3%.",0.020396314561367035,0.9648327231407166,0.01477090921252966,negative,-0.9444364309310913
+3,2020-03-19 07:14:00,Home Depot is lower by about 33.9% looking at the year to date performance.,0.02113834209740162,0.9662483930587769,0.012613273225724697,negative,-0.945110023021698
+4,2020-03-19 07:14:00,"Two other components making moves today are Coca-Cola, trading down 7.3%, and Microsoft, trading up 1.6% on the day.",0.04355181008577347,0.9121180176734924,0.04433022439479828,negative,-0.8685662150382996

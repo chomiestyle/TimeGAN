@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-11 03:10:00,U.S. market indexes were lower on Thursday.,0.01813235506415367,0.9641724824905396,0.017695242539048195,negative,-0.946040153503418
+1,2017-05-11 03:10:00,"For the day, the Dow Jones Industrial Average closed at 20919.42 for a loss of -23.69 points or -0.11%.",0.022524382919073105,0.9681119918823242,0.009363609366118908,negative,-0.9455876350402832
+2,2017-05-11 03:10:00,The S&P 500 closed at 2394.44 for a loss of -5.19 points or -0.22%.,0.02137414924800396,0.9674183130264282,0.011207489296793938,negative,-0.9460441470146179
+3,2017-05-11 03:10:00,The Nasdaq Composite closed at 6115.96 for a loss of -13.18 points or -0.22%.,0.02123306132853031,0.9671581983566284,0.011608720757067204,negative,-0.9459251165390015
+4,2017-05-11 03:10:00,The VIX Volatility Index was higher for the day at 10.59 for a gain of 0.38 points or 3.72%.,0.945094108581543,0.02737201750278473,0.02753385528922081,positive,0.9177221059799194
+5,2017-05-11 03:10:00,Disappointing retail stock earnings weighed on valuations for the day.,0.051911983639001846,0.9083693027496338,0.03971872851252556,negative,-0.8564572930335999
+6,2017-05-11 03:10:00,"Economic reports affecting trading included the following:
+• Jobless claims decreased by 2,000 for the week to 236,000.",0.027538273483514786,0.9609929919242859,0.011468813754618168,negative,-0.933454692363739
+7,2017-05-11 03:10:00,• The Producer Price Index increased by 0.5% for the month and reported an annual increase of 2.5%.,0.9488208889961243,0.020021263509988785,0.03115779533982277,positive,0.9287996292114258
+8,2017-05-11 03:10:00,"In the Dow Jones Industrial Average, the following stocks led losses:
+
+In the broad market, financial and consumer discretionary stocks led losses.",0.01926589384675026,0.9689258337020874,0.01180833950638771,negative,-0.9496599435806274
+9,2017-05-11 03:10:00,Technology stocks were also lower with the S&P 500 technology sector down -0.13%.,0.0191743653267622,0.9689873456954956,0.011838260106742382,negative,-0.9498130083084106
+10,2017-05-11 03:10:00,"In small-caps, the Russell 2000 Index closed at 1390.20 for a loss of -9.39 points or -0.67%.",0.020984234288334846,0.9694627523422241,0.00955308135598898,negative,-0.9484785199165344
+11,2017-05-11 03:10:00,The S&P 600 Small-Cap Index closed at 845.02 for a loss of -6.29 points or -0.74%.,0.021252639591693878,0.9685262441635132,0.010221127420663834,negative,-0.9472736120223999
+12,2017-05-11 03:10:00,The Dow Jones Small-Cap Growth TSM Index closed at 8397.50 for a loss of -43.39 points or -0.51%.,0.021126575767993927,0.9688599109649658,0.01001348439604044,negative,-0.9477333426475525
+13,2017-05-11 03:10:00,The Dow Jones Small-Cap Value TSM Index closed at 9501.82 for a loss of -72.40 points or -0.76%.,0.02109288051724434,0.9678894877433777,0.011017708107829094,negative,-0.9467965960502625
+14,2017-05-11 03:10:00,Other notable index closes included the S&P 400 Mid-Cap Index at 1727.54 for a loss of -11.02 points or -0.63%; the S&P 100 Index at 1057.24 for a loss of -1.86 points or -0.18%; the Russell 3000 Index at 1418.49 for a loss of -3.97 points or -0.28%; the Russell 1000 Index at 1326.93 for a loss of -3.29 points or -0.25%; and the Dow Jones U.S.,0.02414456382393837,0.9343267679214478,0.04152859002351761,negative,-0.9101821780204773
+15,2017-05-11 03:10:00,Select Dividend Index at 650.97 for a loss of -4.52 points or -0.69%.,0.020010560750961304,0.9688327312469482,0.011156700551509857,negative,-0.9488221406936646
+16,2017-05-11 03:10:00,This article first appeared on GuruFocus .,0.01878550462424755,0.01473853550851345,0.9664759039878845,neutral,0.0040469691157341
+17,2017-05-11 03:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

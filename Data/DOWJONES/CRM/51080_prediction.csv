@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-09 04:27:00,"Stocks trading above their true potential are bound to lose value over time, as their current price is not at all supported by their fundamentals.",0.02087894268333912,0.9268101453781128,0.05231090635061264,negative,-0.9059311747550964
+1,2016-06-09 04:27:00,Identifying such toxic stocks on a regular basis and removing them from one's portfolio is a secret to investing success.,0.037561628967523575,0.17796625196933746,0.7844721078872681,neutral,-0.1404046267271042
+2,2016-06-09 04:27:00,Overpricing of these stocks can be attributed to associated irrational exuberance or some serious inherent drawbacks.,0.02956170029938221,0.3050798773765564,0.6653584837913513,neutral,-0.27551817893981934
+3,2016-06-09 04:27:00,"And if investors own such stocks for an inordinate period, they could see massive erosion of wealth.",0.04462236538529396,0.8169704079627991,0.13840718567371368,negative,-0.7723480463027954
+4,2016-06-09 04:27:00,"On the contrary, if these toxic stocks are identified, investors may gain in a bear market by resorting to an investing strategy, known as short selling.",0.09368222206830978,0.07067761570215225,0.8356401324272156,neutral,0.023004606366157532
+5,2016-06-09 04:27:00,"By using this strategy, one can sell a stock first and then purchase it when its price falls.",0.03320439159870148,0.006737551186233759,0.9600580334663391,neutral,0.026466840878129005
+6,2016-06-09 04:27:00,"Naturally, short selling excels in bear markets, while it typically loses money in bull markets.",0.20014125108718872,0.02482166513800621,0.7750371098518372,neutral,0.1753195822238922
+7,2016-06-09 04:27:00,"So, just like picking good stocks, identifying toxic stocks and getting rid of them at the right time is vital to safeguarding one's portfolio from massive losses or making profits via short selling.",0.2324410080909729,0.02948235347867012,0.7380766272544861,neutral,0.20295865833759308
+8,2016-06-09 04:27:00,"Here is a winning strategy that will help you identify the over-hyped toxic stocks:
+• Most recent Debt/Equity Ratio greater than the median industry average: High debt/equity ratio implies high leverage.",0.4450293779373169,0.023585403338074684,0.5313851833343506,neutral,0.42144396901130676
+9,2016-06-09 04:27:00,And high leverage indicates a huge level of repayment that the company has to make in connection with the debt amount.,0.25076916813850403,0.012870298698544502,0.7363606095314026,neutral,0.23789887130260468
+10,2016-06-09 04:27:00,• P/E using 12-month forward EPS estimate greater than 50: A very high forward P/E implies that a stock is highly overvalued.,0.2530083954334259,0.11828599870204926,0.6287055611610413,neutral,0.13472239673137665
+11,2016-06-09 04:27:00,• % Change in F (1) and F (2) Estimate (12 Weeks) less than -5: Negative EPS estimate revision for this fiscal year and the next during the past 12 weeks point to analysts' pessimism.,0.023540277034044266,0.9630421996116638,0.01341759879142046,negative,-0.939501941204071
+12,2016-06-09 04:27:00,• Zacks Rank more than or equal to #3: We have not considered the Buy-rated stocks that generally outperform the market.,0.08685681968927383,0.15893514454364777,0.7542080283164978,neutral,-0.07207832485437393
+13,2016-06-09 04:27:00,"Here are five of the 11 stocks that made it through the screen:
+
+Lions Gate Entertainment Corp.LGF is a Santa Monica, CA-based entertainment company that has seen its current quarter estimate being revised from earnings of 35 cents per share to a loss of 18 cents over the past 30 days.",0.04853374883532524,0.8172218799591064,0.13424429297447205,negative,-0.7686881422996521
+14,2016-06-09 04:27:00,Lions Gate Entertainment holds a Zacks Rank #4 (Sell).,0.1691625863313675,0.03654174506664276,0.7942957282066345,neutral,0.13262084126472473
+15,2016-06-09 04:27:00,"Pleasanton, CA-based ZELTIQ Aesthetics, Inc.ZLTQ is a medical technology company.",0.0158939678221941,0.006286248564720154,0.9778197407722473,neutral,0.009607719257473946
+16,2016-06-09 04:27:00,"Over the past 30 days, its current quarter estimate has widened from a loss of 1 cent to a loss of 7 cents per share.",0.03959682956337929,0.9432939887046814,0.017109230160713196,negative,-0.90369713306427
+17,2016-06-09 04:27:00,"Presently, the company has a Zacks Rank #3 (Hold).",0.07794053107500076,0.014047867618501186,0.9080116152763367,neutral,0.063892662525177
+18,2016-06-09 04:27:00,"salesforce.com, inc.CRM is a San Francisco, CA-based computer software industry firm.",0.02325519733130932,0.0062089585699141026,0.9705358147621155,neutral,0.017046239227056503
+19,2016-06-09 04:27:00,"Over the past one-month period, its current quarter earnings estimate has been revised down from 9 cents per share to 6 cents.",0.015675870701670647,0.9667226076126099,0.0176014993339777,negative,-0.9510467648506165
+20,2016-06-09 04:27:00,"Currently, the company carries a Zacks Rank #3.",0.078742116689682,0.010858613066375256,0.9103992581367493,neutral,0.06788350641727448
+21,2016-06-09 04:27:00,"Boston, MA-based, Vertex Pharmaceuticals IncorporatedVRTX is a bio-technology company.",0.03233099356293678,0.004525578115135431,0.9631433486938477,neutral,0.02780541591346264
+22,2016-06-09 04:27:00,"Over the past one-month period, its current quarter earnings estimate has remained unchanged at 5 cents per share.",0.08530683070421219,0.6767122149467468,0.237980917096138,negative,-0.5914053916931152
+23,2016-06-09 04:27:00,"However, over the past two months, the estimate has been revised down from earnings of 25 cents to 5 cents per share.",0.01588391326367855,0.9597843289375305,0.024331774562597275,negative,-0.9439004063606262
+24,2016-06-09 04:27:00,The stock currently has a Zacks Rank #5 (Strong Sell).,0.8531522750854492,0.022123804315924644,0.1247238740324974,positive,0.8310284614562988
+25,2016-06-09 04:27:00,"The Ultimate Software Group, Inc.ULTI is a Weston, FL-based Internet software and services firm.",0.020000988617539406,0.005960727110505104,0.974038302898407,neutral,0.014040261507034302
+26,2016-06-09 04:27:00,"Over the past one-month period, the current quarter earnings estimate has remained unchanged at 22 cents per share.",0.08944156765937805,0.6500867009162903,0.26047173142433167,negative,-0.5606451034545898
+27,2016-06-09 04:27:00,"But over the past two months, it has been revised down from 27 cents to 22 cents.",0.02158411778509617,0.9092121124267578,0.06920381635427475,negative,-0.8876280188560486
+28,2016-06-09 04:27:00,The stock currently has a Zacks Rank #3.,0.1364876627922058,0.011149837635457516,0.8523624539375305,neutral,0.12533782422542572
+29,2016-06-09 04:27:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+30,2016-06-09 04:27:00,It can all be done with the Research Wizard stock picking and backtesting software.,0.02909490093588829,0.007561055943369865,0.9633440375328064,neutral,0.021533844992518425
+31,2016-06-09 04:27:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+32,2016-06-09 04:27:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+33,2016-06-09 04:27:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+34,2016-06-09 04:27:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+35,2016-06-09 04:27:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+36,2016-06-09 04:27:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+37,2016-06-09 04:27:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+38,2016-06-09 04:27:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+39,2016-06-09 04:27:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+40,2016-06-09 04:27:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at : https://www.zacks.com/performance .,0.01448096428066492,0.00816013291478157,0.9773589372634888,neutral,0.00632083136588335
+41,2016-06-09 04:27:00,"Zacks Restaurant Recommendations : In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+42,2016-06-09 04:27:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+43,2016-06-09 04:27:00,"Download it free »
+
+Want the latest recommendations from Zacks Investment Research?",0.03019636683166027,0.01505932118743658,0.9547443389892578,neutral,0.01513704564422369
+44,2016-06-09 04:27:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+45,2016-06-09 04:27:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+46,2016-06-09 04:27:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

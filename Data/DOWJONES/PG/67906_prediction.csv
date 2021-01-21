@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-14 23:25:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-10-14 23:25:00,"Today's Research Daily features new research reports on 12 major stocks, including Amazon (AMZN), Broadcom (AVGO) and Lockheed Martin (LMT).",0.04251943901181221,0.007861625403165817,0.949618935585022,neutral,0.03465781360864639
+2,2018-10-14 23:25:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-10-14 23:25:00,"You can see all of today's research reports here >>>
+
+Buy-ranked Amazon 's shares have outperformed the broader market year to date by a wide margin.",0.89936763048172,0.059829264879226685,0.04080316424369812,positive,0.8395383358001709
+4,2018-10-14 23:25:00,(the stock is up +53% vs. the +3.6% gain for the S&P 500 as a whole).,0.944236159324646,0.02925281412899494,0.02651113085448742,positive,0.914983332157135
+5,2018-10-14 23:25:00,"The Zacks analyst thinks Amazon continues to ride on its robust performance in the retail space on the back of its vast e-commerce platform, fast delivery services, Prime program, increasing engagement of Prime customers and solid third-party selection.",0.9492856860160828,0.015485161915421486,0.03522908687591553,positive,0.9338005185127258
+6,2018-10-14 23:25:00,"Moreover, Amazon's expanding distribution footprint bodes well for Prime.",0.9337547421455383,0.014242907054722309,0.05200233682990074,positive,0.9195118546485901
+7,2018-10-14 23:25:00,"Further, Amazon Web Services (AWS) also continues to perform well, owing to its expanding enterprise customer base.",0.9528446793556213,0.017281848937273026,0.029873555526137352,positive,0.9355628490447998
+8,2018-10-14 23:25:00,"Notably, AWS generates much higher margins than retail, positively impacting Amazon's profitability.",0.4281187653541565,0.503056526184082,0.06882474571466446,negative,-0.07493776082992554
+9,2018-10-14 23:25:00,"Additionally, the company's advertising business is also gaining traction.",0.938742458820343,0.015394383110105991,0.045863185077905655,positive,0.923348069190979
+10,2018-10-14 23:25:00,"However, an anticipated increase in fulfillment costs prior to the holiday season can put margins under pressure.",0.049164678901433945,0.9215778708457947,0.02925744652748108,negative,-0.8724132180213928
+11,2018-10-14 23:25:00,"Moreover, intensifying competition in the cloud computing market from the likes of Microsoft Azure and Google cloud is a significant headwind.",0.021559830754995346,0.9497498869895935,0.028690287843346596,negative,-0.9281900525093079
+12,2018-10-14 23:25:00,(You can read the full research report on Amazon here >>> ).,0.017570074647665024,0.016651075333356857,0.9657788276672363,neutral,0.0009189993143081665
+13,2018-10-14 23:25:00,"Shares of Buy-ranked Broadcom have underperformed the Zacks Electronics - Semiconductors industry over the past year, losing -+5.5% vs. a +0.6% increase.",0.024654163047671318,0.9646060466766357,0.010739710181951523,negative,-0.9399518966674805
+14,2018-10-14 23:25:00,"However, the Zacks analyst likes Broadcom's broad-based product portfolio which serves multiple applications to diversified end markets.",0.14042915403842926,0.00685045076534152,0.8527203798294067,neutral,0.13357870280742645
+15,2018-10-14 23:25:00,This is likely to aid it in gaining significant market share.,0.9440335035324097,0.015000409446656704,0.04096609726548195,positive,0.929033100605011
+16,2018-10-14 23:25:00,The company is also benefiting from solid demand for its wireless solutions which positions it well to address the needs of rapidly growing technologies like IoT and 5G.,0.9428240060806274,0.014391849748790264,0.04278409108519554,positive,0.9284321665763855
+17,2018-10-14 23:25:00,Strong ties with leading OEMs across multiple target markets will help the company to gain key insights into the requirements of customers.,0.8654016256332397,0.012166432105004787,0.12243195623159409,positive,0.8532351851463318
+18,2018-10-14 23:25:00,"Nonetheless, the company faces intensifying competition and integration risks due to frequent acquisitions.",0.5705918669700623,0.03253721445798874,0.39687085151672363,positive,0.5380546450614929
+19,2018-10-14 23:25:00,The company's leveraged balance sheet and customer concentration continue to be headwinds.,0.020728200674057007,0.9509239792823792,0.028347782790660858,negative,-0.9301958084106445
+20,2018-10-14 23:25:00,(You can read the full research report on Broadcom here >>> ).,0.014792296104133129,0.013299963437020779,0.9719077944755554,neutral,0.0014923326671123505
+21,2018-10-14 23:25:00,"Buy-ranked Lockheed Martin 's shares have gained +2.7% over the past one year, underperforming the Zacks Aerospace Defense sector, which has gained +14.6% over the same period.",0.9380993247032166,0.04296045005321503,0.018940189853310585,positive,0.8951388597488403
+22,2018-10-14 23:25:00,"The Zacks analyst emphasizes that Lockheed Martin, being the largest defense contractor in the world, enjoys strong demand for its high-end military equipment in domestic as well as international markets.",0.922447681427002,0.013300453312695026,0.06425190716981888,positive,0.9091472029685974
+23,2018-10-14 23:25:00,"Consequently, strong order growth has been a primary growth driver for this company.",0.8882823586463928,0.01220005750656128,0.09951753169298172,positive,0.8760823011398315
+24,2018-10-14 23:25:00,"Lately, the company has been witnessing strong demand for its equipment, ranging from C-130J aircraft in France and Germany to helicopters in Poland to missile defense systems in the Asia-Pacific, Europe, and Middle East regions.",0.9113814234733582,0.012820280157029629,0.0757983848452568,positive,0.8985611200332642
+25,2018-10-14 23:25:00,"It continues to be a strong cash generator, helping it to take important cash deployment decisions.",0.9134090542793274,0.013338355347514153,0.0732525959610939,positive,0.9000707268714905
+26,2018-10-14 23:25:00,"However, it faces intense competition for its broad portfolio of products and services in both domestic and international markets.",0.3341682255268097,0.03200473263859749,0.6338270306587219,neutral,0.3021634817123413
+27,2018-10-14 23:25:00,(You can read the full research report on Lockheed Martin here >>> ).,0.014515801332890987,0.012079036794602871,0.973405122756958,neutral,0.0024367645382881165
+28,2018-10-14 23:25:00,"Other noteworthy reports we are featuring today include Procter & Gamble (PG), BCE Inc. (BCE) and American Electric (AEP).",0.03204304352402687,0.005405626725405455,0.9625513553619385,neutral,0.02663741633296013
+29,2018-10-14 23:25:00,More Stock News: This Is Bigger than the iPhone!,0.3262152671813965,0.02558426558971405,0.648200511932373,neutral,0.30063098669052124
+30,2018-10-14 23:25:00,It could become the mother of all technological revolutions.,0.3357715904712677,0.018597140908241272,0.6456312537193298,neutral,0.31717443466186523
+31,2018-10-14 23:25:00,"Apple sold a mere 1 billion iPhones in 10 years but a new breakthrough is expected to generate more than 27 billion devices in just 3 years, creating a $1.7 trillion market.",0.5349074602127075,0.016818122938275337,0.4482743740081787,positive,0.5180893540382385
+32,2018-10-14 23:25:00,Zacks has just released a Special Report that spotlights this fast-emerging phenomenon and 6 tickers for taking advantage of it.,0.21044442057609558,0.009386956691741943,0.7801685333251953,neutral,0.20105746388435364
+33,2018-10-14 23:25:00,"If you don't buy now, you may kick yourself in 2020.",0.08301617205142975,0.28448015451431274,0.6325036883354187,neutral,-0.201463982462883
+34,2018-10-14 23:25:00,"Click here for the 6 trades >>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.12062182277441025,0.008896487765014172,0.8704817295074463,neutral,0.1117253378033638
+35,2018-10-14 23:25:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+36,2018-10-14 23:25:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+Per the Zacks analyst, easing margin pressure with the rise in rates is likely to continue to aid State Street's top-line.",0.9392874240875244,0.024842901155352592,0.03586964309215546,positive,0.9144445061683655
+37,2018-10-14 23:25:00,"Yet, higher restructuring and compensation related costs might curb profits.",0.020562414079904556,0.9675651788711548,0.011872408911585808,negative,-0.9470027685165405
+38,2018-10-14 23:25:00,"Per the Zacks analyst, SunTrust is poised for revenue growth, given the rise in rates along with loan growth.",0.9466878771781921,0.016027601435780525,0.03728446736931801,positive,0.9306602478027344
+39,2018-10-14 23:25:00,"Yet, its high exposure toward real estate loans is a concern and might hurt financials.",0.022985469549894333,0.9409352540969849,0.036079298704862595,negative,-0.9179497957229614
+40,2018-10-14 23:25:00,The Zacks analyst is impressed by the company's strong growth in passenger unit revenues despite struggling with escalating fuel prices.,0.9533180594444275,0.018221212550997734,0.028460757806897163,positive,0.9350968599319458
+41,2018-10-14 23:25:00,"Per the Zacks analyst, expansion in international markets is a key aspect of lululemon's long-term growth strategy.",0.8475713133811951,0.011360809206962585,0.14106784760951996,positive,0.8362104892730713
+42,2018-10-14 23:25:00,"Per the Zacks analyst, favorable markets, investments in e-commerce and digital capabilities will likely drive growth for Grainger.",0.9191311001777649,0.012770646251738071,0.06809826195240021,positive,0.9063604474067688
+43,2018-10-14 23:25:00,"Per the Zacks analyst, BCE remains poised to benefit from steady investments in broadband network, accelerating wireless services, improving customer service and a competitive cost structure.",0.9503717422485352,0.014971776865422726,0.034656524658203125,positive,0.9353999495506287
+44,2018-10-14 23:25:00,"Per the Zacks analyst, American Electric's incremental investments in renewable generation and transmission projects along with an expanding renewable portfolio bode well for its future earnings.",0.9323635101318359,0.01301389466971159,0.054622575640678406,positive,0.9193496108055115
+45,2018-10-14 23:25:00,"Per the Zacks analyst, P&G's margins are pressured due to higher commodity and shipping costs, adverse currency and increased higher brand investments.",0.0242173969745636,0.9633165001869202,0.012466139160096645,negative,-0.9390990734100342
+46,2018-10-14 23:25:00,This is likely to persist throughout 2018.,0.11566474288702011,0.034583669155836105,0.8497515320777893,neutral,0.0810810774564743
+47,2018-10-14 23:25:00,"Per the Zacks analyst, Fiserv's core banking products and services are part of a highly competitive market.",0.7307772040367126,0.012480144388973713,0.2567426860332489,positive,0.7182970643043518
+48,2018-10-14 23:25:00,The pressure to remain technologically updated and high debt are concerns.,0.03174450248479843,0.08939296007156372,0.8788625597953796,neutral,-0.05764845758676529
+49,2018-10-14 23:25:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+50,2018-10-14 23:25:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+51,2018-10-14 23:25:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+52,2018-10-14 23:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

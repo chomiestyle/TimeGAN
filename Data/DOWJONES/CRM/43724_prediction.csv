@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-04 10:19:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Apache Corp (Symbol: APA), where a total volume of 37,881 contracts has been traded thus far today, a contract volume which is representative of approximately 3.8 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05024794861674309,0.010615496896207333,0.9391365647315979,neutral,0.03963245078921318
+1,2019-11-04 10:19:00,"That number works out to 60.7% of APA's average daily trading volume over the past month, of 6.2 million shares.",0.6188130974769592,0.02156420238316059,0.35962268710136414,positive,0.597248911857605
+2,2019-11-04 10:19:00,"Particularly high volume was seen for the $22.50 strike call option expiring November 15, 2019, with 12,566 contracts trading so far today, representing approximately 1.3 million underlying shares of APA.",0.2442600429058075,0.01003445778042078,0.7457054853439331,neutral,0.2342255860567093
+3,2019-11-04 10:19:00,"Below is a chart showing APA's trailing twelve month trading history, with the $22.50 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) options are showing a volume of 26,732 contracts thus far today.",0.02133735455572605,0.04503869265317917,0.9336240291595459,neutral,-0.023701338097453117
+4,2019-11-04 10:19:00,"That number of contracts represents approximately 2.7 million underlying shares, working out to a sizeable 59.1% of CRM's average daily trading volume over the past month, of 4.5 million shares.",0.11788827180862427,0.009978419169783592,0.8721333146095276,neutral,0.10790985077619553
+5,2019-11-04 10:19:00,"Particularly high volume was seen for the $160 strike call option expiring November 08, 2019, with 2,386 contracts trading so far today, representing approximately 238,600 underlying shares of CRM.",0.31221064925193787,0.01248958520591259,0.6752997636795044,neutral,0.2997210621833801
+6,2019-11-04 10:19:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+And Stryker Corp (Symbol: SYK) saw options trading volume of 5,588 contracts, representing approximately 558,800 underlying shares or approximately 54.8% of SYK's average daily trading volume over the past month, of 1.0 million shares.",0.0195938590914011,0.013983088545501232,0.9664230346679688,neutral,0.005610770545899868
+7,2019-11-04 10:19:00,"Particularly high volume was seen for the $200 strike put option expiring November 15, 2019, with 1,528 contracts trading so far today, representing approximately 152,800 underlying shares of SYK.",0.23599088191986084,0.011301781050860882,0.7527073621749878,neutral,0.22468909621238708
+8,2019-11-04 10:19:00,"Below is a chart showing SYK's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+For the various different available expirations for APA options, CRM options, or SYK options, visit StockOptionsChannel.com.",0.009552639909088612,0.03490273654460907,0.955544650554657,neutral,-0.025350097566843033
+9,2019-11-04 10:19:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

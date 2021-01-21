@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-15 06:22:00,"In early trading on Wednesday, shares of UnitedHealth Group topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.1%.",0.942318856716156,0.028676170855760574,0.029004985466599464,positive,0.9136427044868469
+1,2020-04-15 06:22:00,"Year to date, UnitedHealth Group has lost about 5.2% of its value.",0.016414105892181396,0.9544943571090698,0.029091505333781242,negative,-0.9380802512168884
+2,2020-04-15 06:22:00,"And the worst performing Dow component thus far on the day is American Express, trading down 6.4%.",0.020764386281371117,0.9636029601097107,0.015632566064596176,negative,-0.9428385496139526
+3,2020-04-15 06:22:00,American Express is lower by about 33.5% looking at the year to date performance.,0.020852651447057724,0.9652392864227295,0.013908063992857933,negative,-0.9443866610527039
+4,2020-04-15 06:22:00,"Two other components making moves today are Dow, trading down 6.4%, and Procter & Gamble, trading up 1.4% on the day.",0.04114522039890289,0.8940325975418091,0.06482220441102982,negative,-0.8528873920440674

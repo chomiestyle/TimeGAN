@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-05 09:59:00,Did tech stocks just save the day?,0.40924951434135437,0.06980789452791214,0.5209425687789917,neutral,0.3394416272640228
+1,2020-05-05 09:59:00,"Just when it looked like the market’s losing streak was set to continue, several tech names stepped up to the plate and led Wall Street to a small victory this week.",0.8007953763008118,0.049914538860321045,0.1492900550365448,positive,0.7508808374404907
+2,2020-05-05 09:59:00,"As investors praise the efforts to reopen many major economies, U.S. stocks and oil prices ticked up.",0.755484402179718,0.11366202682256699,0.1308535635471344,positive,0.6418223977088928
+3,2020-05-05 09:59:00,Does all of this mean market watchers should start snapping up tech stocks immediately?,0.16969667375087738,0.04140313342213631,0.7889001965522766,neutral,0.12829354405403137
+4,2020-05-05 09:59:00,Not necessarily.,0.11418415606021881,0.09337984025478363,0.7924360036849976,neutral,0.02080431580543518
+5,2020-05-05 09:59:00,"Wall Street pros remind investors that while the industry does in fact house names with strong long-term growth narratives, not all tech stocks are bound for greatness.",0.7343479990959167,0.02865747921168804,0.23699454963207245,positive,0.7056905031204224
+6,2020-05-05 09:59:00,This is the stance taken by Rosenblatt analyst Yun Kim.,0.021838117390871048,0.03310680389404297,0.9450550079345703,neutral,-0.01126868650317192
+7,2020-05-05 09:59:00,"The five-star analyst recently kicked off his coverage of two major tech players by putting Sell ratings on each, noting he isn’t convinced that either stock will take off on an upward growth trajectory even after IT spending resumes.",0.3221428096294403,0.20370405912399292,0.474153071641922,neutral,0.11843875050544739
+8,2020-05-05 09:59:00,"Bearing this in mind, we used TipRanks’ database to see whether or not the rest of the Street agrees with Kim.",0.12242401391267776,0.07089892774820328,0.8066770434379578,neutral,0.05152508616447449
+9,2020-05-05 09:59:00,Here’s what we found out.,0.0426865853369236,0.008117206394672394,0.9491962194442749,neutral,0.034569378942251205
+10,2020-05-05 09:59:00,"Salesforce is the leading player when it comes to customer relationship management (CRM) software, with it enjoying a de facto enterprise standard status in the market.",0.8144283294677734,0.011819185689091682,0.17375242710113525,positive,0.8026091456413269
+11,2020-05-05 09:59:00,"However, the Rosenblatt Securities analyst points out that this has actually created a significant problem for the tech company.",0.023583808913826942,0.9489660263061523,0.027450116351246834,negative,-0.9253821969032288
+12,2020-05-05 09:59:00,"Kim argues that given CRM’s standing in the market, there has been a growing number of large enterprise standardization deals.",0.6948415637016296,0.011871113441884518,0.29328733682632446,positive,0.6829704642295837
+13,2020-05-05 09:59:00,"As a result, the number of customers with $1 million-plus annual recurring revenue (ARR) has increased by 2.3x since full year 2016.",0.9497168660163879,0.01616504415869713,0.03411804884672165,positive,0.9335518479347229
+14,2020-05-05 09:59:00,"Not to mention revenue from $1 million-plus ARR contracts achieved a CAGR of 30% over the past four years, and now these customers represent about two-thirds of the business.",0.38931623101234436,0.011887433007359505,0.5987963676452637,neutral,0.37742879986763
+15,2020-05-05 09:59:00,This in turn has helped fuel CRM’s impressive annual revenue organic growth track record of 20%-plus.,0.9519794583320618,0.016476690769195557,0.03154373914003372,positive,0.9355027675628662
+16,2020-05-05 09:59:00,"That being said, after conducting industry checks, Kim found that for larger organizations, the need for large scale business application deployment is declining.",0.434294193983078,0.18645815551280975,0.37924760580062866,positive,0.24783603847026825
+17,2020-05-05 09:59:00,"“Hence, we believe that when the enterprise IT spending environment returns, the pace of large-scale business application deployments is likely to lag other initiatives with higher priority...As a result, we are wary that the company may not be able to achieve 20% organic revenue growth due to possible weakness in its large deal activity,” he stated.",0.07206059992313385,0.8934295177459717,0.03450992703437805,negative,-0.821368932723999
+18,2020-05-05 09:59:00,"On top of this, Kim warns that the company could experience some disruptions with co-CEO Keith Block’s exit, highlighting the fact that some key sales executives could leave with him.",0.02100527286529541,0.9578563570976257,0.02113828994333744,negative,-0.9368510842323303
+19,2020-05-05 09:59:00,"He added, “This possibility could impact its large deal execution since many of them were instrumental in building and scaling a sales organization that could close large strategic deals.” Calculating its organic growth rate has also been challenging as salesforce.com (SFDC) has been acquisitive over the last few years.",0.0444888174533844,0.8806151747703552,0.07489597797393799,negative,-0.8361263275146484
+20,2020-05-05 09:59:00,"Kim concluded, “We believe the stock already fully reflects the company's de facto standard status in the market and its ability to leverage its large installed base.”
+
+It should come as no surprise, then, that Kim joined the CRM bears.",0.7262110710144043,0.011036058887839317,0.26275280117988586,positive,0.7151750326156616
+21,2020-05-05 09:59:00,He initiated coverage by putting a Sell rating and $120 price target on the stock.,0.13719472289085388,0.007870299741625786,0.8549349308013916,neutral,0.12932442128658295
+22,2020-05-05 09:59:00,"Should this target be met, a twelve-month loss of 26% could be in store.",0.10419458150863647,0.8380802273750305,0.05772523954510689,negative,-0.733885645866394
+23,2020-05-05 09:59:00,"(To watch Kim’s track record, click here)
+
+Based on the word of the Street, Kim seems to be the sole bear running loose here.",0.02620254084467888,0.09303490817546844,0.8807625770568848,neutral,-0.06683236360549927
+24,2020-05-05 09:59:00,"Salesforce is one of Wall Street's favorite stocks, considering TipRanks shows a bullish vote from 27 analysts polled in the last 3 months.",0.8584973812103271,0.06736151874065399,0.07414119690656662,positive,0.791135847568512
+25,2020-05-05 09:59:00,"With a potential upside of 21%, the stock's consensus target price stands at $197.64.",0.2617756128311157,0.013903998769819736,0.7243204116821289,neutral,0.24787160754203796
+26,2020-05-05 09:59:00,"(See Salesforce stock analysis on TipRanks)
+
+Known for being one of the dominant SaaS vendors in the industry, Workday has executed well over the last few years.",0.8938819169998169,0.01253344677388668,0.09358464181423187,positive,0.8813484907150269
+27,2020-05-05 09:59:00,"However, past performance doesn’t guarantee future results.",0.21568164229393005,0.15646551549434662,0.6278528571128845,neutral,0.059216126799583435
+28,2020-05-05 09:59:00,"Kim believes this is true for Workday, telling clients he is cautious when it comes to the company’s long-term growth prospects.",0.18398123979568481,0.0960664302110672,0.7199523448944092,neutral,0.08791480958461761
+29,2020-05-05 09:59:00,"The analyst points out that over the last two years, WDAY’s subscription revenue growth rate has slowed from 36% in full year 2018 to 29% in full year 2020.",0.02246270887553692,0.9562034010887146,0.02133399061858654,negative,-0.9337406754493713
+30,2020-05-05 09:59:00,"In addition, its billings growth saw a material deceleration over the previous year, from 32% in full year 2019 to 23% in full year 2020.",0.6035274863243103,0.34716105461120605,0.04931151866912842,positive,0.25636643171310425
+31,2020-05-05 09:59:00,"Expounding on these declines, Kim wrote, “We believe this declining trend reflects the overall slowdown in its core human capital management (HCM) business as the law of large numbers starts to catch up and also its core HCM market is entering the saturation point (about 65% of Fortune 500 has replaced their HCM system).",0.02383308671414852,0.9347637295722961,0.04140321537852287,negative,-0.9109306335449219
+32,2020-05-05 09:59:00,"Our industry checks prior to COVID-19 in late January indicated that the pace of large-scale business deployment, including large HCM initiatives, was likely to slow meaningfully this year, reflecting that they have become a lower priority vs. previous years.”
+
+So, what are the implications?",0.028794893994927406,0.7503461837768555,0.2208588868379593,negative,-0.7215512990951538
+33,2020-05-05 09:59:00,Kim thinks that a rebound in enterprise IT spending still won’t be enough to spur an acceleration in large scale business deployments like HCM.,0.9100978970527649,0.04860899597406387,0.04129303619265556,positive,0.8614888787269592
+34,2020-05-05 09:59:00,This means that the declining growth rate in its HCM segment could slow at an even faster pace.,0.16068802773952484,0.7434921264648438,0.09581983089447021,negative,-0.5828040838241577
+35,2020-05-05 09:59:00,A tangible slowdown in HCM could also impact the company’s overall subscription growth rate.,0.044763632118701935,0.8985249400138855,0.05671142414212227,negative,-0.8537613153457642
+36,2020-05-05 09:59:00,"As a result, Kim says there’s a risk that both WDAY’s subscription and billings growth could drop well below the 20% level in the medium-term.",0.02110777609050274,0.9627439975738525,0.016148263588547707,negative,-0.9416362047195435
+37,2020-05-05 09:59:00,"It should also be noted that WDAY’s growth is dependent upon the execution of multiple growth opportunities including international market expansion, medium-sized enterprise market segment, add-on products and vertical solutions.",0.46624696254730225,0.008945690467953682,0.524807333946228,neutral,0.4573012590408325
+38,2020-05-05 09:59:00,"Speaking to this strategy, Kim commented, “We note, however, much of this multiple growth vector strategy has been in place for some time, and we do not see any inflection point in any of its growth vector that is meaningful enough to offset the continued decline in its core HCM business.”
+
+Considering all of the factors at play, Kim started off his WDAY coverage by issuing a Sell recommendation.",0.5540329813957214,0.027082128450274467,0.41888493299484253,positive,0.5269508361816406
+39,2020-05-05 09:59:00,"Based on the $110 price target, shares could dip 26% in the next twelve months.",0.020944425836205482,0.963573157787323,0.015482381917536259,negative,-0.9426287412643433
+40,2020-05-05 09:59:00,"Looking at the consensus breakdown, 14 Buys, 7 Holds and 2 Sells have been received in the last three months.",0.029590515419840813,0.015521038323640823,0.9548884630203247,neutral,0.01406947709619999
+41,2020-05-05 09:59:00,This gives WDAY a Moderate Buy consensus rating.,0.6648736596107483,0.015882214531302452,0.3192441761493683,positive,0.6489914655685425
+42,2020-05-05 09:59:00,"With a $183.61 average price target, shares could surge 24% in the next year.",0.9460493326187134,0.020760443061590195,0.03319013863801956,positive,0.9252889156341553
+43,2020-05-05 09:59:00,"(See Workday stock analysis on TipRanks)
+
+To find good ideas for stocks trading at attractive valuations, visit TipRanks’ Best Stocks to Buy, a newly launched tool that unites all of TipRanks’ equity insights.",0.39742255210876465,0.012231714092195034,0.5903457403182983,neutral,0.38519084453582764

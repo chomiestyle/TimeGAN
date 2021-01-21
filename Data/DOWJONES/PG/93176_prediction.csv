@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-01 06:30:00,"Chicago, IL - February 01, 2016 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01743927411735058,0.008711641654372215,0.9738490581512451,neutral,0.008727632462978363
+1,2016-02-01 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2016-02-01 06:30:00,"Stocks recently featured in the blog include the Caterpillar Inc. ( CAT ), McDonald's Corporation ( MCD ), 3M Company ( MMM ), Procter & Gamble Company ( PG ) and Johnson & Johnson ( JNJ ).",0.020436925813555717,0.00945708155632019,0.9701059460639954,neutral,0.010979844257235527
+3,2016-02-01 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2016-02-01 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2016-02-01 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+The Dow experienced a volatile week, guided once again by oil prices and earnings results.",0.03726265951991081,0.9378194212913513,0.024917932227253914,negative,-0.900556743144989
+6,2016-02-01 06:30:00,The index moved lower on Monday following a decline in crude prices after the oil ministry of Iraq said that the country has produced a record volume of oil last month.,0.028323648497462273,0.9534463882446289,0.018230032175779343,negative,-0.9251227378845215
+7,2016-02-01 06:30:00,The index gained on Tuesday following a rebound in oil prices on indications that oil exporting countries would act to reduce the supply glut.,0.9258120656013489,0.04554799199104309,0.028639961034059525,positive,0.8802640438079834
+8,2016-02-01 06:30:00,The index declined on Wednesday after the Fed failed to provide clear indications about whether it would implement a rate hike in March.,0.02595392055809498,0.9481601715087891,0.02588595449924469,negative,-0.9222062230110168
+9,2016-02-01 06:30:00,The Dow moved upward on Thursday after oil prices gained considerably.,0.8679496049880981,0.06414131820201874,0.06790906935930252,positive,0.8038082718849182
+10,2016-02-01 06:30:00,"The Dow has declined over the first four trading days, losing 0.2%.",0.019488170742988586,0.9713088870048523,0.009202887304127216,negative,-0.9518207311630249
+11,2016-02-01 06:30:00,The index lost 1.3% on Monday following a decline in crude prices after the oil ministry of Iraq said that the country has produced a record volume of oil last month.,0.02100742980837822,0.9691837430000305,0.00980890542268753,negative,-0.9481763243675232
+12,2016-02-01 06:30:00,This development heightened concerns about oversupply of oil.,0.4317701458930969,0.43743741512298584,0.13079246878623962,negative,-0.005667269229888916
+13,2016-02-01 06:30:00,High production in central and southern regions helped Iraq to post oil output of 4.13 million barrels per day in December.,0.9438644051551819,0.022972669452428818,0.033162929117679596,positive,0.9208917617797852
+14,2016-02-01 06:30:00,"Further, it is expected that Iraq's oil output may increase well above 4 million barrels per day this year.",0.9408443570137024,0.016807572916150093,0.042348019778728485,positive,0.9240368008613586
+15,2016-02-01 06:30:00,"Additionally, expectations that gasoline and oil demand would decline due to the blizzard hitting US's East Coast also affected investor sentiment.",0.017667844891548157,0.9679205417633057,0.014411619864404202,negative,-0.9502527117729187
+16,2016-02-01 06:30:00,This in turn reduced volume of traffic which is likely to weigh on fuel demand.,0.02995327115058899,0.9413384795188904,0.028708310797810555,negative,-0.911385178565979
+17,2016-02-01 06:30:00,"Exxon Mobil and Chevron declined 3.4% and 3.2%, respectively.",0.02854839526116848,0.9557058811187744,0.01574571803212166,negative,-0.927157461643219
+18,2016-02-01 06:30:00,Shares of Caterpillar Inc. ( CAT ) declined 5.1% following a downward revision of its rating and was the poorest performer among the Dow components.,0.018985450267791748,0.9704799056053162,0.010534590110182762,negative,-0.9514944553375244
+19,2016-02-01 06:30:00,Shares of McDonald's Corporation ( MCD ) increased 0.7% following strong earnings results.,0.9549483060836792,0.022847168147563934,0.022204440087080002,positive,0.9321011304855347
+20,2016-02-01 06:30:00,The index added 1.8% on Tuesday following a rebound in oil prices.,0.9379837512969971,0.03195452317595482,0.0300617553293705,positive,0.906029224395752
+21,2016-02-01 06:30:00,Indications that oil exporting nations are set to reduce the rising supply glut powered a rise in crude.,0.7182613015174866,0.18838219344615936,0.09335652738809586,positive,0.529879093170166
+22,2016-02-01 06:30:00,Major oil producing nations are likely to enter into a deal to limit their overall oil output.,0.042997654527425766,0.8851981163024902,0.07180416584014893,negative,-0.8422004580497742
+23,2016-02-01 06:30:00,Iraq's oil minister said that both Russia and Saudi Arabia have shown interest in reducing the supply glut.,0.6961217522621155,0.11789063364267349,0.18598757684230804,positive,0.5782310962677002
+24,2016-02-01 06:30:00,Strong gains from 3M Company ( MMM ) also pushed the Dow upward.,0.9346904158592224,0.03228571265935898,0.033023931086063385,positive,0.9024047255516052
+25,2016-02-01 06:30:00,Shares of 3M increased 5% after earnings beat estimates.,0.9555482268333435,0.02228459157049656,0.022167161107063293,positive,0.9332636594772339
+26,2016-02-01 06:30:00,The Procter & Gamble Company's ( PG ) shares gained 2.6% after coming in ahead of estimates.,0.9464446902275085,0.027883782982826233,0.02567155659198761,positive,0.9185609221458435
+27,2016-02-01 06:30:00,Johnson & Johnson ( JNJ ) also beat estimates and its shares gained nearly 5%.,0.9484679102897644,0.025870785117149353,0.025661256164312363,positive,0.9225971102714539
+28,2016-02-01 06:30:00,Investors were disheartened on Wednesday after the Fed failed to provide clear indications about whether it would implement a rate hike in March.,0.02872573584318161,0.9528719186782837,0.018402380868792534,negative,-0.9241461753845215
+29,2016-02-01 06:30:00,The index declined 1.4% even as the central bank kept the interest rate unchanged.,0.04219448193907738,0.9337388277053833,0.024066664278507233,negative,-0.8915443420410156
+30,2016-02-01 06:30:00,The central bank's hawkish statement regarding the financial and economic scenario dampened investor sentiment.,0.48875144124031067,0.36786532402038574,0.1433832347393036,positive,0.12088611721992493
+31,2016-02-01 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+32,2016-02-01 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.05650392174720764,0.005220244638621807,0.9382758140563965,neutral,0.05128367617726326
+33,2016-02-01 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+34,2016-02-01 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+35,2016-02-01 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+36,2016-02-01 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+37,2016-02-01 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+38,2016-02-01 06:30:00,Find out What is happening in the stock market today on zacks.com.,0.01665451191365719,0.01796547882258892,0.9653800129890442,neutral,-0.0013109669089317322
+39,2016-02-01 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+40,2016-02-01 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+41,2016-02-01 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+42,2016-02-01 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

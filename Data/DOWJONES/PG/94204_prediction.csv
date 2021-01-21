@@ -1,0 +1,35 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-06-06 07:16:00,"Let's look at a evenhanded way to play Friday's jobs data on the presumption that not much has changed, especially the Fed's view of things.",0.06509901583194733,0.023557456210255623,0.911343514919281,neutral,0.04154156148433685
+1,2013-06-06 07:16:00,We are going to use an iron condor on the belief that rates will remain in a range but take advantage of the recent volatility.,0.15266816318035126,0.008772028610110283,0.8385597467422485,neutral,0.14389613270759583
+2,2013-06-06 07:16:00,"The markets are inscrutable, especially when they are manipulated by gods on high that want to do right but have no clue as to the repercussions of their actions.",0.09137725085020065,0.4784158170223236,0.4302069842815399,negative,-0.38703855872154236
+3,2013-06-06 07:16:00,"So far the TARP, QE, and other sundry programs have done...cough, cough...more good than bad.",0.6789730191230774,0.03315705433487892,0.2878699004650116,positive,0.6458159685134888
+4,2013-06-06 07:16:00,"We have seen a slow slog of improving economic data, but nothing to speak of in terms of improving prospects for middle class workers or recently graduated students.",0.45458102226257324,0.0758589580655098,0.46956002712249756,neutral,0.37872207164764404
+5,2013-06-06 07:16:00,"Debt, debt, debt.",0.09011669456958771,0.07312990725040436,0.8367534279823303,neutral,0.01698678731918335
+6,2013-06-06 07:16:00,Even the Abe's experiment seems to be backfiring.,0.10785727202892303,0.1204804852604866,0.7716622948646545,neutral,-0.012623213231563568
+7,2013-06-06 07:16:00,But let's drill down to a smaller time and a place closer to home.,0.09174083918333054,0.010059881955385208,0.8981992602348328,neutral,0.08168095350265503
+8,2013-06-06 07:16:00,Yield on the 10-Year Note has jumped some 34 basis points over the past three weeks.,0.9171552062034607,0.02250330150127411,0.06034146621823311,positive,0.8946518898010254
+9,2013-06-06 07:16:00,"At a rate of 2.14% T-Notes suddenly pay more than the S&P 500 (INDEXSP:.INX), which yields 2.10%.",0.49538886547088623,0.061198148876428604,0.4434129595756531,positive,0.4341907203197479
+10,2013-06-06 07:16:00,"And note the equity risk as dividend payers such as Clorex ( CLX ), Procter & Gamble ( PG ), and Campbell Soup ( CPB ) have nosedived on threats of higher rates.",0.06790649890899658,0.8743582367897034,0.05773524194955826,negative,-0.8064517378807068
+11,2013-06-06 07:16:00,"With the Fed being bound between weak employment and weak top-line revenue growth, I don't expect, and Ben Bernanke has not, projected any bold move in hiking rates.",0.11349566280841827,0.45943787693977356,0.4270664155483246,negative,-0.3459421992301941
+12,2013-06-06 07:16:00,Expect yield on the 10-year to remain between 1.75%-2.20% for the next three months.,0.100395567715168,0.009050214663147926,0.8905541896820068,neutral,0.09134535491466522
+13,2013-06-06 07:16:00,"Given the historically low numbers, this range might seem expansive.",0.0872841626405716,0.07395074516534805,0.8387650847434998,neutral,0.013333417475223541
+14,2013-06-06 07:16:00,"However, they are priced as such, meaning there is an option strategy to take advantage of what is likely to be a range-bound market.",0.5373826622962952,0.011978866532444954,0.45063841342926025,positive,0.5254037976264954
+15,2013-06-06 07:16:00,"But people have been on pins and needles regarding what the next move will be, and mixed messages from the data, and opposing views from hawks such as Richard Fisher and doves like Janet Yellen, are causing increased consternation.",0.029689578339457512,0.9375322461128235,0.032778143882751465,negative,-0.9078426957130432
+16,2013-06-06 07:16:00,This has helped elevate the implied volatility of 26% over the past week.,0.9471715688705444,0.0202326737344265,0.03259580209851265,positive,0.9269388914108276
+17,2013-06-06 07:16:00,"This shoots the IV well over the realized volatility, the first time we have seen that in three months.",0.9291252493858337,0.021993618458509445,0.04888123646378517,positive,0.9071316123008728
+18,2013-06-06 07:16:00,I think this gets resolved by an underwhelming move that leaves rate on the 10-year note between 2.10% and 1.90% following tomorrow's jobs report.,0.07801798731088638,0.7613642811775208,0.16061769425868988,negative,-0.6833462715148926
+19,2013-06-06 07:16:00,To play this theme I'm using as a proxy the iShares Barclay's 20+ Year Treasury Bond (NYSEARCA:TLT).,0.038489844650030136,0.008448914624750614,0.9530612826347351,neutral,0.030040930956602097
+20,2013-06-06 07:16:00,(The name is a misnomer; the duration of these bonds is 13 years.),0.011174274608492851,0.0184765737503767,0.970349133014679,neutral,-0.00730229914188385
+21,2013-06-06 07:16:00,Why Use an Iron Condor?,0.12223990261554718,0.13544423878192902,0.7423158288002014,neutral,-0.013204336166381836
+22,2013-06-06 07:16:00,"An iron condor involves the simultaneous sale of both a call spread and a put spread, typically using out-of-the-money options which ""surround"" the current underlying price.",0.048099227249622345,0.007631530519574881,0.9442691802978516,neutral,0.040467698127031326
+23,2013-06-06 07:16:00,"If the underlying expires within the range, one collects the premium as profit.",0.015336241573095322,0.012482964433729649,0.9721808433532715,neutral,0.002853277139365673
+24,2013-06-06 07:16:00,"While not exact, the TLT will trade down to $113 to reflect a 2.20% yield and up to $118 to reflect a 1.85% yield.",0.09940413385629654,0.3009850084781647,0.5996108651161194,neutral,-0.20158088207244873
+25,2013-06-06 07:16:00,"For some wiggle room, I am selling two out-of-the-money spreads.",0.0764019563794136,0.04767489433288574,0.8759230971336365,neutral,0.028727062046527863
+26,2013-06-06 07:16:00,"And on the call side:
+
+All told, the iron condor collects a total of $0.70 net premium.",0.17864163219928741,0.021595748141407967,0.7997626662254333,neutral,0.1570458859205246
+27,2013-06-06 07:16:00,This is the maximum profit that would be realized if shares of TLT are between $112 and $118 on the June 22 expiration.,0.19779068231582642,0.010425709187984467,0.7917835712432861,neutral,0.18736496567726135
+28,2013-06-06 07:16:00,The maximum loss is $1.30 which would be incurred if shares of TLT are below $110 or above $120 on the June expiration.,0.024755826219916344,0.7082195281982422,0.2670246660709381,negative,-0.6834636926651001
+29,2013-06-06 07:16:00,"This is a probability play in which the payoff is lower than the loss, but the likelihood of it making money is greater than it being a loser.",0.14535632729530334,0.08626289665699005,0.7683807611465454,neutral,0.05909343063831329
+30,2013-06-06 07:16:00,And it is a limited loss.,0.04356435686349869,0.06493128836154938,0.8915044069290161,neutral,-0.02136693149805069
+31,2013-06-06 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

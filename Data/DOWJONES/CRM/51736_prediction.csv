@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-18 00:22:00,"Move over ""FANG,"" there's a new acronym in town.",0.10713515430688858,0.05544762685894966,0.8374172449111938,neutral,0.05168752744793892
+1,2015-12-18 00:22:00,"The latest buzz on Wall Street surrounds the four best performing enterprise tech stocks: ""MAGS,"" or Microsoft MSFT , Amazon AMZN , Google GOOGL , and Salesforce CRM .",0.4525524079799652,0.03824562206864357,0.5092020034790039,neutral,0.41430678963661194
+2,2015-12-18 00:22:00,"The term was first coined this week by Deutsche Bank, and Business insider reported on it here .",0.0496944859623909,0.017866600304841995,0.932438850402832,neutral,0.031827885657548904
+3,2015-12-18 00:22:00,"Simply put, these four stocks have significantly outperformed the rest of the large-cap tech companies in 2015.",0.9012851715087891,0.06493933498859406,0.033775582909584045,positive,0.8363458514213562
+4,2015-12-18 00:22:00,Together these companies have a combined market cap of $1.3 trillion and have grown about 50% in share price on average this year.,0.8591580390930176,0.01341262273490429,0.12742924690246582,positive,0.8457454442977905
+5,2015-12-18 00:22:00,"Here is a graphic from Deutsche Bank that illustrates this growth:
+
+The most interesting thing about these companies is that the vast majority, if not all, of their enterprise-level offerings are cloud-based products.",0.05693379417061806,0.005149017088115215,0.9379172325134277,neutral,0.05178477615118027
+6,2015-12-18 00:22:00,"With cloud computing still in its infancy, these already successful stocks could still have a lot of room to grow.",0.750994861125946,0.014265522360801697,0.23473963141441345,positive,0.7367293238639832
+7,2015-12-18 00:22:00,"It's been a great year for the MAGS stocks, but with 2016 just weeks away, investors will be interested to see if these companies can keep this momentum going in the New Year.",0.7436147928237915,0.017514919862151146,0.2388702929019928,positive,0.7260998487472534
+8,2015-12-18 00:22:00,"Today, we'll take a look at each stock to see which is poised to be the leader in cloud computing.",0.5498182773590088,0.011795180849730968,0.4383864998817444,positive,0.5380231142044067
+9,2015-12-18 00:22:00,"It's definitely a tight race at the top, and the best pick for next year will really depend on what investors are most interested in.",0.07870480418205261,0.017603792250156403,0.9036914706230164,neutral,0.06110101193189621
+10,2015-12-18 00:22:00,"Let's start by looking at Microsoft, the slowest grower of the four this year.",0.04813283681869507,0.23717695474624634,0.7146902084350586,neutral,-0.18904411792755127
+11,2015-12-18 00:22:00,"Currently, Microsoft has a Zacks Rank #3 (Hold).",0.020787982270121574,0.026740621775388718,0.9524713754653931,neutral,-0.005952639505267143
+12,2015-12-18 00:22:00,"Based on next year's current earnings estimates, we expect Microsoft to see about 10% earnings growth.",0.9233320355415344,0.013214274309575558,0.06345371901988983,positive,0.9101177453994751
+13,2015-12-18 00:22:00,"In the past 60 days, we've seen eight positive estimate revisions and three negative revisions for the company's fiscal 2016 earnings.",0.10672760009765625,0.6109259724617004,0.2823463976383209,negative,-0.5041983723640442
+14,2015-12-18 00:22:00,Microsoft's Azure software has been around since 2010 and it has picked up a nice following in the cloud computing community through the years.,0.7589486241340637,0.012896656058728695,0.2281547337770462,positive,0.7460519671440125
+15,2015-12-18 00:22:00,"However, the big problem with Microsoft is diminishing revenues from its other segments.",0.01832038350403309,0.9606480002403259,0.021031582728028297,negative,-0.942327618598938
+16,2015-12-18 00:22:00,The company has definitely realized that the demand for PCs is not what it used to be and its choice to make Windows 10 a free upgrade shows its new strategy.,0.6138485074043274,0.018962014466524124,0.3671894669532776,positive,0.5948864817619324
+17,2015-12-18 00:22:00,"Microsoft is banking on new micro-purchases within Windows 10, and it has also made moves in hardware with the launch of its first laptop-the Surface Book.",0.8822965025901794,0.01584279164671898,0.10186075419187546,positive,0.8664537072181702
+18,2015-12-18 00:22:00,"The second slowest grower this year, Salesforce, has a much different story.",0.02587498538196087,0.7470741868019104,0.22705082595348358,negative,-0.7211992144584656
+19,2015-12-18 00:22:00,"Currently, Salesforce has a Zacks Rank #2 (Buy).",0.47178301215171814,0.018565012142062187,0.5096520185470581,neutral,0.453218013048172
+20,2015-12-18 00:22:00,"Within the past 60 days, we've seen nine positive estimate revisions and just one negative revision for the company's fiscal 2016.",0.05124155804514885,0.5217072367668152,0.4270511865615845,negative,-0.47046568989753723
+21,2015-12-18 00:22:00,"Based on these current estimates, we expect Salesforce's earnings to grow by as much as 91%.",0.9550337791442871,0.016148366034030914,0.02881794609129429,positive,0.9388853907585144
+22,2015-12-18 00:22:00,"Salesforce has been a leader in enterprise software for a long time, and its product line is well known and widely used.",0.682108461856842,0.010620529763400555,0.30727097392082214,positive,0.6714879274368286
+23,2015-12-18 00:22:00,The company has a wide variety of cloud-based products that target everything from sales and marketing to analytics and the Internet of Things.,0.02846696972846985,0.004725328646600246,0.9668077230453491,neutral,0.023741640150547028
+24,2015-12-18 00:22:00,Also Read:Inside Salesforce: The Best Cloud Computing Company?,0.3433324098587036,0.04545852914452553,0.6112090349197388,neutral,0.2978738844394684
+25,2015-12-18 00:22:00,"Salesforce's success has been driven by its innovation, which has always been a key point of CEO Marc Beinoff's leadership.",0.6627568602561951,0.010951920412480831,0.32629120349884033,positive,0.6518049240112305
+26,2015-12-18 00:22:00,"Beinoff encourages employees to innovate and grow within the company, and Salesforce's internal product tracking is incredible.",0.7690578699111938,0.012183235958218575,0.21875889599323273,positive,0.7568746209144592
+27,2015-12-18 00:22:00,"With that said, Salesforce currently only brings in about 27% of its revenue from outside of North America and the company needs to work on growing its international presence.",0.5853152275085449,0.0593501552939415,0.35533466935157776,positive,0.5259650945663452
+28,2015-12-18 00:22:00,Google is also a really interesting company in the cloud world right now.,0.3235352635383606,0.010514503344893456,0.6659502983093262,neutral,0.3130207657814026
+29,2015-12-18 00:22:00,"Currently, Google has a Zacks Rank #3 (Hold).",0.022399820387363434,0.026812445372343063,0.9507877230644226,neutral,-0.0044126249849796295
+30,2015-12-18 00:22:00,"In the past 60 days, we've seen five positive estimate revisions and six negative revisions for the company's annual earnings in 2016.",0.09793231636285782,0.6055735349655151,0.29649415612220764,negative,-0.5076411962509155
+31,2015-12-18 00:22:00,"Based on current estimates, Google is expected to see about 20% earnings growth.",0.921778678894043,0.013766445219516754,0.06445491313934326,positive,0.9080122113227844
+32,2015-12-18 00:22:00,"In some ways, Google almost doesn't fit in with these companies.",0.02506479062139988,0.46728625893592834,0.5076489448547363,neutral,-0.442221462726593
+33,2015-12-18 00:22:00,"Its cloud offerings, especially at the enterprise level that we are focusing on here, are probably the least notable in the MAGS group.",0.022011546418070793,0.016322031617164612,0.961666464805603,neutral,0.005689514800906181
+34,2015-12-18 00:22:00,"However, Google is increasing its focus on this segment and has brought people on board, such as former VMWare CEO Diane Greene, who can help improve this aspect of the company.",0.8692930936813354,0.01345958560705185,0.11724734306335449,positive,0.8558335304260254
+35,2015-12-18 00:22:00,Some analysts have also kicked around the idea that Google should acquire a cloud company like Salesforce.,0.41132837533950806,0.08747882395982742,0.5011928081512451,neutral,0.32384955883026123
+36,2015-12-18 00:22:00,"Finally, the big winner this year: Amazon (AMZN).",0.8555111289024353,0.018389195203781128,0.12609966099262238,positive,0.8371219635009766
+37,2015-12-18 00:22:00,"Currently, Amazon has a Zacks Rank #2 (Buy).",0.40609970688819885,0.020928891375660896,0.5729714632034302,neutral,0.3851708173751831
+38,2015-12-18 00:22:00,Amazon stock has grown over 110% this year and that growth is expected to continue.,0.9476035237312317,0.01449079904705286,0.03790565952658653,positive,0.9331127405166626
+39,2015-12-18 00:22:00,"With 10 positive earnings estimate revisions versus just three negative revisions in the past 60 days, Amazon's fiscal 2016 looks to be a good one, and current estimates indicate that Amazon could see earnings growth of nearly 170%.",0.9477186799049377,0.020256752148270607,0.03202453628182411,positive,0.9274619221687317
+40,2015-12-18 00:22:00,"Amazon's surprise profits this year were fueled by its cloud-based Amazon Web Services (AWS), which help companies develop their online presence with certain tools and templates.",0.9077238440513611,0.01797325536608696,0.07430297136306763,positive,0.889750599861145
+41,2015-12-18 00:22:00,AWS has literally taken the world by storm and is considered one of the most important new products in the entire tech sector.,0.7045103311538696,0.015120967291295528,0.28036871552467346,positive,0.6893893480300903
+42,2015-12-18 00:22:00,"Also read:5 Things We Learned About Amazon Web Services
+
+This year, AWS is on pace to bring in about $7 billion in revenue.",0.9284688234329224,0.01489307638257742,0.05663808062672615,positive,0.9135757684707642
+43,2015-12-18 00:22:00,"While that isn't necessarily a major chunk of Amazon's total revenue, it is the segment of the company with the highest margins.",0.11733139306306839,0.008149917237460613,0.8745186924934387,neutral,0.1091814786195755
+44,2015-12-18 00:22:00,E-commerce has always had razor-thin margins and Amazon's rapid expansion has been pricy.,0.05193687602877617,0.6099472641944885,0.3381159007549286,negative,-0.5580103993415833
+45,2015-12-18 00:22:00,It has been great for investors to see a sure-fire profit turner like AWS take off.,0.8112593293190002,0.02183668501675129,0.16690398752689362,positive,0.7894226312637329
+46,2015-12-18 00:22:00,"With that said, AWS isn't a software product, so the other companies are a step ahead of Amazon in that regard.",0.2240051031112671,0.019768981263041496,0.7562258839607239,neutral,0.20423611998558044
+47,2015-12-18 00:22:00,All of these companies have had great years and it honestly looks like 2016 could continue to be a great year for the MAGS stocks.,0.798697829246521,0.014458486810326576,0.18684376776218414,positive,0.7842393517494202
+48,2015-12-18 00:22:00,"Of course, every company has room for improvement and investors should keep their eye on the ever-evolving strategies of the MAGS companies.",0.6434687972068787,0.011898929253220558,0.3446322977542877,positive,0.6315698623657227
+49,2015-12-18 00:22:00,"Regardless, certain metrics do stick out.",0.18437881767749786,0.009797902777791023,0.8058233261108398,neutral,0.174580916762352
+50,2015-12-18 00:22:00,"Right now, stronger Zacks Ranks and better earnings estimate revision activity put Salesforce and Amazon in the lead, but all of these companies will be ones to watch in 2016.",0.829609751701355,0.03767692670226097,0.13271333277225494,positive,0.7919328212738037
+51,2015-12-18 00:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2015-12-18 00:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2015-12-18 00:22:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+54,2015-12-18 00:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+55,2015-12-18 00:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+56,2015-12-18 00:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

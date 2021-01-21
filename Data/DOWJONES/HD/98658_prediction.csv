@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-16 09:01:00,"During the past five years, Home Depot (NYSE: HD) stock has soared about 226%, leaving Target (NYSE: TGT) stock's 36% return during this same period in the dust.",0.9393371939659119,0.024986056610941887,0.035676803439855576,positive,0.9143511652946472
+1,2016-11-16 09:01:00,Can Home Depot continue to outperform Target over the next five years?,0.8916845321655273,0.042556796222925186,0.065758615732193,positive,0.8491277098655701
+2,2016-11-16 09:01:00,Or is Target stock poised to play some catch-up?,0.19071638584136963,0.050311993807554245,0.7589715719223022,neutral,0.14040438830852509
+3,2016-11-16 09:01:00,"To find out which stock is a better buy today, here's a head-to-head comparison of these two retailers.",0.0986756831407547,0.017084944993257523,0.8842393159866333,neutral,0.08159074187278748
+4,2016-11-16 09:01:00,"In a comparison between Home Depot's and Target's recent financial performance, Home Depot emerges as the clear winner.",0.894365668296814,0.027150563895702362,0.07848374545574188,positive,0.867215096950531
+5,2016-11-16 09:01:00,"Over the past five years, Home Depot's sales and earnings per share have increased at average annual rates of about 5% and 22%, respectively.",0.9445018172264099,0.015583544969558716,0.03991461172699928,positive,0.9289182424545288
+6,2016-11-16 09:01:00,"Providing good reason for Target stock's underperformance in the past five years, the retailer's financial results pale in comparison to Home Depot's.",0.022156091406941414,0.9617513418197632,0.016092583537101746,negative,-0.9395952224731445
+7,2016-11-16 09:01:00,Target's sales and EPS have increased at average rates of about 2% and 6% annually.,0.9027042984962463,0.013274372555315495,0.08402140438556671,positive,0.8894299268722534
+8,2016-11-16 09:01:00,"With both stocks paying a meaningful dividend, some investors may be interested in these stocks particularly for their dividend payments.",0.18296480178833008,0.010726363398134708,0.8063088059425354,neutral,0.17223843932151794
+9,2016-11-16 09:01:00,But which company pays a better dividend?,0.23810088634490967,0.04391144588589668,0.7179877161979675,neutral,0.19418944418430328
+10,2016-11-16 09:01:00,"Measured by dividend yield, Target comes out ahead.",0.3119482100009918,0.020869987085461617,0.6671818494796753,neutral,0.29107820987701416
+11,2016-11-16 09:01:00,"The stock has a solid dividend yield of 3.4%, well above Home Depot's 2.2% dividend yield.",0.920077919960022,0.01802000217139721,0.06190217286348343,positive,0.902057945728302
+12,2016-11-16 09:01:00,"However, when it comes to dividend growth prospects, Home Depot wins.",0.8092454671859741,0.026472557336091995,0.1642819494009018,positive,0.7827728986740112
+13,2016-11-16 09:01:00,"During the past five years, Home Depot has increased its dividend at an average rate of about 20%, edging out Target's average increase of 19% during this same period.",0.9412124752998352,0.01667160354554653,0.04211585968732834,positive,0.9245408773422241
+14,2016-11-16 09:01:00,"Further, Home Depot's consistent ability to boost earnings in recent years suggests future dividend increases at these levels may be more sustainable than they are for Target.",0.9366476535797119,0.016240205615758896,0.04711216688156128,positive,0.9204074740409851
+15,2016-11-16 09:01:00,"Driving this point home, Home Depot's payout ratio, or dividend payments as a percentage of earnings, is at about the same level -- 43% -- that it was at five years ago, yet Target's payout ratio had to increase from about 26% to 44% during this same period in order to support these increases.",0.906745970249176,0.014423450455069542,0.0788305401802063,positive,0.8923225402832031
+16,2016-11-16 09:01:00,"Unsurprisingly, investors will have to pay a premium to buy into Home Depot's superior growth story.",0.8255621790885925,0.01906890794634819,0.15536890923976898,positive,0.8064932823181152
+17,2016-11-16 09:01:00,Home Depot's valuation is undoubtedly steeper than Target's.,0.6299097537994385,0.05966545268893242,0.3104248344898224,positive,0.570244312286377
+18,2016-11-16 09:01:00,"For instance, Home Depot trades at about 22 times earnings and 1.7 times sales, and Target trades at just 14 times earnings 0.6 times sales.",0.01502222754061222,0.031062504276633263,0.9539152979850769,neutral,-0.016040276736021042
+19,2016-11-16 09:01:00,"Furthermore, Home Depot's steep premium is just as evident when comparing the stocks' prices in relation to next year's earnings estimates; Home Depot and Target trade at about 17.5 and 13.5 times next year's analyst earnings estimates, respectively.",0.3425196409225464,0.0551968552172184,0.6022834777832031,neutral,0.2873227894306183
+20,2016-11-16 09:01:00,Home Depot is hands down the more expensive stock.,0.030654164031147957,0.1788841038942337,0.7904617786407471,neutral,-0.1482299417257309
+21,2016-11-16 09:01:00,"The question, therefore, is whether Home Depot is worth a higher premium than Target.",0.266096293926239,0.027077214792370796,0.7068264484405518,neutral,0.23901908099651337
+22,2016-11-16 09:01:00,I'd argue it is.,0.0817636176943779,0.04523996636271477,0.8729963302612305,neutral,0.03652365133166313
+23,2016-11-16 09:01:00,"When it comes to performance and growth prospects, Home Depot comes out on top.",0.353009432554245,0.01405847817659378,0.6329321265220642,neutral,0.3389509618282318
+24,2016-11-16 09:01:00,"In addition, Home Depot's $88 billion in annual revenue and an expansive merchandising and distribution network give the company unprecedented economies of scale in the home-improvement retail market, easily justifying the stock's premium valuation.",0.9206935167312622,0.014917153865098953,0.06438930332660675,positive,0.9057763814926147
+25,2016-11-16 09:01:00,"In contrast to Home Depot's leading position among its peers, Target's $72 billion in annual revenue is dwarfed by the sprawling scale and reach of competing giants Wal-Mart and Amazon.com , which boast about $484 billion and $128 billion in annual revenue, respectively.",0.17350651323795319,0.599872350692749,0.22662118077278137,negative,-0.42636585235595703
+26,2016-11-16 09:01:00,"Without a clear sustainable competitive advantage, Target's lower valuation multiples don't look so compelling.",0.0558786615729332,0.41493967175483704,0.5291816592216492,neutral,-0.35906100273132324
+27,2016-11-16 09:01:00,"Overall, Home Depot looks like a better bet than Target for the next five years.",0.7465141415596008,0.017990201711654663,0.23549555242061615,positive,0.7285239696502686
+28,2016-11-16 09:01:00,"Forget the 2016 Election: 10 stocks we like better than Home Depot
+
+Donald Trump was just elected president, and volatility is up.",0.398543119430542,0.050967827439308167,0.550489068031311,neutral,0.347575306892395
+29,2016-11-16 09:01:00,"But here's why you should ignore the election:
+
+Investing geniuses Tom and David Gardner have spent a long time beating the market no matter who's in the White House.",0.21377359330654144,0.05126592144370079,0.7349604964256287,neutral,0.16250766813755035
+30,2016-11-16 09:01:00,"In fact, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.3654901087284088,0.11595573276281357,0.518554151058197,neutral,0.24953436851501465
+31,2016-11-16 09:01:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+32,2016-11-16 09:01:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2016-11-16 09:01:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+34,2016-11-16 09:01:00,Daniel Sparks has no position in any stocks mentioned.,0.010217004455626011,0.04521223157644272,0.9445707201957703,neutral,-0.03499522805213928
+35,2016-11-16 09:01:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+36,2016-11-16 09:01:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+37,2016-11-16 09:01:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+38,2016-11-16 09:01:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2016-11-16 09:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,5 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-11 09:15:00,"The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Home Depot is the #6 analyst pick.",0.27669665217399597,0.03137853741645813,0.6919247508049011,neutral,0.24531811475753784
+1,2016-10-11 09:15:00,"Home Depot also comes in above the median of analyst picks among the broader S&P 500 index components, claiming the #118 spot out of 500.",0.8811124563217163,0.050179608166217804,0.06870793551206589,positive,0.8309328556060791
+2,2016-10-11 09:15:00,"Looking at the stock price movement year to date, Home Depot is lower by about 4.6%.",0.018996212631464005,0.9610313177108765,0.019972484558820724,negative,-0.9420350790023804
+3,2016-10-11 09:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

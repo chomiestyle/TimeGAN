@@ -1,0 +1,9 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-15 08:09:00,"In trading on Friday, shares of Home Depot Inc (Symbol: HD) crossed above their 200 day moving average of $189.04, changing hands as high as $191.72 per share.",0.8908846974372864,0.0747518241405487,0.03436344489455223,positive,0.8161329030990601
+1,2019-02-15 08:09:00,Home Depot Inc shares are currently trading up about 2.1% on the day.,0.9227659702301025,0.023365456610918045,0.053868599236011505,positive,0.899400532245636
+2,2019-02-15 08:09:00,"The chart below shows the one year performance of HD shares, versus its 200 day moving average:
+
+Looking at the chart above, HD's low point in its 52 week range is $158.09 per share, with $215.43 as the 52 week high point - that compares with a last trade of $191.46.",0.029298461973667145,0.9319561123847961,0.03874539956450462,negative,-0.9026576280593872
+3,2019-02-15 08:09:00,"Click here to find out which 9 other stocks recently crossed above their 200 day moving average »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.0168707687407732,0.01579452119767666,0.9673347473144531,neutral,0.0010762475430965424

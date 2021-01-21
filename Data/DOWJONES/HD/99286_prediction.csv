@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-04 07:44:00,"In early trading on Friday, shares of Intel ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.9%.",0.938296377658844,0.032576218247413635,0.029127314686775208,positive,0.9057201743125916
+1,2015-12-04 07:44:00,"Year to date, Intel has lost about 4.5% of its value.",0.016780400648713112,0.9586695432662964,0.024550048634409904,negative,-0.9418891668319702
+2,2015-12-04 07:44:00,"And the worst performing Dow component thus far on the day is Chevron ( CVX ), trading down 1.5%.",0.020530499517917633,0.9659238457679749,0.013545718044042587,negative,-0.9453933238983154
+3,2015-12-04 07:44:00,Chevron is lower by about 22.0% looking at the year to date performance.,0.021573305130004883,0.9661000370979309,0.012326628901064396,negative,-0.944526731967926
+4,2015-12-04 07:44:00,"Two other components making moves today are Exxon Mobil ( XOM ), trading down 1.2%, and Home Depot ( HD ), trading up 1.8% on the day.",0.0306024719029665,0.9365231394767761,0.032874416559934616,negative,-0.905920684337616
+5,2015-12-04 07:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

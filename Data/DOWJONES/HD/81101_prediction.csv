@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-05-21 05:40:00,"For what’s left of the Great American Middle Class, home is where the money is.",0.06881328672170639,0.047121312469244,0.8840653896331787,neutral,0.021691974252462387
+1,2019-05-21 05:40:00,"For what’s left of Great American Retailing, Home Depot (NYSE:) is where that money’s spent.",0.03445379436016083,0.014272279106080532,0.9512738585472107,neutral,0.02018151432275772
+2,2019-05-21 05:40:00,"The Atlanta-based home improvement retailer scored another beat on earnings for the first quarter of its 2019 fiscal year, with , which beat expectations by 9 cents.",0.9289949536323547,0.041306957602500916,0.029698098078370094,positive,0.8876879811286926
+3,2019-05-21 05:40:00,"Reporting on the numbers was , with some analysts negative because same-store sales improvements missed estimates, and others calling them , pointing to a doubling of revenue during the decade.",0.02502576820552349,0.9594615697860718,0.01551272626966238,negative,-0.9344357848167419
+4,2019-05-21 05:40:00,"For long-term investors, the debate is just noise.",0.04709828272461891,0.09599418938159943,0.8569075465202332,neutral,-0.048895906656980515
+5,2019-05-21 05:40:00,"Home Depot Stock May Be the Stock of the Decade
+
+Say what you want about Amazon (NASDAQ:), but for income investors Home Depot has been the stock of the decade.",0.058246538043022156,0.008323388174176216,0.9334300756454468,neutral,0.04992315173149109
+6,2019-05-21 05:40:00,"The shares are up 581% since the decade began, but more importantly, so is the dividend.",0.9087552428245544,0.01630554161965847,0.07493921369314194,positive,0.892449676990509
+7,2019-05-21 05:40:00,It rose from 22.4 cents to $1.36.,0.9210454821586609,0.022426841780543327,0.05652770400047302,positive,0.8986186385154724
+8,2019-05-21 05:40:00,"If you bought Home Depot shares in 2010, when they about $31, your current yield is 17.5%.",0.0266877468675375,0.022078074514865875,0.9512341618537903,neutral,0.004609672352671623
+9,2019-05-21 05:40:00,"That’s $5.44 coming into your pocket every year on your $31 investment, in addition to a rich capital gain.",0.582165002822876,0.016033580526709557,0.4018014371395111,positive,0.5661314129829407
+10,2019-05-21 05:40:00,"The stock’s current yield, 2.9%, is nothing to sneeze at either.",0.033922843635082245,0.20295467972755432,0.7631224989891052,neutral,-0.16903182864189148
+11,2019-05-21 05:40:00,It’s the equivalent of lending your money to the government .,0.03797363117337227,0.011085011065006256,0.9509413242340088,neutral,0.026888620108366013
+12,2019-05-21 05:40:00,"Many older investors may look strictly at yield, treating stock investments like bonds.",0.03406265750527382,0.06788530200719833,0.8980520367622375,neutral,-0.033822644501924515
+13,2019-05-21 05:40:00,That’s a mistake.,0.1285742223262787,0.45015949010849,0.42126625776290894,negative,-0.3215852677822113
+14,2019-05-21 05:40:00,"You want a growing yield, a dividend that’s rising, because that’s where your future income will come from.",0.3508605659008026,0.00982707366347313,0.6393123865127563,neutral,0.3410334885120392
+15,2019-05-21 05:40:00,"Home Depot’s net income has been rising steadily, so its price-to-earnings ratio was still at a market-matching 19.6 as trading opened on May 21.",0.8609627485275269,0.02285875752568245,0.1161784902215004,positive,0.8381040096282959
+16,2019-05-21 05:40:00,What About Tomorrow for HD Stock?,0.027159327641129494,0.018435368314385414,0.9544053077697754,neutral,0.00872395932674408
+17,2019-05-21 05:40:00,"The risk in a stock like Home Depot, tied as it is to homebuilding and home improvement, is that a collapse of the housing sector will hit it hard.",0.03467997536063194,0.6767516732215881,0.2885683476924896,negative,-0.6420717239379883
+18,2019-05-21 05:40:00,Home Depot shares didn’t pass their 1999 high until 2012.,0.32349351048469543,0.2292966991662979,0.4472097158432007,neutral,0.09419681131839752
+19,2019-05-21 05:40:00,"Then again, neither did those of Amazon.",0.041521865874528885,0.04400665685534477,0.9144715070724487,neutral,-0.0024847909808158875
+20,2019-05-21 05:40:00,"The share price also got cut in half during the Great Recession, but Home Depot maintained its dividend during the period.",0.044090431183576584,0.897960901260376,0.05794868990778923,negative,-0.8538704514503479
+21,2019-05-21 05:40:00,"Home Depot is still subject to housing market changes, but not in the same way a home builder like Lennar (NYSE:) might be.",0.03692559897899628,0.06496042758226395,0.8981139659881592,neutral,-0.02803482860326767
+22,2019-05-21 05:40:00,"Housing starts are volatile, and even today’s strong market is only running at half its 2006 peak.",0.06247815862298012,0.5833413004875183,0.3541804850101471,negative,-0.5208631157875061
+23,2019-05-21 05:40:00,But this means housing supplies are tight almost everywhere.,0.023012930527329445,0.9130837321281433,0.06390341371297836,negative,-0.8900707960128784
+24,2019-05-21 05:40:00,"Older consumers are over-housed, younger ones under-housed.",0.02994515560567379,0.7320064902305603,0.23804830014705658,negative,-0.7020613551139832
+25,2019-05-21 05:40:00,How that shakes out will decide what happens to Home Depot stock going forward.,0.011451596394181252,0.01267584040760994,0.9758725166320801,neutral,-0.001224244013428688
+26,2019-05-21 05:40:00,"What I’ve seen are many older homes adding “carriage houses,” apartments over new garages, which they rent out to young people or on AirBnB.",0.02226611226797104,0.008832469582557678,0.9689013957977295,neutral,0.01343364268541336
+27,2019-05-21 05:40:00,"The income allows older folks stay in their current homes even longer, since they can afford the help that keeps them there.",0.6605799794197083,0.03345852717757225,0.3059614598751068,positive,0.6271214485168457
+28,2019-05-21 05:40:00,They can also stay longer by inviting their kids and grandchildren in.,0.059402357786893845,0.011084350757300854,0.9295132756233215,neutral,0.048318006098270416
+29,2019-05-21 05:40:00,That’s how my neighbors did it in the 1980s.,0.03989619016647339,0.017869627103209496,0.9422341585159302,neutral,0.022026563063263893
+30,2019-05-21 05:40:00,"All this chopping-and-changing within existing housing can, along with luxury upgrades, keep the home improvement market humming even while housing starts decline.",0.8342870473861694,0.019116930663585663,0.14659598469734192,positive,0.8151701092720032
+31,2019-05-21 05:40:00,"This, along with an omni-channel and contractor-friendly strategy, may be Home Depot’s secret to success.",0.7917800545692444,0.012405754998326302,0.19581420719623566,positive,0.7793743014335632
+32,2019-05-21 05:40:00,Don’t confuse the home improvement cycle with the homebuilding cycle.,0.038793936371803284,0.020753756165504456,0.9404523372650146,neutral,0.018040180206298828
+33,2019-05-21 05:40:00,"Home Depot is the master of the home improvement cycle, which has been turning every home into a castle for four decades.",0.3073372542858124,0.009249716997146606,0.683413028717041,neutral,0.29808753728866577
+34,2019-05-21 05:40:00,"This is wealth that will be passed on to the next generation in some form, but which also requires constant investment to remain wealth.",0.1962851583957672,0.006727804895490408,0.7969871163368225,neutral,0.18955735862255096
+35,2019-05-21 05:40:00,Home Depot stock looks good for another decade.,0.4636312425136566,0.01049759704619646,0.5258711576461792,neutral,0.45313364267349243
+36,2019-05-21 05:40:00,is a financial and technology journalist.,0.04357776790857315,0.01966455765068531,0.9367576837539673,neutral,0.02391321025788784
+37,2019-05-21 05:40:00,"He is the author of a new environmental story, Bridget O’Flynn and the Bear , available now at the Amazon Kindle store.",0.07356125861406326,0.022822296246886253,0.9036164879798889,neutral,0.05073896050453186
+38,2019-05-21 05:40:00,Write him at or follow him on Twitter at @danablankenhorn.,0.05062256008386612,0.04782085120677948,0.9015565514564514,neutral,0.0028017088770866394
+39,2019-05-21 05:40:00,As of this writing he owned shares in AMZN.,0.013502212241292,0.010644764639437199,0.9758529663085938,neutral,0.002857447601854801
+40,2019-05-21 05:40:00,The post appeared first on InvestorPlace.,0.06827229261398315,0.03990982100367546,0.8918178081512451,neutral,0.028362471610307693

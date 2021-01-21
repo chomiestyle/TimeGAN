@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-23 01:55:00,"Busy entrepreneur, are you one of the legions who have only a cursory grasp of the term ""working capital""?",0.06524509191513062,0.0749347060918808,0.8598201870918274,neutral,-0.009689614176750183
+1,2017-05-23 01:55:00,The efficient use of working capital is a cornerstone of financial stability for most corporations.,0.1390179842710495,0.005698600318282843,0.8552834391593933,neutral,0.13331937789916992
+2,2017-05-23 01:55:00,Let's try to demystify this all-important concept.,0.10249421745538712,0.013282363303005695,0.8842234015464783,neutral,0.0892118513584137
+3,2017-05-23 01:55:00,Take a moment out of that hectic schedule to learn how you can analyze -- and optimize -- important resources in your business.,0.28840887546539307,0.009327222593128681,0.7022639513015747,neutral,0.27908164262771606
+4,2017-05-23 01:55:00,"In the broadest sense, working capital is just what it sounds like: the capital a business has on hand to work with.",0.06622713059186935,0.007009394001215696,0.9267634749412537,neutral,0.05921773612499237
+5,2017-05-23 01:55:00,"More specifically, working capital defines the relationship between current assets and current liabilities on a company's balance sheet.",0.015348732471466064,0.008212842978537083,0.9764384627342224,neutral,0.007135889492928982
+6,2017-05-23 01:55:00,"Cash, cash equivalents, and other assets that can be converted into cash in less than one year (receivables, inventory, and short-term investments, for example) form a business's current assets.",0.013125352561473846,0.01017241831868887,0.9767022132873535,neutral,0.002952934242784977
+7,2017-05-23 01:55:00,"Current liabilities, meanwhile, consist of obligations that must be met in one year or less.",0.008529546670615673,0.014439897611737251,0.9770305156707764,neutral,-0.005910350941121578
+8,2017-05-23 01:55:00,"These include accounts payable and credit card liabilities, and any short-term notes due within one year.",0.007822327315807343,0.012178974226117134,0.979998767375946,neutral,-0.0043566469103097916
+9,2017-05-23 01:55:00,Subtract current liabilities from current assets and you're left with working capital.,0.03092908300459385,0.00601442065089941,0.9630564451217651,neutral,0.024914663285017014
+10,2017-05-23 01:55:00,"From this balance, a company pays for its operating expenses, which include everything from product and service costs not already in accounts payable, to overhead items such as payroll, rent, and insurance.",0.011695761233568192,0.02125873789191246,0.9670454859733582,neutral,-0.009562976658344269
+11,2017-05-23 01:55:00,"For an illustration, let's review part of the financial statements of home-improvement retailer Home Depot (NYSE: HD) .",0.009924175217747688,0.011018252931535244,0.9790575504302979,neutral,-0.0010940777137875557
+12,2017-05-23 01:55:00,"Specifically, we'll look at the current assets and current liabilities sections of Home Depot's balance sheet at the end of the first quarter of 2017:
+
+Data source: Home Depot quarterly report dated May 16, 2017.",0.01023084670305252,0.01759215258061886,0.9721769690513611,neutral,-0.007361305877566338
+13,2017-05-23 01:55:00,All dollar figures in millions.,0.051436472684144974,0.03741865232586861,0.9111448526382446,neutral,0.014017820358276367
+14,2017-05-23 01:55:00,Table by author.,0.03732270002365112,0.034020233899354935,0.9286571145057678,neutral,0.0033024661242961884
+15,2017-05-23 01:55:00,Home Depot's current assets currently amount to $19.9 billion.,0.013853330165147781,0.007160570938140154,0.9789861440658569,neutral,0.0066927592270076275
+16,2017-05-23 01:55:00,"After we net out the $16.4 billion of obligations due within one year, the corporation is left with roughly $3.5 billion to fund ongoing operations.",0.026671018451452255,0.2250901758670807,0.748238742351532,neutral,-0.19841915369033813
+17,2017-05-23 01:55:00,The figures in the table don't differ greatly from what we could derive from the financials of millions of businesses -- but the numbers are a wee bit bigger.,0.09784332662820816,0.027505075559020042,0.8746515512466431,neutral,0.07033824920654297
+18,2017-05-23 01:55:00,Working capital is always generated from a snapshot in time; we've calculated Home Depot's number from its financial position on the last day of April 2017.,0.016952095553278923,0.010024855844676495,0.9730230569839478,neutral,0.0069272397086024284
+19,2017-05-23 01:55:00,"Working capital, then, is an amount that changes each day, influenced by trends that reflect your overall business's performance.",0.02144138514995575,0.006386250257492065,0.9721723794937134,neutral,0.015055134892463684
+20,2017-05-23 01:55:00,"Track it, analyze it, and act on it
+
+I'm a big advocate of tracking your working capital throughout the year, preferably on a monthly or even weekly basis.",0.08954890817403793,0.005574091337621212,0.9048770070075989,neutral,0.08397481590509415
+21,2017-05-23 01:55:00,"These days, even the humblest off-the-shelf and online accounting programs conveniently isolate the current assets and liabilities sections on a balance-sheet report.",0.025378139689564705,0.05628858879208565,0.9183332920074463,neutral,-0.030910449102520943
+22,2017-05-23 01:55:00,Trends in working capital reveal the true state of an organization's profit and cash flow.,0.06743817031383514,0.007388927508145571,0.9251728653907776,neutral,0.06004924327135086
+23,2017-05-23 01:55:00,"Along with watching changes in working capital, you should also calculate the ""current ratio,"" which is simply current assets divided by current liabilities.",0.01966935396194458,0.008500905707478523,0.9718297719955444,neutral,0.011168448254466057
+24,2017-05-23 01:55:00,"This measure is less commonly known as the ""working capital ratio.""",0.02913099154829979,0.017344893887639046,0.9535240530967712,neutral,0.011786097660660744
+25,2017-05-23 01:55:00,"Since working capital represents a company's net liquid assets, the current ratio is a measure of liquidity.",0.04371362552046776,0.007031540386378765,0.9492548704147339,neutral,0.03668208420276642
+26,2017-05-23 01:55:00,"As a rule of thumb, healthy businesses sport a current ratio of at least 1.0, meaning they have just enough assets on hand to meet obligations due within one year.",0.12189663201570511,0.0143369659781456,0.8637663722038269,neutral,0.10755966603755951
+27,2017-05-23 01:55:00,"Hopefully, however, a corporation will maintain more than ""just enough"" working capital.",0.7435471415519714,0.012364349327981472,0.24408850073814392,positive,0.7311828136444092
+28,2017-05-23 01:55:00,"Across most industries, keeping a current ratio above 1.0 and up to 2.0, which equates to twice as many current assets as current obligations, is generally considered healthy.",0.4180017411708832,0.012870519421994686,0.5691277384757996,neutral,0.4051312208175659
+29,2017-05-23 01:55:00,Much beyond 2.0 and a corporation probably has excess cash in the bank that should be reinvested in operations.,0.02782837115228176,0.7603668570518494,0.2118048518896103,negative,-0.7325384616851807
+30,2017-05-23 01:55:00,"Conversely, persistently weak working capital, shown by a current ratio that remains stubbornly below 1.0, functions as a real-time profit-and-loss signal.",0.029983600601553917,0.9319989085197449,0.03801751881837845,negative,-0.9020153284072876
+31,2017-05-23 01:55:00,This calls for an investigation to determine if you need to fix profitability or simply provide for a temporary cash infusion.,0.05487751215696335,0.04257407784461975,0.9025484323501587,neutral,0.012303434312343597
+32,2017-05-23 01:55:00,This is the beauty of analyzing working capital: It can illuminate the danger zones in your business.,0.10603015869855881,0.00968166347593069,0.8842881917953491,neutral,0.09634849429130554
+33,2017-05-23 01:55:00,"If sales are growing rapidly and receivables are quickly collected, insufficient working capital often signals a margin problem.",0.024719569832086563,0.945193350315094,0.03008699230849743,negative,-0.9204737544059753
+34,2017-05-23 01:55:00,"Either pricing needs to be adjusted, or product cost issues must be resolved.",0.07666276395320892,0.055318403989076614,0.8680188655853271,neutral,0.02134435996413231
+35,2017-05-23 01:55:00,"An inability to keep the current ratio above 1.0 could also indicate excess overhead, as bloated salaries or other expenses drag down healthy gross profit.",0.02068256586790085,0.957366943359375,0.021950537338852882,negative,-0.9366843700408936
+36,2017-05-23 01:55:00,Sometimes a cash crunch resulting from rapid growth is the culprit behind a poor current ratio.,0.02662765607237816,0.9093427658081055,0.06402957439422607,negative,-0.882715106010437
+37,2017-05-23 01:55:00,"In this case, consider opening lines of credit that use inventory or receivables as collateral, to smooth over timing differences between sales and collections.",0.042629826813936234,0.008636122569441795,0.9487340450286865,neutral,0.03399370610713959
+38,2017-05-23 01:55:00,"By the way, you'll often hear that tapping credit lines ""increases"" working capital.",0.8859100937843323,0.030620334669947624,0.08346961438655853,positive,0.8552897572517395
+39,2017-05-23 01:55:00,"Technically, this is wrong.",0.07876985520124435,0.15807881951332092,0.7631512880325317,neutral,-0.07930896431207657
+40,2017-05-23 01:55:00,"If a company borrows $100,000 on a business line of credit, it's increased cash by $100,000, but it's also bumped current liabilities up by $100,000, so working capital hasn't changed at all.",0.8602632880210876,0.02588706836104393,0.11384963989257812,positive,0.8343762159347534
+41,2017-05-23 01:55:00,"Alternatively, a business that signs on to a long-term bank loan and adds the proceeds to its cash coffers has indeed increased its working capital balance, since the loan is a non-current obligation.",0.946286141872406,0.017598064616322517,0.03611572086811066,positive,0.9286880493164062
+42,2017-05-23 01:55:00,"In summary, try to become familiar with your working capital balance and its trend on an ongoing basis.",0.08094718307256699,0.005966266617178917,0.9130865335464478,neutral,0.07498091459274292
+43,2017-05-23 01:55:00,"Understand what either strength or deterioration in the current ratio may be pointing to, and then act on it.",0.06839123368263245,0.005517307203263044,0.9260914921760559,neutral,0.06287392973899841
+44,2017-05-23 01:55:00,The effort you put in can provide financial stability and could result in significant dollars on your enterprise's bottom line.,0.786503255367279,0.013259426690638065,0.20023725926876068,positive,0.7732438445091248
+45,2017-05-23 01:55:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+46,2017-05-23 01:55:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+47,2017-05-23 01:55:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+48,2017-05-23 01:55:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+49,2017-05-23 01:55:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+50,2017-05-23 01:55:00,"*Stock Advisor returns as of May 1, 2017
+
+Asit Sharma has no position in any stocks mentioned.",0.013616043142974377,0.07680705189704895,0.9095768332481384,neutral,-0.0631910115480423
+51,2017-05-23 01:55:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+52,2017-05-23 01:55:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+53,2017-05-23 01:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

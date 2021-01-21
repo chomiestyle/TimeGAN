@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-12 06:07:00,Which is the better stock to buy today?,0.09088169783353806,0.041368138045072556,0.8677502274513245,neutral,0.0495135597884655
+1,2016-12-12 06:07:00,"While you certainly aren't forced to pick just one stock, it is an interesting question.",0.06188534200191498,0.03852155804634094,0.8995930552482605,neutral,0.023363783955574036
+2,2016-12-12 06:07:00,"There's no way to get a definitive answer, but you can explore which stock you're more comfortable with by looking at both companies from three different angles.",0.05389802157878876,0.012285721488296986,0.9338162541389465,neutral,0.041612301021814346
+3,2016-12-12 06:07:00,Cash in the bank gets a bad rep.,0.026365650817751884,0.9461882710456848,0.02744603529572487,negative,-0.919822633266449
+4,2016-12-12 06:07:00,"While many investors would like to see cash being returned to them, used for share buybacks, or reinvested in the business, cash that just sits there is incredibly important.",0.15886591374874115,0.0071120779030025005,0.8340219855308533,neutral,0.15175384283065796
+5,2016-12-12 06:07:00,"That's because every company, at some point in time, will experience difficulties.",0.058051228523254395,0.037992365658283234,0.903956413269043,neutral,0.02005886286497116
+6,2016-12-12 06:07:00,Whether those difficulties are self-inflicted or macro in nature doesn't really matter.,0.021015677601099014,0.024474073201417923,0.9545102119445801,neutral,-0.0034583956003189087
+7,2016-12-12 06:07:00,"Companies that have cash on hand have options -- to outspend rivals, keep paying dividends, or even make acquisitions -- while debt-heavy organizations are forced to scramble to just make ends meet.",0.09116349369287491,0.19759008288383484,0.7112464308738708,neutral,-0.10642658919095993
+8,2016-12-12 06:07:00,Here's how these two stalwarts stack up; keep in mind that Johnson & Johnson is valued roughly 35% larger than Procter & Gamble.,0.07403165847063065,0.015208790078759193,0.9107595086097717,neutral,0.0588228702545166
+9,2016-12-12 06:07:00,Data source: Yahoo!,0.02414541505277157,0.041618943214416504,0.9342356324195862,neutral,-0.017473528161644936
+10,2016-12-12 06:07:00,Finance.,0.016506465151906013,0.008342479355633259,0.975151002407074,neutral,0.008163985796272755
+11,2016-12-12 06:07:00,Cash includes short- and long-term investments.,0.014474183320999146,0.00636734114959836,0.9791584610939026,neutral,0.008106842637062073
+12,2016-12-12 06:07:00,Net income and free cash flow are presented on a trailing-12-month basis.,0.016686417162418365,0.006485631223767996,0.9768279790878296,neutral,0.010200785472989082
+13,2016-12-12 06:07:00,"Before diving into which one of these two is ""better,"" it's worth acknowledging that both of these companies are in excellent financial shape.",0.8540724515914917,0.015544064342975616,0.13038350641727448,positive,0.8385283946990967
+14,2016-12-12 06:07:00,The fact that each is able to pull in more than $10 billion in free cash flow each year is an excellent sign.,0.9196381568908691,0.01671462506055832,0.06364724785089493,positive,0.9029235243797302
+15,2016-12-12 06:07:00,"However, since this is a competition, I have to give the edge to Johnson & Johnson.",0.2016940712928772,0.012301746755838394,0.7860042452812195,neutral,0.1893923282623291
+16,2016-12-12 06:07:00,"Not only does the company bring in more income and free cash flow relative to its size, but it has a much more favorable cash-to-debt ratio.",0.9019290208816528,0.01501396857202053,0.08305700868368149,positive,0.8869150280952454
+17,2016-12-12 06:07:00,"At the end my of my investing career, I have little doubt that the most important factor driving results over the long run will be the sustainable competitive advantages of the underlying companies I invested in.",0.4948592782020569,0.010437228716909885,0.4947035014629364,positive,0.48442205786705017
+18,2016-12-12 06:07:00,"Often called a ""moat"" in investing circles, a sustainable competitive advantage is essentially the special ""something"" that differentiates a company from its competitors.",0.41470667719841003,0.011768030934035778,0.5735253095626831,neutral,0.4029386341571808
+19,2016-12-12 06:07:00,"Johnson & Johnson has three different divisions: consumer, pharmaceutical, and medical devices.",0.013225775212049484,0.007799301762133837,0.9789749383926392,neutral,0.0054264734499156475
+20,2016-12-12 06:07:00,"The consumer division's moat is provided by the strength of its brands, like Band Aid and Tylenol.",0.8075786232948303,0.012637690640985966,0.17978376150131226,positive,0.7949409484863281
+21,2016-12-12 06:07:00,Patents protect the medical devices and pharmaceutical units.,0.011690586805343628,0.010083982720971107,0.9782254695892334,neutral,0.0016066040843725204
+22,2016-12-12 06:07:00,"However, while the pharmaceutical unit can be lucrative, the patents on these drugs don't last forever.",0.07124394178390503,0.012145387008786201,0.9166106581687927,neutral,0.05909855663776398
+23,2016-12-12 06:07:00,"To stay competitive, Johnson & Johnson needs to reinvest in its drug pipeline and hope that at least a few compounds will not only reach FDA approval, but be a big hit with patients.",0.9217888116836548,0.015207629650831223,0.0630035549402237,positive,0.9065811634063721
+24,2016-12-12 06:07:00,"Procter & Gamble, on the other hand, relies almost solely on the strength of its brands.",0.03421700745820999,0.005846274551004171,0.9599367380142212,neutral,0.028370732441544533
+25,2016-12-12 06:07:00,The company has 22 brands with over $1 billion in annual sales and 19 more with over $500 million.,0.06747939437627792,0.0049149831756949425,0.9276055693626404,neutral,0.0625644102692604
+26,2016-12-12 06:07:00,"Among these names are Gillette, Bounty, Pringles, Tide, Crest, Pampers, and Duracell.",0.021720634773373604,0.01957644894719124,0.9587028622627258,neutral,0.0021441858261823654
+27,2016-12-12 06:07:00,Because these brands have been around for so long -- and gained people's trust for providing high-quality and reliable products -- the company has a pricing advantage to keep the competition at bay.,0.9097056984901428,0.018984772264957428,0.07130955159664154,positive,0.8907209038734436
+28,2016-12-12 06:07:00,"Because the strength of the moat around Procter & Gamble's brands division is more uniform across its sales, and because the patent moat for Johnson & Johnson's pharmaceutical division can be more variable, I give the nod here to Procter & Gamble.",0.16634716093540192,0.009958666749298573,0.8236942291259766,neutral,0.15638849139213562
+29,2016-12-12 06:07:00,"To break the tie between these two, we turn toward valuation.",0.2394087314605713,0.01763908565044403,0.7429522275924683,neutral,0.22176964581012726
+30,2016-12-12 06:07:00,"While there's no perfect way to measure this, I've included three of my ""go-to"" figures below.",0.03004177287220955,0.015540980733931065,0.9544172286987305,neutral,0.014500792138278484
+31,2016-12-12 06:07:00,"Data source: E*Trade, Yahoo!",0.019989043474197388,0.09996409714221954,0.8800468444824219,neutral,-0.07997505366802216
+32,2016-12-12 06:07:00,Finance.,0.016506465151906013,0.008342479355633259,0.975151002407074,neutral,0.008163985796272755
+33,2016-12-12 06:07:00,"P/E is calculated using non-GAAP earnings, if applicable.",0.013330746442079544,0.011480736546218395,0.9751885533332825,neutral,0.0018500098958611488
+34,2016-12-12 06:07:00,"On this trait, the companies are in a virtual tie.",0.6761243343353271,0.04638605937361717,0.277489572763443,positive,0.6297382712364197
+35,2016-12-12 06:07:00,"Generally, I favor P/FCF over P/E, if only because it is less susceptible to accounting gimmicks.",0.6855964064598083,0.020783543586730957,0.2936200499534607,positive,0.6648128628730774
+36,2016-12-12 06:07:00,"Even then, though, these two are awfully close.",0.14294622838497162,0.29216718673706055,0.5648865699768066,neutral,-0.14922095835208893
+37,2016-12-12 06:07:00,"To break the tie, I looked at each company's dividend.",0.06489292532205582,0.02744363807141781,0.9076634049415588,neutral,0.03744928538799286
+38,2016-12-12 06:07:00,"For each company, 64% of FCF had been used to pay the dividend over the past 12 months.",0.024499153718352318,0.009588358923792839,0.9659124612808228,neutral,0.014910794794559479
+39,2016-12-12 06:07:00,"That's a great metric, as it shows that the dividends are both safe and have room for growth.",0.8701474666595459,0.014127765782177448,0.11572472751140594,positive,0.8560196757316589
+40,2016-12-12 06:07:00,"Procter & Gamble's, though, is yielding 3.2%, while Johnson & Johnson's offers a 2.9% yield.",0.05204441025853157,0.15982060134410858,0.7881349921226501,neutral,-0.10777619481086731
+41,2016-12-12 06:07:00,"While that's a relatively small margin, it was enough for me to give the nod to Procter & Gamble.",0.38765761256217957,0.016530057415366173,0.5958123207092285,neutral,0.37112754583358765
+42,2016-12-12 06:07:00,"Clearly, investors really can't go wrong with either company.",0.05016050487756729,0.04019857197999954,0.9096408486366272,neutral,0.009961932897567749
+43,2016-12-12 06:07:00,"By choosing Procter & Gamble, you get a slightly higher dividend and a more stable moat.",0.6357452869415283,0.014113330282270908,0.35014137625694275,positive,0.6216319799423218
+44,2016-12-12 06:07:00,"Johnson & Johnson's dividend is nothing to sneeze at, either, and if the company has a few big hits from the pharmaceutical division, it could prove to be the outperformer of the two.",0.21451202034950256,0.6250545978546143,0.16043339669704437,negative,-0.4105425775051117
+45,2016-12-12 06:07:00,"As things currently stand, though, I'm siding with having one bird in the hand versus two in the bush.",0.13745436072349548,0.03842742368578911,0.8241182565689087,neutral,0.09902693331241608
+46,2016-12-12 06:07:00,"10 stocks we like better than Procter and Gamble
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12097388505935669,0.02674618735909462,0.8522799611091614,neutral,0.09422770142555237
+47,2016-12-12 06:07:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+48,2016-12-12 06:07:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Procter and Gamble wasn't one of them!",0.178693026304245,0.013100427575409412,0.8082065582275391,neutral,0.16559259593486786
+49,2016-12-12 06:07:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+50,2016-12-12 06:07:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+51,2016-12-12 06:07:00,Brian Stoffel has no position in any stocks mentioned.,0.011061043478548527,0.05123596638441086,0.9377029538154602,neutral,-0.040174923837184906
+52,2016-12-12 06:07:00,The Motley Fool recommends Johnson and Johnson.,0.0684378445148468,0.032861869782209396,0.8987002968788147,neutral,0.035575974732637405
+53,2016-12-12 06:07:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+54,2016-12-12 06:07:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+55,2016-12-12 06:07:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+56,2016-12-12 06:07:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

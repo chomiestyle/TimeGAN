@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-11 07:12:00,"In early trading on Thursday, shares of Merck ( MRK ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.1%.",0.9390072226524353,0.032391421496868134,0.028601378202438354,positive,0.9066157937049866
+1,2017-05-11 07:12:00,"Year to date, Merck registers a 9.8% gain.",0.9447181820869446,0.01864439994096756,0.03663738816976547,positive,0.9260737895965576
+2,2017-05-11 07:12:00,"And the worst performing Dow component thus far on the day is Nike ( NKE ), trading down 1.6%.",0.021256661042571068,0.9658262729644775,0.012917104177176952,negative,-0.9445695877075195
+3,2017-05-11 07:12:00,Nike is showing a gain of 5.7% looking at the year to date performance.,0.9555637836456299,0.019794870167970657,0.024641387164592743,positive,0.9357689023017883
+4,2017-05-11 07:12:00,"Two other components making moves today are Home Depot ( HD ), trading down 1.1%, and Exxon Mobil ( XOM ), trading up 0.3% on the day.",0.02922775037586689,0.9418801665306091,0.028892166912555695,negative,-0.9126524329185486
+5,2017-05-11 07:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

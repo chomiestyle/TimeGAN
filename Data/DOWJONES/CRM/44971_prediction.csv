@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-01 08:33:00,Cerner (NASDAQ: CERN) has been a wonderful investment.,0.8668825030326843,0.012873598374426365,0.12024383246898651,positive,0.8540089130401611
+1,2019-03-01 08:33:00,Shares of the healthcare-focused information technology provider are up more than 80-fold since the company's IPO in the early 1990s.,0.9283806681632996,0.017547184601426125,0.054072100669145584,positive,0.910833477973938
+2,2019-03-01 08:33:00,That's a return that thrashes the S&P 500 .,0.789711058139801,0.06439019739627838,0.14589866995811462,positive,0.7253208756446838
+3,2019-03-01 08:33:00,"Cerner might still be a great company, but its growth rate has slowed considerably in recent years .",0.04496755450963974,0.8783915638923645,0.07664082944393158,negative,-0.8334240317344666
+4,2019-03-01 08:33:00,"As a growth investor at heart, I'm convinced that Veeva Systems (NYSE: VEEV) is the better choice for new money.",0.8284943699836731,0.011914461851119995,0.1595912128686905,positive,0.8165799379348755
+5,2019-03-01 08:33:00,Here's why.,0.017657043412327766,0.015349880792200565,0.9669930934906006,neutral,0.002307162620127201
+6,2019-03-01 08:33:00,Veeva is a software-as-a-service (SaaS) provider that primarily focuses on the needs of the life sciences industry.,0.054043225944042206,0.004417973104864359,0.9415388107299805,neutral,0.049625251442193985
+7,2019-03-01 08:33:00,"The company offers two main product lines:
+• Commercial cloud: This segment is a customer relationship management (CRM) platform that helps pharma and biotech companies to better manage their marketing and sales needs.",0.09904824197292328,0.005248153116554022,0.8957035541534424,neutral,0.09380009025335312
+8,2019-03-01 08:33:00,• Veeva Vault: This software helps life sciences companies to navigate the difficult regulatory approval process.,0.6385563015937805,0.011076048947870731,0.35036763548851013,positive,0.6274802684783936
+9,2019-03-01 08:33:00,"Vault helps clients with functions like data storage, clinical trial management, and data capture.",0.04824772849678993,0.005280611105263233,0.9464716911315918,neutral,0.042967118322849274
+10,2019-03-01 08:33:00,Both of these products have been huge hits with customers and have grown like wildfire since they were launched.,0.8061878681182861,0.01703357696533203,0.1767786145210266,positive,0.7891542911529541
+11,2019-03-01 08:33:00,Veeva also chooses to spend lavishly on research and development in an effort to add new functionality to these product lines.,0.39936506748199463,0.008402276784181595,0.5922326445579529,neutral,0.39096277952194214
+12,2019-03-01 08:33:00,That helps the company to pull in more revenue from its existing customers while simultaneously raising switching costs.,0.9433954358100891,0.016342326998710632,0.040262263268232346,positive,0.9270530939102173
+13,2019-03-01 08:33:00,"That's a double win for investors, and it helps to create a strong economic moat .",0.9271167516708374,0.017326226457953453,0.05555696785449982,positive,0.9097905158996582
+14,2019-03-01 08:33:00,"Veeva has been hugely successful in penetrating the life sciences industry, but management has bigger ambitions.",0.537696361541748,0.011031394824385643,0.45127224922180176,positive,0.5266649723052979
+15,2019-03-01 08:33:00,It firmly believes that Veeva's product lines can find uses in other industries as well.,0.7328033447265625,0.009866185486316681,0.2573305070400238,positive,0.7229371666908264
+16,2019-03-01 08:33:00,Veeva created a new business segment called Vault QualityOne that is designed to attract companies outside its core market.,0.33829689025878906,0.006937082391232252,0.6547660827636719,neutral,0.3313598036766052
+17,2019-03-01 08:33:00,The company is placing an initial emphasis on industries that are highly regulated and also have health and safety concerns.,0.09933162480592728,0.005176553502678871,0.8954917788505554,neutral,0.09415507316589355
+18,2019-03-01 08:33:00,"This means that chemical makers, consumer packaged goods (CPG) companies, and cosmetics companies are a natural hunting ground.",0.10484445840120316,0.006230185739696026,0.888925313949585,neutral,0.09861427545547485
+19,2019-03-01 08:33:00,"It is still the early days for Vault QualityOne, but the company has already had some success.",0.8438273072242737,0.015135519206523895,0.1410372257232666,positive,0.8286917805671692
+20,2019-03-01 08:33:00,Veeva has already signed deals with a handful of companies in the CPG and cosmetics space.,0.873630702495575,0.013028912246227264,0.11334037035703659,positive,0.8606017827987671
+21,2019-03-01 08:33:00,How big could the market be for Veeva's latest venture?,0.07308510690927505,0.015409758314490318,0.9115051031112671,neutral,0.05767534673213959
+22,2019-03-01 08:33:00,"Management put the number at $1 billion , but that estimate could prove extremely conservative.",0.03445080667734146,0.535432755947113,0.4301164150238037,negative,-0.5009819269180298
+23,2019-03-01 08:33:00,"Even if it is accurate, that's still a decent number for a company that is expected to produce about $850 million in total revenue for the year ahead.",0.7265147566795349,0.028626982122659683,0.2448582500219345,positive,0.6978877782821655
+24,2019-03-01 08:33:00,The beauty of the SaaS business model for investors is that operating leverage starts to kick in after a company has reached enough scale.,0.6152809858322144,0.012379314750432968,0.37233972549438477,positive,0.6029016971588135
+25,2019-03-01 08:33:00,That can lead to outsized growth in the bottom line.,0.02674725092947483,0.9454848170280457,0.027767911553382874,negative,-0.9187375903129578
+26,2019-03-01 08:33:00,A look back at Veeva's revenue and net income growth over the last few years clearly shows that operating leverage has already manifested itself .,0.8628589510917664,0.029733138158917427,0.10740791261196136,positive,0.8331258296966553
+27,2019-03-01 08:33:00,Veeva's balance sheet is also in top shape.,0.7874324321746826,0.013950220309197903,0.19861742854118347,positive,0.7734822034835815
+28,2019-03-01 08:33:00,The company ended 2018 with $1.1 billion in cash and $0 in long-term debt.,0.02132234536111355,0.01118167582899332,0.9674959778785706,neutral,0.010140669532120228
+29,2019-03-01 08:33:00,You can't ask for much more than that.,0.06257623434066772,0.02208661660552025,0.9153371453285217,neutral,0.040489617735147476
+30,2019-03-01 08:33:00,So what kind of growth can investors expect?,0.09290517121553421,0.009615388698875904,0.8974794149398804,neutral,0.08328977972269058
+31,2019-03-01 08:33:00,Wall Street is predicting that the bottom line will expand by 25% annually over the next five years.,0.9341813921928406,0.015453262254595757,0.050365347415208817,positive,0.9187281131744385
+32,2019-03-01 08:33:00,That's a number that I think will be conservative if Vault QualityOne is a smashing success.,0.4760647118091583,0.017453918233513832,0.5064813494682312,neutral,0.45861080288887024
+33,2019-03-01 08:33:00,The only knock that I have against Veeva is that Wall Street is pricing this business for substantial growth.,0.7448956966400146,0.015001283958554268,0.24010300636291504,positive,0.7298943996429443
+34,2019-03-01 08:33:00,Shares are currently trading for more than 66 times next year's earnings estimates and for nearly 20 times sales .,0.19463588297367096,0.007391541730612516,0.7979726195335388,neutral,0.18724434077739716
+35,2019-03-01 08:33:00,Those are nosebleed valuations for sure.,0.049830447882413864,0.03093014843761921,0.919239342212677,neutral,0.018900299444794655
+36,2019-03-01 08:33:00,"However, since Veeva is growing fast, has a strong competitive position, sports sparkling financial statements, and has numerous opportunities for growth, I think that this is a stock that stands an excellent chance of delivering market-beating returns from here.",0.8972464203834534,0.012534856796264648,0.09021876007318497,positive,0.8847115635871887
+37,2019-03-01 08:33:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+38,2019-03-01 08:33:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+39,2019-03-01 08:33:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.20886248350143433,0.015013301745057106,0.7761241793632507,neutral,0.19384917616844177
+40,2019-03-01 08:33:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+41,2019-03-01 08:33:00,Brian Feroldi has no position in any of the stocks mentioned.,0.009338288567960262,0.052028756588697433,0.9386329650878906,neutral,-0.0426904670894146
+42,2019-03-01 08:33:00,The Motley Fool owns shares of and recommends Veeva Systems.,0.034477271139621735,0.013045232743024826,0.9524774551391602,neutral,0.02143203839659691
+43,2019-03-01 08:33:00,The Motley Fool recommends Cerner.,0.07089276611804962,0.0261527206748724,0.9029545187950134,neutral,0.044740043580532074
+44,2019-03-01 08:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2019-03-01 08:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

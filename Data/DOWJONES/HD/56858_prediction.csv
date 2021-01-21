@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-17 06:11:00,"In early trading on Wednesday, shares of Home Depot topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.5%.",0.9362955689430237,0.03299626708030701,0.03070819564163685,positive,0.9032993316650391
+1,2020-06-17 06:11:00,"Year to date, Home Depot registers a 16.2% gain.",0.9466452598571777,0.021570401266217232,0.03178435564041138,positive,0.9250748753547668
+2,2020-06-17 06:11:00,"And the worst performing Dow component thus far on the day is Boeing, trading down 1.7%.",0.021298673003911972,0.96574866771698,0.012952652759850025,negative,-0.9444500207901001
+3,2020-06-17 06:11:00,Boeing is lower by about 40.3% looking at the year to date performance.,0.022154444828629494,0.9662522673606873,0.01159331202507019,negative,-0.9440978169441223
+4,2020-06-17 06:11:00,"Two other components making moves today are Exxon Mobil, trading down 1.1%, and McDonald's, trading up 1.1% on the day.",0.033619362860918045,0.929021418094635,0.037359289824962616,negative,-0.8954020738601685

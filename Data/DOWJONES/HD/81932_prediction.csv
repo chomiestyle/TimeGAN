@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-20 06:30:00,"For longtime Home Depot Inc. (NYSE: HD) investors, third-quarter 2018 was more of the same.",0.12508341670036316,0.01342559140175581,0.8614909648895264,neutral,0.11165782809257507
+1,2018-11-20 06:30:00,"Net sales rose to $26.3 billion, a 5.1% increase year over year, and diluted earnings per share (EPS) grew to $2.51, a 36.4% jump year over year, as reported by the company earlier this month.",0.9559424519538879,0.023481108248233795,0.02057647705078125,positive,0.9324613213539124
+2,2018-11-20 06:30:00,The strong top- and bottom-line growth was driven by a boost in comparable sales of 4.8%.,0.9563120603561401,0.01948249340057373,0.024205414578318596,positive,0.9368295669555664
+3,2018-11-20 06:30:00,"Shareholders are used to the giant home-improvement retailer realizing strong quarterly results, yet shares of Home Depot are now down about 7% year to date, trailing the S&P 500 index by about 10% over the same period.",0.018525898456573486,0.9680562019348145,0.01341787725687027,negative,-0.949530303478241
+4,2018-11-20 06:30:00,What gives?,0.08667390048503876,0.07993606477975845,0.8333901166915894,neutral,0.006737835705280304
+5,2018-11-20 06:30:00,It might be a classic case of Wall Street failing to see the forest for the trees: It's so worried about next quarter's sales and margins that it's failing to see the long-term growth story play out in plain sight.,0.03857473284006119,0.6567046642303467,0.30472061038017273,negative,-0.6181299090385437
+6,2018-11-20 06:30:00,"Questions taken from analysts during the third-quarter conference call centered on topics such as the housing cycle, tariffs, and hurricane-related costs and sales.",0.01731962338089943,0.04766993597149849,0.9350104331970215,neutral,-0.03035031259059906
+7,2018-11-20 06:30:00,"While those are all important, sometimes it helps to take a step back and focus on the bigger picture.",0.12032434344291687,0.046446774154901505,0.8332288265228271,neutral,0.07387757301330566
+8,2018-11-20 06:30:00,"With that in mind, let's review management's comments during the conference call and consider how the company will be positioned in five years.",0.08104763180017471,0.0057001616805791855,0.9132522344589233,neutral,0.07534746825695038
+9,2018-11-20 06:30:00,"Specifically, let's look at its efforts to grow e-commerce sales, invest in its logistics infrastructure, and improve the in-store experience for shoppers -- because I believe that Home Depot will offer the best and most robust omnichannel shopping experience in retail within five years.",0.9220954179763794,0.012752954848110676,0.06515159457921982,positive,0.9093424677848816
+10,2018-11-20 06:30:00,"Home Depot offers customers an interconnected shopping experience between the digital and physical realms, which it refers to as One Home Depot .",0.11778395622968674,0.005751792807132006,0.8764642477035522,neutral,0.11203216016292572
+11,2018-11-20 06:30:00,"In third-quarter 2018, online sales rose 28% over 2017's third-quarter totals -- heady growth, for sure.",0.9575236439704895,0.022164685651659966,0.020311648026108742,positive,0.9353589415550232
+12,2018-11-20 06:30:00,"Yet its ""Buy online, ship to store"" and ""Buy online, pick up in store"" categories grew even faster, indicating that the company was creating a successful integrated shopping experience.",0.9256631731987,0.01513447891920805,0.059202294796705246,positive,0.9105287194252014
+13,2018-11-20 06:30:00,It's also adding more merchandise to its online retail space that customers won't find taking up valuable floor space in stores.,0.6355790495872498,0.016269464045763016,0.3481515347957611,positive,0.6193096041679382
+14,2018-11-20 06:30:00,"This includes products in categories such as home decor, where the company made a key acquisition just last year to improve its offerings.",0.900200366973877,0.014524749480187893,0.08527488261461258,positive,0.8856756091117859
+15,2018-11-20 06:30:00,The virtual shopping experience also seems to be improving.,0.9367400407791138,0.016068197786808014,0.04719185456633568,positive,0.920671820640564
+16,2018-11-20 06:30:00,"Management credited the robust e-commerce growth to several factors, including improving its website's ""search efficacy"" and a more seamless online experience, both leading to higher sales conversion rates.",0.9470962882041931,0.01608768105506897,0.03681594505906105,positive,0.9310085773468018
+17,2018-11-20 06:30:00,"CEO Craig Menear concluded:
+
+A supply chain second to none
+
+Home Depot plans to spend $1.2 billon on improving its already-impressive supply chain infrastructure as part of a five-year plan that kicked off earlier this year.",0.921330451965332,0.014373241923749447,0.06429623067378998,positive,0.90695720911026
+18,2018-11-20 06:30:00,The company is motivated to stay on top of increasingly higher customer expectations for fast delivery options and satisfactory order fulfillments.,0.9430772662162781,0.016980620101094246,0.03994215279817581,positive,0.9260966181755066
+19,2018-11-20 06:30:00,"During the conference call, Menear said that Home Depot could reach about 95% of the U.S. population with 2-day delivery.",0.40734654664993286,0.008905700407922268,0.5837477445602417,neutral,0.3984408378601074
+20,2018-11-20 06:30:00,"At the end of its five-year investment time table, the company believes it will be able to reach 90% of the U.S. population with same- or next-day delivery service.",0.8767908811569214,0.012364956550300121,0.1108441948890686,positive,0.8644258975982666
+21,2018-11-20 06:30:00,"This capability will be combined with a longer tail of products available for such service, including big and bulky products frequently used in larger home-improvement projects.",0.3941086530685425,0.007742409128695726,0.5981489419937134,neutral,0.38636624813079834
+22,2018-11-20 06:30:00,"In the conference call, Menear said the first of these new fulfillment centers was now being piloted and lessons were being learned that would be applied to the future logistical buildout.",0.7601521611213684,0.011622919701039791,0.2282249629497528,positive,0.7485292553901672
+23,2018-11-20 06:30:00,"He also stated that the company has rolled out car and van delivery of store goods to 40% of the U.S. population, enabling same-day delivery for suitable items.",0.6444749236106873,0.009546068497002125,0.3459790050983429,positive,0.6349288821220398
+24,2018-11-20 06:30:00,"The company isn't ignoring its roots, though, and is continuing to find ways to leverage technological innovations to improve the experience for in-store customers, too.",0.8224229216575623,0.012332032434642315,0.16524499654769897,positive,0.8100908994674683
+25,2018-11-20 06:30:00,"Some of this is simple, like refreshing stores' looks and implementing new signage in stores, to help shoppers intuitively find what they are looking for.",0.1305849701166153,0.006984376348555088,0.8624306917190552,neutral,0.12360059469938278
+26,2018-11-20 06:30:00,"The company has now completed such projects in 700 store locations, ahead of the schedule it laid out for itself in late 2017.",0.588749885559082,0.011099440045654774,0.4001506567001343,positive,0.5776504278182983
+27,2018-11-20 06:30:00,Many of the discussed improvements involve freeing its sales associates from tedious tasks so they are more available to customers.,0.7182676792144775,0.01748049445450306,0.2642517685890198,positive,0.7007871866226196
+28,2018-11-20 06:30:00,"In the conference call, Menear described one such innovation:
+
+Home Depot continues to invest in whatever will make its customers most satisfied, a key characteristic to look for in any retailer.",0.38506650924682617,0.008510977029800415,0.606422483921051,neutral,0.37655553221702576
+29,2018-11-20 06:30:00,"In five years' time, as these heavy investments come to fruition, the home-improvement retailer will have a more seamless online experience where customers can easily find what they are looking for and be presented with the pickup and delivery options that work best for them.",0.7913396954536438,0.012318884953856468,0.1963413804769516,positive,0.7790207862854004
+30,2018-11-20 06:30:00,"When visiting the store, customers should find an improved sales floor layout and associates with more time to help the shopper.",0.7670968174934387,0.015900269150733948,0.21700291335582733,positive,0.751196563243866
+31,2018-11-20 06:30:00,Connecting the two should be a world-class delivery infrastructure that can reach the vast majority of the United States with next-day delivery options.,0.8164016604423523,0.014155760407447815,0.1694425344467163,positive,0.8022459149360657
+32,2018-11-20 06:30:00,This sounds like a winning combination for investors willing to be patient.,0.8394953608512878,0.023103654384613037,0.13740098476409912,positive,0.8163917064666748
+33,2018-11-20 06:30:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+34,2018-11-20 06:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+35,2018-11-20 06:30:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+36,2018-11-20 06:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+37,2018-11-20 06:30:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+38,2018-11-20 06:30:00,Matthew Cochrane owns shares of Home Depot.,0.01717401295900345,0.012066550552845001,0.9707594513893127,neutral,0.005107462406158447
+39,2018-11-20 06:30:00,The Motley Fool has the following options: short February 2019 $185 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013949581421911716,0.03693100064992905,0.9491194486618042,neutral,-0.022981420159339905
+40,2018-11-20 06:30:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+41,2018-11-20 06:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+42,2018-11-20 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-28 03:00:00,Microsoft Corporation (NASDAQ: MSFT ) has been floated as a potential bidder for Twitter Inc (NYSE: TWTR ) and anyone holding MSFT stock should hope that it doesn't happen.,0.128348708152771,0.029071496799588203,0.8425797820091248,neutral,0.09927721321582794
+1,2016-09-28 03:00:00,"First of all, Microsoft has to be very careful about the hype.",0.05932510644197464,0.017870819196105003,0.922804057598114,neutral,0.04145428538322449
+2,2016-09-28 03:00:00,"Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ), Salesforce.com, Inc. (NYSE: CRM ), Verizon Communications Inc. (NYSE: VZ ) and even Walt Disney Co (NYSE: DIS ) are said to be interested in the social media network.",0.03163951262831688,0.016010217368602753,0.9523503184318542,neutral,0.015629295259714127
+3,2016-09-28 03:00:00,It's difficult to see how TWTR is a good fit for any of these names.,0.04806515946984291,0.017610277980566025,0.9343245625495911,neutral,0.030454881489276886
+4,2016-09-28 03:00:00,Who knows if the rumors are true?,0.07760512828826904,0.12985850870609283,0.7925363183021545,neutral,-0.05225338041782379
+5,2016-09-28 03:00:00,The idea that Twitter could become the object in a bidding war is just what dealmakers would like everyone to think.,0.1160091832280159,0.05447903648018837,0.8295117616653442,neutral,0.06153014674782753
+6,2016-09-28 03:00:00,The market is licking its chops over this potential takeout.,0.22052447497844696,0.20548801124095917,0.5739874839782715,neutral,0.015036463737487793
+7,2016-09-28 03:00:00,"And indeed, it would represent a merciful exit for anyone who has been a long-term shareholder.",0.6929237246513367,0.0341305285692215,0.272945761680603,positive,0.6587932109832764
+8,2016-09-28 03:00:00,But the price was too high even before TWTR stock started rising on deal chatter.,0.24217598140239716,0.5338693857192993,0.22395464777946472,negative,-0.29169338941574097
+9,2016-09-28 03:00:00,"Twitter's market capitalization is up to $20 billion, even as it has a declining business.",0.6248294711112976,0.014639529399573803,0.3605310618877411,positive,0.6101899147033691
+10,2016-09-28 03:00:00,"User growth is stagnant, which is death to a social media network.",0.0188894160091877,0.9023422002792358,0.07876842468976974,negative,-0.8834527730941772
+11,2016-09-28 03:00:00,There's a reason why Twitter stock has lost so much value since it went public.,0.027045046910643578,0.8877791166305542,0.08517588675022125,negative,-0.8607340455055237
+12,2016-09-28 03:00:00,It was overpriced to begin with.,0.0680931955575943,0.1595648229122162,0.7723419666290283,neutral,-0.09147162735462189
+13,2016-09-28 03:00:00,Anyone who offers a premium to TWTR's share price just because it has had a good month is a fool.,0.1783197969198227,0.2904503345489502,0.5312298536300659,neutral,-0.1121305376291275
+14,2016-09-28 03:00:00,But that's probably what's going to be necessary to sew Twitter up.,0.06939313560724258,0.0481627881526947,0.8824440836906433,neutral,0.021230347454547882
+15,2016-09-28 03:00:00,That would make it impossible for MSFT not to overpay.,0.03282373398542404,0.1793901026248932,0.7877861261367798,neutral,-0.14656636118888855
+16,2016-09-28 03:00:00,"• 8 International Stocks Priced to Beat the U.S.
+
+More specifically for Microsoft, it already has a major acquisition in the works.",0.868061363697052,0.04079996421933174,0.09113870561122894,positive,0.8272613883018494
+17,2016-09-28 03:00:00,It struck a $26 billion deal for LinkedIn Corp (NYSE: LNKD ) last summer.,0.7991272211074829,0.012663837522268295,0.18820887804031372,positive,0.7864633798599243
+18,2016-09-28 03:00:00,The argument that LNKD's analytics make sense in the context of Microsoft Office 365 makes sense.,0.1318766474723816,0.011096694506704807,0.8570266962051392,neutral,0.12077995389699936
+19,2016-09-28 03:00:00,"But it still needs to execute, and a distraction like TWTR would greatly increase the odds of MSFT stock screwing up.",0.8624935746192932,0.0480215810239315,0.08948485553264618,positive,0.8144720196723938
+20,2016-09-28 03:00:00,It's also not clear why Microsoft would even want Twitter.,0.030549250543117523,0.3212236762046814,0.6482270956039429,neutral,-0.2906744182109833
+21,2016-09-28 03:00:00,How does it fit in with existing lines of business?,0.10694804787635803,0.006630746182054281,0.8864212036132812,neutral,0.10031729936599731
+22,2016-09-28 03:00:00,"If it wants TWTR for messaging in Office 365, it would probably be better off buying Slack.",0.04022645205259323,0.07256989926099777,0.8872036337852478,neutral,-0.03234344720840454
+23,2016-09-28 03:00:00,"And if MSFT it wants Twitter because it thinks it can get user growth moving again, good luck with that.",0.6369433999061584,0.015723606571555138,0.34733304381370544,positive,0.6212198138237
+24,2016-09-28 03:00:00,"To its credit, TWTR has been creative in addressing its lack-of-growth problem.",0.8933565020561218,0.015982013195753098,0.09066147357225418,positive,0.8773744702339172
+25,2016-09-28 03:00:00,"The deal with the NFL certainly hasn't been bad for the brand, but it has hardly been a savior.",0.26667359471321106,0.25829631090164185,0.4750300645828247,neutral,0.008377283811569214
+26,2016-09-28 03:00:00,"If anything, it has so far been a dud.",0.03886692598462105,0.8381409049034119,0.12299217283725739,negative,-0.7992739677429199
+27,2016-09-28 03:00:00,Microsoft would need to top that idea - as well as Twitter's other content plays - and it's not a content company.,0.050521306693553925,0.018360823392868042,0.9311178922653198,neutral,0.03216048330068588
+28,2016-09-28 03:00:00,Why would Microsoft succeed where TWTR - and the NFL - failed?,0.061751559376716614,0.07951830327510834,0.8587300777435303,neutral,-0.017766743898391724
+29,2016-09-28 03:00:00,"Finally, the biggest knock against Twitter is that it has proven to be more niche than anyone thought.",0.7765671014785767,0.026285463944077492,0.1971474438905716,positive,0.7502816319465637
+30,2016-09-28 03:00:00,"It's stuck at about 300 million active users, but it needs six times that number to be mentioned in the same breath as Facebook Inc (NASDAQ: FB ).",0.04983096197247505,0.06305447965860367,0.8871145248413086,neutral,-0.013223517686128616
+31,2016-09-28 03:00:00,"• 3 3D Printing Stocks That Could Get a Buyout Blast
+
+That's not going to happen.",0.03062545880675316,0.03470555692911148,0.9346689581871033,neutral,-0.004080098122358322
+32,2016-09-28 03:00:00,TWTR has topped out because the real story is that younger millennials don't care about Twitter.,0.13113389909267426,0.10639586299657822,0.7624703049659729,neutral,0.02473803609609604
+33,2016-09-28 03:00:00,"They have Snapchat, Instagram and Kik.",0.020827626809477806,0.008136853575706482,0.9710355401039124,neutral,0.012690773233771324
+34,2016-09-28 03:00:00,Mention TWTR to a kid and you're likely to get a smirk.,0.13968491554260254,0.17552310228347778,0.6847920417785645,neutral,-0.035838186740875244
+35,2016-09-28 03:00:00,They lump it in with Facebook.,0.03749595582485199,0.034232668578624725,0.9282713532447815,neutral,0.0032632872462272644
+36,2016-09-28 03:00:00,"It's for ""old people.""",0.03249112144112587,0.010750802233815193,0.9567580819129944,neutral,0.021740319207310677
+37,2016-09-28 03:00:00,MSFT is not going to revive Twitter.,0.020613450556993484,0.19006508588790894,0.7893214225769043,neutral,-0.16945163905620575
+38,2016-09-28 03:00:00,The brand is what it is.,0.0561901293694973,0.005817178636789322,0.9379926323890686,neutral,0.05037295073270798
+39,2016-09-28 03:00:00,"Maybe it can scoop out some synergies, but it's more likely that it will have to pour investment into the business.",0.5256704092025757,0.013446175493299961,0.4608834385871887,positive,0.5122242569923401
+40,2016-09-28 03:00:00,Microsoft got lucky a decade ago when Yahoo!,0.3610360324382782,0.054244209080934525,0.584719717502594,neutral,0.3067918121814728
+41,2016-09-28 03:00:00,Inc. (NASDAQ: YHOO ) escaped its grasp.,0.09068583697080612,0.38355234265327454,0.5257617831230164,neutral,-0.2928664982318878
+42,2016-09-28 03:00:00,The best thing for MSFT stock would be for TWTR to get away too.,0.0497729554772377,0.4095354378223419,0.540691614151001,neutral,-0.3597624897956848
+43,2016-09-28 03:00:00,"As of this writing, Dan Burrows did not hold a position in any of the aforementioned securities.",0.00896507129073143,0.023366115987300873,0.9676688313484192,neutral,-0.014401044696569443
+44,2016-09-28 03:00:00,"• The Top 10 S&P 500 Dividend Stocks to Buy Now
+• 7 Energy Stocks You Need to Dump Right Now
+
+The post Microsoft Corporation (MSFT) Should Avoid Twitter Like the Plague appeared first on InvestorPlace .",0.05747270584106445,0.1898103803396225,0.7527169585227966,neutral,-0.13233767449855804
+45,2016-09-28 03:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

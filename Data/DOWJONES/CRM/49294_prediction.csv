@@ -1,0 +1,75 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-02 08:12:00,Artificial intelligence (AI) is a hot topic nowadays.,0.0563199445605278,0.020630130544304848,0.9230499863624573,neutral,0.0356898158788681
+1,2017-04-02 08:12:00,Computer chips and clever programming can accelerate and improve an ever-growing numbers of tasks normally reserved for the intuitive thinking skills of human beings.,0.6835648417472839,0.01880800351500511,0.29762712121009827,positive,0.6647568345069885
+2,2017-04-02 08:12:00,The number of ways to invest in this unstoppable trend is also large and growing.,0.5485868453979492,0.011273335665464401,0.44013985991477966,positive,0.5373135209083557
+3,2017-04-02 08:12:00,"Any technology specialist worth its salt is at least investigating the artificial intelligence space right now, either as a product for their clients or as back-end tools for their own use.",0.06720292568206787,0.011086735874414444,0.9217103719711304,neutral,0.05611618980765343
+4,2017-04-02 08:12:00,"Therefore, what follows is not an attempt to cover the entire universe of artificial intelligence stocks but just a handful of the most investable names in that market today.",0.03125758841633797,0.006688766647130251,0.9620537161827087,neutral,0.024568822234869003
+5,2017-04-02 08:12:00,"On that note, I'll take a look at Samsung (NASDAQOTH: SSNLF) , salesforce.com (NYSE: CRM) , and IBM (NYSE: IBM) through the lens of artificial intelligence.",0.0395440012216568,0.006593112368136644,0.9538629055023193,neutral,0.03295088931918144
+6,2017-04-02 08:12:00,"Everything is relative in sales and marketing
+
+You know Salesforce as a maker of cloud-based tools for management of customer relationships.",0.02695363387465477,0.006628920789808035,0.9664174914360046,neutral,0.020324712619185448
+7,2017-04-02 08:12:00,"Most of the time, this business amounts to automating or at least streamlining repetitive tasks in the process of finding customers and closing sales.",0.014363028109073639,0.011531032621860504,0.974105954170227,neutral,0.0028319954872131348
+8,2017-04-02 08:12:00,The company's innovative approach to a set of traditional business problems has rewarded investors with a market-crushing 660% return over the last decade.,0.937929630279541,0.015431154519319534,0.04663928598165512,positive,0.9224984645843506
+9,2017-04-02 08:12:00,"Now, the cloud computing veteran is taking the next logical step by building an artificial intelligence platform to analyze customer data.",0.24531999230384827,0.007154875434935093,0.7475250959396362,neutral,0.23816511034965515
+10,2017-04-02 08:12:00,"Salesforce Einstein was built out of several small acquisitions, bringing together their specialized tools under one unified umbrella.",0.34416472911834717,0.008234400302171707,0.6476008296012878,neutral,0.33593031764030457
+11,2017-04-02 08:12:00,"So Einstein takes the sales and marketing process, bakes in elements of machine learning, natural language processing, data analytics, relationship intelligence, and much more as a user-friendly all-in-one data management helper.",0.1337878257036209,0.006820514798164368,0.8593916893005371,neutral,0.12696731090545654
+12,2017-04-02 08:12:00,The platform was introduced last fall and rolled out to customers earlier this month.,0.18017682433128357,0.006854706443846226,0.8129684925079346,neutral,0.17332211136817932
+13,2017-04-02 08:12:00,"These are early days for Salesforce's artificial intelligence ambitions, but Einstein is designed to learn from experience and get better over time.",0.4071708023548126,0.01766568422317505,0.5751634836196899,neutral,0.3895051181316376
+14,2017-04-02 08:12:00,"The more data Einstein gets to process, the more sophisticated its results will become.",0.20967641472816467,0.00869493093341589,0.7816286087036133,neutral,0.2009814828634262
+15,2017-04-02 08:12:00,And so will Salesforce's overall efforts in this emerging market.,0.7755634784698486,0.01054337713867426,0.21389314532279968,positive,0.7650200724601746
+16,2017-04-02 08:12:00,"If you're not buying in right now, make sure to at least keep an eye on Salesforce Einstein as the platform matures.",0.046699635684490204,0.007474557962268591,0.9458257555961609,neutral,0.039225079119205475
+17,2017-04-02 08:12:00,Big Blue is a veteran in the artificial intelligence market.,0.19798435270786285,0.008307501673698425,0.7937081456184387,neutral,0.18967685103416443
+18,2017-04-02 08:12:00,"Way back in 1996, the company built a chess-playing supercomputer capable of challenging world champion Garry Kasparov.",0.21369464695453644,0.012605400756001472,0.773699939250946,neutral,0.20108924806118011
+19,2017-04-02 08:12:00,Kasparov won that first match but Deep Blue collected two draws and one outright win along the way.,0.4641098380088806,0.19436140358448029,0.3415287435054779,positive,0.2697484493255615
+20,2017-04-02 08:12:00,"The next year, Kasparov lost the rematch against an upgraded Deep Blue.",0.35826337337493896,0.19722402095794678,0.44451263546943665,neutral,0.1610393524169922
+21,2017-04-02 08:12:00,"Thus began a new era in the contest between man and machine, with IBM carrying the robotic banner.",0.46959051489830017,0.017445744946599007,0.5129637718200684,neutral,0.4521447718143463
+22,2017-04-02 08:12:00,"Kasparov moved on to promote computer-assisted chess, conceding that he -- the best human chess player -- no longer could challenge the best computer systems.",0.4215707778930664,0.054213427007198334,0.524215817451477,neutral,0.3673573434352875
+23,2017-04-02 08:12:00,"And computers have only improved since then, giving humans no chance to keep up.",0.24535512924194336,0.19042295217514038,0.5642219185829163,neutral,0.05493217706680298
+24,2017-04-02 08:12:00,"""Today you can buy a chess engine for your laptop that will beat Deep Blue quite easily,"" Kasparov said in a podcast interview with ChessBase last year.",0.5710358023643494,0.012273005209863186,0.41669121384620667,positive,0.558762788772583
+25,2017-04-02 08:12:00,"Encouraged by this early success, IBM dug deeper into artificial intelligence with qualities of human-like intuition.",0.6217968463897705,0.013095873408019543,0.36510729789733887,positive,0.6087009906768799
+26,2017-04-02 08:12:00,"In 2011, the IBM Watson system beat Jeopardy!",0.6408515572547913,0.07416952401399612,0.2849788963794708,positive,0.5666820406913757
+27,2017-04-02 08:12:00,champions Ken Jennings and Brad Rutter at their own game.,0.15846866369247437,0.08994711190462112,0.7515842914581299,neutral,0.06852155178785324
+28,2017-04-02 08:12:00,"That system was powered by analysis of 200 million documents, including the then-current full text of Wikipedia.",0.07880700379610062,0.00989670678973198,0.9112962484359741,neutral,0.06891030073165894
+29,2017-04-02 08:12:00,"Now, the Watson system has become the linchpin of IBM's overall strategy.",0.27749794721603394,0.008355408906936646,0.7141466736793518,neutral,0.2691425383090973
+30,2017-04-02 08:12:00,The company recently reorganized to create a reportable business segment focused on Watson's cognitive computing.,0.3555539548397064,0.007949359714984894,0.6364967226982117,neutral,0.3476046025753021
+31,2017-04-02 08:12:00,That segment already accounts for more than 40% of Big Blue's annual sales and more than half of its operating profits.,0.1219339594244957,0.0071790264919400215,0.8708869814872742,neutral,0.11475493013858795
+32,2017-04-02 08:12:00,Watson is promoted as a catch-all platform for data analysis and human-to-machine interaction.,0.49807092547416687,0.010297954082489014,0.4916311800479889,positive,0.48777297139167786
+33,2017-04-02 08:12:00,"The system ""can understand all forms of data, interact naturally with people, and learn and reason, at scale,"" according to IBM's marketing materials.",0.0913926512002945,0.005625732708722353,0.9029816389083862,neutral,0.08576691895723343
+34,2017-04-02 08:12:00,If a few hundred million documents were enough to beat Ken Jennings at Jeopardy!,0.1863323450088501,0.12793287634849548,0.6857348680496216,neutral,0.058399468660354614
+35,2017-04-02 08:12:00,"six years ago, the system has evolved much further -- with hand-curated access to the entire internet and tons of private training data along the way.",0.4631574749946594,0.01100508589297533,0.5258374214172363,neutral,0.45215240120887756
+36,2017-04-02 08:12:00,"If I had to pick an artificial intelligence tool to assist in a life-or-death situation, Watson would be it.",0.07558053731918335,0.06314067542552948,0.861278772354126,neutral,0.01243986189365387
+37,2017-04-02 08:12:00,And IBM is already making big money from that market-defining advantage.,0.7967903017997742,0.012915617786347866,0.1902940273284912,positive,0.7838746905326843
+38,2017-04-02 08:12:00,The best is yet to come.,0.23112733662128448,0.019146176055073738,0.7497264742851257,neutral,0.2119811624288559
+39,2017-04-02 08:12:00,"Bixby, help me sell this Galaxy S8 phone
+
+Finally, the most obviously consumer-facing pick on this list comes from South Korea.",0.10843191295862198,0.017631812021136284,0.8739362359046936,neutral,0.09080009907484055
+40,2017-04-02 08:12:00,"No, you probably don't think of Samsung as an authority on artificial intelligence -- yet.",0.03816676884889603,0.02567535638809204,0.9361578226089478,neutral,0.012491412460803986
+41,2017-04-02 08:12:00,"That's about to change, if the Koreans have their way.",0.1348649263381958,0.027455108240246773,0.8376799821853638,neutral,0.10740981996059418
+42,2017-04-02 08:12:00,"The Galaxy S8 smartphone flagship is hot off the presses, and comes with Samsung's first try at an AI-powered digital assistant.",0.4139973521232605,0.040483031421899796,0.5455196499824524,neutral,0.373514324426651
+43,2017-04-02 08:12:00,"The Bixby tool was built around technology from Viv, a $214 million acquisition in October of 2016 that brought in talent originally associated with Apple 's Siri assistant.",0.37469539046287537,0.01009457278996706,0.6152100563049316,neutral,0.36460080742836
+44,2017-04-02 08:12:00,"Like Watson and Einstein, Bixby knows how to communicate with humans using natural language instead of hand-picked key words.",0.06330282241106033,0.030051270499825478,0.9066458940505981,neutral,0.033251553773880005
+45,2017-04-02 08:12:00,"Samsung hopes to get its users accustomed to controlling their phones largely by voice, making on-screen keyboards irrelevant in the long run.",0.17992959916591644,0.04247958958148956,0.777590811252594,neutral,0.13745000958442688
+46,2017-04-02 08:12:00,Bixby has the artificial intelligence savvy that's needed to start moving in that direction.,0.2962085008621216,0.010261609219014645,0.6935299038887024,neutral,0.28594690561294556
+47,2017-04-02 08:12:00,"Where existing digital assistants in the Siri mold tend to create a voice-driven bridge between the user and various online services, Bixby prefers to interface with the handset's internal operation.",0.048765286803245544,0.00856712181121111,0.942667543888092,neutral,0.04019816592335701
+48,2017-04-02 08:12:00,"""Anything you can do with touch, you can do with voice,"" is the Samsung mantra here.",0.06407862901687622,0.010135957971215248,0.9257853627204895,neutral,0.05394267290830612
+49,2017-04-02 08:12:00,"The camera is also tightly integrated into Bixby, reaching for that elusive experience of augmented reality through your Samsung phone.",0.22189827263355255,0.010256764478981495,0.7678449749946594,neutral,0.21164150536060333
+50,2017-04-02 08:12:00,"Bixby is a major talking point for the Galaxy S8, and Samsung hopes to make it a major selling point as well.",0.7619803547859192,0.014834010042250156,0.22318562865257263,positive,0.7471463680267334
+51,2017-04-02 08:12:00,"The system may need to earn its wings by trial and error in real-world usage, but Samsung has the resources and motivation to make it work in the long run.",0.7551199197769165,0.012264345772564411,0.23261581361293793,positive,0.7428555488586426
+52,2017-04-02 08:12:00,Samsung's Galaxy S phones have come a long way since a fairly low-key start in 2009.,0.5829166769981384,0.012397180311381817,0.4046860933303833,positive,0.5705195069313049
+53,2017-04-02 08:12:00,"Expect Bixby to follow a similar trajectory, until it starts showing up in Samsung's TV sets and refrigerators.",0.22220827639102936,0.007269969675689936,0.7705217599868774,neutral,0.21493831276893616
+54,2017-04-02 08:12:00,This is till the very early going of the whole artificial intelligence race.,0.0557975247502327,0.0268611591309309,0.9173412919044495,neutral,0.028936365619301796
+55,2017-04-02 08:12:00,"10 stocks we like better than IBM
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.16112864017486572,0.025847015902400017,0.8130243420600891,neutral,0.13528162240982056
+56,2017-04-02 08:12:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+57,2017-04-02 08:12:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and IBM wasn't one of them!",0.2156846523284912,0.01319566648453474,0.7711196541786194,neutral,0.2024889886379242
+58,2017-04-02 08:12:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+59,2017-04-02 08:12:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+60,2017-04-02 08:12:00,Anders Bylund owns shares of IBM.,0.020169846713542938,0.012640535831451416,0.9671896696090698,neutral,0.007529310882091522
+61,2017-04-02 08:12:00,The Motley Fool owns shares of and recommends AAPL.,0.05669080838561058,0.012210875749588013,0.9310982823371887,neutral,0.04447993263602257
+62,2017-04-02 08:12:00,The Motley Fool has the following options: long January 2018 $90 calls on AAPL and short January 2018 $95 calls on AAPL.,0.01528744213283062,0.013830190524458885,0.9708823561668396,neutral,0.0014572516083717346
+63,2017-04-02 08:12:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+64,2017-04-02 08:12:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+65,2017-04-02 08:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

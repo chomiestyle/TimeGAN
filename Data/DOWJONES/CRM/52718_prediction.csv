@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-25 07:42:00,"In early trading on Monday, shares of Gilead Sciences ( GILD ) topped the list of the day's best performing components of the S&P 500 index, trading up 2.6%.",0.9438096880912781,0.027764230966567993,0.028426146134734154,positive,0.9160454273223877
+1,2014-08-25 07:42:00,"Year to date, Gilead Sciences registers a 42.0% gain.",0.941591739654541,0.015979580581188202,0.04242861270904541,positive,0.9256121516227722
+2,2014-08-25 07:42:00,"And the worst performing S&P 500 component thus far on the day is Constellation Brands ( STZ ), trading down 1.5%.",0.020807571709156036,0.9655660390853882,0.013626379892230034,negative,-0.9447584748268127
+3,2014-08-25 07:42:00,Constellation Brands is showing a gain of 22.1% looking at the year to date performance.,0.9558553099632263,0.019245317205786705,0.024899419397115707,positive,0.9366099834442139
+4,2014-08-25 07:42:00,"Two other components making moves today are Salesforce.com ( CRM ), trading down 1.2%, and Morgan Stanley ( MS ), trading up 2.2% on the day.",0.022073982283473015,0.9537659287452698,0.024160142987966537,negative,-0.9316919445991516
+5,2014-08-25 07:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

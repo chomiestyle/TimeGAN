@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-03 08:49:00,"In early trading on Friday, shares of Caterpillar topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.9353865385055542,0.03456854447722435,0.030044974759221077,positive,0.9008179903030396
+1,2017-03-03 08:49:00,"Year to date, Caterpillar registers a 2.7% gain.",0.9399645924568176,0.02117971144616604,0.038855671882629395,positive,0.9187848567962646
+2,2017-03-03 08:49:00,"And the worst performing Dow component thus far on the day is Nike, trading down 1.2%.",0.021200180053710938,0.9652842879295349,0.013515510596334934,negative,-0.944084107875824
+3,2017-03-03 08:49:00,Nike is showing a gain of 12.3% looking at the year to date performance.,0.9552785754203796,0.019670933485031128,0.025050435215234756,positive,0.9356076717376709
+4,2017-03-03 08:49:00,"Two other components making moves today are Procter & Gamble, trading down 0.5%, and Goldman Sachs Group, trading up 0.6% on the day.",0.039702221751213074,0.8879494667053223,0.07234825193881989,negative,-0.848247230052948
+5,2017-03-03 08:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

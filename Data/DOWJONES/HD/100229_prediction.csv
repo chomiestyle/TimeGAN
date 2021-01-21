@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-06-21 06:24:00,Home improvement retailer Lowe's ( LOW ) has bid $205 million in cash to acquire 60 of Orchard Supply Hardware's ( OSH ) 91 stores.,0.518013596534729,0.010459736920893192,0.4715266525745392,positive,0.5075538754463196
+1,2013-06-21 06:24:00,"The latter filed for Chapter 11 bankruptcy protection after being weighed down by years of declining sales, an overcrowded California market and massive debt which it inherited from its parent company Sears Holding Corporation.",0.020878221839666367,0.9469890594482422,0.032132700085639954,negative,-0.9261108636856079
+2,2013-06-21 06:24:00,"In addition to giving the cash amount, Lowe's will also assume responsibility for the payables owed to Orchard's suppliers.",0.018615175038576126,0.01099097914993763,0.9703937768936157,neutral,0.007624195888638496
+3,2013-06-21 06:24:00,"The bid looks like a smart move by Lowe's to counter competition from Home Depot, the nation's biggest home improvement retailer, in the lucrative California real estate market.",0.937363862991333,0.021135617047548294,0.04150053858757019,positive,0.9162282347679138
+4,2013-06-21 06:24:00,Home Depot has more than twice the number of stores as Lowe's in California and they are located strategically giving the company better access to consumers.,0.826806366443634,0.016033701598644257,0.15715987980365753,positive,0.8107726573944092
+5,2013-06-21 06:24:00,"Lowe's acquisition has yet to go through, and for now it is merely a stalking-horse bidder.",0.0187604408711195,0.030587049201130867,0.9506524801254272,neutral,-0.011826608330011368
+6,2013-06-21 06:24:00,This means that Lowe's offer price will serve as the minimum offer but can still be topped by other bidders.,0.3090355694293976,0.011398172937333584,0.6795662641525269,neutral,0.297637403011322
+7,2013-06-21 06:24:00,"However, according to the terms of the agreement, competing bids should come in at a minimum increment of $12 million to Lowe's offer.",0.3103412985801697,0.009944046847522259,0.6797146797180176,neutral,0.30039724707603455
+8,2013-06-21 06:24:00,"See our complete analysis of Lowe's here
+
+The housing market in the U.S. is on a rebound.",0.8997424244880676,0.028362728655338287,0.07189492136240005,positive,0.8713796734809875
+9,2013-06-21 06:24:00,This is due to positive consumer sentiment as well as mortgage rates at near record lows.,0.7836129069328308,0.02668190933763981,0.18970517814159393,positive,0.7569310069084167
+10,2013-06-21 06:24:00,"According to the latest data available from the National Association of Home Builders, the sales of new homes have been surging every month and reached 454,000 in April.",0.6009400486946106,0.044691067188978195,0.3543688952922821,positive,0.5562489628791809
+11,2013-06-21 06:24:00,The sales of existing homes continue to be strong as well.,0.8865302205085754,0.016949638724327087,0.09652020037174225,positive,0.8695805668830872
+12,2013-06-21 06:24:00,"Also, according to research firm IBISWorld, the $164.4 billion housing market is expected to rise by an average of 3.1% annually in the next five years.",0.9240413308143616,0.015267197974026203,0.06069144606590271,positive,0.9087741374969482
+13,2013-06-21 06:24:00,"The California market is booming in particular, especially because of its enormous population.",0.8303183913230896,0.017345454543828964,0.15233613550662994,positive,0.8129729628562927
+14,2013-06-21 06:24:00,"Here, Lowe's has only 110 stores out of its total 1,750 North American stores while rival retailer Home Depot has 233.",0.01754756271839142,0.4793027937412262,0.5031496286392212,neutral,-0.4617552161216736
+15,2013-06-21 06:24:00,Home Depot enjoys a further advantage in being located in areas with high population density.,0.7614351511001587,0.012373900972306728,0.22619089484214783,positive,0.7490612268447876
+16,2013-06-21 06:24:00,"OSH is also present in high-density, prime locations in California and has 89 of its 91 stores located in this state alone.",0.08179140836000443,0.00528697157278657,0.9129215478897095,neutral,0.07650443911552429
+17,2013-06-21 06:24:00,"In one fell swoop, Lowe's can get access to OSH's prime real estate properties without having to spend the time and a huge amount to build a presence on its own.",0.8289334774017334,0.013741834089159966,0.1573246270418167,positive,0.8151916265487671
+18,2013-06-21 06:24:00,"In the first quarter this year, Lowe's reported net earnings of $540 million, a y-o-y increase of 2.5%.",0.9526485800743103,0.016942452639341354,0.03040892258286476,positive,0.9357061386108398
+19,2013-06-21 06:24:00,Sales for the quarter fell 0.5% to $13.1 billion.,0.01816207729279995,0.9735162854194641,0.008321682922542095,negative,-0.9553542137145996
+20,2013-06-21 06:24:00,"In comparison, Home Depot's earnings for the quarter stood at $1.2 billion compared to $1 billion million in Q1 2012, an increase of nearly 18.5%.",0.8495730757713318,0.12851935625076294,0.021907588467001915,positive,0.7210537195205688
+21,2013-06-21 06:24:00,"Also, its net sales for the quarter stood at $19.1 billion, an increase of about 7.4% over Q1 2012.",0.951255738735199,0.018040165305137634,0.030704114586114883,positive,0.9332155585289001
+22,2013-06-21 06:24:00,"Furthermore, Lowe's reported a same-store sales dip of 0.7% in the first quarter after a rise of 1.9% in the previous quarter compared with the 4.3% and 7% boosts recorded by Home Depot.",0.051739029586315155,0.9400910139083862,0.008169992826879025,negative,-0.8883519768714905
+23,2013-06-21 06:24:00,"Clearly, Lowe's has failed to take maximum advantage of the economic recovery currently underway, and one of the factors for it is Home Depot's strong performance in the California market.",0.13296829164028168,0.7690576910972595,0.0979740098118782,negative,-0.6360893845558167
+24,2013-06-21 06:24:00,What Happens Now?,0.061015646904706955,0.06959246844053268,0.869391918182373,neutral,-0.00857682153582573
+25,2013-06-21 06:24:00,"Under the terms agreed, OSH can receive rival bids of $217 million or more by August 9.",0.5877840518951416,0.011408921331167221,0.4008070230484009,positive,0.5763751268386841
+26,2013-06-21 06:24:00,"In case such bids are received, the offers at auction would have to increase by a minimum of $2 million in each round.",0.33920904994010925,0.009541049599647522,0.651249885559082,neutral,0.32966798543930054
+27,2013-06-21 06:24:00,A sale hearing will be conducted on August 20.,0.013116801157593727,0.008777163922786713,0.9781060218811035,neutral,0.0043396372348070145
+28,2013-06-21 06:24:00,"If Lowe's eventually loses the auction, it will be entitled to receive up to $850,000 as reimbursement for expenses and $6.15 million as break-up fee.",0.10327789187431335,0.029007142409682274,0.8677149415016174,neutral,0.07427074760198593
+29,2013-06-21 06:24:00,This represents 3% of its bid amount of $205 million.,0.09159498661756516,0.007445392198860645,0.9009596109390259,neutral,0.08414959162473679
+30,2013-06-21 06:24:00,Analysts don't expect much interest from rivals given OSH's long-running problems and struggles.,0.0628589540719986,0.5478771924972534,0.3892638683319092,negative,-0.485018253326416
+31,2013-06-21 06:24:00,"Even Home Depot is expected to stay away from making a competing offer, because it indicated last week that the focus right now is on improving the productivity of its current stores rather than acquiring or adding new store formats.",0.37164372205734253,0.26615867018699646,0.3621976375579834,positive,0.10548505187034607
+32,2013-06-21 06:24:00,"The Way Forward If Lowe's Wins
+
+OSH's stores will be allowed to retain its brand name, management team and employees and will operate as a standalone business.",0.039901748299598694,0.00734089408069849,0.9527572989463806,neutral,0.03256085515022278
+33,2013-06-21 06:24:00,Lowe's management thinks that OSH's business has the potential to grow and high debt is the only major factor inhibiting its viability.,0.08619927614927292,0.7983953356742859,0.11540538817644119,negative,-0.7121960520744324
+34,2013-06-21 06:24:00,The OSH stores are known for providing an intimate feel to consumers so Lowe's is probably keen to avoid tinkering too much with their operations.,0.054825179278850555,0.02648976258933544,0.9186850786209106,neutral,0.028335416689515114
+35,2013-06-21 06:24:00,We have a $39 Trefis price estimate for Lowe's stock .,0.015897948294878006,0.011504712514579296,0.9725973010063171,neutral,0.00439323578029871
+36,2013-06-21 06:24:00,"Understand How a Company's Products Impact its Stock Price at Trefis
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01034488994628191,0.015374138019979,0.9742810130119324,neutral,-0.00502924807369709

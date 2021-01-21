@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-15 22:24:00,Dividend-paying stalwarts provide the foundation of many retirement portfolios.,0.06067625805735588,0.0066746920347213745,0.9326490163803101,neutral,0.054001566022634506
+1,2017-03-15 22:24:00,Foremost among those stocks are consumer goods conglomerate Procter & Gamble (NYSE: PG) and parent of Marlboro cigarettes Altria (NYSE: MO) .,0.06410177797079086,0.016817977651953697,0.9190802574157715,neutral,0.04728379845619202
+2,2017-03-15 22:24:00,"Both stocks offer dividend yields over 3%, which is very tempting in today's environment.",0.5030731558799744,0.02788371592760086,0.46904313564300537,positive,0.4751894474029541
+3,2017-03-15 22:24:00,But which company is the better stock to buy today?,0.12771421670913696,0.03905734792351723,0.8332284092903137,neutral,0.08865687251091003
+4,2017-03-15 22:24:00,There's no sure-fire way to answer that question.,0.07783094793558121,0.1024981141090393,0.8196709752082825,neutral,-0.0246671661734581
+5,2017-03-15 22:24:00,I like to approach it from three different perspectives to get a better idea of what I'm paying for.,0.06208478659391403,0.007124380208551884,0.9307908415794373,neutral,0.05496040731668472
+6,2017-03-15 22:24:00,Here's how P&G stacks up against Altria through those lenses.,0.08977263420820236,0.012522113509476185,0.8977051973342896,neutral,0.07725051790475845
+7,2017-03-15 22:24:00,There's nothing more important for long-term investors to spend time researching than a company's sustainable competitive advantage.,0.3032849133014679,0.009295491501688957,0.687419593334198,neutral,0.2939894199371338
+8,2017-03-15 22:24:00,"Often referred to as a ""moat"" in investing circles, this is what sets a company apart -- the thing that keeps customers coming back week after week, and competition at bay for year after year.",0.08901966363191605,0.11376697570085526,0.7972133159637451,neutral,-0.02474731206893921
+9,2017-03-15 22:24:00,P&G's moat is provided by the fact that the company owns some of the most popular brands showing up in bathrooms throughout the world.,0.34535422921180725,0.009783134795725346,0.6448626518249512,neutral,0.3355710804462433
+10,2017-03-15 22:24:00,"This includes Pampers, Tide, Duracell, and Gillette.",0.019232915714383125,0.007989353500306606,0.972777783870697,neutral,0.011243562214076519
+11,2017-03-15 22:24:00,"Normally, I'm not a huge fan of relying on brand names to provide a moat, but all of these brands have stood the test of time.",0.12591609358787537,0.0071043409407138824,0.8669795393943787,neutral,0.11881175637245178
+12,2017-03-15 22:24:00,"Because of the trust that customers have in these brand names, they're willing to pay incrementally more year after year.",0.764835000038147,0.013931396417319775,0.221233531832695,positive,0.7509036064147949
+13,2017-03-15 22:24:00,This helps give P&G an enviable moat.,0.9112750887870789,0.014552555046975613,0.07417238503694534,positive,0.8967225551605225
+14,2017-03-15 22:24:00,"Altria, on the other hand, is the parent company for Marlboro-brand cigarettes in the United States.",0.04169720783829689,0.005498058162629604,0.9528047442436218,neutral,0.03619914874434471
+15,2017-03-15 22:24:00,"As with P&G, this single brand alone has shown amazing resiliency that proves it provides an enviable moat.",0.9240108132362366,0.014500466175377369,0.061488714069128036,positive,0.9095103740692139
+16,2017-03-15 22:24:00,"Often overlooked is the fact that Altria also owns a substantial stake in Anheuser-Busch InBev , the largest beer producer in the world.",0.08471246808767319,0.011498072184622288,0.9037894606590271,neutral,0.07321439683437347
+17,2017-03-15 22:24:00,"At the end of the day, I think it's impossible to differentiate between these two.",0.07830678671598434,0.21604572236537933,0.7056475281715393,neutral,-0.13773894309997559
+18,2017-03-15 22:24:00,It's a draw.,0.4047839045524597,0.02793627232313156,0.5672798156738281,neutral,0.37684762477874756
+19,2017-03-15 22:24:00,"Clearly, shareholders would love to see the majority of their cash being returned to them.",0.20422665774822235,0.007453124038875103,0.7883201837539673,neutral,0.19677352905273438
+20,2017-03-15 22:24:00,But cash has more value than just being paid out in dividends.,0.09580125659704208,0.009218883700668812,0.8949798941612244,neutral,0.08658237010240555
+21,2017-03-15 22:24:00,Every company needs to keep a healthy cash stash on hand.,0.447357177734375,0.011220316402614117,0.5414225459098816,neutral,0.4361368715763092
+22,2017-03-15 22:24:00,"That's because every company, at one point or another, will encounter difficult economic times.",0.05039063096046448,0.039773110300302505,0.9098362326622009,neutral,0.010617520660161972
+23,2017-03-15 22:24:00,"Companies that enter such times with cash have options: They can outspend rivals to gain market share, buy back their own shares on the cheap, or even make acquisitions.",0.277685284614563,0.008553759194910526,0.7137609124183655,neutral,0.26913151144981384
+24,2017-03-15 22:24:00,"Debt-heavy companies are in the opposite boat -- forced to cut back on operations, cede market share, or even sell shares in secondary offerings just to help make ends meet.",0.022525660693645477,0.9284982085227966,0.04897618666291237,negative,-0.9059725403785706
+25,2017-03-15 22:24:00,"Here's how these two stack up in terms of financial fortitude, keeping in mind that P&G is valued at over 50% higher than Altria.",0.196077361702919,0.012155203148722649,0.791767418384552,neutral,0.1839221566915512
+26,2017-03-15 22:24:00,"While Altria's free cash flow (FCF) isn't as impressive as P&G's, it's worth noting that the company's FCF from its stake in Anheuser-Busch has yet to be included in company results.",0.34912440180778503,0.04749308153986931,0.6033825278282166,neutral,0.3016313314437866
+27,2017-03-15 22:24:00,"At the end of the day, both companies have healthy net income and FCF.",0.8890884518623352,0.020616021007299423,0.0902954712510109,positive,0.8684724569320679
+28,2017-03-15 22:24:00,The balance sheet represents the differentiator.,0.012075330130755901,0.00863470695912838,0.9792900085449219,neutral,0.0034406231716275215
+29,2017-03-15 22:24:00,Altria has much more cash on hand than debt.,0.08199736475944519,0.008919177576899529,0.9090834856033325,neutral,0.07307818531990051
+30,2017-03-15 22:24:00,P&G doesn't.,0.027685314416885376,0.08882851153612137,0.8834862112998962,neutral,-0.06114319711923599
+31,2017-03-15 22:24:00,"For that reason, Altria gets the nod here.",0.22575679421424866,0.014219728298485279,0.7600234746932983,neutral,0.21153706312179565
+32,2017-03-15 22:24:00,"Finally, we have valuation.",0.22249005734920502,0.010374725796282291,0.7671352028846741,neutral,0.2121153324842453
+33,2017-03-15 22:24:00,"While this isn't an exact science, there are some straightforward metrics we can consult to give us an idea of how expensive each stock is.",0.0653928592801094,0.005439994391053915,0.9291670918464661,neutral,0.05995286628603935
+34,2017-03-15 22:24:00,Here we have a very tight race.,0.13436833024024963,0.20051702857017517,0.6651146411895752,neutral,-0.06614869832992554
+35,2017-03-15 22:24:00,"On an earnings ( P/E ) basis, and a growth ( PEG ) basis, these two are virtually identical.",0.06968759000301361,0.007142823655158281,0.9231696128845215,neutral,0.06254476308822632
+36,2017-03-15 22:24:00,"While we don't know exactly what Altria's FCF is right now, I'm comforted by the fact that P&G's dividend has only eaten up 74% of FCF over the past year.",0.22822205722332,0.405484676361084,0.3662932515144348,negative,-0.17726261913776398
+37,2017-03-15 22:24:00,"While it may end up that Altria falls in the same boat, I'm giving P&G the nod for now.",0.10786152631044388,0.015681035816669464,0.8764573931694031,neutral,0.09218049049377441
+38,2017-03-15 22:24:00,So there you have it -- it's a tie.,0.3052198588848114,0.027287712320685387,0.6674924492835999,neutral,0.27793213725090027
+39,2017-03-15 22:24:00,"With P&G, you've got a company providing very basic products that are highly recession-proof.",0.15352050960063934,0.010912634432315826,0.8355668187141418,neutral,0.14260786771774292
+40,2017-03-15 22:24:00,"With Altria, you have a company selling some of the most addictive legal goods known to man.",0.0581807941198349,0.019971603527665138,0.9218475222587585,neutral,0.03820919245481491
+41,2017-03-15 22:24:00,"When we get a clearer view into Altria's FCF next quarter, then we may have an easier time differentiating which is the better stock.",0.18119174242019653,0.014372882433235645,0.8044353723526001,neutral,0.16681885719299316
+42,2017-03-15 22:24:00,"For the time being, however, I don't think you can go wrong either way.",0.06439623981714249,0.030707933008670807,0.9048958420753479,neutral,0.03368830680847168
+43,2017-03-15 22:24:00,"10 stocks we like better than Procter and Gamble
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12097388505935669,0.02674618735909462,0.8522799611091614,neutral,0.09422770142555237
+44,2017-03-15 22:24:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+45,2017-03-15 22:24:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Procter and Gamble wasn't one of them!",0.178693026304245,0.013100427575409412,0.8082065582275391,neutral,0.16559259593486786
+46,2017-03-15 22:24:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+47,2017-03-15 22:24:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+48,2017-03-15 22:24:00,Brian Stoffel has no position in any stocks mentioned.,0.011061043478548527,0.05123596638441086,0.9377029538154602,neutral,-0.040174923837184906
+49,2017-03-15 22:24:00,The Motley Fool owns shares of and recommends Anheuser-Busch InBev NV.,0.02902076207101345,0.015598944388329983,0.9553803205490112,neutral,0.013421817682683468
+50,2017-03-15 22:24:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+51,2017-03-15 22:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

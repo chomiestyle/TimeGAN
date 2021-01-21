@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-27 06:00:00,Lowe's investors have fared well over the years.,0.8821157813072205,0.014863971620798111,0.10302022099494934,positive,0.8672518134117126
+1,2016-01-27 06:00:00,"The stock has closed higher for seven years in a row, riding high on its softer retail approach in hardware and home improvement.",0.8950734734535217,0.06977038085460663,0.035156190395355225,positive,0.8253030776977539
+2,2016-01-27 06:00:00,"You won't find too many shareholders complaining, but that doesn't mean that Lowe's impressive streak of annual stock gains won't end in 2016.",0.28098878264427185,0.12904298305511475,0.5899682641029358,neutral,0.1519457995891571
+3,2016-01-27 06:00:00,Let's look at three things that can derail the market darling.,0.044471949338912964,0.25312918424606323,0.7023988962173462,neutral,-0.20865723490715027
+4,2016-01-27 06:00:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+5,2016-01-27 06:00:00,"The housing market can become unhinged
+
+It's not a surprise that the last time Lowe's stock closed lower was 2008, when the subprime lending crisis rocked the housing industry.",0.0438716746866703,0.7846250534057617,0.1715032458305359,negative,-0.7407533526420593
+6,2016-01-27 06:00:00,Lowe's can still hold up reasonably well when there's a lull in the real estate market.,0.8114333748817444,0.02219141460955143,0.16637517511844635,positive,0.7892419695854187
+7,2016-01-27 06:00:00,Folks who realize that they will be staying in their digs for a while often decide to spruce things up to make a change.,0.1216924637556076,0.04855027794837952,0.8297572135925293,neutral,0.07314218580722809
+8,2016-01-27 06:00:00,"However, there's nothing that inspires updates the way that a change of real estate does.",0.09653259813785553,0.010812818072736263,0.8926545977592468,neutral,0.08571977913379669
+9,2016-01-27 06:00:00,A couple moving into a new home is more likely to change out appliances than a family that's been there for five years.,0.06784684211015701,0.06689883768558502,0.8652543425559998,neutral,0.000948004424571991
+10,2016-01-27 06:00:00,"Lowe's and Home Depot are the undisputed champs of home-improvement retail, but it's hard to deny the allure of online retail.",0.11166253685951233,0.018503930419683456,0.8698335886001587,neutral,0.09315860271453857
+11,2016-01-27 06:00:00,"Lowe's and Home Depot have strong Internet-based storefronts, but you can never underestimate the specialists.",0.2679591476917267,0.03578020632266998,0.6962606310844421,neutral,0.2321789413690567
+12,2016-01-27 06:00:00,It's not a surprise that Amazon.com and furniture e-tailer Wayfair saw their stocks more than double last year.,0.9015617370605469,0.027572937309741974,0.07086542248725891,positive,0.8739888072013855
+13,2016-01-27 06:00:00,They're doing it right.,0.5323647260665894,0.015536032617092133,0.4520992338657379,positive,0.516828715801239
+14,2016-01-27 06:00:00,"Lowe's and Home Depot have seen their sales climb 6% higher over the past year, but Amazon and Wayfair are at 18% and 59%, respectively.",0.934184730052948,0.029681285843253136,0.036133989691734314,positive,0.9045034646987915
+15,2016-01-27 06:00:00,Amazon is making it easier for shoppers to buy home essentials without having to head out to the store.,0.6574938893318176,0.026792515069246292,0.3157135844230652,positive,0.6307013630867004
+16,2016-01-27 06:00:00,"There are tens of millions of subscribers to Amazon Prime, knowing that they will receive their Amazon-warehoused goods in two days at no additional cost.",0.10300365090370178,0.011134710162878036,0.8858615756034851,neutral,0.09186893701553345
+17,2016-01-27 06:00:00,"Wayfair has cracked the code for home goods, including patio furniture and other decor items sold at home-improvement stores.",0.03637118265032768,0.9128262996673584,0.05080243572592735,negative,-0.8764551281929016
+18,2016-01-27 06:00:00,"Amazon initially rocked the media retailers, but after seeing it disrupt office supplies and groceries, it wouldn't be a surprise to see it make a play for the big-ticket items offered at Lowe's.",0.04189455881714821,0.8562635183334351,0.10184194147586823,negative,-0.8143689632415771
+19,2016-01-27 06:00:00,"It hasn't happened yet, but the Fed has signaled that interest rates are likely to move higher in the near future.",0.7184152007102966,0.05077701807022095,0.230807825922966,positive,0.6676381826400757
+20,2016-01-27 06:00:00,"Borrowing costs heading north could put the brakes on the red-hot real estate market, but there are two other ways where it can sting Lowe's.",0.06089988350868225,0.7679969072341919,0.17110322415828705,negative,-0.707097053527832
+21,2016-01-27 06:00:00,High-end home improvement projects don't come cheap.,0.022555381059646606,0.0929144099354744,0.8845301270484924,neutral,-0.07035902887582779
+22,2016-01-27 06:00:00,Homeowners often need to borrow to redo a bathroom or update a kitchen.,0.03519658371806145,0.5666697025299072,0.39813366532325745,negative,-0.5314731001853943
+23,2016-01-27 06:00:00,"If loan rates move higher, it will give potential fixer-uppers less bang for their financed buck.",0.15452779829502106,0.7112492322921753,0.13422295451164246,negative,-0.5567214488983154
+24,2016-01-27 06:00:00,The other way that buoyant rates can hurt is that it would put an end to the refinancing boom.,0.5176934003829956,0.1724313348531723,0.3098752498626709,positive,0.3452620506286621
+25,2016-01-27 06:00:00,The popularity of cash-out refinancing -- where borrowers finance more than the value of their homes for some extra spending money -- has been fueling home-improvement projects.,0.6369568109512329,0.027028227224946022,0.336014986038208,positive,0.6099286079406738
+26,2016-01-27 06:00:00,"If it's no longer feasible to refinance, it should slow big-ticket orders at Lowe's.",0.020777374505996704,0.9539127945899963,0.025309791788458824,negative,-0.9331353902816772
+27,2016-01-27 06:00:00,None of these things might happen.,0.03032504953444004,0.0338275209069252,0.9358474612236023,neutral,-0.003502471372485161
+28,2016-01-27 06:00:00,Lowe's could coast to its eighth year in a row of stock gains.,0.9313816428184509,0.03137530758976936,0.0372430682182312,positive,0.9000063538551331
+29,2016-01-27 06:00:00,"However, with the climate starting to change, investors can't get cocky.",0.06989609450101852,0.20098797976970673,0.729115903377533,neutral,-0.1310918927192688
+30,2016-01-27 06:00:00,This will be the year to keep a close eye on Lowe's stock.,0.09040866792201996,0.008017941378057003,0.9015734195709229,neutral,0.08239072561264038
+31,2016-01-27 06:00:00,"Top dividend stocks for the next decade
+
+The smartest investors know that dividend stocks simply crush their non-dividend paying counterparts over the long term.",0.09311813861131668,0.407069593667984,0.4998123049736023,neutral,-0.3139514625072479
+32,2016-01-27 06:00:00,That's beyond dispute.,0.11145628988742828,0.02713225595653057,0.861411452293396,neutral,0.08432403206825256
+33,2016-01-27 06:00:00,"They also know that a well-constructed dividend portfolio creates wealth steadily, while still allowing you to sleep like a baby.",0.5843973755836487,0.011641272343695164,0.4039613604545593,positive,0.5727561116218567
+34,2016-01-27 06:00:00,"Knowing how valuable such a portfolio might be, our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio.",0.08245469629764557,0.0054166438058018684,0.9121286273002625,neutral,0.07703804969787598
+35,2016-01-27 06:00:00,"To see our free report on these stocks, just click here now .",0.01648867316544056,0.012817472219467163,0.970693826675415,neutral,0.0036712009459733963
+36,2016-01-27 06:00:00,The article 3 Reasons Lowe's Companies Stock Could Fall originally appeared on Fool.com.,0.013254343532025814,0.07093608379364014,0.9158095717430115,neutral,-0.05768173933029175
+37,2016-01-27 06:00:00,Rick Munarriz has no position in any stocks mentioned.,0.010087777860462666,0.04531329497694969,0.944598913192749,neutral,-0.0352255180478096
+38,2016-01-27 06:00:00,The Motley Fool owns shares of and recommends Amazon.com.,0.0404672771692276,0.027035051956772804,0.9324976205825806,neutral,0.013432225212454796
+39,2016-01-27 06:00:00,The Motley Fool recommends Home Depot and Wayfair.,0.035245463252067566,0.036915719509124756,0.9278388023376465,neutral,-0.00167025625705719
+40,2016-01-27 06:00:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+41,2016-01-27 06:00:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+42,2016-01-27 06:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+43,2016-01-27 06:00:00,"Copyright © 1995 - 2016 The Motley Fool, LLC.",0.02603050321340561,0.02041543833911419,0.953554093837738,neutral,0.00561506487429142
+44,2016-01-27 06:00:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+45,2016-01-27 06:00:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+46,2016-01-27 06:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-19 06:17:00,"In early trading on Friday, shares of Dow topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.9339857697486877,0.03547898307442665,0.030535219237208366,positive,0.898506760597229
+1,2020-06-19 06:17:00,"Year to date, Dow has lost about 24.1% of its value.",0.017175979912281036,0.9546999931335449,0.028124067932367325,negative,-0.9375240206718445
+2,2020-06-19 06:17:00,"And the worst performing Dow component thus far on the day is American Express, trading down 2.0%.",0.020902153104543686,0.9639996290206909,0.015098216943442822,negative,-0.9430974721908569
+3,2020-06-19 06:17:00,American Express is lower by about 18.2% looking at the year to date performance.,0.020895782858133316,0.9654619097709656,0.013642326928675175,negative,-0.9445661306381226
+4,2020-06-19 06:17:00,"Two other components making moves today are Goldman Sachs Group, trading down 1.3%, and Procter & Gamble, trading up 0.9% on the day.",0.03052886761724949,0.9178163409233093,0.05165484547615051,negative,-0.8872874975204468

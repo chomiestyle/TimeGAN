@@ -1,0 +1,26 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-25 04:42:00,"On Monday evening, oil giant ExxonMobil (NYSE: XOM) was officially removed from the Dow Jones Industrial Average.",0.02787163108587265,0.8366791009902954,0.13544926047325134,negative,-0.8088074922561646
+1,2020-08-25 04:42:00,"The company had been a member of the index since 1928, when it was still known as the Standard Oil Company of New Jersey.",0.05795283243060112,0.005925412755459547,0.9361218214035034,neutral,0.052027419209480286
+2,2020-08-25 04:42:00,The change leaves ExxonMobil's fellow oil major Chevron (NYSE: CVX) as the only oil and gas company in the Dow.,0.048344578593969345,0.02452714554965496,0.927128255367279,neutral,0.023817433044314384
+3,2020-08-25 04:42:00,The shakeup was prompted by the upcoming 4:1 stock split of Apple (NASDAQ: AAPL).,0.4010409414768219,0.05842570587992668,0.5405333042144775,neutral,0.3426152467727661
+4,2020-08-25 04:42:00,"Unlike the S&P 500, in which components are weighted by market cap, the Dow is calculated based on its components' share prices.",0.012603715993463993,0.010741522535681725,0.9766547679901123,neutral,0.0018621934577822685
+5,2020-08-25 04:42:00,"Apple's new cheaper price will give it -- and by extension, the tech sector -- less weight in the index.",0.18683122098445892,0.41594597697257996,0.3972228467464447,negative,-0.22911475598812103
+6,2020-08-25 04:42:00,"To compensate, the Dow swapped out business software company Salesforce for ExxonMobil.",0.055533818900585175,0.3292587101459503,0.6152074337005615,neutral,-0.27372488379478455
+7,2020-08-25 04:42:00,"With ExxonMobil's exit, it will be the first time since 2008 that the oil and gas industry has only had one representative on the flagship index.",0.039701107889413834,0.30139169096946716,0.6589071750640869,neutral,-0.26169058680534363
+8,2020-08-25 04:42:00,It's a sign of how far ExxonMobil's stock has fallen over the past decade.,0.03010448068380356,0.9352049827575684,0.03469058498740196,negative,-0.9051005244255066
+9,2020-08-25 04:42:00,"The company's shares are down 28.4% over the last ten years, to just over $42/share.",0.01731991022825241,0.9703015089035034,0.012378495186567307,negative,-0.9529815912246704
+10,2020-08-25 04:42:00,"Meanwhile, Chevron -- despite having a lower market cap -- has a higher share price, of more than $87/share.",0.8195281028747559,0.03785455599427223,0.14261731505393982,positive,0.7816735506057739
+11,2020-08-25 04:42:00,"To correct its weighting, the Dow swapped out two other companies as well: biotech company Amgen replaces pharmaceutical giant Pfizer, while industrial conglomerate Honeywell replaces aerospace company Raytheon Technologies.",0.06872132420539856,0.23011337220668793,0.7011652588844299,neutral,-0.16139204800128937
+12,2020-08-25 04:42:00,The changes will go into effect before the market opens on August 31.,0.03646088391542435,0.005779552739113569,0.9577595591545105,neutral,0.03068133071064949
+13,2020-08-25 04:42:00,"10 stocks we like better than ExxonMobil
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1518031805753708,0.0216960571706295,0.8265007138252258,neutral,0.130107119679451
+14,2020-08-25 04:42:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+15,2020-08-25 04:42:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and ExxonMobil wasn't one of them!",0.2061556726694107,0.01494398433715105,0.7789002656936646,neutral,0.19121168553829193
+16,2020-08-25 04:42:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+17,2020-08-25 04:42:00,John Bromels owns shares of Apple.,0.02378568798303604,0.013848814181983471,0.9623655080795288,neutral,0.00993687380105257
+18,2020-08-25 04:42:00,The Motley Fool owns shares of and recommends Apple and Salesforce.com.,0.03965669125318527,0.03497915714979172,0.9253641366958618,neutral,0.004677534103393555
+19,2020-08-25 04:42:00,The Motley Fool recommends Amgen.,0.058421194553375244,0.05450756475329399,0.8870712518692017,neutral,0.003913629800081253
+20,2020-08-25 04:42:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

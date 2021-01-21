@@ -1,0 +1,61 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-20 04:21:00,We all would like to be millionaires by the time we retire.,0.1328372061252594,0.006875813473016024,0.8602869510650635,neutral,0.12596139311790466
+1,2020-08-20 04:21:00,"With Social Security income likely to provide only a modest fraction of the income we need, most of us will have to come up with the rest of our needed cash flows on our own.",0.036554645746946335,0.026802603155374527,0.9366427659988403,neutral,0.009752042591571808
+2,2020-08-20 04:21:00,"Fortunately, if you invest regularly and effectively for a long time, you can achieve a comfortable retirement.",0.5341876149177551,0.012664452195167542,0.4531479477882385,positive,0.5215231776237488
+3,2020-08-20 04:21:00,The stock market is hard to beat for that -- but which stocks should you invest in?,0.04527526721358299,0.012526565231382847,0.9421981573104858,neutral,0.03274870291352272
+4,2020-08-20 04:21:00,Here are some categories to consider.,0.020082401111721992,0.011312478221952915,0.9686051607131958,neutral,0.008769922889769077
+5,2020-08-20 04:21:00,"Let's start with a little math, though, to help you see how you can become a millionaire.",0.061881497502326965,0.007823994383215904,0.9302945137023926,neutral,0.05405750125646591
+6,2020-08-20 04:21:00,"It takes time and diligence, and much will depend on how much you can sock away each year and how quickly it grows.",0.0376153327524662,0.011835016310214996,0.9505496025085449,neutral,0.025780316442251205
+7,2020-08-20 04:21:00,"The table below shows how much you might amass over various periods, investing various amounts:
+
+The overall stock market has averaged annual returns close to 10% over long periods, but you may average more or less during your investment time frame.",0.060934729874134064,0.00947330892086029,0.929591953754425,neutral,0.05146142095327377
+8,2020-08-20 04:21:00,So the table above uses 8% to be a bit conservative.,0.017606617882847786,0.035521674901247025,0.9468716979026794,neutral,-0.01791505701839924
+9,2020-08-20 04:21:00,Now let's move on to what kinds of stocks can make you a millionaire.,0.077144093811512,0.009644122794270515,0.9132117629051208,neutral,0.06749997287988663
+10,2020-08-20 04:21:00,You might assume that you'll need to get lucky and invest in companies that end up turning in amazing performances over long periods -- such as Amazon.com or Netflix.,0.4572613537311554,0.014004705473780632,0.5287339687347412,neutral,0.4432566463947296
+11,2020-08-20 04:21:00,"That's not true, though.",0.07117898017168045,0.12877899408340454,0.8000420331954956,neutral,-0.05760001391172409
+12,2020-08-20 04:21:00,"Many boring companies can build wealth for you at a good clip, too.",0.2769535481929779,0.012926220893859863,0.7101202607154846,neutral,0.26402732729911804
+13,2020-08-20 04:21:00,"Check out the examples below:
+
+Those companies are focused on exciting businesses such as paint, railroad transport, shoes, storage units, tobacco products, cleaning products, home improvement supplies, banking, shampoos, cereal, parcel delivery, and health supplies.",0.03299771994352341,0.00522448169067502,0.9617778062820435,neutral,0.027773238718509674
+14,2020-08-20 04:21:00,Yawn!,0.22435763478279114,0.14338359236717224,0.6322587728500366,neutral,0.0809740424156189
+15,2020-08-20 04:21:00,"But all of them outperformed the S&P 500's performance, and most exhibited fairly rapid growth, far exceeding the 8% example in the table up top.",0.9388850927352905,0.01758926920592785,0.04352559894323349,positive,0.9212958216667175
+16,2020-08-20 04:21:00,"Next up are dividend-paying stocks, which you might assume are also boring.",0.04127177968621254,0.06781651824712753,0.8909116983413696,neutral,-0.026544738560914993
+17,2020-08-20 04:21:00,Not so!,0.13199864327907562,0.1258556842803955,0.7421457171440125,neutral,0.006142958998680115
+18,2020-08-20 04:21:00,"(After all, even Apple and Microsoft pay dividends these days.)",0.0258264672011137,0.04221435263752937,0.9319591522216797,neutral,-0.016387885436415672
+19,2020-08-20 04:21:00,More than one study has found dividend stocks outperforming non-dividend payers.,0.23585130274295807,0.736960768699646,0.027187872678041458,negative,-0.5011094808578491
+20,2020-08-20 04:21:00,"For example, when researchers Eugene Fama and Kenneth French examined stock-performance data from 1927 to 2014, they found that dividend payers outperformed non-payers, averaging 10.4% annual growth vs. 8.5%.",0.6674283146858215,0.29969581961631775,0.03287587687373161,positive,0.3677324950695038
+21,2020-08-20 04:21:00,"The beauty of a portfolio full of dividend payers is that it will generate income regularly, without your having to sell any of your holdings.",0.4359409511089325,0.009245572611689568,0.5548135042190552,neutral,0.4266953766345978
+22,2020-08-20 04:21:00,"If your portfolio is worth, say, $500,000 and it has an overall dividend yield of, say, 4%, you're looking at $20,000 in income annually just from dividends -- which would complement your Social Security benefits nicely.",0.18649818003177643,0.009402429684996605,0.804099440574646,neutral,0.17709575593471527
+23,2020-08-20 04:21:00,"Even better, healthy and growing companies tend to increase their payouts each year, which means increasing dividend income each year -- and that can help you keep up with inflation.",0.9127158522605896,0.017175815999507904,0.07010828703641891,positive,0.8955400586128235
+24,2020-08-20 04:21:00,"It's not hard to find some solid dividend yields, either.",0.31617817282676697,0.026317568495869637,0.6575042605400085,neutral,0.2898606061935425
+25,2020-08-20 04:21:00,"Here are some recent yields from some familiar companies:
+
+Two other classifications of stocks are growth stocks and value stocks -- in other words, ones that growth investors or value investors would seek.",0.018100354820489883,0.009348412044346333,0.972551167011261,neutral,0.008751942776143551
+26,2020-08-20 04:21:00,Growth investors chase companies that are growing rapidly and aren't afraid to pay rich prices for them.,0.1734401136636734,0.01307314820587635,0.8134867548942566,neutral,0.1603669673204422
+27,2020-08-20 04:21:00,"Amazon.com, for example, has usually looked rather overvalued, but then has kept rising over many years, albeit in a jagged line.",0.31719180941581726,0.2214299738407135,0.46137821674346924,neutral,0.09576183557510376
+28,2020-08-20 04:21:00,"Not all growth stocks keep growing rapidly, though, and some are so overvalued that they pull back, hurting investors.",0.020705971866846085,0.9575673341751099,0.021726643666625023,negative,-0.9368613362312317
+29,2020-08-20 04:21:00,"Value investors, on the other hand, seek a margin of safety by favoring stocks that seem significantly undervalued relative to their intrinsic worth.",0.6064544916152954,0.030348291620612144,0.3631972074508667,positive,0.5761061906814575
+30,2020-08-20 04:21:00,"These companies can be less exciting than high-flying market darlings, but value investors tend to do quite well, and their ranks include Warren Buffett.",0.0993201807141304,0.02192509174346924,0.8787546753883362,neutral,0.07739508897066116
+31,2020-08-20 04:21:00,"Fortunately, you don't necessarily have to choose between value and growth stocks.",0.028261778876185417,0.012810376472771168,0.9589278697967529,neutral,0.01545140240341425
+32,2020-08-20 04:21:00,"After all, the best investments should be both growing at a good clip and also be undervalued.",0.7183200716972351,0.06209755688905716,0.21958240866661072,positive,0.6562225222587585
+33,2020-08-20 04:21:00,"Most or all stocks
+
+Finally, if you're going to study stocks and choose which individual ones to invest in and when to do so, that will take a lot of time and skill -- which many of us don't have enough of.",0.058132871985435486,0.007375403307378292,0.934491753578186,neutral,0.05075746774673462
+34,2020-08-20 04:21:00,"Fortunately, you can also become a millionaire simply by investing in low-fee, broad-market index funds, such as those that track the S&P 500 or the overall market.",0.14271913468837738,0.008581200614571571,0.8486996293067932,neutral,0.13413792848587036
+35,2020-08-20 04:21:00,"If the stock market averages 9% or 6% growth during your investment period, an index fund that tracks it will also return roughly 9% or 6%.",0.07463645935058594,0.007999876514077187,0.9173636436462402,neutral,0.0666365846991539
+36,2020-08-20 04:21:00,There's no shame or compromise in opting for index funds.,0.11469411849975586,0.015406552702188492,0.869899332523346,neutral,0.09928756952285767
+37,2020-08-20 04:21:00,"If you're diligent and determined and have some years ahead of you, you can become an index fund millionaire, too.",0.21469774842262268,0.01273096352815628,0.7725712656974792,neutral,0.201966792345047
+38,2020-08-20 04:21:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have an investing tip, it can pay to listen.",0.14467975497245789,0.019747961312532425,0.8355723023414612,neutral,0.12493179738521576
+39,2020-08-20 04:21:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+40,2020-08-20 04:21:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+41,2020-08-20 04:21:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+42,2020-08-20 04:21:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+43,2020-08-20 04:21:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+44,2020-08-20 04:21:00,"Selena Maranjian owns shares of AbbVie, Amazon, Apple, AT&T, Microsoft, Netflix, Procter & Gamble, and Verizon Communications.",0.016370978206396103,0.008743873797357082,0.9748851656913757,neutral,0.0076271044090390205
+45,2020-08-20 04:21:00,"The Motley Fool owns shares of and recommends Amazon, Apple, Home Depot, Microsoft, Netflix, and Nike.",0.023724623024463654,0.012957287020981312,0.9633181095123291,neutral,0.010767336003482342
+46,2020-08-20 04:21:00,"The Motley Fool recommends 3M, CVS Health, Duke Energy, Sherwin-Williams, Union Pacific, and Verizon Communications and recommends the following options: long January 2022 $1920 calls on Amazon, short January 2022 $1940 calls on Amazon, long January 2021 $85 calls on Microsoft, long January 2021 $120 calls on Home Depot, short January 2021 $115 calls on Microsoft, and short January 2021 $210 calls on Home Depot.",0.02023470774292946,0.05921648070216179,0.9205488562583923,neutral,-0.03898177295923233
+47,2020-08-20 04:21:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

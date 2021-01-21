@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-05 07:59:10,The holiday season is approaching but retailers continue to fret as there are no signs of the coronavirus subsiding.,0.07092515379190445,0.7344842553138733,0.19459064304828644,negative,-0.663559079170227
+1,2020-10-05 07:59:10,"Retail sales are somewhat increasing over the past few months, but are still way behind the year-ago level.",0.818064272403717,0.08470488339662552,0.09723081439733505,positive,0.7333593964576721
+2,2020-10-05 07:59:10,"However, the pandemic has seen an increasing number of people relying on online shopping, which has been a savior for the retail sector also.",0.1962132453918457,0.5864787101745605,0.21730799973011017,negative,-0.39026546478271484
+3,2020-10-05 07:59:10,"If the present situation continues, people will buy online only even through the holiday season.",0.025041623041033745,0.13748320937156677,0.8374751210212708,neutral,-0.11244158446788788
+4,2020-10-05 07:59:10,"According to new projections from software provider Salesforce.com, Inc. (CRM), online holiday sales are will triple last time’s figure.",0.8497448563575745,0.0353512167930603,0.11490395665168762,positive,0.8143936395645142
+5,2020-10-05 07:59:10,"Of course, e-commerce has emerged as the most convenient way to shop with many people continuing to stay at home.",0.5252417922019958,0.023826653137803078,0.450931578874588,positive,0.5014151334762573
+6,2020-10-05 07:59:10,It has also led to the bounce in the retail sector despite low morale and millions of job losses.,0.8936470150947571,0.06812037527561188,0.03823263570666313,positive,0.8255266547203064
+7,2020-10-05 07:59:10,Consumer spending too is on the rise.,0.6766632199287415,0.03304646909236908,0.29029029607772827,positive,0.6436167359352112
+8,2020-10-05 07:59:10,"According to the latest projections by Salesforce.com, online holiday sales in the United States are projected to surge 34% year over year for the 2020 season, nearly tripling 12% growth registered in the prior period.",0.9518388509750366,0.02371903881430626,0.024442117661237717,positive,0.9281198382377625
+9,2020-10-05 07:59:10,"The pandemic-induced growth in e-commerce this year will carry into the holidays, and although total sales through all channels are expected to remain flat, digital will make up 30% of seasonal spending, the company predicts.",0.05113869160413742,0.6064229011535645,0.3424384593963623,negative,-0.5552842020988464
+10,2020-10-05 07:59:10,"For the November-December period, digital revenues are anticipated to hit a record $221 billion while total holiday sales will reach $730 billion.",0.5649154782295227,0.014713846147060394,0.4203706383705139,positive,0.5502016544342041
+11,2020-10-05 07:59:10,Salesforce’s forecast is in line with numbers released last month from Deloitte.,0.6798790693283081,0.023320946842432022,0.29679998755455017,positive,0.656558096408844
+12,2020-10-05 07:59:10,The research firm expects holiday sales to jump between 25% and 35% for the November-January period.,0.9385108351707458,0.025282980874180794,0.03620610013604164,positive,0.9132278561592102
+13,2020-10-05 07:59:10,The unparalleled jump in online orders during COVID-19 has already put an immense strain on shipping carriers.,0.03601764887571335,0.9477240443229675,0.016258247196674347,negative,-0.9117063879966736
+14,2020-10-05 07:59:10,"Although retailers have reported Black Friday-level order volume in the second and third quarters, they’re still bracing for an even bigger surge in Q4.",0.8057327270507812,0.14470916986465454,0.04955808445811272,positive,0.6610235571861267
+15,2020-10-05 07:59:10,"The overall number of holiday packages that will be sent out globally will exceed the shipping capacity for traditional carriers by 5%, jeopardizing the promised delivery windows and potentially delaying up to 700 million orders worldwide, Salesforce projected.",0.022394627332687378,0.9655540585517883,0.012051229365170002,negative,-0.9431594610214233
+16,2020-10-05 07:59:10,Retailers have already started hiring ahead of the holiday season to manage the rush and ensure smooth on-time delivery.,0.8560929298400879,0.036415934562683105,0.10749119520187378,positive,0.8196769952774048
+17,2020-10-05 07:59:10,"Walmart, Inc. WMT said last month that it will be hiring 20,000 seasonal staff members to prepare for an expected surge in online shopping ahead of the holidays in the United States.",0.7134192585945129,0.1839008331298828,0.10267987102270126,positive,0.5295184254646301
+18,2020-10-05 07:59:10,This will be Walmart's first large seasonal hiring in five years.,0.2108425498008728,0.6302167177200317,0.15894074738025665,negative,-0.41937416791915894
+19,2020-10-05 07:59:10,"Also, Best Buy, Inc. BBY is looking to hire thousands of new employees.",0.824406087398529,0.05886208638548851,0.11673189699649811,positive,0.7655439972877502
+20,2020-10-05 07:59:10,The company is holding job fairs to start the process of hiring for the holiday season at individual stores.,0.11513707041740417,0.16059860587120056,0.7242643237113953,neutral,-0.04546153545379639
+21,2020-10-05 07:59:10,There are other factors too that are likely to aid holiday sales this year.,0.8434969782829285,0.017290284857153893,0.13921278715133667,positive,0.8262066841125488
+22,2020-10-05 07:59:10,"Consumer confidence hit a six-month high in September, reflecting more confidence in the U.S. economy after a summer lull.",0.9113926291465759,0.03916596621274948,0.04944140464067459,positive,0.8722266554832458
+23,2020-10-05 07:59:10,"The final consumer sentiment survey in September climbed to 80.4 from a preliminary reading of 78.9, the University of Michigan said last week.",0.9441847205162048,0.02699405513703823,0.028821226209402084,positive,0.917190670967102
+24,2020-10-05 07:59:10,It was also up from August’s 74.1 score.,0.9457050561904907,0.028337551280856133,0.025957418605685234,positive,0.9173675179481506
+25,2020-10-05 07:59:10,"Also, a report on Oct 1 from the Commerce Department showed consumer spending rose 1% in August, reflecting that the economy is on track for record growth in the third quarter after a historic slump in the April-June period.",0.9457356333732605,0.026497796177864075,0.027766557410359383,positive,0.9192378520965576
+26,2020-10-05 07:59:10,"However, much of this year’s holiday shopping will be done online until there is a definite treatment or vaccine for coronavirus.",0.031149279326200485,0.012742348946630955,0.9561083912849426,neutral,0.018406931310892105
+27,2020-10-05 07:59:10,"Given this scenario, it will be wise to invest in retail stocks with a strong online presence.",0.6478230953216553,0.010789716616272926,0.34138718247413635,positive,0.6370334029197693
+28,2020-10-05 07:59:10,"JD.com, Inc. JD, through its website www.jd.com and mobile applications, offers a selection of authentic products.",0.017466163262724876,0.005729280412197113,0.9768045544624329,neutral,0.011736882850527763
+29,2020-10-05 07:59:10,"It offers a wide array of products starting from computers, mobile handsets and other digital products, to home appliances, automobile accessories, clothing and shoes, luxury goods, personal care and other items.",0.04419831559062004,0.004588702227920294,0.9512129426002502,neutral,0.03960961475968361
+30,2020-10-05 07:59:10,The company’s expected earnings growth rate for the current year is 45.2%.,0.7977484464645386,0.012698113918304443,0.18955345451831818,positive,0.7850503325462341
+31,2020-10-05 07:59:10,The Zacks Consensus Estimate for current-year earnings has improved 20.8% over the past 60 days.,0.9573068618774414,0.022591212764382362,0.020101986825466156,positive,0.9347156286239624
+32,2020-10-05 07:59:10,JD.com sports a Zacks Rank #1 (Strong Buy).,0.8543323278427124,0.07321800291538239,0.07244963198900223,positive,0.7811143398284912
+33,2020-10-05 07:59:10,You can see the complete list of today’s Zacks #1 Rank stocks here.,0.03229916840791702,0.023273371160030365,0.944427490234375,neutral,0.009025797247886658
+34,2020-10-05 07:59:10,"Best Buy Co., Inc. is a multinational specialty retailer of consumer electronics, home office products, entertainment software, communication, food preparation, wellness, health, security, appliances and related services.",0.03816884383559227,0.004898067098110914,0.9569330215454102,neutral,0.03327077627182007
+35,2020-10-05 07:59:10,The company’s expected earnings growth rate for the current year is 17.3%.,0.8380709886550903,0.012688403017818928,0.14924052357673645,positive,0.8253825902938843
+36,2020-10-05 07:59:10,The Zacks Consensus Estimate for current-year earnings has improved 26% over the past 60 days.,0.9574459195137024,0.022384971380233765,0.020169053226709366,positive,0.935060977935791
+37,2020-10-05 07:59:10,Best Buy presently carries a Zacks Rank #2.,0.18110691010951996,0.013544270768761635,0.805348813533783,neutral,0.16756263375282288
+38,2020-10-05 07:59:10,Walmart Inc. has evolved from just being a traditional brick-and-mortar retailer into an omnichannel player.,0.7090158462524414,0.0128098763525486,0.2781742811203003,positive,0.6962059736251831
+39,2020-10-05 07:59:10,"In this regard, acquisitions of Bonobos, Moosejaw and Parcel, partnership with JD.com and Lord and Taylor, and investment in the online e-commerce platform Flipkart are noteworthy.",0.700789213180542,0.010862655006349087,0.28834816813468933,positive,0.6899265646934509
+40,2020-10-05 07:59:10,The company’s expected earnings growth rate for the current year is 8.5%.,0.8537667393684387,0.012775144539773464,0.13345810770988464,positive,0.8409916162490845
+41,2020-10-05 07:59:10,The Zacks Consensus Estimate for current-year earnings has improved 8.5% over the past 60 days.,0.9571588635444641,0.022629456594586372,0.020211724564433098,positive,0.9345294237136841
+42,2020-10-05 07:59:10,Walmart has a Zacks Rank #2 (Buy).,0.6255670189857483,0.06451188027858734,0.3099210560321808,positive,0.5610551238059998
+43,2020-10-05 07:59:10,Target Corporation TGT has evolved from just being a pure brick and mortar retailer to an omni-channel entity.,0.3517288863658905,0.010592375881969929,0.6376787424087524,neutral,0.34113651514053345
+44,2020-10-05 07:59:10,"The company has been investing in technologies, improving websites and mobile apps, and modernizing its supply chain to keep pace with the changing retail landscape and better compete with pure e-commerce players.",0.914606511592865,0.013448094949126244,0.07194535434246063,positive,0.9011583924293518
+45,2020-10-05 07:59:10,The company’s expected earnings growth rate for the current year is 11.9%.,0.8439451456069946,0.012889008037745953,0.14316579699516296,positive,0.8310561180114746
+46,2020-10-05 07:59:10,The Zacks Consensus Estimate for current-year earnings has improved 44.2% over the past 60 days.,0.9566795229911804,0.02350286766886711,0.019817566499114037,positive,0.9331766366958618
+47,2020-10-05 07:59:10,Target sports a Zacks Rank #1.,0.08235549181699753,0.023447157815098763,0.8941972851753235,neutral,0.058908335864543915
+48,2020-10-05 07:59:10,"The Kroger Co. KR operates supermarkets, multi-department stores, marketplace stores and price impact warehouse stores.",0.011001410894095898,0.00904526375234127,0.9799532890319824,neutral,0.0019561471417546272
+49,2020-10-05 07:59:10,"Its combination food and drug stores offer natural food and organic sections, pharmacies, general merchandise, pet centers, fresh seafood, and organic produce, and multi-department stores provide apparel, home fashion and furnishings, outdoor living, electronics, automotive products, and toys.",0.017053140327334404,0.007241366431117058,0.9757054448127747,neutral,0.009811773896217346
+50,2020-10-05 07:59:10,The company’s expected earnings growth rate for the current year is 46.8%.,0.8243370652198792,0.012805004604160786,0.16285793483257294,positive,0.8115320801734924
+51,2020-10-05 07:59:10,The Zacks Consensus Estimate for current-year earnings has improved 13.7% over the past 60 days.,0.9570671319961548,0.022321000695228577,0.020611848682165146,positive,0.9347461462020874
+52,2020-10-05 07:59:10,Kroger has a Zacks Rank #2.,0.13581432402133942,0.03683064505457878,0.8273550271987915,neutral,0.09898367524147034
+53,2020-10-05 07:59:10,Each was hand-picked by a Zacks expert as the #1 favorite stock to gain +100% or more in 2020.,0.8245635032653809,0.02521515265107155,0.15022128820419312,positive,0.7993483543395996
+54,2020-10-05 07:59:10,Each comes from a different sector and has unique qualities and catalysts that could fuel exceptional growth.,0.5699955224990845,0.010610310360789299,0.41939419507980347,positive,0.5593852400779724
+55,2020-10-05 07:59:10,"Most of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.",0.24452893435955048,0.011726868338882923,0.7437442541122437,neutral,0.23280206322669983
+56,2020-10-05 07:59:10,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+57,2020-10-05 07:59:10,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+58,2020-10-05 07:59:10,"Click to get this free report
+
+ 
+
+Target Corporation (TGT) : Free Stock Analysis Report
+
+ 
+
+Walmart Inc. (WMT) : Free Stock Analysis Report
+
+ 
+
+Best Buy Co., Inc. (BBY) : Free Stock Analysis Report
+
+ 
+
+The Kroger Co. (KR) : Free Stock Analysis Report
+
+ 
+
+JD.com, Inc. (JD) : Free Stock Analysis Report
+
+ 
+
+To read this article on Zacks.com click here.",0.01205813605338335,0.019641967490315437,0.968299925327301,neutral,-0.007583831436932087
+59,2020-10-05 07:59:10,Zacks Investment Research,0.040200456976890564,0.013417162001132965,0.9463824033737183,neutral,0.0267832949757576

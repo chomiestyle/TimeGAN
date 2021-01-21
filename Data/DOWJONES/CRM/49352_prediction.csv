@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-16 07:41:00,Oracle CorporationORCL delivered impressive third-quarter 2017 results.,0.9470679759979248,0.01786854676902294,0.035063520073890686,positive,0.9291994571685791
+1,2017-03-16 07:41:00,"Earnings (including stock-based compensation) of 63 cents per share and revenues of $9.27 billion comfortably beat the Zacks Consensus Estimate of 57 cents and $9.24 billion, respectively.",0.9192229509353638,0.0447215735912323,0.036055564880371094,positive,0.8745013475418091
+2,2017-03-16 07:41:00,"Earnings (excluding stock-based compensation) increased 7.8% to 69 cents per share, which was within the company's guided range of 61-64 cents.",0.9551839828491211,0.022387860342860222,0.022428249940276146,positive,0.9327961206436157
+3,2017-03-16 07:41:00,Unfavorable foreign currency impacted earnings by a penny.,0.02144482359290123,0.9692143201828003,0.009340903721749783,negative,-0.9477695226669312
+4,2017-03-16 07:41:00,Revenue growth of almost 3% (4% in constant currency) was within management's guided range of 3-5%.,0.7211582064628601,0.012831175699830055,0.2660106122493744,positive,0.708327054977417
+5,2017-03-16 07:41:00,Adverse currency movements impacted total revenue by 1% in the quarter.,0.01786457933485508,0.9673576354980469,0.014777813106775284,negative,-0.9494930505752563
+6,2017-03-16 07:41:00,Shares were up almost 6.5% in pre-market trading .,0.9395309686660767,0.019658679142594337,0.040810275822877884,positive,0.9198722839355469
+7,2017-03-16 07:41:00,We note that Oracle's gain of 12.0% is better than the Zacks Computer Software Industry's increase of 8.6% on a year-to-date basis.,0.9556407928466797,0.02523546665906906,0.019123762845993042,positive,0.93040531873703
+8,2017-03-16 07:41:00,Oracle's top-line growth benefited from the ongoing cloud-based momentum.,0.8751822710037231,0.01170013565570116,0.11311756074428558,positive,0.8634821176528931
+9,2017-03-16 07:41:00,Total cloud revenue (13.6% of total revenue) soared 70.7% to $1.26 billion in the reported quarter.,0.9499716758728027,0.017537374049425125,0.03249094635248184,positive,0.9324343204498291
+10,2017-03-16 07:41:00,"Cloud SaaS and PaaS revenues advanced a significant 84.6% year over year to $1.08 billion, which was within management's guided range of 82-86%.",0.9542539715766907,0.018352312967181206,0.027393661439418793,positive,0.9359016418457031
+11,2017-03-16 07:41:00,IaaS revenues increased 17.1% to $178 million.,0.9555515050888062,0.018025822937488556,0.026422718539834023,positive,0.9375256896018982
+12,2017-03-16 07:41:00,"Strong cloud results fully mitigated weak on-premise software revenues (67.5% of total revenue), which declined 2.7% to $6.18 billion.",0.01822737045586109,0.9726410508155823,0.009131606668233871,negative,-0.954413652420044
+13,2017-03-16 07:41:00,"ERP, Fusion HCM and CX (customer experience) revenues gained 280%, 106% and 16%, respectively.",0.9535188674926758,0.02654035948216915,0.019940752536058426,positive,0.9269785284996033
+14,2017-03-16 07:41:00,Database as a Service was up a whopping 427% from the year-ago quarter.,0.9558812379837036,0.024670995771884918,0.019447825849056244,positive,0.9312102198600769
+15,2017-03-16 07:41:00,"PaaS was up 375% year-to-date, with cloud services up 300%.",0.9432728886604309,0.019075557589530945,0.03765154629945755,positive,0.9241973161697388
+16,2017-03-16 07:41:00,Total cloud and on-premise software revenue grew almost 5% in constant currency to $7.43 billion.,0.9569606781005859,0.016331106424331665,0.026708168908953667,positive,0.9406296014785767
+17,2017-03-16 07:41:00,"However, hardware revenues continued to decline in the quarter.",0.015672145411372185,0.9672250151634216,0.017102837562561035,negative,-0.9515528678894043
+18,2017-03-16 07:41:00,Total hardware revenue slipped 9.4% year over year to $1.03 billion.,0.0170708280056715,0.9728182554244995,0.010110924951732159,negative,-0.9557474255561829
+19,2017-03-16 07:41:00,"SaaS and PaaS infrastructure bookings were $322 million and $223 million, respectively in the quarter.",0.03742075711488724,0.04708070307970047,0.9154985547065735,neutral,-0.009659945964813232
+20,2017-03-16 07:41:00,"Overall, cloud bookings jumped 73%.",0.95041424036026,0.024737250059843063,0.024848414584994316,positive,0.9256770014762878
+21,2017-03-16 07:41:00,Oracle stated that SaaS and PaaS billings were up 111% on a year-over-year basis.,0.9560727477073669,0.018973730504512787,0.02495352365076542,positive,0.937099039554596
+22,2017-03-16 07:41:00,"The company added 1,125 new SaaS customers.",0.6902711987495422,0.012424252927303314,0.29730454087257385,positive,0.6778469681739807
+23,2017-03-16 07:41:00,Oracle stated that 480 new customers bought CX.,0.14116045832633972,0.009266622364521027,0.8495728969573975,neutral,0.1318938434123993
+24,2017-03-16 07:41:00,"In HCM, the company had 206 new customers that include the likes of America Movil, Cedars-Sinai Medical Center, Ford, Emerson, Hilton, Hyundai Motor, Jefferies, Rogers Communications and others.",0.46606945991516113,0.010199842043220997,0.5237306952476501,neutral,0.4558696150779724
+25,2017-03-16 07:41:00,"In ERP, the company added 564 new customers excluding NetSuite.",0.6074552536010742,0.016605887562036514,0.37593889236450195,positive,0.5908493399620056
+26,2017-03-16 07:41:00,Almost 50% of the new ERP customers were first-time users that indicated continuing market share gain against Workday WDAY .,0.9458721280097961,0.027592312544584274,0.02653544954955578,positive,0.9182798266410828
+27,2017-03-16 07:41:00,"Per the company, Active ERP customer base is now almost 3,700, with 1,465 live customers, 10 times that of Workday.",0.1483534872531891,0.015379366464912891,0.8362671732902527,neutral,0.13297411799430847
+28,2017-03-16 07:41:00,"The company has 13,103 customers in SaaS active base and 25,000 with NetSuite in total.",0.018240541219711304,0.008993644267320633,0.9727658033370972,neutral,0.00924689695239067
+29,2017-03-16 07:41:00,Total operating expenses (including stock-based compensation) as percentage of revenues increased 30 basis points (bps) to 60.1% in the reported quarter.,0.9559929966926575,0.019677314907312393,0.02432962693274021,positive,0.936315655708313
+30,2017-03-16 07:41:00,"The increase can primarily be attributed to higher cloud SaaS and PaaS, IaaS and research & development (R&D) expenses in the quarter, which were up 80 bps, 40 bps and 70 bps, respectively.",0.9505771994590759,0.020577680319547653,0.028845062479376793,positive,0.9299995303153992
+31,2017-03-16 07:41:00,SaaS and PaaS gross margin was 65% significantly higher than 51% reported in the year-ago quarter.,0.9498926997184753,0.0275415051728487,0.022565780207514763,positive,0.9223511815071106
+32,2017-03-16 07:41:00,IaaS gross margin was 30% lower than management's expectation due to continued investments.,0.017827626317739487,0.9707314372062683,0.01144090760499239,negative,-0.9529038071632385
+33,2017-03-16 07:41:00,Operating margin (including stock-based compensation) contracted 100 bps from the year-ago quarter to 38.5%.,0.4758766293525696,0.5098353624343872,0.014288046397268772,negative,-0.03395873308181763
+34,2017-03-16 07:41:00,Oracle bought back 30 million shares for a total of $500 million in the third quarter.,0.13033539056777954,0.00910273753106594,0.8605618476867676,neutral,0.12123265117406845
+35,2017-03-16 07:41:00,The company's board of directors increased the quarterly dividend by 27% to 19 cents per share.,0.9385955929756165,0.01760346069931984,0.043800968676805496,positive,0.9209921360015869
+36,2017-03-16 07:41:00,"For fourth-quarter fiscal 2017, total revenue is anticipated to grow in the range of (1%) to 2%.",0.9153919816017151,0.013742898590862751,0.07086511701345444,positive,0.9016490578651428
+37,2017-03-16 07:41:00,A strong U.S. dollar is expected to impact revenues by at least 2%.,0.07639658451080322,0.8750061392784119,0.048597268760204315,negative,-0.7986095547676086
+38,2017-03-16 07:41:00,SaaS and PaaS revenue is anticipated to grow in the range of 69-73%.,0.9181861281394958,0.01243508793413639,0.06937877833843231,positive,0.9057510495185852
+39,2017-03-16 07:41:00,IaaS is expected to grow 25-29%.,0.9273173213005066,0.013991426676511765,0.05869123339653015,positive,0.9133259057998657
+40,2017-03-16 07:41:00,"Software and cloud revenue, including SaaS/PaaS and IaaS, new software license and software support is expected to grow 1-3%.",0.9560773968696594,0.01662559248507023,0.027296971529722214,positive,0.9394518136978149
+41,2017-03-16 07:41:00,"Earnings are anticipated to be between 78 cents and 82 cents for the quarter, with a couple of cents impact from adverse currency headwind.",0.3349204659461975,0.1606411337852478,0.5044384002685547,neutral,0.1742793321609497
+42,2017-03-16 07:41:00,"For fiscal 2017, Oracle now expects SaaS and PaaS revenues to grow 81% (up from earlier guidance of 80%).",0.9586897492408752,0.01781955547630787,0.023490721359848976,positive,0.9408701658248901
+43,2017-03-16 07:41:00,"Moreover, management anticipates SaaS and PaaS gross margin to eventually rise to 80% in the long haul.",0.952359676361084,0.01663357950747013,0.03100680001080036,positive,0.9357261061668396
+44,2017-03-16 07:41:00,Oracle continues to gain traction on its cloud endeavors.,0.9324405193328857,0.014892472885549068,0.05266697704792023,positive,0.9175480604171753
+45,2017-03-16 07:41:00,"Specifically, the company's offerings in SaaS and PaaS have gained significant momentum in the past few quarters, which improves competitive position against salesforce.com CRM and Workday.",0.9577307105064392,0.018017634749412537,0.024251606315374374,positive,0.9397130608558655
+46,2017-03-16 07:41:00,"Further, the introduction of Gen 2 IaaS data centers is expected to improve Oracle's competitive prowess against Amazon AMZN .",0.9542810916900635,0.01771552301943302,0.028003405779600143,positive,0.9365655779838562
+47,2017-03-16 07:41:00,"Oracle continues to win new customers in HCM, ERP and CX.",0.9455740451812744,0.016360849142074585,0.03806515410542488,positive,0.9292131662368774
+48,2017-03-16 07:41:00,We believe the company's growing cloud market share will continue to drive top-line growth for the foreseeable future.,0.9104928374290466,0.012530013918876648,0.07697724550962448,positive,0.8979628086090088
+49,2017-03-16 07:41:00,"However, the transition from on-premise licensing to cloud-based subscription business model will take some more time to complete, which will impact near-term results.",0.1091402918100357,0.2843532860279083,0.6065064072608948,neutral,-0.17521299421787262
+50,2017-03-16 07:41:00,"Moreover, higher investments on IaaS will affect gross margin expansion.",0.922939658164978,0.02089378982782364,0.05616653710603714,positive,0.9020458459854126
+51,2017-03-16 07:41:00,"Further, a strong U.S. dollar remains a headwind.",0.07982062548398972,0.8546700477600098,0.06550932675600052,negative,-0.7748494148254395
+52,2017-03-16 07:41:00,"Currently, Oracle carries a Zacks Rank #3 (Hold).",0.019848676398396492,0.016301000490784645,0.9638503193855286,neutral,0.003547675907611847
+53,2017-03-16 07:41:00,You can see the complete list of today's Zacks #1 (Strong Buy) Rank stocks here .,0.06611695885658264,0.015413258224725723,0.9184697866439819,neutral,0.05070370063185692
+54,2017-03-16 07:41:00,Did you miss Apple's 9X stock explosion after they launched their iPhone in 2007?,0.08660752326250076,0.09298931062221527,0.8204032182693481,neutral,-0.006381787359714508
+55,2017-03-16 07:41:00,Now 2017 looks to be a pivotal year to get in on another emerging technology expected to rock the market.,0.8251555562019348,0.016993124037981033,0.15785132348537445,positive,0.8081624507904053
+56,2017-03-16 07:41:00,Demand could soar from almost nothing to $42 billion by 2025.,0.8458088040351868,0.019966978579759598,0.13422414660453796,positive,0.8258418440818787
+57,2017-03-16 07:41:00,Reports suggest it could save 10 million lives per decade which could in turn save $200 billion in U.S. healthcare costs.,0.6325947046279907,0.1275976151227951,0.2398076355457306,positive,0.5049970746040344
+58,2017-03-16 07:41:00,A bonus Zacks Special Report names this breakthrough and the 8 best stocks to exploit it.,0.5342763066291809,0.015187621116638184,0.4505361020565033,positive,0.5190886855125427
+59,2017-03-16 07:41:00,"Like Apple in 2007, these companies are already strong and coiling for potential mega-gains.",0.8605390787124634,0.019841492176055908,0.11961936950683594,positive,0.8406975865364075
+60,2017-03-16 07:41:00,"Click to see them right now >>
+
+Want the latest recommendations from Zacks Investment Research?",0.026474276557564735,0.012983711436390877,0.9605419635772705,neutral,0.013490565121173859
+61,2017-03-16 07:41:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+62,2017-03-16 07:41:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+63,2017-03-16 07:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

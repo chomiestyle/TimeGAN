@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-13 02:22:00,The technology-heavy Nasdaq has been the biggest winner in the bull market and has returned 15.5% year to date .,0.9401782751083374,0.025353021919727325,0.03446873277425766,positive,0.9148252606391907
+1,2018-09-13 02:22:00,"Within this space, the software ETFs have performed exceedingly well throughout the year, with Invesco Dynamic Software ETFPSJ returning 38% year to date.",0.9510095715522766,0.019389789551496506,0.02960065007209778,positive,0.9316197633743286
+2,2018-09-13 02:22:00,"The other two - SPDR S&P Software & Services ETFXSW and iShares North American Tech-Software ETFIGV - have returned 32% and 30%, respectively, year to date.",0.8921892642974854,0.03391295298933983,0.07389780879020691,positive,0.8582763075828552
+3,2018-09-13 02:22:00,PSJ and XSW reached their 52-week high on Sep 12 (see: all Technology ETFs here ).,0.6167860627174377,0.05353933200240135,0.3296746611595154,positive,0.5632467269897461
+4,2018-09-13 02:22:00,"Buy, build, partner models and M&A strategies will aid companies in securing competitive advantages.",0.7203887701034546,0.01035179104655981,0.26925942301750183,positive,0.7100369930267334
+5,2018-09-13 02:22:00,"Per Delloite's 2018 Technology Industry Trends , the scope for growth are in cloud computing, flexible consumption, cognitive computing, user-friendly tools, APIs, apps and data.",0.24816139042377472,0.006628960836678743,0.7452096343040466,neutral,0.24153243005275726
+6,2018-09-13 02:22:00,The report has also suggested keeping a close eye on cyber security and regulatory environment.,0.25346919894218445,0.012573785148561,0.733957052230835,neutral,0.24089542031288147
+7,2018-09-13 02:22:00,The worldwide spending on IT services is estimated to be $3.7 trillion this year.,0.22147147357463837,0.008280640468001366,0.7702478766441345,neutral,0.21319083869457245
+8,2018-09-13 02:22:00,The software companies are benefiting form Trump's repatriciation policies.,0.7915878295898438,0.012262308970093727,0.19614993035793304,positive,0.779325544834137
+9,2018-09-13 02:22:00,This in turn has led to increased possibilities for strategic acquisition.,0.8659562468528748,0.012081872671842575,0.12196192890405655,positive,0.8538743853569031
+10,2018-09-13 02:22:00,Global digital marketing software had a market share of $35.36 billion in 2017 and is projected to witness a CAGR of 16.5% and reach $140.63 billion by 2026 during this forecast period.,0.8245877623558044,0.011630108579993248,0.16378216445446014,positive,0.8129576444625854
+11,2018-09-13 02:22:00,"The factors supporting his estimation are increasing adoption of DMS by small and medium-sized entities, boom in social media and advertising and growing reliance on Saas-based solutions.",0.827178418636322,0.011174722574651241,0.16164690256118774,positive,0.816003680229187
+12,2018-09-13 02:22:00,"Saas companies are expected to see strong top-line growth due to consistency in the recurring revenue percentages, subscription gross margin and a lower churn rate.",0.9489730596542358,0.015345722436904907,0.03568116948008537,positive,0.9336273670196533
+13,2018-09-13 02:22:00,Around 73% of the organizations are estimating that all their applications will be Saas by 2020.,0.05547741800546646,0.006110794376581907,0.9384117126464844,neutral,0.04936662316322327
+14,2018-09-13 02:22:00,"The growing use of Internet-of-things (IoT) in cars, offices, home and every other imaginable place is a big driver for continued growth.",0.6684797406196594,0.01172705553472042,0.3197932243347168,positive,0.6567527055740356
+15,2018-09-13 02:22:00,Around 94% of all businesses that implemented IoT have already got their investments back.,0.4649370610713959,0.019573425874114037,0.5154895186424255,neutral,0.4453636407852173
+16,2018-09-13 02:22:00,"IoT smart devices have a major role to play in manufacturing, healthcare and businesses.",0.08536741137504578,0.004796029068529606,0.9098365902900696,neutral,0.08057138323783875
+17,2018-09-13 02:22:00,"By the year 2025, the global growth for this technology is estimated to be $6.2 trillion .",0.38084059953689575,0.008655731566250324,0.610503613948822,neutral,0.3721848726272583
+18,2018-09-13 02:22:00,"Smart cities, automated transportation, smarter energy management systems are some examples of IoT.",0.10729741305112839,0.006781421601772308,0.8859211802482605,neutral,0.10051599144935608
+19,2018-09-13 02:22:00,However there is little concern in this space with regard to overvaluation especially for FAANGs.,0.013239366002380848,0.02196275070309639,0.9647979140281677,neutral,-0.008723384700715542
+20,2018-09-13 02:22:00,The stupendous bull run seems to have been halted lately as several tech companies faced a sell-off (read: Is There a Bubble in FAANG?,0.02676919847726822,0.9130579829216003,0.06017278507351875,negative,-0.8862887620925903
+21,2018-09-13 02:22:00,Buy These Tech ETFs ).,0.055823396891355515,0.006118754856288433,0.9380578994750977,neutral,0.04970464110374451
+22,2018-09-13 02:22:00,Shares of Facebook are down nearly 0.7% over the past week after COO Sheryl Sandberg's testimony in front of the Senate.,0.01940207928419113,0.9693491458892822,0.011248774826526642,negative,-0.9499470591545105
+23,2018-09-13 02:22:00,Other constituents that make up FAANG are also down.,0.020005501806735992,0.8629407286643982,0.11705373972654343,negative,-0.8429352045059204
+24,2018-09-13 02:22:00,"Apple lost 1.3%, Amazon shed 0.4% and Google was down 0.8% barring Netflix, which gained nearly 5% over the past week (read: Trump's Tariff Threat to Hurt Apple: ETFs in Focus ).",0.022477582097053528,0.9568545818328857,0.020667800679802895,negative,-0.9343770146369934
+25,2018-09-13 02:22:00,"Based on the latest performances and market demand for software going forward, these software ETFs could be worth investing.",0.46075788140296936,0.009936590678989887,0.5293055176734924,neutral,0.45082128047943115
+26,2018-09-13 02:22:00,All these ETFs carry a Zacks ETF Rank #2 (Buy) with a Medium risk outlook.,0.18333792686462402,0.009738311171531677,0.8069237470626831,neutral,0.17359961569309235
+27,2018-09-13 02:22:00,It tracks the S&P North American Technology-Software Index.,0.028747476637363434,0.0075260549783706665,0.9637265205383301,neutral,0.021221421658992767
+28,2018-09-13 02:22:00,There are 64 holdings in the basket with Salesforce.com CRM occupying the top spot with 9.01% weight.,0.08963678032159805,0.009835784323513508,0.9005274772644043,neutral,0.07980099320411682
+29,2018-09-13 02:22:00,AUM is $2.1 billion and expense ratio is 0.47%.,0.013827964663505554,0.0914514884352684,0.8947205543518066,neutral,-0.07762352377176285
+30,2018-09-13 02:22:00,It tracks the Dynamic Software Intellidex Index.,0.016216622665524483,0.009128259494900703,0.9746550917625427,neutral,0.007088363170623779
+31,2018-09-13 02:22:00,"There are 30 holdings in the basket, with Intuit INTU occupying the top spot with 5.02% weight.",0.10060202330350876,0.009381287731230259,0.8900166153907776,neutral,0.09122073650360107
+32,2018-09-13 02:22:00,AUM is $281.4 million and expense ratio is 0.63%.,0.01419962476938963,0.1417897343635559,0.844010591506958,neutral,-0.1275901049375534
+33,2018-09-13 02:22:00,It tracks the S&P Software & Services Select Industry Index.,0.02396361716091633,0.006807936821132898,0.9692284464836121,neutral,0.017155680805444717
+34,2018-09-13 02:22:00,There are 127 holdings in the basket and Acxiom Corp ACXM occupies the top spot with 1.1% weight.,0.13110020756721497,0.015725350007414818,0.8531744480133057,neutral,0.115374855697155
+35,2018-09-13 02:22:00,AUM is $131.6 million and expense ratio is 0.35%.,0.013092095963656902,0.09738931804895401,0.8895186185836792,neutral,-0.08429722487926483
+36,2018-09-13 02:22:00,Want key ETF info delivered straight to your inbox?,0.030542515218257904,0.028245834633708,0.9412116408348083,neutral,0.002296680584549904
+37,2018-09-13 02:22:00,"Zacks' free Fund Newsletter will brief you on top news and analysis, as well as top-performing ETFs, each week.",0.023141156882047653,0.006683881860226393,0.9701749682426453,neutral,0.016457274556159973
+38,2018-09-13 02:22:00,"Get it free >>
+
+Want the latest recommendations from Zacks Investment Research?",0.032103605568408966,0.013047012500464916,0.9548494219779968,neutral,0.019056592136621475
+39,2018-09-13 02:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+40,2018-09-13 02:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+41,2018-09-13 02:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+42,2018-09-13 02:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+43,2018-09-13 02:22:00,"Click to get this free report
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.00937547255307436,0.019015243276953697,0.9716092348098755,neutral,-0.009639770723879337

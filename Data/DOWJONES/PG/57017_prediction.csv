@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-13 06:08:00,Even elite businesses with juicy dividends suffer share price selloffs from time to time.,0.02718854509294033,0.8566773533821106,0.11613406240940094,negative,-0.8294888138771057
+1,2020-10-13 06:08:00,"Sometimes, these selloffs are caused by short-term, solvable problems within the individual companies.",0.022716108709573746,0.8683837652206421,0.10890009254217148,negative,-0.8456676602363586
+2,2020-10-13 06:08:00,"Sometimes, these selloffs are caused because the overall stock market goes down in value.",0.028374450281262398,0.897859513759613,0.07376597821712494,negative,-0.869485080242157
+3,2020-10-13 06:08:00,These selloffs are almost always opportunities to buy these firms at bargain prices and start collecting steady dividend payments.,0.25415366888046265,0.03126799687743187,0.7145783305168152,neutral,0.22288566827774048
+4,2020-10-13 06:08:00,"When you spend money on any big purchase, like a home or a car, you want to pay a good price.",0.14475156366825104,0.012991427443921566,0.8422569632530212,neutral,0.1317601352930069
+5,2020-10-13 06:08:00,You want to get value for your dollar.,0.11095213145017624,0.007772276643663645,0.8812756538391113,neutral,0.10317985713481903
+6,2020-10-13 06:08:00,"When you buy a car, you want to pay a good price.",0.16449658572673798,0.015190640464425087,0.8203127980232239,neutral,0.14930593967437744
+7,2020-10-13 06:08:00,"When you buy a house, you want to pay a good price.",0.1527220606803894,0.013313863426446915,0.8339641094207764,neutral,0.1394082009792328
+8,2020-10-13 06:08:00,You don’t want to overpay.,0.03262386843562126,0.03222116827964783,0.9351550340652466,neutral,0.00040270015597343445
+9,2020-10-13 06:08:00,You don’t want to embarrass yourself by getting ripped off.,0.07187643647193909,0.3613666892051697,0.5667568445205688,neutral,-0.2894902527332306
+10,2020-10-13 06:08:00,"Yet… when people invest, the idea of paying a good price is often cast aside.",0.05898391455411911,0.14554117619991302,0.7954748868942261,neutral,-0.08655726164579391
+11,2020-10-13 06:08:00,"They get excited about a story they read in a magazine… or how much their brother-in-law is making in a stock, and they just buy it.",0.0452362596988678,0.016661692410707474,0.9381020665168762,neutral,0.028574567288160324
+12,2020-10-13 06:08:00,They don’t pay any attention to the price they’re paying… or the value they’re getting for their investment dollar.,0.05787207931280136,0.09436190128326416,0.8477659821510315,neutral,-0.0364898219704628
+13,2020-10-13 06:08:00,"Warren Buffett often repeats a valuable quote from investment legend Ben Graham: “Price is what you pay, value is what you get.”
+
+I think that’s a great way to put it.",0.17050015926361084,0.02377748116850853,0.8057223558425903,neutral,0.146722674369812
+14,2020-10-13 06:08:00,"Like many investment concepts, it’s helpful to think of it in terms of real estate:
+
+Let’s say there’s a great house in your neighborhood.",0.07396536320447922,0.008638434112071991,0.9173961281776428,neutral,0.06532692909240723
+15,2020-10-13 06:08:00,"It’s an attractive house with solid, modern construction and new appliances.",0.6128582954406738,0.0108907176181674,0.3762509524822235,positive,0.6019675731658936
+16,2020-10-13 06:08:00,"It could bring in $30,000 per year in rent.",0.20267988741397858,0.01075972244143486,0.7865603566169739,neutral,0.19192016124725342
+17,2020-10-13 06:08:00,This is the “gross” rental income… or the income you have before subtracting expenses.,0.014862322248518467,0.0164355356246233,0.9687021374702454,neutral,-0.0015732133761048317
+18,2020-10-13 06:08:00,"If you could buy this house for just $120,000, it would be a good deal.",0.431342214345932,0.010352066718041897,0.5583056807518005,neutral,0.42099013924598694
+19,2020-10-13 06:08:00,"Since $30,000 goes into $120,000 four times, you could get back your purchase price in gross rental income in just four years.",0.18212871253490448,0.06061960756778717,0.7572516798973083,neutral,0.12150910496711731
+20,2020-10-13 06:08:00,"In this example, we’d say you’re paying “four times gross rental income.”
+
+Now… let’s say you pay $600,000 for that house.",0.027884263545274734,0.03527925908565521,0.9368364810943604,neutral,-0.007394995540380478
+21,2020-10-13 06:08:00,"Since $30,000 goes into $600,000 20 times, you would get back your purchase price in gross rental income in 20 years.",0.1440596580505371,0.0370488204061985,0.8188914656639099,neutral,0.1070108413696289
+22,2020-10-13 06:08:00,"In this example, we’d say you’re paying “20 times gross rental income.”
+
+Paying $600,000 is obviously not as good a deal as paying just $120,000.",0.046950243413448334,0.05926823988556862,0.8937815427780151,neutral,-0.012317996472120285
+23,2020-10-13 06:08:00,"Remember, in this example, we’re talking about buying the same house.",0.052552737295627594,0.010573734529316425,0.9368734955787659,neutral,0.04197900369763374
+24,2020-10-13 06:08:00,We’re talking about the same amount of rental income.,0.026538491249084473,0.006873868405818939,0.9665876030921936,neutral,0.019664622843265533
+25,2020-10-13 06:08:00,"In one case, you’re paying a good price.",0.39651986956596375,0.02794836461544037,0.5755317807197571,neutral,0.36857151985168457
+26,2020-10-13 06:08:00,You’re getting a good deal.,0.8183513879776001,0.015897274017333984,0.1657513529062271,positive,0.8024541139602661
+27,2020-10-13 06:08:00,You’ll recoup your investment in gross rental income in just four years.,0.4643647074699402,0.011770861223340034,0.5238644480705261,neutral,0.4525938332080841
+28,2020-10-13 06:08:00,"In the other case, you’re paying a lot more.",0.13945545256137848,0.036030419170856476,0.8245140910148621,neutral,0.103425033390522
+29,2020-10-13 06:08:00,You’re not getting a good deal.,0.08502938598394394,0.3080621659755707,0.6069084405899048,neutral,-0.22303277254104614
+30,2020-10-13 06:08:00,It will take you 20 years just to recoup your investment.,0.1906781941652298,0.02227935940027237,0.7870423793792725,neutral,0.16839882731437683
+31,2020-10-13 06:08:00,And it’s all a factor of the price you pay.,0.03289405256509781,0.013578157871961594,0.9535277485847473,neutral,0.019315894693136215
+32,2020-10-13 06:08:00,"It works the same way when investing in a business…
+
+You want to buy at a good price that allows you to get a good return on your investment.",0.2969973385334015,0.010567967779934406,0.6924346685409546,neutral,0.28642937541007996
+33,2020-10-13 06:08:00,"You want to avoid buying at a bloated, expensive price.",0.04808990657329559,0.08236914873123169,0.8695409893989563,neutral,-0.034279242157936096
+34,2020-10-13 06:08:00,"No matter, how great a business is, it can turn out to be a terrible investment if you pay the wrong price.",0.03381989151239395,0.8857356309890747,0.08044447004795074,negative,-0.851915717124939
+35,2020-10-13 06:08:00,"If you’re not clear on this point, please read through the home example again.",0.029415912926197052,0.04976765811443329,0.9208164215087891,neutral,-0.020351745188236237
+36,2020-10-13 06:08:00,"When it comes to buying elite businesses that raise their dividends every year, you can use the company’s dividend yield to help you answer the important question: “Is this business trading for a good price or a bad price?”
+
+When a stock’s price goes down and the annual dividend remains the same, the dividend yield rises.",0.18360286951065063,0.0921625867486,0.7242345809936523,neutral,0.09144028276205063
+37,2020-10-13 06:08:00,"For example, let’s say a stock is $50 per share and pays a $2 per share annual dividend.",0.026687508448958397,0.009267622604966164,0.9640448093414307,neutral,0.017419885843992233
+38,2020-10-13 06:08:00,This represents a yield of 4% (since 2 is 4% of 50).,0.18831394612789154,0.016900237649679184,0.7947857975959778,neutral,0.17141370475292206
+39,2020-10-13 06:08:00,"If the stock declines to $40 per share and the dividend payment remains $2 per share, the stock will yield 5% (since 2 is 5% of 40).",0.08539855480194092,0.30272185802459717,0.6118795871734619,neutral,-0.21732330322265625
+40,2020-10-13 06:08:00,"When a selloff causes an elite dividend-payer to trade near the high end of its historical dividend yield range, it’s a bargain… and it’s a good idea to buy shares.",0.4439232051372528,0.03959700092673302,0.5164797902107239,neutral,0.4043262004852295
+41,2020-10-13 06:08:00,"Remember, these companies pay the world’s most reliable dividends.",0.2762655019760132,0.010209932923316956,0.7135245203971863,neutral,0.2660555839538574
+42,2020-10-13 06:08:00,Their annual payouts only go one way — UP.,0.05801546201109886,0.05766972899436951,0.884314775466919,neutral,0.00034573301672935486
+43,2020-10-13 06:08:00,"When an elite dividend-payer’s share price suffers a decline of more than 15%, consider it “on sale” and buy it.",0.07822718471288681,0.07585658878087997,0.8459162712097168,neutral,0.002370595932006836
+44,2020-10-13 06:08:00,"For example, in the late 2008/early 2009 stock market decline, shares of elite dividend payer Procter & Gamble (NYSE:PG) fell from $65 to $45 (a decline of 30%).",0.01794588565826416,0.9726773500442505,0.009376716800034046,negative,-0.9547314643859863
+45,2020-10-13 06:08:00,Procter & Gamble is one of the world’s top consumer product businesses.,0.5985884666442871,0.013288128189742565,0.3881233334541321,positive,0.5853003263473511
+46,2020-10-13 06:08:00,"Every year, it sells billions and billions of dollars’ worth of basic, everyday products like Gillette razors, Pampers diapers, Charmin toilet paper, Crest toothpaste, Bounty paper towels, and Tide laundry detergent.",0.06293606758117676,0.005976204760372639,0.9310877323150635,neutral,0.056959863752126694
+47,2020-10-13 06:08:00,It has raised its dividend every year for more than 60 years.,0.7435987591743469,0.015528763644397259,0.24087251722812653,positive,0.7280700206756592
+48,2020-10-13 06:08:00,Investors who stepped in to buy this high-quality business after the market decline could have purchased shares at $50.,0.09357772767543793,0.016286956146359444,0.8901353478431702,neutral,0.07729077339172363
+49,2020-10-13 06:08:00,"In the five years that followed, Procter & Gamble climbed to $80 per share.",0.9120444059371948,0.01742914691567421,0.07052645832300186,positive,0.8946152329444885
+50,2020-10-13 06:08:00,Its annual dividend grew to $2.57 per share.,0.9369056224822998,0.015010666102170944,0.048083722591400146,positive,0.9218949675559998
+51,2020-10-13 06:08:00,This annual dividend represented a 5.1% yield on a purchase price of $50 per share… and that yield will continue rising for many years.,0.675986111164093,0.014931032434105873,0.3090828061103821,positive,0.6610550880432129
+52,2020-10-13 06:08:00,"Owning one of the world’s best businesses… earning a 5.1% yield on your shares… collecting a safe income stream that rises every year…
+
+Buying the best at bargain prices is a beautiful thing.",0.5050082802772522,0.014678473584353924,0.480313241481781,positive,0.4903298020362854
+53,2020-10-13 06:08:00,"If you have the interest, time and knowhow, you can track these businesses yourself.",0.04815638065338135,0.00524644972756505,0.9465972185134888,neutral,0.042909931391477585
+54,2020-10-13 06:08:00,You can find all the information you need on many free financial websites.,0.0333111546933651,0.008032579906284809,0.9586561918258667,neutral,0.025278575718402863
+55,2020-10-13 06:08:00,"Or, you can simply pay an advisor or research firm to do it for you.",0.022710178047418594,0.00784322153776884,0.96944659948349,neutral,0.014866956509649754
+56,2020-10-13 06:08:00,I’d be remiss not to invite you to check out Neil George’s picks.,0.08357180655002594,0.02379778027534485,0.8926304578781128,neutral,0.05977402627468109
+57,2020-10-13 06:08:00,"Neil can recommend plenty of elite dividend-payers, complete with buy-below prices.",0.1931033730506897,0.008426406420767307,0.7984701991081238,neutral,0.18467696011066437
+58,2020-10-13 06:08:00,"Remember, you can make a bad investment in a great business if you pay a stupid price.",0.07316218316555023,0.5650305151939392,0.36180728673934937,negative,-0.4918683171272278
+59,2020-10-13 06:08:00,"View your investment purchases just like you would the purchase of a home, a car, or a computer.",0.03785194084048271,0.005571438930928707,0.9565766453742981,neutral,0.03228050097823143
+60,2020-10-13 06:08:00,Get good value for your investment dollar.,0.3794964849948883,0.012150784954428673,0.6083527207374573,neutral,0.3673456907272339
+61,2020-10-13 06:08:00,"And when an elite dividend-payer sells off for some reason, see it as an opportunity to buy quality at a bargain price.",0.19761517643928528,0.013952712528407574,0.7884320616722107,neutral,0.18366245925426483
+62,2020-10-13 06:08:00,"Once you’ve got price on your side, you’ve got to put time on your side.",0.2084912210702896,0.025592034682631493,0.7659167051315308,neutral,0.18289919197559357
+63,2020-10-13 06:08:00,Here’s how.,0.033434852957725525,0.017243383452296257,0.9493218064308167,neutral,0.016191469505429268
+64,2020-10-13 06:08:00,The post A Strategy for Buying Elite Businesses at Bargain Prices appeared first on InvestorPlace.,0.20877712965011597,0.026968302205204964,0.7642545700073242,neutral,0.18180882930755615

@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-13 11:28:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Las Vegas Sands Corp (Symbol: LVS), where a total volume of 19,868 contracts has been traded thus far today, a contract volume which is representative of approximately 2.0 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04635057598352432,0.010840483009815216,0.942808985710144,neutral,0.035510092973709106
+1,2019-08-13 11:28:00,"That number works out to 47.1% of LVS's average daily trading volume over the past month, of 4.2 million shares.",0.6814764738082886,0.020096473395824432,0.298427015542984,positive,0.6613799929618835
+2,2019-08-13 11:28:00,"Particularly high volume was seen for the $55 strike call option expiring September 06, 2019, with 3,076 contracts trading so far today, representing approximately 307,600 underlying shares of LVS.",0.28291329741477966,0.011243398301303387,0.7058433294296265,neutral,0.2716698944568634
+3,2019-08-13 11:28:00,"Below is a chart showing LVS's trailing twelve month trading history, with the $55 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) options are showing a volume of 34,905 contracts thus far today.",0.019616302102804184,0.04440484195947647,0.935978889465332,neutral,-0.024788539856672287
+4,2019-08-13 11:28:00,"That number of contracts represents approximately 3.5 million underlying shares, working out to a sizeable 46.7% of CRM's average daily trading volume over the past month, of 7.5 million shares.",0.12380316853523254,0.009384039789438248,0.8668127655982971,neutral,0.1144191324710846
+5,2019-08-13 11:28:00,"Particularly high volume was seen for the $155 strike call option expiring September 20, 2019, with 1,813 contracts trading so far today, representing approximately 181,300 underlying shares of CRM.",0.2800416350364685,0.011171014048159122,0.7087873816490173,neutral,0.26887062191963196
+6,2019-08-13 11:28:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $155 strike highlighted in orange:
+
+And Fair Isaac Corp (Symbol: FICO) saw options trading volume of 938 contracts, representing approximately 93,800 underlying shares or approximately 46.5% of FICO's average daily trading volume over the past month, of 201,770 shares.",0.017995955422520638,0.013160856440663338,0.9688432216644287,neutral,0.0048350989818573
+7,2019-08-13 11:28:00,"Particularly high volume was seen for the $280 strike put option expiring August 16, 2019, with 325 contracts trading so far today, representing approximately 32,500 underlying shares of FICO.",0.1720539629459381,0.009024675004184246,0.8189213871955872,neutral,0.163029283285141
+8,2019-08-13 11:28:00,"Below is a chart showing FICO's trailing twelve month trading history, with the $280 strike highlighted in orange:
+
+For the various different available expirations for LVS options, CRM options, or FICO options, visit StockOptionsChannel.com.",0.009222116321325302,0.027619367465376854,0.9631585478782654,neutral,-0.018397251144051552
+9,2019-08-13 11:28:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

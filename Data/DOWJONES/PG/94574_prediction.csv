@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-02-03 08:12:00,"Nearing the halfway mark in today's session, here are the individual equity names with the most call and put buying on optionMONSTER's ActionTracker data system.",0.04984217882156372,0.02422216720879078,0.925935685634613,neutral,0.02562001161277294
+1,2012-02-03 08:12:00,"Yahoo (YHOO): An investor purchased a block of 13,000 March 18 calls for $0.15, looking for upside in the stock.",0.11845651268959045,0.030632982030510902,0.8509105443954468,neutral,0.0878235325217247
+2,2012-02-03 08:12:00,YHOO rose 1.20 percent to $15.91.,0.9352174997329712,0.024085910990834236,0.040696579962968826,positive,0.9111315608024597
+3,2012-02-03 08:12:00,"PoShares UltraShort 20+ Year Treasury Fund (TBT): About 21,000 March 20 calls were bought for $0.57 to $0.63, looking for upside.",0.18034547567367554,0.0979643166065216,0.7216902375221252,neutral,0.08238115906715393
+4,2012-02-03 08:12:00,That reflects a belief that bond prices will drop and yields will increase.,0.21938613057136536,0.38027307391166687,0.4003407955169678,neutral,-0.1608869433403015
+5,2012-02-03 08:12:00,TBT rose 4.22 percent to $19.25.,0.9141424298286438,0.01752772182226181,0.06832977384328842,positive,0.8966147303581238
+6,2012-02-03 08:12:00,"Avis Budget Group (CAR): For the third straight day, a block of 10,000 March 14 calls was purchased as an investor looks for higher prices.",0.8173832297325134,0.02402469702064991,0.158592090010643,positive,0.7933585047721863
+7,2012-02-03 08:12:00,CAR rose 3.36 percent to $14.75.,0.8525349497795105,0.020927932113409042,0.12653709948062897,positive,0.8316070437431335
+8,2012-02-03 08:12:00,"Procter & Gamble (PG): The February 62.50 puts were bought and the February 65 calls were sold, reflecting a belief that upside is limited.",0.3540695309638977,0.1638762503862381,0.4820541441440582,neutral,0.1901932805776596
+9,2012-02-03 08:12:00,"Volume, however, was below open interest.",0.016651013866066933,0.1671157032251358,0.8162332773208618,neutral,-0.15046468377113342
+10,2012-02-03 08:12:00,"PG fell 0.19 percent to $63.44
+
+MannKind (MNKD): Investors sold the February 5 puts for $2.80 to $2.85, taking profits as shares fall.",0.030965276062488556,0.9528359770774841,0.01619870401918888,negative,-0.9218707084655762
+11,2012-02-03 08:12:00,MNKD fell 11 percent to $2.19.,0.01747101917862892,0.9715864062309265,0.010942471213638783,negative,-0.9541153907775879
+12,2012-02-03 08:12:00,"Pioneer National Resource (PXD): More than 5,000 February 95 puts were bought for $0.65 to $0.70 as investors seek protection against a drop.",0.7303701639175415,0.10697658360004425,0.16265322268009186,positive,0.6233935952186584
+13,2012-02-03 08:12:00,PXD rose 2.04 percent to $104.75.,0.9274353981018066,0.021651048213243484,0.05091344937682152,positive,0.9057843685150146
+14,2012-02-03 08:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

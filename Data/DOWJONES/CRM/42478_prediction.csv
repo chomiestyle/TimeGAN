@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-07-24 02:21:00,"The coronavirus continues to spread across the world, businesses are grappling with remote work, and social distancing looks like it could be the new normal until a vaccine is available.",0.1126675009727478,0.3621158301830292,0.5252166986465454,neutral,-0.24944832921028137
+1,2020-07-24 02:21:00,"Meanwhile, the digital world is doing just fine, and technology trends that were expected to play out over a few years have been condensed into a matter of months.",0.39862924814224243,0.01521162036806345,0.5861591696739197,neutral,0.38341763615608215
+2,2020-07-24 02:21:00,"Amidst this backdrop, IPOs have been hitting the market at a torrid pace.",0.026214776560664177,0.914624035358429,0.05916114151477814,negative,-0.8884092569351196
+3,2020-07-24 02:21:00,"Enter Jamf Holdings (NASDAQ: JAMF), the leader in Apple (NASDAQ: AAPL) device enterprise management.",0.5423156023025513,0.010203474201261997,0.4474808871746063,positive,0.5321121215820312
+4,2020-07-24 02:21:00,"After pricing at $26 a share, the company made its publicly traded debut at more than double that amount (although share price has moderated and is currently at ""only"" $39).",0.7392202019691467,0.020650431513786316,0.24012939631938934,positive,0.7185697555541992
+5,2020-07-24 02:21:00,"Management of Apple-based business software is in high demand right now as organizations make their digital transformations, and Jamf is growing fast -- although the expectation its growth will continue is now well priced in.",0.877945601940155,0.013035639189183712,0.10901874303817749,positive,0.8649099469184875
+6,2020-07-24 02:21:00,"Software for the most valuable brand in the world
+
+As of this writing, Apple is the most valuable publicly traded company in the world with a market cap of $1.68 trillion.",0.5352674126625061,0.013192925602197647,0.45153966546058655,positive,0.5220744609832764
+7,2020-07-24 02:21:00,But Apple is primarily a hardware company.,0.011870957911014557,0.010626647621393204,0.9775024056434631,neutral,0.0012443102896213531
+8,2020-07-24 02:21:00,"Though it has a fast-growing services segment, businesses looking to manage their operations and customer-facing applications via an iPhone, iPad, or Mac need some help.",0.31632986664772034,0.01687757670879364,0.6667925715446472,neutral,0.2994523048400879
+9,2020-07-24 02:21:00,That's where Jamf comes in.,0.0582011379301548,0.03428124636411667,0.9075176119804382,neutral,0.02391989156603813
+10,2020-07-24 02:21:00,"Global Apple devices in active use surpassed 1.5 billion at the end of 2019, many of those deployed in businesses, hospitals, schools, and government agencies.",0.45542335510253906,0.011538714170455933,0.5330379009246826,neutral,0.44388464093208313
+11,2020-07-24 02:21:00,Jamf helps such organizations secure and remotely manage their Apple hardware and apps.,0.05879509449005127,0.006638259161263704,0.9345666766166687,neutral,0.05215683579444885
+12,2020-07-24 02:21:00,"The company boasts having over 40,000 enterprise customers and servicing tens of millions of devices.",0.24179497361183167,0.006891224998980761,0.7513138055801392,neutral,0.2349037528038025
+13,2020-07-24 02:21:00,"Jamf is a cloud-based software-as-a-service offering, so annual recurring revenue (ARR) is the easiest way to track its progress.",0.04352195933461189,0.006590630393475294,0.9498874545097351,neutral,0.03693132847547531
+14,2020-07-24 02:21:00,"During the quarter ended March 31, 2020, ARR grew 40% from a year ago to $225 million, building on solid progress made in 2019.",0.9597727656364441,0.019732948392629623,0.02049427106976509,positive,0.9400398135185242
+15,2020-07-24 02:21:00,Jamf cites a report from business consulting firm Frost & Sullivan that predicts Apple enterprise management spending will grow nearly 18% each year to top $23.4 billion a year by the end of 2024.,0.9278512001037598,0.017975913360714912,0.05417288467288017,positive,0.9098752737045288
+16,2020-07-24 02:21:00,Jamf thinks that the market could get even bigger if Apple decides to make other hardware (like the Watch) available for enterprise management.,0.5022339224815369,0.032109420746564865,0.46565666794776917,positive,0.4701245129108429
+17,2020-07-24 02:21:00,"Thus, even within the existing business that's available for grabs, Jamf has plenty of room for growth.",0.7796071767807007,0.011858726851642132,0.20853418111801147,positive,0.7677484750747681
+18,2020-07-24 02:21:00,"Jamf will receive net proceeds of $320 million from its IPO, which it says it will use to pay off its debt in full.",0.1264318972826004,0.006312583573162556,0.8672555088996887,neutral,0.12011931091547012
+19,2020-07-24 02:21:00,"As of March 31, debt totaled $202 million.",0.009770609438419342,0.013541998341679573,0.9766874313354492,neutral,-0.003771388903260231
+20,2020-07-24 02:21:00,"Assuming that's the same amount at time of payoff, that leaves $118 million to be added to the company's balance sheet.",0.03108152747154236,0.01159932091832161,0.9573192000389099,neutral,0.01948220655322075
+21,2020-07-24 02:21:00,"Added to the $22.7 million in cash and equivalents reported at the end of March, that gives Jamf just shy of a year's worth of cash operating expenses at the 2019 run rate, and zero debt.",0.4102710783481598,0.10119462758302689,0.48853424191474915,neutral,0.3090764582157135
+22,2020-07-24 02:21:00,This cloud company is on solid footing as it embarks on its future as a public concern.,0.8733776211738586,0.012755158357322216,0.11386717855930328,positive,0.8606224656105042
+23,2020-07-24 02:21:00,"With a market cap currently around $4.6 billion (based on a price per share of $39), the stock trades for roughly 20 times its ARR in Q1 2020.",0.6166073679924011,0.028733665123581886,0.35465899109840393,positive,0.5878736972808838
+24,2020-07-24 02:21:00,"Clearly, investors expect the recent pace of growth to continue.",0.8807770013809204,0.012897707521915436,0.10632526874542236,positive,0.8678792715072632
+25,2020-07-24 02:21:00,"However, it's important to remember that Jamf has competitors.",0.14956523478031158,0.006880817469209433,0.8435540199279785,neutral,0.14268441498279572
+26,2020-07-24 02:21:00,"It isn't the lone creator of Apple enterprise management tools, and while Apple itself uses Jamf and is counted among the cloud outfit's sales partners, it by no means has any exclusivity to its relationship with the tech titan.",0.020196808502078056,0.024258287623524666,0.9555448889732361,neutral,-0.0040614791214466095
+27,2020-07-24 02:21:00,"Nevertheless, it isn't a completely unreasonable price tag, and businesses built on top of other big tech companies' platforms are increasingly common.",0.05247030407190323,0.017694775015115738,0.9298349022865295,neutral,0.03477552905678749
+28,2020-07-24 02:21:00,"And success with this model isn't unprecedented -- think Veeva Systems (NYSE: VEEV) and nCino (NASDAQ: NCNO), both built on salesforce.com (NYSE: CRM).",0.3903842568397522,0.010054784826934338,0.5995609760284424,neutral,0.3803294599056244
+29,2020-07-24 02:21:00,Jamf thus joins a growing list of second-tier software technologists riding the coattails of their much larger peers.,0.6234409809112549,0.018229233101010323,0.35832977294921875,positive,0.6052117347717285
+30,2020-07-24 02:21:00,"For investors who think Apple for enterprise use will pick up steam in the post-coronavirus era, Jamf is worth keeping an eye on.",0.5082114934921265,0.016706431284546852,0.47508201003074646,positive,0.49150505661964417
+31,2020-07-24 02:21:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+32,2020-07-24 02:21:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+33,2020-07-24 02:21:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them!",0.21481488645076752,0.013847383670508862,0.7713377475738525,neutral,0.20096750557422638
+34,2020-07-24 02:21:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2020-07-24 02:21:00,"Nicholas Rossolillo and his clients own shares of Apple, Salesforce.com, and Veeva Systems.",0.017930788919329643,0.00927061028778553,0.9727986454963684,neutral,0.008660178631544113
+36,2020-07-24 02:21:00,"The Motley Fool owns shares of and recommends Apple, Salesforce.com, and Veeva Systems.",0.03093586303293705,0.017288602888584137,0.9517755508422852,neutral,0.013647260144352913
+37,2020-07-24 02:21:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

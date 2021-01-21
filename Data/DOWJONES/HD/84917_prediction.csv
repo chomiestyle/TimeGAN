@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-29 09:07:00,Home Depot Inc (NYSE: HD ) has been a consistent winner.,0.8923829197883606,0.019655676558613777,0.08796137571334839,positive,0.8727272152900696
+1,2017-11-29 09:07:00,"HD stock price is up 30% this year, 34% over the past 12 months and 170% over the past five years.",0.9508987069129944,0.018275832757353783,0.03082544356584549,positive,0.9326228499412537
+2,2017-11-29 09:07:00,Should investors take gains or stay on the bull train?,0.1481942981481552,0.11053603887557983,0.7412697076797485,neutral,0.03765825927257538
+3,2017-11-29 09:07:00,"The latter is most applicable, assuming you're a long-term investor.",0.025132527574896812,0.009650894440710545,0.9652165174484253,neutral,0.015481633134186268
+4,2017-11-29 09:07:00,"If one were to book some profits or sell a few upside calls vs. their position, that is justifiable.",0.06767134368419647,0.21327921748161316,0.7190494537353516,neutral,-0.1456078737974167
+5,2017-11-29 09:07:00,"However, there's no reason for this secular winner to stop winning and therefore we should stay long.",0.14587579667568207,0.03027164749801159,0.8238525986671448,neutral,0.11560414731502533
+6,2017-11-29 09:07:00,Here are three reasons why.,0.011740867048501968,0.02663036249577999,0.961628794670105,neutral,-0.014889495447278023
+7,2017-11-29 09:07:00,"One of the most unique things about Home Depot and Lowe's Companies, Inc. (NYSE: LOW ) is that they can hold their ground against Amazon.com, Inc. (NASDAQ: AMZN ).",0.7615432143211365,0.015599868260324001,0.22285689413547516,positive,0.7459433674812317
+8,2017-11-29 09:07:00,"In a day and age where e-commerce is quickly sinking the ships of Macy's Inc (NYSE: M ), J C Penney Company Inc (NYSE: JCP ), Sears Holding Corp (NASDAQ: SHLD ) and many more, LOW and HD are doing fine.",0.6308635473251343,0.06519077718257904,0.30394574999809265,positive,0.565672755241394
+9,2017-11-29 09:07:00,"In fact, HD is doing better than fine.",0.9037523865699768,0.02207713946700096,0.07417050749063492,positive,0.8816752433776855
+10,2017-11-29 09:07:00,Last quarter the company reported earnings of $1.84 per share on revenue of $25 billion.,0.08948766440153122,0.008360695093870163,0.9021515846252441,neutral,0.08112697303295135
+11,2017-11-29 09:07:00,Sales climbed 8% year-over-year while earnings ballooned 15%.,0.9508988261222839,0.0239846333861351,0.025116456672549248,positive,0.9269142150878906
+12,2017-11-29 09:07:00,Even more impressive?,0.31493228673934937,0.11889292299747467,0.5661748051643372,neutral,0.1960393637418747
+13,2017-11-29 09:07:00,Comparable-store sales results came in at a blistering 7.9%.,0.026708414778113365,0.9358518123626709,0.03743969649076462,negative,-0.9091433882713318
+14,2017-11-29 09:07:00,"Can I buy a DeWalt drill, chop saw or tile cutter on Amazon?",0.05844089388847351,0.03182867169380188,0.9097304344177246,neutral,0.02661222219467163
+15,2017-11-29 09:07:00,"Yes, I can.",0.44484326243400574,0.02866208367049694,0.5264946222305298,neutral,0.41618117690086365
+16,2017-11-29 09:07:00,"And to some extent, that has to eat into Home Depot's sales.",0.08063623309135437,0.06488446146249771,0.8544793128967285,neutral,0.01575177162885666
+17,2017-11-29 09:07:00,"But what about Christmas trees, spring flowers or vegetable plants?",0.037741124629974365,0.02859853208065033,0.9336603879928589,neutral,0.009142592549324036
+18,2017-11-29 09:07:00,"By and large, customers will keep going to Home Depot.",0.189206063747406,0.013229909352958202,0.7975640296936035,neutral,0.17597615718841553
+19,2017-11-29 09:07:00,"Contractors need constant supplies - lumber, pipes, sheetrock, plywood, etc.",0.07730549573898315,0.01053224690258503,0.9121622443199158,neutral,0.06677325069904327
+20,2017-11-29 09:07:00,"They're not going to wait a day or two to get them from Amazon, if it even sells it.",0.02340417541563511,0.016727151349186897,0.9598686695098877,neutral,0.006677024066448212
+21,2017-11-29 09:07:00,"Heck, even average Joes working on a home project won't postpone it for each setback they face.",0.08745891600847244,0.25740519165992737,0.6551359295845032,neutral,-0.16994628310203552
+22,2017-11-29 09:07:00,They're going to run up to Home Depot a few times on a Saturday or Sunday and get what they need.,0.07456314563751221,0.010987444780766964,0.9144493937492371,neutral,0.06357569992542267
+23,2017-11-29 09:07:00,"And since they're not all experts, it helps being able to talk to employees about what wattage to use or what tools might be needed for the job at hand.",0.16673825681209564,0.010588468052446842,0.8226733207702637,neutral,0.15614978969097137
+24,2017-11-29 09:07:00,"Bottom line is, Home Depot has a place in the future of retail and there's not much Amazon can do about it.",0.018094535917043686,0.02604657970368862,0.9558588862419128,neutral,-0.007952043786644936
+25,2017-11-29 09:07:00,At least not as quickly as it's destroying other industries in retail.,0.05079147592186928,0.7860146164894104,0.1631939858198166,negative,-0.735223114490509
+26,2017-11-29 09:07:00,So what's driving all these customers to hire contractors or take on home renovation projects of their own?,0.02262299694120884,0.039947811514139175,0.9374292492866516,neutral,-0.017324814572930336
+27,2017-11-29 09:07:00,A stronger economy and an improving housing market helps.,0.9052978754043579,0.024667976424098015,0.07003410160541534,positive,0.8806298971176147
+28,2017-11-29 09:07:00,"As home values across America rise and as the economy strengthens, consumers are increasingly looking to own more homes.",0.7610968947410583,0.01877930946648121,0.22012381255626678,positive,0.7423175573348999
+29,2017-11-29 09:07:00,"Some are looking to renovate, while others are looking to flip.",0.0676557719707489,0.009732159785926342,0.9226121306419373,neutral,0.057923611253499985
+30,2017-11-29 09:07:00,"Some may just want a more valuable home and finally have the money for that new kitchen, deck addition or finished basement.",0.19702167809009552,0.012874826788902283,0.7901034951210022,neutral,0.18414685130119324
+31,2017-11-29 09:07:00,"Whatever the project, the catalyst is the same: Our bank accounts are growing and the economy is more secure.",0.8669706583023071,0.013830441050231457,0.11919889599084854,positive,0.8531402349472046
+32,2017-11-29 09:07:00,That's boosting the housing market and home spending.,0.8953952789306641,0.01742856577038765,0.08717627078294754,positive,0.8779667019844055
+33,2017-11-29 09:07:00,"An unfortunate but true catalyst to HD stock price has been natural disasters - be they the hurricanes that ravished Texas and Florida, the forest fires out West or bulking up on generators and flashlights before a big blizzard.",0.054219722747802734,0.43601691722869873,0.5097633600234985,neutral,-0.381797194480896
+34,2017-11-29 09:07:00,Rebuilding or making a home habitable again takes lots of money.,0.21912570297718048,0.011264483444392681,0.7696097493171692,neutral,0.20786121487617493
+35,2017-11-29 09:07:00,"Unfortunately, many victims don't have a choice.",0.04747292771935463,0.3654732406139374,0.5870538353919983,neutral,-0.31800031661987305
+36,2017-11-29 09:07:00,"Either replace the drywall, subfloor, cabinets and carpeting, or live in a toxic mold den.",0.04797200858592987,0.47140753269195557,0.48062050342559814,neutral,-0.4234355092048645
+37,2017-11-29 09:07:00,"Financially ready or not, these consumers face no choice but to remodel.",0.08053990453481674,0.017165524885058403,0.9022945165634155,neutral,0.06337437778711319
+38,2017-11-29 09:07:00,"That's part of what's driving HD stock price higher now, as we continue to rebuild and remodel after recent devastations.",0.4630831480026245,0.015124229714274406,0.5217926502227783,neutral,0.44795891642570496
+39,2017-11-29 09:07:00,"The graphic tells the story behind Home Depot, however simple it may sound.",0.029097631573677063,0.016595229506492615,0.9543071389198303,neutral,0.012502402067184448
+40,2017-11-29 09:07:00,"If you're long, I don't see any reason to completely abandon ship.",0.028129693120718002,0.07950083911418915,0.8923695087432861,neutral,-0.051371145993471146
+41,2017-11-29 09:07:00,"That said, it's hard to fault someone for taking profits if they've been along for a big win.",0.1703031063079834,0.21325872838497162,0.6164381504058838,neutral,-0.04295562207698822
+42,2017-11-29 09:07:00,"HD stock is overbought in the short-term (blue circle) but once it consolidates or pulls back some, it should go back to its winning ways.",0.7107113599777222,0.022730087861418724,0.26655855774879456,positive,0.6879812479019165
+43,2017-11-29 09:07:00,The best part?,0.08510736376047134,0.04787563160061836,0.8670170307159424,neutral,0.03723173215985298
+44,2017-11-29 09:07:00,Revenue is forecast to grow about 6.6% in fiscal 2018 and 5.4% the following year.,0.9270791411399841,0.015875261276960373,0.057045575231313705,positive,0.9112038612365723
+45,2017-11-29 09:07:00,"Analysts expect about 15% and 13.5% earnings growth in fiscal 2018 and 2019, respectively.",0.8475999236106873,0.015707382932305336,0.1366928070783615,positive,0.8318925499916077
+46,2017-11-29 09:07:00,I think the fiscal 2019 numbers may be too low at this rate.,0.026275815442204475,0.7368312478065491,0.23689298331737518,negative,-0.7105554342269897
+47,2017-11-29 09:07:00,"• The 9 Best Stocks to Buy on the Dip
+
+In any regard, 20 times forward earnings estimates is not that lofty a valuation to pay for such high-quality growth.",0.6125450134277344,0.0777350589632988,0.30971986055374146,positive,0.534809947013855
+48,2017-11-29 09:07:00,"Additionally, Home Depot pays out a 2% dividend yield.",0.20137400925159454,0.017066283151507378,0.7815597057342529,neutral,0.18430772423744202
+49,2017-11-29 09:07:00,Bret Kenwell is the manager and author of Future Blue Chips and is on Twitter @BretKenwell .,0.044299837201833725,0.02498885616660118,0.9307113289833069,neutral,0.019310981035232544
+50,2017-11-29 09:07:00,"As of this writing, Bret Kenwell did not hold a position in any of the aforementioned securities.",0.008583794347941875,0.021699829027056694,0.9697163701057434,neutral,-0.013116034679114819
+51,2017-11-29 09:07:00,"• The 10 Best Stocks for Your 401k
+• 8 Bitcoin Stocks That You Won't Lose Your Shirt Over
+
+The post 3 Reasons Home Depot Inc Will Continue Marching Higher appeared first on InvestorPlace .",0.5467334389686584,0.041632287204265594,0.411634236574173,positive,0.5051011443138123
+52,2017-11-29 09:07:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

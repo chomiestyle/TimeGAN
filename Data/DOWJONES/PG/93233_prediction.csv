@@ -1,0 +1,77 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-21 06:30:00,"Chicago, IL - December 21, 2015 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017080113291740417,0.009105992503464222,0.9738138914108276,neutral,0.007974120788276196
+1,2015-12-21 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2015-12-21 06:30:00,"Stocks recently featured in the blog include Procter & Gamble Company ( PG ), Coca-Cola Company ( KO ), JPMorgan Chase & Co. ( JPM ), Boeing Co. ( BA ) and General Electric Company ( GE ).",0.022876860573887825,0.01034418772906065,0.9667789936065674,neutral,0.012532672844827175
+3,2015-12-21 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2015-12-21 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2015-12-21 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+The Dow mopped up gains over most of the week following a rebound in oil prices and a positive response to the Fed's rate hike.",0.90390545129776,0.048973310738801956,0.04712121933698654,positive,0.8549321293830872
+6,2015-12-21 06:30:00,The index gained on Monday following a rebound in the U.S. crude oil price.,0.9316655993461609,0.036100711673498154,0.03223365545272827,positive,0.8955649137496948
+7,2015-12-21 06:30:00,"The Dow increased again on Tuesday, led by gains in energy and financial shares.",0.9282118678092957,0.031212199479341507,0.04057588055729866,positive,0.8969996571540833
+8,2015-12-21 06:30:00,The index gained for the third successive day on Wednesday after Fed policy makers unanimously voted to raise interest rates.,0.9096767902374268,0.0402882918715477,0.05003488063812256,positive,0.8693885207176208
+9,2015-12-21 06:30:00,"The Dow moved lower on Thursday, led by declines in energy and materials shares, primarily because of a fall in oil prices.",0.020701464265584946,0.9686485528945923,0.01064992230385542,negative,-0.947947084903717
+10,2015-12-21 06:30:00,The Dow gained 1.4% during the first four trading days.,0.934585452079773,0.030831143260002136,0.03458339720964432,positive,0.9037542939186096
+11,2015-12-21 06:30:00,The index gained 0.6% on Monday following a rebound in the U.S. crude oil price.,0.9338905215263367,0.03811594098806381,0.027993565425276756,positive,0.8957746028900146
+12,2015-12-21 06:30:00,U.S. crude oil price erased early losses on Monday to end in positive territory as traders who had bet on lower prices booked profits.,0.8814750909805298,0.07540266960859299,0.04312219098210335,positive,0.8060724139213562
+13,2015-12-21 06:30:00,"WTI crude oil prices temporarily dropped below $35 a barrel, but bounced back 1.9% to close at $36.31 a barrel.",0.5716826915740967,0.3560200333595276,0.07229727506637573,positive,0.2156626582145691
+14,2015-12-21 06:30:00,"Exxon Mobil and Chevron advanced 2.3% and 3.3%, respectively.",0.8227016925811768,0.0257091224193573,0.15158917009830475,positive,0.7969925403594971
+15,2015-12-21 06:30:00,"Moreover, investors chose to play safe by investing in consumer staples stocks.",0.4062882959842682,0.01655750349164009,0.5771541595458984,neutral,0.3897307813167572
+16,2015-12-21 06:30:00,"This boosted the broader markets and The Procter & Gamble Company ( PG ) and The Coca-Cola Company ( KO ) increased 0.7% and 0.4%, respectively.",0.9548192024230957,0.022421224042773247,0.0227595753967762,positive,0.9323979616165161
+17,2015-12-21 06:30:00,"However, investors remained concerned about junk bonds which continued to experience a selloff.",0.05347094312310219,0.9038373827934265,0.042691670358181,negative,-0.8503664135932922
+18,2015-12-21 06:30:00,"The Dow increased 0.9% on Tuesday, led by gains in energy and financial shares.",0.9360228776931763,0.03419883921742439,0.029778290539979935,positive,0.9018240571022034
+19,2015-12-21 06:30:00,U.S. crude oil price continued to rebound from a near seven-year low hit on expectations that U.S. crude inventories declined last week.,0.8502487540245056,0.10844719409942627,0.04130403697490692,positive,0.7418015599250793
+20,2015-12-21 06:30:00,"According to The Wall Street Journal , the U.S. EIA was likely to report a decline in crude supplies by 1.4 million barrels for the week ending Dec 11 on Wednesday.",0.017197785899043083,0.9718385338783264,0.01096364576369524,negative,-0.9546407461166382
+21,2015-12-21 06:30:00,"Separately, pricing agency Platts predicted that U.S. crude inventories would decline by 2.5 million barrels for the same period.",0.017413942143321037,0.9703370928764343,0.01224895566701889,negative,-0.9529231786727905
+22,2015-12-21 06:30:00,"Meanwhile, Congress is expected to lift a 40-year old ban on oil exports.",0.30975767970085144,0.38789334893226624,0.3023490011692047,negative,-0.0781356692314148
+23,2015-12-21 06:30:00,"WTI crude oil price increased for the second consecutive day on Tuesday, gaining 2.8% to settle at $37.35 a barrel.",0.9458449482917786,0.026804368942975998,0.02735072933137417,positive,0.9190405607223511
+24,2015-12-21 06:30:00,"Exxon Mobil and Chevron advanced 4.5% and 3.8%, respectively.",0.8207283616065979,0.023050818592309952,0.15622079372406006,positive,0.7976775169372559
+25,2015-12-21 06:30:00,The possibility of a rate hike had a positive impact on the financial sector.,0.8855539560317993,0.020972495898604393,0.09347352385520935,positive,0.8645814657211304
+26,2015-12-21 06:30:00,Financial shares moved upward and Dow component JPMorgan Chase & Co. ( JPM ) increased 2.9%.,0.9422032833099365,0.027042346075177193,0.030754439532756805,positive,0.9151609539985657
+27,2015-12-21 06:30:00,"Meanwhile, CPI remained unchanged in November, following a 0.2% increase in October.",0.5573212504386902,0.3130030930042267,0.1296757012605667,positive,0.2443181574344635
+28,2015-12-21 06:30:00,The index gained 224.18 points or 1.3% on Wednesday after Fed policy makers unanimously voted to raise interest rates.,0.9248281121253967,0.0350581519305706,0.040113773196935654,positive,0.889769971370697
+29,2015-12-21 06:30:00,The central bank raised its key interest rate for the first time in nearly a decade.,0.826047956943512,0.03216773271560669,0.14178428053855896,positive,0.7938802242279053
+30,2015-12-21 06:30:00,The Fed said that the U.S. economy will continue to do well and a slight increase in rate was appropriate.,0.874565839767456,0.018350103870034218,0.10708414018154144,positive,0.8562157154083252
+31,2015-12-21 06:30:00,Policymakers forecast the rate to move up to 1.375% by the end of 2016.,0.8919692635536194,0.02234284207224846,0.08568796515464783,positive,0.8696264028549194
+32,2015-12-21 06:30:00,"Meanwhile, the Fed stressed that the pace of rate hikes will be 'gradual' in nature.",0.5190779566764832,0.015266194008290768,0.4656558036804199,positive,0.503811776638031
+33,2015-12-21 06:30:00,"Defensive stocks including utility stocks rallied the most in nine months, banking on the Fed's signal that the rate hike was a tentative beginning to a ""gradual"" tightening cycle.",0.9103600978851318,0.03394443169236183,0.05569550767540932,positive,0.8764156699180603
+34,2015-12-21 06:30:00,"However, the Fed's move to raise rates was widely telegraphed and has been largely priced in by the bourses.",0.42999500036239624,0.07464383542537689,0.49536120891571045,neutral,0.35535115003585815
+35,2015-12-21 06:30:00,"Meanwhile, industrial production fell 0.6% in November after decreasing 0.4% in October.",0.01779050938785076,0.9735522270202637,0.008657214231789112,negative,-0.955761730670929
+36,2015-12-21 06:30:00,"On the other hand, building permits surged 11% in November to hit a five-month high.",0.9444229006767273,0.026982435956597328,0.028594620525836945,positive,0.9174404740333557
+37,2015-12-21 06:30:00,"Additionally, housing starts soared 10.5%.",0.940802276134491,0.020950211212038994,0.03824755549430847,positive,0.919852077960968
+38,2015-12-21 06:30:00,"The Dow dropped 253.25 points or 1.4% on Thursday, led by declines in energy and materials shares.",0.020534174516797066,0.970563530921936,0.00890231505036354,negative,-0.9500293731689453
+39,2015-12-21 06:30:00,Oil prices ended lower due to an unexpected rise in U.S. crude inventories.,0.051185596734285355,0.9165077209472656,0.0323067381978035,negative,-0.8653221130371094
+40,2015-12-21 06:30:00,"According to the EIA, crude supplies for the week ending Dec 11, increased by 4.8 million barrels.",0.9476931095123291,0.022657526656985283,0.029649248346686363,positive,0.9250355958938599
+41,2015-12-21 06:30:00,"On the other hand, pricing agency Platts had forecast a decrease by 2.5 million barrels.",0.020806830376386642,0.9686573147773743,0.01053587906062603,negative,-0.9478504657745361
+42,2015-12-21 06:30:00,"Meanwhile, the dollar strengthened against most of the major currencies following the Federal Reserve's decision to hike benchmark interest rates in nearly a decade.",0.929678201675415,0.028014929965138435,0.04230692982673645,positive,0.9016632437705994
+43,2015-12-21 06:30:00,A stronger dollar also intensified the downward pressure on oil prices.,0.6977915167808533,0.22109463810920715,0.08111391961574554,positive,0.4766968786716461
+44,2015-12-21 06:30:00,"The WTI crude oil price fell 1.6% to end at $34.95 a barrel, its lowest settlement price since Feb 2009.",0.019808923825621605,0.9697900414466858,0.010400984436273575,negative,-0.9499810934066772
+45,2015-12-21 06:30:00,Boeing Co. ( BA ) boosted its quarterly dividend by 20% and raised its stock-repurchase plan to $14 billion to let investors share certain benefits of soaring airliner deliveries.,0.9401212334632874,0.019193697720766068,0.04068508744239807,positive,0.9209275245666504
+46,2015-12-21 06:30:00,Shares of Boeing gained more than 1% after the announcement on Dec 14 and have added 10.02% so far this year.,0.9514816999435425,0.019638510420918465,0.028879793360829353,positive,0.9318431615829468
+47,2015-12-21 06:30:00,Boeing's quarterly dividend payout increased to $1.09 per share from 91 cents paid earlier.,0.9551320672035217,0.023355182260274887,0.021512668579816818,positive,0.9317768812179565
+48,2015-12-21 06:30:00,"The company will pay the raised dividend on Mar 4, to stockholders on record as of Feb 12, 2016.",0.026166247203946114,0.008597597479820251,0.9652361869812012,neutral,0.017568649724125862
+49,2015-12-21 06:30:00,The company also said that it has finished its stock repurchases for 2015.,0.5461278557777405,0.014975009486079216,0.43889716267585754,positive,0.5311528444290161
+50,2015-12-21 06:30:00,The company has spent $6.75 billion out of the original $12 billion authorization announced last December and has currently $5.25 billion left.,0.061085112392902374,0.027098262682557106,0.9118165969848633,neutral,0.03398685157299042
+51,2015-12-21 06:30:00,"Notably, the latest increase takes the approved total to $14 billion.",0.473745197057724,0.01099471841007471,0.5152601003646851,neutral,0.46275046467781067
+52,2015-12-21 06:30:00,General Electric Company ( GE ) inked a definitive agreement to sell its commercial lending and leasing business in Japan to the leasing arm of Sumitomo Mitsui Financial Group for about $4.8 billion.,0.8497747778892517,0.013623438775539398,0.1366017758846283,positive,0.8361513614654541
+53,2015-12-21 06:30:00,"Sumitomo Mitsui Finance and Leasing will acquire GE's commercial lending and leasing business in Japan, including capital finance, fleet service and vendor finance.",0.14899934828281403,0.005839964374899864,0.8451606035232544,neutral,0.1431593894958496
+54,2015-12-21 06:30:00,The total assets sold are worth about $4.2 billion.,0.01841641403734684,0.00526253879070282,0.9763210415840149,neutral,0.01315387524664402
+55,2015-12-21 06:30:00,The offloaded business represented about $4.6 billion in ENI (Ending Net Investment).,0.028694726526737213,0.022424768656492233,0.9488804340362549,neutral,0.00626995787024498
+56,2015-12-21 06:30:00,"Subject to customary closing conditions, the sale is expected to close in April 2016.",0.017553213983774185,0.006167804356664419,0.9762790203094482,neutral,0.011385409161448479
+57,2015-12-21 06:30:00,"Upon completion, the deal will likely contribute about $600 million toward GE's targeted dividend of $35 billion under the divestment plan.",0.22402554750442505,0.007270752917975187,0.7687036991119385,neutral,0.21675479412078857
+58,2015-12-21 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+59,2015-12-21 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.05650392174720764,0.005220244638621807,0.9382758140563965,neutral,0.05128367617726326
+60,2015-12-21 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+61,2015-12-21 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+62,2015-12-21 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+63,2015-12-21 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+64,2015-12-21 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+65,2015-12-21 06:30:00,Find out What is happening in the stock market today on zacks.com.,0.01665451191365719,0.01796547882258892,0.9653800129890442,neutral,-0.0013109669089317322
+66,2015-12-21 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+67,2015-12-21 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+68,2015-12-21 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+69,2015-12-21 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-06-12 01:26:00,"Tesla (NASDAQ: TSLA) said on Tuesday that it will lay off about 9% of its employees, or about 4,100 people, the latest in a series of moves intended to help the struggling electric-car maker realize a long-elusive goal: sustainable profitability.",0.020431136712431908,0.9665175676345825,0.013051340356469154,negative,-0.9460864067077637
+1,2018-06-12 01:26:00,"Tesla has hundreds of thousands of reservations for its Model 3, a groundbreaking all-electric premium sedan.",0.24841058254241943,0.008947402238845825,0.7426420450210571,neutral,0.2394631803035736
+2,2018-06-12 01:26:00,But filling those orders has proven to be a tremendous challenge for the company.,0.8024448752403259,0.01962359808385372,0.17793160676956177,positive,0.7828212976455688
+3,2018-06-12 01:26:00,"Image source: Tesla, Inc.
+
+How Musk explained the move to employees
+
+In an email sent to all Tesla employees and subsequently made public, CEO Elon Musk made clear that the cuts will not include workers on the company's automotive production lines.",0.024450337514281273,0.8784580826759338,0.09709154814481735,negative,-0.8540077209472656
+4,2018-06-12 01:26:00,"Musk went on to explain that while Tesla isn't motivated by profit, the reality is that it has to demonstrate that it can be sustainably profitable at some point.",0.7188778519630432,0.013897007331252098,0.26722511649131775,positive,0.7049808502197266
+5,2018-06-12 01:26:00,What can we learn from this?,0.15334072709083557,0.014073822647333145,0.8325854539871216,neutral,0.13926690816879272
+6,2018-06-12 01:26:00,"What we can learn from Musk's email
+
+First, Musk's email makes clear that the layoffs are not a sign that Tesla's attempt to automate the Model 3 production line has suddenly become successful.",0.058153316378593445,0.4962296783924103,0.4456169307231903,negative,-0.438076376914978
+7,2018-06-12 01:26:00,"Tesla has struggled for months to implement Musk's highly automated vision for Model 3 manufacturing, amid signs that the notable quality defects in early Model 3s were a result of the automation attempt.",0.030903583392500877,0.9417797327041626,0.02731669321656227,negative,-0.9108761548995972
+8,2018-06-12 01:26:00,Has Tesla suddenly turned it around?,0.10084918886423111,0.19828006625175476,0.7008707523345947,neutral,-0.09743087738752365
+9,2018-06-12 01:26:00,"No: ""production associates,"" Tesla's term for assembly line workers, aren't included in the layoffs.",0.01863129995763302,0.8932844996452332,0.0880841538310051,negative,-0.8746532201766968
+10,2018-06-12 01:26:00,"In other words, the humans being laid off from Tesla aren't being laid off because they've been replaced by robots.",0.04409652575850487,0.5056055784225464,0.45029786229133606,negative,-0.4615090489387512
+11,2018-06-12 01:26:00,They're being laid off for the traditional reason: The company wants to cut costs.,0.04281361401081085,0.8898120522499084,0.06737426668405533,negative,-0.8469984531402588
+12,2018-06-12 01:26:00,"There's another point of interest: Another part of Musk's email raises some doubt about the future of Tesla's solar business:
+
+It's an abrupt turnaround, as Tesla's deal with The Home Depot (NYSE: HD) was just announced in February .",0.12135399878025055,0.4591720998287201,0.41947388648986816,negative,-0.33781808614730835
+13,2018-06-12 01:26:00,"But as my colleague Travis Hoium pointed out at the time, booths in retail stores haven't been much of a driver of residential solar sales in the past.",0.02896946296095848,0.11871656030416489,0.8523139953613281,neutral,-0.0897471010684967
+14,2018-06-12 01:26:00,It's possible that Musk looked at the early returns and decided it wasn't worth continuing.,0.0481075756251812,0.3921085596084595,0.5597838759422302,neutral,-0.34400099515914917
+15,2018-06-12 01:26:00,"But it's also possible that Tesla's solar business, acquired in 2016 when Tesla bought Solar City for $2.1 billion in stock, will be sharply cut back or even shut down as part of Musk's attempt to make Tesla sustainably profitable.",0.016468171030282974,0.9416404962539673,0.04189126566052437,negative,-0.9251723289489746
+16,2018-06-12 01:26:00,The simple takeaway is that Tesla is in trouble.,0.05598318949341774,0.30403000116348267,0.6399868130683899,neutral,-0.24804681539535522
+17,2018-06-12 01:26:00,Laying off 9% of workers isn't generally a sign that everything's going great.,0.021521348506212234,0.9571869969367981,0.02129165455698967,negative,-0.9356656670570374
+18,2018-06-12 01:26:00,But how much trouble?,0.1182551458477974,0.1961706131696701,0.6855742335319519,neutral,-0.07791546732187271
+19,2018-06-12 01:26:00,Musk has said repeatedly that Tesla won't need to raise additional cash to get to profitability.,0.7436045408248901,0.014721687883138657,0.24167384207248688,positive,0.7288828492164612
+20,2018-06-12 01:26:00,"But even analysts who have long been bullish on Tesla have had trouble swallowing that idea, not least because Tesla has some large debt payments coming due soon.",0.03423169627785683,0.8811719417572021,0.08459633588790894,negative,-0.8469402194023132
+21,2018-06-12 01:26:00,"Notably, longtime Tesla bull Adam Jonas of Morgan Stanley said bluntly in a note last month that he thinks Tesla will need to raise $3 billion in the third quarter , with half of that going to pay down debt.",0.7290639281272888,0.03347615897655487,0.2374599128961563,positive,0.6955877542495728
+22,2018-06-12 01:26:00,"One possibility here is that Musk really believes that, with enough belt-tightening, Tesla can squeak through -- that if he can finally get the Model 3's production line up to full speed, the car will generate enough cash to pay down the company's debts.",0.841536283493042,0.016120467334985733,0.142343208193779,positive,0.8254157900810242
+23,2018-06-12 01:26:00,"Another possibility is that Musk's discussions with potential funding sources and underwriters haven't gone well, and he's playing the hand he has as best as he can.",0.07117389887571335,0.3391956090927124,0.5896304845809937,neutral,-0.26802170276641846
+24,2018-06-12 01:26:00,"Both things could be true, of course.",0.07073484361171722,0.06839866191148758,0.8608664274215698,neutral,0.0023361817002296448
+25,2018-06-12 01:26:00,And it's not out of the question that Musk will pull it off -- that he will steer Tesla safely to profitability without needing more capital.,0.8912826776504517,0.015511354431509972,0.09320604801177979,positive,0.8757713437080383
+26,2018-06-12 01:26:00,But I struggle to find an explanation for this 9% layoff that is in any way bullish for Tesla investors.,0.0391283817589283,0.5751738548278809,0.38569772243499756,negative,-0.536045491695404
+27,2018-06-12 01:26:00,"10 stocks we like better than Tesla
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.130239799618721,0.030157074332237244,0.839603066444397,neutral,0.10008272528648376
+28,2018-06-12 01:26:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+29,2018-06-12 01:26:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Tesla wasn't one of them!",0.20422694087028503,0.013662043958902359,0.7821109890937805,neutral,0.19056490063667297
+30,2018-06-12 01:26:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2018-06-12 01:26:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+32,2018-06-12 01:26:00,John Rosevear has no position in any of the stocks mentioned.,0.009778820909559727,0.04971417412161827,0.9405070543289185,neutral,-0.03993535414338112
+33,2018-06-12 01:26:00,The Motley Fool owns shares of and recommends Tesla.,0.04086833819746971,0.013002796098589897,0.9461288452148438,neutral,0.027865542098879814
+34,2018-06-12 01:26:00,The Motley Fool has the following options: short September 2018 $180 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013114538975059986,0.02937193214893341,0.9575135707855225,neutral,-0.016257394105196
+35,2018-06-12 01:26:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+36,2018-06-12 01:26:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2018-06-12 01:26:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

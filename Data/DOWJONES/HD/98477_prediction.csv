@@ -1,0 +1,127 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-01 09:19:00,Markets set a blistering set of gains over the month with new milestones being created on a regular basis.,0.7983165979385376,0.08886432647705078,0.11281906068325043,positive,0.7094522714614868
+1,2017-03-01 09:19:00,Over the month increasingly evident that President Trump's policy proposals have gone down extremely well with investors.,0.8117881417274475,0.11160176992416382,0.07661011070013046,positive,0.7001863718032837
+2,2017-03-01 09:19:00,"Additionally, economic data continued to be largely encouraging while earnings numbers have been impressive, lending a firm basis to the long-running market rally.",0.9392637610435486,0.02365989424288273,0.03707628324627876,positive,0.9156038761138916
+3,2017-03-01 09:19:00,"For the month, the Dow, S&P 500 and Nasdaq rose 4.8%, 3.7% and 3.8%, respectively after President Trump vowed to bring back millions of jobs to the U.S. Additionally, optimism over Trump's proposed market-friendly policies including tax cuts, financial de-regulation and increase in infrastructure spending benefitted all the three key indexes.",0.9265434741973877,0.029206955805420876,0.0442495122551918,positive,0.8973365426063538
+4,2017-03-01 09:19:00,Fed's positive view of the economy and rally in oil prices as well as upbeat earnings reports also boosted investor sentiment.,0.9400959610939026,0.02242782898247242,0.03747619688510895,positive,0.9176681041717529
+5,2017-03-01 09:19:00,Most of the economic reports released during the month were encouraging in nature.,0.5333797931671143,0.01486640702933073,0.45175376534461975,positive,0.5185133814811707
+6,2017-03-01 09:19:00,The ISM manufacturing index increased while the services index declined only marginally for the month of January.,0.8279339671134949,0.10149238258600235,0.07057370990514755,positive,0.7264415621757507
+7,2017-03-01 09:19:00,"Retail sales increased 0.4%, following an upwardly revised 1% gain for December.",0.9493753910064697,0.028554746881127357,0.02206984907388687,positive,0.9208206534385681
+8,2017-03-01 09:19:00,"Durable orders rebounded in January, increasing by 1.8%.",0.9536928534507751,0.025974413380026817,0.02033274620771408,positive,0.927718460559845
+9,2017-03-01 09:19:00,The Leading Indicators Index gained 0.6% following an increase of 0.5% in December.,0.9509651064872742,0.02587294578552246,0.02316189557313919,positive,0.9250921607017517
+10,2017-03-01 09:19:00,CPI and PPI both moved up 0.6% in January.,0.9131977558135986,0.042325638234615326,0.044476594775915146,positive,0.8708721399307251
+11,2017-03-01 09:19:00,Construction spending increased by 0.2% in December.,0.9458333253860474,0.02560582384467125,0.028560880571603775,positive,0.9202275276184082
+12,2017-03-01 09:19:00,"However, a few key reports were negative in nature.",0.022786259651184082,0.6556204557418823,0.321593314409256,negative,-0.6328341960906982
+13,2017-03-01 09:19:00,Industrial production declined 0.3% following a downwardly revised 0.6% increase for December.,0.02245747484266758,0.9683599472045898,0.00918264128267765,negative,-0.9459024667739868
+14,2017-03-01 09:19:00,"While durable orders fell by 0.4%, consumer confidence dropped to 111.8.",0.01922406256198883,0.9719165563583374,0.008859356865286827,negative,-0.9526925086975098
+15,2017-03-01 09:19:00,"According to the ""second"" estimate by the Bureau of Economic Analysis, fourth quarter output of goods and services increased at a seasonally adjusted annual rate of 1.9% from the previous three months.",0.9449398517608643,0.029624760150909424,0.025435328483581543,positive,0.9153150916099548
+16,2017-03-01 09:19:00,This was lower than the consensus estimate of 2.1% growth.,0.02050255797803402,0.9662572741508484,0.013240141794085503,negative,-0.9457547068595886
+17,2017-03-01 09:19:00,An increase in the foreign-trade deficit weighed on growth during the final three months of 2016.,0.5228389501571655,0.3661506474018097,0.11101040989160538,positive,0.15668830275535583
+18,2017-03-01 09:19:00,"In the fourth quarter, exports fell 4% while imports rose 8.5%.",0.018822088837623596,0.9699913263320923,0.011186539195477962,negative,-0.9511692523956299
+19,2017-03-01 09:19:00,"Business investment fell lower, with spending on equipment decreasing 1.9%.",0.021703392267227173,0.9689996838569641,0.009296853095293045,negative,-0.9472962617874146
+20,2017-03-01 09:19:00,"Residential construction investment increased 9.6%, revised downward from an initial estimate of a 10.2% gain.",0.675768256187439,0.2755602300167084,0.048671528697013855,positive,0.4002080261707306
+21,2017-03-01 09:19:00,"However, strong gains in consumer spending had a positive impact on the domestic economy.",0.943860650062561,0.025050750002264977,0.031088558956980705,positive,0.9188098907470703
+22,2017-03-01 09:19:00,"Consumers, the torchbearers for the U.S. economy, increased spending by a solid 3%
+
+Most of the reports released across the month suggest that the housing sector's recovery has slowed down.",0.2779713273048401,0.6673780679702759,0.054650645703077316,negative,-0.3894067406654358
+23,2017-03-01 09:19:00,Housing starts declined by 2.6% in January though building permits increased by 4.6%.,0.02957513928413391,0.9541433453559875,0.016281528398394585,negative,-0.9245681762695312
+24,2017-03-01 09:19:00,The National Association of Home Builders (NAHB) Housing Market Index declined from 67 to 65 in February.,0.01857803203165531,0.9725809693336487,0.008841028437018394,negative,-0.9540029168128967
+25,2017-03-01 09:19:00,"In contrast, existing homes sales jumped 3.3% in January to a seasonally adjusted rate of 5.69 million, the highest level recorded in 10 years.",0.9443044662475586,0.02732415869832039,0.028371291235089302,positive,0.9169803261756897
+26,2017-03-01 09:19:00,"New home sales increased 3.7% to a seasonally adjusted rate of 555,000.",0.9461557269096375,0.02569284848868847,0.028151392936706543,positive,0.9204629063606262
+27,2017-03-01 09:19:00,"However, the pending home sales index declined 2.8% in January to 106.4, the lowest level in a year.",0.019048301503062248,0.9725704789161682,0.008381286635994911,negative,-0.9535222053527832
+28,2017-03-01 09:19:00,The current scenario seems to be a consequence of demand outstripping supply and a sharp increase in home prices.,0.1453913003206253,0.3543230891227722,0.5002856254577637,neutral,-0.2089317888021469
+29,2017-03-01 09:19:00,"The U.S. added 227,000 jobs in January, higher than the consensus estimate of 174,000 job additions.",0.9248949885368347,0.04860152304172516,0.02650349773466587,positive,0.8762934803962708
+30,2017-03-01 09:19:00,"This figure also exceeds December's reading of 157,000.",0.6790112853050232,0.07267286628484726,0.24831578135490417,positive,0.6063384413719177
+31,2017-03-01 09:19:00,These are the best monthly job gains since September.,0.8834664225578308,0.05526171997189522,0.06127184256911278,positive,0.8282046914100647
+32,2017-03-01 09:19:00,"However, expectations that the economy is moving towards a full employment scenario weighed on workers' pay, with average hourly wages rising only 0.1% in January, lower than December's downwardly revised gain of 0.2%.",0.019725384190678596,0.9677003026008606,0.012574359774589539,negative,-0.9479749202728271
+33,2017-03-01 09:19:00,"Further, the unemployment rate, meantime, ticked up to 4.8% from 4.7% in January.",0.9177641868591309,0.05886836349964142,0.02336752973496914,positive,0.8588958382606506
+34,2017-03-01 09:19:00,The absolute earnings total for the quarter is on track to be the highest ever.,0.9061687588691711,0.016331473365426064,0.07749981433153152,positive,0.8898372650146484
+35,2017-03-01 09:19:00,"The bulk of the Q4 earnings season is now behind us, with results from only a few of S&P 500 members still awaited.",0.041541215032339096,0.2728172242641449,0.6856415867805481,neutral,-0.2312760055065155
+36,2017-03-01 09:19:00,"As of February 17, 2017, Q4 results from 411 S&P 500 members, or 82.2% of the index's total membership had been released.",0.013308745808899403,0.019029317423701286,0.9676619172096252,neutral,-0.005720571614801884
+37,2017-03-01 09:19:00,"Total earnings for these 411 index members are up +8% on +4.9% higher revenues, with 68.9% beating EPS estimates and 54.7% coming ahead of top-line expectations.",0.9563913345336914,0.022436339408159256,0.021172309294342995,positive,0.9339550137519836
+38,2017-03-01 09:19:00,"(Read: Retail in Focus as Q4 Earnings Season Winds Down )
+
+Retail earnings grabbed the spotlight last month.",0.8270057439804077,0.09312798082828522,0.0798661857843399,positive,0.7338777780532837
+39,2017-03-01 09:19:00,"Solid fourth-quarter reports from Wal-Mart WMT , Macy's M , and Home Depot HD provided a major fillip to investor sentiment.",0.9296544790267944,0.026078907772898674,0.04426665976643562,positive,0.903575599193573
+40,2017-03-01 09:19:00,"Earlier in the month, Apple Inc.'s AAPL first quarter fiscal results easily topped expectations.",0.936844527721405,0.027223950251936913,0.03593156114220619,positive,0.9096205830574036
+41,2017-03-01 09:19:00,The good show was driven by impressive sales of Apple's latest smartphone model iPhone 7 and 7 Plus.,0.9435240626335144,0.020759714767336845,0.035716187208890915,positive,0.9227643609046936
+42,2017-03-01 09:19:00,The euphoria surrounding President Donald Trump's proposed market-friendly policies including the prospect of massive tax cuts and an uptick in infrastructure spending propelled markets to new highs in February.,0.8530855774879456,0.07260408997535706,0.0743102952837944,positive,0.7804814577102661
+43,2017-03-01 09:19:00,"The Dow closed at an all-time high for a twelfth straight session on Feb 27, posting its longest such streak since 1987.",0.7819929718971252,0.08683408796787262,0.1311729997396469,positive,0.6951588988304138
+44,2017-03-01 09:19:00,"Both the blue-chip index and S&P 500 settled at all-time high levels, while the Nasdaq closed a few points short of a record.",0.6152949333190918,0.15451858937740326,0.23018650710582733,positive,0.46077632904052734
+45,2017-03-01 09:19:00,"At present, the blue-chip index continues to hover above the psychological milestone of 20,000.",0.7122344374656677,0.04899180680513382,0.23877382278442383,positive,0.6632426381111145
+46,2017-03-01 09:19:00,"Trump's polices including tax cuts, repealing regulations and pickup in infrastructure outlays restored expectations of a pro-growth agenda that helped the Dow push further into record territory.",0.9016087055206299,0.04585684835910797,0.052534423768520355,positive,0.8557518720626831
+47,2017-03-01 09:19:00,Trump is also planning a multi-trillion-dollar tax cut that will boost the U.S. economy and lift corporate profits.,0.8640390038490295,0.04073798283934593,0.09522302448749542,positive,0.8233010172843933
+48,2017-03-01 09:19:00,Trump has also signed an executive order designed to scale back the Dodd-Frank Act.,0.5731149911880493,0.17058080434799194,0.2563042640686035,positive,0.4025341868400574
+49,2017-03-01 09:19:00,"He views the Dodd-Frank regulatory overhaul as a harsh measure, especially, on banks as they had to beef up compliance compartments to deal with a list of new rules.",0.03260593116283417,0.9317448735237122,0.035649217665195465,negative,-0.8991389274597168
+50,2017-03-01 09:19:00,"Meanwhile, Trump sent both the political parties a notice on Feb 27 stating that he intends to significantly raise defense related outlay.",0.8345440626144409,0.01655944623053074,0.14889657497406006,positive,0.8179846405982971
+51,2017-03-01 09:19:00,"He will seek a $54 billion hike in spending on tanks, ships and weapon systems and will trim other priorities.",0.32138529419898987,0.28345417976379395,0.3951605558395386,neutral,0.03793111443519592
+52,2017-03-01 09:19:00,"The defense budget will climb 10%, according to the White House, while Trump recommended $30 billion in supplementary military spending for this year
+
+Ultimately, the Dow snapped its record streak of gains ahead of Trump's first speech before a joint session of Congress on the last day of the month.",0.8948711156845093,0.05070566013455391,0.05442312732338905,positive,0.8441654443740845
+53,2017-03-01 09:19:00,Profit taking ensued due to a lack of details about Trump's policies.,0.02392926812171936,0.9451432824134827,0.03092743270099163,negative,-0.9212139844894409
+54,2017-03-01 09:19:00,"During his speech, Trump adopted a measured approach to several contentious issues.",0.32375651597976685,0.04098546504974365,0.6352580189704895,neutral,0.2827710509300232
+55,2017-03-01 09:19:00,"However, he reiterated his commitment to immigration reform and replacing Obamacare with a new healthcare law.",0.5717479586601257,0.04331367090344429,0.3849383592605591,positive,0.5284342765808105
+56,2017-03-01 09:19:00,"At the same time, the speech was light on details but for a request that Congress pass his trillion dollar infrastructure plan.",0.07773500680923462,0.0747791975736618,0.8474858403205872,neutral,0.002955809235572815
+57,2017-03-01 09:19:00,"Minutes from the Federal Reserve's January meeting adopted a similar tone, keeping alive prospects of a potential near-term interest rate hike.",0.387588769197464,0.16804274916648865,0.444368451833725,neutral,0.21954602003097534
+58,2017-03-01 09:19:00,"The minutes said that ""many participants expressed the view that it might be appropriate to raise the federal funds rate again fairly soon if incoming information on the labor market and inflation was in line with or stronger than their current expectations or if the risks of overshooting the committee's maximum-employment and inflation objectives increased.""",0.4310511350631714,0.048788972198963165,0.520159900188446,neutral,0.3822621703147888
+59,2017-03-01 09:19:00,Fed Chair Janet Yellen expects a gradual rate increase amid a modestly expanding economy and inflation that should touch the Fed's desired target rate of 2% in the near term.,0.8897022008895874,0.015079207718372345,0.09521856904029846,positive,0.8746230006217957
+60,2017-03-01 09:19:00,"She said that ""at our upcoming meetings, the Fed will evaluate whether employment and inflation are continuing to evolve in line with…expectations, in which case a further adjustment of the federal funds rate would likely be appropriate.""",0.3993890583515167,0.02509976737201214,0.5755111575126648,neutral,0.37428930401802063
+61,2017-03-01 09:19:00,"I ran a screen on Research Wizard for companies with the following parameters:
+
+( Click here to sign up for a free trial to the Research Wizard today ):
+• Percentage price change over the last 4 weeks greater than or equal to 15% (As of Oct 31, 2016)
+• Forward price-to-earnings ratio (P/E) for the current financial year (F1) less than or equal to 20.",0.02361675724387169,0.139594167470932,0.836789071559906,neutral,-0.11597740650177002
+62,2017-03-01 09:19:00,"This picks out stocks that are good value choices
+• Expected earnings growth for the current financial year greater than or equal to 15%
+• Zacks Rank less than or equal to 2: This ascertains stocks that have shown above-average returns over the last 26 years.",0.11614248901605606,0.017758650705218315,0.8660988211631775,neutral,0.0983838364481926
+63,2017-03-01 09:19:00,(See the performance of Zacks' portfolios and strategies here: About Zacks Performance ).,0.012608642689883709,0.011922672390937805,0.975468635559082,neutral,0.0006859702989459038
+64,2017-03-01 09:19:00,"Here are the top 5 stocks that made it through this screen:
+
+KAZ Minerals plcKZMYY is involved in mining, producing and selling copper concentrates primarily in Kazakhstan and Kyrgyzstan.",0.023605231195688248,0.006515942979604006,0.9698787927627563,neutral,0.01708928868174553
+65,2017-03-01 09:19:00,"Price gain over the last 4 weeks = 56.7%
+
+KAZ Minerals has a Zacks Rank #2 (Buy) and its expected earnings growth for the current year is more than 100%.",0.9466772079467773,0.01589294523000717,0.03742988035082817,positive,0.930784285068512
+66,2017-03-01 09:19:00,The stock's forward price-to-earnings ratio (P/E) for the current financial year (F1) is 11.64x.,0.02748030424118042,0.007320556323975325,0.9651991128921509,neutral,0.020159747451543808
+67,2017-03-01 09:19:00,The Chemours CompanyCC is a provider of performance chemicals on a worldwide basis.,0.14945867657661438,0.004756827373057604,0.8457844853401184,neutral,0.14470185339450836
+68,2017-03-01 09:19:00,"Price gain over the last 4 weeks = 34.8%
+
+Chemours has a Zacks Rank #2 and its expected earnings growth for the current year is more than 100%.",0.9488191604614258,0.017260923981666565,0.03391989320516586,positive,0.9315582513809204
+69,2017-03-01 09:19:00,The stock has a P/E (F1) of 13.94x.,0.039577677845954895,0.00520198792219162,0.9552202820777893,neutral,0.034375689923763275
+70,2017-03-01 09:19:00,"Cohu, Inc.COHU designs and manufactures electromechanical systems (handlers) that physically put semiconductors in place for testing and interface directly with electronic test equipment (tester) which performs the electrical test of the semiconductor devices.",0.029648715630173683,0.005594829097390175,0.9647564888000488,neutral,0.02405388653278351
+71,2017-03-01 09:19:00,"Price gain over the last 4 weeks = 30.6%
+
+Cohu has a P/E (F1) of 19.03x.",0.7758143544197083,0.08367571234703064,0.14051000773906708,positive,0.692138671875
+72,2017-03-01 09:19:00,The stock holds a Zacks Rank #1 (Strong Buy).You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.04897897318005562,0.007311349734663963,0.943709671497345,neutral,0.041667625308036804
+73,2017-03-01 09:19:00,"FBR & Co.FBRC provides investment banking, merger and acquisition advisory, institutional brokerage, and research services.",0.020449263975024223,0.005913904402405024,0.9736368656158447,neutral,0.014535360038280487
+74,2017-03-01 09:19:00,"Price gain over the last 4 weeks = 28.1%
+
+FBR has a Zacks Rank #1 and its expected earnings growth for the current year is more than 100%.",0.9474703669548035,0.016952864825725555,0.035576775670051575,positive,0.9305174946784973
+75,2017-03-01 09:19:00,The stock's forward price-to-earnings ratio (P/E) for the current financial year (F1) is 15.87x.,0.028349222615361214,0.007154775317758322,0.9644960761070251,neutral,0.021194446831941605
+76,2017-03-01 09:19:00,"Louisiana-Pacific CorporationLPX manufactures building materials and engineered wood products in the U.S., Canada, Chile and Brazil.",0.021919796243309975,0.005492920055985451,0.9725872874259949,neutral,0.016426876187324524
+77,2017-03-01 09:19:00,"Price gain over the last 4 weeks = 26.8%
+
+Louisiana-Pacific holds a Zacks Rank #1 and it has a P/E (F1) of 15.74x.",0.7082366347312927,0.03921613097190857,0.2525472640991211,positive,0.6690205335617065
+78,2017-03-01 09:19:00,"Despite the continuing enthusiasm among investors for the Trump presidency, there is some skepticism about the sustainability of the market rally.",0.34391242265701294,0.28704923391342163,0.36903831362724304,neutral,0.05686318874359131
+79,2017-03-01 09:19:00,The likelihood of a rate hike in March has increased significantly after the central bank and Janet Yellen herself made statements to that effect.,0.8495319485664368,0.024359142407774925,0.12610886991024017,positive,0.8251727819442749
+80,2017-03-01 09:19:00,Trading also remains mostly range bound in nature.,0.01919056661427021,0.009295129217207432,0.9715142846107483,neutral,0.009895437397062778
+81,2017-03-01 09:19:00,"However, several market watchers now believe the absence of volatility is a sign that the rally is being powered by fundamentals instead of pure sentiment.",0.1011653020977974,0.5326778888702393,0.36615681648254395,negative,-0.43151259422302246
+82,2017-03-01 09:19:00,An improving economy and strong earnings numbers lend further weight to such a proposition.,0.9198001027107239,0.01629556715488434,0.06390433758497238,positive,0.9035045504570007
+83,2017-03-01 09:19:00,The catalysts for the current rally are still firmly in place and likely to power further gains in the days ahead.,0.8766275644302368,0.03095639869570732,0.09241609275341034,positive,0.8456711769104004
+84,2017-03-01 09:19:00,"Everything You Need to Know About Snapchat BEFORE It Goes Public
+
+You may be curious about the buzz surrounding Snap Inc.'s IPO on March 2.",0.024921542033553123,0.006916106212884188,0.9681623578071594,neutral,0.018005436286330223
+85,2017-03-01 09:19:00,"With the company expected to be valued around $22 billion, it is expected to be the largest IPO since 2014.",0.5220995545387268,0.011318468488752842,0.46658194065093994,positive,0.5107811093330383
+86,2017-03-01 09:19:00,But should you snap up this tech stock on Day 1?,0.03897157311439514,0.05053731054067612,0.9104911684989929,neutral,-0.011565737426280975
+87,2017-03-01 09:19:00,"In the 2017 IPO Watch List, you'll get an inside look at Snap's exciting prospects and potential challenges.",0.12097901850938797,0.007031446322798729,0.8719894886016846,neutral,0.11394757032394409
+88,2017-03-01 09:19:00,You'll also learn about 4 other exciting tech companies with jaw-dropping growth.,0.4767940044403076,0.01640053652226925,0.5068054795265198,neutral,0.4603934586048126
+89,2017-03-01 09:19:00,Each could go public in the coming months.,0.026878386735916138,0.009608356282114983,0.963513195514679,neutral,0.017270030453801155
+90,2017-03-01 09:19:00,Imagine being in the first wave of investors to jump on a company with almost unlimited growth potential?,0.33031973242759705,0.014298503287136555,0.6553817391395569,neutral,0.31602123379707336
+91,2017-03-01 09:19:00,This Special Report gives you the latest scoop.,0.03409212455153465,0.007786868140101433,0.9581210017204285,neutral,0.02630525641143322
+92,2017-03-01 09:19:00,"Download this IPO Watch List today for free >>
+
+Want the latest recommendations from Zacks Investment Research?",0.023853294551372528,0.013073472306132317,0.9630732536315918,neutral,0.010779822245240211
+93,2017-03-01 09:19:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+94,2017-03-01 09:19:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+95,2017-03-01 09:19:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-03 08:36:00,"OK, hands up.",0.17068125307559967,0.023854384198784828,0.8054643273353577,neutral,0.1468268632888794
+1,2017-01-03 08:36:00,I'm cheating.,0.13859350979328156,0.19317372143268585,0.668232798576355,neutral,-0.0545802116394043
+2,2017-01-03 08:36:00,"It's supposed to be one stock idea, but The Home Depot , Inc (NYSE: HD) and Lowe's Companies, Inc. (NYSE: LOW) are largely interchangeable companies, so in order to diversify stock-specific risk, it's a good idea to buy both of them together.",0.22527001798152924,0.008622214198112488,0.7661077380180359,neutral,0.21664780378341675
+3,2017-01-03 08:36:00,But why are home improvement retailers the kinds of stocks you can buy and hold forever?,0.034044839441776276,0.017293304204940796,0.9486618638038635,neutral,0.01675153523683548
+4,2017-01-03 08:36:00,I'll explain.,0.12066879868507385,0.01490823831409216,0.8644229769706726,neutral,0.10576055943965912
+5,2017-01-03 08:36:00,The arguments can be split into two separate streams.,0.014210578985512257,0.03458439186215401,0.9512050747871399,neutral,-0.020373813807964325
+6,2017-01-03 08:36:00,"The first focuses on end markets, and the second on the companies' operational and competitive positioning.",0.02289029024541378,0.005942747462540865,0.9711669683456421,neutral,0.016947543248534203
+7,2017-01-03 08:36:00,U.S.,0.06784671545028687,0.06328519433736801,0.8688681125640869,neutral,0.004561521112918854
+8,2017-01-03 08:36:00,"HOMEOWNER RATE HAS DECLINED SINCE THE RECESSION, SUGGESTING A RECOVERY COULD COME IN FUTURE YEARS.",0.060023486614227295,0.9177381992340088,0.02223833277821541,negative,-0.8577147126197815
+9,2017-01-03 08:36:00,DATA SOURCE: U.S BUREAU OF THE CENSUS.,0.0295728649944067,0.021239062771201134,0.9491880536079407,neutral,0.008333802223205566
+10,2017-01-03 08:36:00,CHART BY AUTHOR.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+11,2017-01-03 08:36:00,"The conventional view sees asset prices as increasing since an efficient market duly prices in increased risk, inducing investors to stop investing in these assets.",0.4186229109764099,0.20007391273975372,0.38130319118499756,positive,0.2185489982366562
+12,2017-01-03 08:36:00,"However, an alternative view holds that investors and regulators only truly recognize risk when the bubble has burst, after which they tend to overcompensate and take excessive measures to control risk.",0.0656873881816864,0.44301462173461914,0.4912980794906616,neutral,-0.37732723355293274
+13,2017-01-03 08:36:00,"In this line of thought, the kind of off-balance-sheet exposures to real estate that built up before the great financial crisis will not be allowed again, and that's good news for the long-term health of the housing market.",0.16601021587848663,0.10252244770526886,0.7314673662185669,neutral,0.06348776817321777
+14,2017-01-03 08:36:00,"All of which is not to argue that housing won't go through cycles, but all things being equal, they are unlikely to be as traumatic as the period from 2006 to 2009.",0.043321430683135986,0.12891241908073425,0.8277661800384521,neutral,-0.08559098839759827
+15,2017-01-03 08:36:00,"Meanwhile, the underlying demand for housing -- new household formation -- is likely to continue as long as people keep having kids and wanting to emigrate to the US.",0.7863219976425171,0.014664832502603531,0.19901317358016968,positive,0.7716571688652039
+16,2017-01-03 08:36:00,"This is where the two companies come in:
+• Strong moats and competitive positions in the home improvement industry.",0.8277175426483154,0.013337443582713604,0.15894494950771332,positive,0.8143801093101501
+17,2017-01-03 08:36:00,"• Expanding online sales at Home Depot and Lowe's are creating opportunity for improving inventory management and working capital requirements, leading to improved free-cash-flow generation.",0.9544497132301331,0.0190300103276968,0.026520278304815292,positive,0.9354196786880493
+18,2017-01-03 08:36:00,"• Even during the worst of the financial crash, both companies generated healthy profits, had well-covered dividends, and generated excellent returns on invested capital.",0.9324900507926941,0.015922101214528084,0.0515877902507782,positive,0.9165679216384888
+19,2017-01-03 08:36:00,Let's take a look at a few long-term charts that help illustrate these points.,0.03262399882078171,0.007818855345249176,0.9595571756362915,neutral,0.024805143475532532
+20,2017-01-03 08:36:00,"First, operating income remained positive in the downturn.",0.9320591688156128,0.022144490852952003,0.04579632729291916,positive,0.9099146723747253
+21,2017-01-03 08:36:00,DATA SOURCE: COMPANY PRESENTATIONS.,0.009578295052051544,0.01443524844944477,0.9759864211082458,neutral,-0.004856953397393227
+22,2017-01-03 08:36:00,DATA IN MILLIONS OF U.S.,0.06579746305942535,0.30705174803733826,0.62715083360672,neutral,-0.2412542849779129
+23,2017-01-03 08:36:00,DOLLARS.,0.14883925020694733,0.05617063492536545,0.794990062713623,neutral,0.09266861528158188
+24,2017-01-03 08:36:00,"Second, dividends remain well covered by free cash flow, and both companies have the capacity to significantly increase their dividends.",0.9250554442405701,0.014982231892645359,0.05996237322688103,positive,0.9100732207298279
+25,2017-01-03 08:36:00,"Third, strong ongoing return on invested capital means both companies should be able to reinvest their cash flows in order to generate growth, provided the home improvement market grows.",0.9421579837799072,0.015190518461167812,0.04265156388282776,positive,0.926967442035675
+26,2017-01-03 08:36:00,"The Home Depot and Lowe's Companies are never-sell stocks
+
+All told, if you are looking for a stock to hold forever, then Home Depot and Lowe's Companies are very strong candidates.",0.4724521338939667,0.012617885135114193,0.514930009841919,neutral,0.4598342478275299
+27,2017-01-03 08:36:00,"The housing market is literally too big to fail, and policy makers will favor healthy conditions as long as it remains a key part of consumers' net worth.",0.42166200280189514,0.019183391705155373,0.5591545701026917,neutral,0.4024786055088043
+28,2017-01-03 08:36:00,"Unless a multiyear recession occurs, or new household formation growth collapses, these stocks are poised to generate good long-term earnings, cash flows, and dividends for investors.",0.9236906170845032,0.01614185981452465,0.06016760319471359,positive,0.9075487852096558
+29,2017-01-03 08:36:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+30,2017-01-03 08:36:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+31,2017-01-03 08:36:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+32,2017-01-03 08:36:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2017-01-03 08:36:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+34,2017-01-03 08:36:00,Lee Samaha has no position in any stocks mentioned.,0.009198678657412529,0.03717280551791191,0.9536284804344177,neutral,-0.027974126860499382
+35,2017-01-03 08:36:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+36,2017-01-03 08:36:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+37,2017-01-03 08:36:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+38,2017-01-03 08:36:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2017-01-03 08:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

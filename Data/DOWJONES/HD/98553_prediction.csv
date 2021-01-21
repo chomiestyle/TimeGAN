@@ -1,0 +1,31 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-23 01:37:00,"The benchmark averages closed with modest losses Monday as recent rhetoric and actions by President Donald Trump regarding U.S. trade relationships and border taxes were viewed as protectionist, spooking Wall Street and luring risk-averse investors to safe-haven assets.",0.05120452865958214,0.9342796206474304,0.014515836723148823,negative,-0.8830751180648804
+1,2017-01-23 01:37:00,The Dow pared losses late in the day but closed 27 points lower with component stock Home Depot ( HD ) leading the laggards.,0.05175163224339485,0.9118382334709167,0.036410100758075714,negative,-0.8600866198539734
+2,2017-01-23 01:37:00,"Of the eleven S&P 500 sectors, energy sustained the heaviest losses of the six sectors that ended the day underwater.",0.041208069771528244,0.9330750703811646,0.025716830044984818,negative,-0.8918669819831848
+3,2017-01-23 01:37:00,"In one of his first acts as president, Trump took the U.S. out of the Trans-Pacific Partnership (TPP) through an executive order, and he signaled that the North American Free Trade Agreement (NAFTA) with Canada and Mexico would be renegotiated.",0.6747869849205017,0.061446983367204666,0.26376602053642273,positive,0.6133400201797485
+4,2017-01-23 01:37:00,"Wall Street was also unnerved by the upcoming deluge of fourth quarter earnings scheduled for this week, including results from heavyweights like Verizon ( VZ ), Boeing ( BA ) and Alphabet (GOOG, GOOGL).",0.050246357917785645,0.8888840675354004,0.060869503766298294,negative,-0.8386377096176147
+5,2017-01-23 01:37:00,"Before Monday's open, McDonald's ( MCD ) beat earnings and revenue expectations but same-store sales in the U.S. disappointed, while Yahoo ( YHOO ) beat earnings and revenue estimates for the fourth quarter after the close.",0.46716344356536865,0.5042186379432678,0.028617948293685913,negative,-0.03705519437789917
+6,2017-01-23 01:37:00,Related markets reflected the flight-to-safety away from equity assets.,0.1831967979669571,0.1773492991924286,0.6394539475440979,neutral,0.005847498774528503
+7,2017-01-23 01:37:00,"Gold was higher for a third consecutive day with a gain of $11 per ounce, and the yield on the 10-year Treasury note fell by as much as 9 basis points to below 2.40%.",0.02788616344332695,0.9520864486694336,0.020027482882142067,negative,-0.9242002964019775
+8,2017-01-23 01:37:00,"Additionally, strong demand for the 3-month and 6-month Treasury bills at today's auction amplified demand for Treasury securities across the yield curve.",0.9406485557556152,0.020448511466383934,0.038902878761291504,positive,0.9202000498771667
+9,2017-01-23 01:37:00,"On the economic calendar Tuesday is the flash PMI manufacturing index for January, December existing home sales, and the January Richmond Fed manufacturing index.",0.01522399764508009,0.06208173558115959,0.922694206237793,neutral,-0.04685773700475693
+10,2017-01-23 01:37:00,"Here's where the markets stood at the close:
+
+(+) BOXC (+19.05%) Brookfield Property Partners (BPY) set to acquire the remaining 16.9% of unowned BOXC shares
+
+(+) MRNS (+18.10%) Reported positive preliminary data from treatment for children with CDKL5 genetic disorder
+
+(+) NQ (+12.50%) Agreed to sell FL Mobile and Showself, and $100 million investment
+
+(+) CYNO (+6.61%) Bloomberg reports the company is considering strategic options, including a sale
+
+(-) SNES (14.92%) SenesTech and Neogen have mutually agreed to terminate Neogen technology license
+
+(-) QCOM (-12.72%) Being sued by Apple (AAPL) over patent royalties
+
+(-) BANC (-9.29%) Discloses SEC probe over third party transactions, begins search for new CEO
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009506499394774437,0.019701315090060234,0.9707922339439392,neutral,-0.010194815695285797
+11,2017-01-23 01:37:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+12,2017-01-23 01:37:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+13,2017-01-23 01:37:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

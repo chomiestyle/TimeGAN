@@ -1,0 +1,40 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-23 06:47:00,"Stocks began Friday on a negative note, as market participants reacted badly to the latest news on the trade front.",0.021611914038658142,0.9629120826721191,0.015475951135158539,negative,-0.9413001537322998
+1,2019-08-23 06:47:00,"In a sign of continued tension with the U.S., Chinese officials reportedly chose to retaliate with proposed tariffs on $75 billion in trade goods, potentially taking effect as soon as the beginning of September.",0.22417794167995453,0.6628192067146301,0.11300291121006012,negative,-0.4386412501335144
+2,2019-08-23 06:47:00,That sent futures broadly lower before the market opened.,0.04421205073595047,0.9008216261863708,0.0549662783741951,negative,-0.856609582901001
+3,2019-08-23 06:47:00,"As of 10:30 a.m. EDT, the Dow Jones Industrial Average (DJINDICES: ^DJI) was down 39 points to 26,213.",0.020038260146975517,0.9632635116577148,0.0166982002556324,negative,-0.9432252645492554
+4,2019-08-23 06:47:00,"The S&P 500 (SNPINDEX: ^GSPC) dropped 8 points to 2,915, and the Nasdaq Composite (NASDAQINDEX: ^IXIC) fell 26 points to 7,965.",0.022177744656801224,0.9624751210212708,0.015347122214734554,negative,-0.9402973651885986
+5,2019-08-23 06:47:00,"Amid the geopolitical uncertainty, investors also focused on the latest earnings reports.",0.43665456771850586,0.042392078787088394,0.520953357219696,neutral,0.39426249265670776
+6,2019-08-23 06:47:00,"Foot Locker (NYSE: FL) saw its stock move sharply lower when it failed to live up to investor expectations, but salesforce.com (NYSE: CRM) managed to climb on encouraging news from the tech front.",0.20284470915794373,0.7681260704994202,0.02902921289205551,negative,-0.5652813911437988
+7,2019-08-23 06:47:00,Shares of Foot Locker fell 12% after the footwear and athletic apparel retailer reported disappointing second-quarter financial results.,0.01801437884569168,0.9724637269973755,0.009521831758320332,negative,-0.9544493556022644
+8,2019-08-23 06:47:00,"The company said that revenue fell slightly from year-ago levels, sending adjusted earnings per share down by more than 10% over the same period.",0.016858212649822235,0.9741123914718628,0.009029451757669449,negative,-0.95725417137146
+9,2019-08-23 06:47:00,Foot Locker has been going through a significant restructuring in response to tough conditions in the retail industry.,0.7149679660797119,0.03335445374250412,0.25167760252952576,positive,0.6816135048866272
+10,2019-08-23 06:47:00,"Store closures, as well as remodeling and relocation efforts have sought to reinvigorate the company's brand, although they've come at the cost of some pressure on the bottom line.",0.5687586665153503,0.09571123123168945,0.3355300724506378,positive,0.4730474352836609
+11,2019-08-23 06:47:00,Executives at the footwear specialist tried to remain optimistic.,0.2647913694381714,0.1470469832420349,0.5881616473197937,neutral,0.11774438619613647
+12,2019-08-23 06:47:00,"CEO Richard Johnson stated, ""While our results in the second quarter did come in at the low end of our expectations, we saw improvement in our performance as we moved through each month of the quarter.""",0.9380128979682922,0.02895362861454487,0.03303348645567894,positive,0.9090592861175537
+13,2019-08-23 06:47:00,"CFO Lauren Peters added that ""meaningful investments"" in digital capabilities have complemented the company's ""disciplined approach to inventory management"" to help support performance.",0.9466057419776917,0.01571992225944996,0.0376744382083416,positive,0.9308857917785645
+14,2019-08-23 06:47:00,Foot Locker investors will need to see proof that the back-to-school season is going well when the retailer releases its report next quarter.,0.5188339948654175,0.018673596903681755,0.462492436170578,positive,0.5001603960990906
+15,2019-08-23 06:47:00,"Otherwise, it could be hard for the company to regain shareholder trust.",0.5680943131446838,0.24958673119544983,0.18231895565986633,positive,0.318507581949234
+16,2019-08-23 06:47:00,"Salesforce keeps up the pace
+
+Meanwhile, shares of Salesforce climbed 5%.",0.9457641243934631,0.024444203823804855,0.029791703447699547,positive,0.9213199019432068
+17,2019-08-23 06:47:00,"The customer relationship management software specialist continued to see strong fundamental performance from its business in the second quarter, including a 22% rise in revenue and better-than-expected bottom-line results.",0.9598289132118225,0.02027910202741623,0.01989196613430977,positive,0.9395498037338257
+18,2019-08-23 06:47:00,"Salesforce was one of the first companies to embrace cloud computing, and its results show the continued success of its long-term strategy.",0.9157004356384277,0.012545980513095856,0.07175357639789581,positive,0.9031544327735901
+19,2019-08-23 06:47:00,"Service cloud revenue climbed 22% from year-ago levels, outpacing its growth rate from previous quarters.",0.958314061164856,0.023372691124677658,0.018313229084014893,positive,0.9349413514137268
+20,2019-08-23 06:47:00,"Sales cloud revenue rose at a slower 13% pace, but smaller businesses like its marketing and commerce products saw even faster growth.",0.9188207387924194,0.04264291003346443,0.038536436855793,positive,0.8761778473854065
+21,2019-08-23 06:47:00,Investors also got more favorable guidance from Salesforce.,0.919045627117157,0.022630738094449043,0.05832362547516823,positive,0.8964148759841919
+22,2019-08-23 06:47:00,"A boost of about $650 million in its sales guidance for the full year brought estimates to between $16.75 billion and $16.9 billion, and that was better than most investors expected from the company.",0.9372748732566833,0.03555331751704216,0.027171894907951355,positive,0.9017215371131897
+23,2019-08-23 06:47:00,"Cloud computing is here to stay, and companies making the most of it are getting rewarded.",0.5681686401367188,0.021222464740276337,0.41060882806777954,positive,0.5469461679458618
+24,2019-08-23 06:47:00,"Shareholders hope that Salesforce can remain a key leader in the cloud for the foreseeable future, and the company's prospects look bright.",0.9242778420448303,0.015551693737506866,0.06017043814063072,positive,0.908726155757904
+25,2019-08-23 06:47:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+26,2019-08-23 06:47:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+27,2019-08-23 06:47:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+28,2019-08-23 06:47:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+29,2019-08-23 06:47:00,Dan Caplinger has no position in any of the stocks mentioned.,0.01018188614398241,0.043783675879240036,0.9460343718528748,neutral,-0.0336017906665802
+30,2019-08-23 06:47:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+31,2019-08-23 06:47:00,The Motley Fool has the following options: long January 2021 $100 calls on Salesforce.com.,0.014087568037211895,0.06427516788244247,0.9216372966766357,neutral,-0.050187598913908005
+32,2019-08-23 06:47:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-19 05:54:00,"The Federal Reserve is apt to raise interest rates later this month, unless it doesn't … unless it does.",0.20232394337654114,0.11803478002548218,0.6796412467956543,neutral,0.08428916335105896
+1,2016-09-19 05:54:00,So went investors' assumptions over the past week and a half.,0.07615731656551361,0.05426306650042534,0.8695796728134155,neutral,0.021894250065088272
+2,2016-09-19 05:54:00,"Two Fridays ago, the S&P 500 was crushed following comments from Boston Federal Reserve Bank President Eric Rosengren, who said, ""We have a good probability that we're getting it by the end of the year.""",0.06555593758821487,0.904488205909729,0.02995580993592739,negative,-0.8389322757720947
+3,2016-09-19 05:54:00,"Fed Governor Lael Brainard soothed those worries last Monday, suggesting the Federal Reserve isn't in a hurry to raise the Fed funds rate after all.",0.39080655574798584,0.2510547935962677,0.35813868045806885,positive,0.13975176215171814
+4,2016-09-19 05:54:00,The S&P 500 rebounded in response.,0.9265801310539246,0.02729698456823826,0.046122822910547256,positive,0.8992831707000732
+5,2016-09-19 05:54:00,"That rebound was short-lived though, until Thursday when modest producer price inflation and tepid retail sales for August once again precluded the odds of a September rate hike.",0.29985445737838745,0.6153231263160706,0.08482237160205841,negative,-0.3154686689376831
+6,2016-09-19 05:54:00,"On Friday of last week, stronger-than-expected consumer inflation put the possibility of rising interest rates back on the table , sending the S&P 500 lower again as a result.",0.08432269841432571,0.8496642708778381,0.06601309031248093,negative,-0.765341579914093
+7,2016-09-19 05:54:00,"Perhaps it's safe to say nobody really knows what's going to happen on Sept. 21, when Janet Yellen and the Federal Open Market Committee have to make a decision on the matter.",0.03800968453288078,0.09440074861049652,0.86758953332901,neutral,-0.05639106407761574
+8,2016-09-19 05:54:00,But investors don't necessarily feel they have the luxury of waiting to hear the Fed's assessment on Wednesday to make some buy/sell decisions.,0.03737705200910568,0.05779489502310753,0.9048280119895935,neutral,-0.020417843014001846
+9,2016-09-19 05:54:00,"This Is Not Your Father's Stock Market
+
+Most investors may subconsciously understand it, but it needs to be made consciously explicit:
+• 8 International Stocks Priced to Beat the U.S.
+
+Thee current market environment isn't about corporate results and the likelihood of future earnings growth.",0.08491294831037521,0.0190972238779068,0.8959898352622986,neutral,0.06581572443246841
+10,2016-09-19 05:54:00,It's not even about interest rates.,0.03441256657242775,0.022606486454606056,0.9429810047149658,neutral,0.011806080117821693
+11,2016-09-19 05:54:00,It's about taking the pulse of the rhetoric and making a prediction about how the masses will feel about - and respond to - information in the future.,0.05930170789361,0.008652758784592152,0.9320455193519592,neutral,0.050648950040340424
+12,2016-09-19 05:54:00,"Problem: In the absence of any real economic clarity, that sort of speculation is impossible to do well, as a person's opinion about the future changes about as often as they change stocks.",0.03167824447154999,0.7349114418029785,0.2334102839231491,negative,-0.7032331824302673
+13,2016-09-19 05:54:00,"That's why the S&P 500 and all the other major market indices have been all over the map of late, yet have made no actual net movement.",0.025342276319861412,0.03799102455377579,0.9366666674613953,neutral,-0.012648748233914375
+14,2016-09-19 05:54:00,"It's not always such a speculative environment, but it's increasingly such an environment, as the reality of all that cheap money comes home to roost.",0.1038484051823616,0.012484212405979633,0.8836674094200134,neutral,0.09136418998241425
+15,2016-09-19 05:54:00,"That is, low borrowing costs aren't necessarily drivers of growth - there has been no real growth in over a year.",0.05126842111349106,0.034095119684934616,0.9146364331245422,neutral,0.017173301428556442
+16,2016-09-19 05:54:00,That's just one of several conundrums facing investors right now.,0.02922266721725464,0.45601722598075867,0.5147601366043091,neutral,-0.42679455876350403
+17,2016-09-19 05:54:00,There's also the U.S. dollar.,0.04859151318669319,0.019419001415371895,0.9319894909858704,neutral,0.029172511771321297
+18,2016-09-19 05:54:00,It's strong - still too strong by some accounts.,0.2641419768333435,0.1699208915233612,0.5659371018409729,neutral,0.0942210853099823
+19,2016-09-19 05:54:00,"The strong greenback is what keeps the price of oil and other commodities suppressed (it's not great for multinational companies, either), and if there was any sector that deserved a break a falling U.S. dollar would provide, it's oil and gas companies.",0.3310792148113251,0.08862148970365524,0.5802992582321167,neutral,0.24245771765708923
+20,2016-09-19 05:54:00,The hurdle is that rising interest rates tend to push the value of the dollar higher rather than lower.,0.5149547457695007,0.13089807331562042,0.3541472256183624,positive,0.3840566873550415
+21,2016-09-19 05:54:00,It's an ugly catch-22.,0.08913177996873856,0.6262703537940979,0.28459787368774414,negative,-0.5371385812759399
+22,2016-09-19 05:54:00,"It's All in Your Head
+
+Perhaps plaguing the market more than anything else right now is simply how professionals and amateurs alike are trying to apply reason and logic to it.",0.053970519453287125,0.035747069865465164,0.9102823734283447,neutral,0.01822344958782196
+23,2016-09-19 05:54:00,Reason and logic haven't mattered in months.,0.05061008036136627,0.056362707167863846,0.8930271863937378,neutral,-0.005752626806497574
+24,2016-09-19 05:54:00,"Instead, the market for the past few months has been something of a Rorschach test, indicating what investors want to believe about the market rather than what they know .",0.047575563192367554,0.4182887375354767,0.5341356992721558,neutral,-0.37071317434310913
+25,2016-09-19 05:54:00,"It has not helped move stocks much higher or much lower, though, as just enough reality has seeped into optimistic view of stocks to keep all that wishful thinking in check.",0.2175898551940918,0.6636066436767578,0.11880345642566681,negative,-0.446016788482666
+26,2016-09-19 05:54:00,It begs one key question: What is the market's reality at this point?,0.026062965393066406,0.03460616245865822,0.9393308758735657,neutral,-0.008543197065591812
+27,2016-09-19 05:54:00,"It's unlikely we'll see the Fed funds rate tick higher this week, as much as we need a rate increase.",0.6563577651977539,0.07944080978631973,0.2642013430595398,positive,0.5769169330596924
+28,2016-09-19 05:54:00,(The annualized core consumer inflation rate now stands at 2.3%.,0.029556086286902428,0.02087085135281086,0.9495730400085449,neutral,0.008685234934091568
+29,2016-09-19 05:54:00,"And even if one would prefer to use the overall inflation rate and count the benefit of cheap gasoline, prices still are broadly rising.",0.7876042723655701,0.06147124990820885,0.15092448890209198,positive,0.7261330485343933
+30,2016-09-19 05:54:00,The Fed will want to tame that beast sooner than later.),0.20082074403762817,0.02077021636068821,0.7784090042114258,neutral,0.18005052208900452
+31,2016-09-19 05:54:00,"It's also a reality that stocks are overvalued, as low interest rates haven't helped companies expand and grow.",0.16820745170116425,0.6573513746261597,0.17444120347499847,negative,-0.48914390802383423
+32,2016-09-19 05:54:00,"The S&P 500's trailing price-to-earnings ratio of 21.7 and forward-looking P/E of 17.2 are both well above the average, and the forward-looking one is built on stunningly optimistic earnings growth expectations of 26%.",0.9179776906967163,0.023556923493742943,0.05846540629863739,positive,0.8944207429885864
+33,2016-09-19 05:54:00,The reality also suggests that traders more or less understand stocks are overvalued and due for a pullback.,0.1705198436975479,0.6816022992134094,0.14787790179252625,negative,-0.5110824704170227
+34,2016-09-19 05:54:00,The persistent weakness is the red flag.,0.05758117511868477,0.5943428874015808,0.3480759561061859,negative,-0.5367617011070251
+35,2016-09-19 05:54:00,"These traders are just waiting to see the reason they should pull that trigger, as they continue to hear more than a few optimistic viewpoints.",0.14302349090576172,0.02520088292658329,0.8317755460739136,neutral,0.11782260984182358
+36,2016-09-19 05:54:00,Wednesday's decision on interest rates may or may not be the catalyst.,0.028080711141228676,0.13990527391433716,0.8320139646530151,neutral,-0.11182456463575363
+37,2016-09-19 05:54:00,"As we've already seen over the course of just the past few days, sometimes bad news is good, and sometimes good news is bad.",0.06574726104736328,0.26935863494873047,0.664894163608551,neutral,-0.2036113739013672
+38,2016-09-19 05:54:00,"At the same time, sometimes bad news is bad, and good news is good.",0.11714491993188858,0.18389374017715454,0.6989613175392151,neutral,-0.06674882024526596
+39,2016-09-19 05:54:00,It's all about the market's mood when the rhetoric surfaces.,0.031047945842146873,0.02032623067498207,0.9486258029937744,neutral,0.010721715167164803
+40,2016-09-19 05:54:00,The Federal Reserve likely will not raise rates this month.,0.04417026415467262,0.2020256221294403,0.753804087638855,neutral,-0.15785536170005798
+41,2016-09-19 05:54:00,"As of the latest look, the futures market is only pricing in a 15% chance of a rise on the Fed funds rate.",0.5653510689735413,0.10832251608371735,0.3263263702392578,positive,0.4570285677909851
+42,2016-09-19 05:54:00,"Superficially, that's what investors think they want.",0.08877888321876526,0.010199964977800846,0.9010211825370789,neutral,0.07857891917228699
+43,2016-09-19 05:54:00,"Under the hood, though, the Fed's unwillingness or inability to push rates higher could finally be interpreted as a sign of economic weakness that has been a little too persistent for a little too long.",0.1335233747959137,0.6876192092895508,0.17885741591453552,negative,-0.5540958642959595
+44,2016-09-19 05:54:00,Stocks ran up to frothy P/E levels largely on hopes that growth would eventually justify stock prices.,0.5759944915771484,0.3463172912597656,0.07768820971250534,positive,0.2296772003173828
+45,2016-09-19 05:54:00,It never happened.,0.0755181536078453,0.08172141760587692,0.842760443687439,neutral,-0.006203263998031616
+46,2016-09-19 05:54:00,"The whole thing makes Wednesday nothing more than a coin toss; bad news may actually be bad, and good news may actually be good.",0.0703960433602333,0.2744866907596588,0.6551172733306885,neutral,-0.2040906548500061
+47,2016-09-19 05:54:00,"Regardless, the chart of the S&P 500 says investors are now more inclined to lean bearishly, putting a pessimistic spin on the headlines.",0.042572323232889175,0.8736965656280518,0.08373108506202698,negative,-0.8311242461204529
+48,2016-09-19 05:54:00,"With the doubters having tipped their hand, the odds of a bearish spin on whatever happens this week are higher than average.",0.8235123157501221,0.09143278002738953,0.08505486696958542,positive,0.7320795059204102
+49,2016-09-19 05:54:00,Just know that it may take a day or two after the announcement for stock prices to reflect that reality.,0.04757172614336014,0.013078981079161167,0.9393492937088013,neutral,0.034492745995521545
+50,2016-09-19 05:54:00,"It looks like we're getting the usual September weakness, even if the bulk of it is going to be crammed into the last third of the month.",0.06859904527664185,0.2693485915660858,0.66205233335495,neutral,-0.20074954628944397
+51,2016-09-19 05:54:00,"As of this writing, James Brumley did not hold a position in any of the aforementioned securities.",0.009174379520118237,0.0268092043697834,0.9640164375305176,neutral,-0.01763482391834259
+52,2016-09-19 05:54:00,"• GoPro Stock Can Be Your Hero, Baby (GPRO)
+
+The post S&P 500: Interest Rates Are Just an Excuse appeared first on InvestorPlace .",0.06633871793746948,0.06799479573965073,0.8656665086746216,neutral,-0.001656077802181244
+53,2016-09-19 05:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

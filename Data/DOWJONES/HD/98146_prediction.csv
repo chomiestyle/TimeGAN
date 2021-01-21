@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-09 11:18:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 17,023 contracts has been traded thus far today, a contract volume which is representative of approximately 1.7 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.031788088381290436,0.01137117575854063,0.9568406939506531,neutral,0.02041691169142723
+1,2019-08-09 11:18:00,"That number works out to 55.3% of HD's average daily trading volume over the past month, of 3.1 million shares.",0.7190995216369629,0.02152961865067482,0.2593708634376526,positive,0.6975699067115784
+2,2019-08-09 11:18:00,"Especially high volume was seen for the $210 strike put option expiring September 20, 2019, with 2,059 contracts trading so far today, representing approximately 205,900 underlying shares of HD.",0.22791607677936554,0.009813846088945866,0.7622700333595276,neutral,0.21810223162174225
+3,2019-08-09 11:18:00,"Below is a chart showing HD's trailing twelve month trading history, with the $210 strike highlighted in orange:
+
+International Business Machines Corp (Symbol: IBM) saw options trading volume of 27,020 contracts, representing approximately 2.7 million underlying shares or approximately 55.3% of IBM's average daily trading volume over the past month, of 4.9 million shares.",0.019698522984981537,0.012536735273897648,0.9677647352218628,neutral,0.007161787711083889
+4,2019-08-09 11:18:00,"Particularly high volume was seen for the $140 strike call option expiring August 16, 2019, with 936 contracts trading so far today, representing approximately 93,600 underlying shares of IBM.",0.1764221489429474,0.010645784437656403,0.8129320740699768,neutral,0.16577637195587158
+5,2019-08-09 11:18:00,"Below is a chart showing IBM's trailing twelve month trading history, with the $140 strike highlighted in orange:
+
+And AtriCure Inc (Symbol: ATRC) saw options trading volume of 1,033 contracts, representing approximately 103,300 underlying shares or approximately 53.8% of ATRC's average daily trading volume over the past month, of 191,910 shares.",0.018130715936422348,0.01235014945268631,0.9695191383361816,neutral,0.005780566483736038
+6,2019-08-09 11:18:00,"Especially high volume was seen for the $30 strike call option expiring August 16, 2019, with 1,023 contracts trading so far today, representing approximately 102,300 underlying shares of ATRC.",0.2972432076931,0.012286539189517498,0.690470278263092,neutral,0.2849566638469696
+7,2019-08-09 11:18:00,"Below is a chart showing ATRC's trailing twelve month trading history, with the $30 strike highlighted in orange:
+
+For the various different available expirations for HD options, IBM options, or ATRC options, visit StockOptionsChannel.com.",0.009896533563733101,0.025392791256308556,0.9647107124328613,neutral,-0.015496257692575455
+8,2019-08-09 11:18:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-10 06:17:00,The novel COVID-19 coronavirus pandemic is extending its reach across the planet.,0.7544551491737366,0.018729330971837044,0.22681553661823273,positive,0.7357258200645447
+1,2020-04-10 06:17:00,"Cities, states, and countries are taking actions in an attempt to slow the spread.",0.2890477180480957,0.058713216334581375,0.6522390842437744,neutral,0.23033450543880463
+2,2020-04-10 06:17:00,"Some of the steps taken to combat the virus have significantly slowed economic activity, putting businesses in difficult positions.",0.019329406321048737,0.9535898566246033,0.027080707252025604,negative,-0.9342604279518127
+3,2020-04-10 06:17:00,"Home Depot (NYSE: HD), because of its role in providing essential products and services, has the green light to keep its doors open to the public, while so many other businesses have had to temporarily shut down.",0.28840675950050354,0.3750969171524048,0.3364962935447693,negative,-0.08669015765190125
+4,2020-04-10 06:17:00,"Still, the company is operating on reduced hours, and only performing those on-premises services that are essential.",0.014654487371444702,0.10320588946342468,0.8821396231651306,neutral,-0.08855140209197998
+5,2020-04-10 06:17:00,"Operating at less than full capacity will likely lead to reduced revenue and cash flow, which might put the company at risk of not meeting some of its financial goals or even worse.",0.01879066601395607,0.9637079238891602,0.017501384019851685,negative,-0.9449172616004944
+6,2020-04-10 06:17:00,"To mitigate these risks, the company went into the debt markets and borrowed some money.",0.6637617945671082,0.015454323031008244,0.32078397274017334,positive,0.6483074426651001
+7,2020-04-10 06:17:00,"On March 26, the company agreed to borrow $5 billion in four batches, which it can use for general corporate purposes.",0.3567564785480499,0.007730141747742891,0.635513424873352,neutral,0.34902632236480713
+8,2020-04-10 06:17:00,"Let's look at each one in a little more detail:
+• $750 million due seven years from now in April 2027, carrying an interest rate of 2.5%, sold at 99.1% of par.",0.02794549986720085,0.007011601701378822,0.9650428295135498,neutral,0.02093389816582203
+9,2020-04-10 06:17:00,"• $1.5 billion due ten years from now in April 2030, carrying an interest rate of 2.7%, sold at 98.99% of par.",0.03185410797595978,0.00712169473990798,0.9610241651535034,neutral,0.02473241277039051
+10,2020-04-10 06:17:00,"• $1.25 billion due in 20 years in April 2040, carrying an interest rate of 3.3%, sold at 98.36% of par.",0.02944272756576538,0.007489567622542381,0.9630677700042725,neutral,0.021953159943223
+11,2020-04-10 06:17:00,"• $1.5 billion due in 30 years in April of 2050, carrying an interest rate of 3.35%, sold at 97.98% of par.",0.026046058163046837,0.007751683238893747,0.9662023186683655,neutral,0.018294375389814377
+12,2020-04-10 06:17:00,"To clarify, when a bond sells for less than 100% of par, the company gets less than the full principal amount.",0.02028583735227585,0.3987247347831726,0.5809893608093262,neutral,-0.37843888998031616
+13,2020-04-10 06:17:00,"For example, the first issue of $750 million at 99.1% of par means the company received $743.25 million.",0.0794530138373375,0.005888375453650951,0.9146586656570435,neutral,0.07356464117765427
+14,2020-04-10 06:17:00,That results in the interest expense being slightly higher than the interest rate because of the amortizing of the discount from the par value and the company getting slightly less than $5 billion in aggregate.,0.09350012242794037,0.29721304774284363,0.6092867851257324,neutral,-0.20371292531490326
+15,2020-04-10 06:17:00,The weighted average cost of the debt is 3.17%.,0.009309415705502033,0.015075832605361938,0.9756147861480713,neutral,-0.005766416899859905
+16,2020-04-10 06:17:00,"Additionally, you may recall that businesses get a tax break on interest expenses, which brings the after-tax cost of debt to 2.42%.",0.08546970039606094,0.49033334851264954,0.4241969883441925,negative,-0.4048636555671692
+17,2020-04-10 06:17:00,Disney paid a slightly higher price for a similar bond issue.,0.5270453095436096,0.02159132808446884,0.45136338472366333,positive,0.5054540038108826
+18,2020-04-10 06:17:00,This is a reasonable price to pay for increased liquidity during what could be called one of the most challenging times in history.,0.9105650782585144,0.016607413068413734,0.07282757759094238,positive,0.8939576745033264
+19,2020-04-10 06:17:00,Reinforcing the balance sheet with these funds gives Home Depot more flexibility.,0.8521828055381775,0.012954714708030224,0.13486243784427643,positive,0.839228093624115
+20,2020-04-10 06:17:00,"Before the borrowings, the company had just $2.1 billion in cash and equivalents on its balance sheet, with over $28 billion in debt.",0.01574496366083622,0.19210898876190186,0.7921460270881653,neutral,-0.1763640195131302
+21,2020-04-10 06:17:00,"By raising the money, the company can reduce the risk of a liquidity crunch if the coronavirus pandemic continues to ravage the world for longer than expected.",0.9230653047561646,0.018614387139678,0.05832034721970558,positive,0.9044508934020996
+22,2020-04-10 06:17:00,"What this means for investors
+
+Home Depot's liquidity position was getting quite thin before securing more funds.",0.06114903464913368,0.7205292582511902,0.21832168102264404,negative,-0.6593801975250244
+23,2020-04-10 06:17:00,"Now, adding the $5 billion to its $2 billion will bring its total cash up to more than $7 billion.",0.8969968557357788,0.013711151666939259,0.08929196745157242,positive,0.8832857012748718
+24,2020-04-10 06:17:00,That should somewhat alleviate investors' concern about its financial strength.,0.7598346471786499,0.042915694415569305,0.1972496211528778,positive,0.7169189453125
+25,2020-04-10 06:17:00,"Even so, shareholders must be prepared for Home Depot to lower its level of spending from the previous years' levels, where it spent $7 billion to repurchase shares, paid $6 billion in dividends, and invested $2.7 billion back into the business.",0.02940400131046772,0.9325703382492065,0.03802577406167984,negative,-0.9031663537025452
+26,2020-04-10 06:17:00,"In its most recent conference call on Feb. 25, CFO Richard Mcphail said, ""We plan to invest $2.8 billion of this cash back into the business in the form of capital expenditures.",0.4688621759414673,0.012012689374387264,0.5191251635551453,neutral,0.45684948563575745
+27,2020-04-10 06:17:00,"We also plan to use this cash to pay $6.4 billion of dividends and repurchase at least $5 billion of outstanding shares.""",0.29254400730133057,0.012555769644677639,0.6949002146720886,neutral,0.27998822927474976
+28,2020-04-10 06:17:00,"Importantly, at that point in time, the company was expecting to generate approximately $13.5 billion in cash flow from operations in its fiscal 2020.",0.667597770690918,0.013267068192362785,0.3191350996494293,positive,0.6543307304382324
+29,2020-04-10 06:17:00,"Circumstances have changed since then, as the coronavirus outbreak took a turn for the worse.",0.046907007694244385,0.7659398317337036,0.18715313076972961,negative,-0.7190328240394592
+30,2020-04-10 06:17:00,It will not surprise me if the company adjusts those figures downward.,0.01910453289747238,0.0351690798997879,0.9457263946533203,neutral,-0.01606454700231552
+31,2020-04-10 06:17:00,"Still, the money raised will give this blue-chip company more options should it need to make changes.",0.8408383131027222,0.012132448144257069,0.14702926576137543,positive,0.8287058472633362
+32,2020-04-10 06:17:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+33,2020-04-10 06:17:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+34,2020-04-10 06:17:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+35,2020-04-10 06:17:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+36,2020-04-10 06:17:00,Parkev Tatevosian owns shares of Walt Disney.,0.018347878009080887,0.009640656411647797,0.9720115065574646,neutral,0.00870722159743309
+37,2020-04-10 06:17:00,"The Motley Fool owns shares of and recommends Home Depot and Walt Disney and recommends the following options: long January 2021 $60 calls on Walt Disney, long January 2021 $120 calls on Home Depot, short April 2020 $135 calls on Walt Disney, and short January 2021 $210 calls on Home Depot.",0.020368538796901703,0.010978473350405693,0.9686529040336609,neutral,0.00939006544649601
+38,2020-04-10 06:17:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

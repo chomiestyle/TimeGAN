@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-02 09:00:00,Lowe's (NYSE: LOW) is one of the two biggest home-improvement retailers in the world.,0.35500022768974304,0.013548919931054115,0.6314508318901062,neutral,0.3414513170719147
+1,2017-12-02 09:00:00,"Both it and its largest competitor, Home Depot (NYSE: HD) , have seen phenomenal returns over the last 10 years.",0.9516671299934387,0.0186475683003664,0.0296852495521307,positive,0.9330195784568787
+2,2017-12-02 09:00:00,"Whereas the S&P 500 has returned 79% over the last decade, Lowe's shares increased over 250% and Home Depot's are up over 500%.",0.9455062747001648,0.019214890897274017,0.03527888283133507,positive,0.9262914061546326
+3,2017-12-02 09:00:00,"While Home Depot has outperformed Lowe's in the recent past, there are a few reasons to believe Lowe's may not only be a better investment today, but could be a stock that helps investors become millionaires in the future.",0.8919686079025269,0.017850782722234726,0.0901806578040123,positive,0.8741178512573242
+4,2017-12-02 09:00:00,Lowe's has a wide moat to defend against competitors both offline and online.,0.6246786117553711,0.014227879233658314,0.36109352111816406,positive,0.6104507446289062
+5,2017-12-02 09:00:00,"It has a strong growth outlook for both the top and bottom lines, as well as an excellent capital return program including a growing dividend and share buybacks.",0.8876745700836182,0.011877479963004589,0.10044796764850616,positive,0.8757970929145813
+6,2017-12-02 09:00:00,It's also priced right for an investment today.,0.8015117049217224,0.015580406412482262,0.18290793895721436,positive,0.7859312891960144
+7,2017-12-02 09:00:00,"As the second-largest home-improvement retailer in the world, Lowe's benefits greatly from its scale.",0.8187044858932495,0.012779929675161839,0.16851556301116943,positive,0.8059245347976685
+8,2017-12-02 09:00:00,Lowe's is able to exercise greater pricing power with inventory suppliers as well as advertising outlets.,0.8842771053314209,0.012695278972387314,0.10302752256393433,positive,0.8715818524360657
+9,2017-12-02 09:00:00,That pricing power allows Lowe's to attract more customers through advertising and then keep customers by passing along its lower costs in the form of lower retail prices.,0.8366886973381042,0.013940761797130108,0.14937050640583038,positive,0.8227479457855225
+10,2017-12-02 09:00:00,"Lowe's is also able to offer customers a better shopping experience, training staff to be able to help solve customers' problems.",0.9062323570251465,0.0145801967009902,0.07918740063905716,positive,0.8916521668434143
+11,2017-12-02 09:00:00,This specialized staff provides protection against broader brick-and-mortar merchants and online sales.,0.14438506960868835,0.02216384932398796,0.8334510326385498,neutral,0.1222212165594101
+12,2017-12-02 09:00:00,"Customers can walk into Lowe's, describe their problem, and get pointed in the right direction.",0.05304266884922981,0.027485625818371773,0.9194717407226562,neutral,0.02555704303085804
+13,2017-12-02 09:00:00,Home Depot is the only major competitor that can provide similar service.,0.16738203167915344,0.010854285210371017,0.8217636942863464,neutral,0.15652774274349213
+14,2017-12-02 09:00:00,Lowe's has done an excellent job of building relationships with customers through its pricing and service.,0.8965837359428406,0.012100867927074432,0.09131532162427902,positive,0.8844828605651855
+15,2017-12-02 09:00:00,That's likely to keep them coming back even if new competitors enter the market.,0.6699420809745789,0.017176328226923943,0.31288155913352966,positive,0.6527657508850098
+16,2017-12-02 09:00:00,Lowe's produced better-than-expected third-quarter numbers as a result of the hurricanes that hit the United States this summer.,0.9404541254043579,0.030267909169197083,0.029277948662638664,positive,0.910186231136322
+17,2017-12-02 09:00:00,"Still, they weren't as great as Home Depot's and management didn't raise its full-year guidance.",0.05387656018137932,0.7064874172210693,0.2396361082792282,negative,-0.6526108384132385
+18,2017-12-02 09:00:00,That led to some mild investor disappointment.,0.0685649961233139,0.8478689193725586,0.0835660994052887,negative,-0.7793039083480835
+19,2017-12-02 09:00:00,"Nonetheless, the long-term outlook for Lowe's is very good.",0.838926374912262,0.013382846489548683,0.1476907581090927,positive,0.8255435228347778
+20,2017-12-02 09:00:00,"Management expects modest same-store sales growth of around 3% and it's opening 15 to 20 new stores per year across North America, providing another 2% in revenue growth.",0.9338914752006531,0.013866654597222805,0.05224195122718811,positive,0.9200248122215271
+21,2017-12-02 09:00:00,"It's also been busy acquiring smaller competitors such as Rona, Central Wholesalers, and Maintenance Supply, adding further revenue growth.",0.9417698979377747,0.015185782685875893,0.043044283986091614,positive,0.9265841245651245
+22,2017-12-02 09:00:00,"Meanwhile, it has room to improve its margins.",0.9556962847709656,0.018460359424352646,0.025843344628810883,positive,0.937235951423645
+23,2017-12-02 09:00:00,A growing sales base and effective shift management are helping leverage SG&A expenses to improve operating margin.,0.948350191116333,0.01819676160812378,0.03345298767089844,positive,0.9301534295082092
+24,2017-12-02 09:00:00,Management expects operating margin to expand 150 basis points over the next three years.,0.9527505040168762,0.01609048619866371,0.03115897811949253,positive,0.9366599917411804
+25,2017-12-02 09:00:00,"Gross margin has room to improve, as Lowe's acquisitions and typical customers have resulted in sales shifting to more lower-margin products like lumber and hardware .",0.9490985870361328,0.018283706158399582,0.03261764347553253,positive,0.9308148622512817
+26,2017-12-02 09:00:00,Lowe's expanding line of private brands could be a boon in that regard.,0.932570219039917,0.01750778779387474,0.04992197826504707,positive,0.915062427520752
+27,2017-12-02 09:00:00,"Nevertheless, gross margin is improving, albeit slowly.",0.9485669136047363,0.02386889047920704,0.02756427973508835,positive,0.924697995185852
+28,2017-12-02 09:00:00,Home Depot currently produces a much better operating margin of 14.5% compared to Lowe's 9.8%.,0.8181995153427124,0.13954542577266693,0.04225505515933037,positive,0.6786540746688843
+29,2017-12-02 09:00:00,"Home Depot's bigger scale is one reason why, but it shows there's still room for improvement at Lowe's.",0.9400318264961243,0.019960762932896614,0.040007349103689194,positive,0.9200710654258728
+30,2017-12-02 09:00:00,Management is aiming to close the gap over the long term.,0.6781580448150635,0.02042161114513874,0.3014203608036041,positive,0.6577364206314087
+31,2017-12-02 09:00:00,Lowe's is dedicated to its dividend .,0.01994197815656662,0.007398344576358795,0.9726596474647522,neutral,0.012543633580207825
+32,2017-12-02 09:00:00,"Shareholders have received a raise for 54 years straight, which puts a lot of pressure on management to keep that streak alive.",0.7942042946815491,0.026515215635299683,0.17928053438663483,positive,0.7676891088485718
+33,2017-12-02 09:00:00,"CFO Bob Hull noted the dividend is a priority, with only strategic investments in the company coming before it.",0.11311686784029007,0.008384213782846928,0.878498911857605,neutral,0.10473265498876572
+34,2017-12-02 09:00:00,"There's also a hefty share buyback, with $2.1 billion remaining on its share repurchase authorization as of the end of the third quarter.",0.5819661617279053,0.044904280453920364,0.37312957644462585,positive,0.537061870098114
+35,2017-12-02 09:00:00,Capital returns are supported by strong free cash flow.,0.7867032885551453,0.014584085904061794,0.1987125426530838,positive,0.7721192240715027
+36,2017-12-02 09:00:00,The company generated $4.6 billion in free cash flow over the last four quarters.,0.3573392331600189,0.009225204586982727,0.6334356069564819,neutral,0.348114013671875
+37,2017-12-02 09:00:00,"It paid out about $1.25 billion in dividends, giving plenty of room to continue increasing it.",0.8656774759292603,0.014268729835748672,0.12005376815795898,positive,0.8514087200164795
+38,2017-12-02 09:00:00,"Lowe's aggressive share repurchases are starting to slow, and the company estimates it will buy back about $3.5 billion worth of shares this year.",0.05000866949558258,0.6366495490074158,0.31334173679351807,negative,-0.5866408944129944
+39,2017-12-02 09:00:00,Lowe's is returning practically all of its free cash flow to shareholders through its dividend and buyback.,0.275961697101593,0.013441428542137146,0.7105968594551086,neutral,0.2625202536582947
+40,2017-12-02 09:00:00,"Obviously, that's unsustainable, but Lowe's can manage to return a lot of cash to shareholders thanks to its high return on equity (about 50%) and relatively low organic revenue growth.",0.30892765522003174,0.11861561238765717,0.5724567174911499,neutral,0.19031204283237457
+41,2017-12-02 09:00:00,"Its debt load is high but manageable, and the flexibility of the share buyback gives management room to invest strategically.",0.8400962352752686,0.01240983884781599,0.1474938988685608,positive,0.8276863694190979
+42,2017-12-02 09:00:00,"Lowe's is a strong company with a good outlook for the future, and its stock presents a good value at its current price.",0.8795449137687683,0.01440506149083376,0.1060500219464302,positive,0.8651398420333862
+43,2017-12-02 09:00:00,The company currently trades for 18.4 times forward earnings estimates.,0.06273587048053741,0.008681702427566051,0.9285823702812195,neutral,0.05405416712164879
+44,2017-12-02 09:00:00,"That's a pretty steep discount compared to Home Depot stock, which is currently priced around 24 times forward earnings estimates.",0.15214233100414276,0.09390971809625626,0.753947913646698,neutral,0.058232612907886505
+45,2017-12-02 09:00:00,The same holds true from an EV-to-EBITDA standpoint: 10.1 times for Lowe's versus 13.7 times for Home Depot.,0.6563791036605835,0.14361843466758728,0.20000244677066803,positive,0.5127606391906738
+46,2017-12-02 09:00:00,"What's more, analysts expect Lowe's earnings to grow faster than Home Depot's going forward.",0.9500700235366821,0.016642704606056213,0.03328734263777733,positive,0.9334273338317871
+47,2017-12-02 09:00:00,They anticipate the former to average 13.4% earnings-per-share growth per year while the latter is predicted to grow earnings just 12.9% per year over the next five years.,0.8416629433631897,0.01586892455816269,0.14246807992458344,positive,0.8257940411567688
+48,2017-12-02 09:00:00,Trading at a significant discount to its closest competitor with excellent potential for growth and a great capital return program make Lowe's a stock worthy of consideration for future millionaires.,0.8852254748344421,0.016233814880251884,0.09854066371917725,positive,0.8689916729927063
+49,2017-12-02 09:00:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+50,2017-12-02 09:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+51,2017-12-02 09:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+52,2017-12-02 09:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+53,2017-12-02 09:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+54,2017-12-02 09:00:00,Adam Levy owns shares of Lowe's.,0.01817212626338005,0.011881246231496334,0.9699466824531555,neutral,0.006290880031883717
+55,2017-12-02 09:00:00,The Motley Fool has the following options: short January 2018 $170 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013423945754766464,0.026778826490044594,0.9597972631454468,neutral,-0.01335488073527813
+56,2017-12-02 09:00:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+57,2017-12-02 09:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+58,2017-12-02 09:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-09-23 02:33:00,"Adobe Systems reported solid third-quarter earnings earlier this month, beating analyst estimates for earnings while coming up slightly short on revenue.",0.8931377530097961,0.08065321296453476,0.026209058240056038,positive,0.8124845623970032
+1,2014-09-23 02:33:00,"The company's transition to a subscription-only business model is making progress, with recurring revenue now making up the bulk of the company's total revenue.",0.8549315333366394,0.01129031740128994,0.1337781399488449,positive,0.8436412215232849
+2,2014-09-23 02:33:00,Here are five things that management said during the company's conference call that shed some additional light on the state of the business.,0.041271377354860306,0.017573168501257896,0.9411554336547852,neutral,0.02369820885360241
+3,2014-09-23 02:33:00,"Adobe is best known for its creative software products, including Photoshop and Illustrator, and traditionally they've been sold as one-time perpetual licenses, either separately or as part of the Creative Suite.",0.023387495428323746,0.006262540351599455,0.970349907875061,neutral,0.017124954611063004
+4,2014-09-23 02:33:00,"This ended with Creative Suite 6, and going forward Adobe will only sell new versions of its creative software as part of the Creative Cloud, a subscription product that carries a monthly fee.",0.010138384066522121,0.02622077614068985,0.9636408090591431,neutral,-0.016082391142845154
+5,2014-09-23 02:33:00,"Adobe is working on transitioning existing Creative Suite customers to the Creative Cloud, and the result has been extremely rapid growth in the number of subscribers.",0.9204807281494141,0.012397400103509426,0.06712187826633453,positive,0.9080833196640015
+6,2014-09-23 02:33:00,"This has been counteracted by a decline in one-time license sales, but the progress so far is impressive.",0.9046629071235657,0.0344855971634388,0.060851555317640305,positive,0.8701773285865784
+7,2014-09-23 02:33:00,"CEO Shantanu Narayen gave a rundown of the numbers:
+
+Along with its creative software, Adobe's other main business is digital marketing and analytics.",0.016983414068818092,0.041197147220373154,0.9418194890022278,neutral,-0.02421373315155506
+8,2014-09-23 02:33:00,"The subscription product in this segment is the Marketing Cloud, and according to Narayen, it's also performing well:
+
+Narayen gave a bunch of examples of large customers that Adobe added during the third quarter, including Adidas , Ford , the U.S. Treasury, H&M, and many more.",0.8096724152565002,0.014322574250400066,0.17600499093532562,positive,0.7953498363494873
+9,2014-09-23 02:33:00,"Adobe is the self-proclaimed leader in the digital marketing space, although Salesforce is hot on its heels.",0.4465128481388092,0.02937917783856392,0.5241079926490784,neutral,0.4171336591243744
+10,2014-09-23 02:33:00,"Salesforce is on track to generate $1 billion in annual revenue from its digital marketing products, putting it very close in size to Adobe's offerings.",0.8810824751853943,0.012943903915584087,0.10597365349531174,positive,0.8681385517120361
+11,2014-09-23 02:33:00,"Revenue doesn't tell the whole story
+
+Moving to subscriptions has caused Adobe's total revenue to decline precipitously.",0.018117384985089302,0.9672101736068726,0.014672422781586647,negative,-0.9490928053855896
+12,2014-09-23 02:33:00,"In fiscal 2013, Adobe's total revenue fell to $4.055 billion, down from $4.404 billion in 2012.",0.016790825873613358,0.9738348722457886,0.009374222718179226,negative,-0.9570440649986267
+13,2014-09-23 02:33:00,"While this may seem like a bad result, the method in which subscription products are accounted for is the real culprit.",0.028050899505615234,0.8595082759857178,0.11244084686040878,negative,-0.8314573764801025
+14,2014-09-23 02:33:00,"When a customer buys an annual subscription to one of Adobe's products, Adobe recognizes the revenue over the lifetime of the subscription, even if it was paid in full at the start.",0.04581085592508316,0.00824015587568283,0.9459489583969116,neutral,0.03757070004940033
+15,2014-09-23 02:33:00,"This revenue is deferred, and over time this deferred revenue is converted into real revenue that shows up on Adobe's income statement.",0.02394741214811802,0.00805357564240694,0.9679990410804749,neutral,0.015893835574388504
+16,2014-09-23 02:33:00,"For companies that have subscription business models, keeping an eye on the deferred revenue gives a good indication as to the health of the business, as CFO Mark Garrett explained in response to an analyst question:
+
+Japan has been a strong market for Adobe's creative products in the past, but Creative Cloud hasn't gained much traction in the country so far.",0.5040087103843689,0.017256412655115128,0.4787348508834839,positive,0.48675230145454407
+17,2014-09-23 02:33:00,"Part of the problem is that, through the second quarter of this year, Creative Suite was still being sold as a one-time perpetual license.",0.020822256803512573,0.2548104226589203,0.7243673205375671,neutral,-0.23398816585540771
+18,2014-09-23 02:33:00,"This is no longer the case, and Adobe believes that Japanese adoption of Creative Cloud will now accelerate going forward as customers are pushed into subscriptions.",0.9298675656318665,0.015695594251155853,0.05443677678704262,positive,0.9141719937324524
+19,2014-09-23 02:33:00,"Narayen had this to say about Japan:
+
+Going forward, Creative Cloud adoption in Japan could provide a nice boost to subscriber numbers, assuming Narayen is correct about the problem not being a lack of demand.",0.9127246141433716,0.022197389975190163,0.06507805734872818,positive,0.8905272483825684
+20,2014-09-23 02:33:00,"When asked by an analyst about retention rates for its creative subscription products, Narayen responded:
+
+Adobe is retaining customers at a rate above 80%, which means that, on average, a customer has an 80%+ likelihood of remaining a customer for another year.",0.49029213190078735,0.02983887307345867,0.4798690378665924,positive,0.4604532718658447
+21,2014-09-23 02:33:00,"Of the current 2.8 million Creative Cloud subscribers, then, somewhere around 500,000 will drop the subscription instead of renewing over the next year, meaning that Adobe must attract this many new customers just to keep subscriber numbers level.",0.021937908604741096,0.8802017569541931,0.0978604182600975,negative,-0.8582638502120972
+22,2014-09-23 02:33:00,"This hasn't been an issue so far, as Adobe is adding this many new net subscribers every quarter, but as the Creative Cloud matures, a high retention rate will be critical for the success of Adobe's subscription strategy.",0.6271845102310181,0.014226128347218037,0.3585893511772156,positive,0.6129583716392517
+23,2014-09-23 02:33:00,"Apple recently revealed the product of its secret-development ""dream team"" -- Apple Watch.",0.12486588954925537,0.008741972036659718,0.8663921356201172,neutral,0.11612391471862793
+24,2014-09-23 02:33:00,"The secret is out, and some early viewers are claiming its everyday impact could trump the iPod, iPhone, and the iPad.",0.13506369292736053,0.14264263212680817,0.7222937345504761,neutral,-0.007578939199447632
+25,2014-09-23 02:33:00,"In fact, ABI Research predicts 485 million of this type of device will be sold per year.",0.12390507012605667,0.005444846116006374,0.870650053024292,neutral,0.11846022307872772
+26,2014-09-23 02:33:00,But one small company makes Apple's gadget possible.,0.06444790959358215,0.09449975937604904,0.8410523533821106,neutral,-0.03005184978246689
+27,2014-09-23 02:33:00,And its stock price has nearly unlimited room to run for early in-the-know investors.,0.31984880566596985,0.017700059339404106,0.6624511480331421,neutral,0.3021487593650818
+28,2014-09-23 02:33:00,"To be one of them, and see where the real money is to be made, just click here !",0.04223485663533211,0.017675016075372696,0.9400900602340698,neutral,0.02455984055995941
+29,2014-09-23 02:33:00,The article 5 Things Adobe Systems' Management Wants You to Know originally appeared on Fool.com.,0.012579022906720638,0.01056394912302494,0.9768570065498352,neutral,0.002015073783695698
+30,2014-09-23 02:33:00,Timothy Green has no position in any stocks mentioned.,0.010590942576527596,0.04123466834425926,0.9481744170188904,neutral,-0.030643725767731667
+31,2014-09-23 02:33:00,"The Motley Fool recommends Adobe Systems, Ford, and Salesforce.com.",0.017402026802301407,0.031745754182338715,0.9508521556854248,neutral,-0.014343727380037308
+32,2014-09-23 02:33:00,The Motley Fool owns shares of Ford.,0.035769231617450714,0.02515726163983345,0.9390734434127808,neutral,0.010611969977617264
+33,2014-09-23 02:33:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+34,2014-09-23 02:33:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+35,2014-09-23 02:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+36,2014-09-23 02:33:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+37,2014-09-23 02:33:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+38,2014-09-23 02:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2014-09-23 02:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

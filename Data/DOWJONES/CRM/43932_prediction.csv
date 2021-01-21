@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-06 13:39:00,Things keep getting worse for Slack (NYSE: WORK).,0.035983532667160034,0.8756448030471802,0.08837173134088516,negative,-0.8396612405776978
+1,2019-09-06 13:39:00,"Since the company made its stock market debut in June via a direct listing at $38.50, its shares have fallen by about 30%, as investors' mood over its outlook has soured.",0.017033865675330162,0.9712271094322205,0.011738949455320835,negative,-0.9541932344436646
+2,2019-09-06 13:39:00,There's certainly a lot to like about this workplace-collaboration software provider -- based both on its product and how fast the business is growing.,0.32155904173851013,0.008145147003233433,0.6702958345413208,neutral,0.3134138882160187
+3,2019-09-06 13:39:00,"But there are concerns, too, and when it comes to making a purchase of its stock -- at the moment -- I think the negatives outweigh the positives after the company's first quarterly report as a publicly traded concern.",0.191753089427948,0.15919889509677887,0.6490480303764343,neutral,0.03255419433116913
+4,2019-09-06 13:39:00,"Total revenue during the second quarter of fiscal 2020 (which ended July 31) was $145 million, for a year-over-year increase of 58%.",0.9500212669372559,0.019139591604471207,0.03083915263414383,positive,0.930881679058075
+5,2019-09-06 13:39:00,That included an $8.2 million expense from customer credits given due to a service disruption during the quarter.,0.022796781733632088,0.9443215727806091,0.03288157284259796,negative,-0.9215247631072998
+6,2019-09-06 13:39:00,"Through the first six months of fiscal 2020, Slack's revenue was up 52%.",0.946261465549469,0.016533322632312775,0.03720517456531525,positive,0.9297281503677368
+7,2019-09-06 13:39:00,Those are great numbers by any measure.,0.515076756477356,0.015230243094265461,0.4696929454803467,positive,0.49984651803970337
+8,2019-09-06 13:39:00,"Slack ended its Q2 with over 100,000 paying customers, a 37% year-over-year increase.",0.9528253674507141,0.019409092143177986,0.027765540406107903,positive,0.9334162473678589
+9,2019-09-06 13:39:00,"And it had 720 customers worth more than $100,000 apiece in annual recurring revenue, up 75%.",0.9337400794029236,0.01845611445605755,0.04780370369553566,positive,0.9152839779853821
+10,2019-09-06 13:39:00,"Its existing users keep getting more valuable, too.",0.5003969669342041,0.012942962348461151,0.48666006326675415,positive,0.48745399713516235
+11,2019-09-06 13:39:00,"The net dollar retention rate was 136%, implying that the average Slack relationship increased spending by 36% compared with a year ago -- mainly due to businesses giving more employees access to the platform.",0.9416449069976807,0.03597692400217056,0.02237812988460064,positive,0.9056679606437683
+12,2019-09-06 13:39:00,Getting users to spend more is an important driver of profit margins.,0.6237351298332214,0.014440556988120079,0.36182430386543274,positive,0.609294593334198
+13,2019-09-06 13:39:00,"Kudos, Slack.",0.1360064595937729,0.2253846973180771,0.6386088132858276,neutral,-0.0893782377243042
+14,2019-09-06 13:39:00,The type of office interaction collaboration software fixes.,0.01975395530462265,0.01801484078168869,0.9622311592102051,neutral,0.00173911452293396
+15,2019-09-06 13:39:00,Share and discuss those charts on Slack!,0.07344687730073929,0.015537656843662262,0.911015510559082,neutral,0.057909220457077026
+16,2019-09-06 13:39:00,Image source: Getty Images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+17,2019-09-06 13:39:00,"Speaking of profit margins, gross margin (revenue less cost of the service itself, as a percentage of total revenue) during the first half of the fiscal year was an impressive 82.2%.",0.9138818383216858,0.0274011492729187,0.05871700122952461,positive,0.8864806890487671
+18,2019-09-06 13:39:00,"Though Slack's bottom line is still in the red, this figure is a great indicator of Slack's longer-term potential once it reaches a profitable scale.",0.8429598808288574,0.014565512537956238,0.14247463643550873,positive,0.82839435338974
+19,2019-09-06 13:39:00,"However good that figure was, though, it was down from 87.6% a year ago.",0.019481005147099495,0.9702803492546082,0.010238696821033955,negative,-0.9507993459701538
+20,2019-09-06 13:39:00,"Granted, some of the gross margin shrinkage was likely due to the rollout of a new service, Shared Channels, which allows businesses that use Slack to communicate and collaborate with external entities like suppliers and customers.",0.019760897383093834,0.9629969596862793,0.01724209636449814,negative,-0.9432360529899597
+21,2019-09-06 13:39:00,"Nevertheless, I like to see gross margin at least hold stable -- if not increase -- for small companies that are rapidly adding users.",0.9171680808067322,0.014741995371878147,0.06808997690677643,positive,0.9024260640144348
+22,2019-09-06 13:39:00,And then there's the guidance.,0.01705113984644413,0.010279607959091663,0.972669243812561,neutral,0.006771531887352467
+23,2019-09-06 13:39:00,Management is forecasting full-year revenue will rise approximately 51% to a range of $603 million to $610 million.,0.9421853423118591,0.015543264336884022,0.042271412909030914,positive,0.9266420602798462
+24,2019-09-06 13:39:00,"Again, that's nothing to balk at; most businesses can only dream of that kind of growth.",0.2919202744960785,0.04125310853123665,0.666826605796814,neutral,0.25066715478897095
+25,2019-09-06 13:39:00,"But this is a young company, and decelerating sales growth is worth keeping an eye on.",0.37454283237457275,0.028776725754141808,0.5966804623603821,neutral,0.3457660973072052
+26,2019-09-06 13:39:00,"After all, with a price-to-sales ratio of 30.1, the stock is priced for at least a couple years of that level of torrid expansion.",0.4281502962112427,0.019344942644238472,0.5525047779083252,neutral,0.40880534052848816
+27,2019-09-06 13:39:00,"The not so good
+
+It's completely normal for a small tech outfit with big ambitions to spend its way into the red so as to maximize its potential.",0.1259588748216629,0.010206934995949268,0.8638341426849365,neutral,0.11575193703174591
+28,2019-09-06 13:39:00,Slack's gross profits are being put to work via selling and admin expenses.,0.0740995928645134,0.021958008408546448,0.9039424061775208,neutral,0.05214158445596695
+29,2019-09-06 13:39:00,"In the second quarter, adjusted selling expenses (a figure that backs out stock-based compensation) were $66.7 million, and general and admin expenses were $60.6 million.",0.025991609320044518,0.5773893594741821,0.39661911129951477,negative,-0.5513977408409119
+30,2019-09-06 13:39:00,"During the fiscal third quarter, management said it expects selling and admin expenses to be 50% of revenue.",0.03234778717160225,0.059397727251052856,0.9082545638084412,neutral,-0.027049940079450607
+31,2019-09-06 13:39:00,"Add in research and development costs (an adjusted $54.6 million in Q2), and you have total outlays that are more than enough to keep Slack deep in the red for quite some time -- both on an adjusted and GAAP basis.",0.6297739744186401,0.024569015949964523,0.345657080411911,positive,0.6052049398422241
+32,2019-09-06 13:39:00,"Plus, though workplace-collaboration software is a fairly fresh product, and seen by many as an upgrade from email, it's not like Slack is alone in offering it.",0.7903466820716858,0.017098596319556236,0.19255469739437103,positive,0.7732480764389038
+33,2019-09-06 13:39:00,"It has ample competition, including from Microsoft (NASDAQ: MSFT) and salesforce.com (NYSE: CRM), for example, which both offer larger suites of tools to complement their products.",0.5699240565299988,0.011589406058192253,0.4184865653514862,positive,0.5583346486091614
+34,2019-09-06 13:39:00,"Slack does have a partnership with Atlassian (NASDAQ: TEAM), but the competition could mount in the years ahead and slow Slack's upward trajectory.",0.05106065794825554,0.8713072538375854,0.0776321068406105,negative,-0.8202465772628784
+35,2019-09-06 13:39:00,That would be a problem for the sky-high valuation.,0.02839755080640316,0.9118964076042175,0.05970612168312073,negative,-0.8834988474845886
+36,2019-09-06 13:39:00,"Don't get me wrong, this is a software company I plan on keeping an eye on.",0.0517241470515728,0.006560339126735926,0.9417155385017395,neutral,0.04516380652785301
+37,2019-09-06 13:39:00,"At the moment, though, its valuation is too high, losses too steep, and product offerings too narrow for my taste.",0.023520532995462418,0.6679633259773254,0.30851617455482483,negative,-0.6444427967071533
+38,2019-09-06 13:39:00,"10 stocks we like better than Slack Technologies
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14436683058738708,0.023471349850296974,0.8321618437767029,neutral,0.12089548259973526
+39,2019-09-06 13:39:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+40,2019-09-06 13:39:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Slack Technologies wasn't one of them!",0.20934171974658966,0.013134799897670746,0.7775235176086426,neutral,0.1962069272994995
+41,2019-09-06 13:39:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+42,2019-09-06 13:39:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+43,2019-09-06 13:39:00,Nicholas Rossolillo and his clients own shares of Microsoft and Salesforce.com.,0.01457870751619339,0.012250193394720554,0.973171055316925,neutral,0.0023285141214728355
+44,2019-09-06 13:39:00,"The Motley Fool owns shares of and recommends Atlassian, Microsoft, Salesforce.com, and Slack Technologies.",0.029522733762860298,0.01982986554503441,0.9506474137306213,neutral,0.00969286821782589
+45,2019-09-06 13:39:00,The Motley Fool has the following options: long January 2021 $85 calls on Microsoft and long January 2021 $100 calls on Salesforce.com.,0.014580320566892624,0.04356740042567253,0.9418522715568542,neutral,-0.028987079858779907
+46,2019-09-06 13:39:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

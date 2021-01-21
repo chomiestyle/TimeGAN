@@ -1,0 +1,94 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-20 15:58:06,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2020-10-20 15:58:06,"Today's Research Daily features new research reports on 16 major stocks, including NVIDIA (NVDA), salesforce.com (CRM) and AstraZeneca (AZN).",0.04331279173493385,0.007414716761559248,0.9492725133895874,neutral,0.03589807450771332
+2,2020-10-20 15:58:06,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2020-10-20 15:58:06,"You can see all of today’s research reports here >>>
+
+NVIDIA shares have outperformed the Zacks General Semiconductor industry in the year to date period (+132% vs. +35.8%) on the back of a demand boost from the coronavirus-induced work-from-home and learn-at-home wave.",0.9346486330032349,0.02072804421186447,0.044623374938964844,positive,0.9139205813407898
+4,2020-10-20 15:58:06,"It is also benefiting from strong growth in GeForce desktop and notebook GPUs, which is boosting gaming revenues.",0.9498443007469177,0.017772294580936432,0.03238338604569435,positive,0.9320719838142395
+5,2020-10-20 15:58:06,"Moreover, a surge in Hyperscale demand remains a tailwind for the company’s Data Center business.",0.06265778094530106,0.8982180953025818,0.03912416100502014,negative,-0.8355603218078613
+6,2020-10-20 15:58:06,Expansion of NVIDIA GeForce NOW is expected to drive user base.,0.8687878251075745,0.015569489449262619,0.11564264446496964,positive,0.8532183170318604
+7,2020-10-20 15:58:06,"Further, solid uptake of AI-based smart cockpit infotainment solutions is a boon.",0.9077700972557068,0.03713960573077202,0.05509035661816597,positive,0.8706305027008057
+8,2020-10-20 15:58:06,"Additionally, collaboration with Daimler-owned Mercedes-Benz is expected to further strengthen NVIDIA’s presence in the autonomous vehicles and other automotive electronics space.",0.9478034377098083,0.015580490231513977,0.03661613538861275,positive,0.9322229623794556
+9,2020-10-20 15:58:06,"However, management expects COVID-19 pandemic to negatively impact near-term revenues by $100 million.",0.01782803051173687,0.9522273540496826,0.0299446452409029,negative,-0.9343993067741394
+10,2020-10-20 15:58:06,"Moreover, the U.S.-China trade war remains a key concern.",0.07101248949766159,0.33921992778778076,0.589767575263977,neutral,-0.2682074308395386
+11,2020-10-20 15:58:06,Shares of salesforce have gained +77.7% over the past year against the Zacks Computer Software industry’s rise of +47.1%.,0.9572769999504089,0.025368526577949524,0.017354458570480347,positive,0.9319084882736206
+12,2020-10-20 15:58:06,The Zacks analyst believes that Salesforce is benefiting from a robust demand environment as customers are undergoing a major digital transformation.,0.9370110034942627,0.012953510507941246,0.05003540962934494,positive,0.9240574836730957
+13,2020-10-20 15:58:06,The rapid adoption of its cloud-based solutions is driving demand for its products.,0.8499467372894287,0.01274961419403553,0.1373036950826645,positive,0.8371971249580383
+14,2020-10-20 15:58:06,Salesforce’s sustained focus on introducing more aligned products as per customer needs is driving its top-line.,0.8445386290550232,0.012239380739629269,0.14322197437286377,positive,0.8322992324829102
+15,2020-10-20 15:58:06,Continued deal wins in the international market is another growth driver.,0.9418046474456787,0.015575875528156757,0.04261942207813263,positive,0.9262287616729736
+16,2020-10-20 15:58:06,"Furthermore, the recent acquisition of Tableau positions the company to be a leader in business analytics for actionable results in everything from operations to HR.",0.903748095035553,0.01346648670732975,0.08278544992208481,positive,0.890281617641449
+17,2020-10-20 15:58:06,"However, stiff competition from Oracle and Microsoft is a concern.",0.05802709981799126,0.6175630688667297,0.3244097828865051,negative,-0.5595359802246094
+18,2020-10-20 15:58:06,"Besides, unfavorable currency fluctuations along with increasing investments in international expansions and data centers are an overhang on near-term profitability.",0.1565628945827484,0.7921656370162964,0.05127149075269699,negative,-0.6356027126312256
+19,2020-10-20 15:58:06,AstraZeneca’s shares have gained +5.1% over the past six months against the Zacks Large Cap Pharmaceuticals industry’s rise of +0.4%.,0.9573854207992554,0.025083370506763458,0.017531245946884155,positive,0.9323020577430725
+20,2020-10-20 15:58:06,The Zacks analyst believes that AstraZeneca’s diabetes franchise faces stiff competition while pricing pressure is hurting sales in the respiratory unit.,0.021539822220802307,0.9642565846443176,0.014203638769686222,negative,-0.9427167773246765
+21,2020-10-20 15:58:06,"Nonetheless, AstraZeneca’s newer drugs, mainly cancer medicines, Lynparza, Tagrisso and Imfinzi, should keep driving revenues.",0.9284478425979614,0.018619468435645103,0.05293264985084534,positive,0.9098283648490906
+22,2020-10-20 15:58:06,"Its pipeline is strong with abundance of catalysts lined up including data on COVID-19 vaccine candidate, AZD1222.",0.8903894424438477,0.013069023378193378,0.09654157608747482,positive,0.877320408821106
+23,2020-10-20 15:58:06,AstraZeneca has also engaged in external acquisitions and strategic collaborations to boost its pipeline while investing in geographic areas of high growth like China.,0.9407022595405579,0.014311256818473339,0.0449865348637104,positive,0.9263910055160522
+24,2020-10-20 15:58:06,Cost-cutting efforts should drive earnings.,0.9162166118621826,0.018381081521511078,0.06540224701166153,positive,0.8978355526924133
+25,2020-10-20 15:58:06,The company has a mixed record of earnings surprises in the recent quarters.,0.06374352425336838,0.8299262523651123,0.10633020102977753,negative,-0.7661827206611633
+26,2020-10-20 15:58:06,Estimates movement has been mixed ahead of Q3 earnings release.,0.031819507479667664,0.8727654814720154,0.09541501849889755,negative,-0.8409459590911865
+27,2020-10-20 15:58:06,"Other noteworthy reports we are featuring today include JPMorgan Chase (JPM), Chevron (CVX) and Charter Communications (CHTR).",0.0320979543030262,0.00581224774941802,0.9620897769927979,neutral,0.026285706087946892
+28,2020-10-20 15:58:06,"These Stocks Are Poised to Soar Past the Pandemic
+
+The COVID-19 outbreak has shifted consumer behavior dramatically, and a handful of high-tech companies have stepped up to keep America running.",0.7972503900527954,0.05419308319687843,0.1485564261674881,positive,0.7430573105812073
+29,2020-10-20 15:58:06,"Right now, investors in these companies have a shot at serious profits.",0.6138336062431335,0.025691727176308632,0.36047467589378357,positive,0.5881418585777283
+30,2020-10-20 15:58:06,"For example, Zoom jumped 108.5% in less than 4 months while most other stocks were sinking.",0.7051386833190918,0.15884511172771454,0.13601621985435486,positive,0.5462935566902161
+31,2020-10-20 15:58:06,Our research shows that 5 cutting-edge stocks could skyrocket from the exponential increase in demand for “stay at home” technologies.,0.8781022429466248,0.027150526642799377,0.09474720805883408,positive,0.8509517312049866
+32,2020-10-20 15:58:06,"This could be one of the biggest buying opportunities of this decade, especially for those who get in early.",0.5791212320327759,0.02173202484846115,0.39914676547050476,positive,0.5573891997337341
+33,2020-10-20 15:58:06,"See the 5 high-tech stocks now>>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.106092169880867,0.0083239721134305,0.8855838775634766,neutral,0.09776819497346878
+34,2020-10-20 15:58:06,He is frequently quoted in the print and electronic media and publishes the weekly and reports.,0.03331075236201286,0.01755107194185257,0.9491382241249084,neutral,0.015759680420160294
+35,2020-10-20 15:58:06,"If you want an email notification each time Sheraz publishes a new article, please
+
+Per the Zacks analyst, opening new branches, strong mortgage banking business, and focus on credit card business will aid JPMorgan's financials.",0.8723068833351135,0.01312115229666233,0.11457189917564392,positive,0.8591857552528381
+36,2020-10-20 15:58:06,The Zacks analyst believes Chevron's Noble buyout will expand its position in the Permian Basin but is worried over the company's reserve replacement ratio of just 44%.,0.7991690039634705,0.12266841530799866,0.07816258817911148,positive,0.6765005588531494
+37,2020-10-20 15:58:06,"Per the Zacks analyst, subscriber growth in spectrum mobile products is benefiting Charter's growth amid rising competition from streaming service providers in the video market.",0.9545974135398865,0.017352666705846786,0.028049886226654053,positive,0.9372447729110718
+38,2020-10-20 15:58:06,"Per the Zacks analyst, Global Payments benefits from a healthy revenue stream, courtesy of buyouts, and alliances.",0.8831868767738342,0.013559365645051003,0.10325382649898529,positive,0.8696275353431702
+39,2020-10-20 15:58:06,"Per the Zacks analyst, driven by ample liquidity and zero debt, T. Rowe Price remains well poised for growth.",0.9222071170806885,0.013644279912114143,0.06414850801229477,positive,0.9085628390312195
+40,2020-10-20 15:58:06,"Per the Zacks analyst, V.F.",0.0192500501871109,0.029237456619739532,0.9515124559402466,neutral,-0.009987406432628632
+41,2020-10-20 15:58:06,Corp is gaining from strong performance in digital and China businesses.,0.949737012386322,0.015137117356061935,0.03512595593929291,positive,0.9345998764038086
+42,2020-10-20 15:58:06,"Further, digital penetration is expected to account for more than 25% of revenues in fiscal 2021.",0.4980356693267822,0.009835240431129932,0.4921291172504425,positive,0.48820042610168457
+43,2020-10-20 15:58:06,"The Zacks Analyst likes Waste Connections' buyout strategy to strengthen its services, expand market share and increase client base.",0.9490335583686829,0.015153057873249054,0.03581346571445465,positive,0.9338805079460144
+44,2020-10-20 15:58:06,"Per the Zacks analyst, the high demand for electronic warfare, increased upgrades on electronic subsystems and a continued flow of deals are aiding Mercury Systems' growth.",0.9331623911857605,0.012868756428360939,0.053968898952007294,positive,0.9202936291694641
+45,2020-10-20 15:58:06,"Expansion of Online Betting Bode Well For Boyd Gaming (BYD)
+
+Per the Zacks analyst, Boyd Gaming (BYD) is poised to benefit from an increased focus on online betting and portfolio expansion.",0.9456344842910767,0.013498724438250065,0.04086680710315704,positive,0.9321357607841492
+46,2020-10-20 15:58:06,The company has expanded its partnership with FanDuel Group.,0.9490733742713928,0.015184310264885426,0.03574231639504433,positive,0.9338890910148621
+47,2020-10-20 15:58:06,"Per the Zacks analyst, KBR's robust backlog, strength in the Government Services unit, and accretive acquisitions are driving its top and bottom lines.",0.8279242515563965,0.014607341028749943,0.15746840834617615,positive,0.8133168816566467
+48,2020-10-20 15:58:06,"While Advance Auto Parts' rising e-commerce efforts to give an omnichannel platform are driving the firm, coronavirus-led sluggish vehicle demand is hurting near-term profits, per the Zacks analyst.",0.021398894488811493,0.9667127132415771,0.011888387612998486,negative,-0.9453138113021851
+49,2020-10-20 15:58:06,"Per the Zacks analyst, Woodward's Aerospace unit is struggling with declining commercial sales and aircraft production rates resulting from the COVID-19 pandemic.",0.020858604460954666,0.9640893340110779,0.015052027069032192,negative,-0.9432307481765747
+50,2020-10-20 15:58:06,"Per the Zacks analyst, reduction in federal taxes paid and decline in underwriting expenses paid have been driving strong cash flows.",0.8363626599311829,0.12368144094944,0.039955880492925644,positive,0.712681233882904
+51,2020-10-20 15:58:06,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2020-10-20 15:58:06,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2020-10-20 15:58:06,"Click to get this free report
+
+ 
+
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+
+ 
+
+JPMorgan Chase Co. (JPM) : Free Stock Analysis Report
+
+ 
+
+Chevron Corporation (CVX) : Free Stock Analysis Report
+
+ 
+
+salesforce.com, inc. (CRM) : Free Stock Analysis Report
+
+ 
+
+Charter Communications, Inc. (CHTR) : Free Stock Analysis Report
+
+ 
+
+AstraZeneca PLC (AZN) : Free Stock Analysis Report
+
+ 
+
+To read this article on Zacks.com click here.",0.012925537303090096,0.016702163964509964,0.9703722596168518,neutral,-0.0037766266614198685
+54,2020-10-20 15:58:06,Zacks Investment Research,0.040200456976890564,0.013417162001132965,0.9463824033737183,neutral,0.0267832949757576

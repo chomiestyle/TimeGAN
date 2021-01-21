@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-07-25 10:00:00,"Twilio (NYSE: TWLO) stock has given shareholders an incredible ride, returning over 750% in the last three years.",0.9360308051109314,0.018085941672325134,0.04588324949145317,positive,0.9179448485374451
+1,2020-07-25 10:00:00,"Its communication platform for generating text, voice, video, and email via software is now used by over 190,000 customers in 180 countries.",0.25383371114730835,0.006496099289506674,0.7396702170372009,neutral,0.24733760952949524
+2,2020-07-25 10:00:00,"Data from the last three years through July 23, 2020.",0.01663873717188835,0.008367342874407768,0.9749939441680908,neutral,0.008271394297480583
+3,2020-07-25 10:00:00,"TWLO data by YCharts
+
+It may not be a household name, but you've probably experienced Twilio's capabilities.",0.046711716800928116,0.009523647837340832,0.9437646865844727,neutral,0.03718806803226471
+4,2020-07-25 10:00:00,"If you've received a computer-generated text message saying your prescription is ready or an automated phone call reminder that your medical appointment is upcoming, these messages were likely created by its platform's tools.",0.01859637163579464,0.014211909845471382,0.967191755771637,neutral,0.0043844617903232574
+5,2020-07-25 10:00:00,"Recently the company has reached a key milestone that allows it to more fully serve the needs of the healthcare industry, and it's driving fast to capture new business.",0.9341368675231934,0.014790879562497139,0.05107227712869644,positive,0.9193459749221802
+6,2020-07-25 10:00:00,Let's check out what the company is up to on the healthcare front and what it means for investors.,0.05182531848549843,0.005204558838158846,0.9429700970649719,neutral,0.04662076011300087
+7,2020-07-25 10:00:00,"After 18 months of development efforts, Twilio achieved HIPAA compliance on a set of its tools in February.",0.8966978788375854,0.01467166282236576,0.08863049745559692,positive,0.882026195526123
+8,2020-07-25 10:00:00,"HIPAA is short for the Health Insurance Portability and Accountability Act, passed in 1996, that protects personal healthcare information (PHI) and provides a standard for PHI transmitted or stored in electronic form.",0.05454353988170624,0.0053378017619252205,0.9401186108589172,neutral,0.04920573905110359
+9,2020-07-25 10:00:00,"This milestone enables Twilio's network to handle PHI under a business associate agreement (BAA), which will allow healthcare entities to use its products and network for many new use cases.",0.8239520192146301,0.010343744419515133,0.16570420563220978,positive,0.8136082887649536
+10,2020-07-25 10:00:00,"This is not just a localized capability, but crosses a broad base of its products, including voice, text, video, and call center building blocks.",0.12073531746864319,0.005721020046621561,0.8735436201095581,neutral,0.11501429975032806
+11,2020-07-25 10:00:00,"This is a valuable service for healthcare entities, and a number of new customers have already jumped on board.",0.8552060723304749,0.013428782112896442,0.13136513531208038,positive,0.8417772650718689
+12,2020-07-25 10:00:00,"As the coronavirus started to spread, many healthcare providers looked to telehealth technology to perform non-critical or even COVID-19-related visits.",0.2580602169036865,0.05912268906831741,0.6828171610832214,neutral,0.1989375352859497
+13,2020-07-25 10:00:00,"The demand for these services skyrocketed in a short period of time, and Twilio's easy-to-implement and cloud-scalable tools were ready.",0.8913397789001465,0.015196602791547775,0.09346357733011246,positive,0.8761431574821472
+14,2020-07-25 10:00:00,"In the past few months, three large healthcare software platforms added Twilio's video capabilities to enhance their services.",0.9002934098243713,0.013464336283504963,0.08624225109815598,positive,0.8868290781974792
+15,2020-07-25 10:00:00,"Epic, one of the largest healthcare record companies, implemented video to interact with patients, and allow virtual updates of clinical records.",0.11368588358163834,0.006549487356096506,0.8797645568847656,neutral,0.10713639855384827
+16,2020-07-25 10:00:00,ZocDoc's medical appointment service was enhanced to allow the scheduled appointment to happen virtually over video chat.,0.6356912851333618,0.012187039479613304,0.3521216809749603,positive,0.6235042214393616
+17,2020-07-25 10:00:00,"Doximity added video capability to its dialer service for its 100,000 physician customers to allow them to see the patient when calling.",0.6637561917304993,0.01158871129155159,0.324655145406723,positive,0.6521674990653992
+18,2020-07-25 10:00:00,Healthcare customers are using Twilio to power virtual doctor visits.,0.04496799036860466,0.017135944217443466,0.9378960728645325,neutral,0.027832046151161194
+19,2020-07-25 10:00:00,Image source: Getty Images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+20,2020-07-25 10:00:00,But it's not just video services that healthcare-related customers are using.,0.014282210730016232,0.009617827832698822,0.976099967956543,neutral,0.0046643828973174095
+21,2020-07-25 10:00:00,New York City contracted with the company to help get their coronavirus contact tracing capabilities in place.,0.8325013518333435,0.014392264187335968,0.15310637652873993,positive,0.8181090950965881
+22,2020-07-25 10:00:00,"The solution includes contact center software, voice communications, and text messaging capabilities.",0.13515464961528778,0.005335215944796801,0.8595101237297058,neutral,0.12981943786144257
+23,2020-07-25 10:00:00,CipherHealth added COVID-19 interactive voice and text screening questions for its patients.,0.16552168130874634,0.007266758009791374,0.8272116184234619,neutral,0.15825492143630981
+24,2020-07-25 10:00:00,"Over 500 hospitals and healthcare systems using CipherHealth's platform have been issuing more than 430,000 outbound screenings per week.",0.09099338948726654,0.0540093295276165,0.8549972772598267,neutral,0.03698405995965004
+25,2020-07-25 10:00:00,This budding opportunity caused the company to add a key executive to its ranks.,0.8242607712745667,0.01487354002892971,0.16086570918560028,positive,0.80938720703125
+26,2020-07-25 10:00:00,"In February, the company hired Susan Lucas Collins as its global head of healthcare services.",0.24695806205272675,0.012943180277943611,0.740098774433136,neutral,0.23401488363742828
+27,2020-07-25 10:00:00,Collins has been in healthcare-related roles her entire 33-year career and spent five years at Salesforce leading healthcare marketing efforts.,0.05191195756196976,0.01053120568394661,0.9375568628311157,neutral,0.04138075187802315
+28,2020-07-25 10:00:00,"Andrew Zilli, vice president of investor relations, spoke about this role in a recent interview:
+
+And so bringing somebody like Susan in who knows the healthcare world really, really well can really meaningfully up-level our ability to play a significant role there.",0.6551550626754761,0.014330250211060047,0.33051469922065735,positive,0.6408247947692871
+29,2020-07-25 10:00:00,"And so it's kind of the first time that we've hired somebody in a role like that to really own a vertical, but I think it shows the importance of healthcare and what we think we can do with that.",0.32233092188835144,0.009417743422091007,0.6682512760162354,neutral,0.312913179397583
+30,2020-07-25 10:00:00,Collins contributed to the recent customer wins and will be a great resource for the company to enhance its presence in this important industry.,0.9007750153541565,0.012814240530133247,0.08641073107719421,positive,0.8879607915878296
+31,2020-07-25 10:00:00,"What it all means for investors
+
+Healthcare isn't a material part of Twilio's business yet, so these deals aren't going to cause the stock to move.",0.018863072618842125,0.03954881429672241,0.9415881633758545,neutral,-0.020685741677880287
+32,2020-07-25 10:00:00,But there have been some promising trends with this customer set.,0.7689355611801147,0.01576867140829563,0.21529579162597656,positive,0.753166913986206
+33,2020-07-25 10:00:00,"Since February, it's seen a doubling of healthcare customers' usage and a more than doubling of the number of healthcare customers utilizing the video services.",0.9244875907897949,0.020924655720591545,0.054587725549936295,positive,0.9035629630088806
+34,2020-07-25 10:00:00,"Since its revenue is primarily usage-based, this is an encouraging development for investors.",0.8006219863891602,0.012179478071630001,0.18719853460788727,positive,0.7884424924850464
+35,2020-07-25 10:00:00,But the really exciting part is how these tools play a key role in helping this industry meet the challenge of reducing costs while also improving outcomes and increasing patient satisfaction.,0.7460947632789612,0.01179391611367464,0.24211138486862183,positive,0.7343008518218994
+36,2020-07-25 10:00:00,This capability could make the recent trend the start of something much bigger.,0.6539689898490906,0.015288103371858597,0.33074286580085754,positive,0.6386808753013611
+37,2020-07-25 10:00:00,"It may be a while until these new HIPAA-compliant capabilities make a meaningful difference in the company's topline, but shareholders should be comforted that this innovative tech company is continuing to expand its market opportunity.",0.9335604310035706,0.015544367954134941,0.05089518427848816,positive,0.9180160760879517
+38,2020-07-25 10:00:00,"10 stocks we like better than Twilio
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12981627881526947,0.02689797431230545,0.8432856798171997,neutral,0.10291830450296402
+39,2020-07-25 10:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+40,2020-07-25 10:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Twilio wasn't one of them!",0.18124833703041077,0.016188297420740128,0.8025634288787842,neutral,0.16506004333496094
+41,2020-07-25 10:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+42,2020-07-25 10:00:00,Brian Withers owns shares of Twilio.,0.01801137812435627,0.010958072729408741,0.971030592918396,neutral,0.007053305394947529
+43,2020-07-25 10:00:00,The Motley Fool owns shares of and recommends Salesforce.com and Twilio.,0.03056870587170124,0.024722257629036903,0.9447090029716492,neutral,0.005846448242664337
+44,2020-07-25 10:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

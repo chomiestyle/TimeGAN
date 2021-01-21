@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-03 03:41:00,Oracle Corporation (NYSE: ORCL ) proved the point that it doesn't matter how impressive your performance metrics are.,0.12089957296848297,0.011990081518888474,0.8671103119850159,neutral,0.1089094877243042
+1,2018-04-03 03:41:00,"At the end of the day, investor perception is everything.",0.049934111535549164,0.05107009783387184,0.8989958167076111,neutral,-0.0011359862983226776
+2,2018-04-03 03:41:00,"Unfortunately for Oracle stock, that perception was extremely negative.",0.01944020390510559,0.88512122631073,0.09543855488300323,negative,-0.8656810522079468
+3,2018-04-03 03:41:00,"As our own Bret Kenwell stated, the database and cloud-computing giant produced solid numbers for its recent third-quarter earnings report.",0.9472512602806091,0.019784582778811455,0.03296419605612755,positive,0.9274666905403137
+4,2018-04-03 03:41:00,"Kenwell wrote:
+
+""Earnings of 83 cents per share came in 11 cents or 15% ahead of analysts' expectations.",0.6935405731201172,0.12170001864433289,0.18475936353206635,positive,0.5718405246734619
+5,2018-04-03 03:41:00,Revenue grew 5.5% from the same period a year ago.,0.958702564239502,0.0205058716237545,0.020791539922356606,positive,0.9381967186927795
+6,2018-04-03 03:41:00,"Cloud software as a service (SaaS) grew 33% year-over-year (YOY), while Oracle saw an increase of 32% in total cloud revenues.""",0.9533771276473999,0.017794543877243996,0.028828371316194534,positive,0.9355825781822205
+7,2018-04-03 03:41:00,"Other highlights included GAAP-basis operating income jumping 15%, while GAAP net income rising 21% YOY.",0.929707944393158,0.027187924832105637,0.04310411214828491,positive,0.9025200009346008
+8,2018-04-03 03:41:00,So why then did Oracle stock fall more than 9% following the Q3 report?,0.027174491435289383,0.9201858043670654,0.05263975262641907,negative,-0.8930113315582275
+9,2018-04-03 03:41:00,Kenwell identified two possible reasons.,0.021153761073946953,0.06006261706352234,0.9187836050987244,neutral,-0.03890885412693024
+10,2018-04-03 03:41:00,"One of them is that forward guidance, especially in the cloud business, was disappointing.",0.02073429711163044,0.9553858637809753,0.023879874497652054,negative,-0.9346515536308289
+11,2018-04-03 03:41:00,"With more industries competing in this lucrative sector, Wall Street wanted to see more assertiveness.",0.6412282586097717,0.017232971265912056,0.34153881669044495,positive,0.623995304107666
+12,2018-04-03 03:41:00,"They didn't get that, hence the drop-off in Oracle stock.",0.019451048225164413,0.9576749205589294,0.022874118760228157,negative,-0.9382238984107971
+13,2018-04-03 03:41:00,The second reason is that cloud profitability is weaker than expected.,0.018997283652424812,0.9649641513824463,0.01603849232196808,negative,-0.9459668397903442
+14,2018-04-03 03:41:00,"Management set a target for an 80% gross margin rate, while the actual rate in this quarter was 67%.",0.045515090227127075,0.03427838161587715,0.9202064871788025,neutral,0.011236708611249924
+15,2018-04-03 03:41:00,That's a very modest lift from the 65% gross margin from the year-ago quarter.,0.7107306718826294,0.23703034222126007,0.052238982170820236,positive,0.4737003445625305
+16,2018-04-03 03:41:00,"Investors didn't like what they saw, perceiving weakness in their cloud ambitions.",0.02418036013841629,0.9237924218177795,0.05202721431851387,negative,-0.8996120691299438
+17,2018-04-03 03:41:00,"However, I think the Oracle stock dumping had more to do with broader concerns than Oracle's lack of competitiveness.",0.03383234143257141,0.6682500243186951,0.29791760444641113,negative,-0.6344176530838013
+18,2018-04-03 03:41:00,"When assessing an established firm like Oracle, I think it's important not to overemphasize disrupting competitors' net impact.",0.036474645137786865,0.0691489577293396,0.8943764567375183,neutral,-0.032674312591552734
+19,2018-04-03 03:41:00,"For instance, salesforce.com, inc .",0.01336580514907837,0.026312651112675667,0.9603214859962463,neutral,-0.012946845963597298
+20,2018-04-03 03:41:00,"(NASDAQ: CRM ) produced strong results in the cloud, yet since mid-March, their shares are down 8.6%.",0.019021442160010338,0.9673177003860474,0.013660808093845844,negative,-0.9482962489128113
+21,2018-04-03 03:41:00,Why aren't people complaining about CRM the way they are for Oracle stock?,0.07775210589170456,0.28163784742355347,0.6406100392341614,neutral,-0.2038857340812683
+22,2018-04-03 03:41:00,"Let's also look at Amazon.com, Inc .",0.026595592498779297,0.01969802938401699,0.9537063837051392,neutral,0.006897563114762306
+23,2018-04-03 03:41:00,(NASDAQ: AMZN ).,0.024916285648941994,0.006626671180129051,0.9684569835662842,neutral,0.018289614468812943
+24,2018-04-03 03:41:00,"I love this company as much as anyone else, primarily because it's the disruption king.",0.2178206890821457,0.007321859709918499,0.7748574018478394,neutral,0.21049882471561432
+25,2018-04-03 03:41:00,"You don't even have to be involved in the technology sector, and it'll still find a way to disrupt you.",0.07103954255580902,0.5476558804512024,0.3813045918941498,negative,-0.4766163229942322
+26,2018-04-03 03:41:00,"Of course, Amazon is competing aggressively in the cloud, and the results are encouraging.",0.9377999305725098,0.014446709305047989,0.047753363847732544,positive,0.9233531951904297
+27,2018-04-03 03:41:00,What's not encouraging?,0.06554803997278214,0.13869349658489227,0.7957584857940674,neutral,-0.07314545661211014
+28,2018-04-03 03:41:00,"Again, from mid-March, AMZN shares are down 8.5%.",0.01814432442188263,0.9686779975891113,0.013177751563489437,negative,-0.9505336880683899
+29,2018-04-03 03:41:00,"So not only are cloud competitors falling in the same timeframe, the loss magnitude is similar.",0.05657687783241272,0.0785779282450676,0.8648451566696167,neutral,-0.022001050412654877
+30,2018-04-03 03:41:00,"Granted, ORCL stock hurts more, but not by a huge margin.",0.09881263226270676,0.8186872601509094,0.08250009268522263,negative,-0.7198746204376221
+31,2018-04-03 03:41:00,That tells me that something other than lack of cloud competitiveness is driving the bearishness.,0.0552418977022171,0.17750009894371033,0.7672579884529114,neutral,-0.12225820124149323
+32,2018-04-03 03:41:00,"Unfortunately, you can take your pick.",0.07319128513336182,0.04984861612319946,0.876960039138794,neutral,0.023342669010162354
+33,2018-04-03 03:41:00,"Whether it's Trump administration drama, China tariffs, North Korea, or rising interest rates, we have no shortage of problems.",0.030506303533911705,0.02597545087337494,0.9435182213783264,neutral,0.004530852660536766
+34,2018-04-03 03:41:00,"None of these things have anything to do with ORCL, but the stench remains.",0.042990878224372864,0.20492762327194214,0.7520815134048462,neutral,-0.16193674504756927
+35,2018-04-03 03:41:00,"Despite the broader concerns and the Oracle stock bloodshed, the underlining company is still a top contender in the cloud.",0.7179345488548279,0.05071520432829857,0.23135019838809967,positive,0.667219340801239
+36,2018-04-03 03:41:00,"Certainly, it's not the sexiest name, and it doesn't get the same attention as the younger upstarts.",0.04400723800063133,0.5124238729476929,0.4435689449310303,negative,-0.46841663122177124
+37,2018-04-03 03:41:00,"Nevertheless, Oracle is winning where it matters: with whale clients.",0.782240092754364,0.02009366638958454,0.19766628742218018,positive,0.7621464133262634
+38,2018-04-03 03:41:00,The company's database management systems are consistently the most popular.,0.5606919527053833,0.011478072963654995,0.4278299808502197,positive,0.5492138862609863
+39,2018-04-03 03:41:00,This isn't surprising because they have decades of experience meeting the most rigorous demands.,0.18288971483707428,0.010027622804045677,0.8070826530456543,neutral,0.17286209762096405
+40,2018-04-03 03:41:00,"Thus, ORCL attracts major firms like AT&T Inc .",0.807461142539978,0.015798209235072136,0.17674057185649872,positive,0.7916629314422607
+41,2018-04-03 03:41:00,"(NYSE: T ), who appreciate having ""software, platform, and infrastructure under one umbrella.""",0.17324848473072052,0.006347551941871643,0.8204039931297302,neutral,0.16690093278884888
+42,2018-04-03 03:41:00,"Longer-term, I stand by my earlier optimism for Oracle stock.",0.48225218057632446,0.01964103989303112,0.4981067478656769,neutral,0.4626111388206482
+43,2018-04-03 03:41:00,"However, I also know that the markets are always right.",0.27961233258247375,0.018827158957719803,0.7015604972839355,neutral,0.26078516244888306
+44,2018-04-03 03:41:00,"Unfortunately, ORCL is a classic case of a fundamentally sound company in a less-than-ideal environment.",0.20748932659626007,0.40518295764923096,0.387327641248703,negative,-0.1976936310529709
+45,2018-04-03 03:41:00,"In time, I believe that the overall situation will improve.",0.9098834991455078,0.013832838274538517,0.07628371566534042,positive,0.8960506319999695
+46,2018-04-03 03:41:00,"For now, I caution anyone from going too deeply into ORCL stock.",0.038885705173015594,0.0636817067861557,0.8974325656890869,neutral,-0.024796001613140106
+47,2018-04-03 03:41:00,"Since July of last year, shares have formed a declining support line.",0.017753692343831062,0.967340886592865,0.01490540150552988,negative,-0.9495871663093567
+48,2018-04-03 03:41:00,"The severe gap-down session after the Q3 earnings report has inflicted significant damage, meaning more downside is likely.",0.026141976937651634,0.9616647362709045,0.012193224392831326,negative,-0.935522735118866
+49,2018-04-03 03:41:00,How bad are we talking?,0.10242123901844025,0.23829983174800873,0.6592788696289062,neutral,-0.13587859272956848
+50,2018-04-03 03:41:00,"At minimum, we'll fall to $44, which represents roughly a 4% decline from the current price.",0.02252175845205784,0.9617145657539368,0.01576375402510166,negative,-0.9391928315162659
+51,2018-04-03 03:41:00,"But the next biggest support line is around $38, which is a 17% decline from here.",0.021157175302505493,0.9656491875648499,0.013193623162806034,negative,-0.944491982460022
+52,2018-04-03 03:41:00,That's the bad news.,0.07229979336261749,0.47647979855537415,0.45122039318084717,negative,-0.40417999029159546
+53,2018-04-03 03:41:00,"The good news is that should Oracle stock fall that low, this would be an extremely attractive opportunity.",0.62819904088974,0.01805340312421322,0.35374751687049866,positive,0.610145628452301
+54,2018-04-03 03:41:00,"Wall Street is excessively pessimistic about Oracle's cloud competitiveness, which I find strange.",0.028479553759098053,0.861727237701416,0.10979325324296951,negative,-0.8332476615905762
+55,2018-04-03 03:41:00,"Moreover, this is an organization that has consistently attracted big-name clients thanks to its superior products and services.",0.9216015338897705,0.014592224732041359,0.06380626559257507,positive,0.9070093035697937
+56,2018-04-03 03:41:00,That's not going to change anytime soon.,0.04468381777405739,0.06011166051030159,0.8952045440673828,neutral,-0.015427842736244202
+57,2018-04-03 03:41:00,"As of this writing, Josh Enomoto did not hold a position in any of the aforementioned securities.",0.008661915548145771,0.025846285745501518,0.9654918313026428,neutral,-0.017184369266033173
+58,2018-04-03 03:41:00,"• 4 Stocks That Could Suffer During the Great Unfriending
+• 5 Gold Stocks to Buy Right Now for Q2
+
+The post Oracle Corporation Stock Is a Solid Long Term Bet in an Unstable Market appeared first on InvestorPlace .",0.7519802451133728,0.039681483060121536,0.20833829045295715,positive,0.7122987508773804
+59,2018-04-03 03:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

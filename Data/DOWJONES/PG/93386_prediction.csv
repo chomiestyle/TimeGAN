@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-04 07:13:00,"In early trading on Tuesday, shares of Microsoft ( MSFT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.1%.",0.9379855394363403,0.032244905829429626,0.029769549146294594,positive,0.9057406187057495
+1,2015-08-04 07:13:00,"Year to date, Microsoft registers a 1.8% gain.",0.9451678991317749,0.02462521195411682,0.030206944793462753,positive,0.9205427169799805
+2,2015-08-04 07:13:00,"And the worst performing Dow component thus far on the day is Apple ( AAPL ), trading down 1.6%.",0.020595921203494072,0.9657769203186035,0.013627172447741032,negative,-0.9451810121536255
+3,2015-08-04 07:13:00,Apple is showing a gain of 5.6% looking at the year to date performance.,0.9502624273300171,0.019006747752428055,0.03073081560432911,positive,0.9312556982040405
+4,2015-08-04 07:13:00,"Two other components making moves today are Procter & Gamble ( PG ), trading down 0.6%, and Chevron ( CVX ), trading up 1.1% on the day.",0.03689730539917946,0.9269751906394958,0.036127544939517975,negative,-0.8900778889656067
+5,2015-08-04 07:13:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

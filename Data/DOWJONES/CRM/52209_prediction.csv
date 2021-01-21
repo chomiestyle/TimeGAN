@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-08 06:23:00,MoneyMorning.com Report - Good morning!,0.2257576584815979,0.031398843973875046,0.742843508720398,neutral,0.19435881078243256
+1,2015-05-08 06:23:00,"For May 8, 2015, here is your top market news, including stock futures today , earnings reports, pre-market movers, and stocks to watch ...
+
+Stock futures today popped after the April jobs report came out this morning.",0.03374708443880081,0.011055462062358856,0.9551974534988403,neutral,0.022691622376441956
+2,2015-05-08 06:23:00,The Dow is soaring more than 150 points in pre-market trading (compared to 50 points before the report).,0.9238989353179932,0.037496354430913925,0.038604721426963806,positive,0.8864026069641113
+3,2015-05-08 06:23:00,"The DJIA Index jumped 82 points on Thursday, fueled by a rally in tech stocks and a downturn in global interest rates.",0.9169061779975891,0.04006499424576759,0.043028783053159714,positive,0.8768411874771118
+4,2015-05-08 06:23:00,"Yesterday, weekly jobless claims slipped to their lowest level in 15 years, creating even more anticipation for today's monthly employment report...
+• The Stock Market Today: The unemployment rate has fallen to its lowest level since May 2008.",0.021481482312083244,0.962234377861023,0.0162841584533453,negative,-0.9407529234886169
+5,2015-05-08 06:23:00,"This morning, the U.S. Commerce Department announced the economy added 228,000 jobs and the April unemployment rate hit 5.4%.",0.8241233229637146,0.10278916358947754,0.07308747619390488,positive,0.7213341593742371
+6,2015-05-08 06:23:00,"Economists had expected U.S. job levels to have increased by 224,000 after a jump of just 126,000 in March.",0.9189054369926453,0.05035419017076492,0.030740320682525635,positive,0.8685512542724609
+7,2015-05-08 06:23:00,Today's announcement of a low rate means the Federal Reserve will likely consider its first hike in interest rates since 2006.,0.5512096285820007,0.12716898322105408,0.3216213583946228,positive,0.42404064536094666
+8,2015-05-08 06:23:00,The U.S. labor participation rate is still a worrisome 62.8%.,0.022516287863254547,0.9364383220672607,0.04104530066251755,negative,-0.9139220118522644
+9,2015-05-08 06:23:00,"• Earnings in Focus: Today, AOL Inc. ( AOL ), CROCS Inc. (Nasdaq: CROX), JD.com Inc. (Nasdaq: JD), WhiteWave Foods Co. ( WWAV ), and NRG Energy Inc. ( NRG ) will report earnings.",0.07586991041898727,0.013988672755658627,0.9101414680480957,neutral,0.06188123673200607
+10,2015-05-08 06:23:00,• Focus Abroad: Voters in the U.K. hit the polls Thursday for its national election.,0.35038870573043823,0.15065830945968628,0.49895304441452026,neutral,0.19973039627075195
+11,2015-05-08 06:23:00,"In a surprise win, David Cameron will remain the Prime Minister and the Conservatives grabbed 326 seats, giving the party a narrow majority.",0.3199508786201477,0.5506049990653992,0.12944409251213074,negative,-0.23065412044525146
+12,2015-05-08 06:23:00,"Meanwhile, the wheels are coming off the China's economy.",0.1755671352148056,0.10082871466875076,0.723604142665863,neutral,0.07473842054605484
+13,2015-05-08 06:23:00,A crushing three-day sell-off has pushed the Chinese stock market to its worse weekly downturn in five years.,0.06598085165023804,0.8837713003158569,0.05024779960513115,negative,-0.8177904486656189
+14,2015-05-08 06:23:00,"The markets slipped roughly 6% for the week, fueling concerns about a major correction for the nation's economy and the likelihood of increased stimulus efforts to stave off further sell-offs.",0.02731909602880478,0.9605708122253418,0.012110168114304543,negative,-0.9332517385482788
+15,2015-05-08 06:23:00,• Oil Prices Today: Oil prices jumped this morning on a positive jobs report.,0.9398218989372253,0.03082621842622757,0.02935180813074112,positive,0.9089956879615784
+16,2015-05-08 06:23:00,"WTI crude, priced in New York City, gained 1% to hit $59.55 per barrel.",0.9341820478439331,0.030665559694170952,0.03515244647860527,positive,0.9035164713859558
+17,2015-05-08 06:23:00,"Meanwhile, Brent oil, priced in London, gained 0.5% this morning to hit $65.86 per barrel.",0.9366372227668762,0.03701900690793991,0.02634374424815178,positive,0.8996182084083557
+18,2015-05-08 06:23:00,"• Pre-Market Movers 1, MSFT: Software and cloud-computing giant Microsoft Corp. (Nasdaq: MSFT) is not considering an offer for Salesforce.com Inc. ( CRM ), despite widespread speculation.",0.04347465559840202,0.25428062677383423,0.7022446990013123,neutral,-0.2108059674501419
+19,2015-05-08 06:23:00,Shares of Salesforce.com surged yesterday morning after rumors hit the Street.,0.923560619354248,0.02760062739253044,0.048838719725608826,positive,0.8959599733352661
+20,2015-05-08 06:23:00,"However, shares have since declined nearly 4% after Reuters reported the deal was never under consideration.",0.016547702252864838,0.9602954387664795,0.02315680682659149,negative,-0.9437477588653564
+21,2015-05-08 06:23:00,"• Pre-Market Movers 2, YELP: Shares of online review site Yelp Inc. (Nasdaq: YELP) slipped 0.7% in pre-market hours, after the company saw shares surge 23% yesterday on news it could soon be on the auction block.",0.031590357422828674,0.9585684537887573,0.00984117854386568,negative,-0.9269781112670898
+22,2015-05-08 06:23:00,"The company has seen more than half its market value erode over the last eight months, and executives are looking to jump ship.",0.0544656440615654,0.8545898795127869,0.09094443917274475,negative,-0.8001242280006409
+23,2015-05-08 06:23:00,"If sold, Yelp could fetch a little more than $3 billion according to The Wall Street Journal.",0.1601506620645523,0.0073713380843400955,0.8324780464172363,neutral,0.15277932584285736
+24,2015-05-08 06:23:00,"• Pre-Market Movers 3, MCD: Shares of McDonald's Corp. ( MCD ) were up more than 1% this morning after the company announced April sales slipped 0.6%.",0.8578708171844482,0.11406093090772629,0.028068235144019127,positive,0.7438098788261414
+25,2015-05-08 06:23:00,"Investors have been underwhelmed by the company's turnaround plans, which include a large-scale restructuring of its international operations and an increase of franchise operators.",0.24411308765411377,0.722647488117218,0.033239372074604034,negative,-0.47853440046310425
+26,2015-05-08 06:23:00,McDonald's is attempting to slash roughly $300 million in annual costs.,0.028348136693239212,0.9375128149986267,0.03413911163806915,negative,-0.9091646671295166
+27,2015-05-08 06:23:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+28,2015-05-08 06:23:00,"1, AAPL: The wearable tech space just got a little more crowded with the announcement that Fitbit has filed for an IPO that could draw up to $100 million.",0.5581037402153015,0.03252808749675751,0.40936824679374695,positive,0.5255756378173828
+29,2015-05-08 06:23:00,"However, the company has already publicly announced a number of risk factors that threaten it - particularly the competition that will come from tech giant Apple Inc. (Nasdaq: AAPL).",0.06656510382890701,0.46695128083229065,0.4664836525917053,negative,-0.40038618445396423
+30,2015-05-08 06:23:00,"Besides AAPL, another issue is that Fitbit relies almost exclusively on one manufacturer, and it has struggled to ramp up production to meet growing demand.",0.03368792682886124,0.8632986545562744,0.10301344096660614,negative,-0.8296107053756714
+31,2015-05-08 06:23:00,Fitbit will trade under the ticker FIT on the New York Stock Exchange.,0.01798076555132866,0.006114961113780737,0.9759042859077454,neutral,0.011865803971886635
+32,2015-05-08 06:23:00,"• Stocks to Watch No.2, No.",0.48610392212867737,0.2991604506969452,0.21473562717437744,positive,0.18694347143173218
+33,2015-05-08 06:23:00,"3, YHOO: Shares of Yahoo Inc. (Nasdaq: YHOO) were up more than 5% Thursday, as the company piggybacked the strong earnings report issued by Chinese e-commerce giant Alibaba Group Holding Ltd. (BABA).",0.9499983787536621,0.026937302201986313,0.023064279928803444,positive,0.9230610728263855
+34,2015-05-08 06:23:00,Yahoo owns 15% of Alibaba and plans to spin off its stake as an equity that tracks the stock performance of the e-commerce giant.,0.018960243090987206,0.1641674041748047,0.8168722987174988,neutral,-0.14520716667175293
+35,2015-05-08 06:23:00,BABA shares jumped more than 7.5% yesterday following earnings release.,0.9307295680046082,0.022227099165320396,0.04704338312149048,positive,0.908502459526062
+36,2015-05-08 06:23:00,The Chinese retailer exceeded March-ending quarter estimates and announced a new CEO.,0.9125085473060608,0.023050406947731972,0.06444107741117477,positive,0.8894581198692322
+37,2015-05-08 06:23:00,"Here's our guide on how to play BA BA stock after Thursday's earnings...
+
+What Investors Must Know This Week
+• Why the OPEC Oil Cartel Is Losing the Energy War
+• How to Make More Money in the Markets Starting Today
+
+To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.10885249078273773,0.008369894698262215,0.8827775716781616,neutral,0.10048259794712067
+38,2015-05-08 06:23:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+39,2015-05-08 06:23:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+40,2015-05-08 06:23:00,Disclaimer: © 2015 Money Morning and Money Map Press.,0.013070347718894482,0.010420763865113258,0.9765089154243469,neutral,0.0026495838537812233
+41,2015-05-08 06:23:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+42,2015-05-08 06:23:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+43,2015-05-08 06:23:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+44,2015-05-08 06:23:00,"16 W. Madison St. Baltimore, MD, 21201.",0.04034261777997017,0.013275643810629845,0.9463818073272705,neutral,0.027066973969340324
+45,2015-05-08 06:23:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

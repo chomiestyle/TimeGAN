@@ -1,0 +1,103 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-11 04:15:00,"Chicago, IL -September 11, 2018 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01741081103682518,0.009056580252945423,0.9735325574874878,neutral,0.008354230783879757
+1,2018-09-11 04:15:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2018-09-11 04:15:00,"Stocks recently featured in the blog include: SalesforceCRM , Bristol Meyers SquibbBMY and AB VolvoVLVLY .",0.017401359975337982,0.01117528323084116,0.9714233875274658,neutral,0.006226076744496822
+3,2018-09-11 04:15:00,"Here are highlights from Monday's Analyst Blog:
+
+In the Global Week Ahead, big market-moving events are likely to hail from the monetary policy arena.",0.05902300775051117,0.010849440470337868,0.9301275014877319,neutral,0.04817356914281845
+4,2018-09-11 04:15:00,We haven't seen that in some time.,0.0432528592646122,0.03557966277003288,0.9211674928665161,neutral,0.007673196494579315
+5,2018-09-11 04:15:00,"In particular, watch for monetary policy decisions from three Emerging Market (EM) countries -- Russia, Argentina and Turkey.",0.03328067064285278,0.012273225001990795,0.9544461369514465,neutral,0.021007444709539413
+6,2018-09-11 04:15:00,Anything unusual there could spark a deeper decline in already beaten-up Emerging Market stocks -- everywhere.,0.04208017513155937,0.9169329404830933,0.04098683223128319,negative,-0.8748527765274048
+7,2018-09-11 04:15:00,I wrote 'money' in today's title today for a reason.,0.0605648048222065,0.014147194102406502,0.9252879619598389,neutral,0.046417608857154846
+8,2018-09-11 04:15:00,It's not just policy rates that matter when a currency is imploding.,0.022798927500844002,0.028698988258838654,0.9485020637512207,neutral,-0.005900060757994652
+9,2018-09-11 04:15:00,It's rates and the volatile currency and the underlying turmoil seen in risk markets.,0.01788209192454815,0.02692907117307186,0.9551888704299927,neutral,-0.009046979248523712
+10,2018-09-11 04:15:00,"That's the enlarged EM ball of hair that is winding up, together, right now.",0.09698386490345001,0.0372454971075058,0.865770697593689,neutral,0.059738367795944214
+11,2018-09-11 04:15:00,"After that, we have monetary policy decisions and statements coming from the Bank of England (BoE) and the European Central Bank (ECB) later this week.",0.023792095482349396,0.00973763782531023,0.9664702415466309,neutral,0.014054457657039165
+12,2018-09-11 04:15:00,"These policy rates almost certainly stay flat, but each statement matters.",0.055285487323999405,0.013010880909860134,0.9317036867141724,neutral,0.042274605482816696
+13,2018-09-11 04:15:00,"Below, I have reproduced Reuters' five big themes likely to dominate the thinking of investors and traders alike in the coming week.",0.03890296816825867,0.018262330442667007,0.942834734916687,neutral,0.02064063772559166
+14,2018-09-11 04:15:00,I put them in the order of importance for equities.,0.037675268948078156,0.007494742516428232,0.9548299312591553,neutral,0.03018052689731121
+15,2018-09-11 04:15:00,"(1) In Struggling Emerging Markets, It's Time to Make Monetary Policy
+
+It's a tough job, but someone's got to do it.",0.30101728439331055,0.07898540794849396,0.6199972629547119,neutral,0.2220318764448166
+16,2018-09-11 04:15:00,"Markets' eyes are on a host of central banks to see if they can calm down currency markets, above all in Turkey.",0.25488293170928955,0.29692867398262024,0.4481884241104126,neutral,-0.04204574227333069
+17,2018-09-11 04:15:00,"The central bank is expected to finally hike interest rates on Sept. 13 but with a full-blown currency crisis on and near-18 percent inflation, the move may come too late to avert a hard landing.",0.27562448382377625,0.5412265658378601,0.18314898014068604,negative,-0.26560208201408386
+18,2018-09-11 04:15:00,It's hard to see what else the central bank there can do when it meets on Tuesday.,0.02399255335330963,0.0940556526184082,0.8819518089294434,neutral,-0.07006309926509857
+19,2018-09-11 04:15:00,Russia's position seems enviable in comparison -- healthy currency reserves and a balance of payments surplus.,0.8781256675720215,0.016571788117289543,0.10530252009630203,positive,0.8615539073944092
+20,2018-09-11 04:15:00,But the possibility of growth-crimping Western sanctions being extended has put foreign investors to flight and driven the ruble to 2-1/2-year lows.,0.09606128185987473,0.8419071435928345,0.0620315857231617,negative,-0.7458458542823792
+21,2018-09-11 04:15:00,Prime Minister Dmitry Medvedev is clearly trying to head off a rate rise at next Friday's central bank meeting but inflation-fighting governor Elvira Nabiullina has already signaled policy tightening.,0.32651716470718384,0.5021419525146484,0.17134082317352295,negative,-0.1756247878074646
+22,2018-09-11 04:15:00,"In any case, Russia's three-year-long rate-cutting cycle looks to be at an end.",0.11019276827573776,0.5116724967956543,0.37813472747802734,negative,-0.40147972106933594
+23,2018-09-11 04:15:00,"(2) The Bank of England (BoE) and European Central Bank (ECB) Meet
+
+Thursday's meetings at the European Central Bank and Bank of England should be a lot less exciting than those in Turkey or Russia.",0.04572712630033493,0.27748459577560425,0.6767882704734802,neutral,-0.23175746202468872
+24,2018-09-11 04:15:00,"The ECB is likely to firm up its decision to halve monthly asset purchases come October, bringing into sight the end of its 2.6 trillion-euro stimulus program.",0.8330813646316528,0.07916221022605896,0.08775644749403,positive,0.7539191246032715
+25,2018-09-11 04:15:00,"But to allow itself some flexibility, the ECB will likely maintain that it expects to, rather than will, exit stimulus at the end of 2018.",0.6075626611709595,0.023692866787314415,0.36874446272850037,positive,0.5838698148727417
+26,2018-09-11 04:15:00,"Money markets indicate that expectations for the ECB's first rate hike have been pushed to late next year; trade tensions, emerging market turmoil and Italian budget uncertainties are causing investors to question how far authorities can get in dismantling crisis-era policies.",0.055834878236055374,0.8713582754135132,0.07280689477920532,negative,-0.8155233860015869
+27,2018-09-11 04:15:00,"ECB chief Mario Draghi is likely to reiterate he remains on track to wind down QE, while keeping rates low well into next year -- comments no doubt that should cheer bond markets.",0.6929940581321716,0.11725182086229324,0.18975411355495453,positive,0.575742244720459
+28,2018-09-11 04:15:00,"The BoE, meanwhile, has already indicated it could raise rates once a year following its 25 bps hike in August.",0.7947372794151306,0.042515434324741364,0.16274723410606384,positive,0.7522218227386475
+29,2018-09-11 04:15:00,So its views on Brexit talks and any comments from Governor Mark Carney on his tenure will be of more interest to gilt and sterling traders.,0.043356601148843765,0.02015845663845539,0.9364849328994751,neutral,0.023198144510388374
+30,2018-09-11 04:15:00,"(3) The Latest U.S. Retail Sales and CPI Data Come Out
+
+It's been hard to ignore how the United States has been pulling ahead of most of the rest of the world in terms of economic growth.",0.3392726480960846,0.48150181770324707,0.17922553420066833,negative,-0.14222916960716248
+31,2018-09-11 04:15:00,Upcoming data is likely to reinforce that theme.,0.2587638795375824,0.011762893758714199,0.7294732332229614,neutral,0.24700099229812622
+32,2018-09-11 04:15:00,"Solid performances are expected for retail sales, consumer inflation and rental prices for August.",0.8359936475753784,0.026595404371619225,0.1374109834432602,positive,0.8093982338905334
+33,2018-09-11 04:15:00,"Sept. 14 retail sales data should show strong, broad based, momentum, with online as well as brick-and-mortar retailers turning in good performances.",0.9428033828735352,0.022247066721320152,0.03494955599308014,positive,0.9205563068389893
+34,2018-09-11 04:15:00,"Excluding the auto sector, retailers are expected to show sales growth of 0.5 percent versus 0.6 percent in July.",0.9203224778175354,0.047122541815042496,0.03255494311451912,positive,0.8731999397277832
+35,2018-09-11 04:15:00,"Core consumer inflation, meanwhile, out Sept 13, should hold unchanged at last month's 0.2 percent increase.",0.530854344367981,0.13334624469280243,0.3357993960380554,positive,0.39750808477401733
+36,2018-09-11 04:15:00,"A key inflation component, non-farm rents, has stabilized following a decline within the last year.",0.8701474070549011,0.09545962512493134,0.03439301252365112,positive,0.7746877670288086
+37,2018-09-11 04:15:00,"Strength in the U.S. labor sector and the tailwind benefits of personal income tax cuts are being cited (by some economists) for the current and sustained strength, as is an upswing of U.S. industrial activity.",0.8703730702400208,0.04089602828025818,0.0887308195233345,positive,0.829477071762085
+38,2018-09-11 04:15:00,(4) Watch Indonesian and Indian Markets for the Latest U.S.,0.022746533155441284,0.014401894062757492,0.9628515243530273,neutral,0.008344639092683792
+39,2018-09-11 04:15:00,"Tariff Reactions -- along with China
+
+Contagion is unavoidable when you are a high interest-rate economy that runs a trade deficit and needs foreign capital to balance its books.",0.05405723303556442,0.6086939573287964,0.337248831987381,negative,-0.5546367168426514
+40,2018-09-11 04:15:00,"That is what India and Indonesia, the two Asian members of the ""fragile five"" emerging markets, have rediscovered.",0.4300171434879303,0.02336730808019638,0.5466156005859375,neutral,0.4066498279571533
+41,2018-09-11 04:15:00,"Both have been swept up in recent waves of emerging market selling, never mind their strong growth, appealing real yields, and sound policymaking.",0.8900474309921265,0.020203199237585068,0.08974935859441757,positive,0.8698442578315735
+42,2018-09-11 04:15:00,India's rupee is hitting record lows while Indonesia's rupiah is approaching levels last seen in the Asian financial crisis 20 years ago.,0.307978093624115,0.41494643688201904,0.27707546949386597,negative,-0.10696834325790405
+43,2018-09-11 04:15:00,"But while Indian authorities seem content to merely smooth the rupee's fall, Indonesia has resorted to interventions, import restrictions and rate rises.",0.12062184512615204,0.651664137840271,0.22771404683589935,negative,-0.5310422778129578
+44,2018-09-11 04:15:00,"A crucial test now looms for these currencies, and to a lesser extent, for Asian peers -- if the Trump administration proceeds with a fresh set of tariffs on $200 billion of Chinese imports, eliciting retaliation from Beijing.",0.42438989877700806,0.31165289878845215,0.26395726203918457,positive,0.11273699998855591
+45,2018-09-11 04:15:00,"As the next round of U.S. tariffs on China looms, both sides dig in Bearish bets on Indian rupee, Indonesian rupiah at highest in years Why a stronger Indonesia is still Asia's most fragile market.",0.20929919183254242,0.7060877680778503,0.08461301773786545,negative,-0.49678856134414673
+46,2018-09-11 04:15:00,(5) There's Was a Bellwether in Sweden.,0.22271542251110077,0.03216640651226044,0.7451182007789612,neutral,0.19054901599884033
+47,2018-09-11 04:15:00,"Now, Watch Europe's Reaction
+
+Sweden's crown edged higher on Monday after a national election that left the country heading for a hung parliament, but the currency remains in the doldrums, having hit nine-year lows against the euro this year and fallen more than any other developed-world currency in trade-weighted terms.",0.10110078752040863,0.8276849985122681,0.07121419161558151,negative,-0.7265841960906982
+48,2018-09-11 04:15:00,"The anti-immigrant Sweden Democrats snatched close to 18 percent of the vote, and while they have been ruled out as coalition partners by all other parties, their passive support may be needed by whoever forms the government.",0.13631704449653625,0.5959284901618958,0.26775437593460083,negative,-0.4596114456653595
+49,2018-09-11 04:15:00,This means some of their demands for additional spending on child and elderly care will have to be accommodated.,0.11230562627315521,0.7068934440612793,0.1808008849620819,negative,-0.5945878028869629
+50,2018-09-11 04:15:00,"Then, there is central bank policy.",0.02320590615272522,0.016548672690987587,0.9602454304695129,neutral,0.006657233461737633
+51,2018-09-11 04:15:00,"Swedish interest rates are unchanged at minus 0.50 percent since February 2016, the lowest in the world after Switzerland.",0.022722410038113594,0.920543372631073,0.05673420801758766,negative,-0.8978209495544434
+52,2018-09-11 04:15:00,The crown weakened further after Riksbank this month closed the door on raising rates until December at least.,0.43193528056144714,0.37840935587882996,0.1896553933620453,positive,0.05352592468261719
+53,2018-09-11 04:15:00,Some reckon rates won't rise until end-2019.,0.07687579840421677,0.174419105052948,0.7487050890922546,neutral,-0.09754330664873123
+54,2018-09-11 04:15:00,Sweden boasts a current account surplus of 4 percent of GDP.,0.24007001519203186,0.015583274886012077,0.7443466782569885,neutral,0.22448673844337463
+55,2018-09-11 04:15:00,"But the global backdrop, with worsening trade tensions, is also against the crown, given the country's open economy and big exporting industries.",0.052251484245061874,0.8423944115638733,0.10535414516925812,negative,-0.7901429533958435
+56,2018-09-11 04:15:00,"Sweden faces political deadlock after gains by far-right party Election, rate expectations push Swedish crown to nine-year low.",0.0758405402302742,0.8786218762397766,0.045537516474723816,negative,-0.802781343460083
+57,2018-09-11 04:15:00,"Salesforce: This is a $150 momentum stock now, massaged upwards by a long string of managed earnings 'beats'.",0.6764547228813171,0.027211882174015045,0.2963334321975708,positive,0.6492428183555603
+58,2018-09-11 04:15:00,"One wrong step, and the stock implodes -- in my opinion.",0.04667653515934944,0.6193610429763794,0.3339623808860779,negative,-0.5726845264434814
+59,2018-09-11 04:15:00,"The Zacks Value Score is F while the Zacks Growth Score is only C.
+
+The Zacks #1 Rank keeps the pace onwards and upwards, for the time being.",0.4258318841457367,0.014250998385250568,0.559917151927948,neutral,0.411580890417099
+60,2018-09-11 04:15:00,Bristol Meyers Squibb: This is a large cap BioPharma stock.,0.06199624016880989,0.007468431256711483,0.9305353760719299,neutral,0.05452780798077583
+61,2018-09-11 04:15:00,The Long-term Zacks rating is C. The dividend is only 2.6%.,0.014041757211089134,0.12143635749816895,0.864521861076355,neutral,-0.10739459842443466
+62,2018-09-11 04:15:00,Can big biotech stocks like this provide some market leadership again?,0.6745762825012207,0.01820494420826435,0.3072188198566437,positive,0.6563713550567627
+63,2018-09-11 04:15:00,It's a Zacks #1 Rank.,0.32102587819099426,0.018079647794365883,0.6608944535255432,neutral,0.3029462397098541
+64,2018-09-11 04:15:00,"AB Volvo: This Swedish automaker is a Zacks long-term Buy, with a rating of A.",0.34801727533340454,0.008958564139902592,0.643024206161499,neutral,0.33905869722366333
+65,2018-09-11 04:15:00,The stock trades at $17 a share.,0.037316881120204926,0.006035731639713049,0.9566473364830017,neutral,0.03128115087747574
+66,2018-09-11 04:15:00,"It's a B in Value, an A in Growth, and a B in Momentum too.",0.24127893149852753,0.011559154838323593,0.7471619248390198,neutral,0.22971977293491364
+67,2018-09-11 04:15:00,This should be moving higher on these metrics.,0.5661979913711548,0.01621633768081665,0.4175856411457062,positive,0.5499816536903381
+68,2018-09-11 04:15:00,Does anyone care about the Zacks #1 Rank here?,0.094927579164505,0.13861268758773804,0.7664597034454346,neutral,-0.04368510842323303
+69,2018-09-11 04:15:00,It appears that the 'peak' auto debate keeps the traders away.,0.044615134596824646,0.8372573852539062,0.1181274875998497,negative,-0.7926422357559204
+70,2018-09-11 04:15:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+71,2018-09-11 04:15:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+72,2018-09-11 04:15:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+73,2018-09-11 04:15:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+74,2018-09-11 04:15:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+75,2018-09-11 04:15:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+76,2018-09-11 04:15:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+77,2018-09-11 04:15:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+78,2018-09-11 04:15:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+79,2018-09-11 04:15:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+80,2018-09-11 04:15:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+81,2018-09-11 04:15:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+82,2018-09-11 04:15:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+83,2018-09-11 04:15:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+84,2018-09-11 04:15:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+85,2018-09-11 04:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

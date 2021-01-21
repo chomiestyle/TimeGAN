@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-02-25 08:44:00,"Following the market opening Tuesday, the Dow traded down 0.23 percent to 16,169.19 while the NASDAQ declined 0.27 percent to 4,281.28.",0.021651742979884148,0.9602998495101929,0.018048344179987907,negative,-0.9386481046676636
+1,2014-02-25 08:44:00,"The S&P also fell, dropping 0.25 percent to 1,843.09.",0.018004465848207474,0.9721030592918396,0.00989237055182457,negative,-0.9540985822677612
+2,2014-02-25 08:44:00,"Leading and Lagging Sectors In trading on Tuesday, cyclical consumer goods & services shares were relative leaders, up on the day by about 0.16 percent.",0.9324420094490051,0.034917254000902176,0.03264079988002777,positive,0.8975247740745544
+3,2014-02-25 08:44:00,"Among leading sector stocks, gains came from Martha Stewart Living Omnimedia (NYSE: MSO ), Haverty Furniture Companies (NYSE: HVT ), Polypore International (NYSE: PPO ) and Tesla Motors (NASDAQ: TSLA ).",0.9228249788284302,0.025129955261945724,0.05204504728317261,positive,0.897695004940033
+4,2014-02-25 08:44:00,Basic materials sector was the leading decliner in the US market today.,0.7511383295059204,0.08395569771528244,0.16490602493286133,positive,0.6671826243400574
+5,2014-02-25 08:44:00,Basic materials shares declined 0.57 percent in today's trading.,0.01837502047419548,0.9673218131065369,0.014303220435976982,negative,-0.9489467740058899
+6,2014-02-25 08:44:00,"Top decliners in the sector included Mechel OAO (NYSE: MTL ), off 4.1 percent, and Ferro (NYSE: FOE ), down 3.5 percent.",0.01837179809808731,0.9668059945106506,0.014822299592196941,negative,-0.9484341740608215
+7,2014-02-25 08:44:00,Top Headline Home Depot (NYSE: HD ) reported a better-than-expected fourth-quarter profit and raised its quarterly dividend by 21%.,0.9553775787353516,0.022798320278525352,0.021824026480317116,positive,0.9325792789459229
+8,2014-02-25 08:44:00,Home Depot's quarterly earnings per share surged to $0.73 versus $0.68 in the year-earlier period.,0.951270341873169,0.029644416645169258,0.019085219129920006,positive,0.9216259121894836
+9,2014-02-25 08:44:00,"However, its net profit fell to $1.01 billion versus $1.02 billion.",0.016845395788550377,0.9716721773147583,0.011482489295303822,negative,-0.9548267722129822
+10,2014-02-25 08:44:00,Its sales declined 3% to $17.7 billion.,0.016249988228082657,0.9717267751693726,0.012023215182125568,negative,-0.9554767608642578
+11,2014-02-25 08:44:00,"However, analysts were estimating earnings of $0.71 per share on sales of $17.9 billion.",0.0943947583436966,0.22770193219184875,0.6779032945632935,neutral,-0.13330717384815216
+12,2014-02-25 08:44:00,Its same-store sales also gained 4.4% in the quarter.,0.957099199295044,0.02227560617029667,0.020625177770853043,positive,0.9348235726356506
+13,2014-02-25 08:44:00,Home Depot lifted its quarterly dividend by 21% to $0.47 per share.,0.9395802021026611,0.026946693658828735,0.03347307816147804,positive,0.9126335382461548
+14,2014-02-25 08:44:00,Equities Trading UP InterMune (NASDAQ: ITMN ) shot up 158.24 percent to $36.05 after the company announced Phase 3 ASCEND trial results of pirfenidone in idiopathic pulmonary fibrosis.,0.9386861324310303,0.02517573907971382,0.03613816574215889,positive,0.9135103821754456
+15,2014-02-25 08:44:00,"Shares of zulily (NASDAQ: ZU ) got a boost, shooting up 30.21 percent to $55.78 after the company reported upbeat Q4 results.",0.9398455023765564,0.022911544889211655,0.03724300116300583,positive,0.9169339537620544
+16,2014-02-25 08:44:00,"Aircastle (NYSE: AYR ) was also up, gaining 11.11 percent to $21.20 after the company reported better-than-expected Q4 results and announced a $900 million agreement for purchase and leaseback of Boeing 777-300ERs with LATAM Airlines Group
+
+Equities Trading DOWN Shares of RealPage (NASDAQ: RP ) were down 21.65 percent to $16.24 on Q4 results.",0.020360641181468964,0.9646801948547363,0.014959215186536312,negative,-0.9443195462226868
+17,2014-02-25 08:44:00,Analysts at RBC Capital downgraded the stock from Outperform to Sector Perform and lowered the price target from $28 to $22.,0.033140089362859726,0.8880539536476135,0.07880600541830063,negative,-0.8549138903617859
+18,2014-02-25 08:44:00,Office Depot (NYSE: ODP ) shares tumbled 13.94 percent to $4.60 after the company reported a fourth-quarter loss.,0.020596498623490334,0.9684048891067505,0.01099854614585638,negative,-0.9478083848953247
+19,2014-02-25 08:44:00,"VIVUS (NASDAQ: VVUS ) was down, falling 13.19 percent to $5.86 after the company reported Q4 results.",0.01632893830537796,0.9697138071060181,0.013957267627120018,negative,-0.9533848762512207
+20,2014-02-25 08:44:00,JP Morgan downgraded the stock from Overweight to Neutral and cut the price target from $15.00 to $8.00.,0.05647972598671913,0.8222984671592712,0.12122184783220291,negative,-0.76581871509552
+21,2014-02-25 08:44:00,"Commodities In commodity news, oil traded down 1.25 percent to $101.53, while gold traded down 0.17 percent to $1,335.70.",0.023615723475813866,0.9612308740615845,0.015153416432440281,negative,-0.937615156173706
+22,2014-02-25 08:44:00,"Silver traded down 0.92 percent Tuesday to $21.89, while copper fell 0.77 percent to $3.22.",0.02517411671578884,0.9590978026390076,0.015728069469332695,negative,-0.9339236617088318
+23,2014-02-25 08:44:00,"Meanwhile, the German DAX slipped 0.38 percent and the French CAC 40 dropped 0.32 percent while U.K. shares declined 0.77 percent.",0.020471740514039993,0.9561167359352112,0.02341148443520069,negative,-0.9356449842453003
+24,2014-02-25 08:44:00,Economics The ICSC-Goldman same-store sales index declined 0.6% in the week ended Saturday versus the prior week.,0.020323794335126877,0.9716434478759766,0.008032782934606075,negative,-0.9513196349143982
+25,2014-02-25 08:44:00,The Johnson Redbook Retail Sales Index dropped 1.3% in the first three weeks of February versus January.,0.02052389271557331,0.9712245464324951,0.008251511491835117,negative,-0.9507006406784058
+26,2014-02-25 08:44:00,"The seasonally adjusted S&P/Case-Shiller home price index rose 0.76% in December, down from 0.9% in November.",0.021970240399241447,0.9701197743415833,0.007910014130175114,negative,-0.948149561882019
+27,2014-02-25 08:44:00,Home prices also surged 13.4% y/y in December.,0.9352744221687317,0.029594507068395615,0.03513110429048538,positive,0.9056799411773682
+28,2014-02-25 08:44:00,"US home prices climbed 0.8% in December, according to the Federal Housing Finance Agency.",0.9120282530784607,0.04819123446941376,0.03978053852915764,positive,0.8638370037078857
+29,2014-02-25 08:44:00,Home prices also increased 7.7% y/y in the month.,0.9527403116226196,0.02151765301823616,0.025742050260305405,positive,0.931222677230835
+30,2014-02-25 08:44:00,"The Conference Board's consumer confidence index fell to 78.10 in February, versus a prior reading of 80.70.",0.018372075632214546,0.9726226925849915,0.009005280211567879,negative,-0.9542506337165833
+31,2014-02-25 08:44:00,"However, economists were expecting a reading of 80.00.",0.16147203743457794,0.4952232837677002,0.3433046340942383,negative,-0.33375126123428345
+32,2014-02-25 08:44:00,"The Richmond Fed manufacturing index declined to -6.00 in February, versus a prior reading of 12.00.",0.018830373883247375,0.9718342423439026,0.009335383772850037,negative,-0.9530038833618164
+33,2014-02-25 08:44:00,"However, economists were projecting a reading of 5.00.",0.09125487506389618,0.6110210418701172,0.29772406816482544,negative,-0.5197661519050598
+34,2014-02-25 08:44:00,The Treasury is set to auction 4-week bills and 2-year notes.,0.031197622418403625,0.008491973392665386,0.9603103995323181,neutral,0.022705648094415665
+35,2014-02-25 08:44:00,(c) 2014 Benzinga.com.,0.028261102735996246,0.02149355784058571,0.9502453207969666,neutral,0.006767544895410538
+36,2014-02-25 08:44:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+37,2014-02-25 08:44:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+38,2014-02-25 08:44:00,Free Trading Education - Check out the free events taking place on Marketfy this week.,0.016787968575954437,0.009906403720378876,0.9733056426048279,neutral,0.0068815648555755615
+39,2014-02-25 08:44:00,Spaces are limited.,0.021315770223736763,0.12138502299785614,0.8572991490364075,neutral,-0.10006925463676453
+40,2014-02-25 08:44:00,Sign up today.,0.04344106838107109,0.006623172666877508,0.9499357342720032,neutral,0.036817897111177444
+41,2014-02-25 08:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

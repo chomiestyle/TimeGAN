@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-12 11:18:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 30,863 contracts has been traded thus far today, a contract volume which is representative of approximately 3.1 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.032456137239933014,0.011232798919081688,0.9563111066818237,neutral,0.021223338320851326
+1,2019-06-12 11:18:00,"That number works out to 68.1% of HD's average daily trading volume over the past month, of 4.5 million shares.",0.8090707063674927,0.020574606955051422,0.17035461962223053,positive,0.7884960770606995
+2,2019-06-12 11:18:00,"Particularly high volume was seen for the $220 strike call option expiring June 28, 2019, with 10,106 contracts trading so far today, representing approximately 1.0 million underlying shares of HD.",0.20700035989284515,0.010095242410898209,0.7829044461250305,neutral,0.19690512120723724
+3,2019-06-12 11:18:00,"Below is a chart showing HD's trailing twelve month trading history, with the $220 strike highlighted in orange:
+
+The Trade Desk Inc (Symbol: TTD) saw options trading volume of 11,625 contracts, representing approximately 1.2 million underlying shares or approximately 67.9% of TTD's average daily trading volume over the past month, of 1.7 million shares.",0.02191798947751522,0.0122034577652812,0.9658785462379456,neutral,0.00971453171223402
+4,2019-06-12 11:18:00,"Particularly high volume was seen for the $240 strike put option expiring June 14, 2019, with 666 contracts trading so far today, representing approximately 66,600 underlying shares of TTD.",0.17564332485198975,0.009884275496006012,0.8144723773002625,neutral,0.16575905680656433
+5,2019-06-12 11:18:00,"Below is a chart showing TTD's trailing twelve month trading history, with the $240 strike highlighted in orange:
+
+And Royal Gold Inc (Symbol: RGLD) options are showing a volume of 2,269 contracts thus far today.",0.022843163460493088,0.030544757843017578,0.9466120600700378,neutral,-0.00770159438252449
+6,2019-06-12 11:18:00,"That number of contracts represents approximately 226,900 underlying shares, working out to a sizeable 67.3% of RGLD's average daily trading volume over the past month, of 337,300 shares.",0.1357584446668625,0.009967315010726452,0.8542742729187012,neutral,0.12579113245010376
+7,2019-06-12 11:18:00,"Especially high volume was seen for the $90 strike put option expiring January 17, 2020, with 837 contracts trading so far today, representing approximately 83,700 underlying shares of RGLD.",0.19696193933486938,0.009071221575140953,0.7939668893814087,neutral,0.18789072334766388
+8,2019-06-12 11:18:00,"Below is a chart showing RGLD's trailing twelve month trading history, with the $90 strike highlighted in orange:
+
+For the various different available expirations for HD options, TTD options, or RGLD options, visit StockOptionsChannel.com.",0.009925872087478638,0.023029260337352753,0.9670448303222656,neutral,-0.013103388249874115
+9,2019-06-12 11:18:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,23 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-29 00:26:00,A jump in oil prices drove the main U.S. stock indexes higher for a second straight day on Wednesday as investors overlooked the uncertainty around how the U.K.'s departure from the European Union will unfold.,0.6180659532546997,0.2594814598560333,0.12245259433984756,positive,0.3585844933986664
+1,2016-06-29 00:26:00,"The Dow Jones Industrial Average posted another day of triple-digit gains while the S&P 500 was within about 42 points of the level it closed at on June 23, the day of the Brexit referendum.",0.8751941323280334,0.056442540138959885,0.06836327910423279,positive,0.8187515735626221
+2,2016-06-29 00:26:00,"U.S. crude neared $50 a barrel and Brent, the main international variety, nudged over that threshold after data showed that stockpiles held in the U.S. contracted by more than expected last week, with inventories down 4.1 million barrels to 526.6 million, according to the Energy Information Administration.",0.0206857118755579,0.9682921171188354,0.011022118851542473,negative,-0.9476063847541809
+3,2016-06-29 00:26:00,This was a slightly bigger decline than the 3.9 million-barrel fall projected by the American Petroleum Institute on Tuesday.,0.03955824300646782,0.9473201632499695,0.0131216486915946,negative,-0.9077619314193726
+4,2016-06-29 00:26:00,"All 10 of the S&P 500 sectors rose by the closing bell, with financials up 2.3% and energy gaining 2%.",0.9049647450447083,0.025522977113723755,0.0695122629404068,positive,0.8794417381286621
+5,2016-06-29 00:26:00,"Nearly all of the Dow components strengthened, with only Home Depot ( HD ) losing ground.",0.07075592130422592,0.8838403224945068,0.045403722673654556,negative,-0.8130844235420227
+6,2016-06-29 00:26:00,"The U.K. has yet to invoke Article 50 of the EU's treaty, the first step in the withdrawal process that was kicked off by last week's referendum.",0.20192356407642365,0.19866937398910522,0.5994070768356323,neutral,0.0032541900873184204
+7,2016-06-29 00:26:00,"EU leaders in Brussels on Wednesday pushed for the declaration to be made as quickly as possible, but Britain's Prime Minister David Cameron, who has announced his resignation, says his successor will be the one to launch the exit negotiations.",0.1385912448167801,0.4886767864227295,0.3727319538593292,negative,-0.3500855565071106
+8,2016-06-29 00:26:00,"On Thursday, U.S. economic data includes initial weekly jobless claims at 8:30 a.m.",0.027310973033308983,0.4765748977661133,0.49611416459083557,neutral,-0.44926393032073975
+9,2016-06-29 00:26:00,"ET and the June Chicago purchasing managers' index at 9:45 a.m., while St. Louis Federal Reserve President James Bullard speaks to economists at 2 p.m.",0.02546970173716545,0.05131081864237785,0.9232194423675537,neutral,-0.025841116905212402
+10,2016-06-29 00:26:00,"Here's where the markets stood by the close:
+
+(+) AMRS (+9.2%) Partners with Ginkgo Bioworks to speed development of bio-based products
+
+(+) SHPG (+5.7%) Trial of treatment for attention-deficit/hyperactivity disorder, or ADHD, met primary goals
+
+(-) LPCN (-50.3%) Says FDA can't approve testosterone drug application in current form
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.014557819813489914,0.09246718883514404,0.8929749727249146,neutral,-0.07790936529636383
+11,2016-06-29 00:26:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+12,2016-06-29 00:26:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+13,2016-06-29 00:26:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

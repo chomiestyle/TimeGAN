@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-04 05:31:00,U.S. stock futures are bouncing back after yesterday’s slide.,0.9122711420059204,0.0404181182384491,0.047310661524534225,positive,0.8718529939651489
+1,2019-09-04 05:31:00,"Heading into the open, futures on the Dow Jones Industrial Average are up 0.87%, and S&P 500 futures are higher by 0.89%.",0.9117587208747864,0.033382389694452286,0.05485885590314865,positive,0.878376305103302
+2,2019-09-04 05:31:00,Nasdaq-100 futures have added 1.00%.,0.9042319059371948,0.02623932436108589,0.0695287436246872,positive,0.877992570400238
+3,2019-09-04 05:31:00,"In the options pits, call volume outpaced puts despite Tuesday’s selloff.",0.7933018803596497,0.16894814372062683,0.03774996101856232,positive,0.6243537664413452
+4,2019-09-04 05:31:00,Overall volume settled near average levels signaling a run-of-the-mill trading session.,0.8752334117889404,0.05268043652176857,0.07208612561225891,positive,0.8225529789924622
+5,2019-09-04 05:31:00,"Specifically, about 15.3 million calls and 14.9 million puts changed hands.",0.028226574882864952,0.07152693718671799,0.9002464413642883,neutral,-0.043300360441207886
+6,2019-09-04 05:31:00,"Meanwhile, over at the CBOE, the distance between calls and puts narrowed driving the single-session equity put/call volume ratio back up to 0.73 – another one-week high.",0.8640354871749878,0.0926353931427002,0.043329086154699326,positive,0.7714000940322876
+7,2019-09-04 05:31:00,The 10-day moving average popped to 0.68.,0.6500869989395142,0.2962689697742462,0.05364406108856201,positive,0.35381802916526794
+8,2019-09-04 05:31:00,"Let’s take a closer look at the most actively traded options:
+
+Typically investors view the announcement of a with glee.",0.03626081347465515,0.013043069280683994,0.9506961107254028,neutral,0.02321774512529373
+9,2019-09-04 05:31:00,"But with iron-ore producer Cleveland-Cliffs (NYSE:), it caused traders to flee.",0.03227531164884567,0.9453014731407166,0.022423287853598595,negative,-0.9130261540412903
+10,2019-09-04 05:31:00,CLF stock plunged 14.6% amid substantial volume after the company issued a press release detailing plans for a 20% bump in their dividend to 6 cents per share.,0.1269536167383194,0.8508149981498718,0.022231394425034523,negative,-0.7238613963127136
+11,2019-09-04 05:31:00,"Additionally, they will pay out a one-time special dividend of 4 cents per share.",0.04487799480557442,0.011236985214054585,0.9438849687576294,neutral,0.03364101052284241
+12,2019-09-04 05:31:00,"Falling steel and iron-ore prices amid trade war drama and global slowdown fears have plagued metal stocks like CLF, and it appears traders aren’t willing to bank on a recovery just yet.",0.025799203664064407,0.9553996920585632,0.01880117692053318,negative,-0.9296004772186279
+13,2019-09-04 05:31:00,"While the dividend bump might be a win in the long run, Tuesday’s price action shows traders are adopting a wait-and-see approach.",0.4371139407157898,0.10983332991600037,0.45305269956588745,neutral,0.32728061079978943
+14,2019-09-04 05:31:00,"On the charting front, the next major support looms at $5.60 so consider that the downside target if bears continue their rampage.",0.1052774116396904,0.13611216843128204,0.7586104273796082,neutral,-0.030834756791591644
+15,2019-09-04 05:31:00,"As far as options trading goes, put volume exploded Tuesday driving 70% of the day’s action.",0.08775472640991211,0.05099046975374222,0.8612548112869263,neutral,0.03676425665616989
+16,2019-09-04 05:31:00,Total activity rocketed to over seven times the average daily volume.,0.914147138595581,0.020786864683032036,0.06506604701280594,positive,0.8933602571487427
+17,2019-09-04 05:31:00,The increased demand drove implied volatility higher on the day to 68% placing it at the 71st percentile of its one-year range.,0.9396641254425049,0.024278704077005386,0.03605719655752182,positive,0.9153854250907898
+18,2019-09-04 05:31:00,Premium sellers will be happy to note this is the highest level since last December.,0.6297210454940796,0.031800102442502975,0.33847883343696594,positive,0.5979209542274475
+19,2019-09-04 05:31:00,"Last month’s earnings report lit a fire under Home Depot (NYSE:) shares, and they continue to burn bright.",0.8352090716362,0.04589176923036575,0.1188991516828537,positive,0.7893173098564148
+20,2019-09-04 05:31:00,Tuesday’s drop was well-deserved and allowed HD stock to digest recent gains ahead of its next dividend payment.,0.9006472826004028,0.04774418845772743,0.05160854384303093,positive,0.8529030680656433
+21,2019-09-04 05:31:00,"Its price action is extremely bullish with a rising 20-day, 50-day, and 200-day moving averages.",0.513558566570282,0.015267525799572468,0.4711739122867584,positive,0.4982910454273224
+22,2019-09-04 05:31:00,Buying dips and breakouts remains the name of the game.,0.04609302803874016,0.019536882638931274,0.9343700408935547,neutral,0.026556145399808884
+23,2019-09-04 05:31:00,Home Depot’s ex-dividend date is today and was undoubtedly the cause of yesterday’s boom in options trading.,0.18787643313407898,0.018122296780347824,0.7940013408660889,neutral,0.16975413262844086
+24,2019-09-04 05:31:00,Dividend seekers took to the options market for short-term control of HD shares to capture the $1.36 payout.,0.45161938667297363,0.014604132622480392,0.5337764620780945,neutral,0.43701526522636414
+25,2019-09-04 05:31:00,The annual yield is 2.44%.,0.03430888056755066,0.00863384548574686,0.9570572972297668,neutral,0.025675036013126373
+26,2019-09-04 05:31:00,"Activity zoomed to 411% of the average daily volume, with 182,882 contracts traded.",0.7759003043174744,0.025966238230466843,0.1981334388256073,positive,0.7499340772628784
+27,2019-09-04 05:31:00,Calls accounted for 88% of the tally.,0.0257023386657238,0.02159830927848816,0.9526993036270142,neutral,0.0041040293872356415
+28,2019-09-04 05:31:00,"Implied volatility rose to 23%, pushing it to the 32nd percentile of its one-year range.",0.9483069181442261,0.02446318417787552,0.02722998894751072,positive,0.9238437414169312
+29,2019-09-04 05:31:00,Premiums are pricing in daily moves of $3.22 or 1.4%.,0.46240055561065674,0.059731509536504745,0.47786790132522583,neutral,0.4026690423488617
+30,2019-09-04 05:31:00,Bull call spreads aren’t a bad way to go if you’re speculating on further gains.,0.14754171669483185,0.04896971210837364,0.803488552570343,neutral,0.09857200086116791
+31,2019-09-04 05:31:00,"Twitter (NYSE:) shares scored a long-awaited breakout Tuesday morning, but broad market weakness ultimately upended the rally.",0.8506886959075928,0.0984969288110733,0.050814397633075714,positive,0.7521917819976807
+32,2019-09-04 05:31:00,The intraday rejection pushed TWTR stock back toward the low of the day ending with a nasty upper shadow on its candlestick.,0.0458257719874382,0.9360224604606628,0.018151791766285896,negative,-0.890196681022644
+33,2019-09-04 05:31:00,"Fortunately, it still closed above its 20-day moving average, keeping the recent consolidation pattern intact.",0.9016088843345642,0.0631992295384407,0.035191912204027176,positive,0.8384096622467041
+34,2019-09-04 05:31:00,"While the volatility challenges buyers’ resolve, the path of least resistance is still higher until support near $40 fails.",0.5419471859931946,0.18509384989738464,0.2729589641094208,positive,0.35685333609580994
+35,2019-09-04 05:31:00,"On the options trading front, the breakout attempt boosted call demand.",0.937842607498169,0.02281203493475914,0.03934537619352341,positive,0.9150305986404419
+36,2019-09-04 05:31:00,"Activity grew to 195% of the average daily volume, with 144,250 total contracts traded.",0.911798357963562,0.018127672374248505,0.07007396966218948,positive,0.8936706781387329
+37,2019-09-04 05:31:00,"79% of the trading came from call options alone, showing strong enthusiasm backing the breakout bid.",0.9184145331382751,0.01966174691915512,0.06192375347018242,positive,0.8987528085708618
+38,2019-09-04 05:31:00,Implied volatility continues to hover at the lower end of its trading range.,0.04892713949084282,0.561464250087738,0.3896086513996124,negative,-0.5125371217727661
+39,2019-09-04 05:31:00,The 40% reading places it at the 20th percentile of its one-year range.,0.5603978037834167,0.10288693010807037,0.33671531081199646,positive,0.45751088857650757
+40,2019-09-04 05:31:00,Premiums are baking in daily moves of $1.06 or 2.5%.,0.33880484104156494,0.17052750289440155,0.4906677007675171,neutral,0.1682773381471634
+41,2019-09-04 05:31:00,"As of this writing, Tyler Craig didn’t hold a position in any of the aforementioned securities.",0.010344179347157478,0.029837410897016525,0.9598184823989868,neutral,-0.019493231549859047
+42,2019-09-04 05:31:00,Check out his recently released to learn how to defend your portfolio against market volatility.,0.13160638511180878,0.009493033401668072,0.8589006066322327,neutral,0.12211335450410843
+43,2019-09-04 05:31:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

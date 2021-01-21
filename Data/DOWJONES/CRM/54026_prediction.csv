@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-05-10 21:36:00,"In Case You Missed It
+
+Editor's Note: Matt here.",0.07897768169641495,0.0907423198223114,0.8302800059318542,neutral,-0.011764638125896454
+1,2012-05-10 21:36:00,We're unveiling a new format to the weekend edition this week.,0.12367069721221924,0.0056865937076509,0.8706427216529846,neutral,0.1179841011762619
+2,2012-05-10 21:36:00,You'll notice the Stock Market Analysis video now runs at the top of the issue instead of near the bottom--we changed this so you get our market update first thing.,0.03284221887588501,0.011546406894922256,0.9556113481521606,neutral,0.021295811980962753
+3,2012-05-10 21:36:00,Happy reading!,0.21677424013614655,0.07426203042268753,0.7089637517929077,neutral,0.14251220226287842
+4,2012-05-10 21:36:00,"In this week's Stock Market Video, Cabot Market Letter and Cabot Top Ten Trader Editor Mike Cintolo says cold water has been thrown on a market rally since last week, but this is only a short-term correction.",0.08050099015235901,0.8144637942314148,0.1050352230668068,negative,-0.7339627742767334
+5,2012-05-10 21:36:00,The long-term trend is still up though.,0.75783371925354,0.01748843863606453,0.22467778623104095,positive,0.740345299243927
+6,2012-05-10 21:36:00,"Featured stocks: Rackspace ( RAX ), Salesforce.com ( CRM ), Apple ( AAPL ), Seagate Technology ( STX ), Ariba ( ARBA ), Sourcefire (FIRE), Verisign (VRSN) and Amazon.com (AMZN) .",0.017163893207907677,0.008392954245209694,0.9744431376457214,neutral,0.008770938962697983
+7,2012-05-10 21:36:00,Click below to watch!,0.09368252754211426,0.12793582677841187,0.7783816456794739,neutral,-0.03425329923629761
+8,2012-05-10 21:36:00,"And now the rest of the issue:
+
+Lou Gagliardi is the newest member of the Cabot Investing Newsletters team.",0.045972198247909546,0.008557260036468506,0.9454705715179443,neutral,0.03741493821144104
+9,2012-05-10 21:36:00,"The editor of Cabot Global Energy Investor , Lou has 20 years of experience in the oil and gas industries with organizations as varied as Texaco and several independent research firms on Wall Street.",0.07019902020692825,0.009494566358625889,0.9203064441680908,neutral,0.06070445477962494
+10,2012-05-10 21:36:00,His picks as Cabot's energy-stock expert range from large multinational oil companies to small start-ups in alternative energy and everything in between.,0.05416267737746239,0.006960616912692785,0.9388766884803772,neutral,0.047202061861753464
+11,2012-05-10 21:36:00,Lou's bottom-up investment approach is wedded to an overarching energy view grounded in a risk-management-first attitude.,0.2168341428041458,0.0072358157485723495,0.7759301066398621,neutral,0.2095983326435089
+12,2012-05-10 21:36:00,"When picking energy stocks, he prefers to look at the macroeconomic perspective first and then individual stocks.",0.017452165484428406,0.009799707680940628,0.9727481007575989,neutral,0.007652457803487778
+13,2012-05-10 21:36:00,"You'll be hearing from Lou again soon---his first issue of Cabot Wealth Advisory will appear on Monday, May 28--so I thought today I'd take the opportunity to introduce you to him with an interview.",0.086870476603508,0.006151231005787849,0.9069783091545105,neutral,0.0807192474603653
+14,2012-05-10 21:36:00,"And so let's begin:
+
+Matt Delman: How did you become interested in energy stocks?",0.038710370659828186,0.010685342364013195,0.9506043195724487,neutral,0.028025027364492416
+15,2012-05-10 21:36:00,"Lou Gagliardi: I first became interested in energy stocks when I was working at Texaco's corporate headquarters--near White Plains, N.Y.--in the early 1990s.",0.017788365483283997,0.01405294518917799,0.9681586623191833,neutral,0.0037354202941060066
+16,2012-05-10 21:36:00,"When I worked there, I performed economic analysis on their capital projects from upstream (exploration) to downstream (refining).",0.027921611443161964,0.007328355684876442,0.9647500514984131,neutral,0.020593255758285522
+17,2012-05-10 21:36:00,MD: What makes energy stocks more attractive than industries such as pharmaceuticals or retail?,0.11228448152542114,0.009467567317187786,0.8782479166984558,neutral,0.10281691700220108
+18,2012-05-10 21:36:00,LG: Energy is a basic commodity -- the fuel that lights the world around us.,0.12311726063489914,0.006215586327016354,0.8706671595573425,neutral,0.11690167337656021
+19,2012-05-10 21:36:00,"It drives the global economic (GDP) engine and without efficient, cheap energy to drive our economies ... economic growth and its consequent wealth effect would be severely limited.",0.022456912323832512,0.17639784514904022,0.8011452555656433,neutral,-0.15394093096256256
+20,2012-05-10 21:36:00,MD: Do you think energy companies will be able to keep up with growing worldwide demand?,0.8966221809387207,0.018043622374534607,0.08533424884080887,positive,0.8785785436630249
+21,2012-05-10 21:36:00,LG: Definitely not.,0.09854583442211151,0.18166525661945343,0.7197888493537903,neutral,-0.08311942219734192
+22,2012-05-10 21:36:00,The gap between global demand for energy and global supplies of hydrocarbons has been widening over the last 30 years.,0.37517786026000977,0.45001092553138733,0.1748111993074417,negative,-0.07483306527137756
+23,2012-05-10 21:36:00,"All the easily accessible hydrocarbons have been exploited already, and it doesn't matter whether it's oil or natural gas.",0.1074957549571991,0.006948980037122965,0.8855552673339844,neutral,0.10054677724838257
+24,2012-05-10 21:36:00,"Everything is getting more difficult to extract, as we're now forced to extract oil and gas in more remote and difficult terrain than in the past.",0.029423896223306656,0.8707042932510376,0.09987185150384903,negative,-0.8412804007530212
+25,2012-05-10 21:36:00,"This drives up the costs of extraction, which in turn drives up the cost to the end consumer.",0.17215853929519653,0.05177495256066322,0.7760664820671082,neutral,0.12038359045982361
+26,2012-05-10 21:36:00,MD: What's your favorite energy stock that institutional investors haven't heard of yet?,0.02678958885371685,0.011819208040833473,0.9613911509513855,neutral,0.014970380812883377
+27,2012-05-10 21:36:00,"LG: I have favorites, but to be honest, institutional investors already know about them.",0.036177873611450195,0.015194308012723923,0.9486278295516968,neutral,0.020983565598726273
+28,2012-05-10 21:36:00,"There are very few companies that ""Energy Institutional"" investors do not know about.",0.011005161330103874,0.030154265463352203,0.9588406085968018,neutral,-0.01914910413324833
+29,2012-05-10 21:36:00,"The limitation for them is if the companies are small cap or emerging start-ups, institutional investors are often precluded from investing in them due to inadequate trading share float.",0.028609422966837883,0.615003228187561,0.35638731718063354,negative,-0.5863938331604004
+30,2012-05-10 21:36:00,"Of course, that's not a problem for individual investors like us.",0.017728758975863457,0.02545008808374405,0.9568211436271667,neutral,-0.007721329107880592
+31,2012-05-10 21:36:00,MD: Is there any area of the energy industry that you think doesn't get the attention it deserves?,0.03304196894168854,0.19730593264102936,0.7696520686149597,neutral,-0.16426396369934082
+32,2012-05-10 21:36:00,"LG: Yes, foreign national energy companies that are publicly traded.",0.02151491492986679,0.007236655801534653,0.97124844789505,neutral,0.014278259128332138
+33,2012-05-10 21:36:00,These stocks can offer big opportunities for investors.,0.5567987561225891,0.012524393387138844,0.4306768476963043,positive,0.5442743897438049
+34,2012-05-10 21:36:00,MD: What do you do when you're not researching new energy stocks?,0.014767139218747616,0.020426049828529358,0.9648067951202393,neutral,-0.005658910609781742
+35,2012-05-10 21:36:00,LG: I roam the web for ideas--I like to track macroeconomic trends.,0.03861149400472641,0.012731208465993404,0.9486572742462158,neutral,0.02588028460741043
+36,2012-05-10 21:36:00,"To unwind, I walk several miles a day and swim.",0.04230361431837082,0.016042688861489296,0.9416536688804626,neutral,0.026260925456881523
+37,2012-05-10 21:36:00,It clears my mind and helps me to re-think my premises and investment ideas.,0.4446936845779419,0.009811539202928543,0.545494794845581,neutral,0.43488213419914246
+38,2012-05-10 21:36:00,"MD: Thank you for talking with me, Lou!",0.26337963342666626,0.03246167674660683,0.70415860414505,neutral,0.23091796040534973
+39,2012-05-10 21:36:00,"If you'd like to read about Lou's investment ideas and his favorite energy stocks, I encourage you to click here to learn more about Cabot Global Energy Investor ... the publication that can help you profit from growing energy demand.",0.13559377193450928,0.007871837355196476,0.8565343618392944,neutral,0.12772193551063538
+40,2012-05-10 21:36:00,Here's this week's Contrary Opinion Button.,0.03977243974804878,0.12483277171850204,0.8353948593139648,neutral,-0.08506032824516296
+41,2012-05-10 21:36:00,"Remember, you can always view all of the buttons by clicking here .",0.03893405571579933,0.03600704297423363,0.925058901309967,neutral,0.0029270127415657043
+42,2012-05-10 21:36:00,"A mash-up of ""Necessity is the mother of invention"" and ""Familiarity breeds contempt,"" it means exactly what it says.",0.06488349288702011,0.04878193140029907,0.8863345384597778,neutral,0.01610156148672104
+43,2012-05-10 21:36:00,Whether it can make you a better investor is debatable.,0.6704986095428467,0.020471295341849327,0.30903011560440063,positive,0.650027334690094
+44,2012-05-10 21:36:00,"In case you didn't get a chance to read all the issues of Cabot Wealth Advisory this week and want to catch up on any investing and stock tips you might have missed, there are links below to each issue.",0.02382618561387062,0.02034110203385353,0.9558327198028564,neutral,0.00348508358001709
+45,2012-05-10 21:36:00,"Cabot Wealth Advisory 5/7/12 -- Five Ways to Lose Big Money Quickly, and How You Can Avoid Them
+
+On Monday, Cabot Publisher Timothy Lutts wrote about five ways that you can lose a lot of money in the stock market very quickly, while also offering up some methods of avoiding those very pitfalls.",0.06999779492616653,0.0572722963988781,0.8727298974990845,neutral,0.012725498527288437
+46,2012-05-10 21:36:00,"He illustrated this using five different examples, and then analyzed the fate of Green Mountain Coffee Roasters (GMCR) for a more recent example.",0.026182139292359352,0.026873018592596054,0.9469447731971741,neutral,-0.000690879300236702
+47,2012-05-10 21:36:00,"Cabot Wealth Advisory 5/10/12 -- In Investing, Sometimes It's What You Don't Do That Counts
+
+On Thursday, Cabot Market Letter and Cabot Top Ten Trader Editor Mike Cintolo discussed what he calls the ""silent killers"" of stock portfolio performance.",0.043887119740247726,0.041527386754751205,0.9145854711532593,neutral,0.002359732985496521
+48,2012-05-10 21:36:00,"These ""silent killers"" are the things you don't do, which sometimes have a greater influence on your gains and losses in the market than the things you do.",0.03327959403395653,0.12858541309833527,0.8381350040435791,neutral,-0.09530581533908844
+49,2012-05-10 21:36:00,Featured stock: Ariba ( ARBA ) .,0.014866925776004791,0.006283371709287167,0.9788497090339661,neutral,0.008583554066717625
+50,2012-05-10 21:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

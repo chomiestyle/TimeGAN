@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-20 09:00:00,"New employee workspace and helpdesk technology helps workers be productive from anywhere
+
+New communication apps enable businesses to create safer in-person experiences and build trust with customers and employees
+
+Salesforce and Thrive Global partner to offer wellness resources to employees
+
+SAN FRANCISCO, Oct. 20, 2020 /PRNewswire/ -- Salesforce [NYSE: CRM], the global leader in CRM, today announced a significant expansion of to help companies get back to growth and thrive in the new normal.",0.8764470815658569,0.01327948085963726,0.11027346551418304,positive,0.8631675839424133
+1,2020-10-20 09:00:00,"New products include an employee workspace and helpdesk to boost productivity, and communication apps that inform customers and employees about new policies and procedures to foster safer in-person experiences.",0.5284784436225891,0.013302269391715527,0.4582192301750183,positive,0.5151761770248413
+2,2020-10-20 09:00:00,"Work.com is already being used by cities, states, and companies around the world—including University of Kentucky, Ohio State University, and Siemens—to help make their workplaces and communities safe, with technology for employee wellness, shift management, manual contact tracing, and more.",0.35155197978019714,0.013496830128133297,0.6349511742591858,neutral,0.33805516362190247
+3,2020-10-20 09:00:00,Salesforce recently introduced Work.com for Vaccines to help governments and healthcare organizations more safely and efficiently manage vaccine programs at scale.,0.4571654796600342,0.009402581490576267,0.5334319472312927,neutral,0.4477629065513611
+4,2020-10-20 09:00:00,"Now, Salesforce is expanding Work.com to give companies new technology and resources to help them operate in today's new normal and get back to growth.",0.8227584362030029,0.012196256779134274,0.16504521667957306,positive,0.8105621933937073
+5,2020-10-20 09:00:00,"The last six months have changed the way we live, work, and do business forever.",0.18625296652317047,0.012746138498187065,0.8010008335113525,neutral,0.17350682616233826
+6,2020-10-20 09:00:00,"We've entered an all-digital world where Zooms are the new meeting rooms, kitchens are the new call centers, and eCommerce is becoming the primary way people shop.",0.1381867676973343,0.007877950556576252,0.8539353013038635,neutral,0.1303088217973709
+7,2020-10-20 09:00:00,"Employees want to be productive and engaged wherever they choose to work, yet according to new released today, more than one-third of workers do not have the technology to effectively work remotely.",0.029238685965538025,0.780610978603363,0.19015029072761536,negative,-0.7513722777366638
+8,2020-10-20 09:00:00,"At the same time, customers want business to give them safe ways to interact in physical spaces, such as stores, banks, or doctors' offices.",0.21644149720668793,0.008647245354950428,0.7749112248420715,neutral,0.20779424905776978
+9,2020-10-20 09:00:00,"Introducing new Work.com solutions to meet today's workplaces challenges
+
+Work.com includes the full power of the Salesforce Customer 360, with technology and best practices to help organizations reopen safely, meet new workplace challenges, and get back to growth in today's new normal.",0.5870793461799622,0.011060410179197788,0.40186023712158203,positive,0.5760189294815063
+10,2020-10-20 09:00:00,"Today's announcement expands Work.com to include:
+
+New technology to increase engagement and productivity:
+• None Employee Workspace is a central digital hub for employees to access any of the tools and resources they need to work from anywhere, including productivity apps like Google Workspace, learning platforms like myTrailhead, payroll systems, and more.",0.6551788449287415,0.011090421117842197,0.33373069763183594,positive,0.6440884470939636
+11,2020-10-20 09:00:00,"The workspace also provides personalized communications, embedded collaboration apps, and notifications to ensure employees can stay productive and up-to-date while working from anywhere.",0.2330375611782074,0.008058890700340271,0.7589035630226135,neutral,0.22497867047786713
+12,2020-10-20 09:00:00,"• None Employee Helpdesk allows employees to ask questions and get help quickly from wherever they are, whether they need IT support or have questions about HR policies and benefits.",0.029906349256634712,0.020491311326622963,0.9496023654937744,neutral,0.00941503793001175
+13,2020-10-20 09:00:00,"Einstein AI-powered chatbots provide employees access to knowledge articles and escalation paths, across any department.",0.06076391413807869,0.015707839280366898,0.9235281944274902,neutral,0.04505607485771179
+14,2020-10-20 09:00:00,"New communication apps to enable safer in-person experiences for customers and employees:
+• None Queue Management helps brick-and-mortar businesses minimize physical lines by creating virtual queues to protect customers and manage onsite capacity.",0.29375404119491577,0.012859896756708622,0.6933860778808594,neutral,0.28089413046836853
+15,2020-10-20 09:00:00,Customers can easily reserve their place in line from anywhere through the app and get updated on queue status via SMS to avoid waiting outside for lengthy periods of time.,0.0835193619132042,0.014331442303955555,0.9021492004394531,neutral,0.06918791681528091
+16,2020-10-20 09:00:00,"• None Broadcast Messaging allows businesses to proactively communicate updated hours of operation, changing appointment times, and health and safety reminders to customers and employees through their preferred channels such as text, WhatsApp, or Facebook Messenger.",0.03594276309013367,0.007728749420493841,0.9563284516334534,neutral,0.02821401320397854
+17,2020-10-20 09:00:00,Businesses can then manage follow-up questions or service requests quickly with automated chatbots and personalized service communications.,0.03844490274786949,0.0076802135445177555,0.9538748264312744,neutral,0.030764689669013023
+18,2020-10-20 09:00:00,"• None Digital Trust Cards allow local store employees to quickly update websites and apps with safety protocols specific to that location, like social distancing guidelines and cleaning policies, helping build customer trust and confidence that they will be safe when visiting the business in-person.",0.6789999008178711,0.01422705315053463,0.3067730963230133,positive,0.6647728681564331
+19,2020-10-20 09:00:00,"""The pandemic has accelerated everything, and every company is reimagining work in the new all-digital world,"" said Sarah Franklin, EVP and GM, Platform, Trailhead and AppExchange at Salesforce.",0.29375624656677246,0.05107073485851288,0.6551729440689087,neutral,0.24268551170825958
+20,2020-10-20 09:00:00,"""With new technology to help employees be productive anywhere, and create safe in-person experiences for customers, Work.com is helping companies get back to growth and thrive in the new normal.""",0.8813700079917908,0.01783430017530918,0.10079578310251236,positive,0.8635357022285461
+21,2020-10-20 09:00:00,"""The well-being of our employees is Cognizant's utmost priority in returning to our offices around the world,"" said Becky Schmitt, Chief People Officer at Cognizant.",0.6182984113693237,0.023664994165301323,0.358036607503891,positive,0.5946334004402161
+22,2020-10-20 09:00:00,"""Our early interactions with Work.com are demonstrating its value as a tool that's helping to ensure our employees' safe and well-informed return to the office, and in addressing the future of work.""",0.8765240907669067,0.014656003564596176,0.10881982743740082,positive,0.8618680834770203
+23,2020-10-20 09:00:00,"Salesforce Partners with Thrive Global to Help Businesses Prioritize Employee Wellbeing
+
+Salesforce is with Thrive Global, a behavior change technology company, to provide content and guidelines on how to analyze and address individual wellbeing, build mental resilience, manage anxiety, and find work-life balance.",0.288949579000473,0.008083813823759556,0.702966570854187,neutral,0.28086575865745544
+24,2020-10-20 09:00:00,"Content from Thrive Global expands the , which includes expert commentary and advice on wellness from respected industry voices.",0.5896474719047546,0.012681812979280949,0.397670716047287,positive,0.5769656300544739
+25,2020-10-20 09:00:00,"New Global Research: Future of Work, Now
+
+Salesforce released today a new study of 20,000 global citizens that uncovers their attitudes and perceptions around the state of our world and the future of work as a result of COVID-19.",0.09686169028282166,0.010568938218057156,0.892569363117218,neutral,0.08629275113344193
+26,2020-10-20 09:00:00,"Learn more about the Global Stakeholder Series: Future of Work, Now research .",0.048047248274087906,0.009115935303270817,0.9428368210792542,neutral,0.038931313902139664
+27,2020-10-20 09:00:00,Explore the data and see responses in Tableau.,0.02250039018690586,0.01130626816302538,0.9661932587623596,neutral,0.011194122023880482
+28,2020-10-20 09:00:00,"Extend Work.com With a Far-Reaching Partner Ecosystem
+
+Salesforce Global Strategic Consulting Partners, including Accenture, Deloitte and PwC, provide guidance and solutions for organizations of all sizes and across industries to return to the workplace safely.",0.7606885433197021,0.01387479156255722,0.22543665766716003,positive,0.7468137741088867
+29,2020-10-20 09:00:00,"Solutions and resources that extend Work.com, built by both ISV and consulting partners, can be found on the Salesforce AppExchange .",0.040108513087034225,0.005888538900762796,0.9540029168128967,neutral,0.03421997278928757
+30,2020-10-20 09:00:00,• None Learn more about the employee concierge products .,0.03013698384165764,0.02771814540028572,0.9421448707580566,neutral,0.0024188384413719177
+31,2020-10-20 09:00:00,• None Learn more about the trusted communication apps .,0.08111020177602768,0.02744106389582157,0.8914486765861511,neutral,0.05366913974285126
+32,2020-10-20 09:00:00,• None Learn more about how Salesforce built work.com in this .,0.022345339879393578,0.027033885940909386,0.950620710849762,neutral,-0.004688546061515808
+33,2020-10-20 09:00:00,"• None Learn more about how Cognizant is reshaping the future of work in this Thursday's episode, airing at 10 am PT.",0.1012926921248436,0.023841163143515587,0.8748661875724792,neutral,0.07745152711868286
+34,2020-10-20 09:00:00,• None Queue Management is generally available today and included in Asset Scheduler for $15 per asset per month.,0.009292682632803917,0.022276710718870163,0.9684306383132935,neutral,-0.012984028086066246
+35,2020-10-20 09:00:00,• None Broadcast Messaging is generally available today and priced at $100 per user per month.,0.016450874507427216,0.009000848978757858,0.97454833984375,neutral,0.007450025528669357
+36,2020-10-20 09:00:00,"It is also included in Digital Engagement, a $75 per user per month add on to Service Cloud.",0.09147323668003082,0.0068573416210711,0.901669442653656,neutral,0.08461589366197586
+37,2020-10-20 09:00:00,• None Trust Cards are generally available today and included in Service Cloud or Sales Cloud licenses in Enterprise Edition or above.,0.013402902521193027,0.00667595537379384,0.9799211621284485,neutral,0.006726947147399187
+38,2020-10-20 09:00:00,• None Employee Workspace is expected to become generally available in 2020.,0.01788817159831524,0.08025482296943665,0.9018569588661194,neutral,-0.06236664950847626
+39,2020-10-20 09:00:00,Pricing information will be made available at general availability.,0.01781904511153698,0.007041939068585634,0.9751390218734741,neutral,0.010777106508612633
+40,2020-10-20 09:00:00,• None Employee Helpdesk is expected to become generally available in the first half of 2021.,0.01693078689277172,0.13603238761425018,0.8470368385314941,neutral,-0.11910159885883331
+41,2020-10-20 09:00:00,Pricing information will be made available at general availability.,0.01781904511153698,0.007041939068585634,0.9751390218734741,neutral,0.010777106508612633
+42,2020-10-20 09:00:00,"ABOUT SALESFORCE
+
+Salesforce, the global CRM leader, empowers companies of every size and industry to digitally transform and create a 360° view of their customers.",0.2810797095298767,0.008820822462439537,0.710099458694458,neutral,0.2722588777542114
+43,2020-10-20 09:00:00,"For more information about Salesforce (NYSE: CRM), visit: www.salesforce.com.",0.014850785955786705,0.00986501481384039,0.975284218788147,neutral,0.004985771141946316
+44,2020-10-20 09:00:00,Any unreleased services or features referenced in this or other press releases or public statements are not currently available and may not be delivered on time or at all.,0.009357068687677383,0.020616278052330017,0.9700266122817993,neutral,-0.011259209364652634
+45,2020-10-20 09:00:00,Customers who purchase Salesforce applications should make their purchase decisions based upon features that are currently available.,0.015418034046888351,0.008424944244325161,0.976157009601593,neutral,0.0069930898025631905
+46,2020-10-20 09:00:00,"Salesforce has headquarters in San Francisco, with offices in Europe and Asia, and trades on the New York Stock Exchange under the ticker symbol ""CRM.""",0.02487335167825222,0.005837791133671999,0.9692888855934143,neutral,0.01903556101024151
+47,2020-10-20 09:00:00,"For more information please visit https://www.salesforce.com, or call 1-800-NO-SOFTWARE.",0.016531458124518394,0.029322151094675064,0.9541463851928711,neutral,-0.01279069297015667

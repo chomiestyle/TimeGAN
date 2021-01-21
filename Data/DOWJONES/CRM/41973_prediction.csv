@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-22 03:40:00,It’s been a few weeks since Dow Jones Indices booted Exxon Mobil (NYSE:XOM) and two other companies from the iconic Dow Jones Industrial Average.,0.06200817972421646,0.6999134421348572,0.23807834088802338,negative,-0.6379052400588989
+1,2020-09-22 03:40:00,The move triggered a drop in Exxon Mobil stock and a lot of chatter about a deeper meaning behind the restructuring.,0.07821331173181534,0.8574227094650269,0.0643639788031578,negative,-0.7792093753814697
+2,2020-09-22 03:40:00,Some reflection is warranted on the DJIA’s choices and the future of Exxon Mobil stock.,0.050395313650369644,0.007639607880264521,0.9419651031494141,neutral,0.04275570437312126
+3,2020-09-22 03:40:00,A responsible investor tries to keep up with and understand significant moves by organizations like this.,0.26559022068977356,0.009669085033237934,0.7247406840324402,neutral,0.2559211254119873
+4,2020-09-22 03:40:00,"Index managers can influence how a company is viewed, but that’s really about it.",0.01999570056796074,0.014317518100142479,0.9656867384910583,neutral,0.00567818246781826
+5,2020-09-22 03:40:00,"As the investor gains experience, it becomes clear that the decisions by companies, other investors and government officials carry greater weight than managers of an index.",0.1659860461950302,0.12038365751504898,0.7136302590370178,neutral,0.04560238867998123
+6,2020-09-22 03:40:00,Index managers remind me of the chain gang standing on the sidelines of a football game.,0.09027058631181717,0.06741489470005035,0.8423144817352295,neutral,0.022855691611766815
+7,2020-09-22 03:40:00,They keep up with the football’s location.,0.29291918873786926,0.0237372275441885,0.6833435297012329,neutral,0.2691819667816162
+8,2020-09-22 03:40:00,They hold links of metal to measure the distance a team needs to advance to keep possession of the ball.,0.09807255864143372,0.018729371950030327,0.8831980228424072,neutral,0.07934318482875824
+9,2020-09-22 03:40:00,"Although the gang’s role is appreciated, the players on the field are actually engaged in the game.",0.07277130335569382,0.04999932646751404,0.8772293925285339,neutral,0.02277197688817978
+10,2020-09-22 03:40:00,The players’ abilities determine the team’s success or failure.,0.0372634157538414,0.036678947508335114,0.9260576367378235,neutral,0.0005844682455062866
+11,2020-09-22 03:40:00,Which is why all eyes are on them and only on the chain gang when specific circumstances arise.,0.026598187163472176,0.028509924188256264,0.9448918104171753,neutral,-0.0019117370247840881
+12,2020-09-22 03:40:00,Exxon Mobil’s removal from the storied index says more about the DJIA than it does the company.,0.026392709463834763,0.8920068144798279,0.08160043507814407,negative,-0.865614116191864
+13,2020-09-22 03:40:00,"The DJIA, which seems to be as old as dirt, is trying hard to matter.",0.0504094697535038,0.08303550630807877,0.8665550351142883,neutral,-0.032626036554574966
+14,2020-09-22 03:40:00,"Frankly, I think most investors pay some attention to it only because we’re accustomed to doing so.",0.04487753286957741,0.011261963285505772,0.9438604712486267,neutral,0.03361557051539421
+15,2020-09-22 03:40:00,The figure lives on the corner of business channel screens.,0.07362257689237595,0.07855460792779922,0.8478227853775024,neutral,-0.004932031035423279
+16,2020-09-22 03:40:00,Major moves draw headlines (even though it’s probably because Dow is a short word and fits easily).,0.28309038281440735,0.13420121371746063,0.5827083587646484,neutral,0.14888916909694672
+17,2020-09-22 03:40:00,But the index’s relevance as an indicator of market performance is drastically overstated.,0.05274605005979538,0.613323986530304,0.33392995595932007,negative,-0.560577929019928
+18,2020-09-22 03:40:00,Why?,0.08602532744407654,0.06414811313152313,0.8498265147209167,neutral,0.021877214312553406
+19,2020-09-22 03:40:00,Because it tracks a whopping 30 companies.,0.03275878727436066,0.012659748084843159,0.9545814394950867,neutral,0.020099040120840073
+20,2020-09-22 03:40:00,Maybe this is all their dusty ledger book holds.,0.052580006420612335,0.03200850263237953,0.9154115319252014,neutral,0.020571503788232803
+21,2020-09-22 03:40:00,"This is a tiny, tiny sliver of the wide-ranging modern stock market.",0.04782155901193619,0.05051760748028755,0.9016608595848083,neutral,-0.002696048468351364
+22,2020-09-22 03:40:00,"To contend this teeny sampling is a worthwhile measure of the market’s behavior is like saying a rain gauge in beautiful Key West, Florida, accurately informs about the weather in Los Angeles.",0.08525015413761139,0.09977256506681442,0.81497722864151,neutral,-0.014522410929203033
+23,2020-09-22 03:40:00,"The result of this restructuring is Exxon Mobil, pharma company Pfizer (NYSE:PFE) and defense industry stalwart Raytheon Technologies (NYSE:RTX) are no longer members of the DJIA club.",0.012357966974377632,0.07409775257110596,0.9135443568229675,neutral,-0.061739787459373474
+24,2020-09-22 03:40:00,"They were replaced by Salesforce (NYSE:CRM), Amgen (NASDAQ:AMGN) and Honeywell International (NYSE:HON).",0.010902025736868382,0.043726518750190735,0.9453714489936829,neutral,-0.03282449394464493
+25,2020-09-22 03:40:00,It is interesting to note that this swap marks Honeywell’s return to the index.,0.44493380188941956,0.01085618045181036,0.5442100167274475,neutral,0.4340776205062866
+26,2020-09-22 03:40:00,"It sort of made sense when, a couple of years ago, the DJIA removed General Electric (NYSE:GE) in favor of drug store chain Walgreens Boots Alliance (NASDAQ:WBA).",0.02145029976963997,0.033350616693496704,0.9451990723609924,neutral,-0.011900316923856735
+27,2020-09-22 03:40:00,GE was bottoming out after years of bad moves and the suffering was sure to bring consequences.,0.04122632369399071,0.904918372631073,0.0538552887737751,negative,-0.863692045211792
+28,2020-09-22 03:40:00,"This latest shuffle, though, seems to be fallout from the stock split recently enacted by Apple (NASDAQ:AAPL).",0.03791562840342522,0.35088399052619934,0.6112003922462463,neutral,-0.312968373298645
+29,2020-09-22 03:40:00,It’s not because Apple is such a large company.,0.05746206268668175,0.012076451443135738,0.9304614663124084,neutral,0.045385610312223434
+30,2020-09-22 03:40:00,Or because the iPhone and other products ushered in major changes in society.,0.36588168144226074,0.04301907867193222,0.591099202632904,neutral,0.3228625953197479
+31,2020-09-22 03:40:00,"No, it’s because the index is driven by share price.",0.03200395032763481,0.009536400437355042,0.9584596753120422,neutral,0.02246754989027977
+32,2020-09-22 03:40:00,And Apple’s 4-for-1 stock split messed up the Dow’s narrow lane.,0.07367856800556183,0.8821448087692261,0.04417658597230911,negative,-0.8084662556648254
+33,2020-09-22 03:40:00,The index needed CRM’s higher share price.,0.8618853092193604,0.03450627252459526,0.1036083996295929,positive,0.827379047870636
+34,2020-09-22 03:40:00,"I get it that Exxon Mobil and other oil companies are not the most popular, despite the fact we utilize their products each day, every day.",0.03497808799147606,0.02188367210328579,0.9431382417678833,neutral,0.01309441588819027
+35,2020-09-22 03:40:00,"The industry, like many others, is working through a downturn brought by effects of the novel coronavirus on the global economy.",0.06062914803624153,0.7101970911026001,0.22917376458644867,negative,-0.6495679616928101
+36,2020-09-22 03:40:00,"Fundamentally, though, Exxon is a ­­­­strong company that is poised to deliver dividends to shareholders and products to customers.",0.8460114598274231,0.011396417394280434,0.14259207248687744,positive,0.8346150517463684
+37,2020-09-22 03:40:00,"Being a member of the DJIA club doesn’t matter, as David Moadel states in a recent InvestorPlace article.",0.018935754895210266,0.012583587318658829,0.9684807062149048,neutral,0.006352167576551437
+38,2020-09-22 03:40:00,"“Exxon Mobil stock holders should know that the company is working towards becoming leaner and more tech-enabled,” Moadel says.",0.9273173213005066,0.014992890879511833,0.057689838111400604,positive,0.9123244285583496
+39,2020-09-22 03:40:00,Exxon Mobil’s departure from the DJIA is noteworthy for several reasons.,0.028392674401402473,0.1309700459241867,0.84063720703125,neutral,-0.10257737338542938
+40,2020-09-22 03:40:00,One is that the company had been part of the Dow since 1928 and was added when the index went from 20 to 30 members.,0.08658703416585922,0.00975473877042532,0.9036582708358765,neutral,0.07683229446411133
+41,2020-09-22 03:40:00,"Exxon Mobil stock is expected to be pressured as long as the company’s customer base, such as the airline industry, is lagging amid the Covid-19 pandemic.",0.025970574468374252,0.9504544138908386,0.023575013503432274,negative,-0.9244838356971741
+42,2020-09-22 03:40:00,"If you are interested in being an energy investor as part of a diversified portfolio, buying Exxon Mobil stock in the dip makes sense – whether or not it is part of the Dow Jones Industrial Average.",0.06795796006917953,0.005680201109498739,0.9263618588447571,neutral,0.06227776035666466
+43,2020-09-22 03:40:00,"On the date of publication, Larry Sullivan held a long position in AAPL.",0.02243659645318985,0.007923646830022335,0.969639778137207,neutral,0.014512949623167515
+44,2020-09-22 03:40:00,Larry Sullivan is a veteran journalist in Florida who has covered banking and finance for several years.,0.04235722869634628,0.013142051175236702,0.944500744342804,neutral,0.02921517752110958
+45,2020-09-22 03:40:00,"He is a former investing editor at U.S. News & World Report in Washington D.C.
+• Why Everyone Is Investing in 5G All WRONG
+• Revolutionary Tech Behind 5G Rollout Is Being Pioneered By This 1 Company
+
+The post This Dow Reshuffling Is a Great Opportunity to Buy Exxon Mobil Stock appeared first on InvestorPlace.",0.309184730052948,0.026448288932442665,0.6643670201301575,neutral,0.2827364504337311

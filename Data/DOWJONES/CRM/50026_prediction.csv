@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-14 08:39:00,"Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel , one standout is the First Trust Dow Jones Internet Index Fund (Symbol: FDN) where we have detected an approximate $82.7 million dollar outflow -- that's a 2.3% decrease week over week (from 46,100,002 to 45,050,002).",0.100606270134449,0.864990770816803,0.034402962774038315,negative,-0.7643845081329346
+1,2016-11-14 08:39:00,"Among the largest underlying components of FDN, in trading today PayPal Holdings Inc (Symbol: PYPL) is off about 2.6%, Salesforce.com Inc (Symbol: CRM) is off about 0.2%, and Yahoo!",0.018424177542328835,0.9106035232543945,0.07097230106592178,negative,-0.8921793699264526
+2,2016-11-14 08:39:00,Inc. (Symbol: YHOO) is lower by about 2.1%.,0.019260790199041367,0.9558263421058655,0.024912944063544273,negative,-0.9365655779838562
+3,2016-11-14 08:39:00,"For a complete list of holdings, visit the FDN Holdings page » The chart below shows the one year price performance of FDN, versus its 200 day moving average:
+
+Looking at the chart above, FDN's low point in its 52 week range is $56.60 per share, with $83.10 as the 52 week high point - that compares with a last trade of $78.27.",0.023753194138407707,0.9014430046081543,0.07480376958847046,negative,-0.8776898384094238
+4,2016-11-14 08:39:00,Comparing the most recent share price to the 200 day moving average can also be a useful technical analysis technique -- learn more about the 200 day moving average » .,0.06026585400104523,0.011035600677132607,0.9286985397338867,neutral,0.04923025518655777
+5,2016-11-14 08:39:00,"Exchange traded funds (ETFs) trade just like stocks, but instead of ''shares'' investors are actually buying and selling ''units''.",0.03485977277159691,0.01237787026911974,0.9527624249458313,neutral,0.022481903433799744
+6,2016-11-14 08:39:00,"These ''units'' can be traded back and forth just like stocks, but can also be created or destroyed to accommodate investor demand.",0.028670208528637886,0.009488466195762157,0.961841344833374,neutral,0.019181743264198303
+7,2016-11-14 08:39:00,"Each week we monitor the week-over-week change in shares outstanding data, to keep a lookout for those ETFs experiencing notable inflows (many new units created) or outflows (many old units destroyed).",0.03648180142045021,0.15966308116912842,0.8038551807403564,neutral,-0.1231812834739685
+8,2016-11-14 08:39:00,"Creation of new units will mean the underlying holdings of the ETF need to be purchased, while destruction of units involves selling underlying holdings, so large flows can also impact the individual components held within ETFs.",0.02820107340812683,0.13814212381839752,0.8336567878723145,neutral,-0.10994105041027069
+9,2016-11-14 08:39:00,"Click here to find out which 9 other ETFs experienced notable outflows »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.015584141947329044,0.02645939588546753,0.9579564332962036,neutral,-0.010875253938138485

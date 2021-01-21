@@ -1,0 +1,40 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-25 08:54:00,"The Dow Jones Industrial Average (DJINDICES: ^DJI) declined on Tuesday, underperforming the other major U.S. stock indices by wide margins.",0.020178306847810745,0.970167338848114,0.009654351510107517,negative,-0.9499890208244324
+1,2020-08-25 08:54:00,The Dow was down about 0.63% at 12:05 p.m. EDT after the company behind the index announced some major changes in response to Apple's (NASDAQ: AAPL) decision to split its stock.,0.01869233138859272,0.963831901550293,0.017475692555308342,negative,-0.9451395869255066
+2,2020-08-25 08:54:00,Apple stock was down on Tuesday after a judge delivered a mixed ruling related to the company's battle with Epic Games.,0.01934373937547207,0.9571011662483215,0.023555049672722816,negative,-0.9377574324607849
+3,2020-08-25 08:54:00,"Once Apple's stock split is executed, the high-flying tech stock will have less of an impact on the Dow, since the index is weighted by stock price.",0.03549950569868088,0.28168708086013794,0.6828134655952454,neutral,-0.24618756771087646
+4,2020-08-25 08:54:00,Apple's decision to split its stock will have a significant impact on the Dow.,0.03922038525342941,0.39340707659721375,0.5673725605010986,neutral,-0.35418668389320374
+5,2020-08-25 08:54:00,"On Monday, S&P Global announced some changes to the Dow that will help offset the effect of Apple's split.",0.672993004322052,0.01957467570900917,0.3074323534965515,positive,0.6534183025360107
+6,2020-08-25 08:54:00,"Effective Aug. 31, Salesforce.com (NYSE: CRM) will replace ExxonMobil (NYSE: XOM), Amgen (NASDAQ: AMGN) will replace Pfizer (NYSE: PFE), and Honeywell International (NYSE: HON) will replace Raytheon Technologies (NYSE: RTX).",0.014772170223295689,0.013974723406136036,0.9712530970573425,neutral,0.0007974468171596527
+7,2020-08-25 08:54:00,"This move will lower the Dow's weighting toward the energy industry, which has been hit hard by the pandemic, while offsetting the lower weighting toward the tech industry that Apple's split will cause.",0.6951168775558472,0.18719948828220367,0.11768365651369095,positive,0.5079174041748047
+8,2020-08-25 08:54:00,It will also replace three poorly performing stocks with stocks that have better records in recent years.,0.5946354269981384,0.02007625252008438,0.3852882385253906,positive,0.5745591521263123
+9,2020-08-25 08:54:00,"The addition of Salesforce, a software-as-a-service pioneer founded in 1999, is the most notable change.",0.11173683404922485,0.007155867293477058,0.8811072707176208,neutral,0.10458096861839294
+10,2020-08-25 08:54:00,Salesforce will report its second-quarter results after the market closes today.,0.017427967861294746,0.014957941137254238,0.9676140546798706,neutral,0.0024700267240405083
+11,2020-08-25 08:54:00,Analysts are expecting 22% revenue growth and adjusted earnings that are roughly unchanged from the prior-year period.,0.7329362034797668,0.07983507961034775,0.1872287094593048,positive,0.6531011462211609
+12,2020-08-25 08:54:00,Shares of Salesforce were up around 3.7% by early afternoon.,0.931149959564209,0.01759052462875843,0.051259495317935944,positive,0.9135594367980957
+13,2020-08-25 08:54:00,Popular game Fortnite will remain absent from Apple's App Store after a judge denied Epic Games' request for a restraining order.,0.037061646580696106,0.7826859951019287,0.1802523285150528,negative,-0.7456243634223938
+14,2020-08-25 08:54:00,Judge Yvonne Gonzalez Rogers called Epic Games' decision to offer direct payments a calculated move to breach Apple's policies.,0.031071355566382408,0.9367551803588867,0.03217340260744095,negative,-0.9056838154792786
+15,2020-08-25 08:54:00,"While Apple's Fortnite ban was sustained, the company's threat to cut off Epic Games from its development tools was shot down.",0.05768909677863121,0.8200306296348572,0.12228035181760788,negative,-0.7623415589332581
+16,2020-08-25 08:54:00,"Epic Games is responsible for the Unreal Engine, a popular game engine used in a wide variety of games across most major platforms.",0.07627546787261963,0.004844484850764275,0.9188799858093262,neutral,0.0714309811592102
+17,2020-08-25 08:54:00,"If Epic Games were unable to support Unreal Engine for Apple's platforms, it would create havoc for any developer using the engine and targeting iOS.",0.022615041583776474,0.9348832964897156,0.042501647025346756,negative,-0.9122682809829712
+18,2020-08-25 08:54:00,The judge concluded that Apple's actions related to the Unreal Engine were retaliatory and that they could damage the platform and the gaming industry.,0.038902297616004944,0.9088791012763977,0.05221860110759735,negative,-0.869976818561554
+19,2020-08-25 08:54:00,That view lines up with the argument Microsoft made over the weekend.,0.1166127398610115,0.023231353610754013,0.8601559400558472,neutral,0.09338138997554779
+20,2020-08-25 08:54:00,This battle over Apple's App Store fees is far from over.,0.10679779201745987,0.5940468311309814,0.2991553843021393,negative,-0.4872490465641022
+21,2020-08-25 08:54:00,There's no question that Epic violated Apple's policies; the issue is whether those policies are anticompetitive.,0.04015299305319786,0.4821636378765106,0.47768327593803406,negative,-0.44201064109802246
+22,2020-08-25 08:54:00,"Apple has complete control over how apps are acquired on its iOS platform, and it requires developers to use its in-app purchase system and pay a fee on all purchases.",0.011267459020018578,0.02468695491552353,0.9640455842018127,neutral,-0.013419495895504951
+23,2020-08-25 08:54:00,European Union antitrust regulators started formal investigations in June.,0.0886530876159668,0.31116077303886414,0.6001861095428467,neutral,-0.22250768542289734
+24,2020-08-25 08:54:00,Shares of Apple were down 1.7% by early Tuesday afternoon.,0.019315101206302643,0.9666074514389038,0.014077513478696346,negative,-0.9472923278808594
+25,2020-08-25 08:54:00,The stock is still up about 68% year to date.,0.9265701174736023,0.01859237439930439,0.05483757331967354,positive,0.9079777598381042
+26,2020-08-25 08:54:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+27,2020-08-25 08:54:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+28,2020-08-25 08:54:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them!",0.21481488645076752,0.013847383670508862,0.7713377475738525,neutral,0.20096750557422638
+29,2020-08-25 08:54:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+30,2020-08-25 08:54:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+31,2020-08-25 08:54:00,Timothy Green has no position in any of the stocks mentioned.,0.010180004872381687,0.0389644093811512,0.9508556127548218,neutral,-0.028784405440092087
+32,2020-08-25 08:54:00,"The Motley Fool owns shares of and recommends Apple, Microsoft, and Salesforce.com.",0.03664252907037735,0.03440127149224281,0.928956151008606,neutral,0.0022412575781345367
+33,2020-08-25 08:54:00,The Motley Fool recommends Amgen and recommends the following options: long January 2021 $85 calls on Microsoft and short January 2021 $115 calls on Microsoft.,0.022008489817380905,0.04621139541268349,0.9317801594734192,neutral,-0.024202905595302582
+34,2020-08-25 08:54:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

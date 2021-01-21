@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-19 01:39:00,International Business Machines Corp.'s (NYSE: IBM ) earnings results for the fiscal fourth quarter show that the turnaround efforts are starting to show results.,0.9369237422943115,0.01794356293976307,0.045132704079151154,positive,0.9189801812171936
+1,2017-01-19 01:39:00,"Specifically, IBM pulled off a nice beat on both the top and bottom lines.",0.887190580368042,0.027255166321992874,0.08555430918931961,positive,0.8599354028701782
+2,2017-01-19 01:39:00,"But the reaction from Wall Street is muted, and IBM stock was actually wavering between slight gains and losses in Thursday's aftermarket trading.",0.02851535752415657,0.9390109181404114,0.03247365355491638,negative,-0.9104955792427063
+3,2017-01-19 01:39:00,"For Q4, IBM generated adjusted earnings of $5.01 per share on revenues of $21.77 billion.",0.11184927821159363,0.017050379887223244,0.8711003065109253,neutral,0.09479890018701553
+4,2017-01-19 01:39:00,Analysts were expecting profits of $4.88 per share on roughly $21.64 billion in sales.,0.6223439574241638,0.050031471997499466,0.32762449979782104,positive,0.5723124742507935
+5,2017-01-19 01:39:00,"Investors had already been anticipating improvement, evidenced by 11% gains in IBM stock since October - about double the S&P 500 in that time.",0.9539518356323242,0.023714540526270866,0.022333601489663124,positive,0.9302372932434082
+6,2017-01-19 01:39:00,"But momentum is slowing, as you can see from the company's dwindling Relative Strength Index (RSI) in the chart below.",0.018178313970565796,0.9498108625411987,0.0320107564330101,negative,-0.9316325187683105
+7,2017-01-19 01:39:00,One thing IBM didn't do was end its streak of consecutive revenue declines.,0.031685322523117065,0.9134459495544434,0.05486880615353584,negative,-0.8817605972290039
+8,2017-01-19 01:39:00,"Despite the top-line beat, revenues were off by 1%, marking the 19th straight quarter that sales have dipped.",0.019379867240786552,0.9717766046524048,0.008843419142067432,negative,-0.9523967504501343
+9,2017-01-19 01:39:00,"• 7 Stocks to Sell Before They Implode
+
+UPDATE: At the core of the transformation is strategic imperatives, which account for 41% of revenues.",0.22311468422412872,0.007963198237121105,0.7689220905303955,neutral,0.21515148878097534
+10,2017-01-19 01:39:00,The segment saw a 13% increase in revenues in 2016 to $32.8 billion.,0.9484097361564636,0.015685440972447395,0.03590495139360428,positive,0.9327242970466614
+11,2017-01-19 01:39:00,"A major driver of the growth is the IBM cloud business, which posted a nice 35% jump in revenues last year to $13.7 billion.",0.9440559148788452,0.017566630616784096,0.03837745636701584,positive,0.9264892935752869
+12,2017-01-19 01:39:00,Cloud as-a-service revenues were up 61%.,0.951835572719574,0.02217692881822586,0.025987550616264343,positive,0.9296586513519287
+13,2017-01-19 01:39:00,"IBM has some big-time advantages here, including a trusted brand, global footprint, decades of experience in handling mission-critical functions and thousands of highly talented engineers.",0.8754687905311584,0.014575722627341747,0.10995548218488693,positive,0.8608930706977844
+14,2017-01-19 01:39:00,"What's more, the global consulting unit has been important, which has provided lots of business with cloud deployments with companies like Workday Inc (NYSE: WDAY ) and Salesforce.com, inc. (NYSE: CRM ).",0.46971777081489563,0.009257174097001553,0.5210250616073608,neutral,0.4604606032371521
+15,2017-01-19 01:39:00,"Another critical part of the strategic imperatives side of IBM is Watson, which is the pioneering system for artificial intelligence.",0.20812158286571503,0.006374311167746782,0.7855041027069092,neutral,0.20174726843833923
+16,2017-01-19 01:39:00,"Some of the diverse use cases include customer service, the internet of things, financial services, weather forecasting, regulatory compliance and cybersecurity.",0.01660541445016861,0.008456973358988762,0.9749376177787781,neutral,0.008148441091179848
+17,2017-01-19 01:39:00,"To put all this into perspective, IBM spent more than $15 billion in R&D and acquisitions for strategic imperatives in 2016.",0.22256313264369965,0.00825611874461174,0.7691807150840759,neutral,0.2143070101737976
+18,2017-01-19 01:39:00,But the company still was able to deliver nearly $9 billion to shareholders in dividends and share repurchases.,0.874078094959259,0.013815323822200298,0.11210654675960541,positive,0.8602627515792847
+19,2017-01-19 01:39:00,The current yield on IBM stock is 3.4%.,0.022828105837106705,0.01317196898162365,0.9639999270439148,neutral,0.009656136855483055
+20,2017-01-19 01:39:00,"So, why is IBM stock showing weakness in after-hours trading?",0.02884061634540558,0.8336875438690186,0.13747185468673706,negative,-0.8048469424247742
+21,2017-01-19 01:39:00,"Shares have already rallied strongly, as we mentioned before.",0.939414381980896,0.018404077738523483,0.04218153655529022,positive,0.9210103154182434
+22,2017-01-19 01:39:00,But there also are lingering concerns about the core business.,0.0349944531917572,0.7431525588035583,0.22185292840003967,negative,-0.7081581354141235
+23,2017-01-19 01:39:00,"The fact is IBM has a number of technologies that are getting … well, crusty.",0.5186313390731812,0.014521587640047073,0.4668470621109009,positive,0.5041097402572632
+24,2017-01-19 01:39:00,"They're based on old approaches, including on-premise installations.",0.04360742121934891,0.007257796358317137,0.9491347670555115,neutral,0.03634962439537048
+25,2017-01-19 01:39:00,"Furthermore, there is quite a bit of hardware in the IBM portfolio.",0.12458876520395279,0.006144579034298658,0.8692666888237,neutral,0.11844418942928314
+26,2017-01-19 01:39:00,"During the latest quarter, Global Business Services revenues fell by 4% to $4.1 billion, Systems plunged by 12% to $2.5 billion and the Software unit saw only 1% growth to $7.1 billion.",0.01648302562534809,0.9743798971176147,0.009137116372585297,negative,-0.957896888256073
+27,2017-01-19 01:39:00,IBM also must deal with the classic problem of disruption.,0.06463738530874252,0.10643409192562103,0.8289285898208618,neutral,-0.04179670661687851
+28,2017-01-19 01:39:00,"A little good news there, though: IBM has been transforming to adapt over the past couple of years.",0.9178992509841919,0.014564246870577335,0.06753654032945633,positive,0.9033349752426147
+29,2017-01-19 01:39:00,Investors who are surprised by this surprise me - IBM is a tech company that has been around for more than a century.,0.24327018857002258,0.01017662975937128,0.7465532422065735,neutral,0.23309355974197388
+30,2017-01-19 01:39:00,Of course it's agile.,0.309655100107193,0.02207198366522789,0.6682729125022888,neutral,0.2875831127166748
+31,2017-01-19 01:39:00,Just don't expect a rapid comeback.,0.2617904841899872,0.022734493017196655,0.7154749631881714,neutral,0.23905599117279053
+32,2017-01-19 01:39:00,Moving an organization of IBM's scale isn't easy.,0.08641274273395538,0.02072077989578247,0.8928664326667786,neutral,0.06569196283817291
+33,2017-01-19 01:39:00,Tom Taulli runs the InvestorPlace blog IPO Playbook and is a registered investment adviser representative (you can visit his site to learn more about his financial planning services).,0.023058801889419556,0.01008710265159607,0.9668540954589844,neutral,0.012971699237823486
+34,2017-01-19 01:39:00,"He is also the author of various books on investing like All About Commodities, All About Short Selling and High-Profit IPO Strategies.",0.04497005045413971,0.00730680488049984,0.9477230906486511,neutral,0.03766324371099472
+35,2017-01-19 01:39:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+36,2017-01-19 01:39:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+37,2017-01-19 01:39:00,"• 10 Stocks to Buy for Donald Trump's Second Wind
+• The 7 Best High-Yield Investments for Retirement
+• The 7 Best REITs to Buy for High Yield AND Growth
+
+The post International Business Machines Corp. (IBM) Is Still a Buy … For the Patient appeared first on InvestorPlace .",0.33051466941833496,0.025199206545948982,0.6442861557006836,neutral,0.30531546473503113
+38,2017-01-19 01:39:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

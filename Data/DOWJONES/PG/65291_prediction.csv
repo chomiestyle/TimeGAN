@@ -1,0 +1,250 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-01-25 09:00:00,"In this episode of MarketFoolery, Chris Hill chats with Bill Barker about market news.",0.03241747245192528,0.029990069568157196,0.9375924468040466,neutral,0.0024274028837680817
+1,2020-01-25 09:00:00,Comcast (NASDAQ: CMCSA) is up on fourth-quarter profits.,0.9235028028488159,0.0312763936817646,0.04522080346941948,positive,0.8922263979911804
+2,2020-01-25 09:00:00,"Bill and Chris discuss what the company might do with its streaming service, Peacock, and how it's differentiating itself from, say, Apple+ (NASDAQ: AAPL).",0.08723679184913635,0.010736014693975449,0.9020272493362427,neutral,0.0765007734298706
+3,2020-01-25 09:00:00,"Several airlines are reporting, many of them falling if they have heavy exposure to the 737 Max.",0.020631222054362297,0.9272410869598389,0.05212768539786339,negative,-0.9066098928451538
+4,2020-01-25 09:00:00,"Boeing's (NYSE: BA) new CEO makes some interesting comments about the future of the company's dividend, which may or may not amount to anything.",0.03162558004260063,0.008843851275742054,0.9595305919647217,neutral,0.022781729698181152
+5,2020-01-25 09:00:00,"Procter & Gamble (NYSE: PG) misses on revenue, but the stock's fall is probably more attributable to its insane run-up this last year.",0.021371373906731606,0.9577631950378418,0.020865479484200478,negative,-0.9363918304443359
+6,2020-01-25 09:00:00,Tangents include racquet sports and Schrodinger's Mr. Peanut.,0.05545773729681969,0.026121389120817184,0.9184208512306213,neutral,0.029336348176002502
+7,2020-01-25 09:00:00,"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",0.04401024803519249,0.02094588615000248,0.9350439310073853,neutral,0.02306436188519001
+8,2020-01-25 09:00:00,"To get started investing, check out our quick-start guide to investing in stocks.",0.07803143560886383,0.00962066650390625,0.9123478531837463,neutral,0.06841076910495758
+9,2020-01-25 09:00:00,A full transcript follows the video.,0.01917308010160923,0.010780171491205692,0.9700466990470886,neutral,0.008392908610403538
+10,2020-01-25 09:00:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have an investing tip, it can pay to listen.",0.14467975497245789,0.019747961312532425,0.8355723023414612,neutral,0.12493179738521576
+11,2020-01-25 09:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+12,2020-01-25 09:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Walmart wasn't one of them!",0.22108255326747894,0.014692740514874458,0.7642247080802917,neutral,0.20638981461524963
+13,2020-01-25 09:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+14,2020-01-25 09:00:00,"This video was recorded on Jan. 23 , 2020.",0.018213648349046707,0.00961112417280674,0.9721751809120178,neutral,0.008602524176239967
+15,2020-01-25 09:00:00,"Chris Hill: It's Thursday, Jan. 23.",0.015100613236427307,0.02395055815577507,0.9609488844871521,neutral,-0.008849944919347763
+16,2020-01-25 09:00:00,Welcome to MarketFoolery!,0.20998845994472504,0.03988652676343918,0.750124990940094,neutral,0.17010194063186646
+17,2020-01-25 09:00:00,I'm Chris Hill.,0.050329629331827164,0.007737692911177874,0.941932737827301,neutral,0.04259193688631058
+18,2020-01-25 09:00:00,"With me in studio, Mr. Bill Barker.",0.04419586807489395,0.01352483220398426,0.9422793388366699,neutral,0.03067103587090969
+19,2020-01-25 09:00:00,Thanks for being here!,0.43909233808517456,0.048665087670087814,0.5122426152229309,neutral,0.39042726159095764
+20,2020-01-25 09:00:00,Bill Barker: Thanks for having me!,0.41282352805137634,0.06418637186288834,0.5229901075363159,neutral,0.3486371636390686
+21,2020-01-25 09:00:00,Hill: We've got some earnings.,0.9033870100975037,0.028073154389858246,0.06853976845741272,positive,0.8753138780593872
+22,2020-01-25 09:00:00,Earnings are starting to heat up.,0.6318814158439636,0.01973140425980091,0.348387211561203,positive,0.6121500134468079
+23,2020-01-25 09:00:00,We've got some airlines.,0.16892839968204498,0.009139001369476318,0.8219326138496399,neutral,0.15978939831256866
+24,2020-01-25 09:00:00,We've got some consumer goods.,0.11839037388563156,0.007821197621524334,0.8737884163856506,neutral,0.11056917905807495
+25,2020-01-25 09:00:00,"We're going to start with one of your favorite companies, because it's based in your home country of Philadelphia, Comcast.",0.0685361698269844,0.006148703396320343,0.9253151416778564,neutral,0.06238746643066406
+26,2020-01-25 09:00:00,Fourth-quarter profits and revenue for Comcast came in higher than expected.,0.9498833417892456,0.02517157420516014,0.024945128709077835,positive,0.9247117638587952
+27,2020-01-25 09:00:00,"You know, if it was just that, that'd probably be great, but it was mixed in the sense that broadband is growing for Comcast, but cord cutting is also growing.",0.6062425374984741,0.030006522312760353,0.3637509047985077,positive,0.5762360095977783
+28,2020-01-25 09:00:00,"The number of people just cutting the cord on Comcast TV services, that's on the rise.",0.1593853086233139,0.3915135860443115,0.44910112023353577,neutral,-0.23212827742099762
+29,2020-01-25 09:00:00,"Barker: Yeah, that's on the rise.",0.6732392907142639,0.030349034816026688,0.2964116632938385,positive,0.6428902745246887
+30,2020-01-25 09:00:00,"And, OK, the stock sold off a little bit today, but it's up about 40% over the last year, so some pretty high expectations embedded into the current operations for the company.",0.8909376263618469,0.023914750665426254,0.08514761924743652,positive,0.8670228719711304
+31,2020-01-25 09:00:00,"And if it had no response to the cord cutting, that would be a bigger problem.",0.02884703315794468,0.9175282716751099,0.05362469330430031,negative,-0.8886812329292297
+32,2020-01-25 09:00:00,It is a problem.,0.0716107115149498,0.431026428937912,0.49736282229423523,neutral,-0.3594157099723816
+33,2020-01-25 09:00:00,I think this is the 11th consecutive quarter where it's lost pay TV customers.,0.019681787118315697,0.9669531583786011,0.013365094549953938,negative,-0.9472713470458984
+34,2020-01-25 09:00:00,"And it's got Peacock coming out, the NBC-branded service that's going to compete with Disney+ and Apple+ and five other things that you can name.",0.4510030448436737,0.010403289459645748,0.5385936498641968,neutral,0.4405997693538666
+35,2020-01-25 09:00:00,So it's got a competitor.,0.16351276636123657,0.010245141573250294,0.8262420892715454,neutral,0.15326762199401855
+36,2020-01-25 09:00:00,"A little bit late, not too late, in the game.",0.15070700645446777,0.12482012808322906,0.7244728803634644,neutral,0.02588687837123871
+37,2020-01-25 09:00:00,What do you think about it?,0.035673588514328,0.020941780880093575,0.94338458776474,neutral,0.014731807634234428
+38,2020-01-25 09:00:00,"Hill: I think it's interesting that Comcast with their Peacock video streaming service, they are making a very clear decision, we are not going to be spending a ton of money on this; we're not going to be spending a lot on original content.",0.08977069705724716,0.015751320868730545,0.8944780230522156,neutral,0.07401937246322632
+39,2020-01-25 09:00:00,"So from an economic standpoint, I think if you're a Comcast shareholder, maybe you feel pretty good about this, because it's not like they are...",0.06517409533262253,0.02664489671587944,0.9081810116767883,neutral,0.03852919861674309
+40,2020-01-25 09:00:00,"I was going to say Netflix, but really it's Apple.",0.05718237906694412,0.026678018271923065,0.916139543056488,neutral,0.030504360795021057
+41,2020-01-25 09:00:00,"I mean, if you look at the numbers that Apple is spending per episode, reportedly, on their shows -- I mean, it's Apple they have all the money in the world; they can do that -- but, for the profits that Comcast generates, I think it's an interesting and probably, at least out of the gate, a smart decision by Brian Roberts and his brain trust at Comcast to go this route.",0.5796089768409729,0.015076897107064724,0.40531405806541443,positive,0.5645321011543274
+42,2020-01-25 09:00:00,Barker: Probably smart.,0.14127041399478912,0.12508223950862885,0.7336474061012268,neutral,0.01618817448616028
+43,2020-01-25 09:00:00,"I mean, you'd make a lot of money betting on his moves being smart ones, or, you have over the last couple of decades.",0.07712080329656601,0.012225060723721981,0.9106541275978088,neutral,0.06489574164152145
+44,2020-01-25 09:00:00,"And I think that an indication of the degree to which they are doing this on the cheap, which I think is kind of how you framed it --
+
+Hill: Not on the cheap --
+
+Barker: Not to their faces, you're not framing it that way, but that's what I heard from you.",0.05343838408589363,0.02841704897582531,0.9181445837020874,neutral,0.02502133511006832
+45,2020-01-25 09:00:00,"Hill: [laughs] Sure, let's go with that.",0.058498650789260864,0.02940276823937893,0.9120985865592957,neutral,0.029095882549881935
+46,2020-01-25 09:00:00,"Barker: Is the fact that one of the premiere new offerings that you're going to be able to get on this service is a reboot of Saved by the Bell, which I think, to me, underlines doing it on the cheap.",0.27526071667671204,0.01182289607822895,0.712916374206543,neutral,0.26343780755996704
+47,2020-01-25 09:00:00,"Hill: [laughs] You're saying it's not the reports of Apple saying, ""We're going to spend $15 million per episode on this Jason Momoa futuristic show""?",0.029179170727729797,0.03905990719795227,0.9317609071731567,neutral,-0.009880736470222473
+48,2020-01-25 09:00:00,"Barker: Or Picard, or The Mandalorian, or something like that.",0.061107054352760315,0.04815448448061943,0.8907384872436523,neutral,0.012952569872140884
+49,2020-01-25 09:00:00,"Saved by the Bell, one assumes less in space than these other things.",0.06097440421581268,0.10274717211723328,0.8362783789634705,neutral,-0.04177276790142059
+50,2020-01-25 09:00:00,"So therefore a little easier to spend only $10, $15 per episode.",0.08268675953149796,0.0699440985918045,0.8473691344261169,neutral,0.012742660939693451
+51,2020-01-25 09:00:00,Hill: Absolutely.,0.07777329534292221,0.024315929040312767,0.8979108333587646,neutral,0.053457364439964294
+52,2020-01-25 09:00:00,And let's not forget that Comcast owns NBC and all the NBC properties.,0.020768914371728897,0.0071728951297700405,0.972058117389679,neutral,0.01359601877629757
+53,2020-01-25 09:00:00,"They've got the Olympics coming this summer, so they will probably be using Peacock to serve up Summer Olympic content, I'm assuming.",0.05587062984704971,0.007414533291012049,0.9367148280143738,neutral,0.0484560951590538
+54,2020-01-25 09:00:00,And they will probably be promoting the hell out of Peacock on their TV network during the Summer Olympics.,0.05269891396164894,0.015252910554409027,0.9320482015609741,neutral,0.037446003407239914
+55,2020-01-25 09:00:00,"Barker: Yeah, I think that's all pretty accurate.",0.07164008170366287,0.047182172536849976,0.8811777830123901,neutral,0.024457909166812897
+56,2020-01-25 09:00:00,"And so, in the meantime, internet use is growing.",0.6262447834014893,0.012006719596683979,0.36174845695495605,positive,0.6142380833625793
+57,2020-01-25 09:00:00,"High-speed broadband sales and installation, that sort of thing.",0.023563461378216743,0.00688147870823741,0.9695550799369812,neutral,0.016681982204318047
+58,2020-01-25 09:00:00,They're more than making up for the lost pay TV subscribers with increased internet.,0.24572567641735077,0.1314646452665329,0.6228097081184387,neutral,0.11426103115081787
+59,2020-01-25 09:00:00,"And over time, it looks like it'll be the larger chunk of their revenue.",0.34248635172843933,0.009514784440398216,0.6479988694190979,neutral,0.33297157287597656
+60,2020-01-25 09:00:00,Hill: Let's move on to the airlines.,0.029131121933460236,0.011492328718304634,0.9593765139579773,neutral,0.0176387932151556
+61,2020-01-25 09:00:00,We've got three airlines that came out with fourth-quarter results.,0.3431498408317566,0.024187209084630013,0.6326629519462585,neutral,0.31896263360977173
+62,2020-01-25 09:00:00,Jet Blue's profits and revenues came in higher than expected.,0.9523202180862427,0.022978128865361214,0.024701600894331932,positive,0.9293420910835266
+63,2020-01-25 09:00:00,"Different story for Amazon and Southwest, just because those two airlines have the 737 Max, which is grounded.",0.03905788064002991,0.30953025817871094,0.6514118313789368,neutral,-0.27047237753868103
+64,2020-01-25 09:00:00,So Southwest's profits were down more than 20% in the fourth quarter because of the 737 Max.,0.016634626314044,0.9717973470687866,0.011568007990717888,negative,-0.9551627039909363
+65,2020-01-25 09:00:00,"American, their profits were up I would say despite having the 737 Max.",0.9124256372451782,0.024866873398423195,0.06270740181207657,positive,0.8875587582588196
+66,2020-01-25 09:00:00,"Barker: I was going to say, this is going to be correction week, because the first time through you said Amazon rather than American.",0.031755831092596054,0.0716986432671547,0.8965455293655396,neutral,-0.03994281217455864
+67,2020-01-25 09:00:00,Barker: Yeah.,0.1393703818321228,0.09039900451898575,0.7702306509017944,neutral,0.048971377313137054
+68,2020-01-25 09:00:00,We'll edit that out.,0.03957509621977806,0.023966431617736816,0.9364585280418396,neutral,0.015608664602041245
+69,2020-01-25 09:00:00,Hill: You know what?,0.06270194053649902,0.0914064422249794,0.8458915948867798,neutral,-0.028704501688480377
+70,2020-01-25 09:00:00,"I'm not going to get any email from people at American Airlines or Amazon, I don't think, in the way that I clearly offended the people in Sweden for saying that Davos was in Sweden.",0.03523212671279907,0.6892552375793457,0.27551260590553284,negative,-0.6540231108665466
+71,2020-01-25 09:00:00,Barker: But you didn't offend the Swiss?,0.11284076422452927,0.43783700466156006,0.4493222236633301,neutral,-0.3249962329864502
+72,2020-01-25 09:00:00,Hill: I don't know if we have dozens of listeners in Switzerland like we do in Sweden.,0.0211243387311697,0.06912170350551605,0.9097539186477661,neutral,-0.0479973629117012
+73,2020-01-25 09:00:00,Barker: I would think that Sweden wouldn't be offended by that.,0.07004716992378235,0.289050817489624,0.6409019827842712,neutral,-0.21900364756584167
+74,2020-01-25 09:00:00,They'd be offended by our generic American lack of knowledge of basically everything outside of America.,0.06188986077904701,0.7511720061302185,0.18693821132183075,negative,-0.6892821192741394
+75,2020-01-25 09:00:00,"Hill: Yeah, that's probably it.",0.05304187163710594,0.05557824671268463,0.8913799524307251,neutral,-0.0025363750755786896
+76,2020-01-25 09:00:00,"Barker: So on behalf of Switzerland, perhaps, they were offended.",0.05238163471221924,0.8069987297058105,0.14061963558197021,negative,-0.7546170949935913
+77,2020-01-25 09:00:00,Hill: Exactly.,0.04958876967430115,0.04956800118088722,0.9008432030677795,neutral,2.076849341392517e-05
+78,2020-01-25 09:00:00,And rising to Switzerland's honor.,0.6481725573539734,0.023649966344237328,0.32817748188972473,positive,0.6245225667953491
+79,2020-01-25 09:00:00,Barker: Yes.,0.10740457475185394,0.0414779931306839,0.8511173725128174,neutral,0.06592658162117004
+80,2020-01-25 09:00:00,All part of the European Union.,0.034248363226652145,0.010599054396152496,0.9551525115966797,neutral,0.02364930883049965
+81,2020-01-25 09:00:00,Or not.,0.14911626279354095,0.20285800099372864,0.6480257511138916,neutral,-0.05374173820018768
+82,2020-01-25 09:00:00,Who can remember who's part of that this week?,0.07284711301326752,0.09341080486774445,0.8337421417236328,neutral,-0.02056369185447693
+83,2020-01-25 09:00:00,Hill: Can we get back to the airlines?,0.06691750138998032,0.07869825512170792,0.8543843030929565,neutral,-0.0117807537317276
+84,2020-01-25 09:00:00,"Barker: Yes, we can.",0.4902665615081787,0.02996530570089817,0.4797680974006653,positive,0.4603012502193451
+85,2020-01-25 09:00:00,"Hill: [laughs] By the way, Amazon doesn't have an airline, yet.",0.017862483859062195,0.0375664085149765,0.9445711374282837,neutral,-0.019703924655914307
+86,2020-01-25 09:00:00,Barker: Right.,0.10723326355218887,0.05368167534470558,0.8390851020812988,neutral,0.05355158820748329
+87,2020-01-25 09:00:00,"And I was going to say, because people may have listened to that and thought, ""I haven't been following; are they taking over airlines, too?""",0.0711854100227356,0.26236942410469055,0.6664451956748962,neutral,-0.19118401408195496
+88,2020-01-25 09:00:00,"They have a pretty big logistics... look, you talk about Amazon five days a week, right?",0.02313152886927128,0.010272525250911713,0.9665959477424622,neutral,0.012859003618359566
+89,2020-01-25 09:00:00,Four?,0.12749244272708893,0.11880194395780563,0.753705620765686,neutral,0.008690498769283295
+90,2020-01-25 09:00:00,"Let's not talk about it today, despite your attempts to do so.",0.05603036656975746,0.0842742919921875,0.859695315361023,neutral,-0.02824392542243004
+91,2020-01-25 09:00:00,"American Airlines, different from Amazon, despite what you may have heard earlier in the day.",0.03929336369037628,0.09130704402923584,0.8693996071815491,neutral,-0.05201368033885956
+92,2020-01-25 09:00:00,JetBlue doing a little better in part because they don't have exposure to the Boeing Max problem.,0.5437700152397156,0.031262777745723724,0.4249672591686249,positive,0.5125072598457336
+93,2020-01-25 09:00:00,Southwest really has large exposure to that.,0.11524269729852676,0.006206605117768049,0.8785507082939148,neutral,0.10903609544038773
+94,2020-01-25 09:00:00,That's mostly known and embedded and built into the expectations of today's numbers.,0.029884716495871544,0.011152282357215881,0.9589630365371704,neutral,0.018732434138655663
+95,2020-01-25 09:00:00,"But still, I think, off a little bit.",0.2047664225101471,0.17008623480796814,0.6251473426818848,neutral,0.034680187702178955
+96,2020-01-25 09:00:00,"JetBlue seemingly doing a little better, doing well with their cost-cutting operations, which is what they highlighted in their report.",0.8837266564369202,0.04104690998792648,0.07522644847631454,positive,0.8426797389984131
+97,2020-01-25 09:00:00,Hill: Yeah.,0.1429787576198578,0.07774379104375839,0.7792773842811584,neutral,0.0652349665760994
+98,2020-01-25 09:00:00,And I don't own Jet Blue.,0.012837938964366913,0.03491537645459175,0.9522467255592346,neutral,-0.022077437490224838
+99,2020-01-25 09:00:00,"But I always like to see, just as someone who is generally a fan of business, I like to see companies come out and say, ""This is our plan.",0.14363166689872742,0.00808688160032034,0.8482815027236938,neutral,0.1355447918176651
+100,2020-01-25 09:00:00,"This is how long it's going to take.""",0.0327736921608448,0.024758363142609596,0.9424679279327393,neutral,0.008015329018235207
+101,2020-01-25 09:00:00,"And then, at the end of that timeframe, they actually hold themselves accountable and say, ""OK, this is what we did.""",0.1391715556383133,0.028269775211811066,0.8325586915016174,neutral,0.11090178042650223
+102,2020-01-25 09:00:00,"In Jet Blue's case, it's a three-year cost-cutting plan that they executed, and it's paying off for them and their shareholders, literally.",0.79582679271698,0.015915296971797943,0.1882578730583191,positive,0.7799115180969238
+103,2020-01-25 09:00:00,Can we go to Boeing for a second?,0.05308341607451439,0.040605802088975906,0.9063107967376709,neutral,0.012477613985538483
+104,2020-01-25 09:00:00,"Because Dave Calhoun has been the CEO of Boeing for about, I'm going to ballpark two or three weeks.",0.029689904302358627,0.031713053584098816,0.9385970830917358,neutral,-0.0020231492817401886
+105,2020-01-25 09:00:00,Let's call it a month.,0.03745728358626366,0.019229000434279442,0.943313717842102,neutral,0.018228283151984215
+106,2020-01-25 09:00:00,"And he came out on Wednesday and was, I think, trying to be very optimistic and even bullish about Boeing, as any CEO would want to be bullish about their company.",0.14412717521190643,0.020617907866835594,0.8352549076080322,neutral,0.12350926548242569
+107,2020-01-25 09:00:00,"But he said something -- I don't know if you heard this, but I'm curious to get your take on this -- because he talked specifically about Boeing's dividend.",0.024073796346783638,0.015552286058664322,0.9603739380836487,neutral,0.008521510288119316
+108,2020-01-25 09:00:00,"And he said, ""We're not cutting the dividend unless something dramatic changes.""",0.08637833595275879,0.5940978527069092,0.3195238411426544,negative,-0.5077195167541504
+109,2020-01-25 09:00:00,"And I feel like that's a mistake to say out loud [laughs] and for publication, because when companies cut their dividend, they are given the opportunity to share with the investing public why they're cutting the dividend.",0.05188459903001785,0.6996132731437683,0.24850216507911682,negative,-0.647728681564331
+110,2020-01-25 09:00:00,Dave Calhoun has now just basically removed any interpretation we as investors get to make.,0.040784504264593124,0.13665831089019775,0.8225572109222412,neutral,-0.09587380290031433
+111,2020-01-25 09:00:00,"He's already said, ""Oh, if we cut the dividend in six months,"" which, by the way, is completely plausible, as they continue to have troubles with the 737 Max.",0.0434865802526474,0.8686680793762207,0.08784530311822891,negative,-0.8251814842224121
+112,2020-01-25 09:00:00,"So if they come out and cut the dividend even just a little bit, everyone rightfully is going to point back to this comment and be like, ""Wow, I guess something dramatic changed, huh?""",0.09077798575162888,0.5099148154258728,0.3993072509765625,negative,-0.41913682222366333
+113,2020-01-25 09:00:00,Barker: Possibly.,0.07776761054992676,0.14013691246509552,0.7820955514907837,neutral,-0.06236930191516876
+114,2020-01-25 09:00:00,"Look, certainly, he's inherited a very difficult situation.",0.0857267901301384,0.42140159010887146,0.49287161231040955,neutral,-0.33567479252815247
+115,2020-01-25 09:00:00,Hill: And he's being well paid to inherit this situation.,0.6935701966285706,0.015964500606060028,0.2904653251171112,positive,0.6776056885719299
+116,2020-01-25 09:00:00,"Barker: The nice thing is, he's got an easy act to follow.",0.10765142738819122,0.013360947370529175,0.8789876699447632,neutral,0.09429048001766205
+117,2020-01-25 09:00:00,That's always a plus.,0.3080568015575409,0.05210336670279503,0.6398398876190186,neutral,0.25595343112945557
+118,2020-01-25 09:00:00,"Yes, and he's being well paid.",0.5795382261276245,0.014666671864688396,0.40579506754875183,positive,0.5648715496063232
+119,2020-01-25 09:00:00,"And even if he fails at the job, he'll be well paid to leave, because those are the rules of that game.",0.06397313624620438,0.05756939575076103,0.8784574270248413,neutral,0.006403740495443344
+120,2020-01-25 09:00:00,"And I think that, yeah, if somebody missteps on part of a sentence early on in their job, I'll note it and weigh it accordingly.",0.03668695688247681,0.06042089685797691,0.9028921127319336,neutral,-0.023733939975500107
+121,2020-01-25 09:00:00,"But I think one interpretation is, ""It's safe.",0.0683031976222992,0.028207384049892426,0.9034894108772278,neutral,0.04009581357240677
+122,2020-01-25 09:00:00,We can never be sure that there won't be something dramatic.,0.03696604445576668,0.04133223369717598,0.9217016696929932,neutral,-0.004366189241409302
+123,2020-01-25 09:00:00,We're not even calling what has happened so far dramatic from the perspective of a dividend cut.,0.0698525607585907,0.2826966941356659,0.6474508047103882,neutral,-0.2128441333770752
+124,2020-01-25 09:00:00,"We're not trying to belittle the consequences of it, but vis-a-vis a dividend, it's not dramatic enough.",0.03226171061396599,0.24761472642421722,0.7201235294342041,neutral,-0.21535301208496094
+125,2020-01-25 09:00:00,"We can't control everything that's going to happen in the future,"" and they can't.",0.03329469636082649,0.17383919656276703,0.7928661108016968,neutral,-0.14054450392723083
+126,2020-01-25 09:00:00,So airlines are pretty poor-performing stocks over the long term.,0.01886262744665146,0.9472855925559998,0.033851779997348785,negative,-0.9284229874610901
+127,2020-01-25 09:00:00,"That's really still been the case, although they've gotten a little bit better.",0.6745314598083496,0.03762379288673401,0.287844717502594,positive,0.636907696723938
+128,2020-01-25 09:00:00,"Over the last five years, airlines as a whole have only returned 1.5%.",0.027820415794849396,0.831416130065918,0.14076344668865204,negative,-0.8035957217216492
+129,2020-01-25 09:00:00,The market's returned about 12%.,0.6179413199424744,0.04738735035061836,0.3346713185310364,positive,0.5705539584159851
+130,2020-01-25 09:00:00,So pretty bad last three and five years for these things.,0.055772583931684494,0.5778163075447083,0.3664110600948334,negative,-0.5220437049865723
+131,2020-01-25 09:00:00,"And it is largely attributable to the fact that it is not only a heavily regulated industry, but for the most part one which people are not complaining about too many regulations, especially in light of something like the 737 Max.",0.04321175068616867,0.08216717839241028,0.8746210932731628,neutral,-0.03895542770624161
+132,2020-01-25 09:00:00,"People look at that -- I think today, there was a report from the Department of Transportation defending their work and saying, ""Look, we didn't drop the ball here, but we've got 32 recommendations to ourselves about ways to improve this oversight.""",0.22820813953876495,0.37866368889808655,0.3931281864643097,neutral,-0.1504555493593216
+133,2020-01-25 09:00:00,"So the outcome of this is, contrary to much of the rest of this administration's work on regulations -- which is to find all of them, hunt them down, and kill them if possible -- not to do so in the airline industry.",0.04150070995092392,0.121145099401474,0.8373542428016663,neutral,-0.07964438945055008
+134,2020-01-25 09:00:00,So that inherently affects your profitability.,0.02683417685329914,0.05054960772395134,0.9226163029670715,neutral,-0.0237154308706522
+135,2020-01-25 09:00:00,"And all three of these stocks are getting the job done as businesses, but really not keeping up with the rest of the market.",0.06138866767287254,0.6835255026817322,0.25508585572242737,negative,-0.6221368312835693
+136,2020-01-25 09:00:00,Hill: Procter & Gamble out with second-quarter results.,0.037303805351257324,0.8666292428970337,0.09606697410345078,negative,-0.8293254375457764
+137,2020-01-25 09:00:00,Revenue was lower than expected.,0.017640557140111923,0.9683648943901062,0.013994505628943443,negative,-0.9507243633270264
+138,2020-01-25 09:00:00,"Procter & Gamble is, obviously, a very big consumer goods company with a lot of different business lines.",0.04824008792638779,0.0055135139264166355,0.9462464451789856,neutral,0.04272657260298729
+139,2020-01-25 09:00:00,"One thing I noted was -- and they called this out -- the global birth rate, which is slowing down.",0.24194268882274628,0.31079477071762085,0.4472625255584717,neutral,-0.06885208189487457
+140,2020-01-25 09:00:00,"And when you're in the business of selling diapers, then you're just going to sell fewer diapers when the global birth rate, particularly in places like the United States and China, starts to slow down.",0.050314147025346756,0.08421045541763306,0.8654753565788269,neutral,-0.0338963083922863
+141,2020-01-25 09:00:00,Barker: Yeah.,0.1393703818321228,0.09039900451898575,0.7702306509017944,neutral,0.048971377313137054
+142,2020-01-25 09:00:00,"And I hadn't been following China's birth rate, but that's been a problem.",0.033927686512470245,0.7566656470298767,0.20940667390823364,negative,-0.7227379679679871
+143,2020-01-25 09:00:00,I had thought that that was already kept artificially low.,0.09079872816801071,0.23086588084697723,0.678335428237915,neutral,-0.14006716012954712
+144,2020-01-25 09:00:00,But apparently it's trailing even more.,0.22895683348178864,0.23989321291446686,0.5311499834060669,neutral,-0.010936379432678223
+145,2020-01-25 09:00:00,"So being the size of market that it is for Procter & Gamble and the competitors -- Kimberly-Clark as well, I think, talked about mid-single digits off on diaper use.",0.041379936039447784,0.08608653396368027,0.8725335001945496,neutral,-0.04470659792423248
+146,2020-01-25 09:00:00,"And I think they're also, of course, susceptible to increased and improved generics or white label.",0.6759510636329651,0.012164321728050709,0.31188467144966125,positive,0.663786768913269
+147,2020-01-25 09:00:00,"Hill: Do you think a little bit of the drop that we're seeing in Procter & Gamble's stock today has to do with the fact that over the past year, the stock's up 30%?",0.3451992869377136,0.4591483473777771,0.1956523209810257,negative,-0.11394906044006348
+148,2020-01-25 09:00:00,Hill: That's kind of a crazy good year for a stock like Procter & Gamble.,0.22663478553295135,0.027680890634655952,0.7456843256950378,neutral,0.19895389676094055
+149,2020-01-25 09:00:00,"Barker: Yeah, I've got it up 42% over the last one year.",0.9198196530342102,0.018635772168636322,0.061544571071863174,positive,0.9011839032173157
+150,2020-01-25 09:00:00,It was already up a little bit this year.,0.7991986274719238,0.029229959473013878,0.17157132923603058,positive,0.7699686884880066
+151,2020-01-25 09:00:00,"But, 42% a year, for a consumer products company, which is not, obviously, growing the top line anywhere close to that amount.",0.26866528391838074,0.043951235711574554,0.6873834729194641,neutral,0.22471404075622559
+152,2020-01-25 09:00:00,They've obviously sort of improved some profitability issues.,0.9228192567825317,0.026107236742973328,0.05107353255152702,positive,0.8967120051383972
+153,2020-01-25 09:00:00,"But any misstep is going to be an opportunity to take some profits off the table, as the saying goes, and I think that's a little bit of what's happening here, because the outlook for the year as a whole is a pretty good one for a consumer products company.",0.4037620425224304,0.04119747132062912,0.5550404787063599,neutral,0.3625645637512207
+154,2020-01-25 09:00:00,"I think they're talking about organic sales were up 5% for the quarter, and I think the earnings per share guidance is high-single-digits to low-double-digits, which, again, even though part of that is juiced by a lot of share buybacks, which they're in the middle of, that's still pretty impressive growth.",0.945706307888031,0.01954413205385208,0.03474962338805199,positive,0.9261621832847595
+155,2020-01-25 09:00:00,"Hill: Do you think there's any chance Warren Buffett and Charlie Munger are looking at the results from Procter & Gamble, particularly over the past year, and saying, ""Hey, that Kraft Heinz acquisition, that's still not looking good.""",0.04269706830382347,0.5177688002586365,0.43953415751457214,negative,-0.4750717282295227
+156,2020-01-25 09:00:00,"And they don't get to use the excuse that it's a bad time for consumer products companies, because P&G is getting it done.",0.04633519425988197,0.3831530213356018,0.5705118179321289,neutral,-0.33681783080101013
+157,2020-01-25 09:00:00,"Barker: Yeah, they are getting it done.",0.5350373983383179,0.021746553480625153,0.44321614503860474,positive,0.5132908225059509
+158,2020-01-25 09:00:00,"I imagine they have looked over their work for Kraft Heinz many times and thought ...
+
+Hill: ""What have we done?""",0.04103749617934227,0.1351005882024765,0.8238618969917297,neutral,-0.09406308829784393
+159,2020-01-25 09:00:00,"[laughs] ""What have we done and how can we never do it again?""",0.0717032328248024,0.33833688497543335,0.5899599194526672,neutral,-0.26663365960121155
+160,2020-01-25 09:00:00,"Barker: [laughs] ""We know the mistakes we made, and we wish we hadn't made them.",0.06055586785078049,0.8245185613632202,0.11492560058832169,negative,-0.7639626860618591
+161,2020-01-25 09:00:00,But we did.,0.10702531784772873,0.041625987738370895,0.8513486981391907,neutral,0.06539933383464813
+162,2020-01-25 09:00:00,"Thank goodness we've got a lot of things that we've done over the years that were not mistakes to make up for that one, because it's a pretty big one.""",0.6066542863845825,0.07786492258310318,0.3154807984828949,positive,0.5287893414497375
+163,2020-01-25 09:00:00,"Hill: So you were pointing out before we started this show that part of the Kraft Heinz empire of products, you look at the brand portfolio within Kraft Heinz, you've got Planters, Planters Nuts, and within that you've got Mr. Peanut.",0.02075408585369587,0.008690687827765942,0.9705552458763123,neutral,0.012063398025929928
+164,2020-01-25 09:00:00,"Hill: Mr. Peanut very much in the news, because Mr. Peanut apparently is going to die on Super Bowl Sunday.",0.06118767708539963,0.30384841561317444,0.634963870048523,neutral,-0.2426607310771942
+165,2020-01-25 09:00:00,"There's an ad campaign that the Planters marketing folks are going to be rolling out where apparently, Mr. Peanut is going to die before the game, and then sometime during the third quarter, they're going to have a commercial featuring his funeral.",0.01899220421910286,0.01632649451494217,0.9646812677383423,neutral,0.0026657097041606903
+166,2020-01-25 09:00:00,"I was already planning on watching the Super Bowl, but after initially being annoyed that Mr. Peanut was trending on Twitter over the last 24 hours, the more I read about this, the more I thought, ""OK, yeah.",0.10266803205013275,0.1503448188304901,0.7469871640205383,neutral,-0.04767678678035736
+167,2020-01-25 09:00:00,"I'm interested to see how this plays out.""",0.10357135534286499,0.010573658160865307,0.885854959487915,neutral,0.09299769997596741
+168,2020-01-25 09:00:00,I'm already a customer.,0.158700093626976,0.014756644144654274,0.8265433311462402,neutral,0.1439434438943863
+169,2020-01-25 09:00:00,I already think it's a fine product.,0.5660305023193359,0.013512857258319855,0.4204567074775696,positive,0.5525176525115967
+170,2020-01-25 09:00:00,I spend money on those peanuts.,0.04244505986571312,0.010473531670868397,0.947081446647644,neutral,0.0319715291261673
+171,2020-01-25 09:00:00,Barker: Yeah.,0.1393703818321228,0.09039900451898575,0.7702306509017944,neutral,0.048971377313137054
+172,2020-01-25 09:00:00,And here's my question: Has Mr. Peanut already died?,0.05516583472490311,0.33681797981262207,0.6080161929130554,neutral,-0.28165215253829956
+173,2020-01-25 09:00:00,Because they've released the commercial where he dies.,0.030796034261584282,0.029833966866135597,0.9393700361251831,neutral,0.0009620673954486847
+174,2020-01-25 09:00:00,"But only to the internet, right?",0.045328862965106964,0.01846928335726261,0.936201810836792,neutral,0.026859579607844353
+175,2020-01-25 09:00:00,"So is he like Schrodinger's cat, both dead and not dead yet?",0.10028134286403656,0.18153329193592072,0.7181854248046875,neutral,-0.08125194907188416
+176,2020-01-25 09:00:00,Depending on whether you've seen it?,0.04112491384148598,0.028765326365828514,0.9301097989082336,neutral,0.012359587475657463
+177,2020-01-25 09:00:00,"Depending on whether you've observed the commercial, is he still alive?",0.0394236221909523,0.04863888770341873,0.9119374752044678,neutral,-0.00921526551246643
+178,2020-01-25 09:00:00,I'm getting metaphysical here.,0.16879700124263763,0.42594000697135925,0.4052630066871643,negative,-0.2571430206298828
+179,2020-01-25 09:00:00,You weren't expecting me to take it in that direction.,0.1121273785829544,0.08791953325271606,0.7999531030654907,neutral,0.024207845330238342
+180,2020-01-25 09:00:00,Barker: Were you expecting me to address this from a business perspective?,0.017693031579256058,0.030111458152532578,0.9521954655647278,neutral,-0.01241842657327652
+181,2020-01-25 09:00:00,Hill: [laughs] No.,0.06913748383522034,0.1971973478794098,0.7336651682853699,neutral,-0.12805986404418945
+182,2020-01-25 09:00:00,"I was just going to say, I think we've all come to expect at this point, when it comes to Super Bowl commercials, that in the age of YouTube, this is how it goes.",0.045063912868499756,0.01182246021926403,0.9431136250495911,neutral,0.033241450786590576
+183,2020-01-25 09:00:00,"It's no longer enough for companies to say, ""Yeah, we've got a Super Bowl ad and we're really excited about it.",0.25015556812286377,0.043202828615903854,0.7066416144371033,neutral,0.20695273578166962
+184,2020-01-25 09:00:00,"You'll have to tune in to watch it.""",0.06902375817298889,0.04548567906022072,0.8854905366897583,neutral,0.023538079112768173
+185,2020-01-25 09:00:00,They have to tease it out.,0.09617748856544495,0.08739683777093887,0.8164256811141968,neutral,0.008780650794506073
+186,2020-01-25 09:00:00,"They have to, often, release it ahead of time on YouTube so that then, during the game, you can be like, ""Oh, there's that commercial I watched three days ago on YouTube!""",0.0337720662355423,0.04280165582895279,0.9234262108802795,neutral,-0.009029589593410492
+187,2020-01-25 09:00:00,"Barker: ""Everybody come in, watch this thing now that we could watch on YouTube as well!""",0.03575436770915985,0.04301098361611366,0.921234667301178,neutral,-0.007256615906953812
+188,2020-01-25 09:00:00,"Hill: Yeah, and can for as long as we want.",0.1725134402513504,0.0150894895195961,0.8123970627784729,neutral,0.1574239432811737
+189,2020-01-25 09:00:00,"I mean, I know it doesn't look like a professional show, but can you turn your phone off at least and pretend it's a professional show?",0.03546449542045593,0.04976634308695793,0.914769172668457,neutral,-0.014301847666501999
+190,2020-01-25 09:00:00,"Hill: [laughs] If we hadn't already, we've now reached the end of this episode.",0.08887619525194168,0.25183480978012085,0.6592890620231628,neutral,-0.16295862197875977
+191,2020-01-25 09:00:00,"Bill Barker --
+
+Barker: You'll just edit that part out.",0.0751483142375946,0.3266180753707886,0.5982336401939392,neutral,-0.25146976113319397
+192,2020-01-25 09:00:00,Hill: No.,0.09766525030136108,0.11837974935770035,0.7839550375938416,neutral,-0.020714499056339264
+193,2020-01-25 09:00:00,"We're not editing out my Amazon --
+
+Barker: Let me give you one thing that I learned while you were prattling on about something.",0.02675444260239601,0.025857241824269295,0.9473882913589478,neutral,0.0008972007781267166
+194,2020-01-25 09:00:00,"Barker: It was when you were mistakenly talking about my cross-training, which is totally untrue.",0.05701170116662979,0.6682344675064087,0.2747538387775421,negative,-0.6112227439880371
+195,2020-01-25 09:00:00,Because I only play racquet sports.,0.03200273588299751,0.026222387328743935,0.941774845123291,neutral,0.005780348554253578
+196,2020-01-25 09:00:00,"Hill: Yeah, but, all kidding aside -- for anyone still listening -- this is the truth: You compete at a national level in your racquet sport.",0.07392903417348862,0.020975084975361824,0.9050958752632141,neutral,0.05295395106077194
+197,2020-01-25 09:00:00,"Hill: I mean, you've got to be in some kind of shape.",0.5558725595474243,0.021862134337425232,0.42226532101631165,positive,0.5340104103088379
+198,2020-01-25 09:00:00,"Barker: If you're in Chicago, come by.",0.029551653191447258,0.0425507090985775,0.927897572517395,neutral,-0.012999055907130241
+199,2020-01-25 09:00:00,I'll be at the U.S. Open in a couple of weeks.,0.07928704470396042,0.010990863665938377,0.9097220301628113,neutral,0.06829617917537689
+200,2020-01-25 09:00:00,"But, so, I was looking, apropos of this show -- I know that when people hear the word ""apropos"" here, they assume that it's not going to be relevant.",0.03233570232987404,0.13028228282928467,0.8373819589614868,neutral,-0.09794658422470093
+201,2020-01-25 09:00:00,And yet here I go.,0.15875768661499023,0.11734168976545334,0.7239006161689758,neutral,0.041415996849536896
+202,2020-01-25 09:00:00,"Brian Roberts, a great squash player, played the Maccabiah Games a couple of times, the CEO of Comcast.",0.07895965874195099,0.02145250141620636,0.8995878100395203,neutral,0.05750715732574463
+203,2020-01-25 09:00:00,"And, looking up, he is in the Philadelphia Jewish Sports Hall of Fame, which I did not know.",0.04331262782216072,0.025382567197084427,0.9313048124313354,neutral,0.017930060625076294
+204,2020-01-25 09:00:00,"I did not know there was a Philadelphia Jewish Sports Hall of Fame to start with, but I'm now going to spend a little time investigating.",0.05707244947552681,0.009943954646587372,0.9329836368560791,neutral,0.04712849482893944
+205,2020-01-25 09:00:00,Barker: Yes.,0.10740457475185394,0.0414779931306839,0.8511173725128174,neutral,0.06592658162117004
+206,2020-01-25 09:00:00,"He was, I believe, a squash player at Penn, and then still plays.",0.06133268401026726,0.013067853637039661,0.9255994558334351,neutral,0.04826483130455017
+207,2020-01-25 09:00:00,Hill: Aren't you and Brian Roberts roughly the same age?,0.03180231899023056,0.04632003977894783,0.9218776226043701,neutral,-0.01451772078871727
+208,2020-01-25 09:00:00,Is he a little bit older?,0.1146480068564415,0.11283762753009796,0.7725143432617188,neutral,0.0018103793263435364
+209,2020-01-25 09:00:00,"I'm just wondering if, in your time at Yale, you may have competed --
+
+Barker: No.",0.07440132647752762,0.09269733726978302,0.8329014182090759,neutral,-0.0182960107922554
+210,2020-01-25 09:00:00,He's a little bit older than me.,0.11347097158432007,0.036166250705718994,0.8503627777099609,neutral,0.07730472087860107
+211,2020-01-25 09:00:00,Hill: OK.,0.24818722903728485,0.0896129161119461,0.662199854850769,neutral,0.15857431292533875
+212,2020-01-25 09:00:00,He's solidly older than you.,0.13718748092651367,0.01468143705278635,0.8481310606002808,neutral,0.1225060448050499
+213,2020-01-25 09:00:00,"Sports Hall of Fame, though.",0.07258996367454529,0.041451554745435715,0.8859585523605347,neutral,0.031138408929109573
+214,2020-01-25 09:00:00,That's great.,0.7423351407051086,0.017071057111024857,0.2405938357114792,positive,0.7252640724182129
+215,2020-01-25 09:00:00,"Hill: Well, there's no more appropriate way to end this episode than petering out with some random sports tidbits.",0.03904518857598305,0.06947387754917145,0.8914809226989746,neutral,-0.0304286889731884
+216,2020-01-25 09:00:00,"Barker: [laughs] We could talk about peanuts again, if you think that's better.",0.17311227321624756,0.04007420688867569,0.7868135571479797,neutral,0.13303807377815247
+217,2020-01-25 09:00:00,"Hill: No, now we're just punishing people.",0.0914127305150032,0.3516213893890381,0.5569658875465393,neutral,-0.2602086663246155
+218,2020-01-25 09:00:00,Thanks for being here!,0.43909233808517456,0.048665087670087814,0.5122426152229309,neutral,0.39042726159095764
+219,2020-01-25 09:00:00,"Hill: As always, people on the program may have interest in the stocks they talk about, and The Motley Fool may have formal recommendations for or against, so don't buy or sell stocks based solely on what you hear.",0.012608921155333519,0.016211649402976036,0.9711794257164001,neutral,-0.003602728247642517
+220,2020-01-25 09:00:00,That'll do it for this edition of MarketFoolery.,0.13810889422893524,0.0071424515917897224,0.8547487258911133,neutral,0.1309664398431778
+221,2020-01-25 09:00:00,The show's mixed by Dan Boyd.,0.061646945774555206,0.09168994426727295,0.8466631174087524,neutral,-0.030042998492717743
+222,2020-01-25 09:00:00,I'm Chris Hill.,0.050329629331827164,0.007737692911177874,0.941932737827301,neutral,0.04259193688631058
+223,2020-01-25 09:00:00,Thanks for listening!,0.25801247358322144,0.07156457751989365,0.6704229116439819,neutral,0.1864478886127472
+224,2020-01-25 09:00:00,We'll see you next week.,0.07623771578073502,0.011741818860173225,0.9120204448699951,neutral,0.06449589878320694
+225,2020-01-25 09:00:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+226,2020-01-25 09:00:00,Bill Barker owns shares of Apple and Walt Disney.,0.01941930688917637,0.012192515656352043,0.9683881402015686,neutral,0.0072267912328243256
+227,2020-01-25 09:00:00,"Bill Barker is an employee of Motley Fool Asset Management, a separate, sister company of The Motley Fool, LLC.",0.013227108865976334,0.01680464670062065,0.9699681997299194,neutral,-0.0035775378346443176
+228,2020-01-25 09:00:00,"The views of Bill Barker and Motley Fool Asset Management are not the views of The Motley Fool, LLC and should not be taken as such.",0.009277393110096455,0.04247402772307396,0.948248565196991,neutral,-0.03319663554430008
+229,2020-01-25 09:00:00,Chris Hill owns shares of Amazon and Walt Disney.,0.01933184638619423,0.011670888401567936,0.9689972400665283,neutral,0.007660957984626293
+230,2020-01-25 09:00:00,"The Motley Fool owns shares of and recommends Amazon, Apple, Netflix, Southwest Airlines, and Walt Disney.",0.02670561522245407,0.015792328864336014,0.957502007484436,neutral,0.010913286358118057
+231,2020-01-25 09:00:00,The Motley Fool recommends Comcast and JetBlue Airways and recommends the following options: long January 2021 $60 calls on Walt Disney and short April 2020 $135 calls on Walt Disney.,0.015553289093077183,0.028074076399207115,0.9563726186752319,neutral,-0.012520787306129932
+232,2020-01-25 09:00:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

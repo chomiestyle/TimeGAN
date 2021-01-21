@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-15 01:01:01,"* Online sales expected to rise as much as 35%
+
+* High-income households likely to spend 2%-3% more
+
+Sept 15 (Reuters) - The wealthy in America are expected to splurge online for gifts and home decorations this holiday season, even as the COVID-19 pandemic erodes sales growth to the slowest in at least a decade, according to a forecast from Deloitte.",0.8882564902305603,0.0766931101679802,0.0350504033267498,positive,0.8115633726119995
+1,2020-09-15 01:01:01,"U.S. retail sales are expected to inch up 1% to 1.5% to as much as $1.15 trillion between November and January, led by a 25% to 35% rise in e-commerce sales, the consultancy firm said.",0.9551178216934204,0.021651286631822586,0.0232308991253376,positive,0.9334665536880493
+2,2020-09-15 01:01:01,"While the overall rise in sales would be slower than previous years, Deloitte's U.S. retail and distribution leader Rod Sides said a surprise increase in back-to-school spending and higher savings rates than last year showed demand could be strong between Thanksgiving and Christmas.",0.9378042221069336,0.02368173748254776,0.03851400688290596,positive,0.914122462272644
+3,2020-09-15 01:01:01,"""We don't see many of the higher and upper middle income folks being impacted by job losses, so we think for that group holiday sales go up as much as 2% to 3%,"" Sides said.",0.8754503130912781,0.04430161044001579,0.08024806529283524,positive,0.8311486840248108
+4,2020-09-15 01:01:01,"Purchasing among lower income households will likely be flat to up just 1%, as the coronavirus lingers and the health crisis related government spending dries up.",0.05771845951676369,0.9111630320549011,0.031118473038077354,negative,-0.8534445762634277
+5,2020-09-15 01:01:01,Brick-and-mortar sales could fall as much as 3.4%.,0.017647773027420044,0.971936047077179,0.010416209697723389,negative,-0.9542882442474365
+6,2020-09-15 01:01:01,"Consumer spending, which accounts for more than two-thirds of U.S. economic activity, has shown signs of recovery, but July figures were still about 4.6% below February levels.",0.059768784791231155,0.9207345247268677,0.019496718421578407,negative,-0.8609657287597656
+7,2020-09-15 01:01:01,"Big box chains are expected gain the most in the holidays as consumers consolidate shopping trips, Sides said, while independent main street stores could struggle.",0.059264153242111206,0.9077204465866089,0.03301537409424782,negative,-0.8484562635421753
+8,2020-09-15 01:01:01,"Walmart, Target and Home Depot have already seen their sales surge during the pandemic as revenue from their websites and apps showed unprecedented growth.",0.9375348687171936,0.02563234604895115,0.0368327796459198,positive,0.9119025468826294
+9,2020-09-15 01:01:01,But analysts said their supply chains could come under immense stress during the holidays.,0.027332887053489685,0.9502601027488708,0.022407056763768196,negative,-0.92292720079422
+10,2020-09-15 01:01:01,"Holiday sales last season rose 4.1%, compared to Deloitte's estimated 4.5% to 5% increase.",0.9494267702102661,0.02983776479959488,0.020735448226332664,positive,0.9195889830589294

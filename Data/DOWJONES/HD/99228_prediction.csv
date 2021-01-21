@@ -1,0 +1,82 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-18 06:30:00,"Chicago, IL - January 18, 2016 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01760587841272354,0.008846030570566654,0.9735480546951294,neutral,0.008759847842156887
+1,2016-01-18 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2016-01-18 06:30:00,"Stocks recently featured in the blog include Coca-Cola Co. ( KO ), Walt Disney Co. ( DIS ), Home Depot, Inc. ( HD ), JPMorgan Chase & Co. ( JPM ) and Intel Corp. ( INTC ).",0.02291109785437584,0.011505261063575745,0.9655836224555969,neutral,0.011405836790800095
+3,2016-01-18 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2016-01-18 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2016-01-18 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+The Dow had a relatively better week after the prior week's grievous losses.",0.8971460461616516,0.07413364946842194,0.028720268979668617,positive,0.8230124115943909
+6,2016-01-18 06:30:00,The index gained modestly on Monday despite declining crude prices.,0.9455168843269348,0.028370901942253113,0.026112252846360207,positive,0.9171459674835205
+7,2016-01-18 06:30:00,The index moved upward again on Tuesday boosted by gains in technology and healthcare stocks.,0.9333464503288269,0.030658533796668053,0.035995002835989,positive,0.9026879072189331
+8,2016-01-18 06:30:00,"The Dow declined sharply on Wednesday, dragged lower by declining consumer discretionary and biotech stocks.",0.01974419690668583,0.9703873991966248,0.009868402034044266,negative,-0.9506431818008423
+9,2016-01-18 06:30:00,"However, the index made a strong comeback on Thursday, boosted by a rebound in crude prices.",0.9375654458999634,0.03207119554281235,0.03036334551870823,positive,0.9054942727088928
+10,2016-01-18 06:30:00,"The Dow has gained marginally during the first four trading days, increasing 0.2%.",0.9351799488067627,0.03976826369762421,0.025051772594451904,positive,0.8954116702079773
+11,2016-01-18 06:30:00,Stocks ended mixed on Monday with the index posting modest gains amidst declining oil prices .,0.7587530612945557,0.17958100140094757,0.061665941029787064,positive,0.5791720747947693
+12,2016-01-18 06:30:00,"Consumer staples garnered the highest gains, with The Coca-Cola Co. ( KO ) ending 0.2% higher.",0.8962342143058777,0.053382985293865204,0.05038277432322502,positive,0.8428512215614319
+13,2016-01-18 06:30:00,"However, gains were reduced due to losses incurred by energy shares which were adversely affected by declining oil prices.",0.03387962654232979,0.9474031925201416,0.01871716044843197,negative,-0.9135235548019409
+14,2016-01-18 06:30:00,The Dow gained 0.3% to close about 50 points higher.,0.8853503465652466,0.053068384528160095,0.06158125028014183,positive,0.8322819471359253
+15,2016-01-18 06:30:00,"But for 9 of the 30 components, all others finished in the green.",0.05432033911347389,0.03585134819149971,0.9098283052444458,neutral,0.018468990921974182
+16,2016-01-18 06:30:00,Energy shares declined due to a fresh rout in oil prices.,0.023408424109220505,0.9522644281387329,0.02432706020772457,negative,-0.9288560152053833
+17,2016-01-18 06:30:00,Oil prices plunged to a fresh 12-year low as investors expect China's demand for oil to decline further in 2016.,0.10589361190795898,0.8164469599723816,0.07765941321849823,negative,-0.7105533480644226
+18,2016-01-18 06:30:00,"Exxon Mobil and Chevron declined 1.3% and 1.7%, respectively.",0.02594282291829586,0.959873616695404,0.014183590188622475,negative,-0.9339308142662048
+19,2016-01-18 06:30:00,The index increased 0.7% on Tuesday boosted by gains in technology and healthcare stocks.,0.9464895129203796,0.026576902717351913,0.026933614164590836,positive,0.9199126362800598
+20,2016-01-18 06:30:00,Price of U.S. crude fell below the $30 a barrel level for a short while for the first time since 2003.,0.05447639524936676,0.8984357118606567,0.047087907791137695,negative,-0.8439593315124512
+21,2016-01-18 06:30:00,A surging U.S. dollar was the primary reason for the downward slide.,0.1587490290403366,0.5465254783630371,0.2947255074977875,negative,-0.3877764344215393
+22,2016-01-18 06:30:00,"Also, a supply glut, concerns about China's weak economy and volatility in stock markets continue to have negative impacts on oil prices.",0.018718771636486053,0.9575355648994446,0.023745734244585037,negative,-0.9388167858123779
+23,2016-01-18 06:30:00,"WTI Crude declined 3.2% to settle at $30.44 a barrel, its lowest finish since Dec 1, 2003.",0.024714846163988113,0.9643646478652954,0.010920546017587185,negative,-0.9396498203277588
+24,2016-01-18 06:30:00,"However, energy shares still managed to end higher at the close.",0.9432117342948914,0.03340620920062065,0.023382000625133514,positive,0.9098055362701416
+25,2016-01-18 06:30:00,"Exxon Mobil and Chevron gained 2.1% and 1.7%, respectively.",0.9046549797058105,0.03915458545088768,0.05619049817323685,positive,0.8655003905296326
+26,2016-01-18 06:30:00,"The index lost 364.81 points or 2.2% on Wednesday, dragged lower by declining consumer discretionary and biotech stocks.",0.019283099099993706,0.9719433784484863,0.008773510344326496,negative,-0.9526602625846863
+27,2016-01-18 06:30:00,"Additionally, the continuing rout in oil prices had a negative impact on energy shares.",0.017592081800103188,0.9583489894866943,0.024058839306235313,negative,-0.9407569169998169
+28,2016-01-18 06:30:00,"The Dow ended the day lower, perilously close to its correction territory which is a drop of 10% or more from its 52-week high.",0.019669627770781517,0.970252275466919,0.010078102350234985,negative,-0.9505826234817505
+29,2016-01-18 06:30:00,Consumer stocks bore the brunt of the selling pressure on Wednesday.,0.14316725730895996,0.6857600212097168,0.17107267677783966,negative,-0.5425927639007568
+30,2016-01-18 06:30:00,"The Walt Disney Co. ( DIS ) and The Home Depot, Inc. ( HD ) decreased 2.9% and 4.8%, respectively.",0.02002323977649212,0.9666528105735779,0.013323914259672165,negative,-0.9466295838356018
+31,2016-01-18 06:30:00,Rise in crude stockpiles along with jump in gasoline and distillate supplies had a negative impact on Brent Crude.,0.018139595165848732,0.9638295769691467,0.01803082413971424,negative,-0.9456899762153625
+32,2016-01-18 06:30:00,"However, U.S. crude price increased for the first time in the last eight trading sessions.",0.894814133644104,0.0481693372130394,0.05701649934053421,positive,0.8466448187828064
+33,2016-01-18 06:30:00,The decline in Brent Crude had an adverse impact on energy shares.,0.02101399004459381,0.9578875303268433,0.02109850011765957,negative,-0.9368735551834106
+34,2016-01-18 06:30:00,Shares of Chevron lost 1%.,0.019388265907764435,0.9636138081550598,0.016997888684272766,negative,-0.944225549697876
+35,2016-01-18 06:30:00,"The index gained 1.4% or 227.64 points on Thursday, boosted by a strong rebound in crude prices.",0.9481893181800842,0.026024706661701202,0.02578604221343994,positive,0.9221646189689636
+36,2016-01-18 06:30:00,WTI and Brent Crude gained 2.4% each to settle above $31 per barrel.,0.933840811252594,0.0362882986664772,0.02987084910273552,positive,0.897552490234375
+37,2016-01-18 06:30:00,Energy stocks led the gainers for the day after crude prices rebounded from their lowest levels in 12 years.,0.7679405808448792,0.12758849561214447,0.10447098314762115,positive,0.6403520703315735
+38,2016-01-18 06:30:00,"Chevron and Exxon Mobil gained 5.1% and 4.6%, respectively.",0.9151737689971924,0.03750653192400932,0.047319743782281876,positive,0.877667248249054
+39,2016-01-18 06:30:00,The dollar moved upward following gains in broader markets.,0.9227983355522156,0.03184402734041214,0.04535761475563049,positive,0.890954315662384
+40,2016-01-18 06:30:00,"Additionally, the St. Louis Fed President James Bullard said that achieving the target rate on inflation may take some time.",0.5839298963546753,0.028999509289860725,0.38707056641578674,positive,0.5549303889274597
+41,2016-01-18 06:30:00,These events bolstered those investors who were hoping for a slower pace of rate hikes.,0.8883285522460938,0.032542601227760315,0.07912884652614594,positive,0.8557859659194946
+42,2016-01-18 06:30:00,"Meanwhile, Dow component JPMorgan Chase & Co. ( JPM ) reported encouraging results, leading to optimism about upcoming earnings.",0.9432849884033203,0.023662762716412544,0.033052314072847366,positive,0.9196222424507141
+43,2016-01-18 06:30:00,"JPMorgan reported fourth quarter earnings per share of $1.32 per share, which beat the Zacks Consensus Estimate of $1.26.",0.9359620809555054,0.03515125438570976,0.028886664658784866,positive,0.9008108377456665
+44,2016-01-18 06:30:00,Earnings increased 10.9% from the year-ago figure of $1.19.,0.957892656326294,0.023118358105421066,0.018988987430930138,positive,0.9347742795944214
+45,2016-01-18 06:30:00,Results were affected by weak trading and asset management.,0.016662275418639183,0.9645031690597534,0.01883464679121971,negative,-0.9478408694267273
+46,2016-01-18 06:30:00,"However, an increase in revenues and fall in expenditures helped earnings to increase on a year-over-year basis.",0.9538919925689697,0.023799899965524673,0.022308167070150375,positive,0.9300920963287354
+47,2016-01-18 06:30:00,"Managed net revenue for the quarter came in at $23.7 billion, higher than the Zacks Consensus Estimate of $23.1 billion.",0.942891538143158,0.0255176592618227,0.03159070387482643,positive,0.9173738956451416
+48,2016-01-18 06:30:00,This is 1% higher than the figure reported a year earlier.,0.9291160702705383,0.02318148873746395,0.04770250618457794,positive,0.9059345722198486
+49,2016-01-18 06:30:00,The increase was primarily a result of higher revenues from Corporate and Consumer and Community Banking.,0.9291649460792542,0.01437334343791008,0.05646176636219025,positive,0.9147915840148926
+50,2016-01-18 06:30:00,Non-interest expense declined 7% from the year-ago period to $14.3 billion.,0.03302433341741562,0.958388090133667,0.008587622083723545,negative,-0.9253637790679932
+51,2016-01-18 06:30:00,This was a result of a fall in compensation and legal expenses.,0.01673625037074089,0.960191547870636,0.02307223156094551,negative,-0.9434552788734436
+52,2016-01-18 06:30:00,"Intel Corp. ( INTC ) reported fourth quarter earnings per share of 74 cents, higher than the Zacks Consensus Estimate of 63 cents.",0.946161687374115,0.02607077546417713,0.027767516672611237,positive,0.920090913772583
+53,2016-01-18 06:30:00,"Revenues came in at $14.9 billion, ahead of the Zacks Consensus Estimate of $14.8 billion.",0.7080175876617432,0.05289371684193611,0.23908868432044983,positive,0.6551238894462585
+54,2016-01-18 06:30:00,"However, shares declined 3% following the release of earnings numbers in after-market trading.",0.02678671106696129,0.9530215263366699,0.020191680639982224,negative,-0.9262348413467407
+55,2016-01-18 06:30:00,Gross margin declined to 64.3% from 65.4% reported in the year-ago quarter.,0.017992407083511353,0.9740455746650696,0.007961992174386978,negative,-0.9560531377792358
+56,2016-01-18 06:30:00,"Currently, Intel expects a gross margin of 58% for the first quarter of 2016.",0.2512432038784027,0.011091538704931736,0.7376652359962463,neutral,0.24015165865421295
+57,2016-01-18 06:30:00,This will amount to 62% after excluding certain items.,0.030476296320557594,0.007240936625748873,0.9622828364372253,neutral,0.02323536016047001
+58,2016-01-18 06:30:00,Intel's enterprise business registered better-than-expected performance.,0.9457218050956726,0.03383956477046013,0.020438676699995995,positive,0.911882221698761
+59,2016-01-18 06:30:00,"Sales from PCs came in at $8.8 billion, also exceeding expectations.",0.9419782161712646,0.02244376763701439,0.035577982664108276,positive,0.91953444480896
+60,2016-01-18 06:30:00,"However, data center numbers were disappointing.",0.019961653277277946,0.9513967633247375,0.02864152193069458,negative,-0.9314351081848145
+61,2016-01-18 06:30:00,"Revenues from the Data Center business came in at $4.3 billion, lower than the estimated figure of $4.4 billion.",0.017205052077770233,0.9664017558097839,0.016393151134252548,negative,-0.9491966962814331
+62,2016-01-18 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+63,2016-01-18 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+64,2016-01-18 06:30:00,"Click to get this free report >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.0735531821846962,0.005182236898690462,0.9212645888328552,neutral,0.06837094575166702
+65,2016-01-18 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+66,2016-01-18 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+67,2016-01-18 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+68,2016-01-18 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+69,2016-01-18 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+70,2016-01-18 06:30:00,Find out What is happening in the stock market today on zacks.com.,0.01665451191365719,0.01796547882258892,0.9653800129890442,neutral,-0.0013109669089317322
+71,2016-01-18 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+72,2016-01-18 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+73,2016-01-18 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+74,2016-01-18 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

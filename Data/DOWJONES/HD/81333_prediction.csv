@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-08 04:47:00,Investing in retail has become an act fraught with risks.,0.0532049722969532,0.49856895208358765,0.44822603464126587,negative,-0.44536396861076355
+1,2019-03-08 04:47:00,Online competitors have taken significant market share from legacy brick-and-mortar locations and fickle consumers often leave retailers scrambling to keep up.,0.0342538021504879,0.9215484857559204,0.04419771954417229,negative,-0.8872947096824646
+2,2019-03-08 04:47:00,"One of the few constants is Home Depot Inc. (NYSE: HD) , which has consistently ranked as one of the best retail investments of the past few decades.",0.7066871523857117,0.014301273040473461,0.2790115475654602,positive,0.6923858523368835
+3,2019-03-08 04:47:00,"Unsurprisingly, this didn't change when the home improvement gian t report ed its fourth-quarter and full-year results late last month.",0.08843252062797546,0.07976642996072769,0.8318010568618774,neutral,0.008666090667247772
+4,2019-03-08 04:47:00,"In Q4, Home Depot's sales rose to $26.5 billion, a 10.9% increase year over year, and earnings per share (EPS) grew to $2.09, a 37.5% increase year over year.",0.9567035436630249,0.020612012594938278,0.022684432566165924,positive,0.9360915422439575
+5,2019-03-08 04:47:00,"Comparable store sales , one of the most important metrics when measuring retail stores, increased 3.7% in U.S. locations.",0.9500274062156677,0.022936450317502022,0.027036156505346298,positive,0.9270909428596497
+6,2019-03-08 04:47:00,"The secret to Home Depot's success is that it is constantly innovating, finding ways to sell home improvement products better and more efficiently than its competitors.",0.8861517906188965,0.014149101451039314,0.09969916194677353,positive,0.8720026612281799
+7,2019-03-08 04:47:00,"When the first stores opened in Georgia, the company fearlessly rolled out the big-box store footprint, something that had not been done before in the space.",0.49249666929244995,0.012974720448255539,0.4945286214351654,neutral,0.4795219600200653
+8,2019-03-08 04:47:00,"These days the company's innovation is found in the ways it is developing an omnichannel retail approach, one that combines the best of physical store locations as well as new digital experiences.",0.5829035639762878,0.010354098863899708,0.4067423641681671,positive,0.5725494623184204
+9,2019-03-08 04:47:00,"The company refers to this as "" One Home Depot ,"" a constant reminder that the physical and digital worlds cannot be compartmentalized or separated because, in the eyes of customers, it is just ""one"" experience.",0.0331498458981514,0.03170112520456314,0.9351489543914795,neutral,0.0014487206935882568
+10,2019-03-08 04:47:00,"In the company's conference call, CEO Craig Menear stated:
+
+The One effort begins with a seamless online shopping experience for Home Depot customers.",0.38751181960105896,0.007863372564315796,0.6046248078346252,neutral,0.37964844703674316
+11,2019-03-08 04:47:00,"This past year, the company invested in its site's search capabilities, functionality, and mobile app.",0.8695544004440308,0.011692727915942669,0.11875280737876892,positive,0.8578616976737976
+12,2019-03-08 04:47:00,"Most importantly, however, the company began a unique online experience for its Pro customers , designed to offer a more personalized website visit for Pros.",0.6026682257652283,0.01017212588340044,0.3871596157550812,positive,0.5924960970878601
+13,2019-03-08 04:47:00,"This year, more than 100,000 Pro customers were onboarded onto the new Pro site.",0.3654315173625946,0.013922151178121567,0.6206463575363159,neutral,0.35150936245918274
+14,2019-03-08 04:47:00,"After listening to customer feedback, management expects to roll out more features in 2019, including enhanced account management and ordering capabilities.",0.6788036227226257,0.010058900341391563,0.31113752722740173,positive,0.6687447428703308
+15,2019-03-08 04:47:00,The company expects to roll out the new online Pro website to 1 million customers in 2019.,0.33970725536346436,0.007301027420908213,0.6529916524887085,neutral,0.332406222820282
+16,2019-03-08 04:47:00,The investments by Home Depot in its digital properties appear to be working.,0.8174114227294922,0.013222240842878819,0.16936637461185455,positive,0.8041892051696777
+17,2019-03-08 04:47:00,"In 2018, online sales grew 24.1% year over year, and now represent 7.9% of the company's overall sales.",0.8869954943656921,0.013272684067487717,0.09973181039094925,positive,0.8737227916717529
+18,2019-03-08 04:47:00,"Of course, One Home Depot doesn't end in the digital realm -- it is also about making shopping trips at its physical locations better as well.",0.09549471735954285,0.011331399902701378,0.89317387342453,neutral,0.08416331559419632
+19,2019-03-08 04:47:00,"Menear said, ""We fundamentally believe that when a customer comes to one of our stores, it has to be a great experience.""",0.5384454131126404,0.0127332778647542,0.4488212764263153,positive,0.5257121324539185
+20,2019-03-08 04:47:00,"Consistent with this belief, U.S. locations are being given an updated look, a process that has been completed in about 40% of domestic stores.",0.5236860513687134,0.011763746850192547,0.46455028653144836,positive,0.511922299861908
+21,2019-03-08 04:47:00,"Even as online sales grow, digital shoppers aren't abandoning the physical stores and, currently, about 50% of all online orders are now picked up in store.",0.05001206696033478,0.12515896558761597,0.8248289823532104,neutral,-0.07514689862728119
+22,2019-03-08 04:47:00,"Menear called this ""a testament to the power of our interconnected retail strategy.""",0.8406980037689209,0.011804779060184956,0.1474972516298294,positive,0.82889324426651
+23,2019-03-08 04:47:00,"One of the primary drivers of this trend is that about 1,000 stores have been outfitted with lockers, where items ordered online can be picked up by customers.",0.12241286039352417,0.021374572068452835,0.8562125563621521,neutral,0.10103829205036163
+24,2019-03-08 04:47:00,An incredible 94% of customers who utilized this feature rated it with five out of five stars.,0.7188369035720825,0.025198305025696754,0.2559647560119629,positive,0.6936386227607727
+25,2019-03-08 04:47:00,A satisfactory digital experience is not complete until the items ordered are delivered quickly and safely to the end customer.,0.037348538637161255,0.021697301417589188,0.9409541487693787,neutral,0.015651237219572067
+26,2019-03-08 04:47:00,"In 2018, Home Depot kicked off its $1.2 billion campaign to improve its already-good delivery and fulfillment capabilities; the company expects its rollout of these enhanced capabilities to be complete by 2022.",0.9309223890304565,0.01368110254406929,0.05539649724960327,positive,0.9172412753105164
+27,2019-03-08 04:47:00,"During the conference call, Marc Brown, senior vice president of store operations, gave an update on the progress the company was making on these efforts:
+
+Home Depot continues to make strides in its truly omnichannel approach to increasing sales.",0.9260313510894775,0.012473514303565025,0.061495132744312286,positive,0.9135578274726868
+28,2019-03-08 04:47:00,"By embracing the ""One"" approach, Home Depot has ensured it is strategically aligned with the times and consumers' desire to be able to shop whenever and however they want.",0.613031268119812,0.010751725174486637,0.37621694803237915,positive,0.602279543876648
+29,2019-03-08 04:47:00,"This approach prioritizes customer satisfaction, a surefire way to win in retail.",0.661584198474884,0.013865233398973942,0.3245505690574646,positive,0.6477189660072327
+30,2019-03-08 04:47:00,"At the end of the day, as long as Home Depot continues to get that ""one"" thing right, it should continue to provide investors with market-beating returns.",0.9048874378204346,0.018433568999171257,0.07667897641658783,positive,0.8864538669586182
+31,2019-03-08 04:47:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+32,2019-03-08 04:47:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+33,2019-03-08 04:47:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+34,2019-03-08 04:47:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2019-03-08 04:47:00,Matthew Cochrane owns shares of Home Depot.,0.01717401295900345,0.012066550552845001,0.9707594513893127,neutral,0.005107462406158447
+36,2019-03-08 04:47:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+37,2019-03-08 04:47:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+38,2019-03-08 04:47:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

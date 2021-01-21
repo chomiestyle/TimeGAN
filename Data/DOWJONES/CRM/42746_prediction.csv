@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-01 09:48:00,"Among the underlying components of the S&P 500 index, we saw noteworthy options trading volume today in Pfizer Inc (Symbol: PFE), where a total of 128,885 contracts have traded so far, representing approximately 12.9 million underlying shares.",0.30421870946884155,0.023109853267669678,0.6726714372634888,neutral,0.2811088562011719
+1,2020-06-01 09:48:00,That amounts to about 57.2% of PFE's average daily trading volume over the past month of 22.5 million shares.,0.020692452788352966,0.010089832358062267,0.9692176580429077,neutral,0.010602620430290699
+2,2020-06-01 09:48:00,"Especially high volume was seen for the $36 strike call option expiring June 19, 2020, with 4,516 contracts trading so far today, representing approximately 451,600 underlying shares of PFE.",0.3122870922088623,0.01283087208867073,0.6748819947242737,neutral,0.2994562089443207
+3,2020-06-01 09:48:00,"Below is a chart showing PFE's trailing twelve month trading history, with the $36 strike highlighted in orange:
+
+Campbell Soup Co (Symbol: CPB) saw options trading volume of 13,703 contracts, representing approximately 1.4 million underlying shares or approximately 55.5% of CPB's average daily trading volume over the past month, of 2.5 million shares.",0.01951626129448414,0.014219507575035095,0.9662641882896423,neutral,0.005296753719449043
+4,2020-06-01 09:48:00,"Particularly high volume was seen for the $44 strike put option expiring June 05, 2020, with 1,364 contracts trading so far today, representing approximately 136,400 underlying shares of CPB.",0.2372421771287918,0.009761213324964046,0.7529966235160828,neutral,0.2274809628725052
+5,2020-06-01 09:48:00,"Below is a chart showing CPB's trailing twelve month trading history, with the $44 strike highlighted in orange:
+
+And Salesforce.com Inc (Symbol: CRM) saw options trading volume of 36,671 contracts, representing approximately 3.7 million underlying shares or approximately 51.5% of CRM's average daily trading volume over the past month, of 7.1 million shares.",0.019430052489042282,0.013768221251666546,0.9668017625808716,neutral,0.005661831237375736
+6,2020-06-01 09:48:00,"Especially high volume was seen for the $135 strike call option expiring August 21, 2020, with 6,003 contracts trading so far today, representing approximately 600,300 underlying shares of CRM.",0.35260000824928284,0.01237928494811058,0.6350206732749939,neutral,0.34022071957588196
+7,2020-06-01 09:48:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $135 strike highlighted in orange:
+
+For the various different available expirations for PFE options, CPB options, or CRM options, visit StockOptionsChannel.com.",0.009690935723483562,0.0275246761739254,0.962784469127655,neutral,-0.017833739519119263
+8,2020-06-01 09:48:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-02 01:12:00,It has been about a month since the last earnings report for Salesforce.com IncCRM .,0.02795524150133133,0.7650263905525208,0.20701836049556732,negative,-0.73707115650177
+1,2018-04-02 01:12:00,Shares have lost about 2.6% in that time frame.,0.017567871138453484,0.9697076082229614,0.01272449642419815,negative,-0.9521397352218628
+2,2018-04-02 01:12:00,"Will the recent negative trend continue leading up to its next earnings release, or is CRM due for a breakout?",0.06437709182500839,0.15347249805927277,0.7821504473686218,neutral,-0.08909540623426437
+3,2018-04-02 01:12:00,"Before we dive into how investors and analysts have reacted as of late, let's take a quick look at its most recent earnings report in order to get a better handle on the important catalysts.",0.037377968430519104,0.008087221533060074,0.9545347690582275,neutral,0.02929074689745903
+4,2018-04-02 01:12:00,"Salesforce reported fourth-quarter fiscal 2018 non-GAAP earnings of 35 cents per share, which beat the Zacks Consensus Estimate by a couple of cents and came ahead of the guided range of 32-33 cents.",0.9248460531234741,0.038129840046167374,0.03702408820390701,positive,0.8867161870002747
+5,2018-04-02 01:12:00,The figure jumped 25% primarily driven by strong top-line growth.,0.9499162435531616,0.02358207292854786,0.026501592248678207,positive,0.9263341426849365
+6,2018-04-02 01:12:00,Revenues of $2.85 billion increased 24.3% year over year and surpassed the Zacks Consensus Estimate of $2.81 billion.,0.9570068120956421,0.01950329914689064,0.023489907383918762,positive,0.9375035166740417
+7,2018-04-02 01:12:00,"Furthermore, revenues came above the guided range of $2.80-$2.81 billion.",0.8537136912345886,0.024658456444740295,0.12162786722183228,positive,0.8290552496910095
+8,2018-04-02 01:12:00,Revenues grew 21% at constant currency (cc).,0.9234980940818787,0.014682227745652199,0.0618196465075016,positive,0.908815860748291
+9,2018-04-02 01:12:00,The improvement can be primarily attributable to rapid adoption of the company's cloud-based solutions.,0.884056806564331,0.011855397373437881,0.10408780723810196,positive,0.8722013831138611
+10,2018-04-02 01:12:00,"Now, coming to its business segments, revenues at Subscription and Support increased about 25.8% from the year-ago quarter to $2.66 billion.",0.9552132487297058,0.01723303832113743,0.02755380980670452,positive,0.9379802346229553
+11,2018-04-02 01:12:00,Professional Services and Other revenues climbed 6.9% to $193.7 million.,0.9474964737892151,0.02583138644695282,0.026672085747122765,positive,0.9216650724411011
+12,2018-04-02 01:12:00,"Sales Cloud, Service Cloud, Platform and other and Marketing & Commerce Cloud grew 16%, 28%, 37% and 33%, respectively.",0.939659595489502,0.01973683573305607,0.04060358926653862,positive,0.9199227690696716
+13,2018-04-02 01:12:00,"Geographically, the company witnessed revenue growth of 19%, 31% and 26% at constant currency (cc) in the Americas, Europe and Asia Pacific, respectively, on a year-over-year basis.",0.9486621022224426,0.013815843500196934,0.03752203658223152,positive,0.9348462820053101
+14,2018-04-02 01:12:00,Customer adoption improved in the quarter.,0.9490153789520264,0.017373403534293175,0.0336112417280674,positive,0.9316419959068298
+15,2018-04-02 01:12:00,"Of the top 10 customers up for renewal in the quarter, eight expanded their relationship with Salesforce.",0.8939282298088074,0.016159307211637497,0.08991239964962006,positive,0.8777689337730408
+16,2018-04-02 01:12:00,The number of deals worth more than $1 million grew 43% in the quarter.,0.943449854850769,0.017783230170607567,0.038766901940107346,positive,0.9256666302680969
+17,2018-04-02 01:12:00,Average deal size continued to expand.,0.7113639116287231,0.010555310174822807,0.2780807912349701,positive,0.700808584690094
+18,2018-04-02 01:12:00,"Salesforce's clientele also expanded with the addition of Siemens, ABB, Deutsche Bahn, BBVA, and Alphabet Google during the quarter.",0.9025225639343262,0.012650691904127598,0.08482683449983597,positive,0.8898718953132629
+19,2018-04-02 01:12:00,Salesforce is also aggressively penetrating varied industries like financial services and healthcare.,0.21374724805355072,0.006157076917588711,0.7800956964492798,neutral,0.20759017765522003
+20,2018-04-02 01:12:00,"During the quarter, the company expanded relationships with TD Bank, Pacific Life, Mass Mutual, Anthem and Cancer Treatment Centers of America.",0.9368273615837097,0.013721807859838009,0.049450818449258804,positive,0.9231055378913879
+21,2018-04-02 01:12:00,"The company's ecosystem continues to expand, with 55% of new business generated from partners like Dell, IBM and Amazon.",0.9001832604408264,0.011965367943048477,0.08785134553909302,positive,0.8882178664207458
+22,2018-04-02 01:12:00,The new strategic partnership with Google will connect Salesforce with Google Cloud and Google Analytics.,0.775985062122345,0.011617982760071754,0.21239693462848663,positive,0.7643671035766602
+23,2018-04-02 01:12:00,The partnership with Amazon Web Services (AWS) has been helping Salesforce expand its international operations in countries like Australia and Canada.,0.9439917206764221,0.01587672531604767,0.040131449699401855,positive,0.9281150102615356
+24,2018-04-02 01:12:00,"Earlier, the company used to run its software at its own data centers, which was curbing its growth potential.",0.02404155395925045,0.8998972177505493,0.07606121897697449,negative,-0.8758556842803955
+25,2018-04-02 01:12:00,"However, the company decided to utilize the AWS data center's geographical reach to expand its international business.",0.9096010327339172,0.012789538130164146,0.07760944962501526,positive,0.8968114852905273
+26,2018-04-02 01:12:00,"In addition, Salesforce plans to invest about $400 million on AWS' cloud platform over the next four years.",0.339250773191452,0.006724562030285597,0.6540246605873108,neutral,0.33252620697021484
+27,2018-04-02 01:12:00,"Salesforce's non-GAAP gross profit came in at $2.18 billion, up 25.4% from the year-ago quarter.",0.9586385488510132,0.02394178882241249,0.017419612035155296,positive,0.9346967339515686
+28,2018-04-02 01:12:00,"Gross margin expanded 70 basis points (bps) to 76.6%, primarily owing to solid revenue growth.",0.9599055647850037,0.020394494757056236,0.019699936732649803,positive,0.9395110607147217
+29,2018-04-02 01:12:00,Non-GAAP operating expenses increased 24.5% year over year to $1.80 billion.,0.9545195698738098,0.02705284394323826,0.018427614122629166,positive,0.9274667501449585
+30,2018-04-02 01:12:00,"As a percentage of revenues, operating expenses increased 10 bps to 63.1%.",0.9574059247970581,0.020790278911590576,0.02180384285748005,positive,0.9366156458854675
+31,2018-04-02 01:12:00,The increase in expenses was due to higher commissions and other selling-related expenses.,0.8026472926139832,0.07435798645019531,0.12299475818872452,positive,0.7282893061637878
+32,2018-04-02 01:12:00,"Management stated that selling costs increased due to accelerated hiring of sales people, international expansion and continuing investments in new businesses.",0.9424678087234497,0.031031141057610512,0.026501117274165154,positive,0.9114366769790649
+33,2018-04-02 01:12:00,"Salesforce posted non-GAAP operating income of $384.4 million, up 30.2% year over year.",0.9564163088798523,0.019131334498524666,0.024452297016978264,positive,0.9372849464416504
+34,2018-04-02 01:12:00,Operating margin expanded 60 bps to 13.5% driven by an improved gross margin base and lower operating expenses as a percentage of revenues.,0.9559829831123352,0.025932246819138527,0.01808476634323597,positive,0.9300507307052612
+35,2018-04-02 01:12:00,"Salesforce exited the quarter with cash, cash equivalents and marketable securities of $4.52 billion compared with $3.63 billion in the previous quarter.",0.5346640348434448,0.36252298951148987,0.1028130054473877,positive,0.17214104533195496
+36,2018-04-02 01:12:00,"As of Jan 31, 2018, total deferred revenues were $7.09 billion, up 28% on a year-over-year basis (25% at cc).",0.9389573335647583,0.015560916624963284,0.04548175632953644,positive,0.9233964085578918
+37,2018-04-02 01:12:00,Unbilled deferred revenues surged 48% to $13.3 billion.,0.9497084021568298,0.02176612615585327,0.028525525704026222,positive,0.9279422760009766
+38,2018-04-02 01:12:00,Salesforce generated operating cash flow of $2.74 billion and free cash flow of $913.6 million.,0.08596465736627579,0.012201805599033833,0.9018334746360779,neutral,0.07376284897327423
+39,2018-04-02 01:12:00,"For first-quarter fiscal 2019, revenues are projected between $2.925 billion and $2.935 billion, an increase of 23% year over year.",0.9451630115509033,0.01748739555478096,0.03734961524605751,positive,0.9276756048202515
+40,2018-04-02 01:12:00,Non-GAAP earnings are expected in the range of 43-44 cents per share.,0.027919959276914597,0.011089863255620003,0.9609901309013367,neutral,0.016830096021294594
+41,2018-04-02 01:12:00,Deferred revenues are anticipated to increase in the range of 23-24% year over year.,0.9293106198310852,0.015230078250169754,0.055459342896938324,positive,0.9140805602073669
+42,2018-04-02 01:12:00,"For fiscal 2019, revenues are projected between $12.6 billion and $12.65 billion, an increase of 20-21% year over year.",0.9398864507675171,0.016641711816191673,0.04347182437777519,positive,0.9232447147369385
+43,2018-04-02 01:12:00,Operating margin is expected to expand 125-150 bps.,0.9512670040130615,0.016143815591931343,0.03258921951055527,positive,0.9351232051849365
+44,2018-04-02 01:12:00,Non-GAAP earnings are expected in the range of $2.02-$2.04 per share.,0.03118356503546238,0.009666888043284416,0.9591495990753174,neutral,0.021516676992177963
+45,2018-04-02 01:12:00,Operating cash flow is anticipated to increase in the range of 20-21% year over year.,0.9447440505027771,0.015715332701802254,0.039540693163871765,positive,0.9290286898612976
+46,2018-04-02 01:12:00,Capital expenditure is expected to be approximately 5% of revenues.,0.016306575387716293,0.008408969268202782,0.9752844572067261,neutral,0.007897606119513512
+47,2018-04-02 01:12:00,How Have Estimates Been Moving Since Then?,0.06062307208776474,0.0685529038310051,0.8708240389823914,neutral,-0.007929831743240356
+48,2018-04-02 01:12:00,"In the past month, investors have witnessed an upward trend in fresh estimates.",0.9349031448364258,0.022140199318528175,0.04295670986175537,positive,0.9127629399299622
+49,2018-04-02 01:12:00,There have been seven revisions higher for the current quarter.,0.3783455789089203,0.08933157473802567,0.5323228240013123,neutral,0.2890140116214752
+50,2018-04-02 01:12:00,"In the past month, the consensus estimate has shifted by 29.7% due to these changes.",0.22936519980430603,0.6349897980690002,0.13564497232437134,negative,-0.4056245982646942
+51,2018-04-02 01:12:00,"Salesforce.com Inc Price and Consensus | Salesforce.com Inc Quote
+
+Currently, CRM has a strong Growth Score of A, though it is lagging a bit on the momentum front with a B.",0.8900611996650696,0.07071632891893387,0.03922246769070625,positive,0.8193448781967163
+52,2018-04-02 01:12:00,"However, the stock was allocated a grade of F on the value side, putting it in the bottom 20% quintile for this investment strategy.",0.755096971988678,0.04410422593355179,0.20079874992370605,positive,0.7109927535057068
+53,2018-04-02 01:12:00,"Overall, the stock has an aggregate VGM Score of C. If you aren't focused on one strategy, this score is the one you should be interested in.",0.059765610843896866,0.00749919144436717,0.9327352046966553,neutral,0.05226641893386841
+54,2018-04-02 01:12:00,Our style scores indicate that the stock is more suitable for growth investors than momentum investors.,0.3795567452907562,0.008695549331605434,0.611747682094574,neutral,0.3708612024784088
+55,2018-04-02 01:12:00,Estimates have been trending upward for the stock and the magnitude of these revisions looks promising.,0.8550480604171753,0.016062382608652115,0.12888960540294647,positive,0.8389856815338135
+56,2018-04-02 01:12:00,It comes with little surprise CRM has a Zacks Rank #2 (Buy).,0.7614030838012695,0.03548450767993927,0.20311233401298523,positive,0.7259185910224915
+57,2018-04-02 01:12:00,We expect an above average return from the stock in the next few months.,0.8956185579299927,0.012759429402649403,0.09162198752164841,positive,0.8828591108322144
+58,2018-04-02 01:12:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+59,2018-04-02 01:12:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+60,2018-04-02 01:12:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+61,2018-04-02 01:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

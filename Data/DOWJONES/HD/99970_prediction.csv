@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-04-21 09:42:00,"In early trading on Monday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.3%.",0.9372950792312622,0.032012566924095154,0.03069242462515831,positive,0.9052824974060059
+1,2014-04-21 09:42:00,"Year to date, Home Depot has lost about 5.2% of its value.",0.017091574147343636,0.9541046023368835,0.02880387380719185,negative,-0.9370130300521851
+2,2014-04-21 09:42:00,"And the worst performing Dow component thus far on the day is Walt Disney ( DIS ), trading down 0.6%.",0.02096526138484478,0.9649974703788757,0.01403722818940878,negative,-0.9440321922302246
+3,2014-04-21 09:42:00,Walt Disney is showing a gain of 4.1% looking at the year to date performance.,0.9479870200157166,0.019859060645103455,0.03215399384498596,positive,0.9281279444694519
+4,2014-04-21 09:42:00,"Two other components making moves today are Intel ( INTC ), trading down 0.5%, and Pfizer ( PFE ), trading up 1.2% on the day.",0.03220559284090996,0.9336003065109253,0.03419412299990654,negative,-0.9013947248458862
+5,2014-04-21 09:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

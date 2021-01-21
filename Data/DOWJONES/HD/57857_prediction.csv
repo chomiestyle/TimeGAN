@@ -1,0 +1,70 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-12 06:12:00,"If you've never invested in individual stocks before, putting your hard-earned money in the market can be daunting.",0.07841292023658752,0.07366295903921127,0.8479241132736206,neutral,0.004749961197376251
+1,2020-02-12 06:12:00,But it doesn't have to be.,0.029065996408462524,0.020154405385255814,0.9507796168327332,neutral,0.00891159102320671
+2,2020-02-12 06:12:00,"Here's a simple recipe to create a portfolio that suits your tastes, five stock ideas to get you started, and some advice to begin your investing journey in the right direction.",0.10909700393676758,0.006634420715272427,0.8842685222625732,neutral,0.10246258229017258
+3,2020-02-12 06:12:00,Your first step should be to buy a core group of stocks that can anchor your financial future.,0.3213706612586975,0.007462358567863703,0.6711669564247131,neutral,0.31390830874443054
+4,2020-02-12 06:12:00,These should be well run companies with a proven track record.,0.7727310657501221,0.01133049838244915,0.21593841910362244,positive,0.761400580406189
+5,2020-02-12 06:12:00,"Think of these stocks like vanilla ice cream, the first recipe ingredient for your ice cream sundae portfolio.",0.06116845831274986,0.016395578160881996,0.922435998916626,neutral,0.04477287828922272
+6,2020-02-12 06:12:00,"Mastercard (NYSE: MA), Home Depot (NYSE: HD), and Starbucks (NASDAQ: SBUX) are household names, but what new investors may not know is that these stocks have been excellent investments.",0.6828107237815857,0.016140328720211983,0.30104896426200867,positive,0.6666703820228577
+7,2020-02-12 06:12:00,"Over the last decade, all three are soundly beating the S&P 500, a proxy for market returns.",0.895592451095581,0.025885889306664467,0.07852164655923843,positive,0.8697065711021423
+8,2020-02-12 06:12:00,These three companies have business models that help drive growth.,0.20956170558929443,0.005939092952758074,0.7844992280006409,neutral,0.20362260937690735
+9,2020-02-12 06:12:00,"Mastercard operates in 210 countries around the world and takes a cut every time cardholders swipe their credit card, over 108 billion times last year.",0.03989462926983833,0.8365913033485413,0.12351401895284653,negative,-0.796696662902832
+10,2020-02-12 06:12:00,Home Depot caters to the do-it-yourself homeowner and professionals who make a living building and repairing homes or office buildings.,0.019642965868115425,0.00729591166600585,0.9730610847473145,neutral,0.012347053736448288
+11,2020-02-12 06:12:00,"Its 2,290 stores in the U.S., Canada, and Mexico are expecting same-store sales growth of 4% in 2019 over the previous year.",0.9539227485656738,0.01744348555803299,0.028633659705519676,positive,0.9364792704582214
+12,2020-02-12 06:12:00,"Starbucks is recognized around the world for great coffee, but it's also become a place to meet with friends or colleagues outside of home or work.",0.42461952567100525,0.01382939238101244,0.561551034450531,neutral,0.4107901453971863
+13,2020-02-12 06:12:00,"The coffee giant pulled in $72 million dollars a day last quarter from its 31,795 stores.",0.26928478479385376,0.651509702205658,0.0792054757475853,negative,-0.3822249174118042
+14,2020-02-12 06:12:00,But the business model isn't the only thing you should look at.,0.029070906341075897,0.011931773275136948,0.958997368812561,neutral,0.01713913306593895
+15,2020-02-12 06:12:00,Consistent revenue and earnings growth are indications that growth in the stock will follow.,0.9388895034790039,0.013809694908559322,0.047300808131694794,positive,0.9250798225402832
+16,2020-02-12 06:12:00,Dividends are an added bonus.,0.4029868543148041,0.013714702799916267,0.5832985043525696,neutral,0.38927215337753296
+17,2020-02-12 06:12:00,Dividend payers need to have a stable and healthy cash flow to ensure quarterly dividend checks are consistently sent to shareholders.,0.4406340420246124,0.0125906215980649,0.5467753410339355,neutral,0.4280434250831604
+18,2020-02-12 06:12:00,"Home Depot and Starbucks have been paying dividends for 10 years, whereas Mastercard has been doing so for nine.",0.027316277846693993,0.01745419204235077,0.9552295207977295,neutral,0.009862085804343224
+19,2020-02-12 06:12:00,"Lastly, asking the question of whether these companies will be larger and more important 10 years from now is one more test before investing.",0.2032056748867035,0.010479257442057133,0.7863150835037231,neutral,0.19272641837596893
+20,2020-02-12 06:12:00,"These three check all the boxes for a foundational stock: consistent revenue and earnings growth, dividends, and the high likelihood each will be more valuable many years into the future.",0.537719190120697,0.011824053712189198,0.45045673847198486,positive,0.5258951187133789
+21,2020-02-12 06:12:00,"With a solid base of ""vanilla ice cream"" stocks, some investors would be happy to stop here.",0.3212551474571228,0.02340828627347946,0.6553365588188171,neutral,0.29784685373306274
+22,2020-02-12 06:12:00,But others may want to add some additional flavor.,0.08338207751512527,0.010416113771498203,0.9062018394470215,neutral,0.07296596467494965
+23,2020-02-12 06:12:00,Growth stocks are defined as those that are growing earnings or revenues faster than the market.,0.1401389241218567,0.006751187611371279,0.8531098961830139,neutral,0.1333877295255661
+24,2020-02-12 06:12:00,Some investors don't like the volatility and potential risk that can come with owning these stocks.,0.029860612004995346,0.41685760021209717,0.553281843662262,neutral,-0.3869969844818115
+25,2020-02-12 06:12:00,"But for those investors who like this kind of investment, adding in DocuSign (NASDAQ: DOCU) could be like adding hot fudge to your ice cream sundae.",0.08164051920175552,0.010175485163927078,0.9081840515136719,neutral,0.07146503031253815
+26,2020-02-12 06:12:00,"In 2003, DocuSign pioneered the e-signature, making paper and pen obsolete for documenting agreements.",0.17465634644031525,0.03095121681690216,0.794392466545105,neutral,0.14370512962341309
+27,2020-02-12 06:12:00,"Today it has over 562,000 customers and is expected to eclipse $962 million in revenue for its current fiscal year that ended Jan. 31.",0.6568835973739624,0.014326518401503563,0.3287898898124695,positive,0.6425570845603943
+28,2020-02-12 06:12:00,"As for growth, last quarter's revenue grew an impressive 40% year-over-year, which was an acceleration from the same quarter's growth a year ago of 37%.",0.9589640498161316,0.020403897389769554,0.020631961524486542,positive,0.9385601282119751
+29,2020-02-12 06:12:00,"Past growth doesn't always guarantee growth going forward, but the company sees plenty of opportunity ahead with an addressable market of $25 billion annually for its e-signature product.",0.7656341195106506,0.010731889866292477,0.2236340343952179,positive,0.7549022436141968
+30,2020-02-12 06:12:00,"Additionally, the company is automating the process of creating and managing agreements, which could bring in even more revenue.",0.9028220176696777,0.015284069813787937,0.08189384639263153,positive,0.887537956237793
+31,2020-02-12 06:12:00,"Vanilla ice cream with some hot fudge would satisfy most palates and be a perfectly good portfolio, but a few investors might like to add even more flavor.",0.3393236994743347,0.016176555305719376,0.6444997787475586,neutral,0.32314714789390564
+32,2020-02-12 06:12:00,"For those who want more
+
+Companies that are disrupting the status quo are known around the Motley Fool as Rule Breakers.",0.09417843073606491,0.4786454439163208,0.4271761476993561,negative,-0.3844670057296753
+33,2020-02-12 06:12:00,"One such company, Netflix, created incredible wealth for shareholders as it eliminated time-wasting trips to the video store for its customers.",0.8101571202278137,0.014547760598361492,0.1752951443195343,positive,0.7956093549728394
+34,2020-02-12 06:12:00,Not all these disruptors can make the jump to the mainstream and this investment could lose value.,0.022545332089066505,0.8829569816589355,0.09449765831232071,negative,-0.8604116439819336
+35,2020-02-12 06:12:00,"If this kind of risk-and-reward situation suits your temperament, Stitch Fix (NASDAQ: SFIX) could be the cherry to top your portfolio sundae.",0.4628947675228119,0.02149851620197296,0.515606701374054,neutral,0.44139623641967773
+36,2020-02-12 06:12:00,Founder and CEO Katrina Lake started the company to simplify the process of finding clothes that you love.,0.12874019145965576,0.006866444367915392,0.8643933534622192,neutral,0.12187374383211136
+37,2020-02-12 06:12:00,"With no retail stores, clients log in to their account and request ""a fix.""",0.03507276251912117,0.08625783771276474,0.8786694407463074,neutral,-0.05118507519364357
+38,2020-02-12 06:12:00,"Combining computer algorithms and over 90 data points from a client's style profile, stylists select a set of five clothing items to be shipped.",0.045529238879680634,0.006518671754747629,0.9479520916938782,neutral,0.03901056572794914
+39,2020-02-12 06:12:00,"Clients try on the items and ship back what they don't want and keep what they like, only paying for items they keep.",0.02079242840409279,0.01350281573832035,0.9657047986984253,neutral,0.007289612665772438
+40,2020-02-12 06:12:00,"Over 3.4 million men, women, and kids in the U.S. and the U.K. have ordered a fix in the last 12 months, and the process seems to be getting better over time.",0.7736278772354126,0.02047504112124443,0.20589706301689148,positive,0.7531528472900391
+41,2020-02-12 06:12:00,"For the last six quarters, revenue per active client has increased and the average active client spent $485 in the last 12 months on the platform.",0.9190481901168823,0.014283007942140102,0.06666881591081619,positive,0.9047651886940002
+42,2020-02-12 06:12:00,The company's long-term goals include revenue growth between 20% and 25% annually and being profitable at the same time.,0.7510825395584106,0.010978388600051403,0.23793911933898926,positive,0.7401041388511658
+43,2020-02-12 06:12:00,"For those who believe that there's a better way to sell clothes than in brick-and-mortar stores, this personalized online retailer may be for you.",0.08364792168140411,0.008040725253522396,0.9083113670349121,neutral,0.07560719549655914
+44,2020-02-12 06:12:00,"There you have it, a ""make your own"" sundae of stocks to start investing in 2020.",0.19205528497695923,0.010369931347668171,0.7975748181343079,neutral,0.18168535828590393
+45,2020-02-12 06:12:00,"Whether you are just a vanilla ice cream investor or you like to mix up your portfolio with extra flavor, this approach should get you started off right.",0.2541172504425049,0.00936785340309143,0.7365149259567261,neutral,0.24474939703941345
+46,2020-02-12 06:12:00,But there's one more thing new investors should understand.,0.08236613124608994,0.011310601606965065,0.906323254108429,neutral,0.07105553150177002
+47,2020-02-12 06:12:00,"A piece of advice for better returns
+
+Share prices change daily, sometimes considerably.",0.08904368430376053,0.06441028416156769,0.8465461134910583,neutral,0.02463340014219284
+48,2020-02-12 06:12:00,They also can experience periods of downturns that can last for months or even years.,0.03372728452086449,0.2680193781852722,0.6982533931732178,neutral,-0.23429208993911743
+49,2020-02-12 06:12:00,One way to ensure you realize the benefits of stock ownership is to hold for the long term.,0.16506601870059967,0.006809243466705084,0.8281247615814209,neutral,0.15825676918029785
+50,2020-02-12 06:12:00,"As someone new to investing, you would do well to take advice from one of the most successful investors of all time, Warren Buffett, who said, ""If you aren't willing to hold a stock for 10 years, you shouldn't hold it for 10 minutes.""",0.24448029696941376,0.042966026812791824,0.7125536799430847,neutral,0.20151427388191223
+51,2020-02-12 06:12:00,"It takes years for a company to build a customer base, hire talent, grow the business, and execute on its long-term strategy.",0.7437878847122192,0.01136945839971304,0.24484267830848694,positive,0.732418417930603
+52,2020-02-12 06:12:00,"If you give your investments the time to grow, you should be able to look back 10 or 20 years from now and be happy with the gains these holdings have made while you were busy doing other things.",0.5484172105789185,0.011983025819063187,0.43959978222846985,positive,0.5364341735839844
+53,2020-02-12 06:12:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+54,2020-02-12 06:12:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+55,2020-02-12 06:12:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+56,2020-02-12 06:12:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+57,2020-02-12 06:12:00,"Brian Withers owns shares of DocuSign, Mastercard, Netflix, Starbucks, and Stitch Fix.",0.022365454584360123,0.010536320507526398,0.9670982360839844,neutral,0.011829134076833725
+58,2020-02-12 06:12:00,"The Motley Fool owns shares of and recommends DocuSign, Mastercard, Netflix, Starbucks, and Stitch Fix.",0.02782045677304268,0.011270212940871716,0.960909366607666,neutral,0.01655024290084839
+59,2020-02-12 06:12:00,The Motley Fool recommends Home Depot and recommends the following options: long January 2021 $120 calls on Home Depot and short February 2020 $205 calls on Home Depot.,0.017827358096837997,0.02973451092839241,0.9524381160736084,neutral,-0.011907152831554413
+60,2020-02-12 06:12:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

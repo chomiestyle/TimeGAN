@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-12 06:15:00,Domo (NASDAQ: DOMO) has been a divisive stock since its IPO in mid-2018.,0.02413240820169449,0.9273034930229187,0.04856409505009651,negative,-0.9031710624694824
+1,2020-03-12 06:15:00,"The cloud analytics software provider went public at $21, more than doubled to the low $40s the following March, and subsequently tumbled back to the mid-teens.",0.22346803545951843,0.5560744404792786,0.2204575091600418,negative,-0.33260640501976013
+2,2020-03-12 06:15:00,"The bulls were initially impressed by the disruptive potential of Domo's platform, which provides visualized data on a mobile app, and its robust growth rates.",0.8658773899078369,0.028350697830319405,0.10577192157506943,positive,0.8375266790390015
+3,2020-03-12 06:15:00,"However, the bears noted Domo's growth was slowing, it was deeply unprofitable, and it faced fresh competition from tech giants like Salesforce (NYSE: CRM) and Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google.",0.04013613611459732,0.9106959700584412,0.04916790872812271,negative,-0.870559811592102
+4,2020-03-12 06:15:00,"Domo's recent fourth-quarter numbers didn't allay all those concerns, but they still cleared Wall Street's expectations.",0.7623648643493652,0.1291525810956955,0.1084824949502945,positive,0.6332122683525085
+5,2020-03-12 06:15:00,"Its revenue rose 17% annually to $46.2 million, beating estimates by $0.5 million.",0.9537807703018188,0.02314164489507675,0.023077648133039474,positive,0.9306391477584839
+6,2020-03-12 06:15:00,"Its non-GAAP net loss narrowed slightly from $25 million to $23.7 million, or $0.85 per share, which beat expectations by $0.11.",0.8278257846832275,0.14510132372379303,0.027072934433817863,positive,0.6827244758605957
+7,2020-03-12 06:15:00,Did those better-than-expected numbers prove the bears wrong?,0.1717069000005722,0.4435042440891266,0.38478878140449524,negative,-0.2717973589897156
+8,2020-03-12 06:15:00,Or does Domo still face a long uphill battle before it trades above its IPO price again?,0.5349966287612915,0.20394080877304077,0.2610625624656677,positive,0.33105581998825073
+9,2020-03-12 06:15:00,"Domo's growth in revenue and billings in the fourth quarter still marked its slowest growth rates since its IPO:
+
+Domo expects its revenue to rise 13%-15% annually in the first quarter, and 11%-14% for the full year.",0.9529379606246948,0.022236794233322144,0.024825282394886017,positive,0.9307011365890503
+10,2020-03-12 06:15:00,"It expects its net losses to narrow slightly for both periods, but it doesn't expect to generate a profit anytime soon.",0.38228029012680054,0.3142389953136444,0.30348068475723267,positive,0.06804129481315613
+11,2020-03-12 06:15:00,"Domo's slowdown suggests that it's running out of room to grow, and it could struggle to compete against bigger competitors like Salesforce's Tableau and Google's Looker.",0.06362759321928024,0.875706136226654,0.060666199773550034,negative,-0.8120785355567932
+12,2020-03-12 06:15:00,Salesforce and Google can both afford to bundle their similar data visualization services with other cloud services in more cost-efficient packages.,0.7749801278114319,0.014643646776676178,0.21037623286247253,positive,0.7603364586830139
+13,2020-03-12 06:15:00,"But its sticky ecosystem is still gaining big customers
+
+Domo frequently highlights its subscription services, which lock users into its ecosystem, as a benchmark of its long-term growth.",0.744653582572937,0.015546799637377262,0.23979970812797546,positive,0.7291067838668823
+14,2020-03-12 06:15:00,"Its subscription revenue rose 24% annually and accounted for 86% of its top line during the quarter, and its gross margin improved two percentage points annually to 76%.",0.9580645561218262,0.01880607195198536,0.023129353299736977,positive,0.9392584562301636
+15,2020-03-12 06:15:00,"Domo reported a gross retention rate of 91% during the quarter, up from 90% in the third quarter and 82% in the prior-year quarter.",0.9575855135917664,0.024066586047410965,0.01834789291024208,positive,0.9335189461708069
+16,2020-03-12 06:15:00,The percentage of customers signing multi-year contracts also rose from 38% at the time of its IPO to 55% today.,0.9510641098022461,0.01681547798216343,0.0321204848587513,positive,0.9342486262321472
+17,2020-03-12 06:15:00,"Those figures all indicate that Domo's ecosystem is incredibly sticky, and that it's carved out a defensible niche in the crowded cloud services market.",0.5417749881744385,0.1142193004488945,0.3440057039260864,positive,0.4275556802749634
+18,2020-03-12 06:15:00,"Domo also recently signed Amazon (NASDAQ: AMZN) as a major customer -- which wasn't surprising, since Jeff Bezos owns a personal stake in the company.",0.6886235475540161,0.014052048325538635,0.29732441902160645,positive,0.6745715141296387
+19,2020-03-12 06:15:00,"Domo reduced its GAAP operating expenses 4% annually during the fourth quarter, which narrowed its net loss and indicated that it wasn't breaking the bank to acquire new customers.",0.022438479587435722,0.9658411741256714,0.011720302514731884,negative,-0.9434027075767517
+20,2020-03-12 06:15:00,"Domo also isn't too heavily exposed to the coronavirus crisis, since its core business relies on remote cloud-based services.",0.033673327416181564,0.017586931586265564,0.948739767074585,neutral,0.016086395829916
+21,2020-03-12 06:15:00,"Domo trades at less than three times next year's revenue forecast, making it significantly cheaper than other cloud companies.",0.12566500902175903,0.4485853612422943,0.42574965953826904,negative,-0.3229203522205353
+22,2020-03-12 06:15:00,"Salesforce, for example, trades at roughly six times next year's sales.",0.2243199646472931,0.019444528967142105,0.7562354803085327,neutral,0.20487543940544128
+23,2020-03-12 06:15:00,Domo's low enterprise value of about $500 million also makes it a lucrative buyout target for tech giants like Amazon.,0.1018650010228157,0.5349539518356323,0.36318105459213257,negative,-0.4330889582633972
+24,2020-03-12 06:15:00,"Domo's stock is cheap for two main reasons: Investors generally prefer higher growth from small-cap stocks in the cloud services market, and it's unclear if Domo can withstand the competitive pressure from Salesforce, Google, and other tech titans.",0.6046894192695618,0.027486521750688553,0.36782407760620117,positive,0.5772029161453247
+25,2020-03-12 06:15:00,"Domo still hasn't proved the bears wrong yet, but its sticky ecosystem, improving margins, and buyout potential all suggest that its stock could still have room to run.",0.9374975562095642,0.023202816024422646,0.03929959610104561,positive,0.9142947196960449
+26,2020-03-12 06:15:00,"10 stocks we like better than Domo, Inc.",0.2192775309085846,0.021046534180641174,0.7596759796142578,neutral,0.19823099672794342
+27,2020-03-12 06:15:00,"When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12617750465869904,0.07430703938007355,0.799515426158905,neutral,0.05187046527862549
+28,2020-03-12 06:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+29,2020-03-12 06:15:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Domo, Inc. wasn't one of them!",0.19019688665866852,0.015859371051192284,0.7939437627792358,neutral,0.17433752119541168
+30,2020-03-12 06:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2020-03-12 06:15:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+32,2020-03-12 06:15:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+33,2020-03-12 06:15:00,Leo Sun owns shares of Amazon.,0.01416845340281725,0.009184857830405235,0.9766467213630676,neutral,0.004983595572412014
+34,2020-03-12 06:15:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), Amazon, and Salesforce.com.",0.01829075999557972,0.011644896119832993,0.9700643420219421,neutral,0.006645863875746727
+35,2020-03-12 06:15:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-08-05 07:25:00,Now that Yahoo!,0.09328000992536545,0.20341621339321136,0.7033037543296814,neutral,-0.11013620346784592
+1,2016-08-05 07:25:00,"Inc. (NASDAQ: YHOO ) and LinkedIn Corp (NYSE: LNKD ) are officially off the market, speculation that Twitter Inc (NYSE: TWTR ) will be the next big buyout is on the rise.",0.07076812535524368,0.5900891423225403,0.33914268016815186,negative,-0.5193210244178772
+2,2016-08-05 07:25:00,"When it comes to potential buyers, much of the speculation is about the usual suspects: Apple Inc (NASDAQ: AAPL ), Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ) and Facebook Inc (NASDAQ: FB ).",0.014098909683525562,0.016247311607003212,0.969653844833374,neutral,-0.0021484019234776497
+3,2016-08-05 07:25:00,"However, salesforce.com, inc. (NYSE: CRM ), International Business Machines Corp. (NYSE: IBM ) and News Corp (NASDAQ: NWSA ) could be three dark horse buyers that see TWTR as a good fit.",0.28291815519332886,0.02497868798673153,0.6921031475067139,neutral,0.2579394578933716
+4,2016-08-05 07:25:00,"Q2 earnings brought another revenue miss, downbeat forecast and market selloff for TWTR stock .",0.021014226600527763,0.9666540026664734,0.012331785634160042,negative,-0.9456397891044617
+5,2016-08-05 07:25:00,CNBC analyst Jim Cramer thinks it's time for Twitter to change direction completely.,0.19002431631088257,0.017655495554208755,0.7923202514648438,neutral,0.1723688244819641
+6,2016-08-05 07:25:00,Cramer told CNBC that he believes Twitter should bail on its current business model and switch to e-commerce.,0.2154964953660965,0.03487808629870415,0.7496253848075867,neutral,0.18061840534210205
+7,2016-08-05 07:25:00,"""They have to get out of this business.",0.06778174638748169,0.507073700428009,0.4251445531845093,negative,-0.43929195404052734
+8,2016-08-05 07:25:00,Go to transactions.,0.022100264206528664,0.013585706241428852,0.9643139839172363,neutral,0.008514557965099812
+9,2016-08-05 07:25:00,"This is a home run business,"" Cramer explained.",0.03098246268928051,0.007449077442288399,0.9615684747695923,neutral,0.02353338524699211
+10,2016-08-05 07:25:00,"• 10 Market Predictions for the Rest of 2016
+
+He suggested that CRM should buy Twitter and integrate it with a company that has products to sell.",0.28051337599754333,0.006984597072005272,0.7125020027160645,neutral,0.2735287845134735
+11,2016-08-05 07:25:00,"As a marketing and sales tool, Twitter's 313 million monthly active users could be very valuable to the right buyer.",0.5434137582778931,0.011798379942774773,0.444787859916687,positive,0.5316153764724731
+12,2016-08-05 07:25:00,Cramer believes that TWTR's only issue is that management can't figure out how to monetize their user base.,0.023115569725632668,0.3990250825881958,0.5778594017028809,neutral,-0.3759095072746277
+13,2016-08-05 07:25:00,He believes a combination with CRM would unlock true user value.,0.906038761138916,0.013915300369262695,0.0800459086894989,positive,0.8921234607696533
+14,2016-08-05 07:25:00,"News Corp (NWSA): The Next Generation Of News
+
+The News Corp buyout rumors have been circulating for a while now.",0.0316888764500618,0.012877392582595348,0.95543372631073,neutral,0.018811482936143875
+15,2016-08-05 07:25:00,"CNBC reported that NWSA was interested in acquiring Twitter back in January, but NWSA was quick to say that it was not pursuing a TWTR buyout.",0.04890890046954155,0.025126343593001366,0.9259647130966187,neutral,0.023782556876540184
+16,2016-08-05 07:25:00,It's easy to see why NWSA or another traditional media outlet would be interested in TWTR.,0.02521936222910881,0.011460657231509686,0.9633200168609619,neutral,0.013758704997599125
+17,2016-08-05 07:25:00,Social media has become the face of breaking news.,0.11879930645227432,0.48589786887168884,0.39530277252197266,negative,-0.3670985698699951
+18,2016-08-05 07:25:00,"In fact, traditional media outlets now scramble to be the first to report trending Twitter stories.",0.09958208352327347,0.033802423626184464,0.8666154742240906,neutral,0.0657796561717987
+19,2016-08-05 07:25:00,TWTR generated roughly $67 million in revenue in Q2 via data licensing.,0.15723496675491333,0.006507342215627432,0.8362576961517334,neutral,0.15072762966156006
+20,2016-08-05 07:25:00,News Corp or a number of other traditional media outlets would love to have exclusive access to that data.,0.14030775427818298,0.006059509702026844,0.8536327481269836,neutral,0.13424824178218842
+21,2016-08-05 07:25:00,The biggest problem with a potential NWSA merger is that NWSA's current market cap is only $7.6 billion.,0.025054803118109703,0.49594300985336304,0.4790021777153015,negative,-0.4708881974220276
+22,2016-08-05 07:25:00,Twitter's is $12.0 billion.,0.019379645586013794,0.006196338217705488,0.9744240641593933,neutral,0.013183306902647018
+23,2016-08-05 07:25:00,That means the price may have to get a bit lower before NWSA is willing to bite.,0.08688154071569443,0.4846028983592987,0.4285155236721039,negative,-0.3977213501930237
+24,2016-08-05 07:25:00,"If TWTR wants to convert to a big data production and sales company, IBM is the best in the business at gathering, analyzing and packaging data.",0.40501248836517334,0.009631678462028503,0.585355818271637,neutral,0.39538079500198364
+25,2016-08-05 07:25:00,"In fact, IMB has had a partnership with Twitter since 2014.",0.2963271141052246,0.008422892540693283,0.6952499747276306,neutral,0.2879042327404022
+26,2016-08-05 07:25:00,IBM pays for access to TWTR's data to integrate it into IBM business products.,0.12394064664840698,0.006094205193221569,0.8699651956558228,neutral,0.11784644424915314
+27,2016-08-05 07:25:00,"""Our data is useful, we need someone to come along and build value on top of it and combine it with other data sources,"" TWTR vice president of data strategy Chris Moody said of the IBM deal in 2014.",0.7031009793281555,0.010955318808555603,0.2859436571598053,positive,0.6921456456184387
+28,2016-08-05 07:25:00,"Is it just me, or does that sound like a pretty good pitch for a buyout as well?",0.18543867766857147,0.016959261149168015,0.7976020574569702,neutral,0.16847941279411316
+29,2016-08-05 07:25:00,One thing seems certain: TWTR would be a much easier pill to swallow for IBM than it would be for the other two dark horse candidates.,0.1544261872768402,0.08364753425121307,0.7619262933731079,neutral,0.07077865302562714
+30,2016-08-05 07:25:00,"IBM's market cap is $153 billion, and the company reported $10.6 billion of cash on hand at the end of Q2.",0.07953044772148132,0.012249689549207687,0.9082199335098267,neutral,0.06728075444698334
+31,2016-08-05 07:25:00,"As of this writing, Wayne Duggan did not hold a position in any of the aforementioned securities.",0.009373336099088192,0.026215266436338425,0.9644113183021545,neutral,-0.016841929405927658
+32,2016-08-05 07:25:00,"• 7 No-Name Tech Stocks That Will Make You Rich
+
+The post Twitter Inc: 3 Possible Dark Horse TWTR Buyers appeared first on InvestorPlace .",0.06380380690097809,0.01805494911968708,0.9181413054466248,neutral,0.04574885964393616
+33,2016-08-05 07:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-16 08:00:00,Here's the answer to the headline's question: The Home Depot (NYSE: HD) is a great dividend stock.,0.4368664026260376,0.011385621502995491,0.5517480373382568,neutral,0.42548078298568726
+1,2020-10-16 08:00:00,"Of course, ""great"" is a relative term; there are various ways to measure greatness.",0.03805765509605408,0.007861427031457424,0.9540809392929077,neutral,0.03019622713327408
+2,2020-10-16 08:00:00,"However, after scrutinizing Home Depot's dividend from multiple angles, it's truly better than most.",0.7775387167930603,0.029968226328492165,0.19249308109283447,positive,0.7475705146789551
+3,2020-10-16 08:00:00,Don't worry about the jargon now -- we'll define as we go.,0.11975492537021637,0.012525724247097969,0.8677193522453308,neutral,0.10722920298576355
+4,2020-10-16 08:00:00,"But Home Depot stock gives investors a good dividend yield, has a low payout ratio, and has opportunity for growth.",0.5971904993057251,0.036782048642635345,0.36602747440338135,positive,0.5604084730148315
+5,2020-10-16 08:00:00,That's why it's great and why dividend investors should give it a look.,0.20068617165088654,0.00991942547261715,0.7893943786621094,neutral,0.19076675176620483
+6,2020-10-16 08:00:00,Dividends are what you get paid as a shareholder.,0.02453407272696495,0.008990917354822159,0.9664750099182129,neutral,0.015543155372142792
+7,2020-10-16 08:00:00,"Dividend yield, however, contextualizes the payment.",0.021117758005857468,0.01145921554416418,0.9674230217933655,neutral,0.009658542461693287
+8,2020-10-16 08:00:00,Maybe two stocks both pay $1 per share annually -- the exact same dividend.,0.04447449371218681,0.032666705548763275,0.9228587746620178,neutral,0.011807788163423538
+9,2020-10-16 08:00:00,But one stock trades at $50 per share while the other trades at $100 per share.,0.017300928011536598,0.04034266248345375,0.9423564076423645,neutral,-0.023041734471917152
+10,2020-10-16 08:00:00,"The dividend yield of the former is 2%, while the yield of the latter is just 1%.",0.010634969919919968,0.03268716111779213,0.9566778540611267,neutral,-0.022052191197872162
+11,2020-10-16 08:00:00,"All other things being equal, one would obviously want the dividend with the higher yield.",0.09009592980146408,0.01654152013361454,0.8933625221252441,neutral,0.07355441153049469
+12,2020-10-16 08:00:00,Home Depot stock currently has a dividend yield of 2.1%.,0.02152174897491932,0.008757020346820354,0.9697211980819702,neutral,0.012764728628098965
+13,2020-10-16 08:00:00,"To be clear, there are higher-yielding dividend stocks out there.",0.4661131799221039,0.03065546602010727,0.5032313466072083,neutral,0.435457706451416
+14,2020-10-16 08:00:00,"For example, The Coca-Cola Company and Pfizer have yields exceeding 3% and 4% respectively.",0.16381271183490753,0.013406295329332352,0.8227810263633728,neutral,0.15040642023086548
+15,2020-10-16 08:00:00,"However, the current dividend yield average for the S&P 500 is just 1.7%.",0.01718727871775627,0.16389089822769165,0.8189218640327454,neutral,-0.14670361578464508
+16,2020-10-16 08:00:00,This means Home Depot's dividend yield is above average.,0.8746980428695679,0.01752653159201145,0.10777533799409866,positive,0.8571715354919434
+17,2020-10-16 08:00:00,The true value of a high-yield dividend stock comes from reinvesting dividends over the long haul.,0.17516015470027924,0.006954370066523552,0.8178854584693909,neutral,0.16820578277111053
+18,2020-10-16 08:00:00,"Brokerages can set this up to happen automatically, and it can greatly increase your overall return.",0.845260500907898,0.012644005008041859,0.14209549129009247,positive,0.8326165080070496
+19,2020-10-16 08:00:00,Just consider what would have happened if you had reinvested your Home Depot dividends over the last ten years.,0.02195890061557293,0.01410595141351223,0.963935136795044,neutral,0.0078529492020607
+20,2020-10-16 08:00:00,A high dividend yield is meaningless if the dividend has a reasonable risk of being reduced.,0.07416307926177979,0.331290602684021,0.5945463180541992,neutral,-0.2571275234222412
+21,2020-10-16 08:00:00,One way to assess a dividend's safety is by looking at the company's payout ratio.,0.03317069634795189,0.01092176791280508,0.9559075832366943,neutral,0.022248927503824234
+22,2020-10-16 08:00:00,This metric measures how much a company is paying in dividends relative to how much it's earning.,0.03137938678264618,0.009492174722254276,0.9591283798217773,neutral,0.021887212991714478
+23,2020-10-16 08:00:00,"The higher the payout ratio, the higher a percentage of earnings are being paid out as dividends.",0.4456024467945099,0.018131935968995094,0.5362656116485596,neutral,0.42747050523757935
+24,2020-10-16 08:00:00,Home Depot's payout ratio is a very comfortable 52% right now.,0.4147373139858246,0.013815230689942837,0.5714474320411682,neutral,0.40092208981513977
+25,2020-10-16 08:00:00,This gives it plenty of buffer if earnings fall unexpectedly.,0.43074190616607666,0.10893599689006805,0.4603221118450165,neutral,0.3218058943748474
+26,2020-10-16 08:00:00,"For example, many companies paused or canceled dividends this year because of the unanticipated COVID-19 pandemic.",0.01911359466612339,0.9398748874664307,0.04101158306002617,negative,-0.9207612872123718
+27,2020-10-16 08:00:00,"Notably, Home Depot was not one of those companies.",0.009862666949629784,0.02114907279610634,0.968988299369812,neutral,-0.011286405846476555
+28,2020-10-16 08:00:00,"Over the last ten years, Home Depot management has kept the payout ratio mostly between 40% and 50%.",0.03211837261915207,0.02424726076424122,0.9436343908309937,neutral,0.00787111185491085
+29,2020-10-16 08:00:00,"As earnings rise, it increases the dividend proportionately.",0.9337978959083557,0.014305047690868378,0.05189705267548561,positive,0.9194928407669067
+30,2020-10-16 08:00:00,"Because of this, investors can expect this dividend to continue being paid and even go up over time, as long as the company continues to grow earnings.",0.9067664742469788,0.013648676685988903,0.07958483695983887,positive,0.8931177854537964
+31,2020-10-16 08:00:00,Home Depot has been annually raising its dividend by a double-digit percentage for a decade.,0.8756693601608276,0.015930380672216415,0.10840021073818207,positive,0.8597390055656433
+32,2020-10-16 08:00:00,"In February the dividend was raised 10% to $1.50 per share per quarter, more than double what the company was paying out in 2016.",0.9517924785614014,0.017755713313817978,0.030451780185103416,positive,0.9340367913246155
+33,2020-10-16 08:00:00,"If it can continue at this pace, the dividend could double yet again in the next seven years.",0.9355620741844177,0.01915065385401249,0.04528730362653732,positive,0.9164113998413086
+34,2020-10-16 08:00:00,"In order to support dividend growth, Home Depot needs to continue growing earnings.",0.9350840449333191,0.014127166010439396,0.05078884959220886,positive,0.9209568500518799
+35,2020-10-16 08:00:00,The company has done this with ease over the last ten years.,0.5951234698295593,0.010755492374300957,0.3941210210323334,positive,0.5843679904937744
+36,2020-10-16 08:00:00,Earnings growth hasn't been a problem for Home Depot in 2020 either.,0.039296623319387436,0.6497321128845215,0.310971200466156,negative,-0.6104354858398438
+37,2020-10-16 08:00:00,Perhaps one of the surprising developments from the coronavirus was the growth of home-improvement retail.,0.4241207540035248,0.01214714627712965,0.5637320876121521,neutral,0.41197359561920166
+38,2020-10-16 08:00:00,Most commerce was hurt with people stuck at home.,0.025854142382740974,0.9588243961334229,0.015321465209126472,negative,-0.9329702258110046
+39,2020-10-16 08:00:00,"But according to data from the U.S. Census Bureau, sales in the building material, garden, and supplies category were up 11.4% year over year during the first eight months of 2020.",0.9505167603492737,0.01895836740732193,0.030524838715791702,positive,0.93155837059021
+40,2020-10-16 08:00:00,This trails only e-commerce and grocery-retail growth.,0.028244834393262863,0.02889847941696644,0.9428566694259644,neutral,-0.0006536450237035751
+41,2020-10-16 08:00:00,"As the top dog in the home-improvement space, Home Depot was a primary beneficiary of the consumer-behavior shift.",0.4992913603782654,0.040651749819517136,0.4600569009780884,positive,0.45863962173461914
+42,2020-10-16 08:00:00,Its sales were up 16% year over year through the first two quarters.,0.9552623629570007,0.018488755449652672,0.026248879730701447,positive,0.9367735981941223
+43,2020-10-16 08:00:00,Diluted earnings per share (EPS) increased 12.5% over that span.,0.9557153582572937,0.018308566883206367,0.025976086035370827,positive,0.9374067783355713
+44,2020-10-16 08:00:00,"However, growth in 2020 presents a revenue headwind heading into 2021.",0.019283626228570938,0.9646311402320862,0.016085222363471985,negative,-0.9453474879264832
+45,2020-10-16 08:00:00,It's possible some future sales were pulled forward; people had federal stimulus money and free time to knock projects off to-do lists.,0.5878260731697083,0.09037721902132034,0.3217967450618744,positive,0.4974488615989685
+46,2020-10-16 08:00:00,This could mean people are up to date with home repairs and will consequently spend less in coming quarters.,0.09390488266944885,0.6922077536582947,0.21388745307922363,negative,-0.5983028411865234
+47,2020-10-16 08:00:00,"That said, Home Depot could have an earnings tailwind going into next year.",0.020644772797822952,0.9499139189720154,0.029441386461257935,negative,-0.9292691349983215
+48,2020-10-16 08:00:00,The company has paid out $1.3 billion so far in 2020 in COVID-19-related labor expenses.,0.05035446211695671,0.7048867344856262,0.24475879967212677,negative,-0.654532253742218
+49,2020-10-16 08:00:00,"Therefore, it's possible its EPS could climb as one-time coronavirus costs fall, even if sales fall slightly in 2021.",0.8456591963768005,0.09950153529644012,0.054839231073856354,positive,0.7461576461791992
+50,2020-10-16 08:00:00,"Given its rich dividend history and compelling metrics, Home Depot stock should be high on dividend investors' lists.",0.8468701839447021,0.015451041981577873,0.13767880201339722,positive,0.8314191699028015
+51,2020-10-16 08:00:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+52,2020-10-16 08:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+53,2020-10-16 08:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+54,2020-10-16 08:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+55,2020-10-16 08:00:00,Jon Quast has no position in any of the stocks mentioned.,0.013242502696812153,0.07498593628406525,0.9117715358734131,neutral,-0.06174343451857567
+56,2020-10-16 08:00:00,The Motley Fool owns shares of and recommends Home Depot.,0.03095175139605999,0.017080701887607574,0.9519675970077515,neutral,0.013871049508452415
+57,2020-10-16 08:00:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

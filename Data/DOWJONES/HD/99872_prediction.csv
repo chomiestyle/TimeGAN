@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-19 23:30:00,"Lowe's Companies reported its fiscal second-quarter results on August 20, 2014.",0.023274751380085945,0.02049291878938675,0.9562323093414307,neutral,0.002781832590699196
+1,2014-08-19 23:30:00,"Sales, same-store sales, net earnings, diluted earnings per share, and guidance all showed decent year-over-year gains, while the company expressed optimism.",0.9361875057220459,0.03633934631943703,0.027473142370581627,positive,0.8998481631278992
+2,2014-08-19 23:30:00,"Lowe's even beat top- and bottom-line analyst estimates, but something about its outlook actually hints at unexpected weakness.",0.2459336221218109,0.7091856002807617,0.044880837202072144,negative,-0.4632519781589508
+3,2014-08-19 23:30:00,Let's take a closer look and see what long term investors can learn from the release.,0.07041388750076294,0.0057077594101428986,0.9238783121109009,neutral,0.06470613181591034
+4,2014-08-19 23:30:00,"At first glance, Lowe's delivered a solid quarter.",0.9302144646644592,0.020122608169913292,0.049662984907627106,positive,0.9100918769836426
+5,2014-08-19 23:30:00,Sales jumped 5.7% to $16.6 billion.,0.9424023628234863,0.02198196016252041,0.03561563417315483,positive,0.9204204082489014
+6,2014-08-19 23:30:00,Same-store sales popped 4.4%.,0.8690605759620667,0.07889894396066666,0.05204053595662117,positive,0.7901616096496582
+7,2014-08-19 23:30:00,"Net earnings increased 10.4% to $1.04 billion while earnings per diluted share leaped to $1.04, an increase of 18.2%.",0.9572097063064575,0.020196208730340004,0.022594021633267403,positive,0.9370135068893433
+8,2014-08-19 23:30:00,The results were a notch higher than the $16.55 billion in sales and $1.02 in EPS that analysts were expecting.,0.9456495046615601,0.023109478875994682,0.031241079792380333,positive,0.922540009021759
+9,2014-08-19 23:30:00,CEO Robert A. Niblock credited two key things for the positive results.,0.6787676811218262,0.021354813128709793,0.2998775243759155,positive,0.6574128866195679
+10,2014-08-19 23:30:00,"First, he stated, ""We were able to recover most of the outdoor product sales missed in the first quarter due to unfavorable weather conditions.""",0.6287202835083008,0.3387105464935303,0.03256913274526596,positive,0.2900097370147705
+11,2014-08-19 23:30:00,That's basically a spillover effect from purchases that simply got delayed.,0.026405781507492065,0.18276447057724,0.7908297777175903,neutral,-0.15635868906974792
+12,2014-08-19 23:30:00,"Second, Niblock said, ""We believe home improvement spending will continue to progress in tandem with strengthening job and income growth.""",0.9434544444084167,0.016657479107379913,0.03988803178071976,positive,0.9267969727516174
+13,2014-08-19 23:30:00,"The reason for the much larger jump in EPS of 18.2% when compared to net earnings of 10.4% was the ongoing stock buyback program, which included $1.1 billion this quarter alone and $0.9 billion in the first quarter.",0.8868704438209534,0.03443415090441704,0.07869533449411392,positive,0.8524363040924072
+14,2014-08-19 23:30:00,Stock buybacks serve to retire shares outstanding and thus raise EPS even higher than it would otherwise be.,0.9294265508651733,0.020000549033284187,0.05057291314005852,positive,0.9094259738922119
+15,2014-08-19 23:30:00,"Niblock added, ""Our year-to-date sales performance, together with our previous assumptions for the second half of 2014, result in a modest reduction to our sales outlook for the year.""",0.022511659190058708,0.9649894833564758,0.012498804368078709,negative,-0.942477822303772
+16,2014-08-19 23:30:00,"With the first-quarter report, Lowe's was expecting a 5% bump in total sales and a 4% rise in same-store sales for the full fiscal year ending January 30, 2015 Now Lowe's expects total sales and same-store sales of 4.5% and 3.5% respectively.",0.9210016131401062,0.019539467990398407,0.059458885341882706,positive,0.9014621376991272
+17,2014-08-19 23:30:00,"Lowe's kept the same diluted earnings per share outlook of $2.63, but that could be simply in part due to more aggressive stock buybacks that serve to successfully manage the earnings outlook.",0.1237783133983612,0.7850430607795715,0.09117868542671204,negative,-0.6612647771835327
+18,2014-08-19 23:30:00,The fact that Lowe's beat estimates for the quarter yet lowered guidance in total for the year suggests a somewhat disappointing second half unless the company simply decided to be more conservative with its numbers.,0.026105675846338272,0.9518868923187256,0.022007394582033157,negative,-0.9257811903953552
+19,2014-08-19 23:30:00,"Meanwhile, Home Depot reported its fiscal second-quarter results yesterday.",0.3591139316558838,0.042562950402498245,0.5983231067657471,neutral,0.31655097007751465
+20,2014-08-19 23:30:00,"Like Lowe's, Home Depot reported strong results that beat estimates and cited the ""spring seasonal business"" rebound as the reason.",0.9424660801887512,0.0229063481092453,0.0346275232732296,positive,0.9195597171783447
+21,2014-08-19 23:30:00,"But unlike Lowe's, Home Depot didn't lower its guidance for the full fiscal year.",0.025630492717027664,0.7894601225852966,0.18490946292877197,negative,-0.7638296484947205
+22,2014-08-19 23:30:00,Was there something a hick-up that was unique to Lowe's and not Home Depot?,0.03373725339770317,0.1400495022535324,0.8262133002281189,neutral,-0.10631224513053894
+23,2014-08-19 23:30:00,"Cited in the May 21 earnings report, Lowe's saw performance improving due to ""strengthening execution.""",0.9583688378334045,0.01843111962080002,0.023199984803795815,positive,0.9399377107620239
+24,2014-08-19 23:30:00,"Nothing jumped out, at me at least, in the earnings release or the conference call to explain why guidance was lowered.",0.02984616905450821,0.10790138691663742,0.862252414226532,neutral,-0.07805521786212921
+25,2014-08-19 23:30:00,Is a half of a percent drop in sales growth expectations a big deal for one quarter?,0.08412706106901169,0.6115403771400452,0.30433255434036255,negative,-0.5274133086204529
+26,2014-08-19 23:30:00,"By itself, probably not, but it should raise a bit of an eyebrow as something to look out for just in case it's the start of a trend.",0.18814651668071747,0.049580104649066925,0.762273371219635,neutral,0.13856640458106995
+27,2014-08-19 23:30:00,Sometimes the lack of a clear explanation by a company can be more concerning than the admission of a problem.,0.05911381542682648,0.4481700360774994,0.4927161633968353,neutral,-0.3890562057495117
+28,2014-08-19 23:30:00,Stay tuned because this show isn't over.,0.04188205301761627,0.03355051949620247,0.924567461013794,neutral,0.008331533521413803
+29,2014-08-19 23:30:00,"Leaked: Apple's next smart device (warning, it may shock you)
+
+Apple recently recruited a secret-development ""dream team"" to guarantee its newest smart device was kept hidden from the public for as long as possible.",0.5011886358261108,0.02460174635052681,0.47420957684516907,positive,0.47658687829971313
+30,2014-08-19 23:30:00,"But the secret is out, and some early viewers are claiming its everyday impact could trump the iPod, iPhone, and the iPad.",0.1140253022313118,0.14586493372917175,0.7401097416877747,neutral,-0.031839631497859955
+31,2014-08-19 23:30:00,"In fact, ABI Research predicts 485 million of this type of device will be sold per year.",0.12390507012605667,0.005444846116006374,0.870650053024292,neutral,0.11846022307872772
+32,2014-08-19 23:30:00,But one small company makes Apple's gadget possible.,0.06444790959358215,0.09449975937604904,0.8410523533821106,neutral,-0.03005184978246689
+33,2014-08-19 23:30:00,And its stock price has nearly unlimited room to run for early-in-the-know investors.,0.33333271741867065,0.01437036320567131,0.6522969603538513,neutral,0.31896236538887024
+34,2014-08-19 23:30:00,"To be one of them, and see Apple's newest smart gizmo, just click here !",0.11874427646398544,0.030425038188695908,0.850830614566803,neutral,0.08831924200057983
+35,2014-08-19 23:30:00,The article Lowe's Companies Earnings: How Low Will Second-Half 2014 Go?,0.02893017791211605,0.562953770160675,0.40811604261398315,negative,-0.5340235829353333
+36,2014-08-19 23:30:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+37,2014-08-19 23:30:00,Nickey Friedman has no position in any stocks mentioned.,0.009959877468645573,0.048456091433763504,0.941584050655365,neutral,-0.038496214896440506
+38,2014-08-19 23:30:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+39,2014-08-19 23:30:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+40,2014-08-19 23:30:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+41,2014-08-19 23:30:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+42,2014-08-19 23:30:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+43,2014-08-19 23:30:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+44,2014-08-19 23:30:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2014-08-19 23:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

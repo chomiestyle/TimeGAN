@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-29 09:35:00,"When it comes to acquisitions, salesforce.com, inc. (NASDAQ: CRM ) is far from timid.",0.028857409954071045,0.7942265272140503,0.1769159883260727,negative,-0.7653691172599792
+1,2018-03-29 09:35:00,"The company's co-founder and CEO, Marc Benioff, has pulled the trigger on many deals during the past few years.",0.05143960565328598,0.8090787529945374,0.1394815891981125,negative,-0.7576391696929932
+2,2018-03-29 09:35:00,And the results have been mostly positive for the CRM stock price.,0.9010927081108093,0.027665387839078903,0.07124199718236923,positive,0.8734273314476013
+3,2018-03-29 09:35:00,Yet the latest deal looks like a head-scratcher.,0.1823713481426239,0.10056012123823166,0.7170685529708862,neutral,0.08181122690439224
+4,2018-03-29 09:35:00,"That is, last week the company agreed to a $6.5 billion purchase price for Mulesoft Inc (NYSE: MULE ), which involved a combination of cash and CRM stock.",0.671022355556488,0.010478046722710133,0.3184995651245117,positive,0.6605443358421326
+5,2018-03-29 09:35:00,But Wall Street's reaction has not been warm.,0.049612849950790405,0.5513728857040405,0.39901426434516907,negative,-0.5017600059509277
+6,2018-03-29 09:35:00,"Since the deal was announced, CRM stock has dropped from $126 to $113.",0.01581820473074913,0.9727686047554016,0.011413158848881721,negative,-0.9569504261016846
+7,2018-03-29 09:35:00,One of the main issues is the steep valuation.,0.015484943985939026,0.070572130382061,0.9139429330825806,neutral,-0.05508718639612198
+8,2018-03-29 09:35:00,Keep in mind that Benioff was willing to pay about 22 times sales!,0.11315850913524628,0.01198316365480423,0.8748583197593689,neutral,0.10117534548044205
+9,2018-03-29 09:35:00,"Even in the wild world of tech, this is definitely rich.",0.2559700012207031,0.012341225519776344,0.7316887378692627,neutral,0.24362877011299133
+10,2018-03-29 09:35:00,"Analysts from Jefferies, RBC Capital and Keybanc Capital Markets all noted that the deal's multiple was the highest for a public SaaS operator .",0.9326345920562744,0.015478082932531834,0.051887378096580505,positive,0.9171565175056458
+11,2018-03-29 09:35:00,Now it's true that the valuation should not be the only consideration.,0.022039644420146942,0.010889993980526924,0.9670703411102295,neutral,0.011149650439620018
+12,2018-03-29 09:35:00,"Let's face it, there are many examples where deals have looked kind of wacky.",0.02880951389670372,0.10554593056440353,0.8656445145606995,neutral,-0.07673642039299011
+13,2018-03-29 09:35:00,"Remember the skepticism when Alphabet Inc (NASDAQ: GOOGL , NASDAQ: GOOG ) shelled out $1.65 billion for YouTube?",0.049837883561849594,0.021045178174972534,0.9291169047355652,neutral,0.02879270538687706
+14,2018-03-29 09:35:00,"Or how about when Facebook, Inc. (NASDAQ: FB ) paid $19 billion for WhatsApp?",0.02842693030834198,0.013546758331358433,0.9580263495445251,neutral,0.014880171976983547
+15,2018-03-29 09:35:00,"However, in regard to the MULE deal, it seems reasonable that CRM is basing its valuation on the best-case scenario - and then some.",0.056683499366045,0.007997441105544567,0.9353190660476685,neutral,0.048686057329177856
+16,2018-03-29 09:35:00,And this is an indication that the company realizes it's going to get tougher to pump out growth.,0.7918630838394165,0.03506586700677872,0.1730709969997406,positive,0.756797194480896
+17,2018-03-29 09:35:00,Benioff has not been shy about his stretch goals for Salesforce.com.,0.04616959020495415,0.01572432741522789,0.9381060600280762,neutral,0.030445262789726257
+18,2018-03-29 09:35:00,"By 2022, the sales forecast is for $20 billion, and by 2028, it is $40 billion (the sales for the past year came to $10.5 billion).",0.07501736283302307,0.008153737522661686,0.9168289303779602,neutral,0.06686362624168396
+19,2018-03-29 09:35:00,"In other words, he has little choice but to focus on M&A.",0.018442345783114433,0.016652364283800125,0.964905321598053,neutral,0.0017899814993143082
+20,2018-03-29 09:35:00,MULE is certainly a great company.,0.6250969171524048,0.01120592188090086,0.3636971414089203,positive,0.6138910055160522
+21,2018-03-29 09:35:00,"Founded in 2006, it was one of the pioneers in developing APIs to help companies better access their legacy technologies, such as through the cloud.",0.5934784412384033,0.010718175210058689,0.395803302526474,positive,0.5827602744102478
+22,2018-03-29 09:35:00,"A key part of the strategy has been to rely on open-source software, which has allowed for faster development, more robust features and a thriving ecosystem.",0.8816951513290405,0.012174333445727825,0.1061304584145546,positive,0.8695208430290222
+23,2018-03-29 09:35:00,"As seen with other companies like Splunk Inc (NASDAQ: SPLK ) and Red Hat Inc (NYSE: RHT ), this model can be powerful.",0.5823096036911011,0.011325828731060028,0.4063645899295807,positive,0.5709837675094604
+24,2018-03-29 09:35:00,"As for MULE, the company has been growing at a fast pace.",0.9042789340019226,0.013153002597391605,0.08256801217794418,positive,0.8911259174346924
+25,2018-03-29 09:35:00,"Last year, the company's sales jumped by 58% to $296.5 million.",0.9454856514930725,0.01839306391775608,0.03612128272652626,positive,0.9270926117897034
+26,2018-03-29 09:35:00,"Note that MULE has been able to snag over 1,200 customers, which include biggies like The Coca-Cola Co (NYSE: KO ), Barclays PLC (ADR) (NYSE: BCS ) and Unilever NV (ADR) (NYSE: UN ).",0.7598650455474854,0.011411947198212147,0.22872304916381836,positive,0.7484530806541443
+27,2018-03-29 09:35:00,"""Every digital transformation starts and ends with the customer.",0.020619431510567665,0.007096522953361273,0.9722840189933777,neutral,0.013522908091545105
+28,2018-03-29 09:35:00,"Together, Salesforce and MuleSoft will enable customers to connect all of the information throughout their enterprise across all public and private clouds and data sources - radically enhancing innovation.""",0.9066975712776184,0.014796673320233822,0.07850582152605057,positive,0.891900897026062
+29,2018-03-29 09:35:00,"Besides the valuation, there are other reasons that the MULE deal looks dicey.",0.02780081331729889,0.09025527536869049,0.881943941116333,neutral,-0.0624544620513916
+30,2018-03-29 09:35:00,One is that there is not much synergy with CRM.,0.019203199073672295,0.022367605939507484,0.9584291577339172,neutral,-0.00316440686583519
+31,2018-03-29 09:35:00,"MULE is primarily an infrastructure provider, while CRM has been mostly about cloud applications for sales, marketing and support.",0.011169014498591423,0.010834231041371822,0.9779967665672302,neutral,0.0003347834572196007
+32,2018-03-29 09:35:00,"In other words, there will likely not be much synergy when it comes to leveraging CRM's massive distribution.",0.035804327577352524,0.010836049914360046,0.9533596634864807,neutral,0.024968277662992477
+33,2018-03-29 09:35:00,This will make it difficult to justify the high multiple on the deal.,0.035299476236104965,0.46067652106285095,0.5040239691734314,neutral,-0.4253770411014557
+34,2018-03-29 09:35:00,"Next, there are solid alternatives to MULE, such as Talend SA ADR (NASDAQ: TLND ) and various other startups.",0.5530644059181213,0.0110616534948349,0.43587392568588257,positive,0.5420027375221252
+35,2018-03-29 09:35:00,The fact is that CRM could have entered the market in a much cheaper way.,0.567943811416626,0.01280992291867733,0.41924628615379333,positive,0.5551338791847229
+36,2018-03-29 09:35:00,"Granted, CRM has done well with its M&A.",0.9371032118797302,0.01563337817788124,0.047263458371162415,positive,0.9214698076248169
+37,2018-03-29 09:35:00,"For example, after having engaged in an aggressive string of deals in 2016, the company was smart to spend the next year focused on integration.",0.8611977696418762,0.015043150633573532,0.12375902384519577,positive,0.8461546301841736
+38,2018-03-29 09:35:00,Yet the MULE deal is unique and massive.,0.6027730703353882,0.012954670935869217,0.38427233695983887,positive,0.5898184180259705
+39,2018-03-29 09:35:00,"If anything, it will be a major test for operations, presenting risks for CRM stock.",0.6044211387634277,0.05991270765662193,0.3356661796569824,positive,0.5445084571838379
+40,2018-03-29 09:35:00,"Tom Taulli is the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04080922156572342,0.006492978427559137,0.9526978135108948,neutral,0.03431624174118042
+41,2018-03-29 09:35:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+42,2018-03-29 09:35:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+43,2018-03-29 09:35:00,"• 3 Stocks Under $10 That Could Take Off Like a Rocket Ship
+• Salesforce.com, Inc. Has Upside in a Long-Term Window
+
+The post Why the Salesforce.com, Inc. Deal With Mulesoft May Be Too Risky appeared first on InvestorPlace .",0.11493328958749771,0.394467830657959,0.4905989468097687,neutral,-0.27953454852104187
+44,2018-03-29 09:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

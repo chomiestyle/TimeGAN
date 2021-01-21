@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-06-12 03:44:00,The Proctor and Gamble Company (NYSE: PG) is known for its many consumer brands.,0.11041763424873352,0.0053068893030285835,0.8842754364013672,neutral,0.10511074215173721
+1,2017-06-12 03:44:00,Let's take a deep dive into one of its many brand categories and see what's going on with Gillette and men's shaving.,0.056064169853925705,0.0069036041386425495,0.9370322823524475,neutral,0.04916056618094444
+2,2017-06-12 03:44:00,"P&G accounts for its sale of Gillette and other men's shaving products inside a brand category called grooming, which consists of male blades and razors, female blades and razors, pre- and post-shave products, appliances, and other shave care.",0.023469936102628708,0.00540544418618083,0.9711245894432068,neutral,0.01806449145078659
+3,2017-06-12 03:44:00,"When it comes to the razor and razor-blade model of business , Gillette wrote the book.",0.032860785722732544,0.01181839220225811,0.9553208351135254,neutral,0.021042393520474434
+4,2017-06-12 03:44:00,"An amazing statistic from the company's 2016 annual report is as follows: ""Our global blades and razors market share is nearly 65%, primarily behind the Gillette franchise including Fusion, Mach3, Prestobarba and Venus.""",0.4781215190887451,0.011891023255884647,0.5099874138832092,neutral,0.46623048186302185
+5,2017-06-12 03:44:00,"A 65% global market share means, for every three dollars spent, almost two go to P&G!",0.47097495198249817,0.01805524155497551,0.5109698176383972,neutral,0.45291972160339355
+6,2017-06-12 03:44:00,"Sales are trending in the wrong direction
+
+Despite its high market share, P&G has been losing ground for its grooming products.",0.018865112215280533,0.965481162071228,0.015653708949685097,negative,-0.9466160535812378
+7,2017-06-12 03:44:00,Its global market share dropped 1.1% in 2016.,0.02005952037870884,0.9707258343696594,0.009214597754180431,negative,-0.9506663084030151
+8,2017-06-12 03:44:00,"Loss of share in the United States, a $3 billion market, is far worse.",0.01858557015657425,0.9662896990776062,0.015124793164432049,negative,-0.9477041363716125
+9,2017-06-12 03:44:00,The table below illustrates the problem.,0.012175587937235832,0.04319585859775543,0.9446285963058472,neutral,-0.0310202706605196
+10,2017-06-12 03:44:00,"Shave clubs are disrupting the business model in the U.S.
+
+P&G's grooming business provides a disproportionate amount of profit to the company, accounting for 15% of the company's profits and 11% of its $65 billion in sales.",0.03139090910553932,0.8829877376556396,0.08562128990888596,negative,-0.8515968322753906
+11,2017-06-12 03:44:00,That makes executives nervous about tampering with what has been a consistent high-profit generator.,0.03333762288093567,0.9211581945419312,0.045504238456487656,negative,-0.8878206014633179
+12,2017-06-12 03:44:00,"Add that to the fact that the company has 65% global market share, and it's no wonder that this segment of the business is attracting competition.",0.459460973739624,0.014240204356610775,0.5262987613677979,neutral,0.4452207684516907
+13,2017-06-12 03:44:00,"Dollar Shave Club came on the scene in April 2011 with an online business model that allowed shavers to ""subscribe"" to shaving products.",0.1915837824344635,0.0069590541534125805,0.8014571666717529,neutral,0.18462473154067993
+14,2017-06-12 03:44:00,"This eliminated the need to stop at a store, traditionally Gillette's stronghold.",0.3355453908443451,0.1110633835196495,0.5533912777900696,neutral,0.224481999874115
+15,2017-06-12 03:44:00,"By undercutting Gillette's price for blades, it wasn't that difficult to steal younger customers who preferred ordering online and having products shipped to their doors.",0.3077913820743561,0.3698095381259918,0.3223990499973297,negative,-0.06201815605163574
+16,2017-06-12 03:44:00,Total sales for Dollar Shave Club were $160 million in 2016.,0.024159245193004608,0.006943795830011368,0.9688969254493713,neutral,0.01721544936299324
+17,2017-06-12 03:44:00,"Harry's, another internet-enabled shave club, launched in March 2013, with razors like Gillette's Fusion selling for half the price.",0.06979518383741379,0.012952189892530441,0.9172526001930237,neutral,0.05684299394488335
+18,2017-06-12 03:44:00,"The company went old school when it partnered with Target Corporation in 2016, putting its products in every store to complement its online sales.",0.5665515661239624,0.01085598487406969,0.4225924611091614,positive,0.5556955933570862
+19,2017-06-12 03:44:00,Total sales for Harry's were $113 million in 2016.,0.020083745941519737,0.012207070365548134,0.9677091240882874,neutral,0.007876675575971603
+20,2017-06-12 03:44:00,"To counter the new trend in subscription shave clubs, P&G has started a service called Gillette On Demand.",0.4035693407058716,0.014968977309763432,0.5814616680145264,neutral,0.38860034942626953
+21,2017-06-12 03:44:00,"Just like it sounds, it allows U.S. consumers to buy Gillette blades online and have them delivered on a scheduled basis.",0.09355445206165314,0.005946510937064886,0.9004990458488464,neutral,0.08760794252157211
+22,2017-06-12 03:44:00,"The big differences are price, and Gillette is only offering the blades and not the many men's toiletry products, as well as pre- and-post shave products offered by the other shave clubs.",0.013385564088821411,0.05515781417489052,0.9314566254615784,neutral,-0.04177225008606911
+23,2017-06-12 03:44:00,"Just to spice things up a bit, European conglomerate Unilever Company got in on the action by purchasing Dollar Shave Club LLC for a $1 billion price tag in July of last year.",0.5927786231040955,0.02131461352109909,0.38590675592422485,positive,0.5714640021324158
+24,2017-06-12 03:44:00,This is a large global company that could help Dollar Shave Club grow its business through further saber rattling with Gillette.,0.9212718605995178,0.013225865550339222,0.06550216674804688,positive,0.9080460071563721
+25,2017-06-12 03:44:00,The chart below shows how the prices for blades compare among the three shave clubs.,0.019096996635198593,0.011843154206871986,0.9690598249435425,neutral,0.007253842428326607
+26,2017-06-12 03:44:00,"Five for $13.00, every fourth delivery is free
+
+The mid-level blade on each website was chosen for comparison.",0.03780462220311165,0.01612817496061325,0.9460672736167908,neutral,0.021676447242498398
+27,2017-06-12 03:44:00,"Data source: Gillette On Demand, Dollar Shave Club, and Harry's.",0.014877846464514732,0.016237391158938408,0.9688847661018372,neutral,-0.0013595446944236755
+28,2017-06-12 03:44:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+29,2017-06-12 03:44:00,"Recently, Gillette has announced price cuts to help it compete.",0.20149628818035126,0.7002894282341003,0.09821435064077377,negative,-0.4987931251525879
+30,2017-06-12 03:44:00,This would seem to imply that management is at least getting one message from consumers loud and clear: Its pricing is too high.,0.04140380769968033,0.7676571011543274,0.19093912839889526,negative,-0.7262532711029053
+31,2017-06-12 03:44:00,The move to online shopping is providing newcomers like Dollar Shave Club and Harry's the opportunity to disrupt the incumbent leader in shaving.,0.7055788636207581,0.11059948056936264,0.18382170796394348,positive,0.5949794054031372
+32,2017-06-12 03:44:00,Gillette doesn't want to see its high-margin business negatively impacted by the young upstarts.,0.02521360293030739,0.6322508454322815,0.3425355851650238,negative,-0.6070372462272644
+33,2017-06-12 03:44:00,"At the same time, it doesn't want to continue to lose market share.",0.03258451819419861,0.8246904611587524,0.14272505044937134,negative,-0.7921059131622314
+34,2017-06-12 03:44:00,Investors need to take this into account as earnings may be headed lower as Gillette and P&G figure out how to deal with consumers who want to buy online.,0.028569353744387627,0.8872436881065369,0.08418697863817215,negative,-0.8586743474006653
+35,2017-06-12 03:44:00,"10 stocks we like better than Procter & Gamble
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12989184260368347,0.022431962192058563,0.8476762175559998,neutral,0.10745988041162491
+36,2017-06-12 03:44:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+37,2017-06-12 03:44:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Procter & Gamble wasn't one of them!",0.18411676585674286,0.01372705027461052,0.8021562099456787,neutral,0.17038971185684204
+38,2017-06-12 03:44:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+39,2017-06-12 03:44:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+40,2017-06-12 03:44:00,"*Stock Advisor returns as of May 1, 2017
+
+Frank DiPietro has no position in any stocks mentioned.",0.009981128387153149,0.03665381297469139,0.9533650875091553,neutral,-0.026672683656215668
+41,2017-06-12 03:44:00,The Motley Fool has no position in any of the stocks mentioned.,0.011856832541525364,0.05262438580393791,0.9355188012123108,neutral,-0.04076755419373512
+42,2017-06-12 03:44:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+43,2017-06-12 03:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,88 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-02 03:16:00,By now you’ve seen the articles about which election stocks to buy if President Trump wins.,0.02489340491592884,0.01517082192003727,0.9599357843399048,neutral,0.009722582995891571
+1,2020-10-02 03:16:00,"And conversely, you’ve read about the stocks to buy if former Vice President Joe Biden wins.",0.051226064562797546,0.018634038046002388,0.9301398992538452,neutral,0.03259202837944031
+2,2020-10-02 03:16:00,"Of course, for some investors there is a third option.",0.04954148828983307,0.01287038717418909,0.937588095664978,neutral,0.03667110204696655
+3,2020-10-02 03:16:00,That would be to sit out the election entirely.,0.06857635080814362,0.23713047802448273,0.694293200969696,neutral,-0.1685541272163391
+4,2020-10-02 03:16:00,And you couldn’t blame them.,0.14460782706737518,0.2103293389081955,0.6450628042221069,neutral,-0.06572151184082031
+5,2020-10-02 03:16:00,"But according to at least one academic, that might be a mistake.",0.04698634892702103,0.8424146175384521,0.1105991080403328,negative,-0.7954282760620117
+6,2020-10-02 03:16:00,"In an email sent to InvestorPlace, Joshua Della Vedova, assistant professor of finance at the University of San Diego’s business school, wrote that election years are good for stocks.",0.5962011814117432,0.03286675363779068,0.37093207240104675,positive,0.5633344054222107
+7,2020-10-02 03:16:00,"“The election year has generated positive returns 74% of the time,” argued Della Vedova, “so even if you don’t take action, history suggests you may still be ok.”
+
+One thing you shouldn’t do is try to pick a winner.",0.4703315198421478,0.09636173397302628,0.4333067536354065,positive,0.37396979331970215
+8,2020-10-02 03:16:00,"In fact, Wall Street is having a hard time doing that.",0.05331755802035332,0.6335424780845642,0.313139945268631,negative,-0.5802249312400818
+9,2020-10-02 03:16:00,"The CBOE Volatility Index (INDEXCBOE:VIX), commonly called the “fear index,” has come down recently.",0.03231402486562729,0.8369526863098145,0.13073322176933289,negative,-0.804638683795929
+10,2020-10-02 03:16:00,"But as Della Vedova remarked, it has been higher than its five-year average for most of 2020.",0.8569076061248779,0.09621809422969818,0.04687429592013359,positive,0.7606894969940186
+11,2020-10-02 03:16:00,But that doesn’t mean you shouldn’t try to pick winning election stocks.,0.0782470628619194,0.13769418001174927,0.7840587496757507,neutral,-0.059447117149829865
+12,2020-10-02 03:16:00,To do that you should look at stocks that are likely to perform well no matter who occupies 1600 Pennsylvania Avenue.,0.14414536952972412,0.009048227220773697,0.8468064069747925,neutral,0.13509714603424072
+13,2020-10-02 03:16:00,"And this year, despite all the uncertainty — or, maybe because of it — there are several attractive stocks to choose from.",0.3332560360431671,0.009715896099805832,0.6570281386375427,neutral,0.3235401511192322
+14,2020-10-02 03:16:00,Here are five picks for election stocks that should deliver solid performance up to and through the election.,0.18110044300556183,0.009181746281683445,0.8097177743911743,neutral,0.17191869020462036
+15,2020-10-02 03:16:00,The iPhone 12 is coming!,0.19943548738956451,0.027890197932720184,0.7726743221282959,neutral,0.17154529690742493
+16,2020-10-02 03:16:00,Sometime this year.,0.060434527695178986,0.012351159937679768,0.9272143244743347,neutral,0.04808336868882179
+17,2020-10-02 03:16:00,Almost definitely.,0.3281189203262329,0.12415973842144012,0.5477213859558105,neutral,0.20395918190479279
+18,2020-10-02 03:16:00,At least that’s the word from Apple.,0.12985314428806305,0.09882045537233353,0.7713263630867004,neutral,0.031032688915729523
+19,2020-10-02 03:16:00,"All kidding aside, it’s going to happen.",0.16546934843063354,0.012500816956162453,0.8220298290252686,neutral,0.15296852588653564
+20,2020-10-02 03:16:00,The company’s factories are rumored to be working around the clock in China to ensure its timely release.,0.2702154815196991,0.08033108711242676,0.6494534015655518,neutral,0.18988439440727234
+21,2020-10-02 03:16:00,The big deal of course is that this will be Apple’s first iPhone to feature 5G technology.,0.12352222204208374,0.005570770241320133,0.8709070682525635,neutral,0.11795145273208618
+22,2020-10-02 03:16:00,Apple is set to release four new iPhone models including what is being termed the iPhone “mini” which will have a 5.4-inch screen.,0.13819769024848938,0.005919902119785547,0.8558824062347412,neutral,0.13227778673171997
+23,2020-10-02 03:16:00,And the company has been showing the ability to successfully pivot away from the iPhone in recent quarters.,0.9393492937088013,0.016596557572484016,0.04405415430665016,positive,0.9227527379989624
+24,2020-10-02 03:16:00,The Services business has been growing steadily.,0.8887002468109131,0.012461958453059196,0.09883774071931839,positive,0.8762382864952087
+25,2020-10-02 03:16:00,"Apple has also been seeing strength from its Wearables unit which includes the Apple Watch, which has been a pandemic winner for the company.",0.9350066184997559,0.016583189368247986,0.04841019585728645,positive,0.9184234142303467
+26,2020-10-02 03:16:00,Remember also that Apple gave investors an early holiday gift by executing a 4-for-1 stock split in late August.,0.4104350805282593,0.015775112435221672,0.5737898349761963,neutral,0.39465996623039246
+27,2020-10-02 03:16:00,"That split, combined with a 15% drop in the company’s stock price in September, is setting up a nice buying opportunity to close out the year.",0.860984206199646,0.06563388556241989,0.07338190823793411,positive,0.7953503131866455
+28,2020-10-02 03:16:00,Two additional technology toys that are arriving just in time for the holidays are new versions of the Sony (NYSE:SNE) Playstation and the Microsoft (NASDAQ:MSFT) Xbox.,0.11266104876995087,0.01111742202192545,0.8762214779853821,neutral,0.10154362767934799
+29,2020-10-02 03:16:00,And Best Buy is well positioned to capture a good deal of the traffic from gamers looking to up their game.,0.7740527391433716,0.013289133086800575,0.21265804767608643,positive,0.7607635855674744
+30,2020-10-02 03:16:00,"• 7 Marijuana Stocks to Buy That Will Survive 2020
+
+In the last quarter that the company reported earnings, Best Buy reported more than 5% growth in comparable store sales.",0.9417399764060974,0.015198962762951851,0.0430610254406929,positive,0.9265410304069519
+31,2020-10-02 03:16:00,In addition the company posted almost 250% growth in digital sales and an over 50% growth in earnings per share.,0.9482595324516296,0.014609962701797485,0.037130530923604965,positive,0.9336495399475098
+32,2020-10-02 03:16:00,Some of this was fueled by the pandemic which forced individuals and businesses to outfit their homes for the new normal.,0.0548868291079998,0.7996050119400024,0.14550821483135223,negative,-0.7447181940078735
+33,2020-10-02 03:16:00,But that really just gave Best Buy another opportunity to demonstrate what many investors have already noticed.,0.8055665493011475,0.015219930559396744,0.17921344935894012,positive,0.790346622467041
+34,2020-10-02 03:16:00,The company has made an impressive makeover in recent years.,0.916202962398529,0.015086643397808075,0.0687103420495987,positive,0.9011163115501404
+35,2020-10-02 03:16:00,"And in the process, it has managed to make its brick-and-mortar stores relevant while holding its own against Amazon (NASDAQ:AMZN) in the omnichannel/e-commerce space.",0.9381281733512878,0.02152158133685589,0.04035019502043724,positive,0.916606605052948
+36,2020-10-02 03:16:00,There are two reasons why you should add FedEx to your list of election stocks to buy.,0.040609199553728104,0.013555260375142097,0.945835530757904,neutral,0.027053939178586006
+37,2020-10-02 03:16:00,The first is somewhat obvious.,0.032053571194410324,0.02192629687488079,0.9460200667381287,neutral,0.010127274319529533
+38,2020-10-02 03:16:00,The pandemic sparked by the novel coronavirus has tilted the world toward e-commerce.,0.6568368077278137,0.053468164056539536,0.28969502449035645,positive,0.6033686399459839
+39,2020-10-02 03:16:00,"When people had no other option, they got things delivered.",0.07959722727537155,0.015268397517502308,0.905134379863739,neutral,0.06432882696390152
+40,2020-10-02 03:16:00,"And as a result, FedEx has been able to pass along higher shipping costs to its customers who are (seemingly) happily paying it.",0.9447657465934753,0.01811874471604824,0.03711548447608948,positive,0.9266470074653625
+41,2020-10-02 03:16:00,This holiday season will probably accelerate the e-commerce trend as consumers will want to make sure their packages get to loved ones who they may not be able to get together with due to the virus.,0.4181481897830963,0.08333956450223923,0.49851229786872864,neutral,0.3348086178302765
+42,2020-10-02 03:16:00,So that’s one reason you should ignore those that say the stock is overvalued.,0.07620923221111298,0.07899196445941925,0.8447988033294678,neutral,-0.0027827322483062744
+43,2020-10-02 03:16:00,And that brings me to my second catalyst.,0.17737913131713867,0.03119669482111931,0.7914241552352905,neutral,0.14618243277072906
+44,2020-10-02 03:16:00,"At some point, we hope, there will be a vaccine.",0.3250785768032074,0.008620704524219036,0.6663007140159607,neutral,0.3164578676223755
+45,2020-10-02 03:16:00,"And when that happens, it appears that FedEx will be a major part of the effort to distribute the vaccine to the healthcare workers handling the injections.",0.13441400229930878,0.006352987606078386,0.859233021736145,neutral,0.12806101143360138
+46,2020-10-02 03:16:00,Vaccine candidates have to be shipped at specific temperatures in a specific amount of time.,0.026386642828583717,0.005444673355668783,0.9681686162948608,neutral,0.020941969007253647
+47,2020-10-02 03:16:00,The company’s ability to deliver vaccines was one reason that Rick Paterson of Loop Capital increased his price target for FedEx.,0.8499578237533569,0.020746491849422455,0.12929563224315643,positive,0.8292113542556763
+48,2020-10-02 03:16:00,"According to Paterson, “FedEx (UPS, and DHL) could well be the primary global transportation networks for the Covid-19 vaccines, assuming of course they’re developed as currently expected.”
+
+If there’s one thing the pandemic has shown us, it’s that consumers had pent-up demand to fix up their homes.",0.2003905028104782,0.05768648907542229,0.7419230341911316,neutral,0.14270401000976562
+49,2020-10-02 03:16:00,Home offices and basement classrooms were created on the fly.,0.05371115729212761,0.01080478634685278,0.9354840517044067,neutral,0.042906370013952255
+50,2020-10-02 03:16:00,Open-concept floor plans got a little less open.,0.23024755716323853,0.09985818713903427,0.669894278049469,neutral,0.13038936257362366
+51,2020-10-02 03:16:00,Long-neglected yards got a makeover.,0.19671526551246643,0.018221691250801086,0.7850630879402161,neutral,0.17849357426166534
+52,2020-10-02 03:16:00,And one company helping consumers through all of it was Home Depot.,0.11425106972455978,0.018065644428133965,0.8676833510398865,neutral,0.09618542343378067
+53,2020-10-02 03:16:00,"Like Best Buy, Home Depot was ready for the moment.",0.24544775485992432,0.01649335026741028,0.7380589246749878,neutral,0.22895440459251404
+54,2020-10-02 03:16:00,The company embraced the omnichannel model several years ago.,0.2635036110877991,0.00718284584581852,0.7293135523796082,neutral,0.2563207745552063
+55,2020-10-02 03:16:00,"Not only was its digital business prepared for the pandemic, it allowed the company to thrive during it.",0.9196950197219849,0.014400182291865349,0.06590478122234344,positive,0.9052948355674744
+56,2020-10-02 03:16:00,"In its most recent fiscal quarter, Home Depot reported a 23.4% increase in sales, and net income rose to $4.02 per share, a 26% year-over-year increase.",0.9561159014701843,0.020142672583460808,0.02374150976538658,positive,0.9359732270240784
+57,2020-10-02 03:16:00,And let’s not forget that home sales are on the rise.,0.6473760604858398,0.05949242785573006,0.2931315302848816,positive,0.5878836512565613
+58,2020-10-02 03:16:00,This should give Home Depot an additional catalyst for the remainder of 2020.,0.6923069953918457,0.011641668155789375,0.2960513234138489,positive,0.6806653141975403
+59,2020-10-02 03:16:00,Plus investors can continue to collect a nice dividend along the way.,0.8549882769584656,0.020886309444904327,0.1241254061460495,positive,0.8341019749641418
+60,2020-10-02 03:16:00,The last of the election stocks I want to focus on is Rite Aid.,0.016495980322360992,0.03629676625132561,0.9472072720527649,neutral,-0.019800785928964615
+61,2020-10-02 03:16:00,"Just a month ago, I was concerned that the company was a stone’s throw away from bankruptcy.",0.08865557610988617,0.6393348574638367,0.27200958132743835,negative,-0.5506792664527893
+62,2020-10-02 03:16:00,But the drug store operator has seemed to get its liquidity situation in order.,0.8617644906044006,0.02706853114068508,0.11116699129343033,positive,0.8346959352493286
+63,2020-10-02 03:16:00,The question for investors now is where the growth will come from.,0.09761684387922287,0.012484964914619923,0.8898982405662537,neutral,0.08513187617063522
+64,2020-10-02 03:16:00,Rite Aid was cautious in its forward guidance.,0.03939973562955856,0.7649282813072205,0.19567205011844635,negative,-0.7255285382270813
+65,2020-10-02 03:16:00,Investors will rightfully wonder if that was the company being conservative or issuing an early warning.,0.09551172703504562,0.2924036383628845,0.6120846271514893,neutral,-0.1968919038772583
+66,2020-10-02 03:16:00,"Still, RAD stock is looking oversold.",0.023592157289385796,0.9485976099967957,0.02781025506556034,negative,-0.9250054359436035
+67,2020-10-02 03:16:00,Rite Aid was a pandemic winner because its stores were Covid-19 testing locations.,0.7293734550476074,0.026452237740159035,0.24417434632778168,positive,0.7029212117195129
+68,2020-10-02 03:16:00,The company should continue to generate traffic by offering flu shots.,0.2449447363615036,0.007154012564569712,0.7479012608528137,neutral,0.23779071867465973
+69,2020-10-02 03:16:00,"And, it’s widely expected that Rite Aid will be one of the locations where Covid-19 vaccines could be dispensed.",0.11485449224710464,0.0075163631699979305,0.8776292204856873,neutral,0.10733813047409058
+70,2020-10-02 03:16:00,Rite Aid is seeing strong growth from its Elixir pharmacy services business.,0.952536940574646,0.016141043975949287,0.0313219279050827,positive,0.9363958835601807
+71,2020-10-02 03:16:00,"The company added over 250,000 new Medicare Part D members in the quarter.",0.7397288680076599,0.013172329403460026,0.24709881842136383,positive,0.7265565395355225
+72,2020-10-02 03:16:00,And Rite Aid initiated Pay and Go at all of their stores to expedite prescription pickup.,0.1918027698993683,0.06193016469478607,0.7462670207023621,neutral,0.12987260520458221
+73,2020-10-02 03:16:00,"But even with those initiatives and the company’s expansion of its business with Instacart, it will still face tremendous competition in the pharmacy space.",0.9034374356269836,0.028553780168294907,0.06800873577594757,positive,0.8748836517333984
+74,2020-10-02 03:16:00,On the date of publication Chris Markoch did not have (either directly or indirectly) any positions in the securities mentioned in this article.,0.00806121900677681,0.02265227399766445,0.9692865610122681,neutral,-0.014591054990887642
+75,2020-10-02 03:16:00,Chris Markoch is a freelance financial copywriter who has been covering the market for over six years.,0.023002304136753082,0.014331573620438576,0.9626660943031311,neutral,0.008670730516314507
+76,2020-10-02 03:16:00,He has been writing for Investor Place since 2019.,0.038156408816576004,0.03004506602883339,0.9317985773086548,neutral,0.008111342787742615
+77,2020-10-02 03:16:00,"• Why Everyone Is Investing in 5G All WRONG
+• Revolutionary Tech Behind 5G Rollout Is Being Pioneered By This 1 Company
+
+The post 5 Stocks to Play the Upcoming Election appeared first on InvestorPlace.",0.16716478765010834,0.02624981664121151,0.806585431098938,neutral,0.14091497659683228

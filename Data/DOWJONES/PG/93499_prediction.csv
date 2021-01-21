@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-04-28 05:26:00,Consumer staples giant Procter & Gamble enjoys a strong (and well-deserved) reputation among income investors.,0.8324686288833618,0.014289433136582375,0.15324194729328156,positive,0.818179190158844
+1,2015-04-28 05:26:00,"It has paid dividends for 125 consecutive years, dating all the way to the company's incorporation in 1890.",0.11141783744096756,0.005900380667299032,0.8826817870140076,neutral,0.10551745444536209
+2,2015-04-28 05:26:00,"What's more, P&G recently increased its payout for the 59th year in a row.",0.9387843608856201,0.016084769740700722,0.045130908489227295,positive,0.9226995706558228
+3,2015-04-28 05:26:00,"The company is a Dividend Aristocrat, and the stock offers a solid 3% yield.",0.637739896774292,0.012461643666028976,0.3497984707355499,positive,0.6252782344818115
+4,2015-04-28 05:26:00,but it's also true that P&G's dividend growth has slowed significantly in recent years.,0.0264871995896101,0.9370766282081604,0.03643615171313286,negative,-0.9105894565582275
+5,2015-04-28 05:26:00,"The company's growth has ground to a halt, due most recently to a brutal currency headwind.",0.0198266189545393,0.9252806305885315,0.05489281192421913,negative,-0.9054540395736694
+6,2015-04-28 05:26:00,"For these reasons, dividend growth investors might want to consider one of P&G's biggest rivals, Colgate-Palmolive , as a better dividend stock.",0.8601030111312866,0.020179150626063347,0.11971776932477951,positive,0.8399238586425781
+7,2015-04-28 05:26:00,"P&G is relying on its reputation
+
+Procter & Gamble has distributed more than $55 billion in dividends to its investors over the past decade.",0.25849008560180664,0.01079179160296917,0.7307180762290955,neutral,0.24769829213619232
+8,2015-04-28 05:26:00,"This has cemented the company's reputation, but there are significant cracks in P&G's dividend armor.",0.08657611906528473,0.8845918774604797,0.02883194014430046,negative,-0.7980157732963562
+9,2015-04-28 05:26:00,"This year, the company only increased its dividend by 3%.",0.8890486359596252,0.022642184048891068,0.08830910176038742,positive,0.8664064407348633
+10,2015-04-28 05:26:00,"While a raise of any kind is enough to sustain its streak of annual increases, a 3% bump is barely above inflation.",0.8045219779014587,0.0984160453081131,0.09706196933984756,positive,0.7061059474945068
+11,2015-04-28 05:26:00,"Of course, a big reason why P&G can't increase its dividend at higher rates right now is because its sales and earnings aren't growing fast enough.",0.23299960792064667,0.31682032346725464,0.45018014311790466,neutral,-0.08382071554660797
+12,2015-04-28 05:26:00,"Over the first two quarters of its current fiscal year, net sales and earnings from continuing operations declined 2% and 7%, respectively, year over year.",0.017688045278191566,0.9722503423690796,0.010061653330922127,negative,-0.9545623064041138
+13,2015-04-28 05:26:00,"Not surprisingly, currency was responsible.",0.18476282060146332,0.024437103420495987,0.7908000946044922,neutral,0.16032572090625763
+14,2015-04-28 05:26:00,Foreign exchange shaved 5 full percentage points off P&G's sales just last quarter.,0.046790819615125656,0.9415005445480347,0.011708634905517101,negative,-0.8947097063064575
+15,2015-04-28 05:26:00,P&G generated $5.4 billion of free cash flow in the second quarter.,0.25403669476509094,0.014851992949843407,0.7311112880706787,neutral,0.23918470740318298
+16,2015-04-28 05:26:00,"In the same period, the company distributed $3.6 billion in dividends, resulting in a 67% free cash flow payout ratio.",0.5921071171760559,0.033635158091783524,0.37425774335861206,positive,0.5584719777107239
+17,2015-04-28 05:26:00,That's right in line with the company's history over the past several years.,0.28066033124923706,0.008253628388047218,0.7110860347747803,neutral,0.2724066972732544
+18,2015-04-28 05:26:00,But P&G is also partly to blame for its weak dividend raise.,0.02065706066787243,0.9613661766052246,0.01797676645219326,negative,-0.940709114074707
+19,2015-04-28 05:26:00,The company spends a large amount of money on share repurchases.,0.021345945075154305,0.005942697171121836,0.9727113246917725,neutral,0.015403248369693756
+20,2015-04-28 05:26:00,"For example, P&G spent $4.2 billion buying back its own stock in the first two fiscal quarters.",0.1722932755947113,0.02631094679236412,0.8013957738876343,neutral,0.14598232507705688
+21,2015-04-28 05:26:00,This accounted for 77% of P&G's free cash flow.,0.023679759353399277,0.010201743803918362,0.9661185145378113,neutral,0.013478015549480915
+22,2015-04-28 05:26:00,The company can afford to pay dividends and buy back stock because it is flush with cash after $3.6 billion in asset sales over the first two fiscal quarters.,0.8443146347999573,0.017881600186228752,0.13780377805233002,positive,0.8264330625534058
+23,2015-04-28 05:26:00,"With such an aggressive share repurchase program, though, P&G did not have much room to pass along a more significant dividend increase.",0.7812601923942566,0.04934416338801384,0.16939562559127808,positive,0.7319160103797913
+24,2015-04-28 05:26:00,"By contrast, Colgate-Palmolive is rewarding shareholders with stronger dividend increases.",0.947963297367096,0.017832273617386818,0.03420443832874298,positive,0.9301310181617737
+25,2015-04-28 05:26:00,"It increased its payout by 6% this year, roughly double P&G's 2015 raise.",0.956680178642273,0.0190738532692194,0.02424599602818489,positive,0.9376063346862793
+26,2015-04-28 05:26:00,Colgate-Palmolive can be more generous with its dividend increases than P&G because it spends much less on share buybacks.,0.6334754824638367,0.03527471795678139,0.33124977350234985,positive,0.5982007384300232
+27,2015-04-28 05:26:00,"In 2014, Colgate-Palmolive generated $2.5 billion of free cash flow.",0.23260655999183655,0.007871691137552261,0.7595217823982239,neutral,0.22473487257957458
+28,2015-04-28 05:26:00,"It paid $1.4 billion in dividends in that time, for a more modest 56% free cash flow payout ratio.",0.20857101678848267,0.15157879889011383,0.6398502588272095,neutral,0.056992217898368835
+29,2015-04-28 05:26:00,"Moreover, the company spent just $1.5 billion on share buybacks.",0.024676622822880745,0.03346473351120949,0.9418585896492004,neutral,-0.008788110688328743
+30,2015-04-28 05:26:00,"Importantly, Colgate-Palmolive nearly covered both its dividend and share repurchases with free cash flow.",0.8665224313735962,0.01860176771879196,0.11487570405006409,positive,0.8479206562042236
+31,2015-04-28 05:26:00,"Procter & Gamble stock yields 3.1%, which is higher than Colgate-Palmolive's 2.3% yield.",0.931512176990509,0.025618910789489746,0.04286884889006615,positive,0.9058932662010193
+32,2015-04-28 05:26:00,This gives it an advantage for investors who need more income right now.,0.8723920583724976,0.016435803845524788,0.1111721396446228,positive,0.8559562563896179
+33,2015-04-28 05:26:00,But with time Colgate-Palmolive's higher dividend growth should allow it to catch up to P&G.,0.9515873789787292,0.017177777364850044,0.031234830617904663,positive,0.9344096183776855
+34,2015-04-28 05:26:00,This is a key factor for dividend growth investors to keep in mind.,0.07962307333946228,0.007403135299682617,0.9129738211631775,neutral,0.07221993803977966
+35,2015-04-28 05:26:00,"The key takeaway is that P&G remains a Dividend Aristocrat, but the company is only able to increase its dividend by small amounts, partly due to a tough currency headwind.",0.9132793545722961,0.0430649034678936,0.043655674904584885,positive,0.8702144622802734
+36,2015-04-28 05:26:00,But Colgate-Palmolive is facing the same currency pressures and managed a bigger dividend increase.,0.9367772340774536,0.01840442419052124,0.044818341732025146,positive,0.9183728098869324
+37,2015-04-28 05:26:00,"P&G could easily shift its capital allocation program to spend more on dividends and less on buybacks, but so far has not done so.",0.4344007670879364,0.05129285156726837,0.5143064260482788,neutral,0.38310790061950684
+38,2015-04-28 05:26:00,"Colgate-Palmolive has decided not to splurge on buybacks, and as a result, stands as the better dividend stock of the two.",0.8976420760154724,0.020840758457779884,0.08151713013648987,positive,0.8768013119697571
+39,2015-04-28 05:26:00,"Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets and the coming revolution in technology.",0.06448464840650558,0.04560031369328499,0.8899150490760803,neutral,0.018884334713220596
+40,2015-04-28 05:26:00,And its stock price has nearly unlimited room to run for early-in-the-know investors!,0.2341633439064026,0.014272828586399555,0.7515637874603271,neutral,0.2198905199766159
+41,2015-04-28 05:26:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+42,2015-04-28 05:26:00,"The article Forget Procter & Gamble, Here's a Better Dividend Stock to Buy originally appeared on Fool.com.",0.06646789610385895,0.007541703525930643,0.9259904026985168,neutral,0.05892619118094444
+43,2015-04-28 05:26:00,Bob Ciura has no position in any stocks mentioned.,0.009522417560219765,0.040352046489715576,0.950125515460968,neutral,-0.03082962892949581
+44,2015-04-28 05:26:00,The Motley Fool recommends Procter & Gamble.,0.04527987167239189,0.030770104378461838,0.9239500164985657,neutral,0.014509767293930054
+45,2015-04-28 05:26:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+46,2015-04-28 05:26:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+47,2015-04-28 05:26:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+48,2015-04-28 05:26:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+49,2015-04-28 05:26:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+50,2015-04-28 05:26:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+51,2015-04-28 05:26:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

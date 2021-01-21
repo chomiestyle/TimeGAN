@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2009-11-04 03:51:00,"While doing some research on the Dow Jones Industrial Average, I was disappointed to discover how skewed it is toward just a few of its components and how dangerous it is for the world to use it as a benchmark for the American markets.",0.040413934737443924,0.6909939050674438,0.26859214901924133,negative,-0.6505799889564514
+1,2009-11-04 03:51:00,"The DJIA is a price weighted index, which simply means that the weighting of the index is based on the price of each component.",0.015382378362119198,0.007953819818794727,0.9766637682914734,neutral,0.0074285585433244705
+2,2009-11-04 03:51:00,By price I do not mean Market Capitalization but I mean the actual price it is trading at.,0.01787831448018551,0.008691667579114437,0.9734299778938293,neutral,0.009186646901071072
+3,2009-11-04 03:51:00,"Please look at the table below to see what I mean:
+
+As you can see from the table above, the top 10 companies on the list represent 53.51% of the Index , so for example if all those 10 companies have a terrible day and the rest of the 20 have a decent day, the DJIA Index will still show a large loss.",0.0327240489423275,0.8144330382347107,0.15284284949302673,negative,-0.7817090153694153
+4,2009-11-04 03:51:00,"Here is the same table but by Market Capitalization ($billions) instead;
+
+As you can see the top ten stocks equal 40.75% (when judged by market cap) of the Index instead of the 53.51% that is used to actually measure it by price.",0.029628509655594826,0.08190563321113586,0.8884658813476562,neutral,-0.05227712541818619
+5,2009-11-04 03:51:00,"The real problem with the index is not the top 10 stocks but the bottom 11 instead, which when taken by price represent just 18.08% of the index, but when judged by market cap represent 36.03% of the total market cap of the Index.",0.0231391042470932,0.5704201459884644,0.40644073486328125,negative,-0.54728102684021
+6,2009-11-04 03:51:00,Finally here are the two tables combined that will show you what a mess the DJIA Index is and why it is so dangerous for market participants to rely on it as their benchmark.,0.062319859862327576,0.03750208765268326,0.900178074836731,neutral,0.024817772209644318
+7,2009-11-04 03:51:00,"In conclusion, my opinion would be to stop using the Index until it is based on Market Capitalization instead of price.",0.015042685903608799,0.04050282761454582,0.9444544911384583,neutral,-0.025460142642259598
+8,2009-11-04 03:51:00,"In my own work I only use the NYSE Index and you can read why here: seekingalpha.com/article/168636-nyse-the...
+
+Disclosure:Long MSFT, IBM, JNJ and MRK, with no position in the others.",0.012194559909403324,0.03406858444213867,0.9537369012832642,neutral,-0.021874025464057922
+9,2009-11-04 03:51:00,"The Fine Print: As Registered Investment Advisors, we see it as our responsibility to advise the following: We do not know your personal financial situation, so the information contained in this communiqué represents the opinions of Peter ""Mycroft"" Psaras, and should not be construed as personalized investment advice.",0.01133984886109829,0.03853350505232811,0.950126588344574,neutral,-0.02719365619122982
+10,2009-11-04 03:51:00,It should not be assumed that investing in any securities we are investing in will always be profitable.,0.08562260866165161,0.005685730837285519,0.9086916446685791,neutral,0.07993687689304352
+11,2009-11-04 03:51:00,"We take our research seriously, we do our best to get it right, and we ""eat our own cooking,"" but we could be wrong, hence our full disclosure as to whether we own or are buying the investments we write about.",0.04084858298301697,0.026430755853652954,0.9327206611633301,neutral,0.014417827129364014
+12,2009-11-04 03:51:00,"See also Halloween: The Kentucky Derby of Retail Seasons on seekingalpha.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01043707225471735,0.01709924265742302,0.9724637269973755,neutral,-0.006662170402705669

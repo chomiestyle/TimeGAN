@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-09 02:00:00,"Microsoft Corporation ( NASDAQ : MSFT ) stock has nearly doubled since February 2014, when Satya Nadella succeeded Steve Ballmer as CEO.",0.9211045503616333,0.016405899077653885,0.06248955428600311,positive,0.9046986699104309
+1,2017-08-09 02:00:00,"Ballmer, a friend of Bill Gates who joined Microsoft in 1980, emphasized hardware and the cloud, introducing the Windows Phone and the Surface tablet.",0.1290554404258728,0.006279643625020981,0.8646649122238159,neutral,0.12277579307556152
+2,2017-08-09 02:00:00,"However, Ballmer famously underestimated Apple Inc. ( NASDAQ : AAPL ) and its iPhone in 2007.",0.05142420530319214,0.8538609743118286,0.09471478313207626,negative,-0.8024367690086365
+3,2017-08-09 02:00:00,"As computing underwent a platform shift, going from desktop to mobile, Windows fell behind Apple and Alphabet Inc ( NASDAQ : GOOGL , NASDAQ: GOOG ) , and their iOS and Android operating systems.",0.39018359780311584,0.09989054501056671,0.5099258422851562,neutral,0.29029303789138794
+4,2017-08-09 02:00:00,"Ballmer then doubled down, buying the mobile phone division of Nokia Oyj(ADR) ( NYSE: NOK ) in 2013.",0.3302089273929596,0.013228065334260464,0.6565629839897156,neutral,0.31698086857795715
+5,2017-08-09 02:00:00,But it was too late.,0.17842963337898254,0.3418419063091278,0.47972849011421204,neutral,-0.16341227293014526
+6,2017-08-09 02:00:00,Android and iOS had won the mobile war.,0.7733451724052429,0.04691815748810768,0.1797366589307785,positive,0.7264270186424255
+7,2017-08-09 02:00:00,"Under Nadella, Microsoft dialed back on hardware, writing off $7.6 billion from the Nokia deal and cutting 7,800 jobs.",0.019741924479603767,0.9699611067771912,0.010296979919075966,negative,-0.9502191543579102
+8,2017-08-09 02:00:00,"But Nadella continued to focus on the cloud, with Microsoft Azure growing faster than its competitors, Google Cloud and Amazon.com, Inc.'s ( NASDAQ : AMZN ) AWS.",0.9093528389930725,0.01861603744328022,0.0720311626791954,positive,0.8907368183135986
+9,2017-08-09 02:00:00,"FAAMG serves as a useful acronym, but sometimes we forget the differences between these different tech giants.",0.041566479951143265,0.07154516130685806,0.8868883848190308,neutral,-0.029978681355714798
+10,2017-08-09 02:00:00,"Some technology companies deal primarily with individual consumers, while others mostly deal with businesses, and some with a mix of the two.",0.010338958352804184,0.011967825703322887,0.9776932597160339,neutral,-0.0016288673505187035
+11,2017-08-09 02:00:00,"Facebook, Alphabet, Apple and Amazon are all very customer-facing firms; we deal with them every day, and most people have a general idea of what they do.",0.02365482971072197,0.010141030885279179,0.9662041664123535,neutral,0.013513798825442791
+12,2017-08-09 02:00:00,"But people generally know less about technology companies primarily serving other businesses, such as International Business Machines Corp. ( NYSE : IBM ) and Oracle Corporation ( NYSE : ORCL ).",0.01681705377995968,0.1336434930562973,0.8495395183563232,neutral,-0.11682643741369247
+13,2017-08-09 02:00:00,These companies provide software and cloud services to companies to help day-to-day operations run smoothly.,0.17894773185253143,0.006041341461241245,0.8150109052658081,neutral,0.17290638387203217
+14,2017-08-09 02:00:00,"They sell special software for things like enterprise resource planning (ERP), customer relationship management (CRM) and database management.",0.0186268649995327,0.0064903791062533855,0.9748827815055847,neutral,0.012136485427618027
+15,2017-08-09 02:00:00,"To a greater extent than its peers, Microsoft straddles both worlds, enterprise and consumer.",0.2919113039970398,0.008563010022044182,0.6995257139205933,neutral,0.28334829211235046
+16,2017-08-09 02:00:00,It likes it that way.,0.1981242150068283,0.009329785592854023,0.7925459742546082,neutral,0.18879443407058716
+17,2017-08-09 02:00:00,"In a 2014 interview , Ballmer stated that Microsoft doesn't want to be an IBM, selling mostly to businesses but not to consumers, or an Apple, selling mostly to consumers but little to businesses.",0.017216727137565613,0.07523160427808762,0.907551646232605,neutral,-0.058014877140522
+18,2017-08-09 02:00:00,"I see Microsoft as a hybrid of the two, and the most business-focused of the five top tech firms.",0.12190544605255127,0.006819851230829954,0.8712746500968933,neutral,0.11508559435606003
+19,2017-08-09 02:00:00,"In 2013, MSFT earned 55% of its revenue from the enterprise customer segment.",0.01939462311565876,0.009867308661341667,0.9707381129264832,neutral,0.009527314454317093
+20,2017-08-09 02:00:00,"I couldn't find revenue by customer segment in more recent annual and quarterly Microsoft reports, but we can look at the company's different product segments and their most likely users.",0.012989894486963749,0.012332986108958721,0.9746770858764648,neutral,0.0006569083780050278
+21,2017-08-09 02:00:00,Microsoft reports its revenue in three main product segments.,0.015768470242619514,0.0070986379869282246,0.9771329164505005,neutral,0.008669832721352577
+22,2017-08-09 02:00:00,"More Personal Computing: This includes the Windows operating system, devices such as the Surface Pro, gaming and advertising.",0.014036453329026699,0.007900362834334373,0.97806316614151,neutral,0.006136090494692326
+23,2017-08-09 02:00:00,"This segment accounted for 43.97% of Microsoft's non-GAAP revenue in 2016, 40.11% in 2017 and 35.71% in the most recent quarter.",0.01932472363114357,0.012731027789413929,0.967944324016571,neutral,0.006593695841729641
+24,2017-08-09 02:00:00,"• The 10 Best Dividend Stocks in Tech
+
+As you might guess, this involves individual consumers more than businesses.",0.09429998695850372,0.008998692966997623,0.8967013359069824,neutral,0.08530129492282867
+25,2017-08-09 02:00:00,"Intelligent Cloud: This segment includes things like Azure, Microsoft SQL Server and Windows Server, as well as consulting services.",0.01632455736398697,0.006718013901263475,0.9769574403762817,neutral,0.009606543928384781
+26,2017-08-09 02:00:00,27.23% of non-GAAP revenue came from this segment in 2016 and 28.39% in 2017.,0.018318019807338715,0.01585484854876995,0.9658270478248596,neutral,0.0024631712585687637
+27,2017-08-09 02:00:00,"Consumers like you and I may use things like Windows and the Surface Pro, but we generally don't buy or rent our own servers.",0.012193966656923294,0.015894871205091476,0.9719111323356628,neutral,-0.0037009045481681824
+28,2017-08-09 02:00:00,"Microsoft put revenue from its Office and Dynamics software in the final segment, Productivity and Business Processes.",0.12818031013011932,0.00680597173050046,0.8650137186050415,neutral,0.12137433886528015
+29,2017-08-09 02:00:00,"This segment accounted for 28.8% of non-GAAP revenue in 2016, 31.5% in 2017 and 34.19% in the most recent quarter.",0.018429378047585487,0.019297583028674126,0.962273120880127,neutral,-0.0008682049810886383
+30,2017-08-09 02:00:00,"Not all this revenue comes from businesses, since Office 365 includes both Commercial and Consumer versions.",0.01571081392467022,0.013088256120681763,0.9712008833885193,neutral,0.0026225578039884567
+31,2017-08-09 02:00:00,"However, MSFT earned more revenue from Office 365 Commercial than Office 365 Consumer.",0.3708745539188385,0.11414942890405655,0.5149760246276855,neutral,0.25672513246536255
+32,2017-08-09 02:00:00,And who uses CRM software?,0.04821629449725151,0.051855772733688354,0.8999279141426086,neutral,-0.003639478236436844
+33,2017-08-09 02:00:00,Mostly businesses.,0.023196754977107048,0.012561199255287647,0.9642420411109924,neutral,0.0106355557218194
+34,2017-08-09 02:00:00,Microsoft's More Personal Computing segment appears to be shrinking as a share of total revenue.,0.01807941496372223,0.9668282270431519,0.015092240646481514,negative,-0.9487488269805908
+35,2017-08-09 02:00:00,"This suggests that while Microsoft may still be a hybrid of Apple and IBM, it's gradually becoming less like the former and more like the latter.",0.051894161850214005,0.11379896104335785,0.8343068957328796,neutral,-0.061904799193143845
+36,2017-08-09 02:00:00,"• How Bank of America Corp (BAC) Stock Will Reach $30
+
+This isn't entirely new, and it was noted in a 2014 article.",0.10836721211671829,0.008573923259973526,0.8830588459968567,neutral,0.09979328513145447
+37,2017-08-09 02:00:00,"Microsoft, along with Salesforce.com, Inc. (NYSE: CRM ) , leads in the enterprise software-as-a-service (SaaS) market .",0.23819075524806976,0.006861831992864609,0.7549474239349365,neutral,0.23132891952991486
+38,2017-08-09 02:00:00,Office Commercial and Dynamics CRM are some of the company's fastest-growing revenue streams next to Azure.,0.5191092491149902,0.011626962572336197,0.46926379203796387,positive,0.5074822902679443
+39,2017-08-09 02:00:00,BrandZ named MSFT the world's most valuable business-to-business (B2B) brand last year.,0.9178517460823059,0.016019530594348907,0.0661286786198616,positive,0.9018322229385376
+40,2017-08-09 02:00:00,"BrandZ gave MSFT a B2B brand value of over $121 billion, ahead of second-place IBM with $86.2 billion.",0.7963746190071106,0.01714610680937767,0.1864793449640274,positive,0.7792285084724426
+41,2017-08-09 02:00:00,"Microsoft's acquisition of LinkedIn, the world's largest professional network, will probably increase its focus on the business segment.",0.8837842345237732,0.012610852718353271,0.10360489785671234,positive,0.8711733818054199
+42,2017-08-09 02:00:00,"As of writing, Lucas Hahn did not hold a position in any of the aforementioned securities.",0.008100081235170364,0.026374801993370056,0.9655251502990723,neutral,-0.018274720758199692
+43,2017-08-09 02:00:00,"• 10 Dogs of 2017 That Will Become 2018's Best Stocks to Buy
+• 7 Cheap Dividend Stocks to Buy for $20 or Less
+
+The post Buy Microsoft Corporation (MSFT) Stock for Its ""Hybrid"" Strength appeared first on InvestorPlace .",0.33234837651252747,0.013344057835638523,0.6543076038360596,neutral,0.3190043270587921
+44,2017-08-09 02:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

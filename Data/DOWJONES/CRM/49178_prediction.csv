@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-03 05:42:00,The secrets of success for many of the world's top CEOs really aren't that secret.,0.035987045615911484,0.03544868528842926,0.9285643100738525,neutral,0.0005383603274822235
+1,2017-05-03 05:42:00,And the keys to how they achieved success can often be applicable for every person regardless of career stage.,0.07299336045980453,0.007513698190450668,0.9194929599761963,neutral,0.06547966599464417
+2,2017-05-03 05:42:00,"That's certainly the case with the following five CEOs: Facebook 's (NASDAQ: FB) Mark Zuckerberg, Berkshire Hathaway 's (NYSE: BRK-A) (NYSE: BRK-B) Warren Buffett, PepsiCo 's (NYSE: PEP) Indra Nooyi, Salesforce.com 's (NYSE: CRM) Marc Benioff, and NVIDIA 's (NASDAQ: NVDA) Jen-Hsun Huang.",0.03618868067860603,0.027066273614764214,0.9367450475692749,neutral,0.00912240706384182
+3,2017-05-03 05:42:00,Here are five lessons you can learn from these tremendously successful CEOs.,0.23618261516094208,0.009424564428627491,0.7543928027153015,neutral,0.22675804793834686
+4,2017-05-03 05:42:00,"Mark Zuckerberg: Have a vision and stick with it
+
+Facebook founder and CEO Mark Zuckerberg was asked in 2016 about the top traits in successful leaders.",0.16840536892414093,0.011219149455428123,0.8203754425048828,neutral,0.15718622505664825
+5,2017-05-03 05:42:00,His No.,0.14473767578601837,0.1770360916852951,0.6782262921333313,neutral,-0.03229841589927673
+6,2017-05-03 05:42:00,1 response was to have a specific vision.,0.05216442421078682,0.0075752101838588715,0.9402603507041931,neutral,0.04458921402692795
+7,2017-05-03 05:42:00,Zuckerberg certainly had a vision when he started Facebook.,0.11979062855243683,0.008183406665921211,0.8720259666442871,neutral,0.11160722374916077
+8,2017-05-03 05:42:00,"Just as important, he stuck with that vision.",0.32849451899528503,0.02220327965915203,0.6493021845817566,neutral,0.30629125237464905
+9,2017-05-03 05:42:00,Multiple companies tried to buy Facebook over the years.,0.09073885530233383,0.013947466388344765,0.8953136205673218,neutral,0.07679139077663422
+10,2017-05-03 05:42:00,Zuckerberg turned them all down.,0.10936048626899719,0.33434081077575684,0.5562986731529236,neutral,-0.22498032450675964
+11,2017-05-03 05:42:00,"His vision for Facebook was and is ""to make the world more open and connected.""",0.517993152141571,0.010275200940668583,0.47173169255256653,positive,0.5077179670333862
+12,2017-05-03 05:42:00,"Despite multiple lucrative offers, Zuckerberg felt the best way to achieve that vision was to remain independent.",0.5463708639144897,0.01096206996589899,0.44266706705093384,positive,0.5354087948799133
+13,2017-05-03 05:42:00,This idea applies to those beginning their careers and those who have been in the workplace for years.,0.021464170888066292,0.012569508515298367,0.9659663438796997,neutral,0.008894662372767925
+14,2017-05-03 05:42:00,"Decide what it is you want to accomplish for yourself or for your company, and don't deviate from it.",0.03066032938659191,0.008034281432628632,0.9613053202629089,neutral,0.02262604795396328
+15,2017-05-03 05:42:00,Warren Buffett is best known as a legendary investor.,0.165188729763031,0.026439635083079338,0.8083716034889221,neutral,0.13874909281730652
+16,2017-05-03 05:42:00,"However, he has also been the successful CEO of Berkshire Hathaway for more than 50 years.",0.23061497509479523,0.011728392913937569,0.7576566934585571,neutral,0.2188865840435028
+17,2017-05-03 05:42:00,"There are plenty of lessons to learn from Buffett, but perhaps the most important one from his tenure as CEO is to surround yourself with a great team.",0.6000905632972717,0.01306172925978899,0.38684770464897156,positive,0.5870288610458374
+18,2017-05-03 05:42:00,"In his annual letter to shareholders, Buffett routinely praises the managers of the companies that Berkshire Hathaway owns.",0.11397193372249603,0.013167494907975197,0.8728605508804321,neutral,0.10080444067716599
+19,2017-05-03 05:42:00,It doesn't take him long in his letters to recount the success stories of executives who have created value for shareholders.,0.2231108546257019,0.012113058008253574,0.7647760510444641,neutral,0.2109977900981903
+20,2017-05-03 05:42:00,"Those managers tend to be very loyal to Berkshire, staying with the company for years.",0.24841195344924927,0.011525255627930164,0.7400627732276917,neutral,0.23688669502735138
+21,2017-05-03 05:42:00,"Of course, probably the best example of Buffett's surrounding himself with great people is his longtime business partner, Charlie Munger.",0.15242727100849152,0.008428539149463177,0.8391441702842712,neutral,0.14399872720241547
+22,2017-05-03 05:42:00,"Regardless of where you are in your career, this lesson from Buffett is a good one.",0.5526106357574463,0.016621064394712448,0.43076834082603455,positive,0.5359895825386047
+23,2017-05-03 05:42:00,"If you don't have control over the team at work, surround yourself with people outside of work who can help you grow and achieve your goals.",0.12914732098579407,0.011065385304391384,0.8597873449325562,neutral,0.11808193475008011
+24,2017-05-03 05:42:00,"If you're an entrepreneur, remember that your success depends on how successful your team can be.",0.35518011450767517,0.00935190636664629,0.6354679465293884,neutral,0.34582820534706116
+25,2017-05-03 05:42:00,"Ask Pepsi CEO Indra Nooyi how she became successful, and her answer will probably be that she developed a ""hip-pocket skill"" -- something she was known for being very good at doing.",0.16807930171489716,0.012767612934112549,0.8191531300544739,neutral,0.1553116887807846
+26,2017-05-03 05:42:00,"In Nooyi's case, that skill was to simplify the complex, whatever the issue might be.",0.09698796272277832,0.010128344409167767,0.8928836584091187,neutral,0.08685962110757828
+27,2017-05-03 05:42:00,Nooyi became known within Pepsi for having an uncanny ability to make complicated things simple.,0.2435179203748703,0.024965403601527214,0.7315167188644409,neutral,0.21855251491069794
+28,2017-05-03 05:42:00,"On multiple occasions as she was rising through the company's ranks, she was assigned tasks because of this relatively unique ability.",0.22180815041065216,0.03390565514564514,0.7442862391471863,neutral,0.18790249526500702
+29,2017-05-03 05:42:00,"A ""hip-pocket skill"" in effect becomes your unique selling point as an employee or vendor.",0.07468307763338089,0.009620088152587414,0.9156967997550964,neutral,0.0650629922747612
+30,2017-05-03 05:42:00,"It doesn't have to be the same as Indra Nooyi's, though.",0.026176918298006058,0.024126291275024414,0.9496967792510986,neutral,0.0020506270229816437
+31,2017-05-03 05:42:00,Identify a specific talent that you have and develop it as much as you can.,0.17157500982284546,0.006219771690666676,0.8222052454948425,neutral,0.16535523533821106
+32,2017-05-03 05:42:00,"Forbes magazine rates Salesforce CEO Marc Benioff as ""the decade's top innovator"" in 2016.",0.7378113865852356,0.02216249704360962,0.2400261014699936,positive,0.715648889541626
+33,2017-05-03 05:42:00,"That's a high honor, considering the level of innovation introduced over the past several years.",0.682408332824707,0.011187365278601646,0.30640438199043274,positive,0.6712209582328796
+34,2017-05-03 05:42:00,The key lesson from Benioff's career relates to his innovation: adapt and evolve.,0.3805468678474426,0.00955693144351244,0.6098962426185608,neutral,0.37098994851112366
+35,2017-05-03 05:42:00,Benioff was a pioneer in software-as-a-service.,0.13907095789909363,0.005912036169320345,0.8550170063972473,neutral,0.13315892219543457
+36,2017-05-03 05:42:00,He jumped into cloud computing early on.,0.09471327811479568,0.010985860601067543,0.8943008184432983,neutral,0.08372741937637329
+37,2017-05-03 05:42:00,Benioff's latest major focus is on artificial intelligence.,0.028118522837758064,0.008565174415707588,0.9633162617683411,neutral,0.019553348422050476
+38,2017-05-03 05:42:00,"With every major technology change that comes along, Benioff leads Salesforce to adapt and integrate the change into the company's strategy.",0.6587673425674438,0.01123726461082697,0.32999539375305176,positive,0.6475300788879395
+39,2017-05-03 05:42:00,"You don't have to be in technology, though, to do the same thing.",0.04782753065228462,0.013503484427928925,0.9386690258979797,neutral,0.0343240462243557
+40,2017-05-03 05:42:00,Adapting and evolving requires being aware of the big changes that are occurring that affect you directly.,0.06676799803972244,0.006554224528372288,0.9266777634620667,neutral,0.06021377444267273
+41,2017-05-03 05:42:00,"Once you identify those changes, you can determine what you need to do differently to best take advantage of them.",0.12594512104988098,0.007398391142487526,0.866656482219696,neutral,0.1185467317700386
+42,2017-05-03 05:42:00,"When The New York Times asked Jen-Hsun Huang what it's like to work at NVIDIA, the CEO mentioned two core values.",0.04189981520175934,0.011586797423660755,0.9465133547782898,neutral,0.030313018709421158
+43,2017-05-03 05:42:00,"First, he said employees needed to have ""the tolerance to take risks and the ability to learn from failure.""",0.38263821601867676,0.0148784089833498,0.6024833917617798,neutral,0.3677597939968109
+44,2017-05-03 05:42:00,"The second core value was similar to the first: Have intellectual honesty -- ""the ability to call a spade a spade, to as quickly as possible recognize that we've made a mistake, that we've gone the wrong way, and that we learn from it and quickly adjust.""",0.356729656457901,0.014177864417433739,0.6290925145149231,neutral,0.3425517976284027
+45,2017-05-03 05:42:00,Huang has lived out these core values.,0.20846548676490784,0.007518940605223179,0.7840155363082886,neutral,0.20094653964042664
+46,2017-05-03 05:42:00,"In the mid-1990s, NVIDIA almost went bankrupt.",0.026139765977859497,0.385553777217865,0.5883064866065979,neutral,-0.3594140112400055
+47,2017-05-03 05:42:00,Its NV1 chip wasn't successful.,0.04692669212818146,0.7571117877960205,0.19596149027347565,negative,-0.7101851105690002
+48,2017-05-03 05:42:00,The company was forced to lay off half of its employees.,0.01853649504482746,0.9709106683731079,0.01055282261222601,negative,-0.9523741602897644
+49,2017-05-03 05:42:00,"Huang learned from the mistakes, though, and led NVIDIA to launch another chip two years later that avoided the problems of the first chip.",0.5841655731201172,0.03401586040854454,0.38181862235069275,positive,0.5501497387886047
+50,2017-05-03 05:42:00,You'll have some failures along the way no matter what career path you take.,0.07052005082368851,0.3331212103366852,0.5963587760925293,neutral,-0.26260116696357727
+51,2017-05-03 05:42:00,"If you learn from them, though, they can become stepping stones to an even greater success.",0.77006596326828,0.01726912520825863,0.21266493201255798,positive,0.7527968287467957
+52,2017-05-03 05:42:00,"If you're like most Americans, you're a few years (or more) behind on your retirement savings.",0.05384125933051109,0.10082980990409851,0.8453289270401001,neutral,-0.04698855057358742
+53,2017-05-03 05:42:00,"But a handful of little-known ""Social Security secrets"" could help ensure a boost in your retirement income.",0.42587700486183167,0.05124306678771973,0.522879958152771,neutral,0.37463393807411194
+54,2017-05-03 05:42:00,"For example: one easy trick could pay you as much as $16,122 more... each year!",0.09205380827188492,0.02787143550813198,0.880074679851532,neutral,0.06418237090110779
+55,2017-05-03 05:42:00,"Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after.",0.35658568143844604,0.011904616840183735,0.6315096616744995,neutral,0.344681054353714
+56,2017-05-03 05:42:00,Simply click here to discover how to learn more about these strategies .,0.04130851849913597,0.009173430502414703,0.9495180249214172,neutral,0.03213508799672127
+57,2017-05-03 05:42:00,Keith Speights owns shares of Facebook and PepsiCo.,0.0184718519449234,0.01343265175819397,0.9680954217910767,neutral,0.005039200186729431
+58,2017-05-03 05:42:00,"The Motley Fool owns shares of and recommends Berkshire Hathaway (B shares), Facebook, Nvidia, and PepsiCo.",0.02234763465821743,0.013794336467981339,0.9638580679893494,neutral,0.008553298190236092
+59,2017-05-03 05:42:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+60,2017-05-03 05:42:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+61,2017-05-03 05:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

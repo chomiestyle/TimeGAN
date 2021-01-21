@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-05 10:46:00,"Among the underlying components of the S&P 500 index, we saw noteworthy options trading volume today in Salesforce.com Inc (Symbol: CRM), where a total of 50,205 contracts have traded so far, representing approximately 5.0 million underlying shares.",0.3885544538497925,0.028253816068172455,0.5831917524337769,neutral,0.36030063033103943
+1,2019-12-05 10:46:00,That amounts to about 94% of CRM's average daily trading volume over the past month of 5.3 million shares.,0.02709912694990635,0.007415478117763996,0.9654853343963623,neutral,0.01968364790081978
+2,2019-12-05 10:46:00,"Particularly high volume was seen for the $160 strike call option expiring December 06, 2019, with 3,133 contracts trading so far today, representing approximately 313,300 underlying shares of CRM.",0.241159126162529,0.010771368630230427,0.7480695247650146,neutral,0.23038776218891144
+3,2019-12-05 10:46:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+3M Co (Symbol: MMM) saw options trading volume of 21,324 contracts, representing approximately 2.1 million underlying shares or approximately 91.1% of MMM's average daily trading volume over the past month, of 2.3 million shares.",0.01812078431248665,0.015522226691246033,0.9663569927215576,neutral,0.002598557621240616
+4,2019-12-05 10:46:00,"Especially high volume was seen for the $162.50 strike put option expiring December 06, 2019, with 2,368 contracts trading so far today, representing approximately 236,800 underlying shares of MMM.",0.20701561868190765,0.010552662424743176,0.7824316620826721,neutral,0.1964629590511322
+5,2019-12-05 10:46:00,"Below is a chart showing MMM's trailing twelve month trading history, with the $162.50 strike highlighted in orange:
+
+And Laboratory Corporation of America Holdings (Symbol: LH) options are showing a volume of 5,112 contracts thus far today.",0.022079668939113617,0.04026617109775543,0.9376541972160339,neutral,-0.018186502158641815
+6,2019-12-05 10:46:00,"That number of contracts represents approximately 511,200 underlying shares, working out to a sizeable 91.1% of LH's average daily trading volume over the past month, of 561,340 shares.",0.16581349074840546,0.010379178449511528,0.8238073587417603,neutral,0.15543431043624878
+7,2019-12-05 10:46:00,"Especially high volume was seen for the $165 strike call option expiring February 21, 2020, with 4,002 contracts trading so far today, representing approximately 400,200 underlying shares of LH.",0.2734147310256958,0.012055544182658195,0.7145296931266785,neutral,0.26135918498039246
+8,2019-12-05 10:46:00,"Below is a chart showing LH's trailing twelve month trading history, with the $165 strike highlighted in orange:
+
+For the various different available expirations for CRM options, MMM options, or LH options, visit StockOptionsChannel.com.",0.009805075824260712,0.029999990016222,0.9601949453353882,neutral,-0.02019491419196129
+9,2019-12-05 10:46:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-24 01:57:00,This is what salesforce.com (NYSE: CRM) was afraid of.,0.04591973498463631,0.12376116961240768,0.8303191661834717,neutral,-0.07784143090248108
+1,2017-04-24 01:57:00,"Just months after Microsoft (NASDAQ: MSFT) closed its acquisition of professional networker LinkedIn, with the final purchase price coming in right around $27 billion, the software giant has now announced that it will be integrating LinkedIn with Dynamics 365 for Sales.",0.4491522014141083,0.009525099769234657,0.5413227677345276,neutral,0.43962711095809937
+2,2017-04-24 01:57:00,"None of this is surprising, as LinkedIn's trove of data was always what both Salesforce and Microsoft were after amid the bidding war early last year.",0.044708967208862305,0.011887561529874802,0.9434034824371338,neutral,0.0328214056789875
+3,2017-04-24 01:57:00,"It's also why Salesforce attempted to get European regulators to block the deal, believing that the end result would be anticompetitive; the EU signed off in December after Microsoft agreed to some concessions, and the deal closed just two days later.",0.04481067135930061,0.8920480012893677,0.06314127892255783,negative,-0.8472373485565186
+4,2017-04-24 01:57:00,"Microsoft says that many existing customer relationship management (CRM) and enterprise resource planning (ERP) systems are stuck in the past, and Dynamics 365, which offers a tightly integrated CRM and ERP platform, is the solution.",0.046027060598134995,0.08632846921682358,0.8676444888114929,neutral,-0.04030140861868858
+5,2017-04-24 01:57:00,"The company is now integrating LinkedIn Sales Navigator with Dynamics 365, which will allow salespeople to tap into LinkedIn's database of 500 million professionals.",0.40407106280326843,0.008686636574566364,0.5872423052787781,neutral,0.39538443088531494
+6,2017-04-24 01:57:00,This will take a few forms.,0.026729770004749298,0.008152628317475319,0.9651175737380981,neutral,0.01857714168727398
+7,2017-04-24 01:57:00,"Salespeople can pick up on signals across email, CRM, and LinkedIn for contextual recommendations.",0.05023793503642082,0.013608859851956367,0.9361532330513,neutral,0.036629073321819305
+8,2017-04-24 01:57:00,They will also be able to engage prospects with specialized content while getting lead updates.,0.26043567061424255,0.006743864621967077,0.7328205108642578,neutral,0.25369179248809814
+9,2017-04-24 01:57:00,"Finally, salespeople will be able to strengthen relationships by accessing LinkedIn profile data such as current and past job positions.",0.8660923838615417,0.0123710036277771,0.12153661996126175,positive,0.8537213802337646
+10,2017-04-24 01:57:00,"Microsoft says the combined offering will be available in July at ""about half the cost of competitive solutions in the market.""",0.15658530592918396,0.007585666608065367,0.8358290791511536,neutral,0.1489996463060379
+11,2017-04-24 01:57:00,"There's more where that came from
+
+There's more to the LinkedIn acquisition than just CRM integrations and data, though.",0.03208152577280998,0.006944000255316496,0.9609745144844055,neutral,0.0251375250518322
+12,2017-04-24 01:57:00,LinkedIn has also represented potential for Microsoft to jump into the human capital management (HCM) and human resource management (HRM) software space.,0.8521990180015564,0.013053237460553646,0.13474778831005096,positive,0.8391457796096802
+13,2017-04-24 01:57:00,ZDNet's Mary Jo Foley spotted a job listing a few months ago (about a month after the deal closed) that suggested that Microsoft was indeed interested.,0.08475217968225479,0.03810583055019379,0.8771420121192932,neutral,0.046646349132061005
+14,2017-04-24 01:57:00,"That's where Dynamics 365 for Talent comes in, which Microsoft is also announcing.",0.06529977917671204,0.012001368217170238,0.9226988554000854,neutral,0.05329841002821922
+15,2017-04-24 01:57:00,"Dynamics 365 for Talent will integrate with LinkedIn's flagship product, LinkedIn Recruiter, and will help handle tasks like recruiting, onboarding, and retention for HR departments.",0.3634983003139496,0.008752589114010334,0.6277490258216858,neutral,0.3547457158565521
+16,2017-04-24 01:57:00,Dynamics 365 for Talent also launches in July.,0.04944789409637451,0.005622924771159887,0.9449291825294495,neutral,0.043824970722198486
+17,2017-04-24 01:57:00,"LinkedIn is Nadella's biggest and best deal so far
+
+While I've generally been skeptical of most of Microsoft's blockbuster acquisitions in the past, many of which have resulted in multibillion-dollar writedowns that investors ultimately pay for, the LinkedIn deal makes an awful lot of sense and will prove instrumental in Microsoft further expanding its presence across enterprise software markets.",0.9236880540847778,0.014509453438222408,0.06180247291922569,positive,0.909178614616394
+18,2017-04-24 01:57:00,"That's despite the high cost (LinkedIn is Microsoft's largest acquisition to date), which raises the bar in terms of how well the company must integrate the acquisition and execute going forward.",0.8186839818954468,0.01956312172114849,0.161752849817276,positive,0.7991208434104919
+19,2017-04-24 01:57:00,"Microsoft has acquired dozens of small companies since Satya Nadella became CEO in 2014, but chief executives are often judged on the biggest deals; Nadella's predecessor Steve Ballmer had quite a few botched major deals on his scorecard, including but not limited to aQuantive and Nokia 's handset business.",0.05345005914568901,0.5983508825302124,0.3481990396976471,negative,-0.5449008345603943
+20,2017-04-24 01:57:00,"Nadella has already earned investors' confidence, and compelling deals like LinkedIn are exactly why.",0.9115664958953857,0.016118017956614494,0.07231545448303223,positive,0.8954485058784485
+21,2017-04-24 01:57:00,"10 stocks we like better than Microsoft
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.144730806350708,0.02607131190598011,0.829197883605957,neutral,0.11865949630737305
+22,2017-04-24 01:57:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+23,2017-04-24 01:57:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Microsoft wasn't one of them!",0.23639820516109467,0.013798929750919342,0.749802827835083,neutral,0.22259926795959473
+24,2017-04-24 01:57:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+25,2017-04-24 01:57:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+26,2017-04-24 01:57:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+27,2017-04-24 01:57:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+28,2017-04-24 01:57:00,"Evan Niu, CFA has no position in any stocks mentioned.",0.010245856828987598,0.05097489058971405,0.9387791752815247,neutral,-0.040729034692049026
+29,2017-04-24 01:57:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+30,2017-04-24 01:57:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+31,2017-04-24 01:57:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

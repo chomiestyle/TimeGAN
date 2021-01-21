@@ -1,0 +1,68 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-07-01 05:30:00,"As our quarantine headquarters migrated from the cozy accommodations of Los Living Room in March to the spaciousness of Puerto Backyarda in April, life got a bit more manageable.",0.2855580151081085,0.02434276044368744,0.6900992393493652,neutral,0.2612152695655823
+1,2020-07-01 05:30:00,"Then, in May, it got hot.",0.08044199645519257,0.017219319939613342,0.9023386836051941,neutral,0.06322267651557922
+2,2020-07-01 05:30:00,Really hot.,0.16942408680915833,0.017546726390719414,0.8130291700363159,neutral,0.15187735855579376
+3,2020-07-01 05:30:00,"""Want the hose?""",0.21998374164104462,0.34380924701690674,0.43620699644088745,neutral,-0.12382550537586212
+4,2020-07-01 05:30:00,I offered.,0.3487037122249603,0.07021865993738174,0.5810776352882385,neutral,0.2784850597381592
+5,2020-07-01 05:30:00,"""It doesn't feel like it's 103 if you get your feet wet.""",0.13864196836948395,0.4529452323913574,0.4084128141403198,negative,-0.31430327892303467
+6,2020-07-01 05:30:00,"My Puerto guest, a friend who'd stopped over for an afternoon beer (actually, three 100 calorie ""light hazy ales"") was not amused that we were stuck outside.",0.07377112656831741,0.5296866297721863,0.3965422511100769,negative,-0.45591551065444946
+7,2020-07-01 05:30:00,"The poor guy was wearing pants, and quite frankly, he didn't stand a chance.",0.09805839508771896,0.32752564549446106,0.574415922164917,neutral,-0.2294672429561615
+8,2020-07-01 05:30:00,It goes without saying that he has not yet returned.,0.020907288417220116,0.03741370141506195,0.9416789412498474,neutral,-0.016506412997841835
+9,2020-07-01 05:30:00,"But when he does, he'll be greeted by Puerto's newest darlingâthis sweet device that pulls, mists and blows water on anyone and everyone in range:
+
+""I got one on backorder,"" a Puerto visitor recently quipped.",0.13650938868522644,0.051653530448675156,0.8118370771408081,neutral,0.08485585451126099
+10,2020-07-01 05:30:00,"""Home Depot (HD)âam gonna pick it up Monday.""",0.14099793136119843,0.033661819994449615,0.8253402709960938,neutral,0.10733611136674881
+11,2020-07-01 05:30:00,My HD order experience was great.,0.5692329406738281,0.01190151460468769,0.41886553168296814,positive,0.5573314428329468
+12,2020-07-01 05:30:00,"Seamless from their standpoint, a bit spacey from mine.",0.0355164036154747,0.07672668993473053,0.8877569437026978,neutral,-0.04121028631925583
+13,2020-07-01 05:30:00,"With two sleeping kids in my backseat, I was parked in front of my house, punching furiously on my phone.",0.14862285554409027,0.1449311375617981,0.7064459919929504,neutral,0.0036917179822921753
+14,2020-07-01 05:30:00,"I dialed in the new mister and, so I thought, a bucket to go with it.",0.1309167742729187,0.020976582542061806,0.8481066823005676,neutral,0.10994019359350204
+15,2020-07-01 05:30:00,Pick up at the store?,0.11122925579547882,0.07873722165822983,0.8100335001945496,neutral,0.03249203413724899
+16,2020-07-01 05:30:00,"Nah, I wasn't going to risk opening the trunk and ending any naps short.",0.060545485466718674,0.16151806712150574,0.7779363989830017,neutral,-0.10097257792949677
+17,2020-07-01 05:30:00,I'd pay the extra fee to get the setup delivered to our doorstep.,0.0770585685968399,0.01126412209123373,0.9116773009300232,neutral,0.0657944455742836
+18,2020-07-01 05:30:00,"Early the next morning around 7:30amâearly for most people, we'd been up for a whileâI received my misting device with the lid to a five-gallon bucket.",0.10931883752346039,0.15438517928123474,0.7362959384918213,neutral,-0.04506634175777435
+19,2020-07-01 05:30:00,"I was impressed with the turnaround, even if HD had messed up and given me the bucket lid instead of the bucket.",0.8009990453720093,0.044639527797698975,0.15436145663261414,positive,0.7563595175743103
+20,2020-07-01 05:30:00,"Turns out it was ""my bad"" and not theirs.",0.08149327337741852,0.4046681225299835,0.5138385891914368,neutral,-0.3231748342514038
+21,2020-07-01 05:30:00,I'd indeed ordered a lid and no bucket.,0.06746269017457962,0.05238529294729233,0.8801521062850952,neutral,0.015077397227287292
+22,2020-07-01 05:30:00,Ironic because the mister requires a bucket and no lid!,0.07698807865381241,0.1967807114124298,0.7262312173843384,neutral,-0.1197926327586174
+23,2020-07-01 05:30:00,"A few days later, my bucket showed up, and the only reason it took so long is that I insisted on ordering camo.",0.13762658834457397,0.18882057070732117,0.6735528707504272,neutral,-0.05119398236274719
+24,2020-07-01 05:30:00,Home Depot the retailer has figured out its place in the new shopping landscape.,0.8186972737312317,0.015140686184167862,0.16616205871105194,positive,0.8035565614700317
+25,2020-07-01 05:30:00,"You can go into the store, or pull up curbside, or simply punch your order into your smartphone (hopefully correctly!)",0.0540110245347023,0.02589091658592224,0.9200981259346008,neutral,0.02812010794878006
+26,2020-07-01 05:30:00,and wait for it to show up at your door.,0.0561576671898365,0.037430427968502045,0.90641188621521,neutral,0.018727239221334457
+27,2020-07-01 05:30:00,"With more than 2,200 stores in North America, plenty of the population lives within driving or delivery range of one.",0.026686150580644608,0.012858927249908447,0.9604550004005432,neutral,0.01382722333073616
+28,2020-07-01 05:30:00,"Home Depot the stock, meanwhile, may still be a bit underrated.",0.08688805997371674,0.6918866634368896,0.22122526168823242,negative,-0.6049985885620117
+29,2020-07-01 05:30:00,The firm has upped its dividend by a generous 154% over the last five years.,0.9433748722076416,0.022106477990746498,0.03451858088374138,positive,0.9212684035301208
+30,2020-07-01 05:30:00,HD yields 2.4% today and its share price has some more room to run simply to catch up to its current payout.,0.9181289076805115,0.031714558601379395,0.05015651881694794,positive,0.8864143490791321
+31,2020-07-01 05:30:00,"(Future dividend hikes will further raise the bar on the stock's ""dividend magnet."")",0.5753085017204285,0.031195003539323807,0.39349648356437683,positive,0.5441135168075562
+32,2020-07-01 05:30:00,"If you're smacking your head about not buying HD on its recent plunge, pick your head up and pay attention this time.",0.10357993096113205,0.0679788589477539,0.8284411430358887,neutral,0.03560107201337814
+33,2020-07-01 05:30:00,We did not know what the virus's ultimate effect on retail would be in March.,0.017152555286884308,0.23509715497493744,0.7477502822875977,neutral,-0.21794459223747253
+34,2020-07-01 05:30:00,"Now, we know!",0.13980843126773834,0.02029547281563282,0.8398961424827576,neutral,0.11951296031475067
+35,2020-07-01 05:30:00,"As with any shakeup, there will be winners and losers and HD is going to be one of the winners, even if we do see business restrictions placed back ""on"" once again.",0.43083760142326355,0.02883160673081875,0.5403308272361755,neutral,0.40200600028038025
+36,2020-07-01 05:30:00,Another winner?,0.23678526282310486,0.13886508345603943,0.6243496537208557,neutral,0.09792017936706543
+37,2020-07-01 05:30:00,"Walmart (WMT), whom I have to thank for a similar heroic online shopping experience.",0.3432849943637848,0.014190693385899067,0.6425243020057678,neutral,0.3290942907333374
+38,2020-07-01 05:30:00,"Toilet paper was hard to come by until Wally-Dot-Com came through for BO, delivering not one but two packages of toilet paper over a three-week period.",0.2755734920501709,0.034320469945669174,0.6901060938835144,neutral,0.24125301837921143
+39,2020-07-01 05:30:00,"(Your dividend writer, as usual, took full credit for the keystrokes.)",0.049109578132629395,0.012017372064292431,0.9388730525970459,neutral,0.03709220513701439
+40,2020-07-01 05:30:00,Best Buy (BBY) has a nice curbside pickup situation going as well.,0.3523510992527008,0.015528482384979725,0.6321203708648682,neutral,0.33682262897491455
+41,2020-07-01 05:30:00,"I needed an adapter for my then-new computer earlier this year, so that I could use my external keyboard.",0.23909270763397217,0.012121171690523624,0.7487861514091492,neutral,0.22697153687477112
+42,2020-07-01 05:30:00,"(Typing 2000+ words on a laptop is not as fun as the ""work from anywhere"" ads depict.",0.039344578981399536,0.10440865159034729,0.856246829032898,neutral,-0.06506407260894775
+43,2020-07-01 05:30:00,"I need my standing desk, ergonomic keyboard and three screen battle station!)",0.04057931527495384,0.019839566200971603,0.9395810961723328,neutral,0.02073974907398224
+44,2020-07-01 05:30:00,BBY to the rescue.,0.6138765215873718,0.05150867626070976,0.3346147835254669,positive,0.562367856502533
+45,2020-07-01 05:30:00,"I punched the adapter order into my phone, hopped in my car, and was greeted by a Geek Squad member soon after I parked.",0.2912614345550537,0.08462096005678177,0.6241176724433899,neutral,0.20664048194885254
+46,2020-07-01 05:30:00,I didn't have to leave my car or even pause the financial podcast I was cranking.,0.06271500140428543,0.0620850995182991,0.8751999139785767,neutral,0.0006299018859863281
+47,2020-07-01 05:30:00,"Which of these three retail dividends should we shortlist for wave two (or wave one, part two)?",0.018834702670574188,0.00870563555508852,0.972459614276886,neutral,0.010129067115485668
+48,2020-07-01 05:30:00,"You know my mantraâstock prices eventually follow their dividends so, when in doubt, buy the dividends that are growing the fastest:
+
+Profit growth is all well and good but, eventually, we have to get our money back somehow!",0.6743136644363403,0.015937890857458115,0.3097483813762665,positive,0.6583757996559143
+49,2020-07-01 05:30:00,A higher payout goes straight into our pocket and also provides the stock price with a catalyst to move higher.,0.8564295172691345,0.016365237534046173,0.1272052824497223,positive,0.840064287185669
+50,2020-07-01 05:30:00,It's a win-win for us and a reason why we love rising cash flows that result in rising dividends.,0.6522064208984375,0.013881243765354156,0.33391234278678894,positive,0.6383251547813416
+51,2020-07-01 05:30:00,"These days, it's easier said than done!",0.10556375235319138,0.06640859693288803,0.828027606010437,neutral,0.039155155420303345
+52,2020-07-01 05:30:00,We must also play the role of armchair epidemiologists and public policy makers.,0.040139373391866684,0.006794754881411791,0.953065812587738,neutral,0.03334461897611618
+53,2020-07-01 05:30:00,"That said, however broader restrictions play out from here, Best Buy and Home Depot in particular should do fine from a business standpoint.",0.32956576347351074,0.011419861577451229,0.6590144038200378,neutral,0.31814590096473694
+54,2020-07-01 05:30:00,This means that any selloff in their stock prices is likely to be a buying opportunity.,0.36048823595046997,0.040772031992673874,0.598739743232727,neutral,0.319716215133667
+55,2020-07-01 05:30:00,We'll keep an eye out for an opportunity to add Best Buy and Home Depot shares to our retirement portfolios at bargain prices.,0.11669209599494934,0.00543189886957407,0.8778759837150574,neutral,0.11126019805669785
+56,2020-07-01 05:30:00,"If we can buy them on a big dip, they are the types of stocks that we'll hold for many years while we enjoy double-digit gains (and rising dividends).",0.20769542455673218,0.007804428692907095,0.7845001220703125,neutral,0.19989100098609924
+57,2020-07-01 05:30:00,"At the right prices, both stocks would make great additions to our Hidden Yields portfolio.",0.8197574019432068,0.013543706387281418,0.1666988730430603,positive,0.8062136769294739
+58,2020-07-01 05:30:00,"If you're reading this, you are not yet a subscriber to HY!",0.020511528477072716,0.04531748220324516,0.9341710209846497,neutral,-0.024805953726172447
+59,2020-07-01 05:30:00,Here's how we can loop you in and get you seven dividend growers that are flashing BUY right now.,0.07158549129962921,0.00700488593429327,0.9214096069335938,neutral,0.06458060443401337
+60,2020-07-01 05:30:00,"I outlined my basket of seven favorite ""overlooked"" recession-proof dividend growers in this emergency ""dividends to buy right now"" report.",0.11451443284749985,0.01792650669813156,0.8675590753555298,neutral,0.09658792614936829
+61,2020-07-01 05:30:00,It's yours with a risk-free test drive of Hidden Yields.,0.23983171582221985,0.01077047735452652,0.7493978142738342,neutral,0.22906124591827393
+62,2020-07-01 05:30:00,"Click here and I'll share the details, including the stock names, tickers and my ideal ""buy below"" prices.",0.031026972457766533,0.008355229161679745,0.9606177806854248,neutral,0.022671744227409363

@@ -1,0 +1,74 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-07-15 05:31:00,A turbulent stock market has been mostly good for investors in Smartsheet (NYSE: SMAR).,0.44183072447776794,0.43716293573379517,0.1210063248872757,positive,0.004667788743972778
+1,2019-07-15 05:31:00,"Shares in the company are up over 127% since their debut on the NYSE a year ago, indicating fervent demand for Smartsheet's self-described ""cloud-based platform for work management.""",0.9410601258277893,0.016877902671694756,0.04206197336316109,positive,0.9241822361946106
+2,2019-07-15 05:31:00,Strong results appear to be fueling the enthusiasm.,0.9186732172966003,0.02043337933719158,0.060893431305885315,positive,0.8982398509979248
+3,2019-07-15 05:31:00,"For example, gross margin now sits at 81.3% over the trailing 12 months, a three-year high and continuing a trend of ongoing improvement.",0.9468811750411987,0.018883254379034042,0.03423558175563812,positive,0.9279979467391968
+4,2019-07-15 05:31:00,"Revenue growth has remained relatively steady over that same period, trending between a high of 66% in fiscal 2018 to 58% in the year ended on April 30.",0.8942644000053406,0.018972989171743393,0.08676263689994812,positive,0.8752914071083069
+5,2019-07-15 05:31:00,"If there's a knock on the company, it's that 14 years after its founding in June 2005, Smartsheet remains unprofitable and isn't yet producing consistent cash from operations.",0.03754280135035515,0.7121136784553528,0.25034359097480774,negative,-0.6745708584785461
+6,2019-07-15 05:31:00,"Going public last year has since helped forestall any near-term issues with the burn rate -- i.e., between $13 million and $23 million over the last two and a half years.",0.8070498704910278,0.037574317306280136,0.15537576377391815,positive,0.7694755792617798
+7,2019-07-15 05:31:00,Smartsheet has $149.4 million in net cash and short-term investments on its balance sheet as of this writing.,0.018272096291184425,0.00919125322252512,0.9725366234779358,neutral,0.009080843068659306
+8,2019-07-15 05:31:00,"Investors should be paying close attention to that total, because Smartsheet will need at least some of that capital to fund further acquisitions.",0.4458722174167633,0.011132128536701202,0.5429956316947937,neutral,0.4347400963306427
+9,2019-07-15 05:31:00,"The company has been on a buying spree since late 2017, just months ahead of its public market debut.",0.31950587034225464,0.0684850737452507,0.6120089888572693,neutral,0.25102078914642334
+10,2019-07-15 05:31:00,Smartsheet is betting that project management in the cloud will be big business.,0.4321768879890442,0.009514477103948593,0.5583086013793945,neutral,0.4226624071598053
+11,2019-07-15 05:31:00,But it's also not the only one.,0.10749629884958267,0.07821177691221237,0.8142918944358826,neutral,0.0292845219373703
+12,2019-07-15 05:31:00,Source: Getty Images.,0.023057039827108383,0.01544923521578312,0.961493730545044,neutral,0.007607804611325264
+13,2019-07-15 05:31:00,"Business combinations can be a wonderful thing for the right company; salesforce.com (NYSE: CRM) has made buying up useful partner businesses a sort of corporate performance art, delivering handsome returns to investors who've stuck around to see the fruits of integration.",0.8314525485038757,0.013909503817558289,0.15463799238204956,positive,0.8175430297851562
+14,2019-07-15 05:31:00,In a moment we'll discuss whether Smartsheet has what it takes to sustain acquired growth as Salesforce has.,0.5752007961273193,0.00919122714549303,0.41560789942741394,positive,0.5660095810890198
+15,2019-07-15 05:31:00,"Before we do, though, let's have a look at where Smartsheet has been and how the business has changed.",0.02269877679646015,0.007941332645714283,0.9693599343299866,neutral,0.014757444150745869
+16,2019-07-15 05:31:00,The biggest difference from the early days?,0.18074412643909454,0.10157595574855804,0.7176799774169922,neutral,0.0791681706905365
+17,2019-07-15 05:31:00,"Three of Smartsheet's founders are out of the picture, with a fourth working a different day job.",0.026251979172229767,0.7556785941123962,0.2180694043636322,negative,-0.7294266223907471
+18,2019-07-15 05:31:00,"Brent Frei remains a board member, but his involvement in the company has been peripheral since he returned to Idaho to found TerraClear in December 2017.",0.01546123344451189,0.04086979478597641,0.9436690211296082,neutral,-0.025408562272787094
+19,2019-07-15 05:31:00,He's also president of the start-up.,0.04546520859003067,0.004875462967902422,0.9496593475341797,neutral,0.040589746087789536
+20,2019-07-15 05:31:00,"Before then, Frei and co-founders Eric Browne and John Creason were heavily involved in improving the product, which takes the familiar interface of a spreadsheet and layers in an assortment of integrations with Google, Salesforce, and other cloud-based tools to create a feature-rich project management platform.",0.5550011992454529,0.011680142022669315,0.4333186745643616,positive,0.5433210730552673
+21,2019-07-15 05:31:00,"Browne served 13 years in product management, for example, while Creason was the chief software architect.",0.02812579832971096,0.016056114807724953,0.9558180570602417,neutral,0.012069683521986008
+22,2019-07-15 05:31:00,"Both left in 2018, right about the time of the IPO.",0.009710672311484814,0.02334451861679554,0.9669448137283325,neutral,-0.013633846305310726
+23,2019-07-15 05:31:00,"A fourth co-founder, Maria Colacurcio, left Smartsheet in 2010.",0.015187918208539486,0.19297191500663757,0.7918401956558228,neutral,-0.1777839958667755
+24,2019-07-15 05:31:00,"Current Smartsheet chief Mark Mader has been at the helm throughout the early years, joining the company from Onyx, Frei's previous venture, just six months after launch.",0.04220137745141983,0.010601884685456753,0.9471967220306396,neutral,0.0315994918346405
+25,2019-07-15 05:31:00,He's the bridge to what the founders envisioned Smartsheet could be to what will ultimately become as a publicly traded entity.,0.45821040868759155,0.009671728126704693,0.5321179032325745,neutral,0.4485386908054352
+26,2019-07-15 05:31:00,Bolt-on acquisitions are going to be part of that future.,0.12274134159088135,0.005585384089499712,0.8716732859611511,neutral,0.11715595424175262
+27,2019-07-15 05:31:00,"So far, Mader and team have orchestrated three deals since Dec. 28, 2017, paying $35.1 million in total consideration for tuck-in products to enhance the Smartsheet platform.",0.5388002395629883,0.01063417550176382,0.4505656063556671,positive,0.5281660556793213
+28,2019-07-15 05:31:00,What's this say about future efforts at innovation?,0.08345038443803787,0.013017072342336178,0.9035325050354004,neutral,0.07043331116437912
+29,2019-07-15 05:31:00,"That's a tougher question with multiple potential answers, so last year I developed a four-question test to use in these sorts of situations.",0.08361096680164337,0.01145490724593401,0.9049341082572937,neutral,0.07215605676174164
+30,2019-07-15 05:31:00,"The higher the score, the more confident I tend to be in a company's ability to innovate at scale and generate new profits.",0.8744431138038635,0.014153155498206615,0.11140383034944534,positive,0.8602899312973022
+31,2019-07-15 05:31:00,"Here's how Smartsheet fares:
+• Does Smartsheet have internally developed products?",0.0362260639667511,0.005468018818646669,0.9583059549331665,neutral,0.030758045613765717
+32,2019-07-15 05:31:00,What are they?,0.07531040906906128,0.0827210396528244,0.8419684767723083,neutral,-0.0074106305837631226
+33,2019-07-15 05:31:00,When were they released?,0.058392155915498734,0.1058836504817009,0.8357241749763489,neutral,-0.047491494566202164
+34,2019-07-15 05:31:00,Yes (plus 2).,0.09277839213609695,0.014212620444595814,0.8930089473724365,neutral,0.07856576889753342
+35,2019-07-15 05:31:00,Smartsheet's core product is a customizable tool for managing projects.,0.05438947677612305,0.004398784134536982,0.9412117600440979,neutral,0.0499906912446022
+36,2019-07-15 05:31:00,"For years the team has built automations, integrations with other cloud products, reports, and more.",0.19411823153495789,0.005796735640615225,0.8000850081443787,neutral,0.18832150101661682
+37,2019-07-15 05:31:00,There's at least a decade of internal heavy lifting that's gone into making Smartsheet what it is today.,0.12977923452854156,0.008385499007999897,0.861835241317749,neutral,0.12139373272657394
+38,2019-07-15 05:31:00,• Is revenue growing faster than investment in R&D over the period when these products were released?,0.3969927430152893,0.014698321931064129,0.5883089303970337,neutral,0.3822944164276123
+39,2019-07-15 05:31:00,By how much?,0.06343317031860352,0.0569622702896595,0.8796046376228333,neutral,0.0064709000289440155
+40,2019-07-15 05:31:00,No (plus 0).,0.0158454068005085,0.022399071604013443,0.9617555737495422,neutral,-0.006553664803504944
+41,2019-07-15 05:31:00,"It's close, and I consider that a small problem.",0.03701614961028099,0.12795472145080566,0.835029125213623,neutral,-0.09093856811523438
+42,2019-07-15 05:31:00,Revenue is up 4.8 times from the close of fiscal 2016 to through the trailing 12 months.,0.9536553621292114,0.018150262534618378,0.028194352984428406,positive,0.9355050921440125
+43,2019-07-15 05:31:00,R&D is up 5.1 times over the same period.,0.942936897277832,0.019509989768266678,0.03755313158035278,positive,0.9234269261360168
+44,2019-07-15 05:31:00,"Were Smartsheet still solidly an organic growth story, the difference wouldn't worry me at all.",0.13118545711040497,0.01252958457916975,0.8562849760055542,neutral,0.11865587532520294
+45,2019-07-15 05:31:00,That's not what we have here.,0.03831334412097931,0.07892956584692001,0.8827571272850037,neutral,-0.040616221725940704
+46,2019-07-15 05:31:00,"Instead, Smartsheet is ramping up its acquisitions pipeline while still spending big on R&D -- a formula that's sure to crimp profits, and possibly cash flow, for the foreseeable future.",0.9160537123680115,0.014501914381980896,0.06944434344768524,positive,0.9015517830848694
+47,2019-07-15 05:31:00,• Yes (plus 1).,0.30911433696746826,0.02235993556678295,0.6685256958007812,neutral,0.28675439953804016
+48,2019-07-15 05:31:00,See above.,0.0361902117729187,0.04406875744462013,0.9197409749031067,neutral,-0.007878545671701431
+49,2019-07-15 05:31:00,Smartsheet is doing an excellent job exerting pricing power both on its core platform and its acquired technologies.,0.8968263864517212,0.012051383033394814,0.09112216532230377,positive,0.8847749829292297
+50,2019-07-15 05:31:00,• Can you point to evidence of new products that are being developed?,0.14761705696582794,0.008861241862177849,0.8435216546058655,neutral,0.13875581324100494
+51,2019-07-15 05:31:00,How soon will they be released?,0.04491736367344856,0.07700598239898682,0.8780766725540161,neutral,-0.032088618725538254
+52,2019-07-15 05:31:00,Sort of (plus 0.5).,0.028265120461583138,0.0169123075902462,0.9548225402832031,neutral,0.011352812871336937
+53,2019-07-15 05:31:00,"We don't really know, honestly.",0.023922163993120193,0.04006049782037735,0.9360173344612122,neutral,-0.016138333827257156
+54,2019-07-15 05:31:00,Giving Smartsheet a half-point here allows for the likelihood that the internal team could add new tweaks that improve the experience of committed users of the platform while Mader and team shop for the next add-on.,0.8556374311447144,0.014230090193450451,0.13013240694999695,positive,0.8414073586463928
+55,2019-07-15 05:31:00,"At a score of 3.5, Smartsheet will probably continue acquiring companies.",0.4146452248096466,0.0076551735401153564,0.577699601650238,neutral,0.40699005126953125
+56,2019-07-15 05:31:00,Small tuck-in deals that enhance the company's ability to bring tools into the platform and make them available to customers shouldn't be an issue.,0.6310408711433411,0.012400083243846893,0.35655900835990906,positive,0.6186407804489136
+57,2019-07-15 05:31:00,"To the contrary, they might accelerate growth from today's sub-$200 million revenue rate to $300 million and million and beyond over the next two years.",0.9194560050964355,0.01461854949593544,0.06592541188001633,positive,0.904837429523468
+58,2019-07-15 05:31:00,"Larger acquisitions -- sized at, say, $500 million or more -- are a different story because, that would require pivoting the business model, forcing whole teams to change how they do business and with whom.",0.03488459065556526,0.2561854124069214,0.7089300155639648,neutral,-0.22130082547664642
+59,2019-07-15 05:31:00,"I'd be a seller, and would even consider shorting shares of Smartsheet, were I to see a deal of that size any time before the company is generating at least $500 million in annual revenue.",0.17633473873138428,0.007341634947806597,0.8163236379623413,neutral,0.16899310052394867
+60,2019-07-15 05:31:00,Analysts tracked by S&P Global Market Intelligence have Smartsheet crossing that plateau by the end of 2022.,0.19760653376579285,0.03986600041389465,0.7625274658203125,neutral,0.1577405333518982
+61,2019-07-15 05:31:00,"10 stocks we like better than Smartsheet
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11557930707931519,0.028656788170337677,0.855763852596283,neutral,0.08692251890897751
+62,2019-07-15 05:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+63,2019-07-15 05:31:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Smartsheet wasn't one of them!",0.26579347252845764,0.01457619946449995,0.7196303009986877,neutral,0.2512172758579254
+64,2019-07-15 05:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+65,2019-07-15 05:31:00,Tim Beyers owns shares of Salesforce.com.,0.01489010825753212,0.013046970590949059,0.972062885761261,neutral,0.0018431376665830612
+66,2019-07-15 05:31:00,The Motley Fool owns shares of and recommends salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+67,2019-07-15 05:31:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

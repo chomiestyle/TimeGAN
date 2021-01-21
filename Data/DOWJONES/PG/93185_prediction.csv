@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-26 07:10:00,"In early trading on Tuesday, shares of 3M ( MMM ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 4.7%.",0.9418081641197205,0.028246302157640457,0.02994544431567192,positive,0.9135618805885315
+1,2016-01-26 07:10:00,"Year to date, 3M has lost about 4.4% of its value.",0.015954190865159035,0.946160078048706,0.037885744124650955,negative,-0.9302058815956116
+2,2016-01-26 07:10:00,"And the worst performing Dow component thus far on the day is Apple ( AAPL ), trading down 1.3%.",0.02060506120324135,0.9658089280128479,0.013585956767201424,negative,-0.9452038407325745
+3,2016-01-26 07:10:00,Apple is lower by about 6.7% looking at the year to date performance.,0.021311020478606224,0.9668470621109009,0.011841810308396816,negative,-0.9455360174179077
+4,2016-01-26 07:10:00,"Two other components making moves today are UnitedHealth Group ( UNH ), trading down 1.2%, and Procter & Gamble ( PG ), trading up 2.8% on the day.",0.03182024881243706,0.9303725957870483,0.03780710697174072,negative,-0.8985523581504822
+5,2016-01-26 07:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-03 05:42:00,I admit it.,0.2995182275772095,0.03065713867545128,0.6698246002197266,neutral,0.2688610851764679
+1,2017-11-03 05:42:00,I was wrong.,0.1901548057794571,0.2754029929637909,0.5344421863555908,neutral,-0.0852481871843338
+2,2017-11-03 05:42:00,"I've spent most of the year arguing against Microsoft Corporation (NASDAQ: MSFT ) stock, seeing the MSFT stock price as pricing in growth the company simply couldn't drive.",0.07515133917331696,0.6241265535354614,0.3007220923900604,negative,-0.5489752292633057
+3,2017-11-03 05:42:00,"Microsoft Azure clearly has growth potential, and the Surface line seems poised to take market share.",0.8955259919166565,0.014645719900727272,0.08982829749584198,positive,0.8808802962303162
+4,2017-11-03 05:42:00,"But the reliance on PCs and concerns about cannibalization, in my eyes, offset those positives.",0.4020540118217468,0.03946458920836449,0.5584813952445984,neutral,0.36258941888809204
+5,2017-11-03 05:42:00,"After a blowout first quarter earnings report last week, that argument seems pretty tough to make.",0.0609167218208313,0.6857224106788635,0.25336092710494995,negative,-0.6248056888580322
+6,2017-11-03 05:42:00,"Revenue rose 12% and margins expanded, with net income climbing 16% year-over-year.",0.9572743773460388,0.02071881853044033,0.022006813436746597,positive,0.9365555644035339
+7,2017-11-03 05:42:00,"As recently as September, I remained skeptical of the claim that this ""is not your father's Microsoft anymore"".",0.0596761554479599,0.3158951699733734,0.6244287490844727,neutral,-0.2562190294265747
+8,2017-11-03 05:42:00,"But with cloud strength growing, even this longtime bear has to admit that very well may be the case.",0.2755897641181946,0.03977954760193825,0.6846307516098022,neutral,0.23581022024154663
+9,2017-11-03 05:42:00,The bull case for Microsoft stock long has been based on the company's cloud potential.,0.3719632029533386,0.033951397985219955,0.5940853953361511,neutral,0.33801180124282837
+10,2017-11-03 05:42:00,"And of late, the company has validated that case and then some.",0.46013185381889343,0.02526097744703293,0.5146071314811707,neutral,0.4348708689212799
+11,2017-11-03 05:42:00,"Cloud computing platform Azure continues to soar, with revenue up 90% in Q1.",0.9525373578071594,0.01765935681760311,0.02980322204530239,positive,0.9348779916763306
+12,2017-11-03 05:42:00,That comes after 99% growth in fiscal 2017.,0.8691341280937195,0.0876603052020073,0.04320554807782173,positive,0.7814738154411316
+13,2017-11-03 05:42:00,That's not a surprise.,0.06653273850679398,0.023597072809934616,0.9098701477050781,neutral,0.04293566569685936
+14,2017-11-03 05:42:00,"Though the level of growth, particularly against a tough comparison, is impressive.",0.9026715755462646,0.018402932211756706,0.07892550528049469,positive,0.8842686414718628
+15,2017-11-03 05:42:00,"But I've long argued that Azure, while a solid business, can't necessarily be that big a part of the bull case for MSFT stock.",0.030571121722459793,0.06057078018784523,0.9088581204414368,neutral,-0.029999658465385437
+16,2017-11-03 05:42:00,"Azure revenue (estimated by Jefferies analyst John DiFucci at a $5.4 billion run rate) is only about 6% of Microsoft's total sales, even after the recent torrid growth.",0.022707397118210793,0.8104819655418396,0.16681064665317535,negative,-0.7877745628356934
+17,2017-11-03 05:42:00,"And Microsoft remains a distant second to Amazon.com, Inc. (NASDAQ: AMZN ) in the public cloud battle, with Amazon's cloud revenue rising a still-impressive 42% in its most recent quarter off a much larger base.",0.9361486434936523,0.03688434511423111,0.02696705050766468,positive,0.8992642760276794
+18,2017-11-03 05:42:00,"• These 7 Dow Jones Stocks Could Sink the Index
+
+Beyond Azure, much of Microsoft's cloud growth is coming simply from shifting existing customers, not getting new ones.",0.07440885901451111,0.6197941899299622,0.3057970106601715,negative,-0.5453853607177734
+19,2017-11-03 05:42:00,"For instance, Microsoft's cited $20 billion-plus run rate from commercial cloud revenue includes Office 365.",0.0659150704741478,0.010809806175529957,0.9232751131057739,neutral,0.055105265229940414
+20,2017-11-03 05:42:00,"And as DiFucci pointed out in a recent note, ""a large part [of Office 365] is not really a Cloud business…the Productivity Suite that everyone has is very similar, if not exactly like Office on-premise.""",0.035359710454940796,0.013210640288889408,0.9514296650886536,neutral,0.022149071097373962
+21,2017-11-03 05:42:00,"It's the same product, simply delivered differently, which in theory should imply overall modest revenue growth.",0.45076826214790344,0.016013434156775475,0.5332183241844177,neutral,0.4347548186779022
+22,2017-11-03 05:42:00,The product might be the same but the shift is growing Microsoft revenue.,0.6599162817001343,0.01791256107389927,0.32217109203338623,positive,0.6420037150382996
+23,2017-11-03 05:42:00,Office 365 commercial growth was a whopping 42% in Q1.,0.30224430561065674,0.03468576818704605,0.6630699634552002,neutral,0.2675585448741913
+24,2017-11-03 05:42:00,"Overall revenue, which accounts for customers shifted from license sales to cloud offerings, still grew 10%, much faster than I believed it would.",0.9537267684936523,0.01762464828789234,0.028648512437939644,positive,0.9361020922660828
+25,2017-11-03 05:42:00,It was an impressive rate in a zero- to low-growth PC sales environment.,0.930537760257721,0.01800002157688141,0.051462139934301376,positive,0.9125377535820007
+26,2017-11-03 05:42:00,"In addition, Dynamics, a competitor to Salesforce.com, Inc. (NYSE: CRM ), is gaining traction, with cloud growth of 69% and overall growth of 13%.",0.949383020401001,0.01693270169198513,0.03368423879146576,positive,0.9324502944946289
+27,2017-11-03 05:42:00,"Overall, it's not just Azure driving growth from cloud (or cloud-like) products, and that's a big deal for MSFT stock.",0.47547951340675354,0.011410125531256199,0.513110339641571,neutral,0.4640693962574005
+28,2017-11-03 05:42:00,Microsoft effectively is charging higher prices for delivering similar software over the cloud as opposed to through the desktop.,0.18138079345226288,0.021582333371043205,0.7970369458198547,neutral,0.15979845821857452
+29,2017-11-03 05:42:00,"That seems to be driving growth in the ~75% of cloud revenue beyond Azure, the same revenue whose contribution to growth looked relatively minimal just a couple of quarters ago.",0.5876129865646362,0.02193070575594902,0.39045628905296326,positive,0.5656822919845581
+30,2017-11-03 05:42:00,"Still Concerns About the MSFT Stock Price
+
+There's simply a lot more opportunity for growth here than I thought.",0.6843130588531494,0.03392378240823746,0.28176307678222656,positive,0.6503892540931702
+31,2017-11-03 05:42:00,"And after wavering on my bearishness back in September, the cloud strength in Q1 and Q4 eems to put to rest a lot of the concerns around MSFT stock.",0.49142587184906006,0.23651470243930817,0.2720593810081482,positive,0.2549111843109131
+32,2017-11-03 05:42:00,"That said, I do see some worries for Microsoft.",0.07893893867731094,0.2545987665653229,0.666462242603302,neutral,-0.17565983533859253
+33,2017-11-03 05:42:00,"The company's second-place problem persists, with the company lagging Amazon in cloud, Salesforce in CRM, Sony Corp (ADR) (NYSE: SNE ) in gaming and a host of rivals (including Apple Inc. (NASDAQ: AAPL )) in hardware.",0.019711975008249283,0.9039174318313599,0.07637057453393936,negative,-0.8842054605484009
+34,2017-11-03 05:42:00,"There's still a heavy reliance on PCs in the overall product portfolio, though Office growth of late mitigates that problem.",0.0938011109828949,0.3995472490787506,0.5066516399383545,neutral,-0.3057461380958557
+35,2017-11-03 05:42:00,And MSFT stock isn't looking nearly as cheap as it used to.,0.06537184864282608,0.25581568479537964,0.6788124442100525,neutral,-0.19044384360313416
+36,2017-11-03 05:42:00,"The current valuation suggests a P/E of about 22x FY18 EPS estimates, even backing out roughly $7 per share in net cash and investments.",0.20058125257492065,0.01805300824344158,0.781365692615509,neutral,0.18252824246883392
+37,2017-11-03 05:42:00,That's a multiple that incorporates quite a bit of growth going forward for some time.,0.29664626717567444,0.007896726951003075,0.6954569816589355,neutral,0.2887495458126068
+38,2017-11-03 05:42:00,"Of course, Microsoft is showing that kind of growth, and a 2%+ dividend yield sweetens the bull case.",0.8451041579246521,0.017119120806455612,0.137776717543602,positive,0.8279850482940674
+39,2017-11-03 05:42:00,"If the recent strength in cloud (and not just Azure) continues, there may be even more upside.",0.4854598939418793,0.0427534319460392,0.4717867076396942,positive,0.44270646572113037
+40,2017-11-03 05:42:00,"At the least, Microsoft has proven its ability to adapt to the new tech environment.",0.939593493938446,0.014405655674636364,0.04600095748901367,positive,0.9251878261566162
+41,2017-11-03 05:42:00,That seems to make it very unwise to keep betting against MSFT stock.,0.038321755826473236,0.2265699952840805,0.7351081967353821,neutral,-0.18824824690818787
+42,2017-11-03 05:42:00,"As of this writing, Vince Martin has no positions in any securities mentioned.",0.00855496246367693,0.019866647198796272,0.9715784192085266,neutral,-0.011311684735119343
+43,2017-11-03 05:42:00,The post How Microsoft Corporation Stock Earnings Destroy the Bear Case appeared first on InvestorPlace .,0.06952952593564987,0.26106327772140503,0.6694071888923645,neutral,-0.19153374433517456
+44,2017-11-03 05:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

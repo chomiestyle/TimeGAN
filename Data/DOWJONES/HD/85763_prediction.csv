@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-21 01:19:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2017-09-21 01:19:00,"Today's Research Daily features new research reports on 16 major stocks, including Mastercard (MA), Netflix (NFLX) and Honeywell International (HON).",0.04904363304376602,0.006735765840858221,0.9442206025123596,neutral,0.04230786859989166
+2,2017-09-21 01:19:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2017-09-21 01:19:00,"You can see all of today's research reports here >>>
+
+Buy-rated MasterCard 's stock has outperformed the industry year to date (+37.7% vs. +27.3%).",0.5894076228141785,0.38422590494155884,0.02636648900806904,positive,0.20518171787261963
+4,2017-09-21 01:19:00,"The company is well positioned for growth given its solid market position, ongoing expansion and digital initiatives, and significant opportunities from the secular shift toward electronic payments.",0.8851016163825989,0.012409832328557968,0.10248856246471405,positive,0.872691810131073
+5,2017-09-21 01:19:00,"Revenue growth has remained strong and will continue to grow on the back of its strong market position and attractive core business that continues to be driven by new deals, renewed agreements and expansion of service offerings.",0.9406156539916992,0.014064209535717964,0.045320045202970505,positive,0.9265514612197876
+6,2017-09-21 01:19:00,"The acquisition of VocaLink and NuData Security, complement the company's efforts to participate in new payment flows and enhance its safety and security offerings.",0.9330912828445435,0.01334654726088047,0.05356220528483391,positive,0.9197447299957275
+7,2017-09-21 01:19:00,The stock has seen the Zacks Consensus Estimate for current-year earnings being revised 2.6% upward over the last 60 days.,0.6629820466041565,0.24310137331485748,0.09391652047634125,positive,0.4198806881904602
+8,2017-09-21 01:19:00,(You can read the full research report on MasterCard here >>> ).,0.013421451672911644,0.011832918971776962,0.9747455716133118,neutral,0.0015885327011346817
+9,2017-09-21 01:19:00,"In the past year, Netflix shares have vastly outperformed the industry, gaining +93.6% vs. +33%.",0.8877538442611694,0.08937875926494598,0.022867392748594284,positive,0.7983750700950623
+10,2017-09-21 01:19:00,Netflix is benefitting from its focus on original programming and international expansion.,0.9101583957672119,0.012430007569491863,0.07741159945726395,positive,0.8977283835411072
+11,2017-09-21 01:19:00,The recent Emmy Award wins reflect the growing popularity of Netflix's original content.,0.8689484000205994,0.01386097352951765,0.11719062179327011,positive,0.855087399482727
+12,2017-09-21 01:19:00,The strength in content portfolio will help it to gain more subscribers across the globe.,0.9510254859924316,0.015730682760477066,0.033243849873542786,positive,0.9352948069572449
+13,2017-09-21 01:19:00,"Going forward, the company expects to add 0.75 million subscribers in the domestic streaming segment and 3.65 million subscribers in the international segment in the third quarter.",0.8436468839645386,0.01170741580426693,0.14464570581912994,positive,0.8319394588470459
+14,2017-09-21 01:19:00,The company's efforts to attract viewers through investing in more regional programming should also boost user base.,0.9513911604881287,0.017649518325924873,0.030959371477365494,positive,0.9337416291236877
+15,2017-09-21 01:19:00,"Moreover, the company expects to report profits from International operations in the quarter.",0.9353023767471313,0.015645509585738182,0.04905211180448532,positive,0.9196568727493286
+16,2017-09-21 01:19:00,"Nonetheless, investments in original/acquired content remain a drag on profitability.",0.022894462570548058,0.8872619271278381,0.08984371274709702,negative,-0.8643674850463867
+17,2017-09-21 01:19:00,The Zacks analyst believe that Netflix's ability to effectively manage costs will dictate its future prospects.,0.3183707594871521,0.020207250490784645,0.6614220142364502,neutral,0.298163503408432
+18,2017-09-21 01:19:00,(You can read the full research report on Netflix here >>> ).,0.01662958785891533,0.015257691964507103,0.9681127667427063,neutral,0.001371895894408226
+19,2017-09-21 01:19:00,"Shares of buy-rated Honeywell have outperformed the industry in the year to date period, increasing +19.7% vs. a -2.1% decline.",0.8327906131744385,0.1419910490512848,0.02521839365363121,positive,0.6907995939254761
+20,2017-09-21 01:19:00,The company's diversified business portfolio has the potential to earn consistent above-average returns and mitigate operating risks through a balanced organic and inorganic model.,0.7666410803794861,0.01048870850354433,0.22287018597126007,positive,0.7561523914337158
+21,2017-09-21 01:19:00,"The company's balanced mix of long- and short-cycle businesses, along with a decent organic growth in new products and expansion in high-growth regions augur well on a long-term perspective.",0.898563027381897,0.012984042055904865,0.08845283091068268,positive,0.885578989982605
+22,2017-09-21 01:19:00,"A diligent focus on working capital management, free cash flow generation and a conservative balance sheet remain key positives.",0.4774867296218872,0.018088411539793015,0.5044248700141907,neutral,0.4593983292579651
+23,2017-09-21 01:19:00,"With a flexible yet disciplined focus on cost and productivity, Honeywell remains focused on increasing its presence in high-growth regions.",0.8287191987037659,0.011393861845135689,0.1598869115114212,positive,0.8173253536224365
+24,2017-09-21 01:19:00,"However, adverse foreign currency translations, high R&D expenses to fend off competition and volatility in commodity prices are likely to peg back its growth momentum to some extent.",0.9252327680587769,0.041521571576595306,0.03324568644165993,positive,0.8837112188339233
+25,2017-09-21 01:19:00,(You can read the full research report on Honeywell here >>> ).,0.013559370301663876,0.012401213869452477,0.9740394353866577,neutral,0.001158156432211399
+26,2017-09-21 01:19:00,"Other noteworthy reports we are featuring today include Home Depot (HD), Goldman Sachs Group (GS) and BHP Billiton (BHP).",0.03417588397860527,0.005854828283190727,0.9599692821502686,neutral,0.028321055695414543
+27,2017-09-21 01:19:00,Will You Make a Fortune on the Shift to Electric Cars?,0.16753385961055756,0.018516888841986656,0.8139492273330688,neutral,0.14901697635650635
+28,2017-09-21 01:19:00,Here's another stock idea to consider.,0.05285736173391342,0.007070568855851889,0.9400720596313477,neutral,0.045786794275045395
+29,2017-09-21 01:19:00,"Much like petroleum 150 years ago, lithium power may soon shake the world, creating millionaires and reshaping geo-politics.",0.47791752219200134,0.07177354395389557,0.4503089487552643,positive,0.4061439633369446
+30,2017-09-21 01:19:00,Soon electric vehicles (EVs) may be cheaper than gas guzzlers.,0.5187358856201172,0.013680092990398407,0.4675840437412262,positive,0.5050557851791382
+31,2017-09-21 01:19:00,Some are already reaching 265 miles on a single charge.,0.453574001789093,0.02303212694823742,0.5233939290046692,neutral,0.43054187297821045
+32,2017-09-21 01:19:00,"With battery prices plummeting and charging stations set to multiply, one company stands out as the #1 stock to buy according to Zacks research.",0.515029788017273,0.07344300299882889,0.41152721643447876,positive,0.44158679246902466
+33,2017-09-21 01:19:00,It's not the one you think.,0.04626888781785965,0.042117830365896225,0.9116132855415344,neutral,0.004151057451963425
+34,2017-09-21 01:19:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+35,2017-09-21 01:19:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings TrendsandEarnings Preview reports.,0.02851882390677929,0.010605576448142529,0.9608755707740784,neutral,0.017913248389959335
+36,2017-09-21 01:19:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+Vertex has two cystic fibrosis (CF) drugs - Kalydeco & Orkambi - in its portfolio with blockbuster potential.",0.35809385776519775,0.0101766437292099,0.6317294836044312,neutral,0.34791719913482666
+37,2017-09-21 01:19:00,"The Zacks analyst says that Vertex's triple combination CF regimens are crucial for growth
+
+Per Zacks analysts, NextEra Energy (NEE) will grow from long-term investments in clean energy assets and improving economic condition in its service territory.",0.9458492994308472,0.014282237738370895,0.03986848145723343,positive,0.9315670728683472
+38,2017-09-21 01:19:00,The Zacks analyst believes that the Petro-Canada Lubricants buy has helped HollyFrontier expand into a high-margin business but is concerned about Renewable Fuel Standard costs.,0.8654648661613464,0.030451593920588493,0.1040836051106453,positive,0.8350132703781128
+39,2017-09-21 01:19:00,"Per the Zacks analyst, despite a saturated wireless market, T-Mobile US' network expansion plans of 5G trials, 4G LTE network expansion and deployment of LTU-technology bode well.",0.9163424968719482,0.013376465067267418,0.07028105109930038,positive,0.9029660224914551
+40,2017-09-21 01:19:00,"The Zacks Analyst thinks elevated iron-ore prices will boost BHP Billiton's near-term results amid major headwinds such as stiff mining market rivalry, outbreak of natural calamities.",0.9481780529022217,0.026909837499260902,0.024912066757678986,positive,0.9212682247161865
+41,2017-09-21 01:19:00,"Per the Zacks analyst, Lowe's pro customer strategy, omni-channel efforts and merchandising initiatives may help boost sales.",0.9552053809165955,0.0207205917686224,0.024074018001556396,positive,0.9344847798347473
+42,2017-09-21 01:19:00,"Per the Zacks Analyst, Regency is poised for solid growth backed by premium portfolio of grocery-anchored shopping centers.",0.9367583990097046,0.014659292995929718,0.0485822819173336,positive,0.9220991134643555
+43,2017-09-21 01:19:00,Such centers are usually necessity driven.,0.07498282194137573,0.05129658803343773,0.8737205862998962,neutral,0.023686233907938004
+44,2017-09-21 01:19:00,"Per the Zacks analyst, Home Depot is focused on Pro Customers category that posted solid sales in second-quarter.",0.8361373543739319,0.025890100747346878,0.1379726529121399,positive,0.8102472424507141
+45,2017-09-21 01:19:00,"Growth of this category is evident from Compact Power and Interline Brands acquisition
+
+Per the Zacks analyst, growing Cereal globally, improving U.S. yogurt, investing in differential growth opportunities and managing its foundation brands will help General Mills to boost sales.",0.9503225088119507,0.014822198078036308,0.03485536202788353,positive,0.9355003237724304
+46,2017-09-21 01:19:00,The Zacks analyst is upbeat on Thermo Fisher entering into the Contract Development Manufacturing Organization (CDMO) space through $7.2 billion Patheon buyout.,0.6514102220535278,0.01361402403563261,0.3349757194519043,positive,0.6377962231636047
+47,2017-09-21 01:19:00,A series of product launch raises hope.,0.8133159875869751,0.024247055873274803,0.16243697702884674,positive,0.7890689373016357
+48,2017-09-21 01:19:00,"As per the Zacks analyst, legal issues leading to higher expenses remain a concern for Goldman.",0.04201805591583252,0.8211240172386169,0.13685786724090576,negative,-0.7791059613227844
+49,2017-09-21 01:19:00,"Further, challenging environment depicting lower client activity levels add to the woes.",0.026434553787112236,0.9446226358413696,0.02894279919564724,negative,-0.9181880950927734
+50,2017-09-21 01:19:00,The Zacks analyst worries over Harris' revenue-related woes.,0.019176887348294258,0.9633732438087463,0.017449991777539253,negative,-0.944196343421936
+51,2017-09-21 01:19:00,High integration and restructuring costs from acquisition limit the bottom-line growth and increasing debt levels augments further fears.,0.09202741831541061,0.8791261911392212,0.028846461325883865,negative,-0.78709876537323
+52,2017-09-21 01:19:00,"Per the Zacks Analyst, Grainger is plagued by inflationary expenses and volatile raw material prices.",0.024411384016275406,0.9401151537895203,0.03547339886426926,negative,-0.9157037734985352
+53,2017-09-21 01:19:00,Unstable oil prices will hamper results due to high exposure in oil and gas markets.,0.02047988399863243,0.9566636085510254,0.022856533527374268,negative,-0.936183750629425
+54,2017-09-21 01:19:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+55,2017-09-21 01:19:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+56,2017-09-21 01:19:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+57,2017-09-21 01:19:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

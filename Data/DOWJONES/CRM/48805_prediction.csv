@@ -1,0 +1,98 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-24 05:30:00,"Chicago, IL -July 24, 2017 - Stocks in this week's article include Live Nation Entertainment, Inc. (NYSE: LYV - Free Report ), NeoGenomics, Inc. (NASDAQ: NEO - Free Report ), Salesforce.com, inc. (NYSE: CRM - Free Report ), Paycom Software, Inc. (NYSE: PAYC - Free Report ) and Covanta Holding Corporation (NYSE: CVA - Free Report ).",0.017919622361660004,0.0216378066688776,0.9604425430297852,neutral,-0.003718184307217598
+1,2017-07-24 05:30:00,"5 Toxic Stocks to Abandon or Play Short for Profit
+
+The success of an investor depends on proper identification of overpriced toxic stocks and the rightly priced ones.",0.07620086520910263,0.010479048825800419,0.9133201241493225,neutral,0.06572181731462479
+2,2017-07-24 05:30:00,"However, the over-bubble stocks and the fairly priced stocks are intermixed in the market place in such a way that it becomes very tough to differentiate between them.",0.029644688591361046,0.28438398241996765,0.6859713792800903,neutral,-0.25473928451538086
+3,2017-07-24 05:30:00,Investors who can figure out the toxic stocks and dump them at the right time are likely to benefit.,0.6085214614868164,0.017510706558823586,0.37396782636642456,positive,0.5910107493400574
+4,2017-07-24 05:30:00,"Usually, toxic stocks are susceptible to external shocks and are burdened with huge amount of debt.",0.03566804155707359,0.28313761949539185,0.6811943650245667,neutral,-0.24746957421302795
+5,2017-07-24 05:30:00,"Moreover, the price of the toxic stocks is unjustifiably high.",0.04579554498195648,0.5656559467315674,0.38854852318763733,negative,-0.5198603868484497
+6,2017-07-24 05:30:00,The irrationally high price of the toxic stocks is only short-lived as the intrinsic value of these stocks is lower than the current bloated price.,0.02321855165064335,0.9088677763938904,0.06791365891695023,negative,-0.8856492042541504
+7,2017-07-24 05:30:00,The high price of the toxic stocks can be attributed to either an irrational exuberance associated with them or some serious fundamental drawbacks in the stock.,0.035703614354133606,0.4965966045856476,0.46769979596138,negative,-0.4608929753303528
+8,2017-07-24 05:30:00,"If you own such stocks for a long stretch of time, you are likely to witness huge erosion in your wealth.",0.07309012860059738,0.6156561374664307,0.31125375628471375,negative,-0.5425660014152527
+9,2017-07-24 05:30:00,"On the other hand, if you can pinpoint the toxic stocks, you may gain by resorting to an investing strategy called short selling.",0.2273695021867752,0.014808022417128086,0.7578224539756775,neutral,0.2125614732503891
+10,2017-07-24 05:30:00,This strategy allows you to sell a stock first and then buy it when the price falls.,0.028492551296949387,0.0071497210301458836,0.9643576741218567,neutral,0.02134283073246479
+11,2017-07-24 05:30:00,"While short selling excels in bear markets, it typically loses money in bull markets.",0.0723898857831955,0.4307730793952942,0.4968370795249939,neutral,-0.3583831787109375
+12,2017-07-24 05:30:00,"So, identifying toxic stocks and disowning them at the right time is the key to shield your portfolio from big losses.",0.2489715814590454,0.03459041938185692,0.7164379954338074,neutral,0.2143811583518982
+13,2017-07-24 05:30:00,Profits can be made by short selling them.,0.024466658011078835,0.01647067442536354,0.9590626955032349,neutral,0.007995983585715294
+14,2017-07-24 05:30:00,"Here is a winning strategy that will help you to identify overpriced toxic stocks:
+
+Most recent Debt/Equity Ratio greater than the median industry average : High debt/equity ratio implies high leverage.",0.5066813230514526,0.01784672774374485,0.4754719138145447,positive,0.48883458971977234
+15,2017-07-24 05:30:00,High leverage indicates a huge level of repayment that the company has to make in connection with the debt amount.,0.12934015691280365,0.012604632414877415,0.8580551743507385,neutral,0.11673552542924881
+16,2017-07-24 05:30:00,P/E using 12-month forward EPS estimate greater than 50 : A very high forward P/E implies that a stock is highly overvalued.,0.27337369322776794,0.15099157392978668,0.5756346583366394,neutral,0.12238211929798126
+17,2017-07-24 05:30:00,% Change in F (1) and F (2) Estimate (12 Weeks) less than -5 : Negative EPS estimate revision for this and the next fiscal year during the past 12 weeks points to analysts' pessimism.,0.02289821207523346,0.9613451361656189,0.015756601467728615,negative,-0.9384469389915466
+18,2017-07-24 05:30:00,Zacks Rank more than or equal to #3 (Hold) : We have not considered Buy-rated stocks that generally outperform the market.,0.06852714717388153,0.08168552070856094,0.8497873544692993,neutral,-0.013158373534679413
+19,2017-07-24 05:30:00,"Here are five of the 16 toxic stocks that showed up on the screen:
+
+Live Nation Entertainment, Inc. (NYSE: LYV - Free Report ) is a Beverly Hills, CA-based live entertainment company.",0.016611333936452866,0.13180628418922424,0.851582407951355,neutral,-0.11519494652748108
+20,2017-07-24 05:30:00,"Over the past 30 days, its second-quarter 2017 estimates have declined 5.9% to 16 cents a share.",0.018360404297709465,0.9705792665481567,0.011060329154133797,negative,-0.9522188901901245
+21,2017-07-24 05:30:00,The stock currently has a Zacks Rank #3.,0.1364876627922058,0.011149837635457516,0.8523624539375305,neutral,0.12533782422542572
+22,2017-07-24 05:30:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+23,2017-07-24 05:30:00,"NeoGenomics, Inc. (NASDAQ: NEO - Free Report ) is a Fort Myers, FL-based company belonging to the biomedical and genetics industry.",0.03023255430161953,0.005038163159042597,0.9647293090820312,neutral,0.02519439160823822
+24,2017-07-24 05:30:00,"Over the past one-month period, second quarter estimates declined from 2 cents per share to a penny.",0.017761336639523506,0.9720132946968079,0.010225309990346432,negative,-0.9542519450187683
+25,2017-07-24 05:30:00,The stock currently has a Zacks Rank #4 (Sell).,0.1354122757911682,0.011972730979323387,0.8526149988174438,neutral,0.12343954294919968
+26,2017-07-24 05:30:00,"Salesforce.com, inc. (NYSE: CRM - Free Report ) is a San Francisco, CA-based computer software firm.",0.0196368470788002,0.00726719805970788,0.9730960130691528,neutral,0.012369649484753609
+27,2017-07-24 05:30:00,"Over the past one month period, its current quarter earnings estimates have remained unchanged at 9 cents a share.",0.10223264247179031,0.553520143032074,0.3442472219467163,negative,-0.45128750801086426
+28,2017-07-24 05:30:00,"Currently, the company carries a Zacks Rank #3.",0.078742116689682,0.010858613066375256,0.9103992581367493,neutral,0.06788350641727448
+29,2017-07-24 05:30:00,"Oklahoma City, OK-based Paycom Software, Inc. (NYSE: PAYC - Free Report ) is an internet software industry firm, which provides cloud-based human capital management software solutions.",0.04021034389734268,0.0055258315987885,0.9542638659477234,neutral,0.03468451276421547
+30,2017-07-24 05:30:00,"Over the last 30 days, quarterly estimates have remained unchanged at 13 cents per share.",0.10822597146034241,0.3431796431541443,0.5485943555831909,neutral,-0.23495367169380188
+31,2017-07-24 05:30:00,"Currently, the company carries a Zacks Rank #3.",0.078742116689682,0.010858613066375256,0.9103992581367493,neutral,0.06788350641727448
+32,2017-07-24 05:30:00,"Covanta Holding Corporation (NYSE: CVA - Free Report ) is a Morristown, NJ-based alternative energy company that provides waste and energy services in the U.S. and Canada.",0.027113042771816254,0.005428613629192114,0.9674583673477173,neutral,0.021684428676962852
+33,2017-07-24 05:30:00,"Over the past 30 days, its second quarter estimates have remained unchanged at a loss of 17 cents per share.",0.019397594034671783,0.967022180557251,0.013580242171883583,negative,-0.9476245641708374
+34,2017-07-24 05:30:00,The company has a Zacks Rank #5 (Strong Sell).,0.9123824834823608,0.026252973824739456,0.06136449798941612,positive,0.8861294984817505
+35,2017-07-24 05:30:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+36,2017-07-24 05:30:00,It can all be done with the Research Wizard stock picking and backtesting software.,0.02909490093588829,0.007561055943369865,0.9633440375328064,neutral,0.021533844992518425
+37,2017-07-24 05:30:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+38,2017-07-24 05:30:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+39,2017-07-24 05:30:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+40,2017-07-24 05:30:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+41,2017-07-24 05:30:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+42,2017-07-24 05:30:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+43,2017-07-24 05:30:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+44,2017-07-24 05:30:00,"About Screen of the Week
+
+Zacks.com created the first and best screening system on the web earning the distinction as the ""#1 site for screening stocks"" by Money Magazine.",0.8801765441894531,0.015994274988770485,0.10382916778326035,positive,0.8641822934150696
+45,2017-07-24 05:30:00,But powerful screening tools is just the start.,0.09495247155427933,0.005706817843019962,0.8993407487869263,neutral,0.08924565464258194
+46,2017-07-24 05:30:00,That is why Zacks created the Screen of the Week to highlight profitable stock picking strategies that investors can actively use.,0.14883984625339508,0.00999003741890192,0.8411701321601868,neutral,0.13884980976581573
+47,2017-07-24 05:30:00,"Each week, Zacks Profit from the Pros free email newsletter shares a new screening strategy.",0.3513948619365692,0.009931724518537521,0.6386734247207642,neutral,0.3414631485939026
+48,2017-07-24 05:30:00,"Learn more about it here https://at.zacks.com/?id=112
+
+Zacks.com is a property of Zacks Investment Research, Inc., which was formed in 1978.",0.016615888103842735,0.006967712193727493,0.9764164090156555,neutral,0.009648175910115242
+49,2017-07-24 05:30:00,"The later formation of the Zacks Rank, a proprietary stock picking system; continues to outperform the market by nearly a 3 to 1 margin.",0.9116206169128418,0.04347905144095421,0.0449003241956234,positive,0.8681415915489197
+50,2017-07-24 05:30:00,The best way to unlock the profitable stock recommendations and market insights of Zacks Investment Research is through our free daily email newsletter; Profit from the Pros.,0.07881949096918106,0.006378026679158211,0.9148024916648865,neutral,0.072441466152668
+51,2017-07-24 05:30:00,"In short, it's your steady flow of Profitable ideas GUARANTEED to be worth your time!",0.43368902802467346,0.012674679979681969,0.5536363124847412,neutral,0.42101433873176575
+52,2017-07-24 05:30:00,Click here for your free subscription to Profit from the Pros .,0.050681523978710175,0.02834671176970005,0.9209718108177185,neutral,0.022334812209010124
+53,2017-07-24 05:30:00,"Get the full Report on LYV - FREE
+
+Get the full Report on NEO - FREE
+
+Get the full Report on CRM - FREE
+
+Get the full Report on PAYC - FREE
+
+Get the full Report on CVA - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.01346125639975071,0.00992968026548624,0.9766090512275696,neutral,0.003531576134264469
+54,2017-07-24 05:30:00,"Zacks.com provides investment resources and informs you of these resources, which you may choose to use in making your own investment decisions.",0.023836323991417885,0.005520980339497328,0.9706427454948425,neutral,0.01831534318625927
+55,2017-07-24 05:30:00,"Zacks is providing information on this resource to you subject to the Zacks ""Terms and Conditions of Service"" disclaimer.",0.0142265185713768,0.008723904378712177,0.9770495891571045,neutral,0.005502614192664623
+56,2017-07-24 05:30:00,www.zacks.com/disclaimer .,0.03363189846277237,0.05275096744298935,0.9136171340942383,neutral,-0.01911906898021698
+57,2017-07-24 05:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+58,2017-07-24 05:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+59,2017-07-24 05:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+60,2017-07-24 05:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+61,2017-07-24 05:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+62,2017-07-24 05:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+63,2017-07-24 05:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+64,2017-07-24 05:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+65,2017-07-24 05:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+66,2017-07-24 05:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+67,2017-07-24 05:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+68,2017-07-24 05:30:00,"Visit
+
+https://www.zacks.com/performance for information about the performance numbers displayed in this press release.",0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+69,2017-07-24 05:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+70,2017-07-24 05:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+71,2017-07-24 05:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+72,2017-07-24 05:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

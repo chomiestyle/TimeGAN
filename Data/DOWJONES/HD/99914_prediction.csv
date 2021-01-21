@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-06-24 07:53:00,"In early trading on Tuesday, shares of General Electric ( GE ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.5%.",0.9342381954193115,0.03448205813765526,0.031279753893613815,positive,0.899756133556366
+1,2014-06-24 07:53:00,"Year to date, General Electric has lost about 4.3% of its value.",0.01669030636548996,0.9529514908790588,0.030358241870999336,negative,-0.9362611770629883
+2,2014-06-24 07:53:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.9%.",0.021340778097510338,0.96462482213974,0.014034424908459187,negative,-0.9432840347290039
+3,2014-06-24 07:53:00,Home Depot is lower by about 3.0% looking at the year to date performance.,0.02115791290998459,0.9660235047340393,0.012818582355976105,negative,-0.9448655843734741
+4,2014-06-24 07:53:00,"Two other components making moves today are Microsoft ( MSFT ), trading down 0.9%, and Intel ( INTC ), trading up 0.5% on the day.",0.03070916421711445,0.9417400360107422,0.02755073271691799,negative,-0.9110308885574341
+5,2014-06-24 07:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

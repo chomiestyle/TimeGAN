@@ -1,0 +1,60 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-21 11:00:00,"Target's (NYSE: TGT) first-quarter results, reported on Wednesday, included some promising figures.",0.802093505859375,0.021608000621199608,0.17629851400852203,positive,0.7804855108261108
+1,2020-05-21 11:00:00,The retail giant put up an 11.3% increase in sales at a time when many are feeling the strain of an economic shutdown.,0.9506688714027405,0.023173538967967033,0.026157578453421593,positive,0.9274953603744507
+2,2020-05-21 11:00:00,Let's be clear.,0.09840288758277893,0.024588389322161674,0.8770087361335754,neutral,0.0738144963979721
+3,2020-05-21 11:00:00,Overall earnings went down.,0.015836259350180626,0.9675832390785217,0.016580531373620033,negative,-0.9517470002174377
+4,2020-05-21 11:00:00,Earnings from continuing operations declined to $0.56 per share on a GAAP basis.,0.016396211460232735,0.9695650339126587,0.01403868105262518,negative,-0.9531688094139099
+5,2020-05-21 11:00:00,That's a 63.3% decline year over year.,0.031083988025784492,0.9569759368896484,0.011940122582018375,negative,-0.9258919358253479
+6,2020-05-21 11:00:00,You'd be hard-pressed to find many businesses that didn't incur sudden costs and shifts that didn't eat into the bottom line in the first quarter.,0.03257552534341812,0.12343708425760269,0.8439874053001404,neutral,-0.09086155891418457
+7,2020-05-21 11:00:00,This will likely be even more pronounced in the second quarter since that period has seen the brunt of the pandemic.,0.08793141692876816,0.23404821753501892,0.6780204176902771,neutral,-0.14611679315567017
+8,2020-05-21 11:00:00,Here are three other takeaways that emerged from Target's first-quarter earnings report.,0.02702483721077442,0.021909024566411972,0.9510661363601685,neutral,0.00511581264436245
+9,2020-05-21 11:00:00,Comparable-store sales marked a 10.8% growth in the first quarter.,0.940619170665741,0.020630978047847748,0.0387498177587986,positive,0.919988214969635
+10,2020-05-21 11:00:00,The interesting thing was the breakdown of those comps.,0.026182109490036964,0.08738456666469574,0.8864333033561707,neutral,-0.061202459037303925
+11,2020-05-21 11:00:00,"The actual number of transactions decreased by 1.5%, as consumers ventured out less often.",0.018217023462057114,0.9702155590057373,0.011567394249141216,negative,-0.9519985318183899
+12,2020-05-21 11:00:00,The catch was the amount they spent while going out.,0.037045668810606,0.020720142871141434,0.9422341585159302,neutral,0.01632552593946457
+13,2020-05-21 11:00:00,"In a pretty clear effort to minimize shopping time, people bought a lot more stuff while they were in the store.",0.3213353157043457,0.08196970820426941,0.5966950058937073,neutral,0.2393656075000763
+14,2020-05-21 11:00:00,The average transaction amount jumped 12.5% in the quarter compared to a 0.5% increase a year ago.,0.9512914419174194,0.027837421745061874,0.020871048793196678,positive,0.9234540462493896
+15,2020-05-21 11:00:00,"Of course, it helps that the chain offers products is in the right categories.",0.2579728066921234,0.008553329855203629,0.7334738969802856,neutral,0.24941948056221008
+16,2020-05-21 11:00:00,"The earnings release made note of the fact that consumers purchased an ""unfavorable category mix,"" which included more lower-margin items like essentials and food and beverages.",0.033982206135988235,0.8188400268554688,0.1471778005361557,negative,-0.7848578095436096
+17,2020-05-21 11:00:00,Higher-margin items like apparel experienced a slowdown.,0.017735129222273827,0.9660463929176331,0.01621849648654461,negative,-0.9483112692832947
+18,2020-05-21 11:00:00,"Thanks to its broad range of inventory, Target can successfully work its way through different demand shifts like this.",0.8502535223960876,0.013030643574893475,0.1367158442735672,positive,0.8372228741645813
+19,2020-05-21 11:00:00,"Digital sales skyrocketed in the first quarter, as consumers opted for ways to avoid visiting crowded places such as an actual store.",0.46693429350852966,0.37063494324684143,0.1624307930469513,positive,0.09629935026168823
+20,2020-05-21 11:00:00,"Comparable digital sales increased 141%, now representing just under 10% of Target's total comp sales growth.",0.9510114789009094,0.015476194210350513,0.03351234272122383,positive,0.9355353116989136
+21,2020-05-21 11:00:00,"The earnings release noted that the digital growth increased each month of the quarter, gaining 33% in February and 282% in April.",0.9567462801933289,0.01798197254538536,0.02527179941534996,positive,0.9387643337249756
+22,2020-05-21 11:00:00,"The company is allocating its overall structure well, as just under 80% of total digital sales were fulfilled by stores.",0.23841767013072968,0.008587582036852837,0.75299471616745,neutral,0.2298300862312317
+23,2020-05-21 11:00:00,A retail setup where you can balance demand between physical stores and an online presence helps the bottom line.,0.20700502395629883,0.008072839118540287,0.7849221229553223,neutral,0.19893218576908112
+24,2020-05-21 11:00:00,It is incredibly important for retailers to showcase that they can compete with Amazon.com on the e-commerce front.,0.8392109274864197,0.013518206775188446,0.14727084338665009,positive,0.8256927132606506
+25,2020-05-21 11:00:00,Target is doing that rather well.,0.3478328585624695,0.009682782925665379,0.6424843072891235,neutral,0.3381500840187073
+26,2020-05-21 11:00:00,"Tying into the balance between brick-and-mortar and online, Target's order pickup initiative is showing a lot of potential.",0.6589230298995972,0.012177307158708572,0.3288995921611786,positive,0.6467457413673401
+27,2020-05-21 11:00:00,"This strategy sort of originated with Home Depot, which used it to draw customers in for store traffic.",0.06347540766000748,0.005998225882649422,0.9305263757705688,neutral,0.057477183640003204
+28,2020-05-21 11:00:00,We've since seen it adopted by retailers like Walmart and Target.,0.21273696422576904,0.0067981225438416,0.7804648876190186,neutral,0.20593884587287903
+29,2020-05-21 11:00:00,"Same-day services, which include Order Pick Up, Drive Up, and Shipt delivery, experienced growth of 278% in the quarter.",0.9376228451728821,0.01639627292752266,0.04598087817430496,positive,0.9212265610694885
+30,2020-05-21 11:00:00,The area of the business accounted for 5% of Target's comps growth.,0.027288956567645073,0.007031530141830444,0.9656795263290405,neutral,0.02025742642581463
+31,2020-05-21 11:00:00,"Perhaps going against the current trend a bit, I believe this combination of retail options is the future of retail.",0.2855106592178345,0.007285129278898239,0.7072042226791382,neutral,0.27822554111480713
+32,2020-05-21 11:00:00,"On a mass scale, the logistics of pure e-commerce, where all goods are shipped directly to customers' homes, would be a nightmare.",0.04446737840771675,0.557742714881897,0.39778992533683777,negative,-0.5132753252983093
+33,2020-05-21 11:00:00,"There's certainly a place for it, but time is a big factor.",0.08018095791339874,0.01100096758455038,0.9088180661201477,neutral,0.06917998939752579
+34,2020-05-21 11:00:00,"Sometimes you forget milk for a recipe, and you need it now.",0.08533933758735657,0.09047195315361023,0.824188768863678,neutral,-0.005132615566253662
+35,2020-05-21 11:00:00,"In that case, you're going to the store.",0.03872537612915039,0.021781710907816887,0.9394928812980652,neutral,0.016943665221333504
+36,2020-05-21 11:00:00,"Especially at times such as now, consumers can save themselves the time of having to go into a store to shop by ordering everything before they get there.",0.0769844651222229,0.1844906061887741,0.7385249733924866,neutral,-0.10750614106655121
+37,2020-05-21 11:00:00,"In many ways, it is even more convenient than e-commerce.",0.28148946166038513,0.011356670409440994,0.707153856754303,neutral,0.27013278007507324
+38,2020-05-21 11:00:00,You can get things faster.,0.3650902509689331,0.012694325298070908,0.6222153902053833,neutral,0.3523959219455719
+39,2020-05-21 11:00:00,"The benefit to Target is that when you order items and get to the store, you're more likely to go into the store.",0.0929257869720459,0.011937600560486317,0.8951365947723389,neutral,0.08098818361759186
+40,2020-05-21 11:00:00,"Again, I use the milk scenario.",0.03677239641547203,0.023643620312213898,0.9395840167999268,neutral,0.013128776103258133
+41,2020-05-21 11:00:00,"Say you order your goods, and then realize you've forgotten something.",0.08462014049291611,0.12771497666835785,0.7876649498939514,neutral,-0.04309483617544174
+42,2020-05-21 11:00:00,You're going to run into the store to pick it up when you get there.,0.05660391226410866,0.03508976101875305,0.908306360244751,neutral,0.021514151245355606
+43,2020-05-21 11:00:00,"That increases store traffic, and the chances of you buying something else while you're in there.",0.293226033449173,0.0172781590372324,0.6894957423210144,neutral,0.2759478688240051
+44,2020-05-21 11:00:00,"What's encouraging about Target's results is the way it managed to put together growth on both the store and digital fronts, while experiencing hypergrowth in fledgling initiatives like its same-day services.",0.916705310344696,0.016241993755102158,0.06705265492200851,positive,0.900463342666626
+45,2020-05-21 11:00:00,I've always liked Target because it offers a nicely diversified lineup of inventory.,0.4059182107448578,0.008858652785420418,0.5852231383323669,neutral,0.3970595598220825
+46,2020-05-21 11:00:00,"Coming out of the current chaos, I think it stands to be a winner.",0.6575832366943359,0.01748437061905861,0.32493239641189575,positive,0.6400988698005676
+47,2020-05-21 11:00:00,"10 stocks we like better than Target
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12243330478668213,0.025280635803937912,0.8522861003875732,neutral,0.09715266525745392
+48,2020-05-21 11:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+49,2020-05-21 11:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Target wasn't one of them!",0.20845429599285126,0.012904235161840916,0.7786414623260498,neutral,0.19555005431175232
+50,2020-05-21 11:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+51,2020-05-21 11:00:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+52,2020-05-21 11:00:00,David Butler has no position in any of the stocks mentioned.,0.009631055407226086,0.04125498980283737,0.9491139650344849,neutral,-0.03162393346428871
+53,2020-05-21 11:00:00,"The Motley Fool owns shares of and recommends Amazon and Home Depot and recommends the following options: long January 2021 $120 calls on Home Depot, short January 2021 $210 calls on Home Depot, short January 2022 $1940 calls on Amazon, and long January 2022 $1920 calls on Amazon.",0.022900665178894997,0.01364841777831316,0.9634509086608887,neutral,0.009252247400581837
+54,2020-05-21 11:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

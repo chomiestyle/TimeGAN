@@ -1,0 +1,73 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-24 09:48:00,Lowe's (NYSE: LOW) is one of the largest hardware stores in the United States.,0.24380552768707275,0.007896079681813717,0.7482983469963074,neutral,0.23590944707393646
+1,2019-11-24 09:48:00,Scotts Miracle-Gro (NYSE: SMG) is one of the largest providers of lawn-care products and a key supplier to Lowe's.,0.49223363399505615,0.009514059871435165,0.49825233221054077,neutral,0.4827195703983307
+2,2019-11-24 09:48:00,"Scotts has gotten itself into the weed space, and that could be a catalyst for the future that changes this matchup in a big way.",0.6569201946258545,0.017601659521460533,0.325478196144104,positive,0.6393185257911682
+3,2019-11-24 09:48:00,Here's what you need to know to decide if Scotts is a better buy than Lowe's.,0.16819918155670166,0.011826595291495323,0.8199742436408997,neutral,0.15637259185314178
+4,2019-11-24 09:48:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+5,2019-11-24 09:48:00,"A look at the core
+
+Lowe's owns and operates big-box hardware stores.",0.01831541582942009,0.00678418530151248,0.9749003648757935,neutral,0.011531230062246323
+6,2019-11-24 09:48:00,It's highly likely that you know the company's name and that it competes directly with larger peer Home Depot (NYSE: HD).,0.12940891087055206,0.006207700818777084,0.8643834590911865,neutral,0.12320120632648468
+7,2019-11-24 09:48:00,"Although the two companies have a similar number of stores, Home Depot's top line was 50% larger than Lowe's last year, and its operating margin was more than twice as high.",0.8381912708282471,0.027280479669570923,0.1345282942056656,positive,0.8109108209609985
+8,2019-11-24 09:48:00,"Lowe's is, basically, No.",0.03643276169896126,0.07308068871498108,0.8904865980148315,neutral,-0.03664792701601982
+9,2019-11-24 09:48:00,2 by a wide margin.,0.6842530369758606,0.09023001044988632,0.22551694512367249,positive,0.5940230488777161
+10,2019-11-24 09:48:00,"Scotts, meanwhile, describes itself as the leader in lawn care in the North American market.",0.8692342638969421,0.0137154096737504,0.11705023795366287,positive,0.8555188775062561
+11,2019-11-24 09:48:00,"You probably know the company's products, which include brands like Scotts, Miracle-Gro, and Ortho, among others.",0.032319340854883194,0.0058631557039916515,0.9618175625801086,neutral,0.026456184685230255
+12,2019-11-24 09:48:00,"It supplies hardware stores like Home Depot and Lowe's, along with other retail giants like Walmart.",0.07303518801927567,0.0060362620279192924,0.9209285378456116,neutral,0.0669989287853241
+13,2019-11-24 09:48:00,"In fact, those three companies alone made up roughly 60% of its top line in 2018.",0.02172589674592018,0.008482455275952816,0.9697917103767395,neutral,0.013243441469967365
+14,2019-11-24 09:48:00,"So while it is a very different company than Lowe's, it is still highly dependent on the hardware store chain's success.",0.035749051719903946,0.03505074605345726,0.9292002320289612,neutral,0.0006983056664466858
+15,2019-11-24 09:48:00,"The relationship here is interesting, because Lowe's has been working to improve its performance in an effort to catch up to Home Depot.",0.9418511986732483,0.015781976282596588,0.042366884648799896,positive,0.9260692000389099
+16,2019-11-24 09:48:00,That's included closing down stores and trying to increase efficiency.,0.21114903688430786,0.021963460370898247,0.7668874859809875,neutral,0.18918557465076447
+17,2019-11-24 09:48:00,Only it just doesn't seem to be able to achieve the same success.,0.03669607639312744,0.21002396941184998,0.753279983997345,neutral,-0.17332789301872253
+18,2019-11-24 09:48:00,"Motley Fool's Travis Hoium recently took a look at the two companies, including examining inventory turnover, operating margin, and free cash flow trends, and declared Home Depot the ""hands down"" better company.",0.5885842442512512,0.0842306986451149,0.3271850645542145,positive,0.5043535232543945
+19,2019-11-24 09:48:00,"Simply put, if you are buying Lowe's, you are buying a company that's a bit of a fixer-upper.",0.02896231785416603,0.030293213203549385,0.9407444596290588,neutral,-0.0013308953493833542
+20,2019-11-24 09:48:00,"Scotts, meanwhile, has been working on its business in recent years, too.",0.28027650713920593,0.008015492931008339,0.7117079496383667,neutral,0.27226102352142334
+21,2019-11-24 09:48:00,"But there's a big difference here, because Scotts has been expanding into a new space: hydroponic equipment used to grow marijuana.",0.28187888860702515,0.008674263954162598,0.709446907043457,neutral,0.27320462465286255
+22,2019-11-24 09:48:00,"By some estimates, marijuana could grow to be a $166 billion industry.",0.34151026606559753,0.009470594115555286,0.649019181728363,neutral,0.3320396840572357
+23,2019-11-24 09:48:00,"Equally important, Scotts' efforts here don't tie it to one grower; it sells to anyone who needs hydroponic equipment.",0.039412494748830795,0.006760050542652607,0.953827440738678,neutral,0.03265244513750076
+24,2019-11-24 09:48:00,"It is a picks-and-shovels play on the marijuana market, building on the solid foundation of its slow-growth lawn-care business.",0.7543325424194336,0.012823425233364105,0.23284399509429932,positive,0.7415091395378113
+25,2019-11-24 09:48:00,"The hydroponic operation, called Hawthorne, makes up around 20% of the top line.",0.016666831448674202,0.008872748352587223,0.9744603633880615,neutral,0.007794083096086979
+26,2019-11-24 09:48:00,"There were some near-term negatives associated with this move (debt, for example, will be discussed below), but Scotts is expanding its business, not playing catch-up from a position of weakness.",0.8218390941619873,0.027471695095300674,0.15068913996219635,positive,0.7943673729896545
+27,2019-11-24 09:48:00,Scotts' push into the hydroponic space was made via acquisition and funded largely with debt.,0.21667417883872986,0.005729785189032555,0.7775960564613342,neutral,0.21094439923763275
+28,2019-11-24 09:48:00,That bumped its debt-to-equity ratio up to a very troubling 9 times or so.,0.8267770409584045,0.12149914354085922,0.05172383040189743,positive,0.7052779197692871
+29,2019-11-24 09:48:00,"Well aware of the issue, Scotts sold some noncore assets and used the proceeds to pay down debt.",0.03396575152873993,0.008526662364602089,0.9575075507164001,neutral,0.02543908916413784
+30,2019-11-24 09:48:00,"The debt-to-equity ratio is currently around 2.3 times, which is toward the high end of the company's normal historical range.",0.19335301220417023,0.013186095282435417,0.7934608459472656,neutral,0.18016691505908966
+31,2019-11-24 09:48:00,"Management has done a good job of addressing this issue, but leverage should still be monitored.",0.5357163548469543,0.014689992181956768,0.44959360361099243,positive,0.5210263729095459
+32,2019-11-24 09:48:00,"That's especially true given that long-term debt is still around 70% higher than it was a decade ago, while annual revenues have only increased around 9% over that span.",0.8232280015945435,0.024255212396383286,0.15251675248146057,positive,0.7989727854728699
+33,2019-11-24 09:48:00,"And the hydroponic business is still pretty new, so it remains to be seen if it will help the company hit the accelerator.",0.8122280836105347,0.015045976266264915,0.17272599041461945,positive,0.7971820831298828
+34,2019-11-24 09:48:00,"Lowe's debt-to-equity ratio is 6.6 times, up from 3 times at the end of 2018.",0.9574945569038391,0.017697226256132126,0.024808213114738464,positive,0.9397973418235779
+35,2019-11-24 09:48:00,"The hardware chain has been adding long-term debt, increasing its debt load by more than 300% over the past decade.",0.9437039494514465,0.01574542373418808,0.04055067151784897,positive,0.9279585480690002
+36,2019-11-24 09:48:00,"However, the biggest reasons for the rise in the debt-to-equity ratio are one-time noncash charges associated with its turnaround effort.",0.3361694812774658,0.06401558965444565,0.5998148918151855,neutral,0.2721538841724396
+37,2019-11-24 09:48:00,"Those charges reduce shareholder equity, which makes the debt-to-equity ratio worse.",0.01939023844897747,0.9629120826721191,0.017697704955935478,negative,-0.9435218572616577
+38,2019-11-24 09:48:00,"The company still covers its interest costs by a solid 6.5 times, so there's no particular reason to worry about leverage.",0.12182443588972092,0.009653574787080288,0.8685219287872314,neutral,0.11217086017131805
+39,2019-11-24 09:48:00,"However, this says a lot about the company's relatively weak industry position and the fairly material efforts it is making to restructure its business.",0.09704379737377167,0.2276093065738678,0.6753469109535217,neutral,-0.13056550920009613
+40,2019-11-24 09:48:00,"And even though it can handle the leverage it has, it will eventually need to get its debt-to-equity ratio down to more normal levels to appease Wall Street leverage concerns.",0.31239473819732666,0.5631834268569946,0.12442190945148468,negative,-0.25078868865966797
+41,2019-11-24 09:48:00,Lowe's offers investors a 1.9% yield backed by an incredible 57 years' worth of annual increases.,0.6729329228401184,0.012144913896918297,0.3149222135543823,positive,0.6607879996299744
+42,2019-11-24 09:48:00,"Historically, those annual dividend hikes have been in the 10% to 20% range, which is pretty enticing.",0.2980826497077942,0.022004352882504463,0.6799130439758301,neutral,0.2760782837867737
+43,2019-11-24 09:48:00,"Scotts doesn't really come near that record, with just a decade of annual hikes and recent annual increases in the single-digit range.",0.10238823294639587,0.02756650559604168,0.8700452446937561,neutral,0.07482172548770905
+44,2019-11-24 09:48:00,It offers a 2.2% yield.,0.18547262251377106,0.008408165536820889,0.8061192035675049,neutral,0.1770644634962082
+45,2019-11-24 09:48:00,"Although that's higher than what you would get from Lowe's or an S&P 500 Index fund, it's nothing to write home about.",0.07100537419319153,0.021482203155755997,0.907512366771698,neutral,0.04952317103743553
+46,2019-11-24 09:48:00,"Notably, it's much lower than the roughly 3.6% yield at the start of 2019, when Scotts' leverage was still at a high level.",0.017913924530148506,0.9420190453529358,0.04006708785891533,negative,-0.9241051077842712
+47,2019-11-24 09:48:00,Which brings up the next point: valuation.,0.047920893877744675,0.014768530614674091,0.9373105764389038,neutral,0.03315236419439316
+48,2019-11-24 09:48:00,Scotts' stock price has increased an incredible 66% so far in 2019.,0.9469428658485413,0.015921391546726227,0.037135686725378036,positive,0.9310214519500732
+49,2019-11-24 09:48:00,"Lowe's, for reference, is up around 22%, roughly in line with the broader market.",0.930207371711731,0.023290418088436127,0.04650222882628441,positive,0.9069169759750366
+50,2019-11-24 09:48:00,"That said, Scotts' price-to-earnings and price-to-sales ratios are both below their five-year averages.",0.01795506291091442,0.9619194269180298,0.02012546919286251,negative,-0.9439643621444702
+51,2019-11-24 09:48:00,That's partly because the stock's year-to-date gain is pretty much a recovery from the roughly 45% price decline that coincided with the marijuana investment.,0.8809426426887512,0.044193219393491745,0.07486412674188614,positive,0.8367494344711304
+52,2019-11-24 09:48:00,"Investors are obviously getting behind the pot story here after early concerns, but Scotts doesn't look overly expensive today -- though it wouldn't be fair to call it a bargain, either.",0.20128881931304932,0.17872492969036102,0.6199862957000732,neutral,0.022563889622688293
+53,2019-11-24 09:48:00,"Lowe's, on the other hand, is trading with P/E and P/S ratios that are above their five-year averages.",0.8095075488090515,0.06535636633634567,0.1251361221075058,positive,0.7441511750221252
+54,2019-11-24 09:48:00,"There's some noise in there on the P/E because of the one-time charges noted above, but this hardware store certainly doesn't look cheap today.",0.039299096912145615,0.1940903514623642,0.7666105031967163,neutral,-0.15479125082492828
+55,2019-11-24 09:48:00,"Many companies are cyclical, and Lowe's looks like it is currently working through a low point, while Scotts' fortunes appear to be improving again.",0.7157277464866638,0.08299875259399414,0.20127348601818085,positive,0.6327289938926697
+56,2019-11-24 09:48:00,"Although Lowe's has a long and impressive history behind it, Scotts looks like the better stock today.",0.7763993740081787,0.027470244094729424,0.19613036513328552,positive,0.7489291429519653
+57,2019-11-24 09:48:00,"However, after a huge stock price advance, it's hard to suggest that investors run out and buy Scotts.",0.20975838601589203,0.09996726363897324,0.6902744174003601,neutral,0.10979112237691879
+58,2019-11-24 09:48:00,It's probably better at this point to put it on the watch list to see how the relatively new hydroponic investment plays out.,0.04193636402487755,0.008869422599673271,0.9491941928863525,neutral,0.033066943287849426
+59,2019-11-24 09:48:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+60,2019-11-24 09:48:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+61,2019-11-24 09:48:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.2176574170589447,0.015440662391483784,0.7669019103050232,neutral,0.2022167593240738
+62,2019-11-24 09:48:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+63,2019-11-24 09:48:00,Reuben Gregg Brewer has no position in any of the stocks mentioned.,0.008390056900680065,0.026033494621515274,0.9655764698982239,neutral,-0.017643436789512634
+64,2019-11-24 09:48:00,The Motley Fool recommends Home Depot and Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot and short February 2020 $205 calls on Home Depot.,0.01831359602510929,0.03340824320912361,0.9482781887054443,neutral,-0.01509464718401432
+65,2019-11-24 09:48:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

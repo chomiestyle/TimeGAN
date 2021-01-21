@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-26 04:46:00,"Amid the chaos of COVID-19, the rivalry between Home Depot (NYSE: HD) and Lowe's (NYSE: LOW) continues.",0.4794357717037201,0.0881333127617836,0.4324309229850769,positive,0.3913024663925171
+1,2020-03-26 04:46:00,The two peers have long engaged in a battle to win over more customers in the home improvement sector.,0.6216381192207336,0.3182961940765381,0.06006572023034096,positive,0.30334192514419556
+2,2020-03-26 04:46:00,"At first glance, Home Depot may appear to hold the advantage.",0.365608274936676,0.03660845011472702,0.5977832674980164,neutral,0.3289998173713684
+3,2020-03-26 04:46:00,"It owns over 2,200 stores, and its stock supports a market cap of about $177 billion.",0.2838633358478546,0.008145186118781567,0.7079914808273315,neutral,0.27571815252304077
+4,2020-03-26 04:46:00,"Lowe's, which also operates more than 2,200 stores, has a market cap of about $52.6 billion.",0.026769844815135002,0.006842033937573433,0.9663880467414856,neutral,0.01992781087756157
+5,2020-03-26 04:46:00,"However, with Lowe's hiring a new CEO and attracting business in an area it had previously ceded to Home Depot, investors should take a closer look in three areas before determining which company is the more Foolish investment.",0.3696210980415344,0.012689432129263878,0.6176894307136536,neutral,0.3569316565990448
+6,2020-03-26 04:46:00,Home Depot clearly brought higher returns to investors over the last 10 years.,0.9422222971916199,0.018373537808656693,0.039404068142175674,positive,0.9238487482070923
+7,2020-03-26 04:46:00,"During that time, a $10,000 investment in Home Depot would have grown to around $49,870 now, compared to $27,300 for Lowe's over the same period.",0.8418156504631042,0.038288965821266174,0.11989538371562958,positive,0.8035266995429993
+8,2020-03-26 04:46:00,"However, this performance may have helped to make Lowe's a lower-cost stock.",0.9122694730758667,0.020151717588305473,0.06757889688014984,positive,0.8921177387237549
+9,2020-03-26 04:46:00,"At a forward P/E of about 10.1, Lowe's compares well to Home Depot's forward P/E ratio of just under 14.5.",0.8451130986213684,0.030614454299211502,0.12427236884832382,positive,0.8144986629486084
+10,2020-03-26 04:46:00,"Moreover, Wall Street analysts appear more optimistic about Lowe's growth prospects.",0.8500894904136658,0.028178678825497627,0.12173185497522354,positive,0.8219107985496521
+11,2020-03-26 04:46:00,They predict Home Depot will grow its earnings at an average of 7.1% per year over the next five years.,0.9513075351715088,0.0164767075330019,0.03221578896045685,positive,0.9348308444023132
+12,2020-03-26 04:46:00,"During the same period, analysts forecast growth averaging 15.8% per year for Lowe's.",0.8503818511962891,0.01899203099310398,0.1306261569261551,positive,0.831389844417572
+13,2020-03-26 04:46:00,"Despite Lowe's future growth, Home Depot retains its lead in attracting revenue.",0.8960461020469666,0.016997966915369034,0.08695586025714874,positive,0.8790481090545654
+14,2020-03-26 04:46:00,"Home Depot reported net sales of $110 billion in the previous fiscal year, versus $72 billion in net sales for Lowe's over the same period.",0.2647521495819092,0.6997954249382019,0.035452473908662796,negative,-0.4350432753562927
+15,2020-03-26 04:46:00,"However, with Lowe's poised to exhibit more rapid growth, it should close a significant amount of this revenue gap over time.",0.854225754737854,0.03466855362057686,0.11110560595989227,positive,0.8195571899414062
+16,2020-03-26 04:46:00,Another growth area for both companies is dividend yields.,0.6067094802856445,0.011378606781363487,0.3819119334220886,positive,0.5953308939933777
+17,2020-03-26 04:46:00,Today's much lower stock prices have sent the dividend returns of both companies soaring.,0.7552239298820496,0.1784547120332718,0.06632134318351746,positive,0.576769232749939
+18,2020-03-26 04:46:00,"Still, when comparing yields, Home Depot offers a clear advantage.",0.843252956867218,0.024492736905813217,0.13225428760051727,positive,0.8187602162361145
+19,2020-03-26 04:46:00,"Home Depot pays a higher dividend yield, about 3.9% versus approximately 3.3% for Lowe's.",0.8731909990310669,0.05062960088253021,0.0761793777346611,positive,0.8225613832473755
+20,2020-03-26 04:46:00,"However, Lowe's dividend may compensate for this difference in other ways.",0.3748863935470581,0.04619726911187172,0.5789163708686829,neutral,0.3286891281604767
+21,2020-03-26 04:46:00,"For one, Home Depot's streak of annual dividend increases goes back only seven years.",0.6824942827224731,0.01663176901638508,0.30087393522262573,positive,0.665862500667572
+22,2020-03-26 04:46:00,"This compares poorly to Lowe's streak of payout hikes, which now spans 57 years.",0.03291317820549011,0.9370555281639099,0.030031276866793633,negative,-0.9041423797607422
+23,2020-03-26 04:46:00,Lowe's has increased the dividend in both good times and bad.,0.8812901377677917,0.017755726352334023,0.10095410794019699,positive,0.8635343909263611
+24,2020-03-26 04:46:00,Neither 1970s stagflation nor the 2008 financial crisis stood in the way of dividend increases.,0.6164274215698242,0.014922965317964554,0.36864960193634033,positive,0.6015044450759888
+25,2020-03-26 04:46:00,"If dividend increases can continue through those times, the streak will more than likely survive coronavirus.",0.7984167337417603,0.019977925345301628,0.18160532414913177,positive,0.7784388065338135
+26,2020-03-26 04:46:00,"Also, at 57 years, investors come to expect dividend increases every year.",0.8672515153884888,0.014439070597290993,0.11830947548151016,positive,0.8528124690055847
+27,2020-03-26 04:46:00,Disappointing investors here could lead funds that specialize in Dividend Aristocrats and other investors to flee the stock.,0.021631982177495956,0.9559253454208374,0.022442718967795372,negative,-0.9342933893203735
+28,2020-03-26 04:46:00,"For this reason, the company will likely not give up its Dividend Aristocrat status.",0.024819940328598022,0.018423395231366158,0.9567566514015198,neutral,0.006396545097231865
+29,2020-03-26 04:46:00,"Moreover, Lowe's can afford to continue dividend increases for the foreseeable future.",0.8961998224258423,0.013445856049656868,0.09035428613424301,positive,0.8827539682388306
+30,2020-03-26 04:46:00,"At a payout ratio of around 34.4%, this leaves 65.6% of free cash flow that the company can invest in stock buybacks or the business itself.",0.029610613361001015,0.04911186918616295,0.9212775826454163,neutral,-0.019501255825161934
+31,2020-03-26 04:46:00,"In comparison, Home Depot's payout ratio stands at about 57.9%.",0.037522345781326294,0.01347135379910469,0.9490062594413757,neutral,0.024050991982221603
+32,2020-03-26 04:46:00,"While Home Depot can solidly cover this dividend and the needed investments in its business, the payout ratio still comes in higher than Lowe's.",0.9339264035224915,0.028449291363358498,0.03762437403202057,positive,0.9054771065711975
+33,2020-03-26 04:46:00,"However, the lack of a dividend streak also puts less pressure on Home Depot.",0.41933655738830566,0.4310302436351776,0.1496332287788391,negative,-0.011693686246871948
+34,2020-03-26 04:46:00,"Since it is not a Dividend Aristocrat, missing an annual dividend increase would probably hurt the stock less.",0.03952715918421745,0.921499490737915,0.038973368704319,negative,-0.8819723129272461
+35,2020-03-26 04:46:00,"Also, even when Home Depot does not raise its dividend, it tends to not reduce it either, giving investors a reliable income stream.",0.7908490896224976,0.023564422503113747,0.18558648228645325,positive,0.7672846913337708
+36,2020-03-26 04:46:00,Lowe's CEO Marvin Ellison took the chief executive position last year when he came over from JCPenney.,0.030891746282577515,0.015166504308581352,0.9539417624473572,neutral,0.015725241973996162
+37,2020-03-26 04:46:00,"Under Ellison's leadership, Lowe's has pivoted back to the suburban strategy that drove the company all along.",0.4799027144908905,0.02330518513917923,0.49679216742515564,neutral,0.45659753680229187
+38,2020-03-26 04:46:00,"With that, it has shuttered the smaller format stores designed to serve customers in central cities, and has also exited Mexico.",0.013970493339002132,0.9341621398925781,0.05186731740832329,negative,-0.9201916456222534
+39,2020-03-26 04:46:00,"This differs from Home Depot, who still operates in Mexico and has followed millennials into the central cities.",0.05222908407449722,0.015635691583156586,0.9321351647377014,neutral,0.03659339249134064
+40,2020-03-26 04:46:00,"Also, under Ellison's leadership, Lowe's has worked to upgrade its omnichannel experience.",0.9495153427124023,0.015760349109768867,0.03472432494163513,positive,0.9337549805641174
+41,2020-03-26 04:46:00,It has also deployed technological solutions to improve in-store efficiency and optimize the supply chain.,0.9205942749977112,0.01366905216127634,0.06573662161827087,positive,0.9069252014160156
+42,2020-03-26 04:46:00,"Still, investors should not discount Home Depot.",0.09122346341609955,0.38999828696250916,0.5187782645225525,neutral,-0.2987748384475708
+43,2020-03-26 04:46:00,"They have also launched One Home Depot, their combined online and in-store platform designed to enhance the omnichannel experience.",0.6121465563774109,0.010102353990077972,0.37775105237960815,positive,0.6020442247390747
+44,2020-03-26 04:46:00,"Moreover, both companies have two primary customer categories, the DIY (do it yourself) and professional contractors.",0.019093986600637436,0.0076440018601715565,0.9732620716094971,neutral,0.011449985206127167
+45,2020-03-26 04:46:00,Home Depot has traditionally held an advantage with professional contractors.,0.8494266271591187,0.018548645079135895,0.13202469050884247,positive,0.830877959728241
+46,2020-03-26 04:46:00,"Now, Lowe's is working to close that gap.",0.7720913887023926,0.027910524979233742,0.19999805092811584,positive,0.7441808581352234
+47,2020-03-26 04:46:00,This may explain why analysts project faster growth for Lowe's.,0.8775672316551208,0.018246011808514595,0.10418684780597687,positive,0.8593212366104126
+48,2020-03-26 04:46:00,Investors have earned consistent profits on both the dividend and the stock price in these consumer discretionary stocks.,0.9377363920211792,0.02059234119951725,0.041671257466077805,positive,0.9171440601348877
+49,2020-03-26 04:46:00,"Moreover, both companies should bounce back once the concerns surrounding COVID-19 subside.",0.921349287033081,0.023226400837302208,0.055424317717552185,positive,0.8981229066848755
+50,2020-03-26 04:46:00,"However, I have to give the edge to Lowe's.",0.14607857167720795,0.012770437635481358,0.8411509990692139,neutral,0.13330812752246857
+51,2020-03-26 04:46:00,"Despite pulling out of Mexico and the central cities, Lowe's seems to hold more potential for growth, as evidenced by the predicted profit growth rate that is double that of Home Depot.",0.9276432991027832,0.015042144805192947,0.05731453001499176,positive,0.9126011729240417
+52,2020-03-26 04:46:00,"To help achieve these larger earnings increases, they are no longer ceding the majority of professional contracting business to Lowe's.",0.02854580245912075,0.016849569976329803,0.9546046257019043,neutral,0.011696232482790947
+53,2020-03-26 04:46:00,This could help Lowe's close the tremendous advantage that Home Depot has enjoyed in driving revenue.,0.939491331577301,0.01712103746831417,0.04338764771819115,positive,0.9223703145980835
+54,2020-03-26 04:46:00,"Even with the massive stock swoon of recent weeks, investors in both companies should earn positive returns over time.",0.9333289861679077,0.01981334574520588,0.04685768485069275,positive,0.9135156273841858
+55,2020-03-26 04:46:00,"Nonetheless, unless dividend income is the primary goal, investors currently have more potential for growth at a lower price by buying Lowe's.",0.23576529324054718,0.04355185851454735,0.7206828594207764,neutral,0.19221343100070953
+56,2020-03-26 04:46:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+57,2020-03-26 04:46:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+58,2020-03-26 04:46:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+59,2020-03-26 04:46:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+60,2020-03-26 04:46:00,Will Healy has no position in any of the stocks mentioned.,0.008817974478006363,0.036963365972042084,0.9542186856269836,neutral,-0.02814539149403572
+61,2020-03-26 04:46:00,The Motley Fool owns shares of and recommends Home Depot.,0.030951743945479393,0.017080694437026978,0.9519675970077515,neutral,0.013871049508452415
+62,2020-03-26 04:46:00,The Motley Fool recommends Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.02138189785182476,0.03290632367134094,0.9457117319107056,neutral,-0.011524425819516182
+63,2020-03-26 04:46:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

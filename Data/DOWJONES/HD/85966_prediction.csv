@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-29 05:09:00,"Harvey, the first major hurricane to hit the U.S. mainland in almost 12 years, has put vast areas under water.",0.06308507174253464,0.8618097305297852,0.07510513067245483,negative,-0.7987246513366699
+1,2017-08-29 05:09:00,"The onslaught of the torrential rainfall followed the storm, which originated in the Gulf of Mexico.",0.1646004617214203,0.4970450699329376,0.3383544981479645,negative,-0.33244460821151733
+2,2017-08-29 05:09:00,"While it is too early to gauge the financial impact of the hurricane, some experts are calling for losses in the double-digit billions.",0.051130980253219604,0.8265153169631958,0.12235372513532639,negative,-0.7753843069076538
+3,2017-08-29 05:09:00,"Meanwhile, many are gearing up to rebuild homes, which drove demand for home-improvement equipment.",0.7437164783477783,0.13388726115226746,0.12239621579647064,positive,0.6098291873931885
+4,2017-08-29 05:09:00,"In fact, the tropical storm is set to dump more rain in areas such as Houston, TX, which propelled shares of home-improvement retailers.",0.5873755812644958,0.3178865611553192,0.09473782777786255,positive,0.26948902010917664
+5,2017-08-29 05:09:00,This calls for investing in such stocks for solid gains.,0.8824500441551208,0.01978856511414051,0.09776134788990021,positive,0.8626614809036255
+6,2017-08-29 05:09:00,Hurricane Harvey claimed almost 10 lives and injured many more.,0.06912889331579208,0.860413134098053,0.07045798003673553,negative,-0.7912842631340027
+7,2017-08-29 05:09:00,"Houston, the fourth largest city in the United States, has been flooded.",0.040302880108356476,0.9400585889816284,0.019638502970337868,negative,-0.8997557163238525
+8,2017-08-29 05:09:00,"The city received more than 30 inches of rain, as per National Weather Service.",0.13370007276535034,0.4292237460613251,0.4370761215686798,neutral,-0.29552367329597473
+9,2017-08-29 05:09:00,"Starting Saturday, the city plunged into the torrential waters and the rain is not likely to subside before Aug 30.",0.06131836771965027,0.6607341170310974,0.27794748544692993,negative,-0.5994157791137695
+10,2017-08-29 05:09:00,"Numerous residents are trapped in the floods, while many fled to higher shelters.",0.05405229330062866,0.9000515341758728,0.04589623212814331,negative,-0.8459992408752441
+11,2017-08-29 05:09:00,Many residents sought help on social media and even made efforts to save their pets.,0.33313894271850586,0.2556885778903961,0.41117244958877563,neutral,0.07745036482810974
+12,2017-08-29 05:09:00,"Dramatic rescue operations took place, with the Coast Guard saving dozens of lives.",0.6903383135795593,0.0698355883359909,0.23982611298561096,positive,0.6205027103424072
+13,2017-08-29 05:09:00,"Houston's health care infrastructure, in the meantime, took great efforts to heal the affected.",0.8489229083061218,0.01678849570453167,0.13428854942321777,positive,0.8321344256401062
+14,2017-08-29 05:09:00,"In fact, many nursing home residents were stuck in waist-high waters before they were rescued.",0.03441409766674042,0.9356393814086914,0.029946500435471535,negative,-0.9012252688407898
+15,2017-08-29 05:09:00,"Governor Greg Abbott of Texas said the region won't recover soon and called the storm ""one of the largest disasters America has ever faced"".",0.14458458125591278,0.6490976810455322,0.20631767809391022,negative,-0.5045130848884583
+16,2017-08-29 05:09:00,"Why It Was the Worst So Far
+
+The rainstorm originated from a tropical depression which rapidly ballooned from a Category 1 hurricane to Category 4.",0.3077062964439392,0.30969664454460144,0.38259702920913696,neutral,-0.0019903481006622314
+17,2017-08-29 05:09:00,It worsened due to a lethal confluence of meteorological events.,0.029689816758036613,0.9412150382995605,0.029095176607370377,negative,-0.9115252494812012
+18,2017-08-29 05:09:00,Scientists say that warm water in the Gulf of Mexico intensified the downpour and lack of winds in the upper atmosphere that could have steered the hurricane away led to the intense damage.,0.06082521751523018,0.8669428825378418,0.07223180681467056,negative,-0.8061176538467407
+19,2017-08-29 05:09:00,"Hal Needham, a storm surge expert and founder of the private firm Marine Weather & Climate in Galveston, TX, said that a ""two- or three-foot storm surge alone would not have been catastrophic.""",0.07242187112569809,0.2463369220495224,0.6812412142753601,neutral,-0.1739150583744049
+20,2017-08-29 05:09:00,"He added that ""it was all these ingredients coming together"" that made the hurricane so destructive.",0.2557013928890228,0.04557874798774719,0.6987197995185852,neutral,0.21012264490127563
+21,2017-08-29 05:09:00,"Dennis Feltgen, a spokesman for the National Oceanic and Atmospheric Administration's National Hurricane Center in Miami added a note of caution and said that additional rains of 15 to 25 inches are expected to pour over parts of Southeast Texas.",0.06198913976550102,0.84312504529953,0.09488581866025925,negative,-0.7811359167098999
+22,2017-08-29 05:09:00,Some areas might even witness as much as 50 inches of rain.,0.08007542043924332,0.4242379069328308,0.49568673968315125,neutral,-0.3441624939441681
+23,2017-08-29 05:09:00,"As the storm isn't over yet, people are keen on finding out about failures in policy, planning and execution.",0.10303909331560135,0.08682792633771896,0.8101329803466797,neutral,0.016211166977882385
+24,2017-08-29 05:09:00,Politicians are expected to come with the usual answer that Harvey was just too devastating and not much could have been done to minimize the losses.,0.091102734208107,0.5364480018615723,0.37244924902915955,negative,-0.44534528255462646
+25,2017-08-29 05:09:00,"But clearly, there are Meta problems that have turned this natural hazard into a full-blown mega-catastrophe.",0.10750936716794968,0.39429518580436707,0.49819543957710266,neutral,-0.2867858111858368
+26,2017-08-29 05:09:00,"In such a case, looking into the condition of green space and wetlands could have reduced the impact of the storm.",0.5956082940101624,0.08194997906684875,0.3224416673183441,positive,0.5136582851409912
+27,2017-08-29 05:09:00,Proper runaway development plans and existence of large-scale mitigation projects like seawalls and levees would have helped as well.,0.8531413674354553,0.014355752617120743,0.13250280916690826,positive,0.8387855887413025
+28,2017-08-29 05:09:00,"Nevertheless, Harvey continues to wreak havoc, while Houston's flood-prone metropolitan area may have to bear several days of rainfall, adding to property damage.",0.027519069612026215,0.9573717713356018,0.015109291300177574,negative,-0.9298527240753174
+29,2017-08-29 05:09:00,"As home owners face damaged properties, likelihood of rebuilding efforts will gain momentum.",0.9153229594230652,0.018836695700883865,0.06584028899669647,positive,0.8964862823486328
+30,2017-08-29 05:09:00,"This in turn will drive the demand for home-improvement equipment and materials, including temporary electricity generators.",0.36782902479171753,0.017082497477531433,0.6150884032249451,neutral,0.3507465124130249
+31,2017-08-29 05:09:00,"Home building and furnishing retailer Home Depot Inc HD saw its shares climb 1.2% to $151.39 on Aug 28, while peer Lowe's Companies, Inc. LOW gained 0.6% to $73.80.",0.9360660314559937,0.03611207380890846,0.027821941301226616,positive,0.8999539613723755
+32,2017-08-29 05:09:00,"Lumber Liquidators Holdings Inc's LL shares, in the meanwhile, were up 4.4% to $38.70.",0.9463778138160706,0.021221280097961426,0.03240083158016205,positive,0.9251565337181091
+33,2017-08-29 05:09:00,"As shares of home-improvement retailers rallied, we have selected four stocks to boost your returns.",0.8419923186302185,0.013330723159015179,0.14467701315879822,positive,0.8286616206169128
+34,2017-08-29 05:09:00,These stocks flaunt a Zacks Rank #2 (Buy).,0.4941202998161316,0.05448663607239723,0.4513930678367615,positive,0.43963366746902466
+35,2017-08-29 05:09:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+36,2017-08-29 05:09:00,Home Depot is a home improvement retailer.,0.016594573855400085,0.007448412012308836,0.9759569764137268,neutral,0.009146161377429962
+37,2017-08-29 05:09:00,"The company sells an assortment of building materials, home improvement and lawn and garden products, and provides various services.",0.01766294240951538,0.00557577982544899,0.9767613410949707,neutral,0.012087162584066391
+38,2017-08-29 05:09:00,The Zacks Consensus Estimate for its current year earnings increased almost 1% over the last 60 days.,0.9536674618721008,0.017045434564352036,0.029287150129675865,positive,0.9366220235824585
+39,2017-08-29 05:09:00,"The company's estimated growth rate for the current and next quarters are 12.6% and 10.2%, respectively.",0.3541797399520874,0.010091980919241905,0.6357282996177673,neutral,0.34408774971961975
+40,2017-08-29 05:09:00,The company has outperformed the industry in the past month (+1.2% vs -1%).,0.42062121629714966,0.5557639598846436,0.023614786565303802,negative,-0.1351427435874939
+41,2017-08-29 05:09:00,"Lumber Liquidators Holdings is a multi-channel specialty retailer of hardwood flooring, and hardwood flooring enhancements and accessories.",0.032995160669088364,0.0053115114569664,0.9616933465003967,neutral,0.027683649212121964
+42,2017-08-29 05:09:00,The Zacks Consensus Estimate for its current year earnings increased more than 40% over the last 60 days.,0.9551572203636169,0.017915397882461548,0.026927389204502106,positive,0.937241792678833
+43,2017-08-29 05:09:00,"The company's estimated growth rate for the current and next quarters are 105% and 130.6%, respectively.",0.3803022503852844,0.010034088045358658,0.6096636652946472,neutral,0.37026816606521606
+44,2017-08-29 05:09:00,The company has outperformed the industry in the past month (+56.6% vs -1%).,0.4473649859428406,0.5290136933326721,0.02362130396068096,negative,-0.08164870738983154
+45,2017-08-29 05:09:00,"Kirkland's, Inc.KIRK is a specialty retailer of home decor in the United States.",0.02819824032485485,0.005933852866292,0.9658678770065308,neutral,0.02226438745856285
+46,2017-08-29 05:09:00,The Zacks Consensus Estimate for its current year earnings increased 5.7% over the last 60 days.,0.954136073589325,0.01759362779557705,0.028270313516259193,positive,0.9365424513816833
+47,2017-08-29 05:09:00,The company's estimated growth rate for the next quarter is 5.2%.,0.6278792023658752,0.010979513637721539,0.36114126443862915,positive,0.6168996691703796
+48,2017-08-29 05:09:00,The company has outperformed the industry in the past month (+21% vs -1%).,0.49251222610473633,0.48359930515289307,0.023888535797595978,positive,0.008912920951843262
+49,2017-08-29 05:09:00,Tempur Sealy International IncTPX is a bedding manufacturer.,0.021070752292871475,0.005668825004249811,0.9732604622840881,neutral,0.015401927754282951
+50,2017-08-29 05:09:00,"The company develops, manufactures, markets and distributes bedding products.",0.029721863567829132,0.004823190160095692,0.9654549360275269,neutral,0.024898674339056015
+51,2017-08-29 05:09:00,The Zacks Consensus Estimate for its current year earnings increased 3.5% over the last 60 days.,0.9541540145874023,0.017516762018203735,0.028329158201813698,positive,0.936637282371521
+52,2017-08-29 05:09:00,"While the company is expected to grow in the current and next quarters, it has outperformed the industry in the past month (+4.3% vs -1%).",0.9122641086578369,0.06326588243246078,0.024470025673508644,positive,0.8489982485771179
+53,2017-08-29 05:09:00,"Since 1988, the Zacks system has more than doubled the S&P 500 with an average gain of +25% per year.",0.9376703500747681,0.01678338833153248,0.045546285808086395,positive,0.9208869338035583
+54,2017-08-29 05:09:00,"With compounding, rebalancing, and exclusive of fees, it can turn thousands into millions of dollars.",0.2419624775648117,0.023061107844114304,0.7349764108657837,neutral,0.2189013659954071
+55,2017-08-29 05:09:00,But here's something even more remarkable: You can master this proven system without going to a single class or seminar.,0.3560675084590912,0.014671928249299526,0.6292605400085449,neutral,0.3413955867290497
+56,2017-08-29 05:09:00,And then you can apply it to your portfolio in as little as 10 minutes a month.,0.032398585230112076,0.006585810333490372,0.9610155820846558,neutral,0.025812774896621704
+57,2017-08-29 05:09:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+58,2017-08-29 05:09:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+59,2017-08-29 05:09:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+60,2017-08-29 05:09:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

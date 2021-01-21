@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-21 07:06:00,"Salesforce.com, Inc.CRM is set to buy an integration software maker, which will mark the company's third acquisition this year and the biggest ever in its history.",0.5727375745773315,0.011696103028953075,0.4155663549900055,positive,0.5610414743423462
+1,2018-03-21 07:06:00,"Recently, the company entered into a definitive agreement to acquire MuleSoft, Inc. MULE for an enterprise value of approximately $6.5 billion.",0.7135424613952637,0.011640393175184727,0.2748170793056488,positive,0.7019020915031433
+2,2018-03-21 07:06:00,"Founded in 2006, MuleSoft designs platforms for connecting applications, data, and devices across any cloud, as well as on-premise, thereby helping clients ""to change and innovate faster, deliver differentiated customer experiences, and increase operational efficiency.""",0.8246753811836243,0.011670372448861599,0.16365428268909454,positive,0.8130050301551819
+3,2018-03-21 07:06:00,"The company claims to have more than 1,200 customers, which includes biggies like Coca-Cola KO , Mc Donald's and Barclays.",0.061584632843732834,0.005122423637658358,0.9332929849624634,neutral,0.056462209671735764
+4,2018-03-21 07:06:00,The acquisition will add value to Salesforce's existing Platform-as-a-Service (PaaS) portfolio.,0.9404968023300171,0.014108474366366863,0.04539478197693825,positive,0.9263883233070374
+5,2018-03-21 07:06:00,"Upon successful completion of the transaction, the world's leading customer-relationship management solution provider plans to create ""Salesforce Integration Cloud"" service.",0.719318687915802,0.010179730132222176,0.27050158381462097,positive,0.7091389298439026
+6,2018-03-21 07:06:00,"By availing this service, clients will have more and easy access to corporate data irrespective of the storage locations.",0.774412989616394,0.011006464250385761,0.21458056569099426,positive,0.76340651512146
+7,2018-03-21 07:06:00,"Financial Terms of the Transaction
+
+The transaction will be of cash-stock type, wherein Salesforce will pay $36 for each of the target company shares, and 0.0711 shares of its own per MuleSoft Class A and Class B common shares.",0.015216932632029057,0.007016748655587435,0.9777662754058838,neutral,0.008200183510780334
+8,2018-03-21 07:06:00,"Based on Salesforce's Mar 19 closing price, the cash-stock transaction amounts to $44.89 per share, reflecting a 36% premium to MuleSoft's closing share on Monday.",0.8717877864837646,0.03713198006153107,0.09108027815818787,positive,0.8346558213233948
+9,2018-03-21 07:06:00,Salesforce intends to fund the acquisition with available cash in hand and a $3-billion borrowing through term loans or issuance of debt securities.,0.11385416984558105,0.00481674587354064,0.8813290596008301,neutral,0.10903742164373398
+10,2018-03-21 07:06:00,"The deal, subject to customary conditions and expiration of waiting period under Hart-Scott-Rodino Antitrust Improvements Act, is expected to close by this July.",0.021927565336227417,0.007256919052451849,0.9708154797554016,neutral,0.01467064581811428
+11,2018-03-21 07:06:00,"In addition, this is the largest-ever acquisition made by the company.",0.47748732566833496,0.00846857763826847,0.5140441060066223,neutral,0.46901875734329224
+12,2018-03-21 07:06:00,"Prior to this, the purchase of software-as-a-service e-commerce solutions provider - Demandware, Inc. - for roughly $2.8 billion was its biggest buyout move.",0.44944140315055847,0.013056773692369461,0.537501871585846,neutral,0.4363846182823181
+13,2018-03-21 07:06:00,"We believe the acquisition will not only enhance its process efficiency but will also make Salesforce's platform more efficient in handling sales, marketing and service functions.",0.9364476203918457,0.013933149166405201,0.04961920902132988,positive,0.9225144982337952
+14,2018-03-21 07:06:00,The deal will also help Salesforce expand its corporate software offerings and compete effectively with its arch rivals in the space - Microsoft Corporation MSFT and Oracle Corporation.,0.9464861154556274,0.016171518713235855,0.037342436611652374,positive,0.9303146004676819
+15,2018-03-21 07:06:00,"Furthermore, MuleSoft is growing rapidly and registered a 58% year-over-year surge in 2017 revenues.",0.9554466009140015,0.018133005127310753,0.026420341804623604,positive,0.9373136162757874
+16,2018-03-21 07:06:00,This implies the buyout will be immediately accretive to Salesforce's top-line results.,0.7537022233009338,0.015162656083703041,0.23113511502742767,positive,0.7385395765304565
+17,2018-03-21 07:06:00,"This apart, Salesforce will gain a huge client base of more than 1,200 to whom it can sell its complementary products, thereby generating additional revenues.",0.9415997862815857,0.01386729534715414,0.0445329025387764,positive,0.9277324676513672
+18,2018-03-21 07:06:00,"Salesforce.com Inc Price | Salesforce.com Inc Quote
+
+The MuleSoft buyout deal highlights Salesforce's aggressive approach to attain its target of reaching $20 billion in revenues by 2022.",0.9164806604385376,0.015879424288868904,0.06763996928930283,positive,0.9006012082099915
+19,2018-03-21 07:06:00,Cloud computing is a flourishing part in the technology space and has been gaining momentum in recent years.,0.5948652625083923,0.01103473175317049,0.39410004019737244,positive,0.5838305354118347
+20,2018-03-21 07:06:00,"Therefore, Salesforce has been acquiring assets across the globe to achieve its long-term goals.",0.8688774108886719,0.010538291186094284,0.1205843836069107,positive,0.8583391308784485
+21,2018-03-21 07:06:00,It should be noted that acquisitions have always been one of Salesforce's key growth strategies.,0.35847073793411255,0.00728489737957716,0.6342443823814392,neutral,0.3511858284473419
+22,2018-03-21 07:06:00,"Although the company remained almost silent throughout 2017 on the acquisition front (just one - Sequence), this year it might repeat the likes of 2016, when Salesforce bought 12 companies, to boost its capabilities, and grab newer and larger markets.",0.9401406645774841,0.016019515693187714,0.04383973777294159,positive,0.9241211414337158
+23,2018-03-21 07:06:00,We believe Salesforce's continued focus on expanding business through strategic acquisitions and investments will drive growth over the long run.,0.9361708164215088,0.013456415385007858,0.050372786819934845,positive,0.9227144122123718
+24,2018-03-21 07:06:00,Salesforce currently has a Zacks Rank #2 (Buy).,0.4300885796546936,0.016153162345290184,0.5537582635879517,neutral,0.41393542289733887
+25,2018-03-21 07:06:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+26,2018-03-21 07:06:00,Will You Make a Fortune on the Shift to Electric Cars?,0.16753385961055756,0.018516888841986656,0.8139492273330688,neutral,0.14901697635650635
+27,2018-03-21 07:06:00,Here's another stock idea to consider.,0.05285736173391342,0.007070568855851889,0.9400720596313477,neutral,0.045786794275045395
+28,2018-03-21 07:06:00,"Much like petroleum 150 years ago, lithium power may soon shake the world, creating millionaires and reshaping geo-politics.",0.47791752219200134,0.07177354395389557,0.4503089487552643,positive,0.4061439633369446
+29,2018-03-21 07:06:00,Soon electric vehicles (EVs) may be cheaper than gas guzzlers.,0.5187358856201172,0.013680092990398407,0.4675840437412262,positive,0.5050557851791382
+30,2018-03-21 07:06:00,Some are already reaching 265 miles on a single charge.,0.453574001789093,0.02303212694823742,0.5233939290046692,neutral,0.43054187297821045
+31,2018-03-21 07:06:00,"With battery prices plummeting and charging stations set to multiply, one company stands out as the #1 stock to buy according to Zacks research.",0.515029788017273,0.07344300299882889,0.41152721643447876,positive,0.44158679246902466
+32,2018-03-21 07:06:00,It's not the one you think.,0.04626888781785965,0.042117830365896225,0.9116132855415344,neutral,0.004151057451963425
+33,2018-03-21 07:06:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+34,2018-03-21 07:06:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+35,2018-03-21 07:06:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+36,2018-03-21 07:06:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

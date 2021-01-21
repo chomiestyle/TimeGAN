@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-14 07:42:00,"While working at Salesforce.com , Peter Gassner realized that the pharmaceutical industry had specific cloud-based needs.",0.08135324716567993,0.00511890696361661,0.91352778673172,neutral,0.07623434066772461
+1,2019-01-14 07:42:00,These needs were so industry-specific that Salesforce couldn't be the answer to the sector's problems.,0.06328409910202026,0.5832807421684265,0.353435218334198,negative,-0.5199966430664062
+2,2019-01-14 07:42:00,"Armed with that information, he founded Veeva Systems (NYSE: VEEV) in 2007 to build a cloud solution for drug companies.",0.4429534673690796,0.009287024848163128,0.547759473323822,neutral,0.4336664378643036
+3,2019-01-14 07:42:00,Investors -- myself included -- have been rewarded handsomely; Shares have nearly quintupled since February 2016.,0.9146245718002319,0.014467798173427582,0.07090773433446884,positive,0.9001567959785461
+4,2019-01-14 07:42:00,That's not surprising given that the company has been capturing huge swaths of its total addressable market and continues to add new products to its list of offerings.,0.5512368083000183,0.00980402622371912,0.43895918130874634,positive,0.541432797908783
+5,2019-01-14 07:42:00,"And yet, even though I'm a shareholder myself, I'm doubting that Veeva has the potential to truly be a ""Millionaire-Maker"" stock -- a stock with the potential to increase in value ten times over in the course of two decades.",0.8021361231803894,0.014280501753091812,0.18358340859413147,positive,0.7878556251525879
+6,2019-01-14 07:42:00,"A barbell technique that keeps on working
+
+While the visual might not be perfect, best-selling author and former trader Nassim Nicholas Taleb has highlighted a way for companies -- or individuals -- to continue pursuing opportunities without jeopardizing themselves in the long run.",0.6494314074516296,0.022831715643405914,0.32773691415786743,positive,0.6265996694564819
+7,2019-01-14 07:42:00,"He calls it the barbell technique:
+• Devote roughly 80% of your resources to business that is reliable and stable.",0.11035913974046707,0.005667449440807104,0.8839734196662903,neutral,0.10469169169664383
+8,2019-01-14 07:42:00,"This is the ""safe"" area of your business, and is protected by a wide moat .",0.046997085213661194,0.0077358428388834,0.9452670812606812,neutral,0.03926124423742294
+9,2019-01-14 07:42:00,"• With the other 20%, pursue high-risk, high-reward ventures.",0.16229160130023956,0.006612914614379406,0.8310954570770264,neutral,0.15567868947982788
+10,2019-01-14 07:42:00,"Most will fail, but the few that succeed will lead to massive returns.",0.6210561394691467,0.01121649332344532,0.3677273690700531,positive,0.6098396182060242
+11,2019-01-14 07:42:00,Veeva is a textbook implementation of the barbell method.,0.0894784927368164,0.00762494932860136,0.9028965830802917,neutral,0.08185354620218277
+12,2019-01-14 07:42:00,"When the company got its start, it focused on providing customer relationship management (CRM) solutions for drug company salespeople.",0.06740818172693253,0.004973136819899082,0.927618682384491,neutral,0.06243504583835602
+13,2019-01-14 07:42:00,It then took the reliable cash streams from that Software-as-a-Service offering and invested in Vault -- an entirely different venture.,0.14138908684253693,0.008098335936665535,0.8505125641822815,neutral,0.13329075276851654
+14,2019-01-14 07:42:00,"Vault aims to be a one-stop cloud repository for everything a drug company needs to bring a compound from the idea stage through clinical trials and FDA approval, and finally to the market.",0.23687514662742615,0.006539494264870882,0.756585419178009,neutral,0.23033565282821655
+15,2019-01-14 07:42:00,It has been a resounding success.,0.9116221070289612,0.015879089012742043,0.07249883562326431,positive,0.8957430124282837
+16,2019-01-14 07:42:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+17,2019-01-14 07:42:00,Data source: SEC filings.,0.013144510798156261,0.02131684310734272,0.9655386209487915,neutral,-0.008172332309186459
+18,2019-01-14 07:42:00,All figures rounded to nearest million.,0.10972071439027786,0.07767529040575027,0.8126040101051331,neutral,0.03204542398452759
+19,2019-01-14 07:42:00,"2018 figures reflect trailing twelve months as of September 30, 2018.",0.015751171857118607,0.16695044934749603,0.817298412322998,neutral,-0.15119928121566772
+20,2019-01-14 07:42:00,"Within Vault, the company adds two or three new key products every year.",0.26895320415496826,0.007293317932635546,0.7237534523010254,neutral,0.2616598904132843
+21,2019-01-14 07:42:00,I wouldn't be surprised to see it outshine the commercial cloud (principally the CRM suite) in the next 18 months.,0.590905487537384,0.012933182530105114,0.39616134762763977,positive,0.5779722929000854
+22,2019-01-14 07:42:00,"Not only that, Vault has been so popular that companies outside of life sciences -- namely consumer-packaged goods and chemical companies -- have asked for access to a Vault-esque product.",0.3548159599304199,0.010658142156898975,0.6345259547233582,neutral,0.3441578149795532
+23,2019-01-14 07:42:00,"Veeva rolled it out , on a limited basis, over the past 18 months.",0.026005910709500313,0.007610717788338661,0.9663833975791931,neutral,0.01839519292116165
+24,2019-01-14 07:42:00,The business is largely protected by high switching costs.,0.06456876546144485,0.006607447750866413,0.9288237690925598,neutral,0.057961318641901016
+25,2019-01-14 07:42:00,A drug company that subscribes to Veeva's services is putting a lot of mission critical data on a single platform.,0.10788644105195999,0.008379819802939892,0.8837338089942932,neutral,0.09950662404298782
+26,2019-01-14 07:42:00,"Migrating that data to another provider would be costly, requrire retraining entire staff and even risk losing essential data.",0.01894703321158886,0.9541863203048706,0.02686665579676628,negative,-0.935239315032959
+27,2019-01-14 07:42:00,So what's not to like?,0.06706928461790085,0.05423631891608238,0.8786944150924683,neutral,0.012832965701818466
+28,2019-01-14 07:42:00,"When I began researching this article, I used three broad criteria to see if any company was a ""Millionaire-Maker.""",0.02561839669942856,0.009131941944360733,0.9652495980262756,neutral,0.016486454755067825
+29,2019-01-14 07:42:00,"The barbell strategy was the first requirement, and Veeva passes that test with flying colors.",0.406517893075943,0.012650559656322002,0.5808315277099609,neutral,0.3938673436641693
+30,2019-01-14 07:42:00,But the other two -- mission statement and evidence of skin in the game -- leave me wanting more.,0.17607714235782623,0.07773249596357346,0.7461903691291809,neutral,0.09834464639425278
+31,2019-01-14 07:42:00,Let's start with the mission statement.,0.038473863154649734,0.00906150322407484,0.9524645805358887,neutral,0.02941235899925232
+32,2019-01-14 07:42:00,"Some might consider this to be an empty piece of business jargon that doesn't mean anything, but I believe that a well-crafted mission statement acts as a compass.",0.13883449137210846,0.013376306742429733,0.8477892279624939,neutral,0.12545818090438843
+33,2019-01-14 07:42:00,"Every great mission statement should have three characteristics:
+• It's simple: Any employee can make a split-second decision about what to do based on whether or not an action aligns with the company's mission.",0.01766299642622471,0.009987333789467812,0.9723496437072754,neutral,0.007675662636756897
+34,2019-01-14 07:42:00,• It's optionable: There are countless ways the company's mission could be carried out.,0.25960415601730347,0.008016552776098251,0.7323793172836304,neutral,0.2515875995159149
+35,2019-01-14 07:42:00,"• It's inspirational: Employees not only do their work for a paycheck, but because their organization is fundamentally contributing good to the world.",0.7038046717643738,0.014772183261811733,0.28142309188842773,positive,0.6890324950218201
+36,2019-01-14 07:42:00,That's a mouthful.,0.20906902849674225,0.07624664157629013,0.7146843075752258,neutral,0.13282239437103271
+37,2019-01-14 07:42:00,Right off the bat we can see that this isn't really simple at all.,0.024391166865825653,0.03967110812664032,0.935937762260437,neutral,-0.015279941260814667
+38,2019-01-14 07:42:00,"Additionally, it hasn't been modified to reflect the fact that Veeva now offers products outside of the pharmaceutical and life sciences sectors.",0.018382547423243523,0.012418863363564014,0.9691986441612244,neutral,0.005963684059679508
+39,2019-01-14 07:42:00,"There's no doubt about the optionality of the mission: There are lots of ways to ""realize the benefits of...the cloud.""",0.2636127471923828,0.009210942313075066,0.727176308631897,neutral,0.2544018030166626
+40,2019-01-14 07:42:00,"But when it comes to inspiration, Veeva would do much better to focus on how its infrastructure makes drug companies leaner, and thus more likely to devote capital to life-saving (or life-improving) drugs.",0.7798725366592407,0.014955784194171429,0.2051716446876526,positive,0.7649167776107788
+41,2019-01-14 07:42:00,"It might sound like I'm quibbling -- and perhaps I am -- but for long-term investors, mission statements matter.",0.035621047019958496,0.08054862916469574,0.8838303685188293,neutral,-0.044927582144737244
+42,2019-01-14 07:42:00,"A company needs a compass to direct its actions, and mission (or vision) statements should serve that purpose.",0.0604185052216053,0.005487324204295874,0.9340941309928894,neutral,0.05493118241429329
+43,2019-01-14 07:42:00,"Next, I believe companies that produce outsized gains often have owner-operators who are aligned with shareholders' interests.",0.03669769689440727,0.009262588806450367,0.9540397524833679,neutral,0.02743510901927948
+44,2019-01-14 07:42:00,"On the one hand, having the founder (Gassner) still at the helm is a big deal.",0.27046331763267517,0.009506724774837494,0.7200299501419067,neutral,0.2609565854072571
+45,2019-01-14 07:42:00,The fact that he owned -- as of the last proxy statement -- nearly 60% of Class B shares means his skin is firmly in the game.,0.22965379059314728,0.014588160440325737,0.7557580471038818,neutral,0.2150656282901764
+46,2019-01-14 07:42:00,"But when I went to visit Glassdoor.com, a site where employees anonymously review their employers, I noticed a troubling trend.",0.02253454551100731,0.9458292722702026,0.031636182218790054,negative,-0.923294723033905
+47,2019-01-14 07:42:00,In July 2017 the reviews were largely positive -- but that's no longer the case.,0.021659309044480324,0.03830229118466377,0.9400384426116943,neutral,-0.01664298214018345
+48,2019-01-14 07:42:00,"The reviews do not paint a flattering picture of Gassner, and they are quite detailed.",0.013849848881363869,0.028758594766259193,0.9573915004730225,neutral,-0.014908745884895325
+49,2019-01-14 07:42:00,"One reads:
+
+This isn't the only reviewer who voices this opinion.",0.019374553114175797,0.02100364677608013,0.959621787071228,neutral,-0.001629093661904335
+50,2019-01-14 07:42:00,Should Glassdoor reviews be considered absolute fact?,0.05343163385987282,0.03200999274849892,0.9145583510398865,neutral,0.0214216411113739
+51,2019-01-14 07:42:00,Certainly not.,0.12180949747562408,0.28263935446739197,0.5955511927604675,neutral,-0.16082985699176788
+52,2019-01-14 07:42:00,Are they open to manipulation?,0.09148949384689331,0.1399010866880417,0.7686094641685486,neutral,-0.048411592841148376
+53,2019-01-14 07:42:00,Absolutely.,0.14140242338180542,0.013233190402388573,0.8453643321990967,neutral,0.1281692385673523
+54,2019-01-14 07:42:00,"That's why -- even though this trend concerns me -- I'm not selling my shares, which currently account for roughly 5% of my real-life holdings.",0.013132845051586628,0.019758647307753563,0.9671084880828857,neutral,-0.006625802256166935
+55,2019-01-14 07:42:00,But I'm also not adding shares either.,0.028167231008410454,0.014322620816528797,0.9575101137161255,neutral,0.013844610191881657
+56,2019-01-14 07:42:00,"While I've always wished the company had a clearer mission statement, the sudden rise in negative reviews is a new factor.",0.301390141248703,0.05265398323535919,0.6459558606147766,neutral,0.2487361580133438
+57,2019-01-14 07:42:00,"I want to take time to see if these issues are real, or just the result of serious growing pains at the company.",0.016437804326415062,0.03507307544350624,0.9484890699386597,neutral,-0.01863527111709118
+58,2019-01-14 07:42:00,"I guess you could say that means I'm still a believer in the company and its stock, but less so than I have been in the past.",0.13946175575256348,0.04345034807920456,0.8170878887176514,neutral,0.09601140767335892
+59,2019-01-14 07:42:00,"And as of right now, I'm not sure it deserves the title of potential ""Millionaire-Maker.""",0.09318313747644424,0.21703137457370758,0.6897854804992676,neutral,-0.12384823709726334
+60,2019-01-14 07:42:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+61,2019-01-14 07:42:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+62,2019-01-14 07:42:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+63,2019-01-14 07:42:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+64,2019-01-14 07:42:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+65,2019-01-14 07:42:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+66,2019-01-14 07:42:00,The Motley Fool owns shares of and recommends Salesforce.com and Veeva Systems.,0.03005971759557724,0.018141884356737137,0.9517984390258789,neutral,0.011917833238840103
+67,2019-01-14 07:42:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+68,2019-01-14 07:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

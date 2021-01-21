@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-05 00:33:00,"In case you haven't heard by now, there's a social network on the auction block.",0.03677552565932274,0.01941089518368244,0.9438136219978333,neutral,0.017364630475640297
+1,2016-10-05 00:33:00,Twitter (NYSE: TWTR ) has been stagnating for years.,0.03431788459420204,0.6949521899223328,0.2707299292087555,negative,-0.6606342792510986
+2,2016-10-05 00:33:00,"Almost immediately after going public in 2014, concerns about anemic user growth have dogged the stock and persist to this day.",0.03245758265256882,0.878685474395752,0.08885697275400162,negative,-0.8462278842926025
+3,2016-10-05 00:33:00,There are a wide range of potential suitors reportedly lining up to make bids this week.,0.2415430247783661,0.012156499549746513,0.746300458908081,neutral,0.22938652336597443
+4,2016-10-05 00:33:00,"Some of these suitors make sense, but some make no sense at all.",0.02530233934521675,0.05739390477538109,0.917303740978241,neutral,-0.03209156543016434
+5,2016-10-05 00:33:00,Falling into the latter camp is salesforce.com (NYSE: CRM) .,0.01643582433462143,0.06483623385429382,0.9187279343605042,neutral,-0.048400409519672394
+6,2016-10-05 00:33:00,Shares of Salesforce are down 7% today as of this writing on reports that the company is seriously considering making an offer.,0.016739357262849808,0.9674462080001831,0.01581445150077343,negative,-0.9507068395614624
+7,2016-10-05 00:33:00,The drop follows the past two weeks of speculation and share declines.,0.025261765345931053,0.9259411096572876,0.048797108232975006,negative,-0.900679349899292
+8,2016-10-05 00:33:00,"It's a possible acquisition that appears extremely hard to justify, and investors and analysts alike are rightfully expressing skepticism.",0.04130440577864647,0.10327883809804916,0.8554167151451111,neutral,-0.061974432319402695
+9,2016-10-05 00:33:00,"Twitter is not the next best thing
+
+Salesforce CEO Marc Benioff has reportedly been trying to rally support for Salesforce to scoop up Twitter, according to The Wall Street Journal .",0.18469619750976562,0.5305237174034119,0.2847800552845001,negative,-0.34582751989364624
+10,2016-10-05 00:33:00,"Benioff had initially wanted to acquire LinkedIn (NYSE: LNKD) , but lost out to Microsoft in a deal for the professional network.",0.15838703513145447,0.5671467185020447,0.27446624636650085,negative,-0.4087596833705902
+11,2016-10-05 00:33:00,But turning to Twitter because Benioff missed out on LinkedIn doesn't make much sense.,0.035025015473365784,0.6816985011100769,0.28327643871307373,negative,-0.6466735005378723
+12,2016-10-05 00:33:00,A theoretical LinkedIn deal would have made plenty of sense for Salesforce's core customer relationship management (CRM) platform.,0.7113587260246277,0.01306549645960331,0.27557575702667236,positive,0.6982932090759277
+13,2016-10-05 00:33:00,"LinkedIn's copious amounts of data would have incredible value in beefing up the CRM platform, and LinkedIn was already beginning to recognize this by offering various products like Sales Navigator to sales professionals.",0.8034616708755493,0.012701853178441525,0.1838364601135254,positive,0.790759801864624
+14,2016-10-05 00:33:00,LinkedIn had been trying to upend the CRM market by pioneering the idea of social selling .,0.4593997895717621,0.013086416758596897,0.5275138020515442,neutral,0.44631338119506836
+15,2016-10-05 00:33:00,"However, Twitter is an entirely different beast when it comes to social networking.",0.027516759932041168,0.04322044178843498,0.9292628169059753,neutral,-0.015703681856393814
+16,2016-10-05 00:33:00,"Twitter is basically what you get if you made a social network that consists of 20% syndication for publishers, 10% useful commentary, and 70% depraved YouTube comments.",0.02270551398396492,0.012224963866174221,0.9650694727897644,neutral,0.010480550117790699
+17,2016-10-05 00:33:00,"Yes, I made all those numbers up.",0.08201553672552109,0.016146382316946983,0.9018380641937256,neutral,0.06586915254592896
+18,2016-10-05 00:33:00,"Sure, Twitter has tons of user data, but that user data is not directly applicable to Salesforce's business, and there aren't really any other synergies that come to mind.",0.01608571968972683,0.040264956653118134,0.9436492919921875,neutral,-0.024179236963391304
+19,2016-10-05 00:33:00,Twitter is a consumer-oriented social network built on advertising revenue.,0.057377878576517105,0.0061222855001688,0.9364997744560242,neutral,0.051255591213703156
+20,2016-10-05 00:33:00,Salesforce is an enterprise-oriented software-as-a-service (SaaS) business.,0.026464790105819702,0.005127519369125366,0.9684076905250549,neutral,0.021337270736694336
+21,2016-10-05 00:33:00,But at what cost?,0.08883683383464813,0.08477955311536789,0.826383650302887,neutral,0.004057280719280243
+22,2016-10-05 00:33:00,"If that isn't reason enough to stay away, keep in mind that Salesforce would need to figure out how to fund its offer.",0.03937109187245369,0.012432336807250977,0.9481965899467468,neutral,0.026938755065202713
+23,2016-10-05 00:33:00,The company only has about $1.72 billion in cash on the balance sheet as of the end of last quarter.,0.009858788922429085,0.07467789947986603,0.9154632687568665,neutral,-0.06481911242008209
+24,2016-10-05 00:33:00,"After factoring in an acquisition premium, Twitter could easily cost over $20 billion.",0.5803898572921753,0.021917030215263367,0.39769309759140015,positive,0.5584728121757507
+25,2016-10-05 00:33:00,"Salesforce would need to either take on a massive amount of debt, or more likely structure its offer in stock.",0.05618062987923622,0.025669440627098083,0.9181499481201172,neutral,0.030511189252138138
+26,2016-10-05 00:33:00,But Salesforce gets enough flak from investors as it is about excessive levels of executive compensation and the related severely dilutive effects on shareholders.,0.02463294006884098,0.9242703914642334,0.05109667032957077,negative,-0.8996374607086182
+27,2016-10-05 00:33:00,Just look at its shares outstanding march ever higher.,0.6671716570854187,0.04200587794184685,0.29082247614860535,positive,0.6251657605171204
+28,2016-10-05 00:33:00,"Theoretically, an all-stock offer for $20 billion would translate into issuing nearly 300 million new shares at current prices, so we'd be talking about over 40% dilution relative to the current 679 million shares outstanding.",0.11699722707271576,0.020996998995542526,0.8620057106018066,neutral,0.09600022435188293
+29,2016-10-05 00:33:00,Getting shareholders onboard with such a deal would be a tall order to fill.,0.4689908027648926,0.060940951108932495,0.4700682759284973,neutral,0.4080498516559601
+30,2016-10-05 00:33:00,"The world's biggest tech company forgot to show you something, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07462237030267715,0.16781271994113922,0.757564902305603,neutral,-0.09319034963846207
+31,2016-10-05 00:33:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+32,2016-10-05 00:33:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+33,2016-10-05 00:33:00,"Evan Niu, CFA owns shares of LinkedIn.",0.017535002902150154,0.015531040728092194,0.9669339060783386,neutral,0.0020039621740579605
+34,2016-10-05 00:33:00,The Motley Fool owns shares of and recommends Twitter.,0.0526607371866703,0.04735423997044563,0.8999850153923035,neutral,0.00530649721622467
+35,2016-10-05 00:33:00,The Motley Fool owns shares of LinkedIn and Microsoft.,0.03485077992081642,0.027897486463189125,0.9372516870498657,neutral,0.0069532934576272964
+36,2016-10-05 00:33:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+37,2016-10-05 00:33:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+38,2016-10-05 00:33:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+39,2016-10-05 00:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+40,2016-10-05 00:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

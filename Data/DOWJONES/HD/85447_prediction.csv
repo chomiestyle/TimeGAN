@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-02 23:39:00,Marvin Ellison took a big risk when he left a good job at Home Depot Inc (NYSE: HD ) for J C Penney Company Inc (NYSE: JCP ) three years ago.,0.09855858981609344,0.08482817560434341,0.8166132569313049,neutral,0.01373041421175003
+1,2017-11-02 23:39:00,"So far, the gamble is not paying off.",0.09514983743429184,0.3236831724643707,0.5811669826507568,neutral,-0.2285333275794983
+2,2017-11-02 23:39:00,"The JCP stock price has fallen steadily, from about $8 per share to its current level of $2.66 per share.",0.01663941517472267,0.9701692461967468,0.013191393576562405,negative,-0.9535298347473145
+3,2017-11-02 23:39:00,"At that price, JCP stock is worth just $826 million, less than one third of a single quarter's sales.",0.023748965933918953,0.8076223134994507,0.16862870752811432,negative,-0.7838733196258545
+4,2017-11-02 23:39:00,"Despite the stock collapse, Ellison has made slow but steady progress in turning the company's fortunes around, even eking out a profit of $1 million in fiscal 2017.",0.8237296938896179,0.08486777544021606,0.09140253067016602,positive,0.7388619184494019
+5,2017-11-02 23:39:00,"But losses have resumed since last Christmas, malls are in worse shape than ever, and many wonder whether JCPenney, founded as the Golden Rule dry goods store in 1902, can survive.",0.023355301469564438,0.9583909511566162,0.01825382374227047,negative,-0.9350356459617615
+6,2017-11-02 23:39:00,"It's a Long Way Back for JCP
+
+Most InvestorPlace writers don't think it will survive.",0.05161646008491516,0.2976396679878235,0.6507439017295837,neutral,-0.24602320790290833
+7,2017-11-02 23:39:00,"One to avoid , says Bret Kenwell.",0.14648784697055817,0.16221924126148224,0.6912928819656372,neutral,-0.015731394290924072
+8,2017-11-02 23:39:00,"Close to a total disaster , says Laura Hoy.",0.0925433561205864,0.6086452007293701,0.2988114655017853,negative,-0.5161018371582031
+9,2017-11-02 23:39:00,"No blood left to give , says James Brumley.",0.12275222688913345,0.2943720519542694,0.5828757286071777,neutral,-0.17161983251571655
+10,2017-11-02 23:39:00,"The story is only going to get uglier , writes Luke Lango.",0.07211590558290482,0.5355775952339172,0.39230647683143616,negative,-0.463461697101593
+11,2017-11-02 23:39:00,The problem reminds me of the three things that matter in real estate.,0.01448211632668972,0.0292144063860178,0.9563034772872925,neutral,-0.01473229005932808
+12,2017-11-02 23:39:00,"Location, location, location.",0.03896335884928703,0.0214257650077343,0.9396108388900757,neutral,0.017537593841552734
+13,2017-11-02 23:39:00,JCPenney is an anchor tenant in middle-class malls around the U.S.,0.2911684811115265,0.011058781296014786,0.6977726817131042,neutral,0.280109703540802
+14,2017-11-02 23:39:00,"These malls have been collapsing, as buyers choose big-box discounters like Wal-Mart Stores Inc (NYSE: WMT ), warehouse stores like Costco Wholesale Corporation (NASDAQ: COST ) and online merchants like Amazon.com, Inc. (NASDAQ: AMZN ).",0.022902557626366615,0.9117229580879211,0.06537444144487381,negative,-0.8888204097747803
+15,2017-11-02 23:39:00,"This was not news to Ellison, who started his career at Target Corporation (NYSE: TGT ) when he joined the company.",0.029269011691212654,0.10629481822252274,0.8644362092018127,neutral,-0.07702580839395523
+16,2017-11-02 23:39:00,But he has been so busy fighting alligators that he has been unable to drain the swamp.,0.03347457945346832,0.7459913492202759,0.2205340564250946,negative,-0.7125167846679688
+17,2017-11-02 23:39:00,"JCPenney closed over 130 stores in 2017, just months after Ellison said no more would go.",0.02720401994884014,0.9099752902984619,0.06282078474760056,negative,-0.8827712535858154
+18,2017-11-02 23:39:00,"On October 30, he was forced to lower his guidance for the rest of this year.",0.021723506972193718,0.7362949252128601,0.2419815957546234,negative,-0.7145714163780212
+19,2017-11-02 23:39:00,"Ellison is now expecting a big loss for the October quarter and just enough Christmas profit to break even, as was the case last year.",0.07116907835006714,0.907351016998291,0.021479930728673935,negative,-0.8361819386482239
+20,2017-11-02 23:39:00,"The latest disappointment caused brokers to downgrade JCP stock, with a drop of 50 cents per share representing a 14% decline in an already knock-down price.",0.017980094999074936,0.9715976715087891,0.010422234423458576,negative,-0.9536175727844238
+21,2017-11-02 23:39:00,This is not a discount.,0.0529446005821228,0.016342803835868835,0.9307126402854919,neutral,0.03660179674625397
+22,2017-11-02 23:39:00,This is a going out of business price.,0.05602658540010452,0.4154905676841736,0.5284828543663025,neutral,-0.35946398973464966
+23,2017-11-02 23:39:00,"Looking for Value
+
+Each time Ellison puts out a fire, a new one appears.",0.09908697009086609,0.03348534554243088,0.8674277067184448,neutral,0.06560162454843521
+24,2017-11-02 23:39:00,"The latest trouble spots are women's apparel, where he had to clear out slow-selling merchandise, and appliances, which have terrible margins.",0.019658802077174187,0.9549477696418762,0.025393439456820488,negative,-0.9352889657020569
+25,2017-11-02 23:39:00,Employees are growing impatient with low wages .,0.04929005727171898,0.9003762006759644,0.05033372342586517,negative,-0.8510861396789551
+26,2017-11-02 23:39:00,"JCPenney has become the worst-performing of the large department stores, and the market cap's recent fall below $1 billion means it may not even be a large store at all any more.",0.02116035856306553,0.960405707359314,0.018433967605233192,negative,-0.939245343208313
+27,2017-11-02 23:39:00,"Still, if you're looking for value, JCP stock is a value play.",0.05769304186105728,0.007883535698056221,0.9344234466552734,neutral,0.04980950802564621
+28,2017-11-02 23:39:00,"It's probably going to break even for the year, with $12 billion in revenue.",0.9134808778762817,0.024038031697273254,0.06248118728399277,positive,0.8894428610801697
+29,2017-11-02 23:39:00,"Ellison has been slowly paying down debt, by $700 million since January 2015.",0.4557473659515381,0.41867801547050476,0.12557455897331238,positive,0.037069350481033325
+30,2017-11-02 23:39:00,Operating cash flow has been positive since he took over.,0.9127981662750244,0.022141193971037865,0.06506063789129257,positive,0.8906569480895996
+31,2017-11-02 23:39:00,It may be that someone looking for value is in JCPenney's future.,0.036941517144441605,0.011454530991613865,0.9516040086746216,neutral,0.025486987084150314
+32,2017-11-02 23:39:00,"But it won't be me, and it shouldn't be you.",0.07467058300971985,0.09002023935317993,0.8353092074394226,neutral,-0.015349656343460083
+33,2017-11-02 23:39:00,"While some analysts dream of Amazon buying JCP for pennies on the dollar , it's more likely that private equity could scoop it up and take the tax losses from closing stores in poor locations, leaving only those in strong malls and giving Ellison time to make his turnaround plan work.",0.5107599496841431,0.2422783225774765,0.24696166813373566,positive,0.26848161220550537
+34,2017-11-02 23:39:00,I am not recommending you buy JCP stock.,0.021404318511486053,0.013316214084625244,0.9652795195579529,neutral,0.00808810442686081
+35,2017-11-02 23:39:00,"But I do think the company can be saved through private equity or some other transaction, with a buyer who can both use tax losses and focus on a sustainable niche.",0.809095561504364,0.014014196582138538,0.17689023911952972,positive,0.795081377029419
+36,2017-11-02 23:39:00,"But that's speculation, not investing.",0.03175690025091171,0.014210036024451256,0.9540331363677979,neutral,0.017546864226460457
+37,2017-11-02 23:39:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+38,2017-11-02 23:39:00,"He is the author of the historical mystery romance, The Reluctant Detective Travels in Time , available now at the Amazon Kindle store.",0.06903442740440369,0.01702703908085823,0.913938581943512,neutral,0.052007388323545456
+39,2017-11-02 23:39:00,Write him at danablankenhorn@gmail.comor follow him on Twitter at @danablankenhorn .,0.04530028998851776,0.049376752227544785,0.9053230285644531,neutral,-0.004076462239027023
+40,2017-11-02 23:39:00,"As of this writing, he owned shares in AMZN.",0.013777585700154305,0.010362113825976849,0.9758602380752563,neutral,0.003415471874177456
+41,2017-11-02 23:39:00,"• 7 ETFs to Help You Cover the World
+• J C Penney Company Inc (JCP) Stock Is an Eyesore in an Ugly Industry
+• 7 Stocks That Will Push the Dow Jones to 25,000
+
+The post Will J C Penney Company Inc Stock Survive?",0.11990716308355331,0.10487783700227737,0.7752150297164917,neutral,0.01502932608127594
+42,2017-11-02 23:39:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+43,2017-11-02 23:39:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-19 09:33:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 38,991 contracts has been traded thus far today, a contract volume which is representative of approximately 3.9 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04162327200174332,0.011266810819506645,0.9471098780632019,neutral,0.03035646118223667
+1,2019-08-19 09:33:00,"That number works out to 123.2% of HD's average daily trading volume over the past month, of 3.2 million shares.",0.7933487892150879,0.020473957061767578,0.18617725372314453,positive,0.7728748321533203
+2,2019-08-19 09:33:00,"Especially high volume was seen for the $207.50 strike call option expiring August 23, 2019, with 2,224 contracts trading so far today, representing approximately 222,400 underlying shares of HD.",0.2430131435394287,0.011111141182482243,0.7458757758140564,neutral,0.23190200328826904
+3,2019-08-19 09:33:00,"Below is a chart showing HD's trailing twelve month trading history, with the $207.50 strike highlighted in orange:
+
+AFLAC Inc (Symbol: AFL) options are showing a volume of 41,488 contracts thus far today.",0.02620546519756317,0.060944318771362305,0.9128502607345581,neutral,-0.03473885357379913
+4,2019-08-19 09:33:00,"That number of contracts represents approximately 4.1 million underlying shares, working out to a sizeable 120.7% of AFL's average daily trading volume over the past month, of 3.4 million shares.",0.1558600813150406,0.009578518569469452,0.8345614075660706,neutral,0.14628157019615173
+5,2019-08-19 09:33:00,"Especially high volume was seen for the $55 strike call option expiring October 18, 2019, with 18,950 contracts trading so far today, representing approximately 1.9 million underlying shares of AFL.",0.28712019324302673,0.012739679776132107,0.7001400589942932,neutral,0.27438050508499146
+6,2019-08-19 09:33:00,"Below is a chart showing AFL's trailing twelve month trading history, with the $55 strike highlighted in orange:
+
+And Centene Corp (Symbol: CNC) options are showing a volume of 28,487 contracts thus far today.",0.02064918354153633,0.04516058415174484,0.9341902136802673,neutral,-0.02451140061020851
+7,2019-08-19 09:33:00,"That number of contracts represents approximately 2.8 million underlying shares, working out to a sizeable 56.9% of CNC's average daily trading volume over the past month, of 5.0 million shares.",0.11712182313203812,0.009667049162089825,0.8732110857963562,neutral,0.10745477676391602
+8,2019-08-19 09:33:00,"Particularly high volume was seen for the $47.50 strike put option expiring December 20, 2019, with 12,727 contracts trading so far today, representing approximately 1.3 million underlying shares of CNC.",0.19967512786388397,0.009215391241014004,0.7911095023155212,neutral,0.190459743142128
+9,2019-08-19 09:33:00,"Below is a chart showing CNC's trailing twelve month trading history, with the $47.50 strike highlighted in orange:
+
+For the various different available expirations for HD options, AFL options, or CNC options, visit StockOptionsChannel.com.",0.010064000263810158,0.03384321555495262,0.9560927748680115,neutral,-0.023779215291142464
+10,2019-08-19 09:33:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631768465042114,0.0070797656662762165,0.9682884216308594,neutral,0.017552003264427185

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-21 07:18:00,"In early trading on Tuesday, shares of FLIR Systems, topped the list of the day's best performing components of the S&P 500 index, trading up 12.1%.",0.9393487572669983,0.029541321098804474,0.031109938398003578,positive,0.9098074436187744
+1,2020-04-21 07:18:00,"Year to date, FLIR Systems has lost about 16.1% of its value.",0.016075070947408676,0.9473291039466858,0.03659578040242195,negative,-0.9312540292739868
+2,2020-04-21 07:18:00,"And the worst performing S&P 500 component thus far on the day is Salesforce.com, trading down 6.9%.",0.02052794210612774,0.9671558737754822,0.012316110543906689,negative,-0.9466279149055481
+3,2020-04-21 07:18:00,Salesforce.com Inc is lower by about 6.8% looking at the year to date performance.,0.02026905119419098,0.9679679870605469,0.011762942187488079,negative,-0.9476989507675171
+4,2020-04-21 07:18:00,"Two other components making moves today are Fortinet, trading down 6.9%, and Equifax, trading up 5.1% on the day.",0.03587266802787781,0.9034157991409302,0.060711491852998734,negative,-0.86754310131073

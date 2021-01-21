@@ -1,0 +1,21 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-20 07:53:00,"The Dow Jones Industrial Average closed at 22,370.80 for a gain of 39.45 points or 0.18%.",0.9329373836517334,0.038522835820913315,0.02853984944522381,positive,0.8944145441055298
+1,2017-09-20 07:53:00,"The Standard & Poor's 500 closed at 2,506.65 for a gain of 2.78 points or 0.11%.",0.9320282936096191,0.041039299219846725,0.026932453736662865,positive,0.8909890055656433
+2,2017-09-20 07:53:00,"The Nasdaq Composite closed at 6,461.32 for a gain of 6.68 points or 0.10%.",0.9411653876304626,0.034271348267793655,0.024563193321228027,positive,0.9068940281867981
+3,2017-09-20 07:53:00,The VIX Volatility Index was lower for the day at 10.12 for a loss of 0.03 points or 0.30%.,0.019013814628124237,0.9699773788452148,0.011008760891854763,negative,-0.95096355676651
+4,2017-09-20 07:53:00,"The Dow Jones, S&P 500 and Nasdaq all reported new highs on Tuesday.",0.681455135345459,0.07061003893613815,0.2479347437620163,positive,0.6108450889587402
+5,2017-09-20 07:53:00,"The Federal Open Market Committee also began its September monetary policy meeting, which ends on Wednesday and is expected to provide insight into the Fed's balance sheet reduction.",0.1738365739583969,0.1582779884338379,0.6678854823112488,neutral,0.015558585524559021
+6,2017-09-20 07:53:00,• The current account deficit dropped to $123.1 billion from $113.5 billion.,0.01874537579715252,0.9711993336677551,0.01005530171096325,negative,-0.9524539709091187
+7,2017-09-20 07:53:00,• Import prices reported a 0.6% monthly increase and a 2.1% yearly increase.,0.8982099294662476,0.050302647054195404,0.05148738622665405,positive,0.847907304763794
+8,2017-09-20 07:53:00,Export prices were also higher with a 0.6% monthly increase and a 2.3% yearly increase.,0.9400752186775208,0.02813437208533287,0.03179043158888817,positive,0.91194087266922
+9,2017-09-20 07:53:00,"In the Dow Jones Industrial Average the following stocks led gains:
+
+In the broad market, financial and materials stocks led gains.",0.9263092875480652,0.02767486684024334,0.046015817672014236,positive,0.8986344337463379
+10,2017-09-20 07:53:00,Technology was also higher with the S&P 500 technology sector gaining 0.44%.,0.9330452680587769,0.03278651461005211,0.034168194979429245,positive,0.9002587795257568
+11,2017-09-20 07:53:00,"In small-caps, the Russell 2000 Index closed at 1,440.40 for a loss of 0.68 points or 0.05%.",0.021157817915081978,0.9694273471832275,0.0094147939234972,negative,-0.9482695460319519
+12,2017-09-20 07:53:00,The S&P 600 Small-Cap Index closed at 865.98 for a loss of 1.17 points or 0.13%.,0.021137133240699768,0.9690695405006409,0.009793403558433056,negative,-0.9479324221611023
+13,2017-09-20 07:53:00,"The Dow Jones Small-Cap Growth TSM Index closed at 8,778.63 for a loss of 8.48 points or 0.10%.",0.02127668261528015,0.9694665670394897,0.009256785735487938,negative,-0.9481898546218872
+14,2017-09-20 07:53:00,"The Dow Jones Small-Cap Value TSM Index closed at 9,678.33 for a loss of 3.90 points or 0.04%.",0.021298440173268318,0.9684309363365173,0.010270598344504833,negative,-0.9471324682235718
+15,2017-09-20 07:53:00,"Other notable index closes included the S&P 400 Mid-Cap Index at 1,761.52 for a loss of 0.70 points or 0.04%; the S&P 100 Index at 1,109.26 for a gain of 3.00 points or 0.27%; the Russell 3000 Index at 1,483.80 for a gain of 1.27 points or 0.09%; the Russell 1000 Index at 1,389.11 for a gain of 1.34 points or 0.10%; and the Dow Jones US Select Dividend Index at 668.09 for a loss of 0.20 points or 0.03%.",0.6569605469703674,0.29727622866630554,0.04576319828629494,positive,0.3596843183040619
+16,2017-09-20 07:53:00,This article first appeared on GuruFocus .,0.01878550462424755,0.01473853550851345,0.9664759039878845,neutral,0.0040469691157341
+17,2017-09-20 07:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-08 07:15:00,"In early trading on Tuesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.4%.",0.936352014541626,0.03282767906785011,0.030820408836007118,positive,0.9035243391990662
+1,2016-03-08 07:15:00,"Year to date, Home Depot has lost about 3.8% of its value.",0.017328238114714622,0.9518182873725891,0.03085348755121231,negative,-0.9344900250434875
+2,2016-03-08 07:15:00,"And the worst performing Dow component thus far on the day is Caterpillar ( CAT ), trading down 2.3%.",0.020283794030547142,0.9654664993286133,0.014249766245484352,negative,-0.9451826810836792
+3,2016-03-08 07:15:00,Caterpillar is showing a gain of 7.5% looking at the year to date performance.,0.9482768774032593,0.01835949718952179,0.03336359187960625,positive,0.9299173951148987
+4,2016-03-08 07:15:00,"Two other components making moves today are DuPont ( DD ), trading down 2.2%, and Microsoft Corporation ( MSFT ), trading up 0.8% on the day.",0.03310886770486832,0.9351599216461182,0.031731218099594116,negative,-0.9020510315895081
+5,2016-03-08 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

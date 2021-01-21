@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-31 04:04:00,Futures for the S&P 500 index rallied Wednesday morning following President Trump's State of the Union address and heading into a slew of big earnings reports before and after the session.,0.9012047052383423,0.05042506754398346,0.048370324075222015,positive,0.85077965259552
+1,2018-01-31 04:04:00,The major averages suffered their worst losses of 2018 on Tuesday.,0.025350362062454224,0.9542960524559021,0.020353596657514572,negative,-0.9289456605911255
+2,2018-01-31 04:04:00,"But Workday ( WDAY ), Electronic Arts ( EA ), Take-Two Interactive Software ( TTWO ) and Salesforce.com ( CRM ) rose modestly Tuesday or fell less than the S&P 500's 1.1% retreat.",0.18017181754112244,0.7862035036087036,0.03362470492720604,negative,-0.6060316562652588
+3,2018-01-31 04:04:00,Red Hat ( RHT ) matched the S&P 500's decline.,0.7910470962524414,0.15893210470676422,0.05002082884311676,positive,0.6321150064468384
+4,2018-01-31 04:04:00,"[ibd-display-video id=3111488 width=50 float=left autostart=true] Even better, Workday, Salesforce.com and Red Hat are all in buy range.",0.562446117401123,0.06623557209968567,0.37131834030151367,positive,0.4962105453014374
+5,2018-01-31 04:04:00,"Electronic Arts and fellow video game maker Take-Two Interactive closed Tuesday slightly below entry points, but rallied in extended trading on EA's earnings report and guidance .",0.23139241337776184,0.7249435782432556,0.04366394132375717,negative,-0.4935511648654938
+6,2018-01-31 04:04:00,"S&P 500, Dow and Nasdaq 100 futures rose about 0.4% vs. fair value, even with tech titan Apple (AAPL) down modestly.",0.18425467610359192,0.7703602910041809,0.045385073870420456,negative,-0.5861055850982666
+7,2018-01-31 04:04:00,"Apple has lagged the major averages for months, with its earnings due Thursday night.",0.03736386075615883,0.9332622289657593,0.029373910278081894,negative,-0.8958983421325684
+8,2018-01-31 04:04:00,"In his primetime State of the Union address to Congress Tuesday night, Trump touted recently passed tax cuts and the big rally in the stock market over the past year.",0.6066398620605469,0.12625645101070404,0.26710376143455505,positive,0.48038339614868164
+9,2018-01-31 04:04:00,He also called for immigration reform and $1.5 trillion in infrastructure spending.,0.47909852862358093,0.03601912036538124,0.48488232493400574,neutral,0.44307941198349
+10,2018-01-31 04:04:00,"Meanwhile, investors will digest earnings from many top companies today , including Boeing (BA) before the open as well as Facebook (FB) and Microsoft (MSFT) after the close.",0.47404733300209045,0.019640186801552773,0.5063124299049377,neutral,0.4544071555137634
+11,2018-01-31 04:04:00,Workday rose 3.2% to 120.26 in Tuesday's stock market trading after Morgan Stanley upgraded the cloud-based business software firm and William Blair said it recently won two big financial-software deals.,0.9435704946517944,0.029382407665252686,0.027047008275985718,positive,0.9141880869865417
+12,2018-01-31 04:04:00,That move pushed Workday to the edge of a buying range from a 111.98 cup-with-handle entry point.,0.9015895128250122,0.032453157007694244,0.06595735251903534,positive,0.8691363334655762
+13,2018-01-31 04:04:00,But it was the first time Workday's breakout seemed impressive.,0.7866745591163635,0.05867094174027443,0.15465451776981354,positive,0.7280036211013794
+14,2018-01-31 04:04:00,"The initial Jan. 23 breakout came on volume that was well below average, and it remained light for the next several sessions.",0.09310032427310944,0.7444578409194946,0.16244181990623474,negative,-0.6513575315475464
+15,2018-01-31 04:04:00,"Also, the relative strength line , which tracks a stock's performance vs. the S&P 500 index, was lagging.",0.03877436742186546,0.9403087496757507,0.020916873589158058,negative,-0.901534378528595
+16,2018-01-31 04:04:00,"Even as the stock moved into all-time highs, the RS line remained stuck below even short-term peaks.",0.22825615108013153,0.6768797636032104,0.09486410021781921,negative,-0.4486235976219177
+17,2018-01-31 04:04:00,"But on Tuesday, trading volume was 51% above normal.",0.11355084180831909,0.5803841352462769,0.30606505274772644,negative,-0.46683329343795776
+18,2018-01-31 04:04:00,"And with Workday posting a big gain on a bad market day, its RS line rose to a two-month high.",0.9342231154441833,0.030983757227659225,0.034793172031641006,positive,0.903239369392395
+19,2018-01-31 04:04:00,"Salesforce fell 0.9% to 112.23, a modest loss on below-average volume.",0.01776418462395668,0.9737377762794495,0.00849795714020729,negative,-0.9559735655784607
+20,2018-01-31 04:04:00,The maker of on-demand customer relationship software is comfortably above a 109.29 flat-base buy point.,0.7076058387756348,0.043524064123630524,0.2488701045513153,positive,0.6640817523002625
+21,2018-01-31 04:04:00,"Salesforce initially cleared the entry point on Jan. 12, but volume was only 25% above normal.",0.07309358566999435,0.6565092206001282,0.2703971862792969,negative,-0.5834156274795532
+22,2018-01-31 04:04:00,"That's OK, but you'd really like to see a 40%-50% minimum gain as a sign that institutional buyers are stepping in.",0.8216442465782166,0.023943623527884483,0.1544121354818344,positive,0.7977006435394287
+23,2018-01-31 04:04:00,"The next session, the stock fell back below the entry on similar volume.",0.02138221450150013,0.9561843276023865,0.022433515638113022,negative,-0.9348021149635315
+24,2018-01-31 04:04:00,"Salesforce then retook the entry, but on a series of low-volume moves.",0.3354228734970093,0.11860249191522598,0.5459746718406677,neutral,0.2168203890323639
+25,2018-01-31 04:04:00,"Also, Salesforce's RS line really hasn't made any progress from short-term levels since the breakout.",0.1285996288061142,0.6407790780067444,0.23062123358249664,negative,-0.512179434299469
+26,2018-01-31 04:04:00,"Red Hat broke out past a 131.03 flat-base entry on Jan. 25, then rose to near the top of the 5% buy zone the next session.",0.8717113137245178,0.02183781936764717,0.10645083338022232,positive,0.8498734831809998
+27,2018-01-31 04:04:00,"Shares have pulled back the last two sessions, including Tuesday's 1.1% on volume that was 34% below normal.",0.025639628991484642,0.9559262990951538,0.018434084951877594,negative,-0.9302866458892822
+28,2018-01-31 04:04:00,The Linux software firm's breakout came on volume that was just above average.,0.7849425673484802,0.02728242240846157,0.18777500092983246,positive,0.7576601505279541
+29,2018-01-31 04:04:00,The RS line has not made much improvement since then.,0.18102867901325226,0.7092297673225403,0.10974152386188507,negative,-0.5282011032104492
+30,2018-01-31 04:04:00,"Electronic Arts closed up 0.9% to 118.70, working toward a 112.89 buy point.",0.8893065452575684,0.058428309857845306,0.05226517468690872,positive,0.8308782577514648
+31,2018-01-31 04:04:00,"After the close, the video game maker met fiscal third-quarter earnings estimates and fell short on revenue.",0.017887020483613014,0.9702257513999939,0.011887192726135254,negative,-0.9523387551307678
+32,2018-01-31 04:04:00,But EA guided higher for the current March quarter.,0.7747732400894165,0.14540345966815948,0.07982324808835983,positive,0.6293697953224182
+33,2018-01-31 04:04:00,"EA shot up 7.8% to 127.95 in premarket trading Wednesday, suggesting a breakout into a buy zone.",0.9387656450271606,0.03173878788948059,0.029495572671294212,positive,0.9070268869400024
+34,2018-01-31 04:04:00,Keep in mind that extended trading does not always translate into how a stock will open and close the following session.,0.013132807798683643,0.01619475893676281,0.9706723690032959,neutral,-0.0030619511380791664
+35,2018-01-31 04:04:00,"Also, EA's RS line is well below where it was at the start of the five-month consolidation, though it did top a very short-term high this week.",0.049341145902872086,0.9126130938529968,0.038045793771743774,negative,-0.863271951675415
+36,2018-01-31 04:04:00,"Hopefully, EA's after-hours action does carry over to Wednesday with a high-volume price spike.",0.8927130699157715,0.030565697699785233,0.07672126591205597,positive,0.8621473908424377
+37,2018-01-31 04:04:00,Take-Two fell 0.8% to 118.31 on Tuesday.,0.020119093358516693,0.9626902937889099,0.017190655693411827,negative,-0.942571222782135
+38,2018-01-31 04:04:00,"The stock has topped a 120.28 buy point from a handle in the last two sessions, but failed to close above it.",0.6327600479125977,0.2622956931591034,0.10494424402713776,positive,0.37046435475349426
+39,2018-01-31 04:04:00,"Take-Two rallied early Wednesday in sympathy with peer EA, climbing 1.5% to 120.05, just below the entry.",0.933474600315094,0.040516551584005356,0.026008840650320053,positive,0.8929580450057983
+40,2018-01-31 04:04:00,"Take-Two's RS line has some distance to the consolidation's highs, but a solid breakout would give it at least a short-term high.",0.9128478765487671,0.033899206668138504,0.05325297266244888,positive,0.8789486885070801
+41,2018-01-31 04:04:00,"YOU MIGHT BE INTERESTED IN:
+
+Alibaba Likely To Show Strongest Revenue Growth In 15 Quarters
+
+What Apple's Stock Chart Is Telling Us Going Into Earnings, iPhone X Outlook
+
+As Market Sold Off, This Small-Cap Tech Stock Rocketed Up; Why?",0.8141367435455322,0.029386112466454506,0.15647710859775543,positive,0.7847506403923035
+42,2018-01-31 04:04:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-09 06:27:00,"It may not feel like it these days, but stocks are technically still in a bull market.",0.12957000732421875,0.3356517553329468,0.5347782373428345,neutral,-0.20608174800872803
+1,2016-03-09 06:27:00,"Indeed, Wednesday marks the seven-year anniversary of the bull run.",0.33189162611961365,0.02057240903377533,0.6475359201431274,neutral,0.3113192319869995
+2,2016-03-09 06:27:00,"As much as everything feels uncertain now, back then it was much, much worse.",0.05951507017016411,0.4851749539375305,0.45530998706817627,negative,-0.4256598949432373
+3,2016-03-09 06:27:00,"With a more than 50% drop from its peak, the S&P 500 hit its recession low of 676.53 on March 9, 2009.",0.019978392869234085,0.9670699834823608,0.012951529584825039,negative,-0.9470915794372559
+4,2016-03-09 06:27:00,But there was no way to know the worst was over for stocks.,0.0746580958366394,0.48838892579078674,0.43695297837257385,negative,-0.41373082995414734
+5,2016-03-09 06:27:00,"After all, the severe economic downturn would last for another three months (see how stocks are forward looking?)",0.02251536212861538,0.13314954936504364,0.8443350195884705,neutral,-0.11063418537378311
+6,2016-03-09 06:27:00,Investors couldn't believe that the bottom might be in.,0.10355992615222931,0.515052855014801,0.38138723373413086,negative,-0.4114929437637329
+7,2016-03-09 06:27:00,Little did they know that it was the buying opportunity of a lifetime.,0.34570541977882385,0.01650042086839676,0.6377941370010376,neutral,0.3292050063610077
+8,2016-03-09 06:27:00,"Well, naturally Warren Buffett did.",0.0699348971247673,0.013206900097429752,0.9168581962585449,neutral,0.056727997958660126
+9,2016-03-09 06:27:00,He bought shares in his favorite companies all the way down.,0.10454047471284866,0.017005357891321182,0.8784541487693787,neutral,0.08753511309623718
+10,2016-03-09 06:27:00,"If you emulated Buffet and dollar-cost averaged your way through the crash, take a bow.",0.1499069631099701,0.0510714091360569,0.7990216016769409,neutral,0.09883555769920349
+11,2016-03-09 06:27:00,That's exactly the right thing to do.,0.3910712003707886,0.013324780389666557,0.5956040024757385,neutral,0.37774643301963806
+12,2016-03-09 06:27:00,The Oracle of Omaha would be proud.,0.30876624584198,0.029243241995573044,0.6619905233383179,neutral,0.27952301502227783
+13,2016-03-09 06:27:00,"However, if you somehow market-timed and stock-picked the moment perfectly - a fantasy call if ever there was one - you would have reaped jaw-dropping returns.",0.5207122564315796,0.05486788600683212,0.4244198501110077,positive,0.46584436297416687
+14,2016-03-09 06:27:00,"Get this: if you had bought only the top three of the best mega-cap stocks of the bull market, you'd have a gain of 724%, according to S&P Capital IQ.",0.8731873035430908,0.01765713095664978,0.10915561765432358,positive,0.8555301427841187
+15,2016-03-09 06:27:00,"So who are these three big-cap, bull-market killers?",0.07618195563554764,0.11339684575796127,0.8104211688041687,neutral,-0.037214890122413635
+16,2016-03-09 06:27:00,Let's have a look.,0.06581269949674606,0.013224255293607712,0.9209629893302917,neutral,0.05258844420313835
+17,2016-03-09 06:27:00,"Best Stocks of the Bull Market: Home Depot Inc (HD)
+
+This one is probably too obvious.",0.035721179097890854,0.15812763571739197,0.8061512112617493,neutral,-0.12240645289421082
+18,2016-03-09 06:27:00,"The housing crisis is what brought pain to the market in the first place, and Home Depot Inc ( HD ) was butt-naked exposed to it.",0.08032815158367157,0.3924289345741272,0.5272429585456848,neutral,-0.31210076808929443
+19,2016-03-09 06:27:00,"From their pre-bubble peak in 2005, shares in the nation's largest home improvement retailer tumbled 60% before the current bull market kicked in.",0.021115804091095924,0.9682397842407227,0.010644463822245598,negative,-0.9471240043640137
+20,2016-03-09 06:27:00,There's little wonder why.,0.0376487597823143,0.04637565463781357,0.9159755706787109,neutral,-0.008726894855499268
+21,2016-03-09 06:27:00,The fundamentals were terrible.,0.04308662563562393,0.8219103217124939,0.13500313460826874,negative,-0.7788236737251282
+22,2016-03-09 06:27:00,"In 2009, earnings fell almost 40% year-over-year.",0.017255166545510292,0.9731358289718628,0.00960900355130434,negative,-0.9558806419372559
+23,2016-03-09 06:27:00,"That sort of thrashing can help spring-load a stock for a big rebound, and that's what HD delivered.",0.6154322624206543,0.032947055995464325,0.351620614528656,positive,0.5824851989746094
+24,2016-03-09 06:27:00,"The easy money, however, appears to be made.",0.28711843490600586,0.04484587907791138,0.6680357456207275,neutral,0.24227255582809448
+25,2016-03-09 06:27:00,An improving housing market has been largely factored into the stock price by now.,0.22312547266483307,0.009269403293728828,0.7676050662994385,neutral,0.2138560712337494
+26,2016-03-09 06:27:00,"HD remains a good bet on a better U.S. economy, but it's probably too much to ask for another 595% gain in the next seven years.",0.8014864921569824,0.06718015670776367,0.13133341073989868,positive,0.7343063354492188
+27,2016-03-09 06:27:00,"Best Stocks of the Bull Market: Apple Inc. (AAPL)
+
+One word: iPhone.",0.04814226180315018,0.015099731273949146,0.9367579817771912,neutral,0.033042531460523605
+28,2016-03-09 06:27:00,That revolutionary gadget more than anything else has propelled Apple Inc. ( AAPL ) through an amazing bull market run.,0.9019761085510254,0.016254214569926262,0.08176971971988678,positive,0.8857219219207764
+29,2016-03-09 06:27:00,And that's despite AAPL being in a year-long slump.,0.029224833473563194,0.8925221562385559,0.07825301587581635,negative,-0.8632973432540894
+30,2016-03-09 06:27:00,"Don't forget that not too long ago, AAPL's market cap had $800 billion in its sights.",0.2477109432220459,0.011712499894201756,0.7405765056610107,neutral,0.23599843680858612
+31,2016-03-09 06:27:00,"Indeed, from the bear-market bottom to Apple stock 's all-time peak a little more than a year ago, shares were up 1,000%
+
+But AAPL stock's growth profile has changed a lot since those days.",0.8799726963043213,0.024660032242536545,0.09536729753017426,positive,0.8553126454353333
+32,2016-03-09 06:27:00,"Investors are worried that it has lost its iPhone mojo, that it's too big to grow quickly and that Tim Cook is no Steve Jobs.",0.021885516121983528,0.9515290856361389,0.02658543363213539,negative,-0.9296435713768005
+33,2016-03-09 06:27:00,"5 of Warren Buffett's Best Stocks to Buy and Hold
+
+Maybe so, but those fears are overblown if you measure by AAPL stock's valuation.",0.12432985752820969,0.05026393383741379,0.8254061937332153,neutral,0.0740659236907959
+34,2016-03-09 06:27:00,It's a deep bargain on a forward earnings basis.,0.47760266065597534,0.014520784839987755,0.5078765749931335,neutral,0.46308186650276184
+35,2016-03-09 06:27:00,"At current levels, Apple doesn't have to produce rocket growth to justify an investment.",0.1702045202255249,0.009689271450042725,0.8201062083244324,neutral,0.16051524877548218
+36,2016-03-09 06:27:00,"Best Stocks of the Bull Market: Amazon.com, Inc. (AMZN)
+
+Amazon.com, Inc. ( AMZN ) is the best performing mega-cap stock of the bear market by a wide margin.",0.876166045665741,0.019334809854626656,0.10449913144111633,positive,0.8568312525749207
+37,2016-03-09 06:27:00,"Bears will point to the fact that it has done so while generating intermittent profit growth, and bulls will rightly point out that that just doesn't matter.",0.11313020437955856,0.024120474234223366,0.8627492785453796,neutral,0.08900973200798035
+38,2016-03-09 06:27:00,"Over the last seven years, AMZN has solidified its overwhelming superiority in e-commerce.",0.9385125041007996,0.0146701131016016,0.046817440539598465,positive,0.9238423705101013
+39,2016-03-09 06:27:00,It has developed a strong position in streaming media and content creation.,0.8198155760765076,0.011497248895466328,0.16868717968463898,positive,0.8083183169364929
+40,2016-03-09 06:27:00,"Best of all, the company's cloud-based services business is a whopper that's just starting to take off.",0.1556023359298706,0.02495547942817211,0.8194421529769897,neutral,0.13064685463905334
+41,2016-03-09 06:27:00,"AMZN stock looks pricey on a forward earnings basis, but not if you believe in its growth prospects.",0.07089471817016602,0.04618484526872635,0.882920503616333,neutral,0.024709872901439667
+42,2016-03-09 06:27:00,"Pundits criticize CEOs for short-term, quarter-to-quarter thinking.",0.031246166676282883,0.9246610403060913,0.0440928116440773,negative,-0.8934148550033569
+43,2016-03-09 06:27:00,Amazon CEO Jeff Bezos is thinking in decades .,0.07378365099430084,0.03448880836367607,0.8917275667190552,neutral,0.03929484263062477
+44,2016-03-09 06:27:00,"On that time frame, AMZN is almost assuredly a bargain.",0.47912484407424927,0.018870443105697632,0.5020047426223755,neutral,0.46025440096855164
+45,2016-03-09 06:27:00,"As of this writing, Dan Burrows did not hold a position in any of the aforementioned securities.",0.00896507129073143,0.02336612157523632,0.9676688313484192,neutral,-0.01440105028450489
+46,2016-03-09 06:27:00,The post The 3 Biggest and Best Stocks of the Bull Market appeared first on InvestorPlace .,0.3653421998023987,0.03237247094511986,0.6022853255271912,neutral,0.3329697251319885
+47,2016-03-09 06:27:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

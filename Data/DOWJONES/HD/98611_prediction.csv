@@ -1,0 +1,61 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-17 03:34:00,I'm an admirer and regular reader of Geoff Gannon's articles.,0.12356391549110413,0.012666631489992142,0.8637694716453552,neutral,0.11089728772640228
+1,2016-12-17 03:34:00,"In one of his recent articles titled "" How To Research an Industry "", Geoff discusses how he learns new industries by reading about multiple companies.",0.09465435147285461,0.007355440407991409,0.8979902267456055,neutral,0.0872989147901535
+2,2016-12-17 03:34:00,I wanted to share an extra step that has helped me.,0.6504674553871155,0.013003787957131863,0.3365287482738495,positive,0.6374636888504028
+3,2016-12-17 03:34:00,"Rather than diving straight into individual companies, I find it useful to first read industry overview publications.",0.027146199718117714,0.00943873543292284,0.9634150266647339,neutral,0.0177074633538723
+4,2016-12-17 03:34:00,"When I get a big picture view, I retain information better.",0.17470622062683105,0.013035780750215054,0.8122580647468567,neutral,0.16167044639587402
+5,2016-12-17 03:34:00,One of the initial obstacles to learning a new industry is that you'll be exposed to a lot of unfamiliar industry jargon and acronyms.,0.033698972314596176,0.07215971499681473,0.8941412568092346,neutral,-0.03846074268221855
+6,2016-12-17 03:34:00,Overview publications often have glossaries.,0.022330492734909058,0.0324186347424984,0.9452508687973022,neutral,-0.01008814200758934
+7,2016-12-17 03:34:00,It can't be overstated how helpful it is to have one source for new terms.,0.22018587589263916,0.014303602278232574,0.7655104994773865,neutral,0.20588228106498718
+8,2016-12-17 03:34:00,"If you don't speak the language when learning a new subject, then you're bound to get lost.",0.09306070953607559,0.4240974485874176,0.482841819524765,neutral,-0.3310367465019226
+9,2016-12-17 03:34:00,"I also think that when you dive straight into individual companies, you inadvertently make a lot of uneducated assumptions.",0.034038789570331573,0.26483941078186035,0.7011218070983887,neutral,-0.23080062866210938
+10,2016-12-17 03:34:00,"In another article, Geoff talked about researching individual companies and how one of the first things he reads is the investor presentations.",0.020191600546240807,0.011805854737758636,0.9680024981498718,neutral,0.00838574580848217
+11,2016-12-17 03:34:00,Companies tend to simplify their message and highlight a couple of main points in investor presentations.,0.04263630881905556,0.013000153005123138,0.9443635940551758,neutral,0.02963615581393242
+12,2016-12-17 03:34:00,"With good presentations, you learn a lot in a short period of time.",0.2683444619178772,0.009614301845431328,0.7220412492752075,neutral,0.2587301731109619
+13,2016-12-17 03:34:00,That would be an appropriate analogy to industry overviews.,0.09148667752742767,0.009774647653102875,0.8987386226654053,neutral,0.0817120298743248
+14,2016-12-17 03:34:00,"Industry overviews tend to discuss basic principles and highlight major players, profitability drivers, emerging trends and risks.",0.02461552433669567,0.006622593384236097,0.9687618613243103,neutral,0.017992930486798286
+15,2016-12-17 03:34:00,"Once you get a big picture view, diving into multiple companies becomes easier.",0.10009437799453735,0.007514847908169031,0.892390787601471,neutral,0.09257952868938446
+16,2016-12-17 03:34:00,• Investopedia has an Industry Handbook .,0.021857205778360367,0.006926822476089001,0.9712159633636475,neutral,0.014930383302271366
+17,2016-12-17 03:34:00,It's very useful if you are a total newbie to an industry.,0.22026288509368896,0.0143729904666543,0.7653641104698181,neutral,0.20588989555835724
+18,2016-12-17 03:34:00,"To quote their handbook, ""Each industry is different, and using one cookie-cutter approach to analysis is sure to create problems.",0.051229801028966904,0.47051212191581726,0.47825804352760315,neutral,-0.41928231716156006
+19,2016-12-17 03:34:00,"Imagine, for example, comparing the P/E ratio of a tech company to that of a utility.",0.048772647976875305,0.01397506333887577,0.9372523427009583,neutral,0.034797586500644684
+20,2016-12-17 03:34:00,"Because you are, in effect, comparing apples to oranges, the analysis is next to useless.""",0.08524645119905472,0.4225058853626251,0.49224767088890076,neutral,-0.337259441614151
+21,2016-12-17 03:34:00,The Handbook first discusses Porter's 5 Forces illustrated in the diagram below.,0.01603592373430729,0.009462852030992508,0.9745012521743774,neutral,0.006573071703314781
+22,2016-12-17 03:34:00,"It then has brief overviews of the following industries:
+• Academic sites are among my favorite resources.",0.026590121909976006,0.008967977948486805,0.9644419550895691,neutral,0.017622143030166626
+23,2016-12-17 03:34:00,"When I researched the oil industry, I was fortunate to have found an industry overview paper by a senior Harvard fellow titled ""Oil: The Next Revolution"".",0.13938762247562408,0.012551451101899147,0.8480609059333801,neutral,0.1268361657857895
+24,2016-12-17 03:34:00,The paper starts with a list of industry specific terms and abbreviations.,0.015249161049723625,0.011955632828176022,0.9727952480316162,neutral,0.0032935282215476036
+25,2016-12-17 03:34:00,It then discusses oil supply region by region.,0.020429713651537895,0.009131559170782566,0.9704387187957764,neutral,0.011298154480755329
+26,2016-12-17 03:34:00,"Further, the author went on to discuss all of the misconceptions that were perpetuated by the ""peak oil"" narrative.",0.038035571575164795,0.07437694072723389,0.8875874876976013,neutral,-0.03634136915206909
+27,2016-12-17 03:34:00,It's imperative to develop a solid foundation of knowledge if you're going to invest in a new industry.,0.41364872455596924,0.008621441200375557,0.5777298212051392,neutral,0.40502727031707764
+28,2016-12-17 03:34:00,"If the foundation is flimsy and flawed, then investment theses are at a much higher risk of being wrong.",0.055782802402973175,0.6106846332550049,0.33353257179260254,negative,-0.5549018383026123
+29,2016-12-17 03:34:00,"When I was interested in Home Depot ( HD ) as a possible investment, I found Harvard's Joint Center For Housing Studies website where there is an archive full of reports related to home improvement.",0.0526467002928257,0.009494991041719913,0.9378582835197449,neutral,0.04315171018242836
+30,2016-12-17 03:34:00,• IBISWorld is the largest provider of industry information in the U.S.,0.2876637578010559,0.007227323949337006,0.7051088809967041,neutral,0.2804364264011383
+31,2016-12-17 03:34:00,It's a paid service.,0.03734905645251274,0.006054010707885027,0.9565969109535217,neutral,0.031295046210289
+32,2016-12-17 03:34:00,They provide reports for as many industries as there are in the stock market.,0.01750904507935047,0.0072801546193659306,0.9752107858657837,neutral,0.010228890925645828
+33,2016-12-17 03:34:00,Here's the full list .,0.020315520465373993,0.01303450670093298,0.9666500091552734,neutral,0.007281013764441013
+34,2016-12-17 03:34:00,"If you're a university student, you may be able to access their reports through your school.",0.03060162626206875,0.010200254619121552,0.9591981768608093,neutral,0.020401371642947197
+35,2016-12-17 03:34:00,"• For information technology, Gartner is the industry standard.",0.16790130734443665,0.0058678616769611835,0.8262307643890381,neutral,0.16203343868255615
+36,2016-12-17 03:34:00,It's also a paid service.,0.030938411131501198,0.006194144021719694,0.9628674387931824,neutral,0.024744266644120216
+37,2016-12-17 03:34:00,"However, you can find some of their reports on the web for free.",0.01897873729467392,0.012127125635743141,0.9688941240310669,neutral,0.0068516116589307785
+38,2016-12-17 03:34:00,"As an example, their "" Cloud Infrastructure as a Service, Worldwide "" report is available for free.",0.047400351613759995,0.007310274988412857,0.9452894330024719,neutral,0.04009007662534714
+39,2016-12-17 03:34:00,"In many of their reports, they discuss the competitive landscape and depict the capabilities of individual companies in a Magic Quadrant.",0.07820121198892593,0.0066566262394189835,0.9151421785354614,neutral,0.0715445876121521
+40,2016-12-17 03:34:00,You can see in the graphic below that they consider Amazon Web Services to be best in class as it relates to their IAAS (infrastructure as a service) Magic Quadrant.,0.5321639776229858,0.013951914384961128,0.453884094953537,positive,0.518212080001831
+41,2016-12-17 03:34:00,"From Gartner Magic Quadrant for Cloud Infrastructure as a Service, Worldwide
+• Sometimes there are good industry books.",0.12854669988155365,0.011999682523310184,0.8594536781311035,neutral,0.11654701828956604
+42,2016-12-17 03:34:00,"I highly recommend the book "" Salt Sugar Fat: How the Food Giants Hooked Us "" for learning about the food industry.",0.2087615728378296,0.01331755518913269,0.7779208421707153,neutral,0.1954440176486969
+43,2016-12-17 03:34:00,You'll learn interesting facts such as how the giant food companies have scientifically maximized addictiveness and also why everyone and their mothers is opening up pizza chains.,0.11972257494926453,0.008487122133374214,0.87179034948349,neutral,0.11123545467853546
+44,2016-12-17 03:34:00,Even Starbucks is going to start serving pizza.,0.09364139288663864,0.02086213231086731,0.8854964375495911,neutral,0.07277926057577133
+45,2016-12-17 03:34:00,Our country is drowning in cheese.,0.1289590448141098,0.09063839912414551,0.7804025411605835,neutral,0.038320645689964294
+46,2016-12-17 03:34:00,"• Last but not least, there's always Google.",0.038221679627895355,0.015425638295710087,0.9463526606559753,neutral,0.022796042263507843
+47,2016-12-17 03:34:00,"Search the industry you want to learn about, i.e.",0.046455223113298416,0.006606471724808216,0.9469382762908936,neutral,0.039848752319812775
+48,2016-12-17 03:34:00,"Google ""automotive industry overview"".",0.020534781739115715,0.012327141128480434,0.9671381115913391,neutral,0.00820764061063528
+49,2016-12-17 03:34:00,"You may not get exactly what you're looking for, but you're bound to learn something.",0.363068550825119,0.014448266476392746,0.6224831342697144,neutral,0.34862029552459717
+50,2016-12-17 03:34:00,"• Arista Networks Inc ( ANET ) President and CEO Jayshree Ullal Sold $--.- million of Shares
+
+About GuruFocus: GuruFocus.com tracks the stocks picks and portfolio holdings of the world's best investors.",0.025004591792821884,0.009843138046562672,0.9651522040367126,neutral,0.015161453746259212
+51,2016-12-17 03:34:00,This value investing site offers stock screeners and valuation tools.,0.03417489305138588,0.006519665941596031,0.9593054056167603,neutral,0.02765522710978985
+52,2016-12-17 03:34:00,And publishes daily articles tracking the latest moves of the world's best investors.,0.03742823377251625,0.006741959135979414,0.9558297991752625,neutral,0.03068627417087555
+53,2016-12-17 03:34:00,GuruFocus also provides promising stock ideas in 3 monthly newsletters sent to Premium Members .,0.20221388339996338,0.007654124870896339,0.7901319265365601,neutral,0.1945597529411316
+54,2016-12-17 03:34:00,This article first appeared on GuruFocus .,0.018785500898957253,0.014738528989255428,0.9664759039878845,neutral,0.004046971909701824
+55,2016-12-17 03:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-17 23:21:00,"The US Commerce Department announced positive news for the housing market yesterday, stating that housing starts climbed 6.6% in April.",0.9349612593650818,0.02054823748767376,0.04449045658111572,positive,0.9144130349159241
+1,2016-05-17 23:21:00,This represents a seasonal adjusted annual rate of 1.17 million units added.,0.0750291645526886,0.08572954684495926,0.8392413258552551,neutral,-0.01070038229227066
+2,2016-05-17 23:21:00,"The news bodes well for corporations tied to the housing market, such as home improvement companies.",0.7750961780548096,0.023759637027978897,0.20114412903785706,positive,0.7513365149497986
+3,2016-05-17 23:21:00,"Now could be a great time to load up on some reliable stocks from this segment, so which one will bring the most profits to your portfolio?",0.488556832075119,0.012548075057566166,0.49889498949050903,neutral,0.47600874304771423
+4,2016-05-17 23:21:00,Home Depot HD and Lowe's LOW are some of the largest competitors in the home improvement sector.,0.17752686142921448,0.009956050664186478,0.8125171065330505,neutral,0.1675708144903183
+5,2016-05-17 23:21:00,"Within the last week, both companies reported earnings beats on our consensus estimate, and they have seen their share prices move higher as a result.",0.9364133477210999,0.022535257041454315,0.04105143994092941,positive,0.9138780832290649
+6,2016-05-17 23:21:00,Which stock is better though?,0.11369940638542175,0.06710546463727951,0.8191950917243958,neutral,0.04659394174814224
+7,2016-05-17 23:21:00,"Below, we compare value, growth, and earnings related metrics to decide which company makes for a better investment choice right now.",0.10136470943689346,0.010439801961183548,0.8881955146789551,neutral,0.09092490375041962
+8,2016-05-17 23:21:00,"Lowe's specializes in offering products and services for home improvement, home decor, home maintenance, home repair, and remodeling and maintenance of commercial buildings.",0.02605587989091873,0.005058466922491789,0.9688856601715088,neutral,0.020997412502765656
+9,2016-05-17 23:21:00,"Lowe's is a Zacks Rank #2 (Buy), and it has a market capitalization of about $68 billion.",0.19100365042686462,0.006445406936109066,0.8025509715080261,neutral,0.18455824255943298
+10,2016-05-17 23:21:00,"The company beat quarterly earnings expectations this morning, posting EPS of $0.87 when our consensus estimated $0.85.",0.9481490254402161,0.029058270156383514,0.022792650386691093,positive,0.919090747833252
+11,2016-05-17 23:21:00,This represents a 2.35% beat.,0.636093258857727,0.23436398804187775,0.1295427531003952,positive,0.4017292857170105
+12,2016-05-17 23:21:00,"Lowe's stock trades at a forward PE of 19.08, and it also has a PEG of 1.24.",0.04986438900232315,0.012379198335111141,0.9377564191818237,neutral,0.037485189735889435
+13,2016-05-17 23:21:00,"This is noteworthy, as the average PEG in the industry is 1.40.",0.20015497505664825,0.011690440587699413,0.7881545424461365,neutral,0.18846453726291656
+14,2016-05-17 23:21:00,LOW has a nice price-to-sales of just 1.09.,0.04530249908566475,0.01288330927491188,0.9418141841888428,neutral,0.03241918981075287
+15,2016-05-17 23:21:00,"When a company's price-to-sales ratio is below one, the stock may be undervalued.",0.03474313020706177,0.881244421005249,0.08401244133710861,negative,-0.8465012907981873
+16,2016-05-17 23:21:00,"LOW isn't below this threshold, but it is pretty close.",0.057057905942201614,0.05560975521802902,0.8873323798179626,neutral,0.0014481507241725922
+17,2016-05-17 23:21:00,"The company has a debt-to-capital of 60.13%, which is a little heavy when compared to the industry's average debt-to-capital of 44.33%.",0.14392782747745514,0.33817821741104126,0.5178939700126648,neutral,-0.19425038993358612
+18,2016-05-17 23:21:00,"This year, Lowe's projects earnings and sales growth of 21.81% and 5.69%, respectively.",0.9435461163520813,0.015588641166687012,0.04086529091000557,positive,0.9279574751853943
+19,2016-05-17 23:21:00,"While this is great news, LOW's profit margins in general are pretty slim.",0.02067534066736698,0.9104727506637573,0.06885188072919846,negative,-0.8897973895072937
+20,2016-05-17 23:21:00,Its trailing twelve month net margin is under 4.5%.,0.046056222170591354,0.8191744089126587,0.13476936519145966,negative,-0.7731181979179382
+21,2016-05-17 23:21:00,Home Depot is among the largest home improvement retailers in the world.,0.2979736626148224,0.009131165221333504,0.692895233631134,neutral,0.28884249925613403
+22,2016-05-17 23:21:00,"Home Depot stores cater to do-it-yourselfers, as well as home improvement, construction and building maintenance professionals.",0.021455662325024605,0.006045558489859104,0.9724987745285034,neutral,0.0154101038351655
+23,2016-05-17 23:21:00,"HD has a market capitalization of about $165.2 billion, and it is a Zacks Rank #2 (Buy).",0.43954917788505554,0.010765040293335915,0.5496858358383179,neutral,0.4287841320037842
+24,2016-05-17 23:21:00,"Home Depot beat our quarterly earnings consensus estimate by 7.46% when it reported its earnings yesterday, posting EPS of $1.44.",0.9492172598838806,0.02898319996893406,0.021799499168992043,positive,0.9202340841293335
+25,2016-05-17 23:21:00,"Home Depot's valuation is somewhat lofty, as it trades at a forward PE of 21.16 and has a PEG of 1.57.",0.12576539814472198,0.023778067901730537,0.8504565358161926,neutral,0.1019873321056366
+26,2016-05-17 23:21:00,HD lags behind Lowe's across both of these metrics.,0.020438995212316513,0.8943291306495667,0.08523189276456833,negative,-0.8738901615142822
+27,2016-05-17 23:21:00,"Home Depot's price-to-sales is 1.76, and it has a debt-to-capital ratio of 76.78%.",0.0265840794891119,0.009058854542672634,0.9643570184707642,neutral,0.01752522587776184
+28,2016-05-17 23:21:00,"The company is somewhat leveraged, but it has high quality cash flows to back it up.",0.6443302035331726,0.013198847882449627,0.3424709439277649,positive,0.6311313509941101
+29,2016-05-17 23:21:00,"Home Depot posts significantly higher profit margins than Lowe's, posting net margins of 7.92%.",0.9282665252685547,0.03549259901046753,0.036240898072719574,positive,0.8927739262580872
+30,2016-05-17 23:21:00,"While Lowe's appears superior to Home Depot valuation-wise, HD has LOW beat on the sales and profitability front.",0.050247300416231155,0.8796287775039673,0.07012395560741425,negative,-0.8293814659118652
+31,2016-05-17 23:21:00,"Both companies appear to be great investments, and each of these corporations have been spending billions of dollars every year over the last five years to repurchase their own shares.",0.617740273475647,0.014097301289439201,0.36816248297691345,positive,0.603643000125885
+32,2016-05-17 23:21:00,This suggests that the companies are betting on their own performance.,0.1633780151605606,0.01809673197567463,0.8185251951217651,neutral,0.14528128504753113
+33,2016-05-17 23:21:00,"While both stocks look impressive on the cash flows front, we're going to have to give Home Depot the edge in this contest.",0.6806508302688599,0.04719347879290581,0.2721557319164276,positive,0.633457362651825
+34,2016-05-17 23:21:00,Home Depot has seen significant sales growth over each of the last five years.,0.9432280659675598,0.014655357226729393,0.042116545140743256,positive,0.9285727143287659
+35,2016-05-17 23:21:00,"Year after year, Home Depot has succeeded in growing its profit margins as well.",0.9518563151359558,0.016367528587579727,0.03177618235349655,positive,0.935488760471344
+36,2016-05-17 23:21:00,"When a company grows its revenues and margins significantly at the same time, its operating cash flows stand to see a large increase as well.",0.9318892359733582,0.013671090826392174,0.054439727216959,positive,0.9182181358337402
+37,2016-05-17 23:21:00,This helps to increase our confidence in Home Depot as a solid investment choice over the long run.,0.9379837512969971,0.014349281787872314,0.047666970640420914,positive,0.9236344695091248
+38,2016-05-17 23:21:00,"Lowe's, unfortunately, has not proven itself to be as consistent as Home Depot over the years.",0.18859541416168213,0.6068257689476013,0.20457886159420013,negative,-0.4182303547859192
+39,2016-05-17 23:21:00,"From fiscal 2015 to 2016, net margins for Lowe's have actually decreased, going from 4.79% to 4.3%.",0.017488399520516396,0.9714578986167908,0.01105363667011261,negative,-0.9539694786071777
+40,2016-05-17 23:21:00,Both these companies have seen significant growth in their dividend payouts over the years.,0.9321260452270508,0.01530337706208229,0.05257054790854454,positive,0.9168226718902588
+41,2016-05-17 23:21:00,"Based on income growth though, it looks like Home Depot stands to be able to grow its dividend payout at a faster rate than Lowe's over the long run.",0.948352575302124,0.016235357150435448,0.03541209176182747,positive,0.932117223739624
+42,2016-05-17 23:21:00,The Zacks Rank is a truly marvelous trading tool.,0.7221620082855225,0.012950225733220577,0.2648877799510956,positive,0.7092117667198181
+43,2016-05-17 23:21:00,"Our ranking system has beaten the S&P 500, yielding an average return of 25% per year for the last 29 years!",0.9265591502189636,0.01871015504002571,0.05473078787326813,positive,0.9078490138053894
+44,2016-05-17 23:21:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+45,2016-05-17 23:21:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+46,2016-05-17 23:21:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+47,2016-05-17 23:21:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+48,2016-05-17 23:21:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+49,2016-05-17 23:21:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

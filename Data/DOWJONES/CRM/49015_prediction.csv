@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-06-05 07:08:00,"Alphabet Inc. 's GOOGL Google has submitted plans for its headquarters in London, its second wholly owned building after the Mountain View campus.",0.17934368550777435,0.010998530313372612,0.8096578121185303,neutral,0.1683451533317566
+1,2017-06-05 07:08:00,Bjarke Ingels Group and Heatherwick Studios are in charge of designing the structure.,0.016613896936178207,0.00617582630366087,0.9772103428840637,neutral,0.010438070632517338
+2,2017-06-05 07:08:00,They submitted the plans to Camden Council on Thursday.,0.11738856881856918,0.011802555061876774,0.8708088397979736,neutral,0.10558601468801498
+3,2017-06-05 07:08:00,Google did not reveal the amount it's paying for the project.,0.014960410073399544,0.03125157579779625,0.9537880420684814,neutral,-0.016291165724396706
+4,2017-06-05 07:08:00,"The building is being referred to as a ""landscraper"" mainly because it is as long as The Shard, a London skyscraper, is tall.",0.10361757129430771,0.027576308697462082,0.8688061237335205,neutral,0.07604126632213593
+5,2017-06-05 07:08:00,"The 11-story office building will stretch parallel to the platforms of King's Cross railway station and have around 92,000 square feet of floor area.",0.046417731791734695,0.004868853837251663,0.948713481426239,neutral,0.04154887795448303
+6,2017-06-05 07:08:00,"The building will include a swimming pool, cafes, gyms, message rooms, parking spaces and a multi-use indoor sports pitch.",0.051666177809238434,0.005547294393181801,0.9427865147590637,neutral,0.04611888527870178
+7,2017-06-05 07:08:00,"It will have a rooftop garden themed around three areas, ""plateau"", ""gardens"" and ""fields"", planted with gooseberries, strawberries and sage.",0.04763883724808693,0.006585984490811825,0.9457752108573914,neutral,0.04105285182595253
+8,2017-06-05 07:08:00,"Construction is expected to commence in 2018, if all goes well (worth mentioning since it's Europe).",0.08746889233589172,0.007059286814182997,0.9054718613624573,neutral,0.08040960878133774
+9,2017-06-05 07:08:00,The plans also show that the roofs will have solar panels.,0.0411987230181694,0.004692044109106064,0.9541093111038208,neutral,0.03650667890906334
+10,2017-06-05 07:08:00,This indicates that Google will be using solar energy to keep electricity consumption in check similar to its planned circus tent like office campus in Silicon Valley.,0.17835798859596252,0.010138913989067078,0.8115031123161316,neutral,0.16821907460689545
+11,2017-06-05 07:08:00,Motorized timber blinds on the outside will keep out direct sunlight and reduce solar heat gain.,0.06850156933069229,0.009218990802764893,0.922279417514801,neutral,0.0592825785279274
+12,2017-06-05 07:08:00,Google plans to combine this new building with its present King's Cross office and another one currently in planning stages to form a new campus that will house around 7000 employees.,0.20222458243370056,0.006784341763705015,0.7909910678863525,neutral,0.19544024765491486
+13,2017-06-05 07:08:00,"Alphabet Inc. Net Income (TTM) | Alphabet Inc. Quote
+
+When we look at the design and features, it seems that Google is emphasizing on fostering a sense of community, mirroring its culture of innovation through bold infrastructure and architecture.",0.6344720721244812,0.01109311357140541,0.3544347882270813,positive,0.6233789324760437
+14,2017-06-05 07:08:00,"It appears that with the new office space, Google is trying to build a highly flexible workplace, capable of adapting to changing business needs.",0.8203756809234619,0.012065292336046696,0.1675589382648468,positive,0.8083103895187378
+15,2017-06-05 07:08:00,"In Google's head of real estate and construction, Joe Borrett's words ""We are excited to be able to bring our London Googlers together in one campus, with a new purpose-built building that we've developed from the ground up.",0.7199210524559021,0.01206156611442566,0.26801735162734985,positive,0.7078595161437988
+16,2017-06-05 07:08:00,"Our offices and facilities play a key part in shaping the Google culture, which is one of the reasons we are known for being among the best places to work in the industry.""",0.5700759887695312,0.011533553712069988,0.4183904826641083,positive,0.5585424304008484
+17,2017-06-05 07:08:00,Google's London expansion plans are a reminder that Silicon Valley based tech giants are striving to build more impressive and futuristic office spaces.,0.7155729532241821,0.03971948102116585,0.2447076290845871,positive,0.6758534908294678
+18,2017-06-05 07:08:00,"Last month, Apple AAPL started moving its employees to Apple Park, its new spaceship-like Cupertino headquarters.",0.19421042501926422,0.08325691521167755,0.7225326895713806,neutral,0.11095350980758667
+19,2017-06-05 07:08:00,Salesforce's CRM new headquarter on the West Coast is expected to be the area's tallest building when construction ends later this year.,0.1439153403043747,0.015295431949198246,0.840789258480072,neutral,0.12861990928649902
+20,2017-06-05 07:08:00,"In 2015, Facebook FB moved to a 430,000 square foot extensive campus.",0.09007436037063599,0.0052791740745306015,0.9046463966369629,neutral,0.08479518443346024
+21,2017-06-05 07:08:00,"Last year, Uber was issued permits to build a new futuristic headquarter in the form of two adjoining transparent glass office buildings.",0.6077362895011902,0.01161040086299181,0.3806532919406891,positive,0.5961259007453918
+22,2017-06-05 07:08:00,Is it a Message to the Regulators?,0.04976707324385643,0.03179791197180748,0.9184350371360779,neutral,0.01796916127204895
+23,2017-06-05 07:08:00,The European Commission (EU) is gearing up to deliver verdicts in the next few months on year-long investigations into Google's antitrust cases.,0.6545543074607849,0.06764303892850876,0.2778026759624481,positive,0.5869112610816956
+24,2017-06-05 07:08:00,"If Google is found to have violated the rules, it might have to pay penalties of up to 10% of its worldwide revenues, which was $90 billion in 2016, for each case.",0.02456541918218136,0.9291917085647583,0.04624289646744728,negative,-0.9046263098716736
+25,2017-06-05 07:08:00,Google seems to be little worried about the matter and is prepping to strengthen its foothold in Europe.,0.7515010833740234,0.03447270020842552,0.21402624249458313,positive,0.7170283794403076
+26,2017-06-05 07:08:00,"At least, the London headquarters plan indicates something like that.",0.08320097625255585,0.011292267590761185,0.9055067300796509,neutral,0.07190871238708496
+27,2017-06-05 07:08:00,"While investors keep an eye on the latest developments with the antitrust cases, we opine that Google offers them a lot more to cheer than to worry.",0.46422427892684937,0.01712721399962902,0.5186485648155212,neutral,0.4470970630645752
+28,2017-06-05 07:08:00,Google has shown good execution to date.,0.9225893616676331,0.012487062253057957,0.06492361426353455,positive,0.9101023077964783
+29,2017-06-05 07:08:00,"Its search market share is a big positive, which along with its focus on innovation, strategic acquisitions and Android OS continues to generate strong cash flows.",0.9443844556808472,0.01466104295104742,0.04095453396439552,positive,0.9297234416007996
+30,2017-06-05 07:08:00,Alphabet has had an impressive run on the bourse over the last one year.,0.9371449947357178,0.01709391362965107,0.045761000365018845,positive,0.920051097869873
+31,2017-06-05 07:08:00,"The company gained roughly 36.4%, higher than the Zacks categorized Internet-Services sub-industry's addition of about 24.4%.",0.9506502151489258,0.022292278707027435,0.027057494968175888,positive,0.9283579587936401
+32,2017-06-05 07:08:00,It will continue to launch products and services for multiple industries.,0.4143577516078949,0.007557143457233906,0.5780851244926453,neutral,0.40680059790611267
+33,2017-06-05 07:08:00,We believe that the company has the financial muscle to overcome any short-term headwinds and continue pursuing its initiatives.,0.8896313309669495,0.012360221706330776,0.09800851345062256,positive,0.8772711157798767
+34,2017-06-05 07:08:00,Alphabet currently carries a Zacks Rank #2 (Buy).,0.16124920547008514,0.009306378662586212,0.8294444680213928,neutral,0.15194281935691833
+35,2017-06-05 07:08:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+36,2017-06-05 07:08:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+37,2017-06-05 07:08:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+38,2017-06-05 07:08:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+39,2017-06-05 07:08:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+40,2017-06-05 07:08:00,"See the pot trades we're targeting>>
+
+Want the latest recommendations from Zacks Investment Research?",0.030783167108893394,0.01057474035769701,0.9586420655250549,neutral,0.02020842581987381
+41,2017-06-05 07:08:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+42,2017-06-05 07:08:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+43,2017-06-05 07:08:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

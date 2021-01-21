@@ -1,0 +1,71 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-05 01:14:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-09-05 01:14:00,"Today's Research Daily features new research reports on 16 major stocks, including Pfizer (PFE), Salesforce (CRM) and ADP (ADP).",0.03709835559129715,0.007320602890104055,0.95558100938797,neutral,0.029777752235531807
+2,2018-09-05 01:14:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-09-05 01:14:00,"You can see all of today's research reports here >>>
+
+Pfizer 's shares have outperformed the peer group year-to-date (the stock is up +14.2% over this period vs. a +3.8% increase for the Zacks Large-Cap Pharmaceuticals industry).",0.9416761994361877,0.0393059067428112,0.01901780441403389,positive,0.902370274066925
+4,2018-09-05 01:14:00,Pfizer has been working on strengthening its product portfolio through acquisitions and licensing deals.,0.9309698343276978,0.013153673149645329,0.055876411497592926,positive,0.917816162109375
+5,2018-09-05 01:14:00,"However, Pfizer is facing top-line headwinds in the form of genericization of key drugs, supply challenges in the legacy Hospira portfolio, pricing pressure and rising competition.",0.022649234160780907,0.9541795253753662,0.023171275854110718,negative,-0.9315302968025208
+6,2018-09-05 01:14:00,"Nonetheless, the Zacks analyst thinks new products like Ibrance, contribution from acquisitions, cost-cutting efforts, a lower tax rate and share buybacks should help the company achieve its guidance.",0.9407086968421936,0.01496468111872673,0.044326625764369965,positive,0.9257439970970154
+7,2018-09-05 01:14:00,"Pfizer also boasts a strong pipeline and expects approximately 25 to 30 drug approvals through 2022, including around 15 products that have blockbuster potential.",0.8033297657966614,0.010806962847709656,0.1858632117509842,positive,0.7925227880477905
+8,2018-09-05 01:14:00,Pfizer's growing immuno-oncology portfolio has strong potential.,0.8747050762176514,0.011693683452904224,0.1136011928319931,positive,0.8630114197731018
+9,2018-09-05 01:14:00,Bavencio is being considered a key long-term growth driver for Pfizer.,0.7201189994812012,0.010345724411308765,0.26953521370887756,positive,0.7097733020782471
+10,2018-09-05 01:14:00,"In oncology, Pfizer has four potential medicines under FDA's priority review.",0.042485423386096954,0.008258581161499023,0.9492560625076294,neutral,0.03422684222459793
+11,2018-09-05 01:14:00,(You can read the full research report on Pfizer here >>> ).,0.013400020077824593,0.013333904556930065,0.9732661247253418,neutral,6.611552089452744e-05
+12,2018-09-05 01:14:00,"Shares of Strong-Buy ranked Salesforce have handily beaten the broader Tech sector over the past year, with the stock up nearly three times the Zacks Technology sector's +20.2% gain.",0.9040123224258423,0.070137158036232,0.025850502774119377,positive,0.8338751792907715
+13,2018-09-05 01:14:00,Salesforce reported stellar Q2 results and provided a strong outlook.,0.9448690414428711,0.01861121691763401,0.036519717425107956,positive,0.926257848739624
+14,2018-09-05 01:14:00,The Zacks analyst thinks the company's diverse cloud offerings and strong spending on digital marketing remain the catalysts.,0.8645957708358765,0.01213808637112379,0.12326616793870926,positive,0.8524577021598816
+15,2018-09-05 01:14:00,Management is extremely optimistic about enhancement of customer experience that has aided growth of the cloud segment.,0.9219916462898254,0.012629857286810875,0.06537846475839615,positive,0.9093617796897888
+16,2018-09-05 01:14:00,"Additionally, strategic acquisitions and the resultant synergies are anticipated to prove conducive to growth over the long run.",0.9254710078239441,0.013231851160526276,0.0612972192466259,positive,0.912239134311676
+17,2018-09-05 01:14:00,"Furthermore, the company's move of utilizing other data center operators like Amazon and Alphabet's geographical reach to expand its international business is commendable and will help it in achieving its targeted $23 billion sales mark by 2022.",0.9440549612045288,0.01475099939852953,0.04119410738348961,positive,0.9293039441108704
+18,2018-09-05 01:14:00,"Nonetheless, stiff competition, currency fluctuations and an increase in investments for international expansions and data centers could negatively impact near-term profitability.",0.023556221276521683,0.9386168122291565,0.03782694414258003,negative,-0.9150605797767639
+19,2018-09-05 01:14:00,(You can read the full research report on Salesforce here >>> ).,0.012213421985507011,0.013723894022405148,0.9740626215934753,neutral,-0.0015104720368981361
+20,2018-09-05 01:14:00,"ADP 's shares have gained +34.9% over the past year,outperforming the Zacks Outsourcing industry, which has gained +30.6% over the same period.",0.955674946308136,0.026815399527549744,0.01750960759818554,positive,0.928859531879425
+21,2018-09-05 01:14:00,"ADP reported strong fourth-quarter fiscal 2018 results, wherein both earnings and revenues surpassed expectations.",0.9528928995132446,0.02273254096508026,0.02437445893883705,positive,0.9301603436470032
+22,2018-09-05 01:14:00,"The Zacks analyst thinks ADP holds a dominant position in the payroll processing and HCM market, primarily due to its robust product portfolio.",0.8839592337608337,0.01271720603108406,0.10332352668046951,positive,0.8712420463562012
+23,2018-09-05 01:14:00,Acquisitions have also been a key growth catalyst for the company.,0.859085738658905,0.012120168656110764,0.12879417836666107,positive,0.8469655513763428
+24,2018-09-05 01:14:00,"Further, the company's strong balance sheet enables it to continue with its shareholder friendly activities alongside strategic buyouts and investments on product development.",0.8945125341415405,0.012179112993180752,0.09330835193395615,positive,0.8823333978652954
+25,2018-09-05 01:14:00,"However, ADP faces significant competition in each of its product lines.",0.1418006867170334,0.0821334719657898,0.7760658860206604,neutral,0.05966721475124359
+26,2018-09-05 01:14:00,"Failure to meet varying client demands with updated technologies might reduce the demand for its solutions and services, thus hampering its position in the market.",0.018372589722275734,0.9639249444007874,0.01770254783332348,negative,-0.9455523490905762
+27,2018-09-05 01:14:00,"Further, the company's dependence on its payroll, financial, accounting, and other data processing systems remains a concern.",0.021766001358628273,0.7368914484977722,0.24134257435798645,negative,-0.7151254415512085
+28,2018-09-05 01:14:00,(You can read the full research report on ADP here >>> ).,0.013567078858613968,0.013299237936735153,0.9731336832046509,neutral,0.0002678409218788147
+29,2018-09-05 01:14:00,"Other noteworthy reports we are featuring today include Accenture (ACN), General Motors (GM) and Southwest Airlines (LUV).",0.031118925660848618,0.00559396343305707,0.9632871747016907,neutral,0.025524962693452835
+30,2018-09-05 01:14:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+31,2018-09-05 01:14:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+32,2018-09-05 01:14:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+33,2018-09-05 01:14:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+34,2018-09-05 01:14:00,"See the pot trades we're targeting>>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.08856207132339478,0.007175061851739883,0.904262900352478,neutral,0.08138701319694519
+35,2018-09-05 01:14:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+36,2018-09-05 01:14:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+The Zacks analyst is impressed by the company's efforts to reward shareholders through dividends & buybacks.",0.8597438931465149,0.013346581719815731,0.12690949440002441,positive,0.846397340297699
+37,2018-09-05 01:14:00,"High labor and fuel costs are, however, limiting bottom-line growth.",0.01958482153713703,0.9037753939628601,0.076639823615551,negative,-0.884190559387207
+38,2018-09-05 01:14:00,"Per the Zacks analyst, increased aircraft demand should boost growth for HEICO's jet engine and components business.",0.9540966749191284,0.019214874133467674,0.026688432320952415,positive,0.9348818063735962
+39,2018-09-05 01:14:00,"Yet, rising interest rates may hamper its position in the U.S. credit market.",0.021958474069833755,0.9616658091545105,0.016375640407204628,negative,-0.939707338809967
+40,2018-09-05 01:14:00,"Per the Zacks analyst, Michael Kors Runway 2020 strategic plan, which focuses on product innovation, brand engagement, fleet modernization and digital innovation should help drive sales.",0.7840151786804199,0.011979780159890652,0.20400504767894745,positive,0.7720354199409485
+41,2018-09-05 01:14:00,Inogen has been gaining from solid business-to-business sales in the United States.,0.9572592377662659,0.01959751918911934,0.023143326863646507,positive,0.9376617074012756
+42,2018-09-05 01:14:00,The Zacks analyst is pessimistic about the company's falling rental revenues.,0.020900674164295197,0.9643575549125671,0.014741722494363785,negative,-0.9434568881988525
+43,2018-09-05 01:14:00,"Per the Zacks analyst, Hyatt's strong brand presence and continual expansion strategies are the major growth drivers.",0.898422360420227,0.012551110237836838,0.08902653306722641,positive,0.8858712315559387
+44,2018-09-05 01:14:00,"Further, a robust loyalty program add to the positives.",0.9192585945129395,0.017086483538150787,0.06365495920181274,positive,0.9021720886230469
+45,2018-09-05 01:14:00,"Per the Zacks analyst, higher commissions and fees will continue to boost revenues for Willis Towers, thereby accelerating the company's overall growth.",0.9546144008636475,0.018456296995282173,0.026929382234811783,positive,0.9361581206321716
+46,2018-09-05 01:14:00,"Per the Zacks analyst, Regions' focus on inorganic growth routes along with Simplify and Grow initiative are favorable factors.",0.78108149766922,0.012411731295287609,0.20650674402713776,positive,0.7686697840690613
+47,2018-09-05 01:14:00,"Per the Zacks analyst, solid traction of Ciena's Networking Platforms Segment, fueled by strong network infrastructure demand in the Asia Pacific region, will continue to lend momentum to the company.",0.9553705453872681,0.016676008701324463,0.02795354649424553,positive,0.9386945366859436
+48,2018-09-05 01:14:00,"Per the Zacks analyst, solid order growth for its varied products boost Textron's growth.",0.9571518301963806,0.022099345922470093,0.020748727023601532,positive,0.9350525140762329
+49,2018-09-05 01:14:00,"Also, it uses cash proceeds from strategic divestitures to reward its shareholders through share repurchases.",0.41857120394706726,0.008060580119490623,0.5733681917190552,neutral,0.4105106294155121
+50,2018-09-05 01:14:00,The Zacks analyst is impressed with the company's efforts to reduce debt.,0.9172533750534058,0.01771489344537258,0.0650317519903183,positive,0.8995384573936462
+51,2018-09-05 01:14:00,"Moreover, costs reduction and high-value products line expansion under its Action 2020 initiative should boost performance.",0.9559474587440491,0.020260106772184372,0.02379249781370163,positive,0.9356873631477356
+52,2018-09-05 01:14:00,"Per the Zacks analyst, General Motors' strategy to pull back on sales discounts, mainly for full-size pickups have hurt its sales.",0.01959753781557083,0.9667847752571106,0.013617658987641335,negative,-0.9471872448921204
+53,2018-09-05 01:14:00,This has been more so as the retail demand for vehicles is declining.,0.017798898741602898,0.9415743350982666,0.04062674194574356,negative,-0.9237754344940186
+54,2018-09-05 01:14:00,"Per the Zacks analyst, cost inflation continued to hurt Campbell Soup's gross margin in fourth quarter.",0.021390067413449287,0.9683851003646851,0.01022482942789793,negative,-0.9469950199127197
+55,2018-09-05 01:14:00,"The company expects cost inflation of 4%-5% in fiscal 2019, which is likely to hit gross margin.",0.29204705357551575,0.5920211672782898,0.11593174189329147,negative,-0.29997411370277405
+56,2018-09-05 01:14:00,The Zacks analyst is worried about the pricing pressure faced by Accenture due to stiff competition from rival companies.,0.034719787538051605,0.9006755352020264,0.06460471451282501,negative,-0.8659557700157166
+57,2018-09-05 01:14:00,"Further, buyout related integration risks are likely to hurt the company.",0.020688291639089584,0.9512285590171814,0.028083087876439095,negative,-0.9305402636528015
+58,2018-09-05 01:14:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+59,2018-09-05 01:14:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+60,2018-09-05 01:14:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+61,2018-09-05 01:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

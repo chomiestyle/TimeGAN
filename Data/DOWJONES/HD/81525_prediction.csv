@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-26 07:41:00,"In early trading on Tuesday, shares of Nike topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.7%.",0.9373401999473572,0.03374585509300232,0.028913984075188637,positive,0.9035943746566772
+1,2019-02-26 07:41:00,"Year to date, Nike registers a 15.6% gain.",0.9439617991447449,0.01996780000627041,0.036070406436920166,positive,0.9239940047264099
+2,2019-02-26 07:41:00,"And the worst performing Dow component thus far on the day is Home Depot, trading down 3.6%.",0.020358502864837646,0.9647152423858643,0.014926254749298096,negative,-0.9443567395210266
+3,2019-02-26 07:41:00,Home Depot is showing a gain of 6.6% looking at the year to date performance.,0.9482507109642029,0.020540956407785416,0.031208232045173645,positive,0.9277097582817078
+4,2019-02-26 07:41:00,"Two other components making moves today are Caterpillar, trading down 3.4%, and Cisco Systems, trading up 0.5% on the day.",0.029075784608721733,0.9298015236854553,0.04112266004085541,negative,-0.9007257223129272
+5,2019-02-26 07:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

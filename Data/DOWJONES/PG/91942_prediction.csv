@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-23 09:58:00,"The Dow Jones Industrial Average has retreated from another record high as Wall Street digested quarterly results from component stocks Johnson & Johnson ( JNJ ), Proctor & Gamble ( PG ), Travelers ( TRV ) and Verizon ( VZ ) against the potential for a trade war between the US and Asia.",0.029747338965535164,0.9461861252784729,0.024066563695669174,negative,-0.9164387583732605
+1,2018-01-23 09:58:00,"The Nasdaq continues to gain altitude, buoyed by a rally in Netflix ( NFLX ) after the company's Q4 profit and sales grew significantly from a year ago.",0.9489127397537231,0.02531500719487667,0.025772137567400932,positive,0.9235977530479431
+2,2018-01-23 09:58:00,"Wall Street's major averages set record highs in early trading, buoyed by upbeat quarterly results, specifically Netflix and Travelers, and erasing premarket losses tied to President Trump's imposition of steep tariffs on imported washing machines and solar products.",0.928734302520752,0.03312601521611214,0.03813968598842621,positive,0.8956083059310913
+3,2018-01-23 09:58:00,"Investors worried that the action would ignite a deeper trade war with China, Japan and South Korea, and open the door to further tariffs against products from North America and Europe.",0.054424431174993515,0.9076294302940369,0.03794613480567932,negative,-0.8532050251960754
+4,2018-01-23 09:58:00,Tuesday's only economic data generated little reaction from investors even as the Richmond Fed manufacturing index recorded its largest two-month decline since 2006.,0.04240668565034866,0.8757184743881226,0.08187475800514221,negative,-0.8333117961883545
+5,2018-01-23 09:58:00,"The index fell to 14 in January from 20 in December, missing estimates to pull back to 18.",0.018256213515996933,0.9707485437393188,0.010995259508490562,negative,-0.952492356300354
+6,2018-01-23 09:58:00,Europe's bourses were mixed with Germany's DAX and the broader Euro Stoxx underpinned by better-than-expected economic indicators.,0.13758647441864014,0.817310631275177,0.045102957636117935,negative,-0.6797241568565369
+7,2018-01-23 09:58:00,"The German ZEW current conditions index set a record high of 95.2, crushing estimates for a slight increase to 89.8 from 89.3, previously.",0.9332322478294373,0.04087100178003311,0.02589680626988411,positive,0.8923612236976624
+8,2018-01-23 09:58:00,"The corresponding EU index also beat expectations, climbing to 31.8 from 29.0.",0.9490264654159546,0.02879622019827366,0.022177310660481453,positive,0.9202302694320679
+9,2018-01-23 09:58:00,Crude oil was up $0.90 to $64.47 per barrel.,0.8984148502349854,0.0364423543214798,0.06514275074005127,positive,0.8619725108146667
+10,2018-01-23 09:58:00,Natural gas was up $0.20 to $3.43 per 1 million BTU.,0.9115790128707886,0.029402608051896095,0.059018369764089584,positive,0.882176399230957
+11,2018-01-23 09:58:00,"Gold was up $5.50 to $1,337.40 an ounce, while silver was down $0.06 to $16.92 an ounce.",0.7225764393806458,0.18696802854537964,0.09045553207397461,positive,0.5356084108352661
+12,2018-01-23 09:58:00,Copper was down $0.08 to $3.11 per pound.,0.019719557836651802,0.9651282429695129,0.015152192674577236,negative,-0.9454087018966675
+13,2018-01-23 09:58:00,"Among energy ETFs, the United States Oil Fund was up 0.89% to $12.89 with the United States Natural Gas Fund was up 3.04% to $25.60.",0.9381847381591797,0.02551042102277279,0.0363047793507576,positive,0.9126743078231812
+14,2018-01-23 09:58:00,"Among precious-metal funds, the Market Vectors Gold Miners ETF was up 0.07% to 23.71 while SPDR Gold Shares were up 0.23% to $126.94.",0.9400609135627747,0.0257087554782629,0.034230418503284454,positive,0.9143521785736084
+15,2018-01-23 09:58:00,The iShares Silver Trust was down 0.44% to $15.97.,0.019360670819878578,0.96319580078125,0.01744348369538784,negative,-0.9438351392745972
+16,2018-01-23 09:58:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was down 9.26 points (-0.07%) to 13,461.10
+
+Dow Jones Industrial Index was down 24.12 points (-0.09%) to 26,190.48
+
+S&P 500 was up 4.92 points (+.15%) to 2,837.13
+
+Nasdaq Composite Index was up 40.52 points (+0.55%) to 7,448.04
+
+FTSE 100 was up 16.39 points (+0.21%) to 7,731.83
+
+DAX was up 95.91 points (+0.71%) to 13,559.60
+
+CAC 40 was down 6.73 points (-0.12%) to 5,535.26
+
+Nikkei 225 was up 307.82 points (+1.29%) to 24,124.15
+
+Hang Seng Index was up 537.29 points (+1.66%) to 32,930.70
+
+Shanghai China Composite Index was up 45.62 points (+1.30%) to 3,546.98
+
+NYSE Energy Sector Index was down 38.94 points (-0.32%) to 12,245.70
+
+NYSE Financial Sector Index was up 5.15 points (+0.06%) to 8,679.35
+
+NYSE Healthcare Sector Index was down 54.83 points (-0.36%) to 15,115.39
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.019449850544333458,0.6855210065841675,0.2950291335582733,negative,-0.6660711765289307
+17,2018-01-23 09:58:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+18,2018-01-23 09:58:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+19,2018-01-23 09:58:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

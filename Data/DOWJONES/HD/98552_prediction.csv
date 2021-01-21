@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-23 01:45:00,Today's session closes with the NASDAQ Composite Index volume reaching the 10th place in the top ten list for this year.,0.8382886052131653,0.019724324345588684,0.14198705554008484,positive,0.8185642957687378
+1,2017-01-23 01:45:00,The last time the index closed above 2.03 billion shares was on Jan 12 2017.,0.04818160459399223,0.025816434994339943,0.9260019063949585,neutral,0.02236516959965229
+2,2017-01-23 01:45:00,The total shares traded for the NASDAQ was over 2.07 billion.,0.030556244775652885,0.005857061594724655,0.963586688041687,neutral,0.02469918318092823
+3,2017-01-23 01:45:00,Declining stocks led advancers by 1.4 to 1 ratio.,0.08164788037538528,0.8964642882347107,0.021887781098484993,negative,-0.814816415309906
+4,2017-01-23 01:45:00,There were 1203 advancers and 1687 decliners for the day.,0.12526935338974,0.33084893226623535,0.5438817143440247,neutral,-0.20557957887649536
+5,2017-01-23 01:45:00,On the NASDAQ Stock Exchange 51 stocks reached a 52 week high and 26 reaching lows.,0.18168941140174866,0.7096160650253296,0.10869448632001877,negative,-0.5279266834259033
+6,2017-01-23 01:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+7,2017-01-23 01:45:00,The NASDAQ 100 index closed up .05% for the day; a total of 2.5 points.,0.909866213798523,0.047476302832365036,0.042657483369112015,positive,0.8623899221420288
+8,2017-01-23 01:45:00,"The current value is 5,065.7.",0.014778584241867065,0.008128182962536812,0.9770932197570801,neutral,0.006650401279330254
+9,2017-01-23 01:45:00,QUALCOMM Incorporated ( QCOM ) had the largest percent change down (-12.72%) while CSX Corporation ( CSX ) had the largest percent change gain rising 3.74%.,0.05027008801698685,0.7803081274032593,0.16942182183265686,negative,-0.730038046836853
+10,2017-01-23 01:45:00,The Dow Jones index closed down -.14% for the day; a total of -27.4 points.,0.018083298578858376,0.971271276473999,0.010645335540175438,negative,-0.9531880021095276
+11,2017-01-23 01:45:00,"The current value is 19,799.85.",0.01632666401565075,0.00793024618178606,0.9757431149482727,neutral,0.008396417833864689
+12,2017-01-23 01:45:00,"General Electric Company ( GE ) had the largest percent change down (-2.55%) while Home Depot, Inc. (The) ( HD ) had the largest percent change gain rising 1.82%.",0.04847884178161621,0.7436373829841614,0.2078837901353836,negative,-0.6951585412025452
+13,2017-01-23 01:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

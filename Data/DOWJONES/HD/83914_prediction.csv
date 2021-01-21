@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-02-21 07:33:00,"Home Depot Inc (NYSE: HD ) stock tried to rally Tuesday, but couldn't muster much upside.",0.7319918274879456,0.2111542820930481,0.056853875517845154,positive,0.5208375453948975
+1,2018-02-21 07:33:00,"The retailer beat on earnings per share and revenue expectations, giving bulls a reason to initially bid up Home Depot stock.",0.9237018823623657,0.03474576771259308,0.04155236482620239,positive,0.8889561295509338
+2,2018-02-21 07:33:00,"But despite such good results, HD is flat on Tuesday.",0.04376092925667763,0.8951836228370667,0.061055418103933334,negative,-0.8514226675033569
+3,2018-02-21 07:33:00,Shouldn't it be doing better?,0.48737144470214844,0.10154130309820175,0.41108718514442444,positive,0.3858301341533661
+4,2018-02-21 07:33:00,"Earnings of $1.69 per share came in 8 cents per share ahead of expectations, while revenue of $23.9 billion grew 7.6% year-over-year and came in $240 million ahead of forecasts.",0.9390955567359924,0.031171541661024094,0.029733015224337578,positive,0.9079239964485168
+5,2018-02-21 07:33:00,"Those results were good, but what was great?",0.2952882647514343,0.014760777354240417,0.6899508833885193,neutral,0.2805274724960327
+6,2018-02-21 07:33:00,"The company's comparable-store sales, which grew a whopping 7.5%.",0.924885094165802,0.019381098449230194,0.05573386698961258,positive,0.9055039882659912
+7,2018-02-21 07:33:00,"Analysts were ""only"" expecting 6.5% comp-store sales growth, which would still be a great result.",0.9482300281524658,0.020387349650263786,0.03138256072998047,positive,0.9278426766395569
+8,2018-02-21 07:33:00,"As good as Home Depot's earnings were, its conference call and guidance were even more reassuring.",0.9158608913421631,0.021284377202391624,0.06285472959280014,positive,0.8945764899253845
+9,2018-02-21 07:33:00,The company's guiding for sales growth of 6.5% and comp-store sales of 5% in 2018.,0.8717918395996094,0.012578117661178112,0.11563000828027725,positive,0.8592137098312378
+10,2018-02-21 07:33:00,Its outlook calling for earnings of $9.31 per share represents almost 30% year-over-year growth.,0.942086935043335,0.014322792179882526,0.0435902401804924,positive,0.9277641177177429
+11,2018-02-21 07:33:00,"This growth is not coming via expansion either, with HD opening just 3 stores in 2018.",0.09232042729854584,0.029197221621870995,0.8784824013710022,neutral,0.0631232038140297
+12,2018-02-21 07:33:00,"The company also expects to buy back $4 billion worth of Home Depot stock this year and just raised its dividend by almost 16%, giving it a yield near 2.2%.",0.9267272353172302,0.0196695476770401,0.05360325425863266,positive,0.9070577025413513
+13,2018-02-21 07:33:00,But Home Depot took it a step further and updated its 2020 outlook.,0.5775085091590881,0.025041958317160606,0.3974495530128479,positive,0.5524665713310242
+14,2018-02-21 07:33:00,"Management expects sales between $115 billion to $120 billion, easily ahead of the $112 billion analysts are modeling for.",0.88666170835495,0.0224931538105011,0.09084512293338776,positive,0.8641685247421265
+15,2018-02-21 07:33:00,"Management's outlook for 2018 also came in ahead of forecasts, for what's it worth.",0.7583935856819153,0.03528647497296333,0.20632001757621765,positive,0.723107099533081
+16,2018-02-21 07:33:00,"Honestly, how can you not like Home Depot stock at this point?",0.03998096287250519,0.06796135008335114,0.8920576572418213,neutral,-0.027980387210845947
+17,2018-02-21 07:33:00,HD stock trades at a reasonable 20 times this year's earnings.,0.6743998527526855,0.016856724396348,0.3087434768676758,positive,0.6575431227684021
+18,2018-02-21 07:33:00,It grew sales 6.7% last year and earnings by 13%.,0.9418625235557556,0.019025491550564766,0.03911200538277626,positive,0.9228370189666748
+19,2018-02-21 07:33:00,It expects similar sales growth for the next few years and even larger earnings growth.,0.9411422610282898,0.014261436648666859,0.04459630697965622,positive,0.9268808364868164
+20,2018-02-21 07:33:00,Management has shown it's willing to return capital to shareholders via dividends and buybacks.,0.795036792755127,0.01154315285384655,0.19342006742954254,positive,0.7834936380386353
+21,2018-02-21 07:33:00,"Finally, this growth is coming without HD ploughing resources into store expansion.",0.5068942904472351,0.028472399339079857,0.4646332859992981,positive,0.4784218966960907
+22,2018-02-21 07:33:00,"It's effectively fighting back against Amazon.com, Inc. (NASDAQ: AMZN ), showing that it has a moat wide and deep enough to fend off the e-commerce stalwart.",0.5696986317634583,0.29652002453804016,0.13378140330314636,positive,0.2731786072254181
+23,2018-02-21 07:33:00,"Further, during its conference call management stifled any worries about rising interest rates crushing the housing market.",0.36210379004478455,0.27098795771598816,0.3669082522392273,neutral,0.09111583232879639
+24,2018-02-21 07:33:00,Management says mortgages rates would need to hit 7% before it becomes a concern.,0.11291452497243881,0.08824916929006577,0.7988362908363342,neutral,0.024665355682373047
+25,2018-02-21 07:33:00,"In other words, 20 times earnings for a high quality, double-digit earnings growth stock is pretty reasonable.",0.3596547544002533,0.014219026081264019,0.626126229763031,neutral,0.3454357385635376
+26,2018-02-21 07:33:00,What else makes HD stock price attractive?,0.09192251414060593,0.023929012939333916,0.8841484785079956,neutral,0.06799349933862686
+27,2018-02-21 07:33:00,Approaching the spring selling season certainly helps.,0.1578531116247177,0.016917971894145012,0.8252289295196533,neutral,0.14093513786792755
+28,2018-02-21 07:33:00,There are many catalysts for this company when it comes to a seasonality standpoint.,0.19699664413928986,0.0071908957324922085,0.7958124279975891,neutral,0.1898057460784912
+29,2018-02-21 07:33:00,"Holidays aside, there are plenty of tools, gadgets and equipment homeowners need for the winter.",0.03654198348522186,0.006628779694437981,0.9568292498588562,neutral,0.029913203790783882
+30,2018-02-21 07:33:00,"In the spring, we get spring clean-up supplies, gardening sales and projects started.",0.20548570156097412,0.009029040113091469,0.7854852676391602,neutral,0.1964566558599472
+31,2018-02-21 07:33:00,"In the summer we get patio and deck projects, along with lawn care, barbecue and other outdoor product sales.",0.03714492917060852,0.004631976131349802,0.9582231044769287,neutral,0.03251295164227486
+32,2018-02-21 07:33:00,"Finally, in the fall, it's back to clean-up mode and last-minute projects before the winter comes.",0.07378631085157394,0.00994089711457491,0.9162728190422058,neutral,0.06384541094303131
+33,2018-02-21 07:33:00,"Wash, rinse, repeat.",0.04616406187415123,0.013274057768285275,0.9405618906021118,neutral,0.03289000317454338
+34,2018-02-21 07:33:00,That's why Home Depot stock remains such a great hold.,0.2977902293205261,0.01802455447614193,0.6841852068901062,neutral,0.27976566553115845
+35,2018-02-21 07:33:00,The average price target on HD stock is roughly $205.,0.018302371725440025,0.007476464379578829,0.9742211103439331,neutral,0.010825907811522484
+36,2018-02-21 07:33:00,That implies almost 10% upside from current levels.,0.8333884477615356,0.048589758574962616,0.11802184581756592,positive,0.7847986817359924
+37,2018-02-21 07:33:00,"Ironically enough, should HD stock price get to that $205 target, it will be knocking on the doorstep of new all-time highs.",0.6210567355155945,0.09580694139003754,0.2831362783908844,positive,0.5252497792243958
+38,2018-02-21 07:33:00,"On the charts, we can see there is strong support in the low-$180s.",0.8159879446029663,0.02329687401652336,0.16071520745754242,positive,0.7926910519599915
+39,2018-02-21 07:33:00,Will it get there?,0.1390552967786789,0.03555067256093025,0.8253939747810364,neutral,0.10350462794303894
+40,2018-02-21 07:33:00,"To be honest, I'm surprised Home Depot stock isn't reacting more bullishly on these numbers.",0.3383740186691284,0.1350403130054474,0.5265856981277466,neutral,0.20333370566368103
+41,2018-02-21 07:33:00,"• 9 Global Stocks to Heat Up Your Portfolio
+
+A top and bottom-line beat, big bump in the dividend and strong guidance for a stock at a reasonable valuation?",0.8044856786727905,0.03445291519165039,0.1610613316297531,positive,0.7700327634811401
+42,2018-02-21 07:33:00,Color me shocked.,0.17725977301597595,0.2512536346912384,0.5714865922927856,neutral,-0.07399386167526245
+43,2018-02-21 07:33:00,Long-term investors can justify holding a long position in HD stock.,0.21526163816452026,0.009094026871025562,0.7756443619728088,neutral,0.20616760849952698
+44,2018-02-21 07:33:00,New long-term buyers can consider buying right now.,0.19435301423072815,0.00943773239850998,0.7962092161178589,neutral,0.18491527438163757
+45,2018-02-21 07:33:00,"Both of these buyers, as well as short-term traders, may want to consider buying near $180 if HD gets there.",0.15091122686862946,0.04068756476044655,0.8084012269973755,neutral,0.1102236658334732
+46,2018-02-21 07:33:00,"Not only should support come into play based on historical prices, but the 100-day moving average should act as support as well.",0.24018800258636475,0.009540118277072906,0.7502718567848206,neutral,0.23064789175987244
+47,2018-02-21 07:33:00,Bret Kenwell is the manager and author of Future Blue Chips and is on Twitter @BretKenwell .,0.044299837201833725,0.02498885616660118,0.9307113289833069,neutral,0.019310981035232544
+48,2018-02-21 07:33:00,"As of this writing, Bret Kenwell did not hold a position in any of the aforementioned securities.",0.008583790622651577,0.021699829027056694,0.9697163701057434,neutral,-0.013116038404405117
+49,2018-02-21 07:33:00,"• 7 Great REITs to Own in Good Times and Bad
+• 8 Companies That Could Disappear by 2019
+• 10 Dividend Stocks to Buy With Low Yields, But Big Dividend Growth
+
+The post Should You Buy Home Depot Inc Stock After Earnings Beat?",0.07498078048229218,0.029087960720062256,0.8959312438964844,neutral,0.04589281976222992
+50,2018-02-21 07:33:00,appeared first on InvestorPlace .,0.062324922531843185,0.015836404636502266,0.921838641166687,neutral,0.04648851603269577
+51,2018-02-21 07:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

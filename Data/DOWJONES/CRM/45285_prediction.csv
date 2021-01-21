@@ -1,0 +1,68 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-24 08:05:00,Putting money behind healthcare companies has been lucrative for long-term investors.,0.3009275496006012,0.01016780361533165,0.6889045834541321,neutral,0.29075974225997925
+1,2019-01-24 08:05:00,"When those healthcare companies focus on software as a service (SaaS), it's been even more lucrative.",0.5379661321640015,0.013739378191530704,0.4482944905757904,positive,0.524226725101471
+2,2019-01-24 08:05:00,This lean business model is capital-light and builds a moat around itself via high switching costs and network effects.,0.6386429071426392,0.01205481868237257,0.3493022620677948,positive,0.6265881061553955
+3,2019-01-24 08:05:00,"Case in point: the two companies we're investigating today --the pharmaceutical industry's preferred cloud provider Veeva Systems (NYSE: VEEV) , and Cerner (NASDAQ: CERN) , which specializes in electronic health records and IT.",0.02314767800271511,0.0098037738353014,0.9670484662055969,neutral,0.013343904167413712
+4,2019-01-24 08:05:00,"Both handily thumped the market since going public, but which is the better stock to buy today?",0.39858606457710266,0.05158537998795509,0.5498285889625549,neutral,0.34700068831443787
+5,2019-01-24 08:05:00,"When I examine financial fortitude, I have one thing in mind: How will the company be affected by doom, whether it be a broader financial downturn or a problem specific to the company?",0.0115530826151371,0.03749427944421768,0.9509526491165161,neutral,-0.02594119682908058
+6,2019-01-24 08:05:00,"Fragile organizations with loads of debt become weaker as management is faced with decisions about limiting scope, cutting costs, and exhausting every available resource to stay afloat.",0.02529584802687168,0.9413934350013733,0.03331080451607704,negative,-0.9160975813865662
+7,2019-01-24 08:05:00,"But bad times can mean that companies with sizable cash piles grow even stronger -- plucking up competitors at cheap valuations, buying back their own stock at a discount, or simply grabbing market share by lowering prices.",0.8162146806716919,0.037625160068273544,0.14616011083126068,positive,0.7785895466804504
+8,2019-01-24 08:05:00,"Keeping in mind Cerner is about 17% bigger than Veeva by market cap, here's how the two companies stack up:
+
+Let's make one thing clear: Both of these companies have very solid balance sheets.",0.2806984484195709,0.013063810765743256,0.7062377333641052,neutral,0.26763463020324707
+9,2019-01-24 08:05:00,But Veeva has an edge.,0.2362804263830185,0.03901650756597519,0.7247030735015869,neutral,0.1972639262676239
+10,2019-01-24 08:05:00,"Yes, Cerner has stronger free cash flow, but it also has a debt load that could limit its ability to benefit from a downturn.",0.1358896791934967,0.7401805520057678,0.12392974644899368,negative,-0.6042908430099487
+11,2019-01-24 08:05:00,"There's nothing inherently wrong with that debt, which came from acquiring Siemens Health Services a few years back.",0.03375885635614395,0.048529502004384995,0.9177116751670837,neutral,-0.014770645648241043
+12,2019-01-24 08:05:00,"Veeva looks better suited to benefit from a downturn in the long run, with no debt, a growing cash pile, and free cash flow that could easily accelerate if the company wanted to take its foot off the R&D spending pedal.",0.8781260251998901,0.022428041324019432,0.09944594651460648,positive,0.8556979894638062
+13,2019-01-24 08:05:00,"Next, we can look at each company's valuation.",0.022562433034181595,0.005508832633495331,0.9719287157058716,neutral,0.017053600400686264
+14,2019-01-24 08:05:00,"This is part art, part science, and I consult several different metrics to build a holistic picture of how relatively ""cheap"" or ""expensive"" these stocks are:
+
+Data sources: Yahoo!",0.04784631356596947,0.0069799888879060745,0.9451736211776733,neutral,0.04086632281541824
+15,2019-01-24 08:05:00,"Finance, E*Trade.",0.019737273454666138,0.007306710351258516,0.9729560613632202,neutral,0.012430563569068909
+16,2019-01-24 08:05:00,P/E = price to earnings; P/FCF = price to free cash flow; P/S = price to sales; PEG = price/earnings to growth.,0.04103650897741318,0.11748894304037094,0.8414745330810547,neutral,-0.07645243406295776
+17,2019-01-24 08:05:00,P/E is based on non-GAAP (generally accepted accounting principles) earnings when applicable.,0.01479282509535551,0.006908947601914406,0.9782982468605042,neutral,0.007883877493441105
+18,2019-01-24 08:05:00,"The winner here is clear: Cerner is either as cheap as, or cheaper than, Veeva on virtually every metric.",0.5504393577575684,0.015231868252158165,0.4343287944793701,positive,0.5352075099945068
+19,2019-01-24 08:05:00,This makes sense because Veeva has been growing much faster than Cerner and investors have driven the price of shares up.,0.8700001835823059,0.02362137660384178,0.10637843608856201,positive,0.8463788032531738
+20,2019-01-24 08:05:00,"But with that excellent performance comes higher expectations, and investors buying into Veeva today will pay a higher price because of those expectations.",0.8909767866134644,0.01717093028128147,0.09185217320919037,positive,0.8738058805465698
+21,2019-01-24 08:05:00,That makes Cerner appear to be the cheaper stock right now.,0.31839457154273987,0.015910489484667778,0.6656948924064636,neutral,0.30248409509658813
+22,2019-01-24 08:05:00,"Finally, we have what I consider to be the most important aspect to evaluate: the durability of a company's competitive advantages, referred to as a company's ""moat.""",0.10196556150913239,0.005824029445648193,0.8922104239463806,neutral,0.09614153206348419
+23,2019-01-24 08:05:00,"Veeva benefits from two huge moats, the strongest of which is high switching costs.",0.5112396478652954,0.018119661137461662,0.47064074873924255,positive,0.4931199848651886
+24,2019-01-24 08:05:00,"Veeva has two broad product lines: the commercial cloud, and Veeva Vault.",0.02228407934308052,0.005733751691877842,0.9719822406768799,neutral,0.016550328582525253
+25,2019-01-24 08:05:00,The former helps drug companies track their sales and use its customer relationship management (CRM) data.,0.06960750371217728,0.005634369794279337,0.9247581362724304,neutral,0.06397313624620438
+26,2019-01-24 08:05:00,The latter is the real driver of growth.,0.14036092162132263,0.014179903082549572,0.8454591631889343,neutral,0.12618102133274078
+27,2019-01-24 08:05:00,Veeva Vault has a dizzying array of products that run the gamut from development to commercialization.,0.15817324817180634,0.005771398078650236,0.836055338382721,neutral,0.1524018496274948
+28,2019-01-24 08:05:00,"Its services help drug companies bring a drug from the idea stage, through clinical trials, gain approval by the Food and Drug Administration, and enter the market.",0.42730823159217834,0.00826908927410841,0.5644226670265198,neutral,0.41903913021087646
+29,2019-01-24 08:05:00,"Once a company starts storing all of this data on Veeva's servers, it faces enormous switching costs -- including financial setbacks, lost data, and having to retrain staff on a new interface.",0.023027615621685982,0.943898618221283,0.033073827624320984,negative,-0.9208710193634033
+30,2019-01-24 08:05:00,"This keeps customers locked into Veeva's ecosystem for the long haul, resulting in a revenue retention rate of over 120% for the last three years.",0.7652381658554077,0.022744344547390938,0.2120174765586853,positive,0.7424938082695007
+31,2019-01-24 08:05:00,"In other words, existing customers not only stick with Veeva, but they also add more solutions over time.",0.700465977191925,0.011954366229474545,0.28757965564727783,positive,0.6885116100311279
+32,2019-01-24 08:05:00,"Importantly, Veeva also benefits from the network effect: Each additional customer makes the service as a whole stronger because Veeva collects data on the more than 400 life-sciences companies on its roster.",0.8102912902832031,0.01374455913901329,0.1759641021490097,positive,0.7965467572212219
+33,2019-01-24 08:05:00,It can use that data to offer new solutions that aim to solve problems its customers face -- solutions the competition couldn't dream up without similar data.,0.7724584937095642,0.012339495122432709,0.21520203351974487,positive,0.7601190209388733
+34,2019-01-24 08:05:00,"Cerner, on the other hand, also benefits from high switching costs.",0.4342629015445709,0.01271499041467905,0.5530221462249756,neutral,0.42154791951179504
+35,2019-01-24 08:05:00,"Once hospitals and healthcare centers start tracking patients' health records on its Millennium platform, they are loath to switch -- for many of the same reasons as above.",0.0451679490506649,0.28723061084747314,0.6676014065742493,neutral,-0.24206265807151794
+36,2019-01-24 08:05:00,Two key problems give Veeva the edge here.,0.0967281386256218,0.6912248134613037,0.21204711496829987,negative,-0.5944966673851013
+37,2019-01-24 08:05:00,"First and foremost, Cerner has the largest market share of electronic health records systems, at 17.3% -- but there are huge rivals on its heels.",0.3875056505203247,0.014444669708609581,0.5980497002601624,neutral,0.3730609714984894
+38,2019-01-24 08:05:00,"Cerner is facing new competition from Epic Systems, General Electric , and Allscripts .",0.31125038862228394,0.40102750062942505,0.2877221405506134,negative,-0.08977711200714111
+39,2019-01-24 08:05:00,Veeva's competition in its niche is nowhere near as fierce.,0.07649478316307068,0.5731794834136963,0.35032567381858826,negative,-0.4966847002506256
+40,2019-01-24 08:05:00,"Lastly, Cerner doesn't provide a breakout of revenue retention, which is a key metric for determining the company's moat.",0.02130129374563694,0.11380256712436676,0.8648961782455444,neutral,-0.09250127524137497
+41,2019-01-24 08:05:00,I'm giving my nod to Veeva here.,0.15629155933856964,0.013833809643983841,0.8298746943473816,neutral,0.1424577534198761
+42,2019-01-24 08:05:00,And the winner is...,0.32389628887176514,0.015403352677822113,0.6607003211975098,neutral,0.3084929287433624
+43,2019-01-24 08:05:00,"So there you have it: In a very close contest in terms of financial fortitude and competitive advantages, Veeva comes out ahead.",0.8875842690467834,0.024417689070105553,0.08799804002046585,positive,0.8631665706634521
+44,2019-01-24 08:05:00,"The company does have an expensive stock price, but its moat and money position helped it win this battle.",0.8350738286972046,0.022952711209654808,0.14197343587875366,positive,0.8121210932731628
+45,2019-01-24 08:05:00,"I ran these companies through the gauntlet two years ago, and the result was the same .",0.3323480486869812,0.010168947279453278,0.6574830412864685,neutral,0.3221791088581085
+46,2019-01-24 08:05:00,"The results since 2017: Veeva has more than doubled, while Cerner's stock is unchanged.",0.8410134315490723,0.05289911478757858,0.10608743876218796,positive,0.7881143093109131
+47,2019-01-24 08:05:00,"I can't promise similar results moving forward, but my own skin is in the game, as Veeva accounts for almost 6% of my family's real-life holdings.",0.09937147796154022,0.006486068945378065,0.8941425085067749,neutral,0.09288541227579117
+48,2019-01-24 08:05:00,"If you're looking for a healthcare SaaS stock to invest in today, I suggest starting by doing your own due diligence on Veeva.",0.05393669381737709,0.005660420749336481,0.9404028654098511,neutral,0.04827627167105675
+49,2019-01-24 08:05:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+50,2019-01-24 08:05:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+51,2019-01-24 08:05:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+52,2019-01-24 08:05:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+53,2019-01-24 08:05:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+54,2019-01-24 08:05:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+55,2019-01-24 08:05:00,The Motley Fool owns shares of and recommends Veeva Systems.,0.034477271139621735,0.013045232743024826,0.9524774551391602,neutral,0.02143203839659691
+56,2019-01-24 08:05:00,The Motley Fool recommends Cerner.,0.07089276611804962,0.0261527206748724,0.9029545187950134,neutral,0.044740043580532074
+57,2019-01-24 08:05:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+58,2019-01-24 08:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

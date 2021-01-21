@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-14 07:11:00,"In early trading on Monday, shares of Goldman Sachs Group ( GS ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.0%.",0.938468337059021,0.030410178005695343,0.03112144209444523,positive,0.9080581665039062
+1,2017-08-14 07:11:00,"Year to date, Goldman Sachs Group has lost about 4.5% of its value.",0.016566483303904533,0.9568224549293518,0.026611080393195152,negative,-0.9402559995651245
+2,2017-08-14 07:11:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.5%.",0.02130036987364292,0.9647478461265564,0.013951882719993591,negative,-0.943447470664978
+3,2017-08-14 07:11:00,Home Depot is showing a gain of 15.0% looking at the year to date performance.,0.9487122893333435,0.01991475746035576,0.031372930854558945,positive,0.9287975430488586
+4,2017-08-14 07:11:00,"Two other components making moves today are McDonald's ( MCD ), trading down 0.2%, and JPMorgan Chase ( JPM ), trading up 1.4% on the day.",0.04857825115323067,0.9065698981285095,0.044851891696453094,negative,-0.857991635799408
+5,2017-08-14 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

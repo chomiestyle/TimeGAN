@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-02 05:39:00,"Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",0.0258023664355278,0.0078038182109594345,0.9663938879966736,neutral,0.017998548224568367
+1,2020-03-02 05:39:00,"For the ProShares ProShares Large Cap Core Plus ETF (Symbol: CSM), we found that the implied analyst target price for the ETF based upon its underlying holdings is $84.01 per unit.",0.053109534084796906,0.0054314155131578445,0.9414590001106262,neutral,0.04767812043428421
+2,2020-03-02 05:39:00,"With CSM trading at a recent price near $69.23 per unit, that means that analysts see 21.35% upside for this ETF looking through to the average analyst targets of the underlying holdings.",0.6560056209564209,0.03412647172808647,0.3098679482936859,positive,0.6218791604042053
+3,2020-03-02 05:39:00,"Three of CSM's underlying holdings with notable upside to their analyst target prices are Gartner Inc (Symbol: IT), Salesforce.com Inc (Symbol: CRM), and Akamai Technologies Inc (Symbol: AKAM).",0.10707894712686539,0.008594234474003315,0.8843268752098083,neutral,0.09848470985889435
+4,2020-03-02 05:39:00,"Although IT has traded at a recent price of $129.39/share, the average analyst target is 23.27% higher at $159.50/share.",0.40015852451324463,0.07972147315740585,0.5201200246810913,neutral,0.3204370439052582
+5,2020-03-02 05:39:00,"Similarly, CRM has 21.96% upside from the recent share price of $170.40 if the average analyst target price of $207.81/share is reached, and analysts on average are expecting AKAM to reach a target price of $105.13/share, which is 21.53% above the recent price of $86.51.",0.9191839694976807,0.018424035981297493,0.06239203363656998,positive,0.9007599353790283
+6,2020-03-02 05:39:00,"Below is a twelve month price history chart comparing the stock performance of IT, CRM, and AKAM:
+
+Below is a summary table of the current analyst target prices discussed above:
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now?",0.020548682659864426,0.11963580548763275,0.8598155379295349,neutral,-0.09908711910247803
+7,2020-03-02 05:39:00,"Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments?",0.05164404958486557,0.013284869492053986,0.9350711107254028,neutral,0.038359180092811584
+8,2020-03-02 05:39:00,"A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past.",0.16977764666080475,0.0406530387699604,0.7895692586898804,neutral,0.12912461161613464
+9,2020-03-02 05:39:00,These are questions that require further investor research.,0.03949739784002304,0.026686131954193115,0.9338164925575256,neutral,0.012811265885829926
+10,2020-03-02 05:39:00,10 ETFs With Most Upside To Analyst Targets »,0.38490161299705505,0.029027653858065605,0.586070716381073,neutral,0.3558739721775055

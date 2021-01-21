@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-01 07:18:00,"In early trading on Friday, shares of Goldman Sachs Group topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.2%.",0.9362009763717651,0.0329507440328598,0.03084830567240715,positive,0.9032502174377441
+1,2019-03-01 07:18:00,"Year to date, Goldman Sachs Group registers a 20.3% gain.",0.9449187517166138,0.01789412647485733,0.03718704730272293,positive,0.9270246028900146
+2,2019-03-01 07:18:00,"And the worst performing Dow component thus far on the day is Walgreens Boots Alliance, trading down 4.0%.",0.02040397934615612,0.9647721648216248,0.014823796227574348,negative,-0.9443681836128235
+3,2019-03-01 07:18:00,Walgreens Boots Alliance is showing a gain of 0.1% looking at the year to date performance.,0.9421396851539612,0.03199317678809166,0.02586718462407589,positive,0.9101465344429016
+4,2019-03-01 07:18:00,"Two other components making moves today are Home Depot, trading down 0.4%, and UnitedHealth Group, trading up 2.0% on the day.",0.029463093727827072,0.9351532459259033,0.035383690148591995,negative,-0.9056901335716248
+5,2019-03-01 07:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-23 08:32:00,"While investors in their golden years need to be more conservative with their investment choices, they shouldn't shun the stock market altogether.",0.1026853621006012,0.05398085340857506,0.8433338403701782,neutral,0.04870450869202614
+1,2017-03-23 08:32:00,Below is a look at two stocks -- Brookfield Infrastructure Partners (NYSE: BIP) and Home Depot (NYSE: HD) -- that have proven business models and generously share their profits with their shareholders.,0.6520902514457703,0.011950017884373665,0.33595967292785645,positive,0.6401402354240417
+2,2017-03-23 08:32:00,That makes them ideal investment candidates for older investors.,0.437944620847702,0.010463462211191654,0.5515919327735901,neutral,0.42748114466667175
+3,2017-03-23 08:32:00,"As its name implies, Brookfield Infrastructure Partners is a publicly traded partnership that focuses on owning and operating infrastructure assets.",0.05903754383325577,0.00436047650873661,0.9366019368171692,neutral,0.05467706918716431
+4,2017-03-23 08:32:00,"The company's portfolio spans the globe and includes electricity transmission lines, toll roads, shipping ports, cellular towers, oil and gas pipelines, and more.",0.0534227229654789,0.004138231743127108,0.9424390196800232,neutral,0.04928449168801308
+5,2017-03-23 08:32:00,Why does Brookfield favor infrastructure assets?,0.03584553301334381,0.010088578797876835,0.9540658593177795,neutral,0.02575695514678955
+6,2017-03-23 08:32:00,The reason is that these assets are critical to modern-day living and are mostly one-of-a-kind.,0.04465841129422188,0.006861784029752016,0.9484798312187195,neutral,0.03779662773013115
+7,2017-03-23 08:32:00,"That means that they face little to no competition, allowing Brookfield to generate predictable cash flow even during periods of economic upheaval.",0.6492014527320862,0.012288623489439487,0.3385098874568939,positive,0.6369128227233887
+8,2017-03-23 08:32:00,"In turn, Brookfield gets to pass along an ever-growing stream of profits to its investors.",0.9021056890487671,0.013684825971722603,0.08420944213867188,positive,0.8884208798408508
+9,2017-03-23 08:32:00,"This business model might sound boring, but it sure is profitable.",0.2499789446592331,0.011149788275361061,0.7388712763786316,neutral,0.23882915079593658
+10,2017-03-23 08:32:00,Investors who got in right after the company was spun out of Brookfield Asset Management in 2008 have enjoyed one heck of a terrific run.,0.7421606183052063,0.016832498833537102,0.24100686609745026,positive,0.7253281474113464
+11,2017-03-23 08:32:00,"Not only has the share price walloped the S&P 500 , but the company has paid a fat dividend yield the entire way.",0.38043710589408875,0.23686905205249786,0.3826938569545746,neutral,0.14356805384159088
+12,2017-03-23 08:32:00,"On a total return basis -- which assumes dividend reinvestment -- Brookfield's return has more than tripled the market:
+
+Looking ahead, management believes that its asset base and investment opportunities will allow the company to grow its distribution by 5% to 9% annually.",0.9474158883094788,0.01401674933731556,0.03856734186410904,positive,0.9333991408348083
+13,2017-03-23 08:32:00,That's a strong number for a company that currently offers investors a yield of 4.7%.,0.8504636883735657,0.01555581670254469,0.13398048281669617,positive,0.8349078893661499
+14,2017-03-23 08:32:00,The only downside to owning shares in a limited partnership is that there are special tax ramifications that need to be considered.,0.03161066770553589,0.12347359955310822,0.8449157476425171,neutral,-0.09186293184757233
+15,2017-03-23 08:32:00,"However, I think the potential for a big yield and dependable growth more than offsets the extra hassle at tax time.",0.74452805519104,0.024381712079048157,0.231090247631073,positive,0.7201463580131531
+16,2017-03-23 08:32:00,"A retailer that is built to last
+
+The ever-present threat of online-only retailers has turned the retailing world upside-down.",0.23063863813877106,0.4828866720199585,0.28647470474243164,negative,-0.25224804878234863
+17,2017-03-23 08:32:00,The changes have caused many retail concepts to go belly-up while others are rapidly closing stores to rightsize their businesses.,0.028735212981700897,0.8811558485031128,0.09010901302099228,negative,-0.8524206280708313
+18,2017-03-23 08:32:00,"However, not every retailer is struggling to adapt to shifting consumer habits.",0.05144234746694565,0.7284435033798218,0.22011418640613556,negative,-0.6770011782646179
+19,2017-03-23 08:32:00,"Home -improvement giant Home Depot continues to post strong quarterly results , which show how well-positioned the company is to thrive in the 21st century.",0.9508946537971497,0.018436327576637268,0.030669020488858223,positive,0.9324583411216736
+20,2017-03-23 08:32:00,Home Depot's success can be traced to at least two factors.,0.036370061337947845,0.006618569139391184,0.9570114016532898,neutral,0.02975149266421795
+21,2017-03-23 08:32:00,"The housing market continues to recover from the downturn, which is driving increased demand for home renovations.",0.9170427322387695,0.01804877072572708,0.06490855664014816,positive,0.898993968963623
+22,2017-03-23 08:32:00,"Meanwhile, Home Depot's knack for attracting new customers to its stores is helping it to gain market share.",0.9462950825691223,0.018053848296403885,0.03565097227692604,positive,0.9282412528991699
+23,2017-03-23 08:32:00,"With these factors combined, the company is having no problem increasing same-store sales at mid-single-digit rates, which are numbers that most retailers would kill for.",0.813614010810852,0.018280543386936188,0.1681053787469864,positive,0.7953334450721741
+24,2017-03-23 08:32:00,"Management isn't resting on its laurels, either.",0.059291861951351166,0.04184792935848236,0.8988602757453918,neutral,0.017443932592868805
+25,2017-03-23 08:32:00,"The company has been investing in its digital business for years, helping create a differentiated shopping experience.",0.8326428532600403,0.01179183553904295,0.15556524693965912,positive,0.8208510279655457
+26,2017-03-23 08:32:00,Consumers can now order products online and choose to have them delivered at home or picked up in-store.,0.07343971729278564,0.007616891525685787,0.9189434051513672,neutral,0.06582282483577728
+27,2017-03-23 08:32:00,Using this avenue saves them from having to wander the company's stores in search of a specific product.,0.17693458497524261,0.05119413137435913,0.7718713283538818,neutral,0.12574045360088348
+28,2017-03-23 08:32:00,"In addition, consumers can return items that were purchased online to their local stores, saving them shipping costs.",0.29718703031539917,0.035601042211055756,0.6672118902206421,neutral,0.2615859806537628
+29,2017-03-23 08:32:00,Those are nice benefits that online-only rivals can't match.,0.4740978181362152,0.01633019931614399,0.5095720291137695,neutral,0.4577676057815552
+30,2017-03-23 08:32:00,"These moves are clearly working, as Home Depot's e-commerce sales rose by 19% and now comprise 6% of total sales.",0.9478235244750977,0.015865687280893326,0.03631076216697693,positive,0.9319578409194946
+31,2017-03-23 08:32:00,This trend should continue as more consumers realize the benefits of shopping online.,0.8677614331245422,0.013728650286793709,0.11851000040769577,positive,0.8540327548980713
+32,2017-03-23 08:32:00,"Given the company's flourishing financial statements, management has turned its attention to rewarding shareholders.",0.6563661694526672,0.03435935080051422,0.30927443504333496,positive,0.6220068335533142
+33,2017-03-23 08:32:00,The company just raised its dividend by 29% and shares now yield 2.4%.,0.7433297634124756,0.017704399302601814,0.23896583914756775,positive,0.7256253361701965
+34,2017-03-23 08:32:00,"The board also gave the green light to a new $15 billion share-repurchase program, which should help to chip away at the company's share count.",0.896997332572937,0.022992700338363647,0.08000991493463516,positive,0.874004602432251
+35,2017-03-23 08:32:00,Home Depot continues to look positioned to thrive.,0.9057414531707764,0.012296514585614204,0.08196203410625458,positive,0.8934449553489685
+36,2017-03-23 08:32:00,"While shares are trading near an all-time high, the company's trailing price-to-earnings ratio is only 23.",0.06439323723316193,0.463189959526062,0.47241681814193726,neutral,-0.3987967371940613
+37,2017-03-23 08:32:00,"Meanwhile, market watchers believe that Home Depot's earnings per share will grow by more than 11% annually over the next five years.",0.9538466334342957,0.017351359128952026,0.02880198322236538,positive,0.936495304107666
+38,2017-03-23 08:32:00,"I'd argue that growth rate makes the company's current valuation quite reasonable, especially since this is such a high-quality business.",0.5450180768966675,0.01132623478770256,0.4436556398868561,positive,0.5336918234825134
+39,2017-03-23 08:32:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+40,2017-03-23 08:32:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+41,2017-03-23 08:32:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+42,2017-03-23 08:32:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+43,2017-03-23 08:32:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+44,2017-03-23 08:32:00,Brian Feroldi has no position in any stocks mentioned.,0.009729471988976002,0.04525366798043251,0.9450168013572693,neutral,-0.03552419692277908
+45,2017-03-23 08:32:00,The Motley Fool recommends Brookfield Infrastructure Partners and Home Depot.,0.04822315648198128,0.026821337640285492,0.9249554872512817,neutral,0.021401818841695786
+46,2017-03-23 08:32:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2017-03-23 08:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

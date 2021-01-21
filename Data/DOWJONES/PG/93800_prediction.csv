@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-02 07:15:00,Take a look in your cabinets and closets.,0.038887057453393936,0.01979692466557026,0.9413160085678101,neutral,0.019090132787823677
+1,2014-10-02 07:15:00,"You would be hard-pressed not to find a product made by Procter & Gamble , the company behind everything from Old Spice to Pampers.",0.0424405112862587,0.04526219516992569,0.912297248840332,neutral,-0.002821683883666992
+2,2014-10-02 07:15:00,The consumer goods titan is everywhere.,0.06456498056650162,0.046106062829494476,0.8893289566040039,neutral,0.01845891773700714
+3,2014-10-02 07:15:00,"But does that make Procter & Gamble stock, as well as its dividend, safe?",0.628204345703125,0.020946931093931198,0.3508487045764923,positive,0.6072574257850647
+4,2014-10-02 07:15:00,Read below to find out.,0.03652140125632286,0.031168002635240555,0.9323105812072754,neutral,0.005353398621082306
+5,2014-10-02 07:15:00,"The most important metric for dividend investors to watch
+
+Procter & Gamble has a dividend-paying history that is the envy of many companies.",0.2096739560365677,0.014158560894429684,0.7761674523353577,neutral,0.19551539421081543
+6,2014-10-02 07:15:00,It has increased its dividend for six straight decades .,0.9404316544532776,0.016427278518676758,0.04314105585217476,positive,0.9240043759346008
+7,2014-10-02 07:15:00,"Over the last five years, the payout has increased by 8% annually.",0.9297096133232117,0.01659887284040451,0.053691476583480835,positive,0.9131107330322266
+8,2014-10-02 07:15:00,And it currently offers up a very nice 3.2% yield.,0.74526447057724,0.01983659341931343,0.23489895462989807,positive,0.7254278659820557
+9,2014-10-02 07:15:00,The most important metric to watch is free cash flow.,0.22765427827835083,0.007625708356499672,0.7647199630737305,neutral,0.2200285643339157
+10,2014-10-02 07:15:00,"This represents all the money the company took in as a result of doing business, and subtracts anything used for capital expenditures.",0.014900368638336658,0.010749571956694126,0.9743500351905823,neutral,0.004150796681642532
+11,2014-10-02 07:15:00,"Here's how P&G's free cash flow has looked since 2009, and how much of it has been used to pay the company's dividend.",0.02379678748548031,0.010377226397395134,0.9658259749412537,neutral,0.013419561088085175
+12,2014-10-02 07:15:00,"If you're a P&G dividend investor, there are some good and not-so-good things to note here.",0.10410673171281815,0.011353661306202412,0.8845395445823669,neutral,0.09275306761264801
+13,2014-10-02 07:15:00,"On the good front, along with the annual dividend increase, the companyis using about 68% of free cash flow for the payout .",0.6322599649429321,0.01733388379216194,0.3504061698913574,positive,0.6149260997772217
+14,2014-10-02 07:15:00,"While that's a tad bit higher than some of the company's peers, it's still well within the safety zone.",0.6921842098236084,0.016376495361328125,0.29143938422203064,positive,0.6758077144622803
+15,2014-10-02 07:15:00,"Should free cash flow shrink, there's more than enough of a buffer to keep the payout steady.",0.4227783679962158,0.1677643060684204,0.40945735573768616,positive,0.2550140619277954
+16,2014-10-02 07:15:00,"And if free cash flow grows, there's still a fair amount of room for dividend growth.",0.8009878396987915,0.01201349962502718,0.186998650431633,positive,0.7889743447303772
+17,2014-10-02 07:15:00,But I was a little surprised to see free cash flow go up and down so much over the years.,0.6640746593475342,0.02448415756225586,0.31144121289253235,positive,0.6395905017852783
+18,2014-10-02 07:15:00,"On the whole, it has actually shrunk over the last half-decade: what was once a 43% payout ratio is now up to68%.",0.3314439654350281,0.5130916237831116,0.15546444058418274,negative,-0.1816476583480835
+19,2014-10-02 07:15:00,"If this trend continues indefinitely for P&G, it would not be a good sign for investors.",0.042385708540678024,0.7980817556381226,0.15953251719474792,negative,-0.7556960582733154
+20,2014-10-02 07:15:00,"To see whether this is a harbinger of things to come for P&G, let's dive into the company and its stock.",0.025568950921297073,0.009265723638236523,0.9651653170585632,neutral,0.016303226351737976
+21,2014-10-02 07:15:00,"As a whole, Procter & Gamble has five reporting divisions.",0.011295566335320473,0.013817639090120792,0.9748867750167847,neutral,-0.0025220727548003197
+22,2014-10-02 07:15:00,"Health & Grooming is the largest, bringing in about one-fourth of the company's revenue.",0.05699579417705536,0.005258710123598576,0.9377455115318298,neutral,0.05173708498477936
+23,2014-10-02 07:15:00,The other divisions all average between 12% and 14% of P&G's revenue.,0.01269325241446495,0.010898937471210957,0.9764077663421631,neutral,0.001794314943253994
+24,2014-10-02 07:15:00,"For comparison's sake, I've also included the inflation rate for each year on the right.",0.04082047566771507,0.020467648282647133,0.9387118816375732,neutral,0.02035282738506794
+25,2014-10-02 07:15:00,"As you can see, the company recovered nicely from the Great Recession from 2010 to 2012.",0.9396122097969055,0.019033536314964294,0.04135429114103317,positive,0.92057865858078
+26,2014-10-02 07:15:00,"Over the last two years, however, sales increases have not kept pace with the rate of inflation.",0.06668022274971008,0.8777443766593933,0.05557546764612198,negative,-0.8110641241073608
+27,2014-10-02 07:15:00,Even more concerning is the consistent underperformance of P&G's most important division: grooming.,0.03260117024183273,0.866864800453186,0.10053405165672302,negative,-0.8342636227607727
+28,2014-10-02 07:15:00,"Gillette, Fusion, and Prestobarba are three billion-dollar shaving brands within this business unit.",0.04352770745754242,0.0055429828353226185,0.9509293437004089,neutral,0.03798472508788109
+29,2014-10-02 07:15:00,Sales have been struggling for the past three years.,0.02145990915596485,0.9615740776062012,0.01696590520441532,negative,-0.9401141405105591
+30,2014-10-02 07:15:00,Sales for the division as a whole are down 3% since 2011 while inflation itself is up 6.3%--a fairly serious divergence.,0.018828434869647026,0.9673430323600769,0.013828613795340061,negative,-0.9485145807266235
+31,2014-10-02 07:15:00,"The company says the popularity of beards -- and even the ""Movember"" social media movement -- has contributed to falling grooming sales.",0.016275852918624878,0.9684001207351685,0.015324081294238567,negative,-0.9521242380142212
+32,2014-10-02 07:15:00,"Several start-ups, most notably the Dollar Shave Club, are also taking away market share.",0.01691984012722969,0.9520978927612305,0.03098229505121708,negative,-0.9351780414581299
+33,2014-10-02 07:15:00,So is it a buy?,0.11330369114875793,0.031239528208971024,0.8554567694664001,neutral,0.08206416666507721
+34,2014-10-02 07:15:00,Investors interested in Procter & Gamble need to weigh what's going on with the company.,0.023830506950616837,0.015519947744905949,0.9606495499610901,neutral,0.008310559205710888
+35,2014-10-02 07:15:00,"For the time being, the dividend is very safe.",0.36885616183280945,0.011121002957224846,0.6200227737426758,neutral,0.35773515701293945
+36,2014-10-02 07:15:00,"However, trends within the company's grooming business are not going well.",0.025546718388795853,0.8977728486061096,0.07668052613735199,negative,-0.8722261190414429
+37,2014-10-02 07:15:00,"If you believe that the new propensity for beards will soon die off, or that P&G's other divisions will pick up the slack, then the company's woes in this area shouldn't bother you much.",0.037386588752269745,0.18107527494430542,0.7815381288528442,neutral,-0.14368867874145508
+38,2014-10-02 07:15:00,"But if you believe there's a long-term trend away from using P&G's razors -- whether because of start-up competition or social fashion trends -- then you might want to reconsider buying the stock, which is trading for a pricey 21 times earning.",0.07640301436185837,0.042690690606832504,0.8809062838554382,neutral,0.033712323755025864
+39,2014-10-02 07:15:00,Is Proctor & Gamble a top dividend stocks for the next decade?,0.24829423427581787,0.013386696577072144,0.7383190989494324,neutral,0.23490753769874573
+40,2014-10-02 07:15:00,The smartest investors know that dividend stocks simply crush their non-dividend paying counterparts over the long term.,0.06406939774751663,0.6837742328643799,0.2521563172340393,negative,-0.6197048425674438
+41,2014-10-02 07:15:00,That's beyond dispute.,0.11145628988742828,0.02713225595653057,0.861411452293396,neutral,0.08432403206825256
+42,2014-10-02 07:15:00,"Knowing how valuable such a portfolio might be, our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio.",0.08245469629764557,0.0054166438058018684,0.9121286273002625,neutral,0.07703804969787598
+43,2014-10-02 07:15:00,Is Proctor & Gamble one of those stocks?,0.030705081298947334,0.013394439592957497,0.9559004902839661,neutral,0.017310641705989838
+44,2014-10-02 07:15:00,"To see our free report on these stocks, just click here .",0.015726452693343163,0.014490216039121151,0.9697833061218262,neutral,0.0012362366542220116
+45,2014-10-02 07:15:00,The article How Safe is The Procter & Gamble Company Stock and Its Dividend?,0.02431488037109375,0.01459555234760046,0.961089551448822,neutral,0.00971932802349329
+46,2014-10-02 07:15:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+47,2014-10-02 07:15:00,Brian Stoffel has no position in any stocks mentioned.,0.011061043478548527,0.05123596638441086,0.9377029538154602,neutral,-0.040174923837184906
+48,2014-10-02 07:15:00,The Motley Fool recommends Procter & Gamble.,0.04527987167239189,0.030770104378461838,0.9239500164985657,neutral,0.014509767293930054
+49,2014-10-02 07:15:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+50,2014-10-02 07:15:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+51,2014-10-02 07:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+52,2014-10-02 07:15:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+53,2014-10-02 07:15:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+54,2014-10-02 07:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+55,2014-10-02 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

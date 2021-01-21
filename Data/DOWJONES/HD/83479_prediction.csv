@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-04 23:16:00,The future of Lowe's (NYSE: LOW) is a bit in flux right now.,0.019837692379951477,0.25921496748924255,0.7209473252296448,neutral,-0.23937727510929108
+1,2018-05-04 23:16:00,There's only one thing I can say about it with the utmost confidence: Lowe's will have a new CEO.,0.17989014089107513,0.009778369218111038,0.8103314638137817,neutral,0.1701117753982544
+2,2018-05-04 23:16:00,"The company announced a succession plan for current CEO Robert Niblock, who will remain CEO until the board finds a suitable replacement.",0.036211658269166946,0.025854051113128662,0.9379342198371887,neutral,0.010357607156038284
+3,2018-05-04 23:16:00,"After years of underperforming its potential, as indicated by the rampant success of The Home Depot (NYSE: HD) , Lowe's under a new CEO will have a big task at hand to ramp up sales and profit margin.",0.9191336035728455,0.017059965059161186,0.06380648910999298,positive,0.9020736217498779
+4,2018-05-04 23:16:00,"Niblock is leaving after putting a plan in place to invest for long-term growth during 2018, taking advantage of recent tax reform.",0.18451833724975586,0.03557591885328293,0.7799057960510254,neutral,0.14894241094589233
+5,2018-05-04 23:16:00,"That should put near-term pressure on profit margins, but it could set up Lowe's for a much better path forward to compete with Home Depot for more traffic and sales.",0.9438425302505493,0.02561059594154358,0.03054690919816494,positive,0.9182319641113281
+6,2018-05-04 23:16:00,"During Lowe's fourth-quarter earnings call , management outlined six key areas of investment for the company in 2018.",0.06119290366768837,0.005033192690461874,0.9337738752365112,neutral,0.05615971237421036
+7,2018-05-04 23:16:00,"• Collecting more information about customers' plans and needs through increased data collection, analytics, and partnering with third-party data furnishers.",0.5910341739654541,0.00989669468253851,0.3990691006183624,positive,0.581137478351593
+8,2018-05-04 23:16:00,• Upgrading technology to deliver more personalized marketing messaging as well as enabling better in-store service.,0.9165569543838501,0.014368932694196701,0.06907404959201813,positive,0.9021880030632019
+9,2018-05-04 23:16:00,(Lowe's new digital marketing platform already went live in the fourth quarter.),0.14667676389217377,0.007695442996919155,0.8456277847290039,neutral,0.13898132741451263
+10,2018-05-04 23:16:00,• Improving online delivery and pickup in store infrastructure.,0.9032993912696838,0.012707190588116646,0.08399342745542526,positive,0.8905922174453735
+11,2018-05-04 23:16:00,It plans to open a new direct-fulfillment center in the third quarter this year.,0.3343815207481384,0.00836147740483284,0.6572570204734802,neutral,0.3260200321674347
+12,2018-05-04 23:16:00,• Differentiate product selection through strategic brand partnerships (like Craftsman and Sherwin-Williams ).,0.28943774104118347,0.007570828776806593,0.7029914259910583,neutral,0.2818669080734253
+13,2018-05-04 23:16:00,• Increase penetration among professionals with improved jobsite delivery and a new workforce development initiative for store employees to become professional contractors.,0.9346696734428406,0.017153946682810783,0.04817634075880051,positive,0.917515754699707
+14,2018-05-04 23:16:00,"• Growing its do-it-for-me business with installations, in-home sales, and project specialists.",0.8075473308563232,0.012437394820153713,0.1800152063369751,positive,0.7951099276542664
+15,2018-05-04 23:16:00,"Management also pointed out multiple areas for potential improvement, including sales conversion, gross margin, and inventory management.",0.9008622169494629,0.020155074074864388,0.07898273319005966,positive,0.8807071447372437
+16,2018-05-04 23:16:00,"As a result of the step up in investments, CFO Marshall Croom guided for a 30 basis point contraction in operating margin to about 9.3%.",0.01896616816520691,0.9729078412055969,0.008126038126647472,negative,-0.9539417028427124
+17,2018-05-04 23:16:00,"By comparison, Home Depot expects an operating margin of 14.5% for 2018 and reaffirmed its long-term target of 14.4% to 15%.",0.9035980701446533,0.021365484222769737,0.0750364288687706,positive,0.8822326064109802
+18,2018-05-04 23:16:00,"If Lowe's can make progress in its six investment areas, it should enable meaningful operating margin expansion over the following four-plus years.",0.9475408792495728,0.014400373212993145,0.038058698177337646,positive,0.9331405162811279
+19,2018-05-04 23:16:00,"At Lowe's investor day in December 2016, then-CFO Bob Hull guided for an operating margin of 11.2% in 2019.",0.5599924325942993,0.031917523592710495,0.4080900549888611,positive,0.5280749201774597
+20,2018-05-04 23:16:00,That number seems very much out of reach now considering its plan to ramp up investments in 2018 and continue investing for the foreseeable future.,0.0771309956908226,0.41921305656433105,0.5036559700965881,neutral,-0.34208205342292786
+21,2018-05-04 23:16:00,"That said, Croom expects operating margin to start expanding again after this year.",0.9537436962127686,0.0159589983522892,0.030297281220555305,positive,0.9377846717834473
+22,2018-05-04 23:16:00,"Following the setback, Lowe's could realistically expand its operating margin at a similar pace to last year, when it increased 60 basis points, as it continues to invest.",0.953874409198761,0.017520511522889137,0.02860507182776928,positive,0.9363539218902588
+23,2018-05-04 23:16:00,But it's basically putting itself about two years behind where it expected to be in 2019.,0.05857798829674721,0.226856991648674,0.7145650386810303,neutral,-0.1682790070772171
+24,2018-05-04 23:16:00,Croom expects average annual sales increases of at least 4% going forward.,0.9173843264579773,0.012863866053521633,0.06975182890892029,positive,0.9045204520225525
+25,2018-05-04 23:16:00,That still lags The Home Depot's 4.5% to 6% annual sales growth target through 2020.,0.0474083349108696,0.9042221307754517,0.048369623720645905,negative,-0.8568137884140015
+26,2018-05-04 23:16:00,Growing sales is the key to exercising operating leverage and improving operating margin.,0.9315701723098755,0.014906245283782482,0.05352348834276199,positive,0.9166639447212219
+27,2018-05-04 23:16:00,"Fortunately, Lowe's has several opportunities to grow sales faster than that 4% target.",0.9325511455535889,0.014696097932755947,0.052752792835235596,positive,0.9178550243377686
+28,2018-05-04 23:16:00,"After all, that's what those investments are supposed to capitalize on.",0.26796457171440125,0.007802998181432486,0.7242324948310852,neutral,0.2601615786552429
+29,2018-05-04 23:16:00,Lowe's could increase appliance sales as Sears continually closes down stores .,0.9122666120529175,0.047728244215250015,0.04000507667660713,positive,0.8645383715629578
+30,2018-05-04 23:16:00,"At the very least, it should be able to drive store traffic.",0.47694849967956543,0.014126849360764027,0.508924663066864,neutral,0.4628216624259949
+31,2018-05-04 23:16:00,"By its own admission, Lowe's can do a better job converting store traffic into sales, too.",0.5944483876228333,0.018504679203033447,0.38704702258110046,positive,0.5759437084197998
+32,2018-05-04 23:16:00,"Lowe's has also done a poor job attracting professional customers, which can be extremely valuable.",0.020913219079375267,0.9532312750816345,0.025855539366602898,negative,-0.9323180317878723
+33,2018-05-04 23:16:00,"As management mentioned in its earnings call, the do-it-for-me market is growing faster than people who want to DIY.",0.8897426724433899,0.019401682540774345,0.09085560590028763,positive,0.8703410029411316
+34,2018-05-04 23:16:00,That results in a larger share of purchases coming from professionals.,0.6401670575141907,0.013029194436967373,0.3468037545681,positive,0.6271378397941589
+35,2018-05-04 23:16:00,Lowe's is taking initiatives to attract more professional customers to overcome Home Depot's advantage.,0.9348588585853577,0.015886006876826286,0.04925522580742836,positive,0.9189728498458862
+36,2018-05-04 23:16:00,"Finally, Lowe's can improve its online sales, an area in which Home Depot has excelled.",0.9537316560745239,0.020043952390551567,0.026224320754408836,positive,0.933687686920166
+37,2018-05-04 23:16:00,Online sales are largely protected from other major online merchants due to the bulk and speciality of most of Lowe's products.,0.024235235527157784,0.01984698325395584,0.9559178352355957,neutral,0.0043882522732019424
+38,2018-05-04 23:16:00,"The Home Depot is already executing on all of those fronts, but the strong housing market with aging houses should provide room for both to grow.",0.8136982917785645,0.013559212908148766,0.17274248600006104,positive,0.8001390695571899
+39,2018-05-04 23:16:00,"Finding a CEO up to the task
+
+The key to this bullish outlook on Lowe's is that the company needs to find a new CEO that's able to execute and remain focused on its plans -- something Niblock had trouble with (like when he acquired Rona).",0.5024310350418091,0.04677518084645271,0.4507937431335449,positive,0.4556558430194855
+40,2018-05-04 23:16:00,"The Home Depot remains a formidable competitor, but there's a significant number of opportunities for Lowe's if it can execute.",0.7674879431724548,0.012741334736347198,0.21977068483829498,positive,0.7547466158866882
+41,2018-05-04 23:16:00,"Things are already set up for a new CEO, as Lowe's laid out what looks to be a good plan for long-term growth.",0.6561487317085266,0.012747325003147125,0.3311039209365845,positive,0.6434013843536377
+42,2018-05-04 23:16:00,The sales growth outlook from Croom seems conservative enough that it should be able to meet those numbers despite the upcoming CEO transition.,0.915258526802063,0.01700209639966488,0.067739337682724,positive,0.8982564210891724
+43,2018-05-04 23:16:00,"Investors will have to wait until December, when Lowe's will hold its next investors' day, to get a clearer picture of where management thinks the company will be in the next few years.",0.0603058747947216,0.013489510864019394,0.9262045621871948,neutral,0.04681636393070221
+44,2018-05-04 23:16:00,"For now, things look like they'll start picking up again next year as the company takes a year off to invest.",0.7363187670707703,0.017518507316708565,0.24616269767284393,positive,0.7188002467155457
+45,2018-05-04 23:16:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+46,2018-05-04 23:16:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+47,2018-05-04 23:16:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+48,2018-05-04 23:16:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+49,2018-05-04 23:16:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+50,2018-05-04 23:16:00,Adam Levy owns shares of Lowe's.,0.01817212626338005,0.011881246231496334,0.9699466824531555,neutral,0.006290880031883717
+51,2018-05-04 23:16:00,The Motley Fool has the following options: short May 2018 $175 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.012950422242283821,0.029934365302324295,0.9571152329444885,neutral,-0.016983943060040474
+52,2018-05-04 23:16:00,"The Motley Fool recommends Home Depot, Lowe's, and Sherwin-Williams.",0.021703137084841728,0.02061222493648529,0.9576846361160278,neutral,0.0010909121483564377
+53,2018-05-04 23:16:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+54,2018-05-04 23:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

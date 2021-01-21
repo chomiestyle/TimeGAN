@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-01 06:17:00,"Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",0.0258023664355278,0.0078038182109594345,0.9663938879966736,neutral,0.017998548224568367
+1,2020-04-01 06:17:00,"For the Invesco S&P 500— Equal Weight Consumer Staples ETF (Symbol: RHS), we found that the implied analyst target price for the ETF based upon its underlying holdings is $143.65 per unit.",0.042795561254024506,0.006108136381953955,0.9510963559150696,neutral,0.03668742626905441
+2,2020-04-01 06:17:00,"With RHS trading at a recent price near $123.68 per unit, that means that analysts see 16.14% upside for this ETF looking through to the average analyst targets of the underlying holdings.",0.670737624168396,0.030578237026929855,0.29868412017822266,positive,0.6401593685150146
+3,2020-04-01 06:17:00,"Three of RHS's underlying holdings with notable upside to their analyst target prices are Estee Lauder Cos., Inc. (Symbol: EL), Mondelez International Inc (Symbol: MDLZ), and Procter & Gamble Company (Symbol: PG).",0.09692563116550446,0.00810797605663538,0.8949664235115051,neutral,0.08881765604019165
+4,2020-04-01 06:17:00,"Although EL has traded at a recent price of $159.34/share, the average analyst target is 19.56% higher at $190.50/share.",0.29946643114089966,0.069630928337574,0.6309026479721069,neutral,0.22983551025390625
+5,2020-04-01 06:17:00,"Similarly, MDLZ has 16.95% upside from the recent share price of $50.08 if the average analyst target price of $58.57/share is reached, and analysts on average are expecting PG to reach a target price of $127.83/share, which is 16.21% above the recent price of $110.00.",0.90080726146698,0.01875198259949684,0.08044073730707169,positive,0.8820552825927734
+6,2020-04-01 06:17:00,"Below is a twelve month price history chart comparing the stock performance of EL, MDLZ, and PG:
+
+Combined, EL, MDLZ, and PG represent 9.06% of the Invesco S&P 500— Equal Weight Consumer Staples ETF.",0.02043387107551098,0.018961522728204727,0.9606045484542847,neutral,0.0014723483473062515
+7,2020-04-01 06:17:00,"Below is a summary table of the current analyst target prices discussed above:
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now?",0.033522360026836395,0.28399592638015747,0.6824817061424255,neutral,-0.2504735589027405
+8,2020-04-01 06:17:00,"Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments?",0.05164404958486557,0.013284869492053986,0.9350711107254028,neutral,0.038359180092811584
+9,2020-04-01 06:17:00,"A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past.",0.16977764666080475,0.0406530387699604,0.7895692586898804,neutral,0.12912461161613464
+10,2020-04-01 06:17:00,These are questions that require further investor research.,0.03949740529060364,0.026686135679483414,0.9338164925575256,neutral,0.012811269611120224
+11,2020-04-01 06:17:00,10 ETFs With Most Upside To Analyst Targets »,0.3849011957645416,0.029027653858065605,0.5860711932182312,neutral,0.35587355494499207

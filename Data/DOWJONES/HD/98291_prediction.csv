@@ -1,0 +1,71 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-16 21:25:00,"Today's Research Daily features new research reports on 16 major stocks, including Pfizer (PFE), Home Depot (HD) and ConocoPhillips (COP).",0.03794770687818527,0.007848675362765789,0.9542036056518555,neutral,0.03009903058409691
+1,2017-05-16 21:25:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+2,2017-05-16 21:25:00,"You can see all of today's research reports here >>>
+
+A brief comment about today's market action is in order before we discuss the featured analyst reports.",0.013565176166594028,0.008372403681278229,0.9780624508857727,neutral,0.0051927724853158
+3,2017-05-16 21:25:00,"Stocks appeared immune to the Washington drama for a while, but have started taking note of the issue in today's issue.",0.14762069284915924,0.06752180308103561,0.7848575115203857,neutral,0.08009888976812363
+4,2017-05-16 21:25:00,"This isn't helping stocks or the dollar, though safe-haven trades into treasuries and gold are doing better.",0.16669514775276184,0.7160305380821228,0.11727430671453476,negative,-0.5493353605270386
+5,2017-05-16 21:25:00,The key question that market participants are grappling with is the future of the Trump Agenda in the current backdrop of a never-ending cycle of crises.,0.07133650034666061,0.24286596477031708,0.6857975125312805,neutral,-0.17152947187423706
+6,2017-05-16 21:25:00,"If the administration is unable to lead Congress into enacting tax reforms and other pro-growth measures, then we probably need to get ready for the market to retrace its steps to the pre-election level.",0.39115723967552185,0.02512705884873867,0.5837156772613525,neutral,0.36603018641471863
+7,2017-05-16 21:25:00,"As a reference, the S&P 500 index is up +12% in the post-election period while the Russell 2000 index is up +15.7%.",0.9259373545646667,0.02248573862016201,0.05157693102955818,positive,0.9034516215324402
+8,2017-05-16 21:25:00,Pfizer shares have underperformed the peer group as well as the broader market over the past year (the stock is down -1.7% over the last one year vs. a +4.6% increase for the Zacks Large-Cap Pharma industry) +15.8% gain for the S&P 500 index) on continued drug pricing uncertainty that have refused to go away even after the election.,0.18006333708763123,0.7995913028717041,0.020345395430922508,negative,-0.6195279359817505
+9,2017-05-16 21:25:00,"These headwinds notwithstanding, the Zacks analyst is pointing out that Pfizer is strengthening its product portfolio as well as pipeline through acquisitions and licensing deals.",0.9526172876358032,0.016629425808787346,0.030753295868635178,positive,0.9359878897666931
+10,2017-05-16 21:25:00,"Also, cost-savings and share buybacks should help Pfizer achieve its earnings guidance.",0.9459279179573059,0.01625652424991131,0.037815533578395844,positive,0.9296714067459106
+11,2017-05-16 21:25:00,"While the Hospira acquisition has significantly expanded Pfizer's sterile injectable and biosimilar capabilities, the Medivation deal has strengthened its cancer franchise by adding Xtandi to its portfolio.",0.9508062601089478,0.016845030710101128,0.03234875202178955,positive,0.9339612126350403
+12,2017-05-16 21:25:00,"(You can read the full research report on Pfizer here >>> )
+
+Home Depotsharesare up +16.3% in the year-to-date period, outperforming the Zacks Retail sector (up +13.2%) and the broader market (S&P 500 up +7.5%) in that same time period.",0.9334877133369446,0.03696320578455925,0.029549067839980125,positive,0.8965244889259338
+13,2017-05-16 21:25:00,"Improving customer experience, solid execution and consistent housing market recovery helped the company post an earnings surprise in first-quarter fiscal 2017, retaining the four-year long trend of beating earnings estimates.",0.9499971866607666,0.028000472113490105,0.022002337500452995,positive,0.9219967126846313
+14,2017-05-16 21:25:00,"The company's relentless focus on offering innovative products, boosting interconnected customer experience and driving productivity seems to be paying off.",0.9154110550880432,0.014481095597147942,0.07010792195796967,positive,0.9009299874305725
+15,2017-05-16 21:25:00,"Moreover, the company raised earnings guidance for fiscal 2017 while retaining its sales view.",0.9255759716033936,0.017215212807059288,0.057208795100450516,positive,0.9083607792854309
+16,2017-05-16 21:25:00,"On the flip side, market participants can justifiably raise valuation concerns, particularly following the stock's stellar recent performance.",0.85821932554245,0.03673705831170082,0.1050436794757843,positive,0.821482241153717
+17,2017-05-16 21:25:00,"(You can read the full research report on Home Depot here>>> )
+
+ConocoPhillips shares are down -5.9% in the year-to-date period, roughly in-line with the Zacks Energy sector's performance in the same time period, on weakness in oil prices .",0.01939934305846691,0.970630943775177,0.009969795122742653,negative,-0.9512315988540649
+18,2017-05-16 21:25:00,"During the first quarter of this year, the company's loss per share narrowed considerably while its top line beat estimates.",0.8739879727363586,0.07952690124511719,0.046485114842653275,positive,0.7944610714912415
+19,2017-05-16 21:25:00,This was owing to improved commodity price realizations and increased production.,0.9457469582557678,0.0158928781747818,0.03836017847061157,positive,0.9298540949821472
+20,2017-05-16 21:25:00,But the quarterly loss compared unfavorably with estimates for the January-March quarter.,0.07354472577571869,0.8957330584526062,0.030722174793481827,negative,-0.8221883177757263
+21,2017-05-16 21:25:00,"Higher expenses, along with normal field declines and dispositions, led to the underperformance.",0.022626332938671112,0.9550004005432129,0.022373223677277565,negative,-0.9323740601539612
+22,2017-05-16 21:25:00,"However, the company's plan to reposition its asset base by divesting low-margin assets and using the sale proceeds to pay down debt and return cash to shareholders is proceeding nicely.",0.8749427199363708,0.012977352365851402,0.11207987368106842,positive,0.8619653582572937
+23,2017-05-16 21:25:00,The company decided to divest its interest in the San Juan Basin - rich in natural gas - for a consideration of almost $3 billion.,0.07262267917394638,0.031010864302515984,0.8963664770126343,neutral,0.04161181300878525
+24,2017-05-16 21:25:00,"The accord reflects ConocoPhillips' intention to lower its exposure to the U.S. natural gas business, which has been less profitable in recent years.",0.7313669919967651,0.06570110470056534,0.2029319554567337,positive,0.665665864944458
+25,2017-05-16 21:25:00,"(You can read the full research report on ConocoPhillips here>>> )
+
+Other noteworthy reports we are featuring today include Prudential Financial (PRU), Dominion Resources (D) and Canadian Pacific (CP).",0.025014391168951988,0.006525247823446989,0.9684603810310364,neutral,0.018489142879843712
+26,2017-05-16 21:25:00,"The Best & Worst of Zacks
+
+Today you are invited to download the full, up-to-the-minute list of 220 Zacks Rank #1 ""Strong Buys"" free of charge.",0.10932573676109314,0.01583641581237316,0.8748378157615662,neutral,0.09348931908607483
+27,2017-05-16 21:25:00,From 1988 through 2015 this list has averaged a stellar gain of +25% per year.,0.8781132698059082,0.01517540868371725,0.10671132057905197,positive,0.862937867641449
+28,2017-05-16 21:25:00,"Plus, you may download 220 Zacks Rank #5 ""Strong Sells.""",0.2523351013660431,0.039101745933294296,0.7085631489753723,neutral,0.2132333517074585
+29,2017-05-16 21:25:00,"Even though this list holds many stocks that seem to be solid, it has historically performed 11X worse than the market.",0.02278171293437481,0.9607720971107483,0.016446147114038467,negative,-0.9379903674125671
+30,2017-05-16 21:25:00,"See these critical buys and sells free >>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.08423313498497009,0.008048605173826218,0.9077182412147522,neutral,0.07618452608585358
+31,2017-05-16 21:25:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trends and Earnings Preview reports.,0.023997269570827484,0.008975164964795113,0.9670275449752808,neutral,0.015022104606032372
+32,2017-05-16 21:25:00,"If you want an email notification each time Sheraz publishes a new article, please click here >>>
+
+Prudential Financial's first-quarter 2017 earnings beat expectations and improved year over year on higher revenues, increased investment income as well as premium growth.",0.9551965594291687,0.023947739973664284,0.020855622366070747,positive,0.9312488436698914
+33,2017-05-16 21:25:00,The covering analyst thinks Dominion will benefit from its regulated growth projects but drop in solar tax credit will adversely impact earnings.,0.10703781992197037,0.8204855918884277,0.07247654348611832,negative,-0.7134477496147156
+34,2017-05-16 21:25:00,"Despite MMP's excellent track record of earnings surprise history and the Q1 outperformance, the covering analyst remains concerned over the commodity price weakness.",0.026025451719760895,0.9480032920837402,0.025971276685595512,negative,-0.9219778180122375
+35,2017-05-16 21:25:00,The Zacks analyst is pleased by the improvement in coal revenues in Q1.,0.9546526074409485,0.020387724041938782,0.024959582835435867,positive,0.9342648983001709
+36,2017-05-16 21:25:00,The company's decision to hike quarterly dividend raises optimism.,0.8957346677780151,0.03662580996751785,0.0676395446062088,positive,0.8591088652610779
+37,2017-05-16 21:25:00,The Zacks analyst thinks that Celanese's cost-saving and growth actions should lend support to its earnings in 2017 notwithstanding the pricing headwinds.,0.9452508687973022,0.021862398833036423,0.032886773347854614,positive,0.9233884811401367
+38,2017-05-16 21:25:00,"The Q1 earnings beat apart, the Zacks analyst is positive on AMETEK's strong portfolio of differentiated businesses and operational excellence initiatives.",0.939009428024292,0.01804508827626705,0.042945459485054016,positive,0.9209643602371216
+39,2017-05-16 21:25:00,The Zacks analyst thinks Whirlpool is gaining from its long term goals and cost productivity programs.,0.9469607472419739,0.01649572141468525,0.03654346242547035,positive,0.930465042591095
+40,2017-05-16 21:25:00,The Zacks analyst is pleased by the company's strong April traffic report.,0.9074717164039612,0.017779596149921417,0.0747486874461174,positive,0.8896921277046204
+41,2017-05-16 21:25:00,Strong demand for air travel to Hawaii and the carrier's reputation in terms of punctuality also raise optimism.,0.9241178631782532,0.02001895196735859,0.05586320534348488,positive,0.9040989279747009
+42,2017-05-16 21:25:00,The covering analyst thinks Franklin's efforts to drive operational efficiency remain encouraging.,0.9317463040351868,0.0134422043338418,0.05481142923235893,positive,0.9183040857315063
+43,2017-05-16 21:25:00,It also continues to benefit from a strong capital position and diversification.,0.8937203884124756,0.012559706345200539,0.09371989965438843,positive,0.8811606764793396
+44,2017-05-16 21:25:00,"The Zacks analyst thinks TE Connectivity's overarching business model, strong demand in end markets and growing adoption of harsh environment applications, signals bright days moving forward.",0.8939201831817627,0.013004973530769348,0.09307482838630676,positive,0.8809152245521545
+45,2017-05-16 21:25:00,The Zacks analyst thinks Dean Foods' first quarter earnings were hurt by higher raw milk costs and lower volumes.,0.021052582189440727,0.96779465675354,0.011152694001793861,negative,-0.946742057800293
+46,2017-05-16 21:25:00,"Also, raw milk costs rose year over year in the second quarter, thus raising concerns.",0.902527928352356,0.05869210511445999,0.03878000006079674,positive,0.8438358306884766
+47,2017-05-16 21:25:00,The Zacks analyst thinks foreign exchange headwinds and higher operating expenses are major concerns for Patterson Companies.,0.046674393117427826,0.9025478959083557,0.05077764391899109,negative,-0.8558735251426697
+48,2017-05-16 21:25:00,"The Zacks analyst stresses that Staples' top-line continues to struggle, missing the consensus mark for the third straight quarter.",0.021356340497732162,0.968408465385437,0.010235208086669445,negative,-0.9470521211624146
+49,2017-05-16 21:25:00,Sales also fell year over year.,0.01773712784051895,0.971696674823761,0.010566182434558868,negative,-0.9539595246315002
+50,2017-05-16 21:25:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+51,2017-05-16 21:25:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+52,2017-05-16 21:25:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+53,2017-05-16 21:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

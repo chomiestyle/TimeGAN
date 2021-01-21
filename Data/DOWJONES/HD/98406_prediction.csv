@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-06 03:09:00,U.S. market indexes were higher on Thursday.,0.8898817300796509,0.030463721603155136,0.0796545073390007,positive,0.8594180345535278
+1,2017-04-06 03:09:00,"For the day, the Dow Jones Industrial Average closed at 20662.95 for a gain of 14.80 points or 0.07%.",0.9243640899658203,0.04667810723185539,0.028957830742001534,positive,0.8776859641075134
+2,2017-04-06 03:09:00,The S&P 500 closed at 2357.49 for a gain of 4.54 points or 0.19%.,0.9327759742736816,0.03930029273033142,0.02792377583682537,positive,0.8934756517410278
+3,2017-04-06 03:09:00,The Nasdaq Composite closed at 5878.95 for a gain of 14.47 points or 0.25%.,0.9410451054573059,0.032919034361839294,0.026035871356725693,positive,0.9081260561943054
+4,2017-04-06 03:09:00,The VIX Volatility Index was lower for the day at 12.32 for a loss of -0.57 points or -4.42%.,0.019294600933790207,0.9699603319168091,0.010745075531303883,negative,-0.9506657123565674
+5,2017-04-06 03:09:00,"Economic reports affecting market trading on Thursday included the following:
+• Mortgage rates were lower.",0.03664887696504593,0.9209705591201782,0.042380545288324356,negative,-0.8843216896057129
+6,2017-04-06 03:09:00,"Freddie Mac reported an average weekly rate on 30-year fixed-rate mortgages of 4.10%, a decrease from 4.14%.",0.022559601813554764,0.963840901851654,0.013599543832242489,negative,-0.9412813186645508
+7,2017-04-06 03:09:00,The 15-year fixed-rate mortgage average was also lower at 3.36%.,0.019403373822569847,0.9655535817146301,0.015043034218251705,negative,-0.9461501836776733
+8,2017-04-06 03:09:00,"In the Dow Jones Industrial Average, the following stocks led gains:
+
+In the broad market, energy stocks led gains.",0.9186317324638367,0.029700789600610733,0.05166738107800484,positive,0.8889309167861938
+9,2017-04-06 03:09:00,Technology was also higher with the S&P 500 technology sector gaining 0.02%.,0.9308575391769409,0.03438105061650276,0.03476141020655632,positive,0.8964765071868896
+10,2017-04-06 03:09:00,"In small-caps, the Russell 2000 Index closed at 1364.43 for a gain of 12.28 points or 0.91%.",0.933571457862854,0.04177166149020195,0.024656934663653374,positive,0.891799807548523
+11,2017-04-06 03:09:00,The S&P 600 Small-Cap Index closed at 827.87 for a gain of 8.38 points or 1.02%.,0.9416707158088684,0.03241709619760513,0.025912156328558922,positive,0.9092535972595215
+12,2017-04-06 03:09:00,The Dow Jones Small-Cap Growth TSM Index closed at 8192.45 for a gain of 72.14 points or 0.89%.,0.9444571733474731,0.031332727521657944,0.024210190400481224,positive,0.9131244421005249
+13,2017-04-06 03:09:00,The Dow Jones Small-Cap Value TSM Index closed at 9548.28 for a gain of 86.17 points or 0.91%.,0.942196786403656,0.03221198916435242,0.025591189041733742,positive,0.909984827041626
+14,2017-04-06 03:09:00,Other notable index closes included the S&P 400 Mid-Cap Index at 1708.05 for a gain of 13.26 points or 0.78%; the S&P 100 Index at 1043.66 for a loss of -0.05 points or -0.01%; the Russell 3000 Index at 1396.65 for a gain of 4.19 points or 0.30%; the Russell 1000 Index at 1306.85 for a gain of 3.28 points or 0.25%; and the Dow Jones U.S.,0.8263300061225891,0.048091452568769455,0.1255786120891571,positive,0.7782385349273682
+15,2017-04-06 03:09:00,Select Dividend Index at 652.66 for a gain of 2.86 points or 0.44%.,0.9357703924179077,0.037528038024902344,0.026701506227254868,positive,0.8982423543930054
+16,2017-04-06 03:09:00,This article first appeared on GuruFocus .,0.01878550462424755,0.01473853550851345,0.9664759039878845,neutral,0.0040469691157341
+17,2017-04-06 03:09:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

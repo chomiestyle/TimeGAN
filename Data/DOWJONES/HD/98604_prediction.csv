@@ -1,0 +1,125 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-21 00:20:00,Every year brings changes and new challenges.,0.5682077407836914,0.013329996727406979,0.4184623062610626,positive,0.554877758026123
+1,2016-12-21 00:20:00,2017 will bring more than most.,0.6256183385848999,0.011635078117251396,0.36274656653404236,positive,0.6139832735061646
+2,2016-12-21 00:20:00,"After eight years of policy stability, America has chosen a leader known for the opposite.",0.41099101305007935,0.09016639739274979,0.49884259700775146,neutral,0.32082462310791016
+3,2016-12-21 00:20:00,"So, after eight years controlled by technology, Americans demand growth from resources and manufacturing instead.",0.31857427954673767,0.012686814181506634,0.668738842010498,neutral,0.30588746070861816
+4,2016-12-21 00:20:00,"No one wants to bet against the U.S. economy, but I'm going to hedge my bets.",0.09417543560266495,0.02356056496500969,0.8822639584541321,neutral,0.07061487436294556
+5,2016-12-21 00:20:00,I've got too much on the line not to.,0.07948748767375946,0.16322223842144012,0.757290244102478,neutral,-0.08373475074768066
+6,2016-12-21 00:20:00,Since the 2008 financial meltdown (caused by willfully ignoring economic reality) the Dow Jones Industrial Average has more than doubled.,0.650051474571228,0.08376502245664597,0.2661835253238678,positive,0.5662864446640015
+7,2016-12-21 00:20:00,The Nasdaq Composite has nearly tripled.,0.8778219819068909,0.026435308158397675,0.09574270993471146,positive,0.8513866662979126
+8,2016-12-21 00:20:00,We're all sitting on fat gains and we all have a lot to lose.,0.15822961926460266,0.05503549426794052,0.7867348790168762,neutral,0.10319412499666214
+9,2016-12-21 00:20:00,"With instability in the offing, the trick for 2017 won't be how to make a lot of money, but how to avoid losing a lot of it.",0.09820228815078735,0.024981938302516937,0.8768157958984375,neutral,0.07322034984827042
+10,2016-12-21 00:20:00,"The best way to do that, investment pros say, is to diversify, even though that didn't do much good in the past two recessions.",0.768735945224762,0.014652857556939125,0.21661116182804108,positive,0.7540830969810486
+11,2016-12-21 00:20:00,But there is a difference between diversifying among stocks and diversifying among asset classes.,0.07355618476867676,0.013388319872319698,0.9130554795265198,neutral,0.060167863965034485
+12,2016-12-21 00:20:00,"Ours is not the only economy out there - growth in emerging economies has been stellar lately, and investors who trade actively and manage currency risks have done well in bonds during the worst of times.",0.9085600972175598,0.018558230251073837,0.07288160175085068,positive,0.8900018930435181
+13,2016-12-21 00:20:00,"In 2017, the U.S. will become more like other economies.",0.48537248373031616,0.013704544864594936,0.5009230375289917,neutral,0.47166794538497925
+14,2016-12-21 00:20:00,"Our markets will become subject to wide swings in mood, policies will be unpredictable, and so will consequences.",0.018580248579382896,0.08815107494592667,0.8932686448097229,neutral,-0.06957082450389862
+15,2016-12-21 00:20:00,"America's economy is like an aging actress, so the quote from Bette Davis in All About Eve is appropriate.",0.08115396648645401,0.04891443997621536,0.8699316382408142,neutral,0.03223952651023865
+16,2016-12-21 00:20:00,Fasten your seat belts.,0.07125423848628998,0.016472119837999344,0.912273645401001,neutral,0.054782118648290634
+17,2016-12-21 00:20:00,It's going to be a bumpy night.,0.042613908648490906,0.3132571578025818,0.6441289782524109,neutral,-0.2706432342529297
+18,2016-12-21 00:20:00,"New Year Stability: Look to China
+
+For investors seeking stability there may be no better place to look than China.",0.19393379986286163,0.10159502178430557,0.704471230506897,neutral,0.09233877807855606
+19,2016-12-21 00:20:00,"Yes, China .",0.11525848507881165,0.03253519535064697,0.8522063493728638,neutral,0.08272328972816467
+20,2016-12-21 00:20:00,"Think about it: Chinese policy is set, its economy has bottomed and those who have stayed with it have done very well.",0.8218321800231934,0.03362913057208061,0.14453870058059692,positive,0.7882030606269836
+21,2016-12-21 00:20:00,President Xi Jinping could step down tomorrow and there would be 100 virtual clones waiting to take his place.,0.10716161876916885,0.09838481992483139,0.7944535613059998,neutral,0.008776798844337463
+22,2016-12-21 00:20:00,"After falling to near six to the dollar, the Chinese Yuan is back to the levels it had in 2009 .",0.7586556077003479,0.1261673867702484,0.11517708003520966,positive,0.6324882507324219
+23,2016-12-21 00:20:00,"After the wild speculative bubble of 2015, the Dow Jones Shanghai Index has stabilized at 50% above its pre-bubble level.",0.8849214911460876,0.06979885697364807,0.045279596000909805,positive,0.8151226043701172
+24,2016-12-21 00:20:00,"In less than 10 years, China has executed the difficult shift from an export-led economy to a consumer-led economy.",0.7532528638839722,0.03448456898331642,0.2122625708580017,positive,0.718768298625946
+25,2016-12-21 00:20:00,"America has one New York, but China has dozens, with even regional centers such as Chengdu housing millions of people, many in brand-new condominium blocks.",0.06307455897331238,0.01851075142621994,0.9184147119522095,neutral,0.04456380754709244
+26,2016-12-21 00:20:00,"Chinese consumers are in their prime spending years, although there is a demographic cliff ahead as steep and terrifying as any that Japan is going through.",0.2456822246313095,0.2520914375782013,0.5022263526916504,neutral,-0.006409212946891785
+27,2016-12-21 00:20:00,"Age and trouble will come, but meanwhile, let the good times roll.",0.13209405541419983,0.011222931556403637,0.8566829562187195,neutral,0.12087112665176392
+28,2016-12-21 00:20:00,"Fortunately, you can take advantage without getting your feet wet.",0.10886761546134949,0.10408948361873627,0.7870428562164307,neutral,0.00477813184261322
+29,2016-12-21 00:20:00,"Alibaba Group Holding Ltd (NASDAQ: BABA ), inaccurately called China's Amazon.com, Inc. (NASDAQ: AMZN ), is holding $90, near its first trade from 2014.",0.06148012354969978,0.02531575597822666,0.9132041335105896,neutral,0.03616436570882797
+30,2016-12-21 00:20:00,"Weibo Corp. (ADR) (NASDAQ: WB ), the social media platform, is sitting below $46, near its all-time high of $53.",0.024500897154211998,0.93673175573349,0.03876741603016853,negative,-0.9122308492660522
+31,2016-12-21 00:20:00,"The iShares FTSE/Xinhua China 25 Index (ETF) (NYSEARCA: FXI ), which tracks the country's 50 largest stocks, is hovering around $35 and yields 3.6%.",0.40915608406066895,0.26894327998161316,0.32190069556236267,positive,0.1402128040790558
+32,2016-12-21 00:20:00,"All these are relative bargains right now, in part, due to talk of trade war and confrontation coming from the new administration.",0.20699164271354675,0.3597552478313446,0.4332531690597534,neutral,-0.15276360511779785
+33,2016-12-21 00:20:00,The saber-rattling is pure politics.,0.0538509301841259,0.053170911967754364,0.8929781317710876,neutral,0.0006800182163715363
+34,2016-12-21 00:20:00,America and China need one another.,0.2703689932823181,0.016837643459439278,0.7127933502197266,neutral,0.2535313367843628
+35,2016-12-21 00:20:00,"And if you want to hedge your bets against Trump, you need China in your portfolio.",0.10699667036533356,0.008976790122687817,0.8840265274047852,neutral,0.09801988303661346
+36,2016-12-21 00:20:00,"New Year Stability: The Last Oil Rush
+
+Back at the start of the decade, when I switched from technology to financial reporting (because technology no longer needed printed directions) my first beat was renewable energy.",0.07167452573776245,0.010161548852920532,0.9181638956069946,neutral,0.06151297688484192
+37,2016-12-21 00:20:00,Even then I saw the pattern.,0.1873786449432373,0.04311271011829376,0.7695086598396301,neutral,0.14426593482494354
+38,2016-12-21 00:20:00,"Costs for solar and wind energy would drop, collapsing prices for fossil fuels and a comeback late in the decade would be followed by a final crash.",0.13727149367332458,0.6435514092445374,0.21917709708213806,negative,-0.5062799453735352
+39,2016-12-21 00:20:00,It took no genius to see this.,0.13383978605270386,0.07250475883483887,0.7936554551124573,neutral,0.06133502721786499
+40,2016-12-21 00:20:00,It was simply the reverse of what happened in the 1970s.,0.03468705713748932,0.025654884055256844,0.9396581053733826,neutral,0.009032173082232475
+41,2016-12-21 00:20:00,"Back then, of course, foreign powers controlled the price of energy.",0.03476880490779877,0.04401233047246933,0.9212188720703125,neutral,-0.009243525564670563
+42,2016-12-21 00:20:00,What is happening now is that Americans are taking that power back.,0.14403218030929565,0.08083868026733398,0.7751291394233704,neutral,0.06319350004196167
+43,2016-12-21 00:20:00,That doesn't mean oil prices can't rise.,0.060634855180978775,0.11916639655828476,0.8201987147331238,neutral,-0.058531541377305984
+44,2016-12-21 00:20:00,OPEC looks to be getting its act together.,0.5622158050537109,0.023495038971304893,0.41428911685943604,positive,0.5387207865715027
+45,2016-12-21 00:20:00,The impact is limited because U.S. production is also becoming more adjustable and some producers can make money at $50 a barrel.,0.09765323996543884,0.39641886949539185,0.5059278607368469,neutral,-0.298765629529953
+46,2016-12-21 00:20:00,"A $50 handle, in fact, should be sufficient to bring a lot of oil producers into the black for 2017.",0.868409276008606,0.025190483778715134,0.10640013217926025,positive,0.8432188034057617
+47,2016-12-21 00:20:00,ConocoPhillips (NYSE: COP ) looks interesting here.,0.09249521791934967,0.008848541416227818,0.8986561894416809,neutral,0.08364667743444443
+48,2016-12-21 00:20:00,"And Pioneer Natural Resources (NYSE: PXD ), which works in the Permian Basin, actually made a profit last quarter.",0.8260616064071655,0.03146917745471001,0.14246918261051178,positive,0.7945924401283264
+49,2016-12-21 00:20:00,They could really open the spigots if prices stay decisively over $50 a barrel.,0.5150240063667297,0.08754746615886688,0.3974285423755646,positive,0.42747652530670166
+50,2016-12-21 00:20:00,I have a soft spot in my heart for Sanchez Energy Corp (NYSE: SN ) and if it ever turns a profit it will mean the Eagle Ford shale is making money again.,0.6074087619781494,0.027907785028219223,0.36468347907066345,positive,0.5795009732246399
+51,2016-12-21 00:20:00,"If you are going to speculate on anything in 2017, oil is worth a speculation.",0.12287069112062454,0.015140173025429249,0.8619892001152039,neutral,0.10773051530122757
+52,2016-12-21 00:20:00,Don't put all your eggs in this basket.,0.04974668100476265,0.10436773300170898,0.8458855152130127,neutral,-0.054621051996946335
+53,2016-12-21 00:20:00,Don't even put most of them into it.,0.03126536309719086,0.029751820489764214,0.9389828443527222,neutral,0.0015135426074266434
+54,2016-12-21 00:20:00,"But higher oil prices would be good for everyone, including solar stocks like First Solar, Inc. (NASDAQ: FSLR ).",0.575774610042572,0.04465462267398834,0.37957075238227844,positive,0.5311200022697449
+55,2016-12-21 00:20:00,"When oil prices fall - and they will fluctuate - the profits from refining will increase, as they have increased the past two years, making those who kept Phillips 66 (NYSE: PSX ) look very clever.",0.8528566956520081,0.0166806448251009,0.13046270608901978,positive,0.8361760377883911
+56,2016-12-21 00:20:00,"Conservative investors may still like Exxon Mobil Corporation (NYSE: XOM ), but the 3.3% yield has not been covered by dividends for a year, so I'm staying away.",0.034552108496427536,0.1273195594549179,0.8381282687187195,neutral,-0.09276744723320007
+57,2016-12-21 00:20:00,"Seeking Stability in 2017: Interest Gets More Interesting
+
+Money may become worth something in 2017.",0.5823373794555664,0.020168807357549667,0.39749380946159363,positive,0.5621685981750488
+58,2016-12-21 00:20:00,"Since the November election, the yield on the 10-year U.S. government bond is up 25%, and now stands at 2.5%.",0.9423322677612305,0.01813638024032116,0.03953138738870621,positive,0.9241958856582642
+59,2016-12-21 00:20:00,The Federal Reserve is expected to raise rates in December and it won't be the last such raise.,0.358347624540329,0.07615933567285538,0.565493106842041,neutral,0.2821882963180542
+60,2016-12-21 00:20:00,The easy call in these circumstances is to own bank stocks.,0.05901028960943222,0.008444375358521938,0.9325453042984009,neutral,0.05056591331958771
+61,2016-12-21 00:20:00,Bank of America Corp (NYSE: BAC ) is still worth more dead than alive - its price/book ratio is still below 1 - but that won't continue for much longer.,0.04007229208946228,0.5269279479980469,0.43299975991249084,negative,-0.4868556559085846
+62,2016-12-21 00:20:00,"The first leg of its rise may be over , but there will be others, and if you're not into market timing you can make a profit here.",0.4178377389907837,0.02395612560212612,0.5582061409950256,neutral,0.393881618976593
+63,2016-12-21 00:20:00,"Here is an interesting bank name: Prosperity Bancshares, Inc. (NYSE: PB ) It is a roll-up of small-town banks, mostly in Texas, a stock that got my daughter through college during the last oil boom (her grandfather owned part of a small bank that sold to the group) and the relative strength of Texas in 2017 (see the previous section) could give it above-average gains.",0.7915536165237427,0.02253771759569645,0.1859087198972702,positive,0.769015908241272
+64,2016-12-21 00:20:00,"Besides, it is well-run, and has been raising its dividend regularly through the oil bust, a dividend that it usually covers with earnings three times over.",0.8712458610534668,0.017091315239667892,0.11166281998157501,positive,0.8541545271873474
+65,2016-12-21 00:20:00,"If you like a speculative issue, Deutsche Bank AG (USA) (NYSE: DB ) seemed at death's door in September, but has since risen to $18.75.",0.5405144691467285,0.03896760195493698,0.42051801085472107,positive,0.5015468597412109
+66,2016-12-21 00:20:00,"Even at that price, however, you've got $25 billion in market cap against almost $1.7 billion in assets.",0.10197322815656662,0.04871778562664986,0.8493090271949768,neutral,0.05325544252991676
+67,2016-12-21 00:20:00,Even broken up it should be worth more than that.,0.17988814413547516,0.030550986528396606,0.789560854434967,neutral,0.14933715760707855
+68,2016-12-21 00:20:00,"Absent a complete global economic collapse, this is currently a good speculation.",0.10125390440225601,0.044231463223695755,0.8545146584510803,neutral,0.05702244117856026
+69,2016-12-21 00:20:00,"Meanwhile, if you're buying loans in a rising interest rate environment, make sure you buy near the front of the yield curve - one-year paper or two-year paper.",0.034968383610248566,0.008283686824142933,0.9567479491233826,neutral,0.026684697717428207
+70,2016-12-21 00:20:00,The value of loans at current interest rates is going down and you don't want to get stuck with the long ones.,0.04600992053747177,0.6483614444732666,0.30562859773635864,negative,-0.6023515462875366
+71,2016-12-21 00:20:00,"The past three presidencies have begun early in economic cycles, allowing the new leaders to benefit from the economy's natural healing.",0.7995483875274658,0.014053904451429844,0.1863977164030075,positive,0.7854945063591003
+72,2016-12-21 00:20:00,The current recovery is nearly eight years old and is overdue for a hard correction.,0.2548880875110626,0.49131670594215393,0.2537951171398163,negative,-0.2364286184310913
+73,2016-12-21 00:20:00,Add to that a leader who likes to keep people guessing and you have an environment where you need to expect the unexpected.,0.10555710643529892,0.019853463396430016,0.8745894432067871,neutral,0.08570364117622375
+74,2016-12-21 00:20:00,"Presidencies that begin with a crash tend to end with a whimper, and inheriting a sound economy can be a poisoned chalice.",0.21250705420970917,0.08311651647090912,0.7043763995170593,neutral,0.12939053773880005
+75,2016-12-21 00:20:00,Ask George H.W.,0.07145337015390396,0.044701702892780304,0.8838449716567993,neutral,0.026751667261123657
+76,2016-12-21 00:20:00,Bush or Jimmy Carter about that.,0.06367289274930954,0.07365559786558151,0.8626714944839478,neutral,-0.009982705116271973
+77,2016-12-21 00:20:00,"To me, that means you need to be liquid and accept that when the time comes to head for the exits it's going to be crowded and you're going to take losses.",0.12517334520816803,0.13719473779201508,0.7376319169998169,neutral,-0.012021392583847046
+78,2016-12-21 00:20:00,"My own spring cleaning this year will include backing away from high-flying retailers like Home Depot Inc (NYSE: HD ) and Costco Wholesale Corporation (NASDAQ: COST ), in which I have solid gains, looking instead to stocks that do well in troubled times, such as Kraft-Heinz Co (NYSE: KHC ) and Grupo Bimbo (OTCMKTS: GRBMF ).",0.13963249325752258,0.03373805806040764,0.8266294002532959,neutral,0.10589443147182465
+79,2016-12-21 00:20:00,"One story that has not gotten enough attention from investors throughout this decade is that millions have been lifted out of extreme poverty this century, especially in South Asia and Southeast Asia.",0.20384980738162994,0.28268134593963623,0.5134688019752502,neutral,-0.07883153855800629
+80,2016-12-21 00:20:00,"The exchange-traded funds covering these areas have been down in 2016, but names like the Market Vectors Vietnam ETF (NYSEARCA: VNM ), or the iShares MSCI India ETF are going to look more interesting if U.S. equities fall.",0.028798606246709824,0.6155888438224792,0.355612576007843,negative,-0.5867902636528015
+81,2016-12-21 00:20:00,"• The 12 Best Fidelity 401k Funds to Own
+
+The U.S. is a traditional ""flight to safety"" play, so when our economy springs a leak, it's hard to find the next lifeboat.",0.10182764381170273,0.07145677506923676,0.8267155885696411,neutral,0.030370868742465973
+82,2016-12-21 00:20:00,Global bonds can work and so can gold; but in general cash is king .,0.31711864471435547,0.013789102435112,0.6690922975540161,neutral,0.3033295273780823
+83,2016-12-21 00:20:00,"Keep plenty of cash around in 2017, maybe a Bitcoin or two.",0.181034117937088,0.00837496668100357,0.8105909824371338,neutral,0.17265915870666504
+84,2016-12-21 00:20:00,When the next opportunity comes around you'll be ready.,0.292813241481781,0.011271822266280651,0.6959149241447449,neutral,0.2815414071083069
+85,2016-12-21 00:20:00,"Put not your trust in princes, says the Psalm .",0.09219752252101898,0.09414975345134735,0.8136526942253113,neutral,-0.0019522309303283691
+86,2016-12-21 00:20:00,A lot of investors were burned by the November election.,0.09562402218580246,0.5793942809104919,0.324981689453125,negative,-0.4837702512741089
+87,2016-12-21 00:20:00,I was one of them.,0.12555775046348572,0.024531880393624306,0.8499103784561157,neutral,0.10102587193250656
+88,2016-12-21 00:20:00,"I saw the market's rise in October as a tell, and figured Wall Street would get what it wanted.",0.6693150997161865,0.015438447706401348,0.31524646282196045,positive,0.6538766622543335
+89,2016-12-21 00:20:00,"No matter, there is an important lesson here that is completely apolitical.",0.041407518088817596,0.07522634416818619,0.8833661079406738,neutral,-0.03381882607936859
+90,2016-12-21 00:20:00,"Instead of putting trust in any politician, investors would be wise to trust entrepreneurs, change and long-term trends.",0.3291890323162079,0.01809767633676529,0.6527132391929626,neutral,0.3110913634300232
+91,2016-12-21 00:20:00,"For instance, if you bought Amazon at the peak of the dot-com bubble, in 1999, you're up more than 700%.",0.783251941204071,0.019862348213791847,0.19688567519187927,positive,0.7633895874023438
+92,2016-12-21 00:20:00,"If you picked up some Alphabet at the time of the Google IPO in 2004, your gains are twice that, more than 1,300%.",0.7850261926651001,0.020213255658745766,0.1947605162858963,positive,0.7648129463195801
+93,2016-12-21 00:20:00,The long-term trend of my lifetime has been computing technology.,0.05589146539568901,0.007137560751289129,0.9369709491729736,neutral,0.04875390604138374
+94,2016-12-21 00:20:00,"Microsoft Corporation (NASDAQ: MSFT ), Apple Inc. (NASDAQ: AAPL ), and salesforce.com, inc. (NASDAQ: CRM ) have all made long-term investors rich during my journalism career.",0.27301332354545593,0.011966782622039318,0.715019941329956,neutral,0.26104652881622314
+95,2016-12-21 00:20:00,Just staying the course in one of them would have you set for life right now.,0.10490228235721588,0.06077523157000542,0.8343225121498108,neutral,0.044127050787210464
+96,2016-12-21 00:20:00,"Nearly all my old Rice University classmates, regardless of what they majored in, wound up making their careers around computers.",0.0799674391746521,0.027162354439496994,0.8928702473640442,neutral,0.052805084735155106
+97,2016-12-21 00:20:00,It's a long-term trend whose benefits went well beyond computer science.,0.4634948670864105,0.009769011288881302,0.5267361402511597,neutral,0.4537258446216583
+98,2016-12-21 00:20:00,"Today, computing technology is at the peak of its economic power.",0.7208572030067444,0.017360301688313484,0.2617824375629425,positive,0.7034968733787537
+99,2016-12-21 00:20:00,And what is going to grow fastest over the next decades will be biological science.,0.30233901739120483,0.007763369474560022,0.6898975968360901,neutral,0.29457566142082214
+100,2016-12-21 00:20:00,"DNA is the ultimate computer language, and behind it are vast unexplored regions of discovery.",0.07850056141614914,0.012388072907924652,0.9091113805770874,neutral,0.06611248850822449
+101,2016-12-21 00:20:00,"Today we think of this purely in terms of drugs, but pharmaceuticals are just the tip of the iceberg, the mainframes of the coming era.",0.04016243293881416,0.006996516138315201,0.9528411030769348,neutral,0.03316591680049896
+102,2016-12-21 00:20:00,"If Bayer AG (ADR) (OTCMKTS: BAYRY ) succeeds in acquiring Monsanto Company (NYSE: MON ), it has a winner.",0.8770879507064819,0.016091104596853256,0.10682087391614914,positive,0.8609968423843384
+103,2016-12-21 00:20:00,"If it fails, buy Monsanto on the dip.",0.020538700744509697,0.015103000216186047,0.9643583297729492,neutral,0.00543570052832365
+104,2016-12-21 00:20:00,"In terms of the new trend, however, this is just 1977.",0.1242569163441658,0.05302342399954796,0.8227196931838989,neutral,0.07123349606990814
+105,2016-12-21 00:20:00,The Bill Gates and Steve Jobs of the next generation are barely out of their teens.,0.11837826669216156,0.09588705748319626,0.7857347130775452,neutral,0.0224912092089653
+106,2016-12-21 00:20:00,"Considering the complexity of the task before them, chances are they're still in college, or perhaps graduate school.",0.060288190841674805,0.02685716561973095,0.9128546118736267,neutral,0.033431023359298706
+107,2016-12-21 00:20:00,"I've got my own money on a master's candidate at the University of Minnesota, but the point is that when one of these folks comes public with discipline, a little experience and a long-term vision they know how to execute on, tell your kids to buy them.",0.26998263597488403,0.013018220663070679,0.7169991135597229,neutral,0.25696441531181335
+108,2016-12-21 00:20:00,You can never go wrong betting on America's long-term future.,0.08506127446889877,0.036874331533908844,0.8780643343925476,neutral,0.04818694293498993
+109,2016-12-21 00:20:00,Make that your New Year's Resolution and prepare for the ride of your life.,0.16933250427246094,0.0104290209710598,0.8202384114265442,neutral,0.15890347957611084
+110,2016-12-21 00:20:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+111,2016-12-21 00:20:00,His latest novel is Bridget O'Flynn vs. Something Big & Ugly .,0.06000759080052376,0.018888700753450394,0.9211036562919617,neutral,0.041118890047073364
+112,2016-12-21 00:20:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn .,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+113,2016-12-21 00:20:00,"As of this writing he owned shares in MSFT, AAPL, GOOGL, AMZN, HD, COST and heavy investments in two 20-something kids.",0.019005179405212402,0.01072736643254757,0.9702674150466919,neutral,0.008277812972664833
+114,2016-12-21 00:20:00,The post 5 Ways to Avoid Losing Money in the New Year appeared first on InvestorPlace .,0.1373012363910675,0.10432512313127518,0.7583736777305603,neutral,0.03297611325979233
+115,2016-12-21 00:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

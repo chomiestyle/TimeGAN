@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-03 09:29:00,"High-flying tech stocks were selling off hard on Thursday, driving the Dow Jones Industrial Average (DJINDICES: ^DJI) down 1.8% by 11:45 a.m. EDT.",0.027948765084147453,0.9581800699234009,0.01387116126716137,negative,-0.9302313327789307
+1,2020-09-03 09:29:00,"Filings for jobless claims declined slightly last week from the week before, according to a Labor Department report, but a change in methodology muddled the numbers.",0.16673141717910767,0.8016927242279053,0.03157588839530945,negative,-0.6349613070487976
+2,2020-09-03 09:29:00,"Dragging down the Dow were resident tech giants Apple (NASDAQ: AAPL), salesforce.com (NYSE: CRM), and Microsoft (NASDAQ: MSFT).",0.1528048813343048,0.518043041229248,0.32915201783180237,negative,-0.36523815989494324
+3,2020-09-03 09:29:00,"The three stocks, which have all soared this year, were under intense pressure on Thursday.",0.16595034301280975,0.6442499756813049,0.18979966640472412,negative,-0.478299617767334
+4,2020-09-03 09:29:00,The major tech stocks that have been driving the stock market rally hit a brick wall on Thursday.,0.12145088613033295,0.7219976782798767,0.15655142068862915,negative,-0.6005467772483826
+5,2020-09-03 09:29:00,"The three biggest losers in the Dow were Apple, Salesforce, and Microsoft.",0.05967724323272705,0.8007709383964539,0.1395517885684967,negative,-0.7410936951637268
+6,2020-09-03 09:29:00,"The stocks were down 5.1%, 4.9%, and 4.4%, respectively, by late morning.",0.01845722086727619,0.9673979878425598,0.014144818298518658,negative,-0.9489407539367676
+7,2020-09-03 09:29:00,Shares of all three have logged exceptional years so far.,0.9044198393821716,0.015625586733222008,0.07995463907718658,positive,0.8887942433357239
+8,2020-09-03 09:29:00,"Apple stock has soared nearly 70% since the start of 2020, buoyed by surprise sales growth during the worst of the pandemic.",0.9457470774650574,0.021991608664393425,0.03226129710674286,positive,0.9237554669380188
+9,2020-09-03 09:29:00,"Salesforce stock has jumped over 60%, with a big chunk of that gain coming after an earnings report in August that beat expectations.",0.9496379494667053,0.023992273956537247,0.026369845494627953,positive,0.925645649433136
+10,2020-09-03 09:29:00,And Microsoft stock is up around 40% thanks to the strength of its cloud computing businesses.,0.9455579519271851,0.021801406517624855,0.032640643417835236,positive,0.9237565398216248
+11,2020-09-03 09:29:00,"While the three tech giants have been performing well, valuations have become stretched.",0.025806423276662827,0.9468435645103455,0.027350053191184998,negative,-0.9210371375083923
+12,2020-09-03 09:29:00,"Apple and Microsoft trade for just below 40 times earnings, and Salesforce trades for over 100 times earnings.",0.01679299958050251,0.05513349547982216,0.928073525428772,neutral,-0.0383404940366745
+13,2020-09-03 09:29:00,"For comparison, the S&P 500 sports a price-to-earnings ratio of 30.",0.056734006851911545,0.016967885196208954,0.9262981414794922,neutral,0.03976612165570259
+14,2020-09-03 09:29:00,Only during the dot-com bubble and the financial crisis has the index carried a higher earnings multiple.,0.8392045497894287,0.025622999295592308,0.13517248630523682,positive,0.8135815262794495
+15,2020-09-03 09:29:00,"When valuations become detached from the fundamentals, stocks can soar to dizzying heights and crash to stomach-churning lows independent of the underlying companies' results.",0.09147458523511887,0.4151846170425415,0.49334079027175903,neutral,-0.32371002435684204
+16,2020-09-03 09:29:00,"One bad day doesn't mean these high-flying tech stocks are destined to plunge, but the enthusiasm for these pricey investments may be beginning to wane.",0.03248508274555206,0.8116207122802734,0.15589414536952972,negative,-0.7791356444358826
+17,2020-09-03 09:29:00,All three companies will face challenges in the coming months.,0.21220114827156067,0.23518721759319305,0.5526116490364075,neutral,-0.022986069321632385
+18,2020-09-03 09:29:00,Apple's success during the pandemic was almost certainly due in part to unprecedented economic stimulus measures putting cash into consumers' pockets.,0.8907285332679749,0.014879301190376282,0.09439215809106827,positive,0.8758492469787598
+19,2020-09-03 09:29:00,"Direct payments to Americans, an extra $600 weekly unemployment payment, and vastly lower spending on travel and restaurants no doubt boosted demand for iPhones and other Apple gadgets.",0.9317381381988525,0.030508393421769142,0.037753455340862274,positive,0.901229739189148
+20,2020-09-03 09:29:00,"While another stimulus bill may come eventually, it will likely be far less generous than the CARES Act.",0.05676395073533058,0.5428231358528137,0.400412917137146,negative,-0.48605918884277344
+21,2020-09-03 09:29:00,Apple will be launching new iPhones soon into the worst economy in many years.,0.18774409592151642,0.3867552876472473,0.4255006015300751,neutral,-0.1990111917257309
+22,2020-09-03 09:29:00,It's hard to imagine demand for high-end smartphones holding up.,0.5524888038635254,0.024521399289369583,0.4229898154735565,positive,0.5279673933982849
+23,2020-09-03 09:29:00,"Salesforce and Microsoft are both exposed to IT budgets being tightened in a tough economy, although neither company has experienced much pain so far.",0.09347950667142868,0.614380419254303,0.29214000701904297,negative,-0.5209009051322937
+24,2020-09-03 09:29:00,"Salesforce is a subscription software company, so its recurring revenue streams may prove more robust than one-off software sales.",0.922030508518219,0.014029431156814098,0.06394006311893463,positive,0.9080010652542114
+25,2020-09-03 09:29:00,But even a subscription business model won't protect Salesforce if a meaningful number of its customers downsize or fail during the recession.,0.05267121270298958,0.8361485004425049,0.11118025332689285,negative,-0.7834773063659668
+26,2020-09-03 09:29:00,The story is much the same for Microsoft.,0.016304541379213333,0.009494681842625141,0.9742007851600647,neutral,0.006809859536588192
+27,2020-09-03 09:29:00,"Sales of Office, Windows, and cloud services could suffer if businesses tighten their belts.",0.020072640851140022,0.9659805297851562,0.01394671481102705,negative,-0.9459078907966614
+28,2020-09-03 09:29:00,"On the consumer side, a boom in PC sales during the pandemic is unlikely to be the new normal.",0.35163241624832153,0.11337173730134964,0.5349958539009094,neutral,0.2382606863975525
+29,2020-09-03 09:29:00,"While the rally in tech stocks may not be over, Thursday's rout offers investors a reminder that stocks can move in two directions.",0.6966073513031006,0.11340241879224777,0.18999020755290985,positive,0.5832049250602722
+30,2020-09-03 09:29:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+31,2020-09-03 09:29:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+32,2020-09-03 09:29:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them!",0.21481488645076752,0.013847383670508862,0.7713377475738525,neutral,0.20096750557422638
+33,2020-09-03 09:29:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2020-09-03 09:29:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+35,2020-09-03 09:29:00,Timothy Green has no position in any of the stocks mentioned.,0.010180004872381687,0.0389644093811512,0.9508556127548218,neutral,-0.028784405440092087
+36,2020-09-03 09:29:00,"The Motley Fool owns shares of and recommends Apple, Microsoft, and Salesforce.com and recommends the following options: long January 2021 $85 calls on Microsoft and short January 2021 $115 calls on Microsoft.",0.018649432808160782,0.04239220544695854,0.9389583468437195,neutral,-0.02374277263879776
+37,2020-09-03 09:29:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

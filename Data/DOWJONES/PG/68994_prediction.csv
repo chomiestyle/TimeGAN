@@ -1,0 +1,73 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-07 04:12:00,"By now, it's almost old news.",0.06592963635921478,0.04893781989812851,0.8851324915885925,neutral,0.016991816461086273
+1,2018-04-07 04:12:00,"Facebook, Inc. (NASDAQ: FB ) stock has fallen to multi-month lows on concerns regarding a 2015 data breach that affected upward of 80 million users.",0.018892347812652588,0.970790684223175,0.010316981934010983,negative,-0.9518983364105225
+2,2018-04-07 04:12:00,"Perhaps not so coincidentally, Facebook stock has dragged the whole market down with it.",0.08968769758939743,0.6263659000396729,0.2839463949203491,negative,-0.5366781949996948
+3,2018-04-07 04:12:00,Facebook management has been surprisingly quiet on the issue.,0.05581288039684296,0.5353404879570007,0.4088466465473175,negative,-0.4795275926589966
+4,2018-04-07 04:12:00,"Whenever they do speak, as in a recent Q&A with CEO Mark Zuckerberg, Facebook stock tends to head higher.",0.526001513004303,0.07712243497371674,0.39687609672546387,positive,0.44887906312942505
+5,2018-04-07 04:12:00,But the general consensus is that Facebook management needs to do more to address these data concerns.,0.44964173436164856,0.02295970357954502,0.5273985862731934,neutral,0.4266820251941681
+6,2018-04-07 04:12:00,But what exactly should they do?,0.06408227235078812,0.06454929709434509,0.871368408203125,neutral,-0.0004670247435569763
+7,2018-04-07 04:12:00,Hard to say.,0.07640914618968964,0.10953585803508759,0.8140550255775452,neutral,-0.03312671184539795
+8,2018-04-07 04:12:00,But I think COO Cheryl Sandberg is on the right path with her recent comments about launching a paid service .,0.45151400566101074,0.01299323420971632,0.5354927778244019,neutral,0.43852075934410095
+9,2018-04-07 04:12:00,Sounds silly.,0.09373464435338974,0.128803551197052,0.7774618268013,neutral,-0.03506890684366226
+10,2018-04-07 04:12:00,I know.,0.2600197196006775,0.029500242322683334,0.7104800343513489,neutral,0.23051947355270386
+11,2018-04-07 04:12:00,But there is real potential behind this idea.,0.25213783979415894,0.008747236803174019,0.7391149401664734,neutral,0.24339060485363007
+12,2018-04-07 04:12:00,And it could cause Facebook stock to rebound.,0.7754327058792114,0.15710227191448212,0.0674649253487587,positive,0.6183304190635681
+13,2018-04-07 04:12:00,Here's why.,0.017657043412327766,0.015349880792200565,0.9669930934906006,neutral,0.002307162620127201
+14,2018-04-07 04:12:00,Facebook has been hit hard recently by how it handles and protects user data.,0.02672007493674755,0.9401947259902954,0.03308519721031189,negative,-0.9134746789932251
+15,2018-04-07 04:12:00,"But, Facebook provides a service of tremendous value for free.",0.26871776580810547,0.007809206377714872,0.723473072052002,neutral,0.2609085738658905
+16,2018-04-07 04:12:00,"• 10 Safe Dividend Stocks for the Second Quarter
+
+With Facebook, you can connect to all of your friends.",0.0769999623298645,0.011810140684247017,0.91118985414505,neutral,0.06518982350826263
+17,2018-04-07 04:12:00,"You can post, like, and comment on as many things as you want.",0.02569439634680748,0.009976626373827457,0.964328944683075,neutral,0.015717770904302597
+18,2018-04-07 04:12:00,"You can store all your images, thoughts, and memories in one place, buy and sell goods from a community that numbers in the billions, discover local events and restaurants, watch funny/informative/entertaining/enlightening videos, read the news, and much more.",0.06701523065567017,0.009389709681272507,0.9235950112342834,neutral,0.05762552097439766
+19,2018-04-07 04:12:00,Facebook offers all of that for free.,0.03008607216179371,0.006300741340965033,0.9636131525039673,neutral,0.02378533035516739
+20,2018-04-07 04:12:00,"Well, not truly free.",0.12398166209459305,0.23852884769439697,0.6374894976615906,neutral,-0.11454718559980392
+21,2018-04-07 04:12:00,Consumers aren't paying for it in dollars.,0.03809644281864166,0.1890832632780075,0.7728202939033508,neutral,-0.15098682045936584
+22,2018-04-07 04:12:00,They are paying for it in data.,0.04483121261000633,0.015461912378668785,0.9397068619728088,neutral,0.029369300231337547
+23,2018-04-07 04:12:00,"In order to give you all that stuff for free, Facebook takes your data and creates micro-targeted advertising solutions with it.",0.03287814185023308,0.005540643818676472,0.961581289768219,neutral,0.02733749896287918
+24,2018-04-07 04:12:00,"Big companies, like Procter & Gamble Co (NYSE: PG ) and The Coca-Cola Co (NYSE: KO ), purchase those micro-targeted advertising solutions so that their products get in front of the right eyeballs.",0.07765989005565643,0.008355206809937954,0.9139848947525024,neutral,0.0693046823143959
+25,2018-04-07 04:12:00,"Now, some consumers (not most… see Zuckerberg's comments regarding no meaningful impact on usage) are upset that this service of tremendous value, that they thought were getting for free, isn't actually free.",0.029453523457050323,0.9146287441253662,0.05591772869229317,negative,-0.8851752281188965
+26,2018-04-07 04:12:00,But there is no such thing as a truly free lunch in this world.,0.0729229599237442,0.01996837556362152,0.9071086645126343,neutral,0.05295458436012268
+27,2018-04-07 04:12:00,"So if you want all the benefits of Facebook and don't want to pay with your data, you should be allowed/forced to pay with your wallet.",0.0248266588896513,0.07012161612510681,0.9050517678260803,neutral,-0.045294955372810364
+28,2018-04-07 04:12:00,"Facebook can get ahead of this problem, mitigate user churn, address regulatory concerns, maintain financial well-being, and silence pundits by adopting a freemium business model that allows consumers to choose whether or not they want their data to be shared.",0.531673014163971,0.016813715919852257,0.45151326060295105,positive,0.5148593187332153
+29,2018-04-07 04:12:00,"Those that don't care about data sharing (which, as Zuckerberg's comments illustrate, is the majority) will continue to use Facebook for ""free"" and get all the ads.",0.02644738182425499,0.11102433502674103,0.8625282049179077,neutral,-0.08457694947719574
+30,2018-04-07 04:12:00,"Those that do care about data sharing (the minority) will have the option to pay a monthly fee to never see an ad on Facebook and never have their data used in any way, shape, or form.",0.014202103018760681,0.035672202706336975,0.9501256346702576,neutral,-0.021470099687576294
+31,2018-04-07 04:12:00,This move would work for several reasons.,0.12515924870967865,0.009948110207915306,0.8648926615715027,neutral,0.1152111366391182
+32,2018-04-07 04:12:00,"First, user churn will be greatly mitigated.",0.6145132184028625,0.01616484671831131,0.3693220019340515,positive,0.5983483791351318
+33,2018-04-07 04:12:00,"Those who don't care about this whole data sharing phenomena will keep using Facebook, Instagram, and every other social media platform for free.",0.05533699318766594,0.1393163800239563,0.8053466081619263,neutral,-0.08397938311100006
+34,2018-04-07 04:12:00,"Those who do care, though, will be given the option to pay up to keep using Facebook.",0.0429169200360775,0.021531380712985992,0.9355517625808716,neutral,0.021385539323091507
+35,2018-04-07 04:12:00,"Thus, users will either stay on for free, pay up, or quit all of social media.",0.02602943405508995,0.1752212643623352,0.7987492680549622,neutral,-0.14919182658195496
+36,2018-04-07 04:12:00,The last of those options seems unlikely considering how embedded social media has become in our daily lives.,0.032173190265893936,0.16189558804035187,0.8059311509132385,neutral,-0.12972240149974823
+37,2018-04-07 04:12:00,"Thus, 99.9% of users will either stay on free or pay up.",0.030395949259400368,0.041699837893247604,0.9279042482376099,neutral,-0.011303888633847237
+38,2018-04-07 04:12:00,Facebook will hardly lose anyone.,0.07887580245733261,0.08973365277051926,0.8313905000686646,neutral,-0.010857850313186646
+39,2018-04-07 04:12:00,"Second, regulatory concerns will be largely addressed.",0.03940428048372269,0.005361577495932579,0.9552341103553772,neutral,0.03404270112514496
+40,2018-04-07 04:12:00,Regulators are largely concerned with the consumer's well being.,0.020952319726347923,0.010362477973103523,0.9686852693557739,neutral,0.0105898417532444
+41,2018-04-07 04:12:00,"Specifically, they are concerned that Facebook is ""tricking"" people into giving them all their data.",0.03672390058636665,0.8522824645042419,0.1109936535358429,negative,-0.8155585527420044
+42,2018-04-07 04:12:00,"But if Facebook outright offers an ad-free subscription service that promises to protect and never touch user data, then all power shifts back to the consumer.",0.04464462772011757,0.02429065853357315,0.9310647249221802,neutral,0.02035396918654442
+43,2018-04-07 04:12:00,"In that scenario, regulators should be largely satisfied that consumers have the power to choose.",0.1429693102836609,0.008585803210735321,0.848444938659668,neutral,0.13438349962234497
+44,2018-04-07 04:12:00,"Third, Facebook's financial well-being will be maintained.",0.6350110769271851,0.013513707555830479,0.35147520899772644,positive,0.621497392654419
+45,2018-04-07 04:12:00,Facebook earns roughly $9 per month in ad revenue from its North American user base.,0.07031814008951187,0.007596331648528576,0.9220855832099915,neutral,0.06272181123495102
+46,2018-04-07 04:12:00,"Thus, if Facebook rolls out the subscription service, the price would need to be somewhere around $9 per month in order for there to be muted impact on the financials.",0.040162451565265656,0.01982000656425953,0.9400175213813782,neutral,0.020342445001006126
+47,2018-04-07 04:12:00,That seems like a reasonable price point.,0.11123822629451752,0.037574052810668945,0.8511877059936523,neutral,0.07366417348384857
+48,2018-04-07 04:12:00,There is a concern that ad revenue per user will go down if there are less users and less data.,0.018838632851839066,0.9651205539703369,0.016040848568081856,negative,-0.946281909942627
+49,2018-04-07 04:12:00,"But as I said before, Zuckerberg's comments imply that there would relatively small demand for this subscription service.",0.032235175371170044,0.027397023513913155,0.9403677582740784,neutral,0.004838151857256889
+50,2018-04-07 04:12:00,"Thus, total data shouldn't go down by much, and neither should average revenue per user.",0.02269265614449978,0.7405431270599365,0.23676423728466034,negative,-0.7178504467010498
+51,2018-04-07 04:12:00,Should Facebook launch a paid service?,0.0500512421131134,0.01661239005625248,0.9333363771438599,neutral,0.03343885391950607
+52,2018-04-07 04:12:00,Absolutely.,0.14140242338180542,0.013233190402388573,0.8453643321990967,neutral,0.1281692385673523
+53,2018-04-07 04:12:00,"It will give all the power back to the consumers, and allow them to decide whether or not they are ""OK"" with their data being used.",0.344625860452652,0.010777666233479977,0.6445964574813843,neutral,0.3338482081890106
+54,2018-04-07 04:12:00,Will Facebook launch a paid service?,0.04006309062242508,0.011557629331946373,0.9483792781829834,neutral,0.028505461290478706
+55,2018-04-07 04:12:00,I didn't think so.,0.0773896798491478,0.11234959214925766,0.8102607131004333,neutral,-0.03495991230010986
+56,2018-04-07 04:12:00,Until I saw Sandberg's comments hinting at it.,0.08574288338422775,0.21761618554592133,0.6966409087181091,neutral,-0.13187330961227417
+57,2018-04-07 04:12:00,"Now, I think it is pretty likely Facebook launches a paid service in the near future.",0.06825120002031326,0.0053279404528439045,0.9264208078384399,neutral,0.06292326003313065
+58,2018-04-07 04:12:00,"• The Market Is Correct to Punish Twitter Inc Stock for Facebook's Misdeeds
+
+That paid service will address all of the risks hanging over Facebook stock currently.",0.043194472789764404,0.8485636115074158,0.10824190825223923,negative,-0.8053691387176514
+59,2018-04-07 04:12:00,"As such, I think buying Facebook stock at these discount levels (just 22-times forward earnings) is the smart move.",0.14283247292041779,0.008179978467524052,0.8489875197410583,neutral,0.1346524953842163
+60,2018-04-07 04:12:00,"As of this writing, Luke Lango was long FB stock.",0.011642925441265106,0.023311447352170944,0.9650456309318542,neutral,-0.011668521910905838
+61,2018-04-07 04:12:00,"• 10 Healthcare Stocks to Stave Off the Market Flu
+
+The post Should Facebook, Inc.",0.15943031013011932,0.48539331555366516,0.3551764488220215,negative,-0.32596302032470703
+62,2018-04-07 04:12:00,Launch a Paid Service?,0.05596345663070679,0.02466629073023796,0.9193702340126038,neutral,0.031297165900468826
+63,2018-04-07 04:12:00,Absolutely!,0.18650391697883606,0.042751625180244446,0.7707445025444031,neutral,0.1437522917985916
+64,2018-04-07 04:12:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+65,2018-04-07 04:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

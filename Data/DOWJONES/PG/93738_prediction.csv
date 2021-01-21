@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-11-04 09:11:00,"In early trading on Tuesday, shares of Merck ( MRK ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.3%.",0.9392996430397034,0.03167647495865822,0.029023868963122368,positive,0.9076231718063354
+1,2014-11-04 09:11:00,"Year to date, Merck registers a 19.2% gain.",0.9407274723052979,0.016896475106477737,0.042376067489385605,positive,0.9238309860229492
+2,2014-11-04 09:11:00,"And the worst performing Dow component thus far on the day is Chevron ( CVX ), trading down 1.5%.",0.020530499517917633,0.9659238457679749,0.013545718044042587,negative,-0.9453933238983154
+3,2014-11-04 09:11:00,Chevron is lower by about 7.9% looking at the year to date performance.,0.021721642464399338,0.9661146402359009,0.012163768522441387,negative,-0.94439297914505
+4,2014-11-04 09:11:00,"Two other components making moves today are JPMorgan Chase ( JPM ), trading down 1.5%, and Procter & Gamble ( PG ), trading up 1.1% on the day.",0.05729692801833153,0.8860721588134766,0.05663088336586952,negative,-0.8287752270698547
+5,2014-11-04 09:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

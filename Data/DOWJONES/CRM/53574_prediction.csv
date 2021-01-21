@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-06-03 05:01:00,"Cloud companies are growing, and they're losing money.",0.02240828052163124,0.943549633026123,0.03404216095805168,negative,-0.9211413264274597
+1,2013-06-03 05:01:00,"If that's all you know about them, it's enough.",0.057712655514478683,0.021036382764577866,0.9212509393692017,neutral,0.03667627274990082
+2,2013-06-03 05:01:00,Those two facts define the industry more than any hyperbole coming out of Silicon Valley.,0.09219412505626678,0.014618853107094765,0.8931870460510254,neutral,0.07757527381181717
+3,2013-06-03 05:01:00,"Much as their predecessors did 15 years ago, today's tech companies are selling an exciting new technology; and like the dot-coms, they've embraced a business model that will self-destruct at the first sign of trouble.",0.5897734761238098,0.012356995604932308,0.3978694975376129,positive,0.5774164795875549
+4,2013-06-03 05:01:00,"With few exceptions, and regardless of size or sector, these businesses are running losses.",0.02601717785000801,0.9022076725959778,0.0717751607298851,negative,-0.8761904835700989
+5,2013-06-03 05:01:00,"Many are funding themselves through the issuance of new stock, either directly or through stock compensation - a strategy that works well during the good times, and only then.",0.14094141125679016,0.0059933350421488285,0.8530652523040771,neutral,0.13494807481765747
+6,2013-06-03 05:01:00,"Investors prize growth, so there's little incentive for these companies to sacrifice it by raising prices.",0.10747482627630234,0.026549840345978737,0.8659753799438477,neutral,0.08092498779296875
+7,2013-06-03 05:01:00,"On the other hand, costs have become worse rather than better, with SG&A (sales, general, administrative) expenses eating up ever-greater portions of revenue.",0.028754739090800285,0.9532819986343384,0.017963333055377007,negative,-0.9245272874832153
+8,2013-06-03 05:01:00,"At the moment, these companies are simply growing and hoping - a plan perfectly suited to springtime, though a little uncomfortable as summer closes in.",0.3850288987159729,0.03950992599129677,0.5754611492156982,neutral,0.34551897644996643
+9,2013-06-03 05:01:00,"With earnings season now behind us, we can see whether this strategy is paying off.",0.7971112132072449,0.017752863466739655,0.18513593077659607,positive,0.7793583273887634
+10,2013-06-03 05:01:00,"I'll begin with the enterprise cloud, a relatively mature group of businesses with high valuations.",0.08413195610046387,0.004404901992529631,0.9114631414413452,neutral,0.07972705364227295
+11,2013-06-03 05:01:00,"Four of the largest are Salesforce.com ( CRM ), Concur ( CNQR ), Workday ( WDAY ) and Netsuite ( N ), each of which offers Web products that address basic business functions, like marketing and payroll.",0.022945765405893326,0.0061417208053171635,0.9709124565124512,neutral,0.01680404506623745
+12,2013-06-03 05:01:00,"All of them lost money in the first quarter, with operating margins ranging from -2% at Concur to -36% at Workday.",0.01675385795533657,0.9725595116615295,0.010686575435101986,negative,-0.9558056592941284
+13,2013-06-03 05:01:00,"More surprising, each company saw its margins deteriorate versus a year ago.",0.028412992134690285,0.9604144096374512,0.011172655038535595,negative,-0.9320014119148254
+14,2013-06-03 05:01:00,"This, coupled with fast growth (though slower than in previous years) led to a doubling of pre-tax losses.",0.8007793426513672,0.16364642977714539,0.0355742946267128,positive,0.6371328830718994
+15,2013-06-03 05:01:00,"A Bernstein analyst said of Salesforce , the largest of the four, that ""they're moving from organic to inorganic growth.",0.2180224508047104,0.007810510694980621,0.7741670608520508,neutral,0.21021193265914917
+16,2013-06-03 05:01:00,"And inorganic is very expensive.""",0.04950603470206261,0.03869343921542168,0.9118005633354187,neutral,0.01081259548664093
+17,2013-06-03 05:01:00,"Together, these firms are worth $46 billion in market capitalization.",0.2416711151599884,0.007024003658443689,0.7513048648834229,neutral,0.23464711010456085
+18,2013-06-03 05:01:00,"They made $1.2 billion in sales, and lost nearly $100 million before taxes.",0.01960355043411255,0.92592453956604,0.054471902549266815,negative,-0.9063209891319275
+19,2013-06-03 05:01:00,"At the same time, a total of 15 million new shares found their way to market, representing roughly $800 million in value - a remarkable amount when compared to business operations, but in line with past quarters.",0.938669741153717,0.019159307703375816,0.0421709269285202,positive,0.9195104241371155
+20,2013-06-03 05:01:00,"While this was mostly the result of stock valuations - 8% annual dilution being high but not extraordinary - it nevertheless provides a tangible benefit to these companies, by skewing payroll towards stock compensation.",0.8853947520256042,0.019602684304118156,0.09500259906053543,positive,0.8657920956611633
+21,2013-06-03 05:01:00,"Earnings reports then emphasize non-GAAP earnings, which paint a rosy picture by ignoring stock compensation; but this understates real expenses, and ignores the risk that, should shares fall, employees will demand cash.",0.037777382880449295,0.7774788737297058,0.18474380671977997,negative,-0.739701509475708
+22,2013-06-03 05:01:00,"Then there is always the danger that companies which depend so heavily on their stock valuation, will find ways to lead investors by the nose.",0.0728803500533104,0.1462593376636505,0.7808603048324585,neutral,-0.07337898761034012
+23,2013-06-03 05:01:00,Other cloud firms logged similar performances.,0.7685518264770508,0.033144254237413406,0.19830390810966492,positive,0.7354075908660889
+24,2013-06-03 05:01:00,"Palo Alto Networks ( PANW ), which operates a security platform, lost $6 million pre-tax on $101 million in revenue, versus a negligible loss one year ago.",0.019253186881542206,0.9679961204528809,0.012750713154673576,negative,-0.9487429261207581
+25,2013-06-03 05:01:00,"Share count rose nearly two million in the quarter, or more than $100 million at current value.",0.9460713863372803,0.017817670479416847,0.03611097112298012,positive,0.928253710269928
+26,2013-06-03 05:01:00,The company's press release focused on the bright side: revenue grew 54% .,0.9571343660354614,0.020283741876482964,0.022581877186894417,positive,0.9368506073951721
+27,2013-06-03 05:01:00,"Athenahealth (ATHN) sells Web-based services to health-care professionals, and until recently it was a shining beacon of cloud profitability, with operating margins of 8% in 2012; but last quarter it bled $12 million before taxes, on $126 million in revenue.",0.5492377877235413,0.12764155864715576,0.32312068343162537,positive,0.4215962290763855
+28,2013-06-03 05:01:00,"The loss was due in part to the acquisition of Epocrates , a mobile app developer and perennial money-loser.",0.026673631742596626,0.8956806063652039,0.07764570415019989,negative,-0.8690069913864136
+29,2013-06-03 05:01:00,"Nevertheless, the purchase allowed Athenahealth to maintain a 30% growth rate - a detail that received top billing in its earnings release .",0.9432203769683838,0.01637892983853817,0.040400683879852295,positive,0.9268414378166199
+30,2013-06-03 05:01:00,"Meanwhile, more grounded enterprise companies like Oracle (ORCL), SAP (SAP), and Cisco ( NASDAQ:CSCO) continue to earn big bucks.",0.9095454216003418,0.026276960968971252,0.06417764723300934,positive,0.8832684755325317
+31,2013-06-03 05:01:00,"Growth was low but generally positive year-over-year, and margins steady.",0.7427029609680176,0.05055578052997589,0.20674125850200653,positive,0.6921471953392029
+32,2013-06-03 05:01:00,"They may be dinosaurs awaiting the meteorite but, so far, these old men of enterprise don't seem all that endangered.",0.04049781337380409,0.15478603541851044,0.8047161102294922,neutral,-0.11428822576999664
+33,2013-06-03 05:01:00,"We can say that, at least, it probably won't be a recession that kills them.",0.044810716062784195,0.1406071037054062,0.8145821690559387,neutral,-0.09579639136791229
+34,2013-06-03 05:01:00,"When it comes to the consumer cloud, we have fewer public companies to look at.",0.01640385575592518,0.06066357344388962,0.9229325652122498,neutral,-0.04425971955060959
+35,2013-06-03 05:01:00,"Netflix (NASDAQ:NLFX) did turn a profit, earning $7 million ($3 million after taxes) on revenues of a little over $1 billion - a modest improvement over last year's awful Q1.",0.921305775642395,0.05705217272043228,0.021642087027430534,positive,0.864253580570221
+36,2013-06-03 05:01:00,Stock growth amounted to a relatively modest $150 million.,0.024812456220388412,0.12912997603416443,0.8460575342178345,neutral,-0.10431751608848572
+37,2013-06-03 05:01:00,"Pandora Media (P), on the other hand, lost $28 million on sales of $126 million, with improved margins accompanying a larger loss.",0.026576438918709755,0.9615344405174255,0.011889154091477394,negative,-0.9349579811096191
+38,2013-06-03 05:01:00,The value of new shares was $24 million.,0.030916852876544,0.005061817821115255,0.9640213251113892,neutral,0.025855034589767456
+39,2013-06-03 05:01:00,I would characterize these results as ugly; others might not.,0.03905104100704193,0.5612067580223083,0.3997422456741333,negative,-0.5221557021141052
+40,2013-06-03 05:01:00,"In many ways, though, the first quarter was business as usual.",0.08800901472568512,0.012064406648278236,0.8999266028404236,neutral,0.07594460994005203
+41,2013-06-03 05:01:00,The market devoured two new IPOs - Marketo (MKTO) and Tableau Software (DATA) - while the rest of the industry soared with market indices.,0.8324663043022156,0.02575814165174961,0.14177551865577698,positive,0.8067081570625305
+42,2013-06-03 05:01:00,"Infrastructure providers like Rackspace (RAX) and Equinix (EQIX) were, once again, more profitable than many of their clients.",0.9203620553016663,0.017168868333101273,0.06246902048587799,positive,0.9031931757926941
+43,2013-06-03 05:01:00,"As in other gold rushes, this one has favored the brothels rather than the prospectors.",0.16262350976467133,0.10465799272060394,0.7327184677124023,neutral,0.05796551704406738
+44,2013-06-03 05:01:00,"It seems cloud companies are still growing, and they're still losing money.",0.02172682248055935,0.9369643330574036,0.04130887985229492,negative,-0.9152374863624573
+45,2013-06-03 05:01:00,Maybe next quarter will be different.,0.03886948898434639,0.013771677389740944,0.9473588466644287,neutral,0.025097811594605446
+46,2013-06-03 05:01:00,"Why Microsoft Need Not Worry About Windows 8
+
+Xbox One, PlayStation 4 -- and Apple?",0.02683371864259243,0.03335995972156525,0.939806342124939,neutral,-0.0065262410789728165
+47,2013-06-03 05:01:00,"-- in the Age of Convergence
+
+Why I've Given Up Hope for Apple, Google, Microsoft to Deliver Better TV
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.018820369616150856,0.013326534070074558,0.9678530693054199,neutral,0.005493835546076298

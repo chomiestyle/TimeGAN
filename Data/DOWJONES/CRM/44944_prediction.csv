@@ -1,0 +1,33 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-04 03:30:00,Two stories in the stock market stole the show after the market closed on Monday.,0.10576242208480835,0.5330479741096497,0.361189603805542,negative,-0.4272855520248413
+1,2019-03-04 03:30:00,"salesforce.com (NYSE: CRM) , provider of the world's leading customer relationship management and sales platform, saw its stock fall several percentage points following its earnings release.",0.018597453832626343,0.9688893556594849,0.01251327246427536,negative,-0.9502918720245361
+2,2019-03-04 03:30:00,"Meanwhile, genetic-testing company Invitae (NYSE: NVTA) saw its stock decline sharply upon the announcement of a proposed equity raise.",0.017864933237433434,0.9713447690010071,0.010790258646011353,negative,-0.9534798264503479
+3,2019-03-04 03:30:00,"Software-as-a-service pioneer Salesforce saw its shares take a hit after the market closed, falling about 3% as of 4:30 p.m. EST.",0.018797989934682846,0.971207857131958,0.009994108229875565,negative,-0.9524098634719849
+4,2019-03-04 03:30:00,"That was on top of a 3.4% decline during the trading day, as many software stocks saw sharp declines.",0.04517895728349686,0.9413677453994751,0.013453262858092785,negative,-0.8961887955665588
+5,2019-03-04 03:30:00,"The stock's after-hours decline follows the company's fiscal fourth-quarter results, which were released shortly after the market closed.",0.01829087920486927,0.9381463527679443,0.04356285184621811,negative,-0.9198554754257202
+6,2019-03-04 03:30:00,"Salesforce reported strong revenue growth, with its top line rising 26% year over year, or 27% year over year in constant currency.",0.9554380178451538,0.017608748748898506,0.026953278109431267,positive,0.9378292560577393
+7,2019-03-04 03:30:00,This was notably an acceleration from 26% year-over-year constant-currency revenue growth in Q3 .,0.9586538076400757,0.021274758502840996,0.020071424543857574,positive,0.9373790621757507
+8,2019-03-04 03:30:00,"Notably, both Salesforce revenue and non- GAAP earnings per share came in above analyst estimates for the key metrics.",0.860826849937439,0.06670863181352615,0.07246455550193787,positive,0.7941182255744934
+9,2019-03-04 03:30:00,But Salesforce's outlook for its fiscal first quarter was below what analysts were looking for.,0.01723066158592701,0.9627870917320251,0.01998223178088665,negative,-0.9455564022064209
+10,2019-03-04 03:30:00,"Salesforce said it expected revenue in its first quarter of fiscal 2020 to be between $3.67 billion and $3.68 billion, representing 22% year-over-year growth.",0.9168788194656372,0.01482453290373087,0.0682966560125351,positive,0.9020543098449707
+11,2019-03-04 03:30:00,"On average, analysts were expecting fiscal first-quarter revenue to rise 23% year over year to $3.7 billion.",0.9574057459831238,0.019680997356772423,0.02291327901184559,positive,0.937724769115448
+12,2019-03-04 03:30:00,"In addition, Salesforce guided for fiscal first-quarter non-GAAP EPS between $0.60 and $0.61, below analysts' average estimate for $0.63.",0.032531339675188065,0.9450216889381409,0.022446895018219948,negative,-0.9124903678894043
+13,2019-03-04 03:30:00,Leading genetics company Invitae saw its stock take a hit after the market closed when the company announced an underwritten public offering of $125 million worth of its common stock.,0.4275347590446472,0.41020113229751587,0.16226407885551453,positive,0.017333626747131348
+14,2019-03-04 03:30:00,"The equity raise, Invitae said in a press release after the close, will also give underwriters a 30-day option to purchase up to $18.75 million more of its common stock at the public offering price.",0.4827476441860199,0.009073740802705288,0.5081785917282104,neutral,0.47367390990257263
+15,2019-03-04 03:30:00,"""The offering is subject to market and other conditions, and there can be no assurance as to whether or when the offering may be completed, or as to the actual size or terms of the offering,"" the company said.",0.012958064675331116,0.020585594698786736,0.9664563536643982,neutral,-0.00762753002345562
+16,2019-03-04 03:30:00,"Invitae has seen extraordinary growth recently, with revenue rising 117% year over year in its most recently reported quarter.",0.9530118703842163,0.01676439680159092,0.030223630368709564,positive,0.9362474679946899
+17,2019-03-04 03:30:00,"But the company is still losing money, reporting a net loss of $129 million in 2018 -- worse than a $123 million loss in 2017.",0.019150545820593834,0.9705969095230103,0.01025248970836401,negative,-0.9514463543891907
+18,2019-03-04 03:30:00,Could this offering provide further fuel for the company's growth while the company attempts to move closer to profitability?,0.9101332426071167,0.016084160655736923,0.07378263771533966,positive,0.8940491080284119
+19,2019-03-04 03:30:00,Shares were down 5.3% as of 5:30 p.m. EST.,0.01859916001558304,0.944294273853302,0.03710651770234108,negative,-0.9256951212882996
+20,2019-03-04 03:30:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+21,2019-03-04 03:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+22,2019-03-04 03:30:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+23,2019-03-04 03:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+24,2019-03-04 03:30:00,Daniel Sparks has no position in any of the stocks mentioned.,0.009354502893984318,0.0414443276822567,0.9492011666297913,neutral,-0.032089825719594955
+25,2019-03-04 03:30:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+26,2019-03-04 03:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+27,2019-03-04 03:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

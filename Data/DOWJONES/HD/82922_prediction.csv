@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-09 04:46:00,"Nine months after its huge loss of consumer data, Equifax (NYSE: EFX ) stock has recovered most of its loss and people have moved on.",0.639641284942627,0.04035395011305809,0.32000479102134705,positive,0.5992873311042786
+1,2018-07-09 04:46:00,Equifax stock wasn't toxic for long.,0.09065327793359756,0.026379380375146866,0.8829672932624817,neutral,0.0642738938331604
+2,2018-07-09 04:46:00,The Atlanta-based credit reporting agency opened for trade June 26 at about $124.50 per share.,0.03965654596686363,0.012591933831572533,0.9477514624595642,neutral,0.0270646121352911
+3,2018-07-09 04:46:00,It traded at about $142.70 just before announcing last September it lost records on 145.5 million people.,0.034425728023052216,0.899869978427887,0.06570430099964142,negative,-0.8654442429542542
+4,2018-07-09 04:46:00,"Since then, Equifax has given compensation to some of the most persistent victims while fighting others in court .",0.5092819929122925,0.28011682629585266,0.21060119569301605,positive,0.22916516661643982
+5,2018-07-09 04:46:00,"It said at the end of 2017 the breach had cost $439 million, but $150 million was covered by insurance.",0.02959543652832508,0.2552494406700134,0.7151551246643066,neutral,-0.2256540060043335
+6,2018-07-09 04:46:00,"No Significant Financial Impact on Equifax Stock
+
+A close look at the company's financials indicates that income for the March quarter was unaffected by the breach, although higher costs cut net income by about one-third from where it had been a year ago.",0.03081786260008812,0.961163341999054,0.008018716238439083,negative,-0.9303454756736755
+7,2018-07-09 04:46:00,"The company earned $91 million, 75 cents per share fully diluted, on revenue of $865.7 million for the quarter.",0.0951622873544693,0.08347800374031067,0.8213596940040588,neutral,0.01168428361415863
+8,2018-07-09 04:46:00,"Its balance sheet shows it has managed to cut long term debt over the last year, to $1.74 billion from $2.04 billion, and doubled the amount of cash on the books from the previous March, to $249 million from $123 million.",0.624098539352417,0.3399791717529297,0.03592228516936302,positive,0.2841193675994873
+9,2018-07-09 04:46:00,"Equifax is next due to report earnings July 25, with analysts expecting $1.54 per share of earnings, about $180 million, on revenue of $882 million.",0.18060868978500366,0.018409263342618942,0.8009820580482483,neutral,0.16219942271709442
+10,2018-07-09 04:46:00,The average analyst rating on the stock is now overweight.,0.03913445398211479,0.36700132489204407,0.5938642024993896,neutral,-0.32786688208580017
+11,2018-07-09 04:46:00,"• AMD Stock Looks Like a Bull's Dream, But Read the Fine Print
+
+While reporters said that 145.5 million ""Equifax customers"" were impacted, that's not strictly true.",0.02883809246122837,0.5928220748901367,0.3783397674560547,negative,-0.5639839768409729
+12,2018-07-09 04:46:00,Consumers aren't customers.,0.024349959567189217,0.1065749004483223,0.8690751791000366,neutral,-0.08222494274377823
+13,2018-07-09 04:46:00,They're subjects.,0.06362245976924896,0.014198965393006802,0.9221785068511963,neutral,0.049423493444919586
+14,2018-07-09 04:46:00,Equifax is paid by merchants and credit card companies who use its data in deciding whether to grant credit.,0.01514519564807415,0.009736821055412292,0.9751179218292236,neutral,0.005408374592661858
+15,2018-07-09 04:46:00,"In May, Fortune reported that corporate America seems to have learned nothing from the breach , either, with thousands of organizations still downloading vulnerable versions of Apache Struts, the open source software that hackers compromised.",0.03758168965578079,0.900473415851593,0.061944812536239624,negative,-0.8628917336463928
+16,2018-07-09 04:46:00,"With open source software like Struts, the responsibility to download and load patches rests with the user.",0.016111932694911957,0.016570402309298515,0.9673177003860474,neutral,-0.00045846961438655853
+17,2018-07-09 04:46:00,"With proprietary software, like Microsoft (NYSE: MSFT ) Windows, consumer patches are usually pushed automatically.",0.023925017565488815,0.05782799795269966,0.9182470440864563,neutral,-0.033902980387210846
+18,2018-07-09 04:46:00,"But even here, many people use old versions of software that remains vulnerable.",0.029117221012711525,0.07612047344446182,0.8947623372077942,neutral,-0.04700325429439545
+19,2018-07-09 04:46:00,The biggest impact of the breach on Equifax seems to be the game of musical chairs in its C-suite.,0.0258747898042202,0.534879744052887,0.43924543261528015,negative,-0.5090049505233765
+20,2018-07-09 04:46:00,"CEO Richard Smith resigned with $90 million in severance, and was recently replaced with Mark Begor, a private equity executive who once ran the General Electric (NYSE: GE ) credit card unit.",0.05068086460232735,0.6569148302078247,0.29240429401397705,negative,-0.6062339544296265
+21,2018-07-09 04:46:00,Former executive Jun Ying was accused of insider trading for selling stock after he learned of the breach and before the public was notified.,0.03282662481069565,0.9289572238922119,0.03821617737412453,negative,-0.8961306214332581
+22,2018-07-09 04:46:00,"In February, Equifax recruited Jamil Farshchi as its chief information security officer from Home Depot (NYSE: HD ).",0.309823215007782,0.009334527887403965,0.6808422207832336,neutral,0.30048868060112
+23,2018-07-09 04:46:00,"Farshchi had been brought in by the Atlanta-based retailer after its 2014 breach, and the fact you may have trouble remembering that event speaks volumes about how the market reacts to such news.",0.05845708027482033,0.13562998175621033,0.805912971496582,neutral,-0.0771729052066803
+24,2018-07-09 04:46:00,"Most recently Equifax named Bryson Koehler, formerly with IBM (NYSE: IBM ), as its chief technology officer.",0.07683858275413513,0.008714980445802212,0.9144464731216431,neutral,0.06812360137701035
+25,2018-07-09 04:46:00,Koehler had been CTO for IBM's Watson project.,0.03910704329609871,0.01876469887793064,0.9421282410621643,neutral,0.020342344418168068
+26,2018-07-09 04:46:00,The scandal has not played out as I expected last September when I reported on it.,0.049785226583480835,0.15533240139484406,0.7948823571205139,neutral,-0.10554717481136322
+27,2018-07-09 04:46:00,"At the time I suggested that private equity might take out the company, rename it, and then return it to the market later.",0.03623533993959427,0.006055445875972509,0.9577092528343201,neutral,0.030179893597960472
+28,2018-07-09 04:46:00,"Equifax has been around since 1899, having been founded as a way for stores to pool resources on fraud.",0.07582300156354904,0.008826973848044872,0.9153500199317932,neutral,0.0669960305094719
+29,2018-07-09 04:46:00,"While a private equity executive is taking over, the actual impact on the stock has been minimal.",0.02506294474005699,0.2670495808124542,0.7078874707221985,neutral,-0.24198663234710693
+30,2018-07-09 04:46:00,"If you wanted to buy Equifax a year ago, you still do.",0.09526848793029785,0.007260858081281185,0.8974706530570984,neutral,0.08800762891769409
+31,2018-07-09 04:46:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+32,2018-07-09 04:46:00,"He is the author of the historical mystery romance The Reluctant Detective Travels in Time , available now at the Amazon Kindle store.",0.06731477379798889,0.018257636576890945,0.914427638053894,neutral,0.049057137221097946
+33,2018-07-09 04:46:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn .,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+34,2018-07-09 04:46:00,As of this writing he owned shares in MSFT.,0.014195043593645096,0.010438458994030952,0.975366473197937,neutral,0.0037565845996141434
+35,2018-07-09 04:46:00,"• The ABSOLUTE Best Way to Invest in the Marijuana Boom
+• The Best Shot You'll Ever Have at Making 50 TIMES Your Money
+• 4 Developments That Will Fuel the Mega Marijuana Market
+
+The post Equifax Stock Apparently Is a Completely Scandal-Proof Investment appeared first on InvestorPlace .",0.1671057641506195,0.025673076510429382,0.8072211742401123,neutral,0.14143268764019012
+36,2018-07-09 04:46:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

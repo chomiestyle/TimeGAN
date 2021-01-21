@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-05-02 00:35:00,"At its session low, the Dow Jones Industrial Average (DJI) was off some 87 points.",0.02332579530775547,0.9579024910926819,0.01877170242369175,negative,-0.934576690196991
+1,2012-05-02 00:35:00,"""But in the end, it was nice to see that the buyers stepped up and the market finished well off its lows,"" reflected Senior Technical Strategist Ryan Detrick.",0.903781533241272,0.03473903238773346,0.06147950142621994,positive,0.8690425157546997
+2,2012-05-02 00:35:00,"""Volume was light, and I'd expect more of that tomorrow as everyone gets ready for Friday's jobs report.""",0.5541628003120422,0.06105339154601097,0.38478386402130127,positive,0.49310940504074097
+3,2012-05-02 00:35:00,"Click through to see what else was on our radar today:
+• See why Senior Equity Analyst Joe Bell is excited about regional banks and homebuilders, but turned off by big banks .",0.06893222033977509,0.43418794870376587,0.49687978625297546,neutral,-0.3652557134628296
+4,2012-05-02 00:35:00,"• ""Sell in May and go away""?",0.030104463919997215,0.04057607427239418,0.929319441318512,neutral,-0.010471610352396965
+5,2012-05-02 00:35:00,Quantitative Analyst Chris Prybal researched an old market adage for the Dow.,0.03275621309876442,0.06701447814702988,0.9002293348312378,neutral,-0.03425826504826546
+6,2012-05-02 00:35:00,"• Optimism was on the rise last week, according to the latest investor sentiment survey.",0.8581578731536865,0.042114753276109695,0.09972742199897766,positive,0.8160431385040283
+7,2012-05-02 00:35:00,"• Plus, is it time to short the iShares Russell 2000 Index Fund ( IWM ) ?",0.02915254980325699,0.022440673783421516,0.9484068155288696,neutral,0.006711876019835472
+8,2012-05-02 00:35:00,"And now, a look at the numbers...",0.03768295422196388,0.017149433493614197,0.945167601108551,neutral,0.020533520728349686
+9,2012-05-02 00:35:00,"The Dow Jones Industrial Average (DJI - 13,268.73) fell as low as the 13,192.21 mark, but was able to pare some of its losses and end with a deficit of just 10.8 points, or 0.08%.",0.024968935176730156,0.961409330368042,0.013621763326227665,negative,-0.9364404082298279
+10,2012-05-02 00:35:00,"Just over half of Dow's 30 components finished lower, as Alcoa ( AA ) led the 16 laggards with a 2.4% slide.",0.022273223847150803,0.9589256644248962,0.018801163882017136,negative,-0.936652421951294
+11,2012-05-02 00:35:00,"On the other hand, Intel ( INTC ) and Home Depot ( HD ) paced the winning blue chips with gains of 0.8% each.",0.9281291961669922,0.03286615386605263,0.039004575461149216,positive,0.8952630162239075
+12,2012-05-02 00:35:00,"The S&P 500 Index (SPX - 1,402.31) held its footing above 1,400, but ended the day with a 3.5-point, or 0.3%, decline.",0.02619844302535057,0.9636090397834778,0.010192479006946087,negative,-0.9374105930328369
+13,2012-05-02 00:35:00,"Meanwhile, the Nasdaq Composite (COMP - 3,059.85) climbed higher by 9.4 points, or 0.3%, turning in the best performance of its fellow benchmarks.",0.9491313695907593,0.02809668704867363,0.02277195081114769,positive,0.9210346937179565
+14,2012-05-02 00:35:00,"The CBOE Market Volatility Index (VIX - 16.88) pulled back from its intraday peak of 17.63, but added 1.7% by the time the dust settled.",0.3787519633769989,0.581425130367279,0.039822883903980255,negative,-0.20267316699028015
+15,2012-05-02 00:35:00,The VIX reclaimed its seat atop its 40-day moving average.,0.8692330121994019,0.05688925087451935,0.0738777220249176,positive,0.8123437762260437
+16,2012-05-02 00:35:00,"Private-sector employers added 119,000 jobs in April, according to payroll giant ADP .",0.5846849679946899,0.3208577036857605,0.09445736557245255,positive,0.26382726430892944
+17,2012-05-02 00:35:00,"The report fell short of expectations, which called for an increase of 175,000.",0.12729616463184357,0.8014883399009705,0.07121555507183075,negative,-0.6741921901702881
+18,2012-05-02 00:35:00,"Factory orders tumbled by 1.5% in March to $460.46 billion, said the Commerce Department , marking the steepest monthly decline since January 2009.",0.020671000704169273,0.9722169637680054,0.007112049963325262,negative,-0.9515459537506104
+19,2012-05-02 00:35:00,"However, the sizable drop arrived right in line with the consensus estimate.",0.6977593302726746,0.155419260263443,0.14682139456272125,positive,0.5423400402069092
+20,2012-05-02 00:35:00,"Today's highlight : ""Today's talk was all about the weak ADP numbers,"" said Detrick.",0.031345512717962265,0.8998973965644836,0.0687570795416832,negative,-0.8685519099235535
+21,2012-05-02 00:35:00,"""There's no doubt we've seen some weakening on the jobs front over the past month, and this is further confirmation.",0.30441203713417053,0.6504683494567871,0.045119620859622955,negative,-0.3460563123226166
+22,2012-05-02 00:35:00,"Still, this could just be a small blip on the radar, which makes Friday's monthly jobs number all that much more important.""",0.061780452728271484,0.8330532312393188,0.1051662340760231,negative,-0.7712727785110474
+23,2012-05-02 00:35:00,"• Chris Prybal checked out the Dow's monthly returns to see if you should really ""sell in May.""",0.08008209615945816,0.022618353366851807,0.897299587726593,neutral,0.057463742792606354
+24,2012-05-02 00:35:00,• There is a potential head-and-shoulders formation taking shape on the iShares Russell 2000 Index Fund ( IWM ).,0.28133702278137207,0.01319075096398592,0.7054722309112549,neutral,0.268146276473999
+25,2012-05-02 00:35:00,• Joe Bell highlighted five sectors that could make waves in the current market.,0.13060374557971954,0.010613464750349522,0.8587827682495117,neutral,0.1199902817606926
+26,2012-05-02 00:35:00,• Salesforce.com ( CRM ) and Lorillard (LO) rocketed to new all-time highs in April.,0.9061182141304016,0.0328809879720211,0.06100071966648102,positive,0.8732372522354126
+27,2012-05-02 00:35:00,• Last night's quarterly results from True Religion Apparel (TRLG) and Cavium (CAVM) spawned dissimilar brokerage notes.,0.026947883889079094,0.9477052092552185,0.02534685842692852,negative,-0.9207573533058167
+28,2012-05-02 00:35:00,• New highs and new lows: TripAdvisor (TRIP) and First Solar (FSLR) were among the standouts in today's session.,0.6562332510948181,0.1433093398809433,0.2004573494195938,positive,0.5129238963127136
+29,2012-05-02 00:35:00,• Ryan Detrick explained why increased call buying on the VIX can be a boon for stocks.,0.873644232749939,0.06371038407087326,0.06264538317918777,positive,0.8099338412284851
+30,2012-05-02 00:35:00,"For today's activity in commodities, options, and more, head to page 2.",0.012852145358920097,0.01033917348831892,0.9768086671829224,neutral,0.002512971870601177
+31,2012-05-02 00:35:00,"Oil futures tumbled lower today, as the commodity took a hit on data showing that private-sector jobs grew at their slowest pace in seven months.",0.03024127334356308,0.9587365984916687,0.011022153310477734,negative,-0.9284953474998474
+32,2012-05-02 00:35:00,A larger-than-expected increase in domestic crude inventories -- which hit their highest level since September 1990 -- also weighed on black gold.,0.7564920783042908,0.17321328818798065,0.07029461860656738,positive,0.5832787752151489
+33,2012-05-02 00:35:00,"By the close, June-dated crude lopped off 94 cents, or 0.9%, to land at $105.22 a barrel.",0.10033375769853592,0.8719201683998108,0.027746129781007767,negative,-0.7715864181518555
+34,2012-05-02 00:35:00,"Similarly, gold futures tallied their third straight loss, as a stronger dollar held the precious metal in negative territory all day.",0.022827932611107826,0.9661113023757935,0.011060806922614574,negative,-0.9432833790779114
+35,2012-05-02 00:35:00,"Gold for June delivery dropped $8.40, or 0.5%, to settle at $1,654 an ounce.",0.02250589057803154,0.9641192555427551,0.013374827802181244,negative,-0.9416133761405945
+36,2012-05-02 00:35:00,"For today's notable annual highs and lows, click here .",0.04307570308446884,0.07661691308021545,0.8803073167800903,neutral,-0.03354120999574661
+37,2012-05-02 00:35:00,"At the end of every market day, the staff at Schaeffer's Investment Research reviews the trading day in detail, covering major events and key market developments.",0.014267869293689728,0.00914048496633768,0.9765916466712952,neutral,0.005127384327352047
+38,2012-05-02 00:35:00,"Don't miss this critical, timely and insightful report.",0.05582868680357933,0.02586214244365692,0.9183091521263123,neutral,0.02996654435992241
+39,2012-05-02 00:35:00,"If you enjoyed today's edition of Market Recap, sign up here for free daily delivery straight to your inbox.",0.03876018524169922,0.017327362671494484,0.9439123868942261,neutral,0.021432822570204735
+40,2012-05-02 00:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942193515598774,0.013680474832654,0.9763773083686829,neutral,-0.0037382813170552254
+41,2012-05-02 00:35:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652368888258934,0.03200574591755867,0.9573419094085693,neutral,-0.021353377029299736

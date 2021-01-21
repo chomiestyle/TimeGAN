@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-17 01:45:00,Today's session closes with the NASDAQ Composite Index volume reaching the 10th place in the top ten list for this year.,0.8382886052131653,0.019724324345588684,0.14198705554008484,positive,0.8185642957687378
+1,2019-01-17 01:45:00,The last time the index closed above 0.36 billion shares was on Jan 03 2019.,0.044395800679922104,0.029327794909477234,0.9262763857841492,neutral,0.01506800577044487
+2,2019-01-17 01:45:00,The total shares traded for the NASDAQ was over 2.18 billion.,0.02907804399728775,0.005861286539584398,0.9650605916976929,neutral,0.02321675792336464
+3,2019-01-17 01:45:00,Advancers stocks led declining by 1.66 to 1 ratio.,0.029011769220232964,0.9570218920707703,0.013966232538223267,negative,-0.928010106086731
+4,2019-01-17 01:45:00,There were 1951 advancers and 1175 decliners for the day.,0.13899679481983185,0.1827109158039093,0.6782922744750977,neutral,-0.043714120984077454
+5,2019-01-17 01:45:00,On the NASDAQ Stock Exchange 16 stocks reached a 52 week high and 12 those reaching lows totaled.,0.6309739351272583,0.15503112971782684,0.21399496495723724,positive,0.47594279050827026
+6,2019-01-17 01:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+7,2019-01-17 01:45:00,The NASDAQ 100 index closed up .75% for the day; a total of 49.89 points.,0.9176186323165894,0.03508353978395462,0.04729780554771423,positive,0.8825350999832153
+8,2019-01-17 01:45:00,"The current value is 6,718.45.",0.014953751116991043,0.008323435671627522,0.976722776889801,neutral,0.006630315445363522
+9,2019-01-17 01:45:00,Western Digital Corporation ( WDC ) had the largest percent change down (-3.6%) while Fastenal Company ( FAST ) had the largest percent change gain rising 5.95%.,0.058649975806474686,0.704057514667511,0.23729246854782104,negative,-0.6454075574874878
+10,2019-01-17 01:45:00,The Dow Jones index closed up .67% for the day; a total of 162.94 points.,0.9009802341461182,0.04749319702386856,0.05152655392885208,positive,0.8534870147705078
+11,2019-01-17 01:45:00,"The current value is 24,370.1.",0.01562977395951748,0.00781521201133728,0.9765550494194031,neutral,0.007814561948180199
+12,2019-01-17 01:45:00,"Home Depot, Inc. (The) ( HD ) had the largest percent change down (-1.23%) while DowDuPont Inc. ( DWDP ) had the largest percent change gain rising 2.96%.",0.05509995296597481,0.801092803478241,0.14380723237991333,negative,-0.7459928393363953
+13,2019-01-17 01:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

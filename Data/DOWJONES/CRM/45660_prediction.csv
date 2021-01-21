@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-28 23:01:00,"Even with the market correction that started this September, it seems that most software-as-a-service (SaaS) companies can do no wrong.",0.18671178817749023,0.1505415439605713,0.6627466678619385,neutral,0.036170244216918945
+1,2018-11-28 23:01:00,"One of the largest SaaS companies in the world, salesforce.com , reported earnings this week that investors were very happy with .",0.9281246662139893,0.017196137458086014,0.05467920005321503,positive,0.9109285473823547
+2,2018-11-28 23:01:00,"Perhaps it shouldn't be too surprising, then, that Veeva Systems (NYSE: VEEV) -- which focuses on SaaS products for the pharmaceutical industry -- followed suit.",0.45944252610206604,0.00953078642487526,0.5310267210006714,neutral,0.4499117434024811
+3,2018-11-28 23:01:00,"The company's cofounder and CEO, Peter Gassner, even had a previous tenure at Salesforce.",0.032195039093494415,0.06168188154697418,0.9061230421066284,neutral,-0.029486842453479767
+4,2018-11-28 23:01:00,"On virtually every aspect of the release, Veeva looks very healthy.",0.10458734631538391,0.007888292893767357,0.8875243663787842,neutral,0.0966990515589714
+5,2018-11-28 23:01:00,"Before we dive into the nitty-gritty of the company's quarter, let's look at how it performed on the headline numbers.",0.0640488713979721,0.015224878676235676,0.9207262396812439,neutral,0.048823993653059006
+6,2018-11-28 23:01:00,There's a lot to like here.,0.1778431385755539,0.007359271869063377,0.8147976398468018,neutral,0.17048387229442596
+7,2018-11-28 23:01:00,"First of all, these results came in well ahead of management's own estimates .",0.8774428367614746,0.02090100571513176,0.10165607184171677,positive,0.8565418124198914
+8,2018-11-28 23:01:00,"Furthermore, it's always a good sign when earnings grow much faster than revenue.",0.852927565574646,0.019727176055312157,0.12734532356262207,positive,0.8332003951072693
+9,2018-11-28 23:01:00,A lot of levers helped make this possible.,0.6188961267471313,0.011261110194027424,0.3698427379131317,positive,0.6076350212097168
+10,2018-11-28 23:01:00,Gross margins for the company's subscription services expanded 350 basis points to an astounding 84.3%.,0.955775260925293,0.018405979499220848,0.025818785652518272,positive,0.9373692870140076
+11,2018-11-28 23:01:00,"In simpler terms, each additional customer using Veeva's customer relationship management (CRM) and Vault products is costing the company very little to serve.",0.04290003702044487,0.3144778609275818,0.6426221132278442,neutral,-0.2715778350830078
+12,2018-11-28 23:01:00,"Operating expenses -- research & development, sales and marketing, and administrative costs -- also grew much slower than revenue: 19%, after backing out stock-based compensation.",0.019810833036899567,0.9704044461250305,0.009784646332263947,negative,-0.9505935907363892
+13,2018-11-28 23:01:00,"These forces combined to make non-GAAP profit margins expand meaningfully, by over 900 basis points to 31.3%.",0.9590588808059692,0.019839609041810036,0.02110149711370468,positive,0.9392192959785461
+14,2018-11-28 23:01:00,These results show Veeva is now in the stage of the SaaS model where it is reaping outsize rewards for the infrastructure it has spent years setting up for its customers.,0.8857765793800354,0.015092763118445873,0.09913060069084167,positive,0.8706837892532349
+15,2018-11-28 23:01:00,What else happened during the quarter?,0.014441986568272114,0.03710967302322388,0.9484483003616333,neutral,-0.022667687386274338
+16,2018-11-28 23:01:00,Veeva adds so many new services to both its CRM and Vault applications that they can be hard to keep track of.,0.09834933280944824,0.12228024005889893,0.7793703675270081,neutral,-0.023930907249450684
+17,2018-11-28 23:01:00,"Here's an update on some of the new ones mentioned in Veeva's conference call :
+• Vault eTMF (electronic Trial Master Files) added another top-seven contract research organization (CRO).",0.25955215096473694,0.01049721334129572,0.7299506068229675,neutral,0.2490549385547638
+18,2018-11-28 23:01:00,"It now serves three of the top seven CROs, and eTMF has over 200 customers altogether.",0.11050744354724884,0.0059523130767047405,0.8835402131080627,neutral,0.10455513000488281
+19,2018-11-28 23:01:00,"• Vault CTMS (Clinical Trial Master Systems) didn't have updated customer counts, but management noted that a top-20 global pharmaceutical company signed on to use CTMS, the first such company to use this application.",0.662217915058136,0.014497463591396809,0.32328465580940247,positive,0.647720456123352
+20,2018-11-28 23:01:00,"• Vault's EDC (Electronic Data Capture) unit is now being folded into a new unit, CDMS (Clinical Data Management System), and few concrete updates were offered.",0.017586026340723038,0.11446081846952438,0.8679531216621399,neutral,-0.09687478840351105
+21,2018-11-28 23:01:00,"• Veeva's newest Commercial Cloud offering -- Nitro, a data warehouse that uses AI and was just launched earlier this year -- now has four early adopters, up from one last year.",0.9123182892799377,0.01681155525147915,0.07087013870477676,positive,0.895506739616394
+22,2018-11-28 23:01:00,"• The company also said its foray outside of life sciences continues to gain traction, with a top-20 global cosmetic company signing on to use the company's solution.",0.9290849566459656,0.016022145748138428,0.054892901331186295,positive,0.9130628108978271
+23,2018-11-28 23:01:00,Veeva provided an upward revision of its forecast for the fourth quarter.,0.17160074412822723,0.02229953184723854,0.8060997128486633,neutral,0.149301216006279
+24,2018-11-28 23:01:00,"It now expects revenue to come in at a midpoint of $226.5 million, with non-GAAP earnings of $0.40 per share.",0.46483951807022095,0.01979476399719715,0.515365719795227,neutral,0.44504475593566895
+25,2018-11-28 23:01:00,"Those numbers would represent growth of 22% and 74%, respectively.",0.5957005023956299,0.015762312337756157,0.38853719830513,positive,0.5799381732940674
+26,2018-11-28 23:01:00,"While Gassner was careful to acknowledge that it wasn't an ""official"" forecast, he said he expects Veeva to bring in between $1.0 and $1.1 billion next year.",0.5070109963417053,0.012202069163322449,0.4807869791984558,positive,0.4948089122772217
+27,2018-11-28 23:01:00,"That's a major milestone for the company, and would represent growth of roughly 22%.",0.8974745869636536,0.012505819089710712,0.09001950919628143,positive,0.8849687576293945
+28,2018-11-28 23:01:00,"But investors are likely hoping for even faster earnings growth, as the company has shown it can continue to invest in R&D but still reap outsize rewards from its high-margin SaaS model.",0.9528006911277771,0.01826007105410099,0.028939176350831985,positive,0.9345406293869019
+29,2018-11-28 23:01:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+30,2018-11-28 23:01:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+31,2018-11-28 23:01:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+32,2018-11-28 23:01:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2018-11-28 23:01:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+34,2018-11-28 23:01:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+35,2018-11-28 23:01:00,The Motley Fool owns shares of and recommends Salesforce.com and Veeva Systems.,0.030059725046157837,0.018141884356737137,0.9517984390258789,neutral,0.0119178406894207
+36,2018-11-28 23:01:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2018-11-28 23:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

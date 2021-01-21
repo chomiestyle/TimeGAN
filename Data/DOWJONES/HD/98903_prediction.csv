@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-06 06:11:00,"In early trading on Wednesday, shares of Wal-Mart Stores ( WMT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.5%.",0.9380506277084351,0.03293609991669655,0.029013250023126602,positive,0.9051145315170288
+1,2016-07-06 06:11:00,"Year to date, Wal-Mart Stores registers a 19.9% gain.",0.9469459652900696,0.02537793666124344,0.027676058933138847,positive,0.9215680360794067
+2,2016-07-06 06:11:00,"And the worst performing Dow component thus far on the day is DuPont ( DD ), trading down 1.6%.",0.021459514275193214,0.9642320871353149,0.014308355748653412,negative,-0.9427725672721863
+3,2016-07-06 06:11:00,DuPont is lower by about 7.0% looking at the year to date performance.,0.021226344630122185,0.9658375382423401,0.01293610967695713,negative,-0.9446111917495728
+4,2016-07-06 06:11:00,"Two other components making moves today are Verizon Communications ( VZ ), trading down 1.6%, and Home Depot ( HD ), trading up 0.4% on the day.",0.02712360769510269,0.9406399130821228,0.0322364941239357,negative,-0.9135162830352783
+5,2016-07-06 06:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

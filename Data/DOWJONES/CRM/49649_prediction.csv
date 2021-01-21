@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-08 08:26:00,The healthcare industry has been one of the fastest-growing over the past two decades.,0.6629123091697693,0.012419409118592739,0.3246683180332184,positive,0.6504929065704346
+1,2017-02-08 08:26:00,With tens of millions of baby boomers heading toward retirement -- and likely needing more healthcare -- that won't soon change.,0.13226363062858582,0.060192883014678955,0.8075434565544128,neutral,0.07207074761390686
+2,2017-02-08 08:26:00,That's why today's matchup is so interesting.,0.13342341780662537,0.008976765908300877,0.8575997948646545,neutral,0.12444665282964706
+3,2017-02-08 08:26:00,"In one corner, we have an industry heavyweight in Cerner (NASDAQ: CERN) , the leading provider of information-technology systems in U.S. healthcare.",0.8528095483779907,0.014277799054980278,0.13291266560554504,positive,0.8385317325592041
+4,2017-02-08 08:26:00,"In the other, we have Veeva Systems (NYSE: VEEV) , an upstart that is building out a cloud solution specifically designed to help drug companies take products through the approval process and to market.",0.39767777919769287,0.007675329688936472,0.5946468710899353,neutral,0.39000245928764343
+5,2017-02-08 08:26:00,"Between these two, which is the better buy today?",0.10119166970252991,0.031536564230918884,0.8672717809677124,neutral,0.06965510547161102
+6,2017-02-08 08:26:00,That's impossible to answer with 100% precision.,0.07669690251350403,0.20253349840641022,0.7207696437835693,neutral,-0.1258365958929062
+7,2017-02-08 08:26:00,"But by viewing the question through three different lenses, we can get a better idea.",0.1833195984363556,0.011863239109516144,0.8048171997070312,neutral,0.17145636677742004
+8,2017-02-08 08:26:00,"When we one day create the first time machine, I'm going to jump on it and tell my younger investor self one thing: ""Devote almost all your time to researching a company's sustainable competitive advantage.""",0.1518419235944748,0.016004623845219612,0.8321534991264343,neutral,0.13583730161190033
+9,2017-02-08 08:26:00,"Often referred to as a ""moat,"" this has been -- by far -- the most important metric to study.",0.22537890076637268,0.015102271921932697,0.7595188617706299,neutral,0.21027663350105286
+10,2017-02-08 08:26:00,Both Veeva and Cerner benefit from a massively important moat in the form of high switching costs.,0.6966869831085205,0.012016337364912033,0.29129672050476074,positive,0.684670627117157
+11,2017-02-08 08:26:00,"When hospitals starting using Cerner's systems, they become heavily reliant upon them to provide critical data in real time.",0.0781366229057312,0.009685114957392216,0.9121782183647156,neutral,0.06845150887966156
+12,2017-02-08 08:26:00,Switching providers may not only be costly and create headaches for hospitals -- it also puts emergency-room lives on the line.,0.04556102305650711,0.8070885539054871,0.1473504602909088,negative,-0.7615275382995605
+13,2017-02-08 08:26:00,"Likewise, Veeva is becoming more and more ingrained in the ecosystem of pharmaceutical companies.",0.2532595694065094,0.015235535800457,0.7315049171447754,neutral,0.2380240261554718
+14,2017-02-08 08:26:00,Veeva got its start by offering customer relationship management (CRM) tools for company sales forces.,0.1643194556236267,0.00570466136559844,0.8299759030342102,neutral,0.15861479938030243
+15,2017-02-08 08:26:00,"More recently, however, it has spread its wings in offering Veeva Vault -- a solution that allows drug companies to keep mission-critical documents all on a single cloud-based platform as a drug moves through clinical trials.",0.6141027808189392,0.012230336666107178,0.373666912317276,positive,0.601872444152832
+16,2017-02-08 08:26:00,I would often call such a matchup a draw.,0.13122323155403137,0.06682354211807251,0.8019532561302185,neutral,0.06439968943595886
+17,2017-02-08 08:26:00,"But here, I believe that Veeva has a slight edge.",0.2205170840024948,0.02450956031680107,0.7549733519554138,neutral,0.19600751996040344
+18,2017-02-08 08:26:00,"The company keeps rolling out new products, signing on more drug companies, and becoming more ingrained in the operating culture of its clients.",0.7319151163101196,0.013129048980772495,0.25495588779449463,positive,0.7187860608100891
+19,2017-02-08 08:26:00,"Recently, Cerner has seen its bookings drop, and its chief rival, privately held Epic Systems, is gaining market share.",0.01673309877514839,0.9678175449371338,0.01544933021068573,negative,-0.9510844349861145
+20,2017-02-08 08:26:00,Veeva has no serious competition in the pure play for pharmaceutical cloud companies.,0.0787644311785698,0.009840810671448708,0.9113947749137878,neutral,0.06892362236976624
+21,2017-02-08 08:26:00,While it's exciting to see a company aggressively reinvesting in its business -- or offering an outsized dividend -- we can't underestimate the importance of having a sizable cash stash on hand.,0.5562353730201721,0.019694263115525246,0.4240703880786896,positive,0.5365411043167114
+22,2017-02-08 08:26:00,When companies face hard times -- and they all eventually do -- those with cash on hand have options.,0.12503066658973694,0.012970107607543468,0.8619992733001709,neutral,0.1120605617761612
+23,2017-02-08 08:26:00,Those with lots of debt simply don't.,0.019098730757832527,0.08631519228219986,0.8945860862731934,neutral,-0.06721646338701248
+24,2017-02-08 08:26:00,"Here's how Veeva and Cerner stack up in terms of financial fortitude -- keeping in mind that Cerner is valued at roughly three times the size of Veeva:
+
+Both these companies have fairly healthy balance sheets.",0.3077946901321411,0.009637097828090191,0.6825681924819946,neutral,0.29815760254859924
+25,2017-02-08 08:26:00,"Once again, however, Veeva gets the win.",0.6029980778694153,0.08123405277729034,0.3157678544521332,positive,0.5217640399932861
+26,2017-02-08 08:26:00,The company's lack of any long-term debt is a very positive sign that it can weather whatever uncertain future lies ahead.,0.8671334385871887,0.014037925750017166,0.1188286766409874,positive,0.853095531463623
+27,2017-02-08 08:26:00,"Lately, Cerner's acquisition of Siemens Health Services for $1.3 billion has been looking a little overpriced, as it hasn't delivered the type of revenue growth investors were hoping for.",0.14391940832138062,0.7499790191650391,0.1061016395688057,negative,-0.6060596108436584
+28,2017-02-08 08:26:00,"Finally, we have valuation.",0.22249005734920502,0.010374725796282291,0.7671352028846741,neutral,0.2121153324842453
+29,2017-02-08 08:26:00,"While this isn't an exact science, there are some straightforward metrics we can consult to give us an idea of how expensive each stock is, including the ratios of price to earnings (P/E), price to free cash flow (P/FCF), and price-to-earnings divided by growth (PEG):
+
+Here we have a different outcome: Cerner is by far the cheaper stock.",0.18154364824295044,0.024207986891269684,0.7942483425140381,neutral,0.15733566880226135
+30,2017-02-08 08:26:00,"Even after accounting for the potential for growth (via the PEG ratio), Cerner looks to be trading at a discount to Veeva.",0.22424308955669403,0.15392190217971802,0.6218350529670715,neutral,0.07032118737697601
+31,2017-02-08 08:26:00,"And the winner is... Veeva Systems
+
+So there you have it: Veeva has a slightly wider moat, and a slightly better balance sheet than Cerner, while Cerner comes in with a more favorable valuation.",0.8658434152603149,0.016598757356405258,0.11755785346031189,positive,0.8492446541786194
+32,2017-02-08 08:26:00,"The moat provided by Veeva -- and its business momentum -- is part of the reason that it occupies over 3% of my real-life portfolio, while I hold no shares of Cerner.",0.03523581102490425,0.006141279824078083,0.9586228728294373,neutral,0.029094532132148743
+33,2017-02-08 08:26:00,I suggest that shareholders with a long-term time horizon and a stomach for some volatility dig deeper into Veeva's story.,0.10594499856233597,0.008681674487888813,0.8853733539581299,neutral,0.09726332128047943
+34,2017-02-08 08:26:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+35,2017-02-08 08:26:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+36,2017-02-08 08:26:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+37,2017-02-08 08:26:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+38,2017-02-08 08:26:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+39,2017-02-08 08:26:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+40,2017-02-08 08:26:00,The Motley Fool owns shares of and recommends Veeva Systems.,0.034477271139621735,0.013045232743024826,0.9524774551391602,neutral,0.02143203839659691
+41,2017-02-08 08:26:00,The Motley Fool recommends Cerner.,0.07089276611804962,0.0261527206748724,0.9029545187950134,neutral,0.044740043580532074
+42,2017-02-08 08:26:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+43,2017-02-08 08:26:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

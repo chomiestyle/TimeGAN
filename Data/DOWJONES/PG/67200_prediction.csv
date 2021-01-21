@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-07 07:16:00,"In early trading on Monday, shares of Visa ( V ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.6%.",0.9406744241714478,0.03144384175539017,0.027881747111678123,positive,0.9092305898666382
+1,2019-01-07 07:16:00,"Year to date, Visa registers a 1.9% gain.",0.9496720433235168,0.02430121600627899,0.026026690378785133,positive,0.9253708124160767
+2,2019-01-07 07:16:00,"And the worst performing Dow component thus far on the day is 3M ( MMM ), trading down 1.1%.",0.02104908414185047,0.966486394405365,0.012464592233300209,negative,-0.9454373121261597
+3,2019-01-07 07:16:00,3M is lower by about 0.7% looking at the year to date performance.,0.020959189161658287,0.9653007984161377,0.013740051537752151,negative,-0.9443415999412537
+4,2019-01-07 07:16:00,"Two other components making moves today are Procter & Gamble Company ( PG ), trading down 1.1%, and Verizon Communications ( VZ ), trading up 0.5% on the day.",0.03354203328490257,0.9237551093101501,0.04270287975668907,negative,-0.8902130722999573
+5,2019-01-07 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

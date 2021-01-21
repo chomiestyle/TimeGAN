@@ -1,0 +1,510 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-26 07:13:00,"In this episode of Motley Fool Money, analysts Jason Moser, Andy Cross, and Ron Gross hit on some of the biggest recent market news.",0.16056375205516815,0.04498250037431717,0.7944537997245789,neutral,0.11558125168085098
+1,2019-11-26 07:13:00,"Target (NYSE: TGT) nails its quarterly report yet again, while other retailers like Macy's (NYSE: M) and Kohl's flop.",0.25136899948120117,0.603933572769165,0.1446973979473114,negative,-0.35256457328796387
+2,2019-11-26 07:13:00,"Charles Schwab (NYSE: SCHW) and TD Ameritrade (NASDAQ: AMTD) are looking to tie up, which could have big implications for the finance industry.",0.21936136484146118,0.04940269514918327,0.7312359809875488,neutral,0.1699586659669876
+3,2019-11-26 07:13:00,Restaurant Brands International makes a bold donut choice.,0.7483295798301697,0.013330287300050259,0.23834004998207092,positive,0.7349992990493774
+4,2019-11-26 07:13:00,"Plus, updates out of Intuit (NASDAQ: INTU), Home Depot (NYSE: HD), Lowe's (NYSE: LOW), and Nordstrom (NYSE: JWN), as well as some stocks on our radar this week.",0.08462759852409363,0.010052373632788658,0.9053199887275696,neutral,0.07457522302865982
+5,2019-11-26 07:13:00,"Stay tuned for a chat with corporate governance expert and movie reviewer Nell Minow about what the heck happened with WeWork, some alarming updates in governance law, movie recs for the holidays, and more.",0.046031653881073,0.06775004416704178,0.886218249797821,neutral,-0.02171839028596878
+6,2019-11-26 07:13:00,"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",0.04401024803519249,0.02094588615000248,0.9350439310073853,neutral,0.02306436188519001
+7,2019-11-26 07:13:00,"To get started investing, check out our quick-start guide to investing in stocks.",0.07803143560886383,0.00962066650390625,0.9123478531837463,neutral,0.06841076910495758
+8,2019-11-26 07:13:00,A full transcript follows the video.,0.01917308010160923,0.010780171491205692,0.9700466990470886,neutral,0.008392908610403538
+9,2019-11-26 07:13:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have an investing tip, it can pay to listen.",0.14467975497245789,0.019747961312532425,0.8355723023414612,neutral,0.12493179738521576
+10,2019-11-26 07:13:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+11,2019-11-26 07:13:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+12,2019-11-26 07:13:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+13,2019-11-26 07:13:00,"This video was recorded on Nov. 22, 2019.",0.016267085447907448,0.008683265186846256,0.9750496745109558,neutral,0.0075838202610611916
+14,2019-11-26 07:13:00,Chris Hill: We've got the latest news from Wall Street.,0.07890574634075165,0.022154951468110085,0.8989393711090088,neutral,0.05675079673528671
+15,2019-11-26 07:13:00,Nell Minow is our guest.,0.06407580524682999,0.01010159682482481,0.9258225560188293,neutral,0.0539742074906826
+16,2019-11-26 07:13:00,"And as always, we'll give you an inside look at the stocks on our radar.",0.07737119495868683,0.006301549728959799,0.9163272976875305,neutral,0.0710696429014206
+17,2019-11-26 07:13:00,But we begin with retail.,0.027393462136387825,0.005435936618596315,0.9671705961227417,neutral,0.021957525983452797
+18,2019-11-26 07:13:00,Best in class this week is Target.,0.2634076774120331,0.03424997627735138,0.7023423314094543,neutral,0.2291577011346817
+19,2019-11-26 07:13:00,Shares of Target hit an all-time high after a monster third quarter where pretty much everything was higher than expected.,0.9030644297599792,0.04099432751536369,0.05594128370285034,positive,0.8620700836181641
+20,2019-11-26 07:13:00,Target also raised guidance for the full fiscal year.,0.20806396007537842,0.01354594249278307,0.778390109539032,neutral,0.19451801478862762
+21,2019-11-26 07:13:00,"Ron, big tip of the jester cap to CEO Brian Cornell and his team.",0.15507163107395172,0.06649239361286163,0.7784359455108643,neutral,0.08857923746109009
+22,2019-11-26 07:13:00,Ron Gross: Really getting it done.,0.2763259708881378,0.023689070716500282,0.6999849081039429,neutral,0.2526369094848633
+23,2019-11-26 07:13:00,"Investment in e-commerce, rollout of curbside pickup, same-day deliveries really bearing fruit.",0.6904972195625305,0.018798645585775375,0.2907041311264038,positive,0.6716985702514648
+24,2019-11-26 07:13:00,Comp sales up 4.5%.,0.9087753295898438,0.04114237055182457,0.050082284957170486,positive,0.8676329851150513
+25,2019-11-26 07:13:00,Online sales up 31%.,0.9249320030212402,0.03478407487273216,0.040283892303705215,positive,0.8901479244232178
+26,2019-11-26 07:13:00,Adjusted earnings up 25%.,0.9416078329086304,0.027155369520187378,0.031236769631505013,positive,0.9144524335861206
+27,2019-11-26 07:13:00,"Very, very strong quarter.",0.9225344657897949,0.021236633881926537,0.056228894740343094,positive,0.9012978076934814
+28,2019-11-26 07:13:00,"Andy Cross: Yeah, and 80% of the digital comparable sales growth was really from those same-day initiatives, drive up, pick it up, that Ron mentioned.",0.1294821798801422,0.01092106569558382,0.8595967888832092,neutral,0.11856111139059067
+29,2019-11-26 07:13:00,"The investments they're making in this space, they've really been able to leverage the uniqueness to Target, which is their brand, I think, and what they offer in their merchandising, but also their locations.",0.7152034640312195,0.011076522059738636,0.27372002601623535,positive,0.7041269540786743
+30,2019-11-26 07:13:00,"They have all those locations, some 1,800 locations, and they continue to innovate in that way that has really made them the class of the industry.",0.6690312623977661,0.011260218918323517,0.3197084665298462,positive,0.6577710509300232
+31,2019-11-26 07:13:00,"Gross: Yeah, they've opened smaller locations.",0.10525975376367569,0.10589337348937988,0.7888469099998474,neutral,-0.0006336197257041931
+32,2019-11-26 07:13:00,"They're focusing on groceries, they're expanding their private brands, doing a lot of things right now for the holiday season, making a big bet on toys.",0.32741543650627136,0.008369388058781624,0.6642152070999146,neutral,0.3190460503101349
+33,2019-11-26 07:13:00,"Hill: Well, a lot of momentum going into the holiday season.",0.2898408770561218,0.014460252597928047,0.6956988573074341,neutral,0.27538061141967773
+34,2019-11-26 07:13:00,"But, you mentioned the private brands.",0.025465594604611397,0.015002230182290077,0.9595321416854858,neutral,0.01046336442232132
+35,2019-11-26 07:13:00,"I'm reminded of the story a few years ago where Cornell decided, we're going to sell our pharmacy business.",0.017025040462613106,0.009835570119321346,0.9731394648551941,neutral,0.0071894703432917595
+36,2019-11-26 07:13:00,"And there were legitimate questions at the time of, is this a good move?",0.057978879660367966,0.04398258030414581,0.8980385661125183,neutral,0.013996299356222153
+37,2019-11-26 07:13:00,That was a profitable part of the business.,0.18572871387004852,0.007655605673789978,0.8066157102584839,neutral,0.17807310819625854
+38,2019-11-26 07:13:00,"And he made the case then, no, we're going to invest in private brands, we're going to invest in other ways.",0.16657325625419617,0.006170319393277168,0.8272563815116882,neutral,0.16040293872356415
+39,2019-11-26 07:13:00,And it's hard to look at that move now as anything other than smart.,0.1422901749610901,0.1001618355512619,0.7575480341911316,neutral,0.042128339409828186
+40,2019-11-26 07:13:00,Gross: They've literally made a series of very smart moves all along the way.,0.3173646926879883,0.020443418994545937,0.6621918678283691,neutral,0.2969212830066681
+41,2019-11-26 07:13:00,"If you had bought the stock three years ago, or even a year ago, you're a very happy investor.",0.20117498934268951,0.009109515696763992,0.7897155284881592,neutral,0.19206547737121582
+42,2019-11-26 07:13:00,"I think they're set up well, as we were saying, for the holiday season.",0.5571234822273254,0.01289660669863224,0.42997997999191284,positive,0.544226884841919
+43,2019-11-26 07:13:00,Big bet on toys.,0.1500575840473175,0.014397245831787586,0.8355451822280884,neutral,0.1356603354215622
+44,2019-11-26 07:13:00,Two dozen mini Disney (NYSE: DIS) stores within certain locations.,0.009924214333295822,0.024109557271003723,0.9659662246704102,neutral,-0.014185342937707901
+45,2019-11-26 07:13:00,"And something I didn't know is, they've kind of taken over the fulfillment of the Toys R Us website.",0.03320695832371712,0.2807818353176117,0.6860111951828003,neutral,-0.24757488071918488
+46,2019-11-26 07:13:00,I didn't know that that was back.,0.08955825120210648,0.21705129742622375,0.6933904886245728,neutral,-0.12749305367469788
+47,2019-11-26 07:13:00,Jason Moser: Yeah.,0.13323134183883667,0.05610313639044762,0.8106655478477478,neutral,0.07712820172309875
+48,2019-11-26 07:13:00,"I think, though, when you look at the performance of companies like Walmart and Target versus a lot of these other retailers, you're starting to see them separate a little bit.",0.19905708730220795,0.17507654428482056,0.6258664131164551,neutral,0.02398054301738739
+49,2019-11-26 07:13:00,"Really, to me, grocery is turning out to be one of those major differentiators.",0.13838092982769012,0.013220753520727158,0.8483983278274536,neutral,0.12516017258167267
+50,2019-11-26 07:13:00,"You wouldn't have thought about it all that long ago, because it's just so obvious, right?",0.0685502216219902,0.07348667085170746,0.8579630851745605,neutral,-0.004936449229717255
+51,2019-11-26 07:13:00,It's right there in front of you.,0.0757312998175621,0.016946585848927498,0.9073220491409302,neutral,0.058784715831279755
+52,2019-11-26 07:13:00,But grocery is just such a tremendous opportunity.,0.3758356273174286,0.01055876538157463,0.6136055588722229,neutral,0.36527687311172485
+53,2019-11-26 07:13:00,And Walmart and Target made so many investments in that space.,0.0943240225315094,0.006179888267070055,0.8994960784912109,neutral,0.08814413100481033
+54,2019-11-26 07:13:00,Really clearly starting to pay off.,0.6329410076141357,0.021859362721443176,0.3451996147632599,positive,0.6110816597938538
+55,2019-11-26 07:13:00,"Hill: Well, and part of the reason is because publicly traded grocery stores weren't necessarily a great stock to have in your portfolio if you're just thinking about the generic grocery stores -- Giant, Safeway, etc.",0.02313382737338543,0.044642433524131775,0.9322237372398376,neutral,-0.021508606150746346
+56,2019-11-26 07:13:00,Moser: Yeah.,0.16852477192878723,0.04414665326476097,0.7873285412788391,neutral,0.12437811493873596
+57,2019-11-26 07:13:00,"And they're still not very good stocks to hold in your portfolio because they're just a razor thin-margin business to begin with, with the exception of your Costcos of the world thanks to that membership model.",0.026707135140895844,0.017787080258131027,0.9555057883262634,neutral,0.008920054882764816
+58,2019-11-26 07:13:00,"Gross: You know, from a stock perspective, so, they raised full-year guidance, which is appropriate, they're doing really well, still only 20X earnings based on that new guidance.",0.7884164452552795,0.038292039185762405,0.17329153418540955,positive,0.7501243948936462
+59,2019-11-26 07:13:00,"Even though the stock's up 91% this year, I don't think 20X is expensive for a business that's firing like this.",0.27633485198020935,0.019703945145010948,0.703961193561554,neutral,0.25663089752197266
+60,2019-11-26 07:13:00,"Hill: By the way, if you're Amazon, doesn't this make you feel good to see this?",0.22226575016975403,0.019258184358477592,0.7584760785102844,neutral,0.2030075639486313
+61,2019-11-26 07:13:00,"I mean, yes, they're in competition.",0.19019103050231934,0.014623580500483513,0.795185387134552,neutral,0.17556744813919067
+62,2019-11-26 07:13:00,But isn't it harder to make the case that Amazon is destroying retail when Target and Walmart and Costco are doing well?,0.05451083183288574,0.6892902255058289,0.2561989426612854,negative,-0.6347793936729431
+63,2019-11-26 07:13:00,"Cross: Well, I think there's plenty of other retailers that Amazon could point to that haven't been doing quite as well.",0.11864519864320755,0.37467771768569946,0.5066770911216736,neutral,-0.2560325264930725
+64,2019-11-26 07:13:00,"Cross: But, clearly, to Jason's point, he mentioned grocery, that's been a big driver certainly for Walmart.",0.176840677857399,0.03496719151735306,0.788192093372345,neutral,0.14187347888946533
+65,2019-11-26 07:13:00,Big supporter there.,0.297259658575058,0.013182790018618107,0.6895576119422913,neutral,0.28407686948776245
+66,2019-11-26 07:13:00,Also for Target.,0.03543384373188019,0.018352702260017395,0.94621342420578,neutral,0.017081141471862793
+67,2019-11-26 07:13:00,What those guys are doing is so much different than what we're seeing from the other competitors.,0.04954848065972328,0.010582598857581615,0.9398688673973083,neutral,0.03896588087081909
+68,2019-11-26 07:13:00,I think Amazon has plenty of bragging rights for what they've done to the industry.,0.26620370149612427,0.017401786521077156,0.7163944840431213,neutral,0.24880191683769226
+69,2019-11-26 07:13:00,"Hill: Speaking of other retailers, if Target's third quarter was a thing of beauty, the third quarters of Macy's and Kohl's, not so much.",0.021463410928845406,0.022325115278363228,0.9562114477157593,neutral,-0.0008617043495178223
+70,2019-11-26 07:13:00,"Shares down 10% and 20% respectively this week after Macy's and Kohl's are really struggling, Jason, to get any momentum going into the holidays.",0.0200185589492321,0.9673394560813904,0.01264195702970028,negative,-0.9473208785057068
+71,2019-11-26 07:13:00,"Moser: This is like that, ""Well we have some good news and bad news.""",0.0394773967564106,0.10588539391756058,0.8546372056007385,neutral,-0.06640799343585968
+72,2019-11-26 07:13:00,"We gave you the good news first, listeners.",0.11328335851430893,0.009320132434368134,0.8773964643478394,neutral,0.1039632260799408
+73,2019-11-26 07:13:00,Here's the bad news.,0.03864717483520508,0.17275798320770264,0.7885948419570923,neutral,-0.13411080837249756
+74,2019-11-26 07:13:00,"Macy's and Kohl's, wow.",0.11538072675466537,0.0315338633954525,0.8530853986740112,neutral,0.08384686708450317
+75,2019-11-26 07:13:00,"With Macy's, I'm never surprised.",0.06295657157897949,0.043425656855106354,0.8936177492141724,neutral,0.01953091472387314
+76,2019-11-26 07:13:00,"I don't feel like I'm ever surprised, really, when they miss expectations or guide down.",0.06004558503627777,0.17073965072631836,0.7692148089408875,neutral,-0.11069406569004059
+77,2019-11-26 07:13:00,That's just what you've kind of come to expect from a business like this.,0.1183691993355751,0.007353438064455986,0.8742773532867432,neutral,0.11101575940847397
+78,2019-11-26 07:13:00,And they really just continued that trend.,0.34438979625701904,0.013510690070688725,0.6420995593070984,neutral,0.3308790922164917
+79,2019-11-26 07:13:00,"Back in August, some of the numbers I was looking at with this company, just to figure out where they were headed, top line revenue down 11% since 2015.",0.017519360408186913,0.9666298627853394,0.015850769355893135,negative,-0.9491105079650879
+80,2019-11-26 07:13:00,Net income down 33%.,0.017593270167708397,0.968424379825592,0.013982424512505531,negative,-0.9508311152458191
+81,2019-11-26 07:13:00,Earnings per share down 22%.,0.018485214561223984,0.9674901366233826,0.014024545438587666,negative,-0.9490049481391907
+82,2019-11-26 07:13:00,"They burn through a lot of cash along the way, too.",0.328958660364151,0.010331664234399796,0.6607096791267395,neutral,0.3186269998550415
+83,2019-11-26 07:13:00,"I will give them credit, at least that cash is not going toward share repurchases over the last few years.",0.05890752747654915,0.020783953368663788,0.9203085899353027,neutral,0.03812357410788536
+84,2019-11-26 07:13:00,That's good.,0.7030230164527893,0.020329121500253677,0.2766478359699249,positive,0.6826938986778259
+85,2019-11-26 07:13:00,"Gross: 5X earnings, somebody's going to be tempted.",0.1460963934659958,0.0991852730512619,0.7547183036804199,neutral,0.04691112041473389
+86,2019-11-26 07:13:00,"Moser: You look at something like Kohl's, and I tell you, I recently went into a Kohl's to return an Amazon package.",0.029975449666380882,0.016493653878569603,0.9535309076309204,neutral,0.01348179578781128
+87,2019-11-26 07:13:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+88,2019-11-26 07:13:00,"1, I'm never going to do that again because it wasn't enjoyable, I had to stand in line.",0.11227548122406006,0.10053795576095581,0.7871865630149841,neutral,0.011737525463104248
+89,2019-11-26 07:13:00,"But then what I did after I got done with it, I took a lap around the store because I haven't been in a Kohl's in I can't remember how long.",0.0365031436085701,0.06865908205509186,0.8948377370834351,neutral,-0.03215593844652176
+90,2019-11-26 07:13:00,"I felt like it was walking around a JC Penney, and that's not a good thing.",0.049277886748313904,0.23603802919387817,0.7146841287612915,neutral,-0.18676014244556427
+91,2019-11-26 07:13:00,"When you talk about a company with financials that are trending in the wrong direction, Kohl's very much the same picture.",0.022119080647826195,0.1275174617767334,0.8503634929656982,neutral,-0.10539837926626205
+92,2019-11-26 07:13:00,"Interestingly, their dividend yield now at 5.7%.",0.061052244156599045,0.014965184964239597,0.9239826202392578,neutral,0.04608706012368202
+93,2019-11-26 07:13:00,The payout ratio is creeping up.,0.8995074033737183,0.023889085277915,0.07660354673862457,positive,0.8756183385848999
+94,2019-11-26 07:13:00,I think we really have to pay attention to this one because the financials don't look like they're going to be able to support that payout.,0.07485726475715637,0.07147008180618286,0.8536726832389832,neutral,0.0033871829509735107
+95,2019-11-26 07:13:00,"Hill: Well, and we were talking at our production meeting, you look at the number of locations that Macy's and Kohl's have combined, it's somewhere in the neighborhood of 1,800 locations.",0.023519348353147507,0.022158188745379448,0.9543224573135376,neutral,0.0013611596077680588
+96,2019-11-26 07:13:00,That just seems too big and too many locations for retailers that are struggling like this.,0.023590123280882835,0.9234810471534729,0.05292888730764389,negative,-0.8998908996582031
+97,2019-11-26 07:13:00,Moser: It does seem like a lot.,0.0264512337744236,0.019176501780748367,0.9543722867965698,neutral,0.007274731993675232
+98,2019-11-26 07:13:00,"I appreciate them partnering up with Amazon, for example, as another option for returning.",0.6452155709266663,0.012801215052604675,0.3419831693172455,positive,0.6324143409729004
+99,2019-11-26 07:13:00,But they're not the only ones doing that.,0.04042023420333862,0.07122009247541428,0.8883596658706665,neutral,-0.030799858272075653
+100,2019-11-26 07:13:00,"I mean, the UPS Store, for example, is doing the same thing.",0.0229288712143898,0.02093711495399475,0.9561339616775513,neutral,0.00199175626039505
+101,2019-11-26 07:13:00,"We were in a UPS Store recently as well, and they said most of their business day to day, people coming into return Amazon packages.",0.01416856236755848,0.03545914962887764,0.9503722786903381,neutral,-0.02129058726131916
+102,2019-11-26 07:13:00,"Gross: Yeah, Macy's was concerned that their report wasn't weak enough, so they threw in a data breach just for good measure.",0.0617305263876915,0.865960955619812,0.0723084956407547,negative,-0.8042304515838623
+103,2019-11-26 07:13:00,I guess they saw Target weather this storm.,0.08666075021028519,0.04638895019888878,0.8669503331184387,neutral,0.04027180001139641
+104,2019-11-26 07:13:00,Hopefully they will do that as well.,0.587327778339386,0.01771206595003605,0.39496010541915894,positive,0.5696157217025757
+105,2019-11-26 07:13:00,Hill: Shares of Intuit falling on Friday despite first quarter profits coming in higher than expected.,0.020135072991251945,0.9699007868766785,0.009964143857359886,negative,-0.9497657418251038
+106,2019-11-26 07:13:00,"Andy, have to give management at Intuit credit for being very upfront about the fact that they're about to spend a lot of money on marketing.",0.2190089374780655,0.04901443049311638,0.7319766283035278,neutral,0.1699945032596588
+107,2019-11-26 07:13:00,"Cross: Well, also, just think about what Intuit has done, Chris, how they have really changed this business, moved it aggressively into the cloud, where they now provide their financial management software QuickBooks, Turbo Tax, they even have Mint.",0.41573143005371094,0.009944825433194637,0.5743237137794495,neutral,0.4057866036891937
+108,2019-11-26 07:13:00,They've made this adjustment and it's really benefited them.,0.8490473031997681,0.01507051195949316,0.1358822137117386,positive,0.8339768052101135
+109,2019-11-26 07:13:00,The stock is up 34% year to date and up 176% over the last five years versus 46% for the market.,0.9507488012313843,0.020108621567487717,0.02914252132177353,positive,0.9306401610374451
+110,2019-11-26 07:13:00,The quarter I thought was pretty impressive.,0.5838174819946289,0.016173796728253365,0.4000087082386017,positive,0.5676437020301819
+111,2019-11-26 07:13:00,Revenue was up 15%.,0.951191246509552,0.02157028764486313,0.027238352224230766,positive,0.9296209812164307
+112,2019-11-26 07:13:00,That was ahead of their own guidance.,0.23868241906166077,0.02511269971728325,0.7362048625946045,neutral,0.21356971561908722
+113,2019-11-26 07:13:00,Their operating income up 26%.,0.9429470896720886,0.027116863057017326,0.0299360454082489,positive,0.9158302545547485
+114,2019-11-26 07:13:00,Their earnings per share was at $0.41.,0.034690968692302704,0.04499739035964012,0.920311689376831,neutral,-0.010306421667337418
+115,2019-11-26 07:13:00,That was way ahead of analyst expectations.,0.5557426810264587,0.1051422581076622,0.33911511301994324,positive,0.45060041546821594
+116,2019-11-26 07:13:00,"Their guidance may have been a little bit weaker than I think people were looking for, certainly from the analysts.",0.02256047911942005,0.9286065101623535,0.048833008855581284,negative,-0.9060460329055786
+117,2019-11-26 07:13:00,"But overall, Intuit continues to do exactly what investors love to see for this business.",0.6153204441070557,0.010200580582022667,0.3744789659976959,positive,0.6051198840141296
+118,2019-11-26 07:13:00,"Their small business and self-employed, which is their main business for QuickBooks, that ecosystem revenue that they talk about, which they want to see grow more than 30% every year, that was up 35%.",0.9253058433532715,0.01960655301809311,0.05508769303560257,positive,0.9056993126869202
+119,2019-11-26 07:13:00,"That continues to be a stretch of their success, and a part of their business where they can get more and more clients into that ecosystem and be able to charge them for more and more services.",0.7284852862358093,0.011478248983621597,0.260036438703537,positive,0.717007040977478
+120,2019-11-26 07:13:00,Hill: Who is attempting to compete with Intuit?,0.03964446112513542,0.04332846775650978,0.9170271158218384,neutral,-0.003684006631374359
+121,2019-11-26 07:13:00,I'm scratching my head trying to think of who is the Coke to their Pepsi or the Pepsi to their Coke?,0.07595181465148926,0.16340143978595734,0.7606467604637146,neutral,-0.08744962513446808
+122,2019-11-26 07:13:00,Cross: It's a great question.,0.0708397626876831,0.024233879521489143,0.9049264192581177,neutral,0.04660588502883911
+123,2019-11-26 07:13:00,"Not to the success when they have more than 50 million clients, they really have done so well on the small business and the individual, really the small business, though with QuickBooks, and now their accounting.",0.2423376888036728,0.012895462103188038,0.744766891002655,neutral,0.22944222390651703
+124,2019-11-26 07:13:00,"They continue to push into new and newer services, too.",0.5395217537879944,0.010478591546416283,0.4499996602535248,positive,0.5290431380271912
+125,2019-11-26 07:13:00,They now offer credits and credit scoring services into there.,0.08714139461517334,0.004812493454664946,0.9080461263656616,neutral,0.0823289006948471
+126,2019-11-26 07:13:00,"So, as they continue to evolve, they're not going to continue to grow at 30%, 40% a year like they did this quarter on their profit side.",0.1655190885066986,0.1380162537097931,0.6964647173881531,neutral,0.027502834796905518
+127,2019-11-26 07:13:00,"Maybe more like 10%, 15%.",0.04904894530773163,0.01080004870891571,0.9401509761810303,neutral,0.03824889659881592
+128,2019-11-26 07:13:00,But that's still pretty respectable for a $70 billion organization.,0.3011278808116913,0.022334227338433266,0.6765379309654236,neutral,0.27879366278648376
+129,2019-11-26 07:13:00,Hill: Home Depot and Lowe's both out with third quarter reports this week.,0.03283930942416191,0.8196458220481873,0.14751484990119934,negative,-0.7868065237998962
+130,2019-11-26 07:13:00,"Lowe's having the better week, with profits higher than expected and the company raising guidance.",0.935355007648468,0.034287452697753906,0.03035758249461651,positive,0.9010675549507141
+131,2019-11-26 07:13:00,"Home Depot's stock down more than 8% on lower revenue and same-store sales, Jason.",0.018622424453496933,0.970848560333252,0.010528996586799622,negative,-0.9522261619567871
+132,2019-11-26 07:13:00,"Moser: So, Chris, Home Depot's quarter wasn't as bad as the sell-off would have you believe, and Lowe's quarter wasn't as good as perhaps the buying in the stock would have you believe.",0.0956292673945427,0.6307673454284668,0.2736033499240875,negative,-0.5351380705833435
+133,2019-11-26 07:13:00,"I mean, this really is all just about expectations at the end of the day and what they see happening in the coming quarters.",0.012729603797197342,0.014924741350114346,0.9723456501960754,neutral,-0.0021951375529170036
+134,2019-11-26 07:13:00,"But if you look at the way that companies are performing, Home Depot, reaffirming earnings per share guidance.",0.10092741250991821,0.00997740775346756,0.8890951871871948,neutral,0.09095000475645065
+135,2019-11-26 07:13:00,They did guide down 50 basis points on comps.,0.022520525380969048,0.928392767906189,0.049086712300777435,negative,-0.9058722257614136
+136,2019-11-26 07:13:00,There could be some traffic concerns there.,0.03890170529484749,0.7671147584915161,0.1939835101366043,negative,-0.7282130718231201
+137,2019-11-26 07:13:00,It could just be poor forecasting earlier in the year.,0.026603251695632935,0.8855254054069519,0.08787134289741516,negative,-0.8589221239089966
+138,2019-11-26 07:13:00,"They're using language in the call like ""the housing market is healthy and stable.""",0.08177845925092697,0.09678606688976288,0.8214354515075684,neutral,-0.015007607638835907
+139,2019-11-26 07:13:00,"Certainly with Home Depot, they saw growth in both the number of transactions and the size of those transactions.",0.8364191055297852,0.0126204127445817,0.15096038579940796,positive,0.8237987160682678
+140,2019-11-26 07:13:00,"Now, Lowe's, on the other hand, while they raised earnings per share guidance, they see their comps around 3%, which is a little lighter than Home Depot.",0.7250349521636963,0.06654969602823257,0.20841537415981293,positive,0.6584852337837219
+141,2019-11-26 07:13:00,"But while Lowe's saw some growth in ticket size, transactions were actually down, so they're still trying to figure out how to generate that traffic that has been on the decline recently.",0.08281607925891876,0.6507052183151245,0.2664787173271179,negative,-0.5678891539573669
+142,2019-11-26 07:13:00,"At the end of the day, you've got Home Depot trading at 22X full-year estimates.",0.01951422542333603,0.01860981062054634,0.9618759751319885,neutral,0.0009044148027896881
+143,2019-11-26 07:13:00,You've got Lowe's trading around 21X full-year estimates.,0.025455400347709656,0.012076396495103836,0.9624682068824768,neutral,0.01337900385260582
+144,2019-11-26 07:13:00,"Home Depot yielding 2.5%, Lowe's yielding 1.9%.",0.02731340378522873,0.11577973514795303,0.8569068312644958,neutral,-0.0884663313627243
+145,2019-11-26 07:13:00,I think you make your decisions based on those numbers.,0.03973185271024704,0.00929828267544508,0.9509698748588562,neutral,0.030433569103479385
+146,2019-11-26 07:13:00,Hill: What do you make of Lowe's closing the stores in Canada?,0.020206481218338013,0.2108902484178543,0.7689033150672913,neutral,-0.1906837671995163
+147,2019-11-26 07:13:00,"Not that they have a huge footprint there, but on a percentage basis, part of their announcement was, ""We really need to rethink what we're doing in Canada.""",0.27845728397369385,0.021084515377879143,0.7004581689834595,neutral,0.25737276673316956
+148,2019-11-26 07:13:00,"Moser: Well, yeah, it's not Canada specific in the sense that they're just trying to find areas of underperformance.",0.04104410484433174,0.15813001990318298,0.8008258938789368,neutral,-0.11708591878414154
+149,2019-11-26 07:13:00,"Right now, this is a business in transition.",0.21706020832061768,0.016161125153303146,0.7667787075042725,neutral,0.20089907944202423
+150,2019-11-26 07:13:00,"Marvin Ellison, the relatively new CEO, is really trying to get things back in order and make the investments count.",0.1761654019355774,0.012371446937322617,0.8114631175994873,neutral,0.16379395127296448
+151,2019-11-26 07:13:00,"If you have underperforming stores in retail, you have to shut them down and focus on where you're seeing more success.",0.06986071914434433,0.3275354206562042,0.6026038527488708,neutral,-0.2576746940612793
+152,2019-11-26 07:13:00,Hill: Something that got talked about on the Home Depot call was the amount of theft that Home Depot is dealing with.,0.025449402630329132,0.19431577622890472,0.7802348136901855,neutral,-0.168866366147995
+153,2019-11-26 07:13:00,"Third quarter in a row that shrink, which is where employee theft and just shoplifting in general comes under.",0.042576152831315994,0.6975533366203308,0.2598704993724823,negative,-0.6549772024154663
+154,2019-11-26 07:13:00,I have to give credit to Courtney Reagan at CNBC because she just did a pretty eye-opening report.,0.1537065953016281,0.04353838041424751,0.8027550578117371,neutral,0.1101682186126709
+155,2019-11-26 07:13:00,"I didn't realize the extent to which both Home Depot and Lowe's are dealing with a rising amount of theft, how that is impacting their margins, and retailers in general.",0.03740190342068672,0.6763302683830261,0.2862679064273834,negative,-0.6389283537864685
+156,2019-11-26 07:13:00,"National Retail Federation out with a survey, nearly 70% of retailers are reporting higher theft than they were a year ago.",0.5240615010261536,0.284021258354187,0.19191725552082062,positive,0.24004024267196655
+157,2019-11-26 07:13:00,Moser: Yeah.,0.16852477192878723,0.04414665326476097,0.7873285412788391,neutral,0.12437811493873596
+158,2019-11-26 07:13:00,"Really, over the next two or three quarters, I'm going to search through every retail call for that word shrink, to see how many times that comes up.",0.04713031277060509,0.042971499264240265,0.9098981618881226,neutral,0.004158813506364822
+159,2019-11-26 07:13:00,I suspect we'll see it come up often.,0.10208850353956223,0.010203146375715733,0.8877083659172058,neutral,0.09188535809516907
+160,2019-11-26 07:13:00,"For Home Depot, they actually quantified it.",0.06528664380311966,0.010805273428559303,0.9239081144332886,neutral,0.054481372237205505
+161,2019-11-26 07:13:00,It came out to about a 31 basis point drop in gross margin thanks to that problem of shrink.,0.017573948949575424,0.965833306312561,0.016592781990766525,negative,-0.9482593536376953
+162,2019-11-26 07:13:00,"That's everywhere from just inventory mismanagement, return issues, to theft, internal and external.",0.026131443679332733,0.11686026304960251,0.8570082783699036,neutral,-0.09072881937026978
+163,2019-11-26 07:13:00,They even had an interview with the former CFO of Home Depot.,0.049686916172504425,0.016020726412534714,0.9342923164367676,neutral,0.03366618975996971
+164,2019-11-26 07:13:00,"We've seen the development of this black market, which is just really astounding.",0.0397627130150795,0.025671454146504402,0.9345658421516418,neutral,0.014091258868575096
+165,2019-11-26 07:13:00,"She was attributing a lot of this to the opioid crisis desperation, people looking to figure out new ways to just get money.",0.05026073008775711,0.05472635477781296,0.8950129151344299,neutral,-0.004465624690055847
+166,2019-11-26 07:13:00,"It's a fascinating thing, but it shows you a lot of the risks still out there for those big box retailers.",0.069404736161232,0.015610240399837494,0.9149850010871887,neutral,0.0537944957613945
+167,2019-11-26 07:13:00,Hill: Shares of Nordstrom up 10% on Friday after third quarter profits and revenue came in higher than expected.,0.9417855143547058,0.035804759711027145,0.022409712895751,positive,0.9059807658195496
+168,2019-11-26 07:13:00,"Ron, Nordstrom's stock has definitely bounced back from the low that it hit in August.",0.9274638295173645,0.033188845962285995,0.039347387850284576,positive,0.8942750096321106
+169,2019-11-26 07:13:00,"Still down for the year, though.",0.050620485097169876,0.818065881729126,0.13131363689899445,negative,-0.7674453854560852
+170,2019-11-26 07:13:00,Gross: Down 21% for the year.,0.019756222143769264,0.9694720506668091,0.010771756991744041,negative,-0.9497158527374268
+171,2019-11-26 07:13:00,"This report, they did beat expectations, but not everything was great.",0.7910788655281067,0.03918774798512459,0.16973339021205902,positive,0.7518911361694336
+172,2019-11-26 07:13:00,"They did sell more off-price clothing, they kept inventories at reasonable levels.",0.5398907661437988,0.06349123269319534,0.39661797881126404,positive,0.4763995409011841
+173,2019-11-26 07:13:00,"Their investments in their loyalty program, digital marketing have helped.",0.8609158992767334,0.01300205197185278,0.12608197331428528,positive,0.8479138612747192
+174,2019-11-26 07:13:00,"But, total revenue was down 2%.",0.01859603263437748,0.9700377583503723,0.011366220191121101,negative,-0.9514417052268982
+175,2019-11-26 07:13:00,That's a result of a 4.1% decline in their full-priced store sales.,0.019278667867183685,0.9689182043075562,0.011803141795098782,negative,-0.9496395587921143
+176,2019-11-26 07:13:00,"Off-price was stronger, up 1.2%.",0.9273279905319214,0.03526592627167702,0.037406083196401596,positive,0.8920620679855347
+177,2019-11-26 07:13:00,"Digital sales was even stronger, up 7%.",0.949368417263031,0.025961652398109436,0.024669919162988663,positive,0.9234067797660828
+178,2019-11-26 07:13:00,"But when you boil it all together, total sales down, too.",0.03046337328851223,0.755775511264801,0.2137611210346222,negative,-0.7253121137619019
+179,2019-11-26 07:13:00,Not great.,0.12066298723220825,0.16696950793266296,0.7123675346374512,neutral,-0.04630652070045471
+180,2019-11-26 07:13:00,"You did have gross margins widening a bit, which helped profit.",0.8635385036468506,0.030209582298994064,0.10625194758176804,positive,0.833328902721405
+181,2019-11-26 07:13:00,That led to a 90.5% increase in adjusted earnings.,0.9498869180679321,0.018758192658424377,0.03135482594370842,positive,0.931128740310669
+182,2019-11-26 07:13:00,They were able to raise the lower end of their 2019 guidance.,0.5098304152488708,0.019794275984168053,0.47037529945373535,positive,0.49003612995147705
+183,2019-11-26 07:13:00,"The stock's only trading at 11X, but let's face it, it's because they have not done a great job over the last several years.",0.07721135020256042,0.584413468837738,0.33837518095970154,negative,-0.5072021484375
+184,2019-11-26 07:13:00,"Hill: There are stretches of time where Nordstrom as a business has done well, and therefore the stock has done well, but every time I think about taking this retailer and putting it on my watch list, I'm reminded of the fact that this family wants to sell the business.",0.6071409583091736,0.033779077231884,0.35907992720603943,positive,0.573361873626709
+185,2019-11-26 07:13:00,Does that alone just keep a stock off to the side for you?,0.09300927817821503,0.12726010382175446,0.7797306180000305,neutral,-0.03425082564353943
+186,2019-11-26 07:13:00,"It's hard for me to think in terms of, this is the stock I want to own for the next 10, 20 years, when I know that the family has talked openly about selling it.",0.029918039217591286,0.010619810782372952,0.9594621062278748,neutral,0.01929822936654091
+187,2019-11-26 07:13:00,"Gross: I don't mind if a stock gets taken out from under me at a premium, as long as the premium is fair, but I just think it's real hard to get people interested in mall-based retailers right now.",0.04328343644738197,0.17563976347446442,0.7810767292976379,neutral,-0.13235633075237274
+188,2019-11-26 07:13:00,That's the main reason they're having trouble selling the company.,0.03479215130209923,0.4707963466644287,0.4944115877151489,neutral,-0.4360041916370392
+189,2019-11-26 07:13:00,It's the main reason people don't want to own this company.,0.020996801555156708,0.0664723739027977,0.9125308990478516,neutral,-0.04547557234764099
+190,2019-11-26 07:13:00,And their operating performance is just not great.,0.03731171041727066,0.8341193199157715,0.12856900691986084,negative,-0.796807587146759
+191,2019-11-26 07:13:00,Hill: Big deal brewing in the financial industry.,0.20949241518974304,0.07706734538078308,0.7134402394294739,neutral,0.13242506980895996
+192,2019-11-26 07:13:00,Charles Schwab is reportedly trying to buy TD Ameritrade.,0.02304372936487198,0.03290804475545883,0.944048285484314,neutral,-0.009864315390586853
+193,2019-11-26 07:13:00,"If it happens and the deal goes through, the resulting brokerage would have roughly $5 trillion in assets, Andy.",0.03633512929081917,0.005724580958485603,0.9579402208328247,neutral,0.030610548332333565
+194,2019-11-26 07:13:00,"Cross: It's a big number, but when you're competing against the likes of Vanguard and BlackRock, who also have numbers that begin with Ts, you have to expect that consolidation.",0.5274408459663391,0.01848609559237957,0.45407313108444214,positive,0.5089547634124756
+195,2019-11-26 07:13:00,"We've talked about this, especially after Charles Schwab made that blockbuster announcement earlier this fall that they were going to zero dollar commissions.",0.11378558725118637,0.03222816437482834,0.8539862632751465,neutral,0.08155742287635803
+196,2019-11-26 07:13:00,"And then TD Ameritrade, Fidelity all followed along.",0.06060124561190605,0.006241165567189455,0.9331575632095337,neutral,0.054360080510377884
+197,2019-11-26 07:13:00,Those stocks all really got hit.,0.07328092306852341,0.07688423991203308,0.8498348593711853,neutral,-0.003603316843509674
+198,2019-11-26 07:13:00,"Schwab is sitting there, one of the better-run discount brokerages, the largest discount broker, saying, ""How can we continue to get more and more scale?""",0.566935658454895,0.013597970828413963,0.41946640610694885,positive,0.5533376932144165
+199,2019-11-26 07:13:00,That's really important in this business.,0.19361205399036407,0.008400694467127323,0.7979872822761536,neutral,0.18521136045455933
+200,2019-11-26 07:13:00,"TD Ameritrade, saying their revenues would drop by 15% probably with the lack of the trading revenues now from the zero-dollar commissions, and they need scale.",0.016499055549502373,0.9614085555076599,0.022092387080192566,negative,-0.9449095129966736
+201,2019-11-26 07:13:00,"So, the rumors have been in the conversation zone.",0.13932746648788452,0.10900045931339264,0.751672089099884,neutral,0.030327007174491882
+202,2019-11-26 07:13:00,We've talked about them.,0.09823405742645264,0.00828527845442295,0.8934807181358337,neutral,0.08994878083467484
+203,2019-11-26 07:13:00,Not really surprised to see this.,0.0581815280020237,0.01873309537768364,0.9230853319168091,neutral,0.03944843262434006
+204,2019-11-26 07:13:00,Not surprised to see that Charles Schwab is looking to make that acquisition.,0.12860925495624542,0.006901601329445839,0.8644890785217285,neutral,0.12170765548944473
+205,2019-11-26 07:13:00,Hill: TD Ameritrade is a $25 billion company.,0.06039850413799286,0.0051389094442129135,0.9344626069068909,neutral,0.055259592831134796
+206,2019-11-26 07:13:00,I guess I'm not surprised that Schwab is making this move.,0.06439261138439178,0.031395308673381805,0.9042121171951294,neutral,0.03299730271100998
+207,2019-11-26 07:13:00,"I guess I'm just more surprised that E*Trade, which is a much smaller company at $10 billion, is still out there as a stand-alone public company.",0.023596588522195816,0.021493956446647644,0.9549093842506409,neutral,0.002102632075548172
+208,2019-11-26 07:13:00,Cross: I think it's a scale play.,0.13303111493587494,0.02224377915263176,0.8447250723838806,neutral,0.11078733205795288
+209,2019-11-26 07:13:00,This will give Schwab and TD Ameritrade probably like 15 million clients.,0.16201283037662506,0.007227709516882896,0.8307594656944275,neutral,0.1547851264476776
+210,2019-11-26 07:13:00,"They are really strong in the RIA, the registered investment advisor, in the custodial business.",0.5166147947311401,0.012071932666003704,0.4713132977485657,positive,0.504542887210846
+211,2019-11-26 07:13:00,"That's actually where they're going to start to see some pushback, from the regulators.",0.8087413311004639,0.021493010222911835,0.1697656661272049,positive,0.7872483134269714
+212,2019-11-26 07:13:00,"When you look at the Financial Industry Regulation Authority, the Federal Reserve, the SEC, they may start pushing back on how, from a competitive perspective, does this give a Schwab-TD Ameritrade an unfair advantage against the other players?",0.14651495218276978,0.18958216905593872,0.6639028787612915,neutral,-0.043067216873168945
+213,2019-11-26 07:13:00,"Moser: And they'd better not lose sight of the customer, either.",0.04206062853336334,0.42842209339141846,0.5295172333717346,neutral,-0.3863614797592163
+214,2019-11-26 07:13:00,I'm just thinking back to when TD Ameritrade acquired Scottrade.,0.025325868278741837,0.01010708138346672,0.9645670056343079,neutral,0.015218786895275116
+215,2019-11-26 07:13:00,"As a Scottrade user, that integration, that transition was not seamless for me.",0.12074920535087585,0.02313287928700447,0.8561179041862488,neutral,0.09761632978916168
+216,2019-11-26 07:13:00,"I wasn't losing sleep over it, but it took a little work.",0.30580902099609375,0.10200145840644836,0.5921895503997803,neutral,0.20380756258964539
+217,2019-11-26 07:13:00,"Now, it sounds like I may have to do it all over again because I'm a TD Ameritrade user because they bought Scottrade.",0.05812566727399826,0.1145411878824234,0.8273331522941589,neutral,-0.05641552060842514
+218,2019-11-26 07:13:00,"So, yeah, scale's great.",0.35656049847602844,0.01933285780251026,0.6241067051887512,neutral,0.33722764253616333
+219,2019-11-26 07:13:00,"You want to be as big as you can, it seems, in this space.",0.12325122952461243,0.006449987180531025,0.8702988028526306,neutral,0.11680123955011368
+220,2019-11-26 07:13:00,But I do hope that they don't lose sight of the customer throughout this rapid growth.,0.06571508198976517,0.48669925332069397,0.44758573174476624,negative,-0.4209841787815094
+221,2019-11-26 07:13:00,Gross: Agreed.,0.4133313298225403,0.04197348281741142,0.5446951985359192,neutral,0.37135785818099976
+222,2019-11-26 07:13:00,"But having said that, it's never been a better time to be an individual investor.",0.1785372793674469,0.027531342580914497,0.7939313650131226,neutral,0.15100593864917755
+223,2019-11-26 07:13:00,We can buy and sell stocks for free.,0.053639013320207596,0.0053750453516840935,0.940985918045044,neutral,0.04826396703720093
+224,2019-11-26 07:13:00,"Fractional shares are coming to Charles Schwab, so we can buy those stocks that are higher-priced if we want.",0.06569116562604904,0.006253319792449474,0.928055465221405,neutral,0.05943784490227699
+225,2019-11-26 07:13:00,"Services, websites are better than they've ever been.",0.8449037075042725,0.026686476543545723,0.12840983271598816,positive,0.8182172179222107
+226,2019-11-26 07:13:00,It's a good time for investors.,0.4536878168582916,0.011405807919800282,0.5349063873291016,neutral,0.4422820210456848
+227,2019-11-26 07:13:00,"Hill: But in the next 12 months, is E*Trade a stand-alone public company still?",0.012890308164060116,0.01357924472540617,0.9735304117202759,neutral,-0.0006889365613460541
+228,2019-11-26 07:13:00,"Or is someone -- and I'm looking at you, Capital One -- going to snap them up?",0.0753907784819603,0.21507035195827484,0.7095388174057007,neutral,-0.13967958092689514
+229,2019-11-26 07:13:00,Moser: I really feel like we're just beginning to see the consolidation in the space.,0.5390413999557495,0.013152713887393475,0.447805792093277,positive,0.5258886814117432
+230,2019-11-26 07:13:00,You see Square now laying a foundation to be able to offer these types of services.,0.5672385096549988,0.009106039069592953,0.4236553907394409,positive,0.5581324696540833
+231,2019-11-26 07:13:00,You have to wonder what exactly is going to happen to Robinhood.,0.019637571647763252,0.04672878608107567,0.9336336851119995,neutral,-0.027091214433312416
+232,2019-11-26 07:13:00,Going to be a fascinating year in this space.,0.46496763825416565,0.016431305557489395,0.5186010599136353,neutral,0.44853633642196655
+233,2019-11-26 07:13:00,"Hill: Next week is Thanksgiving, which means it's going to be time for our Thanksgiving special edition of Motley Fool Money, a tradition unlike any other, actually.",0.3049781322479248,0.01136362086981535,0.683658242225647,neutral,0.2936145067214966
+234,2019-11-26 07:13:00,"Obviously, there are special foods that come with the holidays.",0.04355389624834061,0.00900912657380104,0.9474369883537292,neutral,0.034544769674539566
+235,2019-11-26 07:13:00,Tim Hortons is here to help.,0.37507811188697815,0.014745679683983326,0.610176146030426,neutral,0.3603324294090271
+236,2019-11-26 07:13:00,"Tim Hortons is coming out with what the company is calling a ""holiday product lineup"" that includes specialty coffees and specialty donuts, including, and I'm quoting here, ""the Festive Vanilla Dip, a yeast ring donut topped with green fondant and red and white sprinkles.""",0.07082151621580124,0.011634415946900845,0.9175440669059753,neutral,0.05918709933757782
+237,2019-11-26 07:13:00,"Ron, do you think this is going to help Restaurant Brands International, the parent company, you think this is going to help move the stock?",0.5620365738868713,0.012484907172620296,0.4254784882068634,positive,0.5495516657829285
+238,2019-11-26 07:13:00,Gross: Not a fan of fondant.,0.017101721838116646,0.03708641603589058,0.9458118677139282,neutral,-0.019984694197773933
+239,2019-11-26 07:13:00,It's not good.,0.06266184151172638,0.6370543241500854,0.30028384923934937,negative,-0.5743924975395203
+240,2019-11-26 07:13:00,It's for decoration.,0.05161457508802414,0.0075163282454013824,0.9408690929412842,neutral,0.04409824684262276
+241,2019-11-26 07:13:00,It's not tasty.,0.042558182030916214,0.16826413571834564,0.789177656173706,neutral,-0.12570595741271973
+242,2019-11-26 07:13:00,"Hill: Who is doing the communications at this company, that they're using phrases like ""yeast ring donut?""",0.0479496568441391,0.22040873765945435,0.7316416501998901,neutral,-0.17245908081531525
+243,2019-11-26 07:13:00,Gross: [laughs] Antibiotics clear that right up!,0.13534116744995117,0.16952954232692719,0.6951292753219604,neutral,-0.03418837487697601
+244,2019-11-26 07:13:00,"Hill: And, for that matter, ""holiday product lineup.""",0.01832752116024494,0.014687644317746162,0.9669848680496216,neutral,0.0036398768424987793
+245,2019-11-26 07:13:00,"I mean, you're selling food.",0.04112312197685242,0.015933437272906303,0.9429434537887573,neutral,0.025189684703946114
+246,2019-11-26 07:13:00,Why are you referring to it that way?,0.0633702278137207,0.11652836203575134,0.8201013803482056,neutral,-0.05315813422203064
+247,2019-11-26 07:13:00,"Moser: It seems so easy, and yet people make it so difficult.",0.05328560248017311,0.07956421375274658,0.8671501874923706,neutral,-0.02627861127257347
+248,2019-11-26 07:13:00,Hill: Nell Minow is the vice chair of ValueEdge Advisors.,0.019572671502828598,0.013136097230017185,0.9672912359237671,neutral,0.006436574272811413
+249,2019-11-26 07:13:00,She is the film critic known as The Movie Mom.,0.11308129131793976,0.08010713011026382,0.8068115711212158,neutral,0.032974161207675934
+250,2019-11-26 07:13:00,And she joins me now.,0.21620918810367584,0.021203631535172462,0.7625871300697327,neutral,0.19500555098056793
+251,2019-11-26 07:13:00,"Nell, good to talk to you.",0.4527970552444458,0.03784911707043648,0.5093538165092468,neutral,0.4149479269981384
+252,2019-11-26 07:13:00,Nell Minow: I'm very glad to be back.,0.5727242231369019,0.02536379173398018,0.4019119441509247,positive,0.5473604202270508
+253,2019-11-26 07:13:00,Lots to talk about.,0.10518379509449005,0.008564245887100697,0.8862519860267639,neutral,0.09661954641342163
+254,2019-11-26 07:13:00,Hill: Lots to talk about.,0.0455780103802681,0.011732855811715126,0.9426891207695007,neutral,0.03384515643119812
+255,2019-11-26 07:13:00,Can we start with WeWork?,0.08121109753847122,0.030085481703281403,0.8887033462524414,neutral,0.05112561583518982
+256,2019-11-26 07:13:00,Hill: It never fails to amaze me.,0.11273321509361267,0.030313346534967422,0.8569533824920654,neutral,0.08241987228393555
+257,2019-11-26 07:13:00,"Minow: It's like the impeachment hearings, it keeps getting crazier.",0.052354730665683746,0.5938661694526672,0.3537791669368744,negative,-0.5415114164352417
+258,2019-11-26 07:13:00,"Hill: In the span of just two months, we have gone from WeWork planning to go public at a valuation of nearly $50 billion to essentially the implosion of, certainly the value of the business.",0.051518797874450684,0.023641793057322502,0.924839437007904,neutral,0.02787700481712818
+259,2019-11-26 07:13:00,"There are some people that I've talked to who say, ""The system worked.",0.1895158439874649,0.017707962542772293,0.7927761673927307,neutral,0.1718078851699829
+260,2019-11-26 07:13:00,"WeWork filed their S-1, investors got a look at the numbers and said, 'Not even remotely interested in this,' and that was that.""",0.05279543623328209,0.03365355730056763,0.9135509729385376,neutral,0.019141878932714462
+261,2019-11-26 07:13:00,That's some of the people I talk to.,0.0448404885828495,0.016700923442840576,0.9384585618972778,neutral,0.028139565140008926
+262,2019-11-26 07:13:00,I'm talking to you now.,0.1229928582906723,0.029584402218461037,0.84742271900177,neutral,0.09340845793485641
+263,2019-11-26 07:13:00,"When you step back and look at what has transpired over the last couple of months, what goes through your mind?",0.034247323870658875,0.059643492102622986,0.9061091542243958,neutral,-0.02539616823196411
+264,2019-11-26 07:13:00,Minow: I think that you're 100% right about that.,0.20177960395812988,0.031191211193799973,0.7670292258262634,neutral,0.1705883890390396
+265,2019-11-26 07:13:00,This was the New Coke of initial public offerings.,0.05759965255856514,0.004925577901303768,0.93747478723526,neutral,0.0526740737259388
+266,2019-11-26 07:13:00,"They put it out in the market, and the market said, basically, ""[...], please.",0.08731688559055328,0.032822541892528534,0.879860520362854,neutral,0.05449434369802475
+267,2019-11-26 07:13:00,I don't know where you came up with this valuation.,0.030363913625478745,0.01724361814558506,0.9523924589157104,neutral,0.013120295479893684
+268,2019-11-26 07:13:00,Corporate governance is whack.,0.09850075840950012,0.2162722945213318,0.6852269768714905,neutral,-0.11777153611183167
+269,2019-11-26 07:13:00,"I don't think it's worth anything.""",0.09536848962306976,0.31706488132476807,0.587566614151001,neutral,-0.2216963917016983
+270,2019-11-26 07:13:00,"And so, yay, the market worked there.",0.4378264248371124,0.039439857006073,0.5227336883544922,neutral,0.39838656783103943
+271,2019-11-26 07:13:00,"However, that doesn't mean that there's not a lot of blame to go around, starting with, of course, always, the board of directors.",0.025221846997737885,0.09800544381141663,0.8767727017402649,neutral,-0.07278359681367874
+272,2019-11-26 07:13:00,I blame them for agreeing to go on the board when the founder had so much control.,0.054172273725271225,0.19264383614063263,0.753183901309967,neutral,-0.1384715586900711
+273,2019-11-26 07:13:00,"20 votes per share, that's somebody who's telling you, ""I don't want a real board,"" and that is when you say, ""Thanks, but no thanks.""",0.0754580870270729,0.14708256721496582,0.7774593234062195,neutral,-0.07162448018789291
+274,2019-11-26 07:13:00,But I particularly blame the other players in this.,0.04925156757235527,0.44597864151000977,0.5047698020935059,neutral,-0.3967270851135254
+275,2019-11-26 07:13:00,I blame the Wall Street guys.,0.11837024986743927,0.4343804121017456,0.4472494125366211,neutral,-0.31601017713546753
+276,2019-11-26 07:13:00,"We literally pay them the big bucks so that we don't have New Coke coming onto the market, so that they do some vetting, and they come up with a supportable valuation and an initial public offering that people are not going to laugh out of town.",0.44015470147132874,0.012535332702100277,0.547309935092926,neutral,0.4276193678379059
+277,2019-11-26 07:13:00,That was just a train wreck on their part.,0.07679244130849838,0.675665557384491,0.24754202365875244,negative,-0.5988731384277344
+278,2019-11-26 07:13:00,I completely hold them responsible.,0.07064257562160492,0.025026841089129448,0.9043306112289429,neutral,0.04561573266983032
+279,2019-11-26 07:13:00,"And, the people who should really be angry here, I think, are whoever the investors are in SoftBank.",0.04553399980068207,0.16083753108978271,0.7936285138130188,neutral,-0.11530353128910065
+280,2019-11-26 07:13:00,"That was bananas, for them to put so much money in, and then find themselves stuck in quicksand as it all started to go under, and put even more money in!",0.10023146122694016,0.3563600778579712,0.5434084534645081,neutral,-0.25612860918045044
+281,2019-11-26 07:13:00,And of all the crazy stuff that went on -- and gosh knows there's a truckload of crazy in this story -- nothing is crazier than that departure package for Neumann.,0.06775800883769989,0.1395249217748642,0.7927170395851135,neutral,-0.0717669129371643
+282,2019-11-26 07:13:00,"Hill: Yeah, when you look at what SoftBank did, it's the classic example of sunk cost.",0.025430774316191673,0.03214459866285324,0.9424245953559875,neutral,-0.006713824346661568
+283,2019-11-26 07:13:00,"Just the idea that, ""Well, we've already put this money in, so we're going to put some more in and hope that we can recoup some more.""",0.730513334274292,0.03085743822157383,0.23862925171852112,positive,0.6996558904647827
+284,2019-11-26 07:13:00,Minow: Yeah.,0.11125236004590988,0.06570973247289658,0.8230379223823547,neutral,0.045542627573013306
+285,2019-11-26 07:13:00,"It's also the classic case of putting good money in after bad, and not knowing when to cut your losses.",0.11532744020223618,0.08604557067155838,0.7986269593238831,neutral,0.029281869530677795
+286,2019-11-26 07:13:00,They never came up with a legitimate explanation for it.,0.06419698148965836,0.14944949746131897,0.7863534688949585,neutral,-0.08525251597166061
+287,2019-11-26 07:13:00,They never came up with anything persuasive to say why they knew something more about the value there.,0.05985996499657631,0.04535869508981705,0.8947813510894775,neutral,0.014501269906759262
+288,2019-11-26 07:13:00,The very thing that made this company appealing is the very thing that makes it hard to value.,0.03268371894955635,0.06408008188009262,0.9032361507415771,neutral,-0.03139636293053627
+289,2019-11-26 07:13:00,That is that there's just no stickiness for its revenue stream.,0.013177603483200073,0.05659331753849983,0.930229127407074,neutral,-0.04341571405529976
+290,2019-11-26 07:13:00,The reason that we like real estate is that people sign long-term leases and we have some idea of what our revenues are going to be going into the future.,0.07701786607503891,0.005454802419990301,0.9175273180007935,neutral,0.07156306505203247
+291,2019-11-26 07:13:00,"There is nothing to keep people going to WeWork any more than you might, say, going to Starbucks.",0.06460844725370407,0.21684551239013672,0.7185460329055786,neutral,-0.15223705768585205
+292,2019-11-26 07:13:00,We don't know.,0.02758331410586834,0.05870267376303673,0.9137139916419983,neutral,-0.03111935965716839
+293,2019-11-26 07:13:00,"Something better than Starbucks could open up, something better than WeWork could open up, and that's the end of it.",0.0909460037946701,0.012068417854607105,0.8969855308532715,neutral,0.07887758314609528
+294,2019-11-26 07:13:00,"So, aside from all the self-dealing and volatility of Adam Neumann as a CEO, nobody really knows what this company is worth.",0.019412394613027573,0.03177784010767937,0.9488097429275513,neutral,-0.012365445494651794
+295,2019-11-26 07:13:00,"Hill: Also, in the past couple of months, we've had more CEOs leaving or announcing their intentions to leave the corner office.",0.027336282655596733,0.6991540789604187,0.2735096216201782,negative,-0.6718177795410156
+296,2019-11-26 07:13:00,"T-Mobile, Nike, McDonald's, Under Armour and more.",0.023731853812932968,0.010311518795788288,0.9659566283226013,neutral,0.01342033501714468
+297,2019-11-26 07:13:00,2019 is going to be a record year for CEO departures.,0.025015750899910927,0.7923386096954346,0.18264555931091309,negative,-0.767322838306427
+298,2019-11-26 07:13:00,"Is it just tougher to run a public company these days than it was 10, 20 years ago?",0.0436164066195488,0.24338746070861816,0.7129961848258972,neutral,-0.19977104663848877
+299,2019-11-26 07:13:00,Minow: I don't think so.,0.03524439036846161,0.28738054633140564,0.6773751378059387,neutral,-0.2521361708641052
+300,2019-11-26 07:13:00,The departures is kind of cyclical.,0.016179492697119713,0.05132836475968361,0.9324921369552612,neutral,-0.035148873925209045
+301,2019-11-26 07:13:00,"There was a whole big run of departures in the late 80s, too.",0.03191455453634262,0.07347607612609863,0.8946093916893005,neutral,-0.04156152158975601
+302,2019-11-26 07:13:00,I think boards sometimes get jittery and have a Queen of Hearts off-with-their-heads thing going on.,0.07468954473733902,0.37727928161621094,0.5480311512947083,neutral,-0.3025897443294525
+303,2019-11-26 07:13:00,"I guess I would say that if a particular company is too big and complicated to run, then maybe it's a good time to sell off some non-core assets and make some strategic decisions.",0.10338302701711655,0.010655270889401436,0.8859617114067078,neutral,0.09272775799036026
+304,2019-11-26 07:13:00,"If it's too big to run or too complicated to run, then the market should respond to that in some kind of rational way.",0.11141861230134964,0.00928315706551075,0.879298210144043,neutral,0.10213545709848404
+305,2019-11-26 07:13:00,"And the problem with booting out your CEO is that you then have the onerous task of trying to find somebody better, and that's not always easy to do.",0.0660637766122818,0.2500060200691223,0.6839301586151123,neutral,-0.18394224345684052
+306,2019-11-26 07:13:00,"In the list that you've just given of the CEO departures, I think probably the weirdest has to be the McDonald's one, don't you think?",0.03976799175143242,0.1603817194700241,0.799850344657898,neutral,-0.12061372399330139
+307,2019-11-26 07:13:00,Hill: Absolutely.,0.07777329534292221,0.024315929040312767,0.8979108333587646,neutral,0.053457364439964294
+308,2019-11-26 07:13:00,"Although, I was struck by the swiftness with which the board of directors showed Steve Easterbrook the door, and appeared to have the pieces in place not just to replace him, but to move other people up the chain.",0.4814577102661133,0.01856464147567749,0.49997758865356445,neutral,0.4628930687904358
+309,2019-11-26 07:13:00,"Minow: Well, that's true.",0.08171962946653366,0.025645263493061066,0.8926351070404053,neutral,0.056074365973472595
+310,2019-11-26 07:13:00,"Of course, we always advise boards that they should have that envelope in the drawer.",0.07447918504476547,0.01905857026576996,0.9064621925354004,neutral,0.055420614778995514
+311,2019-11-26 07:13:00,"What if the CEO gets hit by a bus, or gets some great other job?",0.07206422835588455,0.2706323564052582,0.6573033928871155,neutral,-0.19856813549995422
+312,2019-11-26 07:13:00,"So, good for them.",0.6275659799575806,0.0370841883122921,0.33534982800483704,positive,0.5904818177223206
+313,2019-11-26 07:13:00,"But, how many times did they use the word consensual in their statements about the relationship that he was having with an employee?",0.054974958300590515,0.3206193149089813,0.6244057416915894,neutral,-0.265644371509552
+314,2019-11-26 07:13:00,"And, of course, the whole thing about #MeToo, and Time's Up is that it's inherently not consensual if there's a power dynamic there.",0.030659135431051254,0.05324634909629822,0.9160945415496826,neutral,-0.022587213665246964
+315,2019-11-26 07:13:00,Adults have options of getting other jobs or making other decisions.,0.02448311820626259,0.04230285435914993,0.9332140684127808,neutral,-0.017819736152887344
+316,2019-11-26 07:13:00,"And the company, of course, like every other company, has got rules about that.",0.02656480297446251,0.010035461746156216,0.9633997678756714,neutral,0.01652934029698372
+317,2019-11-26 07:13:00,"And yet, somehow, that's not termination for cause, and he still gets to go home with all his parting gifts.",0.23068147897720337,0.02194114401936531,0.747377336025238,neutral,0.20874033868312836
+318,2019-11-26 07:13:00,"Hill: Before we move on to movies, earlier this month, the SEC put forward new rules that would require proxy advisory firms to give companies the chance to review proxy materials before they were sent to shareholders.",0.14287716150283813,0.02356056682765484,0.8335622549057007,neutral,0.11931659281253815
+319,2019-11-26 07:13:00,I know you're a fan of shareholders being involved.,0.09158419072628021,0.0059855240397155285,0.9024302363395691,neutral,0.0855986699461937
+320,2019-11-26 07:13:00,Do you think this proposal improves on the current process?,0.8346151113510132,0.015725379809737206,0.14965952932834625,positive,0.8188897371292114
+321,2019-11-26 07:13:00,"Minow: Well, I think it's a disaster.",0.03234805166721344,0.7292683720588684,0.23838362097740173,negative,-0.6969203352928162
+322,2019-11-26 07:13:00,It's catastrophic in every way.,0.04615296795964241,0.11082406342029572,0.8430230021476746,neutral,-0.0646710991859436
+323,2019-11-26 07:13:00,"In fact, Bloomberg just wrote a great expose yesterday of how many of the comment letters that were cited by this -- which is just a proposal by the way, it's not final yet.",0.024301666766405106,0.025976072996854782,0.9497222304344177,neutral,-0.0016744062304496765
+324,2019-11-26 07:13:00,It's in the comment period.,0.019627438858151436,0.009643529541790485,0.9707289934158325,neutral,0.00998390931636095
+325,2019-11-26 07:13:00,Many of the comment letters that were cited by the Commission in coming out with this turned out to be completely bogus.,0.03477654606103897,0.8072123527526855,0.15801112353801727,negative,-0.7724357843399048
+326,2019-11-26 07:13:00,How do we know?,0.03966869041323662,0.02853563241660595,0.9317956566810608,neutral,0.011133057996630669
+327,2019-11-26 07:13:00,"Well, a lot of them had the exact same typo in the address!",0.020746486261487007,0.018173716962337494,0.9610797762870789,neutral,0.0025727692991495132
+328,2019-11-26 07:13:00,"And when they called the commenters, the people who signed the letters, they said, ""What?",0.029796650633215904,0.11640998721122742,0.8537933826446533,neutral,-0.08661333471536636
+329,2019-11-26 07:13:00,A letter?,0.10187685489654541,0.07996109127998352,0.8181620240211487,neutral,0.02191576361656189
+330,2019-11-26 07:13:00,"I didn't write a letter.""",0.05485343933105469,0.27013975381851196,0.6750068068504333,neutral,-0.21528631448745728
+331,2019-11-26 07:13:00,It's been a bogus process all the way through.,0.07002198696136475,0.6828047037124634,0.24717333912849426,negative,-0.6127827167510986
+332,2019-11-26 07:13:00,"You've heard me complain about the fake dark money front group, The Main Street Investors, that have no connection to Main Street investing or coalitions, although they claim to have one, that's funded by National Association of Manufacturers.",0.01906152069568634,0.09146083891391754,0.8894776701927185,neutral,-0.0723993182182312
+333,2019-11-26 07:13:00,"Basically, this is a kill the messenger idea.",0.05815418064594269,0.022576892748475075,0.9192689061164856,neutral,0.03557728976011276
+334,2019-11-26 07:13:00,They want to be able to make sure that the sole source of independent research and analysis on proxy issues and corporate governance is shut down.,0.0328495018184185,0.11185166239738464,0.8552988767623901,neutral,-0.07900215685367584
+335,2019-11-26 07:13:00,"On top of everything else, it's clearly unconstitutional.",0.07185910642147064,0.3525518774986267,0.5755890011787415,neutral,-0.2806927561759949
+336,2019-11-26 07:13:00,One thing that we know about the First Amendment is that the government cannot impose a prior restraint on written material.,0.014392943121492863,0.01928846724331379,0.9663186073303223,neutral,-0.004895524121820927
+337,2019-11-26 07:13:00,"By forcing ISS -- which it voluntarily does anyway, by the way -- to share their draft with companies ...",0.030480608344078064,0.028123755007982254,0.94139564037323,neutral,0.00235685333609581
+338,2019-11-26 07:13:00,I think the courts will throw that out immediately.,0.05636660382151604,0.27657487988471985,0.667058527469635,neutral,-0.2202082723379135
+339,2019-11-26 07:13:00,"Hill: Before we get to the movie theaters, let's start with the home theaters.",0.02664989046752453,0.009320511482656002,0.9640296101570129,neutral,0.0173293799161911
+340,2019-11-26 07:13:00,Disney+ launched last week.,0.07843470573425293,0.006924400571733713,0.9146409034729004,neutral,0.07151030749082565
+341,2019-11-26 07:13:00,Are you a subscriber?,0.03918774798512459,0.03361434116959572,0.9271979331970215,neutral,0.00557340681552887
+342,2019-11-26 07:13:00,Minow: I am.,0.12247872352600098,0.03185073286294937,0.8456705808639526,neutral,0.0906279906630516
+343,2019-11-26 07:13:00,"Now only my subscriber, I'm a little embarrassed to admit it, but it's true, I was up at dawn and watched The Mandalorian first thing.",0.037662096321582794,0.052998628467321396,0.9093393087387085,neutral,-0.015336532145738602
+344,2019-11-26 07:13:00,"Minow: Yeah, I am.",0.1383610963821411,0.04347359016537666,0.8181653022766113,neutral,0.09488750994205475
+345,2019-11-26 07:13:00,I had to really think about it.,0.06662453711032867,0.0880529135465622,0.8453225493431091,neutral,-0.02142837643623352
+346,2019-11-26 07:13:00,"I mean, I'm pretty profligate in subscribing to streaming services.",0.02991536632180214,0.009722801856696606,0.9603618383407593,neutral,0.02019256353378296
+347,2019-11-26 07:13:00,But I just was not going to do both Apple and Disney.,0.03328075259923935,0.11661496013402939,0.8501042723655701,neutral,-0.08333420753479004
+348,2019-11-26 07:13:00,"And I had to really think about it, but Disney's just seems so far superior that that's what I went with.",0.10376223921775818,0.03782759606838226,0.858410120010376,neutral,0.06593464314937592
+349,2019-11-26 07:13:00,"Hill: It seems like a lot of people tend to think in terms of Netflix, of course, being the dominant player in video streaming, as being the target of all of the threats.",0.0327620767056942,0.12090496718883514,0.8463329672813416,neutral,-0.08814288675785065
+350,2019-11-26 07:13:00,"But at least based on the early reviews of the newest programs from the newest services, it seems like you could look at Disney+ and Apple+ being much more direct competitors.",0.11253076791763306,0.01645546965301037,0.8710137605667114,neutral,0.09607529640197754
+351,2019-11-26 07:13:00,"I'm assuming you're not the only person who's looking at the early offering from Apple+ plus and Disney+ and saying, I'm going to stick with Disney.",0.1668165922164917,0.009496543556451797,0.8236868381500244,neutral,0.1573200523853302
+352,2019-11-26 07:13:00,"Minow: Yeah, I think that's probably right.",0.05334601551294327,0.06031486764550209,0.8863391280174255,neutral,-0.006968852132558823
+353,2019-11-26 07:13:00,"I mean, Disney, let's face it, they've spent a long time accumulating and creating, probably, the canon of our culture.",0.07814499735832214,0.0067804655991494656,0.9150745272636414,neutral,0.07136452943086624
+354,2019-11-26 07:13:00,"If Disney+ has not just their own backlog, but also Marvel and Star Wars and Pixar, I mean, seriously, that's a murderer's row, the Yankees when they owned the pennant.",0.020321739837527275,0.026084108278155327,0.9535942077636719,neutral,-0.005762368440628052
+355,2019-11-26 07:13:00,You cannot beat that.,0.13616697490215302,0.0950794667005539,0.7687535285949707,neutral,0.04108750820159912
+356,2019-11-26 07:13:00,"I think what's interesting is how many other people are getting into this, including NBC coming up with Peacock, HBO, and how difficult it's going to be for people who are currently getting that material to decide whether they want to pay extra for the same thing plus ...",0.023526154458522797,0.027975499629974365,0.9484983682632446,neutral,-0.004449345171451569
+357,2019-11-26 07:13:00,I don't know how that's going to work.,0.02903839573264122,0.04985712096095085,0.9211044907569885,neutral,-0.02081872522830963
+358,2019-11-26 07:13:00,Hill: Let's get to some of the big releases this holiday season.,0.047499317675828934,0.010494624264538288,0.9420060515403748,neutral,0.03700469434261322
+359,2019-11-26 07:13:00,"Obviously, this weekend it's Frozen 2.",0.07562374323606491,0.2618085741996765,0.662567675113678,neutral,-0.186184823513031
+360,2019-11-26 07:13:00,I feel pretty confident it's going to win the weekend and probably Thanksgiving weekend as well in terms of the box office receipts.,0.8021147847175598,0.024496369063854218,0.17338880896568298,positive,0.777618408203125
+361,2019-11-26 07:13:00,Any early sense of if this movie can live up to the first Frozen?,0.3309590816497803,0.023340340703725815,0.6457006335258484,neutral,0.30761873722076416
+362,2019-11-26 07:13:00,"Minow: Well, I've seen it and I thought it was great.",0.16548296809196472,0.017412036657333374,0.8171049952507019,neutral,0.14807093143463135
+363,2019-11-26 07:13:00,I don't think it's going to be a cultural juggernaut in the same way.,0.03537057340145111,0.049929264932870865,0.9147001504898071,neutral,-0.014558691531419754
+364,2019-11-26 07:13:00,I don't think we're going to be hearing the new songs in the same way we've heard Let It Go.,0.03184948489069939,0.023932401090860367,0.9442180395126343,neutral,0.00791708379983902
+365,2019-11-26 07:13:00,"But I think it's going to do very, very well.",0.684606671333313,0.012602336704730988,0.30279096961021423,positive,0.6720043420791626
+366,2019-11-26 07:13:00,"Important for investors in Disney, which I am, it's got some new characters who I think are going to be very, very big under a lot of Christmas trees this year.",0.33653151988983154,0.010226499289274216,0.6532419919967651,neutral,0.3263050317764282
+367,2019-11-26 07:13:00,I just thought it was great.,0.32040366530418396,0.021896837279200554,0.6576995253562927,neutral,0.29850682616233826
+368,2019-11-26 07:13:00,It's a very thoughtful story that has a very accessible and reassuring treatment of issues that are of a lot of concern not just to children but to everybody.,0.31651830673217773,0.009609298780560493,0.6738723516464233,neutral,0.3069089949131012
+369,2019-11-26 07:13:00,How do we deal with change?,0.07032611221075058,0.04000258073210716,0.8896713256835938,neutral,0.030323531478643417
+370,2019-11-26 07:13:00,How do we fix problems?,0.11275037378072739,0.02416253834962845,0.8630871176719666,neutral,0.08858783543109894
+371,2019-11-26 07:13:00,"I love, there's a song called Just Do The Next Right Thing, and I think that's a good idea for all of us.",0.40231579542160034,0.01793154887855053,0.5797526240348816,neutral,0.38438424468040466
+372,2019-11-26 07:13:00,"So, Frozen, I thought, was terrific.",0.15423934161663055,0.04325235262513161,0.8025082945823669,neutral,0.11098699271678925
+373,2019-11-26 07:13:00,It's going to make boatloads of money.,0.34916210174560547,0.024151498451828957,0.6266864538192749,neutral,0.32501059770584106
+374,2019-11-26 07:13:00,"But it's going to have some tough competition this week from the Mister Rogers movie, Beautiful Day in the Neighborhood, which is amazing.",0.20787443220615387,0.18954655528068542,0.6025789976119995,neutral,0.018327876925468445
+375,2019-11-26 07:13:00,Everybody should go see it with their family on Thanksgiving.,0.0746663510799408,0.015069912187755108,0.91026371717453,neutral,0.05959643796086311
+376,2019-11-26 07:13:00,Hill: How big is the crossover audience there?,0.03191784396767616,0.011012459173798561,0.9570697546005249,neutral,0.0209053847938776
+377,2019-11-26 07:13:00,"I'm assuming there are people like me who are going to not only watch Tom Hanks as Mr. Rogers, but also try to have my kids do it as well.",0.06826922297477722,0.009078661911189556,0.9226521253585815,neutral,0.05919056013226509
+378,2019-11-26 07:13:00,But I'm not picturing a ton of small children pouring into that movie like they're going to be pouring into Frozen 2.,0.029233090579509735,0.03969168663024902,0.9310752153396606,neutral,-0.010458596050739288
+379,2019-11-26 07:13:00,"Minow: Even though it's rated PG, it's not an episode of Mr. Rogers.",0.014456926845014095,0.03821234777569771,0.9473307132720947,neutral,-0.023755419999361038
+380,2019-11-26 07:13:00,Mr. Rogers is not the main character.,0.02036115527153015,0.0490923635661602,0.9305465221405029,neutral,-0.02873120829463005
+381,2019-11-26 07:13:00,"It's really the story, based on a real story, of a journalist who went to interview Mr. Rogers and really found his life transformed by him, as kind of a proxy for all of us, and what we all learned from Mr. Rogers.",0.05567876622080803,0.008267118595540524,0.9360541105270386,neutral,0.04741164669394493
+382,2019-11-26 07:13:00,I promise everybody will be a better person at the end of that movie than they are at the beginning.,0.6868101358413696,0.02286437526345253,0.2903255820274353,positive,0.663945734500885
+383,2019-11-26 07:13:00,"And you'll cry, too.",0.11013256758451462,0.05685793608427048,0.8330094814300537,neutral,0.05327463150024414
+384,2019-11-26 07:13:00,"But, that journalist, the main character, played by Matthew Rhys from the Americans, he has to struggle with some real family issues.",0.0658087208867073,0.3184810280799866,0.6157102584838867,neutral,-0.25267231464385986
+385,2019-11-26 07:13:00,"There's some sad and angry stuff that happens in this movie, so it's not for little kids.",0.023925118148326874,0.09030528366565704,0.8857695460319519,neutral,-0.06638016551733017
+386,2019-11-26 07:13:00,It's not for the audience of Mr. Rogers.,0.018374405801296234,0.01591247320175171,0.9657130837440491,neutral,0.002461932599544525
+387,2019-11-26 07:13:00,It's for the people who grew up with Mr. Rogers.,0.051516253501176834,0.0062366630882024765,0.9422470927238464,neutral,0.04527959227561951
+388,2019-11-26 07:13:00,I would say maybe 11 or 12 and up for that movie.,0.06814516335725784,0.02033134363591671,0.9115235209465027,neutral,0.047813817858695984
+389,2019-11-26 07:13:00,"But, what a great movie.",0.4022637903690338,0.025070803239941597,0.5726653933525085,neutral,0.37719297409057617
+390,2019-11-26 07:13:00,"Hill: If there are expectations about Frozen 2, they probably pale in expectations to the final Star Wars movie of this latest trilogy, The Rise of Skywalker.",0.05954698845744133,0.4683094322681427,0.4721435308456421,neutral,-0.40876245498657227
+391,2019-11-26 07:13:00,Any sense of how this is going to do?,0.05209389328956604,0.021839868277311325,0.9260662198066711,neutral,0.030254025012254715
+392,2019-11-26 07:13:00,"As someone who is not only a Disney shareholder, but also just a fan of these movies in general, I'm hoping it does well not just financially, but just from a story standpoint as well.",0.7002460360527039,0.013251773081719875,0.2865021526813507,positive,0.6869942545890808
+393,2019-11-26 07:13:00,Minow: Me too.,0.08721263706684113,0.04302568361163139,0.8697617053985596,neutral,0.04418695345520973
+394,2019-11-26 07:13:00,I've really got my fingers crossed.,0.17264069616794586,0.04052966088056564,0.7868296504020691,neutral,0.13211104273796082
+395,2019-11-26 07:13:00,I've been a Star Wars fan since what we now call Episode IV: A New Hope.,0.1428494155406952,0.010660861618816853,0.8464897274971008,neutral,0.1321885585784912
+396,2019-11-26 07:13:00,I'm very excited about it.,0.31220492720603943,0.010386861860752106,0.6774082779884338,neutral,0.3018180727958679
+397,2019-11-26 07:13:00,"I've heard that they have beautifully treated some of the footage that they have of our Princess Leia, Carrie Fisher.",0.2727850079536438,0.013876660726964474,0.7133383750915527,neutral,0.25890836119651794
+398,2019-11-26 07:13:00,I'm looking forward to that.,0.31828632950782776,0.011123880743980408,0.670589804649353,neutral,0.30716246366500854
+399,2019-11-26 07:13:00,"The Mandalorian actually made me feel very hopeful about it, even though it's being done by different people.",0.27668529748916626,0.013796663843095303,0.7095180153846741,neutral,0.262888640165329
+400,2019-11-26 07:13:00,"It shows that they understand the characters and they understand that universe very, very well.",0.26325249671936035,0.00998750887811184,0.7267599701881409,neutral,0.25326499342918396
+401,2019-11-26 07:13:00,"We've got a lot of great stuff coming out between now and the end of the year, including the new Little Women, which looks phenomenal.",0.6040306687355042,0.011083145625889301,0.3848861753940582,positive,0.5929475426673889
+402,2019-11-26 07:13:00,I think that's going to do very well.,0.8037801384925842,0.013008452951908112,0.18321137130260468,positive,0.7907716631889343
+403,2019-11-26 07:13:00,I think the clunker probably coming out this season looks like Cats.,0.030700119212269783,0.024720756337046623,0.9445791244506836,neutral,0.00597936287522316
+404,2019-11-26 07:13:00,"I think they spent a fortune on that, and I don't think it's going to do well at all.",0.06695977598428726,0.09046394377946854,0.8425762057304382,neutral,-0.023504167795181274
+405,2019-11-26 07:13:00,"Hill: Yeah, I can't say I'm excited to shell out my money for Cats.",0.07590433210134506,0.03283270075917244,0.891262948513031,neutral,0.04307163134217262
+406,2019-11-26 07:13:00,"Or, for that matter, sit on a plane and watch it for free.",0.05595732480287552,0.026054589077830315,0.9179880619049072,neutral,0.029902735725045204
+407,2019-11-26 07:13:00,"Minow: [laughs] I'm afraid you're right, that one may be streaming very, very, very soon.",0.041133880615234375,0.22705362737178802,0.7318124175071716,neutral,-0.18591974675655365
+408,2019-11-26 07:13:00,I want to bring to your attention a movie that I think you might be interested in.,0.078170545399189,0.01005918625742197,0.911770224571228,neutral,0.0681113600730896
+409,2019-11-26 07:13:00,Have you heard about The Banker?,0.054093342274427414,0.08010457456111908,0.8658020496368408,neutral,-0.026011232286691666
+410,2019-11-26 07:13:00,Hill: I've heard a little bit about The Banker.,0.04421768710017204,0.023005792871117592,0.9327764511108398,neutral,0.02121189422905445
+411,2019-11-26 07:13:00,"Minow: It's based on a true story that I didn't know anything about, about two black men who started a bank because the regular banks were not making loans to people of color.",0.031141651794314384,0.17541572451591492,0.7934425473213196,neutral,-0.14427407085895538
+412,2019-11-26 07:13:00,They had to hire a white guy who knew nothing about banking to pretend to be the banker.,0.06695740669965744,0.2834000289440155,0.6496425271034241,neutral,-0.21644261479377747
+413,2019-11-26 07:13:00,Hill: He was the front?,0.0759604349732399,0.13452474772930145,0.7895148396492004,neutral,-0.058564312756061554
+414,2019-11-26 07:13:00,"Minow: To be the front, exactly.",0.045732658356428146,0.028186656534671783,0.9260806441307068,neutral,0.017546001821756363
+415,2019-11-26 07:13:00,That looks really good.,0.7072113752365112,0.017980007454752922,0.27480870485305786,positive,0.6892313957214355
+416,2019-11-26 07:13:00,Anthony Mackie.,0.05551288276910782,0.04454601928591728,0.899941086769104,neutral,0.010966863483190536
+417,2019-11-26 07:13:00,I'm very excited about that.,0.3699159026145935,0.011655728332698345,0.6184283494949341,neutral,0.3582601845264435
+418,2019-11-26 07:13:00,"Hill: Well, you just answered what was going to be my last question, which was, obviously, Star Wars, Frozen, Mr. Rogers, they're going to get a lot of the oxygen and attention.",0.05941033363342285,0.03980274870991707,0.9007869362831116,neutral,0.019607584923505783
+419,2019-11-26 07:13:00,I'm always interested in your thoughts on what are the under-the-radar movies to look out for.,0.05061095952987671,0.01834140345454216,0.9310476183891296,neutral,0.03226955607533455
+420,2019-11-26 07:13:00,It sounds like The Banker is the one.,0.0733003169298172,0.06762851774692535,0.8590711355209351,neutral,0.005671799182891846
+421,2019-11-26 07:13:00,Minow: It could be.,0.05504833534359932,0.024325357750058174,0.9206263422966003,neutral,0.030722977593541145
+422,2019-11-26 07:13:00,"I'll also mention Knives Out, which is opening up next week.",0.038212694227695465,0.010628041811287403,0.9511592388153076,neutral,0.027584653347730637
+423,2019-11-26 07:13:00,"If you are like me and you like stories about big old houses where there's a murder and everybody's a suspect and the detective gathers them all in one room to tell them who did it, on acid, [laughs] basically, Knives Out.",0.07378316670656204,0.15788765251636505,0.7683292031288147,neutral,-0.08410448580980301
+424,2019-11-26 07:13:00,"It has a great all-star cast with Daniel Craig and Jamie Lee Curtis and Don Johnson and Chris Evans, and it will keep you guessing right up until the end.",0.528355062007904,0.013690127059817314,0.4579548239707947,positive,0.5146649479866028
+425,2019-11-26 07:13:00,Hill: Sounds like a great movie for anyone who's getting ready to get together with the extended family over Thanksgiving.,0.23210306465625763,0.029325155541300774,0.7385717630386353,neutral,0.2027779072523117
+426,2019-11-26 07:13:00,"You can follow Nell Minow on Twitter, get her thoughts on corporate governance, movies, and a lot more.",0.05868013948202133,0.031423356384038925,0.9098964929580688,neutral,0.027256783097982407
+427,2019-11-26 07:13:00,"Have a wonderful Thanksgiving, Nell.",0.2572919726371765,0.013694070279598236,0.729013979434967,neutral,0.24359789490699768
+428,2019-11-26 07:13:00,"Minow: You, too.",0.3442453145980835,0.043921444565057755,0.6118332147598267,neutral,0.30032387375831604
+429,2019-11-26 07:13:00,Thanks again!,0.4540451765060425,0.07037587463855743,0.4755789637565613,neutral,0.38366931676864624
+430,2019-11-26 07:13:00,Hill: Time for the stocks on our radar.,0.11933774501085281,0.051065970212221146,0.8295962810516357,neutral,0.06827177107334137
+431,2019-11-26 07:13:00,"Our man behind the glass, Steve Broido, is going to hit you with a question.",0.06444273889064789,0.12058226764202118,0.8149750232696533,neutral,-0.05613952875137329
+432,2019-11-26 07:13:00,"Ron, you're up first.",0.1354811191558838,0.01179872639477253,0.8527201414108276,neutral,0.12368239462375641
+433,2019-11-26 07:13:00,What are you looking at this week?,0.038894396275281906,0.02368888258934021,0.937416672706604,neutral,0.015205513685941696
+434,2019-11-26 07:13:00,Gross: Got a radar stock I talked about yesterday on YouTube Live.,0.05384518951177597,0.030808212235569954,0.915346622467041,neutral,0.023036977276206017
+435,2019-11-26 07:13:00,"Dave & Buster's, PLAY.",0.07366461306810379,0.03099043108522892,0.8953449726104736,neutral,0.04267418384552002
+436,2019-11-26 07:13:00,Restaurant and arcade company.,0.01681877113878727,0.007912041619420052,0.9752691388130188,neutral,0.008906729519367218
+437,2019-11-26 07:13:00,Currently have 133 locations.,0.02187279984354973,0.005843703635036945,0.9722834825515747,neutral,0.016029097139835358
+438,2019-11-26 07:13:00,"Stock got crushed in September, and then again in June, and then again in September on weak negative comp sales.",0.021249523386359215,0.9645913243293762,0.01415921002626419,negative,-0.9433417916297913
+439,2019-11-26 07:13:00,Things are not doing great.,0.032761864364147186,0.8265044093132019,0.1407337188720703,negative,-0.7937425374984741
+440,2019-11-26 07:13:00,"But they've got a plan, don't worry about it.",0.12319796532392502,0.0177767276763916,0.8590252995491028,neutral,0.10542123764753342
+441,2019-11-26 07:13:00,"They're going to remodel the stores, they're going to cut costs.",0.7177998423576355,0.025571249425411224,0.25662893056869507,positive,0.6922286152839661
+442,2019-11-26 07:13:00,"They are returning capital to shareholders through buybacks, raising the dividend, you get a 1.6% yield right now.",0.5453861951828003,0.012728488072752953,0.441885381937027,positive,0.5326576828956604
+443,2019-11-26 07:13:00,Stock's only trading at a forward PE of 12.5X.,0.02169443480670452,0.01167779415845871,0.9666277170181274,neutral,0.010016640648245811
+444,2019-11-26 07:13:00,"If they can turn this around a little bit, you probably have 50% upside in the stock.",0.26814955472946167,0.012805772013962269,0.7190446853637695,neutral,0.25534379482269287
+445,2019-11-26 07:13:00,Steve Broido: You bet.,0.07844747602939606,0.03442871570587158,0.8871238231658936,neutral,0.044018760323524475
+446,2019-11-26 07:13:00,Where does the money come from?,0.036546945571899414,0.018322071060538292,0.9451309442520142,neutral,0.018224874511361122
+447,2019-11-26 07:13:00,Is it games?,0.08494174480438232,0.0873960554599762,0.8276621699333191,neutral,-0.002454310655593872
+448,2019-11-26 07:13:00,Is it beer?,0.040379371494054794,0.03441987186670303,0.9252007007598877,neutral,0.005959499627351761
+449,2019-11-26 07:13:00,Food?,0.11365743726491928,0.08764597028493881,0.7986965775489807,neutral,0.02601146697998047
+450,2019-11-26 07:13:00,Where's the money?,0.061310265213251114,0.05212656408548355,0.886563241481781,neutral,0.009183701127767563
+451,2019-11-26 07:13:00,Gross: It's actually 50/50 between arcade games and the food and bar bill.,0.02692716009914875,0.06329081207513809,0.9097820520401001,neutral,-0.03636365383863449
+452,2019-11-26 07:13:00,"Hill: Jason Moser, what are you looking at?",0.05327332764863968,0.062293641269207,0.8844329714775085,neutral,-0.009020313620567322
+453,2019-11-26 07:13:00,"Moser: Yeah, well, you probably heard of the PayPal acquisition of Honey this week.",0.022090410813689232,0.010585534386336803,0.9673240184783936,neutral,0.011504876427352428
+454,2019-11-26 07:13:00,"PayPal is my radar stock, ticker PYPL.",0.04035738483071327,0.013588635250926018,0.9460540413856506,neutral,0.026768749579787254
+455,2019-11-26 07:13:00,"This is a big deal, $4 billion.",0.3619462549686432,0.009166233241558075,0.6288874745368958,neutral,0.3527800142765045
+456,2019-11-26 07:13:00,It sounds really big.,0.08421836048364639,0.009588365443050861,0.9061933159828186,neutral,0.07462999224662781
+457,2019-11-26 07:13:00,"Let's put in the context, though.",0.026810355484485626,0.011731288395822048,0.9614583849906921,neutral,0.015079067088663578
+458,2019-11-26 07:13:00,PayPal acquired Braintree back in 2013.,0.045675426721572876,0.0057336739264428616,0.9485909342765808,neutral,0.039941754192113876
+459,2019-11-26 07:13:00,That was about 2.5% of the value of PayPal back then.,0.01749301701784134,0.025844942778348923,0.9566620588302612,neutral,-0.008351925760507584
+460,2019-11-26 07:13:00,This deal is a bit more than 3%.,0.204009011387825,0.009934584610164165,0.7860563397407532,neutral,0.19407442212104797
+461,2019-11-26 07:13:00,"It's a big acquisition, but it's not crazy on a relative basis.",0.12448851019144058,0.008616290986537933,0.8668951392173767,neutral,0.11587221920490265
+462,2019-11-26 07:13:00,"Honey, interesting business.",0.2334275245666504,0.01800992153584957,0.7485625743865967,neutral,0.21541760861873627
+463,2019-11-26 07:13:00,"Has some pretty key partners with companies like Walmart, booking.com, Etsy, and even AliExpress.",0.30048421025276184,0.00972826685756445,0.6897875070571899,neutral,0.290755957365036
+464,2019-11-26 07:13:00,"They are looking to become more a part of the overall relationship, not just being there at the checkout.",0.17178595066070557,0.0081443777307868,0.8200697302818298,neutral,0.1636415719985962
+465,2019-11-26 07:13:00,This is one way to do it.,0.13112904131412506,0.008332581259310246,0.8605383634567261,neutral,0.12279646098613739
+466,2019-11-26 07:13:00,"So, I think instead of looking as the 17 million monthly active users they'll get from Honey, it's about figuring out ways to plug their 300 million monthly active users into that work and grow that side of the business.",0.23574993014335632,0.0074228853918612,0.756827175617218,neutral,0.22832705080509186
+467,2019-11-26 07:13:00,This is certainly one way to do it.,0.1577550619840622,0.009695695713162422,0.8325492739677429,neutral,0.14805936813354492
+468,2019-11-26 07:13:00,Broido: You bet.,0.09261573106050491,0.03263799846172333,0.8747462034225464,neutral,0.059977732598781586
+469,2019-11-26 07:13:00,"Is PayPal trying to get into the space where you use your cellphone, you hold it up to the little RFID reader and it just works?",0.06749416887760162,0.12377598881721497,0.808729887008667,neutral,-0.05628181993961334
+470,2019-11-26 07:13:00,Are they getting into that space?,0.08813520520925522,0.09139017015695572,0.8204746246337891,neutral,-0.0032549649477005005
+471,2019-11-26 07:13:00,Are they in that space?,0.06048117205500603,0.054674483835697174,0.8848444223403931,neutral,0.005806688219308853
+472,2019-11-26 07:13:00,"Moser: I don't know, actually.",0.021548548713326454,0.04223359748721123,0.9362177848815918,neutral,-0.020685048773884773
+473,2019-11-26 07:13:00,I have to look a little bit more into that.,0.10206525027751923,0.021311327815055847,0.8766234517097473,neutral,0.08075392246246338
+474,2019-11-26 07:13:00,Hill: Andy Cross.,0.06469305604696274,0.061831917613744736,0.8734750151634216,neutral,0.0028611384332180023
+475,2019-11-26 07:13:00,What are you looking at this week?,0.038894396275281906,0.02368888258934021,0.937416672706604,neutral,0.015205513685941696
+476,2019-11-26 07:13:00,"Cross: I got Box, symbol BOX, no surprise there.",0.23304109275341034,0.022847261279821396,0.7441116571426392,neutral,0.21019382774829865
+477,2019-11-26 07:13:00,Reports quarterly earnings next quarter.,0.05307938531041145,0.009261099621653557,0.9376595616340637,neutral,0.043818287551403046
+478,2019-11-26 07:13:00,"The cloud storage and content management provider, serves almost 70% of the Fortune 500 companies.",0.09183236956596375,0.005491718649864197,0.9026759266853333,neutral,0.08634065091609955
+479,2019-11-26 07:13:00,They've really struggled over the past year to continue to hit their ambitious revenue goals.,0.061823125928640366,0.8218024969100952,0.1163744404911995,negative,-0.7599793672561646
+480,2019-11-26 07:13:00,"I want to see how Aaron Levie, the founder and CEO, continues to turn this ship right.",0.3437371253967285,0.00889457669109106,0.647368311882019,neutral,0.3348425626754761
+481,2019-11-26 07:13:00,Broido: You bet.,0.09261573106050491,0.03263799846172333,0.8747462034225464,neutral,0.059977732598781586
+482,2019-11-26 07:13:00,"Are there things you're afraid to store in the cloud personally, Andy?",0.05330671742558479,0.06243346631526947,0.8842598795890808,neutral,-0.009126748889684677
+483,2019-11-26 07:13:00,Cross: My children's photos.,0.06412427872419357,0.04045575484633446,0.8954200148582458,neutral,0.023668523877859116
+484,2019-11-26 07:13:00,I don't like to put them out in the cloud.,0.043589990586042404,0.11595963686704636,0.8404503464698792,neutral,-0.07236965000629425
+485,2019-11-26 07:13:00,"Hill: Box, PayPal, Dave & Buster's.",0.04240819066762924,0.04079218581318855,0.9167996048927307,neutral,0.001616004854440689
+486,2019-11-26 07:13:00,"Steve, you got a stock you want to add to your watch list?",0.06109537184238434,0.006958647631108761,0.9319459795951843,neutral,0.054136723279953
+487,2019-11-26 07:13:00,Broido: I own some PayPal and I think I'd add to it.,0.13302457332611084,0.008116290904581547,0.8588591814041138,neutral,0.12490828335285187
+488,2019-11-26 07:13:00,"Hill: Sorry, Ron!",0.10236743837594986,0.6301270723342896,0.2675055265426636,negative,-0.5277596116065979
+489,2019-11-26 07:13:00,"Ron Gross, Jason Moser, Andy Cross, get some rest because next week, it's the Thanksgiving special.",0.05048007145524025,0.01341445092111826,0.936105489730835,neutral,0.037065621465444565
+490,2019-11-26 07:13:00,"Thanks for being here, guys!",0.49079033732414246,0.029688376933336258,0.4795212149620056,positive,0.4611019492149353
+491,2019-11-26 07:13:00,That'll do it for this week's edition of the Motley Fool Money.,0.12906907498836517,0.01430799625813961,0.8566229343414307,neutral,0.11476107686758041
+492,2019-11-26 07:13:00,Our engineer is Steve Broido.,0.031714923679828644,0.007470756769180298,0.9608142375946045,neutral,0.024244166910648346
+493,2019-11-26 07:13:00,Our producer is Mac Greer.,0.03164767473936081,0.006916592828929424,0.9614357948303223,neutral,0.02473108097910881
+494,2019-11-26 07:13:00,I'm Chris Hill.,0.050329629331827164,0.007737692911177874,0.941932737827301,neutral,0.04259193688631058
+495,2019-11-26 07:13:00,Thanks for listening!,0.25801247358322144,0.07156457751989365,0.6704229116439819,neutral,0.1864478886127472
+496,2019-11-26 07:13:00,We'll see you next week.,0.07623771578073502,0.011741818860173225,0.9120204448699951,neutral,0.06449589878320694
+497,2019-11-26 07:13:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+498,2019-11-26 07:13:00,Andy Cross has no position in any of the stocks mentioned.,0.010226817801594734,0.03979050740599632,0.9499826431274414,neutral,-0.02956368960440159
+499,2019-11-26 07:13:00,Chris Hill has no position in any of the stocks mentioned.,0.010136052966117859,0.043086566030979156,0.9467774033546448,neutral,-0.0329505130648613
+500,2019-11-26 07:13:00,Jason Moser has no position in any of the stocks mentioned.,0.010024731047451496,0.05230214074254036,0.9376731514930725,neutral,-0.04227741062641144
+501,2019-11-26 07:13:00,Ron Gross has no position in any of the stocks mentioned.,0.012617204338312149,0.05658872053027153,0.9307940006256104,neutral,-0.04397151619195938
+502,2019-11-26 07:13:00,"The Motley Fool owns shares of and recommends Amazon, Apple, Booking Holdings, Box, Etsy, Intuit, Netflix, Nike, PayPal Holdings, Square, Starbucks, Under Armour (A Shares), Under Armour (C Shares), and Walt Disney.",0.02007497288286686,0.008557980880141258,0.9713670015335083,neutral,0.011516992002725601
+503,2019-11-26 07:13:00,"The Motley Fool recommends Costco Wholesale, Dave & Buster's Entertainment, Home Depot, Lowe's, Nordstrom, and T-Mobile US and recommends the following options: long January 2020 $150 calls on Apple, short January 2020 $155 calls on Apple, long January 2020 $115 calls on Costco Wholesale, short January 2020 $180 calls on Costco Wholesale, long January 2021 $60 calls on Walt Disney, long January 2021 $120 calls on Home Depot, short February 2020 $205 calls on Home Depot, short January 2020 $70 puts on Square, short January 2020 $130 calls on Walt Disney, and short January 2020 $97 calls on PayPal Holdings.",0.014066954143345356,0.04433990642428398,0.9415931105613708,neutral,-0.0302729532122612
+504,2019-11-26 07:13:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

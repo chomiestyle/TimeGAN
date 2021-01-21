@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-16 02:00:00,"From a broad standpoint, the story at Salesforce.com (NYSE: CRM ) is pretty simple.",0.03258421644568443,0.00783196184784174,0.9595838189125061,neutral,0.024752255529165268
+1,2018-07-16 02:00:00,The business is hugely attractive.,0.5701636672019958,0.010430580005049706,0.4194057583808899,positive,0.5597330927848816
+2,2018-07-16 02:00:00,But CRM stock looks overvalued.,0.5339275002479553,0.028344029560685158,0.4377284049987793,positive,0.5055834650993347
+3,2018-07-16 02:00:00,"Obviously, there's much more to it than that.",0.06030765920877457,0.01260794885456562,0.9270843863487244,neutral,0.047699712216854095
+4,2018-07-16 02:00:00,"But that general split - great business, questionable valuation - seems prevalent across the market.",0.0627145990729332,0.6560694575309753,0.28121593594551086,negative,-0.5933548808097839
+5,2018-07-16 02:00:00,"Many of those stocks have provided outstanding returns, including CRM stock, which has risen 247% in the past five years and 63% just in the past twelve months.",0.9085530042648315,0.015264522284269333,0.0761825367808342,positive,0.8932884931564331
+6,2018-07-16 02:00:00,"Indeed, many investors have the same perception of the entire market.",0.04778300225734711,0.019403357058763504,0.9328135848045349,neutral,0.028379645198583603
+7,2018-07-16 02:00:00,"The news is good between tax reform, GDP growth and low unemployment.",0.8240469098091125,0.02436763606965542,0.1515854299068451,positive,0.7996792793273926
+8,2018-07-16 02:00:00,"But as bears have argued for some time, market-wide valuation numbers look awfully high - and potentially unsustainable.",0.029330629855394363,0.9116371870040894,0.05903215333819389,negative,-0.8823065757751465
+9,2018-07-16 02:00:00,CRM stock seems like the epitome of those market-wide concerns.,0.05107727646827698,0.05538247898221016,0.8935402631759644,neutral,-0.004305202513933182
+10,2018-07-16 02:00:00,How an investor views the stock at the moment likely comes down to her view of those concerns - and her strategy for reacting.,0.014142080210149288,0.010515812784433365,0.9753420948982239,neutral,0.0036262674257159233
+11,2018-07-16 02:00:00,And how CRM stock will perform going forward likely comes down to just what multiples investors are willing to pay - and for how long.,0.029749153181910515,0.0075752404518425465,0.9626756310462952,neutral,0.022173913195729256
+12,2018-07-16 02:00:00,Salesforce.com itself has a fantastic business model.,0.7268955707550049,0.012978119775652885,0.2601262927055359,positive,0.7139174342155457
+13,2018-07-16 02:00:00,It is the premier CRM (customer relationship management) software provider.,0.6893714070320129,0.010895758867263794,0.29973283410072327,positive,0.6784756183624268
+14,2018-07-16 02:00:00,It popularized the SaaS model which is now being used across the software space.,0.24734732508659363,0.00919954851269722,0.7434531450271606,neutral,0.2381477802991867
+15,2018-07-16 02:00:00,Salesforce displaced existing CRM leaders SAP (NYSE: SAP ) and Oracle (NYSE: ORCL ).,0.2394586056470871,0.11667882651090622,0.6438626050949097,neutral,0.12277977913618088
+16,2018-07-16 02:00:00,It has a huge market share lead on tech giants Microsoft (NASDAQ: MSFT ) and Adobe Systems (NASDAQ: ADBE ).,0.8355115056037903,0.014447761699557304,0.15004070103168488,positive,0.821063756942749
+17,2018-07-16 02:00:00,"Looking forward, users are extremely ""sticky,"" with switching costs high.",0.024637864902615547,0.905796229839325,0.06956592202186584,negative,-0.8811583518981934
+18,2018-07-16 02:00:00,"And there's plenty of room for growth, with Salesforce revenue increasing 27% in its most recent quarter .",0.948128342628479,0.01492207683622837,0.03694961965084076,positive,0.9332062602043152
+19,2018-07-16 02:00:00,"All told, there are few businesses in the market that seem more desirable than that of Salesforce.com.",0.08533108979463577,0.02234954945743084,0.89231938123703,neutral,0.06298153847455978
+20,2018-07-16 02:00:00,"Competition probably is the biggest concern here, with SAP in particular taking aim with its cloud strategy.",0.2278118133544922,0.012997246347367764,0.7591909766197205,neutral,0.21481457352638245
+21,2018-07-16 02:00:00,"The addressable market may shrink over time , as Larry Ramer has pointed out.",0.0489589162170887,0.577999472618103,0.3730415999889374,negative,-0.5290405750274658
+22,2018-07-16 02:00:00,"Still, Salesforce is the unquestioned leader in the space (with little reason to suggest that will change any time soon).",0.5381392240524292,0.018432384356856346,0.4434283971786499,positive,0.5197068452835083
+23,2018-07-16 02:00:00,And it's an attractive business in which to be.,0.3583332598209381,0.008309236727654934,0.6333575248718262,neutral,0.35002401471138
+24,2018-07-16 02:00:00,"Of course, it's not as if the market isn't paying attention.",0.04349151626229286,0.10525138676166534,0.8512570858001709,neutral,-0.06175987049937248
+25,2018-07-16 02:00:00,CRM's market cap now has cleared $100 billion - and valuation metrics look stretched.,0.02504313550889492,0.9396704435348511,0.03528643772006035,negative,-0.9146273136138916
+26,2018-07-16 02:00:00,CRM stock trades at 64 times the high end of its fiscal year 2019 earnings-per-share guidance.,0.8063071966171265,0.026112999767065048,0.167579784989357,positive,0.7801942229270935
+27,2018-07-16 02:00:00,"P rice-to-free cash flow multi ples are more reasonable, but still dear, at 40.",0.7025492191314697,0.10443887114524841,0.19301189482212067,positive,0.5981103181838989
+28,2018-07-16 02:00:00,"And much of that free cash flow (over half the FY18 figure, in fact) is coming from deferred revenue builds that will slow in importance over time.",0.046901535242795944,0.41312113404273987,0.5399773120880127,neutral,-0.3662196099758148
+29,2018-07-16 02:00:00,Even that 64x figure is based on non-GAAP figures - which exclude stock-based compensation.,0.015607977285981178,0.10243864357471466,0.8819534182548523,neutral,-0.08683066815137863
+30,2018-07-16 02:00:00,Salesforce's own guidance suggests that excluding that expense provides a $1.66 per share benefit - more than two-thirds of guided earnings.,0.7932586073875427,0.0171298049390316,0.18961158394813538,positive,0.7761288285255432
+31,2018-07-16 02:00:00,"Backing that out (and it's not free; dilution matters), the P/E ratio is over 200.",0.06498092412948608,0.030279913917183876,0.9047392010688782,neutral,0.03470101207494736
+32,2018-07-16 02:00:00,"However you look at CRM stock, it's pretty obvious that the company is exceedingly highly valued on an earnings basis.",0.5833861231803894,0.013610509224236012,0.4030033349990845,positive,0.5697756409645081
+33,2018-07-16 02:00:00,"And while that alone isn't necessarily a reason to sell, this also is a company heading into its 20th year.",0.32359951734542847,0.020883606746792793,0.6555169224739075,neutral,0.30271589756011963
+34,2018-07-16 02:00:00,"And for a mature company, Salesforce.com looks awfully expensive.",0.03556381165981293,0.6824131011962891,0.282023161649704,negative,-0.6468492746353149
+35,2018-07-16 02:00:00,What Should (or Will) Investors Do?,0.02726963348686695,0.03182297199964523,0.94090735912323,neutral,-0.004553338512778282
+36,2018-07-16 02:00:00,The dilemma here isn't uncommon in this market.,0.02772120200097561,0.04974106699228287,0.9225377440452576,neutral,-0.02201986499130726
+37,2018-07-16 02:00:00,Investors are comfortable paying big multiples for growth.,0.4014851748943329,0.01840491034090519,0.5801098942756653,neutral,0.38308027386665344
+38,2018-07-16 02:00:00,"Few, if any, investors believe that Netflix, Inc. (NASDAQ: NFLX ) is going to be a declining business.",0.019659707322716713,0.9233074188232422,0.057032860815525055,negative,-0.9036477208137512
+39,2018-07-16 02:00:00,The question is whether it's worth $400-plus per share.,0.027153819799423218,0.03189780190587044,0.9409484267234802,neutral,-0.00474398210644722
+40,2018-07-16 02:00:00,"ADBE looks awfully similar, with big multiples, even better returns of late (+432% over 5 years) and a sense that, at some point, the run has to end.",0.5062166452407837,0.055405810475349426,0.4383774995803833,positive,0.45081084966659546
+41,2018-07-16 02:00:00,"Align Technology (NASDAQ: ALGN ), SaaS peer Splunk (NASDAQ: SPLK ), Shopify (NYSE: SHOP ), Square (NYSE: SQ ) - they all seem to invoke the same reaction.",0.09304985404014587,0.009039267897605896,0.8979108333587646,neutral,0.08401058614253998
+42,2018-07-16 02:00:00,"Yes, this is a great business - but the run in the stock has to stop at some point, right?",0.050834450870752335,0.1502300202846527,0.7989355325698853,neutral,-0.09939557313919067
+43,2018-07-16 02:00:00,"Surely, valuation matters?",0.03494847193360329,0.017920898273587227,0.9471306204795837,neutral,0.01702757366001606
+44,2018-07-16 02:00:00,"Of course, one problem is that investors have made that argument for some time.",0.031243251636624336,0.0918741375207901,0.8768826127052307,neutral,-0.06063088774681091
+45,2018-07-16 02:00:00,And those of us who have been wrong (as I have been on both Netflix and Square ) are loathe to make that same case elsewhere.,0.06615791469812393,0.4883405268192291,0.4455015957355499,negative,-0.4221826195716858
+46,2018-07-16 02:00:00,"Street analysts seem to be constantly catching up (CRM stock, once again, is nearing consensus targets).",0.7210766077041626,0.032045722007751465,0.24687767028808594,positive,0.6890308856964111
+47,2018-07-16 02:00:00,"And shareholders - perhaps, wisely - can dismiss any valuation concerns as short-sighted.",0.06042655557394028,0.15053704380989075,0.7890364527702332,neutral,-0.09011048823595047
+48,2018-07-16 02:00:00,"After all, weren't writers and analysts questioning CRM at $60?",0.0637488141655922,0.11067574471235275,0.8255754709243774,neutral,-0.04692693054676056
+49,2018-07-16 02:00:00,And NFLX at $200?,0.036409758031368256,0.0512622594833374,0.9123280048370361,neutral,-0.014852501451969147
+50,2018-07-16 02:00:00,How an investor reacts in the case of CRM stock in many ways comes down to that investor's larger trading strategy.,0.016134019941091537,0.009413695894181728,0.9744523167610168,neutral,0.006720324046909809
+51,2018-07-16 02:00:00,"For some, there's a simple reason to buy CRM stock: it's silly to fight the tape.",0.03930329903960228,0.12237566709518433,0.8383210897445679,neutral,-0.08307236433029175
+52,2018-07-16 02:00:00,"As long as the ""story"" continues, the stock can keep rising.",0.530750036239624,0.014755799435079098,0.4544942080974579,positive,0.5159942507743835
+53,2018-07-16 02:00:00,"• 10 A-Rated Financial Stocks to Consider
+
+For others, the gains seem unsustainable.",0.10569311678409576,0.539479672908783,0.3548271656036377,negative,-0.4337865710258484
+54,2018-07-16 02:00:00,"Whether it's FOMO (fear of missing out), low interest rates or a central bank-induced bubble, valuations have run amok.",0.08938515186309814,0.5171833038330078,0.39343154430389404,negative,-0.42779815196990967
+55,2018-07-16 02:00:00,"And at some point, the bill will come due.",0.07593997567892075,0.01123728882521391,0.9128227233886719,neutral,0.06470268964767456
+56,2018-07-16 02:00:00,"If that's the case, CRM stock could plunge.",0.025117048993706703,0.9055785536766052,0.06930433958768845,negative,-0.8804615139961243
+57,2018-07-16 02:00:00,"The important question, however, is when - and how far.",0.049547478556632996,0.027491915971040726,0.9229605793952942,neutral,0.02205556258559227
+58,2018-07-16 02:00:00,"As of this writing, Vince Martin has no positions in any securities mentioned.",0.00855496246367693,0.019866647198796272,0.9715784192085266,neutral,-0.011311684735119343
+59,2018-07-16 02:00:00,"• 5 S&P 500 Stocks Are Driving the Index: Here's Where They're Going Next
+
+The post The Story of Salesforce.com (CRM) Stock Sounds Awfully Familiar appeared first on InvestorPlace .",0.08246318995952606,0.19078004360198975,0.7267568111419678,neutral,-0.10831685364246368
+60,2018-07-16 02:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

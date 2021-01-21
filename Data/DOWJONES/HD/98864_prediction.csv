@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-08-04 06:16:00,"In early trading on Thursday, shares of Nike ( NKE ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.9393593668937683,0.03174373880028725,0.028896883130073547,positive,0.907615602016449
+1,2016-08-04 06:16:00,"Year to date, Nike has lost about 11.6% of its value.",0.016345243901014328,0.951960563659668,0.031694196164608,negative,-0.9356153011322021
+2,2016-08-04 06:16:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.7%.",0.021333297714591026,0.9648630619049072,0.013803577050566673,negative,-0.9435297846794128
+3,2016-08-04 06:16:00,Home Depot is showing a gain of 2.9% looking at the year to date performance.,0.9474974274635315,0.021227620542049408,0.03127501904964447,positive,0.9262698292732239
+4,2016-08-04 06:16:00,"Two other components making moves today are Exxon Mobil Corp. ( XOM ), trading down 0.2%, and Merck & Co. ( MRK ), trading up 0.8% on the day.",0.041071567684412,0.9193589687347412,0.0395694263279438,negative,-0.8782873749732971
+5,2016-08-04 06:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

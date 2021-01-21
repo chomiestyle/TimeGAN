@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-24 07:29:00,"In early trading on Wednesday, shares of Boeing ( BA ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.5%.",0.9412201642990112,0.029658716171979904,0.02912105619907379,positive,0.9115614295005798
+1,2018-10-24 07:29:00,"Year to date, Boeing registers a 22.9% gain.",0.944962739944458,0.023397572338581085,0.03163965418934822,positive,0.9215651750564575
+2,2018-10-24 07:29:00,"And the worst performing Dow component thus far on the day is United Technologies Corp ( UTX ), trading down 1.9%.",0.02077249251306057,0.9648270606994629,0.0144003601744771,negative,-0.9440545439720154
+3,2018-10-24 07:29:00,United Technologies Corp is lower by about 0.1% looking at the year to date performance.,0.021480867639183998,0.9644761085510254,0.01404297724366188,negative,-0.9429952502250671
+4,2018-10-24 07:29:00,"Two other components making moves today are Walt Disney ( DIS ), trading down 1.8%, and Home Depot ( HD ), trading up 1.8% on the day.",0.027366992086172104,0.9353465437889099,0.03728647530078888,negative,-0.9079795479774475
+5,2018-10-24 07:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

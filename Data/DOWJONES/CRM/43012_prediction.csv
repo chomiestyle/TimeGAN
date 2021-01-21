@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-16 03:45:00,"It's been rough going for stock investors so far this year, but the party came to an end over the summer of 2019 for Elastic (NYSE: ESTC) shareholders.",0.05260062962770462,0.610403835773468,0.33699554204940796,negative,-0.557803213596344
+1,2020-04-16 03:45:00,"After quickly running higher in the months following its late 2018 IPO, the stock is now down nearly 50% from all-time highs.",0.018965885043144226,0.9671568870544434,0.013877207413315773,negative,-0.9481909871101379
+2,2020-04-16 03:45:00,What may seem confounding is that the steep and steady decline for over half a year isn't for lack of growth.,0.04551884904503822,0.2737569808959961,0.6807241439819336,neutral,-0.22823813557624817
+3,2020-04-16 03:45:00,"On the contrary, this small technologist has been expanding by a more-than-respectable rate since its public debut.",0.7675778269767761,0.01869296468794346,0.21372926235198975,positive,0.7488848567008972
+4,2020-04-16 03:45:00,"It certainly isn't a value play at this point, but it's gotten cheap enough that Elastic at least deserves some attention.",0.7088714838027954,0.030796142295002937,0.2603323459625244,positive,0.6780753135681152
+5,2020-04-16 03:45:00,"Elastic is known as a digital search company, but this isn't akin to Alphabet's (NASDAQ: GOOGL)(NASDAQ: GOOG) Google web search.",0.019293848425149918,0.014625858515501022,0.966080367565155,neutral,0.004667989909648895
+6,2020-04-16 03:45:00,"It rather falls more into the category of big data analytics, providing search tools for apps and websites, inter-organizational data search tools, data monitoring and visualization, and cybersecurity orchestration.",0.023555846884846687,0.006428578402847052,0.9700155258178711,neutral,0.01712726801633835
+7,2020-04-16 03:45:00,Data analytics had a big year in 2019.,0.6514403820037842,0.014608854427933693,0.33395081758499146,positive,0.636831521987915
+8,2020-04-16 03:45:00,"Datadog (NASDAQ: DDOG) had a successful IPO, Google and salesforce.com (NYSE: CRM) both made large analytics firm acquisitions, and revenue for the industry in general surged by double-digit percentages.",0.939627468585968,0.02003426104784012,0.040338192135095596,positive,0.9195932149887085
+9,2020-04-16 03:45:00,Elastic was no exception.,0.12488240003585815,0.0670696422457695,0.8080480098724365,neutral,0.057812757790088654
+10,2020-04-16 03:45:00,"Through the first three quarters of its 2020 fiscal year (nine months ended January 31, 2020), the small company posted massive growth -- driven by huge increases in its cloud-based subscription services.",0.9422261118888855,0.01598488911986351,0.04178902506828308,positive,0.9262412190437317
+11,2020-04-16 03:45:00,"In its fiscal third quarter alone, subscription-based software-as-a-service revenue grew 114% year over year to $25.1 million.",0.957862377166748,0.017850782722234726,0.02428676001727581,positive,0.9400116205215454
+12,2020-04-16 03:45:00,"The company continued to add new customers (total subscription customer count was 10,500, some 800 more from the quarter prior), and existing subscribers continued to spend over 30% more than a year ago (implied by a dollar-based net expansion rate exceeding 130%).",0.9453802108764648,0.019518470391631126,0.03510129079222679,positive,0.9258617162704468
+13,2020-04-16 03:45:00,"Not cheap, but for a reason
+
+After a run like that, what gives with share prices?",0.061283010989427567,0.07297383248806,0.8657431602478027,neutral,-0.011690821498632431
+14,2020-04-16 03:45:00,"While the growth is impressive, it's only part of the equation.",0.09433559328317642,0.008125233463943005,0.8975391983985901,neutral,0.08621036261320114
+15,2020-04-16 03:45:00,"Since Elastic still operates at a loss (more on that in a moment), investors are left with only the price-to-sales ratio with which to value the company.",0.024979494512081146,0.2973766326904297,0.677643895149231,neutral,-0.27239713072776794
+16,2020-04-16 03:45:00,"And at times in early 2019, Elastic was trading for well over 20 times trailing-12-month revenue.",0.17010213434696198,0.009600029326975346,0.8202977776527405,neutral,0.1605021059513092
+17,2020-04-16 03:45:00,"That's a steep price tag, even for a company growing as quickly as this.",0.3237247169017792,0.04396922513842583,0.6323060393333435,neutral,0.27975550293922424
+18,2020-04-16 03:45:00,"As of this writing, Elastic still goes for a premium, but a far more reasonable 11.0 times revenue (based on management's forecast for fiscal 2020 sales to be $423 million to $424 million).",0.3357158303260803,0.08810411393642426,0.5761800408363342,neutral,0.24761171638965607
+19,2020-04-16 03:45:00,Also worth noting is that Elastic operates at a loss.,0.03932713344693184,0.6583998799324036,0.3022730052471161,negative,-0.6190727353096008
+20,2020-04-16 03:45:00,"Part of that is by design as it has hired staff and made a handful of acquisitions since going public, but net losses also include non-cash stock-based employee compensation ($42.8 million through the first nine months of fiscal 2020).",0.01837993413209915,0.9562773108482361,0.025342704728245735,negative,-0.9378973841667175
+21,2020-04-16 03:45:00,"Adjusting for non-cash items, free cash flow was negative $28.9 million so far in fiscal 2020.",0.017540520057082176,0.944365918636322,0.03809358552098274,negative,-0.9268254041671753
+22,2020-04-16 03:45:00,"With over $294 million in cash and equivalents on the books at the end of the last quarter, Elastic has ample liquidity to navigate the current economic crisis wrought by coronavirus and to keep investing in further growth.",0.8995987176895142,0.013515185564756393,0.08688609302043915,positive,0.8860835433006287
+23,2020-04-16 03:45:00,"Granted, shares are still priced on the assumption that Elastic's momentum will hold for some time, and that the business will soon begin to reach profitable scale.",0.8612974286079407,0.012543592602014542,0.1261589676141739,positive,0.848753809928894
+24,2020-04-16 03:45:00,"Nevertheless, shares are a bargain compared to its higher-growth but even higher-priced peers Datadog and Alteryx (NYSE: AYX).",0.1269143968820572,0.8172504901885986,0.05583511292934418,negative,-0.6903361082077026
+25,2020-04-16 03:45:00,"If data analytics investing is your thing, the relative value Elastic now presents is worth a deeper dive.",0.197916641831398,0.013779748231172562,0.788303554058075,neutral,0.18413689732551575
+26,2020-04-16 03:45:00,"My usual small-cap stock recommendation applies: Make small purchases over time, perhaps monthly or quarterly, to average into a position in what is sure to remain a very volatile but high-growth stock.",0.5221656560897827,0.010785441845655441,0.4670489728450775,positive,0.5113801956176758
+27,2020-04-16 03:45:00,"10 stocks we like better than Elastic N V
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1391458511352539,0.030191589146852493,0.8306625485420227,neutral,0.10895426571369171
+28,2020-04-16 03:45:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+29,2020-04-16 03:45:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Elastic N V wasn't one of them!",0.22628264129161835,0.014363725669682026,0.7593535780906677,neutral,0.2119189202785492
+30,2020-04-16 03:45:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2020-04-16 03:45:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+32,2020-04-16 03:45:00,"Nicholas Rossolillo and his clients own shares of Alphabet (C shares), Alteryx, and Salesforce.com.",0.014826100319623947,0.008692282252013683,0.9764816164970398,neutral,0.006133818067610264
+33,2020-04-16 03:45:00,"The Motley Fool owns shares of and recommends Alphabet (A and C shares), Alteryx, Datadog, Elastic N V, and Salesforce.com.",0.018982654437422752,0.011297582648694515,0.9697197079658508,neutral,0.007685071788728237
+34,2020-04-16 03:45:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

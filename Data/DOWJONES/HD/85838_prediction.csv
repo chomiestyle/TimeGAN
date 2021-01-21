@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-08 07:22:00,"Chicago, IL - September 8, 2017 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.018152346834540367,0.008738525211811066,0.9731090664863586,neutral,0.009413821622729301
+1,2017-09-08 07:22:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2017-09-08 07:22:00,"Stocks recently featured in the blog include HCI Group Inc (NYSE: HCI - Free Report ), Lumber Liquidators Holdings Inc (NYSE: LL - Free Report ), Tempur Sealy International Inc (NYSE: TPX - Free Report )and Home Depot Inc (NYSE: HD - Free Report ).",0.016358038410544395,0.00941204559057951,0.9742299318313599,neutral,0.006945992819964886
+3,2017-09-08 07:22:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2017-09-08 07:22:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2017-09-08 07:22:00,"Here are highlights from Thursday's Analyst Blog:
+
+While Houston, Texas and other parts of the Gulf are still reeling under the effects of Hurricane Harvey, another storm is brewing which might hit the Sun Shine state of Florida.",0.04595055803656578,0.6382688283920288,0.31578055024147034,negative,-0.5923182964324951
+6,2017-09-08 07:22:00,"Irma, which has become the most powerful Atlantic hurricane on record, will hit the shores of Florida in some days' time.",0.23270796239376068,0.29368093609809875,0.47361114621162415,neutral,-0.060972973704338074
+7,2017-09-08 07:22:00,It has already caused widespread devastation in the Caribbean.,0.08380156755447388,0.8143022060394287,0.10189616680145264,negative,-0.7305006384849548
+8,2017-09-08 07:22:00,"While Irma has already hit the insurance, travel and restaurant industries hard, home improvement retailers stand to gain.",0.907605767250061,0.038811005651950836,0.05358321964740753,positive,0.8687947392463684
+9,2017-09-08 07:22:00,Irma has claimed at least eight lives and has severely injured 23 in the French Caribbean island territories.,0.04061379283666611,0.9309414029121399,0.028444835916161537,negative,-0.8903276324272156
+10,2017-09-08 07:22:00,"French Interior Minister Gerard Collomb expects the death toll to go higher, while it's devastating impact wrecked roads and telecommunications systems.",0.13106106221675873,0.7560729384422302,0.11286603659391403,negative,-0.6250118613243103
+11,2017-09-08 07:22:00,"Significant destruction was also reported in St. Martin, an island split between French and Dutch control.",0.033349696546792984,0.9218496680259705,0.044800665229558945,negative,-0.8884999752044678
+12,2017-09-08 07:22:00,The Category 5 storm is set to hit South Florida on Sep 10.,0.08702665567398071,0.2490934282541275,0.663879930973053,neutral,-0.1620667725801468
+13,2017-09-08 07:22:00,Residents of Florida are fleeing to safety as the hurricane might hit with record-breaking winds of 185 miles an hour.,0.1641753613948822,0.6721437573432922,0.1636808216571808,negative,-0.5079684257507324
+14,2017-09-08 07:22:00,The 400-mile-wide hurricane is devastating enough to affect the entire state.,0.09295418113470078,0.7880779504776001,0.1189679503440857,negative,-0.6951237916946411
+15,2017-09-08 07:22:00,Florida Governor Rick Scott warned that Irma is bigger and stronger than hurricane Andrew that had wrecked the state in 1992.,0.08252879977226257,0.8584178686141968,0.05905326083302498,negative,-0.7758890390396118
+16,2017-09-08 07:22:00,"U.S. Military Gears Up for Irma
+
+U.S. military is deploying ships and personnel to cater to the potential crisis.",0.6690526008605957,0.01520013902336359,0.31574732065200806,positive,0.6538524627685547
+17,2017-09-08 07:22:00,Defense Secretary Jim Mattis approved naval ships USS Oak Hill and the USS Kearsarge to provide relief.,0.5172556638717651,0.12194118648767471,0.36080315709114075,positive,0.395314484834671
+18,2017-09-08 07:22:00,The Navy is also preparing to dispatch USS Iwo Jima and the USS New York.,0.10674427449703217,0.06767012178897858,0.8255855441093445,neutral,0.03907415270805359
+19,2017-09-08 07:22:00,"These actions are being carried out while the storm roars through the U.S. Virgin Islands, Puerto Rico and other Caribbean islands.",0.03550338000059128,0.0782185047864914,0.8862780928611755,neutral,-0.042715124785900116
+20,2017-09-08 07:22:00,"Three air force bases, Maxwell Air Force Base in Alabama, Joint Base McGuire-Dix-Lakehurst in New Jersey and Warner Robbins AFB in Georgia, have been designated to carry out recovery operations.",0.04677309840917587,0.03662189841270447,0.9166050553321838,neutral,0.010151199996471405
+21,2017-09-08 07:22:00,The National Guard has also been alerted.,0.18679961562156677,0.23283600807189941,0.5803643465042114,neutral,-0.04603639245033264
+22,2017-09-08 07:22:00,"The National Guard has around 650 members in the U.S. Virgin Islands, 5,200 members in Puerto Rico and more than 7,000 in Florida.",0.019932391121983528,0.014677400700747967,0.9653902649879456,neutral,0.005254990421235561
+23,2017-09-08 07:22:00,"Irma has already sent ripples through the U.S. equity market, just days after Harvey wreaked havoc in the southern states.",0.18385928869247437,0.6947553157806396,0.1213853508234024,negative,-0.5108960270881653
+24,2017-09-08 07:22:00,"Since Irma is the strongest hurricane on record in the Atlantic basin, damage to properties and infrastructure is inevitable.",0.029974617063999176,0.9391098618507385,0.03091549128293991,negative,-0.9091352224349976
+25,2017-09-08 07:22:00,"Stock prices of providers of property and casualty homeowners insurance, having heavy exposure to Florida, are taking a beating.",0.02830888330936432,0.9206269383430481,0.05106416717171669,negative,-0.892318069934845
+26,2017-09-08 07:22:00,"Prominent among them are HCI Group Inc (NYSE: HCI - Free Report ), whose shares tanked 16.1%.",0.05109113082289696,0.8723828196525574,0.07652606815099716,negative,-0.8212916851043701
+27,2017-09-08 07:22:00,"Collectively, the SPDR S&P Insurance ETF (NYSEARCA: KIE - Free Report ) is down 2.9% for the month.",0.01886882819235325,0.9701842665672302,0.010946893133223057,negative,-0.9513154625892639
+28,2017-09-08 07:22:00,"Unlike the aforesaid stocks, home improvement companies are poised to benefit once Irma makes a landfall.",0.9113739132881165,0.013761925511062145,0.07486411184072495,positive,0.8976119756698608
+29,2017-09-08 07:22:00,"As home owners face damaged properties, likelihood of rebuilding efforts will gain momentum.",0.9153229594230652,0.018836695700883865,0.06584028899669647,positive,0.8964862823486328
+30,2017-09-08 07:22:00,This in turn will drive demand for home-improvement equipment and materials.,0.7523403167724609,0.015867264941334724,0.23179243505001068,positive,0.736473023891449
+31,2017-09-08 07:22:00,Shares of multi-channel specialty retailer of hardwood Lumber Liquidators Holdings Inc (NYSE: LL - Free Report ) are already up 5.1% this month.,0.9430460929870605,0.023608680814504623,0.033345241099596024,positive,0.9194374084472656
+32,2017-09-08 07:22:00,"Shares of Tempur Sealy International Inc (NYSE: TPX - Free Report ), a bedding manufacturer, have also been in the green this month.",0.7927536964416504,0.07492175698280334,0.13232453167438507,positive,0.7178319692611694
+33,2017-09-08 07:22:00,"Home building and furnishing retailer Home Depot Inc (NYSE: HD - Free Report ), in the meantime, saw its shares climb 4.5% this month.",0.9485659599304199,0.027919793501496315,0.02351415902376175,positive,0.9206461906433105
+34,2017-09-08 07:22:00,Several Home Depot stores throughout Florida will receive additional inventory to help those preparing for Irma.,0.8112161159515381,0.024619514122605324,0.16416434943675995,positive,0.7865965962409973
+35,2017-09-08 07:22:00,"Lumber Liquidators, Tempur Sealy International and Home Depot boast a Zacks Rank #2 (Buy) and saw the Zacks Consensus Estimate for their current-year earnings move north in the last 60 days.",0.9375162124633789,0.029493024572730064,0.03299073502421379,positive,0.9080231785774231
+36,2017-09-08 07:22:00,All of these companies have positive estimated growth rate for the current and next quarters (read more: 4 Home-Improvement Stocks to Buy Post Harvey Mayhem ).,0.837837815284729,0.015189681202173233,0.14697250723838806,positive,0.8226481080055237
+37,2017-09-08 07:22:00,"Since 1988, the Zacks system has more than doubled the S&P 500 with an average gain of +25% per year.",0.9376703500747681,0.01678338833153248,0.045546285808086395,positive,0.9208869338035583
+38,2017-09-08 07:22:00,"With compounding, rebalancing, and exclusive of fees, it can turn thousands into millions of dollars.",0.2419624775648117,0.023061107844114304,0.7349764108657837,neutral,0.2189013659954071
+39,2017-09-08 07:22:00,This proven stock-picking system is grounded on a single big idea that can be fortune shaping and life changing.,0.27703070640563965,0.009763316251337528,0.7132060527801514,neutral,0.2672673761844635
+40,2017-09-08 07:22:00,You can apply it to your portfolio starting today.,0.03226230666041374,0.00492352107539773,0.9628141522407532,neutral,0.0273387860506773
+41,2017-09-08 07:22:00,"Strong Stocks that Should Be in the News
+
+Many are little publicized and fly under the Wall Street radar.",0.044983625411987305,0.5624399185180664,0.3925764560699463,negative,-0.5174562931060791
+42,2017-09-08 07:22:00,They're virtually unknown to the general public.,0.035764459520578384,0.0785161554813385,0.885719358921051,neutral,-0.04275169596076012
+43,2017-09-08 07:22:00,"Yet today's 220 Zacks Rank #1 ""Strong Buys"" were generated by the stock-picking system that has nearly tripled the market from 1988 through 2015.",0.6580293774604797,0.017276067286729813,0.32469451427459717,positive,0.6407533288002014
+44,2017-09-08 07:22:00,Its average gain has been a stellar +26% per year.,0.8422174453735352,0.0191669799387455,0.13861553370952606,positive,0.8230504393577576
+45,2017-09-08 07:22:00,See these high-potential stocks free >>.,0.12527841329574585,0.05778927728533745,0.8169323205947876,neutral,0.0674891322851181
+46,2017-09-08 07:22:00,"Get the full Report on HCI - FREE
+
+Get the full Report on LL - FREE
+
+Get the full Report on TPX - FREE
+
+Get the full Report on HD - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.013645346276462078,0.00883928406983614,0.9775153994560242,neutral,0.004806062206625938
+47,2017-09-08 07:22:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+48,2017-09-08 07:22:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+49,2017-09-08 07:22:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+50,2017-09-08 07:22:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+51,2017-09-08 07:22:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+52,2017-09-08 07:22:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+53,2017-09-08 07:22:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+54,2017-09-08 07:22:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+55,2017-09-08 07:22:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+56,2017-09-08 07:22:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+57,2017-09-08 07:22:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+58,2017-09-08 07:22:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+59,2017-09-08 07:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+60,2017-09-08 07:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+61,2017-09-08 07:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+62,2017-09-08 07:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

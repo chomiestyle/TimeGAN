@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-05 03:28:00,A generally muddled month for mutual funds in April saw one asset class soar like a selfie stick.,0.07112402468919754,0.7901803255081177,0.13869555294513702,negative,-0.7190563082695007
+1,2015-05-05 03:28:00,"Diversified U.S. stock funds slipped 0.2% on average, according to Lipper Inc. data.",0.0238434299826622,0.967129647731781,0.009026911109685898,negative,-0.9432862401008606
+2,2015-05-05 03:28:00,"But China stock mutual funds notched a 14.2% gain, leading world equity funds in their 4.3% rise for the month.",0.9347012042999268,0.03591671586036682,0.029381975531578064,positive,0.8987845182418823
+3,2015-05-05 03:28:00,"""Our view for some time has been better relative opportunities exist outside the U.S.,"" said Russ Koesterich, global chief investment strategist for BlackRock Inc.",0.8847851157188416,0.02674117684364319,0.08847363293170929,positive,0.858043909072876
+4,2015-05-05 03:28:00,"Despite soft manufacturing data from China, investors continue to hold out hope for further government efforts to stimulate and open up the economy.",0.9015842080116272,0.03735071048140526,0.06106511875987053,positive,0.8642334938049316
+5,2015-05-05 03:28:00,"That's feeding an insatiable appetite for Chinese A-share stocks, which trade in Shanghai.",0.7960699796676636,0.03357171267271042,0.17035825550556183,positive,0.7624982595443726
+6,2015-05-05 03:28:00,"""The A-share market appears increasingly frothy,"" Koesterich cautioned in an April 27 note.",0.026643136516213417,0.9304582476615906,0.04289856180548668,negative,-0.9038150906562805
+7,2015-05-05 03:28:00,"He favors the H-share market, which are mainland stocks traded in Hong Kong.",0.1093454658985138,0.011547583155333996,0.8791069388389587,neutral,0.09779788553714752
+8,2015-05-05 03:28:00,"Koesterich wrote: ""We are not seeing the same excesses in this part of the market and valuations are much more reasonable.""",0.1366918534040451,0.12628281116485596,0.7370253205299377,neutral,0.010409042239189148
+9,2015-05-05 03:28:00,"As investors turned their focus away from U.S. equities, other regions also benefited.",0.9049956202507019,0.023712946102023125,0.07129143923521042,positive,0.8812826871871948
+10,2015-05-05 03:28:00,Europe tacked on 3.5% gains and Japan 2.9%.,0.8770010471343994,0.055848702788352966,0.06715020537376404,positive,0.8211523294448853
+11,2015-05-05 03:28:00,European and Japanese equity funds benefited from monetary easing policies and low expectations.,0.8911997079849243,0.023669324815273285,0.08513086289167404,positive,0.8675304055213928
+12,2015-05-05 03:28:00,"""It's been easier for Europe to get over a lower crossbar"" relative to the U.S., Koesterich told IBD.",0.7994745969772339,0.05098980292677879,0.1495356559753418,positive,0.7484847903251648
+13,2015-05-05 03:28:00,Russia and Brazil have had notable turnarounds from 2014.,0.9511435627937317,0.01917336694896221,0.029683047905564308,positive,0.9319701790809631
+14,2015-05-05 03:28:00,"And the sell-off in India funds last month may represent profit-taking by investors, Koesterich said.",0.027657948434352875,0.9472784399986267,0.02506367303431034,negative,-0.9196205139160156
+15,2015-05-05 03:28:00,"""We still believe most investors should include emerging market equities in their portfolios,"" he added, noting their generally reasonable valuations.",0.6893647313117981,0.017029153183102608,0.29360607266426086,positive,0.6723355650901794
+16,2015-05-05 03:28:00,But Koesterich warns that they may experience volatility this fall as a Fed rate hike approaches.,0.0947817713022232,0.7804075479507446,0.12481063604354858,negative,-0.6856257915496826
+17,2015-05-05 03:28:00,"Emerging markets were also among bond-fund winners last month, ticking along nicely as investors sought out riskier assets in the face of lackluster economic data.",0.7931417226791382,0.07331766933202744,0.13354060053825378,positive,0.7198240756988525
+18,2015-05-05 03:28:00,Higher interest rates and mixed earnings weighed on U.S. stocks as April drew to a close.,0.05299514904618263,0.9096965789794922,0.03730819374322891,negative,-0.8567014336585999
+19,2015-05-05 03:28:00,GDP growth in the first quarter underwhelmed investors.,0.1462390124797821,0.8126646280288696,0.041096318513154984,negative,-0.6664255857467651
+20,2015-05-05 03:28:00,Incomes in March were largely flat.,0.027184516191482544,0.29504719376564026,0.6777682900428772,neutral,-0.2678626775741577
+21,2015-05-05 03:28:00,"Investing In The U.S.
+
+Several sector-fund categories managed strong gains.",0.9484875798225403,0.022156478837132454,0.029355989769101143,positive,0.926331102848053
+22,2015-05-05 03:28:00,Energy commodity funds rose 11.9% as oil prices rebounded.,0.9393860101699829,0.02791425585746765,0.03269972652196884,positive,0.9114717245101929
+23,2015-05-05 03:28:00,"Natural resource funds, holding energy equities, gained 8.6%.",0.9135046601295471,0.03205361217260361,0.054441701620817184,positive,0.8814510703086853
+24,2015-05-05 03:28:00,"But health/biotech funds tumbled 3.1%, hit in part by soft earnings fromBiogen ( BIIB ) and a sales miss forCelgene ( CELG ).",0.020569240674376488,0.9701969623565674,0.009233727119863033,negative,-0.949627697467804
+25,2015-05-05 03:28:00,"True,Apple ( AAPL ) posted solid results April 27.",0.9464658498764038,0.01894909329712391,0.034585144370794296,positive,0.927516758441925
+26,2015-05-05 03:28:00,But earnings disappointments abounded.,0.030056342482566833,0.9409310221672058,0.029012614861130714,negative,-0.9108746647834778
+27,2015-05-05 03:28:00,"Companies includingProcter & Gamble ( PG ),Google ( GOOGL ),3M (MMM) andPepsiCo (PEP) struggled with a strengthening dollar that impacted overseas profits.",0.021896498277783394,0.9649924635887146,0.013110954314470291,negative,-0.9430959820747375
+28,2015-05-05 03:28:00,The rising greenback contributed to gains for small- and midcap funds' earlier this year.,0.9468043446540833,0.021415874361991882,0.031779732555150986,positive,0.9253884553909302
+29,2015-05-05 03:28:00,"""Investors were looking at those styles as a way to immunize themselves against a strong dollar,"" Koesterich said.",0.7639553546905518,0.021201753988862038,0.21484287083148956,positive,0.7427536249160767
+30,2015-05-05 03:28:00,"With a more domestic focus, they're less vulnerable to currency fluctuations that can impact earnings growth.",0.1297866255044937,0.02744974195957184,0.8427636623382568,neutral,0.10233688354492188
+31,2015-05-05 03:28:00,"But in April, small- and midcap growth stocks -- which topped broad-based U.S. funds in Q1 -- dipped into the red.",0.11893691122531891,0.786573052406311,0.09449003636837006,negative,-0.6676361560821533
+32,2015-05-05 03:28:00,"Midcap growth funds, such as the $5.9 billion American Century Heritage Fund , averaged a 1.1% loss.",0.019175823777914047,0.9631840586662292,0.017640069127082825,negative,-0.9440082311630249
+33,2015-05-05 03:28:00,Small-cap growth funds fell 2.5%.,0.019103998318314552,0.9721803665161133,0.008715561591088772,negative,-0.9530763626098633
+34,2015-05-05 03:28:00,"In contrast, large-cap growth funds were flat.",0.06120659038424492,0.6242679357528687,0.31452545523643494,negative,-0.5630613565444946
+35,2015-05-05 03:28:00,Large-cap value funds rose 1.1%.,0.939935028553009,0.02669309452176094,0.033371880650520325,positive,0.9132419228553772
+36,2015-05-05 03:28:00,"Large-cap core funds, blending growth and value stocks, inched up 0.7%.",0.9340149760246277,0.02622770518064499,0.039757370948791504,positive,0.9077872633934021
+37,2015-05-05 03:28:00,The pullback in smaller caps owed partly to the backup in rates.,0.4999515414237976,0.36773881316185,0.13230958580970764,positive,0.13221272826194763
+38,2015-05-05 03:28:00,"""When real interest rates are rising, people are worried about it,"" Koesterich said.",0.21416185796260834,0.4082590341567993,0.37757906317710876,negative,-0.19409717619419098
+39,2015-05-05 03:28:00,"""It has a bigger impact on small caps.""",0.09842990338802338,0.6513393521308899,0.25023072957992554,negative,-0.5529094338417053
+40,2015-05-05 03:28:00,Large companies tend to have ready access to lenders.,0.3734605014324188,0.009943951852619648,0.6165955066680908,neutral,0.36351653933525085
+41,2015-05-05 03:28:00,But smaller businesses find it easier to borrow money to expand operations when rates are low.,0.5259190201759338,0.030602846294641495,0.4434781074523926,positive,0.49531617760658264
+42,2015-05-05 03:28:00,"The average S&P 500 fund, tracking the broad stock market , rose 0.9% last month and 1.7% in 2015 as of April-end.",0.9299790263175964,0.026226872578263283,0.04379413276910782,positive,0.9037521481513977
+43,2015-05-05 03:28:00,"Over the last 15 years, they have turned in 4% average annual gains.",0.9396238923072815,0.01856670156121254,0.041809335350990295,positive,0.9210571646690369
+44,2015-05-05 03:28:00,Oil prices edged higher in April after a deep slump last year and early in 2015.,0.9271999597549438,0.034707799553871155,0.03809230029582977,positive,0.8924921751022339
+45,2015-05-05 03:28:00,"The gains came on the back of discord in the Middle East, a weakening dollar and production cutbacks in the U.S.",0.5474777817726135,0.41144976019859314,0.041072502732276917,positive,0.13602802157402039
+46,2015-05-05 03:28:00,"The stabilization in prices helped funds holding oil and gas commodities, and natural resource equities.",0.9158818125724792,0.03221045807003975,0.0519077368080616,positive,0.8836713433265686
+47,2015-05-05 03:28:00,"Investors also showed ""some willingness to bottom-fish"" given the energy sector's recent trajectory, Koesterich said.",0.872920036315918,0.02605040743947029,0.10102952271699905,positive,0.8468696475028992
+48,2015-05-05 03:28:00,The price of gold fell in April.,0.04739430919289589,0.8663228750228882,0.08628281205892563,negative,-0.8189285397529602
+49,2015-05-05 03:28:00,"Despite that, precious metal equity funds climbed 9.4%.",0.9389371275901794,0.026993656530976295,0.0340692475438118,positive,0.9119434952735901
+50,2015-05-05 03:28:00,Commodities precious metals funds slipped 0.5%.,0.027011742815375328,0.958946704864502,0.014041546732187271,negative,-0.9319349527359009
+51,2015-05-05 03:28:00,Gold bugs reportedly returned to funds backed by bullion on the bet that inflation is rising.,0.8479568958282471,0.043802954256534576,0.10824010521173477,positive,0.8041539192199707
+52,2015-05-05 03:28:00,"On the tail end, real estate funds gave up 5% last month.",0.6454357504844666,0.21679723262786865,0.1377669870853424,positive,0.4286385178565979
+53,2015-05-05 03:28:00,They're down 0.9% year to date after a healthy run in 2014.,0.01995815522968769,0.9676386117935181,0.012403284199535847,negative,-0.9476804733276367
+54,2015-05-05 03:28:00,That soft performance came as investors worried about looming rate hikes by the Federal Reserve.,0.11881255358457565,0.8395572304725647,0.04163019731640816,negative,-0.7207446694374084
+55,2015-05-05 03:28:00,Rising rates make borrowing money to fuel growth more difficult for REITs (real estate investment trusts).,0.11187005043029785,0.6110592484474182,0.27707070112228394,negative,-0.49918919801712036
+56,2015-05-05 03:28:00,"Plus, their dividend yields look less attractive.",0.020530827343463898,0.8966860175132751,0.08278315514326096,negative,-0.8761551976203918
+57,2015-05-05 03:28:00,"That fear -- despite the Fed's move to keep rates lower for longer -- also weighed on companies involved in producing and delivering gas, water and power.",0.0654221922159195,0.7727301120758057,0.16184772551059723,negative,-0.7073079347610474
+58,2015-05-05 03:28:00,Debt-heavy utility stocks react negatively to rising rates that increase payment burdens.,0.03845788538455963,0.9203163385391235,0.04122582823038101,negative,-0.8818584680557251
+59,2015-05-05 03:28:00,Funds tracking these equities inched up 0.8% in April and have slipped 1.9% so far this year.,0.03963667154312134,0.9441034197807312,0.01626000553369522,negative,-0.9044667482376099
+60,2015-05-05 03:28:00,Research firm S&P Capital IQ has a more favorable outlook on homegrown vs. foreign stocks.,0.7800368070602417,0.07632032036781311,0.1436428427696228,positive,0.703716516494751
+61,2015-05-05 03:28:00,"It points to slowing economic growth in China, deflation risk in Japan, stagflation (higher living costs plus lower growth) in Brazil and weakness in most of Europe.",0.02395814284682274,0.9370604157447815,0.03898151218891144,negative,-0.9131022691726685
+62,2015-05-05 03:28:00,"""In light of the outlook for the global economy, our strategy maintains overweighting domestic shares at the expense of stock markets abroad and retaining across-the-board neutrality in fixed income investments,"" Capital IQ's director of mutual fund research Todd Rosenbluth wrote April 17.",0.7987186908721924,0.016518771648406982,0.18476250767707825,positive,0.7821999192237854
+63,2015-05-05 03:28:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

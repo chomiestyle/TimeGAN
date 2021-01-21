@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-10-30 09:55:00,"As I pointed out in yesterday's Apple ( AAPL ) earnings review , the iconic iPad disappointed for the second quarter in a row, selling 14.1 million units vs. expectations of 14.5 million.",0.11122750490903854,0.8714137673377991,0.017358729615807533,negative,-0.7601862549781799
+1,2013-10-30 09:55:00,This served as a caution flag for investors.,0.3349316716194153,0.24839258193969727,0.41667574644088745,neutral,0.08653908967971802
+2,2013-10-30 09:55:00,"The iPad franchise's birth in 2010 kicked off the post-PC era, and it must succeed in order for Apple to be a part of it.",0.7343679070472717,0.012765185907483101,0.2528669536113739,positive,0.721602737903595
+3,2013-10-30 09:55:00,"On Monday's conference call, Apple CEO Tim Cook didn't flinch one bit.",0.08079294860363007,0.6849532723426819,0.23425374925136566,negative,-0.6041603088378906
+4,2013-10-30 09:55:00,"He said we are heading for an iPad Christmas, and that the unit would return to growth in the quarter.",0.9232657551765442,0.017008598893880844,0.05972564220428467,positive,0.906257152557373
+5,2013-10-30 09:55:00,Let's break down the challenge from a mathematical standpoint.,0.05851667746901512,0.012303215451538563,0.9291800856590271,neutral,0.04621346294879913
+6,2013-10-30 09:55:00,This charts plots quarterly iPad sales along with the year-over-year growth rate.,0.04045402631163597,0.008949567563831806,0.9505963921546936,neutral,0.03150445967912674
+7,2013-10-30 09:55:00,"Note that it follows Apple's fiscal year, which ends in September.",0.03409368544816971,0.010821878910064697,0.9550844430923462,neutral,0.02327180653810501
+8,2013-10-30 09:55:00,I called out the Q1/2013 number (the December quarter last year) of 22.86 million because that represents the year-over-year comparison.,0.07336661964654922,0.03365267440676689,0.892980694770813,neutral,0.03971394523978233
+9,2013-10-30 09:55:00,"It's certainly not an easy one as that was the best quarter ever for iPad sales, aided by the introduction of the iPad mini, which lowered the cost of entry for many shoppers.",0.9343679547309875,0.02494964189827442,0.040682353079319,positive,0.9094182848930359
+10,2013-10-30 09:55:00,So what would it take to drive year-over-year growth for the iPad?,0.21448297798633575,0.016430329531431198,0.7690866589546204,neutral,0.19805264472961426
+11,2013-10-30 09:55:00,"Off last quarter's number of 14.079 million, Apple would need to generate sequential growth of 62.4%.",0.8461958169937134,0.0483936108648777,0.10541064292192459,positive,0.797802209854126
+12,2013-10-30 09:55:00,"To generate year-over-year growth of 10%, Apple needs sequential growth of 78.6%.",0.4964134097099304,0.009295004419982433,0.49429160356521606,positive,0.4871183931827545
+13,2013-10-30 09:55:00,"And to grow iPad units by 20%, it would need a bump of 94.8%.",0.8115918636322021,0.0132132638245821,0.1751948744058609,positive,0.798378586769104
+14,2013-10-30 09:55:00,So Is It Doable?,0.13629454374313354,0.03112642653286457,0.8325790166854858,neutral,0.10516811907291412
+15,2013-10-30 09:55:00,"Yes, for three reasons.",0.08021436631679535,0.05019885301589966,0.8695867657661438,neutral,0.03001551330089569
+16,2013-10-30 09:55:00,"First, looking back at last year's enormous quarter, Apple did manage to generate a 62.9% sequential increase in iPad units.",0.9447765946388245,0.021188657730817795,0.03403468430042267,positive,0.9235879182815552
+17,2013-10-30 09:55:00,So there is a seasonality element here.,0.028577767312526703,0.024974845349788666,0.9464473724365234,neutral,0.003602921962738037
+18,2013-10-30 09:55:00,"And secondly, the new iPads announced at the October 22 event have been a long time coming.",0.06771814823150635,0.00689387321472168,0.925387978553772,neutral,0.06082427501678467
+19,2013-10-30 09:55:00,"I created a table showing the number of days between iPad releases:
+
+As you can see, there were three iPad generation releases between 3/11/2011 and 11/2/2012 -- a span of 602 calendar days.",0.016813280060887337,0.018008064478635788,0.9651786684989929,neutral,-0.0011947844177484512
+20,2013-10-30 09:55:00,"By shifting the new iPad schedule from March/April to November in 2012, Apple squeezed an extra generation in, helping drive a huge fiscal 2012 for the iPad, with growth of 80%.",0.9371347427368164,0.01955241896212101,0.043312836438417435,positive,0.9175823330879211
+21,2013-10-30 09:55:00,"That may very well have pulled some sales forward due to the usual excitement surrounding new Apple products, especially with last year's $329 iPad mini.",0.8038517832756042,0.08386816084384918,0.11228006333112717,positive,0.7199836373329163
+22,2013-10-30 09:55:00,So after that rapid pace of new product introduction -- a new iPad generation every 200 days -- we're forced to wait 364 days for the latest fifth generation.,0.047806281596422195,0.06634892523288727,0.8858447670936584,neutral,-0.018542643636465073
+23,2013-10-30 09:55:00,That adds an element of pent-up demand to the equation.,0.41464078426361084,0.018794776871800423,0.5665644407272339,neutral,0.39584600925445557
+24,2013-10-30 09:55:00,"And third, the new iPads are receiving rave reviews.",0.900755763053894,0.01778508722782135,0.08145909756422043,positive,0.8829706907272339
+25,2013-10-30 09:55:00,"As a sample, here's what Engadget said:
+
+And just for fun, here's a screenshot of GOOG ) results from a search for ""iPad Air review"":
+
+While there's clearly reason to be optimistic about an iPad rebound this quarter, there is one nagging issue: pricing.",0.0546589232981205,0.6219831705093384,0.3233579099178314,negative,-0.5673242211341858
+26,2013-10-30 09:55:00,Apple slapped a $399 price tag on the iPad mini with Retina display -- a $70 increase from last year's iPad mini.,0.8562672734260559,0.09397045522928238,0.049762316048145294,positive,0.7622967958450317
+27,2013-10-30 09:55:00,"The old iPad mini model is still in the mix at $299, but that's a mere 9% discount from the original price of $329 one year ago.",0.28105875849723816,0.4028719663619995,0.31606927514076233,negative,-0.12181320786476135
+28,2013-10-30 09:55:00,Apple's objective is clear: It wants to protect its profit margins and its status as a premium brand.,0.4914575517177582,0.012797626666724682,0.49574488401412964,neutral,0.4786599278450012
+29,2013-10-30 09:55:00,"There's a host of cheap iPad alternatives, like Google Android tablets and Chromebooks , taking share in the low end of the mobile device market.",0.10714349895715714,0.018497103825211525,0.8743594288825989,neutral,0.08864639699459076
+30,2013-10-30 09:55:00,"Apple could completely upend them by tossing a $199 iPad into the mix, but it would give away its soul.",0.1039629578590393,0.27311304211616516,0.6229239702224731,neutral,-0.16915008425712585
+31,2013-10-30 09:55:00,"It's quite telling that the company hired Angela Ahrendts, former CEO of Burberry (OTCMKTS:BURBY) to head up retail operations.",0.21032896637916565,0.012947393581271172,0.7767236232757568,neutral,0.19738157093524933
+32,2013-10-30 09:55:00,"It would certainly make sense, given Apple's insistence on ignoring the low end of the computing market.",0.05913239344954491,0.04612172394990921,0.8947458863258362,neutral,0.013010669499635696
+33,2013-10-30 09:55:00,"Remember, when every company has access to the same software, the same hardware components, and the same contract manufacturers, differentiation is hard to come by -- especially when it comes to branding.",0.04540521278977394,0.023844799026846886,0.9307500123977661,neutral,0.021560413762927055
+34,2013-10-30 09:55:00,"Apple's got it, and Ms. Ahrendts would likely protect it as well as anyone.",0.2780807614326477,0.009971609339118004,0.7119476199150085,neutral,0.26810914278030396
+35,2013-10-30 09:55:00,"Nevertheless, Apple is walking a fine line here in terms of pricing.",0.5581547021865845,0.015329746529459953,0.42651551961898804,positive,0.5428249835968018
+36,2013-10-30 09:55:00,"And if it can pull off a big iPad quarter this time around, the sky's the limit.",0.46196553111076355,0.04279879853129387,0.4952356815338135,neutral,0.4191667437553406
+37,2013-10-30 09:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

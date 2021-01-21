@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-14 22:31:00,"Toward the end of trading Tuesday, the Dow traded down 0.89 percent to 24,678.22 while the NASDAQ declined 0.96 percent to 7,340.28.",0.020875435322523117,0.963533878326416,0.015590674243867397,negative,-0.9426584243774414
+1,2018-05-14 22:31:00,"The S&P also fell, dropping 0.82 percent to 2,707.67.",0.018223615363240242,0.972220242023468,0.009556077420711517,negative,-0.9539965987205505
+2,2018-05-14 22:31:00,"Tuesday afternoon, the financial shares rose 0.03 percent.",0.8977844715118408,0.02727377787232399,0.07494181394577026,positive,0.8705106973648071
+3,2018-05-14 22:31:00,"Meanwhile, top gainers in the sector included PPDAI Group Inc. (NYSE: PPDF ), up 11 percent, and BBVA Banco Francés S.A. (NYSE: BFR ) up 8 percent.",0.9261232614517212,0.029038917273283005,0.04483775049448013,positive,0.8970843553543091
+4,2018-05-14 22:31:00,"Home Depot Inc (NYSE: HD ) reported better-than-expected earnings for its first quarter, while sales missed estimates.",0.09512369334697723,0.8901538848876953,0.014722415246069431,negative,-0.7950301766395569
+5,2018-05-14 22:31:00,Home Depot posted Q1 earnings of $2.08 per share on sales of $24.947 billion.,0.12577860057353973,0.026454076170921326,0.8477673530578613,neutral,0.09932452440261841
+6,2018-05-14 22:31:00,Analysts expected earnings of $2.06 per share on sales of $25.22 billion.,0.12745019793510437,0.012425119057297707,0.8601246476173401,neutral,0.11502508074045181
+7,2018-05-14 22:31:00,Sales at stores open at least a year increased 4.2 percent.,0.939705491065979,0.020708924159407616,0.03958568349480629,positive,0.9189965724945068
+8,2018-05-14 22:31:00,"Home Depot expects FY18 sales to grow by 6.7 percent, and earnings growth of 28 percent.",0.9364461898803711,0.01373608224093914,0.04981772229075432,positive,0.922710120677948
+9,2018-05-14 22:31:00,Euro Tech Holdings Company Limited (NASDAQ: CLWT ) shares shot up 58 percent to $5.05 after reporting 2017 year-end results.,0.9452734589576721,0.02116958610713482,0.033556923270225525,positive,0.924103856086731
+10,2018-05-14 22:31:00,"Shares of Medigus Ltd. (NASDAQ: MDGS ) got a boost, shooting up 50 percent to $1.69 in reaction to its Monday announcement of a distribution agreement.",0.9396124482154846,0.022393926978111267,0.03799360245466232,positive,0.9172185063362122
+11,2018-05-14 22:31:00,"The medical device company said it reached an agreement to distribute its minimally invasive medical devices in Turkey, Azerbaijan and Georgia.",0.9340607523918152,0.013650409877300262,0.05228884518146515,positive,0.9204103350639343
+12,2018-05-14 22:31:00,"Red Violet, Inc. (NASDAQ: RDVT ) shares were also up, gaining 31 percent to $7.44 after reporting Q1 results.",0.9454553127288818,0.02243867702782154,0.03210607171058655,positive,0.9230166077613831
+13,2018-05-14 22:31:00,Vipshop Holdings Limited (NYSE: VIPS ) shares dropped 20 percent to $12.14 after the company reported weaker-than-expected earnings for its first quarter on Monday.,0.019217073917388916,0.9711014032363892,0.009681474417448044,negative,-0.9518843293190002
+14,2018-05-14 22:31:00,Shares of Cesca Therapeutics Inc. (NASDAQ: KOOL ) were down 21 percent to 0.88 after reporting Q1 results.,0.017633013427257538,0.9636309742927551,0.018736066296696663,negative,-0.945997953414917
+15,2018-05-14 22:31:00,"Netshoes (Cayman) Limited (NASDAQ: NETS ) was down, falling around 36 percent to $3.27 as the company posted downbeat Q1 results.",0.017513476312160492,0.9700820446014404,0.012404426001012325,negative,-0.9525685906410217
+16,2018-05-14 22:31:00,"In commodity news, oil traded down 0.24 percent to $70.79 while gold traded down 2.11 percent to $1,290.40.",0.022566918283700943,0.9614242315292358,0.016008812934160233,negative,-0.9388573169708252
+17,2018-05-14 22:31:00,"Silver traded down 2.28 percent Tuesday to $16.265, while copper fell 1.12 to $3.0585.",0.023547042161226273,0.9636832475662231,0.012769716791808605,negative,-0.940136194229126
+18,2018-05-14 22:31:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+19,2018-05-14 22:31:00,European shares closed mostly higher today.,0.8903433084487915,0.028368793427944183,0.08128789812326431,positive,0.8619745373725891
+20,2018-05-14 22:31:00,"The eurozone's STOXX 600 gained 0.05 percent, the Spanish Ibex Index fell 0.49 percent, while Italy's FTSE MIB Index rose 0.31 percent.",0.4759938418865204,0.3971639573574066,0.1268421858549118,positive,0.07882988452911377
+21,2018-05-14 22:31:00,"Meanwhile the German DAX fell 0.06 percent, and the French CAC 40 climbed 0.23 percent while U.K. shares rose 0.16 percent.",0.07372278720140457,0.8929246068000793,0.03335254639387131,negative,-0.8192018270492554
+22,2018-05-14 22:31:00,"U.S. retail sales rose 0.3 percent for April, versus economists' expectations for a 0.4 percent gain.",0.9354872703552246,0.03669477626681328,0.02781790867447853,positive,0.8987925052642822
+23,2018-05-14 22:31:00,"The Empire State manufacturing index climbed to a reading of 20.1 in May, versus 15.8 in April However, economists expected a reading of 15.",0.864403247833252,0.07847370207309723,0.05712304636836052,positive,0.7859295606613159
+24,2018-05-14 22:31:00,The Johnson Redbook Retail Sales Index rose 0.8 percent during the first week of May versus April.,0.9315235614776611,0.04173605144023895,0.02674035169184208,positive,0.889787495136261
+25,2018-05-14 22:31:00,"U.S. business inventories were unchanged for May, versus economists' expectations for a 0.3 percent rise.",0.09747034311294556,0.855343759059906,0.04718584939837456,negative,-0.7578734159469604
+26,2018-05-14 22:31:00,"The NAHB housing market index rose to 70.00 in May, versus revised reading of 68.",0.9483609199523926,0.027651112526655197,0.023987993597984314,positive,0.9207097887992859
+27,2018-05-14 22:31:00,Economists projected a reading of 70.00.,0.17846432328224182,0.10166777670383453,0.7198679447174072,neutral,0.07679654657840729
+28,2018-05-14 22:31:00,© 2018 Benzinga.com.,0.029845405369997025,0.013035476207733154,0.9571191072463989,neutral,0.01680992916226387
+29,2018-05-14 22:31:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+30,2018-05-14 22:31:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+31,2018-05-14 22:31:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+32,2018-05-14 22:31:00,Gain access to a streaming platform with all the information you need to invest better today.,0.7333180904388428,0.014288763515651226,0.2523931562900543,positive,0.7190293073654175
+33,2018-05-14 22:31:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296511463820934,0.01562010683119297,0.9740833640098572,neutral,-0.005323595367372036

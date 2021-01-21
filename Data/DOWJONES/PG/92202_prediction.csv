@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-13 09:00:00,"Over the long run, value stocks--those that are inexpensive relative to their earnings, sales and book value (assets minus liabilities)--have handily beaten growth stocks, which boast faster-than-average earnings and sales growth.",0.8339229822158813,0.1313505470752716,0.03472651541233063,positive,0.7025724649429321
+1,2017-09-13 09:00:00,"Since 1926, value stocks have topped growth stocks by an average of 4.4 percentage points per year, according to a study by Bank of America Merrill Lynch.",0.8482303619384766,0.04085327684879303,0.11091635376214981,positive,0.8073770999908447
+2,2017-09-13 09:00:00,"SEE ALSO: Why Most Stocks Are Stinkers (and What You Can Do About It)
+
+Academics began documenting the superiority of value stocks decades ago.",0.06369424611330032,0.028698880225419998,0.907606840133667,neutral,0.034995365887880325
+3,2017-09-13 09:00:00,"The logic behind value's better returns: Investors tend to bid up the prices of growth stocks, such as Amazon.com (symbol AMZN ) and Netflix ( NFLX ), higher than makes sense.",0.6985901594161987,0.07755198329687119,0.22385789453983307,positive,0.6210381984710693
+4,2017-09-13 09:00:00,"Meanwhile, they often overlook boring, bargain-priced stocks.",0.05704755708575249,0.21465559303760529,0.7282968759536743,neutral,-0.1576080322265625
+5,2017-09-13 09:00:00,"Eventually, though, investors come to recognize the value in value stocks.",0.6291425824165344,0.02178707718849182,0.34907031059265137,positive,0.6073554754257202
+6,2017-09-13 09:00:00,"But over the past 10 years, growth massacred value.",0.7994592189788818,0.022520821541547775,0.1780199408531189,positive,0.7769383788108826
+7,2017-09-13 09:00:00,The Russell 1000 Growth index returned an annualized 9.5% while the Russell 1000 Value index gained a meager 6.1% annualized.,0.8683785796165466,0.07069714367389679,0.060924332588911057,positive,0.797681450843811
+8,2017-09-13 09:00:00,"So far this year, the growth index has soared 20.0% and the value index is up just 5.5%.",0.9269431829452515,0.020466327667236328,0.05259047448635101,positive,0.9064768552780151
+9,2017-09-13 09:00:00,"Growth, of course, hasn't beaten value every year in the past 10.",0.6094709634780884,0.10230359435081482,0.2882254719734192,positive,0.5071673393249512
+10,2017-09-13 09:00:00,"In fact, value clobbered growth in 2016, with index gains of 17.3% and 7.1%, respectively.",0.949155867099762,0.024211933836340904,0.02663230709731579,positive,0.9249439239501953
+11,2017-09-13 09:00:00,(All returns in this article are through September 11 unless otherwise noted.),0.009376431815326214,0.014147494919598103,0.9764760732650757,neutral,-0.004771063104271889
+12,2017-09-13 09:00:00,This isn't the first time growth has come out on top over a long period.,0.7235777378082275,0.05621246621012688,0.22020986676216125,positive,0.6673652529716492
+13,2017-09-13 09:00:00,"In the late 1990s, value stocks went nowhere while technology stocks soared.",0.04444555193185806,0.36010026931762695,0.595454216003418,neutral,-0.3156547248363495
+14,2017-09-13 09:00:00,It took a vicious bear market for the trend to reverse.,0.31536704301834106,0.2506122887134552,0.43402060866355896,neutral,0.06475475430488586
+15,2017-09-13 09:00:00,"Tech stocks, which had achieved ridiculously high price-earnings ratios, imploded in the 2000-02 bear market while many value stocks either lost little or managed to chalk up gains.",0.039511341601610184,0.9201818704605103,0.04030686244368553,negative,-0.8806705474853516
+16,2017-09-13 09:00:00,But growth stocks aren't trading at anywhere near the crazy valuations they did in the 1990s.,0.03216841444373131,0.1852608323097229,0.7825707793235779,neutral,-0.1530924141407013
+17,2017-09-13 09:00:00,"This time around, value's underperformance is largely due to a couple of sectors that together make up 35% of the Russell 100 Value index: financial services and energy, which hit serious speed bumps in the past decade.",0.03612274304032326,0.883500337600708,0.08037687093019485,negative,-0.847377598285675
+18,2017-09-13 09:00:00,"""This time, the outperformance of growth was more justified,"" says Phil Davidson, the veteran comanager of American Century Equity Income ( TWEIX ), a value fund.",0.7562238574028015,0.02472994290292263,0.21904624998569489,positive,0.7314938902854919
+19,2017-09-13 09:00:00,Financial services stocks were crushed during the 2007-09 bear market.,0.0206250362098217,0.9674467444419861,0.011928209103643894,negative,-0.9468216896057129
+20,2017-09-13 09:00:00,"Only a massive, last-minute government bailout prevented the failure of several large Wall Street banks from triggering the collapse of the entire sector.",0.23519465327262878,0.3780757784843445,0.3867296278476715,neutral,-0.1428811252117157
+21,2017-09-13 09:00:00,"Today, most financial services companies are much healthier than they were during the crisis.",0.6951761841773987,0.03522447124123573,0.2695993185043335,positive,0.6599516868591309
+22,2017-09-13 09:00:00,"""Financials are in a much stronger position,"" Davidson says.",0.9356956481933594,0.021436840295791626,0.04286758974194527,positive,0.9142588376998901
+23,2017-09-13 09:00:00,"Government regulations will ease, he believes, helping bottom lines.",0.8181203007698059,0.029888104647397995,0.1519915610551834,positive,0.7882322072982788
+24,2017-09-13 09:00:00,"But to boost profits, financials still need higher interest rates, particularly on intermediate- and long-term debt instruments.",0.904236376285553,0.02039926126599312,0.07536440342664719,positive,0.883837103843689
+25,2017-09-13 09:00:00,"Many financials borrow for shorter terms and lend for longer terms, profiting as long as longer rates are higher than shorter rates.",0.42386969923973083,0.02048669196665287,0.555643618106842,neutral,0.4033830165863037
+26,2017-09-13 09:00:00,"So far this year, Standard & Poor's financial sector is up a miserly 6.2%, compared with 27.1% for the top-performing technology sector and 12.7% for Standard & Poor's 500-stock index as a whole.",0.9372645616531372,0.0312548466026783,0.03148052841424942,positive,0.9060097336769104
+27,2017-09-13 09:00:00,"Energy stocks hit the skids beginning in 2014, when the price of a barrel of oil tumbled from more than $100 to less than $30 in early 2016.",0.07758142054080963,0.855290412902832,0.06712814420461655,negative,-0.7777090072631836
+28,2017-09-13 09:00:00,"""Oil prices fell because we've learned to extract oil at such low cost,"" says Greg Swenson, an analyst at the Leuthold Group, an investment research firm.",0.21957869827747345,0.7262396216392517,0.054181743413209915,negative,-0.5066609382629395
+29,2017-09-13 09:00:00,"Oil prices bounced back, to about $50 currently--but that's still much lower than many oil companies had bet on.",0.16764943301677704,0.7580987215042114,0.07425185292959213,negative,-0.5904492735862732
+30,2017-09-13 09:00:00,"""Oil stocks are adjusting to lower [ oil prices ] for longer,"" Davidson says.",0.3737592101097107,0.46249353885650635,0.16374728083610535,negative,-0.08873432874679565
+31,2017-09-13 09:00:00,The S&P energy sector has lost 12.3% this year.,0.01981442980468273,0.9701940417289734,0.00999155268073082,negative,-0.9503796100616455
+32,2017-09-13 09:00:00,Davidson points out another problem value has encountered in recent years: less-generous dividends.,0.024182626977562904,0.9440081119537354,0.031809207051992416,negative,-0.9198254942893982
+33,2017-09-13 09:00:00,"""Dividends have become more important to investors,"" he says, ""so stronger companies are paying out more of their earnings in dividends.""",0.6788231134414673,0.020578989759087563,0.3005979061126709,positive,0.6582441329956055
+34,2017-09-13 09:00:00,"Value stocks, such as financials and other highly indebted companies, reduced their dividends during the Great Recession.",0.01726960577070713,0.9644944071769714,0.01823597401380539,negative,-0.9472247958183289
+35,2017-09-13 09:00:00,"Meanwhile, growth stocks hiked their payouts.",0.9271987080574036,0.03618195280432701,0.036619313061237335,positive,0.8910167813301086
+36,2017-09-13 09:00:00,"Exhibit A: In dollars, Apple ( AAPL ) pays more in quarterly dividends than any other stock.",0.09096724539995193,0.01800408773124218,0.891028642654419,neutral,0.0729631558060646
+37,2017-09-13 09:00:00,"The long dry spell for value stocks spells opportunity, says Davidson.",0.4155218303203583,0.0770670548081398,0.5074111223220825,neutral,0.3384547829627991
+38,2017-09-13 09:00:00,"""We think value has an edge over time,"" he adds.",0.6158862113952637,0.014662526547908783,0.36945128440856934,positive,0.6012237071990967
+39,2017-09-13 09:00:00,"His motto: Buy the bent ones, not the broken ones.",0.054289769381284714,0.012757263146340847,0.9329529404640198,neutral,0.04153250530362129
+40,2017-09-13 09:00:00,By that he means you should look for high-quality companies encountering temporary problems that managers should be able to work through.,0.1338600069284439,0.013402885757386684,0.8527371287345886,neutral,0.12045712023973465
+41,2017-09-13 09:00:00,"Procter & Gamble Co. ( PG ), one of Equity Income's largest holdings, is in the bent category, Davidson says.",0.032866545021533966,0.006635209079831839,0.9604982137680054,neutral,0.02623133547604084
+42,2017-09-13 09:00:00,"The firm raised prices too much, stumbled overseas with some product launches and lost some of its touch with consumers, particularly younger buyers.",0.018311819061636925,0.954791247844696,0.026896871626377106,negative,-0.9364794492721558
+43,2017-09-13 09:00:00,But he thinks the firm is making the needed fixes.,0.46690574288368225,0.029865998774766922,0.5032282471656799,neutral,0.43703973293304443
+44,2017-09-13 09:00:00,Swenson says it's close to impossible to tell in advance when value will resume its customary role of beating growth.,0.15048833191394806,0.045562997460365295,0.803948700428009,neutral,0.10492533445358276
+45,2017-09-13 09:00:00,"But given how badly value stocks have performed in recent years, he thinks long-term investors should buy value.",0.5892251133918762,0.03621390089392662,0.37456098198890686,positive,0.5530112385749817
+46,2017-09-13 09:00:00,I think most investors should own a mix of value and growth funds.,0.03864359110593796,0.005047622602432966,0.9563088417053223,neutral,0.033595968037843704
+47,2017-09-13 09:00:00,But I'd be willing to bet most portfolios are overweight on growth just now because value has done so poorly.,0.04914296418428421,0.7724238038063049,0.17843322455883026,negative,-0.7232808470726013
+48,2017-09-13 09:00:00,What to buy?,0.07025973498821259,0.03639572858810425,0.893344521522522,neutral,0.03386400640010834
+49,2017-09-13 09:00:00,The American Century fund is a good one.,0.16442351043224335,0.00791619997471571,0.827660322189331,neutral,0.15650731325149536
+50,2017-09-13 09:00:00,"So are Dodge & Cox Stock ( DODGX ), T. Rowe Price Small-Cap Value ( PRSVX ) and T. Rowe Price Value ( TRVLX ).",0.012732007540762424,0.010685560293495655,0.9765824675559998,neutral,0.0020464472472667694
+51,2017-09-13 09:00:00,"Steve Goldberg is an investment adviser in the Washington, D.C., area.",0.03201275318861008,0.008160306140780449,0.9598269462585449,neutral,0.023852447047829628
+52,2017-09-13 09:00:00,"See Also: 5 Great Stocks for the Next Bear Market
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01027192547917366,0.014596606604754925,0.9751313924789429,neutral,-0.0043246811255812645

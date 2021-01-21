@@ -1,0 +1,81 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-29 06:30:00,"As we prepare to turn the page on the year that was 2019, it's time to review your investments.",0.05006808042526245,0.008699323050677776,0.9412326812744141,neutral,0.0413687564432621
+1,2019-12-29 06:30:00,Doing this every few weeks is a terrible idea -- akin to sitting around waiting for a plant to grow.,0.07639586925506592,0.7569783329963684,0.16662581264972687,negative,-0.6805824637413025
+2,2019-12-29 06:30:00,But once a year is perfectly healthy; the New Year is as good a time as any.,0.2666305899620056,0.02514391392469406,0.7082254886627197,neutral,0.24148666858673096
+3,2019-12-29 06:30:00,"Below, I'll highlight three large-cap ($20 billion to $500 billion) top stocks to buy heading into the year.",0.04218852519989014,0.00721580907702446,0.9505957365036011,neutral,0.03497271612286568
+4,2019-12-29 06:30:00,"All three possess the qualities I look for in a company: founder-led, healthy balance sheets, wide moats, and missions that can be fulfilled in infinite ways.",0.5118308067321777,0.01058362890034914,0.4775855243206024,positive,0.5012471675872803
+5,2019-12-29 06:30:00,"When Tobi Lutke was a budding entrepreneur in snowboards, he couldn't find a single platform to help him establish an e-commerce presence.",0.09455733001232147,0.0665990561246872,0.838843584060669,neutral,0.027958273887634277
+6,2019-12-29 06:30:00,So he built his own.,0.18973854184150696,0.008108268491923809,0.8021531701087952,neutral,0.18163026869297028
+7,2019-12-29 06:30:00,It turns out that platform was in high demand.,0.7711808681488037,0.019352681934833527,0.20946647226810455,positive,0.7518281936645508
+8,2019-12-29 06:30:00,"Lutke shelved the snowboards in favor of building a company -- Shopify (NYSE: SHOP) -- ""to make commerce better for everyone.""",0.1546216756105423,0.023330220952630043,0.8220481276512146,neutral,0.1312914490699768
+9,2019-12-29 06:30:00,"Such an all-encompassing and inspiring mission has led to two main revenue streams:
+• Subscriptions: In a tiered fashion, companies can set up a website, take orders, and control inventory, all for a monthly fee.",0.13322587311267853,0.005503814201802015,0.8612702488899231,neutral,0.12772205471992493
+10,2019-12-29 06:30:00,"• Merchant Services: Merchants can process payments and shipping, and access working capital to keep customers happy.",0.1597462296485901,0.009168320335447788,0.8310854434967041,neutral,0.15057790279388428
+11,2019-12-29 06:30:00,"As you can see, both of these revenue streams have experienced significant growth.",0.8907639384269714,0.013473761267960072,0.09576230496168137,positive,0.8772901892662048
+12,2019-12-29 06:30:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+13,2019-12-29 06:30:00,Data source: SEC filings.,0.013144510798156261,0.02131684310734272,0.9655386209487915,neutral,-0.008172332309186459
+14,2019-12-29 06:30:00,Figures rounded to nearest million.,0.272038072347641,0.2154671847820282,0.5124947428703308,neutral,0.05657088756561279
+15,2019-12-29 06:30:00,"2019 figures for trailing twelve months ending September 30, 2019.",0.01086499635130167,0.018200678750872612,0.970934271812439,neutral,-0.007335682399570942
+16,2019-12-29 06:30:00,"Crucially, the company's mission means that there are several more ways to ""improve commerce for everyone"" still to explore.",0.5539069771766663,0.012531514279544353,0.4335615038871765,positive,0.541375458240509
+17,2019-12-29 06:30:00,One of those was the announcement this summer that Shopify would be allowing merchants to access a vast fulfillment network that offers a viable alternative to Amazon.,0.7334094047546387,0.011274141259491444,0.2553164064884186,positive,0.7221352458000183
+18,2019-12-29 06:30:00,"Though the company isn't even free cash flow positive right now, I'm not worried.",0.08456522226333618,0.05022847279906273,0.8652063608169556,neutral,0.03433674946427345
+19,2019-12-29 06:30:00,"Once merchants are in the ecosystem, they're largely there to stay -- the switching costs are very high.",0.05159103125333786,0.021259063854813576,0.9271499514579773,neutral,0.030331967398524284
+20,2019-12-29 06:30:00,"Additionally, Shopify has a massive ecosystem of third-party app developers.",0.299302875995636,0.007404977921396494,0.6932921409606934,neutral,0.29189789295196533
+21,2019-12-29 06:30:00,"Those developers flock to the site because of Shopify's 820,000+ merchants -- creating a powerful network effect.",0.7270470857620239,0.01649634540081024,0.2564566731452942,positive,0.7105507254600525
+22,2019-12-29 06:30:00,"With Shopify's roughly $2.7 billion of cash on hand and no long-term debt, I think spending money to capture market share makes all the sense in the world right now.",0.23686037957668304,0.008335716091096401,0.7548038959503174,neutral,0.22852467000484467
+23,2019-12-29 06:30:00,"Developing tools in-house -- and then offering them to others
+
+MercadoLibre (NASDAQ: MELI) is Latin America's leading e-commerce site.",0.5296095013618469,0.009962716139853,0.46042779088020325,positive,0.5196467638015747
+24,2019-12-29 06:30:00,The company is part eBay (third-party merchants list their wares) and part Amazon (it is developing a large fulfillment and shipping network).,0.040797848254442215,0.004851090721786022,0.954351007938385,neutral,0.03594675660133362
+25,2019-12-29 06:30:00,But one of the biggest problems MercadoLibre experienced in its early days was finding a way for its customers to pay for stuff online.,0.046975277364254,0.49849963188171387,0.4545251727104187,negative,-0.4515243470668793
+26,2019-12-29 06:30:00,Latin Americans are vastly under-banked compared to North America.,0.029485898092389107,0.9441959857940674,0.02631821669638157,negative,-0.9147101044654846
+27,2019-12-29 06:30:00,So it developed its own payment tool: Mercado Pago.,0.16662785410881042,0.006788696628063917,0.8265834450721741,neutral,0.15983915328979492
+28,2019-12-29 06:30:00,The results have been far beyond anyone's wildest dreams.,0.6317499279975891,0.018159236758947372,0.350090891122818,positive,0.6135907173156738
+29,2019-12-29 06:30:00,"In fact, Mercado Pago started out as a way to pay for stuff on MercadoLibre.",0.06561645120382309,0.007101446855813265,0.9272820353507996,neutral,0.05851500481367111
+30,2019-12-29 06:30:00,"But with the introduction of mobile point-of-sale (mPOS) machines, businesses that have nothing to do with MercadoLibre (think: grocery stores and gas stations) are accepting payment via Mercado Pago.",0.045475319027900696,0.01027741190046072,0.944247305393219,neutral,0.0351979061961174
+31,2019-12-29 06:30:00,"Technically, this is referred to as ""off-platform"" spending, and it is growing at a break-neck pace.",0.2687130868434906,0.08317608386278152,0.6481108665466309,neutral,0.18553701043128967
+32,2019-12-29 06:30:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+33,2019-12-29 06:30:00,Data source: SEC filings.,0.013144510798156261,0.02131684310734272,0.9655386209487915,neutral,-0.008172332309186459
+34,2019-12-29 06:30:00,On and off-platform payments only delineated starting in 2012.,0.010420025326311588,0.010326312854886055,0.9792536497116089,neutral,9.37124714255333e-05
+35,2019-12-29 06:30:00,"Still run by founder Marcos Galperin, MercadoLibre has enormous potential to fulfill its mission of ""democratizing commerce and financial access.""",0.8604153394699097,0.011489651165902615,0.12809504568576813,positive,0.8489257097244263
+36,2019-12-29 06:30:00,"The company is spending aggressively to build out its shipping network, but has still generated $278 million in free cash flow and has a net cash (cash and investments minus long-term debt) position of $2.5 billion -- making it a strong buy in my book.",0.9000630974769592,0.013687338680028915,0.08624956756830215,positive,0.8863757848739624
+37,2019-12-29 06:30:00,"Providing the cloud for drug companies...and more
+
+Finally, we have Veeva Systems (NYSE: VEEV).",0.09740373492240906,0.004459094721823931,0.8981371521949768,neutral,0.09294463694095612
+38,2019-12-29 06:30:00,"Just after the turn of the millennium, Peter Gassner was an executive at Salesforce.com.",0.038465362042188644,0.019822698086500168,0.941711962223053,neutral,0.018642663955688477
+39,2019-12-29 06:30:00,"He realized that because drug companies had such specific regulatory requirements, there were no cloud providers who could serve them.",0.016702648252248764,0.03354346379637718,0.9497538805007935,neutral,-0.016840815544128418
+40,2019-12-29 06:30:00,So he decided to start Veeva for that very purpose.,0.12821851670742035,0.009016443975269794,0.8627650141716003,neutral,0.11920206993818283
+41,2019-12-29 06:30:00,"The company started out as a simple customer relationship management, or CRM, tool -- which is now referred to as ""The Commercial Cloud.""",0.057860106229782104,0.006374059710651636,0.93576580286026,neutral,0.051486045122146606
+42,2019-12-29 06:30:00,But the company has evolved.,0.26024502515792847,0.008664004504680634,0.7310909628868103,neutral,0.25158101320266724
+43,2019-12-29 06:30:00,Veeva's key product is now Veeva Vault.,0.14165528118610382,0.005039928946644068,0.8533048033714294,neutral,0.1366153508424759
+44,2019-12-29 06:30:00,"The easiest way to think about it is as a place on the cloud where a drug company can store every single piece of information it needs to bring a drug from the idea stage, through clinical trials, to the market.",0.06756644695997238,0.007126871030777693,0.9253066778182983,neutral,0.0604395754635334
+45,2019-12-29 06:30:00,"There's an ever-growing list of solutions to do this, all available on a subscription basis.",0.1915261447429657,0.00831306166946888,0.8001607656478882,neutral,0.18321308493614197
+46,2019-12-29 06:30:00,We won't have specific 2019 numbers until the company issues its annual report early next year.,0.008495710790157318,0.012744174338877201,0.9787600636482239,neutral,-0.004248463548719883
+47,2019-12-29 06:30:00,But we already know that Vault has eclipsed the Commercial Cloud.,0.5884591937065125,0.024581491947174072,0.38695934414863586,positive,0.5638777017593384
+48,2019-12-29 06:30:00,"That's a big deal, because Vault is very sticky.",0.05978146567940712,0.07777298241853714,0.862445592880249,neutral,-0.01799151673913002
+49,2019-12-29 06:30:00,"Once all of that mission-critical data is stored on a platform, and a company's employees become familiar with it, they are loath to switch.",0.07082296162843704,0.1986042857170105,0.7305727601051331,neutral,-0.12778133153915405
+50,2019-12-29 06:30:00,"That's why the company's subscription retention rate is above 120% -- meaning customers not only stay on, they use more tools and pay more money over time.",0.40208861231803894,0.01881507597863674,0.579096257686615,neutral,0.38327354192733765
+51,2019-12-29 06:30:00,Vault has been so popular that companies outside of pharmaceuticals have been clamoring for tools of their own.,0.20529480278491974,0.029983825981616974,0.7647213935852051,neutral,0.17531096935272217
+52,2019-12-29 06:30:00,"Heavily regulated industries like chemicals, consumer packaged goods, and cosmetics are also adopting Veeva tools -- making it easy to see that Veeva has multiple potential futures for the five years ahead.",0.3423459529876709,0.009021081030368805,0.6486329436302185,neutral,0.3333248794078827
+53,2019-12-29 06:30:00,"With its solid financial footing (net cash position of $1 billion) and with strong free cash flows ($423 million over the past year), Veeva has more than enough to fund these potential market expansions.",0.8966005444526672,0.01288068201392889,0.09051873534917831,positive,0.8837198615074158
+54,2019-12-29 06:30:00,"What investors should do
+
+By no means am I saying you should go out and put all of your money into these three stocks.",0.031101010739803314,0.011533248238265514,0.9573657512664795,neutral,0.019567761570215225
+55,2019-12-29 06:30:00,There are as many different investment styles as there are investors.,0.03805399313569069,0.006287312600761652,0.9556587338447571,neutral,0.031766679137945175
+56,2019-12-29 06:30:00,"Personally, these three make up over 25% of my family's real-life holdings.",0.024103453382849693,0.006405120715498924,0.9694914221763611,neutral,0.01769833266735077
+57,2019-12-29 06:30:00,These aren't empty words.,0.07502061873674393,0.022910453379154205,0.9020689725875854,neutral,0.05211016535758972
+58,2019-12-29 06:30:00,I think all three deserve your consideration.,0.3335537314414978,0.011609462089836597,0.6548367738723755,neutral,0.3219442665576935
+59,2019-12-29 06:30:00,"If you like what you see, buy a little and add to the position over time.",0.34031277894973755,0.00961278285831213,0.6500744223594666,neutral,0.33070001006126404
+60,2019-12-29 06:30:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+61,2019-12-29 06:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+62,2019-12-29 06:30:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.20886248350143433,0.015013301745057106,0.7761241793632507,neutral,0.19384917616844177
+63,2019-12-29 06:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+64,2019-12-29 06:30:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+65,2019-12-29 06:30:00,"Brian Stoffel owns shares of Amazon, MercadoLibre, Shopify, and Veeva Systems.",0.018594924360513687,0.008666039444506168,0.9727391004562378,neutral,0.009928884916007519
+66,2019-12-29 06:30:00,"The Motley Fool owns shares of and recommends Amazon, MercadoLibre, Salesforce.com, Shopify, and Veeva Systems.",0.030226722359657288,0.015074565075337887,0.9546986818313599,neutral,0.0151521572843194
+67,2019-12-29 06:30:00,The Motley Fool recommends eBay and recommends the following options: long January 2021 $18 calls on eBay and short January 2020 $39 calls on eBay.,0.02042906917631626,0.03005496971309185,0.9495159387588501,neutral,-0.009625900536775589
+68,2019-12-29 06:30:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

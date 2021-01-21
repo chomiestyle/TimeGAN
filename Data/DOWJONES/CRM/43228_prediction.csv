@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-21 05:50:00,"Jim Cramer -- the energetic host of CNBC's Mad Money -- thinks that competition between salesforce.com (NYSE: CRM) and Adobe (NASDAQ: ADBE) could ""become one of the great rivalries in tech.""",0.46022069454193115,0.03352489694952965,0.5062544345855713,neutral,0.4266957938671112
+1,2020-02-21 05:50:00,Really?,0.09374000132083893,0.07949765026569366,0.826762318611145,neutral,0.014242351055145264
+2,2020-02-21 05:50:00,Customer relationship management software versus digital design and creativity software?,0.06200902536511421,0.036618590354919434,0.9013724327087402,neutral,0.02539043501019478
+3,2020-02-21 05:50:00,"The thing is, I agree.",0.11853109300136566,0.02878534235060215,0.8526835441589355,neutral,0.08974575251340866
+4,2020-02-21 05:50:00,But I would suggest his timeline is off.,0.04806534945964813,0.11795322597026825,0.833981454372406,neutral,-0.06988787651062012
+5,2020-02-21 05:50:00,It's already one of the great tech rivalries out there.,0.3160504996776581,0.014010608196258545,0.6699389219284058,neutral,0.30203989148139954
+6,2020-02-21 05:50:00,"Unbeknownst to the general public, digital transformation has been sweeping the globe and reshaping how organizations think about their operations and how to present themselves to customers.",0.30632349848747253,0.07844103872776031,0.6152355074882507,neutral,0.22788245975971222
+7,2020-02-21 05:50:00,"Salesforce and Adobe, while born of different disciplines, are some of the preeminent players in that digital transformation.",0.14101096987724304,0.007727895863354206,0.8512611389160156,neutral,0.1332830786705017
+8,2020-02-21 05:50:00,"Rather than choose one, though, I say own both.",0.11255233734846115,0.03956928476691246,0.8478783369064331,neutral,0.07298305630683899
+9,2020-02-21 05:50:00,"First, though, it's worth acknowledging the two very different histories of these two companies.",0.03983957692980766,0.017844421789050102,0.9423159956932068,neutral,0.02199515514075756
+10,2020-02-21 05:50:00,"Adobe, the senior of the two by nearly two decades, started on the content creation side of the software business.",0.09931851178407669,0.006090139038860798,0.8945913314819336,neutral,0.09322836995124817
+11,2020-02-21 05:50:00,"It was instrumental in the development of computer-based publishing, a fact still evident in its current suite of software that leans toward web content creation and other creativity products.",0.24116083979606628,0.0065477932803332806,0.7522913813591003,neutral,0.23461304605007172
+12,2020-02-21 05:50:00,"Salesforce, as its name implies, started out building cloud-based software to manage customer relationships.",0.05875537544488907,0.005019224248826504,0.936225414276123,neutral,0.05373615026473999
+13,2020-02-21 05:50:00,What changed that these two unrelated software developers are now competitors?,0.04453649744391441,0.07588082551956177,0.8795826435089111,neutral,-0.031344328075647354
+14,2020-02-21 05:50:00,"According to Avionos CEO Scott Webb, an independent partner of both Salesforce and Adobe, the change really came a few years ago when organizations started looking for software partners that knew how to deliver experiences to customers.",0.34619560837745667,0.010272533632814884,0.643531858921051,neutral,0.33592307567596436
+15,2020-02-21 05:50:00,"Webb told me:
+
+This isn't a blip, but a fundamental change in how software is viewed and valued within an organization.",0.25421345233917236,0.012613028287887573,0.7331735491752625,neutral,0.2416004240512848
+16,2020-02-21 05:50:00,"They started from different points, but because they are driving experiences it was only a matter of time before they started to overlap.",0.10783607512712479,0.016541365534067154,0.875622570514679,neutral,0.09129470586776733
+17,2020-02-21 05:50:00,"Salesforce started with data and customer information, Adobe started with content and the value of the content to put in front of the customer.",0.018398290500044823,0.008594329468905926,0.9730073809623718,neutral,0.009803961031138897
+18,2020-02-21 05:50:00,They were inevitably on a collision course since data and content is really both about the customer experience.,0.02995922416448593,0.15551771223545074,0.8145230412483215,neutral,-0.1255584955215454
+19,2020-02-21 05:50:00,"It's interesting that changes in consumer behavior, the rise of cloud computing (which Salesforce has been a champion of since Day One), and other advancing technologies have pitted these seemingly unrelated businesses into the same realm over the last few years.",0.3518264591693878,0.015696266666054726,0.6324772834777832,neutral,0.33613020181655884
+20,2020-02-21 05:50:00,But there are similarities that go beyond just the headline numbers -- both have been growing revenues at a similar pace the last few years and carry similar market caps.,0.45969054102897644,0.016550250351428986,0.5237591862678528,neutral,0.44314029812812805
+21,2020-02-21 05:50:00,Even their acquisition strategy has overlapped.,0.26455914974212646,0.01799728162586689,0.7174435257911682,neutral,0.24656186997890472
+22,2020-02-21 05:50:00,"Data science, digital content creation, web marketing, and e-commerce management are especially notable mentions.",0.07333046942949295,0.013041025027632713,0.9136285185813904,neutral,0.06028944253921509
+23,2020-02-21 05:50:00,"As to the latter industry, Salesforce got into the space with its $2.8 billion takeover of Demandware in 2016 to jump-start its ""marketing and commerce cloud,"" with Adobe upping its game in the same department with Magento ($1.7 billion) and Marketo ($4.8 billion) in 2018.",0.6686566472053528,0.015754850581288338,0.31558847427368164,positive,0.6529017686843872
+24,2020-02-21 05:50:00,"Both remain active on the acquisition trail, though Salesforce has been in an especially spend-happy mood as of late.",0.07172789424657822,0.621729850769043,0.3065422475337982,negative,-0.5500019788742065
+25,2020-02-21 05:50:00,"In short, outside of a few core competencies, everything else related to customer experience and organizational digital transformation is a slugfest between these two.",0.014736639335751534,0.08154458552598953,0.9037188291549683,neutral,-0.06680794805288315
+26,2020-02-21 05:50:00,"Parallel paths to growth don't mean a collision course
+
+Which stock is the better buy?",0.14297188818454742,0.05917149409651756,0.7978566288948059,neutral,0.08380039036273956
+27,2020-02-21 05:50:00,I'm a proponent of owning both (although I've owned Salesforce for a number of years but still haven't pulled the trigger on Adobe ... yet).,0.06619866192340851,0.0073129283264279366,0.92648845911026,neutral,0.058885734528303146
+28,2020-02-21 05:50:00,The massive digital transformation industry (estimated at over $1 trillion a year in global spending) is a growing by double-digit percentages and both companies are benefitting from it.,0.8323396444320679,0.015859534963965416,0.15180079638957977,positive,0.8164801001548767
+29,2020-02-21 05:50:00,"According to Webb, budgeting for productivity and efficiency tools (think Microsoft Office) is increasingly headed toward higher-order software platforms like digital transformation and customer experience.",0.36259931325912476,0.011617211624979973,0.6257834434509277,neutral,0.35098209977149963
+30,2020-02-21 05:50:00,"Put another way, Webb said, ""a lot of [other] budget [items] would need to be trimmed before either [Adobe or Salesforce] get hit because they're so central to their customers' success.""",0.09132983535528183,0.6030552983283997,0.3056148588657379,negative,-0.5117254853248596
+31,2020-02-21 05:50:00,"As I mentioned before, that growing pie is equating to similar upside, with revenue at Adobe growing 24% in its fiscal 2019 year and Salesforce growing 27% through the first three quarters of its 2019.",0.9033628106117249,0.014742583967745304,0.08189461380243301,positive,0.8886201977729797
+32,2020-02-21 05:50:00,Adobe wins in the operating profit margin department -- much of that due to Salesforce's heavy spending on acquisitions.,0.9101628661155701,0.05670805647969246,0.033129073679447174,positive,0.8534548282623291
+33,2020-02-21 05:50:00,But both stocks currently trade for about 47 times trailing 12-month free cash flow.,0.048909109085798264,0.047317102551460266,0.9037737846374512,neutral,0.0015920065343379974
+34,2020-02-21 05:50:00,"Thus, as the digital transformation movement heats up in the years ahead, it's these two software giants that all eyes should be on.",0.12001338601112366,0.007518050726503134,0.8724685311317444,neutral,0.11249533295631409
+35,2020-02-21 05:50:00,"Rather than pick a winner, though, I think investors would be best served owning both for now.",0.11541996151208878,0.01041633915156126,0.8741637468338013,neutral,0.10500362515449524
+36,2020-02-21 05:50:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+37,2020-02-21 05:50:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+38,2020-02-21 05:50:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+39,2020-02-21 05:50:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+40,2020-02-21 05:50:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+41,2020-02-21 05:50:00,Nicholas Rossolillo and his clients own shares of Microsoft and Salesforce.com.,0.01457870751619339,0.012250193394720554,0.973171055316925,neutral,0.0023285141214728355
+42,2020-02-21 05:50:00,The Motley Fool owns shares of and recommends Microsoft and Salesforce.com.,0.04631398245692253,0.046064529567956924,0.9076215028762817,neutral,0.0002494528889656067
+43,2020-02-21 05:50:00,The Motley Fool recommends Adobe Systems and recommends the following options: long January 2021 $85 calls on Microsoft and short January 2021 $115 calls on Microsoft.,0.01853386126458645,0.029872601851820946,0.9515935182571411,neutral,-0.011338740587234497
+44,2020-02-21 05:50:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

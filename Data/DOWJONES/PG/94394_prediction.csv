@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-11-19 05:51:00,"Submitted by Sizemore Investment Letter as part of our contributors program
+
+It's filing season again, that time of year when we get to peek at what big, high-profile investors are buying.",0.1810341626405716,0.009007168933749199,0.8099586367607117,neutral,0.17202699184417725
+1,2012-11-19 05:51:00,And perhaps no portfolio is waited for in more anticipation that Warren Buffett's Berkshire Hathaway (NYSE: $ BRK-A ).,0.17620819807052612,0.05684276670217514,0.7669490575790405,neutral,0.11936543136835098
+2,2012-11-19 05:51:00,"Buffett is still bullish these days, even with all the talk of the fiscal cliff.",0.1916886270046234,0.4159696698188782,0.3923417329788208,negative,-0.22428104281425476
+3,2012-11-19 05:51:00,"If we fell over the cliff and the economy got whacked with higher taxes and massive spending cuts, Congress and the White House would hash out a deal before the economy slipped into recession.",0.6143249869346619,0.07141633331775665,0.3142586648464203,positive,0.5429086685180664
+4,2012-11-19 05:51:00,"""We're not going to permanently cripple ourselves,"" he said recently in a CNN interview.",0.11828020960092545,0.3228340744972229,0.5588857531547546,neutral,-0.20455387234687805
+5,2012-11-19 05:51:00,"That may be true, but I'm a little more worried than Mr. Buffett.",0.12155751138925552,0.25457412004470825,0.6238684058189392,neutral,-0.13301661610603333
+6,2012-11-19 05:51:00,"I agree that a deal will get made eventually, but the psychological damage can still be huge.",0.09877214580774307,0.616827666759491,0.28440019488334656,negative,-0.5180554986000061
+7,2012-11-19 05:51:00,And we could easily get a deep stock correction or a recession in the meantime.,0.10898687690496445,0.27418065071105957,0.616832435131073,neutral,-0.16519376635551453
+8,2012-11-19 05:51:00,Policy paralysis has consequences.,0.054539479315280914,0.5784826874732971,0.36697784066200256,negative,-0.5239431858062744
+9,2012-11-19 05:51:00,"With that said, what is Buffett and his team buying and selling these days?",0.029466386884450912,0.013207782991230488,0.9573258757591248,neutral,0.016258604824543
+10,2012-11-19 05:51:00,"To start, he's buying broadcast TV.",0.06520028412342072,0.004903655033558607,0.9298960566520691,neutral,0.06029662862420082
+11,2012-11-19 05:51:00,Berkshire Hathaway bought nearly 20% of Media General (NYSE:$ MEG).,0.15063723921775818,0.006985163316130638,0.8423775434494019,neutral,0.143652081489563
+12,2012-11-19 05:51:00,"This is a small holding for a portfolio of Berkshire's size, but it does show bullishness on the part of Buffett for traditional media.",0.2962711751461029,0.044880155473947525,0.6588486433029175,neutral,0.2513910233974457
+13,2012-11-19 05:51:00,I like to think I am a contrarian investor.,0.07547285407781601,0.1372656524181366,0.7872614860534668,neutral,-0.06179279834032059
+14,2012-11-19 05:51:00,But then I look at Warren Buffett and I realize that I'm not nearly as big of a contrarian as I thought.,0.0975266844034195,0.38196682929992676,0.5205064415931702,neutral,-0.28444015979766846
+15,2012-11-19 05:51:00,I wouldn't touch traditional media right now because I can't see where the profits will come from.,0.01892632246017456,0.021095603704452515,0.9599780440330505,neutral,-0.002169281244277954
+16,2012-11-19 05:51:00,"Advertising is an industry in flux, and TV competes with the internet for eyeballs.",0.07125500589609146,0.07476552575826645,0.8539794683456421,neutral,-0.003510519862174988
+17,2012-11-19 05:51:00,"But then, there is a proper price for everything, and Buffett seems to believe that, at .16 times sales, Media general is simply too cheap to ignore.",0.03353603184223175,0.09519030898809433,0.8712736368179321,neutral,-0.06165427714586258
+18,2012-11-19 05:51:00,"Buffett additionally made three additions in the gritty industrial sphere, buying nearly 4 million shares of Deere & Co (NYSE:$ DE), the producer of tractors and others heavy-duty equipment, 1.2 million shares of Precision Castparts Corp (NYSE:$ PCP ), which is essentially a metal shop with a worldwide presence, and 1.5 million shares of Wabco Holdings Inc (NYSE:$ WBC), a world leader brake and control systems for large commercial vehicles.",0.1328963190317154,0.005692796315997839,0.861410915851593,neutral,0.12720352411270142
+19,2012-11-19 05:51:00,Truck parts and tractors.,0.023033782839775085,0.009035342372953892,0.9679309129714966,neutral,0.013998440466821194
+20,2012-11-19 05:51:00,"Buffett clearly believes that industrial activity will be picking up in the years ahead, both in the United States and overseas.",0.8438903093338013,0.014098107814788818,0.14201156795024872,positive,0.8297922015190125
+21,2012-11-19 05:51:00,"Now, what's Buffett and his team selling?",0.032509494572877884,0.019026609137654305,0.9484638571739197,neutral,0.01348288543522358
+22,2012-11-19 05:51:00,"He sold out of Dollar General (NYSE:$ DG), Moldelez International (Nasdaq:$ MDLZ), Ingersoll-Rand PLC (NYSE:$ IR) and CVS Corp (NYSE:$ CVS) .",0.015918828547000885,0.012244761921465397,0.9718363881111145,neutral,0.003674066625535488
+23,2012-11-19 05:51:00,"The sales have little obvious in common, other than all but Ingersoll-Rand have a strong consumer focus.",0.06211934611201286,0.01028235349804163,0.9275982975959778,neutral,0.05183699354529381
+24,2012-11-19 05:51:00,"Dollar General is a discount retailer of assorted sundries, CVS Corp is national chain of pharmacies, and Mondelez is a producer of packaged foods.",0.02761591598391533,0.007815908640623093,0.9645681381225586,neutral,0.019800007343292236
+25,2012-11-19 05:51:00,"Yet Berkshire still maintains enormous positions in Coca-Cola (NYSE:$ KO), Procter & Gamble (NYSE:$ PG) and Wal-Mart (NYSE:$ WMT), so you can't reach the conclusion that Buffett is bearish on the consumer.",0.07357513159513474,0.3043922483921051,0.622032642364502,neutral,-0.23081710934638977
+26,2012-11-19 05:51:00,"Still, Berkshire's portfolio has been consistently drifting away from consumer-oriented stocks for months and towards grittier industrial stocks and business services stocks such as IBM (NYSE:$ IBM).",0.027417611330747604,0.8545868992805481,0.11799544095993042,negative,-0.8271692991256714
+27,2012-11-19 05:51:00,Disclosures: Sizemore Capital is long PG and WMT.,0.010955541394650936,0.008813554421067238,0.9802308678627014,neutral,0.0021419869735836983
+28,2012-11-19 05:51:00,SUBSCRIBE to Sizemore Insights via e-mail today.,0.01735968142747879,0.010125590488314629,0.9725147485733032,neutral,0.007234090939164162
+29,2012-11-19 05:51:00,The post What is Warren Buffett Buying?,0.06831981241703033,0.030164122581481934,0.9015160799026489,neutral,0.0381556898355484
+30,2012-11-19 05:51:00,appeared first on Sizemore Insights.,0.032903339713811874,0.010695172473788261,0.9564014673233032,neutral,0.022208167240023613
+31,2012-11-19 05:51:00,"• Three Dividend Stocks Owned by the Smart Money
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010806192643940449,0.014133996330201626,0.9750598073005676,neutral,-0.003327803686261177

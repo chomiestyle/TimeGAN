@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-10 08:10:00,"In early trading on Wednesday, shares of Home Depot topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.0%.",0.9357793927192688,0.033547550439834595,0.030673135071992874,positive,0.9022318124771118
+1,2018-10-10 08:10:00,"Year to date, Home Depot registers a 4.3% gain.",0.9445990324020386,0.023546144366264343,0.03185480833053589,positive,0.921052873134613
+2,2018-10-10 08:10:00,"And the worst performing Dow component thus far on the day is Nike, trading down 3.2%.",0.021154263988137245,0.9652226567268372,0.013623041100800037,negative,-0.9440683722496033
+3,2018-10-10 08:10:00,Nike is showing a gain of 24.5% looking at the year to date performance.,0.9557508230209351,0.019991284236311913,0.02425791136920452,positive,0.9357595443725586
+4,2018-10-10 08:10:00,"Two other components making moves today are Intel, trading down 2.1%, and Verizon Communications, trading up 0.8% on the day.",0.027885455638170242,0.9416751265525818,0.03043939545750618,negative,-0.913789689540863
+5,2018-10-10 08:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

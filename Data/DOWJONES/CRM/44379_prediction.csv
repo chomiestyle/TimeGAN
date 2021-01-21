@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-04 16:47:00,The excited market today has led to some excited trading after closing.,0.7577986121177673,0.02199578285217285,0.22020553052425385,positive,0.7358028292655945
+1,2019-06-04 16:47:00,"Near the top of the ""most-traded after-hours list"" is salesforce.com (NYSE: CRM), which released an earnings report that satisfied many investors.",0.8298839330673218,0.024828527122735977,0.14528746902942657,positive,0.8050553798675537
+2,2019-06-04 16:47:00,On the opposite site of the pleasing scale is Skyworks Solutions (NASDAQ: SWKS) -- the company is facing an uncertain immediate future due to events outside of its control.,0.021999135613441467,0.5861347317695618,0.39186614751815796,negative,-0.5641356110572815
+3,2019-06-04 16:47:00,"Finally, TiVo (NASDAQ: TIVO) got some much-needed good news in its dispute with Comcast (NASDAQ: CMCSA) thanks to The Law.",0.9285304546356201,0.021742207929491997,0.04972739517688751,positive,0.9067882299423218
+4,2019-06-04 16:47:00,Let's call the court to order and take that case first...,0.06115962564945221,0.03606341779232025,0.9027769565582275,neutral,0.025096207857131958
+5,2019-06-04 16:47:00,There's nothing like a legal victory to breathe new life into a stock.,0.25733861327171326,0.026307284832000732,0.7163540720939636,neutral,0.23103132843971252
+6,2019-06-04 16:47:00,TiVo shares are up nearly 10% in night trading following the company's announcement that it had bested big media's Comcast in that arena.,0.9441299438476562,0.02474670484662056,0.03112335503101349,positive,0.9193832278251648
+7,2019-06-04 16:47:00,"According to TiVo, it received from the U.S. International Trade Commission (ITC), a branch of the federal government that has the authority to make certain rulings in trade and business disputes, ""a favorable determination... that Comcast's X1 entertainment platform infringes Rovi's patents.""",0.8513286709785461,0.026027299463748932,0.12264402210712433,positive,0.8253013491630554
+8,2019-06-04 16:47:00,"Rovi, a provider of data for on-screen TV program guides, is a key TiVo asset.",0.22846756875514984,0.006407179404050112,0.7651252150535583,neutral,0.22206038236618042
+9,2019-06-04 16:47:00,TiVo and Comcast have been fighting in court for several years over patents.,0.05964140594005585,0.8829107284545898,0.05744791775941849,negative,-0.8232693076133728
+10,2019-06-04 16:47:00,"The original suit was filed in 2016, alleging that Comcast infringed Rovi patents with X1's feature set.",0.027250418439507484,0.9051104784011841,0.06763920187950134,negative,-0.8778600692749023
+11,2019-06-04 16:47:00,"In November 2017, the ITC determined that two of Rovi's patents for ""remote record"" technology had been infringed by Comcast.",0.029670050367712975,0.939903974533081,0.030426019802689552,negative,-0.9102339148521423
+12,2019-06-04 16:47:00,Comcast subsequently had to remove the function from its equipment.,0.02694704569876194,0.7553589344024658,0.21769404411315918,negative,-0.7284119129180908
+13,2019-06-04 16:47:00,Last month ITC launched a fresh investigation into Comcast's alleged infringement of six patents of various TV features.,0.04454555734992027,0.8674851059913635,0.08796928077936172,negative,-0.8229395747184753
+14,2019-06-04 16:47:00,That investigation is ongoing.,0.04218219965696335,0.018129855394363403,0.9396879076957703,neutral,0.024052344262599945
+15,2019-06-04 16:47:00,"Comcast has not yet responded publicly to the ITC ruling, but it doesn't seem as if the market's too concerned -- the company's stock is actually up slightly in after-market action.",0.4858167767524719,0.08283983170986176,0.43134334683418274,positive,0.402976930141449
+16,2019-06-04 16:47:00,"Due to the current trade dispute between China and the U.S., Skyworks has reduced its estimate for its current Q3 of fiscal 2019.",0.01638833060860634,0.9660060405731201,0.017605628818273544,negative,-0.9496176838874817
+17,2019-06-04 16:47:00,"It now believes it will book revenue of $755 million to $775 million, with adjusted per-share net profit coming in at $1.34 at the midpoint of that top-line range.",0.726146399974823,0.01784077286720276,0.25601282715797424,positive,0.7083055973052979
+18,2019-06-04 16:47:00,"Both projections are some way down from the former ones, which were $815 million to $835 million, and $1.50, respectively.",0.019360285252332687,0.9587582349777222,0.021881453692913055,negative,-0.939397931098938
+19,2019-06-04 16:47:00,"Skyworks supplies hardware components to Chinese tech giant Huawei, which is dead center in the middle of the Chinese-U.S. trade war.",0.0340934619307518,0.8778718709945679,0.08803468942642212,negative,-0.8437784314155579
+20,2019-06-04 16:47:00,Huawei is responsible for roughly 12% of total Skyworks sales.,0.01746898889541626,0.0074569047428667545,0.975074052810669,neutral,0.010012084618210793
+21,2019-06-04 16:47:00,"Although the market isn't collectively happy about this, it isn't taking it too badly in post-close trading.",0.10405212640762329,0.15968964993953705,0.7362582087516785,neutral,-0.05563752353191376
+22,2019-06-04 16:47:00,The stock price is currently down only marginally tonight.,0.04279889538884163,0.6032655835151672,0.35393548011779785,negative,-0.5604667067527771
+23,2019-06-04 16:47:00,Talk about a convincing earnings beat.,0.9327006340026855,0.026371769607067108,0.04092761129140854,positive,0.9063288569450378
+24,2019-06-04 16:47:00,"Customer relationship management (CRM) mainstay Salesforce reported Q1 of 2020 results after the market's closing bell, and these were particularly impressive on the bottom line.",0.9299539923667908,0.025844639167189598,0.04420142248272896,positive,0.9041093587875366
+25,2019-06-04 16:47:00,"For the period, Salesforce took in revenue of $3.74 billion, 24% higher than in the same period of fiscal 2019.",0.9389414191246033,0.024243351072072983,0.036815229803323746,positive,0.91469806432724
+26,2019-06-04 16:47:00,This was above the average $3.68 billion expected by analysts.,0.9097901582717896,0.03538912162184715,0.054820798337459564,positive,0.8744010329246521
+27,2019-06-04 16:47:00,The company's adjusted net profit was $739 million ($0.93 per share).,0.033361613750457764,0.02406974323093891,0.9425686001777649,neutral,0.009291870519518852
+28,2019-06-04 16:47:00,"Not only did that represent a 33% improvement, it was far above the $0.61 earnings per share figure analysts had been modeling.",0.9524602293968201,0.025234084576368332,0.02230573631823063,positive,0.9272261261940002
+29,2019-06-04 16:47:00,"Salesforce attributed the growth to its expansion into other business segments besides sales, among other factors.",0.8144831657409668,0.012403641827404499,0.17311324179172516,positive,0.8020794987678528
+30,2019-06-04 16:47:00,"Adding to the positive news, the company increased its profitability guidance for the entirety of fiscal 2020.",0.9154212474822998,0.016156494617462158,0.06842219829559326,positive,0.8992647528648376
+31,2019-06-04 16:47:00,"It is maintaining its projection of $16.10 billion to $16.25 billion on the top line, but has upped that for adjusted EPS, to between $2.88 and $2.90.",0.6566446423530579,0.040361158549785614,0.3029942214488983,positive,0.6162834763526917
+32,2019-06-04 16:47:00,The average analyst estimates come in at $16.12 billion for revenue and $2.66 for EPS.,0.021636009216308594,0.025014502927660942,0.9533494710922241,neutral,-0.0033784937113523483
+33,2019-06-04 16:47:00,"In post-market trading, Salesforce's shares are up by nearly 3% at the moment.",0.9514049887657166,0.020350532606244087,0.02824454940855503,positive,0.9310544729232788
+34,2019-06-04 16:47:00,"10 stocks we like better than Skyworks Solutions
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13960012793540955,0.022016679868102074,0.8383831977844238,neutral,0.11758344620466232
+35,2019-06-04 16:47:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+36,2019-06-04 16:47:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Skyworks Solutions wasn't one of them!",0.21805988252162933,0.01322239451110363,0.7687177062034607,neutral,0.20483748614788055
+37,2019-06-04 16:47:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+38,2019-06-04 16:47:00,Eric Volkman has no position in any of the stocks mentioned.,0.009491865523159504,0.05041404440999031,0.9400940537452698,neutral,-0.04092217981815338
+39,2019-06-04 16:47:00,The Motley Fool owns shares of and recommends Salesforce.com and Skyworks Solutions.,0.025230225175619125,0.014901450835168362,0.959868311882019,neutral,0.010328774340450764
+40,2019-06-04 16:47:00,The Motley Fool recommends Comcast.,0.0529012605547905,0.03666837513446808,0.910430371761322,neutral,0.016232885420322418
+41,2019-06-04 16:47:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

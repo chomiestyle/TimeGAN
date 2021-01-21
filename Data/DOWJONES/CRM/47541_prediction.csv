@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-02-26 23:50:00,"Software-as-a-service provider Salesforce (NYSE: CRM) has seen its stock price climb 43% over the past year, outpacing its software peers by 8% and the overall market by 23%.",0.9527308344841003,0.02761347033083439,0.019655723124742508,positive,0.9251173734664917
+1,2018-02-26 23:50:00,"As the cloud pioneer gets set to report earnings on Feb. 28, investors will be looking for signs that this growth story can continue.",0.7964158058166504,0.01573728211224079,0.18784692883491516,positive,0.7806785106658936
+2,2018-02-26 23:50:00,A typical Wall Street analyst will dissect quarterly indicators of success like revenue and earnings.,0.021367410197854042,0.01349765993654728,0.9651349186897278,neutral,0.007869750261306763
+3,2018-02-26 23:50:00,But the long-term trajectory of Salesforce rests upon often-overlooked metrics.,0.15412284433841705,0.016125399619340897,0.8297517895698547,neutral,0.13799744844436646
+4,2018-02-26 23:50:00,Here are three surprising facts about Salesforce that you need to get familiar with as a buy-and-hold investor.,0.031515151262283325,0.007748081348836422,0.9607368111610413,neutral,0.02376706898212433
+5,2018-02-26 23:50:00,"Analysts often compare Salesforce to tech giants like Microsoft and Oracle , both of which compete in the same spheres of cloud computing and customer relationship management.",0.33519217371940613,0.018300890922546387,0.6465070247650146,neutral,0.31689128279685974
+6,2018-02-26 23:50:00,"Those companies tower over Salesforce in terms of market capitalization : Microsoft is at $735 billion, Oracle is at $211 billion, and Salesforce is at $89 billion.",0.1195024698972702,0.006767872720956802,0.8737297058105469,neutral,0.1127346009016037
+7,2018-02-26 23:50:00,But Salesforce is actually the big kahuna in cloud computing if you look at pure-play businesses -- which Microsoft and Oracle are not.,0.04051477089524269,0.022200385108590126,0.9372848868370056,neutral,0.018314385786652565
+8,2018-02-26 23:50:00,The latter two have legacy consulting services and even hardware product lines.,0.043010223656892776,0.005013919901102781,0.9519758820533752,neutral,0.03799630329012871
+9,2018-02-26 23:50:00,Salesforce has no legacy businesses.,0.010136734694242477,0.010639408603310585,0.9792238473892212,neutral,-0.0005026739090681076
+10,2018-02-26 23:50:00,"If you're unfamiliar with Salesforce's clout relative to its cloud computing pure-play peers, take a look at this list:
+
+Salesforce is nearly three times larger than the next biggest cloud computing peer, Workday, and it's market capitalization is greater than the next four largest companies combined .",0.6898683905601501,0.013725471682846546,0.296406090259552,positive,0.6761429309844971
+11,2018-02-26 23:50:00,"Salesforce benefits from its size, but it can also experience rapid growth due to the scaleability of a pure-play cloud computing business.",0.873794674873352,0.012205288745462894,0.11400006711483002,positive,0.8615893721580505
+12,2018-02-26 23:50:00,"Consider the vast separation between the average five-year revenue growth rates of Microsoft, Oracle, and Salesforce, respectively: 4.3%, , 0.4%, and 28.9%.",0.060311418026685715,0.054254334419965744,0.8854342699050903,neutral,0.006057083606719971
+13,2018-02-26 23:50:00,It's not even close.,0.09464607387781143,0.23125800490379333,0.6740959286689758,neutral,-0.1366119384765625
+14,2018-02-26 23:50:00,"By being solely focused on its cloud offerings, Salesforce is undistracted by the the multitude of non-cloud applications, consulting services, or even hardware that Microsoft and Oracle provide.",0.011459413915872574,0.019419312477111816,0.9691212773323059,neutral,-0.007959898561239243
+15,2018-02-26 23:50:00,"Size alone is valuable in what you can do and who you can serve, but size matched with focus and speed is truly enviable in software.",0.39442163705825806,0.012243811972439289,0.5933345556259155,neutral,0.38217782974243164
+16,2018-02-26 23:50:00,"As Salesforce grows, investors need to keep an eye on the company's ability to maintain its customer-centric culture.",0.6771143078804016,0.012486911378800869,0.31039881706237793,positive,0.6646273732185364
+17,2018-02-26 23:50:00,"All too often, with size comes bureaucracy or -- even worse -- complacency.",0.06489770114421844,0.28877562284469604,0.6463266611099243,neutral,-0.2238779217004776
+18,2018-02-26 23:50:00,"The former is propagated by complexity within an organization, whereas the latter can be caused by a misalignment of incentives.",0.01679406501352787,0.11964274197816849,0.8635631799697876,neutral,-0.10284867882728577
+19,2018-02-26 23:50:00,The last thing you want to see is a bloated tech company whose customers are entrenched in its services but generally dissatisfied with the arrangement.,0.03912118077278137,0.7762699723243713,0.18460886180400848,negative,-0.7371487617492676
+20,2018-02-26 23:50:00,"Fortunately, the opposite trend is emerging at Salesforce, as evidenced by an all-important metric: customer attrition.",0.3314191401004791,0.07408469915390015,0.5944961309432983,neutral,0.257334440946579
+21,2018-02-26 23:50:00,This is the measure of customers who purchase a service from Salesforce's platform but choose not to renew their service.,0.012327696196734905,0.01866964064538479,0.9690027236938477,neutral,-0.006341944448649883
+22,2018-02-26 23:50:00,The inverse of customer attrition is customer retention.,0.02783876098692417,0.07379410415887833,0.8983671069145203,neutral,-0.045955345034599304
+23,2018-02-26 23:50:00,Salesforce learned a hard lesson in 2011 when leadership realized that the issue of high customer attrition needed to be escalated on its list of priorities.,0.8231737613677979,0.026468699797987938,0.15035752952098846,positive,0.7967050671577454
+24,2018-02-26 23:50:00,"Since that point in time, customer attrition (measured in U.S. dollars) has declined 45% in a steady manner.",0.05317392200231552,0.9354909062385559,0.011335114948451519,negative,-0.8823170065879822
+25,2018-02-26 23:50:00,"An attrition rate in the single-digit range (9%) implies customer retention of 91%, a level that puts Salesforce in good company: Costco , a top-notch recurring-revenue business, also sports a 91% retention rate in its core markets.",0.7683979868888855,0.0273981261998415,0.20420384407043457,positive,0.7409998774528503
+26,2018-02-26 23:50:00,"If customer retention is critical, then creating a workforce that engages and delights customers is a good place to invest.",0.7220451235771179,0.013041557744145393,0.2649133503437042,positive,0.7090035676956177
+27,2018-02-26 23:50:00,Salesforce has done just that.,0.08111625164747238,0.0058089145459234715,0.913074791431427,neutral,0.07530733942985535
+28,2018-02-26 23:50:00,"One highly regarded measure of workplace satisfaction is Fortune 's Best Companies to Work For list, which evaluates thousands of workplaces to determine which companies make the top 100 spots in the America.",0.26284489035606384,0.018384365364909172,0.7187707424163818,neutral,0.24446052312850952
+29,2018-02-26 23:50:00,"Salesforce not only made the list, it achieved the coveted No.",0.911885678768158,0.028010185807943344,0.060104068368673325,positive,0.8838754892349243
+30,2018-02-26 23:50:00,"1 spot in 2017, rising up from the 8th place position in 2016.",0.9468520283699036,0.025463199242949486,0.02768479473888874,positive,0.9213888049125671
+31,2018-02-26 23:50:00,"Based on employee feedback, the Fortune survey results showed consistent scores of 95% or above in areas important to employees that include ""challenges,"" ""atmosphere,"" ""rewards,"" ""pride,"" ""communication,"" and ""bosses.""",0.5104228258132935,0.027929086238145828,0.4616480767726898,positive,0.48249372839927673
+32,2018-02-26 23:50:00,"Other interesting takeaways included Salesforce's use of a feedback app that incorporates ""ongoing, real-time, regular feedback"" for its employees and a volunteer time off (VTO) program that encourages employees to take seven full days of annual paid leave to volunteer in their community.",0.22317971289157867,0.015276730991899967,0.7615435719490051,neutral,0.20790298283100128
+33,2018-02-26 23:50:00,"Fortune's findings are echoed on the employer ratings website Glassdoor , too.",0.07693757861852646,0.0195043683052063,0.903558075428009,neutral,0.05743321031332016
+34,2018-02-26 23:50:00,"Salesforce achieves an 87% positive response in the ""recommend to a friend"" category and a 98% positive response on the ""approve of CEO"" category.",0.9276249408721924,0.03995901346206665,0.03241605684161186,positive,0.8876659274101257
+35,2018-02-26 23:50:00,"The evidence from these two sources indicates Salesforce goes above and beyond the typical perks and programs to create satisfied employees, who in turn serve customers well.",0.6223431825637817,0.014432958327233791,0.3632238507270813,positive,0.6079102158546448
+36,2018-02-26 23:50:00,"These traits are key to Salesforce's success
+
+Like any software company, Salesforce needs to stay on the cutting edge to remain relevant -- or, even better, adored -- by its customers.",0.8666345477104187,0.013788961805403233,0.11957651376724243,positive,0.8528456091880798
+37,2018-02-26 23:50:00,The competition is simply too fierce to allow for stagnation.,0.05187181010842323,0.4507962167263031,0.49733197689056396,neutral,-0.39892441034317017
+38,2018-02-26 23:50:00,It must couple speed with size.,0.11223562061786652,0.009208668023347855,0.8785557150840759,neutral,0.10302695631980896
+39,2018-02-26 23:50:00,It cannot afford to lose repeat revenue due to dissatisfied customers.,0.019849499687552452,0.9551486968994141,0.02500169724225998,negative,-0.9352992177009583
+40,2018-02-26 23:50:00,And it will have to continually invest in its workforce to keep talent from departing.,0.3046489655971527,0.5062116384506226,0.18913938105106354,negative,-0.20156267285346985
+41,2018-02-26 23:50:00,Long-term investors should think less in terms of quarterly earnings and more in terms of how Salesforce builds on these unique strengths in cloud computing.,0.10625071078538895,0.011260061524808407,0.8824892044067383,neutral,0.09499064832925797
+42,2018-02-26 23:50:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+43,2018-02-26 23:50:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+44,2018-02-26 23:50:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+45,2018-02-26 23:50:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+46,2018-02-26 23:50:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+47,2018-02-26 23:50:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+48,2018-02-26 23:50:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+49,2018-02-26 23:50:00,"Isaac Pino, CPA owns shares of Microsoft and Shopify.",0.02187395840883255,0.011849374510347843,0.9662766456604004,neutral,0.010024583898484707
+50,2018-02-26 23:50:00,"The Motley Fool owns shares of and recommends Atlassian, Shopify, and Workday.",0.027584446594119072,0.014017541892826557,0.9583980441093445,neutral,0.013566904701292515
+51,2018-02-26 23:50:00,The Motley Fool owns shares of Oracle and has the following options: long June 2018 $52 calls on Oracle and long January 2020 $30 calls on Oracle.,0.016846327111124992,0.014577535912394524,0.9685760736465454,neutral,0.0022687911987304688
+52,2018-02-26 23:50:00,The Motley Fool recommends Costco Wholesale and Salesforce.com.,0.01788683421909809,0.028633827343583107,0.9534792900085449,neutral,-0.010746993124485016
+53,2018-02-26 23:50:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+54,2018-02-26 23:50:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

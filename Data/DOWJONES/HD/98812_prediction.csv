@@ -1,0 +1,114 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-08-19 06:49:00,"The Dow increased over last week, buoyed by gains made by energy and material shares.",0.9372491836547852,0.025606801733374596,0.0371440164744854,positive,0.9116423726081848
+1,2016-08-19 06:49:00,Rising hopes that major oil producing countries would reach an agreement on capping production and favorable data helped oil prices surge over this period.,0.9364559054374695,0.03283849358558655,0.030705664306879044,positive,0.9036173820495605
+2,2016-08-19 06:49:00,Mixed signals emerged from the Fed over the possible path of rate hikes.,0.0735093504190445,0.37716394662857056,0.5493267178535461,neutral,-0.30365461111068726
+3,2016-08-19 06:49:00,"While some officials said a rate hike was likely later this year, minutes of the Fed's last policy meeting indicated that policymakers were divided over policy tightening.",0.05976303666830063,0.8382505774497986,0.10198643803596497,negative,-0.7784875631332397
+4,2016-08-19 06:49:00,The index decreased 0.2% on Friday following weak retail sales and disappointing wholesale prices data.,0.019251706078648567,0.9720617532730103,0.008686547167599201,negative,-0.9528100490570068
+5,2016-08-19 06:49:00,"Both the Dow and the S&P 500 closed in the red, with the materials sector declining the most after the EU opened an antitrust probe on the Dow Chemical DOW and DuPont DD merger.",0.029179170727729797,0.9487065076828003,0.022114280611276627,negative,-0.9195273518562317
+6,2016-08-19 06:49:00,Weaker-than-expected retail sales numbers dampened investor sentiment.,0.14340245723724365,0.7859200239181519,0.07067744433879852,negative,-0.6425175666809082
+7,2016-08-19 06:49:00,The metric remained unchanged from the prior month at $457.73 billion last month.,0.6394312381744385,0.09540406614542007,0.26516470313072205,positive,0.5440271496772766
+8,2016-08-19 06:49:00,The consensus had estimated growth of 0.4%.,0.8293418884277344,0.015513081103563309,0.1551450788974762,positive,0.8138288259506226
+9,2016-08-19 06:49:00,"Additionally, wholesale prices dropped 0.4% in July from the prior month, its biggest drop since September 2015.",0.01918930560350418,0.9730412364006042,0.007769536226987839,negative,-0.9538519382476807
+10,2016-08-19 06:49:00,"This was also the first drop in four months, with both food and energy prices tanking.",0.022847620770335197,0.9609819054603577,0.016170484945178032,negative,-0.9381343126296997
+11,2016-08-19 06:49:00,The Dow also gained 0.2% over last week.,0.9250602126121521,0.04441019520163536,0.030529607087373734,positive,0.8806500434875488
+12,2016-08-19 06:49:00,Rise in oil prices helped benchmarks finish in the green for the week.,0.8930583000183105,0.05764373391866684,0.049297939985990524,positive,0.8354145884513855
+13,2016-08-19 06:49:00,"Saudi Arabia's Energy Minister Kahlid al-Falih showed willingness to talk with major crude-oil producers to limit oil production, which eventually boosted oil prices.",0.7867953181266785,0.09583231806755066,0.11737242341041565,positive,0.6909630298614502
+14,2016-08-19 06:49:00,"Separately, better-than-expected earnings results from large retailers had a positive impact on the broader markets.",0.9482372999191284,0.024869875982403755,0.026892829686403275,positive,0.923367440700531
+15,2016-08-19 06:49:00,"The index increased 0.3% on Monday, boosted by gains in energy and material shares.",0.947807252407074,0.02478836104273796,0.027404455468058586,positive,0.9230188727378845
+16,2016-08-19 06:49:00,Hopes that the prolonged rout in oil prices will lead to a production freeze helped oil prices to gain on Monday.,0.8984039425849915,0.06532983481884003,0.03626622259616852,positive,0.8330740928649902
+17,2016-08-19 06:49:00,Russian Energy Minister Alexander Novak said that his country is in consultation with Saudi Arabia and other oil producing countries to achieve stability in the oil market.,0.8677769303321838,0.01897374913096428,0.1132492795586586,positive,0.8488031625747681
+18,2016-08-19 06:49:00,"As a result, WTI crude ended its highest settlement price since July 15 and Brent crude also moved upward.",0.8715195059776306,0.06894263625144958,0.059537895023822784,positive,0.8025768995285034
+19,2016-08-19 06:49:00,"On the economic front, builders' morale improved, which raised hopes for higher construction activity.",0.9417666792869568,0.02191757597029209,0.03631571680307388,positive,0.9198490977287292
+20,2016-08-19 06:49:00,The NAHB/Wells Fargo Housing Market Index increased 2 points to 60 in August from a downwardly revised 58 in July.,0.9524654746055603,0.022771505638957024,0.02476314641535282,positive,0.9296939969062805
+21,2016-08-19 06:49:00,"The Dow closed in the red on Tuesday, losing 0.5%, following hawkish comments from Fed officials.",0.02233193814754486,0.9684971570968628,0.00917094573378563,negative,-0.9461652040481567
+22,2016-08-19 06:49:00,Both William Dudley and Dennis Lockhart expect that there is a possibility of a rate hike this year.,0.6286888122558594,0.06388985365629196,0.3074212968349457,positive,0.5647989511489868
+23,2016-08-19 06:49:00,"On the economic front, industrial production experienced its biggest gain in 20 months in July.",0.9367958903312683,0.03365621343255043,0.02954794093966484,positive,0.9031396508216858
+24,2016-08-19 06:49:00,"Housing starts also rose 2.1% in July from June to a seasonally adjusted annual rate of 1,211,000, beating the consensus estimate of 1,175,000.",0.9462865591049194,0.02550904080271721,0.028204405680298805,positive,0.9207774996757507
+25,2016-08-19 06:49:00,"However, Consumer Price Index (CPI) remained unchanged in July, in line with the consensus estimate, indicating that inflation is still tepid.",0.1725355088710785,0.7590988874435425,0.06836564838886261,negative,-0.5865633487701416
+26,2016-08-19 06:49:00,The index increased 0.1% on Wednesday after the minutes of the Federal Reserve's July 26-27 policy meeting indicated that policy makers were divided over the need for a rate hike.,0.7823208570480347,0.16957536339759827,0.04810383543372154,positive,0.6127455234527588
+27,2016-08-19 06:49:00,Some policymakers argued that a rate hike should take place soon as the labor market was nearing full employment.,0.5382317900657654,0.10110921412706375,0.36065906286239624,positive,0.4371225833892822
+28,2016-08-19 06:49:00,"However, others believe factors like weak economic outlook for China and the failing conditions of European banks are concerns.",0.032713375985622406,0.6581500172615051,0.30913659930229187,negative,-0.6254366636276245
+29,2016-08-19 06:49:00,This in turn lowered speculation over chances of a rate hike in the near term and had a positive impact on debt dependent sectors like utilities.,0.9111533761024475,0.030417531728744507,0.058429054915905,positive,0.8807358741760254
+30,2016-08-19 06:49:00,"Separately, the U.S. Energy Information Administration (EIA) reported a decrease in crude inventories.",0.023057561367750168,0.9588348269462585,0.018107661977410316,negative,-0.9357772469520569
+31,2016-08-19 06:49:00,"The index gained 0.1% on Thursday, boosted by gains in energy shares.",0.9410760402679443,0.03129212558269501,0.027631795033812523,positive,0.9097838997840881
+32,2016-08-19 06:49:00,Rally in oil prices helped energy shares gain traction.,0.9215196371078491,0.029344093054533005,0.049136288464069366,positive,0.892175555229187
+33,2016-08-19 06:49:00,Oil prices officially entered a bull market; thanks to fall in stockpiles and rising expectations that top oil producers will cap output.,0.15351098775863647,0.8098974823951721,0.03659149259328842,negative,-0.6563864946365356
+34,2016-08-19 06:49:00,"In the meantime, applications for unemployment benefits dropped last week.",0.02437005750834942,0.9600508213043213,0.015579105354845524,negative,-0.9356807470321655
+35,2016-08-19 06:49:00,"Additionally, investors kept an eye on the annual meeting of the world's central bank chiefs to be held in Jackson Hole, Wyoming, next week.",0.4412692189216614,0.054350756108760834,0.5043800473213196,neutral,0.38691845536231995
+36,2016-08-19 06:49:00,"Cisco SystemsCSCO reported fourth-quarter fiscal 2016 earnings of 58 cents, exceeding the Zacks Consensus Estimate by 3 cents.",0.9124550223350525,0.05922210216522217,0.02832287922501564,positive,0.8532329201698303
+37,2016-08-19 06:49:00,The adjusted earnings per share figure exclude one-time items but include stock-based compensation expenses.,0.013544300571084023,0.05554908141493797,0.9309065937995911,neutral,-0.0420047789812088
+38,2016-08-19 06:49:00,"Moreover, management took the opportunity to announce a restructuring initiative that would reduce the head count by 5,500 positions or 7% effective first-quarter fiscal 2017.",0.04233546555042267,0.9288835525512695,0.028781067579984665,negative,-0.8865481019020081
+39,2016-08-19 06:49:00,"Revenues increased 5.3% sequentially but declined 1.6% year over year to $12.6 billion, which came in above the Zacks Consensus Estimate of $12.5 billion.",0.05409497395157814,0.9282334446907043,0.0176716148853302,negative,-0.8741384744644165
+40,2016-08-19 06:49:00,"For the first quarter of fiscal 2017, Cisco expects revenues in the range of -1% to 1% on a year-over-year basis.",0.14737586677074432,0.00811399519443512,0.8445101380348206,neutral,0.1392618715763092
+41,2016-08-19 06:49:00,"The company expects a non-GAAP tax rate of 22%, yielding non-GAAP earnings per share of 58 cents to 60 cents.",0.343318909406662,0.015291128307580948,0.6413899660110474,neutral,0.32802778482437134
+42,2016-08-19 06:49:00,The Zacks Consensus Estimate is pegged at 55 cents.,0.025545980781316757,0.02305726706981659,0.9513967633247375,neutral,0.002488713711500168
+43,2016-08-19 06:49:00,"(Read: Cisco Beats Earnings and Revenue Estimates in Q4 )
+
+The Home Depot Inc.HD posted fiscal second-quarter adjusted earnings of $1.97 per share, which jumped 13.9% from the year-ago quarter and beat the Zacks Consensus Estimate of $1.96.",0.9528564214706421,0.030152272433042526,0.016991281881928444,positive,0.9227041602134705
+44,2016-08-19 06:49:00,"With this, the company retained its four-year long trend of beating earnings estimates.",0.933098316192627,0.022584468126296997,0.044317178428173065,positive,0.9105138778686523
+45,2016-08-19 06:49:00,"Not only this, the company reached a key milestone in the quarter, recording the highest quarterly sales and net earnings.",0.9395307898521423,0.017972076311707497,0.04249715432524681,positive,0.9215587377548218
+46,2016-08-19 06:49:00,"Net sales advanced 6.6% to $26,472 million from $24,829 million in the year-ago quarter.",0.9557906985282898,0.02563481777906418,0.018574440851807594,positive,0.930155873298645
+47,2016-08-19 06:49:00,"The top line also marginally beat the Zacks Consensus Estimate of $26,437.2 million.",0.9259809851646423,0.039687998592853546,0.03433101251721382,positive,0.8862929940223694
+48,2016-08-19 06:49:00,"Following the robust fiscal second quarter, Home Depot reiterated its sales and comps guidance, while it raised its earnings forecasts for fiscal 2016.",0.8612237572669983,0.017949046567082405,0.12082718312740326,positive,0.843274712562561
+49,2016-08-19 06:49:00,"The company continues to project sales growth of 6.3%, with about 4.9% improvement in comps.",0.9530088901519775,0.0188963171094656,0.0280948244035244,positive,0.934112548828125
+50,2016-08-19 06:49:00,Home Depot now envisions diluted earnings per share to grow about 15.6% year over year to $6.31.,0.9510071873664856,0.019374750554561615,0.029618091881275177,positive,0.9316324591636658
+51,2016-08-19 06:49:00,"(Read: Home Depot Retains Trend: Beats Q2 Earnings, View Up )
+
+Wal-Mart Stores Inc .",0.1479353904724121,0.14146004617214203,0.7106045484542847,neutral,0.006475344300270081
+52,2016-08-19 06:49:00,'s WMT second-quarter fiscal 2017 adjusted earnings (excluding non-cash gain from the sale of Yihaodian in China) of $1.07 per share beat the Zacks Consensus Estimate of $1.02 by 4.9%.,0.9381168484687805,0.04282940551638603,0.01905379258096218,positive,0.8952874541282654
+53,2016-08-19 06:49:00,Earnings were within management's guided range of 95 cents to $1.08 per share.,0.664654016494751,0.018700161948800087,0.3166457414627075,positive,0.6459538340568542
+54,2016-08-19 06:49:00,"However, the figure declined 0.9% from the year-ago earnings from continuing operations of $1.08 per share.",0.02607887051999569,0.965385913848877,0.008535228669643402,negative,-0.9393070340156555
+55,2016-08-19 06:49:00,Total revenue of the retailer was $120.9 billion.,0.024938713759183884,0.005916409660130739,0.969144880771637,neutral,0.019022304564714432
+56,2016-08-19 06:49:00,Revenues beat the Zacks Consensus Estimate of $120.1 billion by 0.7% and increased 0.5% year over year.,0.9561681151390076,0.02252369374036789,0.021308163180947304,positive,0.9336444139480591
+57,2016-08-19 06:49:00,The company has updated its fiscal 2017 guidance to reflect the sale of Yihaodian.,0.09055903553962708,0.007962103001773357,0.9014788866043091,neutral,0.08259693533182144
+58,2016-08-19 06:49:00,"Wal-Mart now expects its earnings in the range of $4.15−$4.35 per share, up from $4.00−$4.30 per share expected previously.",0.9553067684173584,0.02135172113776207,0.023341523483395576,positive,0.9339550733566284
+59,2016-08-19 06:49:00,"Earnings are, however, anticipated to be lower from $4.57 per share posted in fiscal 2016.",0.01858638785779476,0.9692632555961609,0.012150376103818417,negative,-0.9506768584251404
+60,2016-08-19 06:49:00,"(Read: Wal-Mart Q2 Earnings and Sales Beat on Comps Gain )
+
+Apple Inc. 's AAPL shares rose 1.23% in Aug 15's trading session after a regulatory filing revealed that Warren Buffett is betting big on the tech giant.",0.9403257966041565,0.034699052572250366,0.02497515268623829,positive,0.9056267738342285
+61,2016-08-19 06:49:00,Buffett's Berkshire Hathaway BRK.B has increased its stake by 55% in Apple.,0.936850905418396,0.01455166470259428,0.04859745875000954,positive,0.9222992658615112
+62,2016-08-19 06:49:00,This news is a positive for investors as people are familiar with Warren Buffett's style of long-term and value investment.,0.7368099093437195,0.013415860943496227,0.24977421760559082,positive,0.7233940362930298
+63,2016-08-19 06:49:00,"Berkshire Hathaway now holds 15.2 million of Apple shares, up from 9.8 million shares held earlier.",0.9353238344192505,0.0170005913823843,0.04767549782991409,positive,0.9183232188224792
+64,2016-08-19 06:49:00,Berkshire Hathaway's stake in Apple was initially revealed in May 2016 when it disclosed that it had bought 9.81 million shares of Apple worth over $900 million then.,0.07786042243242264,0.005644295830279589,0.9164952635765076,neutral,0.07221612334251404
+65,2016-08-19 06:49:00,"(Read: Apple Shares Up as Warren Buffett Increases Stake by 55% )
+
+The Boeing Co.BA is set to clinch an order from South Korea's Jeju Air for its B737-800 planes.",0.9337550401687622,0.01908627711236477,0.04715872183442116,positive,0.9146687388420105
+66,2016-08-19 06:49:00,"South Korea's largest low-cost carrier, Jeju Air, plans to buy three B737-800 planes from Boeing for $291 million (317 billion won) by Oct 2018, to guarantee stable supplies.",0.9070819020271301,0.015750696882605553,0.07716745883226395,positive,0.8913311958312988
+67,2016-08-19 06:49:00,The carrier is set to diversify its portfolio by entering into the hotel business and have its own aircraft to generate a new revenue stream in the wake of intense competition among local budget airlines.,0.9193980693817139,0.013023420237004757,0.06757857650518417,positive,0.9063746333122253
+68,2016-08-19 06:49:00,"(Read: Boeing Set to Gain a B737-800 Order from Jeju Air )
+
+Johnson & Johnson 's JNJ Janssen Research & Development, LLC announced that the FDA has granted Breakthrough Therapy Designation (BTD) to esketamine, an experimental antidepressant treatment.",0.8997697234153748,0.013907818123698235,0.08632250875234604,positive,0.8858619332313538
+69,2016-08-19 06:49:00,The designation was granted for major depressive disorder with imminent risk for suicide.,0.4841388761997223,0.014815363101661205,0.5010457634925842,neutral,0.4693235158920288
+70,2016-08-19 06:49:00,This is the second indication for which esketamine got BTD in the U.S. Esketamine had previously got this designation in Nov 2013 for treatment-resistant depression.,0.26356926560401917,0.012085750699043274,0.7243450284004211,neutral,0.2514835000038147
+71,2016-08-19 06:49:00,Esketamine is currently in phase III development for treatment-resistant depression.,0.17962901294231415,0.008193522691726685,0.8121775388717651,neutral,0.17143549025058746
+72,2016-08-19 06:49:00,"(Read: J&J's Depression Treatment Esketamine Gets BTD )
+
+United Technologies Corp. 's UTX unit Otis Elevator was recently awarded a contract to provide its elevator and escalator services for a luxurious new Marriott International, Inc. MAR hotel being built in Xiamen, southeast China.",0.9457718729972839,0.016714448109269142,0.03751372918486595,positive,0.9290574193000793
+73,2016-08-19 06:49:00,"The new Marriott hotel will require 30 Otis elevators and escalators, including seven of Otis's SkyRise elevators which are used for high-rises and move at a speed of up to 6 meters per second.",0.1064615324139595,0.005862175486981869,0.8876762390136719,neutral,0.10059935599565506
+74,2016-08-19 06:49:00,"(Read: United Technologies' Otis Wins Marriott Contract in China )
+
+ExxonMobil CorporationXOM is reportedly chalking out a plan to export Qua Iboe crude oil through an alternate pipeline while repairing the main export line that was damaged in July.",0.8528693318367004,0.038867153227329254,0.10826344788074493,positive,0.8140021562576294
+75,2016-08-19 06:49:00,"Notably, the above mentioned crude oil is Nigeria's largest export stream.",0.2452959567308426,0.00881484430283308,0.7458891868591309,neutral,0.23648111522197723
+76,2016-08-19 06:49:00,"However, the crude oil grade has been under force majeure since mid-July, when the company detected an irregularity in the subsea pipeline system.",0.029267871752381325,0.9242991209030151,0.0464329719543457,negative,-0.8950312733650208
+77,2016-08-19 06:49:00,"In fact, the company discovered significant damage later and estimated repair works spanning over a period of about one to two months.",0.24694497883319855,0.46804219484329224,0.2850128412246704,negative,-0.2210972160100937
+78,2016-08-19 06:49:00,"However, both ExxonMobil and the Qua Iboe terminal refused to divulge specific details about these developments.",0.02373356930911541,0.3458479642868042,0.6304184794425964,neutral,-0.32211440801620483
+79,2016-08-19 06:49:00,"(Read: ExxonMobil to Export Qua Iboe Crude Via Alternate Pipeline )
+
+The table given below shows the price movements of the 10 largest components of the Dow, which is a price weighted index, over the last five days and during the last six months.",0.012270803563296795,0.022690972313284874,0.9650381803512573,neutral,-0.010420168749988079
+80,2016-08-19 06:49:00,"Over the last five trading days, the Dow has gained 0.1%.",0.9242831468582153,0.04801321402192116,0.02770371362566948,positive,0.8762699365615845
+81,2016-08-19 06:49:00,"With oil prices entering a bull market toward the end of the week, investors have been rid of an impediment which has been dampening their enthusiasm for some time now.",0.3359968960285187,0.49669787287712097,0.16730527579784393,negative,-0.1607009768486023
+82,2016-08-19 06:49:00,"At the same time, uncertainty over the path of rate hikes continues.",0.0972079336643219,0.11335843801498413,0.7894335985183716,neutral,-0.01615050435066223
+83,2016-08-19 06:49:00,"However, it is clear that policymakers remain divided on this issue, which means market may not have to deal with a rate hike in the near future.",0.03551643714308739,0.88251131772995,0.08197224140167236,negative,-0.8469948768615723
+84,2016-08-19 06:49:00,This is why the focus is shifting toward economic data once again.,0.13605104386806488,0.027418939396739006,0.8365299701690674,neutral,0.10863210260868073
+85,2016-08-19 06:49:00,"Data on housing, durable orders and GDP are scheduled for release next week.",0.019791899248957634,0.015000298619270325,0.9652077555656433,neutral,0.004791600629687309
+86,2016-08-19 06:49:00,"If the majority of these reports are positive in nature, stocks could consolidate their gains over the next few trading sessions.",0.9306381940841675,0.020478082820773125,0.04888368770480156,positive,0.9101601243019104
+87,2016-08-19 06:49:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+88,2016-08-19 06:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+89,2016-08-19 06:49:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+90,2016-08-19 06:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+91,2016-08-19 06:49:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+92,2016-08-19 06:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

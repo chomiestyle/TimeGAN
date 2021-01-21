@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-16 07:29:00,"In early trading on Monday, shares of Dow topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.2%.",0.9367384314537048,0.031567081809043884,0.031694527715444565,positive,0.9051713347434998
+1,2019-09-16 07:29:00,"Year to date, Dow has lost about 0.1% of its value.",0.016769900918006897,0.9586244225502014,0.02460564486682415,negative,-0.9418545365333557
+2,2019-09-16 07:29:00,"And the worst performing Dow component thus far on the day is American Express, trading down 1.8%.",0.02086671255528927,0.9641932845115662,0.014939977787435055,negative,-0.9433265924453735
+3,2019-09-16 07:29:00,American Express is showing a gain of 22.8% looking at the year to date performance.,0.9524887800216675,0.01977732591331005,0.02773379161953926,positive,0.9327114820480347
+4,2019-09-16 07:29:00,"Two other components making moves today are Procter & Gamble, trading down 1.4%, and Exxon Mobil, trading up 2.1% on the day.",0.02805129997432232,0.9358623623847961,0.03608627989888191,negative,-0.9078110456466675

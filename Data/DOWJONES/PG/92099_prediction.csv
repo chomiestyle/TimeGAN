@@ -1,0 +1,13 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-20 09:54:00,"The U.S. stock market was in the green in premarket trading Friday, ending the week higher.",0.840215802192688,0.07643338292837143,0.08335082978010178,positive,0.7637824416160583
+1,2017-10-20 09:54:00,"Shares of General Electric Co. ( GE ), however, were down on the back of the company reporting financial results for its third quarter.",0.01803496666252613,0.965183436870575,0.016781579703092575,negative,-0.9471484422683716
+2,2017-10-20 09:54:00,"EPS of 29 cents missed expectations by 20 cents, but revenue of $33.47 billion beat estimates by $910 million and gained 14.3% year over year.",0.8824104070663452,0.09185109287500381,0.025738436728715897,positive,0.7905592918395996
+3,2017-10-20 09:54:00,The main European stock markets traded mostly higher.,0.5416584014892578,0.04946557804942131,0.40887609124183655,positive,0.4921928346157074
+4,2017-10-20 09:54:00,"The U.K.'s FTSE 100 gained 0.19 points, France's CAC 40 inched up 0.07% and Spain's IBEX 35 climbed 0.15%.",0.8956883549690247,0.03927399590611458,0.06503770500421524,positive,0.8564143776893616
+5,2017-10-20 09:54:00,"Only Germany's DAX was lower, falling 0.04%
+
+In Asia, Japan's Nikkei 225 rose 0.04%, China's Shanghai Composite was up 0.25% and Hong Kong's Hang Seng gained 1.17%.",0.03809824213385582,0.9383118152618408,0.023589953780174255,negative,-0.9002135992050171
+6,2017-10-20 09:54:00,India's BSE Sensex closed down 0.67%.,0.01958431676030159,0.961419939994812,0.01899571716785431,negative,-0.9418356418609619
+7,2017-10-20 09:54:00,Disclosure : The author holds no positions in any stocks mentioned.,0.008796739391982555,0.014908518642187119,0.9762948155403137,neutral,-0.006111779250204563
+8,2017-10-20 09:54:00,This article first appeared on GuruFocus .,0.018785500898957253,0.014738528989255428,0.9664759039878845,neutral,0.004046971909701824
+9,2017-10-20 09:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

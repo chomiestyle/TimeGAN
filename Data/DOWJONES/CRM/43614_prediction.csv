@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-24 07:30:00,"Salesforce.com (NYSE: CRM) and Veeva Systems (NYSE: VEEV) share a lot in common, and it goes far beyond the fact that these two have pioneered the software-as-a-service (SaaS) business model.",0.21741317212581635,0.006812116131186485,0.7757747173309326,neutral,0.2106010615825653
+1,2019-11-24 07:30:00,Peter Gassner -- Veeva's founder and CEO -- was an executive at Salesforce when he realized the cloud needs of the pharmaceutical industry were so specific that they needed a tailored solution.,0.20076312124729156,0.008182822726666927,0.7910540699958801,neutral,0.19258029758930206
+2,2019-11-24 07:30:00,"At the time, Salesforce couldn't provide that.",0.024851441383361816,0.4959173798561096,0.47923120856285095,negative,-0.4710659384727478
+3,2019-11-24 07:30:00,"So, Gassner decided to start Veeva to address the situation.",0.22041912376880646,0.014868105761706829,0.7647127509117126,neutral,0.20555101335048676
+4,2019-11-24 07:30:00,Both have experienced a lot of success and have rewarded shareholders accordingly.,0.9119725227355957,0.01357267890125513,0.07445471733808517,positive,0.898399829864502
+5,2019-11-24 07:30:00,"Today, we're going to ask the question: Which stock is the better buy today?",0.05639950931072235,0.02291163243353367,0.9206888675689697,neutral,0.03348787873983383
+6,2019-11-24 07:30:00,It's not a question we can ever answer with certainty.,0.05037772282958031,0.02217813953757286,0.9274441599845886,neutral,0.028199583292007446
+7,2019-11-24 07:30:00,We can only check back three years from now and see if we were right.,0.05082770437002182,0.038941361010074615,0.9102309346199036,neutral,0.011886343359947205
+8,2019-11-24 07:30:00,"To guide us toward an ""answer,"" we'll compare these companies on three different measures.",0.07202085107564926,0.006567913107573986,0.9214112162590027,neutral,0.065452940762043
+9,2019-11-24 07:30:00,First is financial fortitude.,0.05586489662528038,0.006378256715834141,0.9377568364143372,neutral,0.049486640840768814
+10,2019-11-24 07:30:00,"If a financial crisis were to hit tomorrow, how would it affect these companies?",0.027618661522865295,0.0864216759800911,0.8859596848487854,neutral,-0.0588030144572258
+11,2019-11-24 07:30:00,"Believe it or not, companies with lots of cash, no debt, and strong free cash flow can actually benefit from a recession.",0.7548419833183289,0.04488060995936394,0.2002774029970169,positive,0.7099613547325134
+12,2019-11-24 07:30:00,How?,0.09705228358507156,0.03652043268084526,0.8664273023605347,neutral,0.0605318509042263
+13,2019-11-24 07:30:00,"Well, a company can acquire start-ups at discounted prices, it can buy back its own shares, or it can simply outspend the competition into bankruptcy.",0.06530578434467316,0.019991517066955566,0.9147027134895325,neutral,0.04531426727771759
+14,2019-11-24 07:30:00,"While that may hurt in the short run, when the economy recovers, the company will have more market share to grab.",0.8874515295028687,0.013649290427565575,0.098899245262146,positive,0.8738022446632385
+15,2019-11-24 07:30:00,"Keeping in mind that Salesforce is valued at six times the size of Veeva, here's how the two companies' financials stack up.",0.026446586474776268,0.010289021767675877,0.9632643461227417,neutral,0.016157563775777817
+16,2019-11-24 07:30:00,These are two companies with stellar balance sheets.,0.7527724504470825,0.0167708620429039,0.23045670986175537,positive,0.7360016107559204
+17,2019-11-24 07:30:00,Both have healthy cash balances and very strong cash flows.,0.7795879244804382,0.017209934070706367,0.20320211350917816,positive,0.7623779773712158
+18,2019-11-24 07:30:00,"However, if forced to choose one over the other, I'd go with Veeva, in part because it has no long-term debt and in part because -- relative to its size -- it has a more substantial cash position.",0.536335289478302,0.011915980838239193,0.4517487585544586,positive,0.5244193077087402
+19,2019-11-24 07:30:00,"Next we have to determine if one of these companies is ""cheaper"" than the other.",0.17953205108642578,0.010356196202337742,0.8101118206977844,neutral,0.16917584836483002
+20,2019-11-24 07:30:00,This is not an exact science.,0.027052436023950577,0.01676739938557148,0.956180214881897,neutral,0.010285036638379097
+21,2019-11-24 07:30:00,"To get a better idea of how ""expensive"" each stock may be, I like to consult a couple of metrics.",0.028959861025214195,0.010520649142563343,0.960519552230835,neutral,0.018439210951328278
+22,2019-11-24 07:30:00,"Again, the companies are fairly close.",0.20625188946723938,0.019096165895462036,0.7746519446372986,neutral,0.18715572357177734
+23,2019-11-24 07:30:00,Consider that the average S&P 500 company trades at a P/E of 23 right now.,0.016191119328141212,0.01651879958808422,0.9672900438308716,neutral,-0.0003276802599430084
+24,2019-11-24 07:30:00,"No matter what stripe of investor you consider yourself, both of these companies are fairly expensive.",0.039925817400217056,0.014833067543804646,0.9452410936355591,neutral,0.025092750787734985
+25,2019-11-24 07:30:00,"That said, Salesforce is notably less expensive, even after taking growth rates (PEG Ratio) into account.",0.22247320413589478,0.08144843578338623,0.696078360080719,neutral,0.14102476835250854
+26,2019-11-24 07:30:00,"Finally, we have what I consider to be the most important thing to evaluate: a company's sustainable competitive advantage -- or moat.",0.31761419773101807,0.008412914350628853,0.6739728450775146,neutral,0.30920127034187317
+27,2019-11-24 07:30:00,"Over the long run, a moat is what allows a company to continue fulfilling its stated mission while the competition isn't able to make a dent.",0.6332451701164246,0.015562118962407112,0.3511926233768463,positive,0.6176830530166626
+28,2019-11-24 07:30:00,Both Veeva and Salesforce benefit -- first and foremost -- from high switching costs.,0.3220047652721405,0.009282195009291172,0.6687130331993103,neutral,0.3127225637435913
+29,2019-11-24 07:30:00,"When a company sets up its customer relationship management (CRM) data on Salesforce's platform, it can collect gobs of data.",0.017848078161478043,0.010610351338982582,0.9715416431427002,neutral,0.0072377268224954605
+30,2019-11-24 07:30:00,"Over time, more and more employees at a company become familiar with the ins and outs of Salesforce's interface.",0.06898345798254013,0.022461583837866783,0.9085549712181091,neutral,0.0465218722820282
+31,2019-11-24 07:30:00,The company's expansion into marketing and service clouds only widens that moat.,0.8841713070869446,0.012870260514318943,0.10295840352773666,positive,0.8713010549545288
+32,2019-11-24 07:30:00,Veeva's switching costs are equally high.,0.043020009994506836,0.01802501082420349,0.9389550089836121,neutral,0.024994999170303345
+33,2019-11-24 07:30:00,"When a company decides to use Veeva Vault, it can do pretty much everything from collecting data from clinical trials to monitoring if there are any safety concerns with a drug already on the market.",0.017051270231604576,0.013454637490212917,0.969494104385376,neutral,0.0035966327413916588
+34,2019-11-24 07:30:00,"All of that data is uber-sensitive, and the prospect of losing some of it in a transition to another provider would be enough to keep many clients with Veeva.",0.07513952255249023,0.5126693844795227,0.41219109296798706,negative,-0.43752986192703247
+35,2019-11-24 07:30:00,"The company is also branching out and offering its services to other highly regulated industries, like cosmetics, chemicals, and consumer packaged goods.",0.5558910965919495,0.008838062174618244,0.4352708160877228,positive,0.5470530390739441
+36,2019-11-24 07:30:00,"In the end, I'm calling this one a tie.",0.25238651037216187,0.029350876808166504,0.7182626128196716,neutral,0.22303563356399536
+37,2019-11-24 07:30:00,Both of these companies have very wide moats.,0.07196855545043945,0.011446919292211533,0.9165844917297363,neutral,0.06052163615822792
+38,2019-11-24 07:30:00,And my winner is...,0.3716278374195099,0.01842251606285572,0.6099496483802795,neutral,0.3532053232192993
+39,2019-11-24 07:30:00,Both of these companies benefit from wide moats via high switching costs.,0.5362092852592468,0.013020271435379982,0.45077040791511536,positive,0.5231890082359314
+40,2019-11-24 07:30:00,"Veeva has a slightly stronger financial position, while Salesforce has a slightly more favorable stock price.",0.7625921964645386,0.027952389791607857,0.20945540070533752,positive,0.7346398234367371
+41,2019-11-24 07:30:00,"When there's a tie like this, I normally side with the company that has a wider moat.",0.09089083969593048,0.01827225461602211,0.8908369541168213,neutral,0.07261858880519867
+42,2019-11-24 07:30:00,"Here, that's also a tie.",0.2530614137649536,0.10905274003744125,0.6378858089447021,neutral,0.14400866627693176
+43,2019-11-24 07:30:00,My second tie-breaker lands wherever I have my own skin in the game.,0.1624765843153,0.06780775636434555,0.7697157263755798,neutral,0.09466882795095444
+44,2019-11-24 07:30:00,"In this case, that's Veeva -- which accounts for 6% of my real-life holdings, while I don't own any Salesforce shares.",0.009861710481345654,0.01757064461708069,0.9725676774978638,neutral,-0.007708934135735035
+45,2019-11-24 07:30:00,"If you can't already tell, though, I don't think you can go wrong investigating either company, as they are both very strong players with a business model (software-as-a-service) that's only growing in importance.",0.5894047021865845,0.014930195175111294,0.39566507935523987,positive,0.5744745135307312
+46,2019-11-24 07:30:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+47,2019-11-24 07:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+48,2019-11-24 07:30:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.20886248350143433,0.015013301745057106,0.7761241793632507,neutral,0.19384917616844177
+49,2019-11-24 07:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+50,2019-11-24 07:30:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+51,2019-11-24 07:30:00,The Motley Fool owns shares of and recommends Salesforce.com and Veeva Systems.,0.030059725046157837,0.018141884356737137,0.9517984390258789,neutral,0.0119178406894207
+52,2019-11-24 07:30:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

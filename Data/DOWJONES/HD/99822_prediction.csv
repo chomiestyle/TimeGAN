@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-09-19 08:54:00,"In early trading on Friday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.6%.",0.9362291097640991,0.033120788633823395,0.030650079250335693,positive,0.9031082987785339
+1,2014-09-19 08:54:00,"Year to date, Home Depot registers a 13.6% gain.",0.9452685713768005,0.0216350220143795,0.03309643268585205,positive,0.9236335754394531
+2,2014-09-19 08:54:00,"And the worst performing Dow component thus far on the day is Intel ( INTC ), trading down 0.5%.",0.021109288558363914,0.9653137922286987,0.013576933182775974,negative,-0.9442045092582703
+3,2014-09-19 08:54:00,Intel is showing a gain of 34.9% looking at the year to date performance.,0.9527313709259033,0.01934569701552391,0.02792293392121792,positive,0.9333856701850891
+4,2014-09-19 08:54:00,"Two other components making moves today are Caterpillar ( CAT ), trading down 0.4%, and McDonald's ( MCD ), trading up 1.5% on the day.",0.03414599969983101,0.9308385252952576,0.035015419125556946,negative,-0.8966925144195557
+5,2014-09-19 08:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

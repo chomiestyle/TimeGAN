@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-18 06:53:00,Oracle CorporationORCL reported mixed first-quarter fiscal 2019 results.,0.019844194874167442,0.9610387086868286,0.019117098301649094,negative,-0.9411945343017578
+1,2018-09-18 06:53:00,Non-GAAP earnings of 71 cents per share surpassed the Zacks Consensus Estimate of 68 cents.,0.9124985337257385,0.03846858814358711,0.049032893031835556,positive,0.8740299344062805
+2,2018-09-18 06:53:00,"However, revenues of $9.2 billion marginally lagged the Zacks Consensus Estimate of $9.28 billion.",0.2820809483528137,0.6545422077178955,0.06337681412696838,negative,-0.3724612593650818
+3,2018-09-18 06:53:00,Earnings increased approximately 16.4% from the year-ago quarter (up 19% in cc).,0.9593406319618225,0.02144680917263031,0.01921255700290203,positive,0.937893807888031
+4,2018-09-18 06:53:00,"Further, revenues increased 1% year over year and 2% in cc which was within management's guidance of 1-3%.",0.9566812515258789,0.018080931156873703,0.02523782104253769,positive,0.9386003017425537
+5,2018-09-18 06:53:00,"The company had adopted a new Accounting Standards Codification (""ASC"") 606 using full retrospective method in the fourth quarter.",0.21995142102241516,0.007089198101311922,0.7729593515396118,neutral,0.21286222338676453
+6,2018-09-18 06:53:00,The company had recently launched a bring-your-own-license (BYOL) program which enables customers to shift their existing on-premise licenses to the Oracle Cloud.,0.49924391508102417,0.010412698611617088,0.4903433620929718,positive,0.48883122205734253
+7,2018-09-18 06:53:00,"In doing so, Oracle claims that licenses covered by the BYOL program can neither be defined as on-premise nor as cloud.",0.012674766592681408,0.032599709928035736,0.9547255039215088,neutral,-0.019924942404031754
+8,2018-09-18 06:53:00,"Consequently, the company now reports its new software licenses under its new Cloud license and on-premise license segment.",0.05345328524708748,0.0043960437178611755,0.9421506524085999,neutral,0.0490572415292263
+9,2018-09-18 06:53:00,"Further, the company merged its Cloud SaaS, Cloud PaaS and IaaS along with its software license updates and product support into Cloud services and license support.",0.12628011405467987,0.006074328441172838,0.8676455616950989,neutral,0.12020578235387802
+10,2018-09-18 06:53:00,"In the past year, the company's shares have gained just 2.4%, underperforming the industry 's growth of 38.5%.",0.14359645545482635,0.8363054394721985,0.020098106935620308,negative,-0.6927089691162109
+11,2018-09-18 06:53:00,The share price decrease can be attributed to the new accounting standard adopted by the company and structural changes which it has undergone in the quarter.,0.017947988584637642,0.9638940691947937,0.018158048391342163,negative,-0.9459460973739624
+12,2018-09-18 06:53:00,"Oracle no longer intends to break out its cloud revenues and does not provide any guidance on SaaS, Cloud PaaS and IaaS.",0.01238758023828268,0.08932100236415863,0.8982914090156555,neutral,-0.07693342119455338
+13,2018-09-18 06:53:00,This move is likely to aggravate investor concern about the company's outlook.,0.7221380472183228,0.05865207314491272,0.2192099541425705,positive,0.6634860038757324
+14,2018-09-18 06:53:00,The share price movement was also impacted by lower-than-expected revenues for the reported quarter and not so encouraging second-quarter earnings guidance.,0.018548691645264626,0.9637532830238342,0.017697952687740326,negative,-0.9452046155929565
+15,2018-09-18 06:53:00,Oracle's top-line growth benefited from the ongoing cloud-based momentum.,0.8751822710037231,0.01170013565570116,0.11311756074428558,positive,0.8634821176528931
+16,2018-09-18 06:53:00,Total cloud services and license support revenues (72% of total revenues) for the quarter advanced 3% (4% in constant currency) to $6.61 billion.,0.9491759538650513,0.028180209919810295,0.02264389395713806,positive,0.9209957718849182
+17,2018-09-18 06:53:00,"However, total cloud license and on-premise license decreased 3% year over year to $867 million year over year.",0.019436586648225784,0.9723671078681946,0.008196331560611725,negative,-0.9529305100440979
+18,2018-09-18 06:53:00,Management stated that Fusion ERP and Fusion HCM is more than $2.5 billion in the past 12 months.,0.1513947695493698,0.005819470621645451,0.8427857160568237,neutral,0.14557529985904694
+19,2018-09-18 06:53:00,Fusion ERP was up 40% for the full year.,0.9534369111061096,0.019367918372154236,0.027195187285542488,positive,0.9340689778327942
+20,2018-09-18 06:53:00,"Further, the next-generation autonomous database launched by Oracle, which is supported by machine learning, is now available.",0.27896443009376526,0.007497002836316824,0.7135385870933533,neutral,0.2714674174785614
+21,2018-09-18 06:53:00,This is a key catalyst for the company.,0.4308784008026123,0.009555946104228497,0.5595656633377075,neutral,0.42132246494293213
+22,2018-09-18 06:53:00,"Management believes that the new database will improve Oracle's competitive position in the cloud against Amazon Web Services (""AWS"").",0.9520784616470337,0.017843743786215782,0.030077796429395676,positive,0.9342347383499146
+23,2018-09-18 06:53:00,"The company's tech ecosystem is more than $21 billion in the past 12 months.. BYOL remains strong buoyed by new database license and support revenue, both of which were up mid-single digits.",0.9506743550300598,0.019681457430124283,0.029644180089235306,positive,0.9309929013252258
+24,2018-09-18 06:53:00,Total hardware revenues were down 4% (3% in cc) year over year and came in at $$904 million.,0.016311636194586754,0.9719041585922241,0.011784234084188938,negative,-0.9555925130844116
+25,2018-09-18 06:53:00,Services revenues decreased 5% (4% in cc) to $813 million.,0.018010882660746574,0.972944438457489,0.009044628590345383,negative,-0.9549335837364197
+26,2018-09-18 06:53:00,"Non-GAAP operating expenses, as percentage of revenues, decreased 10 basis points (bps) to 59.2%.",0.021207375451922417,0.9707447290420532,0.008047821000218391,negative,-0.9495373368263245
+27,2018-09-18 06:53:00,"As a result, non-GAAP operating income during the reported quarter came in at $3.76 billion, up 1.3% from last year.",0.9572083950042725,0.024102404713630676,0.018689149990677834,positive,0.933106005191803
+28,2018-09-18 06:53:00,Non-GAAP operating margin expanded 20 bps from the year-ago quarter to 40.9%.,0.9602088332176208,0.02018848992884159,0.01960272341966629,positive,0.9400203227996826
+29,2018-09-18 06:53:00,"As of Aug 31, 2018, Oracle had cash & cash equivalents and marketable securities of $60.1 billion, down from $67.3 billion sequentially.",0.01538049429655075,0.9722176790237427,0.012401774525642395,negative,-0.9568371772766113
+30,2018-09-18 06:53:00,"Operating cash flow for the trailing four quarters was $15.5 billion, while free cash flow was $13.9 billion.",0.02027188614010811,0.03851485252380371,0.9412131905555725,neutral,-0.018242966383695602
+31,2018-09-18 06:53:00,Oracle repurchased around 212 million shares worth $10 billion during the reported quarter.,0.10859254747629166,0.008944992907345295,0.8824625015258789,neutral,0.09964755177497864
+32,2018-09-18 06:53:00,"Over the last 12 months, the company repurchased 440 million shares.",0.19478893280029297,0.007012815680354834,0.7981982827186584,neutral,0.187776118516922
+33,2018-09-18 06:53:00,The company increased the share repurchases authorization by $12 billion during the quarter.,0.9190701842308044,0.014131719246506691,0.06679807603359222,positive,0.9049384593963623
+34,2018-09-18 06:53:00,"The company also declared a quarterly dividend of 19 cents per share, payable on Oct 30, 2018.",0.07523885369300842,0.020506801083683968,0.9042543172836304,neutral,0.054732054471969604
+35,2018-09-18 06:53:00,"For the second quarter of 2019, total revenues are anticipated to grow in the range of 0-2% in constant currency.",0.901593029499054,0.012497786432504654,0.08590920269489288,positive,0.8890952467918396
+36,2018-09-18 06:53:00,"Non-GAAP earnings are anticipated to be between 77 cents and 79 cents for the second quarter, while in constant currency non-GAAP earnings is expected to be in the range of 78-80 cents.",0.024468738585710526,0.0078329648822546,0.967698335647583,neutral,0.016635773703455925
+37,2018-09-18 06:53:00,The Zacks Consensus Estimate is pegged at 80 cents per share.,0.06721873581409454,0.016757233068346977,0.9160240292549133,neutral,0.05046150088310242
+38,2018-09-18 06:53:00,"Few better-ranked stocks in the broader technology sector are Cypress Semiconductor Corporation CY , Salesforce.com Inc CRM and Aspen Technology, Inc. AZPN , all sporting a Zacks Rank #1 (Strong Buy).",0.818075954914093,0.056705087423324585,0.1252189576625824,positive,0.7613708972930908
+39,2018-09-18 06:53:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+40,2018-09-18 06:53:00,"The projected earnings growth rate (3-5 years) for Cypress, Salesforce and Aspen are 16.1%, 25% and 16.5%, respectively.",0.5904654264450073,0.014093690551817417,0.39544081687927246,positive,0.5763717293739319
+41,2018-09-18 06:53:00,Did you miss Apple's 9X stock explosion after they launched their iPhone in 2007?,0.08660752326250076,0.09298931062221527,0.8204032182693481,neutral,-0.006381787359714508
+42,2018-09-18 06:53:00,Now 2018 looks to be a pivotal year to get in on another emerging technology expected to rock the market.,0.8212721943855286,0.01720629632472992,0.1615215241909027,positive,0.8040658831596375
+43,2018-09-18 06:53:00,Demand could soar from almost nothing to $42 billion by 2025.,0.8458088040351868,0.019966978579759598,0.13422414660453796,positive,0.8258418440818787
+44,2018-09-18 06:53:00,Reports suggest it could save 10 million lives per decade which could in turn save $200 billion in U.S. healthcare costs.,0.6325947046279907,0.1275976151227951,0.2398076355457306,positive,0.5049970746040344
+45,2018-09-18 06:53:00,A bonus Zacks Special Report names this breakthrough and the 5 best stocks to exploit it.,0.5544188022613525,0.015168375335633755,0.4304128885269165,positive,0.5392504334449768
+46,2018-09-18 06:53:00,"Like Apple in 2007, these companies are already strong and coiling for potential mega-gains.",0.8605390787124634,0.019841492176055908,0.11961936950683594,positive,0.8406975865364075
+47,2018-09-18 06:53:00,"Click to see them right now >>
+
+Want the latest recommendations from Zacks Investment Research?",0.026474276557564735,0.012983711436390877,0.9605419635772705,neutral,0.013490565121173859
+48,2018-09-18 06:53:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+49,2018-09-18 06:53:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+50,2018-09-18 06:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

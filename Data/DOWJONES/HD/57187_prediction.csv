@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-07-26 09:26:00,"The Home Depot (NYSE: HD) has rewarded patient long-term investors with a total return of over 1,000% in the last ten years, cementing its status as a best-in-class retailer.",0.9490997791290283,0.017682494595646858,0.033217668533325195,positive,0.9314172863960266
+1,2020-07-26 09:26:00,"With an existing network of 2,300 stores already open all over North America, let's see if Home Depot's massive returns can continue into the future.",0.7313798069953918,0.01200459897518158,0.2566155791282654,positive,0.7193751931190491
+2,2020-07-26 09:26:00,Fueling Home Depot stock's rally over the past decade was steady top and bottom-line growth.,0.9205195307731628,0.016051487997174263,0.06342890113592148,positive,0.9044680595397949
+3,2020-07-26 09:26:00,"Over that period, the company's revenue and earnings per share (EPS) enjoyed compound annual growth of 5.3% and 20.0%, respectively.",0.9534389972686768,0.017466029152274132,0.029094917699694633,positive,0.9359729886054993
+4,2020-07-26 09:26:00,That strength continued in the first quarter of 2020 despite the pandemic.,0.9201512932777405,0.015055683441460133,0.06479305773973465,positive,0.905095636844635
+5,2020-07-26 09:26:00,"Home Depot reported net sales growth of 7.1% year over year on the back of an 11.0% increase in average ticket size, which mitigated the 3.9% decline in customer transactions.",0.9432645440101624,0.03327685967087746,0.023458553478121758,positive,0.9099876880645752
+6,2020-07-26 09:26:00,"Even amid the crisis, the company leaned into its ""One Home Depot"" strategy.",0.7759338021278381,0.013835509307682514,0.2102307677268982,positive,0.7620983123779297
+7,2020-07-26 09:26:00,The initiative began with the aim of creating an interconnected shopping experience between the digital and physical channels for customers.,0.3180559277534485,0.0074071576818823814,0.6745368838310242,neutral,0.31064876914024353
+8,2020-07-26 09:26:00,"To achieve this, Home Depot invested heavily to build an e-commerce solution, develop supply chain expertise, and implement in-store enhancements.",0.9078341126441956,0.012156239710748196,0.0800095647573471,positive,0.8956778645515442
+9,2020-07-26 09:26:00,"In the shadow of COVID-19, the One Home Depot strategy clearly paid off with digital sales coming to the rescue as the company was able to quickly offer its curbside pickup option for customers.",0.9389345049858093,0.018176013603806496,0.04288950935006142,positive,0.9207584857940674
+10,2020-07-26 09:26:00,"Management commented in the most recent earnings call:
+
+Investments we have made over the years in our stores, market-leading digital assets, flexible supply chain, and a world-class merchandising organization have allowed us to quickly adapt to shifts in customer needs, preferences, and behaviors.",0.8787675499916077,0.010989079251885414,0.11024343222379684,positive,0.867778480052948
+11,2020-07-26 09:26:00,Our interconnected retail strategy and underlying technology infrastructure have supported record level web traffic for several weeks without disruption.,0.8680213689804077,0.012629371136426926,0.11934925615787506,positive,0.8553919792175293
+12,2020-07-26 09:26:00,Sales leveraging our digital platforms increased by approximately 80% in the quarter.,0.9372326731681824,0.013429200276732445,0.04933807998895645,positive,0.923803448677063
+13,2020-07-26 09:26:00,"And more than 60% of the time, our customers opted to pick up their orders at a store.",0.036970268934965134,0.04538249224424362,0.9176472425460815,neutral,-0.008412223309278488
+14,2020-07-26 09:26:00,"We were able to extend our in-store focus capabilities to curbside pickup in the US in a matter of days, offering customers an additional choice with respect to fulfillment.",0.9421994686126709,0.014171876013278961,0.04362870380282402,positive,0.9280275702476501
+15,2020-07-26 09:26:00,"Despite the increase in sales, net earnings came in 10.7% lower.",0.01864076964557171,0.9704943895339966,0.01086484920233488,negative,-0.9518536329269409
+16,2020-07-26 09:26:00,This shortfall was largely due to the $850 million of pre-tax expenses behind various initiatives to support employees such as expanding paid time off for hourly associates.,0.02306106500327587,0.9491526484489441,0.027786284685134888,negative,-0.9260916113853455
+17,2020-07-26 09:26:00,"Home Depot has taken advantage of its status as an ""essential retailer"" by providing customers with the necessary supplies for home improvement and repairs.",0.8572618365287781,0.012018585577607155,0.1307196170091629,positive,0.8452432751655579
+18,2020-07-26 09:26:00,A quick look at new residential sales from a report published on July 24 by the U.S Census Bureau shows that the number of homes sold has been on an uptrend since 2015 with occasional dips.,0.102906733751297,0.8339452743530273,0.06314793974161148,negative,-0.7310385704040527
+19,2020-07-26 09:26:00,"More specifically, new home sales rose by 13.8% month to month and 6.9% year over year in June.",0.9479146003723145,0.022932151332497597,0.029153304174542427,positive,0.9249824285507202
+20,2020-07-26 09:26:00,"Similarly, MarketWatch reported that existing home sales are also seeing an uptick.",0.9296085238456726,0.022611066699028015,0.047780346125364304,positive,0.9069974422454834
+21,2020-07-26 09:26:00,The increase in home sales -- both new and existing -- is a good sign that demand will remain strong long term for Home Depot.,0.9443790912628174,0.01667509227991104,0.03894581273198128,positive,0.9277039766311646
+22,2020-07-26 09:26:00,"Management noted during the earnings call: ""But for the most part, those dynamics in the housing economy that most influence home improvement demand have remained relatively stable.",0.20421598851680756,0.0327792689204216,0.7630047798156738,neutral,0.17143672704696655
+23,2020-07-26 09:26:00,"And so we haven't seen anything that really changes our view of how the housing economy will impact home improvement.""",0.1496264785528183,0.2804696261882782,0.5699039101600647,neutral,-0.1308431476354599
+24,2020-07-26 09:26:00,"The home improvement giant announced a 10% payout increase in February, bringing the quarterly dividend to $1.50 per share, or $6.00 annually.",0.9487714171409607,0.019551286473870277,0.03167722374200821,positive,0.9292201399803162
+25,2020-07-26 09:26:00,"Since 2015, Home Depot's quarterly payout has nearly tripled, and the stock yields 2.3% as of this writing.",0.8036097884178162,0.018991099670529366,0.17739905416965485,positive,0.7846186757087708
+26,2020-07-26 09:26:00,The stability of Home Depot's dividend is supported by strong free cash flow.,0.7698540091514587,0.01445864886045456,0.2156873345375061,positive,0.7553953528404236
+27,2020-07-26 09:26:00,"The company generated $12.2 billion of free cash flows over the past four quarters and distributed approximately half to shareholders, putting its free cash flow payout ratio in a healthy range.",0.7934122681617737,0.012893041595816612,0.19369475543498993,positive,0.7805192470550537
+28,2020-07-26 09:26:00,Home Depot's consistent execution and strong financial position should lead to consistent dividend increases in the years ahead for patient investors.,0.918234646320343,0.012947404757142067,0.06881795823574066,positive,0.9052872657775879
+29,2020-07-26 09:26:00,"Reaffirming its position as a source of stability for investors to ride out the current uncertainty, management said during the earnings call:
+
+Home Depot can continue to outperform the retail sector overall, and investors would be wise to pick up shares before the stock builds on its 20% year-to-date gains.",0.9456632733345032,0.020851707085967064,0.03348502144217491,positive,0.9248115420341492
+30,2020-07-26 09:26:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+31,2020-07-26 09:26:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+32,2020-07-26 09:26:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+33,2020-07-26 09:26:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2020-07-26 09:26:00,Saket Jhajharia has no position in any of the stocks mentioned.,0.011553335934877396,0.09549771249294281,0.8929489254951477,neutral,-0.08394438028335571
+35,2020-07-26 09:26:00,The Motley Fool owns shares of and recommends Home Depot and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.019543537870049477,0.019150102511048317,0.9613063335418701,neutral,0.00039343535900115967
+36,2020-07-26 09:26:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

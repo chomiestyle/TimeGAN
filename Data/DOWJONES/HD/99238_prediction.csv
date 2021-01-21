@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-13 01:44:00,"MoneyMorning.com Report - For Jan. 13, 2016, here's the top stock market news and stocks to watch based on today's market moves...
+
+How Did the Stock Market Do Today?",0.0178835466504097,0.012877292931079865,0.9692391753196716,neutral,0.005006253719329834
+1,2016-01-13 01:44:00,The Dow Jones Industrial Average today (Wednesday) cratered more than 364 points as oil prices pushed downward again and technology stocks faltered.,0.025527028366923332,0.9578748345375061,0.0165981687605381,negative,-0.93234783411026
+2,2016-01-13 01:44:00,"Shares of five companies - Home Depot Inc. ( HD ), Goldman Sachs Group Inc. ( GS ), Boeing Co. ( BA ), Walt Disney Co. ( DIS ), and UnitedHealth Group Inc. ( UNH ) - accounted for half of the Dow's drop today.",0.019319569692015648,0.9563482999801636,0.024332059547305107,negative,-0.937028706073761
+3,2016-01-13 01:44:00,"Meanwhile, the S&P 500 slumped 2.5% and crashed through the important mental barrier of 1,900 for the first time since October.",0.027744080871343613,0.9593424201011658,0.01291351206600666,negative,-0.9315983653068542
+4,2016-01-13 01:44:00,"On the economic front, two prominent economists - Boston Fed President Eric Rosengren and former U.S. Treasury Secretary Larry Summers - raised concerns about the U.S. Federal Reserve's plans to tighten monetary policy repeatedly in 2016.",0.07892512530088425,0.7981831431388855,0.12289167195558548,negative,-0.7192580103874207
+5,2016-01-13 01:44:00,Both said any plan for four quarter-point interest rate hikes could be stonewalled by a sputtering U.S. economy.,0.05659513175487518,0.8844204545021057,0.0589844174683094,negative,-0.8278253078460693
+6,2016-01-13 01:44:00,"Meanwhile, according to the monthly Beige Book, U.S. economic activity expanded in nine of the nation's 12 districts.",0.9123715758323669,0.02065417729318142,0.06697426736354828,positive,0.8917173743247986
+7,2016-01-13 01:44:00,The central bank said broader U.S. economic growth was weighed down by a stronger dollar and falling energy prices.,0.019665492698550224,0.9640743732452393,0.016260216012597084,negative,-0.9444088935852051
+8,2016-01-13 01:44:00,"• Stock Market Today: All 10 major S&P sectors fell today, with consumer discretionary stocks leading the sharpest decline.",0.018624398857355118,0.9686891436576843,0.012686366215348244,negative,-0.9500647187232971
+9,2016-01-13 01:44:00,"Shares of Amazon.com Inc. (Nasdaq: AMZN) pulled the sector down after falling 5.8%; however, no individual event accounted for the sharp decline in the tech stock.",0.02909511886537075,0.9523398876190186,0.018564989790320396,negative,-0.9232447743415833
+10,2016-01-13 01:44:00,"Meanwhile, shares of Netflix Inc. (Nasdaq: NFLX) fell 8.6%, while Chipotle Mexican Grill Inc. (CMG) reversed losses and added 6%.",0.02066776715219021,0.9678901433944702,0.011442149057984352,negative,-0.9472223520278931
+11,2016-01-13 01:44:00,• Oil Moves Higher: U.S. oil prices again slumped through the $30 barrier during intraday trading before settling higher for the first time in eight sessions.,0.5702046751976013,0.38202670216560364,0.04776865243911743,positive,0.18817797303199768
+12,2016-01-13 01:44:00,February's WTI prices gained 0.1% to settle at $30.48 per barrel.,0.9311984181404114,0.03706221655011177,0.03173935413360596,positive,0.8941361904144287
+13,2016-01-13 01:44:00,"Meanwhile, Brent oil crude - priced in London - fell 1.8% to hit $30.31.",0.017942117527127266,0.9727091789245605,0.009348682127892971,negative,-0.9547670483589172
+14,2016-01-13 01:44:00,"Shares of Exxon Mobil Corp. (XOM) weathered the decline in crude prices, gaining 0.6% on the day.",0.9319270253181458,0.0459878072142601,0.022085074335336685,positive,0.8859392404556274
+15,2016-01-13 01:44:00,"However, Chevron Corp. (CVX) fell 1%.",0.018080543726682663,0.9692615866661072,0.012657838873565197,negative,-0.9511810541152954
+16,2016-01-13 01:44:00,"Master limited partnerships cratered on the day, with Targa Resources Corp. (TRGP) leading the decline by losing 21.5% today.",0.01946358196437359,0.9686815738677979,0.011854891665279865,negative,-0.9492179751396179
+17,2016-01-13 01:44:00,"• SOTU Address: On Tuesday night, President Barack Obama delivered his final, 58-minute-and-40-second-long State of the Union address - the 16th longest in history.",0.2731342017650604,0.05979057028889656,0.6670752167701721,neutral,0.21334363520145416
+18,2016-01-13 01:44:00,"During his speech, he devoted nearly six minutes to claims that the U.S. economy has become more robust than ever under his tenure.",0.9166415929794312,0.032108403742313385,0.051249969750642776,positive,0.884533166885376
+19,2016-01-13 01:44:00,But we're not buying it.,0.06679051369428635,0.3581899106502533,0.5750195384025574,neutral,-0.29139938950538635
+20,2016-01-13 01:44:00,Here's why.,0.017657043412327766,0.015349880792200565,0.9669930934906006,neutral,0.002307162620127201
+21,2016-01-13 01:44:00,"• On Tap Tomorrow: On Thursday, a busy economic calendar features an update on weekly jobless claims, monthly trade data, and a speech from St. Louis Fed Reserve Bank President James Bullard.",0.058237455785274506,0.04720520228147507,0.8945573568344116,neutral,0.011032253503799438
+22,2016-01-13 01:44:00,"Companies set to report quarterly earnings include JPMorgan Chase & Co. (JPM), Intel Corp. (Nasdaq: INTC), and Shaw Communications Inc. (SJR).",0.055967286229133606,0.012267663143575191,0.9317650198936462,neutral,0.04369962215423584
+23,2016-01-13 01:44:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+24,2016-01-13 01:44:00,"1, CYBR: Shares of Cyberark Software Ltd. (Nasdaq: CYBR) surged 19.6% on news Check Point Software Technologies Ltd. (Nasdaq: CHKP) is in discussions to purchase the company.",0.9252595901489258,0.02095986157655716,0.05378054082393646,positive,0.9042997360229492
+25,2016-01-13 01:44:00,"Cyberark shares were traded on incredibly high volumes, 774% more than the average day.",0.9011169075965881,0.024985767900943756,0.07389726489782333,positive,0.8761311173439026
+26,2016-01-13 01:44:00,"• Stocks to Watch No.2, CSX: Shares of CSX Corp. (Nasdaq: CSX) fell 5.7% after the company reported fiscal fourth-quarter earnings of $0.48 per share on top of $2.8 billion in revenue.",0.020519088953733444,0.9705490469932556,0.008931775577366352,negative,-0.9500299692153931
+27,2016-01-13 01:44:00,The company fell short on bottom-line revenue due to falling shipment volumes and a struggling energy sector.,0.01952504552900791,0.9690417647361755,0.011433144100010395,negative,-0.9495167136192322
+28,2016-01-13 01:44:00,The firm's results could be a very troubling proxy for the transportation sector heading deeper into earnings season.,0.035016465932130814,0.9176176190376282,0.0473659485578537,negative,-0.8826011419296265
+29,2016-01-13 01:44:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+30,2016-01-13 01:44:00,"3, TTNP: Shares of Titan Pharmaceuticals Inc. (Nasdaq: TTNP) jumped more than 13.6% after a U.S. Food and Drug Administration advisory panel - the Psychopharmacologic Drugs Advisory Committee - recommended the regulatory approval of an implant to treat opioid addiction.",0.9382497072219849,0.02611716091632843,0.03563312441110611,positive,0.9121325612068176
+31,2016-01-13 01:44:00,"• Stocks to Watch No.4, GM: Shares of General Motors Co. (NYSE: GM) gained 0.6% after the company hiked its 2016 profit outlook and announced another $4 billion to its stock buyback plans.",0.9267389178276062,0.04958387836813927,0.023677188903093338,positive,0.877155065536499
+32,2016-01-13 01:44:00,The news sent shares of Ford Motor Co. (NYSE: F) down more than 5%.,0.028102537617087364,0.9480103254318237,0.023887189105153084,negative,-0.919907808303833
+33,2016-01-13 01:44:00,"• Stocks to Watch No.5, ETSY: Shares of Etsy Inc. (Nasdaq: ETSY) hit another all-time intraday low of $6.76 before settling down 5.4%.",0.021921157836914062,0.9651662111282349,0.012912542559206486,negative,-0.9432450532913208
+34,2016-01-13 01:44:00,The technology company continues to remain under pressure from competitors like Amazon.com Inc. (Nasdaq: AMZN).,0.022397613152861595,0.9303559064865112,0.047246478497982025,negative,-0.9079582691192627
+35,2016-01-13 01:44:00,"Many television talking heads have speculated that the new low presents a buying opportunity, but don't take their advice.",0.05084855854511261,0.41642990708351135,0.5327215790748596,neutral,-0.36558133363723755
+36,2016-01-13 01:44:00,That's because there are two reasons this stock will not recover in 2016 .,0.0591764971613884,0.2492542415857315,0.6915692687034607,neutral,-0.1900777518749237
+37,2016-01-13 01:44:00,"What Investors Must Know This Week
+• Where We'll Find Our Biggest Profits This Year
+• Your ""Buy List"" to Profit from Volatility in 2016
+
+Follow us on Twitter@moneymorning or like us onFacebook.",0.11243174225091934,0.023703109472990036,0.8638651371002197,neutral,0.0887286365032196
+38,2016-01-13 01:44:00,"To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.1229928582906723,0.007614284288138151,0.8693928122520447,neutral,0.11537857353687286
+39,2016-01-13 01:44:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+40,2016-01-13 01:44:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+41,2016-01-13 01:44:00,Disclaimer: © 2016 Money Morning and Money Map Press.,0.012991356663405895,0.01064804196357727,0.976360559463501,neutral,0.0023433146998286247
+42,2016-01-13 01:44:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+43,2016-01-13 01:44:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+44,2016-01-13 01:44:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+45,2016-01-13 01:44:00,"16 W. Madison St. Baltimore, MD, 21201.",0.040342606604099274,0.013275643810629845,0.9463818073272705,neutral,0.02706696279346943
+46,2016-01-13 01:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,191 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-09 07:24:00,"Last June I wrote a special report for Zacks Confidential called ""Big Economic Disruption: Big Data, AI, and Robotics.""",0.020174844190478325,0.10840526223182678,0.8714199066162109,neutral,-0.08823041617870331
+1,2017-03-09 07:24:00,"While researching and talking about science-fiction technologies like machine learning and artificial intelligence is always fun, I began that report with a more important and sobering premise: why tens of millions of jobs globally were about to be eliminated in the next decade.",0.053938817232847214,0.7578809261322021,0.18818026781082153,negative,-0.7039421200752258
+2,2017-03-09 07:24:00,This assertion came from research published in January of 2016 by Citi and the Oxford Martin School exploring the varying impact that automation would have on jobs and economies in major countries around the world.,0.040960587561130524,0.05703071132302284,0.9020087122917175,neutral,-0.01607012376189232
+3,2017-03-09 07:24:00,Technology at Work v2.0: The Future Is Not What It Used to Be builds on 2013 research by Carl Benedikt Frey and Michael Osborne which found that 47 per cent of US jobs were at risk of automation over the next two decades.,0.1593988984823227,0.6194128394126892,0.22118818759918213,negative,-0.4600139260292053
+4,2017-03-09 07:24:00,"The 156-page report provides in-depth analysis of the vulnerabilities of countries and cities to job automation, explores what automation will mean for traditional models of economic growth, and considers how governments can prepare for the potentially disruptive impacts of job automation on society.",0.0905274748802185,0.01072143018245697,0.8987510800361633,neutral,0.07980604469776154
+5,2017-03-09 07:24:00,"Key areas of analysis in the new report include this startling projection right at the outset:
+
+Risks of job automation in emerging economies such as China and India are as high as 77% and 69% over the next two decades.",0.09260164946317673,0.20651493966579437,0.7008833885192871,neutral,-0.11391329020261765
+6,2017-03-09 07:24:00,That's a lot of emerging markets workers put out of work in a fairly short time.,0.02583261765539646,0.945012092590332,0.029155205935239792,negative,-0.9191794991493225
+7,2017-03-09 07:24:00,And it challenges what I had long believed: that China and India would make steady progress in their efforts to bring over 1 billion people collectively into the ranks of the global middle class.,0.9058635234832764,0.013965662568807602,0.08017075806856155,positive,0.8918978571891785
+8,2017-03-09 07:24:00,That assumption was based on the efficient ability and desire of corporations to move manufacturing and service jobs to those countries and thereby balance the global market for goods and labor with the most cost-efficient choices available.,0.6377191543579102,0.010536574758589268,0.35174426436424255,positive,0.6271826028823853
+9,2017-03-09 07:24:00,"But the reality is that automation trends -- broadly defined as those involving cloud computing, business intelligence (Big Data analytics), artificial intelligence, and robotics -- will create far more disruption for capital and labor sources than most are imagining.",0.02534157782793045,0.8840437531471252,0.09061464667320251,negative,-0.8587021827697754
+10,2017-03-09 07:24:00,"It's not just about the select company going out of business because a new technology or software solution -- like 3-D ""printed"" parts -- just replaced what their 50 employees did for far less money.",0.03586296737194061,0.7179697155952454,0.2461673617362976,negative,-0.6821067333221436
+11,2017-03-09 07:24:00,It's about entire industries getting turned inside-out.,0.05486114323139191,0.36382755637168884,0.5813112854957581,neutral,-0.30896639823913574
+12,2017-03-09 07:24:00,"In short, the industrial revolutions of China and India could be over sooner than many would like.",0.1333051472902298,0.05964185297489166,0.8070529699325562,neutral,0.07366329431533813
+13,2017-03-09 07:24:00,"Here's how the Citi-Oxford report summed it up...
+
+""While manufacturing productivity has traditionally enabled developing countries to close the gap with richer countries, automation is likely to impact negatively on their ability to do this, and new growth models will be required.",0.6966783404350281,0.07593154162168503,0.2273901402950287,positive,0.6207467913627625
+14,2017-03-09 07:24:00,"""The impact of automation may be more disruptive for developing countries, due to lower levels of consumer demand and limited social safety nets.",0.045644503086805344,0.7471086382865906,0.20724685490131378,negative,-0.7014641165733337
+15,2017-03-09 07:24:00,"With automation and developments in 3D printing likely to drive companies to move manufacturing closer to home, developing countries risk 'premature de-industrialisation'.",0.06770630180835724,0.7470464110374451,0.1852472871541977,negative,-0.679340124130249
+16,2017-03-09 07:24:00,"""Digital industries have not created many new jobs.",0.35281503200531006,0.41635942459106445,0.23082557320594788,negative,-0.0635443925857544
+17,2017-03-09 07:24:00,"Since 2000, just 0.5% of the US workforce has shifted into new technology industries, most of which are directly associated with digital technologies.""",0.02546355128288269,0.07459881901741028,0.8999375700950623,neutral,-0.04913526773452759
+18,2017-03-09 07:24:00,This amount of disruption should not be taken lightly.,0.03690562769770622,0.055265750735998154,0.9078286290168762,neutral,-0.01836012303829193
+19,2017-03-09 07:24:00,Massive changes are coming to industry that will have deep impacts for economies and workers.,0.33451130986213684,0.058614764362573624,0.6068739295005798,neutral,0.2758965492248535
+20,2017-03-09 07:24:00,"I think every citizen should be studying these changes and impacts on an ongoing basis to find the best ways to position their career, their business, and their investments.",0.22350157797336578,0.006747441366314888,0.7697509527206421,neutral,0.21675413846969604
+21,2017-03-09 07:24:00,"That report ended, as all ZCs do, with actionable investment ideas.",0.7216370105743408,0.01435046922415495,0.26401248574256897,positive,0.707286536693573
+22,2017-03-09 07:24:00,"Tasked to answer the question ""How does one invest to capitalize on these megatrends?""",0.15234099328517914,0.019202273339033127,0.828456699848175,neutral,0.1331387162208557
+23,2017-03-09 07:24:00,I came up with 4 stocks you had to own for the long term.,0.08638022094964981,0.007296174764633179,0.9063236117362976,neutral,0.07908404618501663
+24,2017-03-09 07:24:00,So this brings me back to my top 4 picks for the future of work.,0.13571439683437347,0.02182292751967907,0.8424626588821411,neutral,0.11389146745204926
+25,2017-03-09 07:24:00,"And they will all be involved in robotics and additive manufacturing (3-D ""printing"") in some form, whether providing the software to design, build, and operate the machines, or the cloud-AI-machine learning data to drive their ""intelligence.""",0.030463987961411476,0.0054480163380503654,0.9640880227088928,neutral,0.025015972554683685
+26,2017-03-09 07:24:00,1) Microsoft (MSFT) : I believe buying this stock near $50 virtually guarantees a chance to beat the market over the next 5-10 years.,0.9102908968925476,0.014088678173720837,0.07562053203582764,positive,0.8962022066116333
+27,2017-03-09 07:24:00,Stifel Nicolaus analysts recently met with Microsoft management to talk about cloud and BI initiatives.,0.32721227407455444,0.010813488624989986,0.6619742512702942,neutral,0.3163987994194031
+28,2017-03-09 07:24:00,"Here's what they said: ""The meetings served to reinforce our view the company's commercial cloud strategy is on track to hit the $20B FY18 goal and should be a source of solid growth for the next several years.",0.9287716746330261,0.013313520699739456,0.05791481211781502,positive,0.9154581427574158
+29,2017-03-09 07:24:00,"Azure (the BigData platform) should also continue to close the gap with AWS as Microsoft expands its product offering and is able to exploit its existing customer relationships to create unique hybrid scenarios.""",0.9363062381744385,0.015133901499211788,0.04855988174676895,positive,0.9211723208427429
+30,2017-03-09 07:24:00,They maintain a $58 12-month price target on MSFT shares.,0.09171468019485474,0.01424424909055233,0.894041121006012,neutral,0.07747042924165726
+31,2017-03-09 07:24:00,2) Alphabet (GOOGL) : One of the most innovative companies on the planet is also at the heart of Big Data analytics and automation.,0.777451753616333,0.01428211759775877,0.20826610922813416,positive,0.7631696462631226
+32,2017-03-09 07:24:00,"This is a stock that investors should view with a minimum 10-year horizon and dollar-cost average small buys between $600 and $800, while you still can.",0.06876076757907867,0.0069458745419979095,0.9242933392524719,neutral,0.061814893037080765
+33,2017-03-09 07:24:00,"While the company will try and fail at many side ventures, ala the Skunk Works model they copied from Lockheed Martin innovators, Larry Page recently said his new metric for evaluating company projects is this: ""Are you working on something that will change the world?",0.10301242768764496,0.0235374066978693,0.8734501004219055,neutral,0.0794750228524208
+34,2017-03-09 07:24:00,"Yes or no?""",0.14688464999198914,0.18024267256259918,0.6728726625442505,neutral,-0.033358022570610046
+35,2017-03-09 07:24:00,"3) Amazon (AMZN) : Much like Page, Jeff Bezos has a vision of the future and find ways to be a part of it.",0.16737212240695953,0.0066205100156366825,0.8260073661804199,neutral,0.160751610994339
+36,2017-03-09 07:24:00,It's no wonder both of them are involved in space rocketry too.,0.05400199070572853,0.020633427426218987,0.92536461353302,neutral,0.033368565142154694
+37,2017-03-09 07:24:00,"But Bezos is more practical, ensuring steady sales.",0.4584585726261139,0.011054553091526031,0.5304868817329407,neutral,0.44740402698516846
+38,2017-03-09 07:24:00,"He is credited with once saying something to this effect: ""Everybody wants to focus on how the future will be different.",0.05634870007634163,0.041339211165905,0.9023120999336243,neutral,0.01500948891043663
+39,2017-03-09 07:24:00,We try to ask 'How will it be the same?',0.029036682099103928,0.03208347037434578,0.9388798475265503,neutral,-0.003046788275241852
+40,2017-03-09 07:24:00,"and then those are the businesses we want to be in.""",0.03927701339125633,0.00933932512998581,0.9513837099075317,neutral,0.029937688261270523
+41,2017-03-09 07:24:00,4)IBM is relevant and affordable again near $150 (11X next year's $13.75 EPS).,0.7868356704711914,0.02142789587378502,0.1917363852262497,positive,0.7654078006744385
+42,2017-03-09 07:24:00,"Their powerful Watson Cognitive Analytics platform is appealing to many industries at the enterprise level, from medical research and diagnostics to manufacturing and marketing predictive capabilities.",0.5233744978904724,0.009400855749845505,0.46722468733787537,positive,0.5139736533164978
+43,2017-03-09 07:24:00,"And they did a beautiful thing by putting a ""human"" voice on Watson to attract the interest and fascination of young people everywhere in the power of data.",0.2960582375526428,0.010121419094502926,0.6938202977180481,neutral,0.2859368324279785
+44,2017-03-09 07:24:00,It's their future after all.,0.14474380016326904,0.00836964976042509,0.8468865752220154,neutral,0.13637414574623108
+45,2017-03-09 07:24:00,"I recommended IBM shares in 2010 as the ""safe"" big cap Tech stock to outperform the market over 3 years and it did just that, rising from $125 to over $200 in 2013, with Warren Buffett joining the party at $175 as he finally found a Tech stock he could love.",0.8836769461631775,0.017216481268405914,0.09910663962364197,positive,0.8664604425430298
+46,2017-03-09 07:24:00,"My buy then was based on their European contracts in the ""smart energy grid"" which I believed carried lower risk than most businesses since they were serving, and embedded in, the infrastructure of municipal power.",0.17274710536003113,0.019962338730692863,0.8072905540466309,neutral,0.15278476476669312
+47,2017-03-09 07:24:00,"IBM will find a way to ""embed"" Watson in the Business Intelligence and cognitive/predictive analytics of many corporations who will come to depend on their superior commitment to data science R&D.",0.8402180075645447,0.013269136659801006,0.14651286602020264,positive,0.826948881149292
+48,2017-03-09 07:24:00,"Hopefully, they can use Watson to redesign the IBM corporate strategy for lower costs and higher sales and remain relevant to investors for another 50 years.",0.8183079957962036,0.014191589318215847,0.16750040650367737,positive,0.804116427898407
+49,2017-03-09 07:24:00,"And here was their performance from June 6 up to the election, and since:
+
+MSFT: +16.3% to the election and +7.4% since
+
+GOOGL: +11.2% to the election and +5.2% since
+
+AMZN: +8.4% to the election and +7.96% since
+
+IBM: +1.6% to the election and +15.65% since
+
+It's nice to see that you would have done nearly as well owning IBM as GOOGL or AMZN in this full period since June 6.",0.33825382590293884,0.03045441024005413,0.6312916874885559,neutral,0.30779942870140076
+50,2017-03-09 07:24:00,"And nothing has changed in my view about any of these stocks, although I would wait for pullbacks in all of them before initiating new positions.",0.07655616104602814,0.011422833427786827,0.9120210409164429,neutral,0.06513332575559616
+51,2017-03-09 07:24:00,"(I've had a bet since the beginning of the year with another investor about whether GOOGL or AMZN gets to $1,000 first.",0.04162551090121269,0.010007810778915882,0.9483667016029358,neutral,0.031617701053619385
+52,2017-03-09 07:24:00,They've been trading neck-and-neck around $850 and my money is on the latter.),0.09333952516317368,0.027934014797210693,0.8787264227867126,neutral,0.06540551036596298
+53,2017-03-09 07:24:00,But I am adding 2 more stocks to the mix.,0.2779386639595032,0.01231174636632204,0.7097496390342712,neutral,0.2656269073486328
+54,2017-03-09 07:24:00,"And, beyond fascinating, both of them have partnered with IBM since my original thesis.",0.07204258441925049,0.007161247543990612,0.9207962155342102,neutral,0.0648813396692276
+55,2017-03-09 07:24:00,I am going to try and tell you this important story without mentioning those fancy action games my son plays till all hours.,0.047167595475912094,0.02439938485622406,0.9284330606460571,neutral,0.022768210619688034
+56,2017-03-09 07:24:00,"I hear NVIDIA (NVDA) makes chips and graphics solutions that satisfy a gamer's ""need for speed"" (and parallel processing) too.",0.12652690708637238,0.00607323320582509,0.8673998117446899,neutral,0.12045367062091827
+57,2017-03-09 07:24:00,But this story will be about the technology applied to more important tasks.,0.027992911636829376,0.006663204170763493,0.9653439521789551,neutral,0.021329708397388458
+58,2017-03-09 07:24:00,"In September, NVIDIA joined forces with IBM to launch a new type of server built for machine learning based on NVIDIA's GPU semiconductor solutions.",0.7716060280799866,0.012227538041770458,0.21616648137569427,positive,0.7593784928321838
+59,2017-03-09 07:24:00,"This is not a new partnership as the companies had been working together for several years and you can get some background from this 2014 NVIDIA blog post...
+
+GPU-accelerated computing is the use of a graphics processing unit (GPU) together with a CPU to accelerate deep learning, analytics, and engineering applications.",0.07821790874004364,0.00594966160133481,0.9158324003219604,neutral,0.07226824760437012
+60,2017-03-09 07:24:00,"From the NVIDIA website, a crystal clear explanation...
+
+""A simple way to understand the difference between a GPU and a CPU is to compare how they process tasks.",0.054440271109342575,0.01197773963212967,0.9335820078849792,neutral,0.042462531477212906
+61,2017-03-09 07:24:00,"A CPU consists of a few cores optimized for sequential serial processing while a GPU has a massively parallel architecture consisting of thousands of smaller, more efficient cores designed for handling multiple tasks simultaneously.""",0.09020601212978363,0.007153620943427086,0.9026404023170471,neutral,0.0830523893237114
+62,2017-03-09 07:24:00,"Yeah, that's what is needed to do machine learning and anything close to artificial intelligence.",0.09340426325798035,0.012611746788024902,0.8939840197563171,neutral,0.08079251646995544
+63,2017-03-09 07:24:00,In the early 1990's I read a book by physicist Heinz Pagels called The Dreams of Reason: The Computer and the Rise of the Sciences of Complexity.,0.0639444887638092,0.03590445592999458,0.9001510739326477,neutral,0.02804003283381462
+64,2017-03-09 07:24:00,"His understanding of how ""big data"" crunching would change both science and business was powerfully prescient nearly 30 years ago (published in 1988).",0.17109031975269318,0.023045049980282784,0.805864691734314,neutral,0.14804527163505554
+65,2017-03-09 07:24:00,"As chip innovations shrunk computing power into ever smaller machines, amazing tasks suddenly became affordable to average researchers, technologists and nerds in general.",0.24451923370361328,0.03548601642251015,0.7199947237968445,neutral,0.20903322100639343
+66,2017-03-09 07:24:00,Heinz wasn't predicting which companies would make money off of this trend.,0.03801455348730087,0.0278017520904541,0.9341837167739868,neutral,0.010212801396846771
+67,2017-03-09 07:24:00,"But he knew it would have large impacts on society, science, and commerce.",0.05710776522755623,0.15861806273460388,0.7842742204666138,neutral,-0.10151030123233795
+68,2017-03-09 07:24:00,"It was in his book that I first learned about ""parallel processing"" that makes so much technology possible today.",0.1304066777229309,0.0069045377895236015,0.8626887798309326,neutral,0.12350214272737503
+69,2017-03-09 07:24:00,"IBM has been playing with the ""massively"" component for a while, ala Deep Blue, the world's top chess computer.",0.20555755496025085,0.028731150552630424,0.7657113075256348,neutral,0.17682640254497528
+70,2017-03-09 07:24:00,NVIDIA has taken it to new levels since 2007.,0.36912432312965393,0.022165706381201744,0.608709990978241,neutral,0.34695860743522644
+71,2017-03-09 07:24:00,"Together, they are a force.",0.48104897141456604,0.015402162447571754,0.5035488605499268,neutral,0.46564680337905884
+72,2017-03-09 07:24:00,"Here was Ian Buck writing on the NVIDIA blog on September 8, 2016 about the new venture with IBM...
+
+Data center workloads are changing.",0.03037256747484207,0.2908044457435608,0.6788229942321777,neutral,-0.2604318857192993
+73,2017-03-09 07:24:00,"Not long ago these systems were primarily used to handle storage and serve up web pages, but now they're increasingly tasked with AI workloads like understanding speech, text, images and video or analyzing big data for insights.",0.04009750485420227,0.010387864895164967,0.9495146870613098,neutral,0.02970964089035988
+74,2017-03-09 07:24:00,"Billions of consumers want instant answers to a multitude of questions, while enterprise companies want to analyze mountains of data to better serve their customers' needs.",0.1868734359741211,0.011322145350277424,0.8018044233322144,neutral,0.17555129528045654
+75,2017-03-09 07:24:00,Where do those answers come from?,0.08083948493003845,0.07447044551372528,0.8446900844573975,neutral,0.006369039416313171
+76,2017-03-09 07:24:00,Data centers.,0.04470539838075638,0.03565581515431404,0.9196387529373169,neutral,0.009049583226442337
+77,2017-03-09 07:24:00,"As a leader in server systems, IBM saw this trend coming several years ago, and partnered with us to accelerate new data center workloads.",0.8989705443382263,0.012862441129982471,0.08816701173782349,positive,0.8861081004142761
+78,2017-03-09 07:24:00,"After four years of development, IBM today introduced its Power System S822LC for High Performance Computing powered by NVIDIA Tesla P100 GPUs and NVLink to facilitate high-performance analytics and enable deep learning on ever increasing mountains of data.",0.6604846715927124,0.010622169822454453,0.32889309525489807,positive,0.64986252784729
+79,2017-03-09 07:24:00,The system couples two of IBM's POWER8 CPUs with four NVIDIA Tesla P100 GPUs connected via our NVLink high-speed interface.,0.07523314654827118,0.005831330083310604,0.9189355373382568,neutral,0.069401815533638
+80,2017-03-09 07:24:00,"This is a custom-built GPU accelerator server, where the NVLink interface is routed on the motherboard and uses our Tesla P100 SXM2 GPU.",0.026477288454771042,0.0064194840379059315,0.9671032428741455,neutral,0.020057804882526398
+81,2017-03-09 07:24:00,"This tight coupling of IBM and NVIDIA technology enables data to flow 5x faster than over PCIe, accelerating time to insight for many of today's most critical applications, like advanced analytics, deep learning and AI.",0.9076905250549316,0.0156632699072361,0.07664624601602554,positive,0.8920272588729858
+82,2017-03-09 07:24:00,"""The user insights and the business value you can deliver with advanced analytics, machine learning and artificial intelligence is increasingly gated by performance,"" says Doug Balog, general manager of IBM Power Systems.",0.5824944376945496,0.011530456133186817,0.4059751033782959,positive,0.570963978767395
+83,2017-03-09 07:24:00,"""Accelerated computing that can really drive big data workloads will become foundational in the cognitive era.",0.30268117785453796,0.008323599584400654,0.6889952421188354,neutral,0.294357568025589
+84,2017-03-09 07:24:00,"Based on OpenPOWER innovations from partners such as NVIDIA, our new OpenPOWER Linux servers with POWERAccel set a new standard for these workloads.""",0.8314652442932129,0.01324855163693428,0.15528616309165955,positive,0.8182166814804077
+85,2017-03-09 07:24:00,"And the two companies followed-up this powerful coup against Intel's X86 line of core processors with this news release on November 14...
+
+IBM and NVIDIA Team Up on World's Fastest Deep Learning Enterprise Solution
+
+Michael Feldman, writing for the Top500.org, summed up the news this way...
+
+""IT soul mates IBM and NVIDIA are at it again, this time collaborating on a deep learning (DL) toolkit, known as PowerAI, optimized for IBM's Power S822LC for High Performance Computing platform.",0.7458169460296631,0.023558178916573524,0.23062488436698914,positive,0.7222587466239929
+86,2017-03-09 07:24:00,"The integration of the toolkit and the IBM hardware is being aimed at what NVIDIA and IBM believe to be a burgeoning market in enterprise AI.""",0.6644619703292847,0.00990639440715313,0.32563164830207825,positive,0.6545555591583252
+87,2017-03-09 07:24:00,"GPU accelerators now powering energy-efficient data centers in government labs, universities, enterprises, and small-and-medium businesses around the world.",0.12299422919750214,0.009919276461005211,0.8670865297317505,neutral,0.11307495087385178
+88,2017-03-09 07:24:00,"They play a huge role in accelerating applications in platforms ranging from artificial intelligence to cars, drones, and robots.",0.34322071075439453,0.008059045299887657,0.6487202644348145,neutral,0.33516165614128113
+89,2017-03-09 07:24:00,And the IBM-NVIDIA tag-team will be a powerful alliance in these computing markets.,0.8793595433235168,0.014597306959331036,0.10604323446750641,positive,0.8647622466087341
+90,2017-03-09 07:24:00,See?,0.07239435613155365,0.06133461743593216,0.8662710189819336,neutral,0.01105973869562149
+91,2017-03-09 07:24:00,I did it.,0.2654816806316376,0.016047563403844833,0.7184708118438721,neutral,0.24943411350250244
+92,2017-03-09 07:24:00,"Got through that whole story without mentioning that questionable use of time (""video games"") at all.",0.0703868493437767,0.04685811325907707,0.8827549815177917,neutral,0.02352873608469963
+93,2017-03-09 07:24:00,Except just there.,0.11490648984909058,0.15686750411987305,0.7282260060310364,neutral,-0.04196101427078247
+94,2017-03-09 07:24:00,"Last month, I wrote another Zacks Confidential about software.",0.04665512219071388,0.04396689683198929,0.9093779921531677,neutral,0.002688225358724594
+95,2017-03-09 07:24:00,"This one was titled ""The SaaSy Nature of the Global Economy.""",0.02024810202419758,0.018175682052969933,0.9615761637687683,neutral,0.002072419971227646
+96,2017-03-09 07:24:00,"My thesis was that software innovations were often the best indicators of trends in business because after the game-changing smartphone, the explosion of the app universe kept creating new categories of services and entirely new business models (Uber, Airbnb, Snapchat, etc) that required ever-further innovations in software.",0.2295118272304535,0.014263053424656391,0.7562251091003418,neutral,0.21524877846240997
+97,2017-03-09 07:24:00,My top stock pick for that report was Salesforce.com (CRM) .,0.10226044058799744,0.011041565798223019,0.8866980075836182,neutral,0.09121887385845184
+98,2017-03-09 07:24:00,Here's what I said...,0.02799280919134617,0.01336081326007843,0.9586463570594788,neutral,0.014631995931267738
+99,2017-03-09 07:24:00,The $57 billion giant of customer engagement software is certainly not a takeover candidate -- but then who thought LinkedIn was either?,0.06809628754854202,0.059668105095624924,0.8722355961799622,neutral,0.008428182452917099
+100,2017-03-09 07:24:00,"In either case, CRM is still seen as the preeminent leader in the industry, both by Wall Street analysts and research firm Gartner.",0.826917290687561,0.020208800211548805,0.15287382900714874,positive,0.8067085146903992
+101,2017-03-09 07:24:00,"The stock is expensive on a P/E basis but I expect innovations in this space to come from CRM at the expense of the competition as they ""stack"" features and value for their corporate clients.",0.5096602439880371,0.010427987203001976,0.47991183400154114,positive,0.4992322623729706
+102,2017-03-09 07:24:00,"The average price target on the Street is $93, while Goldman Sachs bumped theirs higher to $96 at the start of February.",0.3640730381011963,0.0453985370695591,0.5905284285545349,neutral,0.3186745047569275
+103,2017-03-09 07:24:00,CRM reports on Tuesday 2/28 and I would buy this Zacks #2 Rank on any weakness in the $70s.,0.19955843687057495,0.09451212733983994,0.7059294581413269,neutral,0.10504630953073502
+104,2017-03-09 07:24:00,"I barely mentioned the company's latest innovation, Einstein, because I didn't fully understand it yet.",0.06572495400905609,0.0706106647849083,0.8636643886566162,neutral,-0.004885710775852203
+105,2017-03-09 07:24:00,It was only formally launched in late February.,0.040291715413331985,0.010127541609108448,0.9495807886123657,neutral,0.030164174735546112
+106,2017-03-09 07:24:00,"I also made a video where I briefly explained the high-level feud between CRM and MSFT, especially after LNKD: SaaSy B2B Sales Are in the Clouds.",0.04137396812438965,0.8035739660263062,0.1550520658493042,negative,-0.7621999979019165
+107,2017-03-09 07:24:00,I bought CRM shares last week for the Zacks TAZR Trader service after another strong earnings report and guidance on February 28.,0.7845505475997925,0.016745170578360558,0.19870425760746002,positive,0.7678053975105286
+108,2017-03-09 07:24:00,"Two years ago, CEO Marc Benioff was boasting about having become the fastest ""software"" company to $6 billion in revenue, and set on becoming the fastest to $10 billion.",0.8380287885665894,0.021356774494051933,0.14061440527439117,positive,0.8166720271110535
+109,2017-03-09 07:24:00,"Given that 2016 closed with $8.4 billion -- 26% annual growth -- and they are guiding the current fiscal year to $10.2 billion (+21% annual growth), it seems they are on their way.",0.9031289219856262,0.019020190462470055,0.07785093784332275,positive,0.8841087222099304
+110,2017-03-09 07:24:00,"During the company's October analyst day, Salesforce updated the size of its TAM (total addressable market) to about $70 billion in 2016 and projected a CAGR of 11 percent to reach $105 billion by 2020.",0.5624479055404663,0.012222254648804665,0.42532986402511597,positive,0.5502256751060486
+111,2017-03-09 07:24:00,They have plenty of potential to grab more of that market share.,0.7644923329353333,0.012287171557545662,0.22322052717208862,positive,0.7522051334381104
+112,2017-03-09 07:24:00,And while the valuation is a headwind for the stock -- trading at over 6X sales -- the premier position in enterprise CRM is undisputed.,0.5091027617454529,0.13378146290779114,0.357115775346756,positive,0.37532129883766174
+113,2017-03-09 07:24:00,"If anybody can grab more of that TAM, it's CRM.",0.14404873549938202,0.01157305110245943,0.8443782329559326,neutral,0.13247568905353546
+114,2017-03-09 07:24:00,"Embedded: Salesforce Knows What It Means Too
+
+For the past few months, I've been studying the sales software space and marketing ""enablement"" space via several web-centric ""mini-CRMs"" like HubSpot (HUBS), Infusionsoft, Marketo, ReEnvision Inbound, and ActiveCampaign.",0.1025398001074791,0.0055358633399009705,0.8919243216514587,neutral,0.09700393676757812
+115,2017-03-09 07:24:00,These and other SaaS platforms are integrating and automating the functions of marketing and sales for small and medium-sized businesses like never before.,0.23568451404571533,0.006840973161160946,0.7574744820594788,neutral,0.2288435399532318
+116,2017-03-09 07:24:00,"While these young upstarts potentially threaten CRM -- and Microsoft leads a beachhead assault with their buy-out of LinkedIn -- salesforce.com remains the ""killer app"" for many corporations at the enterprise level.",0.2271779626607895,0.1370796263217926,0.6357424259185791,neutral,0.09009833633899689
+117,2017-03-09 07:24:00,"Part of the reason is, of course, that once you have a customer relationship management and engagement platform ""embedded"" in your corporation's economic infrastructure, it's hard to ""kick them out of bed.""",0.05805732682347298,0.13193604350090027,0.8100066781044006,neutral,-0.07387872040271759
+118,2017-03-09 07:24:00,But another aspect is that Marc Benioff is still playing to win -- especially after the MSFT-LNKD coup (see my video SaaSy B2B Sales Are in the Clouds for the story there).,0.2448483109474182,0.02053847722709179,0.7346131801605225,neutral,0.22430983185768127
+119,2017-03-09 07:24:00,And so he keeps innovating and endearing his embedded software to his blue-chip enterprise clients.,0.27833956480026245,0.0080974530428648,0.7135629653930664,neutral,0.2702421247959137
+120,2017-03-09 07:24:00,"Here was the latest headline from February as they formally rolled-out the live version of the project they beta-launched in October...
+
+Then, this week on March 6 came this announcement of a partnership...
+
+IBM and Salesforce today announced a global strategic partnership to deliver joint solutions designed to leverage artificial intelligence and enable companies to make smarter decisions, faster than ever before.",0.8684159517288208,0.013028822839260101,0.11855518817901611,positive,0.8553871512413025
+121,2017-03-09 07:24:00,"With the partnership, IBM Watson, the leading AI platform for business, and Salesforce Einstein, AI that powers the world's #1 CRM, will seamlessly connect to enable an entirely new level of intelligent customer engagement across sales, service, marketing, commerce and more.",0.8864562511444092,0.015933766961097717,0.09760994464159012,positive,0.8705224990844727
+122,2017-03-09 07:24:00,IBM is also strategically investing in its Global Business Services capabilities for Salesforce with a new practice to help clients rapidly deploy the combined IBM Watson and Salesforce Einstein capabilities.,0.8789638876914978,0.012927684001624584,0.10810839384794235,positive,0.8660361766815186
+123,2017-03-09 07:24:00,"The partnership will bring new insights from Watson directly into the Salesforce Intelligent Customer Success Platform, combining deep customer insights from Salesforce Einstein with Watson's structured and unstructured data across many sources and industries including weather, healthcare, financial services and retail.",0.7282900810241699,0.011735726147890091,0.2599741518497467,positive,0.7165543437004089
+124,2017-03-09 07:24:00,"Together, Watson and Einstein will ingest, reason over and derive recommendations to accelerate decision making and drive greater customer success.",0.6014840602874756,0.010823068208992481,0.387692928314209,positive,0.5906609892845154
+125,2017-03-09 07:24:00,"In addition, IBM put a wolf on the prowl...
+
+""Bluewolf Dedicated Consulting Services and Expertise for Cognitive Solutions, Adding to IBM Strategic Services for Salesforce: Bluewolf, an IBM company, has formed a new practice to help clients rapidly deploy the combined IBM Watson and Salesforce Einstein capabilities.",0.8047827482223511,0.012092296034097672,0.18312501907348633,positive,0.7926904559135437
+126,2017-03-09 07:24:00,This new unit capitalizes on Bluewolf's over fifteen years of Salesforce implementations and their current portfolio of multiple Salesforce and Watson projects.,0.5894928574562073,0.00891952309757471,0.401587575674057,positive,0.580573320388794
+127,2017-03-09 07:24:00,"Bluewolf will also develop new industry-specific accelerators used by enterprise clients to accelerate adoption of cognitive applications.""",0.6367791891098022,0.010874705389142036,0.3523460924625397,positive,0.6259045004844666
+128,2017-03-09 07:24:00,The brand that is IBM stands for persistent technological innovation and brain power.,0.6699056625366211,0.012141360901296139,0.31795305013656616,positive,0.6577643156051636
+129,2017-03-09 07:24:00,"Under Ginni Rometty's leadership, the old mainframe maker continues to reinvent.",0.7559300065040588,0.011687361635267735,0.232382670044899,positive,0.7442426681518555
+130,2017-03-09 07:24:00,"And we haven't even talked about how they make cloud technologies accessible to companies outside the Fortune 1,000 with Bluemix, an app design and development platform.",0.06487710773944855,0.00876341201364994,0.9263594150543213,neutral,0.056113697588443756
+131,2017-03-09 07:24:00,"Coincidentally, IBM just held their Investor Briefing this week and analysts came away mostly positive on the transition from legacy products and services to higher-margin growth areas in Watson strategic initiatives.",0.799082338809967,0.029534611850976944,0.1713830828666687,positive,0.769547700881958
+132,2017-03-09 07:24:00,Wells Fargo raised their valuation range on shares to $175-$185 from $160-$170.,0.8690943121910095,0.01768665201961994,0.1132190078496933,positive,0.8514076471328735
+133,2017-03-09 07:24:00,"I would accumulate these stocks in these ranges:
+
+NVDA: $85 to $95 (despite the rich valuation at 32X forward estimates, my call is that we'll see new highs of ""$125 Before $75"")
+
+CRM: $77 to $82 (Morgan Stanley raised their PT to $107, Wedbush to $102, and Cowen & Co. and Stifel both to $100)
+
+IBM: $165 to $175 (this stock won't run away from you; it simply makes big swings that are fairly predictable)
+
+Disclosure: I own NVDA and CRM for the Zacks TAZR Trader service.",0.01605384424328804,0.010553887113928795,0.9733922481536865,neutral,0.005499957129359245
+134,2017-03-09 07:24:00,"Now See Our Private Investment Ideas
+
+While the above ideas are being shared with the public, other trades are hidden from everyone but selected members.",0.024216603487730026,0.010371051728725433,0.9654123783111572,neutral,0.013845551759004593
+135,2017-03-09 07:24:00,Would you like to peek behind the curtain and view them?,0.06547963619232178,0.024546610191464424,0.9099738001823425,neutral,0.0409330278635025
+136,2017-03-09 07:24:00,"Starting today, for the next month, you can follow all Zacks' private buys and sells in real time from value to momentum... from stocks under $10 to ETF and option moves... from insider trades to companies that are about to report positive earnings surprises (we've called them with 80%+ accuracy).",0.03567007556557655,0.009563221596181393,0.9547666907310486,neutral,0.026106853038072586
+137,2017-03-09 07:24:00,You can even look inside portfolios so exclusive that they are normally closed to new investors.,0.033622223883867264,0.020773902535438538,0.9456038475036621,neutral,0.012848321348428726
+138,2017-03-09 07:24:00,"Click here for Zacks' secret trades >>
+
+Want the latest recommendations from Zacks Investment Research?",0.020295871421694756,0.013826606795191765,0.9658775925636292,neutral,0.006469264626502991
+139,2017-03-09 07:24:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+140,2017-03-09 07:24:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+141,2017-03-09 07:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

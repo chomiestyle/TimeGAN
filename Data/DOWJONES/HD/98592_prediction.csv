@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-02 22:36:00,"Among the underlying components of the S&P 500 index, we saw noteworthy options trading volume today in Home Depot Inc (Symbol: HD), where a total of 23,159 contracts have traded so far, representing approximately 2.3 million underlying shares.",0.3021683096885681,0.027206964790821075,0.6706247329711914,neutral,0.27496135234832764
+1,2017-01-02 22:36:00,That amounts to about 49.2% of HD's average daily trading volume over the past month of 4.7 million shares.,0.01965927891433239,0.009386192075908184,0.9709544777870178,neutral,0.010273086838424206
+2,2017-01-02 22:36:00,"Especially high volume was seen for the $140 strike call option expiring January 20, 2017 , with 6,063 contracts trading so far today, representing approximately 606,300 underlying shares of HD.",0.27678313851356506,0.011783731169998646,0.7114331722259521,neutral,0.2649994194507599
+3,2017-01-02 22:36:00,"Below is a chart showing HD's trailing twelve month trading history, with the $140 strike highlighted in orange:
+
+Marathon Petroleum Corp. (Symbol: MPC) options are showing a volume of 23,268 contracts thus far today.",0.028640948235988617,0.02612786740064621,0.9452311396598816,neutral,0.0025130808353424072
+4,2017-01-02 22:36:00,"That number of contracts represents approximately 2.3 million underlying shares, working out to a sizeable 45.9% of MPC's average daily trading volume over the past month, of 5.1 million shares.",0.12466451525688171,0.00941084697842598,0.8659246563911438,neutral,0.11525367200374603
+5,2017-01-02 22:36:00,"Especially high volume was seen for the $52.50 strike put option expiring April 21, 2017 , with 7,276 contracts trading so far today, representing approximately 727,600 underlying shares of MPC.",0.22931866347789764,0.011367745697498322,0.7593135833740234,neutral,0.21795091032981873
+6,2017-01-02 22:36:00,"Below is a chart showing MPC's trailing twelve month trading history, with the $52.50 strike highlighted in orange:
+
+And Skyworks Solutions, Inc. (Symbol: SWKS) saw options trading volume of 8,780 contracts, representing approximately 878,000 underlying shares or approximately 43.2% of SWKS's average daily trading volume over the past month, of 2.0 million shares.",0.01823721081018448,0.015091454610228539,0.9666714072227478,neutral,0.0031457561999559402
+7,2017-01-02 22:36:00,"Particularly high volume was seen for the $75 strike put option expiring February 17, 2017 , with 3,208 contracts trading so far today, representing approximately 320,800 underlying shares of SWKS.",0.23276883363723755,0.010518712922930717,0.7567123770713806,neutral,0.22225011885166168
+8,2017-01-02 22:36:00,"Below is a chart showing SWKS's trailing twelve month trading history, with the $75 strike highlighted in orange:
+
+For the various different available expirations for HD options , MPC options , or SWKS options , visit StockOptionsChannel.com.",0.009764602407813072,0.02713807113468647,0.9630973935127258,neutral,-0.017373468726873398
+9,2017-01-02 22:36:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-09 14:12:31,"If you only have a certain amount of money to invest, don’t be thrown off by high-priced stocks.",0.11640366911888123,0.04616840183734894,0.8374279737472534,neutral,0.07023526728153229
+1,2020-10-09 14:12:31,"Bear in mind, there’s a difference between high-priced and expensive.",0.08366841077804565,0.018413297832012177,0.8979183435440063,neutral,0.06525511294603348
+2,2020-10-09 14:12:31,"The former simply means the stock may trade at a three- or four-digit price, rather than a single- or double-digit price.",0.03485831990838051,0.013865811750292778,0.9512758255004883,neutral,0.02099250815808773
+3,2020-10-09 14:12:31,Expensive stocks are those trading at sky-high valuations with little to support them other than momentum.,0.03306864574551582,0.03452286496758461,0.9324085116386414,neutral,-0.0014542192220687866
+4,2020-10-09 14:12:31,The goal is to buy the best companies out there right now.,0.29715046286582947,0.00749741867184639,0.6953520774841309,neutral,0.2896530330181122
+5,2020-10-09 14:12:31,"And if they trade at a high price, so be it.",0.07399445027112961,0.01793120987713337,0.9080743193626404,neutral,0.05606324225664139
+6,2020-10-09 14:12:31,"Our stocks to buy today don’t all come with a big price tag, but they all have great growth prospects now and for many quarters to come.",0.5487503409385681,0.010853072628378868,0.44039657711982727,positive,0.5378972887992859
+7,2020-10-09 14:12:31,"Here are 7 growth stocks to buy for less than $1,000:
+
+There’s no big difference between buying a few shares of a high-price stock and many shares of a low-price stock.",0.0339258573949337,0.023050062358379364,0.9430241584777832,neutral,0.010875795036554337
+8,2020-10-09 14:12:31,"If a $1000 stock goes up 20%, it’s the same as the $50 stock going up 20%, assuming the same size investment.",0.2573288679122925,0.014964121393859386,0.7277069687843323,neutral,0.24236474931240082
+9,2020-10-09 14:12:31,You don’t get “more” by having more shares of a lower priced stock.,0.1054145023226738,0.12882235646247864,0.7657631635665894,neutral,-0.02340785413980484
+10,2020-10-09 14:12:31,"Customer resource management, or CRM, was one of those sectors that didn’t really exist before the dotcom era.",0.03059464320540428,0.014252716675400734,0.9551526308059692,neutral,0.016341926530003548
+11,2020-10-09 14:12:31,"Certainly there were programs that helped enterprise level companies manage their sales data, customer information and progress in landing new prospects.",0.20788413286209106,0.006620713975280523,0.7854952216148376,neutral,0.2012634128332138
+12,2020-10-09 14:12:31,But having all of the diverse aspects of CRM in one integrated software platform gave everyone greater growth visibility and management insight.,0.8922110795974731,0.01373288780450821,0.09405604749917984,positive,0.8784781694412231
+13,2020-10-09 14:12:31,That was the magic of Salesforce.com then.,0.10174614191055298,0.028472861275076866,0.8697810173034668,neutral,0.07327327877283096
+14,2020-10-09 14:12:31,Now its platform is cloud-based.,0.03000940941274166,0.005648197140544653,0.9643423557281494,neutral,0.02436121180653572
+15,2020-10-09 14:12:31,"Revenue is recurring, since billing is now far more regular than back in the day when software companies only sold new versions.",0.09816618263721466,0.1197170838713646,0.7821166515350342,neutral,-0.021550901234149933
+16,2020-10-09 14:12:31,"Salesforce.com has been a pioneer of CRM, hence its ticker.",0.4457222819328308,0.009147167205810547,0.5451306104660034,neutral,0.43657511472702026
+17,2020-10-09 14:12:31,And it continues to be a major player in the industry.,0.6978390216827393,0.0112123629078269,0.2909485995769501,positive,0.686626672744751
+18,2020-10-09 14:12:31,"Now that many workers are working from home, need for CRM resources has only grown.",0.07441964000463486,0.7817622423171997,0.1438181847333908,negative,-0.7073426246643066
+19,2020-10-09 14:12:31,"The stock is up 77% in the past 12 months, and it’s still on a strong growth track.",0.9465910792350769,0.017700543627142906,0.03570830449461937,positive,0.9288905262947083
+20,2020-10-09 14:12:31,Certainly Amazon (NASDAQ:AMZN) and eBay (NASDAQ:EBAY) have filled a need for shoppers not interested in heading to the store during this pandemic.,0.09540727734565735,0.6565190553665161,0.24807363748550415,negative,-0.5611118078231812
+21,2020-10-09 14:12:31,ETSY has thrived as well.,0.9309062957763672,0.0144602470099926,0.054633356630802155,positive,0.9164460301399231
+22,2020-10-09 14:12:31,"While brick and mortar boutiques have suffered in towns and cities across the U.S., ETSY has become the online substitute for those boutiques, selling handmade, unique merchandise.",0.12369733303785324,0.08013087511062622,0.7961718440055847,neutral,0.04356645792722702
+23,2020-10-09 14:12:31,But the company also takes it one step further.,0.8322394490242004,0.013865995220839977,0.15389461815357208,positive,0.818373441696167
+24,2020-10-09 14:12:31,"Since it knows that many of its clients are more artists than business people, and they don’t have a marketing department powering their page or approach, ETSY helps these merchants sell on the site.",0.025667747482657433,0.012677980586886406,0.9616542458534241,neutral,0.012989766895771027
+25,2020-10-09 14:12:31,"The more successful their merchants are, the more successful ETSY is.",0.8098189234733582,0.012460271827876568,0.177720844745636,positive,0.7973586320877075
+26,2020-10-09 14:12:31,That’s a unique twist to the business model that has benefited buyers and sellers.,0.8575621843338013,0.01372965332120657,0.12870821356773376,positive,0.8438325524330139
+27,2020-10-09 14:12:31,And ETSY shareholders.,0.018778236582875252,0.01040590088814497,0.9708158373832703,neutral,0.008372335694730282
+28,2020-10-09 14:12:31,"The stock is up 147% in the past year, and growth will continue as competition loses traction and the company holds its new customer base.",0.9322890043258667,0.039390865713357925,0.028320027515292168,positive,0.8928981423377991
+29,2020-10-09 14:12:31,"You’ve likely heard the old saying that those who made the most money during the gold rush weren’t the prospectors, but the store owners that sold them the picks and shovels.",0.04513811692595482,0.031159672886133194,0.9237021803855896,neutral,0.013978444039821625
+30,2020-10-09 14:12:31,"Well in modern times, QDEL is one of those pick-and-shovel companies.",0.09527108073234558,0.007931586354970932,0.8967972993850708,neutral,0.08733949065208435
+31,2020-10-09 14:12:31,It doesn’t make drugs but rather testing equipment.,0.013405999168753624,0.010780125856399536,0.9758138060569763,neutral,0.002625873312354088
+32,2020-10-09 14:12:31,This company has been around since 1979 and is a leader in diagnostic equipment.,0.47340747714042664,0.008929022587835789,0.5176635384559631,neutral,0.464478462934494
+33,2020-10-09 14:12:31,You can imagine being a testing company as the pandemic drags on.,0.02469850704073906,0.03998588025569916,0.9353156089782715,neutral,-0.015287373214960098
+34,2020-10-09 14:12:31,"This is one of the most important aspects of corralling the virus and stopping its spread, especially as infection numbers continue to climb.",0.4552685022354126,0.023560652509331703,0.5211708545684814,neutral,0.43170785903930664
+35,2020-10-09 14:12:31,It has certainly benefitted from the initial outbreak and the rally in drug stocks.,0.9462582468986511,0.017354071140289307,0.036387715488672256,positive,0.9289041757583618
+36,2020-10-09 14:12:31,"And it’s a smaller, more focused player than its competitors, so growth has been more significant.",0.877806544303894,0.015365412458777428,0.10682807117700577,positive,0.8624411225318909
+37,2020-10-09 14:12:31,"Right now, the stock is up a whopping 388% in the past year, yet it’s still trading at 77 times P/E.",0.8562048673629761,0.020391229540109634,0.12340390682220459,positive,0.8358136415481567
+38,2020-10-09 14:12:31,"That’s quite high, but there are many in this sector that are much higher.",0.11367364227771759,0.013885971158742905,0.8724403381347656,neutral,0.09978766739368439
+39,2020-10-09 14:12:31,And there’s plenty of growth left for this sector.,0.6074188947677612,0.01269958820194006,0.37988147139549255,positive,0.5947192907333374
+40,2020-10-09 14:12:31,"Another niche pick-and-shovel company, SLP conducts drug research for pharmaceutical and biotech firms.",0.07642808556556702,0.004960447084158659,0.9186114072799683,neutral,0.07146763801574707
+41,2020-10-09 14:12:31,"Nowadays, it costs on average about $2 billion to get a drug through drug trials.",0.05968301743268967,0.01696879230439663,0.9233481884002686,neutral,0.04271422326564789
+42,2020-10-09 14:12:31,That means you want to do everything right from the start to increase your chances of getting it through.,0.7183057069778442,0.014987223781645298,0.26670709252357483,positive,0.7033184766769409
+43,2020-10-09 14:12:31,It also means that drug companies have found that making money selling drugs and finding new candidates is what helps drive revenue; trials are best left to someone who is good at that.,0.36135372519493103,0.01399703323841095,0.6246492266654968,neutral,0.3473566770553589
+44,2020-10-09 14:12:31,"There are other firms in this sector, and pre-pandemic SLP was a small cap in the space.",0.03156987950205803,0.015230887569487095,0.9531992673873901,neutral,0.01633899286389351
+45,2020-10-09 14:12:31,"It still only has a market cap of $1.2 billion, but this is a niche that has been growing for many years.",0.36820676922798157,0.009960165247321129,0.621833086013794,neutral,0.3582465946674347
+46,2020-10-09 14:12:31,"This is a new age in drug discovery, so there will be plenty of business for many years to come for SLP.",0.633267879486084,0.009688234888017178,0.35704392194747925,positive,0.6235796213150024
+47,2020-10-09 14:12:31,The stock is up 128% in the past year but has real long-term growth potential.,0.9381248950958252,0.017937706783413887,0.04393739253282547,positive,0.9201871752738953
+48,2020-10-09 14:12:31,Going to the post office in the digital age was becoming a bit nostalgic.,0.08432622253894806,0.07273757457733154,0.8429362177848816,neutral,0.011588647961616516
+49,2020-10-09 14:12:31,Going in the era of COVID-19 is a trip most will avoid at all costs.,0.0675187036395073,0.029107848182320595,0.9033734202384949,neutral,0.03841085731983185
+50,2020-10-09 14:12:31,"That has been paying off for STMP, which has been selling digital postage for 24 years now.",0.842361330986023,0.013603328727185726,0.14403538405895233,positive,0.8287580013275146
+51,2020-10-09 14:12:31,Initially its client base was commercial businesses that used a lot of postage regularly.,0.01703687757253647,0.008929720148444176,0.9740333557128906,neutral,0.008107157424092293
+52,2020-10-09 14:12:31,Its home division wasn’t that big.,0.039219096302986145,0.055212050676345825,0.9055688977241516,neutral,-0.01599295437335968
+53,2020-10-09 14:12:31,"But now that workers are in home offices and post offices are one more place to avoid, STMP is becoming the go-to option.",0.06088940426707268,0.14909176528453827,0.7900188565254211,neutral,-0.08820235729217529
+54,2020-10-09 14:12:31,And this dynamic isn’t likely to change once the pandemic eases.,0.04317159205675125,0.030127061530947685,0.9267013072967529,neutral,0.013044530525803566
+55,2020-10-09 14:12:31,"The stock is up 257% in the past year, yet it still trades at a decent PE of 50.",0.9221978783607483,0.023162811994552612,0.05463939160108566,positive,0.8990350961685181
+56,2020-10-09 14:12:31,The tech bull continues to charge.,0.1150294616818428,0.4333394467830658,0.451631098985672,neutral,-0.3183099925518036
+57,2020-10-09 14:12:31,And that means computers and mobile devices will remain in demand.,0.612889289855957,0.013106051832437515,0.3740047514438629,positive,0.5997832417488098
+58,2020-10-09 14:12:31,"That’s good news for UMC, a Taiwan-based semiconductor foundry.",0.920850396156311,0.01538538746535778,0.0637643039226532,positive,0.9054650068283081
+59,2020-10-09 14:12:31,"Its not as big as Taiwan Semiconductor (NYSE:TSM), but it’s still a major player.",0.5131433606147766,0.010706041008234024,0.4761505722999573,positive,0.5024372935295105
+60,2020-10-09 14:12:31,"And as tech demand grows, so will the fortunes of UMC.",0.552036702632904,0.01219666376709938,0.43576672673225403,positive,0.539840042591095
+61,2020-10-09 14:12:31,"It has 11 manufacturing facilities worldwide, with factories in Singapore and China, two strategically important places in Asia for future growth.",0.29240888357162476,0.010797198861837387,0.6967939138412476,neutral,0.28161168098449707
+62,2020-10-09 14:12:31,"The company has been around since 1980, so it has seen its share of sector booms and busts and knows how to roll with the punches.",0.31395742297172546,0.009058831259608269,0.6769837141036987,neutral,0.30489858984947205
+63,2020-10-09 14:12:31,"The stock is up 165% in the past 12 months, yet still trades at a PE of 47.",0.9369791150093079,0.019992850720882416,0.043028105050325394,positive,0.9169862866401672
+64,2020-10-09 14:12:31,Remember when realtors realized that working for the buyer might be a good idea and started the concept of buyer’s agents?,0.0682440772652626,0.010727017186582088,0.9210289120674133,neutral,0.05751705914735794
+65,2020-10-09 14:12:31,Or when brokerages realized helping their client was better than selling off the brokerage’s inventory?,0.2701883614063263,0.22038452327251434,0.5094271302223206,neutral,0.04980383813381195
+66,2020-10-09 14:12:31,"Well, GSHD is doing the same thing for the insurance industry.",0.10277349501848221,0.0058584087528288364,0.8913680911064148,neutral,0.09691508859395981
+67,2020-10-09 14:12:31,Its agents represent clients rather than the insurance company.,0.011114994063973427,0.013642747886478901,0.9752423167228699,neutral,-0.002527753822505474
+68,2020-10-09 14:12:31,That means they can offer over 80 different brands of insurance and create a more customized package for their clients.,0.42551618814468384,0.008659395389258862,0.5658243894577026,neutral,0.4168567955493927
+69,2020-10-09 14:12:31,It’s a model that is gaining some attention.,0.3251609206199646,0.010469989851117134,0.6643691062927246,neutral,0.3146909177303314
+70,2020-10-09 14:12:31,The stock is up 92% in the past year as business grows and its corporate footprint expands.,0.9533566236495972,0.01994910277426243,0.026694266125559807,positive,0.9334075450897217
+71,2020-10-09 14:12:31,"Since 2003, it has built out 1,110 franchise offices.",0.18205596506595612,0.005639700684696436,0.8123043775558472,neutral,0.17641626298427582
+72,2020-10-09 14:12:31,"The combination of a franchise is especially attractive now, as the economy sit in limbo and many workers are looking for alternative employment options.",0.820733368396759,0.027409404516220093,0.15185727179050446,positive,0.7933239936828613
+73,2020-10-09 14:12:31,"Plus, going after the established players’ customers in the industry is another opportunity for growth.",0.7718356847763062,0.013032902032136917,0.21513143181800842,positive,0.7588027715682983
+74,2020-10-09 14:12:31,"The stock is 92% in the past year, and while its P/E is high, it’s in a new growth phase right now, so it’s not a significant issue.",0.4588855803012848,0.02115696296095848,0.5199574828147888,neutral,0.437728613615036
+75,2020-10-09 14:12:31,"On the date of publication, Louis Navellier had long positions in ETSY, QDEL, STMP, UMC and GSHD.",0.027023619040846825,0.006720122415572405,0.9662562608718872,neutral,0.020303497090935707
+76,2020-10-09 14:12:31,Louis Navellier did not have (either directly or indirectly) any other positions in the securities mentioned in this article.,0.00864911824464798,0.019323429092764854,0.9720274806022644,neutral,-0.010674310848116875
+77,2020-10-09 14:12:31,The InvestorPlace Research Staff member primarily responsible for this article did not hold (either directly or indirectly) any positions in the securities mentioned in this article.,0.008563729003071785,0.023910580202937126,0.9675256609916687,neutral,-0.015346851199865341
+78,2020-10-09 14:12:31,"• None Why Everyone Is Investing in 5G All WRONG
+• None Revolutionary Tech Behind 5G Rollout Is Being Pioneered By This 1 Company
+
+The post The 7 Best Growth Stocks To Buy For Less Than $1000 appeared first on InvestorPlace.",0.2152932733297348,0.04681847617030144,0.7378882169723511,neutral,0.16847479343414307

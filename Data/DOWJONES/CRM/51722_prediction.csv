@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-20 23:06:00,"Following another weak day of trading Friday, Apple AAPL dropped below the dreaded ""-20% from new highs"" threshold and entered its own bear market.",0.04452178627252579,0.9404190182685852,0.015059162862598896,negative,-0.8958972096443176
+1,2015-12-20 23:06:00,"The stock is now down about 1.3% on the year, a rare sight for investors who have grown accustom to a company which has grown by an average of 28% each year over the last decade.",0.01951599307358265,0.9668229222297668,0.013661134988069534,negative,-0.9473069310188293
+2,2015-12-20 23:06:00,"Luckily, the end of 2015 is near and Apple's rough year is almost over.",0.15392057597637177,0.4456799626350403,0.40039950609207153,negative,-0.2917593717575073
+3,2015-12-20 23:06:00,"However, it is important for Apple to shake things up in 2016 if it wants to avoid the same fate.",0.2461804300546646,0.0846468061208725,0.6691727638244629,neutral,0.16153362393379211
+4,2015-12-20 23:06:00,But what options does the company have?,0.02199692651629448,0.015008517540991306,0.9629945755004883,neutral,0.006988408975303173
+5,2015-12-20 23:06:00,We'll explore three ways that Apple might be able to turn its performance around in the New Year below.,0.6755792498588562,0.011882169172167778,0.3125385642051697,positive,0.6636970639228821
+6,2015-12-20 23:06:00,"One would certainly be hard pressed to say that Apple has a hard time ""admitting its failures,"" simply because the company has so few.",0.05259730666875839,0.7271356582641602,0.22026707231998444,negative,-0.6745383739471436
+7,2015-12-20 23:06:00,"However, it does seem like Apple takes pride in its innovative culture and would not be quick to admit that one of its products flopped.",0.08593172580003738,0.06757757812738419,0.846490740776062,neutral,0.018354147672653198
+8,2015-12-20 23:06:00,And by now we know that the Apple Watch totally flopped.,0.10915692150592804,0.2025635838508606,0.6882795691490173,neutral,-0.09340666234493256
+9,2015-12-20 23:06:00,"If you watched the 60 Minutes special about Apple last night, you may have noticed a rather awkward moment between Charlie Rose and Tim Cook when Rose brought up the Apple Watch.",0.07834812253713608,0.3882908821105957,0.53336101770401,neutral,-0.30994275212287903
+10,2015-12-20 23:06:00,"While Rose was careful not to proclaim it as a flop himself, he did question whether the product needed ""improvement.""",0.5597987771034241,0.07225562632083893,0.3679455518722534,positive,0.48754316568374634
+11,2015-12-20 23:06:00,Cook casually avoided the question.,0.16486111283302307,0.2725867033004761,0.5625522136688232,neutral,-0.107725590467453
+12,2015-12-20 23:06:00,"So, the first thing Apple can do in 2016 is to move on from the Apple Watch.",0.1675153225660324,0.008341178297996521,0.8241434693336487,neutral,0.1591741442680359
+13,2015-12-20 23:06:00,Its sales have absolutely plummeted since its launch and it seems like too much of a niche product to have a serious impact.,0.021982109174132347,0.9035215973854065,0.07449629157781601,negative,-0.8815394639968872
+14,2015-12-20 23:06:00,"Apple needs to focus on roping in new customers that don't already have iPhones, and the Watch is just not the product to do that.",0.161012664437294,0.04586055502295494,0.7931268215179443,neutral,0.11515210568904877
+15,2015-12-20 23:06:00,"According to Bloomberg , Apple is hoping to launch its over-the-top TV subscription service in 2016.",0.32770228385925293,0.008397852070629597,0.6638998985290527,neutral,0.3193044364452362
+16,2015-12-20 23:06:00,This has been rumored for a long time and it looks like we will finally be getting this service soon.,0.4650398790836334,0.009692389518022537,0.5252677202224731,neutral,0.45534747838974
+17,2015-12-20 23:06:00,"With its brand name, Apple should be able to soar to the top of the streaming world and compete with the likes of Netflix NFLX and Amazon AMZN .",0.9231846928596497,0.016474811360239983,0.06034054979681969,positive,0.9067099094390869
+18,2015-12-20 23:06:00,A subscription-based streaming service is a type of product that can appeal to non-Apple customers.,0.09739848971366882,0.005031694192439318,0.8975698351860046,neutral,0.0923667922616005
+19,2015-12-20 23:06:00,"As more and more people ""cut the cord,"" over-the-top services will continue to grow.",0.7687007188796997,0.022920172661542892,0.2083791047334671,positive,0.7457805275917053
+20,2015-12-20 23:06:00,"And based on the quality of what Apple typically releases, this service will probably function very well.",0.39314961433410645,0.008299549110233784,0.5985508561134338,neutral,0.38485005497932434
+21,2015-12-20 23:06:00,"Also read:The Revolution Will Not Be Televised: The Death of Cable in America
+
+If Apple has a product that can appeal to these people, who may or may not own any Apple products, it can make them first time Apple customers through the streaming service.",0.22974807024002075,0.020437486469745636,0.7498143911361694,neutral,0.2093105912208557
+22,2015-12-20 23:06:00,First time customers can quickly become diehard customers.,0.1819169670343399,0.019956056028604507,0.7981269359588623,neutral,0.1619609147310257
+23,2015-12-20 23:06:00,"This is much more effective than a product like the Apple Watch, which really only works for people that already have iPhones.",0.13557814061641693,0.014424239285290241,0.8499976396560669,neutral,0.12115389853715897
+24,2015-12-20 23:06:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+25,2015-12-20 23:06:00,"Get in the Cloud
+
+One of the worst things about Apple's weak year is that its massive tech rivals didn't suffer the same fate.",0.024479471147060394,0.935727596282959,0.03979292884469032,negative,-0.9112481474876404
+26,2015-12-20 23:06:00,"However, the big tech winners-known as ""MAGS,"" or Microsoft MSFT , Amazon, Google GOOGL , and Salesforce CRM -are all putting an emphasis on cloud computing at the enterprise level.",0.13003534078598022,0.011000130325555801,0.8589645028114319,neutral,0.11903521418571472
+27,2015-12-20 23:06:00,"Apple has great cloud technology and individual Apple users can utilize this with their iPhone, iPads, and Macs, but the company has always made enterprise a secondary concern.",0.08493510633707047,0.014667462557554245,0.9003974795341492,neutral,0.07026764750480652
+28,2015-12-20 23:06:00,"With cloud computing dominating at the enterprise level, it now seems foolish that Apple isn't in the ring with the other big players.",0.04007619619369507,0.2966150641441345,0.6633087396621704,neutral,-0.25653886795043945
+29,2015-12-20 23:06:00,"With so many people in the business world using Apple products for personal use, it doesn't seem like the transition would be all that rough.",0.04224584996700287,0.05360076203942299,0.9041533470153809,neutral,-0.01135491207242012
+30,2015-12-20 23:06:00,This could be a big new market for Apple.,0.6497942805290222,0.01462535560131073,0.33558037877082825,positive,0.6351689100265503
+31,2015-12-20 23:06:00,"Since its earliest inception, Apple has always been shaking things up.",0.06633754819631577,0.7759584784507751,0.15770398080348969,negative,-0.7096209526062012
+32,2015-12-20 23:06:00,This mentality has fueled the company's consistent growth and made it the number one brand that it is today.,0.8884750008583069,0.014449145644903183,0.09707581251859665,positive,0.8740258812904358
+33,2015-12-20 23:06:00,"With that said, Apple cannot to be stagnant now.",0.05034656077623367,0.43296942114830017,0.5166840553283691,neutral,-0.3826228678226471
+34,2015-12-20 23:06:00,"The stock has had a weak year, and if Apple wants to bounce back it needs to innovate again.",0.7307767271995544,0.14057748019695282,0.12864583730697632,positive,0.5901992321014404
+35,2015-12-20 23:06:00,"Currently, Apple has a Zacks Rank #3 (Hold).",0.03218208625912666,0.02455066330730915,0.943267285823822,neutral,0.0076314229518175125
+36,2015-12-20 23:06:00,"Based on current estimates, we expect Apple to see earnings growth of about 6.5% in its fiscal 2016.",0.9328510761260986,0.013705328106880188,0.05344366282224655,positive,0.9191457629203796
+37,2015-12-20 23:06:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+38,2015-12-20 23:06:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+39,2015-12-20 23:06:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+40,2015-12-20 23:06:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+41,2015-12-20 23:06:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+42,2015-12-20 23:06:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

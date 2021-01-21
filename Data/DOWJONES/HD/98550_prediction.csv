@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-23 07:12:00,"In early trading on Monday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.9357056617736816,0.03408580645918846,0.030208492651581764,positive,0.9016198515892029
+1,2017-01-23 07:12:00,"Year to date, Home Depot registers a 2.1% gain.",0.9434607625007629,0.02734985761344433,0.029189404100179672,positive,0.9161109328269958
+2,2017-01-23 07:12:00,"And the worst performing Dow component thus far on the day is General Electric ( GE ), trading down 1.1%.",0.020870212465524673,0.9648392796516418,0.01429053395986557,negative,-0.9439690709114075
+3,2017-01-23 07:12:00,General Electric is lower by about 4.5% looking at the year to date performance.,0.020948057994246483,0.9652257561683655,0.013826167210936546,negative,-0.9442777037620544
+4,2017-01-23 07:12:00,"Two other components making moves today are McDonald's ( MCD ), trading down 0.9%, and Apple ( AAPL ), trading up 0.3% on the day.",0.031253404915332794,0.9407056570053101,0.028040966019034386,negative,-0.9094522595405579
+5,2017-01-23 07:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

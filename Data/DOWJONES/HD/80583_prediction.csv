@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-24 08:04:00,"There are about 2,153 billionaires in the world, according to a report from Forbes earlier this year.",0.035276129841804504,0.013184422627091408,0.9515394568443298,neutral,0.022091707214713097
+1,2019-11-24 08:04:00,"The U.S. is home to the greatest number of them -- more than 700 -- while 13 countries have only one, per BusinessInsider.",0.06297128647565842,0.020702214911580086,0.9163264632225037,neutral,0.04226907342672348
+2,2019-11-24 08:04:00,"If you'd like to join that elite group, you're probably going to have to increase your net worth by a lot.",0.8764182329177856,0.014710537157952785,0.10887125134468079,positive,0.8617076873779297
+3,2019-11-24 08:04:00,You might want to try using some strategies that billionaires themselves use.,0.038070034235715866,0.007384824566543102,0.9545451998710632,neutral,0.03068520873785019
+4,2019-11-24 08:04:00,Five of them are below -- see how many you might be able to act on.,0.039298199117183685,0.011072906665503979,0.9496289491653442,neutral,0.028225291520357132
+5,2019-11-24 08:04:00,"Even if you don't attain billionaire-hood, you'll likely strengthen your financial security.",0.9217202067375183,0.01644320972263813,0.06183655932545662,positive,0.9052770137786865
+6,2019-11-24 08:04:00,"This is an extremely powerful strategy, but only the young can really make the most of it.",0.34917452931404114,0.010314656421542168,0.6405108571052551,neutral,0.338859885931015
+7,2019-11-24 08:04:00,"For example, if you're 20 now and hope to retire at 60, you can amass more than $1 million over 40 years if you just save and invest $5,000 annually.",0.10344884544610977,0.01030408963561058,0.8862470388412476,neutral,0.09314475953578949
+8,2019-11-24 08:04:00,"Even if you have only a decade or two until you hope to retire, you can amass a meaningful sum.",0.1376928836107254,0.006534935906529427,0.8557722568511963,neutral,0.13115794956684113
+9,2019-11-24 08:04:00,"Check out the table below:
+
+Next, be sure that you're not ignoring stocks as you save and invest money for retirement.",0.06206419691443443,0.07355766743421555,0.8643780946731567,neutral,-0.011493470519781113
+10,2019-11-24 08:04:00,"The table below illustrates why: because over long periods, stocks tend to significantly outperform most alternatives.",0.7155641317367554,0.20179685950279236,0.08263905346393585,positive,0.5137672424316406
+11,2019-11-24 08:04:00,"This table offers some specifics, via the research of Wharton Business School professor Jeremy Siegel.",0.015955664217472076,0.009230696596205235,0.97481369972229,neutral,0.006724967621266842
+12,2019-11-24 08:04:00,"He calculated the annualized returns for stocks, bonds, bills, gold, and the dollar between 1802 and 2012.",0.020281799137592316,0.009293364360928535,0.9704247713088989,neutral,0.01098843477666378
+13,2019-11-24 08:04:00,Data source: Stocks for the Long Run by Jeremy Siegel.,0.04041772335767746,0.03470137342810631,0.9248809218406677,neutral,0.005716349929571152
+14,2019-11-24 08:04:00,"Even in more recent years, stocks have outperformed, with an annualized growth rate of 9.6% between 1926 and 2012 that also topped bonds and gold.",0.5607132911682129,0.3834550678730011,0.05583168566226959,positive,0.1772582232952118
+15,2019-11-24 08:04:00,"Indeed, Siegel's research found stocks outperforming bonds in 96% of all 20-year holding periods between 1871 and 2012, and in 99% of all 30-year holding periods.",0.5112844109535217,0.45196694135665894,0.03674868121743202,positive,0.05931746959686279
+16,2019-11-24 08:04:00,"You can invest in stocks very easily, just by snapping up shares of a low-fee broad-market index fund, such as one that tracks the S&P 500.",0.1550920605659485,0.014505088329315186,0.8304027915000916,neutral,0.1405869722366333
+17,2019-11-24 08:04:00,"If you want to select some individual stocks on your own, though, consider focusing on dividend-paying stocks.",0.02556704171001911,0.006195827387273312,0.9682371020317078,neutral,0.019371215254068375
+18,2019-11-24 08:04:00,"The beauty of dividend payers is that not only are healthy and growing ones likely to see their share price rise in value over time, but even their dividend payouts are likely to be increased -- often at a rate that at least keeps up with inflation.",0.8976154923439026,0.01756264828145504,0.08482181280851364,positive,0.8800528645515442
+19,2019-11-24 08:04:00,But wait -- there's more!,0.11562290787696838,0.13399863243103027,0.750378429889679,neutral,-0.01837572455406189
+20,2019-11-24 08:04:00,"During market downturns, stock prices may fall or just be stagnant, but healthy dividend payers will keep paying you those dividends.",0.25775769352912903,0.14014536142349243,0.6020969748497009,neutral,0.1176123321056366
+21,2019-11-24 08:04:00,So you can collect some income even during recessions.,0.227467343211174,0.011973491869866848,0.76055908203125,neutral,0.21549385786056519
+22,2019-11-24 08:04:00,"With, say, $300,000 invested in a bunch of dividend-paying stocks featuring an average dividend yield of 4%, you're looking at $12,000 in annual income -- amounting to about $1,000 per month.",0.053736280649900436,0.00787176564335823,0.938391923904419,neutral,0.045864515006542206
+23,2019-11-24 08:04:00,"(Plus, that sum should increase over time.)",0.882368803024292,0.012672679498791695,0.10495856404304504,positive,0.8696961402893066
+24,2019-11-24 08:04:00,"Here are a handful of familiar companies and their recent yields, just to give you an idea of the kinds of yields that are out there:
+
+Keep in mind that some companies with seemingly unexciting yields may be great investments if they're increasing their payouts at a rapid clip.",0.41315758228302,0.013317087665200233,0.5735253691673279,neutral,0.39984050393104553
+25,2019-11-24 08:04:00,And don't think that dividends are only for grandparents and not what billionaires would invest in.,0.021392900496721268,0.009737484157085419,0.9688696265220642,neutral,0.011655416339635849
+26,2019-11-24 08:04:00,"Billionaire investor and corporate executive Warren Buffett, as an example, has chosen many dividend payers such as Bank of America and Coca-Cola for his insurance giant's stock portfolio.",0.15671005845069885,0.00831719022244215,0.8349727392196655,neutral,0.14839287102222443
+27,2019-11-24 08:04:00,"This strategy is a risky one, and it asks a lot of you -- ideally, total concentration and dedication for many years.",0.25072503089904785,0.01321172621101141,0.7360632419586182,neutral,0.23751330375671387
+28,2019-11-24 08:04:00,"But it is a way to reach billionaire-hood, if things work out well.",0.3724730312824249,0.013148801401257515,0.6143781542778015,neutral,0.35932421684265137
+29,2019-11-24 08:04:00,"Here are some companies you may have heard of that began as rather small enterprises, in someone's garage, basement, shed, or college dorm room:
+
+If that's too daunting a strategy, consider a smaller-scale version of it: Get a side gig, making extra money to augment earnings from your primary job.",0.029596680775284767,0.020355910062789917,0.9500474333763123,neutral,0.00924077071249485
+30,2019-11-24 08:04:00,"There are lots of ways to go, such as driving for a ridesharing service; renting out space in your home as with Airbnb; doing freelance writing, editing, design, or photography; tutoring kids; selling crafts online; and so on.",0.037642475217580795,0.00834670104086399,0.9540108442306519,neutral,0.029295774176716805
+31,2019-11-24 08:04:00,"Finally, remember to keep learning.",0.4327453374862671,0.018801352009177208,0.5484533309936523,neutral,0.41394397616386414
+32,2019-11-24 08:04:00,"The more you know, the fewer mistakes you'll likely make with your money, which will allow it to grow faster.",0.8086284399032593,0.013826483860611916,0.17754513025283813,positive,0.7948019504547119
+33,2019-11-24 08:04:00,"You'll also get better at allocating your money, too, and you'll be more comfortable with investment decisions you've made.",0.6729283928871155,0.015120044350624084,0.311951607465744,positive,0.6578083634376526
+34,2019-11-24 08:04:00,Consider acting on a few of the strategies above to get wealthier.,0.15658290684223175,0.005908829625695944,0.8375082015991211,neutral,0.15067407488822937
+35,2019-11-24 08:04:00,"Reaching billionaire status may be a long shot, but for many of us, millionaire-hood is within reach.",0.21141700446605682,0.012607073411345482,0.7759759426116943,neutral,0.1988099366426468
+36,2019-11-24 08:04:00,"The $16,728 Social Security bonus most retirees completely overlook 
+
+If you're like most Americans, you're a few years (or more) behind on your retirement savings.",0.09873557090759277,0.20154371857643127,0.6997206807136536,neutral,-0.1028081476688385
+37,2019-11-24 08:04:00,"But a handful of little-known ""Social Security secrets"" could help ensure a boost in your retirement income.",0.42587700486183167,0.05124306678771973,0.522879958152771,neutral,0.37463393807411194
+38,2019-11-24 08:04:00,"For example: one easy trick could pay you as much as $16,728 more... each year!",0.09068891406059265,0.031686555594205856,0.87762451171875,neutral,0.059002358466386795
+39,2019-11-24 08:04:00,"Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after.",0.35658568143844604,0.011904616840183735,0.6315096616744995,neutral,0.344681054353714
+40,2019-11-24 08:04:00,Simply click here to discover how to learn more about these strategies.,0.04130851849913597,0.009173430502414703,0.9495180249214172,neutral,0.03213508799672127
+41,2019-11-24 08:04:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+42,2019-11-24 08:04:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+43,2019-11-24 08:04:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+44,2019-11-24 08:04:00,"Selena Maranjian owns shares of Alphabet (A shares), Alphabet (C shares), Amazon, Apple, AT&T, Medtronic, Microsoft, Starbucks, Verizon Communications, and Walt Disney.",0.015373035334050655,0.008485700003802776,0.9761413335800171,neutral,0.006887335330247879
+45,2019-11-24 08:04:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), Amazon, Apple, Microsoft, Starbucks, and Walt Disney.",0.021169522777199745,0.00952270906418562,0.9693078398704529,neutral,0.011646813713014126
+46,2019-11-24 08:04:00,The Motley Fool is short shares of Kimberly Clark.,0.03590422123670578,0.696532130241394,0.2675636112689972,negative,-0.6606279015541077
+47,2019-11-24 08:04:00,"The Motley Fool recommends Dominion Energy, Inc, Home Depot, Verizon Communications, and Waste Management and recommends the following options: long January 2020 $150 calls on Apple, short January 2020 $155 calls on Apple, long January 2021 $60 calls on Walt Disney, long January 2021 $120 calls on Home Depot, long January 2021 $85 calls on Microsoft, short February 2020 $205 calls on Home Depot, and short January 2020 $130 calls on Walt Disney.",0.014710656367242336,0.04278504475951195,0.942504346370697,neutral,-0.028074387460947037
+48,2019-11-24 08:04:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

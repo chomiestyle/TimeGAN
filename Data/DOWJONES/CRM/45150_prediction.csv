@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-10 22:50:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Boeing Co. (Symbol: BA), where a total volume of 36,551 contracts has been traded thus far today, a contract volume which is representative of approximately 3.7 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04492467641830444,0.011402628384530544,0.9436727166175842,neutral,0.033522047102451324
+1,2019-02-10 22:50:00,"That number works out to 80.1% of BA's average daily trading volume over the past month, of 4.6 million shares.",0.7484642863273621,0.018654216080904007,0.23288145661354065,positive,0.7298100590705872
+2,2019-02-10 22:50:00,"Especially high volume was seen for the $410 strike call option expiring February 15, 2019 , with 5,955 contracts trading so far today, representing approximately 595,500 underlying shares of BA.",0.2835403084754944,0.011914048343896866,0.7045456767082214,neutral,0.2716262638568878
+3,2019-02-10 22:50:00,"Below is a chart showing BA's trailing twelve month trading history, with the $410 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) saw options trading volume of 36,635 contracts, representing approximately 3.7 million underlying shares or approximately 74.1% of CRM's average daily trading volume over the past month, of 4.9 million shares.",0.018805863335728645,0.013938840478658676,0.9672553539276123,neutral,0.004867022857069969
+4,2019-02-10 22:50:00,"Particularly high volume was seen for the $160 strike call option expiring February 15, 2019 , with 3,656 contracts trading so far today, representing approximately 365,600 underlying shares of CRM.",0.31970399618148804,0.01236294861882925,0.6679329872131348,neutral,0.3073410391807556
+5,2019-02-10 22:50:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+And Alphabet Inc (Symbol: GOOG) saw options trading volume of 9,220 contracts, representing approximately 922,000 underlying shares or approximately 58.2% of GOOG's average daily trading volume over the past month, of 1.6 million shares.",0.017166826874017715,0.015526250004768372,0.9673069715499878,neutral,0.0016405768692493439
+6,2019-02-10 22:50:00,"Especially high volume was seen for the $1150 strike call option expiring February 15, 2019 , with 1,099 contracts trading so far today, representing approximately 109,900 underlying shares of GOOG.",0.1990472674369812,0.010435405187308788,0.7905173301696777,neutral,0.18861186504364014
+7,2019-02-10 22:50:00,"Below is a chart showing GOOG's trailing twelve month trading history, with the $1150 strike highlighted in orange:
+
+For the various different available expirations for BA options , CRM options , or GOOG options , visit StockOptionsChannel.com.",0.010008416138589382,0.034944016486406326,0.955047607421875,neutral,-0.02493559941649437
+8,2019-02-10 22:50:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

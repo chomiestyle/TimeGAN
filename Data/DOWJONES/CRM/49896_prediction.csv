@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-28 07:46:00,"The initial reaction to the election of Donald Trump was to buy, buy, buy the automakers.",0.18741381168365479,0.02321747876703739,0.7893686294555664,neutral,0.16419632732868195
+1,2016-11-28 07:46:00,Shares in Ford Motor Company (NYSE: F ) and General Motors Company (NYSE: GM ) jumped after the results since Trump says he wants an industrial policy that will benefit heavy machinery and car sales.,0.8561535477638245,0.05377456173300743,0.09007184952497482,positive,0.8023790121078491
+2,2016-11-28 07:46:00,But the bulls may be making a mistake .,0.07807140052318573,0.7058701515197754,0.2160584181547165,negative,-0.6277987360954285
+3,2016-11-28 07:46:00,"A trade war would be very, very bad for the automakers .",0.03367125988006592,0.9236013889312744,0.04272732511162758,negative,-0.8899301290512085
+4,2016-11-28 07:46:00,"Even with the recent bull run, both stocks are bargains.",0.557628333568573,0.06843061745166779,0.3739410638809204,positive,0.4891977310180664
+5,2016-11-28 07:46:00,"Ford sells at a price-to-earnings multiple of 6.6, against an S&P 500 average of 18.",0.6479961276054382,0.11696012318134308,0.2350436896085739,positive,0.5310360193252563
+6,2016-11-28 07:46:00,That of GM is even lower - it's below 3.9.,0.028069477528333664,0.8148765563964844,0.15705399215221405,negative,-0.7868070602416992
+7,2016-11-28 07:46:00,Buy the stock today and your earnings could equal the price you pay before the next presidential election.,0.4076083302497864,0.012420120649039745,0.5799715518951416,neutral,0.39518821239471436
+8,2016-11-28 07:46:00,Ford is less an American auto company than a multinational that happens to be based in America.,0.02191196195781231,0.1666332632303238,0.811454713344574,neutral,-0.14472129940986633
+9,2016-11-28 07:46:00,It makes its design and production decisions based on where it can get a competitive advantage.,0.05017402023077011,0.005469182506203651,0.9443567991256714,neutral,0.04470483958721161
+10,2016-11-28 07:46:00,"• The Best Investments for 2017
+
+Ford, which has already invested $2 billion in India, is now building a technology center there that will employ 12,000 people.",0.7024610042572021,0.014126691035926342,0.283412367105484,positive,0.6883342862129211
+11,2016-11-28 07:46:00,Its new EcoSport SUV will be made in India and imported to the U.S. market .,0.13744395971298218,0.005026818718761206,0.8575292229652405,neutral,0.13241714239120483
+12,2016-11-28 07:46:00,Ford's factory in Brazil is producing cars around-the-clock while it is idling four U.S. plants while sales catch up to production of its F-150 truck.,0.4115265905857086,0.02174140140414238,0.5667320489883423,neutral,0.38978520035743713
+13,2016-11-28 07:46:00,The new Ford Bronco is going to be developed in Australia .,0.12057971954345703,0.005363252945244312,0.8740570545196533,neutral,0.115216463804245
+14,2016-11-28 07:46:00,"It is still moving small car production to Mexico , despite Trump's threats to scrap the North American Free Trade Agreement (NAFTA), though they did decide not to move Lincoln MKC production .",0.2426774948835373,0.30609455704689026,0.4512278735637665,neutral,-0.06341706216335297
+15,2016-11-28 07:46:00,"These are the kinds of moves that let Ford beat earnings expectations for its third quarter , earning 26 cents per share while analysts had been expecting 21.",0.8806551694869995,0.026880912482738495,0.09246388077735901,positive,0.8537742495536804
+16,2016-11-28 07:46:00,Revenue came in at $35.9 billion.,0.05224588140845299,0.011274638585746288,0.9364795088768005,neutral,0.040971241891384125
+17,2016-11-28 07:46:00,"To put it in perspective, that's over five times more than Salesforce.com, Inc. (NYSE: CRM ) brought in all of last year.",0.7642785310745239,0.017781641334295273,0.2179398536682129,positive,0.7464969158172607
+18,2016-11-28 07:46:00,"CEO Mark Fields says the company is rushing headlong into a future where it will no longer be a car company, but a ""mobility"" company .",0.32936015725135803,0.01845170557498932,0.6521881222724915,neutral,0.3109084367752075
+19,2016-11-28 07:46:00,"It is using Blackberry Ltd (NASDAQ: BBRY ) in its cars and could easily buy the company, which is worth $4 billion, even while Apple Inc. (NASDAQ: AAPL ) could probably buy Ford itself with seat-cushion money, given its over $200 billion in cash against Ford's market cap of under $48 billion.",0.4848434329032898,0.06839337199926376,0.4467632472515106,positive,0.41645005345344543
+20,2016-11-28 07:46:00,"Ford's future, in short, is not going to wait on Donald Trump.",0.02306296117603779,0.019585348665714264,0.9573516249656677,neutral,0.0034776125103235245
+21,2016-11-28 07:46:00,General Motors is moving even more rapidly into the future.,0.50372314453125,0.0130710294470191,0.4832058548927307,positive,0.4906521141529083
+22,2016-11-28 07:46:00,Its big new U.S. car is a small electric called the Chevrolet Bolt .,0.09665866196155548,0.006981225684285164,0.8963601589202881,neutral,0.08967743813991547
+23,2016-11-28 07:46:00,"It is importing its new Cadillac luxury hybrid, the CT-6, from China and says the Cadillac unit will lead it into the ""self-driving revolution.""",0.8113000988960266,0.012523078359663486,0.1761767715215683,positive,0.7987770438194275
+24,2016-11-28 07:46:00,"GM invested $500 million in Lyft , a ride-hailing service, and then signed a car-sharing deal with rival Uber .",0.8388658165931702,0.013743962161242962,0.14739012718200684,positive,0.8251218795776367
+25,2016-11-28 07:46:00,"Uber drivers will be able to lease GM vehicles, just as Lyft drivers can.",0.3936959207057953,0.009859779849648476,0.5964442491531372,neutral,0.38383615016937256
+26,2016-11-28 07:46:00,"GM even has a deal with International Business Machines Corp. (NYSE: IBM ) to put its Watson system into cars , enabling automated warnings of hazards and voice-based transactions.",0.8872950673103333,0.01615455187857151,0.09655044227838516,positive,0.8711405396461487
+27,2016-11-28 07:46:00,"As to U.S. workers, GM is laying off 2,000 of them in Lordstown, Ohio, and Lansing, Michigan .",0.023002102971076965,0.968166172504425,0.008831754326820374,negative,-0.9451640844345093
+28,2016-11-28 07:46:00,"It is laying off another 160 at a components plant in Kokomo, Indiana .",0.025474710389971733,0.9606426358222961,0.013882574625313282,negative,-0.9351679086685181
+29,2016-11-28 07:46:00,These are the kinds of moves that have turned Morgan Stanley bullish on GM for the first time in years.,0.26583343744277954,0.19671225547790527,0.5374543070793152,neutral,0.06912118196487427
+30,2016-11-28 07:46:00,"GM, like Ford, has only now dug out from under the last recession.",0.15757639706134796,0.295463889837265,0.5469597578048706,neutral,-0.13788749277591705
+31,2016-11-28 07:46:00,"It has operating cash flow of $15 billion in the last 12 months, it is bringing six cents of every dollar in sales to the net income line and it had sales of over $152 billion last year.",0.2835773229598999,0.011042620986700058,0.7053800225257874,neutral,0.27253469824790955
+32,2016-11-28 07:46:00,It is modernizing its asset base and finding the loan windows open.,0.7591540217399597,0.011685200966894627,0.22916075587272644,positive,0.7474688291549683
+33,2016-11-28 07:46:00,Politicians can say and do what they want.,0.051693394780159,0.010332602076232433,0.9379739761352539,neutral,0.04136079177260399
+34,2016-11-28 07:46:00,Business is business.,0.050267986953258514,0.005908784456551075,0.9438231587409973,neutral,0.044359203428030014
+35,2016-11-28 07:46:00,Business is global.,0.09684816002845764,0.005038898438215256,0.8981128931045532,neutral,0.09180925786495209
+36,2016-11-28 07:46:00,A trade war would be bad for GM and Ford.,0.029561448842287064,0.9404835104942322,0.029955020174384117,negative,-0.9109220504760742
+37,2016-11-28 07:46:00,It would be worse for Donald J. Trump.,0.044648315757513046,0.8861163258552551,0.06923538446426392,negative,-0.8414680361747742
+38,2016-11-28 07:46:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+39,2016-11-28 07:46:00,His latest novel is Bridget O'Flynn vs. Something Big & Ugly .,0.06000759080052376,0.018888700753450394,0.9211036562919617,neutral,0.041118890047073364
+40,2016-11-28 07:46:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn .,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+41,2016-11-28 07:46:00,As of this writing he owned shares in AAPL.,0.01475347951054573,0.010723015293478966,0.9745235443115234,neutral,0.004030464217066765
+42,2016-11-28 07:46:00,"• The 7 Best Tech Stocks in the World
+• The 10 Best Growth Stocks to Buy for 2017
+
+The post For Ford Motor Company (F) and General Motors Company (GM), Trade Trumps Trump appeared first on InvestorPlace .",0.30686628818511963,0.030227260664105415,0.6629064679145813,neutral,0.27663901448249817
+43,2016-11-28 07:46:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

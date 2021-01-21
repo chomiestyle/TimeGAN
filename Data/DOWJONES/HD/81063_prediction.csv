@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-05-28 11:18:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Anaplan Inc (Symbol: PLAN), where a total volume of 7,357 contracts has been traded thus far today, a contract volume which is representative of approximately 735,700 underlying shares (given that every 1 contract represents 100 underlying shares).",0.04023539274930954,0.012627856805920601,0.9471367001533508,neutral,0.02760753594338894
+1,2019-05-28 11:18:00,"That number works out to 51% of PLAN's average daily trading volume over the past month, of 1.4 million shares.",0.7579020857810974,0.016088182106614113,0.2260097712278366,positive,0.7418138980865479
+2,2019-05-28 11:18:00,"Particularly high volume was seen for the $50 strike call option expiring November 15, 2019, with 2,043 contracts trading so far today, representing approximately 204,300 underlying shares of PLAN.",0.23488250374794006,0.010232016444206238,0.7548854947090149,neutral,0.22465048730373383
+3,2019-05-28 11:18:00,"Below is a chart showing PLAN's trailing twelve month trading history, with the $50 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) options are showing a volume of 21,128 contracts thus far today.",0.026505736634135246,0.028932420536875725,0.944561779499054,neutral,-0.0024266839027404785
+4,2019-05-28 11:18:00,"That number of contracts represents approximately 2.1 million underlying shares, working out to a sizeable 49.5% of HD's average daily trading volume over the past month, of 4.3 million shares.",0.14434100687503815,0.00925922580063343,0.8463997840881348,neutral,0.13508178293704987
+5,2019-05-28 11:18:00,"Especially high volume was seen for the $197.50 strike call option expiring May 31, 2019, with 1,635 contracts trading so far today, representing approximately 163,500 underlying shares of HD.",0.23133237659931183,0.009796052239835262,0.7588715553283691,neutral,0.221536323428154
+6,2019-05-28 11:18:00,"Below is a chart showing HD's trailing twelve month trading history, with the $197.50 strike highlighted in orange:
+
+And Caterpillar Inc. (Symbol: CAT) options are showing a volume of 23,478 contracts thus far today.",0.020629404112696648,0.028465237468481064,0.9509053230285645,neutral,-0.007835833355784416
+7,2019-05-28 11:18:00,"That number of contracts represents approximately 2.3 million underlying shares, working out to a sizeable 48.2% of CAT's average daily trading volume over the past month, of 4.9 million shares.",0.14865633845329285,0.010290896520018578,0.841052770614624,neutral,0.13836544752120972
+8,2019-05-28 11:18:00,"Especially high volume was seen for the $120 strike put option expiring July 19, 2019, with 2,225 contracts trading so far today, representing approximately 222,500 underlying shares of CAT.",0.1430649310350418,0.00978813786059618,0.8471469283103943,neutral,0.1332767903804779
+9,2019-05-28 11:18:00,"Below is a chart showing CAT's trailing twelve month trading history, with the $120 strike highlighted in orange:
+
+For the various different available expirations for PLAN options, HD options, or CAT options, visit StockOptionsChannel.com.",0.010559107176959515,0.023021576926112175,0.9664193391799927,neutral,-0.01246246974915266
+10,2019-05-28 11:18:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631768465042114,0.0070797656662762165,0.9682884216308594,neutral,0.017552003264427185

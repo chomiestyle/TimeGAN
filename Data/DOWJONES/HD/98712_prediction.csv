@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-19 07:11:00,"In early trading on Wednesday, shares of Goldman Sachs Group ( GS ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.4%.",0.9382352828979492,0.030909214168787003,0.030855486169457436,positive,0.9073260426521301
+1,2016-10-19 07:11:00,"Year to date, Goldman Sachs Group has lost about 2.9% of its value.",0.016601182520389557,0.9574933648109436,0.025905469432473183,negative,-0.9408921599388123
+2,2016-10-19 07:11:00,"And the worst performing Dow component thus far on the day is Intel ( INTC ), trading down 5.1%.",0.02040579356253147,0.9654377102851868,0.01415655855089426,negative,-0.9450319409370422
+3,2016-10-19 07:11:00,Intel is showing a gain of 3.9% looking at the year to date performance.,0.9529700875282288,0.019175734370946884,0.02785422094166279,positive,0.933794379234314
+4,2016-10-19 07:11:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.7%, and Visa ( V ), trading up 1.1% on the day.",0.037063390016555786,0.9296472668647766,0.03328932449221611,negative,-0.8925838470458984
+5,2016-10-19 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

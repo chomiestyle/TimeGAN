@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-20 06:08:00,"At Holdings Channel , we have reviewed the latest batch of the 22 most recent 13F filings for the 12/31/2016 reporting period, and noticed that Procter & Gamble Co. (Symbol: PG) was held by 15 of these funds.",0.018867895007133484,0.017355265095829964,0.9637768864631653,neutral,0.0015126299113035202
+1,2017-01-20 06:08:00,"When hedge fund managers appear to be thinking alike, we find it is a good idea to take a closer look.",0.14653626084327698,0.011464598588645458,0.8419991135597229,neutral,0.13507166504859924
+2,2017-01-20 06:08:00,"Before we proceed, it is important to point out that 13F filings do not tell the whole story, because these funds are only required to disclose their long positions with the SEC, but are not required to disclose their short positions.",0.014721076935529709,0.059866391122341156,0.9254124760627747,neutral,-0.04514531418681145
+3,2017-01-20 06:08:00,"A fund making a bearish bet against a stock by shorting calls, for example, might also be long some amount of stock as they trade around their overall bearish position.",0.06588738411664963,0.08600222319364548,0.8481103777885437,neutral,-0.02011483907699585
+4,2017-01-20 06:08:00,"This long component could show up in a 13F filing and everyone might assume the fund is bullish, but this tells only part of the story because the bearish/short side of the position is not seen .",0.023747174069285393,0.08105200529098511,0.895200788974762,neutral,-0.057304829359054565
+5,2017-01-20 06:08:00,"Having given that caveat, we believe that looking at groups of 13F filings can be revealing, especially when comparing one holding period to another.",0.08048500865697861,0.0508636012673378,0.8686513900756836,neutral,0.029621407389640808
+6,2017-01-20 06:08:00,"Below, let's take a look at the change in PG positions, for this latest batch of 13F filers:
+
+Change In Market Value($ in 1000's)
+
+In terms of shares owned, we count 5 of the above funds having increased existing PG positions from 09/30/2016 to 12/31/2016, with 6 having decreased their positions and 1 new position.",0.5076332688331604,0.05840606987476349,0.43396061658859253,positive,0.4492272138595581
+7,2017-01-20 06:08:00,"Looking beyond these particular funds in this one batch of most recent filers, we tallied up the PG share count in the aggregate among all of the funds which held PG at the 12/31/2016 reporting period (out of the 365 we looked at in total).",0.06839550286531448,0.012698712758719921,0.9189057350158691,neutral,0.05569678917527199
+8,2017-01-20 06:08:00,"We then compared that number to the sum total of PG shares those same funds held back at the 09/30/2016 period, to see how the aggregate share count held by hedge funds has moved for PG.",0.07564677298069,0.029808172956109047,0.8945450782775879,neutral,0.045838601887226105
+9,2017-01-20 06:08:00,"We found that between these two periods, funds reduced their holdings by 2,560,829 shares in the aggregate, from 44,214,585 down to 41,653,756 for a share count decline of approximately -5.79%.",0.01756340079009533,0.9733662009239197,0.009070356376469135,negative,-0.9558027982711792
+10,2017-01-20 06:08:00,"The overall top three funds holding PG on 12/31/2016 were:
+
+WELLCOME TRUST LTD THE as trustee of the WELLCOME TRUST
+
+We'll keep following the latest 13F filings by hedge fund managers and bring you interesting stories derived from a look at the aggregate information across groups of managers between filing periods.",0.02370569109916687,0.00822870247066021,0.968065619468689,neutral,0.01547698862850666
+11,2017-01-20 06:08:00,"While looking at individual 13F filings can sometimes be misleading due to the long-only nature of the information, the sum total across groups of funds from one reporting period to another can be a lot more revealing and relevant, providing interesting stock ideas that merit further research, like Procter & Gamble Co. (Symbol: PG).",0.092213936150074,0.03344321250915527,0.8743428587913513,neutral,0.05877072364091873
+12,2017-01-20 06:08:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

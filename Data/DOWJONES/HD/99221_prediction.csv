@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-21 07:15:00,"In early trading on Thursday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.2%.",0.9374665021896362,0.03258160501718521,0.02995184250175953,positive,0.9048848748207092
+1,2016-01-21 07:15:00,"Year to date, Home Depot has lost about 10.0% of its value.",0.017221229150891304,0.9579228758811951,0.024855833500623703,negative,-0.9407016634941101
+2,2016-01-21 07:15:00,"And the worst performing Dow component thus far on the day is Travelers Companies ( TRV ), trading down 2.2%.",0.020503632724285126,0.9666470885276794,0.012849298305809498,negative,-0.9461434483528137
+3,2016-01-21 07:15:00,Travelers Companies is lower by about 10.2% looking at the year to date performance.,0.01985977217555046,0.9654722809791565,0.014667990617454052,negative,-0.9456124901771545
+4,2016-01-21 07:15:00,"Two other components making moves today are Apple ( AAPL ), trading down 1.6%, and Nike ( NKE ), trading up 1.7% on the day.",0.03214375674724579,0.936381459236145,0.03147474303841591,negative,-0.904237687587738
+5,2016-01-21 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

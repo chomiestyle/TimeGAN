@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-01-13 07:17:00,"In early trading on Wednesday, shares of Microsoft ( MSFT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.9%.",0.9401212334632874,0.03084125928580761,0.029037512838840485,positive,0.909280002117157
+1,2016-01-13 07:17:00,"Year to date, Microsoft has lost about 3.0% of its value.",0.01704077050089836,0.9537016153335571,0.02925756759941578,negative,-0.9366608262062073
+2,2016-01-13 07:17:00,"And the worst performing Dow component thus far on the day is Wal-Mart Stores ( WMT ), trading down 1.2%.",0.02021769806742668,0.9661734700202942,0.013608801178634167,negative,-0.945955753326416
+3,2016-01-13 07:17:00,Wal-Mart Stores is showing a gain of 2.6% looking at the year to date performance.,0.9471778869628906,0.025877570733428,0.02694450132548809,positive,0.9213002920150757
+4,2016-01-13 07:17:00,"Two other components making moves today are Home Depot ( HD ), trading down 1.1%, and Exxon Mobil Corp. ( XOM ), trading up 1.6% on the day.",0.03141717240214348,0.9388677477836609,0.029715048149228096,negative,-0.9074505567550659
+5,2016-01-13 07:17:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

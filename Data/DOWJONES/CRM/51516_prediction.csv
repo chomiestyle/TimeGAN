@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-09 05:35:00,"It has been about a month since LinkedIn Corp ( LNKD ) plunged more than 40% on its awful earnings report, with the company losing almost $14 billion in market cap.",0.01852954365313053,0.9690191745758057,0.01245121844112873,negative,-0.9504896402359009
+1,2016-03-09 05:35:00,The impact was so strong that many other Internet and cloud stocks also fell hard.,0.03276556730270386,0.926628053188324,0.04060637578368187,negative,-0.8938624858856201
+2,2016-03-09 05:35:00,The worry for investors: Is the tech party over with?,0.07782184332609177,0.12096457928419113,0.8012135624885559,neutral,-0.043142735958099365
+3,2016-03-09 05:35:00,"Well, the good news is that the overall markets have rebounded nicely - and so has LinkedIn stock.",0.9272613525390625,0.019642125815153122,0.05309654399752617,positive,0.9076192378997803
+4,2016-03-09 05:35:00,It's up nearly 20% from its low.,0.9461599588394165,0.020395154133439064,0.033444907516241074,positive,0.925764799118042
+5,2016-03-09 05:35:00,"Let's face it, the growth story appears to be petering out.",0.026684816926717758,0.8659961223602295,0.10731902718544006,negative,-0.8393113017082214
+6,2016-03-09 05:35:00,"For example, in 2014 LNKD posted an annual increase in revenues of 45% but the ramp dropped to 35% in 2015.",0.1667412966489792,0.7802887558937073,0.05296996235847473,negative,-0.6135474443435669
+7,2016-03-09 05:35:00,"Things would have been even more lackluster if the company did not shell out $1.5 billion for Lynda.com , which is a major provider of online education.",0.03385136276483536,0.8819803595542908,0.08416828513145447,negative,-0.8481289744377136
+8,2016-03-09 05:35:00,But the real deceleration is expected to happen in 2016.,0.02765822410583496,0.06440604478120804,0.9079357385635376,neutral,-0.03674782067537308
+9,2016-03-09 05:35:00,"Based on LNKD guidance , the company forecasts a growth rate of a mere 20% to 22%.",0.7211835384368896,0.013094638474285603,0.26572179794311523,positive,0.7080888748168945
+10,2016-03-09 05:35:00,Yet other social media operators are growing much faster.,0.46690186858177185,0.012650290504097939,0.520447850227356,neutral,0.45425158739089966
+11,2016-03-09 05:35:00,"Just take a look at Facebook Inc ( FB ), which posted a hefty 44% spike in revenues in Q4 .",0.9162260293960571,0.01861962303519249,0.06515435874462128,positive,0.8976064324378967
+12,2016-03-09 05:35:00,"Hey, even the beleaguered Twitter Inc ( TWTR ) has continued to show strength on the top-line, with a jump of 48% during the same period .",0.9487958550453186,0.020681725814938545,0.030522387474775314,positive,0.928114116191864
+13,2016-03-09 05:35:00,"Despite all this, it appears that LNKD management is somewhat clueless about the situation.",0.03789111226797104,0.4457850158214569,0.5163238644599915,neutral,-0.4078938961029053
+14,2016-03-09 05:35:00,"Regarding the Q4 results, CFO Steve Sordello noted :
+
+""I was pretty surprised at the magnitude.",0.2620324492454529,0.1301918774843216,0.6077756285667419,neutral,0.1318405717611313
+15,2016-03-09 05:35:00,"… We haven't seen anything fundamentally change in the business with the exception of Bizo .""",0.2736273407936096,0.053442616015672684,0.6729300618171692,neutral,0.22018472850322723
+16,2016-03-09 05:35:00,"Well, the fact is that LNKD does face some major issues.",0.05793851986527443,0.023615723475813866,0.9184457659721375,neutral,0.03432279825210571
+17,2016-03-09 05:35:00,"First of all, the $175 million acquisition for Bizo acquisition was certainly a failure.",0.02355963923037052,0.9214733839035034,0.05496688559651375,negative,-0.8979137539863586
+18,2016-03-09 05:35:00,Keep in mind that LNKD could not find a way to monetize the asset with its massive user base.,0.07975485920906067,0.025354888290166855,0.8948902487754822,neutral,0.054399970918893814
+19,2016-03-09 05:35:00,"As a result, the company shut down the Bizo unit.",0.016704121604561806,0.9397915005683899,0.04350430890917778,negative,-0.9230873584747314
+20,2016-03-09 05:35:00,"No doubt, this should be an ominous sign for investors in LinkedIn stock.",0.035658277571201324,0.9014200568199158,0.06292156130075455,negative,-0.8657617568969727
+21,2016-03-09 05:35:00,"After all, M&A will likely be critical to help with the overall growth rate.",0.5514335036277771,0.010532180778682232,0.43803438544273376,positive,0.5409013032913208
+22,2016-03-09 05:35:00,"Oh, and the company will need to focus on new markets, such as enterprise services.",0.17503666877746582,0.009475989267230034,0.8154873251914978,neutral,0.16556067764759064
+23,2016-03-09 05:35:00,"But this means competing against tough rivals like Salesforce.com, Inc. ( CRM ) Microsoft Corporation ( MSFT ) and even Oracle Corporation ( ORCL ).",0.5609038472175598,0.15243837237358093,0.2866577208042145,positive,0.4084654748439789
+24,2016-03-09 05:35:00,"Next, there is the nagging issue about the global economy, which has been slowing down lately.",0.041975438594818115,0.8593180775642395,0.09870647639036179,negative,-0.8173426389694214
+25,2016-03-09 05:35:00,"In such an environment, there will likely be less demand for hiring services, such as for LinkedIn's ""talent solutions"" offering.",0.030435891821980476,0.7606266736984253,0.20893734693527222,negative,-0.7301907539367676
+26,2016-03-09 05:35:00,"What's more, there could be an adverse impact from the potential unwinding of the tech boom in Silicon Valley, which has seen more layoffs.",0.02072887122631073,0.95598304271698,0.02328803949058056,negative,-0.9352541565895081
+27,2016-03-09 05:35:00,"While it's unclear how much of the LNKD business comes from tech operators, it would not be surprising that such companies are avid users.",0.018089236691594124,0.007410419173538685,0.9745003581047058,neutral,0.010678817518055439
+28,2016-03-09 05:35:00,"Something else: LNKD will have to deal with the emerging competition from Facebook, which has been working on its Facebook@Work effort.",0.09011118859052658,0.5610029101371765,0.3488858938217163,negative,-0.47089171409606934
+29,2016-03-09 05:35:00,"For the most part, the service allows workers to easily communicate with colleagues.",0.10572652518749237,0.011440214700996876,0.8828333020210266,neutral,0.09428630769252777
+30,2016-03-09 05:35:00,"Granted, it is still in the early stages, but FB is likely to get traction because of its massive 1.6 billion user base.",0.8733744621276855,0.015283903107047081,0.11134161800146103,positive,0.8580905795097351
+31,2016-03-09 05:35:00,"And finally, LinkedIn stock is still far from cheap, with the forward price-to-earnings ratio at 28X.",0.3348740041255951,0.07248739898204803,0.5926385521888733,neutral,0.26238662004470825
+32,2016-03-09 05:35:00,This does seem kind of steep for a company that is expected to grow at only 20% or so.,0.06429360806941986,0.05330201983451843,0.8824043869972229,neutral,0.010991588234901428
+33,2016-03-09 05:35:00,"In fact, FB has a multiple of 25X and the company is growing much faster!",0.7519329786300659,0.012144248001277447,0.235922709107399,positive,0.7397887110710144
+34,2016-03-09 05:35:00,"Going forward, there are few catalysts to get things back on track for LNKD.",0.3918302357196808,0.016453377902507782,0.5917163491249084,neutral,0.3753768503665924
+35,2016-03-09 05:35:00,"Furthermore, the slow global economic growth is likely to weigh on the company, and there is also the potential competitive impact from FB.",0.033948276191949844,0.6113446950912476,0.3547070324420929,negative,-0.5773963928222656
+36,2016-03-09 05:35:00,"In other words, despite the recent rally, it seems like a good bet there is more downside here, which should be good news for the shorts.",0.7868165969848633,0.05211927369236946,0.16106416285037994,positive,0.7346973419189453
+37,2016-03-09 05:35:00,Tom Taulli runs the InvestorPlace blog IPO Playbook .,0.0306533370167017,0.01592433825135231,0.9534223079681396,neutral,0.014728998765349388
+38,2016-03-09 05:35:00,"He is also the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04780338332056999,0.0064233713783323765,0.9457733035087585,neutral,0.041380010545253754
+39,2016-03-09 05:35:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+40,2016-03-09 05:35:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.00908032525330782,0.02340867556631565,0.9675110578536987,neutral,-0.014328350313007832
+41,2016-03-09 05:35:00,The post LinkedIn Corp: LNKD Stock Is Short-Worthy Still appeared first on InvestorPlace .,0.08297418057918549,0.5154293179512024,0.4015964865684509,negative,-0.4324551224708557
+42,2016-03-09 05:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

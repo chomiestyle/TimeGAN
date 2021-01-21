@@ -1,0 +1,105 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-16 22:29:00,Research firm eMarketer recently released a list of the top 10 e-commerce companies in the U.S. by market share.,0.21895334124565125,0.01170528493821621,0.7693414092063904,neutral,0.20724806189537048
+1,2018-07-16 22:29:00,The list has some expected names.,0.02370661497116089,0.02611055225133896,0.9501827955245972,neutral,-0.00240393728017807
+2,2018-07-16 22:29:00,It also has some unexpected names.,0.04095692187547684,0.01814959943294525,0.9408934712409973,neutral,0.022807322442531586
+3,2018-07-16 22:29:00,"In total, though, all 10 e-commerce companies on eMarketer's list have been winning thanks to the digital revolution.",0.8307397365570068,0.022835901007056236,0.14642439782619476,positive,0.8079038262367249
+4,2018-07-16 22:29:00,Does that mean you should buy each of these top e-commerce stocks?,0.11546718329191208,0.015110916458070278,0.8694219589233398,neutral,0.10035626590251923
+5,2018-07-16 22:29:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+6,2018-07-16 22:29:00,Not at all.,0.1166168674826622,0.23895230889320374,0.6444308161735535,neutral,-0.12233544141054153
+7,2018-07-16 22:29:00,"When it comes to the stock market, it isn't just about growth.",0.027758030220866203,0.008385120891034603,0.9638568162918091,neutral,0.019372910261154175
+8,2018-07-16 22:29:00,It is about how much growth is priced in.,0.05490224063396454,0.007081570569425821,0.9380161166191101,neutral,0.047820668667554855
+9,2018-07-16 22:29:00,"And unfortunately, when it comes to a few of these top e-commerce stocks, too much growth is priced in at current levels.",0.028331182897090912,0.19030418992042542,0.7813646197319031,neutral,-0.1619729995727539
+10,2018-07-16 22:29:00,"But, when it comes to a few other top e-commerce stocks, not enough growth is priced in at current levels.",0.11103101819753647,0.04708367586135864,0.8418853282928467,neutral,0.06394734233617783
+11,2018-07-16 22:29:00,"With that in mind, here's a list of the top five e-commerce companies in the U.S. by market share, and an analysis of where those top e-commerce stocks are going next.",0.0229702927172184,0.009289687499403954,0.9677400588989258,neutral,0.013680605217814445
+12,2018-07-16 22:29:00,"At the top of the list, of course, is e-retail giant Amazon (NASDAQ: AMZN ).",0.053766973316669464,0.012474765069782734,0.9337582588195801,neutral,0.041292209178209305
+13,2018-07-16 22:29:00,"According to eMarketer, Amazon owns a dominant 50% of the U.S. e-commerce market.",0.07981199771165848,0.005037383642047644,0.9151505827903748,neutral,0.0747746154665947
+14,2018-07-16 22:29:00,"Considering this market is growing at 16% and an accelerating rate , that means Amazon owns 50% of a 15%-plus growth market.",0.5038493275642395,0.010018457658588886,0.4861321747303009,positive,0.4938308596611023
+15,2018-07-16 22:29:00,And that is just the domestic piece.,0.048214152455329895,0.030883098021149635,0.9209027290344238,neutral,0.01733105443418026
+16,2018-07-16 22:29:00,"On the international front, global e-retail sales rose by 25% last year .",0.9558842778205872,0.021795550361275673,0.02232023887336254,positive,0.9340887069702148
+17,2018-07-16 22:29:00,"Over the next several years, global e-retail sales growth is expected to run around 20%-per-year.",0.8704767823219299,0.012251175940036774,0.1172720417380333,positive,0.8582255840301514
+18,2018-07-16 22:29:00,Amazon's international market share is tough to peg.,0.03786112368106842,0.6051252484321594,0.35701361298561096,negative,-0.5672641396522522
+19,2018-07-16 22:29:00,"But if U.S. market share is already 50%, then international share could realistically rise to somewhere around 25%.",0.8752483129501343,0.015741273760795593,0.10901053249835968,positive,0.8595070242881775
+20,2018-07-16 22:29:00,That means Amazon is slated to own 25% of that 20%-plus growth market.,0.19430029392242432,0.0074026016518473625,0.798297107219696,neutral,0.18689769506454468
+21,2018-07-16 22:29:00,"Put those two together, and it is easy to see why Amazon's e-retail business has tons of growth ahead of it.",0.22995255887508392,0.012652439996600151,0.7573949694633484,neutral,0.21730011701583862
+22,2018-07-16 22:29:00,But that is just the tip of the iceberg when it comes to Amazon's total growth.,0.13101042807102203,0.017063498497009277,0.8519260883331299,neutral,0.11394692957401276
+23,2018-07-16 22:29:00,Amazon is also building out a robust offline retail business which started with Whole Foods and won't end for another 10-plus years.,0.853287935256958,0.011939063668251038,0.13477298617362976,positive,0.8413488864898682
+24,2018-07-16 22:29:00,"The company is also behind the world's largest and most dominant cloud business, Amazon Web Services.",0.5676055550575256,0.02668858878314495,0.40570583939552307,positive,0.5409169793128967
+25,2018-07-16 22:29:00,"And then there are the big potential growth drivers through entries into the pharmacy, logistics and advertising markets.",0.42081597447395325,0.008330289274454117,0.5708537101745605,neutral,0.41248568892478943
+26,2018-07-16 22:29:00,"All together, this is a mega-growth company.",0.6765753626823425,0.011870235204696655,0.3115544021129608,positive,0.6647051572799683
+27,2018-07-16 22:29:00,"Granted, the valuation is rich.",0.3053159713745117,0.01137760654091835,0.6833064556121826,neutral,0.29393836855888367
+28,2018-07-16 22:29:00,"But when all is said and done, Amazon could net in excess of $150 in earnings-per-share.",0.6499618887901306,0.03903704136610031,0.3110010325908661,positive,0.6109248399734497
+29,2018-07-16 22:29:00,"If that happens, then a $2,000 stock price will look pretty cheap.",0.11393854767084122,0.013886123895645142,0.872175395488739,neutral,0.10005242377519608
+30,2018-07-16 22:29:00,"Coming in at second place is Amazon's little brother, eBay (NASDAQ: EBAY ).",0.12708887457847595,0.03005341626703739,0.8428577184677124,neutral,0.09703546017408371
+31,2018-07-16 22:29:00,"According to eMarketer, eBay owns 6.6% of the U.S. e-commerce market.",0.02086370810866356,0.008170976303517818,0.9709652662277222,neutral,0.01269273180514574
+32,2018-07-16 22:29:00,That really isn't that big.,0.03719331696629524,0.04601559415459633,0.9167910814285278,neutral,-0.008822277188301086
+33,2018-07-16 22:29:00,"And it wouldn't be surprising if eBay operated a brick-and-mortar business, too.",0.030748246237635612,0.017866656184196472,0.9513851404190063,neutral,0.01288159005343914
+34,2018-07-16 22:29:00,"But, eBay is purely digital.",0.01392687764018774,0.010429604910314083,0.9756434559822083,neutral,0.0034972727298736572
+35,2018-07-16 22:29:00,That means that the measly 6.6% of the U.S. e-commerce market that eBay owns is the company's entire U.S. business.,0.010770195163786411,0.03773351386189461,0.9514962434768677,neutral,-0.02696331962943077
+36,2018-07-16 22:29:00,That isn't very good.,0.04664959758520126,0.41485199332237244,0.5384984016418457,neutral,-0.3682023882865906
+37,2018-07-16 22:29:00,"Worse yet, there is reason to believe that eBay's 6.6% market share will only drop over the next several years.",0.017109401524066925,0.9628551602363586,0.020035430788993835,negative,-0.9457457661628723
+38,2018-07-16 22:29:00,Revenue growth at eBay has been running around 7% for the past several quarters.,0.32426202297210693,0.012535625137388706,0.6632023453712463,neutral,0.3117263913154602
+39,2018-07-16 22:29:00,But most of that growth is coming from price increases.,0.2915385067462921,0.009900565259158611,0.6985609531402588,neutral,0.28163793683052063
+40,2018-07-16 22:29:00,"Active buyer growth was just 4% last quarter, while sold-items growth was just 1%.",0.041618503630161285,0.22306884825229645,0.7353125810623169,neutral,-0.18145033717155457
+41,2018-07-16 22:29:00,These slow growth rates don't line up with the U.S. e-commerce market's 16%-plus growth rate.,0.04387716203927994,0.6015357375144958,0.3545870780944824,negative,-0.5576585531234741
+42,2018-07-16 22:29:00,"As such, eBay is clearly losing market share.",0.018042346462607384,0.9674084782600403,0.014549219980835915,negative,-0.9493661522865295
+43,2018-07-16 22:29:00,"This market share erosion will likely persist, considering eBay lacks significant mind-share among tomorrow's biggest consumers (Piper Jaffray's Spring 2018 Taking Stock With Teens Survey found that eBay's mind-share among teenagers fell to a record low 1.8%, down 120 basis points from 3% in the Fall 2017 survey).",0.017221322283148766,0.9740061163902283,0.00877266563475132,negative,-0.9567847847938538
+44,2018-07-16 22:29:00,EBAY stock doesn't trade at a huge multiple.,0.02424555830657482,0.032883040606975555,0.9428713917732239,neutral,-0.008637482300400734
+45,2018-07-16 22:29:00,"The forward multiple is only 16, which is roughly in-line with the market average.",0.06823675334453583,0.20564356446266174,0.7261196970939636,neutral,-0.13740681111812592
+46,2018-07-16 22:29:00,"But, considering growth at this company is 7% and slowing, a 16 forward multiple may prove to be too aggressive.",0.05256769433617592,0.8496671915054321,0.09776506572961807,negative,-0.7970994710922241
+47,2018-07-16 22:29:00,"Some may view this as surprising, but according to eMarketer, Apple (NASDAQ: AAPL ) is the third biggest e-retail company in the U.S. with 3.9% market share.",0.4064951241016388,0.016775179654359818,0.5767297744750977,neutral,0.3897199332714081
+48,2018-07-16 22:29:00,That may initially sound surprising.,0.0865107923746109,0.12274741381406784,0.7907418012619019,neutral,-0.03623662143945694
+49,2018-07-16 22:29:00,"After all, Apple isn't thought of as a retailer in the traditional sense.",0.015020470134913921,0.026827966794371605,0.9581515192985535,neutral,-0.011807496659457684
+50,2018-07-16 22:29:00,"But upon closer inspection, Apple does sell a ton of stuff through its websites, from iPhones to iPads to Macs to Apple Watches.",0.0330796018242836,0.009425931610167027,0.9574944376945496,neutral,0.023653671145439148
+51,2018-07-16 22:29:00,"All that stuff adds up, and as such, it really isn't surprising that Apple is the third-biggest e-retail company in the U.S.",0.2078954130411148,0.011530955322086811,0.7805736660957336,neutral,0.19636446237564087
+52,2018-07-16 22:29:00,Does that make AAPL stock a buy?,0.2947039008140564,0.03241737559437752,0.6728787422180176,neutral,0.262286514043808
+53,2018-07-16 22:29:00,I think so.,0.20592829585075378,0.026304421946406364,0.7677673101425171,neutral,0.17962387204170227
+54,2018-07-16 22:29:00,"The big story at Apple is that the company is transitioning from selling iPhones, iPads and Macs, to selling software subscription services like iCloud, Apple Music and App Store.",0.442859411239624,0.011534350924193859,0.5456061959266663,neutral,0.4313250482082367
+55,2018-07-16 22:29:00,This is a very healthy transition.,0.7319144606590271,0.011701894924044609,0.2563835680484772,positive,0.7202125787734985
+56,2018-07-16 22:29:00,"The hardware business is low-margin and notoriously lumpy, depending on the upgrade cycle.",0.01810900680720806,0.3906988501548767,0.5911921262741089,neutral,-0.3725898563861847
+57,2018-07-16 22:29:00,"The software business, meanwhile, is high-margin and steady, as most of its revenues come from annually recurring subscriptions.",0.24715478718280792,0.0076108877547085285,0.7452343106269836,neutral,0.23954389989376068
+58,2018-07-16 22:29:00,"Thus, over the next several years, Apple's revenue streams will be less lumpy and more steady.",0.5021568536758423,0.015530481934547424,0.4823126792907715,positive,0.48662638664245605
+59,2018-07-16 22:29:00,That will warrant a higher multiple on AAPL stock.,0.7424755692481995,0.014321185648441315,0.24320320785045624,positive,0.7281543612480164
+60,2018-07-16 22:29:00,"Plus, margins will roar higher thanks to higher-margin software growth.",0.9506933093070984,0.01610114797949791,0.03320550173521042,positive,0.9345921874046326
+61,2018-07-16 22:29:00,That will cause earnings to get a big boost.,0.8775699734687805,0.015859201550483704,0.10657082498073578,positive,0.861710786819458
+62,2018-07-16 22:29:00,"In five years, then, earnings should be way higher (buybacks and tax cuts are also in the mix) and the multiple should also be higher.",0.8274841904640198,0.016453655436635017,0.156062051653862,positive,0.8110305070877075
+63,2018-07-16 22:29:00,"In simple terms, bigger earnings plus a bigger multiple equals a higher stock.",0.6170400977134705,0.01842954009771347,0.3645303547382355,positive,0.5986105799674988
+64,2018-07-16 22:29:00,Coming in at fourth place is traditional retail giant Walmart (NYSE: WMT ).,0.3931008279323578,0.05690377205610275,0.5499954223632812,neutral,0.33619704842567444
+65,2018-07-16 22:29:00,"Walmart owns just 3.7% of the U.S. e-commerce market, which is rather anemic considering this is America's largest brick-and-mortar retailer.",0.019511831924319267,0.3591287136077881,0.6213595271110535,neutral,-0.33961689472198486
+66,2018-07-16 22:29:00,"In plain English, 3.7% e-commerce market share translates into ""well, Walmart is still a far ways off from rivaling Amazon on the digital side of things.""",0.5870177745819092,0.16280412673950195,0.25017809867858887,positive,0.4242136478424072
+67,2018-07-16 22:29:00,That is really bad news for WMT stock.,0.020985599607229233,0.9552509784698486,0.023763341829180717,negative,-0.9342653751373291
+68,2018-07-16 22:29:00,"In 2017, WMT stock roared to all-time high valuation levels on the thought that out-sized e-commerce growth was here to stay and that the company was turning into a formidable Amazon competitor.",0.9324380159378052,0.03029264323413372,0.037269361317157745,positive,0.9021453857421875
+69,2018-07-16 22:29:00,Neither of those things are true.,0.05490795895457268,0.04585786536335945,0.8992341160774231,neutral,0.009050093591213226
+70,2018-07-16 22:29:00,"Walmart is building out a strong e-commerce platform, but growth rates are slowing.",0.48436030745506287,0.34905070066452026,0.1665889471769333,positive,0.1353096067905426
+71,2018-07-16 22:29:00,"Moreover, that e-commerce platform is gaining market share, but it remains a far stretch from nearing Amazon's scale.",0.8713951110839844,0.019578492268919945,0.10902640223503113,positive,0.8518165946006775
+72,2018-07-16 22:29:00,"In the low $80's, with the forward multiple hovering around 17, WMT stock looked like a good buy.",0.6982224583625793,0.02806119993329048,0.2737163007259369,positive,0.670161247253418
+73,2018-07-16 22:29:00,"But now that WMT stock has rallied back to the upper $80's, and the forward multiple sits above 18, WMT stock looks less attractive.",0.03801596164703369,0.8292834162712097,0.13270066678524017,negative,-0.791267454624176
+74,2018-07-16 22:29:00,"• 4 Underappreciated Stocks to Buy Before the Analysts Weigh In
+
+I don't think there is that much more pain ahead for WMT stock.",0.02755294367671013,0.9033211469650269,0.06912584602832794,negative,-0.8757681846618652
+75,2018-07-16 22:29:00,It looks like a bottom was already reached.,0.15819276869297028,0.3769465386867523,0.4648606777191162,neutral,-0.21875376999378204
+76,2018-07-16 22:29:00,But gains going forward will be tough to come by considering the big valuation and low growth profile of this company.,0.04883185774087906,0.8237921595573425,0.1273760199546814,negative,-0.7749602794647217
+77,2018-07-16 22:29:00,The fifth largest e-commerce company in the U.S. is Home Depot (NYSE: HD ).,0.09332256019115448,0.006370954215526581,0.9003064632415771,neutral,0.0869516059756279
+78,2018-07-16 22:29:00,The home improvement retailer owns 1.5% of the U.S. e-commerce market.,0.020412128418684006,0.007216272410005331,0.9723715782165527,neutral,0.013195855543017387
+79,2018-07-16 22:29:00,"Considering what Home Depot sells (home improvement goods, tools and services), the company coming in fifth on this list, ahead of Best Buy (NYSE: BBY ), Macy's (NYSE: M ) and Nordstrom (NYSE: JWN ), is quite impressive.",0.5395238995552063,0.01224853191524744,0.44822758436203003,positive,0.5272753834724426
+80,2018-07-16 22:29:00,"After all, the home improvement space is traditionally a ""touch-and-feel"" one where consumers like to go in-store and see the products they are buying.",0.06403898447751999,0.010909359902143478,0.9250516295433044,neutral,0.05312962457537651
+81,2018-07-16 22:29:00,"But, Home Depot has managed to build an unparalleled omni-channel retail experience that has people buying in bulk in-store and online.",0.8595789074897766,0.012608436867594719,0.1278126835823059,positive,0.8469704985618591
+82,2018-07-16 22:29:00,That positions the company well for long-term growth.,0.9110361933708191,0.013283553533256054,0.07568027824163437,positive,0.8977526426315308
+83,2018-07-16 22:29:00,"This is a big-moat company that has not only differentiated itself from other home improvement retailers, but also differentiated itself from non-store retailers like Amazon.",0.6885528564453125,0.018819743767380714,0.29262733459472656,positive,0.6697331070899963
+84,2018-07-16 22:29:00,"Thus, going forward, it is fair to assume that Home Depot successfully navigates around any and all competitive threats and continues to be the go-to home improvement retailer in the U.S.",0.9222919940948486,0.013970308005809784,0.06373777240514755,positive,0.9083216786384583
+85,2018-07-16 22:29:00,"The only risk, then, is an economic slowdown.",0.021707583218812943,0.11491715908050537,0.8633752465248108,neutral,-0.09320957958698273
+86,2018-07-16 22:29:00,But that doesn't look likely here and now.,0.03984632343053818,0.22653721272945404,0.7336164712905884,neutral,-0.18669089674949646
+87,2018-07-16 22:29:00,You'd need crazy inflation or crazy unemployment in order to catalyze that.,0.03167370334267616,0.02695271372795105,0.9413735270500183,neutral,0.004720989614725113
+88,2018-07-16 22:29:00,Neither of those look likely in the foreseeable future.,0.04157724976539612,0.04654301330447197,0.9118797779083252,neutral,-0.0049657635390758514
+89,2018-07-16 22:29:00,"All together, HD stock looks good here and now.",0.6807383298873901,0.013873360119760036,0.3053882420063019,positive,0.6668649911880493
+90,2018-07-16 22:29:00,"The stock trades at 20-times forward earnings, which is in-line with its five-year average forward multiple.",0.7812885046005249,0.020995616912841797,0.19771581888198853,positive,0.7602928876876831
+91,2018-07-16 22:29:00,"Yet, same-store sales growth was 6.8% last year, the best rate the company has seen in five years.",0.9512486457824707,0.020525449886918068,0.028225934132933617,positive,0.9307231903076172
+92,2018-07-16 22:29:00,"Thus, with HD stock, you have an average valuation and above-average growth.",0.13950130343437195,0.007048722822219133,0.8534500002861023,neutral,0.1324525773525238
+93,2018-07-16 22:29:00,That combination makes the stock look attractive here and now.,0.6676824688911438,0.01291233953088522,0.31940510869026184,positive,0.6547701358795166
+94,2018-07-16 22:29:00,"As of this writing, Luke Lango was long AMZN, AAPL, HD and M.
+
+Louis Navellier - the investor the New York Times called an ""icon"" - just helped investors make 487% in the booming Chinese stock market … 408% in the medical device sector … 150% in Netflix … all in less than 2 years!",0.5304763913154602,0.02038729190826416,0.44913631677627563,positive,0.510089099407196
+95,2018-07-16 22:29:00,"Now, Louis is urging investors to get in on what may be the opportunity of a lifetime.",0.6188079714775085,0.01745387725532055,0.36373814940452576,positive,0.6013541221618652
+96,2018-07-16 22:29:00,"By using a unique investment strategy called ""The Master Key,"" you could make hundreds of percent returns over the next few years.",0.46850916743278503,0.010813059285283089,0.5206777453422546,neutral,0.4576961100101471
+97,2018-07-16 22:29:00,Click here to learn about the #1 stock recommendation from one of America's top investors.,0.3281938135623932,0.050187140703201294,0.6216190457344055,neutral,0.2780066728591919
+98,2018-07-16 22:29:00,The post The 5 Largest E-Commerce Stocks In the U.S. appeared first on InvestorPlace .,0.2867242097854614,0.05373654142022133,0.6595392227172852,neutral,0.2329876720905304
+99,2018-07-16 22:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-19 08:09:00,"In early trading on Tuesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 4.0%.",0.937504768371582,0.031123017892241478,0.031372204422950745,positive,0.9063817262649536
+1,2014-08-19 08:09:00,"Year to date, Home Depot registers a 5.6% gain.",0.9462143182754517,0.022947218269109726,0.030838552862405777,positive,0.923267126083374
+2,2014-08-19 08:09:00,"And the worst performing Dow component thus far on the day is AT&T ( T ), trading down 0.6%.",0.020969470962882042,0.9656974077224731,0.01333305612206459,negative,-0.9447279572486877
+3,2014-08-19 08:09:00,AT&T is lower by about 2.1% looking at the year to date performance.,0.020991038531064987,0.9665074348449707,0.01250150054693222,negative,-0.9455164074897766
+4,2014-08-19 08:09:00,"Two other components making moves today are Johnson & Johnson ( JNJ ), trading down 0.6%, and American Express ( AXP ), trading up 0.9% on the day.",0.03196465224027634,0.9363545775413513,0.03168074041604996,negative,-0.9043899178504944
+5,2014-08-19 08:09:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-16 06:05:00,"The Nasdaq and the S&P 500 notched record highs on Monday, boosted by gains in energy and technology stocks.",0.922867476940155,0.03131556510925293,0.04581695422530174,positive,0.8915519118309021
+1,2017-05-16 06:05:00,Energy shares moved north due to an uptick in oil prices after energy ministers from Saudi Arabia and Russia spoke about the need for extending output cuts.,0.8195455074310303,0.10963491350412369,0.07081963121891022,positive,0.7099105715751648
+2,2017-05-16 06:05:00,"Meanwhile, software security stocks advanced following a cyber attack on Friday dubbed as ""WannaCry.""",0.9159132838249207,0.03254104405641556,0.051545675843954086,positive,0.8833722472190857
+3,2017-05-16 06:05:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article.",0.019620023667812347,0.013874631375074387,0.9665053486824036,neutral,0.005745392292737961
+4,2017-05-16 06:05:00,"The Dow Jones Industrial Average (DJI) advanced 0.4% to close at 20,981.94.",0.9020236730575562,0.023855526000261307,0.07412083446979523,positive,0.8781681656837463
+5,2017-05-16 06:05:00,"The S&P 500 rose 0.5% to a record close at 2,402.32.",0.9194349050521851,0.039709702134132385,0.04085531458258629,positive,0.8797252178192139
+6,2017-05-16 06:05:00,"The tech-laden Nasdaq Composite Index gained 0.5% to a record close at 6,149.67.",0.9301825761795044,0.038010578602552414,0.03180691599845886,positive,0.8921719789505005
+7,2017-05-16 06:05:00,"A total of around 6.3 billion shares were traded on Monday, lower than the last 20-session average of 6.8 billion shares.",0.01678023301064968,0.9678452610969543,0.015374517999589443,negative,-0.9510650038719177
+8,2017-05-16 06:05:00,Advancers outnumbered declining stocks on the NYSE by a 3.10 to 1 ratio.,0.877679705619812,0.06849800795316696,0.053822338581085205,positive,0.8091816902160645
+9,2017-05-16 06:05:00,Oil prices closed at a two week high on Monday following the release of a joint statement by the energy ministers of Saudi Arabia and Russia.,0.599355161190033,0.19498620927333832,0.20565862953662872,positive,0.40436893701553345
+10,2017-05-16 06:05:00,Energy ministers of both the countries backed the proposal to extend crude production cuts by the world's major oil producers.,0.6206215620040894,0.17312785983085632,0.2062506526708603,positive,0.44749370217323303
+11,2017-05-16 06:05:00,"At the summit of the Group of 20 leading nations in China on Monday, Saudi Arabia energy minister, Khalid al-Falih and Russian Energy Minister, Alexander Novak spoke about the need for extending cuts in output after consulting with other producers.",0.5148098468780518,0.29357144236564636,0.19161874055862427,positive,0.2212384045124054
+12,2017-05-16 06:05:00,The energy ministers discussed the possibility of extending oil production cuts to the end of March next year in an attempt to stabilize the global crude market and reduce global oil inventories to their five-year average level.,0.602613091468811,0.19707463681697845,0.20031222701072693,positive,0.4055384397506714
+13,2017-05-16 06:05:00,"Consequently, WTI crude prices gained by $1.01, or 2.1%, to $48.85 a barrel.",0.9515042304992676,0.02624855749309063,0.02224726602435112,positive,0.9252556562423706
+14,2017-05-16 06:05:00,"The broader Energy Select Sector SPDR (XLE) advanced 0.8%, emerging as one of the best performing sectors of S&P 500.",0.9496926069259644,0.025253720581531525,0.02505379542708397,positive,0.9244388937950134
+15,2017-05-16 06:05:00,Some of the key holdings of the energy sector in the S&P 500 including Halliburton Co HAL and ConocoPhillips COP gained by 3% and 1% respectively.,0.9444903135299683,0.02579512819647789,0.029714519158005714,positive,0.9186952114105225
+16,2017-05-16 06:05:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+17,2017-05-16 06:05:00,"In a separate development, according to a monthly report released by Energy Information Administration (EIA) on Monday, production of oil from seven leading U.S. shale plays is estimated to go up by 122,000 barrels per day to 5.401 million barrels per day in June from this month.",0.9309030771255493,0.02365150861442089,0.04544536769390106,positive,0.9072515964508057
+18,2017-05-16 06:05:00,"Software security stocks moved higher following a cyber attack on Friday that affected at least 200,000 computers across the world, as per EU law enforcement agency Europol estimates.",0.9187256097793579,0.04572021961212158,0.035554107278585434,positive,0.8730053901672363
+19,2017-05-16 06:05:00,Cybersecurity stocks gained on expectations that attacks were likely to continue into the current week.,0.9054919481277466,0.045451536774635315,0.04905649274587631,positive,0.8600404262542725
+20,2017-05-16 06:05:00,"According to Europol, Friday's ""WannaCry"" ransomware attack took place across a minimum of 150 countries.",0.06142258644104004,0.5754582285881042,0.3631192147731781,negative,-0.5140356421470642
+21,2017-05-16 06:05:00,Ransomware is named as such because it takes computers or even entire networks hostage until a specific ransom is paid up.,0.04816040024161339,0.07522141188383102,0.8766181468963623,neutral,-0.027061011642217636
+22,2017-05-16 06:05:00,"The ""WannaCry"" cyberattack worm raised global concerns about computers being affected with the virus on a very wide scale.",0.108564592897892,0.6891298890113831,0.20230551064014435,negative,-0.5805652737617493
+23,2017-05-16 06:05:00,"Shares of FireEye Inc FEYE , Symantec Corporation SYMC and Palo Alto Networks Inc PANW gained 7.5%, 3.2% and 2.7% respectively.",0.9252022504806519,0.02232210524380207,0.052475567907094955,positive,0.9028801321983337
+24,2017-05-16 06:05:00,The gain in the cyber security stocks had a positive impact on the overall technology sector.,0.9431059956550598,0.02131330966949463,0.03558068722486496,positive,0.9217926859855652
+25,2017-05-16 06:05:00,"ExxonMobil Corporation XOM recently came up with positive drilling results on the Muruk-1 sidetrack well in the Papua New Guinea (""PNG"") North Highlands.",0.9505980014801025,0.023612096905708313,0.025789940729737282,positive,0.9269859194755554
+26,2017-05-16 06:05:00,"( Read More )
+
+Moody's Inks Deal to Buy Bureau van Dijk for $3.3B, Stock Up
+
+With an aim to expand its risk data and analytical insight capabilities, Moody's Corporation MCO announced a deal to acquire Amsterdam, Netherlands-based Bureau van Dijk for €3.0 billion ($3.3 billion).",0.8826318383216858,0.012124255299568176,0.10524392127990723,positive,0.8705075979232788
+27,2017-05-16 06:05:00,"( Read More )
+
+The Home Depot Inc. HD reported better-than-expected bottom-line results for first-quarter fiscal 2017, retaining the four-year long trend of beating earnings estimates.",0.9127655029296875,0.06360826641321182,0.023626219481229782,positive,0.8491572141647339
+28,2017-05-16 06:05:00,"( Read More )
+
+If the stocks above spark your interest, wait until you look into companies primed to make substantial gains from Washington's changing course.",0.5880492329597473,0.022923888638615608,0.38902682065963745,positive,0.5651253461837769
+29,2017-05-16 06:05:00,"Today Zacks reveals 5 tickers that could benefit from new trends like streamlined drug approvals, tariffs, lower taxes, higher interest rates, and spending surges in defense and infrastructure.",0.885200023651123,0.016108764335513115,0.0986911803483963,positive,0.869091272354126
+30,2017-05-16 06:05:00,"See these buy recommendations now >>
+
+Want the latest recommendations from Zacks Investment Research?",0.026716269552707672,0.011795613914728165,0.9614881277084351,neutral,0.014920655637979507
+31,2017-05-16 06:05:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+32,2017-05-16 06:05:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+33,2017-05-16 06:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

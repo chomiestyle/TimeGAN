@@ -1,0 +1,70 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-17 05:07:00,Dividends are good.,0.6266402006149292,0.020763102918863297,0.3525967597961426,positive,0.6058771014213562
+1,2017-12-17 05:07:00,Growing dividends are even better.,0.8835657835006714,0.019934754818677902,0.09649945050477982,positive,0.863631010055542
+2,2017-12-17 05:07:00,But dividends that double in only a few years?,0.159459188580513,0.07628058642148972,0.7642602324485779,neutral,0.08317860215902328
+3,2017-12-17 05:07:00,They're great.,0.48866790533065796,0.013235111720860004,0.4980970025062561,neutral,0.47543278336524963
+4,2017-12-17 05:07:00,Or at least some of them are.,0.17154765129089355,0.061058513820171356,0.7673938870429993,neutral,0.1104891374707222
+5,2017-12-17 05:07:00,There are some stocks with fast-growing dividends that still have puny yields.,0.1050616130232811,0.1835249811410904,0.7114134430885315,neutral,-0.0784633681178093
+6,2017-12-17 05:07:00,"Others have enjoyed strong dividend growth in the past, but the future appears to be murkier.",0.4856851398944855,0.22542758285999298,0.28888729214668274,positive,0.2602575421333313
+7,2017-12-17 05:07:00,"However, there are a few attractive income stocks whose dividends have doubled in recent years and have the potential to double yet again.",0.8178707361221313,0.01918015442788601,0.16294914484024048,positive,0.7986905574798584
+8,2017-12-17 05:07:00,"Amgen (NASDAQ: AMGN) , Lowe's Companies (NYSE: LOW) , and Texas Instruments (NASDAQ: TXN) rank high on this list.",0.10738817602396011,0.011868270114064217,0.8807435631752014,neutral,0.09551990777254105
+9,2017-12-17 05:07:00,Amgen has increased its dividend by nearly 145% over the last five years.,0.9514709115028381,0.017392313107848167,0.031136780977249146,positive,0.934078574180603
+10,2017-12-17 05:07:00,"Just a few days ago, the big biotech hiked its dividend again, this time boosting its payout by 15%.",0.9413664937019348,0.021735459566116333,0.03689800947904587,positive,0.9196310043334961
+11,2017-12-17 05:07:00,"If Amgen keeps it up at that rate, its dividend will double yet again within the next five years.",0.9300366640090942,0.02092128060758114,0.049042005091905594,positive,0.9091153740882874
+12,2017-12-17 05:07:00,"With a current yield of 2.62%, that kind of growth would have income-seeking investors sitting pretty in the next decade.",0.5626939535140991,0.049727242439985275,0.38757872581481934,positive,0.5129666924476624
+13,2017-12-17 05:07:00,But can Amgen keep growing its dividend as it has in the past?,0.8545281291007996,0.01872527226805687,0.1267465353012085,positive,0.8358028531074524
+14,2017-12-17 05:07:00,I think so.,0.20592829585075378,0.026304421946406364,0.7677673101425171,neutral,0.17962387204170227
+15,2017-12-17 05:07:00,The biotech uses only 40% of earnings and less than a third of its free cash flow to fund the dividend program.,0.013083569705486298,0.1573822945356369,0.829534113407135,neutral,-0.1442987322807312
+16,2017-12-17 05:07:00,That gives Amgen plenty of flexibility for future dividend increases.,0.848369300365448,0.014036097563803196,0.13759450614452362,positive,0.8343331813812256
+17,2017-12-17 05:07:00,"There is a problem, however.",0.04443132504820824,0.2727774381637573,0.6827912330627441,neutral,-0.2283461093902588
+18,2017-12-17 05:07:00,Amgen's earnings growth is likely to drop considerably from levels in previous years.,0.015949252992868423,0.972109854221344,0.011940870434045792,negative,-0.9561606049537659
+19,2017-12-17 05:07:00,"Sales are slipping for the company's two top-selling drugs, Enbrel and Neulasta, as competitors take away market share.",0.01782356947660446,0.9711542725563049,0.011022169142961502,negative,-0.9533306956291199
+20,2017-12-17 05:07:00,"Amgen claims several drugs that are enjoying sales growth, but it's not enough to compensate for the other declines.",0.12428869307041168,0.8232985734939575,0.05241275206208229,negative,-0.699009895324707
+21,2017-12-17 05:07:00,"Better days could be ahead for Amgen, though.",0.458086222410202,0.033119361847639084,0.5087944269180298,neutral,0.42496687173843384
+22,2017-12-17 05:07:00,"Cholesterol drug Repatha could take off following the recent FDA approval for the drug in preventing heart attacks, strokes, and coronary revascularizations.",0.36885935068130493,0.38201114535331726,0.2491294890642166,negative,-0.013151794672012329
+23,2017-12-17 05:07:00,"Migraine drug erenumab, for which Amgen awaits potential regulatory approval in May 2018, should be another winner.",0.8061860203742981,0.022952919825911522,0.1708611100912094,positive,0.783233106136322
+24,2017-12-17 05:07:00,"Robert Bradway, Amgen's CEO, stated in September that the biotech ""is trying to find acquisitions that add value for our shareholders.""",0.4423600137233734,0.009883602149784565,0.5477563738822937,neutral,0.4324764013290405
+25,2017-12-17 05:07:00,"With a huge cash stockpile of more than $41 billion, funding those acquisitions shouldn't be a problem.",0.08307014405727386,0.035583846271038055,0.8813459873199463,neutral,0.04748629778623581
+26,2017-12-17 05:07:00,Lowe's dividend has soared by 156% over the last five years.,0.9505816102027893,0.017474964261054993,0.031943392008543015,positive,0.9331066608428955
+27,2017-12-17 05:07:00,"In June, the home improvement retailer increased its dividend by 17%.",0.9479994177818298,0.01846330612897873,0.03353733569383621,positive,0.9295361042022705
+28,2017-12-17 05:07:00,"With the power of compounding, Lowe's dividend will double in less than five years at that growth rate.",0.9314954876899719,0.01584245264530182,0.0526619553565979,positive,0.9156530499458313
+29,2017-12-17 05:07:00,Another doubling seems quite possible.,0.36995890736579895,0.04202558472752571,0.5880154967308044,neutral,0.32793331146240234
+30,2017-12-17 05:07:00,The company's payout ratio is a low 36.5%.,0.02008957788348198,0.9201965928077698,0.05971372872591019,negative,-0.9001070261001587
+31,2017-12-17 05:07:00,Lowe's uses only 27% of its free cash flow to pay dividends.,0.009654909372329712,0.05417612940073013,0.936168909072876,neutral,-0.04452122002840042
+32,2017-12-17 05:07:00,It technically could afford to double the dividend now if it wanted to.,0.7089007496833801,0.023675886914134026,0.2674234211444855,positive,0.6852248907089233
+33,2017-12-17 05:07:00,"While Wall Street expects earnings growth for Lowe's to slow down in the next few years, there's no cause for alarm.",0.01684512011706829,0.954201340675354,0.028953619301319122,negative,-0.9373562335968018
+34,2017-12-17 05:07:00,Lowe's should still be able to increase earnings by close to 14% annually.,0.9564461708068848,0.017188651487231255,0.026365142315626144,positive,0.9392575025558472
+35,2017-12-17 05:07:00,"That should make future dividend hikes a no-brainer for the company, which has increased its dividend for the last 54 years.",0.8580269813537598,0.06626302748918533,0.0757099986076355,positive,0.791763961315155
+36,2017-12-17 05:07:00,"Some naysayers compare Lowe's to its larger rival Home Depot , which has generated much more impressive total returns in the past.",0.8220285177230835,0.04527467116713524,0.13269679248332977,positive,0.776753842830658
+37,2017-12-17 05:07:00,"There are plenty of reasons to expect that Lowe's could beat its nemesis in stock gains over the next few years, though.",0.9321892857551575,0.02078094892203808,0.04702982306480408,positive,0.9114083647727966
+38,2017-12-17 05:07:00,Texas Instruments leads the pack in dividend growth.,0.892993152141571,0.015242463909089565,0.09176434576511383,positive,0.8777506947517395
+39,2017-12-17 05:07:00,"Over the last five years, the big chipmaker's dividend hasn't just doubled, it's nearly tripled .",0.8492910265922546,0.015117495320737362,0.1355915367603302,positive,0.8341735601425171
+40,2017-12-17 05:07:00,"In September, TI boosted its dividend by 24%.",0.9509320259094238,0.01880219392478466,0.030265692621469498,positive,0.9321298599243164
+41,2017-12-17 05:07:00,"If it keeps that kind of increase going, Texas Instruments' dividend would be twice its current level by the end of 2020.",0.8264379501342773,0.014527915976941586,0.15903417766094208,positive,0.8119100332260132
+42,2017-12-17 05:07:00,"That sounds great, considering that TI's yield already stands north of 2.5%.",0.5282830595970154,0.020250976085662842,0.45146599411964417,positive,0.5080320835113525
+43,2017-12-17 05:07:00,"Even with its huge dividend hikes, Texas Instruments uses less than 47% of its earnings to pay dividends.",0.02118561789393425,0.4547715187072754,0.5240429043769836,neutral,-0.43358591198921204
+44,2017-12-17 05:07:00,The company uses close to the same percentage of its free cash flow to fund the dividend program.,0.034644272178411484,0.006718393415212631,0.9586373567581177,neutral,0.027925878763198853
+45,2017-12-17 05:07:00,"Like Amgen and Lowe's, TI has a lot of flexibility for more dividend increases.",0.7824923396110535,0.013996045105159283,0.20351164042949677,positive,0.7684962749481201
+46,2017-12-17 05:07:00,What does the company itself say about future dividend hikes?,0.034218646585941315,0.01455620676279068,0.9512251019477844,neutral,0.019662439823150635
+47,2017-12-17 05:07:00,"According to TI's website, ""We've committed to return all of our free cash flow to shareholders through dividends and stock repurchases.""",0.3660735487937927,0.00866828765720129,0.625258207321167,neutral,0.35740527510643005
+48,2017-12-17 05:07:00,"TI stock currently trades at nearly 22 times expected earnings, so it's not exactly cheap.",0.05253389850258827,0.042843010276556015,0.9046230912208557,neutral,0.009690888226032257
+49,2017-12-17 05:07:00,I wouldn't be surprised if the company chooses to pour more of its cash flow into paying dividends than it does in buying back shares.,0.15551817417144775,0.011093050241470337,0.8333887457847595,neutral,0.14442512392997742
+50,2017-12-17 05:07:00,Texas Instruments has one other thing in common with Amgen and Lowe's: Analysts expect slower earnings growth in the future.,0.028459101915359497,0.8863910436630249,0.08514978736639023,negative,-0.8579319715499878
+51,2017-12-17 05:07:00,Is that a problem?,0.07233131676912308,0.24703775346279144,0.6806309819221497,neutral,-0.17470642924308777
+52,2017-12-17 05:07:00,Not really.,0.10527074337005615,0.1190301701426506,0.7756990194320679,neutral,-0.013759426772594452
+53,2017-12-17 05:07:00,Wall Street still thinks TI will deliver average annual earnings growth of close to 11%.,0.9192705750465393,0.013793358579277992,0.06693608313798904,positive,0.9054772257804871
+54,2017-12-17 05:07:00,"If you're looking for reliable, growing income, Texas Instruments, Amgen, and Lowe's appear to be smart picks.",0.46269547939300537,0.012540881521999836,0.5247636437416077,neutral,0.4501546025276184
+55,2017-12-17 05:07:00,"10 stocks we like better than Texas Instruments
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14882098138332367,0.0232543982565403,0.8279245495796204,neutral,0.12556658685207367
+56,2017-12-17 05:07:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+57,2017-12-17 05:07:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Texas Instruments wasn't one of them!",0.2205461710691452,0.013506562449038029,0.7659472823143005,neutral,0.20703960955142975
+58,2017-12-17 05:07:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+59,2017-12-17 05:07:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+60,2017-12-17 05:07:00,Keith Speights has no position in any of the stocks mentioned.,0.009128669276833534,0.045183293521404266,0.9456880688667297,neutral,-0.03605462610721588
+61,2017-12-17 05:07:00,The Motley Fool has the following options: short January 2018 $170 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013423945754766464,0.026778826490044594,0.9597972631454468,neutral,-0.01335488073527813
+62,2017-12-17 05:07:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+63,2017-12-17 05:07:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+64,2017-12-17 05:07:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

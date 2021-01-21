@@ -1,0 +1,90 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-05 06:41:00,"In recent times, we have witnessed catastrophic hurricanes making landfall on the U.S. soil, missile launches over Japan by North Korea, global terror attacks and cyber breach at credit bureau Equifax and the Securities and Exchange Commission.",0.06682977080345154,0.28484824299812317,0.6483219861984253,neutral,-0.21801847219467163
+1,2017-10-05 06:41:00,"The Dow Jones, however, continued to scale record highs despite the bad tidings.",0.8421686887741089,0.08701533079147339,0.07081599533557892,positive,0.7551533579826355
+2,2017-10-05 06:41:00,The blue-chip index extended its winning streak to six straight sessions after President Trump's closest confidant Rex Tillerson denied that he has considered stepping down.,0.7268015742301941,0.11492078751325607,0.15827761590480804,positive,0.6118807792663574
+3,2017-10-05 06:41:00,"Trump administration, in the meanwhile, is moving ahead with his new tax plan that further helped stock traders breathe a sigh of relief.",0.9077093601226807,0.03820108622312546,0.05408947542309761,positive,0.8695082664489746
+4,2017-10-05 06:41:00,"But, the primary catalyst that is helping the 30-stock index gain ground is bullish economic data.",0.7949357628822327,0.024169927462935448,0.18089425563812256,positive,0.7707658410072327
+5,2017-10-05 06:41:00,The ISM services index expanded at the fastest clip in 12 years on the heels of a solid ISM manufacturing report.,0.9478887915611267,0.02426823414862156,0.027842918410897255,positive,0.9236205816268921
+6,2017-10-05 06:41:00,"Needless to say, the U.S. economy is growing close to the range expected by Trump and some other Republicans.",0.8462797403335571,0.020577995106577873,0.13314229249954224,positive,0.8257017731666565
+7,2017-10-05 06:41:00,"This has provided a fillip to U.S. corporate profits, while the Federal Reserve's intention to hike rates exhibited the underlying strength of the economy.",0.7875350117683411,0.07162674516439438,0.14083817601203918,positive,0.7159082889556885
+8,2017-10-05 06:41:00,"Given the positives, investing in blue-chip dividend paying stocks seems tempting at the moment.",0.4774646461009979,0.01958073489367962,0.5029546022415161,neutral,0.45788392424583435
+9,2017-10-05 06:41:00,"These stocks provide higher returns at lower risks, which are undoubtedly the 'holy grail' of investing.",0.736686110496521,0.019288446754217148,0.24402542412281036,positive,0.7173976898193359
+10,2017-10-05 06:41:00,"Dividend payers, moreover, have remarkable financial strength and are immune to market vagaries.",0.666015088558197,0.014242304489016533,0.3197425901889801,positive,0.6517727971076965
+11,2017-10-05 06:41:00,"After all, this month is traditionally known to be the most volatile for the broader market.",0.08093255758285522,0.18341131508350372,0.735656201839447,neutral,-0.1024787575006485
+12,2017-10-05 06:41:00,"The daily percentage change this month is 1.44%, compared with 1.08% for the other months.",0.41217976808547974,0.4622727334499359,0.12554755806922913,negative,-0.05009296536445618
+13,2017-10-05 06:41:00,"Before we cheery pick such stocks, here's a look at the factors that helped the Dow Jones kick off October on a high note:
+
+Non-manufacturing activity picked up in the United States to scale a 12-year high in September.",0.7675073742866516,0.05390405282378197,0.17858856916427612,positive,0.7136033177375793
+14,2017-10-05 06:41:00,Services Purchasing Managers' Index was boosted by a rise in production and new orders.,0.9450464844703674,0.02644817717373371,0.028505265712738037,positive,0.9185982942581177
+15,2017-10-05 06:41:00,"According to the Institute of Supply Management (ISM), the non-manufacturing gauge came in at 59.8% last month, its highest reading since August 2005.",0.7029019594192505,0.20916329324245453,0.0879346951842308,positive,0.49373865127563477
+16,2017-10-05 06:41:00,"The new orders index registered 63%, six points higher than that recorded in the previous month, while the production index, climbed to a five-month high of 61.3%.",0.9423355460166931,0.03263130411505699,0.025033144280314445,positive,0.9097042679786682
+17,2017-10-05 06:41:00,This encouraging report on service growth showed a steady recovery of the economy from the hurricane-related setback.,0.9469069838523865,0.022232862189412117,0.03086012601852417,positive,0.9246740937232971
+18,2017-10-05 06:41:00,"A key yardstick of manufacturing activity in the United States scaled a 13-year high in September, courtesy of two major hurricanes.",0.8177942037582397,0.10431249439716339,0.07789336144924164,positive,0.7134817242622375
+19,2017-10-05 06:41:00,Increased demand for rebuilding supplies somewhat drove manufacturing activity.,0.8879512548446655,0.04338887706398964,0.06865983456373215,positive,0.8445623517036438
+20,2017-10-05 06:41:00,"New orders, production, new export orders and hiring increased last month.",0.8801703453063965,0.028914937749505043,0.09091462939977646,positive,0.8512554168701172
+21,2017-10-05 06:41:00,"According to the ISM, the manufacturing index climbed to 60.8% in September from 58.8% in August.",0.9538617134094238,0.027665071189403534,0.018473206087946892,positive,0.9261966347694397
+22,2017-10-05 06:41:00,"Notably, 17 of the 18 industries reported growth last month, led by textile mills and machinery.",0.7504264712333679,0.017321355640888214,0.23225218057632446,positive,0.7331051230430603
+23,2017-10-05 06:41:00,Only furniture manufacturing witnessed a decline (read more: U.S. Manufacturing Activity Hits 13-Year High: Top 5 Winners ).,0.025136718526482582,0.9590595364570618,0.015803789719939232,negative,-0.9339228272438049
+24,2017-10-05 06:41:00,"The U.S. GDP expanded 3.1% in the second quarter, the fastest in more than two years.",0.9504550695419312,0.02110162191092968,0.02844320610165596,positive,0.9293534755706787
+25,2017-10-05 06:41:00,It is also up slightly from a previously reported 3%.,0.9558451771736145,0.02276516705751419,0.021389639005064964,positive,0.9330800175666809
+26,2017-10-05 06:41:00,An uptick in consumer outlays and business investment drove the upside.,0.8905922770500183,0.04042541980743408,0.06898236274719238,positive,0.8501668572425842
+27,2017-10-05 06:41:00,Increased spending on goods and services pushed consumer expenditure up 3.3% in the said quarter.,0.9421326518058777,0.03125804662704468,0.026609258726239204,positive,0.910874605178833
+28,2017-10-05 06:41:00,The resilience of the domestic economy boosted earnings results.,0.9465458989143372,0.02132784202694893,0.0321262888610363,positive,0.9252180457115173
+29,2017-10-05 06:41:00,Total Q2 earnings for the S&P 500 index were up 11.1% from the same period last year on 5.5% higher revenues.,0.9562056064605713,0.025331616401672363,0.01846284419298172,positive,0.9308739900588989
+30,2017-10-05 06:41:00,This marked the second straight quarter of double-digit growth.,0.9277039170265198,0.022079430520534515,0.05021653696894646,positive,0.905624508857727
+31,2017-10-05 06:41:00,Earnings growth is also expected to enter the positive territory in Q3.,0.9446328282356262,0.016707178205251694,0.038659993559122086,positive,0.9279256463050842
+32,2017-10-05 06:41:00,Total Q3 earnings are poised to be up 3.2% from the same period last year on 5% higher revenues (read more: Handicapping the Q3 Earnings Season ).,0.9578271508216858,0.02323739416897297,0.01893545687198639,positive,0.9345897436141968
+33,2017-10-05 06:41:00,Trump has urged the Congress to proceed faster with the corporate tax cut and had recently held a bipartisan group of House members at the White House to discuss a tax deal.,0.5628623962402344,0.12274948507547379,0.31438812613487244,positive,0.4401129186153412
+34,2017-10-05 06:41:00,He has been working on a major tax overhaul in more than three decades.,0.4647999107837677,0.05641013756394386,0.4787900149822235,neutral,0.40838977694511414
+35,2017-10-05 06:41:00,"Ever since 1986, the tax code hasn't been restructured, when President Ronald Reagan along with a divided Congress broadened the tax base and slashed marginal tax rates.",0.3381500244140625,0.2565098702907562,0.40534013509750366,neutral,0.08164015412330627
+36,2017-10-05 06:41:00,Trump proposed a multi-trillion-dollar tax cut that would boost the U.S. economy and drive corporate profits.,0.709510862827301,0.08941753953695297,0.20107166469097137,positive,0.6200933456420898
+37,2017-10-05 06:41:00,Such a tax cut included trimming of the business tax rate to 20% from 35%.,0.57659512758255,0.09163420647382736,0.33177074790000916,positive,0.4849609136581421
+38,2017-10-05 06:41:00,"Low corporate tax will benefit businesses of all sizes, as most of them will see an improvement in the bottom line (read more: 5 Stocks Blistering Higher on Tax Reform ).",0.9370973706245422,0.024179065600037575,0.03872348740696907,positive,0.9129183292388916
+39,2017-10-05 06:41:00,"Thanks to the bullish factors, there has been a particularly sharp rally in the Dow.",0.9158334732055664,0.04258788749575615,0.04157866910099983,positive,0.8732455968856812
+40,2017-10-05 06:41:00,"The companies under the index are slated to gain further in the near term as they have large market capitalization, strong balance sheets and solid cash flow.",0.935707151889801,0.013507118448615074,0.05078579857945442,positive,0.9222000241279602
+41,2017-10-05 06:41:00,They also return record amount of money to shareholders in the form of dividends.,0.07565125077962875,0.004837215878069401,0.9195114970207214,neutral,0.07081403583288193
+42,2017-10-05 06:41:00,"We have, thus, selected five blue-chip dividend paying stocks that flaunt a Zacks Rank #2 (Buy).",0.5702663064002991,0.011978445574641228,0.41775521636009216,positive,0.5582878589630127
+43,2017-10-05 06:41:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+44,2017-10-05 06:41:00,Visa Inc.V operates the world's largest retail electronic payments network and is one of the most recognized global financial services brands.,0.5766467452049255,0.010503645054996014,0.41284963488578796,positive,0.5661430954933167
+45,2017-10-05 06:41:00,The Zacks Consensus Estimate for its current-year earnings rose 1.8% over the last 90 days.,0.9521797299385071,0.02042827010154724,0.027392003685235977,positive,0.9317514896392822
+46,2017-10-05 06:41:00,"The company's expected growth rate for the current and next quarters are 8.6% and 14.2%, respectively.",0.5628446936607361,0.012373154051601887,0.4247821867465973,positive,0.5504715442657471
+47,2017-10-05 06:41:00,Visa offers a promising dividend yield of 0.63%.,0.8583054542541504,0.01700853742659092,0.12468599528074265,positive,0.841296911239624
+48,2017-10-05 06:41:00,Its five-year average dividend yield is pegged at 18%.,0.06200883165001869,0.006723883096128702,0.931267261505127,neutral,0.05528494715690613
+49,2017-10-05 06:41:00,UnitedHealth Group IncorporatedUNH operates as a diversified health and well-being company in the United States.,0.16446059942245483,0.00525352917611599,0.8302858471870422,neutral,0.1592070758342743
+50,2017-10-05 06:41:00,The Zacks Consensus Estimate for its current-year earnings inched up 0.8% over the last 90 days.,0.9515434503555298,0.02394021488726139,0.024516338482499123,positive,0.9276032447814941
+51,2017-10-05 06:41:00,"The company's expected growth rate for the current and next quarters are 18.6% and 17.9%, respectively.",0.5298122763633728,0.01221753004938364,0.45797017216682434,positive,0.5175947546958923
+52,2017-10-05 06:41:00,UnitedHealth Group offers a promising dividend yield of 1.51%.,0.7824192643165588,0.014051723293960094,0.2035290151834488,positive,0.7683675289154053
+53,2017-10-05 06:41:00,Its five-year average dividend yield is pegged at 30.5%.,0.0588521733880043,0.006778134033083916,0.9343697428703308,neutral,0.05207403749227524
+54,2017-10-05 06:41:00,The Procter & Gamble CompanyPG provides branded consumer packaged goods to consumers in the United States and internationally.,0.043235354125499725,0.004559478722512722,0.952205240726471,neutral,0.03867587447166443
+55,2017-10-05 06:41:00,The Zacks Consensus Estimate for its current-year earnings rose 1.5% over the last 90 days.,0.9519661068916321,0.020585069432854652,0.02744883857667446,positive,0.9313810467720032
+56,2017-10-05 06:41:00,"The company's expected growth rate for the current and next quarters are 4.1% and 6.4%, respectively.",0.5853459239006042,0.012340634129941463,0.4023134410381317,positive,0.5730053186416626
+57,2017-10-05 06:41:00,Procter & Gamble offers a promising dividend yield of 2.99%.,0.7725934386253357,0.015289134345948696,0.21211746335029602,positive,0.757304310798645
+58,2017-10-05 06:41:00,Its five-year average dividend yield is pegged at 3.9%.,0.048508718609809875,0.007194451056420803,0.9442968368530273,neutral,0.0413142666220665
+59,2017-10-05 06:41:00,McDonald's CorporationMCD operates and franchises McDonald's restaurants in the United States and internationally.,0.022521983832120895,0.005419326946139336,0.9720587134361267,neutral,0.01710265688598156
+60,2017-10-05 06:41:00,The Zacks Consensus Estimate for its current-year earnings rose 1.6% over the last 90 days.,0.9521138072013855,0.020583881065249443,0.027302393689751625,positive,0.9315299391746521
+61,2017-10-05 06:41:00,"The company's expected growth rate for the current and next quarters are 7.1% and 9.7%, respectively.",0.5435953736305237,0.012406596913933754,0.4439980089664459,positive,0.5311887860298157
+62,2017-10-05 06:41:00,McDonald's offers a promising dividend yield of 2.4%.,0.7790557742118835,0.017275912687182426,0.2036682516336441,positive,0.7617798447608948
+63,2017-10-05 06:41:00,Its five-year average dividend yield is pegged at 4.8%.,0.05412157252430916,0.007142070680856705,0.9387363195419312,neutral,0.046979501843452454
+64,2017-10-05 06:41:00,"Intel CorporationINTC designs, manufactures, and sells computer, networking, and communications platforms worldwide.",0.05489623546600342,0.0045859492383897305,0.940517783164978,neutral,0.05031028762459755
+65,2017-10-05 06:41:00,The Zacks Consensus Estimate for its current-year earnings rose 5.2% over the last 90 days.,0.9526691436767578,0.01929379813373089,0.02803702838718891,positive,0.933375358581543
+66,2017-10-05 06:41:00,"The company's expected growth rate for the current and next quarters are 0.3% and 4.8%, respectively.",0.6383755207061768,0.013821241445839405,0.34780317544937134,positive,0.6245542764663696
+67,2017-10-05 06:41:00,Intel offers a promising dividend yield of 2.77%.,0.8061749339103699,0.0166411604732275,0.1771838515996933,positive,0.789533793926239
+68,2017-10-05 06:41:00,Its five-year average dividend yield is pegged at 4.7%.,0.053413424640893936,0.007206127047538757,0.939380407333374,neutral,0.04620729759335518
+69,2017-10-05 06:41:00,"4 Stocks to Watch after the Massive Equifax Hack
+
+Cybersecurity stocks spiked on recent news of a data breach affecting 143 million Americans.",0.14404216408729553,0.7820373177528381,0.07392042875289917,negative,-0.6379951238632202
+70,2017-10-05 06:41:00,But which stocks are the best buy candidates right now?,0.086683489382267,0.03281359001994133,0.8805029392242432,neutral,0.05386989936232567
+71,2017-10-05 06:41:00,And what does the future hold for the cybersecurity industry?,0.019813843071460724,0.013591391034424305,0.9665947556495667,neutral,0.006222452037036419
+72,2017-10-05 06:41:00,Equifax is just the most recent victim.,0.10221441090106964,0.38830864429473877,0.5094770193099976,neutral,-0.2860942482948303
+73,2017-10-05 06:41:00,Computer hacking and identity theft are more common than ever.,0.09073713421821594,0.6503427028656006,0.2589201331138611,negative,-0.559605598449707
+74,2017-10-05 06:41:00,Zacks has just released Cybersecurity!,0.0724032074213028,0.012409547343850136,0.9151872396469116,neutral,0.05999366194009781
+75,2017-10-05 06:41:00,An Investor's Guide to inform Zacks.com readers about this $170 billion/year space.,0.06518381834030151,0.01040998287498951,0.9244061708450317,neutral,0.05477383732795715
+76,2017-10-05 06:41:00,"More importantly, it highlights 4 cybersecurity picks with strong profit potential.",0.8120571374893188,0.013405371457338333,0.1745375245809555,positive,0.7986517548561096
+77,2017-10-05 06:41:00,"Get the new Investing Guide now>>
+
+Want the latest recommendations from Zacks Investment Research?",0.03899397701025009,0.014307251200079918,0.946698784828186,neutral,0.024686725810170174
+78,2017-10-05 06:41:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+79,2017-10-05 06:41:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+80,2017-10-05 06:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

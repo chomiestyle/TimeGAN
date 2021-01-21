@@ -1,0 +1,74 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-13 08:18:00,"JD.Com Inc(ADR) (NASDAQ: JD ) disappointed investors with its most recent quarterly report, causing traders to drop JD.com stock about 10% lower on the news.",0.021689951419830322,0.9666349291801453,0.011675081215798855,negative,-0.9449449777603149
+1,2018-03-13 08:18:00,It's not hard to see why.,0.04194040969014168,0.04951560124754906,0.9085439443588257,neutral,-0.007575191557407379
+2,2018-03-13 08:18:00,"The company came up short of earnings estimates, and revenues fell short of more optimistic analysts' outlooks.",0.01854276843369007,0.9671794772148132,0.014277725480496883,negative,-0.9486367106437683
+3,2018-03-13 08:18:00,"And now, the stock is down more than 4% in early morning trading, as the reports have surfaced that Tybourne Capital Management has significantly reduced its stake in JD stock (a reduction of more than 62% ).",0.01830991543829441,0.9674078226089478,0.014282260090112686,negative,-0.9490979313850403
+4,2018-03-13 08:18:00,"However, the market's reaction to its earnings slump is overblown.",0.3368186056613922,0.34950166940689087,0.31367969512939453,negative,-0.012683063745498657
+5,2018-03-13 08:18:00,Management has consistently indicated that it doesn't care about short-term earnings numbers.,0.0325496606528759,0.24109907448291779,0.7263513207435608,neutral,-0.2085494101047516
+6,2018-03-13 08:18:00,"As such, it's more fair to judge the company on how well it is building its retail and logistics empire.",0.6214793920516968,0.014695548452436924,0.36382508277893066,positive,0.6067838668823242
+7,2018-03-13 08:18:00,"And on that front, the story remains intact.",0.40710851550102234,0.01653093285858631,0.5763605833053589,neutral,0.3905775845050812
+8,2018-03-13 08:18:00,"To see why, let's start with an important distinction: the difference between earnings and cash flow.",0.02275559864938259,0.0217374786734581,0.9555068612098694,neutral,0.0010181199759244919
+9,2018-03-13 08:18:00,InvestorPlace contributor Lawrence Meyers recently suggested that JD.com stock should be avoided.,0.03111947886645794,0.4872303605079651,0.481650173664093,negative,-0.4561108946800232
+10,2018-03-13 08:18:00,"He started off with this provocative claim: the company ""has numbers that look good on the surface, but when you get to the numbers that really matter, JD stock is a ridiculous investment.""",0.07309073954820633,0.30860206484794617,0.6183071732521057,neutral,-0.23551133275032043
+11,2018-03-13 08:18:00,"Meyers continues, explaining how JD.com still loses money despite its growing sales.",0.040569450706243515,0.9332262277603149,0.02620430663228035,negative,-0.8926568031311035
+12,2018-03-13 08:18:00,And he certainly has a good point: JD doesn't generate large consistent profits.,0.02239733375608921,0.04625952988862991,0.9313431978225708,neutral,-0.023862196132540703
+13,2018-03-13 08:18:00,"Even on a friendlier non-GAAP basis, the company doesn't produce significant earnings in most quarters.",0.03461455926299095,0.30149975419044495,0.663885772228241,neutral,-0.2668851912021637
+14,2018-03-13 08:18:00,"Meyers grants that JD.com is cash flow positive, but suggests that a company with nearly as many active users as the American population should also generate noteworthy profits.",0.9282799959182739,0.018132876604795456,0.053587161004543304,positive,0.9101471304893494
+15,2018-03-13 08:18:00,This isn't necessarily wrong.,0.12899863719940186,0.05018231272697449,0.8208190202713013,neutral,0.07881632447242737
+16,2018-03-13 08:18:00,Many investors won't touch stocks that aren't currently generating profits.,0.040463563054800034,0.2341606467962265,0.725375771522522,neutral,-0.19369708001613617
+17,2018-03-13 08:18:00,Every investment you make should match your risk profile and investment goals.,0.1070588156580925,0.0058153001591563225,0.8871258497238159,neutral,0.1012435182929039
+18,2018-03-13 08:18:00,"If currently unprofitable companies don't meet your standards, there's nothing wrong with avoiding them.",0.04781721159815788,0.1309213638305664,0.8212614059448242,neutral,-0.08310414850711823
+19,2018-03-13 08:18:00,"However, JD.com has made no effort to hide the fact that it is closely following the business model of Amazon.com, Inc. (NASDAQ: AMZN ).",0.0603487528860569,0.013664179481565952,0.9259871244430542,neutral,0.04668457433581352
+20,2018-03-13 08:18:00,"For many years, Amazon generated operating losses, or at best, reported tiny profits.",0.01680869422852993,0.9646587371826172,0.018532516434788704,negative,-0.9478500485420227
+21,2018-03-13 08:18:00,"However, Amazon managed its cash flow well, and as a result, it never had to significantly dilute shareholders or take on too much debt.",0.666532039642334,0.0505806989967823,0.2828873097896576,positive,0.6159513592720032
+22,2018-03-13 08:18:00,Amazon isn't the only company doing this.,0.02449609525501728,0.009184954687952995,0.9663189649581909,neutral,0.015311140567064285
+23,2018-03-13 08:18:00,"Salesforce.com, Inc. (NYSE: CRM ) is another classic example of growth now to build a monopoly business and earn fat profits later.",0.2974560260772705,0.09065781533718109,0.6118861436843872,neutral,0.20679821074008942
+24,2018-03-13 08:18:00,JD is using the same approach.,0.02390137128531933,0.0065514929592609406,0.9695471525192261,neutral,0.017349878326058388
+25,2018-03-13 08:18:00,"In the past year, JD.com generated more than $2 billion in free cash flow.",0.623713493347168,0.010784616693854332,0.36550188064575195,positive,0.6129288673400879
+26,2018-03-13 08:18:00,"That's the real figure to watch, since JD needs cash to keep expanding and fighting the good fight against Alibaba Group Holding Ltd (NYSE: BABA ) and other Chinese competition.",0.8277090787887573,0.018639124929904938,0.1536518782377243,positive,0.8090699315071106
+27,2018-03-13 08:18:00,"As long as JD.com generates a substantial pile of cash, it can keep operating as it is currently doing.",0.7090269327163696,0.011330913752317429,0.27964216470718384,positive,0.6976960301399231
+28,2018-03-13 08:18:00,"Sure, it'd be nice if JD produced large operating profits as well, allowing it to pay dividends or buy back stock.",0.6595624685287476,0.012032040394842625,0.3284054696559906,positive,0.6475304365158081
+29,2018-03-13 08:18:00,But the company is still young and is in an intense battle for market share.,0.2713444232940674,0.1144440621137619,0.6142114996910095,neutral,0.15690036118030548
+30,2018-03-13 08:18:00,"If there was ever a time to prioritize growth over current profits, it would be now.",0.22361882030963898,0.025568051263689995,0.7508131265640259,neutral,0.19805076718330383
+31,2018-03-13 08:18:00,Many skeptics laughed at Amazon's business model.,0.05346957594156265,0.8208025097846985,0.12572789192199707,negative,-0.767332911491394
+32,2018-03-13 08:18:00,But they missed the fact that Amazon was building a nearly impenetrable moat.,0.12421684712171555,0.27714917063713074,0.5986340045928955,neutral,-0.1529323160648346
+33,2018-03-13 08:18:00,JD.com is attempting the same thing.,0.03208376094698906,0.01357769314199686,0.954338550567627,neutral,0.018506068736314774
+34,2018-03-13 08:18:00,It may not succeed.,0.09296772629022598,0.30018264055252075,0.6068496108055115,neutral,-0.20721492171287537
+35,2018-03-13 08:18:00,"But if it does, the company's market cap will be many multiples of today's $65-billion market cap.",0.11383815109729767,0.021917089819908142,0.864244818687439,neutral,0.09192106127738953
+36,2018-03-13 08:18:00,"Alibaba, for comparison's sake, is currently worth almost eight times that figure.",0.1795133501291275,0.012631609104573727,0.8078550100326538,neutral,0.1668817400932312
+37,2018-03-13 08:18:00,JD.com stock didn't just sell off because of disappointing earnings.,0.0332610085606575,0.9188247323036194,0.04791420325636864,negative,-0.8855637311935425
+38,2018-03-13 08:18:00,"In fact, JD's management has previously stated that it will invest more money in growing the business whenever earnings-per-share starts to rise.",0.8106222152709961,0.01173019502311945,0.1776476353406906,positive,0.7988920211791992
+39,2018-03-13 08:18:00,"After a solid EPS beat last quarter, it shouldn't be surprising that the company allowed earnings to decline this quarter.",0.025485428050160408,0.9500513076782227,0.024463333189487457,negative,-0.924565851688385
+40,2018-03-13 08:18:00,"In fact, this probably occurred by design.",0.03657674789428711,0.008069542236626148,0.9553536772727966,neutral,0.028507206588983536
+41,2018-03-13 08:18:00,"That said, the company's 39% revenue growth rate also disappointed investors.",0.09104747325181961,0.8814356327056885,0.0275169275701046,negative,-0.7903881669044495
+42,2018-03-13 08:18:00,"The company historically has been running revenue growth in the 40s, so a number starting with a three isn't the most upbeat.",0.6088764071464539,0.027564629912376404,0.3635590076446533,positive,0.5813117623329163
+43,2018-03-13 08:18:00,"To be fair to the company, it gets exponentially harder to maintain that high of a growth rate as your base sales number keeps rising.",0.22161567211151123,0.08008348941802979,0.6983007788658142,neutral,0.14153218269348145
+44,2018-03-13 08:18:00,"Still, analysts had expected JD.com to keep in the 40% growth range a little longer, and the company risks falling off the pace against Alibaba if it doesn't grow slightly faster going forward.",0.05228216201066971,0.925466001033783,0.022251825779676437,negative,-0.8731838464736938
+45,2018-03-13 08:18:00,JD has all sorts of expansion plans.,0.14222517609596252,0.005529130809009075,0.8522456884384155,neutral,0.13669604063034058
+46,2018-03-13 08:18:00,It's currently making moves across Southeast Asia and it has suggested that it will move into the United States and Europe sooner or later.,0.23371931910514832,0.008441806770861149,0.7578389048576355,neutral,0.22527751326560974
+47,2018-03-13 08:18:00,"Given the large ownership position of Walmart Inc (NYSE: WMT ) in JD.com, that seems reasonable.",0.0656648650765419,0.008411189541220665,0.9259239435195923,neutral,0.057253673672676086
+48,2018-03-13 08:18:00,"For now, though, I'd rather the company focus on growth that produces more free cash flow, rather than just expanding the revenue number by sacrificing margins.",0.5890932083129883,0.013582433573901653,0.3973243832588196,positive,0.5755107998847961
+49,2018-03-13 08:18:00,Wall Street will continue to overreact to earnings.,0.02553139068186283,0.9492433667182922,0.025225218385457993,negative,-0.9237119555473328
+50,2018-03-13 08:18:00,So much of the analyst game is based around trying to guess next quarter's numbers.,0.01687423698604107,0.03415309637784958,0.9489726424217224,neutral,-0.01727885939180851
+51,2018-03-13 08:18:00,But JD.com isn't about that.,0.022066671401262283,0.034090448170900345,0.9438428282737732,neutral,-0.012023776769638062
+52,2018-03-13 08:18:00,Its management has repeatedly said it isn't trying to hit quarterly numbers.,0.0411381833255291,0.1368381530046463,0.8220236897468567,neutral,-0.0956999659538269
+53,2018-03-13 08:18:00,"Instead, it's building the business for the long haul.",0.32820412516593933,0.008091653697192669,0.6637042164802551,neutral,0.3201124668121338
+54,2018-03-13 08:18:00,"With that sort of attitude, we should expect a fair number of earnings misses over the years.",0.37225162982940674,0.009580099023878574,0.618168294429779,neutral,0.36267152428627014
+55,2018-03-13 08:18:00,Management isn't working with the beat-by-a-penny-every-quarter model.,0.03522013500332832,0.18867257237434387,0.7761072516441345,neutral,-0.15345244109630585
+56,2018-03-13 08:18:00,Rather than focusing on short-term fluctuations in numbers - particularly the largely irrelevant EPS figure - instead analyze JD.com's competitive position.,0.016874684020876884,0.01467850897461176,0.9684468507766724,neutral,0.0021961750462651253
+57,2018-03-13 08:18:00,"I own JD.com stock because it has better logistics than Alibaba, and its business model is ultimately more attractive.",0.874001681804657,0.013934171758592129,0.1120641753077507,positive,0.8600674867630005
+58,2018-03-13 08:18:00,Alibaba is much closer to the eBay Inc (NASDAQ: EBAY ) of China than its Amazon.,0.21730373799800873,0.015539110638201237,0.7671571373939514,neutral,0.20176462829113007
+59,2018-03-13 08:18:00,"And while eBay and PayPal Holdings Inc (NASDAQ: PYPL ) are great companies, the real money comes in being a credible seller of high-quality merchandise á la Amazon, not just operating as a middleman for other merchants.",0.4768644869327545,0.012843992561101913,0.5102915167808533,neutral,0.4640204906463623
+60,2018-03-13 08:18:00,"If JD.com's market share and growth rate drop sharply in China, I'll reconsider my thesis for the stock.",0.030447740107774734,0.2937088906764984,0.675843358039856,neutral,-0.2632611393928528
+61,2018-03-13 08:18:00,But nothing in this earnings report suggested that JD's business model is struggling or that management has lost sight of the way forward.,0.02158084698021412,0.9447597861289978,0.03365946188569069,negative,-0.9231789112091064
+62,2018-03-13 08:18:00,"• Despite Recent Fall, JD.Com Inc (ADR) Stock Is a Long-Term Buy
+
+As a result, the latest dip in JD stock is a solid opportunity to get into this compelling long-term growth story.",0.925736129283905,0.021519174799323082,0.05274473875761032,positive,0.9042169451713562
+63,2018-03-13 08:18:00,"If JD.com is even half as successful as Amazon has been, its market cap of $65 billion could easily move into Alibaba territory over the next decade, making the stock a near 10-bagger.",0.6961795091629028,0.053516678512096405,0.25030383467674255,positive,0.6426628232002258
+64,2018-03-13 08:18:00,"At the time of this writing, the author held JD stock and had no positions in any of the other aforementioned securities.",0.009211622178554535,0.01653607375919819,0.9742523431777954,neutral,-0.007324451580643654
+65,2018-03-13 08:18:00,You can reach him on Twitter at @irbezek.,0.05966216325759888,0.04006844758987427,0.9002693295478821,neutral,0.01959371566772461
+66,2018-03-13 08:18:00,"• 10 Stocks That Are Screaming Buys Right Now
+• The Price Is Right in JD.com, Inc. (ADR) Stock
+
+The post The Dip in JD.Com Inc(ADR) Stock Is Just a Flesh Wound appeared first on InvestorPlace .",0.0631447583436966,0.08506333082914352,0.8517919182777405,neutral,-0.02191857248544693
+67,2018-03-13 08:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

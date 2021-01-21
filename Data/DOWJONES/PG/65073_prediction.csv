@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-17 07:26:00,"In early trading on Tuesday, shares of Procter & Gamble topped the list of the day's best performing Dow Jones Industrial Average components, trading up 5.1%.",0.9378400444984436,0.030973220244050026,0.031186683103442192,positive,0.9068668484687805
+1,2020-03-17 07:26:00,"Year to date, Procter & Gamble has lost about 8.7% of its value.",0.016751714050769806,0.9378798007965088,0.0453685000538826,negative,-0.9211280941963196
+2,2020-03-17 07:26:00,"And the worst performing Dow component thus far on the day is Boeing, trading down 9.7%.",0.021389463916420937,0.9654927253723145,0.013117837719619274,negative,-0.9441032409667969
+3,2020-03-17 07:26:00,Boeing is lower by about 64.1% looking at the year to date performance.,0.02198881097137928,0.9662608504295349,0.011750396341085434,negative,-0.9442720413208008
+4,2020-03-17 07:26:00,"Two other components making moves today are United Technologies, trading down 7.5%, and UnitedHealth Group, trading up 5.0% on the day.",0.02765585109591484,0.9297895431518555,0.04255463927984238,negative,-0.9021337032318115

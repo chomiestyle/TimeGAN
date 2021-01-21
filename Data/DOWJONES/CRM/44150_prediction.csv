@@ -1,0 +1,11 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-05 09:15:00,"Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful.",0.11443211883306503,0.10028719156980515,0.7852806448936462,neutral,0.014144927263259888
+1,2019-08-05 09:15:00,"One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which measures momentum on a scale of zero to 100.",0.038001976907253265,0.010103662498295307,0.9518943428993225,neutral,0.027898315340280533
+2,2019-08-05 09:15:00,A stock is considered to be oversold if the RSI reading falls below 30.,0.02571619115769863,0.7849116325378418,0.18937227129936218,negative,-0.7591954469680786
+3,2019-08-05 09:15:00,"In trading on Monday, shares of Salesforce.com Inc (Symbol: CRM) entered into oversold territory, hitting an RSI reading of 28.2, after changing hands as low as $139.80 per share.",0.02593536488711834,0.9639918804168701,0.01007281057536602,negative,-0.9380565285682678
+4,2019-08-05 09:15:00,"By comparison, the current RSI reading of the S&P 500 ETF (SPY) is 31.1.",0.024200644344091415,0.02059664949774742,0.9552026987075806,neutral,0.003603994846343994
+5,2019-08-05 09:15:00,"A bullish investor could look at CRM's 28.2 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.",0.5729479193687439,0.12866432964801788,0.2983877956867218,positive,0.4442836046218872
+6,2019-08-05 09:15:00,"The chart below shows the one year performance of CRM shares:
+
+Looking at the chart above, CRM's low point in its 52 week range is $113.60 per share, with $167.56 as the 52 week high point — that compares with a last trade of $142.06.",0.03243352845311165,0.8617221117019653,0.10584428161382675,negative,-0.8292886018753052
+7,2019-08-05 09:15:00,Find out what 9 other oversold stocks you need to know about »,0.029731784015893936,0.018774451687932014,0.9514937996864319,neutral,0.010957332327961922

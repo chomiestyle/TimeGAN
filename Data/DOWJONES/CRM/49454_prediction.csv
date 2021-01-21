@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-03 22:00:00,Twilio (NYSE: TWLO) has been a tough stock to own over the past few months.,0.03111923299729824,0.9042882323265076,0.06459257751703262,negative,-0.8731690049171448
+1,2017-03-03 22:00:00,"After going public at $15 per share last June, the stock surged to nearly $70 in late September before overheated valuations and a secondary offering sent the stock tumbling back to the low $30s.",0.21409091353416443,0.5950356125831604,0.19087350368499756,negative,-0.38094469904899597
+2,2017-03-03 22:00:00,All that drama might have convinced Twilio bulls -- who once believed that demand for its cloud platform would keep rising -- to finally give up.,0.3057728111743927,0.39898717403411865,0.29524004459381104,negative,-0.09321436285972595
+3,2017-03-03 22:00:00,"But before you sell this volatile stock, make sure you aren't doing it for these three reasons.",0.015770897269248962,0.05262387543916702,0.9316052794456482,neutral,-0.03685297816991806
+4,2017-03-03 22:00:00,"Analysts expect Twilio's revenue to rise 33% this year, but the stock isn't cheap -- its price-to-sales ratio of 10 is more than double the industry average of 4.5 for software companies.",0.7505897879600525,0.1429816484451294,0.1064286008477211,positive,0.6076081395149231
+5,2017-03-03 22:00:00,"However, that ratio isn't terribly high relative to other cloud-based players with comparable sales growth.",0.4280776083469391,0.050339989364147186,0.5215823650360107,neutral,0.3777376115322113
+6,2017-03-03 22:00:00,"Cloud-based CRM provider Veeva Systems (NYSE: VEEV) , which analysts expect to post 19% sales growth this year, trades at 12 times sales.",0.8236455917358398,0.018852850422263145,0.15750160813331604,positive,0.8047927618026733
+7,2017-03-03 22:00:00,"Cloud-based finance and HR services provider Workday (NYSE: WDAY) , which trades at 11 times sales, is expected to grow its sales by 29% this year.",0.9495067000389099,0.018778152763843536,0.031715162098407745,positive,0.930728554725647
+8,2017-03-03 22:00:00,Twilio's P/S ratio has also cooled down considerably since it peaked in the 20s last October.,0.043110478669404984,0.9243598580360413,0.032529596239328384,negative,-0.8812493681907654
+9,2017-03-03 22:00:00,"Therefore, Twilio's high valuation raises eyebrows, but it isn't necessarily a red flag.",0.3764408826828003,0.13554763793945312,0.48801153898239136,neutral,0.24089324474334717
+10,2017-03-03 22:00:00,"Twilio has never posted a GAAP profit, and hasn't offered a timeline for achieving profitability.",0.08519629389047623,0.028939969837665558,0.8858637809753418,neutral,0.05625632405281067
+11,2017-03-03 22:00:00,But Twilio isn't the only cloud-based SaaS (software as a service) company with a bottom line stuck in the red.,0.06660769879817963,0.2953910827636719,0.6380012035369873,neutral,-0.22878338396549225
+12,2017-03-03 22:00:00,"That's because competing in the SaaS market requires high marketing expenses to secure new clients, low subscription fees to keep them locked in, and high R&D costs to add new services.",0.06465499848127365,0.0778287872672081,0.8575162291526794,neutral,-0.013173788785934448
+13,2017-03-03 22:00:00,Even SaaS giant Salesforce (NYSE: CRM) doesn't consistently post quarterly GAAP profits despite generating $8.4 billion in revenues last year.,0.049834243953228,0.8412958383560181,0.10886992514133453,negative,-0.7914615869522095
+14,2017-03-03 22:00:00,"The good news is that Twilio is adding more services -- like voice, video, security, and analytics tools -- to its ecosystem to generate additional revenues per customer.",0.9338300228118896,0.014178499579429626,0.051991477608680725,positive,0.9196515083312988
+15,2017-03-03 22:00:00,"That's why its ""dollar-based net expansion"" rate, which measures its revenue growth per customer, rose 155% annually last quarter .",0.9045922756195068,0.014671377837657928,0.08073632419109344,positive,0.8899208903312683
+16,2017-03-03 22:00:00,That growth indicates that Twilio can eventually spend less on marketing and R&D as its customers rely on more of its services -- which could eventually pave the way toward profitability.,0.8285771012306213,0.07767180353403091,0.09375112503767014,positive,0.7509052753448486
+17,2017-03-03 22:00:00,Twilio's two largest customers in 2016 were Facebook 's(NASDAQ: FB) WhatsApp and Uber .,0.032351959496736526,0.008457459509372711,0.9591906070709229,neutral,0.023894499987363815
+18,2017-03-03 22:00:00,"WhatsApp accounted for 9% of its sales, and Uber accounted for ""more than 10%"".",0.01933261752128601,0.01495940238237381,0.9657080173492432,neutral,0.004373215138912201
+19,2017-03-03 22:00:00,The bears will suggest that losing either customer would be disastrous -- but that's unlikely to happen anytime soon.,0.03635256364941597,0.7756425142288208,0.18800491094589233,negative,-0.7392899394035339
+20,2017-03-03 22:00:00,"WhatsApp is a ""Variable Customer Account"" which never entered a 12-month minimum revenue commitment contract with Twilio -- so it doesn't pay minimum payments every month, and can end its service at any time.",0.019696859642863274,0.2488267868757248,0.731476366519928,neutral,-0.22912992537021637
+21,2017-03-03 22:00:00,"However, Twilio's dependence on WhatsApp has declined sharply -- the app accounted for 17% of its revenues back in 2015.",0.028744418174028397,0.9384390115737915,0.03281661495566368,negative,-0.9096946120262146
+22,2017-03-03 22:00:00,"Facebook also added Twilio services to Messenger last year, which tightens the relationship between the two companies.",0.46345850825309753,0.26693272590637207,0.269608736038208,positive,0.19652578234672546
+23,2017-03-03 22:00:00,"Uber is a ""Base Customer Account"" which has signed a minimum revenue commitment contract with Twilio, and the company notes that Uber's usage has ""significantly exceeded"" those minimum payments.",0.8913410902023315,0.020785609260201454,0.08787330240011215,positive,0.8705554604530334
+24,2017-03-03 22:00:00,"Last quarter, Twilio notes that its ""base revenue"", which excludes revenue from Variable accounts, rose 73% annually and accounted for 92% of its top line.",0.9280242323875427,0.014818382449448109,0.057157449424266815,positive,0.9132058620452881
+25,2017-03-03 22:00:00,This means that the company can bounce back on Base accounts growth even if it loses big Variable accounts like WhatsApp.,0.9223246574401855,0.031135810539126396,0.046539586037397385,positive,0.8911888599395752
+26,2017-03-03 22:00:00,"Why you should go against the grain
+
+The market is extremely bearish on Twilio right now -- 39% of its float was being shorted as of Feb. 27.",0.0334867388010025,0.7501612901687622,0.21635206043720245,negative,-0.7166745662689209
+27,2017-03-03 22:00:00,"But when everyone is looking in one direction, it sometimes pays to be looking the other way.",0.08778410404920578,0.1673993617296219,0.7448165416717529,neutral,-0.07961525768041611
+28,2017-03-03 22:00:00,"Twilio's top line growth forecasts are still strong, its customer base and ecosystem are expanding, and its valuations are reasonable relative to those of peers with similar growth rates.",0.9054607152938843,0.01443410199135542,0.08010521531105042,positive,0.8910266160964966
+29,2017-03-03 22:00:00,"Once institutional investors, who own just 52% of Twilio's shares, notice those strengths, there could be a big short squeeze -- which will reward investors who didn't sell the stock in the low $30s.",0.0886320024728775,0.8394567370414734,0.0719112902879715,negative,-0.7508247494697571
+30,2017-03-03 22:00:00,"10 stocks we like better than Twilio
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12981627881526947,0.02689797431230545,0.8432856798171997,neutral,0.10291830450296402
+31,2017-03-03 22:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+32,2017-03-03 22:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Twilio wasn't one of them!",0.20415280759334564,0.01573970913887024,0.7801074981689453,neutral,0.1884130984544754
+33,2017-03-03 22:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2017-03-03 22:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+35,2017-03-03 22:00:00,Leo Sun owns shares of Twilio.,0.012322437949478626,0.008947579190135002,0.9787300229072571,neutral,0.003374858759343624
+36,2017-03-03 22:00:00,"The Motley Fool owns shares of and recommends Facebook, Veeva Systems, and Workday.",0.02613256126642227,0.014500089921057224,0.9593673348426819,neutral,0.011632471345365047
+37,2017-03-03 22:00:00,The Motley Fool recommends Salesforce.com and Twilio.,0.02348172292113304,0.03409479185938835,0.9424235224723816,neutral,-0.01061306893825531
+38,2017-03-03 22:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2017-03-03 22:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

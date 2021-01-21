@@ -1,0 +1,29 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-27 01:20:00,"The stock market kicked off the week with a mixed and mostly unchanged performance, a perfectly acceptable performance for the bulls.",0.08194617927074432,0.8748154640197754,0.04323840141296387,negative,-0.7928692698478699
+1,2017-11-27 01:20:00,"According to a CNBC report citing data from Adobe Insights, Cyber Monday sales were on a record-breaking pace on the heels of solid Black Friday sales.",0.9313461780548096,0.02982347644865513,0.038830384612083435,positive,0.901522696018219
+2,2017-11-27 01:20:00,"[ibd-display-video id=2957246 width=50 float=left autostart=true]Shares of Leaderboard name Amazon.com ( AMZN ) outperformed, rising 1% to 1,197.63.",0.7590014934539795,0.21495430171489716,0.02604421228170395,positive,0.5440471768379211
+3,2017-11-27 01:20:00,The tech bellwether scored a new closing high for the fourth straight session.,0.7974499464035034,0.07847491651773453,0.12407517433166504,positive,0.7189750075340271
+4,2017-11-27 01:20:00,"The Dow Jones industrial average ended slightly in the green, up 0.1%, helped by gains of 1% or more by Verizon ( VZ ), 3M ( MMM ), Home Depot ( HD ) and Cisco Systems ( CSCO ).",0.9132424592971802,0.04966321215033531,0.03709437698125839,positive,0.863579273223877
+5,2017-11-27 01:20:00,The Nasdaq composite lost nearly 0.2% and the S&P 500 fell fractionally.,0.018504057079553604,0.9679208397865295,0.013575082644820213,negative,-0.9494167566299438
+6,2017-11-27 01:20:00,"Small caps lagged with the Russell 2000 down 0.4%, according to preliminary data.",0.020925059914588928,0.9623026847839355,0.016772352159023285,negative,-0.9413776397705078
+7,2017-11-27 01:20:00,"In the stock market today , beaten-down department store operators outperformed.",0.1102435514330864,0.873160183429718,0.016596224159002304,negative,-0.762916624546051
+8,2017-11-27 01:20:00,So did solar stocks and various utilities.,0.01599086821079254,0.020376820117235184,0.9636322855949402,neutral,-0.004385951906442642
+9,2017-11-27 01:20:00,"Oil and gas stocks lagged as benchmark crude oil lost 1.4%, settling at $58.11 a barrel.",0.021922683343291283,0.9678601026535034,0.010217171162366867,negative,-0.9459373950958252
+10,2017-11-27 01:20:00,"Elsewhere, in its sixth day as a publicly traded company, Stitch Fix (SFIX) soared to a new high, rising 24% to 23.08.",0.9452776908874512,0.022287245839834213,0.032435089349746704,positive,0.9229904413223267
+11,2017-11-27 01:20:00,Goldman Sachs brought the company public on Nov. 17 at 15.,0.036175478249788284,0.0054342192597687244,0.9583902955055237,neutral,0.030741259455680847
+12,2017-11-27 01:20:00,"Among the day's movers, Deere & Company (DE) extended gains, rising 2%, after shares popped 7% last week on strong earnings.",0.9291514754295349,0.04204639792442322,0.0288021732121706,positive,0.8871051073074341
+13,2017-11-27 01:20:00,"Inside the IBD 50 , Ichor (ICHR) added nearly 4% as it trades near the 50-day moving average.",0.9210695624351501,0.0350947268307209,0.043835729360580444,positive,0.8859748244285583
+14,2017-11-27 01:20:00,Shares have been volatile lately after a recent breakout from a cup-with-handle base.,0.0362621545791626,0.9294773936271667,0.03426044434309006,negative,-0.8932152390480042
+15,2017-11-27 01:20:00,"Leading China stocks were generally weak with names like Autohome (ATHM), YY Inc .",0.017950668931007385,0.9642706513404846,0.017778588458895683,negative,-0.9463199973106384
+16,2017-11-27 01:20:00,"(YY), Sina Corp .",0.013417097739875317,0.009928151033818722,0.9766547679901123,neutral,0.003488946706056595
+17,2017-11-27 01:20:00,(SINA) and 58.com (WUBA) ending with losses ranging from 4% to 6%.,0.021260544657707214,0.9255583882331848,0.05318101868033409,negative,-0.9042978286743164
+18,2017-11-27 01:20:00,"The big loser was highflier Square (SQ), which plunged 16% on a negative analyst comment.",0.019470442086458206,0.9647537469863892,0.015775809064507484,negative,-0.9452832937240601
+19,2017-11-27 01:20:00,"The stock recently broke out over an upper channel line, an occurrence that often signals a top.",0.2618063688278198,0.34651026129722595,0.3916833996772766,neutral,-0.08470389246940613
+20,2017-11-27 01:20:00,"The 10-year Treasury yield was recently trading around 2.33%, down 2 basis points, ahead of Tuesday's confirmation hearing for Jerome Powell, President Trump's nominee to lead the Federal Reserve.",0.02890181541442871,0.9443327784538269,0.0267653688788414,negative,-0.9154309630393982
+21,2017-11-27 01:20:00,"In economic news, new-home sales rose for the third straight month in October to a 10-year high.",0.9365610480308533,0.02729124389588833,0.03614761307835579,positive,0.9092698097229004
+22,2017-11-27 01:20:00,Homebuilders have been outperforming in recent months.,0.03273041918873787,0.9527364373207092,0.014533196575939655,negative,-0.9200060367584229
+23,2017-11-27 01:20:00,"Headed into the Monday, the homebuilder industry group was ranked No.",0.5888233184814453,0.04377027973532677,0.36740636825561523,positive,0.5450530648231506
+24,2017-11-27 01:20:00,4 out of 197 groups tracked by IBD based on six-month price performance.,0.037431374192237854,0.013877538964152336,0.9486910700798035,neutral,0.023553835228085518
+25,2017-11-27 01:20:00,"How To Invest In The Stock Market Using A Simple Routine
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.012569270096719265,0.00917143002152443,0.9782593250274658,neutral,0.0033978400751948357

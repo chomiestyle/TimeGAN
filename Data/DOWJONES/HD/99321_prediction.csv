@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-17 23:12:00,Lowe's stock has trailed competitor Home Depot 's this year as its key operating metrics lag just behind those of its larger rival.,0.5935719609260559,0.3631833791732788,0.043244704604148865,positive,0.2303885817527771
+1,2015-11-17 23:12:00,Yet Lowe's is still benefiting from the rising economic tide that's lifting the home improvement market to new highs.,0.9317570924758911,0.02035314403474331,0.04788985103368759,positive,0.9114039540290833
+2,2015-11-17 23:12:00,"That trend was evident in the company's third-quarter earnings results, which it released on Nov. 18.",0.3239835798740387,0.013944843783974648,0.6620715856552124,neutral,0.3100387454032898
+3,2015-11-17 23:12:00,"Here's a big picture look at how Lowe's numbers stacked up against the prior-year period :
+
+What happened with Lowe's this quarter?",0.04947909712791443,0.05789981037378311,0.8926211595535278,neutral,-0.008420713245868683
+4,2015-11-17 23:12:00,"As Home Depot did earlier in the week, Lowe's posted substantial quarterly revenue and earnings gains as shoppers across the country boosted their spending on home improvements.",0.9541985988616943,0.022219490259885788,0.023581990972161293,positive,0.9319791197776794
+5,2015-11-17 23:12:00,Comparable-store sales growth accelerated from the prior quarter -- and profitability spiked as well.,0.9534780979156494,0.01924368366599083,0.027278171852231026,positive,0.9342344403266907
+6,2015-11-17 23:12:00,"The key highlights of the third quarter:
+• Comps rose 5% -- an improvement from the 4.3% pace that Lowe's set in the second quarter.",0.9583650827407837,0.023618856444954872,0.018015975132584572,positive,0.9347462058067322
+7,2015-11-17 23:12:00,Yet that result trailed Home Depot's 7.3% comps jump.,0.8533170223236084,0.08772362768650055,0.05895934998989105,positive,0.765593409538269
+8,2015-11-17 23:12:00,"• Gross margin ticked higher to 34.75% of sales, on pace with Home Depot's gross profitability.",0.9505753517150879,0.02835245244204998,0.021072164177894592,positive,0.922222912311554
+9,2015-11-17 23:12:00,"• Operating margin improved to 8%, but remained well below Home Depot's 14% margin.",0.896009624004364,0.08278118818998337,0.021209105849266052,positive,0.8132284283638
+10,2015-11-17 23:12:00,• Lowe's returned $1.01 billion of cash to shareholders through $750 million in stock buyback spending and $260 million in dividend payments.,0.6839417219161987,0.012499954551458359,0.303558349609375,positive,0.6714417934417725
+11,2015-11-17 23:12:00,• It affirmed its full-year sales and profit outlook.,0.8748429417610168,0.015327461063861847,0.10982968658208847,positive,0.8595154881477356
+12,2015-11-17 23:12:00,• Reiterated plans to open as many as 20 new stores this year.,0.7368617653846741,0.0127680329605937,0.2503702938556671,positive,0.7240937352180481
+13,2015-11-17 23:12:00,"What management had to say
+
+""This is an exciting time for Lowe's as we continue to execute our strategic priorities alongside a favorable macroeconomic backdrop,"" said CEO Robert A. Niblock.",0.9215858578681946,0.013797675259411335,0.06461653113365173,positive,0.9077881574630737
+14,2015-11-17 23:12:00,"That happy backdrop involves a home improvement industry that's growing sharply: Spending has jumped to a $600 billion annual pace, up from less than $400 billion three years ago.",0.9383478164672852,0.01991729997098446,0.041734881699085236,positive,0.918430507183075
+15,2015-11-17 23:12:00,Management credited a healthy mix of increased shopper traffic and higher average spending for powering the solid results.,0.9474703669548035,0.020811237394809723,0.03171846643090248,positive,0.926659107208252
+16,2015-11-17 23:12:00,"""Growth was driven by gains in both transactions and average ticket, while our focus on productivity and profitability also allowed us to deliver strong earnings-per-share growth,"" Niblock said.",0.9552726149559021,0.016618119552731514,0.028109224513173103,positive,0.9386544823646545
+17,2015-11-17 23:12:00,"Lowe's didn't provide details on its customer traffic and average ticket results, but we know that they trailed Home Depot's figures.",0.030962692573666573,0.04068564251065254,0.9283517003059387,neutral,-0.00972294993698597
+18,2015-11-17 23:12:00,"The home improvement giant posted 4.4% customer traffic gains along with a 0.8% uptick in average customer spending, to $58 per trip.",0.946085512638092,0.033904217183589935,0.020010266453027725,positive,0.9121813178062439
+19,2015-11-17 23:12:00,Niblock and his executive team reaffirmed their full-year sales growth outlook that targets comps gains of 4.25% at the midpoint of guidance.,0.9429160356521606,0.01859501749277115,0.03848891332745552,positive,0.9243209958076477
+20,2015-11-17 23:12:00,Earnings are expected to weigh in at $3.29 per share (up 21% over 2014).,0.9404416680335999,0.026599127799272537,0.0329592302441597,positive,0.9138425588607788
+21,2015-11-17 23:12:00,Those targets haven't changed since Lowe's first articulated them in February.,0.06183890998363495,0.02479361556470394,0.9133674502372742,neutral,0.03704529255628586
+22,2015-11-17 23:12:00,"In contrast, Home Depot earlier in the week raised its comps forecast for the third consecutive time, saying it believes it will grow by 4.9% in 2015.",0.9429708123207092,0.018040642142295837,0.03898855298757553,positive,0.9249301552772522
+23,2015-11-17 23:12:00,"Its profit outlook has improved as well, rising to a projected $5.36 per share (up 14% from 2014) from the $5.14 per share that it had originally forecast.",0.9596859216690063,0.023262787610292435,0.01705125719308853,positive,0.936423122882843
+24,2015-11-17 23:12:00,"The world's biggest tech company forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07124034315347672,0.0912238135933876,0.8375357985496521,neutral,-0.01998347043991089
+25,2015-11-17 23:12:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+26,2015-11-17 23:12:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+27,2015-11-17 23:12:00,"The article Lowe's Companies Inc. Earnings: Solid Growth, But Still Trailing Home Depot Inc. originally appeared on Fool.com.",0.48038819432258606,0.18003103137016296,0.3395807445049286,positive,0.3003571629524231
+28,2015-11-17 23:12:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+29,2015-11-17 23:12:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+30,2015-11-17 23:12:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+31,2015-11-17 23:12:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+32,2015-11-17 23:12:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+33,2015-11-17 23:12:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+34,2015-11-17 23:12:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+35,2015-11-17 23:12:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2015-11-17 23:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

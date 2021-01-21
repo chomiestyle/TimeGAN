@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-11-21 05:03:00,Are you looking for companies that are exhibiting healthy accounting behavior?,0.21923606097698212,0.009026730433106422,0.771737277507782,neutral,0.21020932495594025
+1,2011-11-21 05:03:00,One approach is to look into inventory trends – doing so provides an interesting insight into the health of a company’s sales trends.,0.07823624461889267,0.008333513513207436,0.9134302139282227,neutral,0.06990273296833038
+2,2011-11-21 05:03:00,"To explore this idea we ran a screen on stocks with positive trends in inventory, indicated by growth in quarterly revenue outpacing growth in quarterly inventory year-over-year.",0.8855955600738525,0.01905764825642109,0.09534680843353271,positive,0.8665379285812378
+3,2011-11-21 05:03:00,We also screened for companies with quarterly inventory decreasing as a percent of current assets.,0.021684156730771065,0.8570069670677185,0.12130892276763916,negative,-0.8353227972984314
+4,2011-11-21 05:03:00,"To understand why these trends are encouraging, think of why the opposite trends would be discouraging.",0.06259151548147202,0.015480870380997658,0.9219275712966919,neutral,0.04711064696311951
+5,2011-11-21 05:03:00,"If revenue were growing slower than inventory, it could indicate that the company is having trouble selling its inventory – although it may just indicate inventory building or a change in sales policies.",0.023643380030989647,0.9381227493286133,0.03823393955826759,negative,-0.9144793748855591
+6,2011-11-21 05:03:00,"To increase the quality of this screen, we also screened for companies reaching new 52-week highs.",0.8131287693977356,0.013414871878921986,0.1734563708305359,positive,0.7997139096260071
+7,2011-11-21 05:03:00,The idea of this “new high” screen is that the stocks are exhibiting upward momentum.,0.715975821018219,0.019945720210671425,0.26407843828201294,positive,0.6960300803184509
+8,2011-11-21 05:03:00,Investors can try to capitalize on the existing trend and the momentum behind it.,0.5879355669021606,0.011094172485172749,0.4009701907634735,positive,0.576841413974762
+9,2011-11-21 05:03:00,Do you think these momentum plays have strong sales?,0.5273566842079163,0.013543038628995419,0.45910027623176575,positive,0.5138136744499207
+10,2011-11-21 05:03:00,Use this list as a starting point for your own analysis.,0.041695814579725266,0.01035427674651146,0.9479499459266663,neutral,0.031341537833213806
+11,2011-11-21 05:03:00,"Analyze These Ideas (Tools Will Open In A New Window)
+
+1.",0.05112309381365776,0.006451200228184462,0.9424257278442383,neutral,0.04467189311981201
+12,2011-11-21 05:03:00,"Access a thorough description of all companies mentioned
+
+2.",0.016740402206778526,0.007461410481482744,0.9757981896400452,neutral,0.00927899219095707
+13,2011-11-21 05:03:00,"Compare analyst ratings for all stocks mentioned below
+
+1.",0.01416170783340931,0.01266548689454794,0.9731728434562683,neutral,0.00149622093886137
+14,2011-11-21 05:03:00,"DXP Enterprises Inc. (DXPE): Distributes maintenance, repair, and operating products (mro), equipment, and services to industrial customers in the US.",0.021505506709218025,0.0073943729512393475,0.9711001515388489,neutral,0.01411113329231739
+15,2011-11-21 05:03:00,Revenue grew by 20.67% during the most recent quarter ($207.85M vs. $172.25M y/y).,0.958723247051239,0.019998721778392792,0.021278060972690582,positive,0.9387245178222656
+16,2011-11-21 05:03:00,Inventory grew by 11.63% during the same time period ($79.11M vs. $70.87M y/y).,0.9500232338905334,0.02819673903286457,0.02178015001118183,positive,0.9218264818191528
+17,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 38.82% to 37.82% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.017532076686620712,0.9734025597572327,0.00906545389443636,negative,-0.955870509147644
+18,2011-11-21 05:03:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+19,2011-11-21 05:03:00,"Chart Industries Inc. (GTLS): Chart Industries, Inc. manufactures and supplies engineered equipment used in the production, storage, and end-use of hydrocarbon and industrial gases in the United States and internationally.",0.020723722875118256,0.006461936980485916,0.9728143215179443,neutral,0.01426178589463234
+20,2011-11-21 05:03:00,Revenue grew by 51.79% during the most recent quarter ($211.31M vs. $139.21M y/y).,0.9584102034568787,0.01968800462782383,0.021901767700910568,positive,0.9387221932411194
+21,2011-11-21 05:03:00,Inventory grew by 41.52% during the same time period ($135.73M vs. $95.91M y/y).,0.9489037394523621,0.028967872262001038,0.02212834730744362,positive,0.9199358820915222
+22,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 22.67% to 19.45% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.017550412565469742,0.9734017848968506,0.009047865867614746,negative,-0.9558513760566711
+23,2011-11-21 05:03:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+24,2011-11-21 05:03:00,"The Home Depot, Inc. (HD): Operates as a home improvement retailer.",0.014924949035048485,0.008364460431039333,0.9767106175422668,neutral,0.0065604886040091515
+25,2011-11-21 05:03:00,"Revenue grew by 4.23% during the most recent quarter ($20,232M vs. $19,410M y/y).",0.9586858153343201,0.02063719928264618,0.020676935091614723,positive,0.9380486011505127
+26,2011-11-21 05:03:00,"Inventory grew by -0.03% during the same time period ($10,756M vs. $10,759M y/y).",0.9317936897277832,0.041494570672512054,0.02671171724796295,positive,0.8902991414070129
+27,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 68.28% to 67.83% during the most recent quarter (comparing 13 weeks ending 2011-07-31 to 13 weeks ending 2010-08-01).",0.017575416713953018,0.9735361933708191,0.008888357318937778,negative,-0.955960750579834
+28,2011-11-21 05:03:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+29,2011-11-21 05:03:00,"Hi Tech Pharmacal Co. Inc. (HITK): Develops, manufactures, markets, and sells generic, prescription, over-the-counter (OTC), and nutritional products in liquid and semisolid dosage forms in the United States.",0.02860250137746334,0.006089219823479652,0.9653082489967346,neutral,0.02251328155398369
+30,2011-11-21 05:03:00,Revenue grew by 42.99% during the most recent quarter ($56.21M vs. $39.31M y/y).,0.9579718708992004,0.01948903128504753,0.022539149969816208,positive,0.9384828209877014
+31,2011-11-21 05:03:00,Inventory grew by 14.84% during the same time period ($27.7M vs. $24.12M y/y).,0.9488257169723511,0.029624460265040398,0.021549807861447334,positive,0.9192012548446655
+32,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 20.48% to 16.71% during the most recent quarter (comparing 3 months ending 2011-07-31 to 3 months ending 2010-07-31).",0.017579002305865288,0.9733360409736633,0.009084991179406643,negative,-0.9557570219039917
+33,2011-11-21 05:03:00,5.,0.023618461564183235,0.016584821045398712,0.9597967267036438,neutral,0.007033640518784523
+34,2011-11-21 05:03:00,"Jaguar Mining Inc. (JAG): Engages in the production of gold, as well as in the acquisition, exploration, development, and operation of gold mineral properties in Brazil.",0.04302210733294487,0.005047167651355267,0.9519307613372803,neutral,0.03797493875026703
+35,2011-11-21 05:03:00,Revenue grew by 64.34% during the most recent quarter ($60.56M vs. $36.85M y/y).,0.9580342173576355,0.019908349961042404,0.022057417780160904,positive,0.9381258487701416
+36,2011-11-21 05:03:00,Inventory grew by -21.49% during the same time period ($30.98M vs. $39.46M y/y).,0.9464375376701355,0.02889430522918701,0.02466820925474167,positive,0.9175432324409485
+37,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 32.16% to 15.98% during the most recent quarter (comparing 3 months ending 2011-06-30 to 3 months ending 2010-06-30).",0.017307203263044357,0.9735859036445618,0.009106860496103764,negative,-0.9562786817550659
+38,2011-11-21 05:03:00,6.,0.023339061066508293,0.016314266249537468,0.9603466987609863,neutral,0.007024794816970825
+39,2011-11-21 05:03:00,Lancaster Colony Corporation (LANC): Engages in the manufacture and marketing of consumer products focusing primarily on specialty foods for the retail and foodservice markets in the United States.,0.019677428528666496,0.006623929366469383,0.9736986756324768,neutral,0.013053499162197113
+40,2011-11-21 05:03:00,Revenue grew by 3.57% during the most recent quarter ($274.52M vs. $265.05M y/y).,0.9579868316650391,0.020307762548327446,0.021705400198698044,positive,0.9376790523529053
+41,2011-11-21 05:03:00,Inventory grew by -16.01% during the same time period ($110.25M vs. $131.26M y/y).,0.9476773738861084,0.027864545583724976,0.024458063766360283,positive,0.919812798500061
+42,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 40.09% to 32.08% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.01751624420285225,0.9733321666717529,0.009151564911007881,negative,-0.9558159112930298
+43,2011-11-21 05:03:00,7.,0.036677904427051544,0.02519453503191471,0.9381275177001953,neutral,0.011483369395136833
+44,2011-11-21 05:03:00,"Oceaneering International, Inc. (OII): Provides engineered products and services primarily to the offshore oil and gas industry with a focus on deepwater applications.",0.029723485931754112,0.005941013339906931,0.9643355011940002,neutral,0.02378247305750847
+45,2011-11-21 05:03:00,Revenue grew by 16.65% during the most recent quarter ($602.21M vs. $516.27M y/y).,0.9585225582122803,0.019777797162532806,0.021699652075767517,positive,0.9387447834014893
+46,2011-11-21 05:03:00,Inventory grew by 6.94% during the same time period ($259.32M vs. $242.5M y/y).,0.9490859508514404,0.029447415843605995,0.021466726437211037,positive,0.9196385145187378
+47,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 26.94% to 25.94% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.017288245260715485,0.9736183285713196,0.009093408472836018,negative,-0.9563300609588623
+48,2011-11-21 05:03:00,8.,0.029322495684027672,0.018743492662906647,0.9519339799880981,neutral,0.010579003021121025
+49,2011-11-21 05:03:00,"Philip Morris International, Inc. (PM): Engages in the manufacture and sale of cigarettes and other tobacco products in markets outside of the United States.",0.017067573964595795,0.00855373777449131,0.9743786454200745,neutral,0.008513836190104485
+50,2011-11-21 05:03:00,"Revenue grew by 22.26% during the most recent quarter ($20,706M vs. $16,936M y/y).",0.9582733511924744,0.01996798813343048,0.02175869792699814,positive,0.9383053779602051
+51,2011-11-21 05:03:00,"Inventory grew by -9.64% during the same time period ($7,453M vs. $8,248M y/y).",0.9461191296577454,0.029400764033198357,0.024480165913701057,positive,0.9167183637619019
+52,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 53.27% to 49.39% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.017283035442233086,0.9734390377998352,0.009277960285544395,negative,-0.9561560153961182
+53,2011-11-21 05:03:00,9.,0.02797715552151203,0.02343125082552433,0.9485915899276733,neutral,0.004545904695987701
+54,2011-11-21 05:03:00,"Vectren Corporation (VVC): Provides energy delivery services to residential, commercial, and industrial and other customers in Indiana and west central Ohio.",0.020958436653017998,0.007646051235496998,0.9713954925537109,neutral,0.013312385417521
+55,2011-11-21 05:03:00,Revenue grew by 27.61% during the most recent quarter ($539.4M vs. $422.7M y/y).,0.9581757187843323,0.019886169582605362,0.021938150748610497,positive,0.9382895231246948
+56,2011-11-21 05:03:00,Inventory grew by 10.09% during the same time period ($207.3M vs. $188.3M y/y).,0.9513578414916992,0.027442093938589096,0.021200066432356834,positive,0.9239157438278198
+57,2011-11-21 05:03:00,"Inventory, as a percentage of current assets, decreased from 37.2% to 33.3% during the most recent quarter (comparing 3 months ending 2011-09-30 to 3 months ending 2010-09-30).",0.01729401759803295,0.973328709602356,0.009377297013998032,negative,-0.9560347199440002
+58,2011-11-21 05:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

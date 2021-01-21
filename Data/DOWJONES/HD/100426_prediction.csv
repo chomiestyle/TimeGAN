@@ -1,0 +1,14 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-10-31 01:45:00,"Wednesday's session closes with the NASDAQ Composite Index at 2,977.23.",0.05184679478406906,0.01880066841840744,0.9293525218963623,neutral,0.03304612636566162
+1,2012-10-31 01:45:00,The total shares traded for the NASDAQ was over 1.76 billion shares traded.,0.03418692573904991,0.005356914829462767,0.9604561924934387,neutral,0.028830010443925858
+2,2012-10-31 01:45:00,Advancers stocks led declining by 1.17 to 1 ratio.,0.03505751118063927,0.9489362835884094,0.01600615493953228,negative,-0.9138787984848022
+3,2012-10-31 01:45:00,There were 1347 advancers and 1154 decliners for the day.,0.14980149269104004,0.3261970579624176,0.52400141954422,neutral,-0.17639556527137756
+4,2012-10-31 01:45:00,On the NASDAQ Stock Exchange 37 stocks reached a 52 week high and 42 those reaching lows totaled.,0.5694008469581604,0.1811779886484146,0.249421164393425,positive,0.388222873210907
+5,2012-10-31 01:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+6,2012-10-31 01:45:00,The NASDAQ 100 index closed down -.67% for the day; a total of -17.91 points.,0.0182045865803957,0.9712981581687927,0.010497190058231354,negative,-0.9530935883522034
+7,2012-10-31 01:45:00,"The current value is 2,647.92.",0.015648527070879936,0.008646480739116669,0.9757049679756165,neutral,0.0070020463317632675
+8,2012-10-31 01:45:00,"Baidu, Inc. ( BIDU ) had the largest percent change down (-6.25%) while Netflix, Inc. ( NFLX ) had the largest percent change gain rising 13.88%.",0.0665532723069191,0.7084120512008667,0.2250346839427948,negative,-0.6418587565422058
+9,2012-10-31 01:45:00,The Dow Jones index closed down -.08% for the day; a total of -10.75 points.,0.017708299681544304,0.9710726141929626,0.011219106614589691,negative,-0.9533643126487732
+10,2012-10-31 01:45:00,"The current value is 13,096.46.",0.015970468521118164,0.007563876919448376,0.9764655828475952,neutral,0.008406591601669788
+11,2012-10-31 01:45:00,"Pfizer, Inc. ( PFE ) had the largest percent change down (-2.2%) while Home Depot, Inc. (The) ( HD ) had the largest percent change gain rising 2.23%.",0.06906620413064957,0.6910753846168518,0.23985841870307922,negative,-0.6220091581344604
+12,2012-10-31 01:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

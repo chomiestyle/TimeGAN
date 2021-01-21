@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-26 07:58:00,"SalesforceCRM kicked off its annual user conference, Dreamforce yesterday, bringing together thousands of IT professionals, in downtown San Francisco.",0.17425775527954102,0.014931547455489635,0.8108107447624207,neutral,0.1593262106180191
+1,2018-09-26 07:58:00,"The company unveiled advancements, productivity and artificial intelligence (AI) platform services as well as key strategic partnerships, which are expected to help companies connect with their clients in new ways.",0.8459325432777405,0.012365566566586494,0.1417018622159958,positive,0.8335669636726379
+2,2018-09-26 07:58:00,"Moreover, Salesforce also announced that its philanthropic arm Salesforce.org is contributing $18 million toward education, homelessness and cleanliness in the Bay area.",0.7112399339675903,0.013976502232253551,0.27478349208831787,positive,0.6972634196281433
+3,2018-09-26 07:58:00,Let's delve deeper into what the company discussed on the first day of the conference.,0.017733260989189148,0.00879120547324419,0.9734755158424377,neutral,0.008942055515944958
+4,2018-09-26 07:58:00,Salesforce's Customer Success Platform has been upgraded to enable companies unlock data and embed intelligence for boosting their digital transformation initiatives and productivity.,0.9276335835456848,0.01464784424751997,0.057718608528375626,positive,0.9129857420921326
+5,2018-09-26 07:58:00,Salesforce has come up with a 360 degree view of the customer by launching a platform called Customer 360 at the event.,0.10380428284406662,0.006803228985518217,0.8893925547599792,neutral,0.09700105339288712
+6,2018-09-26 07:58:00,"Although the 360 degree view of customers has already been brought forth by other enterprise software vendors like Microsoft MSFT and Oracle ORCL , Salesforce claims its plans are different from others.",0.024049347266554832,0.027667973190546036,0.9482826590538025,neutral,-0.0036186259239912033
+7,2018-09-26 07:58:00,"Notably, the new dashboard will empower administrators to connect and manage customer data across Salesforce apps.",0.4167613685131073,0.011188617907464504,0.5720500349998474,neutral,0.4055727422237396
+8,2018-09-26 07:58:00,"Moreover, with Customer 360 ID companies will be able to create a contextually relevant profile for every single customer.",0.47357940673828125,0.009531405754387379,0.5168891549110413,neutral,0.46404799818992615
+9,2018-09-26 07:58:00,"Additionally, Customer 360 will project companies as one unified brand across departments, devices, channels and interactions.",0.17021070420742035,0.007255135104060173,0.8225341439247131,neutral,0.16295556724071503
+10,2018-09-26 07:58:00,"Salesforce announced that MuleSoft Anypoint Platform will now bring to every customer an application network graph that provides information on all systems, apps and their metadata, and also show their relationship.",0.09504567831754684,0.005382332019507885,0.8995720148086548,neutral,0.08966334909200668
+11,2018-09-26 07:58:00,"Further, the company notes that organizations will be able to gain ""unprecedented visibility and actionable insights into their application network"" by embedding the graph into the platform.",0.8834951519966125,0.012809180654585361,0.10369560867547989,positive,0.8706859946250916
+12,2018-09-26 07:58:00,"Salesforce upgraded its AI system Einstein with a new voice tool called Einstein Voice , which will enable enterprises to interpret memos and use cloud services with the help of voice commands.",0.8542444705963135,0.01364224310964346,0.1321132928133011,positive,0.8406022191047668
+13,2018-09-26 07:58:00,The company's Einstein Voice Bots will allow companies to connect with their customers in a whole new way by answering queries through a smart speaker in their own voice bots.,0.2451755255460739,0.011361206881701946,0.7434632182121277,neutral,0.2338143140077591
+14,2018-09-26 07:58:00,"With the new offerings, Salesforce joined the league of Apple AAPL , Microsoft, Alphabet GOOGL and Amazon, which have their own voice assistants in the market for quite some time now.",0.6405056715011597,0.0149201899766922,0.3445741534233093,positive,0.6255854964256287
+15,2018-09-26 07:58:00,Salesforce introduced Quip Slides for creating and sharing presentations.,0.10088895261287689,0.006252458784729242,0.8928585648536682,neutral,0.09463649243116379
+16,2018-09-26 07:58:00,"This marks a major advancement from the traditional collaboration suite as it gives users access to documents, spreadsheets, chat and now slides in a single platform.",0.8601533770561218,0.01373440120369196,0.12611225247383118,positive,0.8464189767837524
+17,2018-09-26 07:58:00,The company expects this to enable better collaboration among team members and thereby get work done faster.,0.9178394079208374,0.014875288121402264,0.06728529185056686,positive,0.9029641151428223
+18,2018-09-26 07:58:00,The addition of Slides helps the company take on Microsoft PowerPoint and Google Slides.,0.8565332293510437,0.014170668087899685,0.12929609417915344,positive,0.8423625826835632
+19,2018-09-26 07:58:00,"Salesforce.com Inc Revenue (TTM) | Salesforce.com Inc Quote
+
+Salesforce has entered into a partnership with Apple, which will help it offer new apps for iPhones and iPads.",0.9302647113800049,0.0147622711956501,0.054972995072603226,positive,0.9155024290084839
+20,2018-09-26 07:58:00,"A redesigned Salesforce mobile app will be developed exclusively for iOS, featuring Face ID, Siri shortcuts as well as Apple's business chat.",0.06847891211509705,0.0071403286419808865,0.9243807196617126,neutral,0.06133858487010002
+21,2018-09-26 07:58:00,The two companies will also work on developing the first Salesforce mobile software development kit for Apple's Swift programming language.,0.32794952392578125,0.012198966927826405,0.6598515510559082,neutral,0.3157505691051483
+22,2018-09-26 07:58:00,Salesforce announced that it has expanded its global strategic alliance with Amazon Web Services (AWS).,0.9519444704055786,0.01614554040133953,0.031909964978694916,positive,0.9357989430427551
+23,2018-09-26 07:58:00,The partnership will focus on new product integrations that will simplify secure data sharing and synchronizing across AWS and Salesforce services.,0.8204428553581238,0.011755618266761303,0.16780157387256622,positive,0.8086872100830078
+24,2018-09-26 07:58:00,"Apart from other integrations, the two companies will also provide a secure framework for connecting the Salesforce Platform with AWS PrivateLink.",0.8021993041038513,0.01133168675005436,0.18646898865699768,positive,0.7908676266670227
+25,2018-09-26 07:58:00,"What Investors Should Know
+
+Salesforce's strategy of frequent product launches and cloud services are helping it to expand its clientele, thereby driving top-line growth.",0.9483807682991028,0.015967542305588722,0.035651687532663345,positive,0.9324132204055786
+26,2018-09-26 07:58:00,The rapid adoption of the SaaS-based Salesforce platform demonstrates solid demand for the company's cloud-based solutions.,0.9473682045936584,0.014667549170553684,0.037964265793561935,positive,0.9327006340026855
+27,2018-09-26 07:58:00,"Moreover, higher enterprise spending on cloud computing is a key catalyst.",0.879145622253418,0.016017265617847443,0.1048370823264122,positive,0.8631283640861511
+28,2018-09-26 07:58:00,"Shares of Salesforce have returned 55.4% year to date, substantially outperforming the industry's rally of 28.5%.",0.9446882605552673,0.03644746169447899,0.018864192068576813,positive,0.908240795135498
+29,2018-09-26 07:58:00,The stock has also fared better than the S&P 500 index's rise of 10.3%.,0.9196218848228455,0.05501442775130272,0.025363631546497345,positive,0.8646074533462524
+30,2018-09-26 07:58:00,The conference will span three days.,0.028443608433008194,0.01098015159368515,0.9605762958526611,neutral,0.017463456839323044
+31,2018-09-26 07:58:00,We will keep you posted on the other developments.,0.02396855317056179,0.007620249409228563,0.9684111475944519,neutral,0.016348304226994514
+32,2018-09-26 07:58:00,"So, stay tuned!",0.09005353599786758,0.02543574571609497,0.8845107555389404,neutral,0.06461779028177261
+33,2018-09-26 07:58:00,Salesforce currently sports a Zacks Rank #1 (Strong Buy).,0.8387362360954285,0.02434612438082695,0.13691768050193787,positive,0.8143901228904724
+34,2018-09-26 07:58:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+35,2018-09-26 07:58:00,"The Hottest Tech Mega-Trend of All
+
+Last year, it generated $8 billion in global revenues.",0.8233587145805359,0.015582907944917679,0.16105839610099792,positive,0.8077757954597473
+36,2018-09-26 07:58:00,"By 2020, it's predicted to blast through the roof to $47 billion.",0.23545314371585846,0.11051791906356812,0.6540289521217346,neutral,0.12493522465229034
+37,2018-09-26 07:58:00,"Famed investor Mark Cuban says it will produce """"the world's first trillionaires,"""" but that should still leave plenty of money for regular investors who make the right trades early.",0.7186445593833923,0.01765875332057476,0.26369670033454895,positive,0.7009857892990112
+38,2018-09-26 07:58:00,"See Zacks' 3 Best Stocks to Play This Trend >>
+
+Want the latest recommendations from Zacks Investment Research?",0.027691606432199478,0.009449935518205166,0.9628584980964661,neutral,0.018241669982671738
+39,2018-09-26 07:58:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+40,2018-09-26 07:58:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+41,2018-09-26 07:58:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

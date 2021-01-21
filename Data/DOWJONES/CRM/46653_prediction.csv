@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-06-27 07:07:00,Tech stocks have been under fire over the past few days and Monday was a great highlight of that fact.,0.5299708843231201,0.09639398753643036,0.37363508343696594,positive,0.43357688188552856
+1,2018-06-27 07:07:00,"The PowerShares QQQ Trust, Series 1 (ETF) (NASDAQ: QQQ ) fell 2%, despite a late-session rally while bulls are growing tired of buying the dip amid continued trade-war rhetoric.",0.03366807475686073,0.9568701386451721,0.009461755864322186,negative,-0.9232020378112793
+2,2018-06-27 07:07:00,"Investors with a watchlist have likely noticed Microsoft Corporation (NASDAQ: MSFT ), as MSFT stock has weathered the storm pretty well, but is now below $100.",0.06315465271472931,0.7202009558677673,0.21664437651634216,negative,-0.6570463180541992
+3,2018-06-27 07:07:00,Is it time to bounce?,0.15412819385528564,0.09072711318731308,0.7551447153091431,neutral,0.06340108066797256
+4,2018-06-27 07:07:00,One of the biggest reasons I like Microsoft so much?,0.05430972948670387,0.016328534111380577,0.9293617606163025,neutral,0.037981197237968445
+5,2018-06-27 07:07:00,It's vision.,0.12692373991012573,0.007031446322798729,0.866044819355011,neutral,0.11989229172468185
+6,2018-06-27 07:07:00,By that I mean the direction that CEO Satya Nadella has taken the company.,0.04610895365476608,0.012143769301474094,0.94174724817276,neutral,0.03396518528461456
+7,2018-06-27 07:07:00,"Microsoft is aimed squarely at the cloud world, with its Azure platform growing sales by more than 90% for 10 straight quarters.",0.9042489528656006,0.014244172722101212,0.08150695264339447,positive,0.8900047540664673
+8,2018-06-27 07:07:00,"The segment continues to crush it and as it makes up a larger and larger piece of the overall revenue pie, it will help accelerate overall revenue growth.",0.9331016540527344,0.015110026113688946,0.051788330078125,positive,0.9179916381835938
+9,2018-06-27 07:07:00,"This should warrant a higher valuation , something we've seen come to fruition over the past few quarters.",0.819509744644165,0.011916747316718102,0.1685735285282135,positive,0.8075929880142212
+10,2018-06-27 07:07:00,"The cloud industry seemed to lose some of its luster last year, in my opinion.",0.04139741137623787,0.789180338382721,0.16942228376865387,negative,-0.7477829456329346
+11,2018-06-27 07:07:00,"In late 2016 and early 2017, it wasn't driving big companies as much.",0.03229875490069389,0.2794252336025238,0.6882759928703308,neutral,-0.2471264749765396
+12,2018-06-27 07:07:00,"Now, though, we've seen a resurgence of the cloud, as big companies see ballooning revenues from this still-young industry.",0.8801464438438416,0.03179069235920906,0.0880628377199173,positive,0.848355770111084
+13,2018-06-27 07:07:00,"Microsoft is among these companies and, conveniently, has one of the lowest valuations compared to its peers.",0.0192915927618742,0.9254212975502014,0.05528717860579491,negative,-0.9061297178268433
+14,2018-06-27 07:07:00,"In the large-cap cloud space there are names like Alibaba Group Holding Ltd (NYSE: BABA ), Amazon.com, Inc. (NASDAQ: AMZN ), Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ) and Salesforce.com, inc. (NASDAQ: CRM ).",0.025175699964165688,0.011092609725892544,0.9637317061424255,neutral,0.014083090238273144
+15,2018-06-27 07:07:00,AMZN and CRM - the latter of which provides analytics for Google and Amazon - have really high valuations.,0.4424847364425659,0.012704592198133469,0.5448106527328491,neutral,0.42978015542030334
+16,2018-06-27 07:07:00,"BABA has a higher, but reasonable, valuation given its high growth rate.",0.7541696429252625,0.02041877992451191,0.2254115343093872,positive,0.7337508797645569
+17,2018-06-27 07:07:00,Its growth is superior to that of MSFT and that goes for both revenue and earnings.,0.921245276927948,0.01753859594464302,0.061216097325086594,positive,0.9037066698074341
+18,2018-06-27 07:07:00,"MSFT has a similar valuation to GOOGL on an earnings basis, despite the latter having better growth.",0.857354998588562,0.047988612204790115,0.09465647488832474,positive,0.8093664050102234
+19,2018-06-27 07:07:00,"As we branch out to include smaller companies like WorkdayInc (NASDAQ: WDAY ), Box Inc (NYSE: BOX ), Red Hat Inc (NYSE: RHT ) and others, the same remains true.",0.24299651384353638,0.006812751293182373,0.7501907348632812,neutral,0.236183762550354
+20,2018-06-27 07:07:00,"While Microsoft may have an inferior growth profile, it's got a superior valuation.",0.8642007112503052,0.028005091473460197,0.10779421031475067,positive,0.8361956477165222
+21,2018-06-27 07:07:00,"Further, in most cases, MSFT has a stronger balance sheet and higher dividend yield.",0.9010767936706543,0.014367643743753433,0.08455550670623779,positive,0.8867091536521912
+22,2018-06-27 07:07:00,"At this point, it's worth mentioning that MSFT stock trades at about 25 times this year's earnings.",0.30354762077331543,0.019319843500852585,0.6771325469017029,neutral,0.28422778844833374
+23,2018-06-27 07:07:00,That's roughly in-line with GOOGL.,0.03936447203159332,0.009864631108939648,0.950770914554596,neutral,0.0294998399913311
+24,2018-06-27 07:07:00,"While MSFT has traded much better this year, choosing between the two would likely leave me siding with Google.",0.32290175557136536,0.30446484684944153,0.3726333975791931,neutral,0.018436908721923828
+25,2018-06-27 07:07:00,"In any regard, we don't have to settle for one or the other.",0.03419046103954315,0.012516403570771217,0.9532931447029114,neutral,0.021674057468771935
+26,2018-06-27 07:07:00,"The simple truth is that we can own both (and more) and these are two of the cheapest, biggest players in the cloud industry.",0.3897946774959564,0.009859488345682621,0.6003459095954895,neutral,0.3799351751804352
+27,2018-06-27 07:07:00,"In fact, Microsoft and Google Cloud are No.",0.059898778796195984,0.05237162485718727,0.8877295851707458,neutral,0.007527153939008713
+28,2018-06-27 07:07:00,"2 and 3, respectively, just behind Amazon.",0.33054375648498535,0.09969700872898102,0.56975919008255,neutral,0.23084674775600433
+29,2018-06-27 07:07:00,"If investors want exposure to the segment, these are some of the cheapest plays out there.",0.165617898106575,0.008201531134545803,0.8261805772781372,neutral,0.15741637349128723
+30,2018-06-27 07:07:00,"It helps that they're high quality, blue-chip tech stocks.",0.2825287878513336,0.009916383773088455,0.7075547575950623,neutral,0.27261239290237427
+31,2018-06-27 07:07:00,"Over the past 12 months, MSFT stock has been in a pretty solid uptrend.",0.9394447207450867,0.019223473966121674,0.04133176431059837,positive,0.9202212691307068
+32,2018-06-27 07:07:00,"In fact, the 100-day moving average has been an excellent proxy on when investors should buy the dip.",0.6399895548820496,0.0205912496894598,0.33941924571990967,positive,0.619398295879364
+33,2018-06-27 07:07:00,"In that regard, it reminds me of Salesforce, which has been a buy every time it hits this mark .",0.45442938804626465,0.031044568866491318,0.5145260095596313,neutral,0.42338481545448303
+34,2018-06-27 07:07:00,"So, what do we have with MSFT stock?",0.012240119278430939,0.010426494292914867,0.9773334264755249,neutral,0.0018136249855160713
+35,2018-06-27 07:07:00,It's pretty clear and I don't want to overcomplicate it.,0.0539366789162159,0.03804836794734001,0.9080149531364441,neutral,0.015888310968875885
+36,2018-06-27 07:07:00,"Microsoft is a buy on a retest of its 100-day moving average, currently near $94.",0.6231929063796997,0.1767723262310028,0.2000347375869751,positive,0.4464205801486969
+37,2018-06-27 07:07:00,"• The 10 Fastest-Growing Stocks to Invest In Right Now
+
+What happens if that level fails?",0.06141912192106247,0.03631378337740898,0.9022670984268188,neutral,0.025105338543653488
+38,2018-06-27 07:07:00,"Short-term traders can cut their losses and wait for a better setup, while longer term investors can consider adding near $88.",0.3887760639190674,0.1055535152554512,0.505670428276062,neutral,0.2832225561141968
+39,2018-06-27 07:07:00,"Ironically, that's where the 200-day moving average comes into play, a level that MSFT hasn't touched since January 2017.",0.0862099900841713,0.11759259551763535,0.7961973547935486,neutral,-0.03138260543346405
+40,2018-06-27 07:07:00,Every trend eventually ends.,0.04989447817206383,0.04165874794125557,0.908446729183197,neutral,0.008235730230808258
+41,2018-06-27 07:07:00,I don't know if the trend is still our friend or if it's about to bend.,0.16525909304618835,0.074082151055336,0.7606587409973145,neutral,0.09117694199085236
+42,2018-06-27 07:07:00,"But at this point, I have no reason to bet against it.",0.030932294204831123,0.02424231730401516,0.9448254108428955,neutral,0.006689976900815964
+43,2018-06-27 07:07:00,Bret Kenwell is the manager and author of Future Blue Chips and is on Twitter @BretKenwell .,0.044299837201833725,0.02498885616660118,0.9307113289833069,neutral,0.019310981035232544
+44,2018-06-27 07:07:00,"As of this writing, Bret Kenwell did not hold a position in any of the aforementioned securities.",0.008583790622651577,0.021699829027056694,0.9697163701057434,neutral,-0.013116038404405117
+45,2018-06-27 07:07:00,"• 7 Stocks That Could Take a Trade-War Hit
+• iQIYI: Don't Believe the Scary Picture Show in IQ Stock
+• The 10 Best Stocks to Invest In Right Now
+
+The post Time to Buy Microsoft Corporation Amid Tech Stock Rout?",0.19382590055465698,0.15418480336666107,0.6519892811775208,neutral,0.03964109718799591
+46,2018-06-27 07:07:00,appeared first on InvestorPlace .,0.062324922531843185,0.01583639718592167,0.921838641166687,neutral,0.04648852348327637
+47,2018-06-27 07:07:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

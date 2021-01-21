@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-18 07:06:00,"International Business Machines Corp. ( IBM ) has certainly been on a bad run, especially for investors.",0.023010145872831345,0.9607285261154175,0.016261333599686623,negative,-0.937718391418457
+1,2016-02-18 07:06:00,But things may be changing - and the reason is deal-making.,0.10100007802248001,0.015089445747435093,0.8839104175567627,neutral,0.08591063320636749
+2,2016-02-18 07:06:00,"Today the company announced the $2.6 billion acquisition of Truven Health Analytics , which is a top provider of healthcare data analytics.",0.4649342894554138,0.008539731614291668,0.5265259742736816,neutral,0.4563945531845093
+3,2016-02-18 07:06:00,"On the news, IBM stock is up about 5%.",0.9260700941085815,0.02210414782166481,0.05182572454214096,positive,0.903965950012207
+4,2016-02-18 07:06:00,"Let's face it, the core business has continued to languish.",0.03939563035964966,0.020356405526399612,0.9402478933334351,neutral,0.019039224833250046
+5,2016-02-18 07:06:00,"In the fourth quarter, revenues plunged by 8.5% and the guidance was definitely uninspiring.",0.020512528717517853,0.9651950001716614,0.014292502775788307,negative,-0.9446824789047241
+6,2016-02-18 07:06:00,The problem is that IBM has been paying the price for its foot-dragging with the move to the cloud.,0.037227559834718704,0.7752062678337097,0.18756616115570068,negative,-0.7379786968231201
+7,2016-02-18 07:06:00,"The result is that a variety of other companies, like Salesforce.com, Inc. ( CRM ), Workday Inc ( WDAY ), ServiceNow, Inc. ( NOW ), Amazon.com, Inc. ( AMZN ) and even Microsoft Corporation ( MSFT ), have been able to get the lion share of the opportunity.",0.8127840757369995,0.013046748004853725,0.17416921257972717,positive,0.7997373342514038
+8,2016-02-18 07:06:00,"The 10 Best Index Funds to Buy No Matter WHAT the Market Is Doing
+
+Interestingly enough, the growth in the cloud has also weighed on the IBM consulting services unit.",0.2500900328159332,0.2938785254955292,0.4560315012931824,neutral,-0.04378849267959595
+9,2016-02-18 07:06:00,"After all, there is not as much need for these types of offerings when companies are using technologies that are easier to install and maintain.",0.08300451189279556,0.008641860447824001,0.9083536863327026,neutral,0.07436265051364899
+10,2016-02-18 07:06:00,"So to put things into perspective, IBM has seen over $25 billion in annual revenues disappear since 2011 !",0.016714930534362793,0.9596088528633118,0.023676227778196335,negative,-0.942893922328949
+11,2016-02-18 07:06:00,"Oh, and there have been declines for 15 straight quarters .",0.06885239481925964,0.7521244287490845,0.17902310192584991,negative,-0.6832720041275024
+12,2016-02-18 07:06:00,"So in light of this, is it any wonder that IBM stock has been a loser?",0.03865363821387291,0.6093747019767761,0.35197168588638306,negative,-0.5707210898399353
+13,2016-02-18 07:06:00,"All kind of grim, right?",0.08910299837589264,0.09015237540006638,0.8207445740699768,neutral,-0.0010493770241737366
+14,2016-02-18 07:06:00,Perhaps so.,0.2150518000125885,0.07972928136587143,0.7052188515663147,neutral,0.13532251119613647
+15,2016-02-18 07:06:00,"Yet for gusty investors, there are still some positives to consider.",0.5273555517196655,0.022893253713846207,0.4497511684894562,positive,0.5044623017311096
+16,2016-02-18 07:06:00,"Basically, IBM has been focused on aggressively pursuing its so-called Strategic Imperatives, which involves heavy investments in fast-growing categories like security, mobile, the Internet-of-Things (IoT), analytics and the cloud.",0.6093440651893616,0.009690673090517521,0.3809652626514435,positive,0.5996533632278442
+17,2016-02-18 07:06:00,"And so far, there has been traction.",0.8384647369384766,0.0207726638764143,0.1407625675201416,positive,0.8176921010017395
+18,2016-02-18 07:06:00,"Last year IBM posted a 26% increase in revenues for its Strategic Imperatives, which now account for a hefty 35% of overall revenues.",0.9523313641548157,0.016606664285063744,0.031061971560120583,positive,0.935724675655365
+19,2016-02-18 07:06:00,But at the heart of all this is a focus on cognitive functions.,0.023157142102718353,0.011989733204245567,0.9648531675338745,neutral,0.011167408898472786
+20,2016-02-18 07:06:00,"In other words, this involves the ability to process huge amounts of data so as to allow for better decisions.",0.3420654833316803,0.01069402601569891,0.6472404599189758,neutral,0.3313714563846588
+21,2016-02-18 07:06:00,"This is really about the next phase of the cloud revolution, which will go beyond just allowing for ease-of-use and lower costs.",0.2794123589992523,0.00737955654039979,0.7132080793380737,neutral,0.27203279733657837
+22,2016-02-18 07:06:00,The good news is that IBM is nicely positioned for this megatrend.,0.7985748052597046,0.014043272472918034,0.18738196790218353,positive,0.7845315337181091
+23,2016-02-18 07:06:00,"Keep in mind that last year, the company generated almost $18 billion in revenues from analytics.",0.23327699303627014,0.008194176480174065,0.7585288286209106,neutral,0.22508281469345093
+24,2016-02-18 07:06:00,"No doubt, a key has been from its Watson technology.",0.6525682806968689,0.015668505802750587,0.33176320791244507,positive,0.6368997693061829
+25,2016-02-18 07:06:00,"In fact, to bolster this, IBM has been smart to acquire data-savvy companies, such as the Weather Company and yes, Truven.",0.8610185980796814,0.013533759862184525,0.1254475861787796,positive,0.847484827041626
+26,2016-02-18 07:06:00,"Although, the deal for Truven could provide the biggest catalyst for IBM stock.",0.7182403802871704,0.05857744812965393,0.22318215668201447,positive,0.6596629619598389
+27,2016-02-18 07:06:00,"Consider that the company will have a data set of about 300 million patient lives , with information on important categories like costs, claims and outcomes (there have also been other important acquisitions in the space during the past year, such as for Phytel Inc. , Explorys and Merge Healthcare ).",0.1409635692834854,0.005436774343252182,0.8535996675491333,neutral,0.13552679121494293
+28,2016-02-18 07:06:00,"Truven will also bring with it over 8,500 customers.",0.37142685055732727,0.007885456085205078,0.62068772315979,neutral,0.3635413944721222
+29,2016-02-18 07:06:00,"All this technology should help with the major changes in the healthcare industry, which will increasingly be about getting better value for services and a move away from the traditional fee-for-services model.",0.5277031660079956,0.013743449002504349,0.4585534334182739,positive,0.5139597058296204
+30,2016-02-18 07:06:00,And this requires sophisticated data and insights.,0.2562256157398224,0.00909283198416233,0.7346814870834351,neutral,0.2471327781677246
+31,2016-02-18 07:06:00,The market opportunity is also massive.,0.5135824680328369,0.010672627948224545,0.4757448732852936,positive,0.5029098391532898
+32,2016-02-18 07:06:00,"According to a report from Grand View Research , the spending on healthcare IT is excepted to hit a whopping $104.5 billion by 2020 in the U.S.",0.7496018409729004,0.047446511685848236,0.20295171439647675,positive,0.702155351638794
+33,2016-02-18 07:06:00,"The valuation on IBM stock is certainly at attractive levels, with the forward price-to-earnings ratio at only 9X.",0.7953813076019287,0.014875827357172966,0.18974286317825317,positive,0.7805054783821106
+34,2016-02-18 07:06:00,"By comparison, Oracle Corporation 's ( ORCL ) is at 13X and Microsoft trades at a multiple of 17X.",0.023560723289847374,0.013027306646108627,0.9634119272232056,neutral,0.010533416643738747
+35,2016-02-18 07:06:00,"What's more, IBM sports a dividend yield of 4.3%.",0.21806834638118744,0.009587939828634262,0.7723436951637268,neutral,0.20848040282726288
+36,2016-02-18 07:06:00,But there is more than just a cheap stock here.,0.1769619733095169,0.014127799309790134,0.8089102506637573,neutral,0.16283416748046875
+37,2016-02-18 07:06:00,"IBM has key advantages that should help it be a winner in the move towards cognitive computing - including a trusted global brand, a massive infrastructure and armies of talented engineers and scientists.",0.9224002957344055,0.015407961793243885,0.06219177320599556,positive,0.9069923162460327
+38,2016-02-18 07:06:00,"Granted, it will probably take more time for the efforts to really move the needle.",0.10233096778392792,0.033644501119852066,0.8640244603157043,neutral,0.06868647038936615
+39,2016-02-18 07:06:00,Yet the good news is that IBM is making the right moves to get things back on track.,0.8857280611991882,0.01623927615582943,0.09803266823291779,positive,0.8694887757301331
+40,2016-02-18 07:06:00,Tom Taulli runs the InvestorPlace blog IPO Playbook .,0.0306533370167017,0.01592433825135231,0.9534223079681396,neutral,0.014728998765349388
+41,2016-02-18 07:06:00,"He is also the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04780338332056999,0.0064233713783323765,0.9457733035087585,neutral,0.041380010545253754
+42,2016-02-18 07:06:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+43,2016-02-18 07:06:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+44,2016-02-18 07:06:00,The post International Business Machines Corp.: Can Healthcare Cure IBM's Growth Blues?,0.3712579011917114,0.10659805685281754,0.5221440196037292,neutral,0.2646598517894745
+45,2016-02-18 07:06:00,appeared first on InvestorPlace .,0.062324922531843185,0.015836404636502266,0.921838641166687,neutral,0.04648851603269577
+46,2016-02-18 07:06:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

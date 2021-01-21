@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-04 23:35:00,"Salesforce.com, Inc. (NYSE: CRM ) has had a fantastic 2017, up 25% for the year-to-date.",0.956217885017395,0.023269379511475563,0.020512768998742104,positive,0.9329485297203064
+1,2017-04-04 23:35:00,And that continued Wednesday after analysts at Merrill Lynch put shares on its coveted list of top buys.,0.8492571711540222,0.03945609927177429,0.1112866997718811,positive,0.8098011016845703
+2,2017-04-04 23:35:00,"On the news, CRM stock is up about 3%.",0.9243423938751221,0.019922969862818718,0.05573469400405884,positive,0.9044194221496582
+3,2017-04-04 23:35:00,"In fact, for the year so far, the return is an impressive 20%, roughly.",0.9232621192932129,0.01878228969871998,0.057955604046583176,positive,0.9044798016548157
+4,2017-04-04 23:35:00,There are plenty of reasons to be upbeat on CRM stock.,0.039619896560907364,0.013403492979705334,0.9469766616821289,neutral,0.026216402649879456
+5,2017-04-04 23:35:00,"The company is the pioneer of the fast-growing cloud computing industry and has a broad array of applications that go beyond customer relation management, such as marketing automation, hosting, customer service and analytics.",0.20457275211811066,0.005806964822113514,0.7896203398704529,neutral,0.19876578450202942
+6,2017-04-04 23:35:00,"Even though CRM has been around since the late 1990s, the company is growing as if it were a scrappy startup.",0.04924466460943222,0.27327752113342285,0.6774778366088867,neutral,-0.22403284907341003
+7,2017-04-04 23:35:00,"In the latest quarter, revenues jumped by 27% to $2.29 billion and cash flows came to $706 million, up 50%.",0.9555078744888306,0.019891848787665367,0.02460031770169735,positive,0.9356160163879395
+8,2017-04-04 23:35:00,Deferred revenues also rose by 29% to $5.54 billion.,0.9558427929878235,0.02157488279044628,0.022582383826375008,positive,0.9342679381370544
+9,2017-04-04 23:35:00,"• 7 Tech Stocks That Will Crush the Market for Years
+
+As for the Merrill report on CRM stock?",0.0467788428068161,0.1575130969285965,0.7957080602645874,neutral,-0.1107342541217804
+10,2017-04-04 23:35:00,The analysts point out that revenues could double within the next three to four years.,0.9428954720497131,0.01723766326904297,0.03986692801117897,positive,0.9256578087806702
+11,2017-04-04 23:35:00,"The main reason is the Einstein platform, which provides sophisticated AI (Artificial Intelligence) across the company's apps.",0.14868398010730743,0.006509525701403618,0.8448064923286438,neutral,0.14217445254325867
+12,2017-04-04 23:35:00,"Here's what CRM CEO Marc Benioff had to say about the cutting-edge Einstein technology in the latest earnings call :
+
+""We showed [a customer that] with a simple camera, they're able to do real-time inventory analysis of their retailer shelves and they're able to, based on that analysis that's happening from those cameras, understand the competitive environment, number one.",0.24109742045402527,0.008967741392552853,0.7499348521232605,neutral,0.23212967813014984
+13,2017-04-04 23:35:00,"Number two, understand their own environment, and number three, when they are seeing a level of depletion on the shelves that they want to replace, they can just roll trucks automatically using Salesforce Einstein.""",0.039731111377477646,0.05023958906531334,0.9100292921066284,neutral,-0.010508477687835693
+14,2017-04-04 23:35:00,"While all this sounds great, there should still be some skepticism.",0.11251949518918991,0.019922509789466858,0.867557942867279,neutral,0.09259698539972305
+15,2017-04-04 23:35:00,AI is definitely not exclusive to CRM.,0.019500236958265305,0.014595857821404934,0.9659039378166199,neutral,0.004904379136860371
+16,2017-04-04 23:35:00,"Many other mega tech operators - like Microsoft Corporation (NASDAQ: MSFT ), Alphabet Inc (NASDAQ: GOOGL , NASDAQ: GOOG ) and Amazon.com, Inc. (NASDAQ: AMZN ) - are plowing huge amounts of resources into the category.",0.1264517456293106,0.013632501475512981,0.8599157333374023,neutral,0.11281924694776535
+17,2017-04-04 23:35:00,"These companies also have the key advantage of huge consumer user bases, which allows for more learning.",0.6762180328369141,0.011812260374426842,0.31196969747543335,positive,0.6644057631492615
+18,2017-04-04 23:35:00,"Offerings like Alexa, Cortana and Google Assistant are quickly becoming well-known brands in AI.",0.61329585313797,0.014382325112819672,0.37232184410095215,positive,0.5989135503768921
+19,2017-04-04 23:35:00,This is definitely not the case with Einstein.,0.06912696361541748,0.1745361089706421,0.7563369274139404,neutral,-0.10540914535522461
+20,2017-04-04 23:35:00,But there are some other things to consider.,0.038604434579610825,0.01628579944372177,0.9451097846031189,neutral,0.022318635135889053
+21,2017-04-04 23:35:00,The competitive environment for cloud computing is getting more intense - and will likely see more pricing pressure.,0.43249914050102234,0.13291949033737183,0.4345813989639282,neutral,0.2995796501636505
+22,2017-04-04 23:35:00,Even Salesforce's core customer relationship management business has a few vulnerabilities.,0.02570970728993416,0.28163546323776245,0.6926548480987549,neutral,-0.2559257447719574
+23,2017-04-04 23:35:00,"Keep in mind that Microsoft's $26.2 billion acquisition of LinkedIn will provide a big boost to the company's own CRM platform, which include Dynamics and Sales Navigator.",0.9343085289001465,0.014067319221794605,0.05162414163351059,positive,0.9202412366867065
+24,2017-04-04 23:35:00,The massive amounts of LinkedIn user data - which boasts more than 467 million users - will be key for AI functions.,0.2653965353965759,0.008057355880737305,0.7265461683273315,neutral,0.2573391795158386
+25,2017-04-04 23:35:00,"Plus, LinkedIn will enjoy powerful synergies with other MSFT products like Office, Skype, SharePoint and Azure hosting.",0.9261674284934998,0.014189069159328938,0.059643473476171494,positive,0.9119783639907837
+26,2017-04-04 23:35:00,"Is it any wonder that Benioff said that the LinkedIn/Microsoft deal was ""anticompetitive"" ?",0.04924347996711731,0.7457482218742371,0.20500831305980682,negative,-0.6965047121047974
+27,2017-04-04 23:35:00,Microsoft may ultimately be the biggest threat to the growth of CRM stock.,0.03995545953512192,0.8028914332389832,0.15715311467647552,negative,-0.762935996055603
+28,2017-04-04 23:35:00,Perhaps this is why there were discussions for a merger a couple years ago .,0.057705044746398926,0.009659157134592533,0.9326358437538147,neutral,0.04804588854312897
+29,2017-04-04 23:35:00,"Since then, CRM has engaged in an aggressive M&A campaign to remain competitive.",0.9322450160980225,0.013814691454172134,0.05394025519490242,positive,0.9184303283691406
+30,2017-04-04 23:35:00,"For the past year or so, the company has acquired 11 companies .",0.05183275043964386,0.0069722505286335945,0.9411950707435608,neutral,0.04486050084233284
+31,2017-04-04 23:35:00,"Some also sported high price tags, such as the $750 purchase of Quip and the $2.8 billion deal for Demandware .",0.33872920274734497,0.025511834770441055,0.6357589364051819,neutral,0.3132173717021942
+32,2017-04-04 23:35:00,"It can be extremely difficult to integrate multiple deals in a short period, as you risk problems with staffing, sales productivity and product quality.",0.02789429947733879,0.8219274282455444,0.15017826855182648,negative,-0.7940331101417542
+33,2017-04-04 23:35:00,• Buy the Axon Enterprise Inc (TASR) Stock Dip Now!,0.07781743258237839,0.008213822729885578,0.9139687418937683,neutral,0.06960360705852509
+34,2017-04-04 23:35:00,"Finally, CRM stock is trading at steep levels, with the forward price-earnings ratio at a hefty 50X.",0.4574531614780426,0.2200685739517212,0.322478324174881,positive,0.2373845875263214
+35,2017-04-04 23:35:00,"By comparison, Microsoft has a multiple of only 20.",0.02932877093553543,0.022792669013142586,0.9478785991668701,neutral,0.006536101922392845
+36,2017-04-04 23:35:00,"Despite what Merrill says, you may want to wait for a better price on CRM stock before putting it on your own conviction list.",0.2043265402317047,0.020604897290468216,0.7750686407089233,neutral,0.1837216466665268
+37,2017-04-04 23:35:00,"Tom Taulli runs the InvestorPlace blogIPO Playbook as well as OptionExercise.com , which provides interactive tools & services for employee stock options of pre/post IPO companies.",0.0241863876581192,0.006645279470831156,0.9691683053970337,neutral,0.017541108652949333
+38,2017-04-04 23:35:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+39,2017-04-04 23:35:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+40,2017-04-04 23:35:00,"• 3 Energy Stocks That Are Ready for a Turnaround
+• 3 Actively Managed Fidelity Funds You Should Buy Now
+• Owners of Alphabet Inc (GOOGL) Stock Now Have Another Threat -- Amazon
+
+The post Salesforce.com, Inc. (CRM) Stock Is Hot, But Stay Away … For Now appeared first on InvestorPlace .",0.07770850509405136,0.6755054593086243,0.24678607285022736,negative,-0.5977969765663147
+41,2017-04-04 23:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

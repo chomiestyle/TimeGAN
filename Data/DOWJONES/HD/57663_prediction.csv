@@ -1,0 +1,4 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-26 08:47:00,"The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Home Depot is the #16 analyst pick.",0.2298668473958969,0.0373881533741951,0.7327449917793274,neutral,0.19247868657112122
+1,2020-02-26 08:47:00,"Despite being ranked lower than the median among analyst picks of the Dow, Home Depot ranks better than the median among analyst picks for the broader S&P 500 index components, claiming the #196 spot out of 500.",0.7462111115455627,0.2082604467868805,0.04552847146987915,positive,0.5379506349563599
+2,2020-02-26 08:47:00,"Looking at the stock price movement year to date, Home Depot is showing a gain of 10.3%.",0.9512332081794739,0.019463593140244484,0.029303131625056267,positive,0.931769609451294

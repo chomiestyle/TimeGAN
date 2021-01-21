@@ -1,0 +1,36 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-14 07:11:00,"Following the market opening Tuesday, the Dow traded down 0.62 percent to 23,294.15 while the NASDAQ declined 0.58 percent to 6,718.39.",0.020800016820430756,0.9614636898040771,0.017736278474330902,negative,-0.9406636953353882
+1,2017-11-14 07:11:00,"The S&P also fell, dropping 0.59 percent to 2,569.68.",0.018167391419410706,0.9723038673400879,0.009528782218694687,negative,-0.9541364908218384
+2,2017-11-14 07:11:00,"Tuesday morning, the non-cyclical consumer goods & services shares slipped by just 0.07 percent.",0.018027950078248978,0.9695646166801453,0.012407372705638409,negative,-0.9515366554260254
+3,2017-11-14 07:11:00,"In trading on Tuesday, energy shares were relative laggards, down on the day by about 1.12 percent.",0.01886357180774212,0.9698619842529297,0.011274482123553753,negative,-0.9509984254837036
+4,2017-11-14 07:11:00,"Meanwhile, top losers in the sector included Whiting Petroleum Corp (NYSE: WLL ), down 5 percent, and Petroleo Brasileiro SA Petrobras (ADR) (NYSE: PBR ) down 5 percent.",0.018278373405337334,0.9582893252372742,0.02343224547803402,negative,-0.9400109648704529
+5,2017-11-14 07:11:00,Home Depot Inc (NYSE: HD ) reported better-than-expected earnings for its third quarter and lifted its full-year guidance.,0.9421815872192383,0.02919894829392433,0.028619473800063133,positive,0.9129826426506042
+6,2017-11-14 07:11:00,Home Depot posted quarterly adjusted earnings of $1.84 per share on revenue of $25.03 billion.,0.10210796445608139,0.01705539971590042,0.8808366060256958,neutral,0.08505256474018097
+7,2017-11-14 07:11:00,"However, analysts were expecting earnings of $1.82 per share on revenue of $24.53 billion.",0.14396600425243378,0.3522472083568573,0.5037868022918701,neutral,-0.20828120410442352
+8,2017-11-14 07:11:00,Comparable store sales rose 7.9 percent in the quarter.,0.938513994216919,0.02093307115137577,0.04055287688970566,positive,0.9175809025764465
+9,2017-11-14 07:11:00,Buffalo Wild Wings (NASDAQ: BWLD ) shares shot up 25 percent to $146.77 on a $2.3 billion takeover bid submitted by private-equity firm Roark Capital.,0.9344732165336609,0.0245418269187212,0.04098496213555336,positive,0.9099313616752625
+10,2017-11-14 07:11:00,The firm's bid for the restaurant chain is worth over $150 per share.,0.4304789900779724,0.013331033289432526,0.5561899542808533,neutral,0.4171479642391205
+11,2017-11-14 07:11:00,"Shares of ITUS Corp (NASDAQ: ITUS ) got a boost, shooting up 13 percent to $2.87 after the company disclosed that it has executed an exclusive worldwide license agreement with The Wistar Institute for a CAR T-Cell technology.",0.9369892477989197,0.020956996828317642,0.04205378144979477,positive,0.9160322546958923
+12,2017-11-14 07:11:00,"Advance Auto Parts, Inc. (NYSE: AAP ) shares were also up, gaining 21 percent to $99.67 after the company reported better-than-expected profit for its third quarter.",0.9458114504814148,0.024316661059856415,0.029871834442019463,positive,0.9214947819709778
+13,2017-11-14 07:11:00,NCS Multistage Holdings Inc (NASDAQ: NCSM ) shares dropped 25 percent to $15.52.,0.01745963655412197,0.970775306224823,0.0117650693282485,negative,-0.9533156752586365
+14,2017-11-14 07:11:00,NCS Multistage reported Q3 adjusted earnings of $0.09 per share on revenue of $56 million.,0.045206520706415176,0.027043823152780533,0.9277496933937073,neutral,0.018162697553634644
+15,2017-11-14 07:11:00,Shares of Network-1 Technologies Inc (NASDAQ: NTIP ) were down 34 percent to $2.88 after a jury in the United States District Court determined that Network-1's Remote Power Patent is invalid and not infringed by Hewlett-Packard.,0.019892046228051186,0.963287353515625,0.01682061329483986,negative,-0.9433953166007996
+16,2017-11-14 07:11:00,"Netshoes (CAYMAN) Ltd (NYSE: NETS ) was down, falling around 18 percent to $7.94.",0.017384951934218407,0.9662853479385376,0.0163296889513731,negative,-0.9489004015922546
+17,2017-11-14 07:11:00,Netshoes reported a Q3 loss of $0.58 per share on sales of $140.352 million.,0.016329240053892136,0.9360078573226929,0.04766301065683365,negative,-0.9196786284446716
+18,2017-11-14 07:11:00,"In commodity news, oil traded down 0.53 percent to $56.46 while gold traded down 0.27 percent to $1,275.40.",0.02300136350095272,0.9602788686752319,0.016719719395041466,negative,-0.9372774958610535
+19,2017-11-14 07:11:00,"Silver traded down 0.39 percent Tuesday to $16.98, while copper fell 0.34 percent to $3.106.",0.026730852201581,0.9576147198677063,0.015654440969228745,negative,-0.9308838844299316
+20,2017-11-14 07:11:00,European shares were lower today.,0.018981942906975746,0.9628152847290039,0.01820276863873005,negative,-0.9438333511352539
+21,2017-11-14 07:11:00,"The eurozone's STOXX 600 declined 0.41 percent, the Spanish Ibex Index fell 0.20 percent, while Italy's FTSE MIB Index dropped 0.43 percent.",0.03276998922228813,0.9193757772445679,0.0478542186319828,negative,-0.8866057991981506
+22,2017-11-14 07:11:00,"Meanwhile the German DAX declined 0.18 percent, and the French CAC 40 dropped 0.31 percent while U.K. shares rose 0.12 percent.",0.04130718857049942,0.9311275482177734,0.027565324679017067,negative,-0.8898203372955322
+23,2017-11-14 07:11:00,"The NFIB small business optimism index rose to a reading of 103.80 in October, versus a prior reading of 103.00.",0.941417932510376,0.03408576920628548,0.024496279656887054,positive,0.907332181930542
+24,2017-11-14 07:11:00,"The Producer Price Index rose 0.4 percent for October, versus economists' expectations for a 0.2 percent gain.",0.9326968193054199,0.039679039269685745,0.02762424573302269,positive,0.8930177688598633
+25,2017-11-14 07:11:00,The Treasury is set to auction 4-week bills at 11:30 a.m.,0.03331062197685242,0.009763197042047977,0.956926167011261,neutral,0.023547425866127014
+26,2017-11-14 07:11:00,ET.,0.04076192528009415,0.02084074728190899,0.9383973479270935,neutral,0.019921177998185158
+27,2017-11-14 07:11:00,© 2017 Benzinga.com.,0.024346332997083664,0.011830107308924198,0.9638234972953796,neutral,0.012516225688159466
+28,2017-11-14 07:11:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+29,2017-11-14 07:11:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+30,2017-11-14 07:11:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+31,2017-11-14 07:11:00,Gain access to a streaming platform with all the information you need to invest better today.,0.7333180904388428,0.014288763515651226,0.2523931562900543,positive,0.7190293073654175
+32,2017-11-14 07:11:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296517051756382,0.01562010683119297,0.9740833640098572,neutral,-0.005323589779436588

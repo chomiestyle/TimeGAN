@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-29 23:30:00,"Home Depot ( HD ) is the largest home improvement retailer in the U.S., with approximately a 25% market share.",0.23978985846042633,0.0072848559357225895,0.7529252767562866,neutral,0.23250500857830048
+1,2016-11-29 23:30:00,"The retailer has enjoyed solid growth so far in 2016, reaffirming its guidance of 6.3% sales growth and 4.9% comp sales growth for the full year, and now expects full-year EPS to grow 15.9% to $6.33, up from the estimate of $6.31 after Q2, the estimate of $6.27 after Q1, and the estimate of $6.12-$6.18 after 2015 full-year results announcements.",0.9577949047088623,0.02184792049229145,0.020357120782136917,positive,0.9359470009803772
+2,2016-11-29 23:30:00,Much of this growth is fueled by booming home improvement spending.,0.8123122453689575,0.0139370858669281,0.1737506240606308,positive,0.798375129699707
+3,2016-11-29 23:30:00,"Low inventory of homes for sales has prompted home price appreciation and led to bidding wars, which, in turn, has prompted owners of houses to add value to their present homes through remodeling and repairs.",0.5373704433441162,0.15765982866287231,0.3049696981906891,positive,0.3797106146812439
+4,2016-11-29 23:30:00,"The declining months' supply metric indicates that the current for sale inventory wouldn't last as long as it has historically, given the current sales rate, if no additional new houses are built.",0.05526566505432129,0.7632996439933777,0.18143464624881744,negative,-0.7080339789390564
+5,2016-11-29 23:30:00,"This has boosted prices of homes, which are also rising due to the low mortgage rates and the gradual appreciation after the period of recession.",0.932277500629425,0.027435824275016785,0.040286585688591,positive,0.9048416614532471
+6,2016-11-29 23:30:00,The low supply of homes has been a major factor in driving the home prices up.,0.186264768242836,0.5148674249649048,0.298867791891098,negative,-0.32860267162323
+7,2016-11-29 23:30:00,Low activity of construction companies has meant that there is a mismatch between demand and supply of homes.,0.021017860621213913,0.9382148385047913,0.040767353028059006,negative,-0.9171969890594482
+8,2016-11-29 23:30:00,"As a result, home renovation has bounced back in a big way, more than new home construction, probably also as renovation can be done gradually, in phases.",0.9018852710723877,0.01496561523526907,0.08314911276102066,positive,0.8869196772575378
+9,2016-11-29 23:30:00,"According to a report from Harvard's Joint Center for Housing, home improvement and repair expenditures will grow by 8% by the start of next year, which is much larger than the historical average growth rate of 4.9%.",0.919821560382843,0.01849338784813881,0.06168510764837265,positive,0.9013281464576721
+10,2016-11-29 23:30:00,"Expense for repairs and remodeling is expected to cross $300 billion this year, surpassing the previous high of ~$285 billion in 2007, and grow further in 2017.",0.9357792735099792,0.01931522972881794,0.04490545019507408,positive,0.9164640307426453
+11,2016-11-29 23:30:00,"This will have a direct positive impact on Home Depot, which expects to cross $100 billion in annual sales by 2018, up from slightly less than $90 billion last year.",0.9538811445236206,0.023378591984510422,0.02274029329419136,positive,0.9305025339126587
+12,2016-11-29 23:30:00,"The industry-leader in home improvement estimates the addressable domestic consumer market at approximately $180 billion, and growth could further come from the surge in repair, remodeling, and renovation activities.",0.6776488423347473,0.01003329735249281,0.3123178482055664,positive,0.667615532875061
+13,2016-11-29 23:30:00,"The surge in home improvement spending could continue in the near future, and if Home Depot's revenue rises at a CAGR of 6.4%, as opposed to our current estimate of 4.4% CAGR growth, the price estimate for the company will rise by more than 10%.",0.9188644886016846,0.02181796170771122,0.059317611157894135,positive,0.8970465064048767
+14,2016-11-29 23:30:00,"• Why Home Depot Is Doing Better Than Lowe's In 2016
+• How Home Depot Will Gain From The Low Inventory Of Homes For Sale
+• Home Depot Has Been Operating Efficiently In The Last Few Years, And Here's Why
+• Home Depot Or Lowe's - Which Retailer Is Doing Better In 2016?",0.8823230862617493,0.028848011046648026,0.0888289213180542,positive,0.8534750938415527
+15,2016-11-29 23:30:00,• Home Depot Vs. Lowe's - Who Is Better At Inventory Management?,0.13841915130615234,0.12589605152606964,0.7356847524642944,neutral,0.012523099780082703
+16,2016-11-29 23:30:00,"• Home Depot Beats Consensus Estimates And The Trend Of Declining Sales For Retailers In Q1
+• Where Will Home Depot's Revenue And EBITDA Growth Come From Over The Next Three Years?",0.26620107889175415,0.2040005475282669,0.5297983884811401,neutral,0.062200531363487244
+17,2016-11-29 23:30:00,• How Has Home Depot's Revenue And EBITDA Composition Changed Over 2012-2016E?,0.1995418667793274,0.025020772591233253,0.7754374146461487,neutral,0.1745210886001587
+18,2016-11-29 23:30:00,• What Is Home Depot's Revenue And EBITDA Breakdown?,0.011163506656885147,0.04610036313533783,0.9427360892295837,neutral,-0.03493685647845268
+19,2016-11-29 23:30:00,• By What Percentage Have Home Depot's Revenues And EBITDA Grown Over The Last Five Years?,0.5429202914237976,0.013430488295853138,0.44364920258522034,positive,0.5294898152351379
+20,2016-11-29 23:30:00,1) The purpose of these analyses is to help readers focus on a few important things.,0.02945762127637863,0.006360053550451994,0.9641823172569275,neutral,0.02309756726026535
+21,2016-11-29 23:30:00,"We hope such lean communication sparks thinking, and encourages readers to comment and ask questions on the comment section, or email content@trefis.com
+
+2) Figures mentioned are approximate values to help our readers remember the key concepts more intuitively.",0.24467875063419342,0.012298610992729664,0.743022620677948,neutral,0.23238013684749603
+22,2016-11-29 23:30:00,"For precise figures, please refer to our complete analysis for Home Depot
+
+See More at Trefis |View Interactive Institutional Research(Powered by Trefis)
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009254499338567257,0.015552048571407795,0.975193440914154,neutral,-0.006297549232840538

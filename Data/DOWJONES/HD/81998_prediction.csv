@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-13 06:31:00,U.S. stock futures are trading higher this morning as better-than-expected earnings from Home Depot (NYSE: HD ) are boosting the Dow Jones Industrial Average by triple digits.,0.9384300112724304,0.029380973428487778,0.03218897432088852,positive,0.9090490341186523
+1,2018-11-13 06:31:00,The snap-back comes after Monday's panic sent investors running for the exits.,0.27676743268966675,0.6021240949630737,0.12110847979784012,negative,-0.325356662273407
+2,2018-11-13 06:31:00,"Heading into the open, futures on the Dow are up 0.25% and S&P 500 futures are higher by 0.32%.",0.9146247506141663,0.03084666095674038,0.0545286163687706,positive,0.8837780952453613
+3,2018-11-13 06:31:00,Nasdaq-100 futures have added 0.45%.,0.8653345704078674,0.04817700758576393,0.08648836612701416,positive,0.8171575665473938
+4,2018-11-13 06:31:00,"In the options pits, put volume jumped yesterday eclipsing calls by a modest margin.",0.9163370728492737,0.032051943242549896,0.05161089450120926,positive,0.8842851519584656
+5,2018-11-13 06:31:00,"Specifically, about 17.4 million calls and 18.8 million puts changed hands on the session.",0.029320556670427322,0.08093040436506271,0.8897489905357361,neutral,-0.05160984769463539
+6,2018-11-13 06:31:00,"Over at the CBOE, put demand ebbed despite the market downturn.",0.12807369232177734,0.7919027805328369,0.08002349734306335,negative,-0.6638290882110596
+7,2018-11-13 06:31:00,The single-session equity put/call volume fell back to 0.73.,0.01749645732343197,0.9706511497497559,0.011852335184812546,negative,-0.9531546831130981
+8,2018-11-13 06:31:00,The 10-day moving average held steady at 0.66.,0.5603374242782593,0.08341868221759796,0.35624387860298157,positive,0.4769187569618225
+9,2018-11-13 06:31:00,Options activity ramped in a few well-known large caps on Monday.,0.8684755563735962,0.04870767518877983,0.08281677216291428,positive,0.8197678923606873
+10,2018-11-13 06:31:00,Goldman Sachs (NYSE: GS ) shares suffered their worst day in seven years on new worries surrounding a bribery scandal.,0.024695483967661858,0.9644901752471924,0.010814331471920013,negative,-0.9397947192192078
+11,2018-11-13 06:31:00,Home Depot and Walmart (NYSE: WMT ) both saw selling pressure ahead of their respective earnings reports this week.,0.07148799300193787,0.8804550766944885,0.0480569452047348,negative,-0.808967113494873
+12,2018-11-13 06:31:00,Goldman Sachs shares were demolished on Monday.,0.04415956512093544,0.19532068073749542,0.760519802570343,neutral,-0.15116111934185028
+13,2018-11-13 06:31:00,"By days end, the mass distribution had driven the stock lower by 7.5% on the highest volume trading session of the year.",0.02171240746974945,0.9664035439491272,0.011884007602930069,negative,-0.9446911215782166
+14,2018-11-13 06:31:00,The culprit for the crash appears to be concerns over the 1MDB scandal.,0.0331532321870327,0.8032010197639465,0.16364580392837524,negative,-0.7700477838516235
+15,2018-11-13 06:31:00,"As reported by Investors Business Daily on Monday:
+
+""U.S. prosecutors allege that Goldman bankers were involved in a bribery and kickback scheme led by a Malaysian financier to land Goldman $6 billion in deals to underwrite bonds for the fund, known as 1Malaysia Development Berhad.",0.06285637617111206,0.783226728439331,0.15391691029071808,negative,-0.720370352268219
+16,2018-11-13 06:31:00,"One of those bankers pleaded guilty in the case in August.""",0.10088025778532028,0.5712793469429016,0.3278403878211975,negative,-0.47039908170700073
+17,2018-11-13 06:31:00,GS stock now sits at a two-year low and is threatening to break a major horizontal support zone at $209.,0.03944055736064911,0.8970744013786316,0.06348499655723572,negative,-0.8576338291168213
+18,2018-11-13 06:31:00,"On the options trading front, traders calls outpaced puts.",0.6397113800048828,0.29702407121658325,0.06326460093259811,positive,0.34268730878829956
+19,2018-11-13 06:31:00,"Activity swelled to 263% of the average daily volume, with 88,635 total contracts traded.",0.8982532024383545,0.03152807429432869,0.0702187791466713,positive,0.8667251467704773
+20,2018-11-13 06:31:00,60% of the total came from calls.,0.01778574287891388,0.029569340869784355,0.9526448845863342,neutral,-0.011783597990870476
+21,2018-11-13 06:31:00,Implied volatility exploded higher on the day to 34% placing it at the 89th percentile of its one-year range.,0.9387075304985046,0.028143640607595444,0.0331488698720932,positive,0.9105638861656189
+22,2018-11-13 06:31:00,Option premiums are now pricing in daily moves of 2%.,0.5054678916931152,0.02726779878139496,0.4672642946243286,positive,0.4782000780105591
+23,2018-11-13 06:31:00,Home Depot options were active ahead of this morning's earnings report.,0.10049629956483841,0.018699366599321365,0.8808043599128723,neutral,0.08179692924022675
+24,2018-11-13 06:31:00,October's market carnage took a toll on Home Depot because of concerns surrounding rising interest rates and weakening home sales data.,0.021411800757050514,0.9673287272453308,0.011259413324296474,negative,-0.9459169507026672
+25,2018-11-13 06:31:00,"Nonetheless, the company posted solid numbers this morning and raised their fiscal 2018 sales guidance.",0.9432819485664368,0.02126321755349636,0.03545482084155083,positive,0.9220187067985535
+26,2018-11-13 06:31:00,HD earned $2.51 per share on $26.3 billion revenue.,0.07283294200897217,0.018896805122494698,0.9082702398300171,neutral,0.05393613874912262
+27,2018-11-13 06:31:00,The Street had expected $2.26 earnings per share on $26.26 billion revenue.,0.17834512889385223,0.03027266263961792,0.7913821935653687,neutral,0.14807246625423431
+28,2018-11-13 06:31:00,"On the options trading front, puts outpaced calls on the day.",0.8163692355155945,0.13666674494743347,0.046964019536972046,positive,0.6797025203704834
+29,2018-11-13 06:31:00,"Activity jumped to 243% of the average daily volume, with 76,521 total contracts traded; 59% of the trading came from put options alone.",0.9285631775856018,0.02381792478263378,0.04761889576911926,positive,0.9047452807426453
+30,2018-11-13 06:31:00,The increased demand lifted implied volatility to 34% or the 67th percentile of its one-year range.,0.9490775465965271,0.02290116436779499,0.02802133560180664,positive,0.9261763691902161
+31,2018-11-13 06:31:00,"The expected earnings move was $8.18, or 4.6%.",0.24414455890655518,0.31488728523254395,0.4409681558609009,neutral,-0.07074272632598877
+32,2018-11-13 06:31:00,"With HD stock trading at $181.76 premarket, the price gap is within the expected range suggesting volatility sellers will awake to profits in their accounts.",0.2035425752401352,0.662422776222229,0.13403461873531342,negative,-0.4588801860809326
+33,2018-11-13 06:31:00,"Walmart shares have been the ultimate safe haven, beckoning to investors tiring of the losses hounding them elsewhere.",0.8274147510528564,0.037709154188632965,0.1348760724067688,positive,0.7897055745124817
+34,2018-11-13 06:31:00,WMT stock's ascent has been relentless but profit taking finally took it down a notch on Monday.,0.3321312367916107,0.5325181484222412,0.1353505551815033,negative,-0.2003869116306305
+35,2018-11-13 06:31:00,The slide comes as investors are gearing up for Thursday morning's quarterly earnings report.,0.2998504042625427,0.5264667272567749,0.17368286848068237,negative,-0.22661632299423218
+36,2018-11-13 06:31:00,"• 3 Stocks to Buy With the Return of the Oil Crash
+
+With last quarter's earnings release having delivered such an epic up gap, shareholders' hopes are running high into the event.",0.7466177344322205,0.09131624549627304,0.16206596791744232,positive,0.6553015112876892
+37,2018-11-13 06:31:00,"On the options trading front, calls ruled the action despite the day's slide.",0.687968909740448,0.16030840575695038,0.15172265470027924,positive,0.5276604890823364
+38,2018-11-13 06:31:00,"Activity swelled to 230% of the average daily volume, with 109,800 total contracts traded.",0.910613477230072,0.029598258435726166,0.05978823080658913,positive,0.8810152411460876
+39,2018-11-13 06:31:00,Calls accounted for 66% of the day's take.,0.03063293546438217,0.025468265637755394,0.9438987970352173,neutral,0.005164669826626778
+40,2018-11-13 06:31:00,Implied volatility is rising ahead of the earnings release.,0.8550617694854736,0.02455289289355278,0.12038537859916687,positive,0.8305088877677917
+41,2018-11-13 06:31:00,"At 29%, it now sits at the 56th percentile of its one-year range.",0.4390268921852112,0.06206904724240303,0.49890413880348206,neutral,0.37695783376693726
+42,2018-11-13 06:31:00,Options premiums are pricing in an earnings gap of $5.31 or 5%.,0.5372493267059326,0.32592353224754333,0.13682718575000763,positive,0.21132579445838928
+43,2018-11-13 06:31:00,"As of this writing, Tyler Craig didn't hold positions in any of the aforementioned securities.",0.009155641309916973,0.02629534713923931,0.9645490646362305,neutral,-0.017139706760644913
+44,2018-11-13 06:31:00,Want insightful education on how to trade?,0.15460748970508575,0.01680801622569561,0.8285845518112183,neutral,0.137799471616745
+45,2018-11-13 06:31:00,"Check out his trading blog, Tales of a Technician .",0.07546618580818176,0.04735638201236725,0.8771774768829346,neutral,0.028109803795814514
+46,2018-11-13 06:31:00,"• 7 Aerospace Stocks to Buy That Were Previously Grounded
+• 5 Pharma Stocks to Stay Away From
+
+The post Tuesday's Vital Data: Goldman Sachs, Home Depot and Walmart appeared first on InvestorPlace .",0.09430097043514252,0.4414675533771515,0.4642314910888672,neutral,-0.34716659784317017
+47,2018-11-13 06:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

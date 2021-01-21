@@ -1,0 +1,14 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-03 01:45:00,"Wednesday's session closes with the NASDAQ Composite Index at 4,504.24.",0.05612475797533989,0.018418269231915474,0.9254569411277771,neutral,0.037706486880779266
+1,2016-02-03 01:45:00,The total shares traded for the NASDAQ was over 2.39 billion.,0.029395170509815216,0.0059679788537323475,0.9646368026733398,neutral,0.023427192121744156
+2,2016-02-03 01:45:00,Declining stocks led advancers by 1 to 1 ratio.,0.1068764254450798,0.8656421303749084,0.02748146466910839,negative,-0.758765697479248
+3,2016-02-03 01:45:00,There were 1421 advancers and 1425 decliners for the day.,0.12590095400810242,0.3971162438392639,0.47698280215263367,neutral,-0.2712152898311615
+4,2016-02-03 01:45:00,On the NASDAQ Stock Exchange 9 stocks reached a 52 week high and 89 reaching lows.,0.10260657966136932,0.8207974433898926,0.07659606635570526,negative,-0.7181908488273621
+5,2016-02-03 01:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+6,2016-02-03 01:45:00,The NASDAQ 100 index closed down -.5% for the day; a total of -21.13 points.,0.01836431585252285,0.9714467525482178,0.010188920423388481,negative,-0.9530824422836304
+7,2016-02-03 01:45:00,"The current value is 4,171.97.",0.01452367939054966,0.008614560589194298,0.9768617749214172,neutral,0.005909118801355362
+8,2016-02-03 01:45:00,"Tesla Motors, Inc. ( TSLA ) had the largest percent change down (-5.09%) while Gilead Sciences, Inc. ( GILD ) had the largest percent change gain rising 4.46%.",0.05064261704683304,0.7671510577201843,0.18220630288124084,negative,-0.7165084481239319
+9,2016-02-03 01:45:00,The Dow Jones index closed up 1.13% for the day; a total of 183.12 points.,0.8803216814994812,0.038482435047626495,0.08119591325521469,positive,0.8418392539024353
+10,2016-02-03 01:45:00,"The current value is 16,336.66.",0.015385549515485764,0.008518017828464508,0.9760964512825012,neutral,0.0068675316870212555
+11,2016-02-03 01:45:00,"Home Depot, Inc. (The) ( HD ) had the largest percent change down (-1.18%) while Caterpillar, Inc. ( CAT ) had the largest percent change gain rising 4.29%.",0.06010118126869202,0.7891326546669006,0.15076623857021332,negative,-0.7290314435958862
+12,2016-02-03 01:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-05 23:31:00,JCPenney (NYSE: JCP) is often considered the poster boy of retail failure.,0.12005379796028137,0.37830349802970886,0.501642644405365,neutral,-0.2582497000694275
+1,2017-04-05 23:31:00,"The 114-year-old company thrived for decades in urban centers, then generated robust sales in suburban malls as middle class shoppers moved out of big cities.",0.916799783706665,0.018718237057328224,0.0644819587469101,positive,0.8980815410614014
+2,2017-04-05 23:31:00,"But then several powerful headwinds struck, including the growth of internet retailers, waning mall traffic, and the financial crisis of 2008-2009.",0.029469480738043785,0.9018725752830505,0.06865797191858292,negative,-0.872403085231781
+3,2017-04-05 23:31:00,A doomed turnaround strategy led by former Apple and Target exec Ron Johnson then caused JCPenney to lose over half its market value in less than three tumultuous years.,0.019031865522265434,0.9588647484779358,0.02210337482392788,negative,-0.939832866191864
+4,2017-04-05 23:31:00,"JCPenney stock has fallen more than 90% over the past decade, but short sellers are still aggressively targeting the stock, with 34% of shares shorted as of March 24.",0.021374845877289772,0.9410360455513,0.03758913651108742,negative,-0.9196612238883972
+5,2017-04-05 23:31:00,That overwhelming bearishness looks bad for the bulls -- but can the stock really fall that much further from current levels?,0.0765375941991806,0.6869277358055115,0.23653459548950195,negative,-0.6103901267051697
+6,2017-04-05 23:31:00,"Let's take a closer look at JCPenney's headwinds, tailwinds, growth estimates, and valuations to decide.",0.01889348402619362,0.007353042718023062,0.9737535119056702,neutral,0.01154044084250927
+7,2017-04-05 23:31:00,"No, JCPenney isn't the next Sears Holdings
+
+The bears often compare JCPenney to another fading retailer, Sears Holdings (NASDAQ: SHLD) .",0.06878773868083954,0.18740332126617432,0.743808925151825,neutral,-0.11861558258533478
+8,2017-04-05 23:31:00,"While both companies face similar challenges, like internet retail and weak brick-and-mortar traffic, JCPenney is in much better shape than Sears.",0.8626813292503357,0.08931923657655716,0.047999490052461624,positive,0.7733621001243591
+9,2017-04-05 23:31:00,"Between fiscal 2012 and 2016, JCPenney reduced its store count by 8% to 1,013 locations.",0.015943534672260284,0.9698161482810974,0.014240297488868237,negative,-0.9538726210594177
+10,2017-04-05 23:31:00,"During that same period, Sears reduced its store count by 44% to 1,430 locations.",0.016284629702568054,0.9690882563591003,0.014627101831138134,negative,-0.9528036117553711
+11,2017-04-05 23:31:00,"If we compare the two companies' revenue growth over the past five years, it's clear that Sears' strategy of closing stores and selling the real estate is exacerbating its revenue declines.",0.029181066900491714,0.9515541195869446,0.01926482655107975,negative,-0.9223730564117432
+12,2017-04-05 23:31:00,"Meanwhile, JCPenney's revenue growth mostly stabilized after Ron Johnson was fired in 2013.",0.9306076169013977,0.031450629234313965,0.03794170916080475,positive,0.8991569876670837
+13,2017-04-05 23:31:00,"Looking ahead, analysts expect JCPenney's revenue to fall 1.6%, but Sears is expected to post an 18% drop.",0.018132153898477554,0.972296416759491,0.009571420028805733,negative,-0.9541642665863037
+14,2017-04-05 23:31:00,"JCPenney's operating margin also turned positive over the past two years, thanks to better cost controls, but Sears' operating margin remains negative.",0.4846627116203308,0.4747479259967804,0.04058932512998581,positive,0.009914785623550415
+15,2017-04-05 23:31:00,"That's why analysts expect JCPenney to post a narrow annual profit this year, while Sears' bottom line is expected to remain deep in the red.",0.025492707267403603,0.9017512798309326,0.07275604456663132,negative,-0.8762585520744324
+16,2017-04-05 23:31:00,"Therefore, JCPenney isn't in great shape yet, but it definitely isn't the next Sears Holdings.",0.11962422728538513,0.0442909337580204,0.8360848426818848,neutral,0.07533329725265503
+17,2017-04-05 23:31:00,How does JCPenney plan to grow again?,0.2686019241809845,0.010284727439284325,0.721113383769989,neutral,0.2583172023296356
+18,2017-04-05 23:31:00,"Under CEO Marvin Ellison, who took the top job in 2015, JCPenney's turnaround strategy consists of several main strategies.",0.0956781879067421,0.005370102357119322,0.8989516496658325,neutral,0.09030808508396149
+19,2017-04-05 23:31:00,"First, it's forging new partnerships with companies like Ashley Furniture and Empire Today to beef up its home improvement department.",0.9030463695526123,0.014010231010615826,0.08294347673654556,positive,0.8890361189842224
+20,2017-04-05 23:31:00,That move was clearly inspired by the resilience of home improvement retailers like Home Depot (NYSE: HD) in the face of e-commerce threats.,0.8838550448417664,0.01712151989340782,0.09902343899011612,positive,0.8667335510253906
+21,2017-04-05 23:31:00,"The reason was simple -- consumers generally still wanted to visit stores to test out and buy large home improvement products, and larger products were too costly to ship over long distances.",0.03900950029492378,0.2763223350048065,0.6846681237220764,neutral,-0.23731283843517303
+22,2017-04-05 23:31:00,JCPenney also notes that 70% of its customers are homeowners.,0.052608881145715714,0.006514490582048893,0.9408766627311707,neutral,0.046094391494989395
+23,2017-04-05 23:31:00,"To strengthen its apparel business, JCPenney recently signed a deal to add Nike (NYSE: NKE) outlets to 600 of its locations to boost store traffic.",0.9493791460990906,0.01766517385840416,0.0329555869102478,positive,0.9317139983177185
+24,2017-04-05 23:31:00,"This move, which will complement an expansion of its Adidas products, targets another weakness in e-tailing -- the need for consumers to try on shoes and athletic apparel before buying.",0.39410531520843506,0.42627090215682983,0.1796237826347351,negative,-0.032165586948394775
+25,2017-04-05 23:31:00,JCPenney also believes that offering more plus-size apparel -- another market which is tough to address for online apparel retailers -- will boost its brick-and-mortar traffic.,0.9480420351028442,0.017465021461248398,0.03449289873242378,positive,0.9305770397186279
+26,2017-04-05 23:31:00,"It's also investing more heavily in activewear, a category dominated by companies likeLululemon , to reach more female shoppers -- which also account for 70% of its customer base.",0.7998896241188049,0.012425743043422699,0.18768464028835297,positive,0.787463903427124
+27,2017-04-05 23:31:00,"On the digital front, JCPenney has been tweaking the functionality of its website.",0.03604097291827202,0.014648986980319023,0.9493100643157959,neutral,0.021391985937952995
+28,2017-04-05 23:31:00,"Customer service research firm ForeSee notably ranked JCPenney's website as the fifth best website of 2016, with its overall score rising 300 basis points annually.",0.9047985076904297,0.021209396421909332,0.07399216294288635,positive,0.8835890889167786
+29,2017-04-05 23:31:00,The company is also relying more on data-driven analytics to make pricing and promotional decisions.,0.07052748650312424,0.006968998815864325,0.9225035309791565,neutral,0.06355848908424377
+30,2017-04-05 23:31:00,"The valuations and the verdict
+
+JCPenney still has lots of work to do before it can achieve consistent growth again, but I believe that Ellison's ability to tether JCPenney to hotter retail trends is getting the company back on the right track.",0.9311137795448303,0.016035478562116623,0.052850738167762756,positive,0.9150782823562622
+31,2017-04-05 23:31:00,"JCPenney's trailing P/E is negative due to its unprofitability over the past year, but it trades at just 10 times forward earnings.",0.024100372567772865,0.6538692712783813,0.32203033566474915,negative,-0.6297689080238342
+32,2017-04-05 23:31:00,"In my opinion, shorting a company which has such a low valuation, high short interest, and improving prospects is a terrible idea.",0.04221608489751816,0.7123534083366394,0.24543045461177826,negative,-0.670137345790863
+33,2017-04-05 23:31:00,A single positive headline about profit growth or new retail partnerships could spark an overdue short squeeze.,0.08627647161483765,0.8407321572303772,0.07299132645130157,negative,-0.7544556856155396
+34,2017-04-05 23:31:00,"Therefore, I'm not suggesting that investors buy JCPenney today, but I think shorting the stock is definitely the wrong play at the wrong time.",0.035812050104141235,0.5003869533538818,0.4638010263442993,negative,-0.4645749032497406
+35,2017-04-05 23:31:00,"10 stocks we like better than J.C. Penney
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13539747893810272,0.02797166258096695,0.8366308212280273,neutral,0.10742581635713577
+36,2017-04-05 23:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+37,2017-04-05 23:31:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and J.C. Penney wasn't one of them!",0.19478820264339447,0.015430506318807602,0.7897812724113464,neutral,0.17935769259929657
+38,2017-04-05 23:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+39,2017-04-05 23:31:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+40,2017-04-05 23:31:00,Leo Sun has no position in any stocks mentioned.,0.008639104664325714,0.02498980611562729,0.9663710594177246,neutral,-0.016350701451301575
+41,2017-04-05 23:31:00,"The Motley Fool owns shares of and recommends AAPL, Lululemon Athletica, and Nike.",0.02259078063070774,0.013925091363489628,0.9634841084480286,neutral,0.008665689267218113
+42,2017-04-05 23:31:00,The Motley Fool has the following options: long January 2018 $90 calls on AAPL and short January 2018 $95 calls on AAPL.,0.01528744213283062,0.013830190524458885,0.9708823561668396,neutral,0.0014572516083717346
+43,2017-04-05 23:31:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+44,2017-04-05 23:31:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2017-04-05 23:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

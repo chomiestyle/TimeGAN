@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-06 22:24:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Salesforce.com Inc (Symbol: CRM), where a total volume of 20,011 contracts has been traded thus far today, a contract volume which is representative of approximately 2.0 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05153615027666092,0.010599694214761257,0.9378641843795776,neutral,0.04093645513057709
+1,2018-05-06 22:24:00,"That number works out to 46.9% of CRM's average daily trading volume over the past month, of 4.3 million shares.",0.7087851166725159,0.021983375772833824,0.26923149824142456,positive,0.6868017315864563
+2,2018-05-06 22:24:00,"Particularly high volume was seen for the $130 strike call option expiring June 15, 2018 , with 3,854 contracts trading so far today, representing approximately 385,400 underlying shares of CRM.",0.36733919382095337,0.01236681453883648,0.6202939748764038,neutral,0.35497239232063293
+3,2018-05-06 22:24:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $130 strike highlighted in orange:
+
+Express Scripts Holding Co (Symbol: ESRX) options are showing a volume of 15,097 contracts thus far today.",0.031117238104343414,0.03845597431063652,0.9304267764091492,neutral,-0.007338736206293106
+4,2018-05-06 22:24:00,"That number of contracts represents approximately 1.5 million underlying shares, working out to a sizeable 45.7% of ESRX's average daily trading volume over the past month, of 3.3 million shares.",0.1316918432712555,0.00960366241633892,0.8587045073509216,neutral,0.12208817899227142
+5,2018-05-06 22:24:00,"Particularly high volume was seen for the $70 strike put option expiring May 18, 2018 , with 5,691 contracts trading so far today, representing approximately 569,100 underlying shares of ESRX.",0.2959420680999756,0.010502009652554989,0.6935558915138245,neutral,0.285440057516098
+6,2018-05-06 22:24:00,"Below is a chart showing ESRX's trailing twelve month trading history, with the $70 strike highlighted in orange:
+
+And Constellation Brands Inc (Symbol: STZ) saw options trading volume of 5,791 contracts, representing approximately 579,100 underlying shares or approximately 45.5% of STZ's average daily trading volume over the past month, of 1.3 million shares.",0.021338537335395813,0.012994211167097092,0.965667188167572,neutral,0.008344326168298721
+7,2018-05-06 22:24:00,"Particularly high volume was seen for the $220 strike call option expiring July 20, 2018 , with 1,741 contracts trading so far today, representing approximately 174,100 underlying shares of STZ.",0.23422320187091827,0.01041444018483162,0.7553622722625732,neutral,0.22380876541137695
+8,2018-05-06 22:24:00,"Below is a chart showing STZ's trailing twelve month trading history, with the $220 strike highlighted in orange:
+
+For the various different available expirations for CRM options , ESRX options , or STZ options , visit StockOptionsChannel.com.",0.009873936884105206,0.02837454341351986,0.9617514610290527,neutral,-0.01850060746073723
+9,2018-05-06 22:24:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

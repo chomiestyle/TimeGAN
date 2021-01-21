@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-16 22:14:00,Home Depot (NYSE: HD) has an attraction to its own stock that seems hard for the company to resist.,0.21390697360038757,0.020791709423065186,0.7653012871742249,neutral,0.1931152641773224
+1,2017-04-16 22:14:00,"Management began the 2016 fiscal year targeting buyback spending of $5 billion, but the home improvement retailer quickly changed its mind.",0.12405743449926376,0.04770217090845108,0.8282403349876404,neutral,0.07635526359081268
+2,2017-04-16 22:14:00,Executives actually dedicated $6.9 billion to repurchasing shares -- or approximately 90% of net earnings.,0.07320103794336319,0.009352073073387146,0.9174469113349915,neutral,0.06384896486997604
+3,2017-04-16 22:14:00,"At a glance, that seems like an overly aggressive commitment of resources for a business that's under constant threat from rival bricks-and-mortar retailers and online-focused challengers.",0.17909298837184906,0.34988969564437866,0.4710173010826111,neutral,-0.1707967072725296
+4,2017-04-16 22:14:00,"So, let's look at whether Home Depot's capital allocation strategy makes sense in the context of its operating and financial goals.",0.10270830988883972,0.005341219715774059,0.8919504880905151,neutral,0.09736709296703339
+5,2017-04-16 22:14:00,The past year was a strong one for Home Depot's business.,0.9396700263023376,0.01602386310696602,0.044306110590696335,positive,0.9236461520195007
+6,2017-04-16 22:14:00,The company outgrew Lowe's (NYSE: LOW) by posting a 6% comparable-store sales increase compared to Lowe's 4% uptick.,0.9517035484313965,0.03244522586464882,0.015851236879825592,positive,0.9192582964897156
+7,2017-04-16 22:14:00,"In further good news for investors, that surge came paired with improving profitability.",0.9553717374801636,0.019429244101047516,0.025199057534337044,positive,0.9359424710273743
+8,2017-04-16 22:14:00,Operating margin jumped to 14.2% of sales from 13.3% in the prior year.,0.9545285701751709,0.031331516802310944,0.014139996841549873,positive,0.9231970310211182
+9,2017-04-16 22:14:00,"Lowe's profitability, in contrast, stayed stuck in the high single digits.",0.12496032565832138,0.4287903904914856,0.4462492763996124,neutral,-0.3038300573825836
+10,2017-04-16 22:14:00,The growth and profitability trends combined to send Home Depot's net income higher by 14% to $8 billion.,0.9562758803367615,0.020079439505934715,0.023644637316465378,positive,0.9361964464187622
+11,2017-04-16 22:14:00,"Cash flow was similarly strong, rising to $9.8 billion from $9.4 billion.",0.9577203989028931,0.023780150339007378,0.01849936693906784,positive,0.9339402318000793
+12,2017-04-16 22:14:00,"Home Depot isn't expanding its store base, so its capital requirements aren't as hefty as Lowe's right now.",0.14727993309497833,0.14941473305225372,0.7033053040504456,neutral,-0.0021347999572753906
+13,2017-04-16 22:14:00,"Yet the business still required major investments in projects like store modernizations, supply chain upgrades, and e-commerce infrastructure.",0.7338010668754578,0.013500907458364964,0.25269803404808044,positive,0.7203001379966736
+14,2017-04-16 22:14:00,"All told, Home Depot plowed $1.6 billion back into the business in 2016, up from $1.5 billion in the prior year.",0.9556945562362671,0.021262912079691887,0.023042552173137665,positive,0.9344316720962524
+15,2017-04-16 22:14:00,Debt also played a key role in the company's decision to raise its buyback spending.,0.7023832201957703,0.014132183976471424,0.283484548330307,positive,0.6882510185241699
+16,2017-04-16 22:14:00,"Late in the year, management decided to take on an extra $2 billion of borrowings that added to a ballooning debt burden for the company.",0.8513962626457214,0.030752183869481087,0.11785158514976501,positive,0.8206440806388855
+17,2017-04-16 22:14:00,Long-term debt is over $23 billion today -- up from $9 billion back in 2011.,0.9522033929824829,0.01940363645553589,0.028392961248755455,positive,0.932799756526947
+18,2017-04-16 22:14:00,"That increase isn't as bad as it might first seem, though.",0.16782987117767334,0.15614891052246094,0.6760212182998657,neutral,0.011680960655212402
+19,2017-04-16 22:14:00,"For one, interest rates have been low, and sales spiked over this time period, so Home Depot's interest payments remain small relative to the business -- just 1% of sales last year compared to 0.7% in fiscal 2012.",0.05358253791928291,0.8475890755653381,0.0988282859325409,negative,-0.7940065264701843
+20,2017-04-16 22:14:00,"Second, Home Depot's targeted use of debt has contributed to an impressive spike in its return on invested capital.",0.9517847299575806,0.016597028821706772,0.03161817789077759,positive,0.9351876974105835
+21,2017-04-16 22:14:00,That figure passed 31% of sales last year to put the retailer near the top of all businesses on the key efficiency metric .,0.9031537771224976,0.028226852416992188,0.06861935555934906,positive,0.8749269247055054
+22,2017-04-16 22:14:00,"Where buybacks go from here
+
+Here's the bigger picture: Home Depot generated $9.8 billion of cash last year that it supplemented with $2.4 billion of new debt.",0.13195544481277466,0.012336145155131817,0.8557084202766418,neutral,0.11961930245161057
+23,2017-04-16 22:14:00,"Of that $12.2 billion of available funds, the retailer dedicated $1.6 billion to investments in the business, $3.4 billion to dividends, and, in the biggest commitment by far, $6.9 billion toward stock buybacks.",0.19304919242858887,0.00950284581631422,0.7974479794502258,neutral,0.18354634940624237
+24,2017-04-16 22:14:00,"For 2017, executives again forecast $5 billion of buyback spending, but there are good reasons to believe them this time.",0.19554752111434937,0.04221406951546669,0.7622383832931519,neutral,0.15333345532417297
+25,2017-04-16 22:14:00,"The company plans to ramp up its business investments to $2 billion, and it also recently announced a major boost to its dividend payment that now targets returning 55% of earnings to investors through dividends rather than the prior 50% goal.",0.9310712814331055,0.015243878588080406,0.05368475243449211,positive,0.9158273935317993
+26,2017-04-16 22:14:00,Lowe's aims for a much smaller 35% annual payout ratio.,0.03361780568957329,0.6245728731155396,0.34180930256843567,negative,-0.5909550786018372
+27,2017-04-16 22:14:00,"Finally, Home Depot is likely on the hunt for more acquisitions to help bolster its position in growth areas like the professional side of the home improvement business.",0.9257870316505432,0.014040197245776653,0.060172758996486664,positive,0.9117468595504761
+28,2017-04-16 22:14:00,Executives see share gains in that $120 billion market as key to their goal of passing $100 billion of annual sales by 2018.,0.89460688829422,0.016542203724384308,0.0888509526848793,positive,0.8780646920204163
+29,2017-04-16 22:14:00,"Management's stock buyback decision doesn't seem to rely on share price, given that the spending has been steady at about $7 billion in each of the last three fiscal years.",0.11695364862680435,0.03147336468100548,0.8515729904174805,neutral,0.08548028767108917
+30,2017-04-16 22:14:00,That's why investors can expect Home Depot to rely on that channel as a key part of its capital return program even as it boosts its commitments in other areas.,0.8833798766136169,0.0129831712692976,0.10363690555095673,positive,0.8703967332839966
+31,2017-04-16 22:14:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+32,2017-04-16 22:14:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+33,2017-04-16 22:14:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+34,2017-04-16 22:14:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2017-04-16 22:14:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+36,2017-04-16 22:14:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+37,2017-04-16 22:14:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+38,2017-04-16 22:14:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2017-04-16 22:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

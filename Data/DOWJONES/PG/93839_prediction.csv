@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-09-01 07:47:00,"In February, Plug Power announced a giant order from Wal-Mart .",0.8686490058898926,0.016301900148391724,0.11504898965358734,positive,0.8523471355438232
+1,2014-09-01 07:47:00,"However, this big headline could actually be obscuring other positive developments that are taking place in the industry.",0.05688091367483139,0.3727538287639618,0.570365309715271,neutral,-0.3158729076385498
+2,2014-09-01 07:47:00,"In the second quarter, Plug Power announced that it had shipped 687 units, more than twice the 246 units sent out in the year-ago period.",0.9029929637908936,0.023724276572465897,0.07328277081251144,positive,0.8792687058448792
+3,2014-09-01 07:47:00,"Wal-Mart was a big part of that, since Plug Power launched the first of six fuel cell projects at Wal-Mart's Pottsville distribution center in the quarter.",0.21753047406673431,0.007908145897090435,0.77456134557724,neutral,0.209622323513031
+4,2014-09-01 07:47:00,That was the first full deployment of Plug Power's GenKey offering.,0.43807902932167053,0.009584227576851845,0.5523366928100586,neutral,0.42849481105804443
+5,2014-09-01 07:47:00,"With over 100,000 hours of run time at that site, the company has clearly proven its technology works.",0.8940770030021667,0.01458451896905899,0.09133848547935486,positive,0.879492461681366
+6,2014-09-01 07:47:00,And the proof is in the pudding: Wal-Mart added another distribution facility to its order during the second quarter.,0.5664933323860168,0.01470961794257164,0.4187970459461212,positive,0.5517837405204773
+7,2014-09-01 07:47:00,"What's not in the headlines
+
+For Plug Power, the success at Wal-Mart is the real headline grabber.",0.2509424686431885,0.01994984783232212,0.7291076183319092,neutral,0.2309926152229309
+8,2014-09-01 07:47:00,It's what everyone is watching because the order is so big.,0.10656359046697617,0.011326280422508717,0.8821101188659668,neutral,0.09523730725049973
+9,2014-09-01 07:47:00,"That one order increased Plug Power's backlog by over 1,700 units; the backlog started the year at about 1,450 units.",0.9456363916397095,0.023352786898612976,0.03101084940135479,positive,0.9222835898399353
+10,2014-09-01 07:47:00,"At the end of the first quarter, however, the backlog was 3,719 units.",0.01670905202627182,0.2566298842430115,0.7266610860824585,neutral,-0.23992082476615906
+11,2014-09-01 07:47:00,Simple math tells you that another 500 orders came in above and beyond the big Wal-Mart order.,0.5815505981445312,0.044959235936403275,0.3734901547431946,positive,0.5365913510322571
+12,2014-09-01 07:47:00,"And in the second quarter, Plug Power was quick to point out that it delivered units to Procter & Gamble and Central Grocers.",0.261604368686676,0.017569148913025856,0.7208264470100403,neutral,0.24403521418571472
+13,2014-09-01 07:47:00,"In fact, Plug Power also has hydrogen-powered units in place at food distributor Sysco , grocery chain Kroger, and hardware giant Lowe's , among others.",0.09644927829504013,0.006922289729118347,0.8966284394264221,neutral,0.08952698856592178
+14,2014-09-01 07:47:00,"And, what's particularly exciting is Plug Power has also inked deals with automakers Volkswagen, BMW, Mercedes-Benz, and Honda.",0.5290253162384033,0.011084578931331635,0.4598901569843292,positive,0.5179407596588135
+15,2014-09-01 07:47:00,That's a stepping stone into an entirely new segment.,0.5345895290374756,0.010290604084730148,0.4551198184490204,positive,0.524298906326294
+16,2014-09-01 07:47:00,"The benefit of Plug Power's hydrogen-powered engines has proven itself in moving boxes around warehouses, and now it's going to the manufacturing floor.",0.45749348402023315,0.010454175993800163,0.5320523977279663,neutral,0.44703930616378784
+17,2014-09-01 07:47:00,"While industry watchers are looking at hydrogen systems as an energy source for cars, Plug Power has, instead, gone after the industrial market before trying to take on the vast and fickle consumer market.",0.05364728718996048,0.07600923627614975,0.8703434467315674,neutral,-0.02236194908618927
+18,2014-09-01 07:47:00,"That's because, as CEO Andrew Marsh told Bloomberg recently, Plug Power could enter a large market ($5 billion annually in the United States, $40 billion worldwide) with a compelling value proposition.",0.89990234375,0.013021779246628284,0.08707591146230698,positive,0.8868805766105652
+19,2014-09-01 07:47:00,How good?,0.2411455661058426,0.08682360500097275,0.6720308661460876,neutral,0.15432196855545044
+20,2014-09-01 07:47:00,Payback time for Wal-Mart is expected to be around one year.,0.1577204316854477,0.05356205999851227,0.7887174487113953,neutral,0.10415837168693542
+21,2014-09-01 07:47:00,"Although the Wal-Mart deal has another year and a half to two years to run (assuming it doesn't keep ordering more systems), it's really the past.",0.028462786227464676,0.033487070351839066,0.9380501508712769,neutral,-0.00502428412437439
+22,2014-09-01 07:47:00,It's the reliability cornerstone on which hydrogen technology will build an even more exciting future.,0.7746273279190063,0.013528890907764435,0.21184387803077698,positive,0.7610984444618225
+23,2014-09-01 07:47:00,Where is that future going to lead?,0.060268666595220566,0.04541624337434769,0.8943151235580444,neutral,0.014852423220872879
+24,2014-09-01 07:47:00,March highlighted a pilot program with FedEx to pair electric batteries with hydrogen fuel cells.,0.5699926614761353,0.012769980356097221,0.41723743081092834,positive,0.5572226643562317
+25,2014-09-01 07:47:00,He explains that FedEx trucks outfitted with both can spend a full day on the road without refueling.,0.11493153870105743,0.05070465803146362,0.8343638181686401,neutral,0.06422688066959381
+26,2014-09-01 07:47:00,Batteries alone only get a truck halfway there.,0.08327419310808182,0.1170220822095871,0.7997037172317505,neutral,-0.03374788910150528
+27,2014-09-01 07:47:00,"Plug Power is also working with FedEx to test hydrogen-powered airport ground support vehicles, another totally new market.",0.6663296222686768,0.011647511273622513,0.32202285528182983,positive,0.6546820998191833
+28,2014-09-01 07:47:00,"And there are other opportunities at hand, too.",0.40451717376708984,0.015731479972600937,0.5797513127326965,neutral,0.3887856900691986
+29,2014-09-01 07:47:00,"For example, Sysco's diesel trucks make too much noise to deliver into Manhattan in the early morning hours.",0.04942488297820091,0.7809367179870605,0.16963838040828705,negative,-0.7315118312835693
+30,2014-09-01 07:47:00,"Fuel cells are quiet, thus helping solve a logistics problem.",0.08990789949893951,0.5398271083831787,0.37026500701904297,negative,-0.4499192237854004
+31,2014-09-01 07:47:00,"It's working with Sysco and the Department of Energy, among others, to replace diesel engines in refrigerated trucks with hydrogen fuel cells.",0.613511860370636,0.013023902662098408,0.37346428632736206,positive,0.6004879474639893
+32,2014-09-01 07:47:00,Plug Power's CEO even goes so far as to suggest that a fuel cell/battery combination in retail automobiles is a possibility that shouldn't be ignored.,0.0677267387509346,0.04908346012234688,0.8831897974014282,neutral,0.018643278628587723
+33,2014-09-01 07:47:00,"Plug Power's hydrogen fuel cells already incorporate a battery, and the pairing would increase range and reduce the risk of running out of juice.",0.8475687503814697,0.013221366330981255,0.13920992612838745,positive,0.8343473672866821
+34,2014-09-01 07:47:00,"It clearly looks like Plug Power's technology is starting to catch on, and for good reason.",0.8018407225608826,0.012955010868608952,0.18520432710647583,positive,0.7888857126235962
+35,2014-09-01 07:47:00,"However, profits are hit or miss: It made $0.02 a share in the second quarter but lost $0.49 in the first half.",0.022424956783652306,0.940589189529419,0.036985818296670914,negative,-0.9181642532348633
+36,2014-09-01 07:47:00,"That compares to a second-quarter 2013 loss of $0.14 a share, and first-half 2013 loss of $0.31.",0.035908833146095276,0.9445099830627441,0.01958116516470909,negative,-0.9086011648178101
+37,2014-09-01 07:47:00,So the big turn to sustainable profitability hasn't happened just yet.,0.5385701656341553,0.019631939008831978,0.44179797172546387,positive,0.5189382433891296
+38,2014-09-01 07:47:00,"But as hydrogen fuel cells gain traction, with Plug Power playing a leading role, look for that to change sooner rather than later.",0.41218239068984985,0.010796098969876766,0.5770215392112732,neutral,0.4013862907886505
+39,2014-09-01 07:47:00,"Warren Buffett: This new technology is a ""real threat""
+
+At the recent Berkshire Hathaway annual meeting, Warren Buffett admitted this emerging technology is threatening his biggest cash-cow.",0.05647590011358261,0.7879435420036316,0.155580535531044,negative,-0.7314676642417908
+40,2014-09-01 07:47:00,"While Buffett shakes in his billionaire-boots, only a few investors are embracing this new market which experts say will be worth over $2 trillion .",0.18785542249679565,0.01591450534760952,0.7962300777435303,neutral,0.17194092273712158
+41,2014-09-01 07:47:00,"Find out how you can cash in on this technology before the crowd catches on, by jumping onto one company that could get you the biggest piece of the action.",0.2473381608724594,0.01118764840066433,0.7414742112159729,neutral,0.23615051805973053
+42,2014-09-01 07:47:00,"Click here to access a FREE investor alert on the company we're calling the ""brains behind"" the technology.",0.03282027691602707,0.013152596540749073,0.9540271162986755,neutral,0.01966768130660057
+43,2014-09-01 07:47:00,The article Are You Missing the Fuel Cell Revolution?,0.09663998335599899,0.1457485854625702,0.7576114535331726,neutral,-0.0491086021065712
+44,2014-09-01 07:47:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+45,2014-09-01 07:47:00,Reuben Brewer has no position in any stocks mentioned.,0.008296678774058819,0.02294810861349106,0.9687551856040955,neutral,-0.01465142983943224
+46,2014-09-01 07:47:00,"The Motley Fool recommends FedEx, Procter & Gamble, and Sysco.",0.020960353314876556,0.03204919770359993,0.946990430355072,neutral,-0.011088844388723373
+47,2014-09-01 07:47:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+48,2014-09-01 07:47:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+49,2014-09-01 07:47:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+50,2014-09-01 07:47:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+51,2014-09-01 07:47:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+52,2014-09-01 07:47:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+53,2014-09-01 07:47:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

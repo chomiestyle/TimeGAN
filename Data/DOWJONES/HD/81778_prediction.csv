@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-12-23 06:15:00,"Over the last 10 years, Home Depot Inc (NYSE: HD) has been one of the most profitable retail investments, more than tripling the S&P 500 index during that time.",0.8728874325752258,0.015341435559093952,0.11177116632461548,positive,0.8575459718704224
+1,2018-12-23 06:15:00,"Over the trailing five- and three-year periods, the story is the same, with Home Depot easily out-pacing the broader stock market's returns.",0.8939531445503235,0.025975096970796585,0.08007176965475082,positive,0.867978036403656
+2,2018-12-23 06:15:00,"Yet, this year, the big-box retailer has not beaten the market, or even shown gains, losing almost 11% yearto date.",0.02241845242679119,0.964637041091919,0.012944474816322327,negative,-0.9422186017036438
+3,2018-12-23 06:15:00,"Is Home Depot likely to return to its market-beating ways, or is this year indicative of what investors should expect going forward?",0.48767173290252686,0.021981021389365196,0.49034714698791504,neutral,0.4656907021999359
+4,2018-12-23 06:15:00,Let's take a closer look at the company to make a better determination of what the future holds for investors.,0.13453713059425354,0.007361064199358225,0.8581018447875977,neutral,0.12717606127262115
+5,2018-12-23 06:15:00,"One of Home Depot's primary areas of focus has been to create a truly interconnected experience, one where customers can browse online and in-store and make purchases all in one seamless shopping experience.",0.39337700605392456,0.008382980711758137,0.5982399582862854,neutral,0.3849940299987793
+6,2018-12-23 06:15:00,"The company refers to this effort as "" One Home Depot ,"" as in there is only one Home Depot shopping experience.",0.029964303597807884,0.011479414999485016,0.9585562944412231,neutral,0.01848488859832287
+7,2018-12-23 06:15:00,"This initiative requires efforts on three fronts: online sales, world-class logistics infrastructure , and in-store improvements.",0.6780394911766052,0.011115853674709797,0.31084463000297546,positive,0.6669236421585083
+8,2018-12-23 06:15:00,"On all three fronts, Home Depot seems to be making impressive progress.",0.9292102456092834,0.013723972253501415,0.057065751403570175,positive,0.9154862761497498
+9,2018-12-23 06:15:00,"In Home Depot's 2018 third quarter, online sales increased 28% year over year.",0.9567890763282776,0.018171999603509903,0.02503892034292221,positive,0.9386170506477356
+10,2018-12-23 06:15:00,"That strong growth came from smart investments in its online infrastructure, including better search efficacy on its site and clearer communication with its delivery team to give customers a more precise delivery window.",0.9348230957984924,0.014587219804525375,0.050589628517627716,positive,0.9202358722686768
+11,2018-12-23 06:15:00,"During the conference call , CEO Craig Menear said:
+
+Beyond Home Depot's pure e-commerce efforts, its buy online, ship-to-store, and buy online, pickup-in-store sales grew faster than overall online sales growth.",0.9507946372032166,0.016859835013747215,0.032345548272132874,positive,0.9339348077774048
+12,2018-12-23 06:15:00,"Catering to its most important customers
+
+Another reason to be bullish on Home Depot is the company has a clear understanding of its most important customers, and unless you're a contractor, it's not you and me.",0.12073785066604614,0.01751958765089512,0.8617425560951233,neutral,0.10321826487779617
+13,2018-12-23 06:15:00,That distinction belongs to its Pro customers.,0.0620105043053627,0.006682906299829483,0.9313066005706787,neutral,0.05532759800553322
+14,2018-12-23 06:15:00,"In its annual 10-K filing with the SEC, Home Depot defines its Pro customers as ""primarily professional renovators/remodelers, general contractors, handymen, property managers, building service contractors and specialty tradesmen, such as installers.""",0.010732441209256649,0.01635531522333622,0.9729122519493103,neutral,-0.005622874014079571
+15,2018-12-23 06:15:00,"In other words, it's those who need to buy Home Depot products to make a living, not for their own personal residential projects.",0.022596221417188644,0.0156820397824049,0.9617217183113098,neutral,0.006914181634783745
+16,2018-12-23 06:15:00,These customers consistently make larger purchases and more frequent visits to Home Depot than DIY customers.,0.6142832636833191,0.061320625245571136,0.3243961036205292,positive,0.5529626607894897
+17,2018-12-23 06:15:00,And these are exactly the kinds of transactions where Home Depot is seeing some of its strongest growth.,0.526184618473053,0.013454210013151169,0.46036115288734436,positive,0.5127304196357727
+18,2018-12-23 06:15:00,"In the company's third quarter, Pro sales once again outpaced DIY sales.",0.9182767868041992,0.05967424809932709,0.02204894833266735,positive,0.8586025238037109
+19,2018-12-23 06:15:00,"Management noted that ""Pro-heavy"" product categories, such as plumbing and electrical supplies, concrete, and power tools, all enjoyed higher comparable-sales gains than the company's overall average.",0.9500072598457336,0.02373204566538334,0.026260726153850555,positive,0.9262751936912537
+20,2018-12-23 06:15:00,"Big-ticket sales, defined as transactions over $1,000, grew 9.1% year over year and now represent 20% of domestic sales.",0.924443244934082,0.015927957370877266,0.059628721326589584,positive,0.9085152745246887
+21,2018-12-23 06:15:00,"Catering to the Pro customer also includes a commitment to building out an efficient and fast delivery infrastructure, capable of delivering the large and bulky items sometimes needed by its Pro customers to complete larger projects.",0.7898191809654236,0.010606605559587479,0.19957421720027924,positive,0.7792125940322876
+22,2018-12-23 06:15:00,"This has the added benefit of holding off potential competitors, such as Amazon.com (NASDAQ: AMZN) , from entering the space.",0.44330349564552307,0.20174308121204376,0.354953408241272,positive,0.2415604144334793
+23,2018-12-23 06:15:00,"At an analyst conference earlier this year, Home Depot's Northern Division president, Crystal Hanlon, said:
+
+While there is no guarantee that Home Depot will triple the market over the next decade, as it has the last, the company certainly seems poised to return to its winning ways soon.",0.8912060260772705,0.015134117566049099,0.09365984797477722,positive,0.8760719299316406
+24,2018-12-23 06:15:00,"The underlying business certainly hasn't struggled, even as its share price has sagged.",0.1030624508857727,0.8354043960571289,0.0615331269800663,negative,-0.7323419451713562
+25,2018-12-23 06:15:00,"In Q3, sales rose to $26.3 billion, a 5.1% increase year over year, while diluted earnings per share grew to $2.51, a 36.4% increase over last year's third-quarter total.",0.9561243057250977,0.021878890693187714,0.021996792405843735,positive,0.9342454075813293
+26,2018-12-23 06:15:00,"With its continual investments to improve its operations, Home Depot might just be the best omnichannel retailer in the business within five years' time.",0.9409040212631226,0.019442414864897728,0.03965364769101143,positive,0.9214615821838379
+27,2018-12-23 06:15:00,"While there's no guarantee it will make millionaires out of its shareholders, it certainly would not be surprising to see the company return to its market-beating ways.",0.5478566288948059,0.032505713403224945,0.41963762044906616,positive,0.5153509378433228
+28,2018-12-23 06:15:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+29,2018-12-23 06:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+30,2018-12-23 06:15:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+31,2018-12-23 06:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2018-12-23 06:15:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2018-12-23 06:15:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+34,2018-12-23 06:15:00,Matthew Cochrane owns shares of Amazon and Home Depot.,0.01879040151834488,0.013133342377841473,0.968076229095459,neutral,0.0056570591405034065
+35,2018-12-23 06:15:00,The Motley Fool owns shares of and recommends Amazon.,0.05119821056723595,0.03092995285987854,0.9178718328475952,neutral,0.020268257707357407
+36,2018-12-23 06:15:00,The Motley Fool has the following options: short February 2019 $185 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013949581421911716,0.03693100064992905,0.9491194486618042,neutral,-0.022981420159339905
+37,2018-12-23 06:15:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+38,2018-12-23 06:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2018-12-23 06:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,35 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-03 12:12:00,"In case you haven't heard, the bottom fell out of the Nasdaq today.",0.038894377648830414,0.8750960826873779,0.08600953966379166,negative,-0.8362017273902893
+1,2020-09-03 12:12:00,"In the final half hour of trading, the tech-heavy index looks likely to close down at least 5% -- and perhaps even lower than that.",0.018580134958028793,0.9662541747093201,0.015165704302489758,negative,-0.947674036026001
+2,2020-09-03 12:12:00,"Indeed, three of the biggest megacap tech stocks are already down more than 5%, with shares of Netflix (NASDAQ: NFLX) off 5.1%, and both salesforce.com (NYSE: CRM) and Adobe Systems (NASDAQ: ADBE) falling 5.7%.",0.018472444266080856,0.9684820771217346,0.013045480474829674,negative,-0.9500096440315247
+3,2020-09-03 12:12:00,"When you consider that each of these tech giants weighs in at a market capitalization north of $200 billion, that means that the value of each stock has just shrunk by more than $10 billion.",0.11930834501981735,0.3074200451374054,0.573271632194519,neutral,-0.18811169266700745
+4,2020-09-03 12:12:00,Each.,0.10195470601320267,0.04115862399339676,0.8568866848945618,neutral,0.06079608201980591
+5,2020-09-03 12:12:00,"Scariest of all, there appears to be no reason for the sell-off.",0.04671282693743706,0.17873907089233398,0.7745480537414551,neutral,-0.13202624022960663
+6,2020-09-03 12:12:00,That's right.,0.1880534589290619,0.024162976071238518,0.7877835631370544,neutral,0.16389048099517822
+7,2020-09-03 12:12:00,"Before you start worrying that there's something you missed, let me set your mind at ease: No one on Wall Street downgraded Netflix, Salesforce, or Adobe today; analysts didn't so much as tweak a price target.",0.04610644653439522,0.6619710326194763,0.2919224798679352,negative,-0.6158645749092102
+8,2020-09-03 12:12:00,None of the three stocks issued an earnings warning or any other press release containing negative news.,0.025546718388795853,0.29614007472991943,0.678313136100769,neutral,-0.2705933451652527
+9,2020-09-03 12:12:00,There doesn't even seem to be anything particularly frightening on the macroeconomic front.,0.02445363812148571,0.0977286770939827,0.8778176307678223,neutral,-0.07327503710985184
+10,2020-09-03 12:12:00,"According to Marketwatch's latest roundup of economic news today, new applications for jobless benefits were down in the last week of August.",0.019796106964349747,0.9666481018066406,0.013555784709751606,negative,-0.9468519687652588
+11,2020-09-03 12:12:00,"Labor productivity was up 10.1% in the second quarter, and the key indexes gauging expansion or attraction in the manufacturing and service sectors both show the economy is in modest growth mode.",0.9096159338951111,0.025593940168619156,0.06479019671678543,positive,0.8840219974517822
+12,2020-09-03 12:12:00,"Of course, the fact that stocks are selling off, with no identifiable reason why, may itself be a frightening fact.",0.071741983294487,0.21856622397899628,0.7096917629241943,neutral,-0.14682424068450928
+13,2020-09-03 12:12:00,"Investors -- like anyone -- prefer easy explanations for things that are happening, and in today's tech sell-off, there simply isn't any obvious explanation for why things went so far south, so quickly, today.",0.04286615550518036,0.13789500296115875,0.8192387819290161,neutral,-0.0950288474559784
+14,2020-09-03 12:12:00,"Rather, the closest thing to a clear answer I can give you is this: Adobe stock costs more than 67 times trailing earnings right now.",0.029917478561401367,0.07277146726846695,0.8973110914230347,neutral,-0.04285398870706558
+15,2020-09-03 12:12:00,"Netflix shares sell for 88.5 times earnings, and Salesforce -- well, despite (or because of) having just reported a terrific quarter, Salesforce stock is now selling for more than 109 times trailing earnings.",0.660722017288208,0.03661833703517914,0.30265963077545166,positive,0.6241036653518677
+16,2020-09-03 12:12:00,"Obviously, none of these valuations qualifies as cheap.",0.027872884646058083,0.014317742548882961,0.9578094482421875,neutral,0.013555142097175121
+17,2020-09-03 12:12:00,"My best guess for why megacap tech stocks sold off today, therefore, is that someone suddenly realized that stocks are getting kind of expensive, and decided to take some profits off the table.",0.11510186642408371,0.27934208512306213,0.605556070804596,neutral,-0.16424021124839783
+18,2020-09-03 12:12:00,"(With each company's shares up more than 80% over the past year, there were a lot of profits there for the taking.)",0.929853081703186,0.020387304946780205,0.04975958168506622,positive,0.9094657897949219
+19,2020-09-03 12:12:00,"The inspiration snowballed into a trend, and before you knew it, everyone was selling everything.",0.15134018659591675,0.012402111664414406,0.8362576961517334,neutral,0.1389380693435669
+20,2020-09-03 12:12:00,When will it end?,0.05325644463300705,0.06956614553928375,0.8771774172782898,neutral,-0.016309700906276703
+21,2020-09-03 12:12:00,"Possibly as early as tomorrow, once value hunters return to the market to start picking through the rubble.",0.0730728730559349,0.057422418147325516,0.8695047497749329,neutral,0.01565045490860939
+22,2020-09-03 12:12:00,"About the only good news in this whole sell-off is that, since there was no particular reason for it starting -- there's also no good reason it cannot end just as abruptly as it began.",0.05284745246171951,0.2252620905637741,0.7218904495239258,neutral,-0.172414630651474
+23,2020-09-03 12:12:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+24,2020-09-03 12:12:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+25,2020-09-03 12:12:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+26,2020-09-03 12:12:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+27,2020-09-03 12:12:00,Rich Smith has no position in any of the stocks mentioned.,0.011234370060265064,0.04501114785671234,0.9437544941902161,neutral,-0.03377677872776985
+28,2020-09-03 12:12:00,"The Motley Fool owns shares of and recommends Adobe Systems, Netflix, and Salesforce.com.",0.020940886810421944,0.012560084462165833,0.9664989709854126,neutral,0.008380802348256111
+29,2020-09-03 12:12:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

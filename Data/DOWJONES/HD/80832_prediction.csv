@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-05 06:34:00,"Hurricane Dorian has clobbered the Bahamas, and as of the time of this recording, it's bearing down on the East Coast with Florida, Georgia, the Carolinas, and Virginia all in its path.",0.0813533291220665,0.6901096105575562,0.22853709757328033,negative,-0.6087563037872314
+1,2019-09-05 06:34:00,"People at least can evacuate and hope to get out of the way of powerful storms when they strike, but in some senses, it's harder for businesses to dodge their impact.",0.07563400268554688,0.6204248666763306,0.30394113063812256,negative,-0.5447908639907837
+2,2019-09-05 06:34:00,"In this segment from MarketFoolery, host Chris Hill and senior analyst Jason Moser consider a trio of industries that are directly exposed to heavy weather, for good or ill: cruise lines, home improvement, and insurance.",0.015186825767159462,0.01069973036646843,0.974113404750824,neutral,0.004487095400691032
+3,2019-09-05 06:34:00,"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",0.04401024803519249,0.02094588615000248,0.9350439310073853,neutral,0.02306436188519001
+4,2019-09-05 06:34:00,"To get started investing, check out our quick-start guide to investing in stocks.",0.07803143560886383,0.00962066650390625,0.9123478531837463,neutral,0.06841076910495758
+5,2019-09-05 06:34:00,A full transcript follows the video.,0.01917308010160923,0.010780171491205692,0.9700466990470886,neutral,0.008392908610403538
+6,2019-09-05 06:34:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1507294625043869,0.029832763597369194,0.8194377422332764,neutral,0.12089669704437256
+7,2019-09-05 06:34:00,"After all, the newsletter they have run for over a decade, the Motley Fool Stock Advisor, has quadrupled the market.",0.7298737168312073,0.04717077314853668,0.22295552492141724,positive,0.6827029585838318
+8,2019-09-05 06:34:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+9,2019-09-05 06:34:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+10,2019-09-05 06:34:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+11,2019-09-05 06:34:00,"*Stock Advisor returns as of June 1, 2019
+
+The author(s) may have a position in any stocks mentioned.",0.01328999362885952,0.008004346862435341,0.9787057042121887,neutral,0.005285646766424179
+12,2019-09-05 06:34:00,"This video was recorded on Sept. 3, 2019.",0.015609066002070904,0.00876833125948906,0.9756225943565369,neutral,0.006840734742581844
+13,2019-09-05 06:34:00,"Chris Hill: As we speak, Hurricane Dorian is now a Category 2 storm.",0.12384417653083801,0.3270096182823181,0.5491461753845215,neutral,-0.2031654417514801
+14,2019-09-05 06:34:00,"Warnings have been issued for Florida, Georgia, South Carolina.",0.0505683496594429,0.7674350738525391,0.18199653923511505,negative,-0.7168667316436768
+15,2019-09-05 06:34:00,"Later in the week, expected to -- at least on its current path -- hit on North Carolina and Virginia.",0.2834879159927368,0.45864856243133545,0.25786349177360535,negative,-0.17516064643859863
+16,2019-09-05 06:34:00,"For anyone listening who is in any of those areas, please, please, get out of the way of the storm.",0.05925099551677704,0.1315280795097351,0.8092209100723267,neutral,-0.07227708399295807
+17,2019-09-05 06:34:00,Please do what you need to do.,0.2693442702293396,0.013853110373020172,0.7168026566505432,neutral,0.2554911673069
+18,2019-09-05 06:34:00,We've already heard from some of our colleagues who are dealing with this.,0.07941611111164093,0.01758636347949505,0.9029975533485413,neutral,0.06182974576950073
+19,2019-09-05 06:34:00,"Everybody, stay as safe as possible.",0.20778323709964752,0.023632308468222618,0.7685844898223877,neutral,0.18415093421936035
+20,2019-09-05 06:34:00,I wanted to get your thoughts on this.,0.058332689106464386,0.012014921754598618,0.9296523928642273,neutral,0.04631776735186577
+21,2019-09-05 06:34:00,One of the stories this morning was the publicly traded cruise stocks.,0.04070719704031944,0.037060026079416275,0.9222327470779419,neutral,0.0036471709609031677
+22,2019-09-05 06:34:00,"Royal Caribbean (NYSE: RCL), Carnival Cruise Line (NYSE: CCL) (NYSE: CUK), those stocks down a bit as they're going to feel an economic impact from this.",0.05085590109229088,0.807115912437439,0.14202821254730225,negative,-0.7562600374221802
+23,2019-09-05 06:34:00,"The home improvement stocks -- Home Depot (NYSE: HD) and Lowe's (NYSE: LOW) -- down a little bit today, more so than the market.",0.02123239077627659,0.9524202346801758,0.026347346603870392,negative,-0.9311878681182861
+24,2019-09-05 06:34:00,"I just looked at those two categories and thought, well, if I'm thinking about extreme weather rising over the next 10 to 20 years, I feel like home improvement stocks are more of a buy signal than cruise stocks.",0.04708961024880409,0.029025521129369736,0.923884928226471,neutral,0.018064089119434357
+25,2019-09-05 06:34:00,"But, when we were chatting earlier, you mentioned a third category that I hadn't thought of when thinking about any kind of extreme weather, and that's insurers.",0.024427732452750206,0.019205115735530853,0.9563671350479126,neutral,0.005222616717219353
+26,2019-09-05 06:34:00,"Jason Moser: When you talk about the home improvement sector, Home Depot and Lowe's are two businesses that I think are going to be around for the rest of our days.",0.0348784402012825,0.009197008796036243,0.9559245705604553,neutral,0.025681432336568832
+27,2019-09-05 06:34:00,"Those are companies that you really can just own and almost forget about owning them, because they're just going to continue to serve a massive market opportunity there.",0.26172369718551636,0.008644938468933105,0.7296314239501953,neutral,0.25307875871658325
+28,2019-09-05 06:34:00,"And then, when it comes to insurers, insurers are the companies that help us manage through these times.",0.046627629548311234,0.005745220929384232,0.9476271867752075,neutral,0.040882408618927
+29,2019-09-05 06:34:00,"Whether you're a homeowner, or a renter, or you have a car, you have to have insurance for virtually everything major that you're doing in your life.",0.02793189138174057,0.011749678291380405,0.960318386554718,neutral,0.01618221402168274
+30,2019-09-05 06:34:00,"It's another market that I don't think is going to be disrupted, ever.",0.039088886231184006,0.03508974611759186,0.9258213639259338,neutral,0.003999140113592148
+31,2019-09-05 06:34:00,We have needs for insurance in our lives.,0.1903778612613678,0.008070839568972588,0.8015512824058533,neutral,0.18230701982975006
+32,2019-09-05 06:34:00,"I think that the thing that people want to make sure, when they're looking at insurance companies -- and this has just been my experience -- I think you just always have to go with the bigger, more reputable companies in the space.",0.04450807720422745,0.014538613148033619,0.9409533143043518,neutral,0.029969464987516403
+33,2019-09-05 06:34:00,"They're the ones that are built to be able to handle massive catastrophes like Dorian, for example, or any of the number of storms or earthquakes or whatever may happen.",0.13767042756080627,0.007479940075427294,0.854849636554718,neutral,0.13019049167633057
+34,2019-09-05 06:34:00,Those are the companies that have the financial resources to be able to deal with these issues.,0.11156602948904037,0.008486644364893436,0.879947304725647,neutral,0.10307938605546951
+35,2019-09-05 06:34:00,"There are many nightmares, I am sure, in regard to people trying to file claims and dealing with their insurance companies as they recover.",0.0356498621404171,0.6147314310073853,0.34961867332458496,negative,-0.5790815949440002
+36,2019-09-05 06:34:00,That's just part and parcel of the business.,0.0191446952521801,0.008406052365899086,0.9724492430686951,neutral,0.010738642886281013
+37,2019-09-05 06:34:00,"That's going to be just the way that is, unfortunately.",0.04070597514510155,0.17025232315063477,0.7890416383743286,neutral,-0.12954634428024292
+38,2019-09-05 06:34:00,"I wouldn't let that deter you from necessarily investing in an insurer, though.",0.04272794723510742,0.03017088770866394,0.927101194858551,neutral,0.012557059526443481
+39,2019-09-05 06:34:00,"Berkshire Hathaway, we talk about the company a lot.",0.04255702346563339,0.006344304420053959,0.951098620891571,neutral,0.03621271997690201
+40,2019-09-05 06:34:00,Travelers is another one that really has a stellar reputation in the space.,0.562757670879364,0.012600665912032127,0.42464160919189453,positive,0.5501570105552673
+41,2019-09-05 06:34:00,"Listeners probably remember, I did work there for a year.",0.027781618759036064,0.0383940190076828,0.9338244199752808,neutral,-0.010612400248646736
+42,2019-09-05 06:34:00,It's a very good business.,0.3873499035835266,0.008839468471705914,0.6038106083869934,neutral,0.378510445356369
+43,2019-09-05 06:34:00,"I think, from that perspective, it's always worth considering.",0.19240571558475494,0.010495160706341267,0.7970991134643555,neutral,0.18191055953502655
+44,2019-09-05 06:34:00,But I think you have to make sure you're going with the insurers that are big and reputable and specialize in this kind of stuff.,0.0586053729057312,0.0062901596538722515,0.935104489326477,neutral,0.05231521278619766
+45,2019-09-05 06:34:00,I'll throw a little shoutout there for a buddy of mine who works at Travelers still.,0.08840922266244888,0.030126238241791725,0.8814645409584045,neutral,0.05828298628330231
+46,2019-09-05 06:34:00,"Ironically, his name is Dorian, Dorian Wynn.",0.07758049666881561,0.0523444265127182,0.8700751066207886,neutral,0.025236070156097412
+47,2019-09-05 06:34:00,"Dorian is going to jump on an episode of Industry Focus here with me soon, and we're going to talk about this type of thing.",0.15732868015766144,0.011624078266322613,0.8310472965240479,neutral,0.14570459723472595
+48,2019-09-05 06:34:00,"Dorian is a catastrophe claims adjuster in Georgia, and he specializes in hurricane preparations and evacuations.",0.02224094234406948,0.011703130789101124,0.9660559892654419,neutral,0.010537811554968357
+49,2019-09-05 06:34:00,He has seen a lot of this stuff.,0.04360106214880943,0.009254053235054016,0.9471448659896851,neutral,0.03434700891375542
+50,2019-09-05 06:34:00,"The purpose of the interview, it's going to hopefully help people figure out how to approach these things before this type of thing happens, and how to deal with the aftermath of getting your life back in order.",0.22724144160747528,0.009214057587087154,0.7635445594787598,neutral,0.21802738308906555
+51,2019-09-05 06:34:00,"Certainly, he's seen his fair share.",0.15905548632144928,0.013902592472732067,0.8270419836044312,neutral,0.14515289664268494
+52,2019-09-05 06:34:00,"Again, having been at Travelers for the time that I was there, you just see how well-run insurers operate.",0.03696818649768829,0.007839592173695564,0.9551922082901001,neutral,0.02912859432399273
+53,2019-09-05 06:34:00,We had to deal with insurers that were not so well-run.,0.05413340404629707,0.23786744475364685,0.7079991698265076,neutral,-0.18373404443264008
+54,2019-09-05 06:34:00,You'd see a big difference there.,0.24003218114376068,0.021293235942721367,0.7386745810508728,neutral,0.21873894333839417
+55,2019-09-05 06:34:00,"It's a market that is going to continue to exist for many, many decades to come.",0.20326627790927887,0.006383100058883429,0.7903506755828857,neutral,0.1968831717967987
+56,2019-09-05 06:34:00,"So, yeah, I think insurers are kind of a no-brainer.",0.06816922873258591,0.11194159835577011,0.81988924741745,neutral,-0.043772369623184204
+57,2019-09-05 06:34:00,Hill: Make sure you're flexible on when you time this recording of the interview.,0.019701501354575157,0.0160786472260952,0.964219868183136,neutral,0.0036228541284799576
+58,2019-09-05 06:34:00,Something tells me he's going to be pretty busy for the next two weeks.,0.03253818675875664,0.14056171476840973,0.8269001245498657,neutral,-0.10802352428436279
+59,2019-09-05 06:34:00,"Moser: [laughs] Yeah, unfortunately, I do think he is going to be very busy.",0.025949576869606972,0.22480392456054688,0.7492464780807495,neutral,-0.19885434210300446
+60,2019-09-05 06:34:00,It's interesting to see how these storms and these natural disasters play out.,0.0335613451898098,0.007008122745901346,0.9594305157661438,neutral,0.02655322290956974
+61,2019-09-05 06:34:00,"At the time, we're seeing it, and we see the impact that it has at the local level, but then, you have to pan back a little bit and look at it from the national level.",0.06997742503881454,0.01078064925968647,0.9192419052124023,neutral,0.059196777641773224
+62,2019-09-05 06:34:00,"And you realize that, nationally speaking, it's not as impactful, thankfully, to the U.S. economy on a national scale.",0.10261385142803192,0.04255850985646248,0.8548275828361511,neutral,0.06005534157156944
+63,2019-09-05 06:34:00,"Certainly local, obviously, it's a big deal.",0.16486705839633942,0.012699213810265064,0.8224336504936218,neutral,0.15216784179210663
+64,2019-09-05 06:34:00,But it's interesting to see the difference between property damage vs. actual lost output.,0.049186885356903076,0.06601610779762268,0.8847969770431519,neutral,-0.016829222440719604
+65,2019-09-05 06:34:00,The property damage is by far and away the biggest loss when it comes to these types of events.,0.05072982609272003,0.647814929485321,0.30145522952079773,negative,-0.5970851182937622
+66,2019-09-05 06:34:00,"Lost output, it's not nearly as great.",0.020451568067073822,0.9273791313171387,0.052169278264045715,negative,-0.9069275856018066
+67,2019-09-05 06:34:00,"Part of that is because ultimately, that output comes back around.",0.22108693420886993,0.015947097912430763,0.762965977191925,neutral,0.20513983070850372
+68,2019-09-05 06:34:00,It's more or less just delayed.,0.04380923882126808,0.11336589604616165,0.8428248763084412,neutral,-0.06955665349960327
+69,2019-09-05 06:34:00,I think that's important to remember.,0.1126590222120285,0.017260096967220306,0.8700808882713318,neutral,0.0953989252448082
+70,2019-09-05 06:34:00,"While a lot of those big numbers really are due to property damage, the lost output isn't so big, and it does come back, which means that when you see these headlines going on, you're going to see some stocks take a little bit of a dip there.",0.07318723201751709,0.628889262676239,0.2979234755039215,negative,-0.5557020306587219
+71,2019-09-05 06:34:00,"And you can feel pretty good knowing that they will come back around because that output does eventually get back in place, it's just delayed a little bit.",0.15082119405269623,0.08591727167367935,0.7632614970207214,neutral,0.06490392237901688
+72,2019-09-05 06:34:00,Chris Hill has no position in any of the stocks mentioned.,0.010136052966117859,0.043086566030979156,0.9467774033546448,neutral,-0.0329505130648613
+73,2019-09-05 06:34:00,Jason Moser has no position in any of the stocks mentioned.,0.010024731047451496,0.05230214074254036,0.9376731514930725,neutral,-0.04227741062641144
+74,2019-09-05 06:34:00,The Motley Fool owns shares of and recommends BRK-B.,0.03793685883283615,0.010596045292913914,0.9514670968055725,neutral,0.027340814471244812
+75,2019-09-05 06:34:00,"The Motley Fool has the following options: short February 2020 $205 calls on Home Depot, long January 2021 $200 calls on BRK-B, short January 2021 $200 puts on BRK-B, and long January 2021 $120 calls on Home Depot.",0.012805863283574581,0.02356334775686264,0.963630735874176,neutral,-0.01075748447328806
+76,2019-09-05 06:34:00,"The Motley Fool recommends Carnival, Home Depot, and Lowe's.",0.024369271472096443,0.02817283384501934,0.9474578499794006,neutral,-0.0038035623729228973
+77,2019-09-05 06:34:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

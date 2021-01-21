@@ -1,0 +1,86 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-19 03:18:00,Tesla Inc (NASDAQ: TSLA ) has managed to surprise almost all observers lately.,0.5338937640190125,0.016952069476246834,0.44915419816970825,positive,0.5169416666030884
+1,2017-12-19 03:18:00,The company's truly underwhelming launch of the Model 3 has raised eyebrows across the industry.,0.6620113253593445,0.2188878059387207,0.11910084635019302,positive,0.4431235194206238
+2,2017-12-19 03:18:00,And the TSLA stock price's resilience has equally started the bears.,0.86525559425354,0.058739762753248215,0.07600459456443787,positive,0.8065158128738403
+3,2017-12-19 03:18:00,Most of us were skeptical that the Model 3 would hit production levels that Musk forecast as quickly as he expected.,0.5327616930007935,0.016104914247989655,0.4511334300041199,positive,0.516656756401062
+4,2017-12-19 03:18:00,"Even with that said, Tesla's severe inability to meet expectations came as a surprise.",0.05018745735287666,0.8868322968482971,0.06298017501831055,negative,-0.8366448283195496
+5,2017-12-19 03:18:00,"As bad news emerged from Tesla's HQ almost weekly, the seemingly invincible TSLA stock started to slide with it.",0.034829434007406235,0.9031288027763367,0.062041833996772766,negative,-0.8682993650436401
+6,2017-12-19 03:18:00,Shares dumped from 370 to 300 in the space of two months.,0.019545145332813263,0.966187059879303,0.014267883263528347,negative,-0.9466419219970703
+7,2017-12-19 03:18:00,"However, despite the terrible production news, TSLA stock has now stabilized and is starting to rally again.",0.9467742443084717,0.02394252084195614,0.029283197596669197,positive,0.9228317141532898
+8,2017-12-19 03:18:00,Tesla bears must be beside themselves watching as TSLA stock recovers now.,0.30796247720718384,0.055146992206573486,0.6368905901908875,neutral,0.25281548500061035
+9,2017-12-19 03:18:00,What's going on here?,0.10627643018960953,0.1270936131477356,0.7666299939155579,neutral,-0.020817182958126068
+10,2017-12-19 03:18:00,"• 10 Hot IPOs That You Could Buy in 2018
+
+The back half of 2017 has been a difficult one for Tesla's boosters.",0.02972528152167797,0.9191851615905762,0.0510895773768425,negative,-0.8894599080085754
+11,2017-12-19 03:18:00,"The Model 3 production ramp has gone poorly, to say the least.",0.02287193387746811,0.9531465768814087,0.023981498554348946,negative,-0.9302746653556824
+12,2017-12-19 03:18:00,"Musk was originally projecting 100,000 or more Model 3s to be produced in the second half of 2017.",0.08053611218929291,0.005447880364954472,0.91401606798172,neutral,0.07508823275566101
+13,2017-12-19 03:18:00,The actual figure looks to come in around 5% of that prior estimate.,0.08263368159532547,0.030503161251544952,0.8868631720542908,neutral,0.05213052034378052
+14,2017-12-19 03:18:00,"Musk himself admitted that the company has been in ""production hell"" lately.",0.026192596182227135,0.9388766884803772,0.03493065387010574,negative,-0.9126840829849243
+15,2017-12-19 03:18:00,Tesla laid off employees recently.,0.023032134398818016,0.9658487439155579,0.011119140312075615,negative,-0.9428166151046753
+16,2017-12-19 03:18:00,Charging stations are rolling out a lot more slowly than promised.,0.08974964916706085,0.07424470037221909,0.836005687713623,neutral,0.015504948794841766
+17,2017-12-19 03:18:00,"The solar roofs appear unlikely to reach meaningful production in 2018, more than a year after their glamorous launch.",0.12735866010189056,0.12727037072181702,0.7453709840774536,neutral,8.828938007354736e-05
+18,2017-12-19 03:18:00,Tesla's lead in self-driving vehicles appears to be a lot smaller than previously thought.,0.09867987036705017,0.6434253454208374,0.2578948140144348,negative,-0.5447454452514648
+19,2017-12-19 03:18:00,And the list goes on.,0.12933307886123657,0.026023559272289276,0.8446434140205383,neutral,0.1033095195889473
+20,2017-12-19 03:18:00,And yet the litany of Tesla flaws has done little to ding the TSLA stock price.,0.07763759791851044,0.8140903115272522,0.10827209800481796,negative,-0.7364526987075806
+21,2017-12-19 03:18:00,That's because the central debate with TSLA stock comes down to perception.,0.012520862743258476,0.023967459797859192,0.9635116457939148,neutral,-0.011446597054600716
+22,2017-12-19 03:18:00,"On the bullish side, we see Elon Musk promising us Mars.",0.16038131713867188,0.02724462002515793,0.8123740553855896,neutral,0.13313668966293335
+23,2017-12-19 03:18:00,It's a thrilling message.,0.41445058584213257,0.01186035294085741,0.5736891031265259,neutral,0.40259024500846863
+24,2017-12-19 03:18:00,"Sure, he misses on promises as often as he succeeds.",0.18270952999591827,0.09471951425075531,0.7225709557533264,neutral,0.08799001574516296
+25,2017-12-19 03:18:00,But his sheer audacity is breathtaking.,0.22795811295509338,0.03648533299565315,0.7355566024780273,neutral,0.19147278368473053
+26,2017-12-19 03:18:00,"If he aims for Mars and only reaches the moon, is that such a bad thing for shareholders?",0.04096931219100952,0.6976236701011658,0.2614070177078247,negative,-0.6566543579101562
+27,2017-12-19 03:18:00,"Before Musk started rolling out his first cars, EVs seemed like a curiosity.",0.04477676749229431,0.027215484529733658,0.9280077219009399,neutral,0.017561282962560654
+28,2017-12-19 03:18:00,"Less than a decade later, the gasoline-based engine looks increasingly like a historical relic, at least in progressive wealthy regions of the world.",0.2576529085636139,0.01424128096550703,0.7281058430671692,neutral,0.24341163039207458
+29,2017-12-19 03:18:00,"Similarly, Solar City was far from a unanimous success for the company's shareholders, but there's no denying that it helped push adoption of rooftop solar from a hobbyist niche into the mainstream.",0.830718457698822,0.01589042879641056,0.15339107811450958,positive,0.8148280382156372
+30,2017-12-19 03:18:00,"Musk, in a way, shares a lot with the President.",0.08202964067459106,0.009169485419988632,0.9088008403778076,neutral,0.07286015152931213
+31,2017-12-19 03:18:00,They promise grandiose things.,0.0672471821308136,0.01290502306073904,0.9198477864265442,neutral,0.054342158138751984
+32,2017-12-19 03:18:00,"Critics immediately point out the obvious and glaring physics, math, accounting etc.-based errors in their proposals.",0.04423722252249718,0.81610107421875,0.1396617889404297,negative,-0.7718638777732849
+33,2017-12-19 03:18:00,"But their proponents recognize that by aiming as high as possible, it can help, at least in some cases, reach a still substantial level of perceived or actual success.",0.8396608233451843,0.014344539493322372,0.14599460363388062,positive,0.825316309928894
+34,2017-12-19 03:18:00,Can Musk Fake It 'Til He Makes It?,0.05644425377249718,0.027000563219189644,0.9165551662445068,neutral,0.029443690553307533
+35,2017-12-19 03:18:00,"Almost from the beginning, Tesla has been vastly underfunded compared to its mainstream automobile-producing rivals.",0.02972387708723545,0.9106910824775696,0.05958503857254982,negative,-0.8809671998023987
+36,2017-12-19 03:18:00,The oldest bear thesis on TSLA stock has been that the company is about to run out of money.,0.0379849374294281,0.7608048319816589,0.20121026039123535,negative,-0.7228199243545532
+37,2017-12-19 03:18:00,"I can't remember a time, in fact, when bears weren't sure that Tesla's bankruptcy wasn't coming up within a few years.",0.03929461911320686,0.20002934336662292,0.7606760859489441,neutral,-0.16073472797870636
+38,2017-12-19 03:18:00,"However, according to the proponents of positive thinking, the current reality simply doesn't matter.",0.019360508769750595,0.05029422789812088,0.9303452968597412,neutral,-0.030933719128370285
+39,2017-12-19 03:18:00,Musk and Tesla aren't capable of achieving what they set out to do today with today's on-hand resources.,0.12166956067085266,0.27879536151885986,0.5995351076126099,neutral,-0.1571258008480072
+40,2017-12-19 03:18:00,"But as long as enough believers buy their stock and bonds and pre-order their vehicles, the optimism slowly converts itself into reality.",0.41642478108406067,0.014403757639229298,0.5691714882850647,neutral,0.40202102065086365
+41,2017-12-19 03:18:00,"Steve Jobs famously had his ""reality distortion field.""",0.09749250113964081,0.15432792901992798,0.74817955493927,neutral,-0.05683542788028717
+42,2017-12-19 03:18:00,This term comes up 34 times in Walter Isaacson's definitive biography Steve Jobs .,0.07484331727027893,0.021860599517822266,0.9032960534095764,neutral,0.052982717752456665
+43,2017-12-19 03:18:00,"Jobs, like Musk, was notoriously unconcerned with basic facts, such as production timelines, budgetary constraints and so on.",0.05528069660067558,0.43374377489089966,0.5109755396842957,neutral,-0.37846308946609497
+44,2017-12-19 03:18:00,"Instead, Jobs stayed above the minutia, sticking entirely to the big picture.",0.06912626326084137,0.03926200047135353,0.8916117548942566,neutral,0.02986426278948784
+45,2017-12-19 03:18:00,"It led to great stress for his underlings, but it's hard to argue that Jobs was supremely effective in hitting in all the right notes in consumer experience, production design and creating the mystique behind the Apple, Inc. (NASDAQ: AAPL ) brand.",0.5828946828842163,0.01923401653766632,0.3978712856769562,positive,0.5636606812477112
+46,2017-12-19 03:18:00,"Just as we had the so-called Cult of Mac, Musk has built a similarly faithful following.",0.4923132658004761,0.011693855747580528,0.49599289894104004,neutral,0.4806194007396698
+47,2017-12-19 03:18:00,"For example, take a look at the Model 3.",0.03521055728197098,0.01504081767052412,0.9497485756874084,neutral,0.020169738680124283
+48,2017-12-19 03:18:00,"Tesla tallied more than 500,000 pre-orders, no small feat when that came with a $1,000 deposit requirement.",0.8108202815055847,0.02051655389368534,0.1686631590127945,positive,0.7903037071228027
+49,2017-12-19 03:18:00,"As late as August, just 60,000 or so people requested refunds on their pre-orders, a trifling percentage.",0.034803103655576706,0.8669663667678833,0.09823060035705566,negative,-0.8321632742881775
+50,2017-12-19 03:18:00,"That, despite the fact it was already becoming apparent that the actual Model 3 production ramp-up was turning into an operational fiasco.",0.025391235947608948,0.9416905641555786,0.03291815519332886,negative,-0.9162993431091309
+51,2017-12-19 03:18:00,"Talk to Tesla vehicle owners and enthusiasts, and it's clear that Tesla's image is profoundly established.",0.5085157752037048,0.010952211916446686,0.4805320203304291,positive,0.49756357073783875
+52,2017-12-19 03:18:00,Does it matter that EVs run off fossil fuel-produced electricity are often worse for the environment than gasoline-powered cars?,0.04299880564212799,0.5707160830497742,0.38628506660461426,negative,-0.5277172923088074
+53,2017-12-19 03:18:00,Or that Tesla vehicles are supremely uneconomic in many areas without windfall government subsidies?,0.09727948158979416,0.3390777111053467,0.5636427998542786,neutral,-0.24179822206497192
+54,2017-12-19 03:18:00,"No, it doesn't matter.",0.025954172015190125,0.03958200663328171,0.9344638586044312,neutral,-0.013627834618091583
+55,2017-12-19 03:18:00,"In the same way that the cost/benefit ratio rarely favored an Apple product versus a generic rival's offering selling at half price, Tesla can sell on its superior image regardless of the boring facts.",0.6057405471801758,0.020093120634555817,0.3741663098335266,positive,0.5856474041938782
+56,2017-12-19 03:18:00,"TSLA Stock May Be Overvalued But It's a Terrible Short
+
+Tesla's ability to sell doesn't apply just to its cars.",0.026814963668584824,0.06394613534212112,0.909238874912262,neutral,-0.0371311716735363
+57,2017-12-19 03:18:00,Musk has been a master at fund-raising.,0.2010609358549118,0.007986961863934994,0.7909521460533142,neutral,0.19307397305965424
+58,2017-12-19 03:18:00,Short-sellers of TSLA stock (and previously Solar City as well) assumed that Musk would run out of money.,0.02370884269475937,0.8538204431533813,0.12247083336114883,negative,-0.8301116228103638
+59,2017-12-19 03:18:00,"Yes, Tesla burns $2 billion a year or whatnot.",0.03655156120657921,0.021070139482617378,0.9423783421516418,neutral,0.01548142172396183
+60,2017-12-19 03:18:00,"But as long as Musk can go raise a few billion with ease, this hardly matters.",0.07250349968671799,0.009782993234694004,0.9177135229110718,neutral,0.06272050738334656
+61,2017-12-19 03:18:00,"If the runs in stocks like Amazon.com, Inc. (NASDAQ: AMZN ), Netflix, Inc. (NASDAQ: NFLX ) and salesforce.com, inc .",0.04053427651524544,0.5233873724937439,0.43607836961746216,negative,-0.48285308480262756
+62,2017-12-19 03:18:00,"(NYSE: CRM ) over the past decade taught anything, companies don't need to report much in the way of accounting profits to see their stocks soar.",0.22526246309280396,0.019033975899219513,0.7557035684585571,neutral,0.20622849464416504
+63,2017-12-19 03:18:00,"Sure, Tesla's business model isn't as proven as those other three yet.",0.2011813521385193,0.02447502315044403,0.7743435502052307,neutral,0.17670632898807526
+64,2017-12-19 03:18:00,They still need to demonstrate that they can manufacture automobiles at scale.,0.5164104700088501,0.013352887704968452,0.4702366292476654,positive,0.503057599067688
+65,2017-12-19 03:18:00,"However, as far as a story goes, Musk's is almost unbeatable.",0.22593653202056885,0.01838511787354946,0.7556782960891724,neutral,0.20755141973495483
+66,2017-12-19 03:18:00,What other public company executive is planning to colonize Mars?,0.05241355672478676,0.04428857937455177,0.9032979011535645,neutral,0.008124977350234985
+67,2017-12-19 03:18:00,"Return on that investment would be incredible, if it succeeded.",0.839168131351471,0.012178830802440643,0.1486530601978302,positive,0.8269892930984497
+68,2017-12-19 03:18:00,Noted short-seller Jim Chanos was on CNBC Thursday.,0.03487008437514305,0.03665132820606232,0.9284785985946655,neutral,-0.0017812438309192657
+69,2017-12-19 03:18:00,He's one of the smartest professionals in the investment business.,0.37261268496513367,0.011097605340182781,0.6162897348403931,neutral,0.361515074968338
+70,2017-12-19 03:18:00,"Still, it's a bit sad to see him complaining about how Elon Musk has a ""broad interpretation of the truth.""",0.043326858431100845,0.5850502848625183,0.37162289023399353,negative,-0.5417234301567078
+71,2017-12-19 03:18:00,"That is correct, but if we've learned anything over the past year, charisma often trumps literal truth-telling.",0.10076858848333359,0.05767063796520233,0.8415607810020447,neutral,0.043097950518131256
+72,2017-12-19 03:18:00,"For now, TSLA stock is still easy to hold if you buy what Musk is selling.",0.05579998344182968,0.009886086918413639,0.934313952922821,neutral,0.04591389745473862
+73,2017-12-19 03:18:00,"And if you don't, stay far away from the stock, there's a good chance Musk can keep things "" stormy in shortville "" for awhile longer.",0.10988382995128632,0.04480165243148804,0.8453145027160645,neutral,0.06508217751979828
+74,2017-12-19 03:18:00,"At the time of this writing, the author held no positions in any of the aforementioned securities.",0.008521586656570435,0.017750732600688934,0.9737277626991272,neutral,-0.0092291459441185
+75,2017-12-19 03:18:00,You can reach him on Twitter at @irbezek.,0.05966216325759888,0.04006844758987427,0.9002693295478821,neutral,0.01959371566772461
+76,2017-12-19 03:18:00,"• 10 More Losers That Will Be Stocks to Buy in 2018
+• 9 Best Dividend Stocks to Buy for Every Investor
+
+The post Musk's Magic: Why Tesla Inc Stock Skeptics Keep Losing Money appeared first on InvestorPlace .",0.09673245996236801,0.24760541319847107,0.6556621193885803,neutral,-0.15087294578552246
+77,2017-12-19 03:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-05 22:35:00,"In the beginning, when we were still buying our software on CDs and had to upgrade them every year or two, we never would've guessed that there could be a better solution.",0.25505661964416504,0.014922254718840122,0.730021059513092,neutral,0.2401343584060669
+1,2019-02-05 22:35:00,"Back then, we also saved and exchanged our data on CDs.",0.05762682855129242,0.007432632148265839,0.9349405169487,neutral,0.05019419640302658
+2,2019-02-05 22:35:00,Some of us may have been sophisticated enough to use VPNs.,0.07768094539642334,0.007978314533829689,0.9143407344818115,neutral,0.0697026327252388
+3,2019-02-05 22:35:00,That's all ancient history because we did find a better way - the cloud.,0.42012760043144226,0.014994560740888119,0.5648778080940247,neutral,0.40513303875923157
+4,2019-02-05 22:35:00,Salesforce.com (NYSE: CRM ) was the original company that made the cloud mainstream.,0.12668776512145996,0.0059312982484698296,0.8673809766769409,neutral,0.12075646966695786
+5,2019-02-05 22:35:00,Now the whole world is using it or is striving to migrate to it.,0.19590547680854797,0.012351556681096554,0.7917429804801941,neutral,0.18355391919612885
+6,2019-02-05 22:35:00,"In its early days, CRM stock was the ""David"" bravely competing against the Goliath-like Microsoft (NASDAQ: MSFT ) for cloud dominance, and it won!",0.8302543759346008,0.029549481347203255,0.14019609987735748,positive,0.8007048964500427
+7,2019-02-05 22:35:00,"Now, Salesforce.com has 35,000 employees and dominates the field.",0.14967192709445953,0.007775655947625637,0.8425524234771729,neutral,0.14189627766609192
+8,2019-02-05 22:35:00,"For the past decade, CRM has maintained an unparalleled neck-breaking growth pace.",0.9369139075279236,0.01556936465203762,0.04751681163907051,positive,0.921344518661499
+9,2019-02-05 22:35:00,All this happened because of the aggressive leadership of CEO Mark Benioff.,0.4099302291870117,0.015956290066242218,0.5741135478019714,neutral,0.3939739465713501
+10,2019-02-05 22:35:00,"Wall Street ate it up and the company's market capitalization grew to $122 billion, which is almost three times that of say General Motors (NYSE: GM ).",0.8937140107154846,0.01431828923523426,0.09196764975786209,positive,0.8793957233428955
+11,2019-02-05 22:35:00,Last year CRM stock rose to new highs but then fell 25% into the Christmas market-wide correction.,0.02825232595205307,0.9486377239227295,0.023109907284379005,negative,-0.9203854203224182
+12,2019-02-05 22:35:00,Since then it has had a V-shaped rebound.,0.7827550172805786,0.028540972620248795,0.18870402872562408,positive,0.7542140483856201
+13,2019-02-05 22:35:00,Now it is again close to setting a new all-time high.,0.7679944634437561,0.05474729463458061,0.1772582083940506,positive,0.7132471799850464
+14,2019-02-05 22:35:00,So is it too late to buy it?,0.07309930771589279,0.19539569318294525,0.7315049767494202,neutral,-0.12229638546705246
+15,2019-02-05 22:35:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+16,2019-02-05 22:35:00,"Before 2018, traders complained of the lack of volatility.",0.03128911554813385,0.8695152401924133,0.09919574111700058,negative,-0.8382261395454407
+17,2019-02-05 22:35:00,"As they say, be careful what you wish for because 2018 brought fear in droves.",0.10920027643442154,0.44453367590904236,0.4462660849094391,neutral,-0.3353334069252014
+18,2019-02-05 22:35:00,Investors had to contend with waves of bad headlines from tariff wars to a combative U.S. Federal reserve.,0.07180343568325043,0.7954076528549194,0.13278883695602417,negative,-0.7236042022705078
+19,2019-02-05 22:35:00,This year we've had a reprieve from those inflammatory headlines as politicians are now more likely to resolve the issues that plagued us last year.,0.7771881222724915,0.047782089561223984,0.17502973973751068,positive,0.7294060587882996
+20,2019-02-05 22:35:00,So now companies are free to flourish in these favorable macroeconomic conditions.,0.7265978455543518,0.012453981675207615,0.26094815135002136,positive,0.7141438722610474
+21,2019-02-05 22:35:00,"Yes, in spite of all the fear mongers, things are conducive for growth.",0.714677095413208,0.02587984688580036,0.2594430446624756,positive,0.6887972354888916
+22,2019-02-05 22:35:00,CRM is still cranking on all cylinders.,0.12500178813934326,0.028620645403862,0.8463775515556335,neutral,0.09638114273548126
+23,2019-02-05 22:35:00,It generates $3 billion in operating cash flow.,0.07040109485387802,0.005560241173952818,0.9240387082099915,neutral,0.06484085321426392
+24,2019-02-05 22:35:00,The results from the last earnings report said so.,0.03209909424185753,0.0299699567258358,0.9379310011863708,neutral,0.0021291375160217285
+25,2019-02-05 22:35:00,"But don't take my word for it, this is consensus on Wall Street.",0.1400151252746582,0.01616211235523224,0.843822717666626,neutral,0.12385301291942596
+26,2019-02-05 22:35:00,The stock is up nearly 50% in the past year.,0.9385579824447632,0.020606638863682747,0.04083538427948952,positive,0.9179513454437256
+27,2019-02-05 22:35:00,"Furthermore, almost all of the analysts that cover it rate Saleforce.com stock as a buy.",0.06684610992670059,0.02976127900183201,0.9033925533294678,neutral,0.03708483278751373
+28,2019-02-05 22:35:00,"Yet, it still trades well below their average price targets, so there is more room to go.",0.36544641852378845,0.12801864743232727,0.5065349340438843,neutral,0.23742777109146118
+29,2019-02-05 22:35:00,"Roughly 10% more upside, to be exact.",0.0540597178041935,0.010532926768064499,0.9354074001312256,neutral,0.043526791036129
+30,2019-02-05 22:35:00,All this good news comes at a cost.,0.1454993635416031,0.02247803471982479,0.8320225477218628,neutral,0.12302132695913315
+31,2019-02-05 22:35:00,Critics question CRM's valuation and rightfully so.,0.050566691905260086,0.7341220378875732,0.2153112143278122,negative,-0.6835553646087646
+32,2019-02-05 22:35:00,A three-digit price-earnings (P/E) ratio is extravagant … except that it's not in this case.,0.05634761601686478,0.01856975257396698,0.9250826835632324,neutral,0.0377778634428978
+33,2019-02-05 22:35:00,"When I analyze a hyper-growth stock like CRM or Amazon (NASDAQ: AMZN ), I don't judge it by its profitability …
+
+For as long as it continues to grow as fast as this, it's doing its job.",0.5698545575141907,0.01270296797156334,0.4174424707889557,positive,0.5571516156196594
+34,2019-02-05 22:35:00,Growth companies are supposed to overspend in order to grow.,0.11308233439922333,0.11365123838186264,0.7732664346694946,neutral,-0.0005689039826393127
+35,2019-02-05 22:35:00,Only when they make the turn to a mature stable corporation than will I judge its P/E levels.,0.04716562107205391,0.009080828167498112,0.9437535405158997,neutral,0.03808479383587837
+36,2019-02-05 22:35:00,CRM stock is not there yet.,0.01423691026866436,0.10333355516195297,0.8824295401573181,neutral,-0.08909664303064346
+37,2019-02-05 22:35:00,So then the decision to buy it or not comes down to timing.,0.024623598903417587,0.013080903328955173,0.9622955322265625,neutral,0.011542695574462414
+38,2019-02-05 22:35:00,"CRM is a momentum stock and those are tough to trade because ""momo"" stocks don't give us a clear spot to buy.",0.03670436516404152,0.4419945478439331,0.5213010907173157,neutral,-0.4052901864051819
+39,2019-02-05 22:35:00,"They move so fast they seem perpetually ready to flip, thereby scaring most investors out of investing.",0.11510276794433594,0.5410469174385071,0.343850314617157,negative,-0.42594414949417114
+40,2019-02-05 22:35:00,This has been the case for a lot of investors who have missed out on the upside while they wait for a perfect time to buy it.,0.149436816573143,0.18888001143932343,0.661683201789856,neutral,-0.03944319486618042
+41,2019-02-05 22:35:00,Sometimes the advice to buy low and sell high just isn't the right thing to do.,0.07173145562410355,0.2805492877960205,0.6477192640304565,neutral,-0.20881783962249756
+42,2019-02-05 22:35:00,Here you have to buy high and sell higher.,0.11725516617298126,0.024774665012955666,0.8579701781272888,neutral,0.09248050302267075
+43,2019-02-05 22:35:00,"Being long these shares, I know there will be bad times.",0.06739038228988647,0.508348286151886,0.42426133155822754,negative,-0.4409579038619995
+44,2019-02-05 22:35:00,"But a bet on Salesforce stock is a bet on the broader markets … if the equity markets are higher years from now, then CRM stock will be higher as well.",0.3966355621814728,0.022672412917017937,0.5806919932365417,neutral,0.3739631474018097
+45,2019-02-05 22:35:00,"• 7 Recession-Proof Stocks to Buy as the Boom Ends
+
+As a general rule, it is better to take small bites and not swallow the whole meal at once.",0.06797070801258087,0.07654539495706558,0.855483889579773,neutral,-0.00857468694448471
+46,2019-02-05 22:35:00,This is especially true when we have politicians bickering over tariffs and budgets.,0.0838138610124588,0.6572230458259583,0.25896307826042175,negative,-0.5734091997146606
+47,2019-02-05 22:35:00,"So while the fundamental are hostage to headlines for the next few months, I take my positions in tranches.",0.03671008348464966,0.01658604107797146,0.9467039108276367,neutral,0.0201240424066782
+48,2019-02-05 22:35:00,So if the trouble hits the fan then I can add to the position at lower prices.,0.3904367983341217,0.015876350924372673,0.5936868786811829,neutral,0.3745604455471039
+49,2019-02-05 22:35:00,Click here for a bonus video that I recently shared discussing GOOGL stock coming into the earnings.,0.030858609825372696,0.02036372199654579,0.9487776160240173,neutral,0.010494887828826904
+50,2019-02-05 22:35:00,Nicolas Chahine is the managing director of SellSpreads.com .,0.016307199373841286,0.009209631942212582,0.9744831323623657,neutral,0.007097567431628704
+51,2019-02-05 22:35:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+52,2019-02-05 22:35:00,You can follow him as @racernic on Twitter and Stocktwits .,0.06448649615049362,0.04394841566681862,0.8915650248527527,neutral,0.020538080483675003
+53,2019-02-05 22:35:00,"• 10 F-Rated Stocks That Could Break Your Portfolio
+
+The post Salesforce Stock Is at All-Time Highs - Buy It!",0.2796705663204193,0.04219890013337135,0.6781305074691772,neutral,0.23747166991233826
+54,2019-02-05 22:35:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+55,2019-02-05 22:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

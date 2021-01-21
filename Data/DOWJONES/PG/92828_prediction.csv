@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-03 07:23:00,"In early trading on Monday, shares of DuPont ( DD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.939673900604248,0.03051251918077469,0.029813574627041817,positive,0.909161388874054
+1,2016-10-03 07:23:00,"Year to date, DuPont registers a 1.5% gain.",0.9407864212989807,0.02039562724530697,0.03881797194480896,positive,0.920390784740448
+2,2016-10-03 07:23:00,"And the worst performing Dow component thus far on the day is Pfizer ( PFE ), trading down 1.3%.",0.020109986886382103,0.9654887914657593,0.014401168562471867,negative,-0.9453787803649902
+3,2016-10-03 07:23:00,Pfizer is showing a gain of 3.5% looking at the year to date performance.,0.9448519349098206,0.0177147313952446,0.03743341192603111,positive,0.9271371960639954
+4,2016-10-03 07:23:00,"Two other components making moves today are Procter & Gamble ( PG ), trading down 1.0%, and Intel Corp ( INTC ), trading up 0.3% on the day.",0.028742915019392967,0.9384045004844666,0.03285263106226921,negative,-0.909661591053009
+5,2016-10-03 07:23:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

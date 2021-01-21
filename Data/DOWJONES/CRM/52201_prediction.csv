@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-16 05:00:00,Microsoft has been a fantastic stock to own over the last 12 months.,0.7747503519058228,0.014080640859901905,0.21116903424263,positive,0.7606697082519531
+1,2015-05-16 05:00:00,Shares of the Windows-maker are up better than 23% since last May -- almost twice as good as the S&P 500 .,0.9490945339202881,0.025043755769729614,0.025861792266368866,positive,0.9240508079528809
+2,2015-05-16 05:00:00,"Despite facing challenges to its legacy businesses, Microsoft has been able to deliver a stream of solid earnings reports .",0.9549976587295532,0.019208284094929695,0.02579403668642044,positive,0.9357893466949463
+3,2015-05-16 05:00:00,Microsoft shares are now trading near a level that hasn't been seen since the dot com bubble.,0.42147719860076904,0.11497477442026138,0.46354803442955017,neutral,0.30650243163108826
+4,2015-05-16 05:00:00,Is the stock due for a correction?,0.07378800958395004,0.3935755491256714,0.5326364636421204,neutral,-0.31978753209114075
+5,2015-05-16 05:00:00,"While there are plenty of reasons to be optimistic about Microsoft's business, things could be about take a turn for the worse.",0.048842575401067734,0.7369602918624878,0.21419714391231537,negative,-0.6881177425384521
+6,2015-05-16 05:00:00,"Below are three scenarios that, if they came to pass, would likely harm Microsoft shareholders.",0.01423401664942503,0.08176136016845703,0.9040046334266663,neutral,-0.06752734631299973
+7,2015-05-16 05:00:00,"Most optimistic Microsoft bulls don't concern themselves with Windows, or the traditional PC in general.",0.01867338828742504,0.03454311192035675,0.9467835426330566,neutral,-0.01586972363293171
+8,2015-05-16 05:00:00,"Rather, they see potential for Microsoft in its cloud computing business.",0.531380832195282,0.010091208852827549,0.45852798223495483,positive,0.5212896466255188
+9,2015-05-16 05:00:00,"When hedge fund ValueAct first disclosed its $1.9 billion stake in the firm two years ago, its CEO declared that ""In three to five years ... we'll stop talking about PC cycles and instead talk about Microsoft as the largest cloud-computing company in the world.""",0.11181076616048813,0.01672946847975254,0.8714597821235657,neutral,0.09508129954338074
+10,2015-05-16 05:00:00,Microsoft has certainly moved in that direction.,0.5914146900177002,0.012343326583504677,0.3962419927120209,positive,0.5790713429450989
+11,2015-05-16 05:00:00,"Microsoft's commercial cloud is arguably its single most important business segment, as it holds the most promise for the company's long-term success.",0.6195367574691772,0.01166310254484415,0.36880019307136536,positive,0.6078736782073975
+12,2015-05-16 05:00:00,"In recent quarters, demand for Microsoft's cloud services has been exceptionally strong -- revenue growth has remained in the triple-digits.",0.9269465804100037,0.014213132672011852,0.058840300887823105,positive,0.9127334356307983
+13,2015-05-16 05:00:00,But Microsoft faces a lot of competition in that space.,0.12951435148715973,0.01604439504444599,0.8544411659240723,neutral,0.11346995830535889
+14,2015-05-16 05:00:00,"In a recent interview, Warren Buffett declared that cloud computing wasn't a winner-take-all-game -- that there was room for multiple suppliers.",0.15842781960964203,0.016722816973924637,0.8248494267463684,neutral,0.1417050063610077
+15,2015-05-16 05:00:00,"That may be the case, but Microsoft still has to fend off firms supplying similar products -- Amazon 's AWS competes with Microsoft's Azure, Microsoft's Dynamics CRM competes with Salesforce , to cite just a few examples.",0.08702786266803741,0.7263849973678589,0.1865871548652649,negative,-0.6393571496009827
+16,2015-05-16 05:00:00,"If Microsoft's cloud growth slows in the quarters ahead, its stock could struggle.",0.026330651715397835,0.9428703188896179,0.030798979103565216,negative,-0.9165396690368652
+17,2015-05-16 05:00:00,"Windows 10 fails and Windows continues its slow slide toward irrelevancy
+
+It would be ignorant to say that Windows is irrelevant.",0.057130225002765656,0.5615526437759399,0.3813171088695526,negative,-0.5044224262237549
+18,2015-05-16 05:00:00,"It's still the most popular desktop operating system in the world by far, installed on more than 1 billion PCs.",0.44486546516418457,0.012209190055727959,0.5429253578186035,neutral,0.43265628814697266
+19,2015-05-16 05:00:00,But it would be equally ignorant to pretend that Windows isn't threatened.,0.09071236848831177,0.235247403383255,0.6740402579307556,neutral,-0.14453503489494324
+20,2015-05-16 05:00:00,"Increasingly, mobile devices represent the primary computing device for most people -- even enterprise users.",0.04974709451198578,0.00813562422990799,0.9421172142028809,neutral,0.04161147028207779
+21,2015-05-16 05:00:00,Microsoft is largely a non-factor when it comes to mobile.,0.009440639056265354,0.02455313131213188,0.9660062789916992,neutral,-0.015112492255866528
+22,2015-05-16 05:00:00,Its share of the smartphone market is in the low single digits; the few Windows tablets in existence are largely sold as laptop replacements rather than tablet alternatives.,0.014446067623794079,0.012065613642334938,0.9734882712364197,neutral,0.0023804539814591408
+23,2015-05-16 05:00:00,Windows 10 will give Microsoft a chance to bounce back when it debuts later this year.,0.900526225566864,0.019044850021600723,0.08042893558740616,positive,0.8814813494682312
+24,2015-05-16 05:00:00,But what if it fails to reinvigorate Microsoft's platform?,0.04599088057875633,0.7009068131446838,0.2531023919582367,negative,-0.6549159288406372
+25,2015-05-16 05:00:00,"As smartphones and tablets continue to grow in power and in capabilities, the Windows ecosystem will be eroded even further, eventually to the point of total irrelevancy.",0.024722319096326828,0.9432010054588318,0.03207670524716377,negative,-0.9184786677360535
+26,2015-05-16 05:00:00,"Microsoft has already had to make drastic changes to its Windows business, giving certain versions away for free, and Windows-related revenue has contracted in recent quarters.",0.017218714579939842,0.9628424644470215,0.019938869401812553,negative,-0.9456237554550171
+27,2015-05-16 05:00:00,"As a software and service provider, Microsoft can still succeed in a world without Windows, but it would be severely disadvantaged.",0.09793562442064285,0.7905963063240051,0.11146807670593262,negative,-0.6926606893539429
+28,2015-05-16 05:00:00,"One of Office's many upstart competitors succeeds
+
+Microsoft Office is a computing staple -- an indispensable tool for millions of users.",0.5136122703552246,0.019888943061232567,0.46649882197380066,positive,0.4937233328819275
+29,2015-05-16 05:00:00,"The Office business has generated tens of billions of dollars for Microsoft over the years, and that doesn't seem likely to change.",0.06606914103031158,0.017352458089590073,0.9165784120559692,neutral,0.04871668294072151
+30,2015-05-16 05:00:00,"Office 365, Microsoft's version of Office for the cloud, has enjoyed an enthusiastic uptake.",0.9400154948234558,0.02685943990945816,0.033125121146440506,positive,0.9131560325622559
+31,2015-05-16 05:00:00,"Last quarter, Microsoft reported that it had 12.4 million consumers subscribing to the service, up a stunning 35% on a sequential basis.",0.9399998784065247,0.017807723954319954,0.04219236224889755,positive,0.9221921563148499
+32,2015-05-16 05:00:00,But the Office business is not without competition.,0.24683411419391632,0.013389205560088158,0.7397766709327698,neutral,0.2334449142217636
+33,2015-05-16 05:00:00,"Google Docs isn't as powerful, but it's less expensive; Apple offers iWork.",0.0434408076107502,0.02528025582432747,0.9312789440155029,neutral,0.01816055178642273
+34,2015-05-16 05:00:00,"Neither of these alternatives have been successful in destroying Microsoft's business, but they're still something Microsoft shareholders should watch.",0.04756023362278938,0.10153311491012573,0.8509066700935364,neutral,-0.05397288128733635
+35,2015-05-16 05:00:00,"In the past, Google has explicitly declared its intention to steal the bulk of Microsoft's Office base; Apple has slowly improved iWork, recently opening it up to Windows users.",0.5648080110549927,0.021587831899523735,0.41360411047935486,positive,0.5432201623916626
+36,2015-05-16 05:00:00,"This may be the least likely possibility, but any significant challenges to the Office business could take quite a toll on Microsoft's financials.",0.03176718205213547,0.7117778658866882,0.2564549744129181,negative,-0.6800106763839722
+37,2015-05-16 05:00:00,"Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets and the coming revolution in technology.",0.06448464840650558,0.04560031369328499,0.8899150490760803,neutral,0.018884334713220596
+38,2015-05-16 05:00:00,And its stock price has nearly unlimited room to run for early in-the-know investors!,0.2101479172706604,0.016877148300409317,0.7729749083518982,neutral,0.19327077269554138
+39,2015-05-16 05:00:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+40,2015-05-16 05:00:00,The article 3 Reasons Microsoft Corporation's Stock Could Fall originally appeared on Fool.com.,0.014139680191874504,0.06241302192211151,0.9234472513198853,neutral,-0.04827333986759186
+41,2015-05-16 05:00:00,Sam Mattera has no position in any stocks mentioned.,0.008700746111571789,0.0284416526556015,0.9628576040267944,neutral,-0.019740905612707138
+42,2015-05-16 05:00:00,"The Motley Fool recommends Amazon.com, Apple, Google (A shares), Google (C shares), and Salesforce.com.",0.025741104036569595,0.01285540871322155,0.961403489112854,neutral,0.012885695323348045
+43,2015-05-16 05:00:00,"The Motley Fool owns shares of Amazon.com, Apple, Google (A shares), and Google (C shares).",0.018516015261411667,0.013007228262722492,0.9684767723083496,neutral,0.005508786998689175
+44,2015-05-16 05:00:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+45,2015-05-16 05:00:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+46,2015-05-16 05:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+47,2015-05-16 05:00:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+48,2015-05-16 05:00:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+49,2015-05-16 05:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+50,2015-05-16 05:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,82 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-10-19 09:00:00,"Even after the market's late-summer correction, many technology stocks are trading at astronomical valuations.",0.09576164931058884,0.1318427324295044,0.7723956108093262,neutral,-0.03608108311891556
+1,2015-10-19 09:00:00,"Based on estimated year-ahead profits, the price-earnings ratio of Standard & Poor's 500-stock index is 16, which means that investors have to pay $16 to purchase $1 of the average firm's estimated profits.",0.04004668816924095,0.21159511804580688,0.7483581900596619,neutral,-0.17154842615127563
+2,2015-10-19 09:00:00,"By contrast, the P/E for Amazon.com ( AMZN ) is 150; for Netflix ( NFLX ), it's 241; for Salesforce.com ( CRM ), it's 82.",0.022341324016451836,0.07983550429344177,0.8978231549263,neutral,-0.05749417841434479
+3,2015-10-19 09:00:00,"See Also: Best Funds for a Bear Market
+
+Does that mean you should shun such stocks, which seem obscenely overpriced?",0.052424605935811996,0.36940163373947144,0.5781737565994263,neutral,-0.31697702407836914
+4,2015-10-19 09:00:00,Emphatically not.,0.10699329525232315,0.21883274614810944,0.6741740107536316,neutral,-0.11183945089578629
+5,2015-10-19 09:00:00,"Standard measures of valuing stocks simply do not apply to fast-growing companies, and you risk passing up promising investments when you eliminate stocks because they look to be statistically expensive.",0.038006458431482315,0.12128100544214249,0.8407125473022461,neutral,-0.08327454328536987
+6,2015-10-19 09:00:00,Facebook ( FB ) offers a good example.,0.247720867395401,0.009512970224022865,0.7427661418914795,neutral,0.2382078915834427
+7,2015-10-19 09:00:00,The stock went public in May 2012 at $38 per share.,0.046490151435136795,0.004886346403509378,0.9486234784126282,neutral,0.041603803634643555
+8,2015-10-19 09:00:00,"In 2013, Facebook earned 60 cents a share.",0.04430657997727394,0.015748169273138046,0.9399452209472656,neutral,0.028558410704135895
+9,2015-10-19 09:00:00,"Divide $38 by 60 cents, and you get a forward P/E at the time of the initial offering of 63.",0.04323399439454079,0.00751921720802784,0.9492468237876892,neutral,0.0357147753238678
+10,2015-10-19 09:00:00,"You might have passed up the shares as too rich, but they now trade at $88 and sell for 37 times estimated year-ahead earnings.",0.0681404173374176,0.04057099670171738,0.8912886381149292,neutral,0.027569420635700226
+11,2015-10-19 09:00:00,(Prices and related data are as of September 3; stocks in boldface are those I recommend.),0.008921911008656025,0.01792711205780506,0.9731509685516357,neutral,-0.009005201049149036
+12,2015-10-19 09:00:00,"Of course, I could have just as easily cherry-picked high P/E companies that have tumbled or even gone out of business.",0.04731930047273636,0.344611257314682,0.6080694198608398,neutral,-0.29729196429252625
+13,2015-10-19 09:00:00,I chose Facebook not merely because it performed well but because there were ways you could have anticipated its rise--or at least understood that a high P/E was no reason to ignore the stock.,0.7213966250419617,0.015664083883166313,0.26293933391571045,positive,0.705732524394989
+14,2015-10-19 09:00:00,There are three indicators of an excellent stock that trump standard value measures.,0.03466048091650009,0.013671944849193096,0.9516675472259521,neutral,0.02098853513598442
+15,2015-10-19 09:00:00,Let's take them in order of importance.,0.037267886102199554,0.007283311802893877,0.9554487466812134,neutral,0.029984574764966965
+16,2015-10-19 09:00:00,Powerfully rising revenues.,0.8739264011383057,0.024993887171149254,0.10107969492673874,positive,0.8489325046539307
+17,2015-10-19 09:00:00,Increasing sales--preferably at a double-digit percentage rate--are the most important sign of a company's health.,0.6726678013801575,0.01402624323964119,0.31330597400665283,positive,0.6586415767669678
+18,2015-10-19 09:00:00,"A firm can manipulate earnings in the short term by, for example, shifting costs into the future, but it's difficult to distort sales.",0.031691137701272964,0.0305162463337183,0.9377925992012024,neutral,0.0011748913675546646
+19,2015-10-19 09:00:00,"Again, look at Facebook.",0.06331147253513336,0.05617139860987663,0.8805171847343445,neutral,0.007140073925256729
+20,2015-10-19 09:00:00,"Revenues jumped 37% in 2012, then 55% the next year, 58% the next and, based on analyst estimates, they will rise another 38% in 2015, to $17.2 billion.",0.9400594234466553,0.017420226708054543,0.04252035543322563,positive,0.9226391911506653
+21,2015-10-19 09:00:00,No wonder the stock more than doubled.,0.783768892288208,0.03235428035259247,0.18387684226036072,positive,0.7514145970344543
+22,2015-10-19 09:00:00,"Amazon is an even better example because its CEO, Jeff Bezos, doesn't appear to care about profits.",0.04333445429801941,0.6632542610168457,0.2934112250804901,negative,-0.6199197769165039
+23,2015-10-19 09:00:00,He's spending a lot of money to build a giant company to dominate retailing and the cloud.,0.38555145263671875,0.00956651195883751,0.604882001876831,neutral,0.37598493695259094
+24,2015-10-19 09:00:00,What comforts investors is that Amazon's revenues have more than tripled in the past five years--even though the company barely makes a profit.,0.861011266708374,0.02012179046869278,0.11886702477931976,positive,0.8408894538879395
+25,2015-10-19 09:00:00,The stock price has quadrupled.,0.7728515267372131,0.1223585233092308,0.10478992015123367,positive,0.6504930257797241
+26,2015-10-19 09:00:00,Ditto Netflix.,0.12547039985656738,0.10823141783475876,0.7662981748580933,neutral,0.017238982021808624
+27,2015-10-19 09:00:00,"Its earnings are anemic, but its revenues have, like Amazon's, roughly tripled in the past five years, while the stock has quintupled.",0.6349265575408936,0.050292178988456726,0.3147812783718109,positive,0.5846343636512756
+28,2015-10-19 09:00:00,"A great, innovative idea.",0.8281235098838806,0.014201557263731956,0.1576748937368393,positive,0.8139219284057617
+29,2015-10-19 09:00:00,I can ignore a high P/E if a company has a fabulous new idea for a business.,0.1768101304769516,0.027868181467056274,0.7953217029571533,neutral,0.14894194900989532
+30,2015-10-19 09:00:00,"That is certainly the case with Amazon, Facebook, Netflix and Zillow ( Z ), the online research hub for home buyers.",0.03307565301656723,0.014001120813190937,0.9529232382774353,neutral,0.019074533134698868
+31,2015-10-19 09:00:00,"Naturally, great ideas are in the eye of the beholder, and you are bound to make mistakes.",0.10864550620317459,0.3235505223274231,0.5678039193153381,neutral,-0.2149050235748291
+32,2015-10-19 09:00:00,"My point is that a homebuilder or an oil company is never going to be worth a P/E of 50 or 100, no matter how well it is run.",0.05305342376232147,0.01877964846789837,0.9281669855117798,neutral,0.034273773431777954
+33,2015-10-19 09:00:00,But a business that develops a miniature battery that can power a car for 200 miles certainly could be.,0.07309303432703018,0.013748341239988804,0.913158655166626,neutral,0.05934469401836395
+34,2015-10-19 09:00:00,Fast-rising profits.,0.779079020023346,0.03505696728825569,0.18586400151252747,positive,0.7440220713615417
+35,2015-10-19 09:00:00,"Profits for fast growers are less important than revenues, but they still count.",0.03598947823047638,0.09713279455900192,0.8668777942657471,neutral,-0.06114331632852554
+36,2015-10-19 09:00:00,"A rule of thumb is that, even if a company's P/E is above average for the market, a stock is reasonably priced, or even undervalued, if the P/E is lower than the company's expected earnings growth rate over the next three to five years.",0.13901855051517487,0.20783881843090057,0.6531426310539246,neutral,-0.06882026791572571
+37,2015-10-19 09:00:00,The P/E-to-growth-rate (or PEG) ratio measures this relationship.,0.06539800018072128,0.006534259300678968,0.928067684173584,neutral,0.05886374041438103
+38,2015-10-19 09:00:00,"You'll rarely find a PEG ratio below 1.0 for companies that are growing superfast, such as Facebook, because their P/Es are so high.",0.10542544722557068,0.0852324590086937,0.8093421459197998,neutral,0.020192988216876984
+39,2015-10-19 09:00:00,"But a PEG ratio below, say, 1.5 indicates that a stock may be a bargain.",0.13014087080955505,0.24824866652488708,0.6216104626655579,neutral,-0.11810779571533203
+40,2015-10-19 09:00:00,Facebook's PEG is 1.5.,0.04130568355321884,0.010725767351686954,0.9479685425758362,neutral,0.03057991713285446
+41,2015-10-19 09:00:00,"Beware, however, of the limitations of PEG ratios.",0.025701289996504784,0.018814483657479286,0.9554842710494995,neutral,0.0068868063390254974
+42,2015-10-19 09:00:00,"Companies with turbocharged revenue growth, such as Amazon and Netflix, as well as Zillow and LinkedIn ( LNKD ), may have few or no profits today, so estimating what they will earn in three to five years is often a fool's errand.",0.04087722301483154,0.668912410736084,0.2902103066444397,negative,-0.6280351877212524
+43,2015-10-19 09:00:00,"PEG ratios are also of limited value for cyclical companies, whose fortunes wax and wane with the overall health of the economy.",0.022716546431183815,0.7099429368972778,0.2673405110836029,negative,-0.687226414680481
+44,2015-10-19 09:00:00,"In determining whether to invest in a high-priced, fast-growing company, I also look at the balance sheet.",0.047456707805395126,0.004906178452074528,0.947637140750885,neutral,0.04255053028464317
+45,2015-10-19 09:00:00,"Young, high-tech companies need, like sharks, to keep moving constantly.",0.28967294096946716,0.01897280663251877,0.6913542747497559,neutral,0.2707001268863678
+46,2015-10-19 09:00:00,"If they aren't investing to maintain rapid growth, competitors may eat them.",0.09105972200632095,0.23104114830493927,0.6778991222381592,neutral,-0.13998141884803772
+47,2015-10-19 09:00:00,Many companies with high P/Es have excellent balance sheets.,0.6932998895645142,0.012634774670004845,0.29406535625457764,positive,0.680665135383606
+48,2015-10-19 09:00:00,"Facebook has a mere $149 million in debt, with just $7 million in annual interest payments---a pittance for a company that is expected to earn more than $3 billion this year.",0.022113770246505737,0.8339792490005493,0.14390695095062256,negative,-0.8118654489517212
+49,2015-10-19 09:00:00,Facebook's cash hoard is $14 billion.,0.022706633433699608,0.026756081730127335,0.9505372047424316,neutral,-0.004049448296427727
+50,2015-10-19 09:00:00,"LinkedIn has $1.1 billion in debt and is expected to lose nearly $200 million this year, but it's also sitting on $3 billion in cash.",0.022312326356768608,0.8768966197967529,0.10079101473093033,negative,-0.854584276676178
+51,2015-10-19 09:00:00,Also remember that rapid growth does not last forever.,0.05325109511613846,0.007097784895449877,0.9396511912345886,neutral,0.04615331068634987
+52,2015-10-19 09:00:00,Even the best companies transition to a more stately stage that demands lower prices.,0.19176357984542847,0.03205765038728714,0.776178777217865,neutral,0.15970593690872192
+53,2015-10-19 09:00:00,"According to the Value Line Investment Survey, Google ( GOOGL ) generated annualized earnings growth of 47% over the past 10 years.",0.9221382737159729,0.014289031736552715,0.06357268244028091,positive,0.9078492522239685
+54,2015-10-19 09:00:00,But analysts on average expect growth of just 17.5% a year over the next few years.,0.29067280888557434,0.06639492511749268,0.6429322957992554,neutral,0.22427788376808167
+55,2015-10-19 09:00:00,"Any earnings growth rate over 10% is impressive, and Google's forward P/E, at 21, seems fair, or even a bit low.",0.1094464361667633,0.6416398286819458,0.2489136904478073,negative,-0.5321934223175049
+56,2015-10-19 09:00:00,"(For more on Google, see Three Great Future Dividend Payers .)",0.05301869288086891,0.021962041035294533,0.9250192046165466,neutral,0.03105665184557438
+57,2015-10-19 09:00:00,"Also, I feel more comfortable with high-valuation tech stocks than non-tech companies.",0.3855432868003845,0.014685619622468948,0.5997711420059204,neutral,0.3708576560020447
+58,2015-10-19 09:00:00,"Because the Internet is global and distribution is so inexpensive, a tech company can expand to billions of customers.",0.5601557493209839,0.012016046792268753,0.42782822251319885,positive,0.5481396913528442
+59,2015-10-19 09:00:00,"Not so a hamburger chain such as Shake Shack ( SHAK ), which has a P/E of 178, or an automobile manufacturer--even an innovative one, such as Tesla Motors ( TSLA ), which sells for 356 times estimated earnings.",0.1354999989271164,0.008204106241464615,0.8562958240509033,neutral,0.12729589641094208
+60,2015-10-19 09:00:00,Vulnerable in downturns.,0.04863324761390686,0.01605384424328804,0.9353128671646118,neutral,0.03257940337061882
+61,2015-10-19 09:00:00,"Finally, remember that when the market turns down, stocks with high valuations get clobbered.",0.05689146742224693,0.14775420725345612,0.7953543663024902,neutral,-0.09086273610591888
+62,2015-10-19 09:00:00,"For example, during the 2007-09 bear market, shares of Amazon plunged from $101 to $35, a drop of 65%.",0.01736438274383545,0.973127007484436,0.00950857438147068,negative,-0.9557626247406006
+63,2015-10-19 09:00:00,"This year, when the S&P 500 dropped 11% between August 17 and August 25, many high P/E stocks lost more.",0.02232297696173191,0.9658655524253845,0.01181136816740036,negative,-0.9435425996780396
+64,2015-10-19 09:00:00,"Netflix, for instance, tumbled 23%, and Twitter ( TWTR ) surrendered 16%.",0.02739419788122177,0.9433821439743042,0.02922360599040985,negative,-0.9159879684448242
+65,2015-10-19 09:00:00,"The best time to buy a fast-growing tech stock (or any stock, for that matter) is when the market hates it.",0.1680506467819214,0.022281421348452568,0.8096678853034973,neutral,0.14576922357082367
+66,2015-10-19 09:00:00,"That's certainly the case with Twitter, which is so unloved that it's my favorite high-growth company.",0.08436554670333862,0.02077515982091427,0.8948593139648438,neutral,0.0635903850197792
+67,2015-10-19 09:00:00,"Twitter has never made a profit (based on generally accepted accounting principles), but its revenues have risen from $317 million in 2012, the year before it went public, to a projected $2.2 billion in 2015 and $3.2 billion next year.",0.9060726165771484,0.014810418710112572,0.07911694794893265,positive,0.8912621736526489
+68,2015-10-19 09:00:00,"Twitter's balance sheet is not the best, but it does feature $3.6 billion in cash, compared with $1.6 billion in debt.",0.15452484786510468,0.08166853338479996,0.7638065814971924,neutral,0.07285631448030472
+69,2015-10-19 09:00:00,Also look at Twitter's market value.,0.03874463960528374,0.009625634178519249,0.9516296982765198,neutral,0.029119005426764488
+70,2015-10-19 09:00:00,"At $19 billion, it's about 8% the size of Facebook's.",0.08698128908872604,0.006046518683433533,0.9069722294807434,neutral,0.08093477040529251
+71,2015-10-19 09:00:00,And Twitter has a great idea (short messages disseminated immediately and globally); it just doesn't have a great business.,0.0879477933049202,0.02627771534025669,0.8857744932174683,neutral,0.061670079827308655
+72,2015-10-19 09:00:00,At least not yet.,0.1565825492143631,0.25952789187431335,0.5838895440101624,neutral,-0.10294534265995026
+73,2015-10-19 09:00:00,But profits are a lot easier to come by when your revenues are growing by 50% a year.,0.455740362405777,0.02135630138218403,0.522903323173523,neutral,0.4343840479850769
+74,2015-10-19 09:00:00,"James K. Glassman, a visiting fellow at the American Enterprise Institute, is the author, most recently, of Safety Net: The Strategy for De-Risking Your Investments in a Time of Turbulence.",0.12026365101337433,0.011966748163104057,0.8677695989608765,neutral,0.10829690098762512
+75,2015-10-19 09:00:00,He owns shares of Netflix.,0.030814718455076218,0.00821006577461958,0.960975170135498,neutral,0.022604651749134064
+76,2015-10-19 09:00:00,"See Also: How to Play Defense in a Rocky Stock Market
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011462721042335033,0.01622721366584301,0.9723100662231445,neutral,-0.0047644926235079765

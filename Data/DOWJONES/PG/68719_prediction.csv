@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-15 06:32:00,Merck KGaAMKGAF reported first-quarter 2018 earnings of $1.73 per American Depositary Share.,0.09115243703126907,0.012012023478746414,0.8968355655670166,neutral,0.07914040982723236
+1,2018-05-15 06:32:00,Earnings per share declined 21.7% in local currency.,0.017749901860952377,0.9726019501686096,0.009648214094340801,negative,-0.9548520445823669
+2,2018-05-15 06:32:00,"Net sales in the reported quarter came in at €3.7 billion ($4.5 billion), down 4.4%, including unfavorable foreign exchange which hurt sales by 7.9%.",0.018674200400710106,0.9717909097671509,0.0095348060131073,negative,-0.9531167149543762
+3,2018-05-15 06:32:00,"However, organic sales growth of 3.5% was driven by the Healthcare and Life Science segment.",0.3036397099494934,0.014509115368127823,0.6818511486053467,neutral,0.2891305983066559
+4,2018-05-15 06:32:00,Shares of the company have underperformed the industry so far this year.,0.2171543836593628,0.7379722595214844,0.044873327016830444,negative,-0.5208178758621216
+5,2018-05-15 06:32:00,The company declined 7.1% while the industry increased 0.8% in the same period.,0.28448182344436646,0.6622940301895142,0.05322415009140968,negative,-0.3778122067451477
+6,2018-05-15 06:32:00,"The company reports results under three segments - Healthcare, Life Science and Performance Materials.",0.015044547617435455,0.0073660132475197315,0.9775894284248352,neutral,0.007678534369915724
+7,2018-05-15 06:32:00,"The Healthcare division recorded sales of €1.6 billion, down 5.5% year over year due to a negative impact of 7.2% of foreign exchange rate.",0.017099453136324883,0.9725573658943176,0.010343181900680065,negative,-0.9554579257965088
+8,2018-05-15 06:32:00,"However, organically, sales at the segment were up 1.8%.",0.9559760689735413,0.01942863129079342,0.02459517866373062,positive,0.9365474581718445
+9,2018-05-15 06:32:00,Erbitux's sales were down 8.3% from the year-ago period to €200 million due to negative currency movement of 5.4%.,0.017780687659978867,0.9728459119796753,0.009373486042022705,negative,-0.9550652503967285
+10,2018-05-15 06:32:00,"Moreover, organically sales were down 2.9% due to increased competition and pricing pressure.",0.017169587314128876,0.9721326231956482,0.0106977429240942,negative,-0.9549630284309387
+11,2018-05-15 06:32:00,"Rebif sales came in at €348 million, down 16.1% due to organic decline of 6.7% and negative currency impact of 9.4%.",0.01863260567188263,0.9720725417137146,0.0092948442324996,negative,-0.9534399509429932
+12,2018-05-15 06:32:00,Gonal-f sales were down 2.9% to €166 million.,0.016388805583119392,0.970496416091919,0.01311474572867155,negative,-0.9541075825691223
+13,2018-05-15 06:32:00,"Organic sales were up 5.7% due to higher sales in North America, offset by unfavorable currency impact of 8.6%.",0.9465647339820862,0.034878719598054886,0.018556592985987663,positive,0.9116860032081604
+14,2018-05-15 06:32:00,"Newly launched Bavencio and Mavenclad registered sales of €12 million and €13 million, respectively.",0.14360268414020538,0.006504433695226908,0.8498929142951965,neutral,0.1370982527732849
+15,2018-05-15 06:32:00,"Sales at the Life Science segment amounted to €1.5 billion, up a mere 0.4% driven by growth in all business segments, partially offset by an unfavorable foreign exchange effect of 8.4%.",0.9502266049385071,0.027171799913048744,0.022601542994379997,positive,0.9230548143386841
+16,2018-05-15 06:32:00,"On an organic basis, the segment witnessed sales growth of 8.8%.",0.9499499201774597,0.016504820436239243,0.033545251935720444,positive,0.9334450960159302
+17,2018-05-15 06:32:00,"Process Solutions and Applied Solutions business recorded organic sales growth of 14.1% and 7.3%, respectively.",0.8960210084915161,0.01533918734639883,0.08863982558250427,positive,0.8806818127632141
+18,2018-05-15 06:32:00,The Research Solutions business registered organic growth of 4.3%.,0.8991931676864624,0.012957792729139328,0.08784900605678558,positive,0.8862353563308716
+19,2018-05-15 06:32:00,All the segments were impacted unfavorably due to currency movement.,0.02524232305586338,0.9165988564491272,0.05815885215997696,negative,-0.8913565278053284
+20,2018-05-15 06:32:00,Sales in the Performance Materials segment were down 12.5% to €564 million.,0.016913313418626785,0.9728235602378845,0.010263081640005112,negative,-0.9559102654457092
+21,2018-05-15 06:32:00,"Organically, the segment witnessed a 4% decline in sales and an unfavorable currency impact of 8.5%
+
+In April 2018, the company entered into an agreement with Procter & Gamble PG to divest its Consumer Health business.",0.1355849951505661,0.7534811496734619,0.11093386262655258,negative,-0.6178961396217346
+22,2018-05-15 06:32:00,The sale will be an all-cash deal worth €3.4 billion.,0.13294582068920135,0.005139220040291548,0.8619149327278137,neutral,0.12780660390853882
+23,2018-05-15 06:32:00,The transaction is expected to close by the end of this year.,0.019660230726003647,0.0059288907796144485,0.974410891532898,neutral,0.013731339946389198
+24,2018-05-15 06:32:00,"In January, Bavencio received approval in Australia for the treatment of metastatic merkel cell carcinoma (mMCC).",0.5954796075820923,0.017176155000925064,0.38734424114227295,positive,0.5783034563064575
+25,2018-05-15 06:32:00,"With this approval, the drug is approved in six countries for mMCC including EU and the United States.",0.7742680907249451,0.011378745548427105,0.21435312926769257,positive,0.7628893256187439
+26,2018-05-15 06:32:00,The drug is also approved for urothelial carcinoma in the United States.,0.5483047962188721,0.013677389360964298,0.4380178153514862,positive,0.534627377986908
+27,2018-05-15 06:32:00,"Merck KGaA is evaluating its immuno-oncology drug, Bavencio (avelumab), in a number of phase III studies for several cancer indications under its partnership with Pfizer Inc. PFE .",0.36713680624961853,0.0075079770758748055,0.6253551840782166,neutral,0.359628826379776
+28,2018-05-15 06:32:00,"In March, the company received €50 million in milestone payment from BioMarin, Inc. BMRN as the latter announced the acceptance of a marketing authorization application for Peg-Pal for the treatment of phenylketonuria by the EMA.",0.8965595960617065,0.01212003082036972,0.09132035076618195,positive,0.8844395875930786
+29,2018-05-15 06:32:00,"The company expects to submit regulatory application seeking approval of Cladribine tablets for the treatment of relapsing multiple sclerosis (""RMS"") in the United States in the second quarter of 2018.",0.4405299127101898,0.010182117111980915,0.5492879748344421,neutral,0.4303478002548218
+30,2018-05-15 06:32:00,The drug is already approved in EU.,0.4159865379333496,0.010447029024362564,0.5735664367675781,neutral,0.40553951263427734
+31,2018-05-15 06:32:00,"During the quarter, the company faced anti-trust review in Europe related to the acquisition of Sigma-Aldrich in 2015.",0.08480306714773178,0.7365401983261108,0.17865674197673798,negative,-0.6517371535301208
+32,2018-05-15 06:32:00,Merck is estimated to pay fines in double digit millions for incorrect or misleading information in connection with an innovation project.,0.029066000133752823,0.938086211681366,0.032847728580236435,negative,-0.909020185470581
+33,2018-05-15 06:32:00,Merck KGaA provided its guidance for 2018.,0.018568089231848717,0.005854036193341017,0.9755778908729553,neutral,0.012714052572846413
+34,2018-05-15 06:32:00,The company expects net sales in the range of €14 - €14.5 billion including organic growth of 3% - 5% and a negative currency impact of 4% to 6%.,0.18043147027492523,0.007730311714112759,0.8118382096290588,neutral,0.1727011650800705
+35,2018-05-15 06:32:00,The company anticipates earnings per share to be in the range of €5.00 - €5.40.,0.1588037759065628,0.007595889735966921,0.8336003422737122,neutral,0.15120787918567657
+36,2018-05-15 06:32:00,The financial outlook excludes sales and earnings from Consumer Health business.,0.008498291485011578,0.03830020874738693,0.9532015323638916,neutral,-0.02980191633105278
+37,2018-05-15 06:32:00,More Stock News: This Is Bigger than the iPhone!,0.3262152671813965,0.02558426558971405,0.648200511932373,neutral,0.30063098669052124
+38,2018-05-15 06:32:00,It could become the mother of all technological revolutions.,0.3357715904712677,0.018597140908241272,0.6456312537193298,neutral,0.31717443466186523
+39,2018-05-15 06:32:00,"Apple sold a mere 1 billion iPhones in 10 years but a new breakthrough is expected to generate more than 27 billion devices in just 3 years, creating a $1.7 trillion market.",0.5349074602127075,0.016818122938275337,0.4482743740081787,positive,0.5180893540382385
+40,2018-05-15 06:32:00,Zacks has just released a Special Report that spotlights this fast-emerging phenomenon and 6 tickers for taking advantage of it.,0.21044442057609558,0.009386956691741943,0.7801685333251953,neutral,0.20105746388435364
+41,2018-05-15 06:32:00,"If you don't buy now, you may kick yourself in 2020.",0.08301617205142975,0.28448015451431274,0.6325036883354187,neutral,-0.201463982462883
+42,2018-05-15 06:32:00,"Click here for the 6 trades >>
+
+Want the latest recommendations from Zacks Investment Research?",0.02286970056593418,0.016098618507385254,0.9610316753387451,neutral,0.006771082058548927
+43,2018-05-15 06:32:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+44,2018-05-15 06:32:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+45,2018-05-15 06:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

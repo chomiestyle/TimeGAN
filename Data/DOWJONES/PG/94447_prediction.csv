@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-08-17 06:30:00,The truth will make you sick.,0.13617095351219177,0.32797616720199585,0.53585284948349,neutral,-0.19180521368980408
+1,2012-08-17 06:30:00,Congress is rich -- unbelievably rich.,0.6773136258125305,0.016896095126867294,0.3057902753353119,positive,0.6604175567626953
+2,2012-08-17 06:30:00,"According to the Center for Responsive Politics, 249 of the 535 congressmen are millionaires.",0.08199698477983475,0.024632899090647697,0.8933701515197754,neutral,0.0573640838265419
+3,2012-08-17 06:30:00,That's 47%.,0.059481166303157806,0.011420143768191338,0.9290986657142639,neutral,0.04806102067232132
+4,2012-08-17 06:30:00,"By comparison, about 5% of U.S. households are worth more than $1 million.",0.03787049651145935,0.012175251729786396,0.9499542713165283,neutral,0.02569524571299553
+5,2012-08-17 06:30:00,"And until recently,insider trading laws didn't apply to congress.",0.028540359809994698,0.08927574753761292,0.8821839094161987,neutral,-0.06073538959026337
+6,2012-08-17 06:30:00,They could buy or sell investments based on non-public information they learned from their privileged positions.,0.01673450879752636,0.0077201868407428265,0.975545346736908,neutral,0.009014321491122246
+7,2012-08-17 06:30:00,"As you would expect, that's led to some great returns for Congress' investments.",0.9243764281272888,0.014622502960264683,0.06100104749202728,positive,0.9097539186477661
+8,2012-08-17 06:30:00,"In a study cited by Barron's, members of the U.S. House of Representatives beat investors like you and me by 55 basis points a month.",0.7573702335357666,0.08466415107250214,0.15796561539173126,positive,0.6727060675621033
+9,2012-08-17 06:30:00,That comes out to an extra 6.8% per year.,0.6445318460464478,0.021195851266384125,0.33427223563194275,positive,0.6233360171318054
+10,2012-08-17 06:30:00,I don't know which is worse: the fact that insider trading was legal for some of our nation's wealthiest politicians... or that Congress refused to do anything about it for decades.,0.06558553129434586,0.4955388903617859,0.43887564539909363,negative,-0.42995336651802063
+11,2012-08-17 06:30:00,"I even wrote about this problem back in July 2011, after doing research into how congressmen invest.",0.04073941335082054,0.020544813945889473,0.9387157559394836,neutral,0.02019459940493107
+12,2012-08-17 06:30:00,"Then, in late 2011, 60 Minutes -- one of the most-respected investigative journalism programs on TV -- dedicated a segment to the issue.",0.11706651747226715,0.022900160402059555,0.8600333333015442,neutral,0.0941663533449173
+13,2012-08-17 06:30:00,"Here's a portion of what they had to say...
+
+""In mid September 2008, with the Dow Jones Industrial Average still above 10,000, Treasury Secretary Hank Paulson and Federal Reserve Chairman Ben Bernanke were holding closed-door briefings with congressional leaders, and privately warning them that a global financial meltdown could occur within a few days.",0.12444901466369629,0.4179477095603943,0.45760324597358704,neutral,-0.293498694896698
+14,2012-08-17 06:30:00,"One of those attending was Alabama Representative Spencer Bachus, then the ranking Republican member on the House Financial Services Committee and now its chairman.",0.09774373471736908,0.02649533562362194,0.8757609128952026,neutral,0.07124839723110199
+15,2012-08-17 06:30:00,"""""While Congressman Bachus was publicly trying to keep theeconomy from cratering, he was privately betting that it would, buyingoption funds that would go up in value if themarket went down.",0.30308783054351807,0.07753197848796844,0.6193801760673523,neutral,0.22555585205554962
+16,2012-08-17 06:30:00,"He would make a variety of trades and profited at a time when most Americans were losing their shirts.""",0.13108934462070465,0.023868151009082794,0.8450424671173096,neutral,0.10722119361162186
+17,2012-08-17 06:30:00,And that was just one example of what was happening on both sides of the aisle.,0.0857042744755745,0.13051576912403107,0.7837799787521362,neutral,-0.044811494648456573
+18,2012-08-17 06:30:00,The report from 60 Minutes led to a frenzy.,0.1906151920557022,0.3467562794685364,0.462628573179245,neutral,-0.15614108741283417
+19,2012-08-17 06:30:00,"And a few months after the story aired, the Stop Trading On Congressional Knowledge (STOCK) Act, which curbed insider trading by Congress, was signed into law.",0.3617466986179352,0.05602999031543732,0.5822232961654663,neutral,0.30571669340133667
+20,2012-08-17 06:30:00,"Of course, for many years, the rules required all members of Congress (along with some of their higher-paid aides) to publicly disclose information on their finances each year -- including stock holdings.",0.02230329066514969,0.030530858784914017,0.9471657872200012,neutral,-0.008227568119764328
+21,2012-08-17 06:30:00,"Thankfully, the STOCK Act strengthened this requirement.",0.8709618449211121,0.02017705887556076,0.10886111855506897,positive,0.8507847785949707
+22,2012-08-17 06:30:00,"Not only did it eliminate insider trading, but Congress must now disclose their trades within 45 days after they happen.",0.052221521735191345,0.017460651695728302,0.9303178191184998,neutral,0.03476087003946304
+23,2012-08-17 06:30:00,"That means we have an opportunity to see exactly what our ""representatives"" are buying.",0.23768623173236847,0.00798091571778059,0.7543328404426575,neutral,0.2297053188085556
+24,2012-08-17 06:30:00,But what may surprise you is that the most popular stocks owned by Congress aren't exclusive investments only being bought by the elite.,0.02826669067144394,0.006961418315768242,0.9647719264030457,neutral,0.021305272355675697
+25,2012-08-17 06:30:00,The table above shows the most widely held stocks owned by Congress in 2010 (2011 data hasn't been published yet).,0.013517803512513638,0.010728592053055763,0.9757535457611084,neutral,0.0027892114594578743
+26,2012-08-17 06:30:00,"Keep in mind this was before Congress passed the STOCK Act...
+
+As you can see, each stock on the list is a majorcorporation .",0.02337712049484253,0.008158252574503422,0.9684646129608154,neutral,0.015218867920339108
+27,2012-08-17 06:30:00,So how is it that Congress can earn higher returns owning some of the most well-known companies on the planet?,0.5453836917877197,0.030707506462931633,0.42390871047973633,positive,0.5146762132644653
+28,2012-08-17 06:30:00,"As I've shown you, it's very likely Congress has helped themselves for years by trading on non-public information.",0.282492458820343,0.020273538306355476,0.697234034538269,neutral,0.2622189223766327
+29,2012-08-17 06:30:00,"But I think there is likely another reason why Congress is outperforming regular investors...
+
+You see, some of the best returns for politicians, based on their own financial disclosures, come from owning well-known, profitable businesses for the long haul.",0.5307614803314209,0.01897004060447216,0.4502684772014618,positive,0.511791467666626
+30,2012-08-17 06:30:00,"Take Representative Lloyd Doggett (D-TX), for example.",0.04738703370094299,0.04371027275919914,0.908902645111084,neutral,0.0036767609417438507
+31,2012-08-17 06:30:00,"According to financial disclosure statements, he's owned a stake in Procter & Gamble ( PG ) since May 2000.",0.017023056745529175,0.0072729019448161125,0.9757040739059448,neutral,0.009750154800713062
+32,2012-08-17 06:30:00,And he still owned a stake as of his most recent disclosure filed in 2011.,0.022319834679365158,0.012479514814913273,0.965200662612915,neutral,0.009840319864451885
+33,2012-08-17 06:30:00,"In that time, the United States experienced two recessions, two wars, and high unemployment.",0.09047535061836243,0.6148384809494019,0.29468613862991333,negative,-0.5243631601333618
+34,2012-08-17 06:30:00,"Yet, Procter & Gamble's total return during that period was over 140%.",0.3577973544597626,0.015567723661661148,0.626634955406189,neutral,0.3422296345233917
+35,2012-08-17 06:30:00,"For comparison, the S&P 500 gained less than 10% during that time.",0.25704696774482727,0.6107805371284485,0.13217249512672424,negative,-0.3537335693836212
+36,2012-08-17 06:30:00,"And it's a similar story for Representative Jon Kyl (R-AZ), who boughtshares of Wells Fargo ( WFC ) in May 2001.",0.04072100296616554,0.009166376665234566,0.9501126408576965,neutral,0.03155462443828583
+37,2012-08-17 06:30:00,He still holds a stake in the company today.,0.04110294207930565,0.006009300239384174,0.9528877139091492,neutral,0.03509364277124405
+38,2012-08-17 06:30:00,"Over that span, Wells Fargo has returned about 75% -- despite the problems in the banking sector.",0.9228827357292175,0.03557656705379486,0.041540686041116714,positive,0.8873061537742615
+39,2012-08-17 06:30:00,That's more than triple the S&P's return of roughly 20%.,0.8209913372993469,0.018285129219293594,0.16072353720664978,positive,0.8027061820030212
+40,2012-08-17 06:30:00,There is no definitive answer as to how long the average congressman holds a stock.,0.01399778202176094,0.03997029736638069,0.946031928062439,neutral,-0.02597251534461975
+41,2012-08-17 06:30:00,"But in my research, holding for the long-term seems to be the rule for Congress, not the exception.",0.021735647693276405,0.015971550717949867,0.9622928500175476,neutral,0.005764096975326538
+42,2012-08-17 06:30:00,"And the simple fact is, the longer you hold an investment, the more likely you are to make money.",0.08930546045303345,0.02988600917160511,0.8808085322380066,neutral,0.059419453144073486
+43,2012-08-17 06:30:00,A recent study by investment firm Oppenheimer showed that the S&P 500 has never suffered a loss in a 20-year period (measured in rolling monthly periods).,0.16278208792209625,0.694710373878479,0.14250758290290833,negative,-0.531928300857544
+44,2012-08-17 06:30:00,Their study went all the way back to 1950.,0.0758114755153656,0.014683119021356106,0.9095054268836975,neutral,0.06112835556268692
+45,2012-08-17 06:30:00,And each of the six stocks listed above has a positive 20-year return.,0.87697434425354,0.015060711652040482,0.10796485841274261,positive,0.8619136214256287
+46,2012-08-17 06:30:00,"Cisco returned more than 2,500% during that period.",0.5875415802001953,0.019609609618782997,0.39284878969192505,positive,0.5679319500923157
+47,2012-08-17 06:30:00,And General Electric -- despite being more than 100 years old -- has still delivered a 480% return during the past two decades.,0.9260137677192688,0.01600724831223488,0.05797898769378662,positive,0.9100065231323242
+48,2012-08-17 06:30:00,Action to Take --> That's not to say every stock will automatically go up because you hold for a long time.,0.07789165526628494,0.02538764663040638,0.8967207074165344,neutral,0.05250401049852371
+49,2012-08-17 06:30:00,But owning great businesses -- and letting their returns grow year after year -- looks to be the best way to make money in the market... even if you're a member of Congress.,0.27412688732147217,0.010971126146614552,0.7149019241333008,neutral,0.2631557583808899
+50,2012-08-17 06:30:00,"[Note: While most of Congress earns above-average returns investing in public markets, Mitt Romney and many other rich investors are making even MORE money somewhere else.",0.15549726784229279,0.04538559168577194,0.7991170883178711,neutral,0.11011167615652084
+51,2012-08-17 06:30:00,"These elite investors are buying into an entirely separate ""underground"" stock market.",0.08112789690494537,0.010412638075649738,0.9084594249725342,neutral,0.07071525603532791
+52,2012-08-17 06:30:00,"For years, this market has been off-limits to retail investors like you and me.",0.025187967345118523,0.0360749252140522,0.9387370944023132,neutral,-0.010886957868933678
+53,2012-08-17 06:30:00,"But thanks to StreetAuthority's latest research, we've found a way you invest in this underground market.",0.3968591094017029,0.008478657342493534,0.5946622490882874,neutral,0.3883804380893707
+54,2012-08-17 06:30:00,"To learn more, click here now.]",0.05748333781957626,0.04843617603182793,0.8940804600715637,neutral,0.009047161787748337
+55,2012-08-17 06:30:00,Paul Tracy does not personally hold positions in any securities mentioned in this article.,0.009378398768603802,0.01572743058204651,0.9748942255973816,neutral,-0.006349031813442707
+56,2012-08-17 06:30:00,"StreetAuthority LLC owns shares of PG, CSCO, MSFT in one or more if its ""real money"" portfolios.",0.013422198593616486,0.0076201241463422775,0.9789576530456543,neutral,0.005802074447274208
+57,2012-08-17 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

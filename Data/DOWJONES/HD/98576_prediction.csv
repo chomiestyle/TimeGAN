@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-11 07:22:00,"In early trading on Wednesday, shares of Merck & Co ( MRK ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 5.1%.",0.9408490061759949,0.02946421131491661,0.029686804860830307,positive,0.9113848209381104
+1,2017-01-11 07:22:00,"Year to date, Merck & Co registers a 6.9% gain.",0.9545252919197083,0.01992747187614441,0.025547156110405922,positive,0.9345978498458862
+2,2017-01-11 07:22:00,"And the worst performing Dow component thus far on the day is United Technologies ( UTX ), trading down 0.4%.",0.021214010193943977,0.9652422666549683,0.013543739914894104,negative,-0.9440282583236694
+3,2017-01-11 07:22:00,United Technologies is showing a gain of 1.1% looking at the year to date performance.,0.9543288946151733,0.019235942512750626,0.02643517032265663,positive,0.9350929260253906
+4,2017-01-11 07:22:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.3%, and Exxon Mobil Corp ( XOM ), trading up 0.8% on the day.",0.03392961621284485,0.9351169466972351,0.030953330919146538,negative,-0.9011873006820679
+5,2017-01-11 07:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

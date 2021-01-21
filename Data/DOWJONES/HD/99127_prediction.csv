@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-01 07:10:00,"In early trading on Tuesday, shares of DuPont ( DD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.5%.",0.9396530389785767,0.02954179048538208,0.03080516681075096,positive,0.9101112484931946
+1,2016-03-01 07:10:00,"Year to date, DuPont has lost about 7.3% of its value.",0.01664244942367077,0.9544249773025513,0.0289326012134552,negative,-0.9377825260162354
+2,2016-03-01 07:10:00,"And the worst performing Dow component thus far on the day is United Technologies ( UTX ), trading down 2.0%.",0.020721884444355965,0.9653009176254272,0.013977251946926117,negative,-0.944579005241394
+3,2016-03-01 07:10:00,United Technologies is lower by about 1.5% looking at the year to date performance.,0.020161405205726624,0.9651437997817993,0.014694771729409695,negative,-0.9449824094772339
+4,2016-03-01 07:10:00,"Two other components making moves today are Home Depot ( HD ), trading up 0.1%, and Visa ( V ), trading up 1.4% on the day.",0.8847362399101257,0.035145312547683716,0.08011841028928757,positive,0.8495908975601196
+5,2016-03-01 07:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-22 23:01:00,"Shares of Twitter TWTR soared over 16% in morning trading Friday after CNBC reported that a takeover bid could be imminent, with both Salesforce CRM and Alphabet Inc. GOOGL looking like interested suitors.",0.910886824131012,0.026426875963807106,0.06268639117479324,positive,0.8844599723815918
+1,2016-09-22 23:01:00,"While Twitter's extensive collection of user data and its global real-time news platform could do wonders for many different types of companies, my initial reaction is that Google would be a much better fit than Salesforce.",0.7414224147796631,0.01752682961523533,0.24105079472064972,positive,0.7238956093788147
+2,2016-09-22 23:01:00,Don't get me wrong; I think that Salesforce is an incredibly well-managed company with a solid future.,0.8078045845031738,0.012823269702494144,0.1793721467256546,positive,0.7949813008308411
+3,2016-09-22 23:01:00,"However, Google's existing platforms are more social, casual, and compatible with Twitter's network.",0.38613414764404297,0.01026171538978815,0.6036041378974915,neutral,0.3758724331855774
+4,2016-09-22 23:01:00,"Salesforce could use Twitter's platform to expand its focus outside of its enterprise business, or it could push Twitter into the enterprise world that it knows so well.",0.8038541674613953,0.012173772789537907,0.18397210538387299,positive,0.7916803956031799
+5,2016-09-22 23:01:00,"Either way, that requires a change in direction for both companies.",0.09950166940689087,0.040839940309524536,0.8596583604812622,neutral,0.05866172909736633
+6,2016-09-22 23:01:00,"Under the Alphabet Inc. umbrella, there are already several outlets that would work well with Twitter integration.",0.6743797659873962,0.011367722414433956,0.3142525255680084,positive,0.6630120277404785
+7,2016-09-22 23:01:00,"Take YouTube, for example.",0.05888529494404793,0.04198382794857025,0.8991308808326721,neutral,0.016901466995477676
+8,2016-09-22 23:01:00,"Twitter has been working hard over the past year to ramp up its video streaming efforts, so any cooperation with a platform like YouTube would make sense right now.",0.8898425698280334,0.014517942443490028,0.09563946723937988,positive,0.8753246068954468
+9,2016-09-22 23:01:00,The possibilities are really endless; YouTube could become the go-to video host on Twitter.,0.1566552221775055,0.015289855189621449,0.8280549049377441,neutral,0.14136536419391632
+10,2016-09-22 23:01:00,Users of both sites could have their account synched in order to streamline their experiences.,0.02155880443751812,0.015383729711174965,0.9630574584007263,neutral,0.006175074726343155
+11,2016-09-22 23:01:00,YouTube comments could integrate individual tweets.,0.029052333906292915,0.01654979959130287,0.9543977975845337,neutral,0.012502534314990044
+12,2016-09-22 23:01:00,Trending topics could become synchronous on both websites.,0.01581505499780178,0.0472748689353466,0.9369101524353027,neutral,-0.03145981580018997
+13,2016-09-22 23:01:00,"There's also Android, the Google-made mobile operating system.",0.03200077638030052,0.006486052181571722,0.9615131616592407,neutral,0.025514723733067513
+14,2016-09-22 23:01:00,There's over 100 million people in the U.S. alone that use Android-enabled devices.,0.04601970687508583,0.008285150863230228,0.9456951022148132,neutral,0.03773455694317818
+15,2016-09-22 23:01:00,"For those that are already Twitter users, improvements to the Twitter experience on Android would come easier.",0.6252421736717224,0.017526326701045036,0.3572314977645874,positive,0.6077158451080322
+16,2016-09-22 23:01:00,Increased compatibility could help boost membership to Twitter from Android users who are not already on the site.,0.9449865818023682,0.01845766231417656,0.03655572608113289,positive,0.9265289306640625
+17,2016-09-22 23:01:00,"Of course, all we have are reports right now, and it's tough to judge which potential buyers are the most interested in Twitter.",0.023050209507346153,0.04401392862200737,0.932935893535614,neutral,-0.020963719114661217
+18,2016-09-22 23:01:00,It's even more difficult to gauge what each company would have planned for Twitter.,0.02542673982679844,0.09899093955755234,0.8755822777748108,neutral,-0.07356420159339905
+19,2016-09-22 23:01:00,"Nevertheless, Twitter seems like it would fit well under the Alphabet Inc. umbrella.",0.24693620204925537,0.007200717460364103,0.7458630204200745,neutral,0.23973548412322998
+20,2016-09-22 23:01:00,This Twitter-related news is the latest story in what has been a busy week in the business world.,0.13290968537330627,0.02350560948252678,0.8435847163200378,neutral,0.1094040721654892
+21,2016-09-22 23:01:00,"For a recap of this week's biggest headlines, check out today's episode of the Zacks Friday Finish line podcast:
+
+Want the latest recommendations from Zacks Investment Research?",0.03041442483663559,0.02259262464940548,0.9469929933547974,neutral,0.00782180018723011
+22,2016-09-22 23:01:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+23,2016-09-22 23:01:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+24,2016-09-22 23:01:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+25,2016-09-22 23:01:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+26,2016-09-22 23:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

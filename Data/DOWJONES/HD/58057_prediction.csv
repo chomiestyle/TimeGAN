@@ -1,0 +1,4 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-11 08:51:00,"The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Home Depot (HD) is the #17 analyst pick.",0.286335289478302,0.031373683363199234,0.6822910308837891,neutral,0.25496160984039307
+1,2019-12-11 08:51:00,"Despite being ranked lower than the median among analyst picks of the Dow, Home Depot ranks better than the median among analyst picks for the broader S&P 500 index components, claiming the #226 spot out of 500.",0.7322151064872742,0.22222864627838135,0.045556217432022095,positive,0.5099864602088928
+2,2019-12-11 08:51:00,"Looking at the stock price movement year to date, Home Depot (HD) is showing a gain of 23.3%.",0.9526962041854858,0.018840933218598366,0.028462853282690048,positive,0.9338552951812744

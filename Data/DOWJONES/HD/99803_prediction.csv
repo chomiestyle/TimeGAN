@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-01 08:41:00,"In early trading on Wednesday, shares of McDonald's ( MCD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.2%.",0.9382975101470947,0.03387153148651123,0.02783089131116867,positive,0.9044259786605835
+1,2014-10-01 08:41:00,"Year to date, McDonald's has lost about 2.1% of its value.",0.016492823138833046,0.9583368301391602,0.02517029084265232,negative,-0.9418439865112305
+2,2014-10-01 08:41:00,"And the worst performing Dow component thus far on the day is Boeing ( BA ), trading down 1.7%.",0.02154701016843319,0.96560138463974,0.012851707637310028,negative,-0.944054365158081
+3,2014-10-01 08:41:00,Boeing is lower by about 8.3% looking at the year to date performance.,0.02246084250509739,0.9658156037330627,0.011723579838871956,negative,-0.9433547854423523
+4,2014-10-01 08:41:00,"Two other components making moves today are United Technologies ( UTX ), trading down 1.6%, and Home Depot ( HD ), trading up 0.1% on the day.",0.02772614173591137,0.9412941336631775,0.03097979538142681,negative,-0.9135680198669434
+5,2014-10-01 08:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

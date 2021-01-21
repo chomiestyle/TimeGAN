@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-24 11:47:00,Wall Street took a huge hit in afternoon trading on Monday as coronovirus fears reach new heights.,0.7574008107185364,0.1279420256614685,0.1146571934223175,positive,0.6294587850570679
+1,2020-02-24 11:47:00,The stock market saw its third consecutive day of losses amid the sell-off.,0.030938515439629555,0.9445692300796509,0.024492235854268074,negative,-0.9136307239532471
+2,2020-02-24 11:47:00,"The Dow fell 998 points, losing 3.4% of its full value, the S&P 500 lost 3.3%, and the Nasdaq composite, containing many tech stocks, took the biggest hit losing 3.8%.",0.018445895984768867,0.9687775373458862,0.012776562944054604,negative,-0.9503316283226013
+3,2020-02-24 11:47:00,"Industries with the highest losses include energy, tech and consumer discretionary stocks.",0.02377965673804283,0.8587279915809631,0.11749240756034851,negative,-0.8349483609199524
+4,2020-02-24 11:47:00,"In a Monday update, the World Health Organization said there are 77,362 confirmed cases of coronavirus in China with 2,618 deaths, and that has now spread to 28 other countries with 2,074 cases and 23 deaths.",0.11401914060115814,0.5236005783081055,0.3623802959918976,negative,-0.40958142280578613
+5,2020-02-24 11:47:00,"Last week for the first time, several companies, including Procter & Gamble and Royal Caribbean Cruises, said that the coronoavirus would likely influence their earnings.",0.30794385075569153,0.3395121395587921,0.35254400968551636,neutral,-0.031568288803100586
+6,2020-02-24 11:47:00,"Yesterday, twenty economic representatives at a forum in Saudi Arabia announced that the epidemic will impact the global economy and recommended action if the growth continues.",0.5668761730194092,0.06659426540136337,0.36652955412864685,positive,0.5002819299697876
+7,2020-02-24 11:47:00,"As areas in Italy remain on lockdown and the the virus has spread to other parts of Europe, the realization that the risk is massive has hit American shores well.",0.813957929611206,0.0630369558930397,0.12300509959459305,positive,0.7509209513664246
+8,2020-02-24 11:47:00,"Stocks that have strong exposure to China have been hit the hardest, such as Luckin Coffee (NASDAQ: LK) which is down more than 7% today and companies that have casinos in Macau such Wynn Resorts (NASDAQ: WYNN) and Las Vegas Sands (NYSE: LVS).",0.020177260041236877,0.9588372111320496,0.02098553255200386,negative,-0.9386599659919739
+9,2020-02-24 11:47:00,"10 stocks we like better than Wynn Resorts
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13776575028896332,0.022950805723667145,0.8392834663391113,neutral,0.11481494456529617
+10,2020-02-24 11:47:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+11,2020-02-24 11:47:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Wynn Resorts wasn't one of them!",0.19697466492652893,0.014155730605125427,0.7888696789741516,neutral,0.1828189343214035
+12,2020-02-24 11:47:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+13,2020-02-24 11:47:00,Jennifer Saibil has no position in any of the stocks mentioned.,0.009556485339999199,0.047758955508470535,0.9426845908164978,neutral,-0.038202472031116486
+14,2020-02-24 11:47:00,The Motley Fool owns shares of and recommends Luckin Coffee Inc.,0.029184279963374138,0.009822839871048927,0.9609929323196411,neutral,0.01936144009232521
+15,2020-02-24 11:47:00,The Motley Fool recommends Las Vegas Sands.,0.0470862090587616,0.020969301462173462,0.9319445490837097,neutral,0.026116907596588135
+16,2020-02-24 11:47:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

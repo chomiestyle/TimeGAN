@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-31 05:18:00,Why worry?,0.07649071514606476,0.05179538577795029,0.8717138767242432,neutral,0.02469532936811447
+1,2020-03-31 05:18:00,"If you look only at the hard data, you'd think the real estate market is booming!",0.3126859962940216,0.01673082634806633,0.670583188533783,neutral,0.29595518112182617
+2,2020-03-31 05:18:00,A warm winter kept sales strong in the usually slow months of January and February.,0.6692565083503723,0.2756442129611969,0.055099260061979294,positive,0.3936122953891754
+3,2020-03-31 05:18:00,Average prices are up.,0.6044796109199524,0.017696449533104897,0.37782391905784607,positive,0.5867831707000732
+4,2020-03-31 05:18:00,Mortgage rates are at record lows.,0.09746378660202026,0.628466784954071,0.2740694284439087,negative,-0.5310029983520508
+5,2020-03-31 05:18:00,It's a recipe for success.,0.5539225339889526,0.012804985046386719,0.43327245116233826,positive,0.5411175489425659
+6,2020-03-31 05:18:00,"See, that data mostly predates the coronavirus pandemic.",0.01596318557858467,0.020137352868914604,0.9638994932174683,neutral,-0.004174167290329933
+7,2020-03-31 05:18:00,We're just starting to see ominous signs that the real estate market may be headed for tough times ahead.,0.05422696843743324,0.8136322498321533,0.13214080035686493,negative,-0.759405255317688
+8,2020-03-31 05:18:00,"That would hit companies that depend on a strong real estate market, like home improvement retailers Home Depot (NYSE: HD) and Lowe's (NYSE: LOW), homebuilder NVR (NYSE: NVR), REIT Annaly Capital Management (NYSE: NLY), and realty app/online realtor Zillow Group (NASDAQ: Z) (NASDAQ: ZG).",0.029454810544848442,0.8600722551345825,0.11047287285327911,negative,-0.8306174278259277
+9,2020-03-31 05:18:00,Here are three big red flags that suggest the real estate market is in .a tough spot.,0.06943368166685104,0.7181175947189331,0.21244871616363525,negative,-0.6486839056015015
+10,2020-03-31 05:18:00,"When it comes to evaluating housing prices, Standard & Poor's Case-Shiller Home Price Index is the gold standard.",0.4117763638496399,0.0135501092299819,0.5746735334396362,neutral,0.398226261138916
+11,2020-03-31 05:18:00,"Developed by economists Karl Case and Robert Shiller, the index measures nationwide home prices going back to 1890, as well as prices in 20 different metropolitan areas.",0.05227990821003914,0.012038514949381351,0.9356815814971924,neutral,0.04024139419198036
+12,2020-03-31 05:18:00,The January 2000 value of the Index was pegged at 100.,0.04203980043530464,0.008625068701803684,0.9493350982666016,neutral,0.03341473266482353
+13,2020-03-31 05:18:00,"During the entire 20th century, it had never risen above 140 or below 60, and it always reverted back to about 100.",0.20626017451286316,0.07609210163354874,0.7176477313041687,neutral,0.13016808032989502
+14,2020-03-31 05:18:00,"But here's what it's done since then:
+
+The Index today is at 213.8, 15.8% higher than it was at the peak of the housing bubble in February 2007.",0.80222487449646,0.046790916472673416,0.15098421275615692,positive,0.755433976650238
+15,2020-03-31 05:18:00,"Not only is that an all-time high, it's the first time the nationwide Index has ever risen above 200 (some individual markets like Miami, Phoenix, and Chicago are still below their 2007 highs; others, like Dallas, are stunningly higher):
+
+The last time the Index was even close to these levels, it fell by 26%.",0.03282063454389572,0.9232728481292725,0.04390658438205719,negative,-0.8904522061347961
+16,2020-03-31 05:18:00,"Shiller saw it coming, expressing concern in his 2005 book, Irrational Exuberance, that home prices were rising much faster than household incomes.",0.16858339309692383,0.5726903676986694,0.25872620940208435,negative,-0.4041069746017456
+17,2020-03-31 05:18:00,"Home prices aren't on as steep an uptrend as they were in the mid-2000s, but they have certainly outpaced wage growth.",0.8299742937088013,0.10644888877868652,0.06357686966657639,positive,0.7235254049301147
+18,2020-03-31 05:18:00,"And if the coronavirus causes mass layoffs and high unemployment, wage growth is likely to grind to a halt.",0.03186175227165222,0.8894672989845276,0.0786709189414978,negative,-0.8576055765151978
+19,2020-03-31 05:18:00,That sets home prices up for a big fall.,0.19307048618793488,0.5393702983856201,0.2675592601299286,negative,-0.34629982709884644
+20,2020-03-31 05:18:00,"Oh, and speaking of coronavirus...
+
+Well, not exactly everyone (big shoutout to healthcare professionals, police and fire departments, and delivery drivers), but two-thirds of everyone.",0.03332895040512085,0.04008254408836365,0.9265885353088379,neutral,-0.006753593683242798
+21,2020-03-31 05:18:00,"You read that right: according to census estimates of the 21 states, 14 cities, and 47 counties (and counting) that are currently under ""shelter in place,"" ""stay at home,"" or similar orders from their governments, more than 200 million Americans -- roughly two-thirds of the U.S. population of 327 million -- have been told not to leave their homes.",0.04403718188405037,0.6879986524581909,0.2679641544818878,negative,-0.643961489200592
+22,2020-03-31 05:18:00,Being confined in your home...with your kids...24/7...for weeks?,0.061594441533088684,0.4304378926753998,0.5079676508903503,neutral,-0.3688434362411499
+23,2020-03-31 05:18:00,"Well, that'll probably spark your interest in moving into a bigger place (say, one with a soundproof playroom), but until you can leave your house to take a look at a model home or visit a realtor's office, you're probably not going to buy.",0.09734699130058289,0.020897023379802704,0.8817560076713562,neutral,0.07644996792078018
+24,2020-03-31 05:18:00,"And if those weeks (or months) of sitting at home have drained your savings, you may not be able to buy for quite a while.",0.03581399843096733,0.8014866709709167,0.1626993715763092,negative,-0.7656726837158203
+25,2020-03-31 05:18:00,"The states and cities in which people are homebound include some of the hottest real estate markets in the country, including the largest metro areas in Texas (Houston, Dallas-Fort Worth, San Antonio, Austin), Miami-Dade and Orange Counties in Florida, and the entire state of California.",0.07883788645267487,0.011566374450922012,0.909595787525177,neutral,0.06727151572704315
+26,2020-03-31 05:18:00,"But will they still count as ""hot"" markets when buying grinds to a halt?",0.06950581073760986,0.15685291588306427,0.7736412882804871,neutral,-0.0873471051454544
+27,2020-03-31 05:18:00,The collapse of the housing market may have already begun.,0.09116396307945251,0.4065132737159729,0.502322793006897,neutral,-0.3153493106365204
+28,2020-03-31 05:18:00,Image source: Getty Images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+29,2020-03-31 05:18:00,The National Association of Realtors surveyed buyers' and sellers' agents on March 9 and again on March 19.,0.04400072246789932,0.01967492513358593,0.936324417591095,neutral,0.024325797334313393
+30,2020-03-31 05:18:00,"Between the two surveys, a lot happened: major sports leagues cancelled their 2020 seasons, numerous states closed schools and businesses, and the largest ever one-day point drop in the Dow Jones Industrial Average occurred on March 16.",0.01923602633178234,0.9546970725059509,0.026066910475492477,negative,-0.9354610443115234
+31,2020-03-31 05:18:00,"Realtors were fairly sanguine in the first survey on March 9: just 16% of survey respondents reported a decrease in interest among buyers due to economic conditions, and only 19% reported having sellers interested in removing their homes from the market.",0.01865963265299797,0.9603762626647949,0.02096419967710972,negative,-0.9417166113853455
+32,2020-03-31 05:18:00,"But by March 19, the number reporting a decrease in interest among buyers had tripled to 48%, while the number reporting sellers thinking about pulling their homes off the market more than doubled to 39%.",0.713758647441864,0.21364817023277283,0.07259310036897659,positive,0.5001105070114136
+33,2020-03-31 05:18:00,"Remember, too, that March 19 was before many states had issued their shelter in place/stay at home orders.",0.032722875475883484,0.02634420432150364,0.9409329295158386,neutral,0.006378671154379845
+34,2020-03-31 05:18:00,"What's an investor to do
+
+First of all, don't panic, even if you're invested in real estate companies like NVR and Annaly Capital Management, or related companies like Home Depot and Lowe's.",0.03419727087020874,0.011586295440793037,0.9542164206504822,neutral,0.022610975429415703
+35,2020-03-31 05:18:00,"Remember that while all of their stock prices fell hard during the Great Recession, they not only recovered all of their losses, but went on to handily outperform the market in the years since (once you factor in REIT Annaly's substantial dividends).",0.8775296807289124,0.021720370277762413,0.10074995458126068,positive,0.8558093309402466
+36,2020-03-31 05:18:00,"But don't ignore the red flags, either.",0.08627945184707642,0.125334694981575,0.788385808467865,neutral,-0.039055243134498596
+37,2020-03-31 05:18:00,Now's a good time to reevaluate your thesis for holding these or other real estate companies.,0.1021043136715889,0.010106110014021397,0.8877895474433899,neutral,0.09199820458889008
+38,2020-03-31 05:18:00,"If one of your holdings had a shaky balance sheet or iffy prospects prior to the current crisis, it might be too risky to hold onto now.",0.03564830869436264,0.4916413426399231,0.47271034121513367,negative,-0.45599302649497986
+39,2020-03-31 05:18:00,"As for investing new money, do you even need to ask?",0.04824182763695717,0.030177269130945206,0.9215809106826782,neutral,0.018064558506011963
+40,2020-03-31 05:18:00,This is probably a sector to avoid until things shake out.,0.03123449720442295,0.05660530552268028,0.9121601581573486,neutral,-0.025370808318257332
+41,2020-03-31 05:18:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+42,2020-03-31 05:18:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+43,2020-03-31 05:18:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+44,2020-03-31 05:18:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+45,2020-03-31 05:18:00,John Bromels has no position in any of the stocks mentioned.,0.008775584399700165,0.04601343721151352,0.9452110528945923,neutral,-0.037237852811813354
+46,2020-03-31 05:18:00,"The Motley Fool owns shares of and recommends Home Depot, NVR, Zillow Group (A shares), and Zillow Group (C shares).",0.015747182071208954,0.00921681709587574,0.9750359654426575,neutral,0.006530364975333214
+47,2020-03-31 05:18:00,The Motley Fool recommends Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.02138189785182476,0.03290632367134094,0.9457117319107056,neutral,-0.011524425819516182
+48,2020-03-31 05:18:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

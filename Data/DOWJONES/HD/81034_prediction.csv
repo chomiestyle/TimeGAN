@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-08 08:01:00,"With solar panels costing a fraction of what they did several years ago, more and more communities, businesses, and homeowners are going solar.",0.04872838780283928,0.025815002620220184,0.9254565834999084,neutral,0.022913385182619095
+1,2019-06-08 08:01:00,"With that in mind, we asked three of our Motley Fool contributors what solar stocks they're keeping on their watchlists.",0.04416970536112785,0.013658870942890644,0.9421713948249817,neutral,0.030510835349559784
+2,2019-06-08 08:01:00,"They came back with Tesla (NASDAQ: TSLA), Enphase Energy (NASDAQ: ENPH), and First Solar (NASDAQ: FSLR).",0.16387102007865906,0.006245490163564682,0.8298835158348083,neutral,0.15762552618980408
+3,2019-06-08 08:01:00,Here's why they think you should keep an eye on these three.,0.06548181176185608,0.017233775928616524,0.917284369468689,neutral,0.048248037695884705
+4,2019-06-08 08:01:00,"John Bromels (Tesla): Not too long ago, Tesla used to be the top installer of residential solar systems in the U.S., thanks to its purchase of SolarCity.",0.7918686866760254,0.01305648498237133,0.19507484138011932,positive,0.7788122296333313
+5,2019-06-08 08:01:00,"Unfortunately, the SolarCity acquisition hasn't worked out very well for Tesla.",0.16429762542247772,0.25511258840560913,0.580589771270752,neutral,-0.09081496298313141
+6,2019-06-08 08:01:00,The company's much-anticipated solar roof -- essentially photovoltaic shingles that replace a shingled roof -- has failed to materialize beyond a few test installations.,0.027839964255690575,0.7190790176391602,0.25308099389076233,negative,-0.691239058971405
+7,2019-06-08 08:01:00,"Last year, Tesla pulled out of a partnership with Home Depot that was responsible for about half of Tesla's solar sales.",0.03945351019501686,0.8563439846038818,0.1042025163769722,negative,-0.8168904781341553
+8,2019-06-08 08:01:00,"But then, in late April, several news outlets reported that Tesla was planning to start selling rooftop solar systems for 38% to 41% less than the national average in a bid to increase sales.",0.8911488056182861,0.019408762454986572,0.08944243937730789,positive,0.8717400431632996
+9,2019-06-08 08:01:00,A stunned market sold off shares of other solar installers as it envisioned price wars decimating profits.,0.049102164804935455,0.9144255518913269,0.03647230565547943,negative,-0.8653233647346497
+10,2019-06-08 08:01:00,"As it turns out, there was a bit of a miscalculation, and Tesla's systems would be up to 16% cheaper than the national average, not 41%.",0.07674114406108856,0.8282650709152222,0.09499377012252808,negative,-0.7515239119529724
+11,2019-06-08 08:01:00,Tesla plans to make the pricing work by standardizing its systems and forcing customers to order online.,0.19095955789089203,0.019375260919332504,0.7896652221679688,neutral,0.17158429324626923
+12,2019-06-08 08:01:00,"""Up to 16%"" is a far cry from ""38% to 41%,"" and certainly Tesla has a history of making bold claims that then turn out to be inaccurate.",0.09566634148359299,0.22074411809444427,0.6835895776748657,neutral,-0.12507778406143188
+13,2019-06-08 08:01:00,"But with solar panels getting cheaper every year, it's possible that Tesla could make solar installations profitable at that lower price point, which would certainly disrupt the industry.",0.03464817628264427,0.8748636245727539,0.0904882550239563,negative,-0.8402154445648193
+14,2019-06-08 08:01:00,It's worth keeping an eye on Tesla to see if this new pricing strategy bears fruit in a hotly competitive industry.,0.5894850492477417,0.012711704708635807,0.3978032171726227,positive,0.5767733454704285
+15,2019-06-08 08:01:00,"A solar company on the cusp of profit
+
+Rich Smith (Enphase): Enphase isn't the best-known solar stock.",0.05400849133729935,0.030190831050276756,0.9158006906509399,neutral,0.02381766028702259
+16,2019-06-08 08:01:00,"But in reviewing competitive threats to another solar stock that I like -- SolarEdge Technologies -- I noticed that it named Enphase as a ""microinverter manufacturer"" competing with its own business of selling solar inverters (which convert solar energy into usable electric current).",0.28567224740982056,0.024228135123848915,0.6900995969772339,neutral,0.2614441215991974
+17,2019-06-08 08:01:00,"My Foolish colleague Jason Hall, incidentally, recently called out both SolarEdge and Enphase as ""key solar suppliers with multiple ways to grow.""",0.6631847023963928,0.012712221592664719,0.3241030275821686,positive,0.6504724621772766
+18,2019-06-08 08:01:00,"""Hmm,"" thought I.",0.15307725965976715,0.12099595367908478,0.7259267568588257,neutral,0.03208130598068237
+19,2019-06-08 08:01:00,"""Maybe Enphase deserves a place on my watchlist, too?""",0.7001929879188538,0.03491426259279251,0.26489272713661194,positive,0.6652787327766418
+20,2019-06-08 08:01:00,Maybe it deserves a place on your watchlist as well?,0.4303050935268402,0.028878062963485718,0.5408168435096741,neutral,0.4014270305633545
+21,2019-06-08 08:01:00,I want to emphasize that I am not saying Enphase is a stock to buy...yet.,0.025538671761751175,0.014961512759327888,0.9594998955726624,neutral,0.010577159002423286
+22,2019-06-08 08:01:00,"In contrast to SolarEdge, Enphase hasn't ever earned a full-year profit.",0.10507950186729431,0.19069014489650726,0.7042304277420044,neutral,-0.08561064302921295
+23,2019-06-08 08:01:00,"But in each of the past two quarters, the company was profitable.",0.7218520045280457,0.017379751428961754,0.26076826453208923,positive,0.7044722437858582
+24,2019-06-08 08:01:00,"Moreover, Enphase generated positive free cash flow (FCF) in each of the past five quarters.",0.937693178653717,0.016353845596313477,0.04595288261771202,positive,0.9213393330574036
+25,2019-06-08 08:01:00,FCF for the past 12 months is now a very respectable $26 million.,0.47585174441337585,0.013485557399690151,0.5106626749038696,neutral,0.4623661935329437
+26,2019-06-08 08:01:00,"Admittedly, even this amount of free cash flow means Enphase stock costs a whopping 67 times trailing FCF -- much more expensive than SolarEdge.",0.0977080687880516,0.5038004517555237,0.3984914720058441,negative,-0.4060923755168915
+27,2019-06-08 08:01:00,"But analysts polled by S&P Global Market Intelligence expect to see Enphase grow strongly over the next few years, and they predict 2019 will be the company's first profitable year, and that Enphase will grow its GAAP profits by more than 50% (to $0.52 per diluted share) in 2020.",0.953599214553833,0.01975461095571518,0.026646245270967484,positive,0.9338446259498596
+28,2019-06-08 08:01:00,"Given that profitability is imminent, it seems to me 2019 isn't too early to add this solar stock to your watchlist.",0.3405856192111969,0.008653739467263222,0.6507606506347656,neutral,0.3319318890571594
+29,2019-06-08 08:01:00,These three stocks have seen wildly different performances over the last five years.,0.05888962745666504,0.25902485847473145,0.6820855140686035,neutral,-0.2001352310180664
+30,2019-06-08 08:01:00,Data by YCharts.,0.021006997674703598,0.018421249464154243,0.9605717658996582,neutral,0.0025857482105493546
+31,2019-06-08 08:01:00,"Keep this one on the watchlist, but don't buy at just any price
+
+Tyler Crowe (First Solar): 2019 looks like it is off to a great start for solar panel manufacturer First Solar.",0.6976123452186584,0.015022005885839462,0.2873656153678894,positive,0.6825903654098511
+32,2019-06-08 08:01:00,"Year to date, the company's stock is up more than 35%.",0.9440867304801941,0.018199754878878593,0.03771354258060455,positive,0.9258869886398315
+33,2019-06-08 08:01:00,"That gain is coming off some real ups and downs over the past few years, though, and over the past five years, the stock is down 6.8%.",0.0193466916680336,0.9610694050788879,0.019583847373723984,negative,-0.9417226910591125
+34,2019-06-08 08:01:00,"Numbers like this aren't encouraging, but it is an important lesson when thinking about investing in the solar industry.",0.30159643292427063,0.009712416678667068,0.6886911392211914,neutral,0.29188400506973267
+35,2019-06-08 08:01:00,"It is cyclical, it is intensely competitive, and growth of the industry doesn't necessarily translate to stock gains.",0.043277841061353683,0.012589276768267155,0.9441328644752502,neutral,0.030688565224409103
+36,2019-06-08 08:01:00,One of the things that has held back First Solar's stock more than anything else over the years is the constant need to reinvest in new technology and then retool to manufacture these new technologies at scale.,0.05249814689159393,0.7613421678543091,0.18615970015525818,negative,-0.708844006061554
+37,2019-06-08 08:01:00,"Over the past few years, the company has been in the middle of a massive turnover at its factory to manufacture its most recent set of panels, Series 6.",0.652374267578125,0.12668445706367493,0.22094129025936127,positive,0.5256898403167725
+38,2019-06-08 08:01:00,"That process is almost complete, but the costs of doing so resulted in First Solar swinging to a loss this past quarter.",0.0199932549148798,0.9527459740638733,0.027260778471827507,negative,-0.9327527284622192
+39,2019-06-08 08:01:00,The good news is that First Solar is one of the best-run businesses in the solar industry.,0.8107393383979797,0.012290015816688538,0.1769706904888153,positive,0.7984493374824524
+40,2019-06-08 08:01:00,It still has loads of cash on the balance sheet to invest in new technologies and whatever the solar market throws its way over the next few years.,0.4613458514213562,0.011291870847344398,0.5273622870445251,neutral,0.45005398988723755
+41,2019-06-08 08:01:00,"That said, investors should be apprehensive about buying this stock after such a large stock gain.",0.17648187279701233,0.35108694434165955,0.47243112325668335,neutral,-0.17460507154464722
+42,2019-06-08 08:01:00,"Until it can show growth throughout the cycle, investors should be incredibly selective when buying this stock.",0.4219667911529541,0.012707321904599667,0.5653258562088013,neutral,0.40925946831703186
+43,2019-06-08 08:01:00,"10 stocks we like better than First Solar
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.15448328852653503,0.019902992993593216,0.8256137371063232,neutral,0.13458029925823212
+44,2019-06-08 08:01:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+45,2019-06-08 08:01:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and First Solar wasn't one of them!",0.20005150139331818,0.012156255543231964,0.7877922654151917,neutral,0.18789523839950562
+46,2019-06-08 08:01:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+47,2019-06-08 08:01:00,John Bromels owns shares of Tesla.,0.018171532079577446,0.010312069207429886,0.9715164303779602,neutral,0.00785946287214756
+48,2019-06-08 08:01:00,Rich Smith owns shares of SolarEdge Technologies.,0.015948668122291565,0.009084551595151424,0.9749667644500732,neutral,0.0068641165271401405
+49,2019-06-08 08:01:00,"Tyler Crowe owns shares of First Solar, SolarEdge Technologies, and Tesla.",0.016409683972597122,0.009175711311399937,0.9744146466255188,neutral,0.0072339726611971855
+50,2019-06-08 08:01:00,The Motley Fool owns shares of and recommends Tesla.,0.04086834937334061,0.01300280261784792,0.9461288452148438,neutral,0.027865547686815262
+51,2019-06-08 08:01:00,The Motley Fool recommends First Solar and Home Depot.,0.03203485906124115,0.03557709977030754,0.9323880672454834,neutral,-0.003542240709066391
+52,2019-06-08 08:01:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-26 04:00:00,Apple's (NASDAQ: AAPL) 4-for-1 stock split takes effect next Monday.,0.05014555901288986,0.007950498722493649,0.9419039487838745,neutral,0.04219505935907364
+1,2020-08-26 04:00:00,Investors who held shares as of the record day (this Monday) will be getting an additional 3 shares for every 1 share held.,0.05820378288626671,0.008815626613795757,0.9329806566238403,neutral,0.049388155341148376
+2,2020-08-26 04:00:00,The corporate action will have a major impact on the Dow Jones Industrial Average (DJINDICES: ^DJI) because the index uses a price-weighted methodology.,0.050764888525009155,0.08762200176715851,0.8616130948066711,neutral,-0.03685711324214935
+3,2020-08-26 04:00:00,"Ahead of the split, S&P Dow Jones Indices announced that it was shaking up the Dow Jones Industrial Average due to the Mac maker's move.",0.023678654804825783,0.9286737442016602,0.047647569328546524,negative,-0.9049950838088989
+4,2020-08-26 04:00:00,Here's which companies are getting booted out of the perennial blue chip index.,0.08759713917970657,0.06526061147451401,0.847142219543457,neutral,0.022336527705192566
+5,2020-08-26 04:00:00,"Since Apple's stock price will be divided by 4, the tech sector's representation within the Dow will be dramatically reduced.",0.04035723954439163,0.6396486759185791,0.3199940621852875,negative,-0.5992914438247681
+6,2020-08-26 04:00:00,"In order to somewhat offset that change, S&P Dow Jones Indices is replacing oil major ExxonMobil with salesforce.com.",0.02899467572569847,0.04271437227725983,0.9282909631729126,neutral,-0.013719696551561356
+7,2020-08-26 04:00:00,"Dropping Exxon is a historic move, as the energy company has been in the Dow since 1928, making it the most tenured component currently.",0.12351354956626892,0.09687662869691849,0.7796098589897156,neutral,0.026636920869350433
+8,2020-08-26 04:00:00,"Additionally, the index operator said the move would ""also help diversify the index by removing overlap between companies of similar scope and adding new types of businesses that better reflect the American economy.""",0.8867413997650146,0.013608342967927456,0.09965036064386368,positive,0.8731330633163452
+9,2020-08-26 04:00:00,"The other changes are within the same sectors but the Dow's composition will still shift, as those stocks have drastically different share prices.",0.03286919742822647,0.05714431777596474,0.9099864363670349,neutral,-0.024275120347738266
+10,2020-08-26 04:00:00,Amgen will replace Pfizer and Honeywell will take Raytheon's place.,0.018765289336442947,0.014573614113032818,0.9666611552238464,neutral,0.0041916752234101295
+11,2020-08-26 04:00:00,"Here are the stock prices as of this Monday, when the changes were announced.",0.01562615856528282,0.011251798830926418,0.9731220602989197,neutral,0.004374359734356403
+12,2020-08-26 04:00:00,"The component changes will also take effect next Monday, the same day as Apple's split.",0.022430937737226486,0.010211988352239132,0.9673570394515991,neutral,0.012218949384987354
+13,2020-08-26 04:00:00,"Just like every other time that the Dow shakes up its composition, the index's divisor will also be adjusted.",0.04265425354242325,0.041472114622592926,0.9158737063407898,neutral,0.0011821389198303223
+14,2020-08-26 04:00:00,"Instead of averaging out the 30 underlying stock prices directly, the index uses a special divisor as the denominator in order to maintain continuity.",0.04520765319466591,0.006051740143448114,0.9487406015396118,neutral,0.03915591165423393
+15,2020-08-26 04:00:00,The current Dow divisor is approximately 0.1458.,0.01364230178296566,0.016663480550050735,0.9696941375732422,neutral,-0.0030211787670850754
+16,2020-08-26 04:00:00,S&P Dow Jones says it will calculate and release the new divisor on Friday.,0.03012293204665184,0.005878937430679798,0.9639981985092163,neutral,0.024243995547294617
+17,2020-08-26 04:00:00,Index changes don't directly impact investors all that much.,0.014646798372268677,0.03237319365143776,0.9529799818992615,neutral,-0.017726395279169083
+18,2020-08-26 04:00:00,"One of the only meaningful implications is that all index funds that track the Dow Jones Industrial Average will now need to rebalance their portfolios accordingly, which creates short-term buying pressure for the new additions and selling activity for the removed stocks.",0.06431367248296738,0.6095510721206665,0.3261353075504303,negative,-0.5452374219894409
+19,2020-08-26 04:00:00,"Trading on Tuesday reflected that, with Salesforce shares even hitting fresh all-time highs on the news.",0.8839941024780273,0.06069615110754967,0.05530979484319687,positive,0.8232979774475098
+20,2020-08-26 04:00:00,"Less meaningfully, there's also a perceived benefit of greater credibility and prestige associated with joining one of the most widely followed stock market indexes in the world.",0.8292209506034851,0.012977574951946735,0.1578015685081482,positive,0.8162433505058289
+21,2020-08-26 04:00:00,"10 stocks we like better than Dow Jones Industrial Average
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14861749112606049,0.025893518701195717,0.8254889249801636,neutral,0.12272397428750992
+22,2020-08-26 04:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+23,2020-08-26 04:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Dow Jones Industrial Average wasn't one of them!",0.20884741842746735,0.016516990959644318,0.7746356129646301,neutral,0.19233042001724243
+24,2020-08-26 04:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+25,2020-08-26 04:00:00,"Evan Niu, CFA owns shares of Apple and Salesforce.com.",0.022183114662766457,0.023066259920597076,0.9547505974769592,neutral,-0.0008831452578306198
+26,2020-08-26 04:00:00,The Motley Fool owns shares of and recommends Apple and Salesforce.com.,0.03965669125318527,0.03497915714979172,0.9253641366958618,neutral,0.004677534103393555
+27,2020-08-26 04:00:00,The Motley Fool recommends Amgen.,0.058421194553375244,0.05450756475329399,0.8870712518692017,neutral,0.003913629800081253
+28,2020-08-26 04:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

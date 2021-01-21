@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-05 22:00:00,A key advantage of a Roth IRA is that it allows you to rack up investment returns without worrying about the tax hit that comes when you withdraw from a traditional IRA.,0.31429317593574524,0.009958208538591862,0.6757485866546631,neutral,0.30433496832847595
+1,2017-09-05 22:00:00,That advantage becomes more powerful over time as the stocks that populate your portfolio accumulate gains that (hopefully) grow to many multiples of your original investment.,0.7858487963676453,0.01415234711021185,0.1999989151954651,positive,0.7716964483261108
+2,2017-09-05 22:00:00,"Ideally, then, your Roth IRA will be tilted toward healthy businesses that enjoy large long-run growth opportunities.",0.47754383087158203,0.009453518316149712,0.5130026340484619,neutral,0.46809032559394836
+3,2017-09-05 22:00:00,The returns these stocks generate might be accelerated by a management team that prioritizes direct cash returns in the form of stock repurchases and a rising dividend payment.,0.6249350309371948,0.010421708226203918,0.36464324593544006,positive,0.6145133376121521
+4,2017-09-05 22:00:00,"Home Depot (NYSE: HD) delivers all of that, and more, to investors, which is why I believe it would make a great candidate for your Roth IRA.",0.3739869296550751,0.008431166410446167,0.6175819635391235,neutral,0.3655557632446289
+5,2017-09-05 22:00:00,"The orange elephant in the room
+
+Let's address the biggest concern with this stock right up front.",0.04747137799859047,0.01881793886423111,0.9337106943130493,neutral,0.02865343913435936
+6,2017-09-05 22:00:00,The housing market is a cyclical industry that experiences booms and busts.,0.019978918135166168,0.025461535900831223,0.9545595049858093,neutral,-0.005482617765665054
+7,2017-09-05 22:00:00,"We're many years into a recovery right now, and home prices have rebounded sharply.",0.9338818788528442,0.018237050622701645,0.04788104072213173,positive,0.9156448245048523
+8,2017-09-05 22:00:00,"Naturally, investors are concerned that Home Depot's market-thumping sales and profit gains are destined to come to an end as the market turns.",0.03602415695786476,0.829765796661377,0.1342100352048874,negative,-0.7937416434288025
+9,2017-09-05 22:00:00,No one knows when the next industry slump will come.,0.039735689759254456,0.22469395399093628,0.7355703711509705,neutral,-0.18495826423168182
+10,2017-09-05 22:00:00,"But the fundamentals, including housing formation rates, the age of housing stock, and overall home spending , suggest there's plenty of room for more growth in the current expansion.",0.749947726726532,0.013875072821974754,0.23617717623710632,positive,0.7360726594924927
+11,2017-09-05 22:00:00,"Putting it in baseball terms in a recent conference call with analysts , Home Depot executives estimated that the market recovery is ""about in the sixth inning.""",0.3414963483810425,0.02813955396413803,0.6303641200065613,neutral,0.31335678696632385
+12,2017-09-05 22:00:00,"Even if it's closer to the end than that, though, retirement accounts like Roth IRAs are perfect for riding through the type of volatility that would be sparked by a surprise housing market decline.",0.23419886827468872,0.06616321206092834,0.6996378898620605,neutral,0.16803565621376038
+13,2017-09-05 22:00:00,"In the meantime, Home Depot's operating results are the stuff of investors' dreams.",0.2404068410396576,0.009683162905275822,0.7499099969863892,neutral,0.23072367906570435
+14,2017-09-05 22:00:00,Sales growth topped 6% last quarter as customer traffic gains sped up to a 2.8% pace from 1.6% in the prior quarter.,0.9576480388641357,0.023978857323527336,0.01837313361465931,positive,0.9336692094802856
+15,2017-09-05 22:00:00,"The retailer continued to put more distance between itself and peer Lowe's (NYSE: LOW) in important metrics including comparable-store sales, operating margin, and return on invested capital .",0.9140461087226868,0.021524403244256973,0.06442951411008835,positive,0.8925216794013977
+16,2017-09-05 22:00:00,"Home Depot should pass $100 billion of annual sales in fiscal 2018, while at the same time hitting management's 15% operating margin goal -- ahead of schedule.",0.9206196665763855,0.019966768100857735,0.05941357463598251,positive,0.9006528854370117
+17,2017-09-05 22:00:00,"While they started out the year with conservative expectations, CEO Craig Menear and his team now project maintaining roughly the same impressive 5% comps pace they managed in 2016.",0.673683226108551,0.024271972477436066,0.3020448088645935,positive,0.6494112610816956
+18,2017-09-05 22:00:00,"Those growth figures translate into much stronger gains for investors thanks to Home Depot's smart, and shareholder friendly, allocation of capital.",0.9520464539527893,0.020974794402718544,0.026978718116879463,positive,0.9310716390609741
+19,2017-09-05 22:00:00,"The company averages $7 billion each year on stock repurchase spending, and the resulting decrease in the share count has allowed per-share earnings to rise by 15% so far this year, compared to a 10% gain in net profit.",0.946214497089386,0.03326358273625374,0.020521944388747215,positive,0.9129509329795837
+20,2017-09-05 22:00:00,"Home Depot's dividend policy make it an attractive Roth IRA candidate, too.",0.72914057970047,0.015422060154378414,0.25543734431266785,positive,0.7137185335159302
+21,2017-09-05 22:00:00,"Yes, the company was forced to hold its payout steady for almost three years during the worst of the housing market crisis.",0.07367663085460663,0.8251816034317017,0.1011417880654335,negative,-0.7515049576759338
+22,2017-09-05 22:00:00,"But since then, management has demonstrated a strong preference for substantially hiking that payout.",0.8754583597183228,0.018859639763832092,0.10568203777074814,positive,0.8565987348556519
+23,2017-09-05 22:00:00,"The dividend rose by 29% this year , following 17%, 26%, and 21% gains in the prior three years, respectively.",0.956487774848938,0.021359367296099663,0.022152895107865334,positive,0.935128390789032
+24,2017-09-05 22:00:00,"Home Depot targets returning a generous 55% of earnings to investors through dividends, compared to Lowe's 35% target.",0.858256995677948,0.06343106180429459,0.07831192016601562,positive,0.7948259115219116
+25,2017-09-05 22:00:00,"The stock price may look expensive, given that it's close to a record high and up by double-digits so far in 2017, while Lowe's has lost ground.",0.033013034611940384,0.9192023873329163,0.047784581780433655,negative,-0.886189341545105
+26,2017-09-05 22:00:00,But that's where the long-term focus of a Roth IRA can be your best friend.,0.13714995980262756,0.1159195527434349,0.7469304800033569,neutral,0.021230407059192657
+27,2017-09-05 22:00:00,A few percentage points of extra costs today likely won't make much difference to your overall returns years -- or decades -- from now.,0.02764410898089409,0.06718476116657257,0.9051710963249207,neutral,-0.03954065218567848
+28,2017-09-05 22:00:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+29,2017-09-05 22:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+30,2017-09-05 22:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+31,2017-09-05 22:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2017-09-05 22:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2017-09-05 22:00:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+34,2017-09-05 22:00:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+35,2017-09-05 22:00:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2017-09-05 22:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

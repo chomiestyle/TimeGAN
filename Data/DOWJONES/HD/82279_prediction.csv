@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-02 23:16:00,"J.C. Penney (NYSE: JCP ) named Jill Soltau its new CEO, and its next move may be going private.",0.0701693445444107,0.01045526098459959,0.9193753600120544,neutral,0.05971408262848854
+1,2018-10-02 23:16:00,"Before JCP stock owners freak out, I'll be upfront: I'm speculating a bit here.",0.058810606598854065,0.032271407544612885,0.908918023109436,neutral,0.02653919905424118
+2,2018-10-02 23:16:00,But there are a few reasons this might be on the horizon for JCP.,0.015138085931539536,0.014341338537633419,0.970520555973053,neutral,0.0007967473939061165
+3,2018-10-02 23:16:00,"After all, Soltau comes to Penney's from privately held Jo-Ann Stores, a fabric retailer owned by Leonard Green & Partners, a private equity firm specializing in retailers.",0.06710413098335266,0.006268528755754232,0.9266273379325867,neutral,0.06083560362458229
+4,2018-10-02 23:16:00,"Jo-Ann has been one of Green's winners, like Petco, B.J.",0.41297557950019836,0.04105500131845474,0.5459694266319275,neutral,0.3719205856323242
+5,2018-10-02 23:16:00,'s Wholesale Club and Whole Foods Market.,0.026609528809785843,0.010398580692708492,0.9629918932914734,neutral,0.016210947185754776
+6,2018-10-02 23:16:00,"But Green has also had some losers, like Sports Authority.",0.053405653685331345,0.42009779810905457,0.5264965295791626,neutral,-0.3666921555995941
+7,2018-10-02 23:16:00,"Will they, or some other private equity company, be interested in a winning jockey on this nag?",0.24708960950374603,0.013521101325750351,0.7393893003463745,neutral,0.23356850445270538
+8,2018-10-02 23:16:00,"Hoover's estimates Jo-Ann's sales at almost $3 billion , with 23,000 employees and a good risk profile.",0.2573011815547943,0.008623127825558186,0.734075665473938,neutral,0.248678058385849
+9,2018-10-02 23:16:00,The risk profile of Penney's is anything but.,0.015798088163137436,0.023496806621551514,0.9607051014900208,neutral,-0.007698718458414078
+10,2018-10-02 23:16:00,"In its Aug. 4 earnings report, it reported $3.96 billion in long-term debt on assets of $8 billion.",0.0235904473811388,0.015863273292779922,0.9605462551116943,neutral,0.007727174088358879
+11,2018-10-02 23:16:00,The quarter had depressed analysts - a 38 cent per share loss instead of a loss of 6 cents - and JCP stock is nearly worthless.,0.01955154538154602,0.9619474411010742,0.018501032143831253,negative,-0.9423959255218506
+12,2018-10-02 23:16:00,How worthless is it?,0.08830810338258743,0.20166833698749542,0.7100235223770142,neutral,-0.11336023360490799
+13,2018-10-02 23:16:00,Its market cap of $491 million is barely one-sixth of the recent quarter's sales of $2.8 billion.,0.026479516178369522,0.7359458804130554,0.23757462203502655,negative,-0.7094663381576538
+14,2018-10-02 23:16:00,That market cap was 80% lower than it was when former CEO Marvin Ellison joined the company in August 2015.,0.01881246641278267,0.9443480968475342,0.036839570850133896,negative,-0.9255356192588806
+15,2018-10-02 23:16:00,"Ellison was a logistics guy, previously with Home Depot (NYSE: HD ) and Target (NYSE: TGT ), but he wasn't a merchandiser, and he was thankful to escape to become CEO of Lowe's (NYSE: LOW ) in July.",0.08728866279125214,0.017653482034802437,0.8950577974319458,neutral,0.06963518261909485
+16,2018-10-02 23:16:00,Soltau is a merchandiser.,0.02916359342634678,0.011274891905486584,0.9595615267753601,neutral,0.01788870245218277
+17,2018-10-02 23:16:00,"She made Jo-Ann the unquestioned leader of her category, knocking competitors like Hancock Fabrics out of the water.",0.7003507614135742,0.03190714493393898,0.2677420973777771,positive,0.6684436202049255
+18,2018-10-02 23:16:00,"Before that, she was at Shopko, also privately-held, but she has also made stops at Sear's, Kohl's (NYSE: KSS ) and Carson Pirie Scott in Chicago.",0.022358309477567673,0.016124071553349495,0.9615176916122437,neutral,0.006234237924218178
+19,2018-10-02 23:16:00,"She knows fashion, she knows women … she is everything Ellison was not.",0.08265167474746704,0.0165910292416811,0.9007573127746582,neutral,0.06606064736843109
+20,2018-10-02 23:16:00,The hope is she can use Ellison's improved logistics to get women into Penney's stores and make a profit.,0.9014052748680115,0.017321085557341576,0.0812736451625824,positive,0.884084165096283
+21,2018-10-02 23:16:00,"JCP stock rose sharply on the news, but it has since given half that gain back.",0.8445228338241577,0.07408948242664337,0.08138769865036011,positive,0.7704333662986755
+22,2018-10-02 23:16:00,Penney's has been in almost continual crisis throughout the decade.,0.02574595995247364,0.8351641297340393,0.13908998668193817,negative,-0.8094181418418884
+23,2018-10-02 23:16:00,"Under Mike Ullman , now chairman of Starbucks (NASDAQ: SBUX ), it was a general merchandiser.",0.0421670526266098,0.013363086618483067,0.9444699287414551,neutral,0.02880396693944931
+24,2018-10-02 23:16:00,"Under Ron Johnson, who came from Apple (NASDAQ: AAPL ), it was a mess.",0.03513307124376297,0.8261799812316895,0.13868695497512817,negative,-0.7910469174385071
+25,2018-10-02 23:16:00,"Under Ellison, it signed alliances with companies like Sephora but had no image of its own.",0.22736629843711853,0.13020791113376617,0.6424257755279541,neutral,0.09715838730335236
+26,2018-10-02 23:16:00,"If Soltau can give Penney's an image that women identify with, this stock could be a 10-bagger for investors.",0.2522963285446167,0.037244148552417755,0.7104595303535461,neutral,0.21505218744277954
+27,2018-10-02 23:16:00,"Consider, sales at Kohl's are only about 25% greater than those of Penney's; Penney's has the logistical capacity to grow to Kohl's level and Kohl's has a market cap of $12 billion, about two-thirds of its annual sales, while its most recent quarter showed $292 million in profit on revenue of $4.57 billion.",0.07769458740949631,0.06340524554252625,0.8589001297950745,neutral,0.014289341866970062
+28,2018-10-02 23:16:00,"If Penney's were worth two-thirds of its current sales, it would be worth over $8 billion.",0.14149580895900726,0.006031055934727192,0.8524730801582336,neutral,0.13546475768089294
+29,2018-10-02 23:16:00,"Of course, it might also have a quarterly net of $141 million, instead of the last quarter's loss of $101 million.",0.5381872653961182,0.05413920059800148,0.40767353773117065,positive,0.484048068523407
+30,2018-10-02 23:16:00,"To even begin that journey, Soltau must re-fill her C-suite.",0.18928778171539307,0.02398330718278885,0.7867289185523987,neutral,0.16530448198318481
+31,2018-10-02 23:16:00,"After all, most of Ellison's top executives having departed after he announced he was leaving in May.",0.021544979885220528,0.8468281626701355,0.13162681460380554,negative,-0.8252831697463989
+32,2018-10-02 23:16:00,"Walter Loeb of Forbes called the company a disaster area when Ellison left , but he is hopeful about Soltau.",0.07922805845737457,0.5534586906433105,0.36731332540512085,negative,-0.47423064708709717
+33,2018-10-02 23:16:00,"JCP stock was once a ""widow's and orphan's"" stock - a steady earner that paid a dividend for three decades.",0.16316014528274536,0.023578722029924393,0.8132611513137817,neutral,0.13958142697811127
+34,2018-10-02 23:16:00,"Then it lost its way: first to big box stores, then to specialty retailers and finally to the collapse of the middle-class mall and the rise of e-commerce.",0.04926639050245285,0.2667091488838196,0.684024453163147,neutral,-0.21744275093078613
+35,2018-10-02 23:16:00,"If you're to buy JCP stock now, you're playing with money you can afford to lose.",0.04581216350197792,0.03635390102863312,0.9178338646888733,neutral,0.009458262473344803
+36,2018-10-02 23:16:00,"Understanding that your downside is limited, now may be the time to bet on Soltau.",0.16421444714069366,0.017569996416568756,0.8182156085968018,neutral,0.1466444432735443
+37,2018-10-02 23:16:00,"Even if she can't turn the company completely around, she knows enough people in private equity to at least let you cash out.",0.2065546065568924,0.01188470609486103,0.7815606594085693,neutral,0.1946699023246765
+38,2018-10-02 23:16:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+39,2018-10-02 23:16:00,"He is the author of a new mystery thriller, The Reluctant Detective Finds Her Family , available now at the Amazon Kindle store.",0.09786684811115265,0.025362975895404816,0.8767701387405396,neutral,0.07250387221574783
+40,2018-10-02 23:16:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn .,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+41,2018-10-02 23:16:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+42,2018-10-02 23:16:00,"• 10 Triple-A Stocks to Buy for the Rest of 2018
+• 7 Consumer Stocks to Buy as Confidence Is Up Ahead of Holidays
+• The 5 Best Dow Jones Stocks to Buy Now
+
+The post Does J. C. Penney Stock Have 10-Bagger Potential?",0.18196123838424683,0.020973628386855125,0.7970650792121887,neutral,0.16098761558532715
+43,2018-10-02 23:16:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+44,2018-10-02 23:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

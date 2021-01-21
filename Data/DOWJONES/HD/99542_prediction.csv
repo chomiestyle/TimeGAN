@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-18 02:11:00,"MoneyMorning.com Report - For May 18, 2015, here's how the stock market did today, earnings reports, the top stock market news, and stocks to watch based on today's market moves...
+
+How Did the Stock Market Do Today?",0.014781472273170948,0.012690405361354351,0.9725281000137329,neutral,0.002091066911816597
+1,2015-05-18 02:11:00,The DJIA Index and the S&P 500 hit new record highs today as concerns about interest rate hikes faded and traders overlooked weakness in the housing markets.,0.7963294982910156,0.08325043320655823,0.12042006105184555,positive,0.7130790948867798
+2,2015-05-18 02:11:00,Investors also largely ignored concerns raised over the weekend regarding Greece's ongoing debt woes and worries that the nation is on the verge of bankruptcy.,0.29576727747917175,0.19615304470062256,0.5080797076225281,neutral,0.0996142327785492
+3,2015-05-18 02:11:00,Several deals and rumors of possible mergers drove stocks higher.,0.8420197367668152,0.05172467976808548,0.10625561326742172,positive,0.7902950644493103
+4,2015-05-18 02:11:00,Oil prices reversed early gained that were fueled by violence and tension in Iraq and Yemen.,0.350227415561676,0.5554002523422241,0.09437230229377747,negative,-0.2051728367805481
+5,2015-05-18 02:11:00,WTI prices slipped below $60 per barrel this afternoon.,0.04113059118390083,0.8978830575942993,0.06098633632063866,negative,-0.8567524552345276
+6,2015-05-18 02:11:00,"• Housing Hurts: The NAHB/Wells Fargo Housing Market slipped from 56 to 54 in May, falling well short of economists' expectations for the index to jump to 57.",0.019323032349348068,0.9711810350418091,0.009495973587036133,negative,-0.9518579840660095
+7,2015-05-18 02:11:00,• Fed Chatter: The markets reacted warmly to a speech this morning from Fed Chicago President Charles Evans.,0.824760913848877,0.022062581032514572,0.1531764268875122,positive,0.8026983141899109
+8,2015-05-18 02:11:00,The FOMC member said the central bank should avoid the temptation to raise short-term interest rates in 2015.,0.3708386719226837,0.09283264726400375,0.5363286733627319,neutral,0.27800601720809937
+9,2015-05-18 02:11:00,"""It likely will not be appropriate to begin raising the fed funds rate until sometime in early 2016,"" he said in the speech.",0.10023967921733856,0.023556355386972427,0.8762040138244629,neutral,0.07668332755565643
+10,2015-05-18 02:11:00,"Later this week, investors will digest minutes from the April FOMC meeting and hear a speech from Federal Reserve Chairwoman Janet Yellen.",0.07430411875247955,0.017348602414131165,0.9083472490310669,neutral,0.05695551633834839
+11,2015-05-18 02:11:00,"• On Tap Tuesday: Tomorrow investors will react to the release of April housing starts data, a critical indicator of the housing market's health following the pain of winter.",0.2506920099258423,0.03416468948125839,0.7151433229446411,neutral,0.2165273129940033
+12,2015-05-18 02:11:00,"Companies that will report earnings include Wal-Mart Stores Inc. ( WMT ), TJX Companies Inc. ( TJX ), Home Depot Inc. ( HD ), Dick's Sporting Goods Inc. ( DKS ), and Computer Sciences Corp. ( CSC ).",0.035990748554468155,0.009889001958072186,0.9541202187538147,neutral,0.026101745665073395
+13,2015-05-18 02:11:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+14,2015-05-18 02:11:00,"1, AAPL : Shares of Apple Inc. (Nasdaq: AAPL) gained 1.1% thanks to a ringing endorsement from activist investor Carl Icahn.",0.9475896954536438,0.024362483993172646,0.02804775908589363,positive,0.9232271909713745
+15,2015-05-18 02:11:00,"The billionaire investor said AAPL stock is ""still dramatically undervalued"" and should be trading at roughly $240 per share.",0.4503645896911621,0.2044767439365387,0.3451586067676544,positive,0.2458878457546234
+16,2015-05-18 02:11:00,"In an open letter to Apple's CEO Tim Cook, Icahn called for the firm to engage in a larger buyback program as soon as possible.",0.7657615542411804,0.012052067555487156,0.22218628227710724,positive,0.7537094950675964
+17,2015-05-18 02:11:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+18,2015-05-18 02:11:00,"2, ALTR: Shares of Altera Corp. (Nasdaq: ALTR) jumped 5.72% on news that the firm has reengaged with Intel Corp. (Nasdaq: INTC) over the possibility of a $13 billion-plus buyout deal.",0.9409664869308472,0.02499864622950554,0.03403490409255028,positive,0.9159678220748901
+19,2015-05-18 02:11:00,Talks between the two Silicon Valley chip giants recently broke down.,0.05069737508893013,0.8826513290405273,0.06665121763944626,negative,-0.8319539427757263
+20,2015-05-18 02:11:00,Intel shares were up 1.15% on the day.,0.9361777901649475,0.02181553840637207,0.042006660252809525,positive,0.9143622517585754
+21,2015-05-18 02:11:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+22,2015-05-18 02:11:00,"3, ENDO: Shares of Endo International Plc.",0.018729528412222862,0.008006432093679905,0.9732640981674194,neutral,0.010723096318542957
+23,2015-05-18 02:11:00,(Nasdaq: ENDP) slipped 5.3% on news that the generic drug manufacturer plans to purchase privately held Par Pharmaceutical from private equity giant TPG Capital for $8.05 billion.,0.08467777818441391,0.88247150182724,0.03285074606537819,negative,-0.7977937459945679
+24,2015-05-18 02:11:00,The deal is the latest in the biotech sector and one that is poised to help Endo compete in the more increasingly challenging generic drug business.,0.9306201338768005,0.014505966566503048,0.05487383157014847,positive,0.9161141514778137
+25,2015-05-18 02:11:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+26,2015-05-18 02:11:00,"4, JASO: Shares of JA Solar Holdings Co. Ltd. (Nasdaq ADR: JASO) slipped 5.84% today after the company reported weak first-quarter profits.",0.021272845566272736,0.9702941179275513,0.008432979695498943,negative,-0.9490212798118591
+27,2015-05-18 02:11:00,The company said its performance deteriorated as cell shipment levels in China and the Americas declined significantly.,0.01757725700736046,0.9676950573921204,0.014727693982422352,negative,-0.950117826461792
+28,2015-05-18 02:11:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+29,2015-05-18 02:11:00,"5, ANN: Shares of Ann Inc. (ANN) surged roughly 19.8% on news that the company received a $2 billion buyout from AscenaRetail Group Inc. (Nasdaq: ASNA).",0.9376376271247864,0.023672720417380333,0.038689564913511276,positive,0.9139649271965027
+30,2015-05-18 02:11:00,"The deal will combine ownership of many popular women's fashion and apparel lines like Lane Bryant, dressbarn, and Ann Taylor.",0.388557493686676,0.008515022695064545,0.6029275059700012,neutral,0.3800424635410309
+31,2015-05-18 02:11:00,Shares of ASNA dipped 0.84%.,0.02175365388393402,0.9683822989463806,0.009863999672234058,negative,-0.9466286301612854
+32,2015-05-18 02:11:00,"What Investors Must Know This Week
+• How to Grab Profits During a Stock Market Crash
+• M&A: Invest in the Next Tech Takeover Targets
+• How to Profit from the Keystone Pipeline Debate
+
+To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.12928563356399536,0.009965501725673676,0.8607488870620728,neutral,0.11932013183832169
+33,2015-05-18 02:11:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+34,2015-05-18 02:11:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+35,2015-05-18 02:11:00,Disclaimer: © 2015 Money Morning and Money Map Press.,0.013070347718894482,0.010420763865113258,0.9765089154243469,neutral,0.0026495838537812233
+36,2015-05-18 02:11:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+37,2015-05-18 02:11:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+38,2015-05-18 02:11:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+39,2015-05-18 02:11:00,"16 W. Madison St. Baltimore, MD, 21201.",0.04034261777997017,0.013275643810629845,0.9463818073272705,neutral,0.027066973969340324
+40,2015-05-18 02:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

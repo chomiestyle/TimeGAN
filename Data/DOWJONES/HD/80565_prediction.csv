@@ -1,0 +1,11 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-03 08:53:00,"Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful.",0.11443211883306503,0.10028719156980515,0.7852806448936462,neutral,0.014144927263259888
+1,2019-12-03 08:53:00,"One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which measures momentum on a scale of zero to 100.",0.038001976907253265,0.010103662498295307,0.9518943428993225,neutral,0.027898315340280533
+2,2019-12-03 08:53:00,A stock is considered to be oversold if the RSI reading falls below 30.,0.02571619115769863,0.7849116325378418,0.18937227129936218,negative,-0.7591954469680786
+3,2019-12-03 08:53:00,"In trading on Tuesday, shares of Home Depot Inc (Symbol: HD) entered into oversold territory, hitting an RSI reading of 28.2, after changing hands as low as $213.10 per share.",0.028236024081707,0.9615973830223083,0.010166608728468418,negative,-0.9333613514900208
+4,2019-12-03 08:53:00,"By comparison, the current RSI reading of the S&P 500 ETF (SPY) is 49.6.",0.030048012733459473,0.01786155439913273,0.9520904421806335,neutral,0.012186458334326744
+5,2019-12-03 08:53:00,"A bullish investor could look at HD's 28.2 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.",0.5675259828567505,0.12037405371665955,0.31210002303123474,positive,0.44715192914009094
+6,2019-12-03 08:53:00,"The chart below shows the one year performance of HD shares:
+
+Looking at the chart above, HD's low point in its 52 week range is $158.09 per share, with $239.3091 as the 52 week high point — that compares with a last trade of $213.04.",0.03156229481101036,0.8715795278549194,0.09685814380645752,negative,-0.8400172591209412
+7,2019-12-03 08:53:00,Find out what 9 other oversold stocks you need to know about »,0.029731784015893936,0.018774451687932014,0.9514937996864319,neutral,0.010957332327961922

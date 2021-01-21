@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-31 22:05:00,Everything is going right for Microsoft Corporation (NASDAQ: MSFT ).,0.5573171973228455,0.010812471620738506,0.43187031149864197,positive,0.5465047359466553
+1,2017-05-31 22:05:00,"Even though the company missed revenue expectations by a paltry $60 million against $23.56 billion, the company has clear growth ahead.",0.9233287572860718,0.028777407482266426,0.04789387434720993,positive,0.8945513367652893
+2,2017-05-31 22:05:00,Even LinkedIn added nearly a billion in revenue for Microsoft.,0.8843420743942261,0.01749022863805294,0.09816768020391464,positive,0.8668518662452698
+3,2017-05-31 22:05:00,"Looking ahead, the Services unit will help lift growth.",0.9388636946678162,0.017290348187088966,0.04384595900774002,positive,0.9215733408927917
+4,2017-05-31 22:05:00,Microsoft's services are exposing the company to the highest growing areas in technology.,0.6278887987136841,0.012481475248932838,0.35962975025177,positive,0.6154073476791382
+5,2017-05-31 22:05:00,"On its conference call, Microsoft cited Maersk , a transport firm that operates in 130 countries.",0.11294221878051758,0.011291643604636192,0.8757660984992981,neutral,0.10165057331323624
+6,2017-05-31 22:05:00,"The company uses intelligent services in Azure deliver real-time insight for data visualization, advanced analytics and meaningful insights for its carrier customers.",0.3259887993335724,0.0074849980883300304,0.666526198387146,neutral,0.31850379705429077
+7,2017-05-31 22:05:00,"In cognitive services, MSFT is developing face recognition and computer vision.",0.08557210117578506,0.004480921197682619,0.9099469184875488,neutral,0.08109118044376373
+8,2017-05-31 22:05:00,Cloud services continue to grow rapidly.,0.7860812544822693,0.010853270068764687,0.20306545495986938,positive,0.775227963924408
+9,2017-05-31 22:05:00,"Cloud revenue grew 52%, while gross margin rose to 51%.",0.9539127945899963,0.016098253428936005,0.029989035800099373,positive,0.9378145337104797
+10,2017-05-31 22:05:00,"Dynamics, Azure and Office 365 are Microsoft's key products that continue to benefit from strong demand.",0.8768563866615295,0.013005072250962257,0.11013852804899216,positive,0.8638513088226318
+11,2017-05-31 22:05:00,It is seeing rapid adoption for Office 365 E3.,0.840063750743866,0.011451438069343567,0.14848482608795166,positive,0.8286123275756836
+12,2017-05-31 22:05:00,Investors should expect ASP (average selling price) for the business productivity product growing.,0.8318235874176025,0.022621337324380875,0.14555510878562927,positive,0.809202253818512
+13,2017-05-31 22:05:00,Enterprise customers recognize the value.,0.1502024531364441,0.007604970596730709,0.8421925902366638,neutral,0.1425974816083908
+14,2017-05-31 22:05:00,Office 365 E5 gives businesses everything they will need and will lift ASP.,0.8581648468971252,0.019295336678624153,0.12253978103399277,positive,0.8388695120811462
+15,2017-05-31 22:05:00,"In the third quarter, Microsoft crossed over 100 million monthly active users of Office 365 Commercial.",0.643165111541748,0.020927591249346733,0.33590736985206604,positive,0.622237503528595
+16,2017-05-31 22:05:00,Revenue grew 45% year-over-year.,0.9543182253837585,0.016904372721910477,0.028777364641427994,positive,0.9374138712882996
+17,2017-05-31 22:05:00,"Just as BlackBerry Ltd (NASDAQ: BBRY ) is embracing the Internet of Things but primarily in secure communications , so too is Microsoft through IoT Central.",0.14798568189144135,0.005731489043682814,0.8462828993797302,neutral,0.14225418865680695
+18,2017-05-31 22:05:00,"This SaaS offers end-to-end solutions, from devices to networks to software.",0.1265774667263031,0.004976190626621246,0.8684463500976562,neutral,0.12160127609968185
+19,2017-05-31 22:05:00,Microsoft extends its services further in IoT and allows customers to use managed services.,0.870777428150177,0.012411405332386494,0.11681114137172699,positive,0.8583660125732422
+20,2017-05-31 22:05:00,"While Microsoft admits IoT security is lacking , it is partnering with LM Ericsson (NASDAQ: ERIC ) instead of with BlackBerry to offer cellular IoT services.",0.27315086126327515,0.08743759244680405,0.6394115090370178,neutral,0.1857132613658905
+21,2017-05-31 22:05:00,Microsoft Dynamics has potential growth.,0.8185197710990906,0.011233328841626644,0.17024683952331543,positive,0.8072864413261414
+22,2017-05-31 22:05:00,"The product competes with Salesforce.com, Inc. (NYSE: CRM ), the leader in the CRM (customer relationship management) market.",0.8855379223823547,0.017321046441793442,0.09714104980230331,positive,0.868216872215271
+23,2017-05-31 22:05:00,"In its Q1, Salesforce.com reported revenue growing almost 25% to $2.39 billion.",0.9518487453460693,0.01753753237426281,0.030613679438829422,positive,0.9343112111091614
+24,2017-05-31 22:05:00,Operating cash flow grew 17% to $1.23 billion.,0.9566264152526855,0.017872029915452003,0.025501521304249763,positive,0.9387543797492981
+25,2017-05-31 22:05:00,Revenue from MSFT's Dynamics 365 grew 82% in the quarter.,0.9502239227294922,0.016410693526268005,0.03336542099714279,positive,0.933813214302063
+26,2017-05-31 22:05:00,"While the Dynamics business grew 10%, Dynamics 365's billings grew in the double digits.",0.9291530251502991,0.015375749208033085,0.05547120049595833,positive,0.9137772917747498
+27,2017-05-31 22:05:00,"Looking ahead, MSFT is transitioning Dynamics from on-premise to a modular SaaS service.",0.43194496631622314,0.009756442159414291,0.5582985877990723,neutral,0.42218852043151855
+28,2017-05-31 22:05:00,But the big install base for on-premise will limit profitability in the near term.,0.017344212159514427,0.9624208211898804,0.020234938710927963,negative,-0.945076584815979
+29,2017-05-31 22:05:00,Adobe Systems Incorporated (NASDAQ: ADBE ) successfully transitioned customers towards the cloud.,0.9139994382858276,0.01455154363065958,0.07144907116889954,positive,0.8994479179382324
+30,2017-05-31 22:05:00,"When Microsoft does so with all its customers, it, too will benefit from the higher gross margins.",0.9330388307571411,0.014641682617366314,0.05231945589184761,positive,0.9183971285820007
+31,2017-05-31 22:05:00,Microsoft is not forgetting about the mature PC market.,0.07502549141645432,0.011149927042424679,0.9138245582580566,neutral,0.06387556344270706
+32,2017-05-31 22:05:00,"Windows 10 Fall Creators Update will include a refresh to the user-interface and to Cortana, the digital assistant.",0.3531588315963745,0.010901389643549919,0.6359397768974304,neutral,0.34225744009017944
+33,2017-05-31 22:05:00,"Even though digital assistants are integral for smartphones made by Apple Inc. (NASDAQ: AAPL ) and Alphabet Inc's (NASDAQ: GOOG , NASDAQ: GOOGL ) Android, for Microsoft its primary platform is on the desktop.",0.017130859196186066,0.015279638580977917,0.9675894975662231,neutral,0.001851220615208149
+34,2017-05-31 22:05:00,But Cortana will support Microsoft applications running on either platform.,0.025378338992595673,0.009687773883342743,0.9649338722229004,neutral,0.01569056510925293
+35,2017-05-31 22:05:00,"Users may, for example, work on a document created on a PC, then continue editing it on an iPhone.",0.023843999952077866,0.029990309849381447,0.9461656212806702,neutral,-0.006146309897303581
+36,2017-05-31 22:05:00,"By ensuring its products have similar feature sets to its competitors, Microsoft should sustain the strong user activity on its products.",0.8040392398834229,0.011695677414536476,0.18426506221294403,positive,0.7923435568809509
+37,2017-05-31 22:05:00,Microsoft has strong growth ahead.,0.9267319440841675,0.014429581351578236,0.058838505297899246,positive,0.9123023748397827
+38,2017-05-31 22:05:00,"With little debt, strong earnings growth of 42% year-over-year and a forward P/E of 21 times, this stock should appeal to technology investors.",0.7626698613166809,0.011620678007602692,0.2257094383239746,positive,0.7510491609573364
+39,2017-05-31 22:05:00,"As of this writing, Chris Lau did not hold a position in any of the aforementioned securities.",0.008855507709085941,0.029662147164344788,0.9614824056625366,neutral,-0.02080664038658142
+40,2017-05-31 22:05:00,"• The Top 10 S&P 500 Dividend Stocks to Buy Now
+• BlackBerry Ltd (BBRY) Is the Next Nvidia Corporation (NVDA).",0.30988171696662903,0.011063741520047188,0.6790545582771301,neutral,0.2988179624080658
+41,2017-05-31 22:05:00,What?,0.12322873622179031,0.10918588191270828,0.7675853371620178,neutral,0.014042854309082031
+42,2017-05-31 22:05:00,The post Microsoft Corporation (MSFT) Stock Still a Strong Pick appeared first on InvestorPlace .,0.7965760231018066,0.04146851599216461,0.16195549070835114,positive,0.7551075220108032
+43,2017-05-31 22:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-07-10 02:41:00,"Some investors might not understand what Okta (NASDAQ:OKTA) does, but given that OKTA stock has nearly doubled this year, it makes sense to take a closer look.",0.23329541087150574,0.017314240336418152,0.7493903636932373,neutral,0.21598117053508759
+1,2020-07-10 02:41:00,"Okta opens for trade July 10 at almost $223 per share, a market cap of $27.4 billion.",0.48384109139442444,0.01893613114953041,0.49722275137901306,neutral,0.4649049639701843
+2,2020-07-10 02:41:00,It sells for 46 times last year’s revenue.,0.21168051660060883,0.011844927445054054,0.7764745354652405,neutral,0.19983558356761932
+3,2020-07-10 02:41:00,"As with many hot stocks, we can’t talk price to earnings because there are no earnings.",0.01802719011902809,0.3027854859828949,0.6791872978210449,neutral,-0.2847582995891571
+4,2020-07-10 02:41:00,"Okta was founded in 2009, at the bottom of the last recession, by former Salesforce.com (NYSE:CRM) executives Todd McKinnon and Frederic Kerrest.",0.025339344516396523,0.025774555280804634,0.9488861560821533,neutral,-0.00043521076440811157
+5,2020-07-10 02:41:00,"It went public in April 2017 at $17/share, a market cap of $1.54 billion.",0.3339105248451233,0.009571007452905178,0.6565184593200684,neutral,0.32433950901031494
+6,2020-07-10 02:41:00,"That means investors who got in at the IPO have a “10-bagger,” their investment being worth more than 10 times what they paid.",0.23518067598342896,0.05133345350623131,0.713485836982727,neutral,0.18384721875190735
+7,2020-07-10 02:41:00,"• The 7 Best Stocks to Invest in Right Now
+
+Okta is called a “work from home” stock because its technology helps companies maintain security while people work remotely.",0.401968389749527,0.018077492713928223,0.5799540877342224,neutral,0.38389089703559875
+8,2020-07-10 02:41:00,Okta provides a cloud-based identity management system.,0.03277786821126938,0.004972461611032486,0.9622496962547302,neutral,0.027805406600236893
+9,2020-07-10 02:41:00,"That means employees can sign-in from home once and not have to do it again, no matter what software the employer has them using or where it is.",0.05086914077401161,0.017058944329619408,0.9320719242095947,neutral,0.033810198307037354
+10,2020-07-10 02:41:00,"If they’re using Salesforce to manage customers and Microsoft (NASDAQ:MSFT) for office applications, they’re on.",0.06285487115383148,0.02381751872599125,0.9133275747299194,neutral,0.03903735429048538
+11,2020-07-10 02:41:00,Same if they’re using Oracle (NASDAQ:ORCL) and Alphabet (NASDAQ:GOOGL) Google apps.,0.020959673449397087,0.016716226935386658,0.9623240828514099,neutral,0.004243446514010429
+12,2020-07-10 02:41:00,"Whether it’s software as a service (SaaS) or a corporate network, one sign-on does it all.",0.03871826082468033,0.007463867776095867,0.9538179039955139,neutral,0.03125439211726189
+13,2020-07-10 02:41:00,This also helps companies migrate from on-premise applications to the cloud by making identity portable.,0.6963589191436768,0.011827717535197735,0.2918134033679962,positive,0.6845312118530273
+14,2020-07-10 02:41:00,"I have worked at home for decades, and the only way I can manage my own identity is with software.",0.018289906904101372,0.02093552052974701,0.9607745409011841,neutral,-0.0026456136256456375
+15,2020-07-10 02:41:00,My wife has a rotating list of passwords that her employer makes her update regularly.,0.016375156119465828,0.025855684652924538,0.9577691555023193,neutral,-0.00948052853345871
+16,2020-07-10 02:41:00,My children complain that everything they do requires a different sign-on.,0.035006556659936905,0.21950122714042664,0.7454922199249268,neutral,-0.18449467420578003
+17,2020-07-10 02:41:00,"Okta puts all that in the background by creating a “federation” of identity built on a single credential, created with software called OAuth2.",0.04254614934325218,0.007779213599860668,0.9496746063232422,neutral,0.03476693481206894
+18,2020-07-10 02:41:00,"Since the underlying software is an open standard, it scales easily.",0.114407978951931,0.005892185494303703,0.8796998262405396,neutral,0.10851579159498215
+19,2020-07-10 02:41:00,"The company recently signed an alliance with other, similar companies, including Crowdstrike (NASDAQ:CRWD) and Proofpoint (NASDAQ:PFPT), to help implement this new “zero trust” identity framework.",0.8932279348373413,0.012857249937951565,0.09391484409570694,positive,0.8803706765174866
+20,2020-07-10 02:41:00,Since going public Okta’s revenues have more than tripled.,0.8557239770889282,0.014105225913226604,0.1301707923412323,positive,0.8416187763214111
+21,2020-07-10 02:41:00,Revenue for the April quarter was up 50% from a year earlier.,0.9590508937835693,0.021358825266361237,0.01959027536213398,positive,0.9376920461654663
+22,2020-07-10 02:41:00,"Operating cash flow has been positive for two years, and it’s accelerating.",0.945500373840332,0.015990102663636208,0.038509566336870193,positive,0.9295102953910828
+23,2020-07-10 02:41:00,But conventional analysts call the current price insane.,0.09839066863059998,0.3374653458595276,0.5641440153121948,neutral,-0.2390746772289276
+24,2020-07-10 02:41:00,"The stock is well above the average one-year price target, which is under $200.",0.8374956250190735,0.027171704918146133,0.13533265888690948,positive,0.8103238940238953
+25,2020-07-10 02:41:00,"Of 17 analysts, 6 are now in the “hold” camp.",0.06459260731935501,0.44298091530799866,0.4924265146255493,neutral,-0.37838831543922424
+26,2020-07-10 02:41:00,"BTIG’s Gray Powell is one of the analysts getting a nosebleed, telling investors to take profits.",0.11881298571825027,0.6949701905250549,0.1862168312072754,negative,-0.5761572122573853
+27,2020-07-10 02:41:00,If you’re already in the stock this sounds reasonable.,0.056254561990499496,0.01352214626967907,0.9302232265472412,neutral,0.042732417583465576
+28,2020-07-10 02:41:00,A profit isn’t a profit until you sell the asset and have the cash.,0.06082683801651001,0.028612086549401283,0.9105610847473145,neutral,0.032214753329753876
+29,2020-07-10 02:41:00,"If you have 10 shares you can sell 5, let the rest ride, and not worry about a fall.",0.06454774737358093,0.010107958689332008,0.9253442883491516,neutral,0.054439790546894073
+30,2020-07-10 02:41:00,"As with many software stocks, there’s a huge disconnect between the reality of the business and the stock price.",0.027758661657571793,0.732992947101593,0.2392483800649643,negative,-0.7052342891693115
+31,2020-07-10 02:41:00,But what if you’re not in Okta stock?,0.033736713230609894,0.07205504179000854,0.8942082524299622,neutral,-0.03831832855939865
+32,2020-07-10 02:41:00,"In that case you should know that, while its niche is sustainable, you’re not really investing.",0.027375446632504463,0.020024962723255157,0.9525995850563049,neutral,0.007350483909249306
+33,2020-07-10 02:41:00,"You’re speculating, chasing a hot stock in hope of a quick profit.",0.18548738956451416,0.035520654171705246,0.7789919376373291,neutral,0.14996673166751862
+34,2020-07-10 02:41:00,That works in today’s market.,0.10046476870775223,0.015710512176156044,0.8838246464729309,neutral,0.08475425839424133
+35,2020-07-10 02:41:00,Ask anyone who bought Tesla (NASDAQ:TSLA).,0.015287001617252827,0.010005354881286621,0.9747076630592346,neutral,0.005281646735966206
+36,2020-07-10 02:41:00,"In terms of the actual business, the best at Okta is yet to come.",0.39586395025253296,0.013903390616178513,0.5902326107025146,neutral,0.38196057081222534
+37,2020-07-10 02:41:00,Some analysts continue to recommend Okta stock with targets higher than its current price.,0.6620495319366455,0.02034817449748516,0.3176022469997406,positive,0.641701340675354
+38,2020-07-10 02:41:00,But we are in a bubble.,0.17120462656021118,0.047310080379247665,0.7814852595329285,neutral,0.12389454245567322
+39,2020-07-10 02:41:00,"That bubble will pop, either when expectations can’t be met, or speculators find another shiny object to chase.",0.16808265447616577,0.09451483190059662,0.7374024987220764,neutral,0.07356782257556915
+40,2020-07-10 02:41:00,"When that happens, you’ll still have stock in a good company.",0.4222702085971832,0.01223271619528532,0.5654970407485962,neutral,0.41003748774528503
+41,2020-07-10 02:41:00,I think investors should wait for that.,0.07017876952886581,0.012495836243033409,0.9173254370689392,neutral,0.057682931423187256
+42,2020-07-10 02:41:00,Dana Blankenhorn has been a financial and technology journalist since 1978.,0.04600616171956062,0.02338101528584957,0.9306128025054932,neutral,0.022625146433711052
+43,2020-07-10 02:41:00,"His latest book is Technology’s Big Bang: Yesterday, Today and Tomorrow with Moore’s Law, essays on technology available at the Amazon Kindle store.",0.046195872128009796,0.013179032132029533,0.9406251311302185,neutral,0.033016838133335114
+44,2020-07-10 02:41:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn.,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+45,2020-07-10 02:41:00,As of this writing he owned shares in MSFT.,0.014195043593645096,0.010438453406095505,0.975366473197937,neutral,0.003756590187549591
+46,2020-07-10 02:41:00,The post OKTA Stock Is a Solid Investment but Not at These Prices appeared first on InvestorPlace.,0.4346032738685608,0.018725503236055374,0.5466712713241577,neutral,0.4158777594566345

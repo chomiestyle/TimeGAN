@@ -1,0 +1,83 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-21 09:50:00,I get it.,0.2464001625776291,0.017667755484580994,0.7359321117401123,neutral,0.2287324070930481
+1,2015-08-21 09:50:00,It's the end of the world as we know it.,0.06085246428847313,0.10166400671005249,0.8374834656715393,neutral,-0.04081154242157936
+2,2015-08-21 09:50:00,Armageddon has stepped in.,0.1923561990261078,0.04338987544178963,0.7642539739608765,neutral,0.14896632730960846
+3,2015-08-21 09:50:00,The four horsemen of the apocalypse are galloping down Wall Street.,0.22088293731212616,0.08787484467029572,0.6912422180175781,neutral,0.13300809264183044
+4,2015-08-21 09:50:00,The end is nigh.,0.18429940938949585,0.21908730268478394,0.5966132879257202,neutral,-0.034787893295288086
+5,2015-08-21 09:50:00,"Guess what people, you're all wrong.",0.12965229153633118,0.2942062020301819,0.5761415362358093,neutral,-0.1645539104938507
+6,2015-08-21 09:50:00,We get a small spat of volatility and everyone is freaking out like its 2008.,0.052464619278907776,0.5947070121765137,0.35282838344573975,negative,-0.5422424077987671
+7,2015-08-21 09:50:00,I learned a lot in that downturn and I'm not about to forget everything I learned because the S&P 500 is beginning to sell off a little bit 7 years later.,0.6259133815765381,0.02689247950911522,0.3471941649913788,positive,0.5990208983421326
+8,2015-08-21 09:50:00,"News flash, the stock market doesn't go straight up.",0.047190021723508835,0.0990433543920517,0.8537666201591492,neutral,-0.05185333266854286
+9,2015-08-21 09:50:00,"Along the way we get a bunch of pull backs, retracements, walking to the edge and threatening to jump off the cliff.",0.08481986075639725,0.1728181540966034,0.7423619627952576,neutral,-0.08799829334020615
+10,2015-08-21 09:50:00,We just forget all about that sort of thing because we've become soft.,0.06670311838388443,0.13027727603912354,0.803019642829895,neutral,-0.0635741576552391
+11,2015-08-21 09:50:00,"There, I said it.",0.15773916244506836,0.04322061315178871,0.7990402579307556,neutral,0.11451855301856995
+12,2015-08-21 09:50:00,We're all turning into the participation trophy investors.,0.10134189575910568,0.008489135652780533,0.8901689648628235,neutral,0.09285275638103485
+13,2015-08-21 09:50:00,This market has rewarded the weak hands that limped in.,0.9007224440574646,0.026687802746891975,0.07258971035480499,positive,0.8740346431732178
+14,2015-08-21 09:50:00,It's given profits to the amateur who learned how to enter a trade on their own and bought Apple because their hairdresser thought it was a good stock to buy.,0.6019554734230042,0.020921314135193825,0.3771232068538666,positive,0.5810341835021973
+15,2015-08-21 09:50:00,You want a sure thing?,0.10068590939044952,0.05350952968001366,0.8458046317100525,neutral,0.04717637971043587
+16,2015-08-21 09:50:00,Death and taxes.,0.0760592445731163,0.10832934081554413,0.8156114816665649,neutral,-0.032270096242427826
+17,2015-08-21 09:50:00,You want to be a big-time trader and investor?,0.06166946515440941,0.009988335892558098,0.9283422231674194,neutral,0.05168113112449646
+18,2015-08-21 09:50:00,Learn from times like this.,0.2560071349143982,0.010682979598641396,0.7333099246025085,neutral,0.24532414972782135
+19,2015-08-21 09:50:00,Test your mettle forge your fortitude in the fire of a market panic.,0.6619419455528259,0.03456026688218117,0.3034977614879608,positive,0.6273816823959351
+20,2015-08-21 09:50:00,That's what separates the Pitt from the Poodles.,0.06534914672374725,0.037685591727495193,0.8969652056694031,neutral,0.02766355499625206
+21,2015-08-21 09:50:00,The platinum from the white gold.,0.10508411377668381,0.02101275883615017,0.8739030957221985,neutral,0.08407135307788849
+22,2015-08-21 09:50:00,The women and men from the wimps and the mice.,0.05369364097714424,0.06049896031618118,0.885807454586029,neutral,-0.0068053193390369415
+23,2015-08-21 09:50:00,THIS...IS...WALL STREET!,0.06821717321872711,0.05245552584528923,0.8793272376060486,neutral,0.01576164737343788
+24,2015-08-21 09:50:00,"With the market collapsing around you, how do you stand in and make money?",0.05064109340310097,0.03162504360079765,0.917733907699585,neutral,0.019016049802303314
+25,2015-08-21 09:50:00,Open your eyes and look for the bargains.,0.10234099626541138,0.017594993114471436,0.8800640106201172,neutral,0.08474600315093994
+26,2015-08-21 09:50:00,Buy into the strength.,0.2514408230781555,0.017898889258503914,0.7306602597236633,neutral,0.23354193568229675
+27,2015-08-21 09:50:00,Pick up the names with sound fundamentals that are being beat up with the rest of the market.,0.2512608766555786,0.009321089833974838,0.7394180297851562,neutral,0.24193978309631348
+28,2015-08-21 09:50:00,The babies that have been thrown out with the bathwater.,0.11841578036546707,0.24308475852012634,0.6384994387626648,neutral,-0.12466897815465927
+29,2015-08-21 09:50:00,What better tool could you possibly have than the Zacks Rank?,0.20401398837566376,0.07438352704048157,0.7216024994850159,neutral,0.1296304613351822
+30,2015-08-21 09:50:00,The rank gives us stocks that have seen positive earnings estimate revisions from analysts.,0.7683180570602417,0.053818974643945694,0.1778629571199417,positive,0.7144990563392639
+31,2015-08-21 09:50:00,These are stocks analysts think can make more and more money over the short term.,0.1607610434293747,0.007601020857691765,0.8316379189491272,neutral,0.15316002070903778
+32,2015-08-21 09:50:00,These are the stocks you should be looking at and the best stocks to buy on this pullback.,0.18673323094844818,0.008652092888951302,0.8046147227287292,neutral,0.17808113992214203
+33,2015-08-21 09:50:00,D.R.,0.0767197534441948,0.04724223166704178,0.8760380148887634,neutral,0.029477521777153015
+34,2015-08-21 09:50:00,"Horton, Inc., one of the largest homebuilders in the United States, builds high quality, single-family homes designed principally for the entry-level and move-up markets.",0.09757839888334274,0.004425919149070978,0.8979957103729248,neutral,0.0931524783372879
+35,2015-08-21 09:50:00,"Founded in 1978, the company builds and sells homes with a geographic presence in the Midwest, Mid-Atlantic, Southeast, Southwest, and Western regions of the United States.",0.045382726937532425,0.004307010676711798,0.950310230255127,neutral,0.04107571765780449
+36,2015-08-21 09:50:00,Shares of DHI broke out from the $30 level before the market got rocked.,0.8508182764053345,0.03736402839422226,0.11181768774986267,positive,0.813454270362854
+37,2015-08-21 09:50:00,All that drag only pulled shares back about a buck off the 52-week high.,0.8349544405937195,0.10510119795799255,0.05994436889886856,positive,0.7298532724380493
+38,2015-08-21 09:50:00,Stochastics are still a bit overbought but have come back near 80.,0.5352376103401184,0.10457047820091248,0.3601919114589691,positive,0.43066713213920593
+39,2015-08-21 09:50:00,With the 21-day moving average below $30 you have a very nice risk/reward scenario shaping up.,0.13040494918823242,0.012132067233324051,0.8574629426002502,neutral,0.11827288568019867
+40,2015-08-21 09:50:00,Home Depot is the one of world's largest home improvement retailer.,0.2800748944282532,0.008841408416628838,0.711083710193634,neutral,0.2712334990501404
+41,2015-08-21 09:50:00,The company offers a level of service unprecedented among warehouse-style retailers.,0.3629413843154907,0.008401770144701004,0.628656804561615,neutral,0.3545396029949188
+42,2015-08-21 09:50:00,"Home Depot stores cater to do-it-yourselfers, as well as home improvement, construction and building maintenance professionals.",0.021455662325024605,0.006045558489859104,0.9724987745285034,neutral,0.0154101038351655
+43,2015-08-21 09:50:00,"The Home Depot currently operates in the USA, Canada, Chile, Puerto Rico, and Argentina.",0.018826549872756004,0.005601431708782911,0.9755719900131226,neutral,0.013225117698311806
+44,2015-08-21 09:50:00,The company also operates EXPO Design Centers across the U.S. and Villager's Hardware in New Jersey.,0.01855367422103882,0.008013901300728321,0.9734323620796204,neutral,0.010539772920310497
+45,2015-08-21 09:50:00,The pullback on Home Depot is textbook right now.,0.049725428223609924,0.8030675053596497,0.14720705151557922,negative,-0.7533420920372009
+46,2015-08-21 09:50:00,Shares have retreated to the 21-day moving average which happens to coincide with the top of the trading range in March.,0.019246665760874748,0.962024986743927,0.01872827857732773,negative,-0.9427783489227295
+47,2015-08-21 09:50:00,"With hurricane season coming up, I expect this stock to break on through to new highs when the market regains its footing.",0.9128565192222595,0.01753753237426281,0.0696059912443161,positive,0.8953189849853516
+48,2015-08-21 09:50:00,"Post Holdings Inc. is a manufacturer, marketer and distributor of branded ready-to-eat cereals in the United States and Canada.",0.04358699545264244,0.004913490265607834,0.9514995217323303,neutral,0.03867350518703461
+49,2015-08-21 09:50:00,"The Company's products are manufactured through a production platform consisting of four owned primary facilities and sold through a variety of channels such as grocery stores, mass merchandisers, club stores, and drug stores.",0.021281028166413307,0.005254011135548353,0.9734649062156677,neutral,0.016027016565203667
+50,2015-08-21 09:50:00,"Its portfolio of brands includes diverse offerings such as Honey Bunches of Oats, Pebbles, Post Selects, Great Grains, Spoon Size Shredded Wheat, Post Raisin Bran, Grape-Nuts and Honeycomb.",0.0682220607995987,0.004488472361117601,0.9272894263267517,neutral,0.06373358517885208
+51,2015-08-21 09:50:00,Post took off like a rocket following the last earnings report.,0.1711677759885788,0.16555532813072205,0.6632769107818604,neutral,0.0056124478578567505
+52,2015-08-21 09:50:00,Shares probed higher in search of a new fair value area for the stock.,0.8575013279914856,0.0436413437128067,0.09885727614164352,positive,0.8138599991798401
+53,2015-08-21 09:50:00,"Looks like it lost a little steam just above $66 but with a market running down the weak stocks like this, it speaks volumes that POST has held up.",0.07573841512203217,0.8594290018081665,0.06483256071805954,negative,-0.7836905717849731
+54,2015-08-21 09:50:00,This price level is a new paradigm and a good level to buy at for the next leg higher.,0.7496805787086487,0.019991394132375717,0.23032797873020172,positive,0.7296891808509827
+55,2015-08-21 09:50:00,"Tempur Sealy International, Inc. is involved in the development, manufacturing and marketing of bedding products primarily in North America and internationally.",0.032223042100667953,0.0046357568353414536,0.963141143321991,neutral,0.0275872852653265
+56,2015-08-21 09:50:00,"It provides mattresses, adjustable bases, pillows and other sleep and relaxation products.",0.02765882946550846,0.005306548438966274,0.9670346975326538,neutral,0.02235228195786476
+57,2015-08-21 09:50:00,"TPX has shown strength all year, rocketing off a bottom near $50 in February.",0.9431201815605164,0.026117779314517975,0.03076201304793358,positive,0.9170023798942566
+58,2015-08-21 09:50:00,"From there shares went nuclear, getting to nearly $79 before the market sold off heavy.",0.8734787106513977,0.0446489118039608,0.0818723663687706,positive,0.828829824924469
+59,2015-08-21 09:50:00,"The retreacement has taken TPX down to the 21-day moving average, setting up a great buying opportunity right now.",0.44323641061782837,0.3731918931007385,0.1835717111825943,positive,0.07004451751708984
+60,2015-08-21 09:50:00,T-Mobile is a national provider of mobile communications services.,0.12227895110845566,0.0051710824482142925,0.8725499510765076,neutral,0.11710786819458008
+61,2015-08-21 09:50:00,"Based in Bellevue, Wash., T-Mobile US operates its flagship brands, T-Mobile and MetroPCS.",0.023791002109646797,0.005550036206841469,0.9706590175628662,neutral,0.01824096590280533
+62,2015-08-21 09:50:00,"It currently serves approximately 44 million wireless subscribers and provides products and services through 70,000 points of distribution.",0.03679079934954643,0.004593160003423691,0.9586160182952881,neutral,0.03219763934612274
+63,2015-08-21 09:50:00,Don't sleep on this mobile provider.,0.017868133261799812,0.020945610478520393,0.9611862897872925,neutral,-0.003077477216720581
+64,2015-08-21 09:50:00,Shares have pulled back to the top end of the Jun range.,0.26941099762916565,0.6534188985824585,0.07717009633779526,negative,-0.38400790095329285
+65,2015-08-21 09:50:00,"After leapfrogging the 21-day moving average in late July and breaking to new highs, TMUS has retreated back to the 21-day on a retreating Stochastic indicator.",0.056791096925735474,0.890735924243927,0.052472952753305435,negative,-0.8339447975158691
+66,2015-08-21 09:50:00,"Also, TMUS hasn't broken down through the bullish trend line.",0.5490610003471375,0.11540248990058899,0.33553653955459595,positive,0.43365851044654846
+67,2015-08-21 09:50:00,"Those all scream ""Buy"" to me.",0.07383131235837936,0.049970656633377075,0.8761980533599854,neutral,0.02386065572500229
+68,2015-08-21 09:50:00,Days like this are where money is made in the market.,0.05739283189177513,0.04980906844139099,0.892798125743866,neutral,0.00758376345038414
+69,2015-08-21 09:50:00,You can't cower and run away from a market like this.,0.05060388892889023,0.24803930521011353,0.7013567686080933,neutral,-0.1974354088306427
+70,2015-08-21 09:50:00,"You get excited, march in their and scoop up strong stocks that will make it through this volatility.",0.5910173058509827,0.017061125487089157,0.39192160964012146,positive,0.5739561915397644
+71,2015-08-21 09:50:00,Fortunes are found when investors push through weak emotions to make intelligent purchase decisions.,0.25046446919441223,0.017428815364837646,0.7321066856384277,neutral,0.23303565382957458
+72,2015-08-21 09:50:00,This is your time to shine and these are the stocks to pull you out from the flames.,0.2044253647327423,0.009735073894262314,0.7858395576477051,neutral,0.1946902871131897
+73,2015-08-21 09:50:00,Be sure to click FOLLOW THE AUTHOR above to stay on top of all the hot momentum stocks at Zacks.com.,0.07430945336818695,0.05305447056889534,0.872636079788208,neutral,0.02125498279929161
+74,2015-08-21 09:50:00,"David Bartosiak is the Momentum Stock Strategist with Zacks and editor of the Momentum Trader.Twitter @bartosiastics
+
+Want the latest recommendations from Zacks Investment Research?",0.01715937815606594,0.012303815223276615,0.9705368280410767,neutral,0.004855562932789326
+75,2015-08-21 09:50:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+76,2015-08-21 09:50:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+77,2015-08-21 09:50:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

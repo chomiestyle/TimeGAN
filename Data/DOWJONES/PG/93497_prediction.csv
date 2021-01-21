@@ -1,0 +1,39 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-04-30 03:22:00,T he dollar's rise has been a boon to currency-hedged ETFs.,0.9033523797988892,0.03146272897720337,0.06518489122390747,positive,0.8718896508216858
+1,2015-04-30 03:22:00,But currency movements affect more than the international exchange traded funds that diversify your portfolio.,0.021977165713906288,0.013193544931709766,0.9648293256759644,neutral,0.008783620782196522
+2,2015-04-30 03:22:00,They can impact how you allocate to domestic sectors and industries.,0.018848681822419167,0.014267903752624989,0.9668834209442139,neutral,0.004580778069794178
+3,2015-04-30 03:22:00,"""Investors seeking to position their portfolios for a stronger dollar should also be considering the challenges and opportunities when investing within the U.S.,"" says David Mazza, head of research for State Street's SPDR ETFs .",0.6104018688201904,0.015034953132271767,0.3745630979537964,positive,0.595366895198822
+4,2015-04-30 03:22:00,That's becoming clear.,0.10885030031204224,0.027291901409626007,0.8638578057289124,neutral,0.08155839890241623
+5,2015-04-30 03:22:00,"This earnings season,Procter & Gamble ( PG ) andGoogle ( GOOGL ) have blamed the dollar for weaker revenue.",0.02007945626974106,0.9675523042678833,0.012368285097181797,negative,-0.947472870349884
+6,2015-04-30 03:22:00,So have3M ( MMM ) andPepsiCo ( PEP ).,0.03159220144152641,0.009474745951592922,0.9589329957962036,neutral,0.022117454558610916
+7,2015-04-30 03:22:00,"The dollar's slipped lately, but Mazza believes that the long-term trend is clear: ""We are 3-1/2 years into a 10-year bull run for the U.S.",0.2291179597377777,0.6354398727416992,0.1354421228170395,negative,-0.4063219130039215
+8,2015-04-30 03:22:00,"dollar.""",0.16554708778858185,0.10246434062719345,0.7319885492324829,neutral,0.0630827471613884
+9,2015-04-30 03:22:00,Major exporters and multinationals are more exposed to overseas markets and currency movements.,0.12592926621437073,0.030970780178904533,0.8431000113487244,neutral,0.09495848417282104
+10,2015-04-30 03:22:00,"For them, a stronger dollar can be a negative.",0.02961088716983795,0.9243106245994568,0.04607851058244705,negative,-0.89469975233078
+11,2015-04-30 03:22:00,It dents overseas profits.,0.022249890491366386,0.9586635231971741,0.019086498767137527,negative,-0.9364136457443237
+12,2015-04-30 03:22:00,"For successful investing , Mazza advises investors to look for sectors and industries that depend less on foreign sales.",0.11714185774326324,0.007137984503060579,0.8757201433181763,neutral,0.11000387370586395
+13,2015-04-30 03:22:00,"Think health care, financials and transportation.",0.021669119596481323,0.010438972152769566,0.9678919315338135,neutral,0.011230147443711758
+14,2015-04-30 03:22:00,SPDR S&P Healthcare Services' ( XHS ) holdings derive 23.5% of their revenues from foreign sales vs.SDPR S&P Semiconductor's (XSD) 75.4%.,0.1445525586605072,0.13187859952449799,0.723568856716156,neutral,0.012673959136009216
+15,2015-04-30 03:22:00,"""The sector's business operations are not export-driven but are reliant on domestic demand for health care services as well as intellectual property through patent development,"" Mazza said.",0.03843551129102707,0.005691239144653082,0.9558732509613037,neutral,0.03274427354335785
+16,2015-04-30 03:22:00,These companies benefit from a stronger dollar.,0.8883914947509766,0.015457573346793652,0.0961509570479393,positive,0.8729339241981506
+17,2015-04-30 03:22:00,Any supplies that they import are cheaper.,0.20828261971473694,0.010925871320068836,0.7807914614677429,neutral,0.19735674560070038
+18,2015-04-30 03:22:00,And more consumers use their products and services when jobs are to be had and payrolls are fat.,0.0704958438873291,0.44359415769577026,0.4859100878238678,neutral,-0.37309831380844116
+19,2015-04-30 03:22:00,The sector's profitability outlook is bright.,0.8974035382270813,0.014188230969011784,0.0884082019329071,positive,0.8832153081893921
+20,2015-04-30 03:22:00,"XHS's holdings have an estimated earnings growth rate of 14.1% over the next three to five years, according to FactSet.",0.8483694791793823,0.01122221164405346,0.14040827751159668,positive,0.8371472954750061
+21,2015-04-30 03:22:00,"For buzzy semiconductors, it's 11.9%.",0.0318620428442955,0.05201127007603645,0.9161267280578613,neutral,-0.02014922723174095
+22,2015-04-30 03:22:00,"Like health care services, the banking industry has a more domestic focus.SPDR S&P Bank's (KBE) holdings derive 15% of revenue from abroad.",0.049212388694286346,0.006376340985298157,0.9444112181663513,neutral,0.04283604770898819
+23,2015-04-30 03:22:00,Its 63 holdings are mostly regional banks and mortgage insurers.,0.012893824838101864,0.007807470858097076,0.9792987108230591,neutral,0.0050863539800047874
+24,2015-04-30 03:22:00,They includeBank of the Ozarks (OZRK) andRadian Group (RDN).,0.014192620292305946,0.007373026572167873,0.9784343838691711,neutral,0.006819593720138073
+25,2015-04-30 03:22:00,KBE stands to gain from the dollar's gain vs. foreign currencies.,0.9413484930992126,0.03081582672894001,0.02783568948507309,positive,0.9105326533317566
+26,2015-04-30 03:22:00,A stronger greenback makes consumers more confident.,0.8761178851127625,0.023906778544187546,0.09997536987066269,positive,0.8522111177444458
+27,2015-04-30 03:22:00,"""Those companies see increased demand for loans and mortgages,"" Mazza said.",0.9202760457992554,0.015247395262122154,0.06447652727365494,positive,0.9050286412239075
+28,2015-04-30 03:22:00,KBE fell 0.8% intraday amid broad losses in the stock market today .,0.02261335961520672,0.966820478439331,0.01056616473942995,negative,-0.9442071318626404
+29,2015-04-30 03:22:00,"To benefit from the dollar rally, Mazza also advises investors to focus on sectors or industries that rely heavily on imports for operations -- specifically, energy.",0.20625796914100647,0.009160340763628483,0.78458172082901,neutral,0.19709762930870056
+30,2015-04-30 03:22:00,Transportation stocks stand to peg bigger profits as the stronger greenback depresses gas prices.,0.7803441286087036,0.160125270485878,0.05953062325716019,positive,0.6202188730239868
+31,2015-04-30 03:22:00,"Globally, crude oil is priced in U.S. dollars.",0.15574002265930176,0.013055326417088509,0.8312046527862549,neutral,0.1426846981048584
+32,2015-04-30 03:22:00,"When the dollar is strong, oil gets cheaper at home.",0.3397524058818817,0.021798670291900635,0.63844895362854,neutral,0.3179537355899811
+33,2015-04-30 03:22:00,"For transport companies, that's a boost to the bottom line and growth, Mazza said.Delta Air Lines (DAL) andSouthwest Airlines (LUV) expect millions in savings from lower fuel prices.",0.9328489899635315,0.01582244597375393,0.05132855847477913,positive,0.9170265197753906
+34,2015-04-30 03:22:00,SDPR S&P Transportation (XTN) has roughly 5% of its assets in both stocks combined.,0.013902436010539532,0.010281819850206375,0.9758157730102539,neutral,0.0036206161603331566
+35,2015-04-30 03:22:00,The ETF's holdings derive a relatively low 25.8% of revenue from overseas sales .,0.018645402044057846,0.7853403091430664,0.19601422548294067,negative,-0.7666949033737183
+36,2015-04-30 03:22:00,XTN holdings are estimated to grow earnings 15.8% in the next few years -- more thanSPDR Biotech's (XBI) 10.2%.,0.9483180642127991,0.014728437177836895,0.03695353865623474,positive,0.9335896372795105
+37,2015-04-30 03:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-04-17 14:03:00,The digital revolution has been a disruptive force in the retail industry in the past decade.,0.04245464503765106,0.7450251579284668,0.21252015233039856,negative,-0.7025704979896545
+1,2019-04-17 14:03:00,Internet companies like Amazon (NASDAQ: AMZN) and Google (NASDAQ: GOOG)(NASDAQ: GOOGL) have flipped the page on how consumers shop and what they expect from a store.,0.04976047948002815,0.056271713227033615,0.893967866897583,neutral,-0.006511233747005463
+2,2019-04-17 14:03:00,Conventional retailers that have been slow to make changes have suffered as a result.,0.019611917436122894,0.9551878571510315,0.02520023286342621,negative,-0.9355759620666504
+3,2019-04-17 14:03:00,Some of the same forces that have transformed the business-to-consumer landscape are only just beginning to disrupt the business-to-business (B2B) sales marketplace.,0.03739387169480324,0.8266221880912781,0.13598401844501495,negative,-0.7892283201217651
+4,2019-04-17 14:03:00,"Amazon, Google, and the like are benefiting again, but supplier businesses are turning to software and digital consulting outfits for help.",0.8580737709999084,0.022876117378473282,0.11905013769865036,positive,0.8351976275444031
+5,2019-04-17 14:03:00,"For investors, that means providers like salesforce.com (NYSE: CRM) and Adobe (NASDAQ: ADBE) could be the biggest beneficiaries this round.",0.20174187421798706,0.017635412514209747,0.7806227803230286,neutral,0.1841064691543579
+6,2019-04-17 14:03:00,"I recently spoke with Scott Webb, president of the tech consulting start-up Avionos, and Matt Schmeltz, investor and board member at Avionos.",0.060425274074077606,0.00825284793972969,0.9313218593597412,neutral,0.052172426134347916
+7,2019-04-17 14:03:00,"Webb and Schmeltz said that younger people are taking up decision-making roles inside organizations, and their personal preferences are starting to have an impact on businesses themselves.",0.19712792336940765,0.03260674700140953,0.7702652812004089,neutral,0.16452117264270782
+8,2019-04-17 14:03:00,That means digital disruption -- already in full force in the retail world -- is now building momentum in B2B.,0.7140375375747681,0.09883861988782883,0.1871238648891449,positive,0.6151989102363586
+9,2019-04-17 14:03:00,"For an outfit like Avionos, which partners with tech providers like Salesforce and Adobe, helping B2B companies meet today's digital demands as quickly as possible is key.",0.8255299925804138,0.014854303561151028,0.1596156507730484,positive,0.8106756806373596
+10,2019-04-17 14:03:00,"Webb said:
+
+Delivering fundamental business change within a few months sounds like a tall order, but it's an important one, as many B2B companies are reporting substantial sales losses because of a lack of meaningful internet presence.",0.06670352816581726,0.8254007697105408,0.10789567232131958,negative,-0.7586972713470459
+11,2019-04-17 14:03:00,"The internet isn't new, so it seems surprising that the B2B world is just now getting on board with the movement.",0.34141701459884644,0.018718939274549484,0.6398640275001526,neutral,0.32269808650016785
+12,2019-04-17 14:03:00,"Nevertheless, that's the current situation, but digital evolution is picking up steam.",0.6064499616622925,0.021859468892216682,0.371690571308136,positive,0.584590494632721
+13,2019-04-17 14:03:00,"Schmeltz -- who was the chief marketing officer at CloudCraze when it was acquired by Salesforce in 2018 -- said:
+
+Some of the sales systems out there are still shockingly antiquated.",0.025911062955856323,0.8111931681632996,0.1628957837820053,negative,-0.7852821350097656
+14,2019-04-17 14:03:00,Schmeltz related a use case he worked on a few years ago for a large beverage company in Europe that was still receiving more than 500 faxes a day.,0.08020569384098053,0.3811403810977936,0.5386539697647095,neutral,-0.30093467235565186
+15,2019-04-17 14:03:00,"Countless other situations are still out there waiting for a solution, and it's more critical than ever.",0.1667872667312622,0.035377137362957,0.7978355884552002,neutral,0.1314101219177246
+16,2019-04-17 14:03:00,"Webb added that 90% of business buyers will go elsewhere if a supplier does not have readily available digital tools, and 75% purchase elsewhere even if it costs more money.",0.04086503013968468,0.34057262539863586,0.6185623407363892,neutral,-0.2997075915336609
+17,2019-04-17 14:03:00,"That's where Amazon Business and Google are picking up the slack from slow-to-move suppliers, providing the digital store and search capabilities that business purchasers are looking for.",0.4282814562320709,0.014550098218023777,0.5571684837341309,neutral,0.4137313663959503
+18,2019-04-17 14:03:00,"Change is never too late
+
+Webb says that for B2B today, ""'easy to do business with' means I'd better be able to self-research on my time when I want, before I ever have to pick up the phone.""",0.4947110116481781,0.021258443593978882,0.484030544757843,positive,0.4734525680541992
+19,2019-04-17 14:03:00,"And if the phone even enters the equation, B2B purchasers expect a company to ""know everything about me already and more.""",0.1404271125793457,0.010111851617693901,0.8494610786437988,neutral,0.13031525909900665
+20,2019-04-17 14:03:00,"According to Avionos' 2019 B2B Buyer Report, that's why a third of corporate purchasing decisions begin with Amazon Business or Google, not directly with suppliers themselves.",0.017521804198622704,0.012749414891004562,0.9697288274765015,neutral,0.004772389307618141
+21,2019-04-17 14:03:00,"The trend is accelerating, too.",0.7721105813980103,0.016120681539177895,0.21176870167255402,positive,0.7559899091720581
+22,2019-04-17 14:03:00,Avionos' survey also reports that 77% of B2B buyers moved more of their purchasing online last year.,0.12907478213310242,0.2169768363237381,0.6539483666419983,neutral,-0.08790205419063568
+23,2019-04-17 14:03:00,"Avionos' solution for B2B suppliers: ""Be like Amazon, not like Amazon.com.""",0.03433921933174133,0.02117450162768364,0.9444863200187683,neutral,0.013164717704057693
+24,2019-04-17 14:03:00,"Amazon has thrived, not just because of the digital tools, but by working to understand buyers and their online habits.",0.8819794654846191,0.013445630669593811,0.10457486659288406,positive,0.8685338497161865
+25,2019-04-17 14:03:00,"B2B sales companies that merely try to imitate the online functionality of Amazon.com have limited success, but they have an advantage: customer data.",0.06705686450004578,0.06113329529762268,0.8718097805976868,neutral,0.005923569202423096
+26,2019-04-17 14:03:00,"That's where Avionos comes in, building a digital strategy that incorporates a supplier's knowledge on its customer base with customer-centric data tools from Salesforce and Adobe like online research, purchase prediction, and intuitive communications interfaces for purchasers.",0.2548554837703705,0.0067409854382276535,0.7384034991264343,neutral,0.24811449646949768
+27,2019-04-17 14:03:00,"How to make some hay
+
+Of course, using Amazon Business as a distribution partner is a possible solution, but many suppliers run on thin profit margins.",0.02049204707145691,0.883185863494873,0.09632208943367004,negative,-0.8626937866210938
+28,2019-04-17 14:03:00,An in-house solution makes much more sense over the long run.,0.42341822385787964,0.012108529917895794,0.5644732713699341,neutral,0.41130968928337097
+29,2019-04-17 14:03:00,"However, the high cost of entry in the internet universe means many industries are behind the curve in the digital development process, so Webb and Schmeltz think it's still the early innings of the B2B revolution.",0.23510441184043884,0.0210354533046484,0.7438601851463318,neutral,0.2140689641237259
+30,2019-04-17 14:03:00,"That's where Avionos believes it can shine, lowering the cost of entry and change and delivering fast results to enterprise customers.",0.9004100561141968,0.0140015734359622,0.08558833599090576,positive,0.8864085078239441
+31,2019-04-17 14:03:00,"Avionos is privately held, but that doesn't mean investors can't cash in on the digital B2B movement.",0.06310389190912247,0.5015859603881836,0.4353101849555969,negative,-0.4384820759296417
+32,2019-04-17 14:03:00,"Salesforce and Adobe have emerged as leading technology and marketing providers, helping put power back into the hands of smaller businesses.",0.8742672204971313,0.01510473620146513,0.11062808334827423,positive,0.8591625094413757
+33,2019-04-17 14:03:00,"Granted, both stocks have already experienced tremendous growth -- each has more than doubled in value over the past three years, and each is valued well north of $100 billion.",0.9069401025772095,0.01684209331870079,0.0762178972363472,positive,0.8900980353355408
+34,2019-04-17 14:03:00,"That pales in comparison with the $907 billion and $847 billion valuations for Amazon and Google, though.",0.020681139081716537,0.8817307353019714,0.09758812934160233,negative,-0.8610495924949646
+35,2019-04-17 14:03:00,"In the years ahead, the gap could narrow.",0.45713141560554504,0.03594723716378212,0.5069213509559631,neutral,0.4211841821670532
+36,2019-04-17 14:03:00,"Salesforce, for example, expects yet another year of at least 20% revenue growth in 2019 as it keeps its foot on the gas to maximize its opportunity in the business world.",0.9421249628067017,0.01543382927775383,0.04244114086031914,positive,0.9266911149024963
+37,2019-04-17 14:03:00,B2B digital change will be a big contributing factor to that expansion as the software giant eyes doubling its sales in the next four years.,0.9278258681297302,0.018205193802714348,0.053968947380781174,positive,0.9096207022666931
+38,2019-04-17 14:03:00,"Internet disruption in the retail space is getting to be old news, but the business-to-business side of the equation is just getting started.",0.05343933030962944,0.21142107248306274,0.7351396083831787,neutral,-0.157981738448143
+39,2019-04-17 14:03:00,"It's far from too late to get on board, and stocks like Salesforce and Adobe will be some of the best ways to cash in on the movement.",0.49898064136505127,0.016226721927523613,0.4847926199436188,positive,0.4827539324760437
+40,2019-04-17 14:03:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+41,2019-04-17 14:03:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+42,2019-04-17 14:03:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+43,2019-04-17 14:03:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+44,2019-04-17 14:03:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+45,2019-04-17 14:03:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+46,2019-04-17 14:03:00,Nicholas Rossolillo and his clients own shares of Alphabet (C shares) and Salesforce.com.,0.013852907344698906,0.009025118313729763,0.9771220088005066,neutral,0.004827789030969143
+47,2019-04-17 14:03:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), Amazon, and Salesforce.com.",0.01829075999557972,0.011644896119832993,0.9700643420219421,neutral,0.006645863875746727
+48,2019-04-17 14:03:00,The Motley Fool recommends Adobe Systems.,0.04763440415263176,0.03837508708238602,0.9139904379844666,neutral,0.009259317070245743
+49,2019-04-17 14:03:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-19 06:17:00,Enterprise software company Salesforce (NYSE: CRM) told analysts in early 2018 that it has set a new goal it wants to reach in 16 years.,0.6790381073951721,0.012656648643314838,0.3083052337169647,positive,0.6663814783096313
+1,2018-03-19 06:17:00,"CEO Marc Benioff & Co. are known for setting their sights high, but this target may be the most difficult one yet.",0.07895205914974213,0.25084465742111206,0.6702033281326294,neutral,-0.17189259827136993
+2,2018-03-19 06:17:00,Salesforce told analysts that its goal is to hit $40 billion in annual revenue by 2028 and $60 billion by 2034.,0.7441522479057312,0.013115708716213703,0.2427319586277008,positive,0.7310365438461304
+3,2018-03-19 06:17:00,That second figure would represent a nearly 500% increase from revenue of $10.5 billion in the 2018 fiscal year that ended at the end of January and a compound annual growth rate of nearly 12% in the next 16 years.,0.9375293850898743,0.014948878437280655,0.04752171039581299,positive,0.9225804805755615
+4,2018-03-19 06:17:00,"That would also make Salesforce one of the largest software companies in the world, rivaling enterprise giants like Microsoft and Oracle .",0.9063310027122498,0.018807895481586456,0.07486111670732498,positive,0.8875231146812439
+5,2018-03-19 06:17:00,"You might be skeptical of this target, because the current goal of $20 billion a year by 2022 hasn't been reached yet.",0.10889249294996262,0.0170110035687685,0.8740965127944946,neutral,0.09188149124383926
+6,2018-03-19 06:17:00,"Benioff said his company is well-positioned to meet that milestone, though, so management is already gearing up for the next big push .",0.8905587792396545,0.015809861943125725,0.09363134950399399,positive,0.874748945236206
+7,2018-03-19 06:17:00,Is it possible?,0.06254678964614868,0.04786570742726326,0.8895874619483948,neutral,0.014681082218885422
+8,2018-03-19 06:17:00,"It will be difficult, but yes, it's possible.",0.4573368728160858,0.02319176308810711,0.5194713473320007,neutral,0.43414512276649475
+9,2018-03-19 06:17:00,"Growing at a double-digit pace year after year is a rare accomplishment for a company the size of Salesforce, but it is showing few signs of slowing down anytime soon.",0.863854169845581,0.026613134890794754,0.1095326840877533,positive,0.8372410535812378
+10,2018-03-19 06:17:00,Fiscal years end in January of the year given.,0.009611662477254868,0.013503220863640308,0.9768850803375244,neutral,-0.003891558386385441
+11,2018-03-19 06:17:00,Data source: Salesforce.,0.01867137849330902,0.01841016113758087,0.9629185199737549,neutral,0.0002612173557281494
+12,2018-03-19 06:17:00,"If it is to pull off its goal of $20 billion in revenue -- which would make it the fastest enterprise software company to ever do so -- and hit the $60 billion milestone in 2034, several growth engines that the company has put in place will need to continue working.",0.7870165705680847,0.017954211682081223,0.19502925872802734,positive,0.769062340259552
+13,2018-03-19 06:17:00,"First, new business needs to keep rolling in.",0.5625365376472473,0.012275290675461292,0.4251881539821625,positive,0.5502612590789795
+14,2018-03-19 06:17:00,"Relationship management software is in high demand around the globe, and Salesforce has been the primary beneficiary as the leader in the industry.",0.609404981136322,0.011609121225774288,0.3789859414100647,positive,0.597795844078064
+15,2018-03-19 06:17:00,The company sees the need for relationship management rising from a $72 billion global market today to some $120 billion in the next four years.,0.8526286482810974,0.013054133392870426,0.1343172937631607,positive,0.8395745158195496
+16,2018-03-19 06:17:00,"Even within the limits of what's already out there, though, Salesforce has room to expand.",0.8033227920532227,0.010906008072197437,0.18577119708061218,positive,0.7924168109893799
+17,2018-03-19 06:17:00,"Thus, its second driver -- expanding services to existing customers -- is another key area of emphasis.",0.39836105704307556,0.008264925330877304,0.5933740139007568,neutral,0.39009612798690796
+18,2018-03-19 06:17:00,"Outside of enterprise software for sales support, Salesforce still has a very small presence in other areas related to relationship management.",0.011154403910040855,0.0955677404999733,0.8932778835296631,neutral,-0.08441333472728729
+19,2018-03-19 06:17:00,Increasing market share in these other markets has been an ongoing process over the last few years.,0.8042362332344055,0.01107720471918583,0.1846865713596344,positive,0.793159008026123
+20,2018-03-19 06:17:00,"Sometimes a new service is launched by way of acquisition, like when e-commerce services company Demandware was purchased by Salesforce in 2016.",0.06908466666936874,0.005701552145183086,0.9252137541770935,neutral,0.06338311731815338
+21,2018-03-19 06:17:00,"Other times, its through internal development of new apps and services.",0.030708719044923782,0.0047927070409059525,0.9644985795021057,neutral,0.02591601200401783
+22,2018-03-19 06:17:00,"Either way, growing the lineup of software offerings has helped Salesforce expand its relationship with existing customers.",0.9480786919593811,0.015446449629962444,0.03647482022643089,positive,0.9326322674751282
+23,2018-03-19 06:17:00,"In the fourth quarter of 2017, management said that eight out of the top 10 customers that needed to renew their contracts signed expanded terms of service.",0.8198432922363281,0.01642712764441967,0.16372957825660706,positive,0.8034161925315857
+24,2018-03-19 06:17:00,"Doubling revenue multiple times over the next decade and a half is ambitious, but Salesforce has momentum working on its side.",0.7683074474334717,0.01818661391735077,0.21350598335266113,positive,0.7501208186149597
+25,2018-03-19 06:17:00,"At its projected growth rate for 2018, it would reach the $60 billion revenue mark early.",0.8570849895477295,0.017543241381645203,0.1253717988729477,positive,0.8395417332649231
+26,2018-03-19 06:17:00,Expect things to eventually cool off.,0.16208326816558838,0.013548904098570347,0.8243678212165833,neutral,0.14853435754776
+27,2018-03-19 06:17:00,"However, if the company can continue its successful run of winning over new business and delivering new services that existing customers want, it's very possible Salesforce could be in the running for world's largest software company in the near future.",0.9206412434577942,0.01652795635163784,0.06283072382211685,positive,0.9041132926940918
+28,2018-03-19 06:17:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+29,2018-03-19 06:17:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+30,2018-03-19 06:17:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+31,2018-03-19 06:17:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2018-03-19 06:17:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2018-03-19 06:17:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+34,2018-03-19 06:17:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+35,2018-03-19 06:17:00,Nicholas Rossolillo has no position in any of the stocks mentioned.,0.008563118055462837,0.040867652744054794,0.950569212436676,neutral,-0.03230453282594681
+36,2018-03-19 06:17:00,The Motley Fool owns shares of Oracle and has the following options: short June 2018 $52 calls on Oracle and long January 2020 $30 calls on Oracle.,0.01318222563713789,0.023988237604498863,0.9628295302391052,neutral,-0.010806011967360973
+37,2018-03-19 06:17:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+38,2018-03-19 06:17:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2018-03-19 06:17:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

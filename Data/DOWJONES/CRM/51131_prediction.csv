@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-01 08:39:00,"U.S. stocks are struggling to stay positive, with the Dow still holding onto a small loss after Wall Street digested mixed economic data that showed pockets of improvement in the manufacturing sector, but a sizable decay in construction spending and car sales.",0.025230657309293747,0.9620283246040344,0.012741035781800747,negative,-0.9367976784706116
+1,2016-06-01 08:39:00,"Led by gains in the healthcare sector, the Nasdaq touched a six-week high and is Wednesday's outperformer.",0.7803412079811096,0.1603943258523941,0.059264395385980606,positive,0.6199468970298767
+2,2016-06-01 08:39:00,Futures were trading negatively for most of the morning as disappointing manufacturing data from China weighed on commodities and drove oil as much as 4% lower from Tuesday's close.,0.02121403068304062,0.966394305229187,0.012391742318868637,negative,-0.9451802968978882
+3,2016-06-01 08:39:00,"A series of PMIs from Europe contributed to the downbeat tone at the U.S. open, compounding earlier jitters of a global economic slowdown after Japanese prime minister Shinzo Abe said he would delay the implementation of a 2% increase in the sales tax due to the ""large risks"" to the global economy.",0.20085036754608154,0.7437535524368286,0.055396173149347305,negative,-0.5429031848907471
+4,2016-06-01 08:39:00,"U.S. economic data was only slightly more optimistic as the final May manufacturing PMI was revised up to 50.7 from 50.5 initially, but down from April's 50.8.",0.06515227258205414,0.9135743975639343,0.02127334102988243,negative,-0.848422110080719
+5,2016-06-01 08:39:00,"Construction spending was also a bust, falling 1.8% in April, missing estimates for a modest 0.6% gain.",0.018596239387989044,0.9730087518692017,0.008394965901970863,negative,-0.9544125199317932
+6,2016-06-01 08:39:00,"March, however, was revised upward to +1.5% from +0.3%.",0.9112865924835205,0.03774278983473778,0.05097070336341858,positive,0.8735437989234924
+7,2016-06-01 08:39:00,"And car sales have been sluggish with Ford ( F ), General Motors ( GM ) and Toyota ( TM ) all reporting lower sales from the same period last year.",0.01723821833729744,0.969001829624176,0.013759925030171871,negative,-0.9517636299133301
+8,2016-06-01 08:39:00,"On the plus side, the Institute for Supply Management's manufacturing index rose to 51.3 in May from 50.8 the month prior, beating estimates for a decline to 50.6.",0.9383184313774109,0.04144447669386864,0.0202371496707201,positive,0.896873950958252
+9,2016-06-01 08:39:00,"Components within the index were less encouraging, however, as employment and new orders were weak.",0.018858252093195915,0.9656092524528503,0.015532389283180237,negative,-0.9467509984970093
+10,2016-06-01 08:39:00,European equities closed lower for a second day as China's lackluster data weighed on mining and material stocks.,0.0292461309581995,0.9562296867370605,0.014524247497320175,negative,-0.9269835352897644
+11,2016-06-01 08:39:00,Travel stocks were underwater after Tuesday's warning about European travel by the U.S. State Department.,0.2465558499097824,0.6899695992469788,0.06347456574440002,negative,-0.44341373443603516
+12,2016-06-01 08:39:00,"Banking stocks were softer after the resignation of two board members of Italy's UniCredit SpA, and UK stocks continued to trade lower as investors remained sidelined before the June 23 Brexit vote.",0.06776958703994751,0.8949107527732849,0.03731967881321907,negative,-0.8271411657333374
+13,2016-06-01 08:39:00,Crude oil was down $0.29 to $48.81 per barrel.,0.02375951036810875,0.9594538807868958,0.016786620020866394,negative,-0.9356943964958191
+14,2016-06-01 08:39:00,Natural gas was up $0.06 to $2.35 per 1 million BTU.,0.9149244427680969,0.028354525566101074,0.056721072643995285,positive,0.8865699172019958
+15,2016-06-01 08:39:00,"Gold was down $6.20 to $1,211.30 an ounce, while silver was up $0.04 to $16.03 an ounce.",0.03035222552716732,0.9509004354476929,0.018747325986623764,negative,-0.9205482006072998
+16,2016-06-01 08:39:00,Copper was down $0.02 to $2.08 per pound.,0.02008715458214283,0.964867115020752,0.015045670792460442,negative,-0.9447799324989319
+17,2016-06-01 08:39:00,"Among energy ETFs, the United States Oil Fund was down 0.30% to $11.84 with the United States Natural Gas Fund was up 2.98% to $7.09.",0.020545056089758873,0.9656237363815308,0.013831227086484432,negative,-0.9450786709785461
+18,2016-06-01 08:39:00,"Amongst precious-metal funds, the Market Vectors Gold Miners ETF was down 0.40% to 22.50 while SPDR Gold Shares were down 0.48% to $115.51.",0.01781187579035759,0.9700410962104797,0.012147041037678719,negative,-0.9522292017936707
+19,2016-06-01 08:39:00,The iShares Silver Trust was up 0.13% to $15.21.,0.9396678805351257,0.02298242226243019,0.037349630147218704,positive,0.9166854619979858
+20,2016-06-01 08:39:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was down 21.70 points (-0.21%) to 10,419.08
+
+Dow Jones Industrial Index was down 42.42 points (-0.24%) to 17,745.15
+
+S&P 500 was down 3.60 points (-0.17%) to 2,093.21
+
+Nasdaq Composite Index was down 6.87 points (-0.14%) to 4,940.82
+
+FTSE 100 was down 46.23 points (-0.74%) to 6,184.56
+
+DAX was down 72.18 points (-0.70%) to 10,190.56
+
+CAC 40 was down 33.98 points (-0.75%) to 4,471.64
+
+Nikkei 225 was down 279.25 (-1.62%) to 16,955.73
+
+Hang Seng Index was down 54.11 points (-0.26%) to 20,760.98
+
+Shanghai China Composite Index was down 3.11 points (-0.11%) to 2,913.51
+
+NYSE Energy Sector Index was down 26.00 points (-0.25%) to 10,237.07
+
+NYSE Financial Sector Index was down 24.76 points (-0.40%) to 6,149.91
+
+NYSE Healthcare Sector Index was up 11.13 points (+0.09%) to 12,429.80
+
+(+) DWRE (+55.70%) To be acquired by Salesforce ( CRM ) for $2.8 billion
+
+(+) GALE (+19.90%) Gets FDA fast track status for NeuVax to treat breast cancer
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01642628386616707,0.009611784480512142,0.9739620089530945,neutral,0.006814499385654926
+21,2016-06-01 08:39:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+22,2016-06-01 08:39:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+23,2016-06-01 08:39:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

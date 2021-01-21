@@ -1,0 +1,39 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-06-19 06:33:00,Among the largest retail spending periods in the U.S. are Mother's Day and Father's Day.,0.025460688397288322,0.021573392674326897,0.9529659152030945,neutral,0.0038872957229614258
+1,2015-06-19 06:33:00,Mother's Day is the more prominent of the two and is the third largest retail holiday.,0.03400014713406563,0.024940581992268562,0.9410592913627625,neutral,0.009059565141797066
+2,2015-06-19 06:33:00,"Earlier this year, the National Retail Federation (NRF) had projected that sales on Mother's Day would come in at $21.2 billion.",0.182191401720047,0.015260383486747742,0.8025482296943665,neutral,0.16693101823329926
+3,2015-06-19 06:33:00,A survey from the NRF released last week estimates that sales for Father's Day will come in at $12.7 billion.,0.07737076282501221,0.018937943503260612,0.9036912322044373,neutral,0.058432817459106445
+4,2015-06-19 06:33:00,This survey projects that average expenditure on gifts per person will come in at $115.57.,0.04449943080544472,0.052437253296375275,0.9030633568763733,neutral,-0.007937822490930557
+5,2015-06-19 06:33:00,This is marginally higher than last year's average of $113.80.,0.8673326373100281,0.050024837255477905,0.08264253288507462,positive,0.8173078298568726
+6,2015-06-19 06:33:00,Another important finding is that 75.4% of the population intends to celebrate Father's Day.,0.14551395177841187,0.012891114689409733,0.8415949940681458,neutral,0.1326228380203247
+7,2015-06-19 06:33:00,"According to the NRF's President and CEO Matthew Shay, retailers will benefit from the combined impetus provided by the beginning of summer and Father's Day.",0.8406471014022827,0.012891740538179874,0.14646121859550476,positive,0.827755331993103
+8,2015-06-19 06:33:00,The first half of 2015 has been a relatively slow time for stores and the end of the chill and the large volume of shoppers will spark off the buying spree associated with summer.,0.02945600636303425,0.9046011567115784,0.06594284623861313,negative,-0.8751451373100281
+9,2015-06-19 06:33:00,Retailers will gain from this much needed boost during the second half of the year.,0.9410126209259033,0.018709568306803703,0.040277883410453796,positive,0.9223030805587769
+10,2015-06-19 06:33:00,"After all, June marks the official commencement of summer.",0.09975632280111313,0.018387582153081894,0.8818560242652893,neutral,0.08136874437332153
+11,2015-06-19 06:33:00,Sales of products associated with summer are expected to increase on Father's Day.,0.909791111946106,0.017916599288582802,0.0722922682762146,positive,0.8918744921684265
+12,2015-06-19 06:33:00,"This includes patio and grilling equipment, pool gear, clothing, sporting goods as well as other products popular at this time.",0.02400406263768673,0.005780051928013563,0.970215916633606,neutral,0.01822401024401188
+13,2015-06-19 06:33:00,Experience related purchases will top spending on Father's Day.,0.38837939500808716,0.019749781116843224,0.5918708443641663,neutral,0.3686296045780182
+14,2015-06-19 06:33:00,"On the whole, 43.3% of consumers will spend $2.6 billion on such items, including ballgame tickets or a memorable family meal.",0.03531556576490402,0.015832019969820976,0.9488524198532104,neutral,0.019483545795083046
+15,2015-06-19 06:33:00,"At $1.7 billion, apparel sales are projected to lead spending on gifts.",0.35707521438598633,0.011075912043452263,0.631848931312561,neutral,0.3459993004798889
+16,2015-06-19 06:33:00,Brands from this category will be among the primary gainers of Father's Day spending.,0.41345614194869995,0.01304355077445507,0.5735003352165222,neutral,0.40041258931159973
+17,2015-06-19 06:33:00,"Among them are Nike NKE , which has benefited from the current ""athleisure"" fashion trend that has led to workout clothes and footwear becoming leisure clothing.",0.3643082082271576,0.009097617119550705,0.6265941262245178,neutral,0.3552106022834778
+18,2015-06-19 06:33:00,Under Armour UA is another such stock which will gain from substantial expenditure on leisure and sporting goods.,0.8411607146263123,0.012605058960616589,0.14623421430587769,positive,0.8285556435585022
+19,2015-06-19 06:33:00,"The largest U.S. seller of sneakers in the U.S., Foot Locker FL is also expected to gain from Father's Day spending.",0.9476923942565918,0.02325366996228695,0.029053853824734688,positive,0.9244387149810791
+20,2015-06-19 06:33:00,Expenditure on consumer electronics and accessories related to computers will come in second with $1.6 billion worth of estimated purchases.,0.3201860785484314,0.011480501852929592,0.6683334112167358,neutral,0.30870556831359863
+21,2015-06-19 06:33:00,This could lead to gains for Apple AAPL .,0.9455384612083435,0.01757540926337242,0.03688615933060646,positive,0.9279630780220032
+22,2015-06-19 06:33:00,Latest products from the company such as the iPhone 6 or the Apple Watch may attract a significant number of consumers during this period.,0.49267154932022095,0.010450605303049088,0.49687784910202026,neutral,0.48222094774246216
+23,2015-06-19 06:33:00,The NRF survey also predicts that $710 million will be spent on gardening supplies and home improvement.,0.18929578363895416,0.009839508682489395,0.8008647561073303,neutral,0.17945627868175507
+24,2015-06-19 06:33:00,"This is good news for the likes of Home Depot HD and Lowe's Companies LOW , the world's leading home improvement retailers.",0.9316383600234985,0.018696816638112068,0.049664802849292755,positive,0.9129415154457092
+25,2015-06-19 06:33:00,"Such sales are all expected to be beneficial for retailers, both online and brick and mortar.",0.9295250773429871,0.0164174847304821,0.054057344794273376,positive,0.9131075739860535
+26,2015-06-19 06:33:00,"Among prominent brick and mortar companies which will gain are the likes of Macy's M , Best Buy BBY and J.C. Penney JCP .",0.7217819094657898,0.0352582111954689,0.24295984208583832,positive,0.6865236759185791
+27,2015-06-19 06:33:00,"These stores sell a range of products including apparel, accessories and electronics.",0.015350372530519962,0.006433255970478058,0.9782163500785828,neutral,0.008917116560041904
+28,2015-06-19 06:33:00,"On the whole, higher sales on Father's Day will boost stocks expected to gain from the optimism generated from this day.",0.9433988332748413,0.024180158972740173,0.03242095559835434,positive,0.9192186594009399
+29,2015-06-19 06:33:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+30,2015-06-19 06:33:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.020782245323061943,0.01460274774581194,0.9646149277687073,neutral,0.006179497577250004
+31,2015-06-19 06:33:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+32,2015-06-19 06:33:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+33,2015-06-19 06:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

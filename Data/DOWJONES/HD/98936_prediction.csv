@@ -1,0 +1,70 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-15 02:35:00,Investing in efficient companies can yield healthy returns irrespective of market conditions.,0.9050392508506775,0.013554256409406662,0.08140654861927032,positive,0.8914849758148193
+1,2016-06-15 02:35:00,The efficiency of a company refers to how well it utilizes its inputs to produce outputs.,0.11548104137182236,0.006337989587336779,0.878180980682373,neutral,0.10914304852485657
+2,2016-06-15 02:35:00,A company's efficiency level significantly impacts its price performance.,0.029273824766278267,0.04440183565020561,0.9263243675231934,neutral,-0.015128010883927345
+3,2016-06-15 02:35:00,"Thus, companies with high levels of efficiency are believed to be good additions to one's portfolio.",0.7958124876022339,0.012996058911085129,0.1911914199590683,positive,0.7828164100646973
+4,2016-06-15 02:35:00,There are a number of ratios to measure how efficiently a company utilizes its assets and liabilities to produce outputs.,0.023486454039812088,0.005375183653086424,0.9711384177207947,neutral,0.018111269921064377
+5,2016-06-15 02:35:00,"In this article, we have considered four popular efficiency ratios to select efficient companies.",0.04372705891728401,0.007708188612014055,0.9485647678375244,neutral,0.036018870770931244
+6,2016-06-15 02:35:00,Inventory level is one of the key indicators of a company's business health.,0.047556016594171524,0.009850021451711655,0.9425939321517944,neutral,0.03770599514245987
+7,2016-06-15 02:35:00,"While a high inventory level may indicate that the company is going through a rough patch in terms of sales, a dwindling level may indicate that the company will run out of stock in a favorable sales condition.",0.08625047653913498,0.8583662509918213,0.05538333207368851,negative,-0.7721157670021057
+8,2016-06-15 02:35:00,This is where inventory turnover comes into play.,0.06010820344090462,0.03716263175010681,0.9027291536331177,neutral,0.022945571690797806
+9,2016-06-15 02:35:00,It is the ratio of 12-month cost of goods sold (COGS) to a 4-quarter average inventory.,0.02323969639837742,0.02062353678047657,0.9561368227005005,neutral,0.0026161596179008484
+10,2016-06-15 02:35:00,"Thus, a high value of the ratio indicates a low level of inventory relative to COGS, while a low ratio signals that the company has excess inventory.",0.030682221055030823,0.5822208523750305,0.3870968520641327,negative,-0.5515386462211609
+11,2016-06-15 02:35:00,This ratio is used to measure a company's capability to extend its credit and collect debts on the basis of that credit.,0.10885702073574066,0.005357624031603336,0.8857853412628174,neutral,0.1034993976354599
+12,2016-06-15 02:35:00,"Receivables turnover ratio or the ""accounts receivable turnover ratio"" or the ""debtor's turnover ratio"" is calculated by dividing 12-month sales by four-quarter average receivables.",0.02063777483999729,0.013089875690639019,0.9662722945213318,neutral,0.0075478991493582726
+13,2016-06-15 02:35:00,"While a high ratio may indicate that the company efficiently collects its accounts receivables or it has quality customers, a low ratio may signal that the company has inefficient collection procedure or it has low-quality customers or it has inefficient credit policy.",0.06530719250440598,0.14628177881240845,0.788411021232605,neutral,-0.08097458630800247
+14,2016-06-15 02:35:00,This is a widely used measure of a company's efficiency.,0.1533641517162323,0.012365949340164661,0.8342698812484741,neutral,0.14099819958209991
+15,2016-06-15 02:35:00,Asset utilization indicates a company's potential to utilize its assets.,0.4582446217536926,0.008516517467796803,0.5332388281822205,neutral,0.4497281014919281
+16,2016-06-15 02:35:00,It is a ratio of total sales over the past 12 months to the last 4-quarter average of total assets.,0.031026046723127365,0.008961710147559643,0.9600122570991516,neutral,0.022064335644245148
+17,2016-06-15 02:35:00,"So, the higher the ratio, the greater is the possibility that the company is utilizing its assets efficiently.",0.7632286548614502,0.013088838197290897,0.22368250787258148,positive,0.7501398324966431
+18,2016-06-15 02:35:00,"On the contrary, a low value of the ratio may signal that it is failing to use its assets effectively.",0.0244942344725132,0.9522922039031982,0.023213563486933708,negative,-0.9277979731559753
+19,2016-06-15 02:35:00,Another popular efficiency ratio is operating margin.,0.13848428428173065,0.014460638165473938,0.8470550179481506,neutral,0.12402364611625671
+20,2016-06-15 02:35:00,"Operating profit margin, which is simply operating income over the past 12 months divided by sales over the same period, indicates how well a company is controlling its operating expenses.",0.1285359114408493,0.02358955331146717,0.8478745818138123,neutral,0.10494635999202728
+21,2016-06-15 02:35:00,"If a company has a high operating profit margin in relation to its competitors, it is doing a better job at controlling operating expenses.",0.7862110137939453,0.02600911445915699,0.18777981400489807,positive,0.7602018713951111
+22,2016-06-15 02:35:00,All these ratios can be considered as effective measures if one compares different companies within a particular sector or industry.,0.14186155796051025,0.006264715455472469,0.8518737554550171,neutral,0.1355968415737152
+23,2016-06-15 02:35:00,This is the reason why we have considered only those companies that have these ratios higher than their respective industry averages.,0.04021324962377548,0.007899198681116104,0.9518875479698181,neutral,0.03231405094265938
+24,2016-06-15 02:35:00,"In addition to the above mentioned ratios, we have added favorable Zacks Rank - Zacks Rank #1 (Strong Buy) or a Zacks Rank #2 (Buy) - to the screen with an objective to make this strategy more profitable.",0.6673869490623474,0.010200045071542263,0.32241302728652954,positive,0.6571869254112244
+25,2016-06-15 02:35:00,"Zacks Rankless than or equal to #2
+
+The use of these few criteria has narrowed down the universe of over 7,700stocks to only 17.",0.20074258744716644,0.16578124463558197,0.633476197719574,neutral,0.03496134281158447
+26,2016-06-15 02:35:00,"Here are 5 stocks from the 17 that made it through the screen:
+
+Cimpress N.V.CMPR is an online supplier of graphic design and customized printed products to businesses and consumers.",0.03195466473698616,0.006082520354539156,0.9619628190994263,neutral,0.02587214484810829
+27,2016-06-15 02:35:00,"This Zacks Rank #1 company reported earnings per share (EPS) of 75 cents last quarter, surpassing the Zacks Consensus Estimate of 8 cents.",0.9417985081672668,0.026962824165821075,0.031238699331879616,positive,0.9148356914520264
+28,2016-06-15 02:35:00,Cimpress also has an average four-quarter EPS surprise of more than 100%.,0.2975650727748871,0.009054022841155529,0.6933808922767639,neutral,0.2885110378265381
+29,2016-06-15 02:35:00,"Ubiquiti Networks, Inc.UBNT is engaged in the business of designing, manufacturing and selling broadband wireless solutions worldwide.",0.04064047709107399,0.004298153333365917,0.9550613760948181,neutral,0.0363423228263855
+30,2016-06-15 02:35:00,"This Zacks Rank #1 company reported EPS of 62 cents last quarter, higher than the Zacks Consensus Estimate of 53 cents.",0.9431326985359192,0.024467501789331436,0.03239978849887848,positive,0.9186651706695557
+31,2016-06-15 02:35:00,Ubiquiti also has an average four-quarter EPS surprise of more than 12.8%.,0.19059054553508759,0.009754706174135208,0.7996547818183899,neutral,0.18083584308624268
+32,2016-06-15 02:35:00,"Baxter International Inc.BAX engages in the worldwide development, manufacture and distribution of a diversified line of products, systems and services used primarily in the health care field.",0.0872734859585762,0.0044530704617500305,0.9082733988761902,neutral,0.08282041549682617
+33,2016-06-15 02:35:00,"This Zacks Rank #1 company reported EPS of 36 cents last quarter, outpacing the Zacks Consensus Estimate of 29 cents.",0.8009591102600098,0.07261533290147781,0.12642554938793182,positive,0.7283437848091125
+34,2016-06-15 02:35:00,Home Depot also has an average four-quarter EPS surprise of 27.7%.,0.02992311306297779,0.014720892533659935,0.9553559422492981,neutral,0.015202220529317856
+35,2016-06-15 02:35:00,"The Home Depot, Inc.HD is one of the world's largest home improvement retailers.",0.3056056499481201,0.00892562884837389,0.6854687333106995,neutral,0.2966800332069397
+36,2016-06-15 02:35:00,"This Zacks Rank #2 company reported EPS of $1.44 last quarter, beating the Zacks Consensus Estimate of $1.34.",0.92169189453125,0.043438900262117386,0.03486919403076172,positive,0.8782529830932617
+37,2016-06-15 02:35:00,Home Depot also has an average four-quarter EPS surprise of 4.2%.,0.032608069479465485,0.014789733104407787,0.9526021480560303,neutral,0.017818335443735123
+38,2016-06-15 02:35:00,"Electronic Arts Inc.EA is involved in the creation, marketing and distribution of entertainment software, which can be played or sold online.",0.018407156690955162,0.0056339045986533165,0.9759589433670044,neutral,0.012773252092301846
+39,2016-06-15 02:35:00,"This Zacks Rank #2 company reported EPS of 38 cents last quarter, outpacing the Zacks Consensus Estimate of 30 cents.",0.8234733939170837,0.0612151138484478,0.11531144380569458,positive,0.7622582912445068
+40,2016-06-15 02:35:00,Home Depot also has an average four-quarter EPS surprise of 49.3%.,0.02858581952750683,0.012092557735741138,0.9593216776847839,neutral,0.016493260860443115
+41,2016-06-15 02:35:00,"While backtesting over a two-year timeframe (May 16, 2014 to May 20, 2016), considering a four-week holding period, a portfolio following this strategy provided a total return of 19.3% compared with the S&P 500's return of 8.4%.",0.8887671828269958,0.051840104162693024,0.05939263105392456,positive,0.836927056312561
+42,2016-06-15 02:35:00,Thus this strategy may prove to be a profitable one for investor who is seeking healthy returns.,0.9060335755348206,0.013344732113182545,0.08062165230512619,positive,0.8926888704299927
+43,2016-06-15 02:35:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+44,2016-06-15 02:35:00,It can all be done with the Research Wizard stock picking and back-testing software.,0.02481740340590477,0.007912768982350826,0.9672698378562927,neutral,0.01690463349223137
+45,2016-06-15 02:35:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+46,2016-06-15 02:35:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+47,2016-06-15 02:35:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+48,2016-06-15 02:35:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+49,2016-06-15 02:35:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+50,2016-06-15 02:35:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+51,2016-06-15 02:35:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+52,2016-06-15 02:35:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+53,2016-06-15 02:35:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+54,2016-06-15 02:35:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at:https://www.zacks.com/performance.,0.01448096428066492,0.00816013291478157,0.9773589372634888,neutral,0.00632083136588335
+55,2016-06-15 02:35:00,"Zacks Restaurant Recommendations: In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+56,2016-06-15 02:35:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+57,2016-06-15 02:35:00,"Download it free »
+
+Want the latest recommendations from Zacks Investment Research?",0.03019636683166027,0.01505932118743658,0.9547443389892578,neutral,0.01513704564422369
+58,2016-06-15 02:35:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+59,2016-06-15 02:35:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+60,2016-06-15 02:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

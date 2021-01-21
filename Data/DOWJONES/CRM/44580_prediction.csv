@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-04-15 02:00:00,"Not to be outdone by its now-publicly-traded rival Lyft (NASDAQ:), this past week Uber submitted its initial public offering paperwork to the SEC.",0.2514567971229553,0.04052150249481201,0.7080217003822327,neutral,0.2109352946281433
+1,2019-04-15 02:00:00,The long-awaited and oft-discussed Uber IPO is finally about to happen.,0.2349553257226944,0.020218871533870697,0.7448257803916931,neutral,0.2147364616394043
+2,2019-04-15 02:00:00,"A bunch of traders are buzzing because… well, many traders love cool concepts.",0.10638057440519333,0.028034832328557968,0.8655846118927002,neutral,0.07834574580192566
+3,2019-04-15 02:00:00,"At the other end of the spectrum, naysayers can’t get past that says the company “may not achieve profitability.”
+
+It’s a dire suggestion, but it’s not the red flag many investors are making it out to be.",0.05693012475967407,0.7707953453063965,0.17227454483509064,negative,-0.7138652205467224
+4,2019-04-15 02:00:00,Most companies that aren’t profitable at the time of their IPO warn in their S1 paperwork they may never turn a profit.,0.03585749492049217,0.6813693642616272,0.2827731668949127,negative,-0.6455118656158447
+5,2019-04-15 02:00:00,"Twitter (NYSE:), for instance, cautioned investors in 2013 in its S1 filing it “may not be able to achieve or subsequently maintain profitability.”
+
+In 2003, salesforce.com (NYSE:) was worried enough to issue this warning to would-be IPO buyers: “If our revenue does not grow to offset these expected increased expenses, we will not continue to be profitable.”
+
+Salesforce has over the course of the past four reported quarters.",0.0800410658121109,0.88111412525177,0.03884486109018326,negative,-0.8010730743408203
+6,2019-04-15 02:00:00,"Still, investors would be wise to be wary of the Uber IPO because it may not actually ever turn a sustained profit, even if the was just the usual rubber-stamped disclaimer.",0.10055972635746002,0.5115087628364563,0.3879314363002777,negative,-0.41094905138015747
+7,2019-04-15 02:00:00,"Whether or not Uber said so, there’s a very real possibility the company may never create sustained profits.",0.06689587235450745,0.41856634616851807,0.5145378112792969,neutral,-0.3516704738140106
+8,2019-04-15 02:00:00,"Uber, of course, is a ride-hailing company.",0.026234682649374008,0.017556680366396904,0.9562086462974548,neutral,0.008678002282977104
+9,2019-04-15 02:00:00,"Tech-centered and volume-minded, the organization was , with relatively humble beginnings.",0.11169295012950897,0.00887071993201971,0.8794363141059875,neutral,0.10282222926616669
+10,2019-04-15 02:00:00,"Travis Kalanick had sold Red Swoosh just a couple years prior, freeing him to partner up with computer programmer Garrett Camp to create what was then called UberCab.",0.505269467830658,0.013403788208961487,0.481326699256897,positive,0.49186569452285767
+11,2019-04-15 02:00:00,"The app itself was and still is the centerpiece of the company’s operation, which has since cultivated an army of .",0.4245562255382538,0.012684917077422142,0.5627588033676147,neutral,0.4118713140487671
+12,2019-04-15 02:00:00,It’s clever competition to conventional taxi cab companies.,0.7208307385444641,0.01330889854580164,0.265860378742218,positive,0.7075218558311462
+13,2019-04-15 02:00:00,"Those 3 million drivers all work remotely, and independently, and are dispatched by the same platform that powers the consumer-facing app.",0.01750599406659603,0.008299299515783787,0.9741946458816528,neutral,0.009206694550812244
+14,2019-04-15 02:00:00,It’s arguably more efficient than traditional taxi companies.,0.7316917777061462,0.01320102158933878,0.25510722398757935,positive,0.7184907793998718
+15,2019-04-15 02:00:00,"That doesn’t make it profitable, though.",0.030486496165394783,0.35817718505859375,0.611336350440979,neutral,-0.3276906907558441
+16,2019-04-15 02:00:00,"It’s complicated, but the short explanation of the concern is this: Uber spends more on regular, recurring operating costs than it collects in net-revenues.",0.01962418667972088,0.28696268796920776,0.6934131383895874,neutral,-0.26733851432800293
+17,2019-04-15 02:00:00,That may not always be the case.,0.10749448090791702,0.16644889116287231,0.7260566353797913,neutral,-0.05895441025495529
+18,2019-04-15 02:00:00,"In fact, Uber specifically believes that won’t be the case in the foreseeable future.",0.01483464241027832,0.023316537961363792,0.9618488550186157,neutral,-0.008481895551085472
+19,2019-04-15 02:00:00,The plan is to .,0.07137466967105865,0.009693183936178684,0.9189321398735046,neutral,0.061681486666202545
+20,2019-04-15 02:00:00,"Higher fares aren’t likely to be a component of that improvement, as it faces off with Lyft and other, more localized players.",0.8714167475700378,0.03501115366816521,0.09357212483882904,positive,0.8364055752754211
+21,2019-04-15 02:00:00,Paying its drivers less isn’t a great option either.,0.03946525603532791,0.5009928345680237,0.4595419466495514,negative,-0.46152758598327637
+22,2019-04-15 02:00:00,The plan is to grow the number of rides it facilitates.,0.8148456811904907,0.011966853402554989,0.1731875240802765,positive,0.8028788566589355
+23,2019-04-15 02:00:00,"Even that, however, may not get the company over the hump.",0.09501716494560242,0.7418542504310608,0.16312862932682037,negative,-0.6468371152877808
+24,2019-04-15 02:00:00,Many observers have laid out the flawed thinking in Uber’s growth plan.,0.040000393986701965,0.8839856386184692,0.07601393014192581,negative,-0.8439852595329285
+25,2019-04-15 02:00:00,"But, giving credit where it’s due, it’s Intelligencer’s Yves Smith that makes the most cogent case against buying into the Uber IPO.",0.1418285369873047,0.04708044230937958,0.8110910058021545,neutral,0.09474809467792511
+26,2019-04-15 02:00:00,"He :
+
+“Uber is a taxi company with an app attached.",0.013846496120095253,0.012084565125405788,0.9740689992904663,neutral,0.0017619309946894646
+27,2019-04-15 02:00:00,It bears almost no resemblance to internet superstars it claims to emulate.,0.056771859526634216,0.02864764630794525,0.9145804643630981,neutral,0.028124213218688965
+28,2019-04-15 02:00:00,"The app is not technically daunting and does not create a competitive barrier, as witnessed by the fact that many other players have copied it… [apps] do not create network effects.",0.03773963078856468,0.024692656472325325,0.9375677704811096,neutral,0.013046974316239357
+29,2019-04-15 02:00:00,"Unlike Facebook or eBay, having more Uber users does not improve the service.”
+
+Smith adds a subtle but important detail the matter, noting “More drivers means more competition for available jobs, which means less utilization per driver.",0.15946242213249207,0.702145516872406,0.13839207589626312,negative,-0.5426831245422363
+30,2019-04-15 02:00:00,"There is a trade-off between capacity and utilization in a transportation system, which you do not see in digital networks.”
+
+In short, an Uber swing to profitability assumes that the ride-hailing market (however they’re hailed) is not yet mature, and further assumes that competitors won’t win any market share if the market does somehow expand.",0.25913092494010925,0.5694448351860046,0.17142431437969208,negative,-0.3103139102458954
+31,2019-04-15 02:00:00,And the fact that Uber drivers feel they’re being as well as being forced to cancel rides when fares are too low suggests the supply-demand dynamic has already run out of runway.,0.036678485572338104,0.8867285251617432,0.07659295946359634,negative,-0.8500500321388245
+32,2019-04-15 02:00:00,Don’t misread the message: The Uber IPO may prove amazingly fruitful for traders able to actually buy into the initial public offering and offload their Uber stock at a much better price in the open market.,0.9271107912063599,0.023821745067834854,0.04906744509935379,positive,0.9032890200614929
+33,2019-04-15 02:00:00,"Although it didn’t work for Lyft this way, Uber shares may ride the post-IPO buzz higher and higher.",0.8956499099731445,0.02996509149670601,0.07438500225543976,positive,0.8656848073005676
+34,2019-04-15 02:00:00,Euphoria is a powerful force.,0.12912040948867798,0.017010383307933807,0.8538692593574524,neutral,0.11211002618074417
+35,2019-04-15 02:00:00,"Sooner or later, though, Uber has to realistically prove to investors that it may be able to turn a decent profit at some point in the future.",0.8790194988250732,0.016278507187962532,0.10470204800367355,positive,0.8627409934997559
+36,2019-04-15 02:00:00,"The company’s top brass continue to tacitly hint that it can, but consider the source.",0.09732135385274887,0.12410248070955276,0.7785761952400208,neutral,-0.026781126856803894
+37,2019-04-15 02:00:00,"The more convinced investors are that Uber will be viable one day, the more money those insiders make on the shares they already own.",0.17925457656383514,0.05182928964495659,0.768916130065918,neutral,0.12742528319358826
+38,2019-04-15 02:00:00,"Notice, in particular, that Uber has yet to offer any solid growth outlook that’s based on verifiable, validated data that jibes with the market’s growth expectations.",0.07563556730747223,0.06968922913074493,0.8546751737594604,neutral,0.005946338176727295
+39,2019-04-15 02:00:00,"Never say never, but this smells a lot like another Groupon (NASDAQ:) or Spotify (NYSE:).",0.0465567521750927,0.007212087046355009,0.9462311863899231,neutral,0.0393446646630764
+40,2019-04-15 02:00:00,"Consumers love their products, but the companies aren’t actually “businesses” with a model capable of consistently producing earnings.",0.18225830793380737,0.026762692257761955,0.7909790277481079,neutral,0.15549561381340027
+41,2019-04-15 02:00:00,"To that end, there’s a reason LYFT stock is down 16% from its IPO price in just a few days.",0.019204892218112946,0.9641112685203552,0.016683874651789665,negative,-0.9449063539505005
+42,2019-04-15 02:00:00,"As of this writing, James Brumley did not hold a position in any of the aforementioned securities.",0.009174379520118237,0.0268092043697834,0.9640164375305176,neutral,-0.01763482391834259
+43,2019-04-15 02:00:00,"You can learn more about James at his site, , or follow him on Twitter, at @jbrumley.",0.04460912197828293,0.02124090865254402,0.934149980545044,neutral,0.023368213325738907
+44,2019-04-15 02:00:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

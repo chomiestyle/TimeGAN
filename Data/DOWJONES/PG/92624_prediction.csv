@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-23 07:10:00,"On Friday, Donald Trump was sworn in as the new U.S. President and gave a protectionist speech, which in turn had a broad-based positive impact on U.S. benchmarks.",0.874040961265564,0.030323905870318413,0.09563513845205307,positive,0.8437170386314392
+1,2017-01-23 07:10:00,"In his speech, Trump focused on America's prosperity and strength and pledged to make ""America great again.""",0.7097061276435852,0.01818290539085865,0.2721109688282013,positive,0.6915231943130493
+2,2017-01-23 07:10:00,All three key indexes rallied with the Dow snapping a five-session losing stretch.,0.6165498495101929,0.21962970495224,0.16382040083408356,positive,0.3969201445579529
+3,2017-01-23 07:10:00,"However, the major indexes registered weekly losses as investors looked for more clarity on Trump's economic policies.",0.019575370475649834,0.965498685836792,0.01492595300078392,negative,-0.9459233283996582
+4,2017-01-23 07:10:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article.",0.019620023667812347,0.013874631375074387,0.9665053486824036,neutral,0.005745392292737961
+5,2017-01-23 07:10:00,"The Dow Jones Industrial Average (DJI) increased 0.5%, to close at 19,827.25.",0.9409730434417725,0.02521612122654915,0.03381083905696869,positive,0.9157569408416748
+6,2017-01-23 07:10:00,"The S&P 500 rose 0.3% to close at 2,271.31.",0.9134031534194946,0.04187191650271416,0.04472487419843674,positive,0.8715312480926514
+7,2017-01-23 07:10:00,"The tech-laden Nasdaq Composite Index closed at 5,555.33, also gaining 0.3%.",0.9170374274253845,0.04526907205581665,0.037693578749895096,positive,0.8717683553695679
+8,2017-01-23 07:10:00,The fear-gauge CBOE Volatility Index (VIX) significantly declined 9.7% to settle at 11.54.,0.03926685079932213,0.9440409541130066,0.016692258417606354,negative,-0.9047741293907166
+9,2017-01-23 07:10:00,"A total of around 6.6 billion shares were traded on Friday, higher than the last 20-session average of 6.1 billion shares.",0.9356628656387329,0.019141998142004013,0.04519515857100487,positive,0.916520893573761
+10,2017-01-23 07:10:00,Advancers outpaced declining stocks on the NYSE.,0.8880082368850708,0.08332879841327667,0.02866298519074917,positive,0.8046794533729553
+11,2017-01-23 07:10:00,"For 61% stocks that advanced, 34% declined.",0.02710076980292797,0.8675956726074219,0.10530352592468262,negative,-0.8404949307441711
+12,2017-01-23 07:10:00,"After being sworn in as the 45th President of America, Donald Trump gave a protectionist speech.",0.22362825274467468,0.3273972272872925,0.4489745497703552,neutral,-0.1037689745426178
+13,2017-01-23 07:10:00,"In his speech Trump said ""the citizens of America, are now joined in a great national effort to rebuild"" the country and will ""restore its promise for all"" of its people.",0.8715623617172241,0.019177168607711792,0.10926055908203125,positive,0.8523851633071899
+14,2017-01-23 07:10:00,He also stressed on improving infrastructure and industry and bringing back jobs and wealth.,0.7269172668457031,0.026644853875041008,0.24643783271312714,positive,0.7002724409103394
+15,2017-01-23 07:10:00,"( Read More )
+
+Trumps' speech boosted investor sentiment and boosted all the three key indexes into positive territory.",0.937311053276062,0.020491693168878555,0.04219712316989899,positive,0.9168193340301514
+16,2017-01-23 07:10:00,Most of the major S&P 500 sectors ended in the green on Friday.,0.14156122505664825,0.14001144468784332,0.7184273600578308,neutral,0.0015497803688049316
+17,2017-01-23 07:10:00,The Materials Select Sector SPDR (XLB) rose 0.9% and was the biggest advancer among the S&P 500 sectors.,0.9495922923088074,0.026854561641812325,0.02355312369763851,positive,0.922737717628479
+18,2017-01-23 07:10:00,"Some of its key holdings including, Dow Chemical Company ( DOW ), Praxair, Inc. ( PX ) and LyondellBasell Industries N.V. ( LYB ) increased 0.5%, 1.1% and 1.3%, respectively.",0.9366588592529297,0.01916823349893093,0.044173020869493484,positive,0.9174906015396118
+19,2017-01-23 07:10:00,"Additionally, Procter & Gamble Company's ( PG ) shares climbed 3.3% after its fiscal second-quarter earnings and revenues exceeded expectations.",0.9535375237464905,0.02510843798518181,0.021353978663682938,positive,0.9284290671348572
+20,2017-01-23 07:10:00,The bottom line also increased by 3.8% year-over-year.,0.9545612335205078,0.018803870305418968,0.02663487195968628,positive,0.9357573390007019
+21,2017-01-23 07:10:00,"( Read More )
+
+Gains in Procter & Gamble led the Consumer Staples Select Sector SPDR (XLP) to advance 0.7% and was second best performing sector in the S&P 500.",0.9473167061805725,0.028109095990657806,0.024574147537350655,positive,0.9192076325416565
+22,2017-01-23 07:10:00,"Key components from this sector including Coca-Cola Company ( KO ) and Philip Morris International Inc. ( PM ) soared 0.4% and 0.8%, respectively.",0.9278771877288818,0.02381431683897972,0.048308514058589935,positive,0.9040628671646118
+23,2017-01-23 07:10:00,"While, Coca-Cola possess a Zacks Rank #4 (Sell), Philip Morris International have a Zacks Rank #3 (Hold).",0.02662891522049904,0.018482595682144165,0.9548885226249695,neutral,0.008146319538354874
+24,2017-01-23 07:10:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+25,2017-01-23 07:10:00,"However, shares of Bristol-Myers Squibb Company ( BMY ) slumped 11.3% after the company disclosed that it will not seek accelerated approval in the U.S. for a combination of its two immuno-oncology treatments.",0.021608693525195122,0.9675471782684326,0.010844098404049873,negative,-0.9459384679794312
+26,2017-01-23 07:10:00,"( Read More )
+
+Decline in Bristol-Myers Squibb weighed on the Health Care Select Sector SPDR (XLV), which fell 0.3% and was the only decliner among the S&P 500 sectors.",0.019909748807549477,0.9715466499328613,0.008543595671653748,negative,-0.9516369104385376
+27,2017-01-23 07:10:00,One of its major components Gilead Sciences Inc. ( GILD ) fell 0.8%.,0.019416674971580505,0.9689919352531433,0.011591310612857342,negative,-0.9495752453804016
+28,2017-01-23 07:10:00,"For the week, both the Dow and Nasdaq declined 0.3% and the S&P 500 fell 0.2%.",0.019605886191129684,0.9629341959953308,0.01745988056063652,negative,-0.943328320980072
+29,2017-01-23 07:10:00,Benchmarks fell for the week as investors looked for clues on ways Trump could boost the economy.,0.06956858932971954,0.8794723749160767,0.050959087908267975,negative,-0.8099038004875183
+30,2017-01-23 07:10:00,"Also, comments from the President-elect weighed on the U.S. dollar, which eventually dragged markets down over the week.",0.08924368768930435,0.8112958073616028,0.09946047514677048,negative,-0.7220520973205566
+31,2017-01-23 07:10:00,"Also, U.K. Prime Minister Theresa May's speech regarding Brexit and ECB's decision to keep key rates unchanged pulled benchmarks southward.",0.42825546860694885,0.42431849241256714,0.1474260687828064,positive,0.003936976194381714
+32,2017-01-23 07:10:00,Qualcomm Inc. ( QCOM ) has recently been pressed with a $1 billion lawsuit related to licensing royalty payments by tech giant Apple Inc. ( AAPL ).,0.034980252385139465,0.9388850927352905,0.02613462507724762,negative,-0.9039048552513123
+33,2017-01-23 07:10:00,"( Read More )
+
+American International Group, Inc. ( AIG ) has entered into a reinsurance agreement with National Indemnity Co. (NICO), a subsidiary of Berkshire Hathaway Inc. ( BRK.B ).",0.9028406739234924,0.015615390613675117,0.0815439522266388,positive,0.8872252702713013
+34,2017-01-23 07:10:00,"( Read More )
+
+Kansas City Southern ( KSU ) performed disappointingly in the fourth quarter of 2016, reporting lower-than-expected earnings per share and revenues.",0.02187957987189293,0.9675362706184387,0.0105841513723135,negative,-0.9456567168235779
+35,2017-01-23 07:10:00,"( Read More )
+
+GATX Corporation ( GATX ) reported better-than-expected earnings per share and revenues in the fourth quarter of 2016.",0.913088321685791,0.06552466005086899,0.021387027576565742,positive,0.8475636839866638
+36,2017-01-23 07:10:00,"( Read More )
+
+Shares of Check Point Software Technologies Ltd. ( CHKP ) were up 7.5% yesterday following the company's announcement of impressive fourth-quarter 2016 results.",0.9551063179969788,0.021422626450657845,0.023471064865589142,positive,0.9336836934089661
+37,2017-01-23 07:10:00,"( Read More )
+
+In addition to the stocks discussed above, would you like to know about our 10 finest buy-and-hold tickers for the entirety of 2017?",0.0235708337277174,0.007416938431560993,0.9690122008323669,neutral,0.016153894364833832
+38,2017-01-23 07:10:00,Who wouldn't?,0.11916464567184448,0.12444141507148743,0.7563939094543457,neutral,-0.005276769399642944
+39,2017-01-23 07:10:00,"As of early December, the 2016 Top 10 produced 5 double-digit winners including oil and natural gas giant Pioneer Natural Resources which racked up a stellar +50% gain.",0.9126185178756714,0.020887166261672974,0.06649421155452728,positive,0.8917313814163208
+40,2017-01-23 07:10:00,"The new list is painstakingly hand-picked from 4,400 companies covered by the Zacks Rank.",0.17384691536426544,0.009632403962314129,0.8165206909179688,neutral,0.16421450674533844
+41,2017-01-23 07:10:00,"Be among the very first to see it>>
+
+Want the latest recommendations from Zacks Investment Research?",0.044845595955848694,0.011966588906943798,0.9431878328323364,neutral,0.03287900611758232
+42,2017-01-23 07:10:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+43,2017-01-23 07:10:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+44,2017-01-23 07:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

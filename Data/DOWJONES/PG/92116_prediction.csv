@@ -1,0 +1,89 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-19 06:08:00,"Chicago, IL - October 19, 2017 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.018408194184303284,0.00864441692829132,0.972947359085083,neutral,0.009763777256011963
+1,2017-10-19 06:08:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2017-10-19 06:08:00,"Stocks recently featured in the blog include IBM Corp (NYSE: IBM- Free Report ), Celgene (Nasdaq: CELG- Free Report ), Procter & Gamble (NYSE: PG- Free Report ), Valero (NYSE: VLO- Free Report ) and Sprint (NYSE: S- Free Report ).",0.01782425120472908,0.012806219048798084,0.9693695306777954,neutral,0.005018032155930996
+3,2017-10-19 06:08:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2017-10-19 06:08:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2017-10-19 06:08:00,"Here are highlights from Wednesday's Analyst Blog:
+
+The Zacks Research Daily presents the best research output of our analyst team.",0.2265114039182663,0.00957189779728651,0.7639166712760925,neutral,0.2169395089149475
+6,2017-10-19 06:08:00,"Today's Research Daily features new research reports on 12 major stocks, including IBM Corp (NYSE: IBM- Free Report ), Celgene (Nasdaq: CELG- Free Report ) and Procter & Gamble (NYSE: PG- Free Report ).",0.03781277313828468,0.008314188569784164,0.9538729786872864,neutral,0.02949858456850052
+7,2017-10-19 06:08:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+8,2017-10-19 06:08:00,"You can see all of today's research reports here >>>
+
+IBM Corp 's shares have underperformed the broader market on a year to date basis, losing -9.2% vs. the S&P 500's +16.4% gain.",0.025571634992957115,0.9639589786529541,0.01046936959028244,negative,-0.9383873343467712
+9,2017-10-19 06:08:00,IBM's third-quarter results benefited from higher cognitive solutions and systems revenues.,0.9470434784889221,0.021206192672252655,0.03175025060772896,positive,0.9258372783660889
+10,2017-10-19 06:08:00,"Cognitive revenues grew on strong demand for security, IoT and analytics offerings.",0.9336177706718445,0.013990090228617191,0.05239207670092583,positive,0.9196276664733887
+11,2017-10-19 06:08:00,The new z14 mainframe product drove systems revenues.,0.8830468654632568,0.014782540500164032,0.1021706610918045,positive,0.8682643175125122
+12,2017-10-19 06:08:00,"IBM expects strong revenue growth in the fourth quarter on a sequential basis, driven by an anticipated solid demand for the z14 mainframe.",0.9495899081230164,0.014124135486781597,0.03628592565655708,positive,0.9354657530784607
+13,2017-10-19 06:08:00,"The Zacks analyst likes the company's continuing strength in cloud, mobile, security and analytics as well as its cost savings actions and expects these factors to drive profitability.",0.9385592341423035,0.01318126916885376,0.048259437084198,positive,0.9253779649734497
+14,2017-10-19 06:08:00,The company's expanding footprint in the rapidly growing blockchain market is another positive.,0.9018603563308716,0.01283871941268444,0.08530091494321823,positive,0.889021635055542
+15,2017-10-19 06:08:00,Continuing share buyback and dividend payout are major attractions for investors.,0.35123562812805176,0.011404206976294518,0.637360155582428,neutral,0.3398314118385315
+16,2017-10-19 06:08:00,"However, intensifying competition in most of the markets is a major concern.",0.026705482974648476,0.03261898085474968,0.9406755566596985,neutral,-0.005913497880101204
+17,2017-10-19 06:08:00,(You can read the full research report on IBM Corp here >>> ) .,0.013818198814988136,0.01397415716201067,0.9722076058387756,neutral,-0.00015595834702253342
+18,2017-10-19 06:08:00,"Shares of Celgene have outperformed the Zacks Biomedical and Genetics industry in the year so far, gaining +20% vs. +14.7%.",0.8253434896469116,0.15316669642925262,0.02148985117673874,positive,0.6721767783164978
+19,2017-10-19 06:08:00,Celgene's Revlimid continued to outperform driven by further market share increases in newly diagnosed myeloma and the continued increase in treatment duration.,0.9526842832565308,0.02675139531493187,0.020564362406730652,positive,0.9259328842163086
+20,2017-10-19 06:08:00,"Other key products - Pomalyst/Imnovid, Abraxane and Otezla - also performed well.",0.9412353038787842,0.019185593351721764,0.03957904502749443,positive,0.9220497012138367
+21,2017-10-19 06:08:00,The consecutive increase in annual earnings guidance is also a positive.,0.9392955303192139,0.01631433144211769,0.04439013823866844,positive,0.9229812026023865
+22,2017-10-19 06:08:00,Celgene continues to progress with its label expansion efforts and pipeline development with sNDA submission for Revlimid in newly diagnosed multiple myeloma targeted for first-quarter 2018.,0.8803015351295471,0.011543255299329758,0.10815531760454178,positive,0.8687582612037659
+23,2017-10-19 06:08:00,The approval of Idhifa in the U.S. for relapsed and/or refractory acute myeloid leukemia has further boosted the company's portfolio.,0.9520062804222107,0.016323674470186234,0.03167008236050606,positive,0.9356825947761536
+24,2017-10-19 06:08:00,"However, Celgene is highly dependent on Revlimid while foreign exchange headwinds are expected to continue while Abraxane sales are under competitive pressure.",0.06080985441803932,0.7455682754516602,0.19362176954746246,negative,-0.6847584247589111
+25,2017-10-19 06:08:00,(You can read the full research report on Celgene here >>> ) .,0.013327891938388348,0.011790039017796516,0.9748821258544922,neutral,0.0015378529205918312
+26,2017-10-19 06:08:00,Procter & Gamble 's shares have underperformed the Zacks Soap and Cleaning Materials industry so far this year (+13% vs. +23.5%).,0.14465467631816864,0.8303795456886292,0.024965837597846985,negative,-0.6857248544692993
+27,2017-10-19 06:08:00,"But the Zacks analyst likes the company's strong brand recognition, diversified portfolio, impressive product development capabilities and marketing prowess as well as strong cash flow productivity.",0.8708025217056274,0.01366287749260664,0.11553465574979782,positive,0.8571396470069885
+28,2017-10-19 06:08:00,The company is investing in its brands and products as well as redesigning the supply chain to improve productivity and organic growth.,0.8364386558532715,0.0114588038995862,0.15210258960723877,positive,0.824979841709137
+29,2017-10-19 06:08:00,"However, slowing market growth, weak volumes and major foreign exchange headwinds have been hurting sales.",0.022122209891676903,0.9665842652320862,0.011293560266494751,negative,-0.9444620609283447
+30,2017-10-19 06:08:00,Soft consumer-spending environment in developed markets and uncertainties in emerging countries also add to the worries.,0.09388434886932373,0.5690229535102844,0.33709272742271423,negative,-0.4751386046409607
+31,2017-10-19 06:08:00,"That said, P&G is speeding up innovations and investments to counter the softening industry growth.",0.8501840829849243,0.012819827534258366,0.13699613511562347,positive,0.8373642563819885
+32,2017-10-19 06:08:00,Its productivity improvements and cost-saving efforts are also consistently helping to boost profit level.,0.9573743343353271,0.018996182829141617,0.023629505187273026,positive,0.9383781552314758
+33,2017-10-19 06:08:00,(You can read the full research report on Intel here >>> ) .,0.014734398573637009,0.013562409207224846,0.9717032313346863,neutral,0.0011719893664121628
+34,2017-10-19 06:08:00,Other noteworthy reports we are featuring today include Valero (NYSE: VLO- Free Report ) and Sprint (NYSE: S- Free Report ).,0.041680093854665756,0.005809037480503321,0.9525108933448792,neutral,0.035871054977178574
+35,2017-10-19 06:08:00,"The Hottest Tech Mega-Trend of All
+
+Last year, it generated $8 billion in global revenues.",0.8233587145805359,0.015582907944917679,0.16105839610099792,positive,0.8077757954597473
+36,2017-10-19 06:08:00,"By 2020, it's predicted to blast through the roof to $47 billion.",0.23545314371585846,0.11051791906356812,0.6540289521217346,neutral,0.12493522465229034
+37,2017-10-19 06:08:00,"Famed investor Mark Cuban says it will produce ""the world's first trillionaires,"" but that should still leave plenty of money for regular investors who make the right trades early.",0.7029615044593811,0.025822270661592484,0.2712162435054779,positive,0.6771392226219177
+38,2017-10-19 06:08:00,"See Zacks' 3 Best Stocks to Play This Trend >>
+
+Today, Zacks is promoting its ''Buy'' stock recommendations.",0.45513224601745605,0.01307153794914484,0.5317962169647217,neutral,0.4420607089996338
+39,2017-10-19 06:08:00,Get #1 Stock of the Day pick for free .,0.2226315140724182,0.024793583899736404,0.7525749206542969,neutral,0.1978379338979721
+40,2017-10-19 06:08:00,Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.,0.06386703997850418,0.004654404241591692,0.9314785599708557,neutral,0.059212636202573776
+41,2017-10-19 06:08:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+42,2017-10-19 06:08:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+43,2017-10-19 06:08:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+44,2017-10-19 06:08:00,"Strong Stocks that Should Be in the News
+
+Many are little publicized and fly under the Wall Street radar.",0.044983625411987305,0.5624399185180664,0.3925764560699463,negative,-0.5174562931060791
+45,2017-10-19 06:08:00,They're virtually unknown to the general public.,0.035764459520578384,0.0785161554813385,0.885719358921051,neutral,-0.04275169596076012
+46,2017-10-19 06:08:00,"Yet today's 220 Zacks Rank #1 ""Strong Buys"" were generated by the stock-picking system that has nearly tripled the market from 1988 through 2015.",0.6580293774604797,0.017276067286729813,0.32469451427459717,positive,0.6407533288002014
+47,2017-10-19 06:08:00,Its average gain has been a stellar +26% per year.,0.8422174453735352,0.0191669799387455,0.13861553370952606,positive,0.8230504393577576
+48,2017-10-19 06:08:00,See these high-potential stocks free >>.,0.12527841329574585,0.05778927728533745,0.8169323205947876,neutral,0.0674891322851181
+49,2017-10-19 06:08:00,"Get the full Report on IBM - FREE
+
+Get the full Report on CELG - FREE
+
+Get the full Report on PG - FREE
+
+Get the full Report on VLO - FREE
+
+Get the full Report on S - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.013478918932378292,0.009057175368070602,0.9774639010429382,neutral,0.00442174356430769
+50,2017-10-19 06:08:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+51,2017-10-19 06:08:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+52,2017-10-19 06:08:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+53,2017-10-19 06:08:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+54,2017-10-19 06:08:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+55,2017-10-19 06:08:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+56,2017-10-19 06:08:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+57,2017-10-19 06:08:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+58,2017-10-19 06:08:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+59,2017-10-19 06:08:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+60,2017-10-19 06:08:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+61,2017-10-19 06:08:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+62,2017-10-19 06:08:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+63,2017-10-19 06:08:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+64,2017-10-19 06:08:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+65,2017-10-19 06:08:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

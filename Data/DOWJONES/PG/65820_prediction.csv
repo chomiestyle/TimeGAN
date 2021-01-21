@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-10-15 11:44:00,"The worst performing sector as of midday Tuesday is the Utilities sector, showing a 0.3% loss.",0.019891444593667984,0.9667901396751404,0.013318457640707493,negative,-0.9468986988067627
+1,2019-10-15 11:44:00,"Within the sector, NiSource Inc. (Symbol: NI) and Alliant Energy Corp (Symbol: LNT) are two large stocks that are lagging, showing a loss of 1.3% and 1.1%, respectively.",0.0206611268222332,0.966787576675415,0.012551327235996723,negative,-0.9461264610290527
+2,2019-10-15 11:44:00,"Among utilities ETFs, one ETF following the sector is the Utilities Select Sector SPDR ETF (Symbol: XLU), which is down 0.3% on the day, and up 22.29% year-to-date.",0.025261113420128822,0.9615002274513245,0.013238556683063507,negative,-0.9362391233444214
+3,2019-10-15 11:44:00,"NiSource Inc. , meanwhile, is up 13.44% year-to-date, and Alliant Energy Corp is up 25.10% year-to-date.",0.9181458950042725,0.02245575748383999,0.059398356825113297,positive,0.8956901431083679
+4,2019-10-15 11:44:00,"Combined, NI and LNT make up approximately 2.6% of the underlying holdings of XLU.",0.014597438275814056,0.007500821258872747,0.9779016971588135,neutral,0.007096617016941309
+5,2019-10-15 11:44:00,"The next worst performing sector is the Consumer Products sector, up 0.5%.",0.021818870678544044,0.9653661251068115,0.012815059162676334,negative,-0.943547248840332
+6,2019-10-15 11:44:00,"Among large Consumer Products stocks, Procter & Gamble Company (Symbol: PG) and Conagra Brands Inc (Symbol: CAG) are the most notable, showing a loss of 2.5% and 1.8%, respectively.",0.01907067932188511,0.9627587795257568,0.01817041076719761,negative,-0.9436880946159363
+7,2019-10-15 11:44:00,"One ETF closely tracking Consumer Products stocks is the iShares U.S. Consumer Goods ETF (IYK), which is down 0.2% in midday trading, and up 19.39% on a year-to-date basis.",0.024394595995545387,0.9625281691551208,0.01307727862149477,negative,-0.9381335973739624
+8,2019-10-15 11:44:00,"Procter & Gamble Company , meanwhile, is up 29.74% year-to-date, and Conagra Brands Inc is up 30.66% year-to-date.",0.9228746891021729,0.024272475391626358,0.05285283923149109,positive,0.8986021876335144
+9,2019-10-15 11:44:00,"Combined, PG and CAG make up approximately 14.0% of the underlying holdings of IYK.",0.0170883871614933,0.006642061285674572,0.976269543170929,neutral,0.01044632587581873
+10,2019-10-15 11:44:00,"Comparing these stocks and ETFs on a trailing twelve month basis, below is a relative stock price performance chart, with each of the symbols shown in a different color as labeled in the legend at the bottom:
+
+Here's a snapshot of how the S&P 500 components within the various sectors are faring in afternoon trading on Tuesday.",0.0173103678971529,0.03388013318181038,0.9488095045089722,neutral,-0.01656976528465748
+11,2019-10-15 11:44:00,"As you can see, eight sectors are up on the day, while one sector is down.",0.1283564418554306,0.2593936026096344,0.6122499704360962,neutral,-0.1310371607542038
+12,2019-10-15 11:44:00,10 ETFs With Stocks That Insiders Are Buying »,0.12379235774278641,0.02210264466702938,0.8541050553321838,neutral,0.10168971121311188

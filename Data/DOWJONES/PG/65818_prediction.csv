@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-10-15 12:17:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Intersect ENT, Inc. (Symbol: XENT), where a total volume of 2,010 contracts has been traded thus far today, a contract volume which is representative of approximately 201,000 underlying shares (given that every 1 contract represents 100 underlying shares).",0.0332421213388443,0.011511356569826603,0.9552465081214905,neutral,0.02173076570034027
+1,2019-10-15 12:17:00,"That number works out to 58% of XENT's average daily trading volume over the past month, of 346,500 shares.",0.643510639667511,0.01969320885837078,0.3367961347103119,positive,0.6238174438476562
+2,2019-10-15 12:17:00,"Especially high volume was seen for the $20 strike call option expiring November 15, 2019, with 1,000 contracts trading so far today, representing approximately 100,000 underlying shares of XENT.",0.22658589482307434,0.010889866389334202,0.7625242471694946,neutral,0.21569602191448212
+3,2019-10-15 12:17:00,"Below is a chart showing XENT's trailing twelve month trading history, with the $20 strike highlighted in orange:
+
+Procter & Gamble Company (Symbol: PG) options are showing a volume of 34,920 contracts thus far today.",0.022628692910075188,0.025258837267756462,0.9521124958992004,neutral,-0.0026301443576812744
+4,2019-10-15 12:17:00,"That number of contracts represents approximately 3.5 million underlying shares, working out to a sizeable 57% of PG's average daily trading volume over the past month, of 6.1 million shares.",0.16516751050949097,0.008908472023904324,0.8259240388870239,neutral,0.15625904500484467
+5,2019-10-15 12:17:00,"Especially high volume was seen for the $120 strike put option expiring October 18, 2019, with 3,380 contracts trading so far today, representing approximately 338,000 underlying shares of PG.",0.12614351511001587,0.00851614959537983,0.8653404116630554,neutral,0.11762736737728119
+6,2019-10-15 12:17:00,"Below is a chart showing PG's trailing twelve month trading history, with the $120 strike highlighted in orange:
+
+And J.B. Hunt Transport Services, Inc. (Symbol: JBHT) saw options trading volume of 4,209 contracts, representing approximately 420,900 underlying shares or approximately 54.3% of JBHT's average daily trading volume over the past month, of 775,680 shares.",0.020167171955108643,0.01333333645015955,0.9664995074272156,neutral,0.006833835504949093
+7,2019-10-15 12:17:00,"Especially high volume was seen for the $120 strike call option expiring October 18, 2019, with 865 contracts trading so far today, representing approximately 86,500 underlying shares of JBHT.",0.2586342394351959,0.011832407675683498,0.7295333743095398,neutral,0.24680183827877045
+8,2019-10-15 12:17:00,"Below is a chart showing JBHT's trailing twelve month trading history, with the $120 strike highlighted in orange:
+
+For the various different available expirations for XENT options, PG options, or JBHT options, visit StockOptionsChannel.com.",0.00995582900941372,0.023446647450327873,0.9665975570678711,neutral,-0.013490818440914154
+9,2019-10-15 12:17:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

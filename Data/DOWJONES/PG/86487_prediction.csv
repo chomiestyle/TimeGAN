@@ -1,0 +1,5 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-20 13:18:36,"Since its founding in 1837, Procter & Gamble has become one of the world's largest consumer product manufacturers, generating more than $70 billion in annual sales.",0.7793694734573364,0.012391739524900913,0.20823875069618225,positive,0.7669777274131775
+1,2020-10-20 13:18:36,"It operates with a lineup of leading brands, including 21 that generate more than $1 billion in annual global sales such as Tide laundry detergent, Charmin toilet paper, Pantene shampoo, and Pampers diapers.",0.44639286398887634,0.008766007609665394,0.5448411703109741,neutral,0.4376268684864044
+2,2020-10-20 13:18:36,"P&G sold its last remaining food brand, Pringles, to Kellogg in calendar 2012.",0.014829608611762524,0.053525425493717194,0.9316449761390686,neutral,-0.038695815950632095
+3,2020-10-20 13:18:36,"Sales outside its home turf represent around 55% of the firm's consolidated total, with around one third coming from emerging markets.",0.018890617415308952,0.007986572571098804,0.9731228351593018,neutral,0.010904044844210148

@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-01-26 09:05:00,Companies that have a long streak of paying dividends (think longer than 25 years) are typically managed by shareholder-friendly management teams and have a competitive advantage.,0.49450331926345825,0.01061952393501997,0.4948771893978119,neutral,0.483883798122406
+1,2020-01-26 09:05:00,"If you invest in a stock with these qualities, you certainly stack the odds more in your favor.",0.4318554699420929,0.019092034548521042,0.5490524768829346,neutral,0.41276344656944275
+2,2020-01-26 09:05:00,"Three dividend-paying stocks that could fit the bill are McDonald's (NYSE: MCD), Hasbro (NASDAQ: HAS), and Procter & Gamble (NYSE: PG).",0.1028127446770668,0.005523651838302612,0.8916636109352112,neutral,0.09728909283876419
+3,2020-01-26 09:05:00,Here's why these stocks should be paying out dividends for decades to come.,0.061774369329214096,0.006473898887634277,0.9317516684532166,neutral,0.05530047044157982
+4,2020-01-26 09:05:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+5,2020-01-26 09:05:00,"Customers like McDonald's new look
+
+McDonald's has dealt with headwinds in recent years, ranging from consumers becoming more picky about what they eat to the recent departure of CEO Steve Easterbrook.",0.02304633893072605,0.9511968493461609,0.025756817311048508,negative,-0.9281505346298218
+6,2020-01-26 09:05:00,"That departure might sound concerning, but McDonald's brand is bigger than one man, and the changes Easterbrook made should serve shareholders well for a long time.",0.5904492735862732,0.018711641430854797,0.3908390998840332,positive,0.5717376470565796
+7,2020-01-26 09:05:00,Mickey D's has made significant adjustments in recent years to improve performance.,0.9277362823486328,0.014103014953434467,0.058160681277513504,positive,0.9136332869529724
+8,2020-01-26 09:05:00,"The company's efforts in digital ordering, delivery, and modernizing restaurants have led to notable gains in traffic and earnings growth.",0.9498865008354187,0.016045905649662018,0.034067582339048386,positive,0.9338405728340149
+9,2020-01-26 09:05:00,"Comparable-restaurant sales and earnings have grown at healthy rates in recent years, despite lower-than-expected results in the third quarter.",0.9406428933143616,0.02886229194700718,0.030494824051856995,positive,0.911780595779419
+10,2020-01-26 09:05:00,"The stock climbed 132% over the last five years, and while Easterbrook's ability to improve the growth profile of the company will be missed, McDonald's should remain a solid dividend stock.",0.9284963607788086,0.01646762154996395,0.05503596365451813,positive,0.9120287299156189
+11,2020-01-26 09:05:00,The company announced an increase to its quarterly dividend of 8% in September.,0.9312974810600281,0.015176018700003624,0.053526509553194046,positive,0.9161214828491211
+12,2020-01-26 09:05:00,This marked 43 consecutive years of dividend increases since paying its first in 1976 and marks the company as a Dividend Aristocrat.,0.8751809000968933,0.013369537889957428,0.11144955456256866,positive,0.8618113398551941
+13,2020-01-26 09:05:00,This put the company on track to complete its $25 billion cash return to shareholders over three years through 2019.,0.8677946329116821,0.013680137693881989,0.11852528154850006,positive,0.8541144728660583
+14,2020-01-26 09:05:00,"The stock sports a P/E of 25 times next year's earnings estimates, but McDonald's currently pays an above-average yield of 2.36%.",0.03684628754854202,0.08750273287296295,0.875650942325592,neutral,-0.05065644532442093
+15,2020-01-26 09:05:00,"Despite shifting consumer preferences, its brand power is proving to be incredibly resilient, which I believe makes the classic restaurant chain a reliable income investment.",0.9064460396766663,0.013207729905843735,0.08034619688987732,positive,0.8932383060455322
+16,2020-01-26 09:05:00,"Hasbro has been around since 1923 and is known for classic toy brands, like G.I.",0.0716409981250763,0.0073774587363004684,0.9209815263748169,neutral,0.06426353752613068
+17,2020-01-26 09:05:00,"Joe, Monopoly, Transformers, and its Star Wars-branded toys.",0.022244630381464958,0.00971866212785244,0.9680366516113281,neutral,0.012525968253612518
+18,2020-01-26 09:05:00,"The stock has doubled for shareholders over the last five years, but Hasbro has recently wrestled with U.S.-China trade-war headwinds.",0.08697962015867233,0.8765673041343689,0.03645303472876549,negative,-0.789587676525116
+19,2020-01-26 09:05:00,"Most notably, the threat of increased tariffs on Chinese imports took its toll in the third quarter, disrupting Hasbro's ability to get inventory on store shelves.",0.019300734624266624,0.9668776392936707,0.01382157951593399,negative,-0.9475768804550171
+20,2020-01-26 09:05:00,"This made business slow, with sales falling 2% year over year in the U.S. and Canada in Q3.",0.0190765131264925,0.9711823463439941,0.009741111658513546,negative,-0.9521058201789856
+21,2020-01-26 09:05:00,"Overall, the company is in good shape for the long term, mainly because it is seeing strong growth in digital experiences, where kids are spending more time these days.",0.9372274279594421,0.014302913099527359,0.048469655215740204,positive,0.9229245185852051
+22,2020-01-26 09:05:00,"The toymaker experienced 20% year-over-year growth from its entertainment, licensing, and digital segment in the third quarter.",0.953886866569519,0.01562468707561493,0.0304883886128664,positive,0.9382621645927429
+23,2020-01-26 09:05:00,"Its latest Transformers film, Bumblebee, and Magic: The Gathering Arena digital card game have contributed to growth in the segment lately.",0.8921282887458801,0.01320516038686037,0.09466659277677536,positive,0.8789231181144714
+24,2020-01-26 09:05:00,"Plus, Hasbro's recent acquisition of Entertainment One will enhance the company's storytelling capabilities across TV, film, and gaming.",0.9241108298301697,0.01359526440501213,0.06229391321539879,positive,0.910515546798706
+25,2020-01-26 09:05:00,Hasbro has been delighting children with its toy franchises since it first started selling doctor and nurse toy kits in the 1940s.,0.2398732304573059,0.00940913800150156,0.7507176995277405,neutral,0.23046408593654633
+26,2020-01-26 09:05:00,Delivering fun over the years has been very profitable for the company.,0.5977572798728943,0.011553674936294556,0.39068907499313354,positive,0.5862035751342773
+27,2020-01-26 09:05:00,It has paid a dividend every year since 1981.,0.03346428647637367,0.008945006877183914,0.9575907588005066,neutral,0.02451927959918976
+28,2020-01-26 09:05:00,The stock currently trades for a forward P/E of 20.7 and pays an above-average dividend yield of 2.59%.,0.03265184536576271,0.007455721031874418,0.9598925113677979,neutral,0.025196123868227005
+29,2020-01-26 09:05:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+30,2020-01-26 09:05:00,"Procter & Gamble is leaner and stronger than ever
+
+Procter & Gamble is the ultimate buy-and-hold consumer staples stock.",0.4204573929309845,0.011636077426373959,0.5679065585136414,neutral,0.40882131457328796
+31,2020-01-26 09:05:00,Its products include everyday essentials like Tide laundry detergent and Crest toothpaste.,0.023629138246178627,0.00646208506077528,0.9699087738990784,neutral,0.01716705411672592
+32,2020-01-26 09:05:00,People will still be buying these products no matter what the economy does.,0.07753391563892365,0.017383070662617683,0.9050830006599426,neutral,0.06015084683895111
+33,2020-01-26 09:05:00,The stock surged 36% last year after reporting balanced growth in revenue and earnings.,0.9531013369560242,0.0242287777364254,0.022669833153486252,positive,0.9288725852966309
+34,2020-01-26 09:05:00,"In recent years, the company has cycled through different leadership, but current CEO David Taylor has been effective at focusing on categories where performance drives brand choice.",0.4370378851890564,0.01125950738787651,0.551702618598938,neutral,0.4257783889770508
+35,2020-01-26 09:05:00,This investment in product superiority has worked very well.,0.7854149341583252,0.011027147993445396,0.20355793833732605,positive,0.774387776851654
+36,2020-01-26 09:05:00,"Organic sales growth year-to-date in fiscal 2020 is up 6%, a slight improvement over last year's stellar 5% growth.",0.9568151831626892,0.022585973143577576,0.020598886534571648,positive,0.9342291951179504
+37,2020-01-26 09:05:00,P&G is a Dividend King.,0.018976569175720215,0.007596931420266628,0.9734265208244324,neutral,0.011379637755453587
+38,2020-01-26 09:05:00,It has paid a dividend every year since 1890 and has increased the payout annually for 63 years straight.,0.5643296837806702,0.013228030875325203,0.42244231700897217,positive,0.5511016249656677
+39,2020-01-26 09:05:00,The stock currently has a forward P/E of 24 and pays an above-average dividend yield of 2.36%.,0.028245266526937485,0.006995427422225475,0.9647592902183533,neutral,0.021249838173389435
+40,2020-01-26 09:05:00,One of the best ways to get the most out of these stocks is to take advantage of reinvesting the dividend payout to accumulate more shares over time.,0.590495765209198,0.010879045352339745,0.3986252248287201,positive,0.5796167254447937
+41,2020-01-26 09:05:00,There are enormous benefits to dividend reinvestment.,0.6690507531166077,0.011182810179889202,0.31976640224456787,positive,0.657867968082428
+42,2020-01-26 09:05:00,"For example, McDonald's stock has returned 432% over the last 20 years.",0.881898045539856,0.019037805497646332,0.09906419366598129,positive,0.8628602623939514
+43,2020-01-26 09:05:00,"However, by reinvesting the dividend, investors would have gained 758% on the stock.",0.9095144271850586,0.019046725705266,0.07143884897232056,positive,0.8904677033424377
+44,2020-01-26 09:05:00,"On a $10,000 investment, that's the difference between having $52,000 compared with $85,000.",0.1558125913143158,0.06363604217767715,0.7805514335632324,neutral,0.09217654913663864
+45,2020-01-26 09:05:00,The difference just gets wider over time as the stock climbs in value.,0.5440832376480103,0.01961960457265377,0.43629714846611023,positive,0.5244636535644531
+46,2020-01-26 09:05:00,"Seen this way, you don't have to go for high yields to make good returns with dividend stocks.",0.1417538970708847,0.010346760973334312,0.847899317741394,neutral,0.13140714168548584
+47,2020-01-26 09:05:00,"As with any kind of investing approach, it just takes persistence and patience.",0.0694928914308548,0.006061439868062735,0.9244456887245178,neutral,0.06343144923448563
+48,2020-01-26 09:05:00,"10 stocks we like better than McDonald's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14117474853992462,0.028995681554079056,0.8298295736312866,neutral,0.11217907071113586
+49,2020-01-26 09:05:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+50,2020-01-26 09:05:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and McDonald's wasn't one of them!",0.2154732197523117,0.015219085849821568,0.7693076729774475,neutral,0.20025412738323212
+51,2020-01-26 09:05:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+52,2020-01-26 09:05:00,John Ballard has no position in any of the stocks mentioned.,0.009611976332962513,0.03697148710489273,0.9534165859222412,neutral,-0.027359511703252792
+53,2020-01-26 09:05:00,The Motley Fool owns shares of and recommends Hasbro.,0.03195289894938469,0.019225388765335083,0.9488217234611511,neutral,0.012727510184049606
+54,2020-01-26 09:05:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

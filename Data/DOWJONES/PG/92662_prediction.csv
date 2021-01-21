@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-15 07:33:00,Procter & Gamble (NYSE: PG) and Unilever (NYSE: UL) are two of the biggest names in consumer packaged goods.,0.17306692898273468,0.008519480936229229,0.8184136152267456,neutral,0.16454744338989258
+1,2017-01-15 07:33:00,Both companies own massive portfolios of billion-dollar brands that generate slow but stable growth.,0.32592135667800903,0.01025185827165842,0.6638268232345581,neutral,0.3156695067882538
+2,2017-01-15 07:33:00,"Investors have turned to both stocks as conservative dividend plays for years, but is one stock better than the other?",0.5830173492431641,0.051398634910583496,0.36558404564857483,positive,0.5316187143325806
+3,2017-01-15 07:33:00,"Let's compare their core business models, growth trajectories, and valuations to find out.",0.032984018325805664,0.0056079076603055,0.9614081382751465,neutral,0.02737611159682274
+4,2017-01-15 07:33:00,What do P&G and Unilever do?,0.0172372255474329,0.010882973670959473,0.9718797206878662,neutral,0.006354251876473427
+5,2017-01-15 07:33:00,"Cincinnati-based P&G's top brands include household names like Tide, Bounty, Charmin, Gillette, Pringles, and SK-II.",0.11682336777448654,0.006858173757791519,0.8763183951377869,neutral,0.10996519029140472
+6,2017-01-15 07:33:00,"It reports its earnings in five segments -- beauty, grooming, healthcare, fabric/home care, and baby/feminine/family care products.",0.023020947352051735,0.006102702114731073,0.9708763957023621,neutral,0.01691824570298195
+7,2017-01-15 07:33:00,Revenue fell 1% across each segment last quarter except for healthcare and fabric/home care -- which respectively posted 4% and 1% growth.,0.016686327755451202,0.9731574058532715,0.010156244039535522,negative,-0.9564710855484009
+8,2017-01-15 07:33:00,Its total revenue growth stayed nearly flat.,0.044771816581487656,0.7757296562194824,0.17949846386909485,negative,-0.7309578657150269
+9,2017-01-15 07:33:00,"But on an organic basis (excluding currency impacts, acquisitions, and divestments), P&G's revenue rose across all five segments and boosted its revenue by 3%.",0.9568113088607788,0.018291141837835312,0.02489757351577282,positive,0.9385201930999756
+10,2017-01-15 07:33:00,Analysts expect P&G's revenue to rise 2% next year.,0.9544976353645325,0.01678432896733284,0.028718044981360435,positive,0.9377133250236511
+11,2017-01-15 07:33:00,"Unilever, which is co-headquartered in London and Rotterdam, sells Dove, Axe, Lipton, Rexona, Caress, and Ben & Jerry's.",0.017398012802004814,0.007367014419287443,0.9752349257469177,neutral,0.010030997917056084
+12,2017-01-15 07:33:00,"It reports its earnings in four segments -- personal care, home care, foods, and refreshment.",0.018157880753278732,0.008226714096963406,0.9736154079437256,neutral,0.009931166656315327
+13,2017-01-15 07:33:00,Revenue at all four units rose on an underlying basis (comparable to P&G's organic basis) last quarter and boosted its underlying sales by over 3%.,0.9579170346260071,0.018010003492236137,0.024072913452982903,positive,0.9399070143699646
+14,2017-01-15 07:33:00,"But on a constant currency basis, which was heavily impacted by the weak euro and strong dollar, sales stayed nearly flat.",0.02102854661643505,0.9482365846633911,0.03073487989604473,negative,-0.9272080659866333
+15,2017-01-15 07:33:00,Analysts expect Unilever's revenue to rise 4% next year.,0.9535108208656311,0.01618020609021187,0.03030894137918949,positive,0.9373306035995483
+16,2017-01-15 07:33:00,Both companies are often criticized for owning too many brands.,0.038879431784152985,0.8558427691459656,0.10527773201465607,negative,-0.8169633150100708
+17,2017-01-15 07:33:00,"Analysts often discuss the idea of breaking up P&G and Unilever into more streamlined companies, but the companies' defenders claim that their well-diversified portfolios protect them from volatility across specific regions and industries.",0.629322350025177,0.014758838340640068,0.35591885447502136,positive,0.614563524723053
+18,2017-01-15 07:33:00,Yet P&G has taken steps to streamline its portfolio.,0.6788223385810852,0.012155620381236076,0.30902206897735596,positive,0.6666667461395264
+19,2017-01-15 07:33:00,It dropped about 100 brands in 2014 and sold its Vicks VapoSteam business to Helen of Troy in 2015.,0.01769821159541607,0.6222879886627197,0.36001378297805786,negative,-0.6045897603034973
+20,2017-01-15 07:33:00,"Last year, it sold 43 beauty brands to Coty and transferred its Duracell brand to Berkshire Hathaway .",0.03196243941783905,0.009045903570950031,0.9589916467666626,neutral,0.022916536778211594
+21,2017-01-15 07:33:00,Unilever also made similar moves over the past five years.,0.4024788439273834,0.014418105594813824,0.5831030607223511,neutral,0.3880607485771179
+22,2017-01-15 07:33:00,It sold its Sanex brand to Colgate-Palmolive in 2011 and its Skippy peanut butter brand to Hormel in 2013.,0.019064078107476234,0.008695513941347599,0.9722404479980469,neutral,0.010368564166128635
+23,2017-01-15 07:33:00,"In 2014, it sold its meat snacks business to Jack Link's, its pasta sauces to Mizkan, and its Slim-Fast brand to Kainos Capital.",0.01679207757115364,0.012119576334953308,0.9710883498191833,neutral,0.004672501236200333
+24,2017-01-15 07:33:00,"In 2015, it split its struggling spreads business into a new company, and it acquired Dollar Shave Club to strengthen its grooming segment last year.",0.7035713195800781,0.012472894974052906,0.28395575284957886,positive,0.6910984516143799
+25,2017-01-15 07:33:00,"P&G's core earnings per share, which exclude restructuring charges and discontinued operations, rose 5% annually last quarter.",0.9554867744445801,0.01847967319190502,0.02603348344564438,positive,0.9370071291923523
+26,2017-01-15 07:33:00,Analysts expect its earnings to improve 8% on the same basis next year.,0.9590437412261963,0.019588368013501167,0.021367881447076797,positive,0.9394553899765015
+27,2017-01-15 07:33:00,Unilever only reports its core EPS every half year.,0.009134923107922077,0.01763087697327137,0.9732341766357422,neutral,-0.008495953865349293
+28,2017-01-15 07:33:00,"That figure rose 7.5% in the first half of fiscal 2016, and analysts expect 7% growth on that basis next year.",0.9391703009605408,0.01675041764974594,0.04407927021384239,positive,0.9224199056625366
+29,2017-01-15 07:33:00,"P&G currently trades at 22 times earnings and Unilever trades at 23 times earnings, which both compare favorably to the industry average P/E of 24 for personal products makers.",0.2373618185520172,0.01590680703520775,0.7467313408851624,neutral,0.22145500779151917
+30,2017-01-15 07:33:00,The stocks trade at 20 times forward earnings.,0.06892991065979004,0.012809139676392078,0.9182609915733337,neutral,0.056120771914720535
+31,2017-01-15 07:33:00,"P&G pays a forward yield of 3.2%, which is supported by a payout ratio of 75%.",0.20483280718326569,0.010049263946712017,0.7851179242134094,neutral,0.1947835385799408
+32,2017-01-15 07:33:00,It's raised that dividend annually for six decades.,0.4220579266548157,0.009735656902194023,0.5682063698768616,neutral,0.4123222827911377
+33,2017-01-15 07:33:00,"Unilever pays a forward yield of 3.4%, which is supported by a payout ratio of 71%.",0.1554710417985916,0.009264755062758923,0.8352642059326172,neutral,0.14620628952980042
+34,2017-01-15 07:33:00,"But Unilever has a much spottier record with dividend increases, which are declared every quarter based on its earnings growth and further distorted (for ADR shareholders) by fluctuating exchange rates.",0.6537090539932251,0.021797319874167442,0.3244936764240265,positive,0.6319117546081543
+35,2017-01-15 07:33:00,That's why Unilever's annualized dividends fell from 2014 and 2015 before rising again last year.,0.03356659412384033,0.9288532137870789,0.03758015111088753,negative,-0.8952866196632385
+36,2017-01-15 07:33:00,P&G and Unilever are similar companies with comparable portfolios and growth rates.,0.13369658589363098,0.0076002334244549274,0.8587031960487366,neutral,0.12609635293483734
+37,2017-01-15 07:33:00,"It's a close call, but P&G's slightly lower multiple and consistent dividend hikes make it a better play in my book.",0.7353584170341492,0.05791562423110008,0.20672595500946045,positive,0.6774427890777588
+38,2017-01-15 07:33:00,"But Unilever still remains a solid defensive investment in a wobbly market, and I wouldn't mind adding either stock to my portfolio.",0.2109876275062561,0.02255803905427456,0.7664543390274048,neutral,0.188429594039917
+39,2017-01-15 07:33:00,"10 stocks we like better than Unilever
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13179253041744232,0.02087462693452835,0.8473328351974487,neutral,0.11091790348291397
+40,2017-01-15 07:33:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+41,2017-01-15 07:33:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Unilever wasn't one of them!",0.2320300191640854,0.013782927766442299,0.7541869878768921,neutral,0.21824708580970764
+42,2017-01-15 07:33:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+43,2017-01-15 07:33:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+44,2017-01-15 07:33:00,Leo Sun has no position in any stocks mentioned.,0.008639104664325714,0.02498980611562729,0.9663710594177246,neutral,-0.016350701451301575
+45,2017-01-15 07:33:00,The Motley Fool owns shares of and recommends Berkshire Hathaway (B shares).,0.02913602814078331,0.011916585266590118,0.9589473605155945,neutral,0.01721944287419319
+46,2017-01-15 07:33:00,The Motley Fool recommends Unilever.,0.046748578548431396,0.06374628841876984,0.88950514793396,neutral,-0.01699770987033844
+47,2017-01-15 07:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+48,2017-01-15 07:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

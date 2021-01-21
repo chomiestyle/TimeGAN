@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-10 03:48:00,"After DocuSign, the leading name in e-signatures, came to market in April 2018 at $29 per share, enthusiasm over the company's leading position in this emerging industry sent shares as high as $68 last August.",0.8977668881416321,0.025448638945817947,0.07678446918725967,positive,0.8723182678222656
+1,2019-06-10 03:48:00,"However, after its latest earnings report, DocuSign fell 12% to roughly $48 per share, about halfway between the company's IPO price and its 52-week high.",0.01741856150329113,0.9720460772514343,0.010535341687500477,negative,-0.954627513885498
+2,2019-06-10 03:48:00,"While not cheap by conventional valuation metrics, DocuSign's current price-to-sales ratio of 10 ranks favorably against other cloud software companies, and the company did actually generate positive operating cash flow and non-GAAP net income last quarter.",0.9519200325012207,0.02571512944996357,0.02236481010913849,positive,0.9262049198150635
+3,2019-06-10 03:48:00,So should investors take advantage of the post-earnings sell-off?,0.1685245931148529,0.08744856715202332,0.7440268397331238,neutral,0.08107602596282959
+4,2019-06-10 03:48:00,"The sell-off may seem odd at first, since first-quarter revenue and non-GAAP earnings per share came in ahead of expectations.",0.07526156306266785,0.8845811486244202,0.040157217532396317,negative,-0.8093196153640747
+5,2019-06-10 03:48:00,"But as is usually the case, the culprit was DocuSign's relatively weak guidance, which forecast only slight quarter-over-quarter growth in both revenue and billings.",0.019809510558843613,0.9569687247276306,0.023221811279654503,negative,-0.9371592402458191
+6,2019-06-10 03:48:00,"Still, those figures would equal 38.8% year-over-year revenue growth and 27.8% billings growth, which is certainly not bad, though it's a bit lower than the 50%-plus growth some other cloud software-as-a-service companies are currently posting.",0.027131404727697372,0.9385340809822083,0.03433458134531975,negative,-0.911402702331543
+7,2019-06-10 03:48:00,"Since enterprise subscriptions are often paid up front and recognized ratably over time, analysts often prefer the billings metric -- revenue growth plus the change in deferred revenue -- in assessing the health of subscription-based software companies.",0.11019235104322433,0.01592080295085907,0.8738868832588196,neutral,0.09427154809236526
+8,2019-06-10 03:48:00,"That appears to be the issue, as even the current quarter saw perhaps more deceleration than the market expected.",0.04317573085427284,0.2993442416191101,0.6574800610542297,neutral,-0.25616851449012756
+9,2019-06-10 03:48:00,"Here's what recent billings growth has looked like:
+
+However, the company had an explanation for decelerating billings, which could actually be a positive indicator for DocuSign over the long term.",0.6170071363449097,0.03924530744552612,0.3437475860118866,positive,0.5777618288993835
+10,2019-06-10 03:48:00,"New products take more time
+
+Most of DocuSign's business comes from its core e-signature offerings, which digitizes the traditional physical signature process; however, DocuSign has been investing in many new products that fit adjacent needs for its customers.",0.3983302414417267,0.00799592211842537,0.593673825263977,neutral,0.3903343081474304
+11,2019-06-10 03:48:00,"These include the new DocuSign Agreement Cloud, which expands DocuSign's solutions from just e-signature to managing the entire enterprise document life cycle.",0.6235468983650208,0.01056104525923729,0.36589205265045166,positive,0.6129858493804932
+12,2019-06-10 03:48:00,"Other innovations just in the first quarter include DocuSign Gen, an integration of DocuSign with salesforce.com (NYSE: CRM) software; DocuSign Click, which allows websites to secure consent through a single click and eliminate expensive in-house solutions; and DocuSign ID, which enables one to use DocuSign in place of government-issued IDs for certain processes.",0.3747275471687317,0.009158127009868622,0.6161143183708191,neutral,0.36556941270828247
+13,2019-06-10 03:48:00,"DocuSign's management team said these additional products require more gatekeepers to say ""yes"" on the customer's end, which is causing delays in the selling process.",0.02646222524344921,0.8905749917030334,0.08296278864145279,negative,-0.8641127943992615
+14,2019-06-10 03:48:00,Since a lot of these solutions are relatively new -- the agreement cloud was probably bolstered by the September 2018 acquisition of SpringCM -- the slowdown in upsells is just hitting the company now.,0.039554838091135025,0.7270025610923767,0.23344263434410095,negative,-0.687447726726532
+15,2019-06-10 03:48:00,"DocuSign seems fairly confident on the long-term outlook, with CEO Daniel Springer saying on the post-earnings conference call:
+
+If Springer's right and the billings slowdown is just a hiccup on the way to DocuSign's large potential market, the stock's recent sell-off could be an opportunity.",0.5859770178794861,0.04070636257529259,0.37331661581993103,positive,0.5452706813812256
+16,2019-06-10 03:48:00,Springer claimed these new products could expand DocuSign's total addressable market from $25 billion to $50 billion.,0.9141191244125366,0.013751177117228508,0.07212963700294495,positive,0.9003679752349854
+17,2019-06-10 03:48:00,That compares with just $759 million in trailing-12-month revenue for DocuSign.,0.13533616065979004,0.5817020535469055,0.28296175599098206,negative,-0.4463658928871155
+18,2019-06-10 03:48:00,"Therefore, if the company's sales cycle is lengthening in order to upsell these new products, the current deceleration wouldn't necessarily be a long-term concern.",0.05187400430440903,0.036791104823350906,0.9113348722457886,neutral,0.01508289948105812
+19,2019-06-10 03:48:00,"One piece of evidence supporting company leaders' assertions is that new customer growth came in much stronger than billings, at 33%.",0.9443545341491699,0.02974633127450943,0.025899125263094902,positive,0.9146081805229187
+20,2019-06-10 03:48:00,So it doesn't appear that DocuSign is struggling to sign up new customers.,0.08003365248441696,0.5758076906204224,0.34415870904922485,negative,-0.4957740306854248
+21,2019-06-10 03:48:00,It's the upselling of these new use cases that appears to be causing the billing delays.,0.0237787626683712,0.15440604090690613,0.8218151926994324,neutral,-0.13062727451324463
+22,2019-06-10 03:48:00,"In all, DocuSign still appears to be a beneficiary from the long-term trends of cloud-based and digital solutions that are supplanting older ways of doing things in the enterprise.",0.5542884469032288,0.010452328249812126,0.43525922298431396,positive,0.5438361167907715
+23,2019-06-10 03:48:00,"Importantly, management denied that it was seeing any new competitive threats, so I'm inclined to go with management's explanation for the slowdown.",0.04260627552866936,0.05151411145925522,0.905879557132721,neutral,-0.008907835930585861
+24,2019-06-10 03:48:00,"Therefore, DocuSign's stock appears to be one of the more attractive risk-rewards in enterprise software today.",0.8797847628593445,0.01573946326971054,0.10447578132152557,positive,0.8640453219413757
+25,2019-06-10 03:48:00,"10 stocks we like better than DocuSign
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11930668354034424,0.025235863402485847,0.8554574251174927,neutral,0.09407082200050354
+26,2019-06-10 03:48:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+27,2019-06-10 03:48:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and DocuSign wasn't one of them!",0.256593257188797,0.014285923913121223,0.7291208505630493,neutral,0.24230733513832092
+28,2019-06-10 03:48:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+29,2019-06-10 03:48:00,Billy Duberstein has no position in any of the stocks mentioned.,0.010155468247830868,0.04124909266829491,0.9485954642295837,neutral,-0.031093623489141464
+30,2019-06-10 03:48:00,His clients may own shares of the companies mentioned.,0.0138602489605546,0.011695913039147854,0.9744438529014587,neutral,0.002164335921406746
+31,2019-06-10 03:48:00,The Motley Fool owns shares of and recommends DocuSign and Salesforce.com.,0.026734253391623497,0.02250736765563488,0.9507583975791931,neutral,0.004226885735988617
+32,2019-06-10 03:48:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

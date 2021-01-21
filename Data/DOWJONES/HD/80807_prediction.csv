@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-22 06:00:00,"You've no doubt heard of Dividend Aristocrats, stocks in the S&P 500 that have increased their dividend for 25 consecutive years.",0.6400544047355652,0.022332897409796715,0.33761265873908997,positive,0.6177214980125427
+1,2019-09-22 06:00:00,But the true royalty among dividend stocks are the Dividend Kings.,0.043208200484514236,0.01259838417172432,0.944193422794342,neutral,0.030609816312789917
+2,2019-09-22 06:00:00,These stocks have boosted their dividends for at least 50 years in a row.,0.9297312498092651,0.02017563208937645,0.050093166530132294,positive,0.9095556139945984
+3,2019-09-22 06:00:00,"Not all Dividend Kings are worthy of holding sway in your portfolio, though.",0.13405372202396393,0.015702642500400543,0.8502436876296997,neutral,0.11835107952356339
+4,2019-09-22 06:00:00,Some are quite expensive compared to their growth prospects.,0.04700246825814247,0.06450118869543076,0.8884962797164917,neutral,-0.017498720437288284
+5,2019-09-22 06:00:00,Others don't have strong economic moats that protect them from competition.,0.05918833240866661,0.025330161675810814,0.915481448173523,neutral,0.033858172595500946
+6,2019-09-22 06:00:00,Several of the Dividend Kings don't even offer dividend yields that are very attractive.,0.01685103215277195,0.04673716425895691,0.9364117980003357,neutral,-0.02988613210618496
+7,2019-09-22 06:00:00,But there are some Dividend Kings you can buy and hold forever.,0.05709495767951012,0.00833098217844963,0.9345740675926208,neutral,0.048763975501060486
+8,2019-09-22 06:00:00,"Five that especially stand out are ABM Industries (NYSE: ABM), Dover Corporation (NYSE: DOV), Johnson & Johnson (NYSE: JNJ), Lowe's (NYSE: LOW), and Parker-Hannifin (NYSE: PH).",0.07866780459880829,0.01009626779705286,0.9112358689308167,neutral,0.068571537733078
+9,2019-09-22 06:00:00,ABM Industries is an integrated facilities solutions company.,0.04657471552491188,0.004370137117803097,0.9490551352500916,neutral,0.04220457747578621
+10,2019-09-22 06:00:00,"It provides janitorial, facilities engineering, and parking services for commercial real estate properties, businesses, educational institutions, and sports and entertainment venues as well as a range of services to airports, hospitals, and non-acute facilities.",0.021081935614347458,0.005832483526319265,0.9730855822563171,neutral,0.015249451622366905
+11,2019-09-22 06:00:00,The company has paid a dividend every year since 1965.,0.02786245383322239,0.009888621047139168,0.9622489213943481,neutral,0.01797383278608322
+12,2019-09-22 06:00:00,ABM's dividend currently yields 1.97%.,0.019277088344097137,0.008522061631083488,0.972200870513916,neutral,0.010755026713013649
+13,2019-09-22 06:00:00,"Although the company's services might not be the most exciting, ABM's business model is solid.",0.6313343048095703,0.01065133884549141,0.3580142855644226,positive,0.620682954788208
+14,2019-09-22 06:00:00,"The company continues to make strategic acquisitions and divestitures that should keep it at the top of the market for facilities solutions, ensuring that those nice dividends keep flowing.",0.8608474731445312,0.012062077410519123,0.12709051370620728,positive,0.848785400390625
+15,2019-09-22 06:00:00,"Dover is a diversified global company that provides specialized equipment, components, and consumables for multiple industries.",0.0888739824295044,0.004432635847479105,0.9066933393478394,neutral,0.08444134891033173
+16,2019-09-22 06:00:00,"It focuses primarily on selling to businesses operating in the chemical, consumer goods, digital textile printing, environmental solutions, industrial, oil and gas, retail fueling, and vehicle service markets.",0.021268587559461594,0.005492291413247585,0.9732391238212585,neutral,0.015776295214891434
+17,2019-09-22 06:00:00,The company's streak of increasing its dividends annually goes back 64 years.,0.8343631625175476,0.013654802925884724,0.15198203921318054,positive,0.8207083344459534
+18,2019-09-22 06:00:00,Dover's dividend yield currently stands at 1.97%.,0.028205089271068573,0.0071702622808516026,0.9646245837211609,neutral,0.021034827455878258
+19,2019-09-22 06:00:00,"In 2018, Dover initiated a corporate restructuring that reduced costs and shifted its portfolio to focus on higher-margin businesses.",0.845941424369812,0.013867663219571114,0.14019089937210083,positive,0.8320737481117249
+20,2019-09-22 06:00:00,"That effort appears to have paid off, with shares soaring around 40% so far this year.",0.9446256160736084,0.01890628971159458,0.0364680178463459,positive,0.9257193207740784
+21,2019-09-22 06:00:00,Dover should now be in an even better position to continue rewarding shareholders with higher dividend payments for a long time to come.,0.9280168414115906,0.014996733516454697,0.05698638781905174,positive,0.913020133972168
+22,2019-09-22 06:00:00,Johnson & Johnson ranks as the largest healthcare company in the world.,0.4871026277542114,0.01062073465436697,0.502276599407196,neutral,0.4764818847179413
+23,2019-09-22 06:00:00,"The company has over 260 businesses across the world that develop and market consumer healthcare products, medical devices, and pharmaceuticals.",0.06798697263002396,0.004357389640063047,0.9276556372642517,neutral,0.06362958252429962
+24,2019-09-22 06:00:00,J&J has increased its dividend for 57 consecutive years.,0.9404789805412292,0.017016617581248283,0.04250437766313553,positive,0.9234623908996582
+25,2019-09-22 06:00:00,Its dividend yields 2.91% -- the highest level among these top five Dividend Kings.,0.8597716689109802,0.018958816304802895,0.12126950919628143,positive,0.8408128619194031
+26,2019-09-22 06:00:00,The company stands to benefit from aging demographic trends that should drive higher demand for healthcare products and services over the long term.,0.8953155279159546,0.01375715434551239,0.09092727303504944,positive,0.881558358669281
+27,2019-09-22 06:00:00,J&J's breadth of operations across the healthcare continuum also enable it to offer bundling deals to customers that give the company a competitive advantage over its peers.,0.9315977096557617,0.013924570754170418,0.05447773635387421,positive,0.9176731109619141
+28,2019-09-22 06:00:00,"Lowe's is the second-largest home improvement retailer in the world, trailing behind Home Depot.",0.1052236333489418,0.6502547264099121,0.24452164769172668,negative,-0.5450310707092285
+29,2019-09-22 06:00:00,"These two companies enjoy a near-duopoly, competing primarily against each other and smaller home improvement stores.",0.3070603907108307,0.04082178324460983,0.6521178483963013,neutral,0.26623860001564026
+30,2019-09-22 06:00:00,"Unlike Home Depot, though, Lowe's has an impressive track record of dividend hikes that began in 1961.",0.8278993964195251,0.012766414321959019,0.1593341827392578,positive,0.8151329755783081
+31,2019-09-22 06:00:00,The company's dividend currently yields 1.95%.,0.019498532637953758,0.007703403476625681,0.9727980494499207,neutral,0.011795129626989365
+32,2019-09-22 06:00:00,While Lowe's is still No.,0.2506036162376404,0.10977344959974289,0.6396229863166809,neutral,0.1408301591873169
+33,2019-09-22 06:00:00,"2 in the market, it beat Home Depot in the latest quarter on the important metric of comparable-store sales growth.",0.9254524111747742,0.044705361127853394,0.029842253774404526,positive,0.8807470798492432
+34,2019-09-22 06:00:00,"Although there is some volatility in the home improvement sector, Lowe's has shown that it can survive and thrive, making it likely that its dividend streak will keep going.",0.929100751876831,0.015457169152796268,0.055442046374082565,positive,0.9136435985565186
+35,2019-09-22 06:00:00,"Parker-Hannifin is a leading global manufacturer of motion and control technologies and systems for a wide variety of mobile, industrial, and aerospace markets.",0.3673000931739807,0.00758655508980155,0.625113308429718,neutral,0.35971352458000183
+36,2019-09-22 06:00:00,"It sells hundreds of thousands of products, including pumps, motors, seals, and valves, with no single product making up more than 1% of its total revenue.",0.014358889311552048,0.010318508371710777,0.9753225445747375,neutral,0.0040403809398412704
+37,2019-09-22 06:00:00,The company has paid a dividend for 63 consecutive years.,0.05320532247424126,0.014274531975388527,0.9325201511383057,neutral,0.03893078863620758
+38,2019-09-22 06:00:00,Its dividend yield currently stands at 1.97%.,0.0325176864862442,0.006120022386312485,0.9613623023033142,neutral,0.026397664099931717
+39,2019-09-22 06:00:00,"Parker-Hannifin's fiscal 2019, which closed in June, was the company's best year in its history.",0.9120041728019714,0.027428938075900078,0.06056693568825722,positive,0.8845752477645874
+40,2019-09-22 06:00:00,Its decentralized organizational structure fosters an atmosphere of innovation that enables Parker-Hannifin to continue winning customers' business.,0.8755412697792053,0.01198191475123167,0.11247686296701431,positive,0.863559365272522
+41,2019-09-22 06:00:00,And that means the dividend payouts should keep rising for years to come.,0.7868934273719788,0.020984333008527756,0.1921221762895584,positive,0.7659090757369995
+42,2019-09-22 06:00:00,"10 stocks we like better than Parker Hannifin
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11905091255903244,0.02893184870481491,0.8520172238349915,neutral,0.09011906385421753
+43,2019-09-22 06:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+44,2019-09-22 06:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Parker Hannifin wasn't one of them!",0.16827988624572754,0.013929348438978195,0.8177907466888428,neutral,0.15435053408145905
+45,2019-09-22 06:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+46,2019-09-22 06:00:00,Keith Speights has no position in any of the stocks mentioned.,0.009128669276833534,0.045183293521404266,0.9456880688667297,neutral,-0.03605462610721588
+47,2019-09-22 06:00:00,The Motley Fool has the following options: short February 2020 $205 calls on Home Depot and long January 2021 $120 calls on Home Depot.,0.014257289469242096,0.033372148871421814,0.9523706436157227,neutral,-0.019114859402179718
+48,2019-09-22 06:00:00,"The Motley Fool recommends Home Depot, Johnson & Johnson, and Lowe's.",0.019842643290758133,0.02615116909146309,0.9540061950683594,neutral,-0.006308525800704956
+49,2019-09-22 06:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-07-01 10:29:00,This article was first published by MyWallSt.,0.018245255574584007,0.0089268172159791,0.9728279709815979,neutral,0.009318438358604908
+1,2019-07-01 10:29:00,"Some things in life, like waffles and roller coasters, should never be boring.",0.06433667987585068,0.09857969731092453,0.8370835781097412,neutral,-0.03424301743507385
+2,2019-07-01 10:29:00,"Others, such as a transatlantic plane journey or a visit to the dentist, are probably better off without too much excitement.",0.05609668791294098,0.055192120373249054,0.8887112140655518,neutral,0.000904567539691925
+3,2019-07-01 10:29:00,"We can add certain stocks to that list, too.",0.060165517032146454,0.005360124632716179,0.9344743490219116,neutral,0.054805390536785126
+4,2019-07-01 10:29:00,"In his classic book One Up On Wall Street, investor Peter Lynch wrote that he actively seeks out boring stocks with dull names as part of his investing strategy:
+
+""A company that does boring things is almost as good as a company that has a boring name, and both together is terrific.""",0.12737715244293213,0.018181398510932922,0.8544414639472961,neutral,0.1091957539319992
+5,2019-07-01 10:29:00,Here are three companies that best demonstrate how boring can often be best.,0.049383968114852905,0.010464271530508995,0.9401516914367676,neutral,0.03891969472169876
+6,2019-07-01 10:29:00,DocuSign (NASDAQ: DOCU) is a software-as-a-service company that provides electronic signature technology for facilitating exchanges of documents.,0.05817849189043045,0.0043588182888925076,0.9374626278877258,neutral,0.053819674998521805
+7,2019-07-01 10:29:00,"Sounds thrilling, right?",0.09346138685941696,0.026253709569573402,0.8802849054336548,neutral,0.06720767915248871
+8,2019-07-01 10:29:00,"Although it's unlikely to gain a cult following any time soon, the company, which went public in April of last year, has managed to become a permanent fixture in the operations of countless businesses.",0.6829817295074463,0.015327943488955498,0.3016902804374695,positive,0.6676537990570068
+9,2019-07-01 10:29:00,"Indeed, DocuSign's technology is already used by 18 of the top 20 global pharmaceutical companies and seven of the top 10 technology companies.",0.2814266085624695,0.008582593873143196,0.7099907994270325,neutral,0.27284401655197144
+10,2019-07-01 10:29:00,"With more than 500,000 paying customers and hundreds of millions of users under its belt, DocuSign has turned something as mundane as the process of signing a contract into a high-growth business that makes up in growth potential what it lacks in glamour.",0.7039886116981506,0.014340214431285858,0.28167110681533813,positive,0.6896483898162842
+11,2019-07-01 10:29:00,"Like DocuSign, Markel (NYSE: MKL) will never win a prize in the excitement department, but it offers something that faddish start-ups rarely can: a history of incredible returns.",0.5755218863487244,0.015711933374404907,0.4087661802768707,positive,0.5598099231719971
+12,2019-07-01 10:29:00,"Markel, in its own words, is a -- wait for it -- ""holding company for insurance, reinsurance, and investment operations around the world.""",0.15553462505340576,0.006484911777079105,0.8379803895950317,neutral,0.14904971420764923
+13,2019-07-01 10:29:00,"It has performed so well in this space that it has acquired the nickname ""Baby Berkshire.""",0.769555389881134,0.012747793458402157,0.21769681572914124,positive,0.7568076252937317
+14,2019-07-01 10:29:00,"If insurance doesn't rock the boat for you, then how about this?",0.03924212232232094,0.013584373518824577,0.9471734762191772,neutral,0.02565774880349636
+15,2019-07-01 10:29:00,"Markel's stellar reputation comes from its track record of consistently beating the S&P 500, particularly in recent years.",0.8939068913459778,0.01580098085105419,0.09029215574264526,positive,0.8781059384346008
+16,2019-07-01 10:29:00,"Indeed, if you'd bought $1,000 in Markel stock when the company was founded in 1986, your investment would be worth more than $100,000 today.",0.10305384546518326,0.006975388154387474,0.8899707794189453,neutral,0.09607845544815063
+17,2019-07-01 10:29:00,"Founded in 2007, Veeva Systems (NYSE: VEEV) provides cloud-based software that makes life-science companies more efficient.",0.2587701380252838,0.0071547930128872395,0.734075129032135,neutral,0.25161534547805786
+18,2019-07-01 10:29:00,Read that sentence again.,0.10804348438978195,0.10608024150133133,0.7858762145042419,neutral,0.0019632428884506226
+19,2019-07-01 10:29:00,"""Cloud-based software.""",0.05266028270125389,0.012510612607002258,0.9348291158676147,neutral,0.04014967009425163
+20,2019-07-01 10:29:00,"""Life-science.""",0.13006959855556488,0.036530982702970505,0.8333993554115295,neutral,0.09353861212730408
+21,2019-07-01 10:29:00,"""Efficient.""",0.514771044254303,0.06863250583410263,0.4165964722633362,positive,0.44613853096961975
+22,2019-07-01 10:29:00,"That's right, Veeva is out there at the cutting edge of monotony.",0.10400611162185669,0.06498056650161743,0.8310133218765259,neutral,0.03902554512023926
+23,2019-07-01 10:29:00,"Sometimes described as the salesforce.com (NYSE: CRM) of pharma, Veeva was actually co-founded by Peter Gassner, who built Salesforce's customer relationship management (CRM) platform, which is now the largest enterprise cloud-computing platform in the world.",0.10506901890039444,0.005582606885582209,0.8893483877182007,neutral,0.09948641061782837
+24,2019-07-01 10:29:00,"Veeva has achieved a similar level of dominance in its own space, with the company's CRM being used by about 80% of the global pharma and life sciences industry.",0.7974122762680054,0.01232711598277092,0.19026058912277222,positive,0.785085141658783
+25,2019-07-01 10:29:00,"As growth inevitably slows down in its core business, Veeva is investing in its highly successful Vault content management products, which are expected to see growth of 40% by the end of the fiscal year.",0.9067573547363281,0.013088160194456577,0.08015454560518265,positive,0.8936691880226135
+26,2019-07-01 10:29:00,"With shares recently reaching all-time highs, it looks like the future may indeed be exciting for Veeva.",0.7783507704734802,0.01575951837003231,0.20588968694210052,positive,0.7625912427902222
+27,2019-07-01 10:29:00,Check out more great articles like this at MyWallSt now.,0.07982495427131653,0.015177920460700989,0.9049971103668213,neutral,0.06464703381061554
+28,2019-07-01 10:29:00,MyWallSt operates a full disclosure policy.,0.011684469878673553,0.009333985857665539,0.9789815545082092,neutral,0.0023504840210080147
+29,2019-07-01 10:29:00,MyWallSt staff currently hold long positions in DocuSign and Veeva Systems.,0.022881021723151207,0.013631850481033325,0.9634870886802673,neutral,0.009249171242117882
+30,2019-07-01 10:29:00,Read our full disclosure policy here.,0.017978180199861526,0.006888482253998518,0.9751333594322205,neutral,0.011089697480201721
+31,2019-07-01 10:29:00,"10 stocks we like better than Markel
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13337083160877228,0.02275938354432583,0.8438697457313538,neutral,0.1106114462018013
+32,2019-07-01 10:29:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+33,2019-07-01 10:29:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Markel wasn't one of them!",0.1688634157180786,0.013488896191120148,0.8176476955413818,neutral,0.15537452697753906
+34,2019-07-01 10:29:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2019-07-01 10:29:00,"The Motley Fool owns shares of and recommends DocuSign, Markel, Salesforce.com, and Veeva Systems.",0.025554366409778595,0.013880748301744461,0.9605648517608643,neutral,0.011673618108034134
+36,2019-07-01 10:29:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

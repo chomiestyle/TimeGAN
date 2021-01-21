@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-29 01:29:00,"The NASDAQ 100 After Hours Indicator is up 28.33 to 6,661.12.",0.9114819169044495,0.03421417996287346,0.05430392175912857,positive,0.8772677183151245
+1,2019-01-29 01:29:00,"The total After hours volume is currently 53,643,539 shares traded.",0.014688294380903244,0.00870418269187212,0.9766075015068054,neutral,0.005984111689031124
+2,2019-01-29 01:29:00,"The following are the most active stocks for the after hours session :
+
+Ambev S.A. ( ABEV ) is -0.0034 at $4.75, with 4,074,856 shares traded.",0.06732220202684402,0.15528146922588348,0.7773963212966919,neutral,-0.08795926719903946
+3,2019-01-29 01:29:00,ABEV's current last sale is 103.19% of the target price of $4.6.,0.01825401373207569,0.008932209573686123,0.9728137254714966,neutral,0.009321804158389568
+4,2019-01-29 01:29:00,"Freeport-McMoran, Inc. ( FCX ) is unchanged at $10.45, with 3,050,609 shares traded.",0.029381990432739258,0.09232567995786667,0.8782923221588135,neutral,-0.06294368952512741
+5,2019-01-29 01:29:00,FCX's current last sale is 74.64% of the target price of $14.,0.02186930738389492,0.007767849136143923,0.9703628420829773,neutral,0.014101458713412285
+6,2019-01-29 01:29:00,"Pfizer, Inc. ( PFE ) is +0.03 at $40.80, with 2,217,166 shares traded.",0.0279711727052927,0.05237174034118652,0.9196571111679077,neutral,-0.02440056763589382
+7,2019-01-29 01:29:00,"Reuters Reports: Pfizer quarterly profit in line, touts pipeline of future products
+
+Itau Unibanco Banco Holding SA ( ITUB ) is unchanged at $10.17, with 2,022,343 shares traded.ITUB is scheduled to provide an earnings report on 2/4/2019, for the fiscal quarter ending Dec2018.",0.044117528945207596,0.5183582901954651,0.4375241696834564,negative,-0.4742407500743866
+8,2019-01-29 01:29:00,"The consensus earnings per share forecast is 0.18 per share, which represents a 17 percent increase over the EPS one Year Ago
+
+Procter & Gamble Company (The) ( PG ) is -0.23 at $93.31, with 1,744,316 shares traded.",0.9378057718276978,0.027409451082348824,0.03478476032614708,positive,0.9103963375091553
+9,2019-01-29 01:29:00,"Over the last four weeks they have had 5 up revisions for the earnings forecast, for the fiscal quarter ending Jun 2019.",0.045626308768987656,0.062336377799510956,0.8920372724533081,neutral,-0.0167100690305233
+10,2019-01-29 01:29:00,The consensus EPS forecast is $1.04.,0.0557754710316658,0.02312750183045864,0.9210969805717468,neutral,0.03264796733856201
+11,2019-01-29 01:29:00,PG's current last sale is 98.22% of the target price of $95.,0.017633425071835518,0.009196911938488483,0.9731696844100952,neutral,0.008436513133347034
+12,2019-01-29 01:29:00,"Travelport Worldwide Limited ( TVPT ) is unchanged at $15.92, with 1,589,327 shares traded.",0.029305066913366318,0.05736413970589638,0.9133307933807373,neutral,-0.02805907279253006
+13,2019-01-29 01:29:00,TVPT's current last sale is 100.28% of the target price of $15.875.,0.027078907936811447,0.0073302146047353745,0.9655908346176147,neutral,0.019748693332076073
+14,2019-01-29 01:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

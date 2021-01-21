@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-20 04:36:00,The energy sector has been a minefield amid the novel coronavirus.,0.0872500091791153,0.5664600729942322,0.3462899327278137,negative,-0.4792100787162781
+1,2020-05-20 04:36:00,It’s hammered both high-quality stocks and those on the ropes.,0.04736647754907608,0.9016966819763184,0.050936754792928696,negative,-0.8543301820755005
+2,2020-05-20 04:36:00,Take Chesapeake Energy (NYSE:CHK) for example.,0.027528177946805954,0.015574743039906025,0.9568971395492554,neutral,0.011953434906899929
+3,2020-05-20 04:36:00,"With looming bankruptcy risk, CHK stock recently engaged in a 200-for-1 reverse stock split.",0.18213152885437012,0.720693826675415,0.09717468917369843,negative,-0.5385622978210449
+4,2020-05-20 04:36:00,That really should be the only information investors need at this point.,0.031412310898303986,0.024608517065644264,0.9439792037010193,neutral,0.006803793832659721
+5,2020-05-20 04:36:00,Healthy companies engage in regular stock splits to lower their stock price.,0.06695722043514252,0.14994072914123535,0.7831020355224609,neutral,-0.08298350870609283
+6,2020-05-20 04:36:00,"They do this as investors continue to bid their equity prices higher, splitting them to keep them from ballooning up to the figures we see with Amazon (NASDAQ:AMZN) stock.",0.7266404032707214,0.040207501500844955,0.2331521213054657,positive,0.6864328980445862
+7,2020-05-20 04:36:00,"However, only unhealthy companies engage in reverse splits.",0.022152701392769814,0.03771072253584862,0.9401365518569946,neutral,-0.015558021143078804
+8,2020-05-20 04:36:00,"They do this to engineer a higher stock price, and it’s usually done so to stay in compliance with the exchanges.",0.24153603613376617,0.01493336446583271,0.7435306310653687,neutral,0.2266026735305786
+9,2020-05-20 04:36:00,It’s an even worse sign when investors see a reverse split as large as 200 for 1.,0.04362839087843895,0.8864706754684448,0.06990096718072891,negative,-0.8428422808647156
+10,2020-05-20 04:36:00,Consider this.,0.09532614052295685,0.013069463893771172,0.8916043639183044,neutral,0.08225667476654053
+11,2020-05-20 04:36:00,CHK stock rallied over 15% on Monday and closed at $12.49 per share.,0.9389616250991821,0.02777775563299656,0.033260613679885864,positive,0.9111838936805725
+12,2020-05-20 04:36:00,"On a pre-split basis, that values the stock at about 6.2 cents per share.",0.03756929561495781,0.0157764945179224,0.9466542601585388,neutral,0.021792801097035408
+13,2020-05-20 04:36:00,"So while one may glance at Chesapeake at $12, it’s not the same after a reverse split.",0.06444815546274185,0.2799786627292633,0.6555731892585754,neutral,-0.21553051471710205
+14,2020-05-20 04:36:00,The stock price has been engineered higher.,0.8596614003181458,0.038767360150814056,0.10157126933336258,positive,0.8208940625190735
+15,2020-05-20 04:36:00,There’s no other way to put this: CHK stock isn’t worth your time or investment.,0.02952522411942482,0.10518614947795868,0.8652886152267456,neutral,-0.07566092908382416
+16,2020-05-20 04:36:00,Chesapeake is virtually priced for bankruptcy — and that should be a pretty good sign that it’s one to avoid.,0.19449065625667572,0.0787353590130806,0.7267739176750183,neutral,0.11575529724359512
+17,2020-05-20 04:36:00,"But because anything short of bankruptcy could send the stock flying higher, that’s the draw for some investors.",0.25395819544792175,0.15869908034801483,0.5873427987098694,neutral,0.09525911509990692
+18,2020-05-20 04:36:00,They are looking to cash in on a massive move.,0.7382988929748535,0.016124960035085678,0.2455761879682541,positive,0.7221739292144775
+19,2020-05-20 04:36:00,"I say, why gamble with the bankruptcy risk when it’s much easier to pick winners?",0.06342393159866333,0.03278162330389023,0.9037944674491882,neutral,0.030642308294773102
+20,2020-05-20 04:36:00,Amazon stock is up 49% from the lows.,0.9471458792686462,0.021593976765871048,0.03126004710793495,positive,0.9255518913269043
+21,2020-05-20 04:36:00,Even just a “regular” stock like Home Depot (NYSE:HD) is up 75% since March.,0.9029357433319092,0.032955773174762726,0.06410850584506989,positive,0.869979977607727
+22,2020-05-20 04:36:00,"There are a few areas that are really struggling, and energy is one of them.",0.03901186212897301,0.2725464403629303,0.6884416937828064,neutral,-0.233534574508667
+23,2020-05-20 04:36:00,Those looking for bargains in this area may feel most comfortable in oil majors like Exxon Mobil (NYSE:XOM) or a sector allocation like the Energy Select Sector SPDR ETF (NYSEARCA:XLE).,0.09965414553880692,0.021909331902861595,0.8784365653991699,neutral,0.07774481177330017
+24,2020-05-20 04:36:00,That way investors don’t carry the single-stock risk of a company like Chesapeake.,0.02816895768046379,0.05695023015141487,0.9148808121681213,neutral,-0.02878127247095108
+25,2020-05-20 04:36:00,Allow me to make just one other point.,0.09377618879079819,0.016562435775995255,0.8896613717079163,neutral,0.07721374928951263
+26,2020-05-20 04:36:00,"While crude oil prices have come surging back from the lows, CHK stock hasn’t.",0.5805114507675171,0.18445895612239838,0.23502951860427856,positive,0.3960524797439575
+27,2020-05-20 04:36:00,"Sure, shares were up 12.5% or so on May 18.",0.9087659120559692,0.019187672063708305,0.07204639911651611,positive,0.8895782232284546
+28,2020-05-20 04:36:00,But the stock hit new all-time lows just two sessions prior to that.,0.06495445221662521,0.8765408992767334,0.05850464478135109,negative,-0.8115864396095276
+29,2020-05-20 04:36:00,"A rebound in oil prices, in stocks prices and virtually everything else is doing very little to help Chesapeake at this point.",0.034670546650886536,0.823872983455658,0.1414564698934555,negative,-0.7892024517059326
+30,2020-05-20 04:36:00,"On May 11, the company reported earnings.",0.06786420941352844,0.0067613027058541775,0.9253745079040527,neutral,0.06110290810465813
+31,2020-05-20 04:36:00,But in this case — with solvency on the line — it’s not the headline numbers that matter all that much.,0.017466366291046143,0.026170508936047554,0.9563630819320679,neutral,-0.008704142645001411
+32,2020-05-20 04:36:00,"The company reported current assets of $1.8 billion, up from $1.25 billion in the prior quarter.",0.9502435922622681,0.016945868730545044,0.03281044214963913,positive,0.9332977533340454
+33,2020-05-20 04:36:00,"However, current liabilities weighed in at a higher figure, sitting at $2.26 billion.",0.5944971442222595,0.04683893918991089,0.358663946390152,positive,0.5476582050323486
+34,2020-05-20 04:36:00,"When current liabilities top current assets, there is concern about whether the company can cover its short-term obligations.",0.031058020889759064,0.5006660223007202,0.46827593445777893,negative,-0.46960800886154175
+35,2020-05-20 04:36:00,"At the end of the quarter, Chesapeake had total assets of $7.8 billion, down significantly from $16.2 billion in the prior quarter.",0.01555858738720417,0.9731971621513367,0.011244353838264942,negative,-0.9576385617256165
+36,2020-05-20 04:36:00,"On the flip side, total liabilities of $9.5 billion edged up slightly from the prior period.",0.9505684971809387,0.022505737841129303,0.026925837621092796,positive,0.9280627369880676
+37,2020-05-20 04:36:00,"Like the reverse split, almost all you need to know is that long-term debt of $9.2 billion towers over Chesapeake’s $120 million market capitalization.",0.22310154139995575,0.0133822588250041,0.7635161876678467,neutral,0.20971928536891937
+38,2020-05-20 04:36:00,"Further, the company states that it doesn’t expect to be in compliance with financial covenants starting in the fourth quarter, and it just reported Q1 results.",0.05509478971362114,0.49934831261634827,0.4455568194389343,negative,-0.444253534078598
+39,2020-05-20 04:36:00,"Finally, “management has concluded that there is substantial doubt about the company’s ability to continue as a going concern.”
+
+So maybe CHK stock pulls off a miracle, but Wall Street isn’t expecting it.",0.6562549471855164,0.1674444079399109,0.17630062997341156,positive,0.48881053924560547
+40,2020-05-20 04:36:00,There are thousands of stocks to choose from.,0.06380637735128403,0.006554198917001486,0.929639458656311,neutral,0.0572521798312664
+41,2020-05-20 04:36:00,Go with one of quality.,0.09940312802791595,0.009271254763007164,0.8913256525993347,neutral,0.09013187140226364
+42,2020-05-20 04:36:00,"Matthew McCall left Wall Street to actually help investors — by getting them into the world’s biggest, most revolutionary trends BEFORE anyone else.",0.5269109010696411,0.025408338755369186,0.4476807117462158,positive,0.5015025734901428
+43,2020-05-20 04:36:00,"The power of being “first” gave Matt’s readers the chance to bank +2,438% in Stamps.com (STMP), +1,523% in Ulta Beauty (ULTA) and +1,044% in Tesla (TSLA), just to name a few.",0.607160747051239,0.025807848200201988,0.3670314848423004,positive,0.5813528895378113
+44,2020-05-20 04:36:00,Click here to see what Matt has up his sleeve now.,0.0414779931306839,0.05795827507972717,0.9005637168884277,neutral,-0.016480281949043274
+45,2020-05-20 04:36:00,Matt does not directly own the aforementioned securities.,0.007894568145275116,0.011513925157487392,0.9805914759635925,neutral,-0.0036193570122122765
+46,2020-05-20 04:36:00,The post It’s Unlikely a Rebound in Oil Prices Can Save Chesapeake Stock appeared first on InvestorPlace.,0.214146688580513,0.44302913546562195,0.3428241014480591,negative,-0.22888244688510895

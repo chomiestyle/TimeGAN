@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-15 06:25:00,"In early trading on Tuesday, shares of Walmart topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.2%.",0.9336845874786377,0.03713337704539299,0.029181942343711853,positive,0.8965511918067932
+1,2018-05-15 06:25:00,"Year to date, Walmart has lost about 14.4% of its value.",0.01704592816531658,0.958463728427887,0.024490375071763992,negative,-0.9414178133010864
+2,2018-05-15 06:25:00,"And the worst performing Dow component thus far on the day is Home Depot, trading down 1.7%.",0.020410386845469475,0.9653828144073486,0.014206787571310997,negative,-0.9449724555015564
+3,2018-05-15 06:25:00,Home Depot is lower by about 0.9% looking at the year to date performance.,0.02143215946853161,0.9656899571418762,0.012877768836915493,negative,-0.9442577958106995
+4,2018-05-15 06:25:00,"Two other components making moves today are Microsoft, trading down 1.6%, and Walt Disney, trading up 0.2% on the day.",0.0319279283285141,0.9282310605049133,0.039840955287218094,negative,-0.896303117275238
+5,2018-05-15 06:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

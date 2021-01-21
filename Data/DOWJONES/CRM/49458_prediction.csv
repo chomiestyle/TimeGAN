@@ -1,0 +1,74 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-03 06:30:00,"Chicago, IL -March 03, 2017 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017486102879047394,0.008532076142728329,0.9739817976951599,neutral,0.008954026736319065
+1,2017-03-03 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2017-03-03 06:30:00,"Stocks recently featured in the blog include American Express ( AXP - Free Report ), Emerson Electric ( EMR - Free Report ), Salesforce ( CRM - Free Report ), Sherwin-Williams ( SHW - Free Report ) and PetroChina ( PTR - Free Report ).",0.014584372751414776,0.014768988825380802,0.9706466794013977,neutral,-0.0001846160739660263
+3,2017-03-03 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2017-03-03 06:30:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2017-03-03 06:30:00,"Here are highlights from Thursday's Analyst Blog:
+
+Today's Research Daily features new research reports on 16 major stocks, including American Express ( AXP - Free Report ), Emerson Electric ( EMR - Free Report ) and Salesforce ( CRM - Free Report ).",0.02208433859050274,0.010382940992712975,0.9675326943397522,neutral,0.011701397597789764
+6,2017-03-03 06:30:00,Buy rated American Express ' fourth-quarter earnings came in below expectations.,0.019527066498994827,0.9631162881851196,0.017356663942337036,negative,-0.9435892105102539
+7,2017-03-03 06:30:00,The company also continues to witness mounting loan loss provisions.,0.04194723814725876,0.9202685952186584,0.03778418153524399,negative,-0.8783213496208191
+8,2017-03-03 06:30:00,"Moreover, a strong U.S. dollar, loss of Costco as a client and intense competition remain major near-term concerns.",0.024447832256555557,0.8162801861763,0.15927201509475708,negative,-0.7918323278427124
+9,2017-03-03 06:30:00,"However, the company has raised its guidance for 2017.",0.3222868740558624,0.011006535030901432,0.6667065620422363,neutral,0.31128033995628357
+10,2017-03-03 06:30:00,"Additionally, over the last year, the company has gained +41%, higher than the broader finance sector's gain of +26.5%.",0.9583842754364014,0.019247623160481453,0.022368106991052628,positive,0.9391366243362427
+11,2017-03-03 06:30:00,"The analyst also likes its solid market position, strength in card business and significant opportunities from the secular shift toward electronic payments.",0.8786320090293884,0.012773227877914906,0.1085948571562767,positive,0.865858793258667
+12,2017-03-03 06:30:00,(You can read the full research report on American Expresshere. ),0.022259674966335297,0.01005885936319828,0.9676814675331116,neutral,0.012200815603137016
+13,2017-03-03 06:30:00,"Buy-rated Emerson Electric shares have outperformed the Zacks classified Machinery-Electrical industry over the last six months, gaining +15.1% vs. +6.2%.",0.8455272912979126,0.12979134917259216,0.024681417271494865,positive,0.715735912322998
+14,2017-03-03 06:30:00,"Emerson's first-quarter fiscal 2017 earnings exceeded estimates and increased year-over-year on the back of improving macro environment, restructuring benefits and lower expenses.",0.9552934169769287,0.022749748080968857,0.02195688523352146,positive,0.9325436949729919
+15,2017-03-03 06:30:00,"Going forward, the company's aggressive restructuring actions and strategic divestures are likely to boost margins.",0.9530163407325745,0.0179807860404253,0.029002895578742027,positive,0.9350355267524719
+16,2017-03-03 06:30:00,"Moreover, recent acquisitions, such as the Pentair and Permasense, look promising.",0.673186182975769,0.010864326730370522,0.3159494400024414,positive,0.6623218655586243
+17,2017-03-03 06:30:00,"The thriving HVAC and refrigeration business, buoyant construction markets in the U.S. & Asia, and high global infrastructure spending are expected to stoke growth.",0.9451247453689575,0.015848712995648384,0.039026468992233276,positive,0.9292760491371155
+18,2017-03-03 06:30:00,(You can read the full research report on Emerson Electric here. ),0.01817590929567814,0.011142048984766006,0.9706820249557495,neutral,0.007033860310912132
+19,2017-03-03 06:30:00,"Salesforce 's shares have gained +11.7% over the last six months, outperforming the Zacks categorized Computer - Software industry which gained +8.9% over the same period.",0.9567065834999084,0.024655895307660103,0.018637539818882942,positive,0.9320507049560547
+20,2017-03-03 06:30:00,"Though, Salesforce disappointed on the earnings front during the fourth quarter, it continues to witness strong growth in revenues.",0.9507366418838501,0.024492112919688225,0.024771224707365036,positive,0.9262445569038391
+21,2017-03-03 06:30:00,"Moreover, the upbeat revenue guidance for fiscal 2018 is encouraging.",0.8996540904045105,0.0166153684258461,0.08373056352138519,positive,0.8830386996269226
+22,2017-03-03 06:30:00,The Zacks analyst likes Salesforce's sustained focus on strategic acquisitions and believes this will drive its top-line over the long run.,0.872528076171875,0.012876007705926895,0.11459584534168243,positive,0.859652042388916
+23,2017-03-03 06:30:00,"However, currency fluctuations and stepped-up investments on international expansions and data centers could impact near-term results.",0.044449757784605026,0.8901003003120422,0.06544984877109528,negative,-0.8456505537033081
+24,2017-03-03 06:30:00,(You can read the full research report on Salesforce here. ),0.01658075675368309,0.01333749108016491,0.9700816869735718,neutral,0.003243265673518181
+25,2017-03-03 06:30:00,Other noteworthy reports we are featuring today include Sherwin-Williams ( SHW - Free Report ) and PetroChina ( PTR - Free Report ).,0.0491349957883358,0.00596533203497529,0.9448997378349304,neutral,0.04316966235637665
+26,2017-03-03 06:30:00,"Starting today, you are invited to download in-depth analysis reports covering more than 1,000 of the most widely followed stocks.",0.040785253047943115,0.008477886207401752,0.9507368803024292,neutral,0.03230736777186394
+27,2017-03-03 06:30:00,"Valued at $25 each, they are yours to consult over the next 30 days absolutely free.",0.03975151479244232,0.0066274418495595455,0.9536210894584656,neutral,0.03312407433986664
+28,2017-03-03 06:30:00,They feature sensitive Zacks Rank information on each stock that you won't find anywhere else.,0.027265066280961037,0.022345593199133873,0.9503893852233887,neutral,0.004919473081827164
+29,2017-03-03 06:30:00,"See the reports free >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.08351200073957443,0.005147385410964489,0.9113406538963318,neutral,0.07836461812257767
+30,2017-03-03 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+31,2017-03-03 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+32,2017-03-03 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+33,2017-03-03 06:30:00,"Strong Stocks that Should Be in the News
+
+Many are little publicized and fly under the Wall Street radar.",0.044983625411987305,0.5624399185180664,0.3925764560699463,negative,-0.5174562931060791
+34,2017-03-03 06:30:00,They're virtually unknown to the general public.,0.035764459520578384,0.0785161554813385,0.885719358921051,neutral,-0.04275169596076012
+35,2017-03-03 06:30:00,"Yet today's 220 Zacks Rank #1 ""Strong Buys"" were generated by the stock-picking system that has nearly tripled the market from 1988 through 2015.",0.6580293774604797,0.017276067286729813,0.32469451427459717,positive,0.6407533288002014
+36,2017-03-03 06:30:00,Its average gain has been a stellar +26% per year.,0.8422174453735352,0.0191669799387455,0.13861553370952606,positive,0.8230504393577576
+37,2017-03-03 06:30:00,See these high-potential stocks free >>.,0.12527841329574585,0.05778927728533745,0.8169323205947876,neutral,0.0674891322851181
+38,2017-03-03 06:30:00,"Get the full Report on AXP - FREE
+
+Get the full Report on EMR - FREE
+
+Get the full Report on CRM - FREE
+
+Get the full Report on SHW - FREE
+
+Get the full Report on PTR - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.014002304524183273,0.00906448159366846,0.9769332408905029,neutral,0.0049378229305148125
+39,2017-03-03 06:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+40,2017-03-03 06:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+41,2017-03-03 06:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+42,2017-03-03 06:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+43,2017-03-03 06:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+44,2017-03-03 06:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+45,2017-03-03 06:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+46,2017-03-03 06:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+47,2017-03-03 06:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+48,2017-03-03 06:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+49,2017-03-03 06:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+50,2017-03-03 06:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+51,2017-03-03 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2017-03-03 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2017-03-03 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+54,2017-03-03 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

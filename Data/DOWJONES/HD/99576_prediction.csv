@@ -1,0 +1,107 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-01 07:00:00,This article will be brief.,0.01246901135891676,0.010390961542725563,0.9771400094032288,neutral,0.0020780498161911964
+1,2015-05-01 07:00:00,So much has been written about the Lumber Liquidators ( LL ) situation in these past two months that one more article seems unnecessary.,0.02433164045214653,0.1980617344379425,0.7776066064834595,neutral,-0.17373009026050568
+2,2015-05-01 07:00:00,"However, since my original article played a small part in lighting the fuse, I felt the need to correct one critical piece of the story that, upon further research, may have been inconclusive.",0.08212853968143463,0.39428555965423584,0.5235859155654907,neutral,-0.3121570348739624
+3,2015-05-01 07:00:00,New evidence has come to my attention that Lumber Liquidators may not have been the lone violator when it comes to laminate floor sourcing.,0.0962890163064003,0.25978749990463257,0.6439234614372253,neutral,-0.16349849104881287
+4,2015-05-01 07:00:00,"Lowe's ( LOW ), a behemoth in home improvement, has been selling similar questionable products as recently as late March.",0.04332193359732628,0.3453815281391144,0.611296534538269,neutral,-0.3020595908164978
+5,2015-05-01 07:00:00,"The ""60 Minutes"" feature, which aired on March 1, told a good story, but based on my follow-up research, not the whole story.",0.07962878048419952,0.012860896065831184,0.9075103402137756,neutral,0.06676788628101349
+6,2015-05-01 07:00:00,"""60 Minutes"" made one critical error by only testing products from Lumber Liquidators.",0.04370778426527977,0.8039771318435669,0.152315154671669,negative,-0.7602693438529968
+7,2015-05-01 07:00:00,Anderson Cooper may have taken Global Community Monitor's testing of Home Depot and Lowe's products at face value and did not do independent testing.,0.02815363183617592,0.8512228727340698,0.12062351405620575,negative,-0.8230692148208618
+8,2015-05-01 07:00:00,"Additionally, ""60 Minutes"" did not go to the effort to test any other large retailers' products, for example, Floor & Decor or Menards.",0.022436778992414474,0.022550048306584358,0.95501309633255,neutral,-0.00011326931416988373
+9,2015-05-01 07:00:00,Was it only Lumber Liquidators that was sourcing formaldehyde non-compliant HDF cores for its laminates?,0.013138977810740471,0.03658905252814293,0.9502720236778259,neutral,-0.023450074717402458
+10,2015-05-01 07:00:00,"After the publicity surrounding formaldehyde issues regarding Lumber Liquidators, a number of industry sources who are familiar with the actual business practice of product sourcing reached out to me.",0.057342007756233215,0.009046729654073715,0.9336112141609192,neutral,0.0482952781021595
+11,2015-05-01 07:00:00,"One of them, (whom I will refer to as Larry), is intimately familiar with the process.",0.0457085445523262,0.00920229870826006,0.9450892210006714,neutral,0.03650624677538872
+12,2015-05-01 07:00:00,He shared with me his suspicion that Lowe's may be selling similarly problematic products as Lumber Liquidators.,0.027808289974927902,0.9273358583450317,0.044855810701847076,negative,-0.8995275497436523
+13,2015-05-01 07:00:00,"One of the major trade shows for the flooring industry, Domotex Asia, was scheduled a few weeks after the ""60 Minutes"" episode (March 24-26), so I asked him to get greater details about the other retailers' sourcing practices.",0.04825306683778763,0.007943705655634403,0.9438032507896423,neutral,0.0403093621134758
+14,2015-05-01 07:00:00,Shortly thereafter I received two audio recordings of conversations from Larry who had attended the Domotex conference.,0.022511089220643044,0.01467674970626831,0.9628121852874756,neutral,0.007834339514374733
+15,2015-05-01 07:00:00,These two conversations provided enough evidence for me to dig further at Lowe's.,0.21358007192611694,0.0441376268863678,0.7422823309898376,neutral,0.16944244503974915
+16,2015-05-01 07:00:00,The factory representatives where Lowe's sourced its products indicated that Lowe's had been purchasing similar non-compliant HDF cores as Lumber Liquidators.,0.1399170607328415,0.022311465814709663,0.837771475315094,neutral,0.11760559678077698
+17,2015-05-01 07:00:00,"Larry sourced FH/L 3603 Chocolate Cherry Hickory from Lowe's and sent it to Benchmark International (""Benchmark""), one of the two independent labs used by ""60 Minutes"" to test Lumber Liquidators' products.",0.1099305972456932,0.007560282479971647,0.8825090527534485,neutral,0.10237031430006027
+18,2015-05-01 07:00:00,This particular laminate was chosen based on the conversations with the Chinese factory representatives who indicated which products were not using CARB 2 HDF cores.,0.06999155879020691,0.008196188136935234,0.9218122959136963,neutral,0.061795368790626526
+19,2015-05-01 07:00:00,"Below are pictures of the product purchased, including the receipt and a description of the product from Lowe's website.",0.012285723350942135,0.008819330483675003,0.9788949489593506,neutral,0.003466392867267132
+20,2015-05-01 07:00:00,Larry was able to push through the testing at Benchmark and get the results back within about 2 weeks.,0.8027327656745911,0.021260889247059822,0.17600630223751068,positive,0.781471848487854
+21,2015-05-01 07:00:00,The results are below.,0.016955597326159477,0.019649775698781013,0.9633945822715759,neutral,-0.0026941783726215363
+22,2015-05-01 07:00:00,Lowe's FH/L 3603 Chocolate Cherry Hickory scored approximately 10x the threshold established by CARB 2.,0.4951413869857788,0.014639250934123993,0.4902193546295166,positive,0.4805021286010742
+23,2015-05-01 07:00:00,"Benchmark wrote to Larry, regarding Lowe's FH/L 3603 Chocolate Cherry Hickory, ""I would be very concerned about the results from the one test from your supplier--that is an extraordinarily high number.""",0.17476467788219452,0.16625411808490753,0.658981204032898,neutral,0.008510559797286987
+24,2015-05-01 07:00:00,"To put Lowe's results in context, ""60 Minutes"" tested 31 samples from Lumber Liquidators and Lowe's Chocolate Cherry Hickory would have been the third worst of all 31 samples had it been included by ""60 Minutes"".",0.05436265841126442,0.8049637675285339,0.14067359268665314,negative,-0.7506011128425598
+25,2015-05-01 07:00:00,Only two samples from Lumber Liquidators were worse.,0.02498966082930565,0.9308217763900757,0.0441884845495224,negative,-0.9058321118354797
+26,2015-05-01 07:00:00,The results from Lowe's were 1.134 ppm.,0.021004777401685715,0.016025535762310028,0.9629696607589722,neutral,0.004979241639375687
+27,2015-05-01 07:00:00,The CARB 2 threshold is 0.11 ppm.,0.03360322490334511,0.024188416078686714,0.9422083497047424,neutral,0.009414808824658394
+28,2015-05-01 07:00:00,"As depicted nicely by the ""60 Minutes"" graphic below, Lowe's result of 1.134 ppm corresponds to 1000% above the legal limit allowed in California.",0.8065943717956543,0.027516033500432968,0.16588957607746124,positive,0.7790783643722534
+29,2015-05-01 07:00:00,"What I find compelling, especially after the ""60 Minutes"" report on Lumber Liquidators' non-compliant laminate product, is that Lowe's was still selling this ""toxic"" material weeks later.",0.03585093840956688,0.5366703867912292,0.4274786710739136,negative,-0.5008194446563721
+30,2015-05-01 07:00:00,"Larry purchased this product on March 29, 2015, almost an entire month after the ""60 Minutes"" report.",0.07268884778022766,0.01643162965774536,0.9108794927597046,neutral,0.0562572181224823
+31,2015-05-01 07:00:00,Lowe's had to have known what it was doing given the publicity surrounding the issue.,0.03051278181374073,0.07980150729417801,0.8896856904029846,neutral,-0.04928872734308243
+32,2015-05-01 07:00:00,"You don't get to that size by ""being duped.""",0.07389996945858002,0.24392317235469818,0.6821768879890442,neutral,-0.17002320289611816
+33,2015-05-01 07:00:00,Lowe's is a sophisticated and savvy buyer.,0.2519984543323517,0.00713537959381938,0.7408661246299744,neutral,0.24486307799816132
+34,2015-05-01 07:00:00,"Moreover, Lowe's misrepresented these products in its retail outlets and on its website as being CARB compliant.",0.024317363277077675,0.848228394985199,0.1274542659521103,negative,-0.8239110112190247
+35,2015-05-01 07:00:00,"Perhaps Lumber Liquidators was negligent, but after what I learned about Lowe's quality control it seems to me that Lowe's may have similar issues in its purchase of non-compliant HDF.",0.07822154462337494,0.6290437579154968,0.29273468255996704,negative,-0.5508221983909607
+36,2015-05-01 07:00:00,Where else does Lowe's cut corners?,0.05353138968348503,0.09969424456357956,0.8467743992805481,neutral,-0.04616285488009453
+37,2015-05-01 07:00:00,"If the various regulatory agencies (namely, the Environmental Protection Agency and the Consumer Products Safety Commission) aim to protect consumers, their testing should not be limited to Lumber Liquidators.",0.018890174105763435,0.01132140588015318,0.9697884321212769,neutral,0.007568768225610256
+38,2015-05-01 07:00:00,"And if ""60 Minutes"", Senators Chuck Schumer and Bill Nelson are worried about products ""drenched"" in formaldehyde, then they should widen their net to include Lowe's and further investigate the ""extraordinarily high number"" from the FH/L 3603 Chocolate Cherry Hickory.",0.07982193678617477,0.09490235149860382,0.8252756595611572,neutral,-0.015080414712429047
+39,2015-05-01 07:00:00,"In a matter of weeks following the ""60 Minutes"" episode, Larry was able to collect original purchase orders from the Chinese factories where the Lowe's laminate was manufactured, audio recordings with representatives of two Chinese factories that produced this brand of laminate flooring for Lowe's, receipts from Lowe's and test results from one of the same labs that did the ""60 Minutes"" test.",0.02318962849676609,0.033208295702934265,0.9436020255088806,neutral,-0.010018667206168175
+40,2015-05-01 07:00:00,This was done on a little more than a shoe-string budget.,0.14979389309883118,0.026078728958964348,0.8241273760795593,neutral,0.12371516227722168
+41,2015-05-01 07:00:00,"I will gladly turn this evidence over to ""60 Minutes"", the EPA, CPSC or any regulatory body that requests it and point them in the right direction as to which laminate products are most likely non-compliant.",0.034194257110357285,0.007098783273249865,0.9587069153785706,neutral,0.027095474302768707
+42,2015-05-01 07:00:00,"Around that same time, Larry visited a few Floor & Decor locations outside California.",0.037691593170166016,0.009701244533061981,0.9526071548461914,neutral,0.027990348637104034
+43,2015-05-01 07:00:00,"Floor & Decor is not a publicly-traded company, but they have filed an S-1 and may become a public company in the near future.",0.023808414116501808,0.006847948767244816,0.9693436622619629,neutral,0.016960464417934418
+44,2015-05-01 07:00:00,Most national retailers that have locations within and outside of California will put CARB 2 labels on all of their products.,0.02256840094923973,0.024844402447342873,0.9525872468948364,neutral,-0.002276001498103142
+45,2015-05-01 07:00:00,"However, during these visits to the Floor & Decor locations outside California, the CARB 2 labels on Chinese laminates had been removed: either cut off and replaced with ""normal"" labeling or even blacked out with a Sharpie (pictures below).",0.024390604346990585,0.8782414197921753,0.09736805409193039,negative,-0.8538508415222168
+46,2015-05-01 07:00:00,"Larry spoke with one manager about the Sharpie marks, and he indicated that ""We received a memo from corporate.",0.05468657985329628,0.03576401248574257,0.9095494151115417,neutral,0.01892256736755371
+47,2015-05-01 07:00:00,"I am not sure why.""",0.07845158874988556,0.13464480638504028,0.7869036197662354,neutral,-0.056193217635154724
+48,2015-05-01 07:00:00,It appears that this manager did not fully grasp the current regulatory environment.,0.026293206959962845,0.6671890020370483,0.3065177798271179,negative,-0.6408957839012146
+49,2015-05-01 07:00:00,What actual conclusions can I draw from these labeling changes?,0.03256821259856224,0.00832918006926775,0.9591026306152344,neutral,0.024239033460617065
+50,2015-05-01 07:00:00,"I am not sure, but it did seem odd.",0.06884974241256714,0.13762104511260986,0.7935291528701782,neutral,-0.06877130270004272
+51,2015-05-01 07:00:00,"Below are the pictures from Floor & Decor's labeling ""adjustments.""",0.021005570888519287,0.014591471292078495,0.9644029140472412,neutral,0.006414099596440792
+52,2015-05-01 07:00:00,"Lastly, it appears as though not every company in the space is risking the health and safety of its customers.",0.0654032975435257,0.4890727400779724,0.4455239474773407,negative,-0.4236694574356079
+53,2015-05-01 07:00:00,"Larry's investigation at several factories uncovered Home Depot ( HD ) as buying ""CARB Phase 2,"" and, ""they (( HD )) have the strict standard (sic.)""",0.03426405414938927,0.08128724992275238,0.8844486474990845,neutral,-0.04702319577336311
+54,2015-05-01 07:00:00,"As I commented to Bloomberg following the ""60 Minutes"" feature, referring to customers who purchased Chinese laminates, ""These are real people, real lives.""",0.05891525372862816,0.009539224207401276,0.9315454959869385,neutral,0.04937602952122688
+55,2015-05-01 07:00:00,"Right now, the investigative net is too small and Lumber Liquidators should not be the singular focus.",0.02975805103778839,0.21789877116680145,0.7523431181907654,neutral,-0.18814072012901306
+56,2015-05-01 07:00:00,I have reached out to Lowe's investor relations department and have yet to receive a response from their PR team.,0.028523700311779976,0.14308515191078186,0.8283910751342773,neutral,-0.11456145346164703
+57,2015-05-01 07:00:00,"With the investment community circling around Lumber Liquidators' quality issues, some attention shall be duly directed towards Lowe's.",0.15563419461250305,0.04507586732506752,0.7992899417877197,neutral,0.11055833101272583
+58,2015-05-01 07:00:00,How could a home improvement behemoth of its size and status be negligent when it comes to product quality.,0.05701828747987747,0.46605315804481506,0.47692862153053284,neutral,-0.4090348780155182
+59,2015-05-01 07:00:00,The contrast is even greater as Home Depot is regarded as having strict standards when it comes to product sourcing by its suppliers.,0.06843268126249313,0.13075324892997742,0.8008140921592712,neutral,-0.06232056766748428
+60,2015-05-01 07:00:00,It seems like an easy question to answer as to which store consumers should visit for large ticket home improvement purchases.,0.05501842498779297,0.020338091999292374,0.9246435165405273,neutral,0.034680332988500595
+61,2015-05-01 07:00:00,Yet Home Depot is factually trading at a lesser earnings multiple.,0.05825217813253403,0.747625470161438,0.19412237405776978,negative,-0.6893733143806458
+62,2015-05-01 07:00:00,"I recently returned from Shanghai and the Domotex flooring show, having visited with several factories, meeting with people involved in the LL/CBS saga, and I recorded a conversation I had with the CS Floor representative who was familiar with Tecsun's products purchased from her factory and sold by Lowe's, as well as her comments about these product's CARB-compliant status.",0.03170250356197357,0.017036298289895058,0.9512611627578735,neutral,0.014666205272078514
+63,2015-05-01 07:00:00,"Below is the transcript:
+
+Me: So, last year Tecsun bought from you this year they buy from your husband?",0.015977753326296806,0.04194541275501251,0.9420768022537231,neutral,-0.025967659428715706
+64,2015-05-01 07:00:00,Me: Kangnuo?,0.050757382065057755,0.10002057999372482,0.8492220044136047,neutral,-0.04926319792866707
+65,2015-05-01 07:00:00,"Yeah, I look 'em (up)
+
+Me: Dean, ok.",0.10313820838928223,0.05628961697220802,0.8405721783638,neutral,0.046848591417074203
+66,2015-05-01 07:00:00,"But they have, they send QC to the factory all the time?",0.04369373247027397,0.0989818274974823,0.857324481010437,neutral,-0.05528809502720833
+67,2015-05-01 07:00:00,Rep: Yeah.,0.16640326380729675,0.05631187558174133,0.7772849202156067,neutral,0.11009138822555542
+68,2015-05-01 07:00:00,"No, no, not all, yeah.",0.17045843601226807,0.1299561858177185,0.6995853781700134,neutral,0.04050225019454956
+69,2015-05-01 07:00:00,(inaudible) If the production is on-line.,0.011400501243770123,0.04756779596209526,0.9410316944122314,neutral,-0.036167293787002563
+70,2015-05-01 07:00:00,Rep: They have three to four people step-by-step.,0.018653936684131622,0.012805412523448467,0.9685406684875488,neutral,0.005848524160683155
+71,2015-05-01 07:00:00,Me: Is it like Lumber Liquidators?,0.011752387508749962,0.024852348491549492,0.9633952379226685,neutral,-0.01309996098279953
+72,2015-05-01 07:00:00,"Rep: No, just the Tecsun.",0.023323504254221916,0.04201660305261612,0.9346598982810974,neutral,-0.018693098798394203
+73,2015-05-01 07:00:00,Me: No.,0.06595475971698761,0.13495011627674103,0.799095094203949,neutral,-0.06899535655975342
+74,2015-05-01 07:00:00,"Lumber Liquidators, they don't come and check step-by-step, do they?",0.021750060841441154,0.07869517058134079,0.8995547294616699,neutral,-0.056945107877254486
+75,2015-05-01 07:00:00,"Me: No they don't do any, anything.",0.022111091762781143,0.17062894999980927,0.8072599768638611,neutral,-0.14851786196231842
+76,2015-05-01 07:00:00,"And so, so now at Tecsun, do they buy CARB 2?",0.06000478193163872,0.009237060323357582,0.9307581782341003,neutral,0.050767719745635986
+77,2015-05-01 07:00:00,Rep: Before no.,0.06643515080213547,0.16215120255947113,0.7714136242866516,neutral,-0.09571605175733566
+78,2015-05-01 07:00:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+79,2015-05-01 07:00:00,No customer buy.,0.0195683054625988,0.024450305849313736,0.955981433391571,neutral,-0.004882000386714935
+80,2015-05-01 07:00:00,I think this is critical information.,0.08404895663261414,0.01822054199874401,0.8977304697036743,neutral,0.06582841277122498
+81,2015-05-01 07:00:00,"This representative of a former Lowe's supplier, who has intimate knowledge of their quality control and the type of HDF core board used, is not only unequivocal about Tecsun's non-compliance, she said ALL CUSTOMERS were non-compliant.",0.05439605191349983,0.16705965995788574,0.7785442471504211,neutral,-0.11266361176967621
+82,2015-05-01 07:00:00,"Moreover, this person is not merely a representative of the CS Floor, she is also the Vice President.",0.01869797147810459,0.008929976262152195,0.9723720550537109,neutral,0.009767995215952396
+83,2015-05-01 07:00:00,As she mentioned her husband now works with the factory which currently sells this same Tecsun brand.,0.016306815668940544,0.029139921069145203,0.9545532464981079,neutral,-0.012833105400204659
+84,2015-05-01 07:00:00,"His factory, Changzhou Kangnuo Ornamental Material, Ltd., for the record, was not mentioned or shown in the ""60 Minutes"" piece.",0.016849612817168236,0.06953908503055573,0.9136112928390503,neutral,-0.05268947035074234
+85,2015-05-01 07:00:00,"Here is the transcript of the conversation I had with him:
+
+Me: Ok.",0.021024616435170174,0.019723152741789818,0.9592522382736206,neutral,0.0013014636933803558
+86,2015-05-01 07:00:00,But this is the one that Tecsun buys?,0.039693787693977356,0.008051319047808647,0.9522549510002136,neutral,0.03164246678352356
+87,2015-05-01 07:00:00,Me: And they buy all six colors?,0.02276497706770897,0.00958278588950634,0.9676522016525269,neutral,0.013182191178202629
+88,2015-05-01 07:00:00,Dean: This one and the green one and then and before six colors.,0.018265575170516968,0.01050893496721983,0.9712255597114563,neutral,0.007756640203297138
+89,2015-05-01 07:00:00,"I don't (inaudible)
+
+Me: I know they used to buy from CS, but now they buy from you.",0.02119733951985836,0.019300738349556923,0.9595019817352295,neutral,0.0018966011703014374
+90,2015-05-01 07:00:00,Me: You took their business.,0.05078056827187538,0.6769208908081055,0.2722986042499542,negative,-0.626140296459198
+91,2015-05-01 07:00:00,(laughter) Do they buy CARB?,0.021313562989234924,0.03183687850832939,0.9468495845794678,neutral,-0.010523315519094467
+92,2015-05-01 07:00:00,Dean: After this they will want to change.,0.038366395980119705,0.038924265652894974,0.9227093458175659,neutral,-0.0005578696727752686
+93,2015-05-01 07:00:00,Me: They might change after the news.,0.061460983008146286,0.174186572432518,0.7643525004386902,neutral,-0.11272558569908142
+94,2015-05-01 07:00:00,Me: Everybody wants to change now.,0.10809432715177536,0.05419083684682846,0.8377147912979126,neutral,0.0539034903049469
+95,2015-05-01 07:00:00,"See also ViaSat's ( VSAT ) CEO Mark Dankberg on Q4 2015 Results - Earnings Call Transcript on seekingalpha.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010157269425690174,0.01810038462281227,0.9717423915863037,neutral,-0.007943115197122097

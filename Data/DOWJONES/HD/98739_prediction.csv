@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-10 07:12:00,"In early trading on Monday, shares of Exxon Mobil ( XOM ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.9%.",0.9405415058135986,0.030679354444146156,0.028779126703739166,positive,0.9098621606826782
+1,2016-10-10 07:12:00,"Year to date, Exxon Mobil registers a 13.4% gain.",0.945815920829773,0.02321469597518444,0.03096935898065567,positive,0.9226012229919434
+2,2016-10-10 07:12:00,"And the worst performing Dow component thus far on the day is Wal-Mart Stores ( WMT ), trading down 0.8%.",0.02075546234846115,0.9657789468765259,0.01346563920378685,negative,-0.9450234770774841
+3,2016-10-10 07:12:00,Wal-Mart Stores is showing a gain of 11.1% looking at the year to date performance.,0.9488114714622498,0.02467235177755356,0.026516126468777657,positive,0.924139142036438
+4,2016-10-10 07:12:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.1%, and Merck & Co. ( MRK ), trading up 1.6% on the day.",0.04298839345574379,0.9202479720115662,0.03676360845565796,negative,-0.8772595524787903
+5,2016-10-10 07:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

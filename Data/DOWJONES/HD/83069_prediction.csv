@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-06-13 21:31:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Wells Fargo & Co. (Symbol: WFC), where a total volume of 101,924 contracts has been traded thus far today, a contract volume which is representative of approximately 10.2 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05647866427898407,0.010670093819499016,0.932851254940033,neutral,0.045808568596839905
+1,2018-06-13 21:31:00,"That number works out to 59.2% of WFC's average daily trading volume over the past month, of 17.2 million shares.",0.6590587496757507,0.022348154336214066,0.3185930848121643,positive,0.6367105841636658
+2,2018-06-13 21:31:00,"Especially high volume was seen for the $45 strike put option expiring January 18, 2019 , with 10,766 contracts trading so far today, representing approximately 1.1 million underlying shares of WFC.",0.2217741459608078,0.010196417570114136,0.7680294513702393,neutral,0.21157772839069366
+3,2018-06-13 21:31:00,"Below is a chart showing WFC's trailing twelve month trading history, with the $45 strike highlighted in orange:
+
+Oracle Corp (Symbol: ORCL) options are showing a volume of 74,126 contracts thus far today.",0.02245224639773369,0.026840277016162872,0.9507074356079102,neutral,-0.004388030618429184
+4,2018-06-13 21:31:00,"That number of contracts represents approximately 7.4 million underlying shares, working out to a sizeable 57.5% of ORCL's average daily trading volume over the past month, of 12.9 million shares.",0.1254727840423584,0.009671925567090511,0.8648552298545837,neutral,0.11580085754394531
+5,2018-06-13 21:31:00,"Particularly high volume was seen for the $42.50 strike put option expiring June 22, 2018 , with 10,222 contracts trading so far today, representing approximately 1.0 million underlying shares of ORCL.",0.2222270518541336,0.010774929076433182,0.7669979929924011,neutral,0.21145212650299072
+6,2018-06-13 21:31:00,"Below is a chart showing ORCL's trailing twelve month trading history, with the $42.50 strike highlighted in orange:
+
+And Home Depot Inc (Symbol: HD) saw options trading volume of 25,031 contracts, representing approximately 2.5 million underlying shares or approximately 56.4% of HD's average daily trading volume over the past month, of 4.4 million shares.",0.01924375258386135,0.011629075743258,0.9691271781921387,neutral,0.007614676840603352
+7,2018-06-13 21:31:00,"Particularly high volume was seen for the $200 strike call option expiring June 15, 2018 , with 3,494 contracts trading so far today, representing approximately 349,400 underlying shares of HD.",0.2889716327190399,0.011359135620296001,0.6996693015098572,neutral,0.27761250734329224
+8,2018-06-13 21:31:00,"Below is a chart showing HD's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+For the various different available expirations for WFC options , ORCL options , or HD options , visit StockOptionsChannel.com.",0.009889541193842888,0.02254495769739151,0.9675654768943787,neutral,-0.012655416503548622
+9,2018-06-13 21:31:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

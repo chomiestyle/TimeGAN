@@ -1,0 +1,73 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-06 04:40:00,Investors are always hunting for stocks with low P/E which indicates undervaluation.,0.08689222484827042,0.6385790705680847,0.2745286524295807,negative,-0.5516868233680725
+1,2016-10-06 04:40:00,"The ratio, which is obtained by dividing a stock's current market price with its historical or estimated earnings, measures how much an investor needs to shell out per dollar of earnings.",0.05723213031888008,0.008960828185081482,0.9338070154190063,neutral,0.0482713021337986
+2,2016-10-06 04:40:00,"The lower the P/E of a stock, the better for a value investor.",0.1386587768793106,0.3977184593677521,0.46362271904945374,neutral,-0.2590596675872803
+3,2016-10-06 04:40:00,"This is because value investors believe that a company's earnings growth potential is not priced in at the current level and thus the stock has higher chances of outperformance, going forward.",0.33022308349609375,0.18988485634326935,0.47989198565483093,neutral,0.1403382271528244
+4,2016-10-06 04:40:00,"Naturally, there are very few investors who pay attention to stocks with an increasing P/E.",0.058157943189144135,0.03870294988155365,0.9031391143798828,neutral,0.019454993307590485
+5,2016-10-06 04:40:00,But this often overlooked trend can prove worthwhile in finding great stocks.,0.8263711929321289,0.01790144108235836,0.15572740137577057,positive,0.8084697723388672
+6,2016-10-06 04:40:00,Let's dig a little deeper.,0.1381656974554062,0.01375603023916483,0.8480783104896545,neutral,0.12440966814756393
+7,2016-10-06 04:40:00,Investors should note that stock prices move in tandem with earnings performance.,0.45714154839515686,0.01419906783849001,0.5286593437194824,neutral,0.44294247031211853
+8,2016-10-06 04:40:00,"If earnings come in stronger, the price of a stock shoots up.",0.6268013119697571,0.06605750322341919,0.30714115500450134,positive,0.5607438087463379
+9,2016-10-06 04:40:00,"Solid quarterly earnings and the forward guidance in turn boost earnings forecasts, leading to stronger demand for the stock and an uptrend in its price.",0.9518328905105591,0.027884455397725105,0.020282646641135216,positive,0.9239484071731567
+10,2016-10-06 04:40:00,"So, if the price is rising steadily, it means that investors are assured of the stock's fundamental strength and expect some strong positives out of it.",0.8539518117904663,0.016545496881008148,0.12950271368026733,positive,0.8374063372612
+11,2016-10-06 04:40:00,"Also, studies have revealed that stocks have seen their P/E ratios jump over 100% from their breakout point in the cycle.",0.9454739689826965,0.02880001813173294,0.025725964456796646,positive,0.9166739583015442
+12,2016-10-06 04:40:00,All these make the case for a rising P/E a lucrative investing criterion.,0.7306874990463257,0.01758713275194168,0.25172531604766846,positive,0.7131003737449646
+13,2016-10-06 04:40:00,"In order to shortlist stocks that are exhibiting an increasing P/E, we chose the following as our primary screening parameters.",0.061937130987644196,0.006409929133951664,0.9316529631614685,neutral,0.055527202785015106
+14,2016-10-06 04:40:00,"EPS growth estimate for the current year is greater than or equal to last year's actual growth
+
+Percentage change in last year EPS should be greater than or equal to the previous year
+
+(These two criteria point to flat earnings or a growth trend over the years).",0.581486165523529,0.05813652649521828,0.36037734150886536,positive,0.5233496427536011
+15,2016-10-06 04:40:00,"Percentage change in price over four weeks greater than the percentage change in price over 12 weeks
+
+Percentage change in price over 12 weeks greater than percentage change in price over 24 weeks
+
+(These two criteria show that price of the stock is increasing consistently over the said timeframes).",0.0645374208688736,0.022903749719262123,0.9125588536262512,neutral,0.04163367301225662
+16,2016-10-06 04:40:00,"Percentage price change for four weeks relative to the S&P 500 greater than the percentage price change for 12 weeks relative to the S&P 500
+
+Percentage price change for 12 weeks relative to the S&P 500 greater than the percentage price change for 24 weeks relative to the S&P 500
+
+(Here, the case for consistent price gains gets even stronger as it displays percentage price changes relative to the S&P 500).",0.41420209407806396,0.12250960618257523,0.463288277387619,neutral,0.29169249534606934
+17,2016-10-06 04:40:00,"Percentage price change for 12 weeks is 20% higher than or equal to the percentage price change for 24 weeks, but it should not exceed 100%
+
+(A 20% increase in the price of a stock from the breakout point gives cues of an impending uptrend.",0.42038094997406006,0.052094459533691406,0.5275245904922485,neutral,0.36828649044036865
+18,2016-10-06 04:40:00,But a jump of over 100% indicates that there is limited scope for further upside and that the stock might be due for a reversal).,0.2162102460861206,0.6871100664138794,0.09667975455522537,negative,-0.4708998203277588
+19,2016-10-06 04:40:00,"In addition, we place a few other criteria that lead us to some likely outperformers.",0.12863542139530182,0.009156838059425354,0.8622077703475952,neutral,0.11947858333587646
+20,2016-10-06 04:40:00,Zacks Rank less than or equal to 2: Only companies with a Zacks Rank #1 (Strong Buy) or 2 (Buy) rating can get through.,0.17509245872497559,0.05724462866783142,0.7676628828048706,neutral,0.11784783005714417
+21,2016-10-06 04:40:00,"Average 20-day Volume greater than or equal to 50,000: High trading volume implies that the stocks have adequate liquidity.",0.7784615159034729,0.01583418995141983,0.20570428669452667,positive,0.7626273036003113
+22,2016-10-06 04:40:00,"Just these few criteria narrowed down the universe from over 7,700 stocks to just 14.",0.22802525758743286,0.021770160645246506,0.7502045631408691,neutral,0.20625509321689606
+23,2016-10-06 04:40:00,"Here are five out of the 14 stocks:
+
+Hasbro Inc.HAS : This is a games and toys company within the Zacks Industry Rank in the top 7%.",0.017518484964966774,0.018287384882569313,0.9641941785812378,neutral,-0.0007688999176025391
+24,2016-10-06 04:40:00,The stock has a Zacks Rank #2.,0.3461422920227051,0.026090839877724648,0.6277669072151184,neutral,0.3200514614582062
+25,2016-10-06 04:40:00,"Asbury Automotive Group Inc.ABG : One of the largest automotive retailers in the U.S., company falls within the Zacks Industry Rank in the top 13%.",0.04945218935608864,0.01216115988790989,0.9383866786956787,neutral,0.0372910276055336
+26,2016-10-06 04:40:00,The stock has a Zacks Rank #2.,0.3461422920227051,0.026090839877724648,0.6277669072151184,neutral,0.3200514614582062
+27,2016-10-06 04:40:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+28,2016-10-06 04:40:00,The Home Depot Inc.HD : This Zacks Rank #2 company is a home improvement retailer.,0.16827566921710968,0.008904926478862762,0.8228194117546082,neutral,0.15937075018882751
+29,2016-10-06 04:40:00,The Zacks Industry Rank is in the top 40%.,0.05272793769836426,0.012493694201111794,0.9347783923149109,neutral,0.040234245359897614
+30,2016-10-06 04:40:00,Innoviva Inc.INVA : The Zacks Rank #2 company is into the biopharmaceuticals industry.,0.3320769965648651,0.01003722008317709,0.6578857898712158,neutral,0.32203978300094604
+31,2016-10-06 04:40:00,The Zacks Industry Rank is in the top 40%.,0.05272793769836426,0.012493694201111794,0.9347783923149109,neutral,0.040234245359897614
+32,2016-10-06 04:40:00,ZIOPHARM Oncology Inc.ZIOP : This is a biopharmaceutical company dealing with in-licensed cancer drugs.,0.015633471310138702,0.008314213715493679,0.9760522842407227,neutral,0.007319257594645023
+33,2016-10-06 04:40:00,The Zacks Industry Rank is in the top 40% and the stock has a Zacks Rank #2.,0.26367995142936707,0.013729982078075409,0.7225900888442993,neutral,0.24994996190071106
+34,2016-10-06 04:40:00,You can get the rest of the stocks on this list by signing up now for your 2-week free trial to the Research Wizard and start using this screen in your own trading.,0.0749206468462944,0.006793504115194082,0.9182858467102051,neutral,0.06812714040279388
+35,2016-10-06 04:40:00,"Further, you can also create your own strategies and test them first before taking the investment plunge.",0.10761035978794098,0.0061170910485088825,0.8862725496292114,neutral,0.10149326920509338
+36,2016-10-06 04:40:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+37,2016-10-06 04:40:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+38,2016-10-06 04:40:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+39,2016-10-06 04:40:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+40,2016-10-06 04:40:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+41,2016-10-06 04:40:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+42,2016-10-06 04:40:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+43,2016-10-06 04:40:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+44,2016-10-06 04:40:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+45,2016-10-06 04:40:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at:http://www.zacks.com/performance .,0.014574559405446053,0.007766399532556534,0.9776590466499329,neutral,0.006808159872889519
+46,2016-10-06 04:40:00,"Zacks Restaurant Recommendations: In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+47,2016-10-06 04:40:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+48,2016-10-06 04:40:00,"Download it free »
+
+Want the latest recommendations from Zacks Investment Research?",0.03019636683166027,0.01505932118743658,0.9547443389892578,neutral,0.01513704564422369
+49,2016-10-06 04:40:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+50,2016-10-06 04:40:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+51,2016-10-06 04:40:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

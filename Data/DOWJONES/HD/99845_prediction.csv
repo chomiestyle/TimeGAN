@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-09-04 05:07:00,"Thursday headlines include: More information about the prevalence of hacking at Home Depot, great sales figures from Costco, more information coming out about hacking at banks including JP Morgan, Tesla reportedly picking Nevada for its Gigafactory, and Boeing increasing its estimate of plane demand in China.",0.293670654296875,0.08016005158424377,0.6261692643165588,neutral,0.21351060271263123
+1,2014-09-04 05:07:00,"A security analyst who previously speculated that the credit-card breach at Home Depot ( HD ) could have happened at nearly all of the company's 2,200 stores said new data now points to that being the case.",0.06505502015352249,0.6893483996391296,0.24559660255908966,negative,-0.6242933869361877
+2,2014-09-04 05:07:00,"Brian Krebs, who said he found the stolen card data on the internet with card information listed by ZIP code said the address data showed a 99.4 percent overlap with Home Depot stores.",0.0912771075963974,0.6744283437728882,0.23429453372955322,negative,-0.5831512212753296
+3,2014-09-04 05:07:00,It is not yet known how many customers had their information stolen.,0.02288432978093624,0.938238263130188,0.03887741640210152,negative,-0.9153539538383484
+4,2014-09-04 05:07:00,Warehouse retailer Costco ( COST ) reported a 7 percent increase in same-store sales in August.,0.9452672600746155,0.020851673558354378,0.033881161361932755,positive,0.9244155883789062
+5,2014-09-04 05:07:00,Analysts had been expected an increase of 4.8 percent.,0.9168546795845032,0.01956767961382866,0.06357770413160324,positive,0.8972870111465454
+6,2014-09-04 05:07:00,"Sales in the U.S. rose by 7 percent, compared to 6 percent outside the U.S.",0.9510377049446106,0.02906752936542034,0.01989474892616272,positive,0.9219701886177063
+7,2014-09-04 05:07:00,"Adjusting for lower gas prices and foreign exchange rates, same-store sales grew by 8 percent at foreign stores and 6 percent in the U.S.
+
+Investigators at JP Morgan ( JPM ) believe a network of computers that is available for hire was used by cyber criminals to route stolen data to a major Russian city.",0.051210999488830566,0.9201268553733826,0.028662119060754776,negative,-0.868915855884552
+8,2014-09-04 05:07:00,"Computers spread across the globe from Latin America to Asia are part of the so-called ""bulletproof"" platform that investigators believe was used in the attack.",0.06874188780784607,0.04051905497908592,0.8907390236854553,neutral,0.028222832828760147
+9,2014-09-04 05:07:00,Electric-car maker Tesla Motors ( TSLA ) has reportedly selected Nevada as the new home of its giga-factory.,0.33607062697410583,0.009068078361451626,0.6548612713813782,neutral,0.32700255513191223
+10,2014-09-04 05:07:00,The company is expected to make an announcement on Thursday.,0.027816778048872948,0.008103474043309689,0.964079737663269,neutral,0.019713304936885834
+11,2014-09-04 05:07:00,"While the decision has yet to be confirmed by either the company or state officials, Nevada Governor Brian Sandoval is scheduled to announce a ""major economic development announcement,"" in Carson City.",0.1456426978111267,0.023139510303735733,0.8312178254127502,neutral,0.12250319123268127
+12,2014-09-04 05:07:00,Aircraft maker Boeing ( BA ) said Thursday that it now expects Chin4 will need 8 percent more planes over the next 20 years than it previously expected.,0.779965877532959,0.02914823777973652,0.19088593125343323,positive,0.7508176565170288
+13,2014-09-04 05:07:00,"That suggests the country will need 6,020 aircraft over that period to meet demand for increasing leisure travel.",0.7256506085395813,0.02351061813533306,0.2508387565612793,positive,0.7021399736404419
+14,2014-09-04 05:07:00,"This article was originally published on MarketIntelligeneCenter.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011072549037635326,0.016094231978058815,0.9728332757949829,neutral,-0.005021682940423489

@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-27 09:10:00,Facebook Inc (NASDAQ: FB ) is introducing a new way for users to protect their accounts with Security Keys.,0.3911888301372528,0.010326062329113483,0.5984850525856018,neutral,0.3808627724647522
+1,2017-01-27 09:10:00,Facebook Security Keys are actual physical devices that a person can carry on them to give them access to their FB account.,0.017007697373628616,0.013763891533017159,0.9692284464836121,neutral,0.003243805840611458
+2,2017-01-27 09:10:00,It works with Universal 2nd Factor and acts as a second level of security after the user's password is entered.,0.035287804901599884,0.006842122413218021,0.9578700065612793,neutral,0.028445683419704437
+3,2017-01-27 09:10:00,Facebook Security Keys are plugged into USB ports for use.,0.017061568796634674,0.012823058292269707,0.9701153635978699,neutral,0.004238510504364967
+4,2017-01-27 09:10:00,"Once plugged in, an owner simply has to tap the button on the device to have it provide the information needed to log in to their account.",0.018010905012488365,0.032431311905384064,0.9495577812194824,neutral,-0.014420406892895699
+5,2017-01-27 09:10:00,Facebook already recommends YubiKey as a retailer that users can obtain the Security Keys from.,0.15804415941238403,0.009222002699971199,0.8327338695526123,neutral,0.14882215857505798
+6,2017-01-27 09:10:00,The devices start at $18 and go up to $50 .,0.10281943529844284,0.0121120261028409,0.8850685358047485,neutral,0.09070740640163422
+7,2017-01-27 09:10:00,"They can also work on other supported accounts, such as Alphabet Inc's (NASDAQ: GOOG , GOOGL ) Google and salesforce.com, inc. (NYSE: CRM ).",0.03249138966202736,0.009712109342217445,0.9577965140342712,neutral,0.022779280319809914
+8,2017-01-27 09:10:00,The advantages of using a Facebook Security Key include protection from phishing.,0.19617053866386414,0.008602646179497242,0.7952268123626709,neutral,0.18756788969039917
+9,2017-01-27 09:10:00,It makes it almost impossible for hackers to obtain access to a user's account without the psychical key.,0.04432949051260948,0.5938544273376465,0.3618161380290985,negative,-0.5495249629020691
+10,2017-01-27 09:10:00,"As it is now, Facebook Security Keys will only work on the newest versions of Chrome and Opera on computers.",0.015136148780584335,0.030761275440454483,0.9541025757789612,neutral,-0.015625126659870148
+11,2017-01-27 09:10:00,They also don't work with the company's smartphone app.,0.022936243563890457,0.3582618534564972,0.6188018918037415,neutral,-0.33532559871673584
+12,2017-01-27 09:10:00,"However, owners of Android devices can use them to log in from the newest mobile version of Chrome.",0.02855314128100872,0.018897738307714462,0.952549159526825,neutral,0.009655402973294258
+13,2017-01-27 09:10:00,This requires the device to support NFC and for it to have Google Authenticator installed.,0.02431672438979149,0.007072454784065485,0.9686108827590942,neutral,0.01724427007138729
+14,2017-01-27 09:10:00,Facebook Security Keys were introduced at the same time that the social media company updated its Privacy Basics.,0.12883391976356506,0.007833480834960938,0.8633325695991516,neutral,0.12100043892860413
+15,2017-01-27 09:10:00,The update introduces several new options for users and makes Privacy Basics easier to navigate on mobile devices.,0.653810977935791,0.014484466053545475,0.33170461654663086,positive,0.6393265128135681
+16,2017-01-27 09:10:00,"• 7 Stocks to Buy That Could Double by 2018
+• 10 High-Yield Dividend Stocks That Are SOMEHOW Still Bargains
+
+The post Facebook Security Keys Will Allow Users to Lock Their Accounts appeared first on InvestorPlace .",0.11328788846731186,0.02817043662071228,0.8585416674613953,neutral,0.08511745184659958
+17,2017-01-27 09:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

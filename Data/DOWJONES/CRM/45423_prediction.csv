@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-02 06:49:00,"Chicago, IL -January 2, 2019 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017486613243818283,0.008976777084171772,0.9735366702079773,neutral,0.008509836159646511
+1,2019-01-02 06:49:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2019-01-02 06:49:00,"Stocks recently featured in the blog include: Alphabet GOOGL , Boeing BA , Salesforce CRM , United Technologies UTX and Charter Communications CHTR ).",0.016908720135688782,0.010754019021987915,0.9723372459411621,neutral,0.006154701113700867
+3,2019-01-02 06:49:00,"Here are highlights from Monday's Analyst Blog:
+
+The Zacks Research Daily presents the best research output of our analyst team.",0.24418438971042633,0.009908846579492092,0.7459067702293396,neutral,0.23427554965019226
+4,2019-01-02 06:49:00,"Today's Research Daily features new research reports on 16 major stocks, including Alphabet, Boeing and Salesforce.",0.0294356606900692,0.010649005882441998,0.9599153399467468,neutral,0.018786653876304626
+5,2019-01-02 06:49:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+6,2019-01-02 06:49:00,"You can see all of today's research reports here >>>
+
+Buy-ranked Alphabet 's shares have outperformed the Zacks Internet Services industry on a year-to-date basis (the stock is down -0.7% vs. a -25.1% decline for the industry).",0.04275306314229965,0.9422235488891602,0.01502335537225008,negative,-0.8994705080986023
+7,2019-01-02 06:49:00,Alphabet's strengthening cloud unit is aiding substantial revenue growth.,0.9342716336250305,0.01412447914481163,0.05160391330718994,positive,0.920147180557251
+8,2019-01-02 06:49:00,The Zacks analyst thinks the growing momentum of Google Cloud and expanding data centers will continue to bolster the company's presence in the cloud space.,0.9460914731025696,0.0147171001881361,0.03919139504432678,positive,0.9313743710517883
+9,2019-01-02 06:49:00,"Also, major updates in its search segment are enhancing search results which is a tailwind.",0.9432979226112366,0.02793041430413723,0.02877163700759411,positive,0.9153674840927124
+10,2019-01-02 06:49:00,"The company has shown good execution to date, more or less maintaining its dominant share in a competitive search market.",0.9342602491378784,0.013719331473112106,0.05202040821313858,positive,0.9205409288406372
+11,2019-01-02 06:49:00,"Additionally, Google's strong focus on the innovation of its AI techniques and Android OS along with growing presence in the home automation space are driving its top-line growth further.",0.9348443746566772,0.014364665374159813,0.05079096555709839,positive,0.9204797148704529
+12,2019-01-02 06:49:00,"However, the company's growing litigation issues might hurt its profitability.",0.02113768272101879,0.9596295952796936,0.01923273131251335,negative,-0.938491940498352
+13,2019-01-02 06:49:00,"Also it's increased spending on consumer gadgets, YouTube video app and cloud computing services remain concerns.",0.1784958392381668,0.6282576322555542,0.1932464838027954,negative,-0.4497618079185486
+14,2019-01-02 06:49:00,Rising competition in the online ad market is a risk.,0.06593012064695358,0.5917263627052307,0.3423435389995575,negative,-0.5257962346076965
+15,2019-01-02 06:49:00,(You can read the full research report on Alphabet here >>> ).,0.01824808493256569,0.017815761268138885,0.9639361500740051,neutral,0.0004323236644268036
+16,2019-01-02 06:49:00,"Shares of Buy-ranked Boeing have gained +7.3% over the past year, outperforming the Zacks Aerospace & Defense industry, which declined -9% during the same time period.",0.9472678303718567,0.03522941842675209,0.017502784729003906,positive,0.9120383858680725
+17,2019-01-02 06:49:00,"The Zacks analyst emphasizes that the company is the largest aircraft manufacturer in the world in terms of revenues, orders and deliveries.",0.6402262449264526,0.011324264109134674,0.3484494686126709,positive,0.6289019584655762
+18,2019-01-02 06:49:00,"The company's 20-year market outlook forecasts commercial jetliner demand to increase by 4.1%, with single-aisle jets being the major driver behind this demand growth.",0.9504122138023376,0.014967333525419235,0.034620486199855804,positive,0.9354448914527893
+19,2019-01-02 06:49:00,"Boeing expects the commercial fleet to be fueled by sustained annual growth in commercial passenger traffic along with a big wave of retiring, old planes.",0.8948672413825989,0.01300826296210289,0.09212451428174973,positive,0.8818590044975281
+20,2019-01-02 06:49:00,"Boeing's strong balance sheet and cash flows provide financial flexibility in matters of incremental dividend, ongoing share repurchases and earnings accretive acquisitions.",0.785524308681488,0.012484741397202015,0.20199094712734222,positive,0.7730395793914795
+21,2019-01-02 06:49:00,"However, this aerospace giant may face competitive challenges if new manufacturers like China enters the commercial jet space.",0.757272481918335,0.07438205182552338,0.16834545135498047,positive,0.6828904151916504
+22,2019-01-02 06:49:00,Engine-related issues pertaining to its 787 fleet may also hurt company's growth.,0.022019630298018456,0.9363627433776855,0.041617609560489655,negative,-0.9143431186676025
+23,2019-01-02 06:49:00,(You can read the full research report on Boeing here >>> ).,0.01499143522232771,0.012919407337903976,0.9720891118049622,neutral,0.0020720278844237328
+24,2019-01-02 06:49:00,"Buy-ranked Salesforce 's shares have gained +31.8% year to date, outperforming the Zacks Computer Software industry, which has gained +12% over the same period.",0.9574234485626221,0.02274301089346409,0.019833581522107124,positive,0.9346804618835449
+25,2019-01-02 06:49:00,The Zacks analyst thinks Salesforce is benefiting from strong growth across its product portfolio.,0.9512203931808472,0.015871789306402206,0.03290784731507301,positive,0.935348629951477
+26,2019-01-02 06:49:00,Rapid adoption of its diverse cloud offerings given the growing demand for digital transformation remains the key catalyst.,0.8548405766487122,0.012089435011148453,0.13307002186775208,positive,0.842751145362854
+27,2019-01-02 06:49:00,"Strengthening relationships with cloud companies like Amazon, Google and IBM are a positive.",0.9445743560791016,0.01650821976363659,0.03891744837164879,positive,0.9280661344528198
+28,2019-01-02 06:49:00,"Additionally, strategic acquisitions like MuleSoft, Datorama and Cloudcraze is helping it deliver strong growth.",0.9498485326766968,0.015312702395021915,0.03483882546424866,positive,0.934535801410675
+29,2019-01-02 06:49:00,Salesforce is on track to achieve $21-$23 billion in annual revenues by fiscal 2022.,0.824219286441803,0.01289350539445877,0.16288721561431885,positive,0.8113257884979248
+30,2019-01-02 06:49:00,"Nevertheless, stiff competition from Oracle and Microsoft is a concern.",0.08883485198020935,0.5656250715255737,0.3455400764942169,negative,-0.4767902195453644
+31,2019-01-02 06:49:00,Currency fluctuations remain a key headwind.,0.054715126752853394,0.5192199349403381,0.42606493830680847,negative,-0.46450480818748474
+32,2019-01-02 06:49:00,"Besides, increasing investments for international expansions and data centers is an overhang on near-term profitability.",0.8585397601127625,0.05987284332513809,0.08158736675977707,positive,0.7986668944358826
+33,2019-01-02 06:49:00,(You can read the full research report on Salesforce here >>> ).,0.012213421985507011,0.013723894022405148,0.9740626215934753,neutral,-0.0015104720368981361
+34,2019-01-02 06:49:00,Other noteworthy reports we are featuring today include United Technologies and Charter Communications.,0.02545122243463993,0.00653041061013937,0.9680183529853821,neutral,0.018920812755823135
+35,2019-01-02 06:49:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+36,2019-01-02 06:49:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+37,2019-01-02 06:49:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+38,2019-01-02 06:49:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+39,2019-01-02 06:49:00,"See the pot trades we're targeting>>
+
+Past performance is no guarantee of future results.",0.08467736095190048,0.0530620776116848,0.8622605800628662,neutral,0.03161528334021568
+40,2019-01-02 06:49:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+41,2019-01-02 06:49:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+42,2019-01-02 06:49:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+43,2019-01-02 06:49:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+44,2019-01-02 06:49:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+45,2019-01-02 06:49:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+46,2019-01-02 06:49:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+47,2019-01-02 06:49:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+48,2019-01-02 06:49:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+49,2019-01-02 06:49:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+50,2019-01-02 06:49:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+51,2019-01-02 06:49:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2019-01-02 06:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2019-01-02 06:49:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+54,2019-01-02 06:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

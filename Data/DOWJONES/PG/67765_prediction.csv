@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-22 07:31:00,"In early trading on Monday, shares of Intel Corp ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.8%.",0.9358205199241638,0.03420363366603851,0.029975848272442818,positive,0.9016168713569641
+1,2018-10-22 07:31:00,"Year to date, Intel Corp has lost about 3.9% of its value.",0.017131736502051353,0.9528147578239441,0.03005354106426239,negative,-0.935683012008667
+2,2018-10-22 07:31:00,"And the worst performing Dow component thus far on the day is United Technologies Corp ( UTX ), trading down 1.9%.",0.02077249251306057,0.9648270606994629,0.0144003601744771,negative,-0.9440545439720154
+3,2018-10-22 07:31:00,United Technologies Corp is lower by about 1.0% looking at the year to date performance.,0.021389245986938477,0.9646784067153931,0.013932264409959316,negative,-0.9432891607284546
+4,2018-10-22 07:31:00,"Two other components making moves today are Procter & Gamble Company ( PG ), trading down 1.5%, and McDonald's Corp ( MCD ), trading up 0.8% on the day.",0.035141222178936005,0.9208148717880249,0.044043898582458496,negative,-0.8856736421585083
+5,2018-10-22 07:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

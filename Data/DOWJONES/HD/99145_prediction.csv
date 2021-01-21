@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-23 07:11:00,"In early trading on Tuesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.3%.",0.937089204788208,0.0314144603908062,0.03149634227156639,positive,0.9056747555732727
+1,2016-02-23 07:11:00,"Year to date, Home Depot has lost about 4.0% of its value.",0.017158854752779007,0.9563839435577393,0.02645719051361084,negative,-0.9392250776290894
+2,2016-02-23 07:11:00,"And the worst performing Dow component thus far on the day is JPMorgan Chase ( JPM ), trading down 2.6%.",0.021246669813990593,0.9648284316062927,0.013924899511039257,negative,-0.943581759929657
+3,2016-02-23 07:11:00,JPMorgan Chase is lower by about 13.7% looking at the year to date performance.,0.020836079493165016,0.9662054181098938,0.012958518229424953,negative,-0.9453693628311157
+4,2016-02-23 07:11:00,"Two other components making moves today are Goldman Sachs Group ( GS ), trading down 1.7%, and Pfizer ( PFE ), trading up 0.9% on the day.",0.03138923645019531,0.9225886464118958,0.04602206125855446,negative,-0.8911994099617004
+5,2016-02-23 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

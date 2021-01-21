@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-28 22:42:00,"Yesterday, Amazon.com, Inc.'s (NASDAQ: AMZN ) vice president of cloud architecture strategy, Adrian Cockcroft, gave a presentation at a tech conference .",0.06554786115884781,0.009206592105329037,0.9252455234527588,neutral,0.0563412681221962
+1,2017-02-28 22:42:00,"Of course, he extolled the virtues of his company's cloud platform, called AWS (Amazon Web Services).",0.5395908355712891,0.01250598207116127,0.4479031264781952,positive,0.5270848274230957
+2,2017-02-28 22:42:00,"Meanwhile, the service was experiencing a major outage.",0.027237780392169952,0.9493393301963806,0.02342294529080391,negative,-0.9221015572547913
+3,2017-02-28 22:42:00,"Granted, the impact on Amazon stock was fairly minor.",0.02650630846619606,0.33027058839797974,0.6432231068611145,neutral,-0.303764283657074
+4,2017-02-28 22:42:00,"Yet, investors should still be concerned.",0.138442263007164,0.10209781676530838,0.7594598531723022,neutral,0.03634444624185562
+5,2017-02-28 22:42:00,"Let's face it, AWS is critical for AMZN stock.",0.20548252761363983,0.011930852197110653,0.7825866341590881,neutral,0.1935516744852066
+6,2017-02-28 22:42:00,"Last year, this business segment reported a 56% spike in revenues to $12.2 billion and operating income came to $3.1 billion.",0.9499294757843018,0.018037494271993637,0.032033052295446396,positive,0.9318919777870178
+7,2017-02-28 22:42:00,There are over 1 million active customers.,0.023990008980035782,0.00595329562202096,0.9700567126274109,neutral,0.01803671382367611
+8,2017-02-28 22:42:00,"More importantly, Amazon Web Services essentially subsidizes the core ecommerce business - which has razor-thin margins - but also allows for the heavy investments in efforts like video/music streaming, Alexa and devices like the Kindle.",0.30339163541793823,0.011077884584665298,0.6855305433273315,neutral,0.29231375455856323
+9,2017-02-28 22:42:00,"• 7 Stocks That Will Hit All-Time Highs in 2017
+
+As for the AWS outage, it lasted roughly four hours and resulted in the disruption of thousands of websites and cloud apps across the US.",0.02961103804409504,0.9156186580657959,0.05477026477456093,negative,-0.8860076069831848
+10,2017-02-28 22:42:00,"Some of the high-profile companies that were impacted included Apple Inc. (NASDAQ: AAPL ), Twitter Inc (NYSE: TWTR ) and Twilio Inc (NYSE: TWLO ).",0.031635791063308716,0.32910704612731934,0.6392571330070496,neutral,-0.2974712550640106
+11,2017-02-28 22:42:00,"At the heart of this was the failure of the S3 system, which provides for the efficient storage of content.",0.019829344004392624,0.9309057593345642,0.0492648147046566,negative,-0.9110764265060425
+12,2017-02-28 22:42:00,The irony is that AMZN could not even access its own dashboard to deal with the problems - since it was also hosted on the AWS platform!,0.03675512224435806,0.6204850077629089,0.3427598476409912,negative,-0.5837298631668091
+13,2017-02-28 22:42:00,It is important to keep the outage in perspective.,0.0639130175113678,0.00962709542363882,0.9264599084854126,neutral,0.0542859211564064
+14,2017-02-28 22:42:00,"For the most part, Amazon Web Services has a great track record, with uptime that is over 99%.",0.6351237893104553,0.01234897505491972,0.3525272607803345,positive,0.6227748394012451
+15,2017-02-28 22:42:00,"As a result, whenever there is a major outage, there is quite a bit of buzz.",0.02985405921936035,0.026190664619207382,0.9439553022384644,neutral,0.0036633946001529694
+16,2017-02-28 22:42:00,"Besides, AWS is a standout offering.",0.8547776937484741,0.013412734493613243,0.1318095177412033,positive,0.8413649797439575
+17,2017-02-28 22:42:00,"Over the years, AMZN has added great features - such as for data analytics, AI (artificial intelligence) and improved security functions - and has also been diligent with lowering pricing.",0.9219285845756531,0.013209807686507702,0.06486159563064575,positive,0.9087187647819519
+18,2017-02-28 22:42:00,"Yet, this does not mean the outage is trivial.",0.0412699431180954,0.0558713860809803,0.9028586745262146,neutral,-0.014601442962884903
+19,2017-02-28 22:42:00,It's reasonable to assume that there are many companies that are evaluating the situation.,0.046421173959970474,0.0067994240671396255,0.9467794299125671,neutral,0.0396217480301857
+20,2017-02-28 22:42:00,"After all, should there be more usage of alternative systems?",0.13818718492984772,0.009354020468890667,0.8524587750434875,neutral,0.12883315980434418
+21,2017-02-28 22:42:00,"Well, I think so.",0.12590491771697998,0.0366797111928463,0.8374153971672058,neutral,0.08922520279884338
+22,2017-02-28 22:42:00,"Note that other internet giants are leveraging their own systems to provide cloud services, as seen with Alphabet Inc (NASDAQ: GOOGL , NASDAQ: GOOG ).",0.3462621569633484,0.009518055245280266,0.6442198157310486,neutral,0.336744099855423
+23,2017-02-28 22:42:00,"Google is even the main vendor for the fast-growing Snap Inc (NYSE: SNAP ), which has signed a $2 billion contract .",0.8389147520065308,0.015238331630825996,0.14584685862064362,positive,0.8236764073371887
+24,2017-02-28 22:42:00,"Oh, and many old-line tech operators have been investing heavily in their cloud systems.",0.3442757725715637,0.009752372279763222,0.6459718942642212,neutral,0.33452340960502625
+25,2017-02-28 22:42:00,"Just some include International Business Machines Corp. (NYSE: IBM ), Oracle Corporation (NYSE: ORCL ), Hewlett Packard Enterprise Co (NYSE: HPE ) and Microsoft Corporation (NASDAQ: MSFT ).",0.014056514948606491,0.011316916905343533,0.9746266007423401,neutral,0.0027395980432629585
+26,2017-02-28 22:42:00,"All these companies have key advantages like trusted brands, global infrastructures and massive customer bases.",0.7710921168327332,0.012346082367002964,0.21656182408332825,positive,0.7587460279464722
+27,2017-02-28 22:42:00,"Interestingly enough, these companies also have something else: They provide hybrid solutions, such as a blend of cloud services and on-premise technologies.",0.07683926820755005,0.004801213275641203,0.9183595180511475,neutral,0.07203805446624756
+28,2017-02-28 22:42:00,"This means a customer can place their mission-critical systems on private servers, which would mean no disruption if there was an outage of AWS.",0.06941362470388412,0.019307387992739677,0.9112789630889893,neutral,0.0501062348484993
+29,2017-02-28 22:42:00,"OK then, with the outage of AWS, there should still not necessarily panic.",0.08004898577928543,0.23882369697093964,0.6811273097991943,neutral,-0.1587747037410736
+30,2017-02-28 22:42:00,The market opportunity for the cloud is massive - with plenty of room for multiple players.,0.49138930439949036,0.011190052144229412,0.49742069840431213,neutral,0.48019924759864807
+31,2017-02-28 22:42:00,"What's more, the financial costs for the outage will probably be immaterial.",0.012693085707724094,0.017856497317552567,0.9694504141807556,neutral,-0.005163411609828472
+32,2017-02-28 22:42:00,"According to Global Equities' Trip Chowdhry, he thinks that there could be a 2% drop in revenues for the first quarter .",0.020229946821928024,0.9694459438323975,0.010324112139642239,negative,-0.9492160081863403
+33,2017-02-28 22:42:00,"If there are a couple more outages, however, then the situation could get dicey.",0.030815107747912407,0.8862234354019165,0.08296149969100952,negative,-0.8554083108901978
+34,2017-02-28 22:42:00,"When it comes to cloud hosting, there aren't too many second chances.",0.034180812537670135,0.027647290378808975,0.938171923160553,neutral,0.00653352215886116
+35,2017-02-28 22:42:00,"Tom Taulli runs the InvestorPlace blogIPO Playbook and is the author of various books, including Taxes 2017: Saving A Bundle.",0.053270123898983,0.015630366280674934,0.931099534034729,neutral,0.03763975948095322
+36,2017-02-28 22:42:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+37,2017-02-28 22:42:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+38,2017-02-28 22:42:00,• 7 MLPs to Buy With High (And Growing!),0.7285701632499695,0.015421475283801556,0.2560083866119385,positive,0.7131487131118774
+39,2017-02-28 22:42:00,"Yields
+
+The post Amazon.com, Inc.'s (AMZN) AWS Outage Is a Big Deal appeared first on InvestorPlace .",0.06281346827745438,0.04151023551821709,0.89567631483078,neutral,0.02130323275923729
+40,2017-02-28 22:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

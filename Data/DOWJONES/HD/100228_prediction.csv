@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-06-26 00:22:00,"""We saw strength across the board today,"" reported Schaeffer's Senior Equity Analyst Joe Bell, CMT.",0.9441661834716797,0.01966058276593685,0.036173246800899506,positive,0.9245055913925171
+1,2013-06-26 00:22:00,"""All of the major sectors finished in the green, as health care and utility stocks led the way.""",0.6840143203735352,0.04448353126645088,0.2715020775794983,positive,0.6395307779312134
+2,2013-06-26 00:22:00,"The Dow Jones Industrial Average (DJI) spent the entire day in the black once again, retaking control of its 80-day moving average to close with a 150-point gain.",0.8244457840919495,0.08281833678483963,0.09273581951856613,positive,0.7416274547576904
+3,2013-06-26 00:22:00,"""In the current QE-driven environment we find ourselves in, sometimes worse economic data is seen as further proof the Fed will keep their foot on the gas pedal a little while longer.""",0.4501395523548126,0.36762693524360657,0.1822335124015808,positive,0.08251261711120605
+4,2013-06-26 00:22:00,"Continue reading for more on today's market, including :
+• Why ""history has taught us"" to look for upside heading into the end of this week , courtesy of Schaeffer's Senior Trading Analyst Bryan Sapp.",0.33626264333724976,0.031351882964372635,0.6323854327201843,neutral,0.3049107491970062
+5,2013-06-26 00:22:00,"• With Apple Inc. ( AAPL ) testing the $400 level , short-term option bears placed sizable bets.",0.6910528540611267,0.028651000931859016,0.28029611706733704,positive,0.6624018549919128
+6,2013-06-26 00:22:00,"• Sirius XM Radio ( SIRI ) options speculation has reached fever pitch , and includes a massive block of sold puts that traded yesterday in the January 2015 series.",0.612668514251709,0.028848690912127495,0.3584827780723572,positive,0.5838198065757751
+7,2013-06-26 00:22:00,"The U.S. economy barely grows, mortgage rates keep rising, and Nokia ( NOK ) bears expect a short-term drop.",0.01966099627315998,0.9554811716079712,0.024857744574546814,negative,-0.9358201622962952
+8,2013-06-26 00:22:00,"The Dow Jones Industrial Average (DJI - 14,910.14) made additional headway today, adding 149.8 points, or 1%, to retake control of its 80-day moving average.",0.942677915096283,0.02451639622449875,0.032805655151605606,positive,0.9181615114212036
+9,2013-06-26 00:22:00,"At its intraday high, the blue-chip index touched 14,938.98.",0.7585881948471069,0.09740553051233292,0.14400631189346313,positive,0.6611826419830322
+10,2013-06-26 00:22:00,"Meanwhile, 27 of the Dow's 30 names gained ground, with Boeing ( BA ) and Home Depot ( HD ) each rallying 2.1%.",0.9292664527893066,0.03007000871002674,0.04066350311040878,positive,0.899196445941925
+11,2013-06-26 00:22:00,"At the back of the pack was Alcoa (AA), which suffered a 2.2% pullback.",0.03256160765886307,0.9499858617782593,0.017452558502554893,negative,-0.9174242615699768
+12,2013-06-26 00:22:00,"The S&P 500 Index (SPX - 1,603.26) also moved back above its 80-day trendline, but it did one better; it closed atop the 1,600 round-number mark, up 15.2 points, or almost 1%.",0.9115692973136902,0.048554230481386185,0.03987646847963333,positive,0.8630150556564331
+13,2013-06-26 00:22:00,"The Nasdaq Composite (COMP - 3,376.22) slightly lagged its index counterparts, with a gain of 0.9%, or 28.3 points.",0.35107627511024475,0.6253070831298828,0.023616693913936615,negative,-0.27423080801963806
+14,2013-06-26 00:22:00,"The CBOE Market Volatility Index (VIX - 17.21) continued to collapse, losing 1.3 points, or 6.8%.",0.02003437653183937,0.9696266651153564,0.010338950902223587,negative,-0.9495922923088074
+15,2013-06-26 00:22:00,"Since Monday's intraday high at 21.91, the index has surrendered more than 21%.",0.3274005949497223,0.6194252371788025,0.05317416787147522,negative,-0.2920246422290802
+16,2013-06-26 00:22:00,"""The big news on the economic front this morning was first-quarter GDP growth, which was revised down to 1.8% when the consensus expected it to remain at 2.4%,"" noted Bell.",0.047184333205223083,0.8762966394424438,0.07651904970407486,negative,-0.8291122913360596
+17,2013-06-26 00:22:00,"""In turn, the markets saw a continuation of yesterday's rally, as we recover from our recent sell-off.""",0.938025176525116,0.02578120492398739,0.036193642765283585,positive,0.9122439622879028
+18,2013-06-26 00:22:00,"3 Things to Know About Today's Market :
+• The final reading for the first-quarter gross domestic product (GDP) revealed a modest annualized growth rate of 1.8%, down from the previous estimate of 2.4%.",0.01893036626279354,0.9720705151557922,0.008999090641736984,negative,-0.953140139579773
+19,2013-06-26 00:22:00,Economists had been expecting the figure to be unrevised from last month's projection.,0.10347246378660202,0.7757608890533447,0.12076675146818161,negative,-0.6722884178161621
+20,2013-06-26 00:22:00,Consumer spending -- which came in weaker than expected -- played a large role in this adjustment.,0.09338114410638809,0.34993302822113037,0.5566858053207397,neutral,-0.2565518915653229
+21,2013-06-26 00:22:00,"(Bloomberg)
+• The Mortgage Bankers Association reported that mortgage applications dropped 3% during the past week, as mortgage rates continued to move higher.",0.023009706288576126,0.9684157371520996,0.008574460633099079,negative,-0.9454060196876526
+22,2013-06-26 00:22:00,"The rate on fixed 30-year mortgages averaged 4.46% during the week ended June 21, reaching its highest level since August 2011.",0.9142211675643921,0.03138525038957596,0.05439367890357971,positive,0.8828359246253967
+23,2013-06-26 00:22:00,"On a week-over-week basis, this reading popped 29 basis points, in the wake of last week's Fed remarks.",0.5882408022880554,0.09212642163038254,0.31963279843330383,positive,0.4961143732070923
+24,2013-06-26 00:22:00,"(Reuters)
+• Narayana Kocherlakota, president of the Minneapolis Federal Reserve, appeared on CNBC to suggest the central bank offer greater clarity surrounding the federal funds rate.",0.5844917297363281,0.03636643663048744,0.3791418671607971,positive,0.5481252670288086
+25,2013-06-26 00:22:00,"Kocherlakota opined that the market volatility has as much to do with this rate -- ""our main policy instrument"" -- as with any tapering of the Fed's bond-buying efforts.",0.08447926491498947,0.10737663507461548,0.8081441521644592,neutral,-0.022897370159626007
+26,2013-06-26 00:22:00,"(CNBC)
+• As the metals sector continued its retreat, long-term bears scooped up Silver Wheaton (SLW) puts.",0.7210219502449036,0.20476341247558594,0.0742146447300911,positive,0.5162585377693176
+27,2013-06-26 00:22:00,"• Covered-call traders were out in force on Ford Motor (F) , banking on a ceiling at the $16 level.",0.4748302698135376,0.23925316333770752,0.2859164774417877,positive,0.23557710647583008
+28,2013-06-26 00:22:00,• Put buyers scooped up out-of-the-money LEAPS in order to bet on a long-term pullback in American International Group (AIG) .,0.7243808507919312,0.10956060141324997,0.1660584807395935,positive,0.6148202419281006
+29,2013-06-26 00:22:00,• Nokia Corporation ( NOK ) option bears believe downside is likely over the next few weeks.,0.22077320516109467,0.6028927564620972,0.17633400857448578,negative,-0.3821195363998413
+30,2013-06-26 00:22:00,"• Chipotle Mexican Grill (CMG) was initiated with a ""buy"" rating in new coverage from Sterne Agee this morning.",0.7596256136894226,0.014459439553320408,0.22591497004032135,positive,0.7451661825180054
+31,2013-06-26 00:22:00,"For a look at today's options movers and commodities activity, head to page 2.",0.011671511456370354,0.018261956050992012,0.9700665473937988,neutral,-0.006590444594621658
+32,2013-06-26 00:22:00,"Crude oil rebounded from an early-session loss, as August futures closed up 18 cents, or almost 0.2%, at $95.50 per barrel.",0.8797479867935181,0.07662961632013321,0.04362238571047783,positive,0.8031183481216431
+33,2013-06-26 00:22:00,"The weekly inventories report indicated that supplies held steady, versus expectations for a decline.",0.8900302648544312,0.06007165089249611,0.0498981699347496,positive,0.8299586176872253
+34,2013-06-26 00:22:00,"Gold futures, however, weren't so lucky, as the precious metal continued to spiral lower.",0.14790521562099457,0.7246984839439392,0.1273963451385498,negative,-0.5767932534217834
+35,2013-06-26 00:22:00,"The August-dated contract sank $45.30, or 3.6%, to end the session at $1,229.80 per ounce.",0.022382192313671112,0.9652652740478516,0.012352513149380684,negative,-0.9428830742835999
+36,2013-06-26 00:22:00,This was the lowest closing price for a front-month contract since August 2010.,0.019497452303767204,0.9595874547958374,0.020915083587169647,negative,-0.940090000629425
+37,2013-06-26 00:22:00,"Heading into the end of the second quarter, gold is on track to have given back 23% during the last three months.",0.9172559976577759,0.031111564487218857,0.05163238197565079,positive,0.8861444592475891
+38,2013-06-26 00:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942193515598774,0.013680468313395977,0.9763773083686829,neutral,-0.003738274797797203
+39,2013-06-26 00:22:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200574591755867,0.9573419094085693,neutral,-0.02135337144136429

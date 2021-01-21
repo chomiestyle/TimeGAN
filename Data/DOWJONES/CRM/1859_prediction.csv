@@ -1,0 +1,32 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-16 17:33:06,"“Where are they now” is always a fascinating game to play, and it works just as well with stocks as it does for your graduating class.",0.18245702981948853,0.013439166359603405,0.8041037917137146,neutral,0.16901786625385284
+1,2020-09-16 17:33:06,"Right now, the class presidents are tech stocks.",0.046875450760126114,0.03342185541987419,0.9197026491165161,neutral,0.013453595340251923
+2,2020-09-16 17:33:06,"FAAMG – Facebook (FB), Apple (AAPL), Amazon (AMZN), Microsoft (MSFT), and Alphabet (GOOG, GOOGL) – are dominating the major indices and now represent around 23% of the S&P 500 (^GSPC).",0.06209550052881241,0.009916980750858784,0.9279875159263611,neutral,0.0521785207092762
+3,2020-09-16 17:33:06,"Since the start of 2016, Goldman Sachs pointed out in a recent note, FAAMG has returned 244%.",0.6328747272491455,0.05521784722805023,0.3119073808193207,positive,0.5776568651199341
+4,2020-09-16 17:33:06,The rest of the S&P 500 (495 stocks) returned 41%.,0.7553249597549438,0.05670897662639618,0.187965989112854,positive,0.6986159682273865
+5,2020-09-16 17:33:06,Goldman acknowledges that the past is useful for reminding us that the top dogs of the past may not necessarily be the top dogs of the future.,0.0700995922088623,0.012127576395869255,0.9177728295326233,neutral,0.0579720139503479
+6,2020-09-16 17:33:06,"The last time five stocks exerted such a force on an index was in 2000, at the height of the tech bubble.",0.06262679398059845,0.03297436982393265,0.9043988585472107,neutral,0.029652424156665802
+7,2020-09-16 17:33:06,"The top five stocks were Microsoft, Cisco (CSCO), Exxon Mobil (XOM), GE (GE), and Intel (INTC); they represented 18% of the index.",0.05518880486488342,0.009183807298541069,0.9356274008750916,neutral,0.046004995703697205
+8,2020-09-16 17:33:06,"Five years later, Goldman pointed out, they represented just 12% of the index’s market capitalization.",0.019330812618136406,0.09266017377376556,0.8880090117454529,neutral,-0.07332935929298401
+9,2020-09-16 17:33:06,"And 20 years later, they represent 8%.",0.044262465089559555,0.011050578206777573,0.944687008857727,neutral,0.03321188688278198
+10,2020-09-16 17:33:06,"“As firms become larger, rapid growth is challenging and threats to market positioning are plentiful,” Goldman’s analysts wrote.",0.13651014864444733,0.5329329967498779,0.3305568993091583,negative,-0.3964228630065918
+11,2020-09-16 17:33:06,"For tech companies, the biggest threat might be the government’s antitrust probes, which could allow for some new competitors to step in — something that hasn’t really happened much thus far.",0.08296512812376022,0.6031316518783569,0.31390324234962463,negative,-0.5201665163040161
+12,2020-09-16 17:33:06,"Of those five current leaders, only Microsoft isn’t facing a federal antitrust investigation (the company faced one in 2001).",0.031220003962516785,0.13376623392105103,0.835013747215271,neutral,-0.10254622995853424
+13,2020-09-16 17:33:06,"Most of those top five companies, Goldman notes, didn’t hit their expected sales growth rates or earnings numbers, proving that it’s hard to stay on top.",0.08552398532629013,0.7535285949707031,0.16094741225242615,negative,-0.6680046319961548
+14,2020-09-16 17:33:06,"Notably, Microsoft has also maintained its position.",0.7304670214653015,0.01793779246509075,0.2515951991081238,positive,0.7125292420387268
+15,2020-09-16 17:33:06,"It was riding high in 2000, and it’s riding high now.",0.33054158091545105,0.02030005492269993,0.6491583585739136,neutral,0.3102415204048157
+16,2020-09-16 17:33:06,"But the market turns over quickly and 5% of the S&P 500 turns over each year and new companies emerge, like Facebook, which Goldman notes was not in existence in 2000.",0.09234471619129181,0.021442877128720284,0.8862123489379883,neutral,0.07090184092521667
+17,2020-09-16 17:33:06,"The future big dogs of the index
+
+Rapid sales growth in any economic environment (secular) is the defining characteristic of these big five FAAMG stocks, Goldman analysts say, as they look into the index to see which companies might become the usurpers to the big five.",0.14404545724391937,0.008775757625699043,0.8471787571907043,neutral,0.13526970148086548
+18,2020-09-16 17:33:06,"The analysts use what they call the “rule of 10,” which is checking to see if the company has realized 10% or more in sales growth for each of the past two years, and whether there’s a consensus estimate that it’ll do 10% or more for the next two.",0.17679274082183838,0.014135247096419334,0.809071958065033,neutral,0.1626574993133545
+19,2020-09-16 17:33:06,"“Rule of Ten stocks have generally been more likely to increase than decrease their ranks in the S&P 500 by 10 or more places,” the Goldman analysts wrote.",0.8331774473190308,0.06399984657764435,0.1028226912021637,positive,0.7691776156425476
+20,2020-09-16 17:33:06,"The S&P 500 has 21 stocks that meet that criteria, outside of FAAMG, including Netflix (NFLX), Twitter (TWTR) in the communications services sector, Monster Beverage (MNST); one energy company, Diamondback Energy (FANG); Intuitive Surgical (ISRG) and a few other health stocks; and 10 tech companies, including Salesforce (CRM), Paypal (PYPL), Adobe (ADBE), and Mastercard (MA).",0.03951887786388397,0.00784220453351736,0.9526389241218567,neutral,0.03167667239904404
+21,2020-09-16 17:33:06,"While these stocks make the cut for potential index-leaders by Goldman’s test, their estimated sales growth numbers are 18%, which is behind FAAMG’s 22%.",0.3510074317455292,0.5763998627662659,0.07259275019168854,negative,-0.2253924310207367
+22,2020-09-16 17:33:06,"Ethan Wolff-Mann is a writer at Yahoo Finance focusing on consumer issues, personal finance, retail, airlines, and more.",0.024456119164824486,0.016109783202409744,0.9594341516494751,neutral,0.008346335962414742
+23,2020-09-16 17:33:06,Follow him on Twitter @ewolffmann.,0.062194906175136566,0.056723058223724365,0.8810820579528809,neutral,0.005471847951412201
+24,2020-09-16 17:33:06,"• None Demand for ‘certified used’ bikes is so strong, some sell above new sticker price
+• None 2 tax safe harbors that new traders need to know about
+• None Why the 2020 rally doesn’t feel like a bubble: hedge fund veteran
+• None NYU professor: Make sure young investors 'don't become addicted' to online stock trading
+• None Young investors have a huge stomach for risk right now, data suggests",0.09904878586530685,0.04363049566745758,0.8573207259178162,neutral,0.055418290197849274

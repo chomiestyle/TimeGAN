@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-04-08 05:00:00,"After a bloodbath in January and a near-miss in February, the market finally got it right in March.",0.5836358666419983,0.08766481280326843,0.3286992907524109,positive,0.49597105383872986
+1,2016-04-08 05:00:00,"The S&P 500 advanced 6.78% last month, and U.S. diversified stock mutual funds tacked on 6.50% on average, according to Lipper Inc.",0.8327888250350952,0.02444765344262123,0.14276354014873505,positive,0.8083411455154419
+2,2016-04-08 05:00:00,It wasn't enough to pull stock mutual funds into the black for the entire first quarter -- they lost 0.39% as the S&P 500 gained 1.35%.,0.023221123963594437,0.9636247754096985,0.01315414160490036,negative,-0.9404036402702332
+3,2016-04-08 05:00:00,"""It was a tale of two halves in Q1,"" said Anthony Valeri, an investment strategist for LPL Financial, one of the largest independent broker-dealers in the U.S. and a top custodian for registered investment advisors, in summarizing the quarter's stock market news .",0.18802377581596375,0.06894012540578842,0.7430360913276672,neutral,0.11908365041017532
+4,2016-04-08 05:00:00,"In the first half of Q1, investors worried about U.S. interest rates rising, oil prices slumping and China's economy cramping.",0.025464748963713646,0.9599643349647522,0.014570861123502254,negative,-0.9344995617866516
+5,2016-04-08 05:00:00,"""Their flat-out fear penalized stocks inordinately,"" Valeri said.",0.07730910927057266,0.8378586173057556,0.08483222126960754,negative,-0.7605494856834412
+6,2016-04-08 05:00:00,"In the second half, investors' fears eased.",0.8311843872070312,0.0513288788497448,0.11748678982257843,positive,0.779855489730835
+7,2016-04-08 05:00:00,"""By mid-February, a lot of bad news was priced into stocks, and data started to get better,"" Valeri said.",0.7086610198020935,0.13984693586826324,0.15149210393428802,positive,0.5688140988349915
+8,2016-04-08 05:00:00,"""In mid-March the market got a tailwind from the Federal Reserve, which suggested it was likely to raise rates twice this year, not four times.""",0.2787732779979706,0.6405009627342224,0.0807257741689682,negative,-0.36172768473625183
+9,2016-04-08 05:00:00,Weekly jobless rolls fell.,0.0424361526966095,0.9340496063232422,0.023514272645115852,negative,-0.8916134834289551
+10,2016-04-08 05:00:00,"Retail sales for January were stronger than expected, with an upward revision for December.",0.8615615963935852,0.10996299982070923,0.028475452214479446,positive,0.751598596572876
+11,2016-04-08 05:00:00,"Even manufacturing data, a sore spot previously, improved in March.",0.8908767104148865,0.06078667566180229,0.0483366921544075,positive,0.8300900459289551
+12,2016-04-08 05:00:00,Housing data showed resilience.,0.8456396460533142,0.04727848619222641,0.10708186775445938,positive,0.7983611822128296
+13,2016-04-08 05:00:00,Did we leave anything out?,0.03577373921871185,0.06792847067117691,0.896297812461853,neutral,-0.03215473145246506
+14,2016-04-08 05:00:00,"""Oh, yeah, oil prices stabilized,"" Valeri said.",0.9011566638946533,0.043331682682037354,0.05551166087388992,positive,0.857824981212616
+15,2016-04-08 05:00:00,"""That was big.""",0.5249723792076111,0.08771155774593353,0.3873160779476166,positive,0.43726080656051636
+16,2016-04-08 05:00:00,"And with that, the U.S. dollar eased, helping exporters and stocks in general.",0.9069201946258545,0.0514332614839077,0.0416465625166893,positive,0.8554869294166565
+17,2016-04-08 05:00:00,"Like wildcatters flocking to rich oil fields in boom times, investors poured into natural resources funds and commodities energy funds, driving them up 11.74% and 9.68% respectively in March.",0.9321337342262268,0.02157602645456791,0.046290263533592224,positive,0.9105576872825623
+18,2016-04-08 05:00:00,Commodities in general did well last month.,0.9296873211860657,0.024473484605550766,0.04583921283483505,positive,0.9052138328552246
+19,2016-04-08 05:00:00,"Precious metals funds gained 6.82%, padding their overall Q1 gain to a big 42.21%, tops among sectors for the quarter.",0.9459284543991089,0.03124948963522911,0.02282206527888775,positive,0.9146789908409119
+20,2016-04-08 05:00:00,"With commodities prominent among value-oriented mutual funds, midcap value funds were the top performing category among U.S. diversified fund groups in Q1.",0.8237587213516235,0.02733234129846096,0.14890894293785095,positive,0.7964263558387756
+21,2016-04-08 05:00:00,They gained 2.91%.,0.8265713453292847,0.05462479591369629,0.11880385130643845,positive,0.7719465494155884
+22,2016-04-08 05:00:00,"Not far behind were equity income funds, with a 2.86% gain.",0.8726603388786316,0.05818123370409012,0.06915846467018127,positive,0.8144791126251221
+23,2016-04-08 05:00:00,"Top U.S. diversified stock funds included $552 million Aberdeen U.S. Small Cap Equity ( GSXAX ), whose 3.88% Q1 return topped 95% of its small-cap growth peers.",0.357647180557251,0.012587622739374638,0.6297651529312134,neutral,0.3450595438480377
+24,2016-04-08 05:00:00,"With a management team including Ralph Bassett and Jason Kotik , it was also the eighth-best performing U.S. diversified stock fund overall in the year ended March 31.",0.8927650451660156,0.024629635736346245,0.08260530978441238,positive,0.868135392665863
+25,2016-04-08 05:00:00,"Foreign stock funds fared better than U.S. stock funds by losing less in Q1, just 0.02% on average.",0.1347494125366211,0.8430746793746948,0.022175965830683708,negative,-0.7083252668380737
+26,2016-04-08 05:00:00,"""In the near term, there's good reason to think oil has stopped going down and the dollar has stopped going up,"" said Bob Doll, chief equity strategist at Nuveen Asset Management.",0.2658874988555908,0.5052763223648071,0.22883616387844086,negative,-0.2393888235092163
+27,2016-04-08 05:00:00,"""If that's the case, the market could get better in the second half of the year.""",0.9340847730636597,0.025849586352705956,0.04006563872098923,positive,0.9082351922988892
+28,2016-04-08 05:00:00,"But, Doll cautions, oil has never staged a sharp rally.",0.2537021338939667,0.07977033406496048,0.6665275692939758,neutral,0.1739318072795868
+29,2016-04-08 05:00:00,"""Commodities in general and oil in particular have never made a V bottom,"" he said.",0.16604134440422058,0.13870736956596375,0.6952512264251709,neutral,0.027333974838256836
+30,2016-04-08 05:00:00,"""After declines, they've often had multiyear periods before going up the other side (of a price formation).""",0.16798993945121765,0.27525901794433594,0.556751012802124,neutral,-0.10726907849311829
+31,2016-04-08 05:00:00,"And since late March, the per-barrel price of benchmark light sweet crude oil has pulled back slightly.",0.17143656313419342,0.7471649050712585,0.08139854669570923,negative,-0.5757283568382263
+32,2016-04-08 05:00:00,"Also, China's economic growth is still not expanding.",0.2582055330276489,0.2785317897796631,0.46326273679733276,neutral,-0.02032625675201416
+33,2016-04-08 05:00:00,"""China is consciously reorienting its economy away from huge dependence on exports and capital investments and toward a longer-term, sustainable economy based on consumption,"" Doll said.",0.8405853509902954,0.014104286208748817,0.14531032741069794,positive,0.82648104429245
+34,2016-04-08 05:00:00,"Amid global economic uncertainty, U.S. stocks appear likely to remain a safe-haven attraction for investors.",0.8566526174545288,0.03686666488647461,0.10648065060377121,positive,0.8197859525680542
+35,2016-04-08 05:00:00,The technology and financial sectors appeal the most to Doll.,0.04719656705856323,0.008029690943658352,0.9447737336158752,neutral,0.039166875183582306
+36,2016-04-08 05:00:00,"""Financials are the cheapest cyclicals in the market,"" Doll said.",0.2814503014087677,0.01831345073878765,0.7002362012863159,neutral,0.2631368637084961
+37,2016-04-08 05:00:00,"""They had a big bear market in the first six weeks of the year.",0.538029134273529,0.038870375603437424,0.4231005311012268,positive,0.4991587698459625
+38,2016-04-08 05:00:00,"Now they're back up.""",0.3935371935367584,0.14025883376598358,0.4662039875984192,neutral,0.25327837467193604
+39,2016-04-08 05:00:00,SPDR Financial ETF ( XLF ) fell 17% through Feb. 11.,0.01707986555993557,0.9736800193786621,0.00924009270966053,negative,-0.9566001296043396
+40,2016-04-08 05:00:00,It rallied 15% from there through March 31.,0.9400224685668945,0.023204419761896133,0.0367732010781765,positive,0.9168180227279663
+41,2016-04-08 05:00:00,"And in a sluggish market, stock pickers should outperform index-huggers, Doll said.",0.7954691648483276,0.14614659547805786,0.0583842471241951,positive,0.6493225693702698
+42,2016-04-08 05:00:00,"""To win (with investment returns) this year: The two or three times this year when there's blood in the street, buy some equities,"" Doll said.",0.8309358358383179,0.01948590762913227,0.1495782434940338,positive,0.8114499449729919
+43,2016-04-08 05:00:00,"""When things improve and other investors get complacent, let some go (to take profits).""",0.5825055241584778,0.0830104723572731,0.3344840109348297,positive,0.4994950592517853
+44,2016-04-08 05:00:00,Doll said he will keep some telecommunications stock in his portfolio.,0.04992290586233139,0.007025535684078932,0.9430515766143799,neutral,0.04289736971259117
+45,2016-04-08 05:00:00,"""I want some defense in there,"" he said.",0.31743356585502625,0.05853271484375,0.6240337491035461,neutral,0.25890085101127625
+46,2016-04-08 05:00:00,"Instead, why not utilities, which are also defensive and pay dividends?",0.023190537467598915,0.01567082665860653,0.9611386060714722,neutral,0.007519710808992386
+47,2016-04-08 05:00:00,"""They're expensive now, and telecom is a better value.""",0.7097132802009583,0.026910562068223953,0.2633761465549469,positive,0.6828027367591858
+48,2016-04-08 05:00:00,Doll said he also has more appetite for consumer discretionary than staples.,0.12306852638721466,0.020992912352085114,0.8559385538101196,neutral,0.10207561403512955
+49,2016-04-08 05:00:00,"""Discretionary has better valuations,"" he said.",0.7374154329299927,0.03520376607775688,0.22738076746463776,positive,0.7022116780281067
+50,2016-04-08 05:00:00,"""And staples tend to be more global, and therefore face more risk of currency headwinds.""",0.5069002509117126,0.25626832246780396,0.2368314266204834,positive,0.2506319284439087
+51,2016-04-08 05:00:00,Valeri has a similar view on some sectors.,0.02455441653728485,0.019133461639285088,0.9563120603561401,neutral,0.0054209548979997635
+52,2016-04-08 05:00:00,"""We're still focused on areas that benefit from further expansion,"" he said.",0.8035116791725159,0.013600235804915428,0.18288806080818176,positive,0.7899114489555359
+53,2016-04-08 05:00:00,"""That means more cyclical sectors like consumer discretionary and tech.",0.025753457099199295,0.10517124831676483,0.8690752387046814,neutral,-0.07941779494285583
+54,2016-04-08 05:00:00,"We also have a more modest overweight to industrials.""",0.3179013133049011,0.05759792402386665,0.6245008111000061,neutral,0.2603033781051636
+55,2016-04-08 05:00:00,"The $1.2 billion Fidelity Select Consumer Discretionary Portfolio's ( FSCPX ) recent top holdings were Amazon ( AMZN ), followed by Home Depot ( HD ), Walt Disney (DIS) and Nike (NKE).",0.07849190384149551,0.0061326478607952595,0.9153754711151123,neutral,0.07235925644636154
+56,2016-04-08 05:00:00,"He added, ""Health care is the one defensive sector that is a focus because earnings clarity is fairly good.""",0.23926085233688354,0.02232947200536728,0.738409698009491,neutral,0.21693137288093567
+57,2016-04-08 05:00:00,"Allergan (AGN), Bristol-Myers Squibb (BMY) and United Healthcare (UNH) were recent top holdings of Vanguard Health Care Fund (VGHCX), which wields $46.9 billion in assets.",0.10555804520845413,0.005882896017283201,0.8885590434074402,neutral,0.09967514872550964
+58,2016-04-08 05:00:00,"Like Doll, Valeri is leaning away from utilities and consumer staples.",0.023472454398870468,0.029194802045822144,0.9473327994346619,neutral,-0.005722347646951675
+59,2016-04-08 05:00:00,"Unlike Doll, he's also leaning away from telecom.",0.046767160296440125,0.05969203636050224,0.8935408592224121,neutral,-0.012924876064062119
+60,2016-04-08 05:00:00,"""Our expectation is for improving economic growth,"" he said.",0.9249213933944702,0.0175110325217247,0.05756755545735359,positive,0.9074103832244873
+61,2016-04-08 05:00:00,"""So those sectors won't necessarily benefit as much.",0.12010933458805084,0.2579685151576996,0.6219221353530884,neutral,-0.13785918056964874
+62,2016-04-08 05:00:00,"Utilities and telecom are rate-sensitive, and we think rates will move gradually higher this year.",0.5695607662200928,0.015504512004554272,0.4149346649646759,positive,0.5540562272071838
+63,2016-04-08 05:00:00,So that's a headwind for those sectors.,0.025095166638493538,0.8958203792572021,0.07908450067043304,negative,-0.8707252144813538
+64,2016-04-08 05:00:00,"And their valuations are generally expensive.""",0.03939501941204071,0.08264598250389099,0.8779590129852295,neutral,-0.04325096309185028
+65,2016-04-08 05:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

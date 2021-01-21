@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-24 06:04:00,"Friday headlines include: Earnings from Amazon, Ford and Microsoft; Procter & Gamble splitting off Duracell and Pfizer authorizing a giant share repurchase.",0.03613154590129852,0.8545409440994263,0.10932744294404984,negative,-0.8184093832969666
+1,2014-10-24 06:04:00,Online retailer Amazon ( AMZN ) said Thursday that it lost 95 cents per share in the third quarter on $20.6 billion in revenue.,0.01834229938685894,0.9726420640945435,0.00901560764759779,negative,-0.9542997479438782
+2,2014-10-24 06:04:00,Analysts had expected the company to lose about 74 cents per share.,0.016651928424835205,0.9694864153862,0.01386164128780365,negative,-0.9528344869613647
+3,2014-10-24 06:04:00,"Looking forward, the company said it expects revenue of $27.3 billion and $30.3 billion in the fourth quarter, short of estimates for $30.9 billion.",0.032848574221134186,0.9347843527793884,0.03236706554889679,negative,-0.9019357562065125
+4,2014-10-24 06:04:00,Consumer goods giant Procter & Gamble ( PG ) said Friday that it would split Duracell into a separate company as part of move to focus on faster-growing brands.,0.08182165026664734,0.040149565786123276,0.8780288100242615,neutral,0.04167208448052406
+5,2014-10-24 06:04:00,"The company also said it earned 69 cents per share on an adjusted basis in the third quarter, on $20.79 billion in sales.",0.3195667564868927,0.05350348353385925,0.626929759979248,neutral,0.26606327295303345
+6,2014-10-24 06:04:00,"On a GAAP basis, the company said it earned $1.07 per share.",0.11686373502016068,0.0375930592417717,0.8455432057380676,neutral,0.07927067577838898
+7,2014-10-24 06:04:00,Revenue was $20.79 billion.,0.02488618716597557,0.006097738165408373,0.9690160155296326,neutral,0.018788449466228485
+8,2014-10-24 06:04:00,Drugmaker Pfizer ( PFE ) said Friday that its board approved an $11 billion plan to repurchase the company's common stock.,0.8196117281913757,0.014037717133760452,0.1663505584001541,positive,0.8055739998817444
+9,2014-10-24 06:04:00,"The repurchases could keep the stock at or above its current level, but likely means the company is not in the market for a big acquisition, such as a re-ignition of its flirtation with AstraZeneca ( AZN ).",0.18177445232868195,0.285373717546463,0.5328518152236938,neutral,-0.10359926521778107
+10,2014-10-24 06:04:00,Automaker Ford (F ) said Friday that it earned 21 cents per share in the third quarter or 24 cents per share on an adjusted basis.,0.3802180588245392,0.21437714993953705,0.40540486574172974,neutral,0.16584090888500214
+11,2014-10-24 06:04:00,Analysts had expected the company to earn 19 cents per share.,0.16200876235961914,0.029390443116426468,0.8086007833480835,neutral,0.13261832296848297
+12,2014-10-24 06:04:00,"Revenue was $34.9 billion in the quarter, down 3%, which the company said was because its F-150 plant is closed for retooling ahead of the launch of a new, aluminum-bodied truck.",0.015966540202498436,0.9725684523582458,0.011465023271739483,negative,-0.9566019177436829
+13,2014-10-24 06:04:00,"Software giant Microsoft ( MSFT ) said Thursday that it earned 54 cents per share, or 44 cents per share not including a one-time charge.",0.4124435782432556,0.22985801100730896,0.3576984703540802,positive,0.18258556723594666
+14,2014-10-24 06:04:00,"Analysts had expected the company to earn 49 cents per share, including the charge.",0.0653926208615303,0.02486269734799862,0.9097446203231812,neutral,0.040529921650886536
+15,2014-10-24 06:04:00,"Revenue was $23.2 billion, compared to estimates for $22 billion.",0.38383278250694275,0.5533757209777832,0.06279154121875763,negative,-0.16954293847084045
+16,2014-10-24 06:04:00,"This article was originally published on MarketIntelligenceCenter.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011204403825104237,0.01594698056578636,0.9728485941886902,neutral,-0.004742576740682125

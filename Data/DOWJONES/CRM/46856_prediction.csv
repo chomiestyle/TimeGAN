@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-30 05:42:00,"Salesforce.com Inc.CRM reported splendid first-quarter fiscal 2019 non-GAAP earnings of 74 cents per share, which strongly beat the Zacks Consensus Estimate of 46 cents.",0.924663782119751,0.04355945810675621,0.031776830554008484,positive,0.8811043500900269
+1,2018-05-30 05:42:00,The figure increased more than twofold from the year-ago quarter.,0.9507503509521484,0.019561247900128365,0.029688430950045586,positive,0.9311891198158264
+2,2018-05-30 05:42:00,Revenues of $3.006 billion increased 25% year over year and surpassed the Zacks Consensus Estimate of $2.940 billion.,0.9567115902900696,0.019159123301506042,0.02412928082048893,positive,0.9375524520874023
+3,2018-05-30 05:42:00,"Furthermore, revenues came above the guided range of $2.925-$2.935 billion.",0.8479334115982056,0.026329098269343376,0.12573741376399994,positive,0.821604311466217
+4,2018-05-30 05:42:00,Revenues grew 22% at constant currency (cc).,0.9329195022583008,0.015133479610085487,0.05194694176316261,positive,0.9177860021591187
+5,2018-05-30 05:42:00,The rapid adoption of the company's cloud-based solutions led to the better-than-expected results.,0.9527527689933777,0.0205589160323143,0.02668832428753376,positive,0.9321938753128052
+6,2018-05-30 05:42:00,"Coming to its business segments, revenues at Subscription and Support increased about 27.2% from the year-ago quarter to $2.810 billion.",0.9575063586235046,0.01768863946199417,0.024805068969726562,positive,0.9398177266120911
+7,2018-05-30 05:42:00,Professional Services and Other revenues climbed 4.3% to $196 million.,0.949510395526886,0.023156901821494102,0.027332624420523643,positive,0.9263535141944885
+8,2018-05-30 05:42:00,"Sales Cloud, Service Cloud, Platform and other and Marketing & Commerce Cloud grew 16.3%, 29.3%, 35.6% and 41.1%, respectively.",0.9447187185287476,0.02362600900232792,0.03165518864989281,positive,0.921092689037323
+9,2018-05-30 05:42:00,"Geographically, the company witnessed revenue growth of 19%, 48.2% and 34.1% in the Americas, Europe and Asia Pacific, respectively, on a year-over-year basis.",0.9460064172744751,0.01381571963429451,0.0401778444647789,positive,0.9321907162666321
+10,2018-05-30 05:42:00,Management is extremely optimistic about enhancement of customer experience that has aided growth of the cloud segment.,0.9219916462898254,0.012629857286810875,0.06537846475839615,positive,0.9093617796897888
+11,2018-05-30 05:42:00,Artificial intelligence (AI) related innovations have further boosted the same with Einstein Analytics providing helpful insights.,0.9226418733596802,0.016208047047257423,0.06115008145570755,positive,0.9064338207244873
+12,2018-05-30 05:42:00,"The company added and strengthened its relationships with a few notable customers during the quarter such as Citi, Philips and Santander UK, SoftBank and LUXA among others.",0.9577208757400513,0.018939802423119545,0.02333938330411911,positive,0.9387810826301575
+13,2018-05-30 05:42:00,"Additionally, the company's acquisition of MuleSoft is a major positive, per management.",0.9281129837036133,0.014454089105129242,0.05743297562003136,positive,0.9136589169502258
+14,2018-05-30 05:42:00,The buyout has added an impressive integration platform.,0.9235198497772217,0.013919435441493988,0.06256072968244553,positive,0.9096004366874695
+15,2018-05-30 05:42:00,"Via MuleSoft, Salesforce's customers can connect their data on private or public cloud or on on-premise storage.",0.017809340730309486,0.007634257432073355,0.9745563864707947,neutral,0.010175082832574844
+16,2018-05-30 05:42:00,"The company's recent acquisition of its long-time partner CloudCraze, a B2B ecommerce platform, will also be accretive for the company's financials.",0.8953752517700195,0.012271285988390446,0.09235352277755737,positive,0.8831039667129517
+17,2018-05-30 05:42:00,"Salesforce's non-GAAP gross profit came in at $2.312 billion, up 26.9% from the year-ago quarter.",0.9585304260253906,0.023895904421806335,0.017573608085513115,positive,0.9346345067024231
+18,2018-05-30 05:42:00,"Gross margin expanded 90 basis points (bps) to 76.9%, primarily owing to solid revenue growth.",0.9600207209587097,0.020571600645780563,0.019407622516155243,positive,0.9394491314888
+19,2018-05-30 05:42:00,Non-GAAP operating expenses increased 20.7% year over year to $1.80 billion.,0.9537602066993713,0.028011130169034004,0.01822875812649727,positive,0.9257490634918213
+20,2018-05-30 05:42:00,"As a percentage of revenues, operating expenses decreased 230 bps to 59.9%.",0.018580269068479538,0.9730104207992554,0.008409315720200539,negative,-0.9544301629066467
+21,2018-05-30 05:42:00,"Salesforce posted non-GAAP operating income of $512 million, up 54.7% year over year.",0.954440712928772,0.0186481773853302,0.02691115438938141,positive,0.9357925653457642
+22,2018-05-30 05:42:00,Operating margin expanded 320 bps to 17% driven by an improved gross margin base and lower operating expenses as a percentage of revenues.,0.9574634432792664,0.02432660013437271,0.018210023641586304,positive,0.9331368207931519
+23,2018-05-30 05:42:00,"Salesforce exited the quarter with cash, cash equivalents and marketable securities of $7.16 billion compared with $4.52 billion in the previous quarter.",0.5398953557014465,0.33597123622894287,0.1241334080696106,positive,0.20392411947250366
+24,2018-05-30 05:42:00,"As of Apr 30, 2018, total unearned revenues were $6.2 billion, up 25% on a year-over-year basis (23% at cc).",0.9388233423233032,0.015255247242748737,0.045921407639980316,positive,0.923568069934845
+25,2018-05-30 05:42:00,Salesforce generated operating cash flow of $1.47 billion and free cash flow of $1.344 billion.,0.08483060449361801,0.010099670849740505,0.9050697088241577,neutral,0.07473093271255493
+26,2018-05-30 05:42:00,"Salesforce.com Inc Price, Consensus and EPS Surprise | Salesforce.com Inc Quote
+
+For second-quarter fiscal 2019, revenues are projected between $3.22 billion and $3.23 billion, an increase of 25% year over year.",0.9465422034263611,0.017169399186968803,0.03628833591938019,positive,0.9293727874755859
+27,2018-05-30 05:42:00,Non-GAAP earnings are expected in the range of 46-47 cents per share.,0.029294705018401146,0.010070770978927612,0.9606344699859619,neutral,0.019223934039473534
+28,2018-05-30 05:42:00,"Deferred revenues are anticipated to increase in the range of 22-23% year over year, excluding the impact of the recently acquired MuleSoft.",0.9284865856170654,0.014116857200860977,0.0573965385556221,positive,0.9143697023391724
+29,2018-05-30 05:42:00,The company raised its fiscal 2019 guidance.,0.3551657199859619,0.01317266933619976,0.6316616535186768,neutral,0.3419930636882782
+30,2018-05-30 05:42:00,"Revenues are now projected between $13.075 billion and $13.125 billion, an increase of 24-25% year over year, up from the previous expectation of $12.6 billion and $12.65 billion.",0.9561427235603333,0.018710868433117867,0.025146430358290672,positive,0.9374318718910217
+31,2018-05-30 05:42:00,Non-GAAP earnings are expected in the range of $2.29-$2.31 per share.,0.027665838599205017,0.010880662128329277,0.9614535570144653,neutral,0.01678517647087574
+32,2018-05-30 05:42:00,Operating cash flow is anticipated to increase in the range of 14-15% year over year.,0.9444589614868164,0.01579800248146057,0.03974295035004616,positive,0.9286609888076782
+33,2018-05-30 05:42:00,"Salesforce, on the back of stellar first-quarter 2019 results, raised its fiscal 2019 guidance and stated that it is on track to reach its $20 billion annual revenue mark in a few years.",0.921257734298706,0.016876978799700737,0.06186532974243164,positive,0.904380738735199
+34,2018-05-30 05:42:00,"The company's diverse cloud offerings, expanding partner base and considerable spending on digital marketing are key catalysts.",0.8215855956077576,0.011694693006575108,0.1667197346687317,positive,0.8098909258842468
+35,2018-05-30 05:42:00,Management is also extremely optimistic about grabbing a major share of the $120 billion market that the company caters to.,0.8220040202140808,0.012853321619331837,0.16514265537261963,positive,0.8091506958007812
+36,2018-05-30 05:42:00,"Additionally, strategic acquisitions and the resultant synergies are anticipated to prove conducive to growth in the long haul.",0.9309931993484497,0.01348606776446104,0.055520735681056976,positive,0.9175071120262146
+37,2018-05-30 05:42:00,Salesforce currently carries a Zacks Rank #1 (Strong Buy).,0.8840733766555786,0.020216915756464005,0.09570972621440887,positive,0.8638564348220825
+38,2018-05-30 05:42:00,You can see the complete list of today's Zacks Rank #1 stocks here.,0.05128062888979912,0.020396197214722633,0.9283232092857361,neutral,0.030884431675076485
+39,2018-05-30 05:42:00,"Other top-ranked stocks in the broader technology industry include Twitter, Inc. TWTR , NVIDIA Corporation NVDA and Western Digital Corporation WDC , all sporting a Zacks Rank #1.",0.5208128094673157,0.046315621584653854,0.43287158012390137,positive,0.4744971990585327
+40,2018-05-30 05:42:00,"Long-term earnings growth rates for Twitter, NVIDIA and Western Digital are currently projected to be 23.1%, 10.3% and 19% respectively.",0.5649376511573792,0.011772722005844116,0.4232896566390991,positive,0.5531649589538574
+41,2018-05-30 05:42:00,"It's hard to believe, even for us at Zacks.",0.08736173063516617,0.254048228263855,0.6585900187492371,neutral,-0.1666865050792694
+42,2018-05-30 05:42:00,"But while the market gained +21.9% in 2017, our top stock-picking screens have returned +115.0%, +109.3%, +104.9%, +98.6%, and +67.1%.",0.5075593590736389,0.04700726270675659,0.4454334080219269,positive,0.4605520963668823
+43,2018-05-30 05:42:00,And this outperformance has not just been a recent phenomenon.,0.07535909861326218,0.015217346139252186,0.9094235301017761,neutral,0.060141753405332565
+44,2018-05-30 05:42:00,Over the years it has been remarkably consistent.,0.6927107572555542,0.013971779495477676,0.29331743717193604,positive,0.6787389516830444
+45,2018-05-30 05:42:00,"From 2000 - 2017, the composite yearly average gain for these strategies has beaten the market more than 19X over.",0.7464389204978943,0.10755439102649689,0.14600670337677002,positive,0.6388845443725586
+46,2018-05-30 05:42:00,Maybe even more remarkable is the fact that we're willing to share their latest stocks with you without cost or obligation.,0.5744941830635071,0.01052891369909048,0.41497692465782166,positive,0.5639652609825134
+47,2018-05-30 05:42:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+48,2018-05-30 05:42:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+49,2018-05-30 05:42:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+50,2018-05-30 05:42:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

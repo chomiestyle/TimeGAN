@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-06 07:28:00,"In early trading on Monday, shares of DuPont topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.5%.",0.9378465414047241,0.03219064325094223,0.029962794855237007,positive,0.9056559205055237
+1,2017-03-06 07:28:00,"Year to date, DuPont registers a 9.0% gain.",0.9407961368560791,0.020204627886414528,0.03899913653731346,positive,0.9205915331840515
+2,2017-03-06 07:28:00,"And the worst performing Dow component thus far on the day is JPMorgan Chase, trading down 0.8%.",0.02144986018538475,0.9642478227615356,0.014302334748208523,negative,-0.9427979588508606
+3,2017-03-06 07:28:00,JPMorgan Chase is showing a gain of 6.7% looking at the year to date performance.,0.9464589953422546,0.019725266844034195,0.03381571173667908,positive,0.9267337322235107
+4,2017-03-06 07:28:00,"Two other components making moves today are Home Depot, trading down 0.7%, and Nike, trading up 0.2% on the day.",0.03209409862756729,0.9253571629524231,0.04254864901304245,negative,-0.893263041973114
+5,2017-03-06 07:28:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

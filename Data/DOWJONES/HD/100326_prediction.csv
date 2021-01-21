@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-02-26 09:26:00,U.S. markets were mixed Tuesday mid-day after investors hurdled global economic turmoil in the pre-market session and focused on a slew of positive economic reports.,0.14538273215293884,0.7836655378341675,0.07095174491405487,negative,-0.6382827758789062
+1,2013-02-26 09:26:00,"While stocks initially surged as Fed Chairman Ben Bernanke on Capital Hill defended the Fed's bond buying program and low interest rates, the major indices see-sawed at mid-day.",0.5680599808692932,0.19095644354820251,0.2409835308790207,positive,0.3771035373210907
+2,2013-02-26 09:26:00,"Overseas, markets crashed after an Italian election pointed toward a narrow victory for the center-left coalition in the latest election.",0.04336783289909363,0.9215165972709656,0.03511562943458557,negative,-0.8781487941741943
+3,2013-02-26 09:26:00,"If this result holds, fears are that political gridlock in the Italian Senate could derail the country's austerity measures, and spread economic turmoil through the entire euro zone.",0.023888546973466873,0.9571587443351746,0.0189527440816164,negative,-0.9332702159881592
+4,2013-02-26 09:26:00,The election jarred U.S. stocks Monday as the Dow and S&P bottomed at their biggest single day declines of the year.,0.08740066736936569,0.8583329319953918,0.054266367107629776,negative,-0.7709322571754456
+5,2013-02-26 09:26:00,"At home, the Case-Shiller index showed housing prices increased 6.8% year-over year, notching higher than expectations.",0.9525948166847229,0.022716907784342766,0.024688323959708214,positive,0.9298779368400574
+6,2013-02-26 09:26:00,"The FHFA housing price index was also up month over month, above Street estimates.",0.9247862100601196,0.028384940698742867,0.04682889208197594,positive,0.8964012861251831
+7,2013-02-26 09:26:00,"In corporate news, Home Depot ( HD ) increased near the stock's 52-week high after the home retailer reported strong year-end results, reflecting a housing rebound.",0.9368777871131897,0.03408344089984894,0.02903870679438114,positive,0.902794361114502
+8,2013-02-26 09:26:00,The company reported a 7% gain in same-store sales for Q4.,0.95332932472229,0.02321774698793888,0.023452965542674065,positive,0.9301115870475769
+9,2013-02-26 09:26:00,"JPMorgan ( JPM ) said it is trimming about 4,000 jobs, or about 1.5% of its workforce.",0.018547840416431427,0.9712907671928406,0.010161444544792175,negative,-0.9527429342269897
+10,2013-02-26 09:26:00,Consumer confidence rose in February.,0.9229490160942078,0.021265259012579918,0.05578574910759926,positive,0.9016837477684021
+11,2013-02-26 09:26:00,The Conference Board's index showed that confidence jumped to 69.0 from 58.6 in January.,0.9463949203491211,0.03233803063631058,0.0212671160697937,positive,0.9140568971633911
+12,2013-02-26 09:26:00,Economists had pegged the index to touch 62.3.,0.3042411208152771,0.07544385641813278,0.6203150153160095,neutral,0.22879725694656372
+13,2013-02-26 09:26:00,"The Commerce Department reported a rise of 15.6% in new home sales last month to an annual rate of 437,000, the highest mark since July 2008 and above economist forecasts for a seasonally-adjusted annual rate of 384,000.",0.9395658373832703,0.024613061919808388,0.03582105413079262,positive,0.9149527549743652
+14,2013-02-26 09:26:00,"U.S. sectors were mixed Tuesday mid-day, with cons.",0.03549046814441681,0.8943748474121094,0.07013466954231262,negative,-0.8588843941688538
+15,2013-02-26 09:26:00,"non-cyclical, energy, financial, healthcare and transportation in the red.",0.021595139056444168,0.012516733258962631,0.9658881425857544,neutral,0.009078405797481537
+16,2013-02-26 09:26:00,Commodities were mixed at mid-day.,0.0801018625497818,0.7000207901000977,0.21987736225128174,negative,-0.619918942451477
+17,2013-02-26 09:26:00,Crude oil for April delivery was down $0.11 to $93 a barrel.,0.021855821833014488,0.9638450741767883,0.01429910771548748,negative,-0.9419892430305481
+18,2013-02-26 09:26:00,March natural gas was down $0.007 to $3.41 per 1 million BTU.,0.02088453806936741,0.9670289754867554,0.012086478061974049,negative,-0.9461444616317749
+19,2013-02-26 09:26:00,"In metals, April gold futures were up $2.40 to $1,589.00 per ounce.",0.9220958352088928,0.031689852476119995,0.04621428996324539,positive,0.8904060125350952
+20,2013-02-26 09:26:00,March silver was down $0.137 at $28.85 per ounce in electronic trade.,0.019860368221998215,0.9672442078590393,0.012895388528704643,negative,-0.9473838210105896
+21,2013-02-26 09:26:00,March copper was down $0.002 at $3.54 per pound.,0.02068963833153248,0.9648864269256592,0.014423980377614498,negative,-0.9441967606544495
+22,2013-02-26 09:26:00,"Here's where the markets stood at mid-day:
+
+NYSE Financial Sector Index (^NYK) down 10.47 (-0.20%) at 5,296.01
+
+(+) SLCA (+25.94%, below new 52-week high) Reported Q4 net income of $0.41 per basic and diluted share, compared with net income of $0.20 per basic and diluted share for the same period in 2011, and topping estimates of $0.32.",0.6663177609443665,0.26905450224876404,0.06462770700454712,positive,0.3972632586956024
+23,2013-02-26 09:26:00,"Revenues totaled $118.8 million for Q4 compared with $83.6 million for the same period in 2011, an improvement of 42.1%, and surpassing expectations of $108.7 million.",0.9091836214065552,0.07179199904203415,0.019024420529603958,positive,0.8373916149139404
+24,2013-02-26 09:26:00,"(+) AUXL (+2.82%, near 52-week low) Reported Q4 revs of $172.5 mln, in line with the analyst consensus on Capital IQ.",0.9103133678436279,0.03039221465587616,0.05929432436823845,positive,0.8799211382865906
+25,2013-02-26 09:26:00,"EPS was $1.83, vs. expectations of $1.71 per share on a normalized basis and GAAP EPS of $1.84 per share, according to Capital IQ.",0.4915089011192322,0.4455612897872925,0.06292975693941116,positive,0.0459476113319397
+26,2013-02-26 09:26:00,"(+) ARWR (+11.53%, near 52-week low) Published the latest results on the study of its RNAi-based candidate ARC-520 in the Journal of Molecular Theory.",0.027842644602060318,0.01681360974907875,0.9553437829017639,neutral,0.011029034852981567
+27,2013-02-26 09:26:00,Data from ARWR's latest study demonstrated multi-log reductions in hepatitis B viral DNA and proteins lasting over 30 days after a single injection in animal models.,0.44942155480384827,0.2532517611980438,0.29732662439346313,positive,0.19616979360580444
+28,2013-02-26 09:26:00,(-) FSGI (-23.37%) Entered into definitive stock purchase agreements with institutional investors as part of an approximate $90 million recapitalization.,0.8685704469680786,0.011441808193922043,0.11998780816793442,positive,0.8571286201477051
+29,2013-02-26 09:26:00,"(-) HSII (-20.29%, near 52-week low) Reported a Q4 GAAP loss of $0.02 per share, ex one-time items, versus the Capital IQ consensus of $0.18.",0.026371760293841362,0.9632046222686768,0.010423597879707813,negative,-0.936832845211029
+30,2013-02-26 09:26:00,"Revenues were $103.87 mln, versus the analyst estimate of $109.56 mln.",0.37756821513175964,0.5894652009010315,0.03296656534075737,negative,-0.21189698576927185
+31,2013-02-26 09:26:00,"(-) VSI (-18.92%) Reported Q4 2012 adjusted net income was $0.40 per share, up from $0.31 a year prior and on par with the $0.40 per share analysts expected.",0.9590873718261719,0.024224083870649338,0.01668844372034073,positive,0.934863269329071
+32,2013-02-26 09:26:00,"Net sales in Q4 2012 were $218.9 million compared to $214.9 million in the same period of the prior year, and lower than the $223.9 million analysts had expected.",0.018465349450707436,0.9684168696403503,0.01311776414513588,negative,-0.9499515295028687
+33,2013-02-26 09:26:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597
+34,2013-02-26 09:26:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+35,2013-02-26 09:26:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+36,2013-02-26 09:26:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492298677563667,0.9303174018859863,neutral,-0.04016338288784027

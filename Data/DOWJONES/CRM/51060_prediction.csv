@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-14 05:06:00,Veeva Systems (NYSE: VEEV) is a cloud-computing company specializing in customer relationship management that works mainly with pharmaceutical and life sciences companies.,0.027943380177021027,0.005268118344247341,0.9667884707450867,neutral,0.02267526090145111
+1,2016-06-14 05:06:00,It's another iteration of a recent trend -- young enterprises pushing their way into sectors that have traditionally not utilized cutting-edge CRM products and processes to a great extent.,0.5695703625679016,0.013131004758179188,0.41729864478111267,positive,0.5564393401145935
+2,2016-06-14 05:06:00,"In this clip from the Industry Focus: Tech podcast, analysts Dylan Lewis and Simon Erickson talk about what exactly Veeva does, who's behind it, why it's so exciting for anyone interested in the biopharma space, and why investors should get interested in the stock if they're not already.",0.04359632730484009,0.012691671028733253,0.9437119960784912,neutral,0.030904656276106834
+3,2016-06-14 05:06:00,"The world's biggest tech company forgot to show you something, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07462237030267715,0.16781271994113922,0.757564902305603,neutral,-0.09319034963846207
+4,2016-06-14 05:06:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+5,2016-06-14 05:06:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+6,2016-06-14 05:06:00,"This podcast was recorded on June 3, 2016.",0.014542371034622192,0.01098663080483675,0.9744710326194763,neutral,0.0035557402297854424
+7,2016-06-14 05:06:00,"Dylan Lewis: Last one you wanted to hit on here, Veeva Systems.",0.06506559997797012,0.06387250870466232,0.8710618615150452,neutral,0.0011930912733078003
+8,2016-06-14 05:06:00,This is something you're really interested in now.,0.08945414423942566,0.00885035376995802,0.9016954302787781,neutral,0.08060379326343536
+9,2016-06-14 05:06:00,I know they're in the cloud space.,0.04905220493674278,0.03251170739531517,0.9184361100196838,neutral,0.016540497541427612
+10,2016-06-14 05:06:00,What exactly do they do?,0.042962446808815,0.039207328110933304,0.9178301692008972,neutral,0.0037551186978816986
+11,2016-06-14 05:06:00,Simon Erickson: Sure.,0.11693570762872696,0.04042315483093262,0.8426411151885986,neutral,0.07651255279779434
+12,2016-06-14 05:06:00,"Veeva Systems -- to start with, why this company exists.",0.02117862179875374,0.008302828297019005,0.9705185294151306,neutral,0.012875793501734734
+13,2016-06-14 05:06:00,This was founded by a gentleman named Peter Gassner.,0.03707467019557953,0.00849075522273779,0.9544346332550049,neutral,0.028583914041519165
+14,2016-06-14 05:06:00,He came from salesforce.com (NYSE: CRM) .,0.03294101357460022,0.012340083718299866,0.9547188878059387,neutral,0.020600929856300354
+15,2016-06-14 05:06:00,He was the vice president of technology at Salesforce.,0.025551993399858475,0.011654507368803024,0.9627935290336609,neutral,0.01389748603105545
+16,2016-06-14 05:06:00,He built out all of that backend architecture that no one knows what's going on back there for Salesforce.,0.05294261872768402,0.013248377479612827,0.9338089823722839,neutral,0.03969424217939377
+17,2016-06-14 05:06:00,"All the servers, all the infrastructure, all of that stuff that keep that software running.",0.02805853635072708,0.012713762000203133,0.9592276811599731,neutral,0.015344774350523949
+18,2016-06-14 05:06:00,He designed it and he built it.,0.07022295147180557,0.005422486457973719,0.9243545532226562,neutral,0.06480046361684799
+19,2016-06-14 05:06:00,"He made an agreement with Salesforce that he was going to go after customers in the life sciences markets, so healthcare companies, pharmaceutical companies, companies selling drugs to hospitals.",0.12549500167369843,0.010600896552205086,0.8639040589332581,neutral,0.11489410698413849
+20,2016-06-14 05:06:00,"The reason that's interesting is because traditional sales, traditional customer relations management is you want to be more efficient with your sales force.",0.2816768288612366,0.013927195221185684,0.7043959498405457,neutral,0.2677496373653412
+21,2016-06-14 05:06:00,"Before I was an investor, I was actually a sales guy myself.",0.051158733665943146,0.00939159281551838,0.939449667930603,neutral,0.041767142713069916
+22,2016-06-14 05:06:00,We'd go out.,0.08682004362344742,0.016031702980399132,0.8971482515335083,neutral,0.07078833878040314
+23,2016-06-14 05:06:00,We would do calls.,0.05732260271906853,0.013039862737059593,0.9296374917030334,neutral,0.04428274184465408
+24,2016-06-14 05:06:00,We would write up a call report.,0.017281057313084602,0.010088630951941013,0.9726303219795227,neutral,0.007192426361143589
+25,2016-06-14 05:06:00,We would distribute that to the company and then we'd try to make sense of what was going on out there.,0.07203061133623123,0.008518504910171032,0.9194508790969849,neutral,0.06351210922002792
+26,2016-06-14 05:06:00,"CRM software allows you to immediately in the cloud, throw that all up there, see where your wins are, see where your profit margins are and see what customers you should go after.",0.04452906548976898,0.008517819456756115,0.9469531178474426,neutral,0.03601124510169029
+27,2016-06-14 05:06:00,"Gassner said, ""Hey, there's a great opportunity for this in life sciences, too.",0.6145745515823364,0.014329222962260246,0.3710961937904358,positive,0.6002453565597534
+28,2016-06-14 05:06:00,You want to see what drugs are hitting well.,0.05000176280736923,0.006966099608689547,0.9430320858955383,neutral,0.04303566366434097
+29,2016-06-14 05:06:00,Which are your blockbusters?,0.053992632776498795,0.03842293098568916,0.9075844287872314,neutral,0.015569701790809631
+30,2016-06-14 05:06:00,"Where should you be directing your sales force?""",0.019695116207003593,0.05026615783572197,0.9300387501716614,neutral,-0.030571041628718376
+31,2016-06-14 05:06:00,He brought CRM to the life sciences industry and that's what Veeva Systems is doing.,0.14626099169254303,0.005299385171383619,0.8484395742416382,neutral,0.14096160233020782
+32,2016-06-14 05:06:00,"On top of that, they're also now working with pharmaceutical development.",0.05673104152083397,0.005244307219982147,0.938024640083313,neutral,0.05148673430085182
+33,2016-06-14 05:06:00,The R&D part of that is also very important for your pharmaceutical company.,0.16208326816558838,0.006348658353090286,0.8315680027008057,neutral,0.1557346135377884
+34,2016-06-14 05:06:00,You want to develop drugs more efficiently.,0.5039069652557373,0.009946545585989952,0.4861464500427246,positive,0.4939604103565216
+35,2016-06-14 05:06:00,"Get through these FDA trials more quickly and that can reduce your cost so when you do commercialize the drug, you get a better bang for your buck.",0.8122864961624146,0.016029220074415207,0.17168429493904114,positive,0.7962572574615479
+36,2016-06-14 05:06:00,That's what Veeva Systems does in a nutshell.,0.0240215715020895,0.006635130383074284,0.9693433046340942,neutral,0.017386440187692642
+37,2016-06-14 05:06:00,"Lewis: This is something we saw quite a bit of when we were at South By Southwest, these tech companies, traditionally tech companies -- or what they do being more in the tech space -- kind of creeping into these other industries and I think this is a perfect example of something like that.",0.04790497198700905,0.007838841527700424,0.9442562460899353,neutral,0.040066130459308624
+38,2016-06-14 05:06:00,"Erickson: Yes, absolutely.",0.08327652513980865,0.013261950574815273,0.9034615755081177,neutral,0.0700145736336708
+39,2016-06-14 05:06:00,Life sciences is more and more data-driven.,0.09786857664585114,0.007115014363080263,0.8950164318084717,neutral,0.09075356274843216
+40,2016-06-14 05:06:00,"You're seeing like you talk about South By Southwest, there's more and more decisions being made based on data rather than, ""I've got a hunch,"" or ""This is what the past has told me.""",0.03502967581152916,0.05096174031496048,0.9140085577964783,neutral,-0.01593206450343132
+41,2016-06-14 05:06:00,A lot of that is because you're able to see into the human genome now.,0.13286802172660828,0.007494367193430662,0.8596375584602356,neutral,0.12537366151809692
+42,2016-06-14 05:06:00,You're able to see DNA-level data that can direct decisions that actually improve outcomes which is quite fascinating.,0.5371516346931458,0.013218809850513935,0.449629545211792,positive,0.5239328145980835
+43,2016-06-14 05:06:00,"That you're improving patients' lives from all of this, too.",0.8898851871490479,0.015069485642015934,0.09504534304141998,positive,0.8748157024383545
+44,2016-06-14 05:06:00,Really hot space right now.,0.0864824503660202,0.017099270597100258,0.8964182734489441,neutral,0.0693831816315651
+45,2016-06-14 05:06:00,"Lewis: Still a very nascent one, right?",0.06222895160317421,0.03684490919113159,0.9009261131286621,neutral,0.025384042412042618
+46,2016-06-14 05:06:00,"As the P/E suggests, it kind of backs it up.",0.10215164721012115,0.021027211099863052,0.8768212199211121,neutral,0.0811244398355484
+47,2016-06-14 05:06:00,I think they're currently in the 80s so that certainly fits the bill for pricey companies.,0.051366325467824936,0.012190697714686394,0.9364429116249084,neutral,0.03917562961578369
+48,2016-06-14 05:06:00,"Erickson: If you look at that -- if I can jump on that, too -- traditionally it's been CRM software like we were talking about but Vault, Veeva Vault, is now addressing that R&D [research and development] side of the equation and they also just said, ""Hey, we're applying this for highly regulated market that is like sciences, why don't we expand our reach to outside of life sciences too?""",0.3974749445915222,0.008840023539960384,0.5936850309371948,neutral,0.38863492012023926
+49,2016-06-14 05:06:00,"On the last conference call, Gassner said, ""Hey, we're going to expand outside of life sciences.",0.7757309675216675,0.012397350743412971,0.2118716686964035,positive,0.7633336186408997
+50,2016-06-14 05:06:00,There's a lot of regulated industries that want to be more efficient.,0.16966240108013153,0.008470434695482254,0.8218671083450317,neutral,0.16119197010993958
+51,2016-06-14 05:06:00,Veeva software proved that it works for pharmaceutical companies.,0.3591946065425873,0.009412527084350586,0.6313928961753845,neutral,0.3497820794582367
+52,2016-06-14 05:06:00,"Let's see where that would catch on somewhere else.""",0.09330151975154877,0.029220689088106155,0.8774778246879578,neutral,0.06408083438873291
+53,2016-06-14 05:06:00,"You've seen the stock price of Veeva jump about, from the chart I'm looking at, about 75% since February because you can start seeing them unlocking value in those nascent markets like you mentioned.",0.8044220209121704,0.016454437747597694,0.17912353575229645,positive,0.7879675626754761
+54,2016-06-14 05:06:00,Huge opportunities.,0.29229193925857544,0.017015894874930382,0.690692126750946,neutral,0.2752760350704193
+55,2016-06-14 05:06:00,P/E still skyrocketing high but the market is understanding the value of what this business is bringing.,0.5583259463310242,0.019632812589406967,0.42204126715660095,positive,0.5386931300163269
+56,2016-06-14 05:06:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

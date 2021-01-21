@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-12 00:18:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 42,609 contracts has been traded thus far today, a contract volume which is representative of approximately 4.3 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.03308464214205742,0.011774078942835331,0.9551413059234619,neutral,0.021310564130544662
+1,2018-11-12 00:18:00,"That number works out to 74.2% of HD's average daily trading volume over the past month, of 5.7 million shares.",0.8093140125274658,0.020348886027932167,0.17033706605434418,positive,0.788965106010437
+2,2018-11-12 00:18:00,"Especially high volume was seen for the $190 strike call option expiring November 16, 2018 , with 4,616 contracts trading so far today, representing approximately 461,600 underlying shares of HD.",0.2820216119289398,0.011699392460286617,0.7062790393829346,neutral,0.2703222334384918
+3,2018-11-12 00:18:00,"Below is a chart showing HD's trailing twelve month trading history, with the $190 strike highlighted in orange:
+
+Hillenbrand Inc (Symbol: HI) options are showing a volume of 2,011 contracts thus far today.",0.02618294022977352,0.02014756016433239,0.953669548034668,neutral,0.006035380065441132
+4,2018-11-12 00:18:00,"That number of contracts represents approximately 201,100 underlying shares, working out to a sizeable 71.6% of HI's average daily trading volume over the past month, of 280,960 shares.",0.1939934939146042,0.01008966751396656,0.7959168553352356,neutral,0.18390382826328278
+5,2018-11-12 00:18:00,"Especially high volume was seen for the $55 strike call option expiring November 16, 2018 , with 2,000 contracts trading so far today, representing approximately 200,000 underlying shares of HI.",0.23739351332187653,0.01018278207629919,0.7524237036705017,neutral,0.22721073031425476
+6,2018-11-12 00:18:00,"Below is a chart showing HI's trailing twelve month trading history, with the $55 strike highlighted in orange:
+
+And Amdocs Ltd. (Symbol: DOX) options are showing a volume of 6,031 contracts thus far today.",0.023488923907279968,0.028345875442028046,0.9481651782989502,neutral,-0.004856951534748077
+7,2018-11-12 00:18:00,"That number of contracts represents approximately 603,100 underlying shares, working out to a sizeable 71.1% of DOX's average daily trading volume over the past month, of 848,515 shares.",0.16850286722183228,0.010237297043204308,0.8212597966194153,neutral,0.15826557576656342
+8,2018-11-12 00:18:00,"Especially high volume was seen for the $72.50 strike call option expiring December 21, 2018 , with 3,000 contracts trading so far today, representing approximately 300,000 underlying shares of DOX.",0.2739966809749603,0.01101258210837841,0.7149907350540161,neutral,0.26298409700393677
+9,2018-11-12 00:18:00,"Below is a chart showing DOX's trailing twelve month trading history, with the $72.50 strike highlighted in orange:
+
+For the various different available expirations for HD options , HI options , or DOX options , visit StockOptionsChannel.com.",0.01016958337277174,0.025401443243026733,0.9644289612770081,neutral,-0.015231859870254993
+10,2018-11-12 00:18:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

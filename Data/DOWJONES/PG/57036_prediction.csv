@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-12 00:18:00,"For a live blog on European stocks, type LIVE/ in an Eikon news window
+
+Oct 12 (Reuters) - London stocks were subdued on Monday as a dip in oil prices hit energy stocks, while investors remained cautious with Prime Minister Boris Johnson expected to set out new measures to try to contain the growing coronavirus crisis.",0.04540183022618294,0.94114089012146,0.013457341119647026,negative,-0.8957390785217285
+1,2020-10-12 00:18:00,"The blue-chip FTSE 100 index .FTSE fell 0.3%, weighed down by oil majors BP Plc BP.L and Royal Dutch Shell RDSa.L, while the mid-cap index .FTMC remained flat.",0.019356410950422287,0.9699104428291321,0.010733073577284813,negative,-0.9505540132522583
+2,2020-10-12 00:18:00,"Johnson will hold a meeting of the government's emergency COBRA committee and is expected to set out a new system of ""local COVID alert levels"" of medium, high or very high, aimed at helping tailor restrictions for different parts of England.",0.2469804733991623,0.020860103890299797,0.7321593761444092,neutral,0.22612036764621735
+3,2020-10-12 00:18:00,"AstraZeneca Plc AZN.L gained 0.1% after the drugmaker struck a $486 million deal with the U.S. government to develop and secure supplies of up to 100,000 doses of COVID-19 antibody treatment, a similar class of drug that was used in treating President Donald Trump.",0.9396040439605713,0.033132512122392654,0.027263477444648743,positive,0.9064715504646301

@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-22 01:01:00,"Shares of XPO Logistics ( XPO ) are rocketing on a report that Home Depot ( HD ) held internal talks to buy the supply-chain company, partly to keep it out of the hands of Amazon ( AMZN ).",0.5143311023712158,0.40934786200523376,0.07632099837064743,positive,0.10498324036598206
+1,2017-12-22 01:01:00,"[ibd-display-video id=2101053 width=50 float=left autostart=true] T ech news outlet Recode said it could not independently confirm the chatter with XPO, Home Depot or Amazon.",0.022337034344673157,0.836205780506134,0.14145714044570923,negative,-0.8138687610626221
+2,2017-12-22 01:01:00,( Benzinga and Bloomberg reached out to Home Depot; a spokesperson declined to comment.),0.03541846200823784,0.12847664952278137,0.8361049294471741,neutral,-0.09305818378925323
+3,2017-12-22 01:01:00,The e-commerce giant's broader efforts to bring more elements of retail delivery in house are not new.,0.49138835072517395,0.011352894827723503,0.4972587525844574,neutral,0.4800354540348053
+4,2017-12-22 01:01:00,"Amazon debuted branded air cargo planes last year and in January announced plans to build a centralized air-cargo hub in Kentucky ""to support its growing fleet of Prime Air cargo planes.""",0.809208333492279,0.011403702199459076,0.17938797175884247,positive,0.7978046536445618
+5,2017-12-22 01:01:00,"Amazon is also said to be trialing its own delivery service, dubbed Seller Flex, according to Bloomberg .",0.247909814119339,0.008432420901954174,0.7436577081680298,neutral,0.23947739601135254
+6,2017-12-22 01:01:00,FedEx ( FDX ) and UPS ( UPS ) currently take care of much of Amazon's delivery needs.,0.021244950592517853,0.00799697358161211,0.9707580804824829,neutral,0.013247977010905743
+7,2017-12-22 01:01:00,Shares of XPO jumped 14.4% to 90.01 on the stock market today .,0.9440813064575195,0.01803862489759922,0.03787999600172043,positive,0.9260426759719849
+8,2017-12-22 01:01:00,Home Depot added 5 cents to 118.13.,0.43482455611228943,0.06815087795257568,0.4970245361328125,neutral,0.36667367815971375
+9,2017-12-22 01:01:00,"Amazon dipped 0.5% to 1,168.36.",0.03267021104693413,0.95256507396698,0.014764735475182533,negative,-0.9198948740959167
+10,2017-12-22 01:01:00,FedEx fell 0.1% to 250.02 and UPS added 6 cents to 118.64.,0.021219821646809578,0.961188018321991,0.017592234537005424,negative,-0.9399681687355042
+11,2017-12-22 01:01:00,"YOU MIGHT BE INTERESTED IN :
+
+SpaceX, Boeing To Take This Giant Leap For Space Industry In 2018
+
+Walmart's Tech Lab Is Working On These Ideas As Amazon Rivalry Grows
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.015858035534620285,0.008333164267241955,0.97580885887146,neutral,0.00752487126737833

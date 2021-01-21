@@ -1,0 +1,32 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-07 11:02:24,"(Bloomberg) -- Salesforce.com Inc. announced an alliance with Okta Inc. that will connect key employee data with contact-tracing technology, expanding Salesforce’s effort to develop software for businesses dealing with the coronavirus pandemic.",0.9189468622207642,0.015333294868469238,0.06571990251541138,positive,0.9036135673522949
+1,2020-10-07 11:02:24,"The partnership will help customers use information in Okta’s systems to quickly get employees up and running with Salesforce’s tools focused on helping navigate Covid-19, the San Francisco-based companies said Wednesday in a statement.",0.6531201004981995,0.012261851690709591,0.33461809158325195,positive,0.6408582329750061
+2,2020-10-07 11:02:24,Workers can also use Okta technology to securely log in with one click.,0.023128651082515717,0.024546610191464424,0.9523247480392456,neutral,-0.0014179591089487076
+3,2020-10-07 11:02:24,"Salesforce, the leader in software for managing customer relationships, developed its work.com suite earlier this year to help businesses safely reopen their offices.",0.6010155081748962,0.01180874090641737,0.38717570900917053,positive,0.5892067551612854
+4,2020-10-07 11:02:24,"The tools track employee shifts, handle emergency management and offer manual contact-tracing features in the event of a potential Covid-19 outbreak.",0.030271710827946663,0.011953025124967098,0.9577752947807312,neutral,0.01831868663430214
+5,2020-10-07 11:02:24,Work.com is part of Chief Executive Officer Marc Benioff’s goal to make products that are more relevant to customers at a time many Americans have been forced to work and study at home.,0.2831956446170807,0.012631501071155071,0.7041728496551514,neutral,0.27056413888931274
+6,2020-10-07 11:02:24,"Salesforce said work.com is now being used by 60 government customers worldwide, including 35 U.S. state agencies and federal agencies including NASA.",0.15225490927696228,0.006369710899889469,0.8413754105567932,neutral,0.14588519930839539
+7,2020-10-07 11:02:24,The product line faces steep competition from ServiceNow Inc.’s offering.,0.116303451359272,0.6581683158874512,0.225528284907341,negative,-0.5418648719787598
+8,2020-10-07 11:02:24,The Okta partnership could help Salesforce’s tools stand out.,0.924759566783905,0.016099195927381516,0.05914122238755226,positive,0.908660352230072
+9,2020-10-07 11:02:24,Salesforce shares rose 2.2% to $255.75 at 9:53 a.m. in New York.,0.9484263062477112,0.018994813784956932,0.032578784972429276,positive,0.9294314980506897
+10,2020-10-07 11:02:24,Okta was little changed at $232.70.,0.09078413993120193,0.40630608797073364,0.5029097199440002,neutral,-0.3155219554901123
+11,2020-10-07 11:02:24,Okta offers security software for corporate customers that authenticates workers and lets them connect easily to a variety of online applications.,0.03198346868157387,0.006402629427611828,0.9616138935089111,neutral,0.025580838322639465
+12,2020-10-07 11:02:24,"Work.com and Okta are “two puzzle pieces that match perfectly,” Sarah Franklin, a Salesforce executive vice president, said in an interview.",0.2724478244781494,0.019641779363155365,0.707910418510437,neutral,0.25280603766441345
+13,2020-10-07 11:02:24,"The partnership will ensure data are “protected and give every CEO and CIO confidence that they can not only stand up these systems in this time of crisis and need, but they can scale it up.”
+
+Work.com requires access to employee data not typically found in other Salesforce applications.",0.296855628490448,0.009410490281879902,0.6937338709831238,neutral,0.2874451279640198
+14,2020-10-07 11:02:24,Customers faced the prospect of having to engineer complex integration tools to have up-to-date information.,0.050075653940439224,0.7312197089195251,0.21870464086532593,negative,-0.6811440587043762
+15,2020-10-07 11:02:24,Salesforce announced a pact with Workday Inc. in May to help alleviate these concerns and the deal with Okta addresses similar challenges.,0.876888632774353,0.024779707193374634,0.09833165258169174,positive,0.8521089553833008
+16,2020-10-07 11:02:24,"The agreement, in which money will not change hands, marks Okta’s first product partnership with Salesforce past basic software integration -- a long-sought goal for Chief Executive Officer Todd McKinnon.",0.8298934698104858,0.012597056105732918,0.1575094759464264,positive,0.8172963857650757
+17,2020-10-07 11:02:24,The executive said he hopes the alliance will grow.,0.9336515665054321,0.016129035502672195,0.050219375640153885,positive,0.9175225496292114
+18,2020-10-07 11:02:24,"In the past, these types of deals have helped expand Okta’s client pipeline and eventually boost revenue.",0.9473193883895874,0.017087090760469437,0.03559350222349167,positive,0.9302322864532471
+19,2020-10-07 11:02:24,"“The benefit to customers is the solution just works,” McKinnon said in an interview.",0.557919442653656,0.028951523825526237,0.413129061460495,positive,0.5289679169654846
+20,2020-10-07 11:02:24,"For Okta, “we’ll have many more customers we can upsell.",0.7062140107154846,0.012292623519897461,0.28149333596229553,positive,0.6939213871955872
+21,2020-10-07 11:02:24,Maybe it’s our multifactor authentication or single-sign-on products.,0.02097860723733902,0.00967213325202465,0.9693492650985718,neutral,0.01130647398531437
+22,2020-10-07 11:02:24,"Customer acquisition is important to us.”
+
+McKinnon said his goal is to forge these types of strategic alliances with the three major cloud providers -- Amazon.com Inc., Microsoft Corp. and Alphabet Inc.’s Google.",0.5928716659545898,0.009802223183214664,0.3973260223865509,positive,0.5830694437026978
+23,2020-10-07 11:02:24,The announcement of the Salesforce pact came amid Okta’s virtual Showcase event to unveil new products.,0.5962086319923401,0.01862526684999466,0.38516610860824585,positive,0.577583372592926
+24,2020-10-07 11:02:24,"For more articles like this, please visit us at bloomberg.com
+
+Subscribe now to stay ahead with the most trusted business news source.",0.050643812865018845,0.03294490650296211,0.916411280632019,neutral,0.017698906362056732

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-24 07:10:00,"In early trading on Tuesday, shares of Home Depot (HD) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.7%.",0.9366157650947571,0.032615598291158676,0.030768586322665215,positive,0.9040001630783081
+1,2019-09-24 07:10:00,"Year to date, Home Depot registers a 33.9% gain.",0.9435846209526062,0.021033301949501038,0.035382047295570374,positive,0.9225513339042664
+2,2019-09-24 07:10:00,"And the worst performing Dow component thus far on the day is Exxon Mobil Corp (XOM), trading down 0.7%.",0.020961787551641464,0.9652220606803894,0.013816162012517452,negative,-0.94426029920578
+3,2019-09-24 07:10:00,Exxon Mobil Corp is showing a gain of 5.1% looking at the year to date performance.,0.9532431960105896,0.02040056139230728,0.026356272399425507,positive,0.9328426122665405
+4,2019-09-24 07:10:00,"Two other components making moves today are Goldman Sachs Group (GS), trading down 0.4%, and Cisco Systems (CSCO), trading up 1.5% on the day.",0.030450226739048958,0.9340380430221558,0.03551172465085983,negative,-0.903587818145752

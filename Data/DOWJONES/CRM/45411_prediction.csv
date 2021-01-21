@@ -1,0 +1,94 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-03 06:12:00,"Chicago, IL -January 3, 2019 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017595607787370682,0.008944300003349781,0.9734600782394409,neutral,0.0086513077840209
+1,2019-01-03 06:12:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2019-01-03 06:12:00,"Stocks recently featured in the blog include: TripAdvisor Inc. TRIP , Advance Auto Parts, Inc. AAP , Red Hat Inc. RHT , Eli Lilly & Company LLY and Salesforce.com, Inc. CRM .",0.012907351367175579,0.010979621671140194,0.9761130213737488,neutral,0.0019277296960353851
+3,2019-01-03 06:12:00,"Here are highlights from Wednesday's Analyst Blog:
+
+Wall Street staggered into 2019, leaving behind the worst year in a decade.",0.07206693291664124,0.8447030186653137,0.08323004841804504,negative,-0.7726360559463501
+4,2019-01-03 06:12:00,Its three major benchmarks posted the worst annual performance since the financial crisis.,0.019726544618606567,0.9659101366996765,0.014363395050168037,negative,-0.9461835622787476
+5,2019-01-03 06:12:00,"The S&P 500, in particular, closed in the red for the first time in three years.",0.7382627725601196,0.1305924355983734,0.13114476203918457,positive,0.6076703071594238
+6,2019-01-03 06:12:00,The year was also the first since 1948 when the index ended in losses after increasing in the first three quarters.,0.09750498831272125,0.8858385682106018,0.016656385734677315,negative,-0.7883335947990417
+7,2019-01-03 06:12:00,But is it all doom and gloom as we head into 2019?,0.06472496688365936,0.10390336811542511,0.8313716650009155,neutral,-0.03917840123176575
+8,2019-01-03 06:12:00,Many market watchers would want us to believe so.,0.1055883914232254,0.010871101170778275,0.8835404515266418,neutral,0.09471729397773743
+9,2019-01-03 06:12:00,"But on closer examination, a near-term recession seems unlikely.",0.09426265209913254,0.21185190975666046,0.6938853859901428,neutral,-0.11758925765752792
+10,2019-01-03 06:12:00,"Meanwhile, the job market remains robust and the Trump administration continues to promise that the trade dispute with China will have an agreeable ending.",0.9298182129859924,0.024365918710827827,0.04581578075885773,positive,0.905452311038971
+11,2019-01-03 06:12:00,"This is why it makes sense to bet on select S&P 500 stocks, as the index is likely to close 2019 on a far better note.",0.6922018527984619,0.04744108393788338,0.2603570520877838,positive,0.64476078748703
+12,2019-01-03 06:12:00,"Ultimately, most of last year's losses were attributable to a dismal fourth quarter and a horrifying December.",0.021344395354390144,0.9474305510520935,0.031224951148033142,negative,-0.9260861277580261
+13,2019-01-03 06:12:00,The S&P 500 suffered its worst December since 1931.,0.029889963567256927,0.9511634111404419,0.018946608528494835,negative,-0.9212734699249268
+14,2019-01-03 06:12:00,"Trade tensions, a tougher rate environment and the recent government shutdown intensified the negative movements on the bourses.",0.039148956537246704,0.9212521314620972,0.03959892317652702,negative,-0.8821032047271729
+15,2019-01-03 06:12:00,"However, the economy is still on expansion mode.",0.818475067615509,0.02492067962884903,0.15660424530506134,positive,0.7935543656349182
+16,2019-01-03 06:12:00,Goldman Sachs has cut its outlook for the first half of the year from 2.4% to 2% and its projection for the second half is at 1.75%.,0.01589343696832657,0.9613416790962219,0.02276482991874218,negative,-0.9454482197761536
+17,2019-01-03 06:12:00,"However, it thinks a cooling off is required to ""land the plane.""",0.02597365342080593,0.17015866935253143,0.8038676977157593,neutral,-0.14418502151966095
+18,2019-01-03 06:12:00,"Several economists share this view, dismissing talks of a near-term recession.",0.142248272895813,0.6468849778175354,0.21086683869361877,negative,-0.5046367049217224
+19,2019-01-03 06:12:00,"By this July, the current expansion, which started on Jul 1, 2009, will be the longest in U.S. history.",0.13208112120628357,0.0061966911889612675,0.8617222309112549,neutral,0.12588442862033844
+20,2019-01-03 06:12:00,It will then overtake the decade-long economic expansion which started in March 1991.,0.5632166862487793,0.010843483731150627,0.4259398579597473,positive,0.5523732304573059
+21,2019-01-03 06:12:00,Consumer confidence remains strong and debt burdens are low.,0.3845095634460449,0.021909816190600395,0.5935806035995483,neutral,0.36259976029396057
+22,2019-01-03 06:12:00,"Meanwhile, Morgan Stanley projects that tax inflated paychecks will result in a ""record-high tax refund season.""",0.740879476070404,0.09607215970754623,0.1630483865737915,positive,0.6448073387145996
+23,2019-01-03 06:12:00,"Additionally, the continuing slump in gasoline prices will enhance the purchasing power of the U.S. consumer.",0.9326256513595581,0.017290201038122177,0.05008411779999733,positive,0.915335476398468
+24,2019-01-03 06:12:00,Probably the most positive aspect of this economic expansion is the robust state of the jobs market.,0.7436439990997314,0.013187408447265625,0.2431686371564865,positive,0.7304565906524658
+25,2019-01-03 06:12:00,The unemployment rate continues to inch lower while job additions remain strong.,0.569495439529419,0.2943425178527832,0.13616208732128143,positive,0.27515292167663574
+26,2019-01-03 06:12:00,"More importantly, wage growth, which was largely absent through this growth phase, was a significant feature of 2018.",0.12393876910209656,0.08700203895568848,0.7890591621398926,neutral,0.03693673014640808
+27,2019-01-03 06:12:00,"Meanwhile, the jobs quits rate increased substantially last year.",0.9099087715148926,0.02821163274347782,0.061879586428403854,positive,0.8816971182823181
+28,2019-01-03 06:12:00,The resilience of the jobs market has raised the spending propensity of Americans.,0.87485671043396,0.021748144179582596,0.10339516401290894,positive,0.8531085848808289
+29,2019-01-03 06:12:00,"Retail sales increased 5% year over year this holiday season, per analysis released post-Christmas by MasterCard.",0.9535340666770935,0.02055092714726925,0.02591504342854023,positive,0.9329831600189209
+30,2019-01-03 06:12:00,Possibly the biggest worry for investors last year was the trade tussle with China.,0.03878343850374222,0.8530213832855225,0.10819519311189651,negative,-0.8142379522323608
+31,2019-01-03 06:12:00,A deal seemed elusive at most times despite promises by the Trump administration that crucial progress had been made on this front.,0.6245248913764954,0.11697026342153549,0.25850480794906616,positive,0.5075546503067017
+32,2019-01-03 06:12:00,Goldman Sachs expects more retaliatory tariff action this year.,0.7965279817581177,0.02196618914604187,0.18150584399700165,positive,0.7745617628097534
+33,2019-01-03 06:12:00,"However, the investment banking firm does concede that an agreement could be inked later this year.",0.8256512880325317,0.02022724226117134,0.15412138402462006,positive,0.8054240345954895
+34,2019-01-03 06:12:00,China's economy and equity markets are starting to feel the pain of this lingering conflict.,0.26157107949256897,0.4364930987358093,0.3019357919692993,negative,-0.17492201924324036
+35,2019-01-03 06:12:00,Trump tweeted on Saturday that he had held a fruitful telephonic discussion with President Xi.,0.7767845988273621,0.033904045820236206,0.18931134045124054,positive,0.7428805828094482
+36,2019-01-03 06:12:00,"According to him, ""big progress"" was being made and a deal with China was ""moving along very well.""",0.9231595993041992,0.018906714394688606,0.05793376266956329,positive,0.9042528867721558
+37,2019-01-03 06:12:00,"Despite the pessimism surrounding this year's market prospects, things may not be as tricky as they seem.",0.11442442983388901,0.3579929769039154,0.5275826454162598,neutral,-0.2435685396194458
+38,2019-01-03 06:12:00,A robust economy and strong labor market will likely continue to fuel optimism.,0.8772742748260498,0.018743064254522324,0.10398261249065399,positive,0.8585312366485596
+39,2019-01-03 06:12:00,"A trade deal with China may also be reached, providing much-awaited relief to investors.",0.8727251291275024,0.05859990045428276,0.06867500394582748,positive,0.8141252398490906
+40,2019-01-03 06:12:00,"In view of these factors, we have narrowed our search to the following S&P 500 stocks based on a good Zacks Rank and other relevant metrics.",0.07604604214429855,0.017821457237005234,0.9061325192451477,neutral,0.05822458490729332
+41,2019-01-03 06:12:00,TripAdvisor Inc. is one of the largest online travel research companies in the world.,0.24912071228027344,0.007055729627609253,0.7438235282897949,neutral,0.24206498265266418
+42,2019-01-03 06:12:00,The company's expected earnings growth for the current year is 57%.,0.7686309814453125,0.012083264999091625,0.21928571164608002,positive,0.7565476894378662
+43,2019-01-03 06:12:00,The Zacks Consensus Estimate for current-year earnings has improved 20.1% over the past 60 days.,0.957414448261261,0.022452695295214653,0.020132901147007942,positive,0.93496173620224
+44,2019-01-03 06:12:00,The stock rallied 54.3% in 2018.,0.928820788860321,0.02065623365342617,0.050523001700639725,positive,0.9081645607948303
+45,2019-01-03 06:12:00,It sports a Zacks Rank #1 (Strong Buy).,0.8764724135398865,0.021731942892074585,0.10179559886455536,positive,0.8547405004501343
+46,2019-01-03 06:12:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+47,2019-01-03 06:12:00,"Advance Auto Parts, Inc. operates in the U.S. automotive aftermarket industry and is primarily engaged in selling replacement parts.",0.018551746383309364,0.007301956415176392,0.9741463661193848,neutral,0.011249789968132973
+48,2019-01-03 06:12:00,Advance Auto Parts has a Zacks Rank #2 (Buy).,0.7530001401901245,0.030975816771388054,0.21602414548397064,positive,0.7220243215560913
+49,2019-01-03 06:12:00,The company has expected earnings growth of 35.6% for the current year.,0.9353165626525879,0.01424887590110302,0.050434660166502,positive,0.9210677146911621
+50,2019-01-03 06:12:00,The Zacks Consensus Estimate for current-year earnings has moved 0.3% north over the past 30 days.,0.7204089760780334,0.1587895303964615,0.12080150097608566,positive,0.5616194605827332
+51,2019-01-03 06:12:00,The stock increased 47.1% in 2018.,0.9099563360214233,0.013286344707012177,0.0767572894692421,positive,0.8966699838638306
+52,2019-01-03 06:12:00,"Red Hat Inc. offers open source software solutions that include operating system, virtualization, management, middleware, cloud, mobile and storage technologies.",0.034975647926330566,0.004424117971211672,0.9606002569198608,neutral,0.030551530420780182
+53,2019-01-03 06:12:00,Red Hat has a Zacks Rank #2.,0.13493265211582184,0.03678715601563454,0.8282802104949951,neutral,0.0981454998254776
+54,2019-01-03 06:12:00,The company has expected earnings growth of 17.2% for the current year.,0.9375178813934326,0.014256101101636887,0.04822605103254318,positive,0.9232617616653442
+55,2019-01-03 06:12:00,The Zacks Consensus Estimate for current-year earnings has improved by 0.9% over the past 30 days.,0.9570653438568115,0.023693671450018883,0.019241023808717728,positive,0.9333716630935669
+56,2019-01-03 06:12:00,The stock gained 42.7% in 2018.,0.9216036796569824,0.01679372787475586,0.06160255894064903,positive,0.9048099517822266
+57,2019-01-03 06:12:00,Eli Lilly has a Zacks Rank #2.,0.24638617038726807,0.06628359854221344,0.6873302459716797,neutral,0.18010257184505463
+58,2019-01-03 06:12:00,The company has expected earnings growth of 32.5% for the current year.,0.9379536509513855,0.014292185194790363,0.04775422438979149,positive,0.923661470413208
+59,2019-01-03 06:12:00,The Zacks Consensus Estimate for current-year earnings has moved 0.1% north over the past 30 days.,0.6393758654594421,0.22688619792461395,0.13373792171478271,positive,0.412489652633667
+60,2019-01-03 06:12:00,The stock increased 36% in 2018.,0.9201090931892395,0.01350159477442503,0.0663893073797226,positive,0.9066075086593628
+61,2019-01-03 06:12:00,"Salesforce.com, Inc. is the leading provider of on-demand Customer Relationship Management (CRM) software.",0.5001600384712219,0.008910059928894043,0.49092990159988403,positive,0.4912499785423279
+62,2019-01-03 06:12:00,Salesforce has a Zacks Rank #2.,0.3215743601322174,0.05624751001596451,0.6221780776977539,neutral,0.2653268575668335
+63,2019-01-03 06:12:00,The company has expected earnings growth of 93.4% for the current year.,0.9348108172416687,0.014191259630024433,0.05099787190556526,positive,0.920619547367096
+64,2019-01-03 06:12:00,The Zacks Consensus Estimate for current-year earnings has improved by 4% over the past 60 days.,0.9579797387123108,0.022312473505735397,0.019707700237631798,positive,0.9356672763824463
+65,2019-01-03 06:12:00,The stock rose 30% in 2018.,0.9234264492988586,0.015574716962873936,0.060998812317848206,positive,0.9078517556190491
+66,2019-01-03 06:12:00,"The Hottest Tech Mega-Trend of All
+
+Last year, it generated $8 billion in global revenues.",0.8233587145805359,0.015582907944917679,0.16105839610099792,positive,0.8077757954597473
+67,2019-01-03 06:12:00,"By 2020, it's predicted to blast through the roof to $47 billion.",0.23545314371585846,0.11051791906356812,0.6540289521217346,neutral,0.12493522465229034
+68,2019-01-03 06:12:00,"Famed investor Mark Cuban says it will produce ""the world's first trillionaires,"" but that should still leave plenty of money for regular investors who make the right trades early.",0.7029615044593811,0.025822270661592484,0.2712162435054779,positive,0.6771392226219177
+69,2019-01-03 06:12:00,"See Zacks' 3 Best Stocks to Play This Trend >>
+
+Past performance is no guarantee of future results.",0.32106131315231323,0.14131227135658264,0.5376263856887817,neutral,0.1797490417957306
+70,2019-01-03 06:12:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+71,2019-01-03 06:12:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+72,2019-01-03 06:12:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+73,2019-01-03 06:12:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+74,2019-01-03 06:12:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+75,2019-01-03 06:12:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+76,2019-01-03 06:12:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+77,2019-01-03 06:12:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+78,2019-01-03 06:12:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+79,2019-01-03 06:12:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+80,2019-01-03 06:12:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+81,2019-01-03 06:12:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+82,2019-01-03 06:12:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+83,2019-01-03 06:12:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+84,2019-01-03 06:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

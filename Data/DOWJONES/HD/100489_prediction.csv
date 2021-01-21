@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-08-14 00:35:00,"""The retail sales number coming in much better than expected was a nice change,"" said Schaeffer's Senior Technical Strategist Ryan Detrick.",0.9118438959121704,0.04130356013774872,0.04685249179601669,positive,0.8705403208732605
+1,2012-08-14 00:35:00,"""This number has been weak the past few months, and today's data confirms the U.S. economy continues to improve.",0.8118999600410461,0.14945296943187714,0.03864701837301254,positive,0.6624469757080078
+2,2012-08-14 00:35:00,"With housing and consumer confidence both slowly improving, this is yet another sign that the U.S. consumer isn't dead, and very well might surprise to the upside during the second half of the year.""",0.8294150829315186,0.10634443163871765,0.06424050033092499,positive,0.7230706214904785
+3,2012-08-14 00:35:00,"Although the Dow Jones Industrial Average (DJI) was up early on this news, the blue-chip barometer was flat on the day.",0.1584567129611969,0.7444372177124023,0.09710603952407837,negative,-0.5859805345535278
+4,2012-08-14 00:35:00,"Keep reading to see what else was on our radar today:
+• Too little brokerage love could be a good thing for this bull market.",0.13952596485614777,0.17138907313346863,0.6890849471092224,neutral,-0.03186310827732086
+5,2012-08-14 00:35:00,"• Plus, the options pits can't get enough if these 3 hot telecom-related issues .",0.034881290048360825,0.7520003914833069,0.2131182998418808,negative,-0.7171190977096558
+6,2012-08-14 00:35:00,"And now, a look at the numbers...",0.03768295422196388,0.017149433493614197,0.945167601108551,neutral,0.020533520728349686
+7,2012-08-14 00:35:00,"The Dow Jones Industrial Average (DJI - 13,172.14) was up more than 53 points at its session peak of 13,223.01 today, but lost most of this by the time the closing bell sounded.",0.7990214824676514,0.1394818276166916,0.06149667501449585,positive,0.6595396399497986
+8,2012-08-14 00:35:00,"Ultimately, the Dow inched just 2.7 points, or 0.02%, higher.",0.6264234185218811,0.27590426802635193,0.09767232090234756,positive,0.3505191504955292
+9,2012-08-14 00:35:00,"Seventeen of the 30 components ended lower today, as Alcoa Inc. ( AA ) led the laggards with a 1.6% slide.",0.02298090234398842,0.9636969566345215,0.013322087936103344,negative,-0.940716028213501
+10,2012-08-14 00:35:00,"The Home Depot, Inc.'s ( HD ) 3.6% earnings-related bounce paced the winning minority.",0.8131143450737,0.11810898780822754,0.0687766894698143,positive,0.6950053572654724
+11,2012-08-14 00:35:00,"The S&P 500 Index's(SPX - 1,403.93) couldn't keep its early gains, and drifted to a fractional loss for the session.",0.021123100072145462,0.966925859451294,0.011951075866818428,negative,-0.9458027482032776
+12,2012-08-14 00:35:00,"Meanwhile, the Nasdaq Composite (COMP - 3,016.98) also parked in the red today, giving up 5.5 points, or 0.2%.",0.9023658633232117,0.057483017444610596,0.04015103355050087,positive,0.8448828458786011
+13,2012-08-14 00:35:00,"The CBOE Market Volatility Index (VIX - 14.85) increased by 8.4% today, and landed just below its intraday high of 15.06.",0.9334511160850525,0.04605532065033913,0.0204935185611248,positive,0.8873957991600037
+14,2012-08-14 00:35:00,This marked the VIX's third consecutive settlement below 15.,0.10595422238111496,0.8247050642967224,0.06934071332216263,negative,-0.7187508344650269
+15,2012-08-14 00:35:00,"Today's highlight : ""Again, it came down to technicals, and once again the Russell 2000 Index (RUT) found trouble near the 800 level,"" noted Detrick.",0.02821962535381317,0.9469884037971497,0.024791913107037544,negative,-0.9187687635421753
+16,2012-08-14 00:35:00,"""This isn't the end of the world, but my take is we need the RUT above this area for the bull market's next leg higher to take place.""",0.5132907032966614,0.18096843361854553,0.3057408630847931,positive,0.33232226967811584
+17,2012-08-14 00:35:00,• See why a dearth of analyst attention bodes well for this bull market.,0.05498038977384567,0.20026583969593048,0.7447537183761597,neutral,-0.1452854573726654
+18,2012-08-14 00:35:00,"• Wal-Mart Stores, Inc. ( WMT ) and Southwest Airlines Co. ( LUV ) were tapped with analyst adjustments today.",0.052786119282245636,0.014528906904160976,0.9326850175857544,neutral,0.038257211446762085
+19,2012-08-14 00:35:00,• Weekly Contrarian : Why Sears Holdings Bears Should Be On Guard.,0.08540021628141403,0.23901167511940002,0.675588071346283,neutral,-0.1536114513874054
+20,2012-08-14 00:35:00,"• A court case could be behind the glut of call buying on Suntech Power Holdings Co., Ltd. (ADR) (STP) .",0.04244136065244675,0.9013277888298035,0.05623086914420128,negative,-0.8588864207267761
+21,2012-08-14 00:35:00,• Highs & Lows : Stocks at new peaks easily outshined those notching new bottoms.,0.9220334887504578,0.04246426746249199,0.035502154380083084,positive,0.8795692324638367
+22,2012-08-14 00:35:00,"• Pre-earnings option activity spiked on Pandora Media Inc (P) and Applied Materials, Inc. (AMAT) .",0.6215649843215942,0.34623709321022034,0.032197922468185425,positive,0.2753278911113739
+23,2012-08-14 00:35:00,"• Put players lined each side of the aisle on Akamai Technologies, Inc. (AKAM) .",0.037835992872714996,0.016390852630138397,0.945773184299469,neutral,0.0214451402425766
+24,2012-08-14 00:35:00,• Front-month calls flew off the shelf as Google Inc (GOOG) rallied and Ciena Corporation (CIEN) turned south .,0.1793965846300125,0.6579627990722656,0.16264064610004425,negative,-0.4785662293434143
+25,2012-08-14 00:35:00,"For today's activity in commodities, options, and more, head to page 2.",0.012852145358920097,0.01033917348831892,0.9768086671829224,neutral,0.002512971870601177
+26,2012-08-14 00:35:00,"Oil futures ended the day in positive territory, following a better-than-expected U.S. retail sales report and well-received economic reports out of the euro zone.",0.9307994842529297,0.035910721868276596,0.03328978270292282,positive,0.8948887586593628
+27,2012-08-14 00:35:00,The commodity was also supported by elevated supply concerns out of the North Sea and the Middle East.,0.9146397113800049,0.034092795103788376,0.05126749351620674,positive,0.8805469274520874
+28,2012-08-14 00:35:00,"September-dated crude gained 70 cents, or 0.8%, to settle at $93.43 a barrel.",0.9175274968147278,0.04466975852847099,0.037802744656801224,positive,0.8728577494621277
+29,2012-08-14 00:35:00,"Gold futures racked up a second straight day in the red, as macroeconomic data depleted safe-haven demand.",0.5676376223564148,0.3305959105491638,0.10176647454500198,positive,0.23704171180725098
+30,2012-08-14 00:35:00,"As the greenback gained momentum, gold for December delivery peeled back $10.20, or 0.6%, to close at $1,602.40 an ounce.",0.8748129606246948,0.08020181953907013,0.04498515650629997,positive,0.7946111559867859
+31,2012-08-14 00:35:00,This marked the malleable metal's lowest price since August 2.,0.026096053421497345,0.9465643763542175,0.02733955718576908,negative,-0.9204683303833008
+32,2012-08-14 00:35:00,Click through to read coverage of today's notable annual highs and lows .,0.04271768406033516,0.050358109176158905,0.9069241881370544,neutral,-0.007640425115823746
+33,2012-08-14 00:35:00,"At the end of every market day, the staff at Schaeffer's Investment Research reviews the trading day in detail, covering major events and key market developments.",0.014267869293689728,0.00914048496633768,0.9765916466712952,neutral,0.005127384327352047
+34,2012-08-14 00:35:00,"Don't miss this critical, timely and insightful report.",0.05582868680357933,0.02586214244365692,0.9183091521263123,neutral,0.02996654435992241
+35,2012-08-14 00:35:00,"If you enjoyed today's edition of Market Recap, sign up here for free daily delivery straight to your inbox.",0.03876020014286041,0.017327366396784782,0.9439123868942261,neutral,0.02143283374607563
+36,2012-08-14 00:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942188858985901,0.013680474832654,0.9763773083686829,neutral,-0.0037382859736680984
+37,2012-08-14 00:35:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200573846697807,0.9573419094085693,neutral,-0.02135336399078369

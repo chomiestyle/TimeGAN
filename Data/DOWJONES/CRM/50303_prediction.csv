@@ -1,0 +1,75 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-10 06:30:00,"Chicago, IL - October 10, 2016 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.0183346439152956,0.008708075620234013,0.9729572534561157,neutral,0.009626568295061588
+1,2016-10-10 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2016-10-10 06:30:00,"Stocks recently featured in the blog include Amazon.com, Inc. (NASDAQ: AMZN - Free Report ), Salesforce (NYSE: CRM - Free Report ), Intel Corporation (NASDAQ: INTC - Free Report ) and Applied Materials, Inc. (NASDAQ: AMAT - Free Report ).",0.019230864942073822,0.011032124049961567,0.9697369933128357,neutral,0.008198740892112255
+3,2016-10-10 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2016-10-10 06:30:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2016-10-10 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+On Oct 7, 2016, Zacks Investment Research upgraded Amazon.com, Inc. (NASDAQ: AMZN - Free Report ) to a Zacks Rank #1 (Strong Buy).",0.9322069883346558,0.017216553911566734,0.050576407462358475,positive,0.9149904251098633
+6,2016-10-10 06:30:00,"With a return of 56.6% over the past one year and encouraging revenue guidance for the third quarter of fiscal 2016, Amazon emerges as an attractive investment opportunity.",0.9427217841148376,0.015301607549190521,0.041976653039455414,positive,0.9274201989173889
+7,2016-10-10 06:30:00,Amazon's second-quarter earnings per share of $1.78 and revenues of $30.40 billion were ahead of the Zacks Consensus Estimate of $1.14 and $29.73 billion respectively.,0.8682326078414917,0.0575273260474205,0.07424012571573257,positive,0.810705304145813
+8,2016-10-10 06:30:00,The North America and AWS segments were strong contributors while investments in international continued.,0.9323658347129822,0.0164025891572237,0.05123165249824524,positive,0.9159632325172424
+9,2016-10-10 06:30:00,"Buoyed by the better-than-expected results, the company provided an encouraging outlook for the current quarter.",0.9370113611221313,0.019185077399015427,0.04380352050065994,positive,0.9178262948989868
+10,2016-10-10 06:30:00,"For the third quarter of fiscal 2016, management expects revenues in a range of $31 billion to $33.5 billion (up 6.1% sequentially and 27.2% year over year).",0.924009382724762,0.014684395864605904,0.06130620837211609,positive,0.9093250036239624
+11,2016-10-10 06:30:00,Amazon Web Services is the cash cow for Amazon.,0.13632698357105255,0.0071977050974965096,0.8564753532409668,neutral,0.12912927567958832
+12,2016-10-10 06:30:00,"The business generates much higher margins than retail, so it has a very positive impact on Amazon's profitability.",0.9011761546134949,0.019087105989456177,0.07973669469356537,positive,0.8820890188217163
+13,2016-10-10 06:30:00,"The business contributed $2.89 billion in the last quarter, taking the revenue runrate to over $11.5 billion, representing sequential and year-over-year growth of 12.5% and 58.2%, respectively.",0.9497074484825134,0.018007125705480576,0.032285455614328384,positive,0.9317003488540649
+14,2016-10-10 06:30:00,"An important customer win in the last quarter was Salesforce (NYSE: CRM - Free Report ), which selected AWS as its preferred public cloud infrastructure provider to run its core services like Sales Cloud, Service Cloud, App Cloud, Community Cloud, and Analytics Cloud.",0.8656424880027771,0.012491265311837196,0.12186627089977264,positive,0.8531512022018433
+15,2016-10-10 06:30:00,Amazon ended the quarter with 35 available zones across 13 infrastructure regions.,0.16970358788967133,0.007929380051791668,0.8223670721054077,neutral,0.16177420318126678
+16,2016-10-10 06:30:00,"Notably, the Mumbai (India) region was added in the last quarter, the sixth region in the Asia Pacific.",0.6061810851097107,0.01375667005777359,0.3800622224807739,positive,0.5924243927001953
+17,2016-10-10 06:30:00,"We remain optimistic about the functionality, partner ecosystem and experience AWS offers and believe this will lead to continued customer wins.",0.9376367926597595,0.014177915640175343,0.04818534478545189,positive,0.9234588742256165
+18,2016-10-10 06:30:00,One area of potential growth is devices and IoT.,0.1408776193857193,0.005155462771654129,0.8539669513702393,neutral,0.13572216033935547
+19,2016-10-10 06:30:00,Amazon has partnerships with several IoT hardware makers to integrate Alexa (the personal assistant Echo uses).,0.8422442674636841,0.011816824786365032,0.1459389179944992,positive,0.8304274678230286
+20,2016-10-10 06:30:00,The idea seems to be to make Alexa the central point connecting IoT devices used in any household.,0.07371028512716293,0.006775065790861845,0.9195146560668945,neutral,0.0669352188706398
+21,2016-10-10 06:30:00,"With 50% of Americans having Prime memberships (meaning that they are heavy Amazon users), Amazon can leverage this position to drive penetration.",0.8926150798797607,0.013411090709269047,0.0939738005399704,positive,0.8792039752006531
+22,2016-10-10 06:30:00,"It's also an important method of collecting household information, since Alexa is used to listening to commands and storing everything that it hears in the cloud.",0.027418525889515877,0.009899592027068138,0.9626818895339966,neutral,0.01751893386244774
+23,2016-10-10 06:30:00,"Besides Amazon, investors may consider Intel Corporation (NASDAQ: INTC - Free Report ) and Applied Materials, Inc. (NASDAQ: AMAT - Free Report ).",0.039713285863399506,0.005941347684711218,0.9543453454971313,neutral,0.03377193957567215
+24,2016-10-10 06:30:00,All sport a Zacks Rank #1.,0.16245883703231812,0.04183395206928253,0.7957072257995605,neutral,0.12062488496303558
+25,2016-10-10 06:30:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+26,2016-10-10 06:30:00,Intel has seen estimates for the full year rise over the past 30 days by 3.6%.,0.9373132586479187,0.02108870819211006,0.04159807041287422,positive,0.9162245392799377
+27,2016-10-10 06:30:00,"For Applied Materials, estimates rose 13.6% in the last 60 days.",0.9439020156860352,0.0193752720952034,0.0367228128015995,positive,0.9245267510414124
+28,2016-10-10 06:30:00,"Beyond this Analyst Blog, would you like to see Zacks' best recommendations that are not available to the public?",0.01751878671348095,0.013197353109717369,0.9692838788032532,neutral,0.00432143360376358
+29,2016-10-10 06:30:00,"Our Executive VP, Steve Reitmeister, knows when key trades are about to be triggered and which of our experts has the hottest hand.",0.09682597219944,0.007594065275043249,0.8955799341201782,neutral,0.08923190832138062
+30,2016-10-10 06:30:00,"Click to see them now>>
+
+Today, Zacks is promoting its ''Buy'' stock recommendations.",0.45315349102020264,0.012427163310348988,0.5344194173812866,neutral,0.4407263398170471
+31,2016-10-10 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+32,2016-10-10 06:30:00,Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.,0.06386703997850418,0.004654404241591692,0.9314785599708557,neutral,0.059212636202573776
+33,2016-10-10 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+34,2016-10-10 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+35,2016-10-10 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+36,2016-10-10 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+37,2016-10-10 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+38,2016-10-10 06:30:00,"Zacks.com is a property of Zacks Investment Research, Inc., which was formed in 1978.",0.01612137258052826,0.0071211024187505245,0.9767575860023499,neutral,0.009000269696116447
+39,2016-10-10 06:30:00,"The later formation of the Zacks Rank, a proprietary stock picking system; continues to outperform the market by nearly a 3 to 1 margin.",0.9116206169128418,0.04347905144095421,0.0449003241956234,positive,0.8681415915489197
+40,2016-10-10 06:30:00,The best way to unlock the profitable stock recommendations and market insights of Zacks Investment Research is through our free daily email newsletter; Profit from the Pros.,0.07881949096918106,0.006378026679158211,0.9148024916648865,neutral,0.072441466152668
+41,2016-10-10 06:30:00,"In short, it's your steady flow of Profitable ideas GUARANTEED to be worth your time!",0.43368902802467346,0.012674679979681969,0.5536363124847412,neutral,0.42101433873176575
+42,2016-10-10 06:30:00,Register for your free subscription to Profit from the Pros .,0.027246445417404175,0.00914913509041071,0.9636043906211853,neutral,0.01809731125831604
+43,2016-10-10 06:30:00,"Get the full Report on AMZN - FREE
+
+Get the full Report on CRM - FREE
+
+Get the full Report on INTC - FREE
+
+Get the full Report on AMAT - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.01360655203461647,0.00969239417463541,0.9767010807991028,neutral,0.00391415785998106
+44,2016-10-10 06:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+45,2016-10-10 06:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+46,2016-10-10 06:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+47,2016-10-10 06:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+48,2016-10-10 06:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+49,2016-10-10 06:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+50,2016-10-10 06:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+51,2016-10-10 06:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+52,2016-10-10 06:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+53,2016-10-10 06:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+54,2016-10-10 06:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+55,2016-10-10 06:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+56,2016-10-10 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+57,2016-10-10 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+58,2016-10-10 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+59,2016-10-10 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

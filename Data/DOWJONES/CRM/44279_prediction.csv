@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-11 13:00:00,Domo (NASDAQ: DOMO) has taken investors on a roller-coaster ride since its IPO last June.,0.7453894019126892,0.042754970490932465,0.2118556797504425,positive,0.7026344537734985
+1,2019-06-11 13:00:00,"The cloud analytics software provider went public at $21 per share, and its stock has bounced between the low teens and mid-$40s as the bulls and bears have battled it out.",0.22804391384124756,0.4279080331325531,0.34404805302619934,negative,-0.19986411929130554
+2,2019-06-11 13:00:00,Domo remains a battleground stock today.,0.4580076038837433,0.09351872652769089,0.44847366213798523,positive,0.3644888699054718
+3,2019-06-11 13:00:00,"The bulls argue that its platform is disruptive, its revenue growth is robust, its margins are improving, and its stock is cheap relative to its peers.",0.9057834148406982,0.030247854068875313,0.063968725502491,positive,0.8755355477333069
+4,2019-06-11 13:00:00,"The bears argue that its revenue growth is decelerating, it's vulnerable to bigger competitors, and it remains deeply unprofitable.",0.02596532553434372,0.89410001039505,0.0799347385764122,negative,-0.8681346774101257
+5,2019-06-11 13:00:00,Let's examine both arguments to see where this stock is headed.,0.04561267048120499,0.011699912138283253,0.942687451839447,neutral,0.03391275927424431
+6,2019-06-11 13:00:00,"What the bulls say
+
+Domo's cloud-based OS lets executives manage their companies with the help of phone-based analytics and data management tools.",0.04869998246431351,0.009053864516317844,0.94224613904953,neutral,0.03964611887931824
+7,2019-06-11 13:00:00,Employees can also access the analytics data to make business decisions.,0.03539881855249405,0.00667378306388855,0.9579274654388428,neutral,0.0287250354886055
+8,2019-06-11 13:00:00,"Domo's expanding ecosystem includes an app store, an AI platform that crunches data and answers questions, a collaboration suite for employees, a data warehouse, and media tools for marketing campaigns.",0.29507386684417725,0.007339974399656057,0.697586178779602,neutral,0.28773388266563416
+9,2019-06-11 13:00:00,"It serves more than 1,500 organizations worldwide, including Uber, eBay, and GlaxoSmithKline.",0.04126117378473282,0.005464575253427029,0.9532743096351624,neutral,0.035796597599983215
+10,2019-06-11 13:00:00,"Domo's number of large enterprise customers, which generate more than $1 billion in annual sales, grew 19% annually to 458 customers last quarter.",0.9493913054466248,0.01826472021639347,0.03234393522143364,positive,0.931126594543457
+11,2019-06-11 13:00:00,Revenue from those customers rose 33% and accounted for about half of Domo's sales.,0.9268166422843933,0.01423642411828041,0.0589468739926815,positive,0.9125801920890808
+12,2019-06-11 13:00:00,"That consistent growth has supported Domo's billings and revenue growth in the four quarters since its IPO:
+
+Domo is also generating more of its revenues from subscriptions, which lock in customers, and the gross margin of those subscriptions is gradually expanding:
+
+Domo also reduced its operating expenses (4% annually on a GAAP basis and 15% on a non-GAAP basis) during the quarter to expand its operating margins.",0.037393100559711456,0.946502149105072,0.01610465906560421,negative,-0.9091090559959412
+13,2019-06-11 13:00:00,"As a result, its GAAP operating loss narrowed from $43 million to $33 million, and its non-GAAP operating loss narrowed from $44 million to $27 million.",0.1917327493429184,0.7734309434890747,0.034836284816265106,negative,-0.5816981792449951
+14,2019-06-11 13:00:00,"Domo expects its revenue to rise 21% to 22% this year, and the stock looks cheap at just five times that forecast.",0.9290657639503479,0.018599478527903557,0.052334800362586975,positive,0.9104663133621216
+15,2019-06-11 13:00:00,"By comparison, Salesforce (NYSE: CRM) recently agreed to buy Domo's larger rival Tableau (NYSE: DATA) at roughly 11 times this year's sales.",0.8804268836975098,0.013181752525269985,0.10639137029647827,positive,0.8672451376914978
+16,2019-06-11 13:00:00,Tableau's revenue is expected to rise 39% this year and 19% next year.,0.9468191266059875,0.015482177957892418,0.03769863024353981,positive,0.9313369393348694
+17,2019-06-11 13:00:00,"What the bears say
+
+Domo's past growth looks solid, but its future growth is less certain.",0.11306843906641006,0.04211860150098801,0.8448129296302795,neutral,0.07094983756542206
+18,2019-06-11 13:00:00,Salesforce's integration of Tableau's analytics tools into its market-leading CRM (customer relationship management) platform and marketing tools could lure customers away from Domo.,0.7886790633201599,0.142609104514122,0.06871184706687927,positive,0.6460699439048767
+19,2019-06-11 13:00:00,"Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google also recently acquired Looker, a similar business analytics platform that it plans to integrate into Google Cloud.",0.3265787363052368,0.007161076180636883,0.6662601828575134,neutral,0.31941765546798706
+20,2019-06-11 13:00:00,"Domo, which doesn't expect to achieve profitability anytime soon, could struggle to compete against these bigger rivals while keeping its costs under control.",0.33263057470321655,0.5322092175483704,0.13516026735305786,negative,-0.1995786428451538
+21,2019-06-11 13:00:00,Domo is also burning a lot of cash.,0.11430642753839493,0.025399379432201385,0.8602941632270813,neutral,0.08890704810619354
+22,2019-06-11 13:00:00,Its cash and equivalents fell 49% sequentially to $91 million during the quarter.,0.016701629385352135,0.9744580984115601,0.008840286172926426,negative,-0.9577564597129822
+23,2019-06-11 13:00:00,"Its stock-based compensation expenses also rose 262% annually and accounted for nearly 19% of its sales, compared to less than 7% a year earlier.",0.9454728960990906,0.021769799292087555,0.03275733441114426,positive,0.9237030744552612
+24,2019-06-11 13:00:00,"Domo insists that it can eventually generate positive cash flow without any secondary offerings, but that could be a tough promise to keep.",0.2855898439884186,0.5639484524726868,0.15046164393424988,negative,-0.2783586084842682
+25,2019-06-11 13:00:00,"Its main strategy is to cut operating expenses as it locks more customers into subscriptions, but cutting costs could leave it too exposed to Salesforce, Google, and other competitors.",0.09341362863779068,0.831027626991272,0.07555881887674332,negative,-0.7376139760017395
+26,2019-06-11 13:00:00,"Domo is still a promising cloud stock that trades at a reasonable valuation, but the stakes have risen significantly since I praised the stock in March.",0.8710575103759766,0.015095502138137817,0.11384700238704681,positive,0.8559620380401611
+27,2019-06-11 13:00:00,"Salesforce's and Google's acquisitions are changing the competitive landscape, and the fact that neither company bought Domo (despite having a much lower market value than Tableau and Looker) raises questions about its long-term potential.",0.09241525828838348,0.7481358051300049,0.15944893658161163,negative,-0.6557205319404602
+28,2019-06-11 13:00:00,"I think Domo is still a decent speculative play, but I'm not as bullish on the stock as I was before.",0.141868457198143,0.1279607117176056,0.7301707863807678,neutral,0.013907745480537415
+29,2019-06-11 13:00:00,"10 stocks we like better than Domo, Inc.",0.2192775309085846,0.021046534180641174,0.7596759796142578,neutral,0.19823099672794342
+30,2019-06-11 13:00:00,"When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12617750465869904,0.07430703938007355,0.799515426158905,neutral,0.05187046527862549
+31,2019-06-11 13:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+32,2019-06-11 13:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Domo, Inc. wasn't one of them!",0.19019688665866852,0.015859371051192284,0.7939437627792358,neutral,0.17433752119541168
+33,2019-06-11 13:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2019-06-11 13:00:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+35,2019-06-11 13:00:00,Leo Sun owns shares of GlaxoSmithKline.,0.01239218283444643,0.009491105563938618,0.9781167507171631,neutral,0.0029010772705078125
+36,2019-06-11 13:00:00,"The Motley Fool recommends Alphabet (A shares), Alphabet (C shares), eBay, Salesforce.com, Tableau Software, and Uber Technologies.",0.026099160313606262,0.007895098067820072,0.9660056829452515,neutral,0.018204063177108765
+37,2019-06-11 13:00:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

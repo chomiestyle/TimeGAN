@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-08-30 04:40:00,"The NASDAQ 100 Pre-Market Indicator is up 2.95 to 3,096.31.",0.9146913886070251,0.03154752776026726,0.05376118794083595,positive,0.8831438422203064
+1,2013-08-30 04:40:00,"The total Pre-Market volume is currently 4,640,434 shares traded.",0.016102662310004234,0.007981101982295513,0.9759162068367004,neutral,0.008121560327708721
+2,2013-08-30 04:40:00,"The following are the most active stocks for the pre-market session :
+
+Vodafone Group Plc ( VOD ) is +0.4 at $32.20, with 2,024,022 shares traded.VOD is scheduled to provide an earnings report on 9/3/2013, for the fiscal quarter ending Jun2013.",0.02661091461777687,0.019549112766981125,0.9538400173187256,neutral,0.007061801850795746
+3,2013-08-30 04:40:00,"The consensus earnings per share forecast is 999 per share, which represents a 99,900 percent increase over the EPS one Year Ago
+
+Facebook, Inc. ( FB ) is +0.36 at $41.64, with 606,109 shares traded.",0.9420031905174255,0.025038084015250206,0.03295879438519478,positive,0.916965126991272
+4,2013-08-30 04:40:00,"As reported by Zacks, the current mean recommendation for FB is in the ""buy range"".",0.06074914708733559,0.014071655459702015,0.9251791834831238,neutral,0.046677492558956146
+5,2013-08-30 04:40:00,"Salesforce.com Inc ( CRM ) is +3.69 at $47.34, with 504,768 shares traded.",0.043673619627952576,0.04493862763047218,0.9113877415657043,neutral,-0.0012650080025196075
+6,2013-08-30 04:40:00,As reported in the last short interest update the days to cover for CRM is 16.02503; this calculation is based on the average trading volume of the stock.,0.010937785729765892,0.016655592247843742,0.9724066853523254,neutral,-0.00571780651807785
+7,2013-08-30 04:40:00,"Bank of America Corporation ( BAC ) is +0.04 at $14.21, with 499,558 shares traded.",0.03296429291367531,0.025508154183626175,0.9415276050567627,neutral,0.007456138730049133
+8,2013-08-30 04:40:00,BAC's current last sale is 99.72% of the target price of $14.25.,0.02365715056657791,0.007285756058990955,0.9690570831298828,neutral,0.01637139543890953
+9,2013-08-30 04:40:00,"Nokia Corporation ( NOK ) is -0.1 at $3.90, with 409,947 shares traded.",0.04528769850730896,0.6875925064086914,0.26711973547935486,negative,-0.6423047780990601
+10,2013-08-30 04:40:00,As reported in the last short interest update the days to cover for NOK is 14.375424; this calculation is based on the average trading volume of the stock.,0.012114330194890499,0.017625724896788597,0.9702599048614502,neutral,-0.005511394701898098
+11,2013-08-30 04:40:00,"Sirius XM Radio Inc. ( SIRI ) is -0.01 at $3.62, with 326,663 shares traded.",0.058927860110998154,0.3526614010334015,0.5884107351303101,neutral,-0.29373353719711304
+12,2013-08-30 04:40:00,As reported in the last short interest update the days to cover for SIRI is 9.63933; this calculation is based on the average trading volume of the stock.,0.011538886465132236,0.01637742482125759,0.9720836877822876,neutral,-0.004838538356125355
+13,2013-08-30 04:40:00,"General Electric Company ( GE ) is +0.37 at $23.48, with 256,544 shares traded.",0.02922174707055092,0.06553969532251358,0.9052385091781616,neutral,-0.03631794825196266
+14,2013-08-30 04:40:00,"As reported by Zacks, the current mean recommendation for GE is in the ""buy range"".",0.05216151103377342,0.013024672865867615,0.9348138570785522,neutral,0.03913683816790581
+15,2013-08-30 04:40:00,"OmniVision Technologies, Inc. ( OVTI ) is -2.41 at $16.00, with 249,107 shares traded.",0.02446454018354416,0.04229806363582611,0.9332374334335327,neutral,-0.017833523452281952
+16,2013-08-30 04:40:00,As reported in the last short interest update the days to cover for OVTI is 7.196064; this calculation is based on the average trading volume of the stock.,0.011107728816568851,0.016484975814819336,0.972407341003418,neutral,-0.0053772469982504845
+17,2013-08-30 04:40:00,"Renesola Ltd. ( SOL ) is +0.55 at $4.95, with 243,037 shares traded.",0.034020595252513885,0.08016401529312134,0.8858153820037842,neutral,-0.04614342004060745
+18,2013-08-30 04:40:00,"RTT News Reports: ReneSola Ltd. Q2 13 Earnings Conference Call At 8:00 AM ET
+
+PowerShares QQQ Trust, Series 1 ( QQQ ) is -0.01 at $75.95, with 218,965 shares traded.",0.10521666705608368,0.24133768677711487,0.6534456610679626,neutral,-0.1361210197210312
+19,2013-08-30 04:40:00,This represents a 23.88% increase from its 52 Week Low.,0.9507962465286255,0.025896476581692696,0.023307375609874725,positive,0.9248997569084167
+20,2013-08-30 04:40:00,"Apache Corporation ( APA ) is +5.66 at $84.30, with 217,984 shares traded.",0.026003828272223473,0.013203940354287624,0.9607922434806824,neutral,0.012799887917935848
+21,2013-08-30 04:40:00,"Over the last four weeks they have had 4 up revisions for the earnings forecast, for the fiscal quarter ending Sep 2013.",0.07078701257705688,0.09644235670566559,0.832770586013794,neutral,-0.025655344128608704
+22,2013-08-30 04:40:00,The consensus EPS forecast is $2.03.,0.039918605238199234,0.022454215213656425,0.9376271367073059,neutral,0.01746439002454281
+23,2013-08-30 04:40:00,APA's current last sale is 84.3% of the target price of $100.,0.021619778126478195,0.0074570057913661,0.9709232449531555,neutral,0.014162772335112095
+24,2013-08-30 04:40:00,"Intel Corporation ( INTC ) is +0.13 at $22.19, with 84,065 shares traded.",0.0327705442905426,0.03406961262226105,0.9331598877906799,neutral,-0.0012990683317184448
+25,2013-08-30 04:40:00,As reported in the last short interest update the days to cover for INTC is 8.492274; this calculation is based on the average trading volume of the stock.,0.011487065814435482,0.016781551763415337,0.9717313647270203,neutral,-0.005294485948979855
+26,2013-08-30 04:40:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

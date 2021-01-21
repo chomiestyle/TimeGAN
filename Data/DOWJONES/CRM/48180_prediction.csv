@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-10 03:54:00,It seems that Microsoft Corporation (NASDAQ: MSFT ) has somehow regained its youth.,0.6694030165672302,0.01906832866370678,0.31152865290641785,positive,0.6503347158432007
+1,2017-11-10 03:54:00,"It's as if the company has returned back to the roaring 1980s and 1990s, and MSFT stock prices continue to show it.",0.4611353874206543,0.014231369830667973,0.5246332287788391,neutral,0.4469040036201477
+2,2017-11-10 03:54:00,Consider that MSFT stock is up 36% for the year so far.,0.9521966576576233,0.017863206565380096,0.029940174892544746,positive,0.9343334436416626
+3,2017-11-10 03:54:00,"In fact, the return is about 133% since 2013.",0.3151222765445709,0.019999118521809578,0.6648786067962646,neutral,0.2951231598854065
+4,2017-11-10 03:54:00,"While this is certainly great, might the valuation be getting a bit bubbly?",0.12030180543661118,0.04610977694392204,0.8335884213447571,neutral,0.07419203221797943
+5,2017-11-10 03:54:00,"Well, the price-to-earnings multiple is at 31X.",0.026987239718437195,0.010653488337993622,0.9623593091964722,neutral,0.016333751380443573
+6,2017-11-10 03:54:00,"By comparison, Oracle Corporation (NYSE: ORCL ) trades at 21X and International Business Machines Corp. (NYSE: IBM ) is at a mere 12X.",0.016989130526781082,0.05788512900471687,0.9251257181167603,neutral,-0.04089599847793579
+7,2017-11-10 03:54:00,"What's more, MSFT does have some risk factors.",0.036875706166028976,0.006701483391225338,0.9564228653907776,neutral,0.030174221843481064
+8,2017-11-10 03:54:00,"Perhaps the most glaring is that the company still has heavy reliance on the PC market, which is in a secular decline.",0.03180987387895584,0.8287303447723389,0.13945984840393066,negative,-0.7969204783439636
+9,2017-11-10 03:54:00,"MSFT must also have to deal with significant competition, especially in red-hot categories like cloud computing and Artificial Intelligence (AI).",0.2162623405456543,0.05229727551341057,0.7314404249191284,neutral,0.16396506130695343
+10,2017-11-10 03:54:00,So what to do?,0.08125544339418411,0.06635468453168869,0.8523898720741272,neutral,0.014900758862495422
+11,2017-11-10 03:54:00,"Actually, even with the issues, the bull case still looks intact.",0.5181471109390259,0.03300630673766136,0.4488465189933777,positive,0.4851408004760742
+12,2017-11-10 03:54:00,"To see why, let's take a look at three key factors:
+
+Not long ago, there were worries that MSFT was poised for disruption.",0.030647991225123405,0.8428234457969666,0.12652860581874847,negative,-0.812175452709198
+13,2017-11-10 03:54:00,"The company's franchises, like Office, were based on legacy approaches.",0.06506357342004776,0.00459007453173399,0.9303464293479919,neutral,0.060473497956991196
+14,2017-11-10 03:54:00,"But companies like salesforce.com, inc. (NYSE: CRM ) were trailblazing cloud-based strategies.",0.13755999505519867,0.01697896607220173,0.8454610705375671,neutral,0.12058103084564209
+15,2017-11-10 03:54:00,"These offered much lower costs, better user experiences and improved access to real-time data.",0.8361415266990662,0.013815945945680141,0.1500425487756729,positive,0.822325587272644
+16,2017-11-10 03:54:00,"The good news is that when CEO Satya Nadella came on board in 2014, he wasted little time in transforming MSFT.",0.06716449558734894,0.034965481609106064,0.8978700041770935,neutral,0.032199013978242874
+17,2017-11-10 03:54:00,"He retooled the product line for the cloud, creating new offerings and struck a variety of acquisitions.",0.4329186677932739,0.00860627368092537,0.5584750771522522,neutral,0.42431238293647766
+18,2017-11-10 03:54:00,The strategy has proven to be a big-time winner.,0.9103314876556396,0.021044490858912468,0.06862398236989975,positive,0.889286994934082
+19,2017-11-10 03:54:00,"During the latest quarter, the commercial-cloud business, which includes Azure and Office 365, is on pace to hit $20 billion in revenues on an annual basis.",0.936227023601532,0.016276005655527115,0.047497037798166275,positive,0.9199510216712952
+20,2017-11-10 03:54:00,"More important, the market opportunity is enormous.",0.3931983709335327,0.009722583927214146,0.5970790386199951,neutral,0.38347578048706055
+21,2017-11-10 03:54:00,"According to IDC , the cloud software category is forecasted to grow from $78.4 billion in 2016 to a staggering $151.6 billion by 2020.",0.8698452711105347,0.01295226626098156,0.11720246821641922,positive,0.856893002986908
+22,2017-11-10 03:54:00,This comes to roughly an 18% compound annual growth rate.,0.45069098472595215,0.013615659438073635,0.5356934070587158,neutral,0.43707531690597534
+23,2017-11-10 03:54:00,"Granted, there is quite a bit of hype with AI.",0.2216442972421646,0.011783324182033539,0.7665724158287048,neutral,0.20986098051071167
+24,2017-11-10 03:54:00,"But as seen with companies like NVIDIA Corporation (NASDAQ: NVDA ), there are clear market opportunities.",0.4774610996246338,0.011287566274404526,0.5112513303756714,neutral,0.46617352962493896
+25,2017-11-10 03:54:00,AI is no longer in the realm of science fiction.,0.02374841831624508,0.023824263364076614,0.9524272680282593,neutral,-7.584504783153534e-05
+26,2017-11-10 03:54:00,But MSFT also should be top on the list for leaders in the market.,0.5763950347900391,0.016449224203824997,0.40715569257736206,positive,0.559945821762085
+27,2017-11-10 03:54:00,"After all, the company has one of the leading virtual assistants, Cortana.",0.37143510580062866,0.010110822506248951,0.6184540390968323,neutral,0.361324280500412
+28,2017-11-10 03:54:00,"What's more, MSFT has been creating its own chipsets, which are likely to be a part of many types of devices like the HoloLens platform (this allows for Augmented Reality experiences).",0.09499558806419373,0.0050887749530375,0.8999156951904297,neutral,0.08990681171417236
+29,2017-11-10 03:54:00,"Then there is the BrainWave framework, which is based on field-programmable gate arrays (FPGAs).",0.029835563153028488,0.006440651603043079,0.9637237191200256,neutral,0.023394912481307983
+30,2017-11-10 03:54:00,"According to InvestorPlace.com's James Brumley : ""[BrainWave] speeds up processing of artificial intelligence algorithms by a factor of 50, or in some cases by 100.",0.40494152903556824,0.013949335552752018,0.5811091661453247,neutral,0.3909921944141388
+31,2017-11-10 03:54:00,"Such a technology allows for the creation of something that can be legitimately called a neural network.""",0.10821112245321274,0.013930666260421276,0.8778582215309143,neutral,0.09428045898675919
+32,2017-11-10 03:54:00,"Bullish Factor #3 for MSFT Stock: Financials and the Dividend
+
+When it comes to rock-solid balance sheets, MSFT is one of the world's best.",0.7918056845664978,0.014927607029676437,0.19326667487621307,positive,0.7768780589103699
+33,2017-11-10 03:54:00,Note that the company is one of two companies that sports a AAA credit rating in the S&P 500.,0.16920536756515503,0.009518958628177643,0.8212756514549255,neutral,0.15968641638755798
+34,2017-11-10 03:54:00,"Then again, MSFT has a long history of generating substantial free cash flows.",0.7874735593795776,0.012777471914887428,0.19974887371063232,positive,0.7746961116790771
+35,2017-11-10 03:54:00,"In the latest quarter, they came to $8.7 billion, up about 7% on a year-over-year basis.",0.9377024173736572,0.01583869755268097,0.04645887389779091,positive,0.9218637347221375
+36,2017-11-10 03:54:00,"As a result, MSFT has more than enough resources to invest in R&D and engage in aggressive dealmaking.",0.8883522152900696,0.012091178447008133,0.09955650568008423,positive,0.8762610554695129
+37,2017-11-10 03:54:00,"Oh, and yes, there is plenty of cash for dividends.",0.2823600769042969,0.011895820498466492,0.7057440876960754,neutral,0.2704642415046692
+38,2017-11-10 03:54:00,"Currently the yield is at 2% on the MSFT stock price, which is fairly attractive for mega tech operators.",0.36517149209976196,0.012265706434845924,0.622562825679779,neutral,0.3529057800769806
+39,2017-11-10 03:54:00,"Tom Taulli is the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04080922156572342,0.006492978427559137,0.9526978135108948,neutral,0.03431624174118042
+40,2017-11-10 03:54:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+41,2017-11-10 03:54:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+42,2017-11-10 03:54:00,"• General Electric Company Is Dangerous Ahead of its Investor Update
+• The 10 Best Dividend ETFs for Yield-Hungry Investors
+
+The post 3 Reasons Microsoft Corporation Still Has More Upside appeared first on InvestorPlace .",0.32436060905456543,0.13107654452323914,0.544562816619873,neutral,0.1932840645313263
+43,2017-11-10 03:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

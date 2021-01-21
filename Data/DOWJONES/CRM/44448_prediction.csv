@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-05-28 11:24:00,Veeva Systems (NYSE: VEEV) is a textbook example of software-as-a-service (SaaS) success.,0.6936570405960083,0.012568484991788864,0.29377442598342896,positive,0.6810885667800903
+1,2019-05-28 11:24:00,"When Peter Gassner was an executive at Salesforce, he realized drug companies had very specific cloud-computing needs that weren't being met.",0.03556033968925476,0.1849137544631958,0.7795259356498718,neutral,-0.14935341477394104
+2,2019-05-28 11:24:00,"Galvanized by this knowledge, he founded Veeva in 2007 to provide tools to address those needs.",0.6579811573028564,0.010813300497829914,0.3312056064605713,positive,0.6471678614616394
+3,2019-05-28 11:24:00,"The rest, as they say, is history: Veeva stock is up more than 550% over the past five years and it has made billions of dollars for investors.",0.9000255465507507,0.015986572951078415,0.08398788422346115,positive,0.8840389847755432
+4,2019-05-28 11:24:00,"If you're wondering where the company -- and its stock -- might be in May 2022, there are three themes to keep an eye on.",0.014165154658257961,0.013520332984626293,0.9723144769668579,neutral,0.0006448216736316681
+5,2019-05-28 11:24:00,Veeva got its start by offering customer relationship management (CRM) tools.,0.1751694530248642,0.005637898109853268,0.81919264793396,neutral,0.16953155398368835
+6,2019-05-28 11:24:00,The sales force of a drug company could use Veeva CRM to track client accounts and spending.,0.01468740776181221,0.015735140070319176,0.9695774912834167,neutral,-0.0010477323085069656
+7,2019-05-28 11:24:00,"In 2014, the company came out with Veeva Vault, which provides a dizzying number of tools drug companies can buy.",0.33551689982414246,0.010934319347143173,0.6535487771034241,neutral,0.324582576751709
+8,2019-05-28 11:24:00,Suffice it to say that these services help companies bring a drug from the idea stage through clinical trials and all the way to market.,0.3552455008029938,0.00765695795416832,0.6370975375175476,neutral,0.34758853912353516
+9,2019-05-28 11:24:00,"As you can see, Vault has been a huge success.",0.8633416891098022,0.012106848880648613,0.12455150485038757,positive,0.8512348532676697
+10,2019-05-28 11:24:00,"But about a year ago, management began detailing an entirely new line of business, a next-generation data warehouse that gives customers access to artificial intelligence (AI) and machine learning (ML).",0.1531454473733902,0.005642403848469257,0.8412121534347534,neutral,0.1475030481815338
+11,2019-05-28 11:24:00,"Drug companies can store and analyze their prescription, sales, and claims data all in one place.",0.020373089239001274,0.008265884593129158,0.9713610410690308,neutral,0.012107204645872116
+12,2019-05-28 11:24:00,"The service is called ""Veeva Nitro.""",0.02448255382478237,0.006617795675992966,0.9688996076583862,neutral,0.017864758148789406
+13,2019-05-28 11:24:00,It will likely take Nitro longer than Vault to catch on with drug companies.,0.08196666836738586,0.07510128617286682,0.8429319858551025,neutral,0.006865382194519043
+14,2019-05-28 11:24:00,"That's because many of the bigger industry players already have data warehouses installed, and Veeva will be able to capture them only when they want to upgrade.",0.06999422609806061,0.006927069276571274,0.923078715801239,neutral,0.06306715309619904
+15,2019-05-28 11:24:00,"That said, CFO Tim Cabral has said that Nitro ""will be a material revenue contributor in a few years from now.""",0.77961665391922,0.012127927504479885,0.20825549960136414,positive,0.7674887180328369
+16,2019-05-28 11:24:00,"Investors should continue to listen in on conference calls, as progress in Nitro could lead to even bigger gains in the future for Veeva stock.",0.907318651676178,0.016044674441218376,0.07663670182228088,positive,0.8912739753723145
+17,2019-05-28 11:24:00,Veeva's solutions have won rave reviews.,0.9194290041923523,0.016947979107499123,0.06362298130989075,positive,0.9024810194969177
+18,2019-05-28 11:24:00,That success created an interesting opportunity: Companies outside of life sciences (another word for pharmaceuticals) began asking Veeva if it had a solution for their industries.,0.6938526630401611,0.014273694716393948,0.29187360405921936,positive,0.679578959941864
+19,2019-05-28 11:24:00,"Specifically, these requests were coming from heavily regulated industries like chemicals, consumer packaged goods, and cosmetics.",0.040100034326314926,0.013481789268553257,0.9464182257652283,neutral,0.026618245989084244
+20,2019-05-28 11:24:00,"In response, Veeva released QualityOne -- a hybrid product that lets companies track documents, monitor training, and do many other things from a single cloud interface.",0.19493761658668518,0.009042207151651382,0.7960202097892761,neutral,0.1858954131603241
+21,2019-05-28 11:24:00,"Management has kept results largely to itself, offering up only that there are several early adopters.",0.03281804174184799,0.008161346428096294,0.9590206146240234,neutral,0.024656694382429123
+22,2019-05-28 11:24:00,It revealed that the total number of QualityOne customers doubled in 2018 -- though we aren't entirely sure of the base it doubled from.,0.8619445562362671,0.015626177191734314,0.12242930382490158,positive,0.8463183641433716
+23,2019-05-28 11:24:00,"My guess is that by 2022, if QualityOne is anywhere near as successful as CRM and Vault were for Veeva, it will be moving the needle meaningfully.",0.7390424609184265,0.012294495478272438,0.248663067817688,positive,0.726747989654541
+24,2019-05-28 11:24:00,"Results will likely be broken out for the segment, and I wouldn't be surprised if such offerings were being marketed toward even more regulated industries.",0.3002799451351166,0.011182564310729504,0.6885374784469604,neutral,0.2890973687171936
+25,2019-05-28 11:24:00,But perhaps the biggest driver of Veeva's results over the next three years will be...something that neither you nor I could foretell.,0.043044306337833405,0.01650988683104515,0.9404457807540894,neutral,0.026534419506788254
+26,2019-05-28 11:24:00,"A lot can happen in three years, and to think that we can predict what those things are with any semblance of precision is unwise.",0.03279803320765495,0.07722647488117218,0.8899754881858826,neutral,-0.04442844167351723
+27,2019-05-28 11:24:00,Several factors could hurt Veeva.,0.0294696856290102,0.6176310181617737,0.3528991937637329,negative,-0.5881613492965698
+28,2019-05-28 11:24:00,The stock market -- and the economy -- could tank.,0.0977930948138237,0.6141618490219116,0.2880450487136841,negative,-0.5163687467575073
+29,2019-05-28 11:24:00,"Veeva's cloud could be compromised, resulting in data going missing.",0.0220952145755291,0.9580531716346741,0.019851719960570335,negative,-0.9359579682350159
+30,2019-05-28 11:24:00,Competition could heat up meaningfully.,0.26531973481178284,0.033384621143341064,0.7012956142425537,neutral,0.23193511366844177
+31,2019-05-28 11:24:00,"On the other hand, we might be pleasantly surprised.",0.09779181331396103,0.018339799717068672,0.8838683366775513,neutral,0.0794520154595375
+32,2019-05-28 11:24:00,There could be an as-yet-unknown tool that booms in popularity.,0.11041898280382156,0.018144888803362846,0.8714361190795898,neutral,0.09227409213781357
+33,2019-05-28 11:24:00,The company could get bought out.,0.025223588570952415,0.09092803299427032,0.8838483095169067,neutral,-0.06570444256067276
+34,2019-05-28 11:24:00,Nobody knows.,0.05708089843392372,0.06146747246384621,0.8814516663551331,neutral,-0.004386574029922485
+35,2019-05-28 11:24:00,"This might seem like a cop-out, but I think it's an important realization.",0.43386754393577576,0.02206549607217312,0.5440670251846313,neutral,0.4118020534515381
+36,2019-05-28 11:24:00,"As a Veeva shareholder myself, I need to embrace the fact that the future is unknown.",0.13699741661548615,0.007526103872805834,0.855476438999176,neutral,0.1294713169336319
+37,2019-05-28 11:24:00,I'm comforted by the facts that Veeva has a net cash position of over $1 billion and that it created free cash flows of $300 million last year.,0.7195340394973755,0.011828857474029064,0.26863712072372437,positive,0.7077051997184753
+38,2019-05-28 11:24:00,That should give it a nice cushion should times get tough.,0.7207726240158081,0.017104843631386757,0.2621225118637085,positive,0.7036677598953247
+39,2019-05-28 11:24:00,"In the end, I'm willing to accept that uncertainty.",0.3718924820423126,0.016207313165068626,0.6119001507759094,neutral,0.35568517446517944
+40,2019-05-28 11:24:00,"Over the next three years, my eyes will be trained on Nitro, QualityOne, and the host of variables I don't yet know about.",0.03130774572491646,0.010598767548799515,0.958093523979187,neutral,0.020708978176116943
+41,2019-05-28 11:24:00,"Yours should be, too.",0.21024994552135468,0.01444206666201353,0.7753080129623413,neutral,0.19580787420272827
+42,2019-05-28 11:24:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+43,2019-05-28 11:24:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+44,2019-05-28 11:24:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.20886248350143433,0.015013301745057106,0.7761241793632507,neutral,0.19384917616844177
+45,2019-05-28 11:24:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+46,2019-05-28 11:24:00,Brian Stoffel owns shares of Veeva Systems.,0.016026807948946953,0.010143947787582874,0.9738292694091797,neutral,0.0058828601613640785
+47,2019-05-28 11:24:00,The Motley Fool owns shares of and recommends Salesforce.com and Veeva Systems.,0.03005971759557724,0.018141884356737137,0.9517984390258789,neutral,0.011917833238840103
+48,2019-05-28 11:24:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

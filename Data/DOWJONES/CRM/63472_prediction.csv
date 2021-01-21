@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-22 23:55:00,"Toward the end of trading Friday, the Dow traded down 0.56 percent to 18,288.88 while the NASDAQ declined 0.50 percent to 5,312.90.",0.021052949130535126,0.9628530740737915,0.016094058752059937,negative,-0.9418001174926758
+1,2016-09-22 23:55:00,"The S&P also fell, dropping 0.46 percent to 2,167.22.",0.018076471984386444,0.9721668362617493,0.009756655432283878,negative,-0.9540903568267822
+2,2016-09-22 23:55:00,"In trading on Friday, energy shares tumbled by 1.5 percent.",0.01792745105922222,0.9711475968360901,0.01092491578310728,negative,-0.9532201290130615
+3,2016-09-22 23:55:00,"Meanwhile, top losers in the sector included Tidewater Inc. (NYSE: TDW ), down 8 percent, and Hornbeck Offshore Services, Inc. (NYSE: HOS ), down 8 percent.",0.01899476908147335,0.9570088982582092,0.023996271193027496,negative,-0.9380141496658325
+4,2016-09-22 23:55:00,"Finish Line Inc (NASDAQ: FINL ) reported in-line earnings for its second quarter, while sales exceeded expectations.",0.9228103160858154,0.03904782608151436,0.03814185783267021,positive,0.8837624788284302
+5,2016-09-22 23:55:00,The company also reiterated its full year EPS outlook that is in line with predictions.,0.8339568972587585,0.01671440713107586,0.14932869374752045,positive,0.8172425031661987
+6,2016-09-22 23:55:00,"The company reported net income of $22.075 million, or $0.53 a share, down from $25.86 million, or $0.57 a share, in the year-ago quarter.",0.016047248616814613,0.9734104871749878,0.010542349889874458,negative,-0.9573632478713989
+7,2016-09-22 23:55:00,Street expected $0.57 a share.,0.030834371224045753,0.036099545657634735,0.9330661296844482,neutral,-0.005265174433588982
+8,2016-09-22 23:55:00,Finnish Line delivered 5.4 percent growth in revenue from $483.15 million to $509.4 million and topped analysts' predictions of $495.04 million.,0.9565635323524475,0.020088551566004753,0.023347897455096245,positive,0.9364749789237976
+9,2016-09-22 23:55:00,The company's comparable store sales witnessed 5.1 percent uptick.,0.944392740726471,0.024198710918426514,0.03140859305858612,positive,0.9201940298080444
+10,2016-09-22 23:55:00,AC Immune Ltd (NASDAQ: ACIU ) shares shot up 46 percent to $16.01.,0.9356419444084167,0.021044135093688965,0.04331394284963608,positive,0.9145978093147278
+11,2016-09-22 23:55:00,AC IMMUNE priced its IPO at $11 per share.,0.06519043445587158,0.0067565469071269035,0.9280530214309692,neutral,0.058433886617422104
+12,2016-09-22 23:55:00,"Shares of Imperva Inc (NYSE: IMPV ) got a boost, shooting up 21 percent to $52.67 helped by rumors about International Business Machines Corp. (NYSE: IBM ) and Cisco Systems, Inc. (NASDAQ: CSCO ) might be interested in acquiring the company.",0.9223548769950867,0.02987506240606308,0.04777010530233383,positive,0.8924798369407654
+13,2016-09-22 23:55:00,"Twitter Inc (NYSE: TWTR ) shares were also up, gaining 20 percent to $22.38 following a CNBC report the company is in discussions to sell itself to salesforce.com, inc. (NYSE: CRM ), Alphabet Inc (NASDAQ: GOOG ), among other unnamed technology companies.",0.8018175363540649,0.04631705582141876,0.15186536312103271,positive,0.7555004954338074
+14,2016-09-22 23:55:00,"Enphase Energy Inc (NASDAQ: ENPH ) shares dropped 28 percent to $1.20 after disclosing restructuring and cost reduction initiatives, which are expected to result in annualized savings of approximately $20 million.",0.017928238958120346,0.9694953560829163,0.012576359324157238,negative,-0.9515671133995056
+15,2016-09-22 23:55:00,"The plan includes an 11 percent reduction of the company's global workforce and the elimination of some non-core projects, at a cost of $3 million.",0.037835992872714996,0.8889397382736206,0.07322424650192261,negative,-0.8511037230491638
+16,2016-09-22 23:55:00,"Management said it has plans for a public offering of common stock, although the size is yet to be publicized.",0.058078352361917496,0.006337461527436972,0.9355841875076294,neutral,0.051740892231464386
+17,2016-09-22 23:55:00,Shares of Rave Restaurant Group Inc (NASDAQ: RAVE ) were down 18 percent to $3.16.,0.01733873412013054,0.9514698386192322,0.031191451475024223,negative,-0.9341310858726501
+18,2016-09-22 23:55:00,RAVE Restaurant reported a Q4 loss of $2.3 million on revenue of $15.7 million.,0.014790204353630543,0.937173068523407,0.04803672060370445,negative,-0.9223828911781311
+19,2016-09-22 23:55:00,"Houghton Mifflin Harcourt Co (NASDAQ: HMHC ) was down, falling around 12 percent to $13.15 as the company reported the resignation of its CEO Linda Zecher.",0.016359979286789894,0.9693827629089355,0.014257294125854969,negative,-0.9530227780342102
+20,2016-09-22 23:55:00,The board named L. Gordon Crovitz as interim CEO.,0.019753605127334595,0.086949422955513,0.8932969570159912,neutral,-0.0671958178281784
+21,2016-09-22 23:55:00,"In commodity news, oil traded down 4 percent to $44.48 while gold traded down 0.28 percent to $1,340.90.",0.02207939513027668,0.9611784219741821,0.0167421605437994,negative,-0.9390990138053894
+22,2016-09-22 23:55:00,"Silver traded down 1.86 percent Friday to $19.73, while copper rose 0.32 percent to $2.20.",0.030973071232438087,0.9499056339263916,0.019121313467621803,negative,-0.9189325571060181
+23,2016-09-22 23:55:00,European shares closed lower today.,0.018877284601330757,0.9678373336791992,0.013285470195114613,negative,-0.9489600658416748
+24,2016-09-22 23:55:00,"The eurozone's STOXX 600 dropped 0.72 percent, the Spanish Ibex Index fell 1.25 percent, while Italy's FTSE MIB Index tumbled 1.11 percent.",0.02983575500547886,0.9327144622802734,0.037449803203344345,negative,-0.9028787016868591
+25,2016-09-22 23:55:00,"Meanwhile the German DAX declined 0.4 percent, and the French CAC 40 declined 0.47 percent while U.K. shares fell 0.03 percent.",0.02230948954820633,0.9583377242088318,0.019352788105607033,negative,-0.936028242111206
+26,2016-09-22 23:55:00,"The preliminary reading of the Markit manufacturing PMI declined to 51.40 in September, versus a prior reading of 52.00.",0.01949240267276764,0.9711024165153503,0.009405113756656647,negative,-0.9516100287437439
+27,2016-09-22 23:55:00,Economists were expecting a reading of 51.90.,0.14777930080890656,0.1585177332162857,0.6937029957771301,neutral,-0.01073843240737915
+28,2016-09-22 23:55:00,© 2016 Benzinga.com.,0.024845656007528305,0.012067040428519249,0.9630873203277588,neutral,0.012778615579009056
+29,2016-09-22 23:55:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+30,2016-09-22 23:55:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+31,2016-09-22 23:55:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+32,2016-09-22 23:55:00,Gain access to a streaming platform with all the information you need to invest better today.,0.7333180904388428,0.014288763515651226,0.2523931562900543,positive,0.7190293073654175
+33,2016-09-22 23:55:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296511463820934,0.01562010683119297,0.9740833640098572,neutral,-0.005323595367372036

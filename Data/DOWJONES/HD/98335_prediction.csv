@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-11 23:30:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Wynn Resorts Ltd (Symbol: WYNN), where a total volume of 32,392 contracts has been traded thus far today, a contract volume which is representative of approximately 3.2 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.040522631257772446,0.010942356660962105,0.9485349655151367,neutral,0.02958027459681034
+1,2017-05-11 23:30:00,"That number works out to 131.3% of WYNN's average daily trading volume over the past month, of 2.5 million shares.",0.6992025375366211,0.02218194678425789,0.2786155045032501,positive,0.6770206093788147
+2,2017-05-11 23:30:00,"Especially high volume was seen for the $126 strike call option expiring May 12, 2017 , with 1,933 contracts trading so far today, representing approximately 193,300 underlying shares of WYNN.",0.25808289647102356,0.011438007466495037,0.7304790616035461,neutral,0.24664488434791565
+3,2017-05-11 23:30:00,"Below is a chart showing WYNN's trailing twelve month trading history, with the $126 strike highlighted in orange:
+
+Alphabet Inc (Symbol: GOOG) saw options trading volume of 18,328 contracts, representing approximately 1.8 million underlying shares or approximately 125.8% of GOOG's average daily trading volume over the past month, of 1.5 million shares.",0.020895127207040787,0.013137412257492542,0.9659674167633057,neutral,0.0077577149495482445
+4,2017-05-11 23:30:00,"Particularly high volume was seen for the $932.50 strike call option expiring May 12, 2017 , with 2,325 contracts trading so far today, representing approximately 232,500 underlying shares of GOOG.",0.2258727252483368,0.01004150602966547,0.7640858292579651,neutral,0.2158312201499939
+5,2017-05-11 23:30:00,"Below is a chart showing GOOG's trailing twelve month trading history, with the $932.50 strike highlighted in orange:
+
+And Home Depot Inc (Symbol: HD) saw options trading volume of 34,792 contracts, representing approximately 3.5 million underlying shares or approximately 92.6% of HD's average daily trading volume over the past month, of 3.8 million shares.",0.02023167721927166,0.011799067258834839,0.9679692387580872,neutral,0.008432609960436821
+6,2017-05-11 23:30:00,"Particularly high volume was seen for the $162.50 strike call option expiring May 19, 2017 , with 7,134 contracts trading so far today, representing approximately 713,400 underlying shares of HD.",0.21894456446170807,0.00962947215884924,0.7714259624481201,neutral,0.20931509137153625
+7,2017-05-11 23:30:00,"Below is a chart showing HD's trailing twelve month trading history, with the $162.50 strike highlighted in orange:
+
+For the various different available expirations for WYNN options , GOOG options , or HD options , visit StockOptionsChannel.com.",0.010370489209890366,0.028120677918195724,0.9615088701248169,neutral,-0.01775018870830536
+8,2017-05-11 23:30:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

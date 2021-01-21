@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-31 22:31:00,"Toward the end of trading Wednesday, the Dow traded down 0.01 percent to 17,784.70 while the NASDAQ climbed 0.17 percent to 4,956.31.",0.0226582083851099,0.9605227112770081,0.016819093376398087,negative,-0.9378644824028015
+1,2016-05-31 22:31:00,"The S&P also rose, gaining 0.06 percent to 2,098.28.",0.9375280141830444,0.028508635237812996,0.033963385969400406,positive,0.9090193510055542
+2,2016-05-31 22:31:00,"Wednesday afternoon, the non-cyclical consumer goods & services sector proved to be a source of strength for the market.",0.926717221736908,0.021328549832105637,0.051954250782728195,positive,0.9053886532783508
+3,2016-05-31 22:31:00,"In trading on Wednesday, telecommunications services shares fell by 0.58 percent.",0.018123112618923187,0.9727990627288818,0.009077789261937141,negative,-0.9546759724617004
+4,2016-05-31 22:31:00,"Meanwhile, top losers in the sector included General Communication, Inc. (NASDAQ: GNCMA ), down 5 percent, and IDT Corporation (NYSE: IDT ), down 4 percent.",0.018603188917040825,0.9527173638343811,0.028679419308900833,negative,-0.9341141581535339
+5,2016-05-31 22:31:00,Michael Kors Holdings Ltd (NASDAQ: KORS ) reported better-than-expected Q4 earnings and issued a strong FY earnings forecast.,0.953190803527832,0.02811109833419323,0.018698114901781082,positive,0.9250797033309937
+6,2016-05-31 22:31:00,The company announced a new $1 billion share buyback program.,0.745772659778595,0.01168588362634182,0.24254152178764343,positive,0.7340867519378662
+7,2016-05-31 22:31:00,"Michael Kors also revealed that it completed Michael Kors ( HK ) Limited acquisition, the exclusive licensee of the Company in China and some other jurisdictions in Asia.",0.8636635541915894,0.014201851561665535,0.12213455885648727,positive,0.8494616746902466
+8,2016-05-31 22:31:00,Michael Kors said it earned $0.98 per in the fourth quarter on revenue of $1.2 billion.,0.07317858934402466,0.02734781987965107,0.8994736075401306,neutral,0.04583077132701874
+9,2016-05-31 22:31:00,Wall Street analysts were expecting the company to earn $0.97 per share on revenue of $1.2 billion.,0.7231148481369019,0.03069908916950226,0.2461860328912735,positive,0.6924157738685608
+10,2016-05-31 22:31:00,Michael Kors also provided guidance for its first quarter 2017 and expects total revenue to be in a range of $940 million to $950 million and earnings per share to be $4.47 to $4.55.,0.034528814256191254,0.00842638872563839,0.9570448398590088,neutral,0.026102425530552864
+11,2016-05-31 22:31:00,Wall Street analysts were already estimating the company to see revenue of $1.03 billion in the quarter and earn $4.42 per share.,0.7803582549095154,0.01702645979821682,0.20261530578136444,positive,0.7633317708969116
+12,2016-05-31 22:31:00,"Demandware Inc (NASDAQ: DWRE ) shares shot up 56 percent to $74.80 as salesforce.com, inc. (NYSE: CRM ) announced plans to buy Demandware in a $2.8 billion deal.",0.9243245124816895,0.021967468783259392,0.053708091378211975,positive,0.9023570418357849
+13,2016-05-31 22:31:00,"Shares of Ocean Power Technologies Inc (NASDAQ: OPTT ) got a boost, shooting up 269 percent to $5.64 following announcement of deal with Mitsui.",0.9398055076599121,0.022894013673067093,0.037300437688827515,positive,0.9169114828109741
+14,2016-05-31 22:31:00,The company entered into a definitive agreement for a PB3 PowerBuoy lease agreement with Mitsui Engineering and Shipbuilding.,0.917701244354248,0.014743759296834469,0.06755504757165909,positive,0.9029574990272522
+15,2016-05-31 22:31:00,"Galena Biopharma Inc (NASDAQ: GALE ) shares were also up, gaining 20 percent to $2.17 as the company disclosed that the Food and Drug Administration has designated its NeuVax (nelipepimut-S), combined with recombinant granulocyte macrophage-colony stimulating factor (GM-CSF), as a Fast Track development program..
+
+Ampliphi Biosciences Corp (NASDAQ: APHB ) shares dropped 29 percent to $2.23 as the company reported the pricing of its offering of 2,127,660 shares of common stock and warrants.",0.019391989335417747,0.9672737121582031,0.013334190472960472,negative,-0.9478816986083984
+16,2016-05-31 22:31:00,"Shares of Daktronics, Inc. (NASDAQ: DAKT ) were down 18 percent to $6.54 as the company reported downbeat Q4 results.",0.018320858478546143,0.9677704572677612,0.013908634893596172,negative,-0.9494495987892151
+17,2016-05-31 22:31:00,"CymaBay Therapeutics Inc (NASDAQ: CBAY ) was down, falling around 16 percent to $2.05.",0.016139842569828033,0.9626453518867493,0.021214734762907028,negative,-0.9465054869651794
+18,2016-05-31 22:31:00,H.C. Wainwright downgraded CymaBay Therapeutics from Buy to Neutral and lowered the price target from $6.00 to $2.25.,0.07292521744966507,0.48166245222091675,0.4454123377799988,negative,-0.4087372422218323
+19,2016-05-31 22:31:00,"On Tuesday, CymaBay Therapeutics announced top-line efficacy and safety data from its Phase 2 study of Mbx-805.",0.4237070679664612,0.01158074475824833,0.5647122263908386,neutral,0.4121263325214386
+20,2016-05-31 22:31:00,"In commodity news, oil traded down 0.45 percent to $48.88 while gold traded down 0.23 percent to $1,214.70.",0.023000001907348633,0.9606430530548096,0.016356851905584335,negative,-0.9376430511474609
+21,2016-05-31 22:31:00,"Silver traded down 0.31 percent Wednesday to $15.95, while copper fell 1.15 percent to $2.07.",0.023734716698527336,0.9612955451011658,0.014969748444855213,negative,-0.9375608563423157
+22,2016-05-31 22:31:00,European shares closed lower today.,0.018877284601330757,0.9678373336791992,0.013285470195114613,negative,-0.9489600658416748
+23,2016-05-31 22:31:00,"The eurozone's STOXX 600 slipped 0.96 percent, the Spanish Ibex Index fell 1.30 percent, while Italy's FTSE MIB Index declined 1.19 percent.",0.02591920644044876,0.9384166598320007,0.03566402569413185,negative,-0.9124974608421326
+24,2016-05-31 22:31:00,"Meanwhile the German DAX dropped 0.57 percent, and the French CAC 40 declined 0.67 percent, while U.K. shares fell 0.62 percent.",0.01945233717560768,0.964196503162384,0.016351206228137016,negative,-0.9447441697120667
+25,2016-05-31 22:31:00,"The Markit manufacturing PMI rose to 50.70 in May, versus a prior reading of 50.50.",0.9487590789794922,0.03253607079386711,0.018704853951931,positive,0.9162229895591736
+26,2016-05-31 22:31:00,"However, economists were expecting a reading of 50.50.",0.14649835228919983,0.40924307703971863,0.44425860047340393,neutral,-0.2627447247505188
+27,2016-05-31 22:31:00,"U.S. construction spending declined 1.80 percent for April, versus economists' expectations for a 0.60 percent growth.",0.01765378937125206,0.9729620218276978,0.009384220466017723,negative,-0.9553082585334778
+28,2016-05-31 22:31:00,"The ISM manufacturing index gained to 51.30 in May, versus a previous reading of 50.80.",0.947009265422821,0.03358256816864014,0.019408194348216057,positive,0.9134266972541809
+29,2016-05-31 22:31:00,Economists were projecting a reading of 50.50.,0.14160257577896118,0.15542669594287872,0.7029707431793213,neutral,-0.013824120163917542
+30,2016-05-31 22:31:00,© 2016 Benzinga.com.,0.024845656007528305,0.012067040428519249,0.9630873203277588,neutral,0.012778615579009056
+31,2016-05-31 22:31:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+32,2016-05-31 22:31:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+33,2016-05-31 22:31:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+34,2016-05-31 22:31:00,Gain access to a streaming platform with all the information you need to invest better today.,0.7333180904388428,0.014288763515651226,0.2523931562900543,positive,0.7190293073654175
+35,2016-05-31 22:31:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296506807208061,0.015620114281773567,0.9740833640098572,neutral,-0.005323607474565506

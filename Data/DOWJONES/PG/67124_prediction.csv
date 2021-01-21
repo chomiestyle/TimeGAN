@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-11 07:16:00,"In early trading on Friday, shares of Intel topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.3%.",0.9312182664871216,0.03910171985626221,0.02968006022274494,positive,0.8921165466308594
+1,2019-01-11 07:16:00,"Year to date, Intel registers a 3.8% gain.",0.9498077630996704,0.022285759449005127,0.027906466275453568,positive,0.9275220036506653
+2,2019-01-11 07:16:00,And the worst performing Dow component thus far on the day is Caterpillar trading down 1.8%.,0.020701870322227478,0.9658291935920715,0.013468959368765354,negative,-0.9451273083686829
+3,2019-01-11 07:16:00,Caterpillar is showing a gain of 2.8% looking at the year to date performance.,0.9477050304412842,0.018768083304166794,0.03352687880396843,positive,0.9289369583129883
+4,2019-01-11 07:16:00,"Two other components making moves today are Goldman Sachs Group, trading down 1.7%, and Procter & Gamble, trading up 0.2% on the day.",0.030091801658272743,0.9195114374160767,0.050396841019392014,negative,-0.8894196152687073
+5,2019-01-11 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

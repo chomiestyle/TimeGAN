@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-07-29 02:04:00,"This article is part of a series covering the most exciting start-ups featured at the most recent TechBUZZ conference, held at AOL Fishbowl Labs.",0.08953928202390671,0.0061895656399428844,0.9042711853981018,neutral,0.08334971964359283
+1,2015-07-29 02:04:00,"To read the rest of the articles in the series, click here .",0.016550755128264427,0.016342496499419212,0.967106819152832,neutral,0.00020825862884521484
+2,2015-07-29 02:04:00,"You may think that finding a good job after graduation is the biggest challenge an MBA student faces, but you'd be wrong.",0.12939000129699707,0.1118420660495758,0.7587679624557495,neutral,0.017547935247421265
+3,2015-07-29 02:04:00,"In fact, they're generally much more worried about how to deal with the deluge of corporate recruiters trying to lure them to various Fortune 500 companies.",0.045912809669971466,0.07441799342632294,0.879669189453125,neutral,-0.02850518375635147
+4,2015-07-29 02:04:00,I know -- talk about a first-world problem.,0.09478151053190231,0.4563785791397095,0.44883987307548523,negative,-0.36159706115722656
+5,2015-07-29 02:04:00,"But it's a real problem nonetheless, and Sarah Rumbaugh of RelishMBA wants to solve this process by making the recruiting process easier, less expensive, and more enjoyable for everyone involved.",0.504528284072876,0.016696343198418617,0.47877541184425354,positive,0.4878319501876831
+6,2015-07-29 02:04:00,"According to Rumbaugh, corporate recruiters spend an average of $15,000 to attract new MBA hires -- more than four times the average talent-acquisition cost of $3,500.",0.4621562361717224,0.02602982707321644,0.5118139386177063,neutral,0.4361264109611511
+7,2015-07-29 02:04:00,Rumbaugh says the average MBA student is being wooed by upward of 80 companies before they even start taking classes!,0.08695442974567413,0.07803656160831451,0.835008978843689,neutral,0.00891786813735962
+8,2015-07-29 02:04:00,"Rumbaugh estimates that students spend as much time on this ""sales and marketing process"" as they do on the academics of their programs.",0.023495206609368324,0.011441652663052082,0.9650631546974182,neutral,0.012053553946316242
+9,2015-07-29 02:04:00,Somewhere in the middle of this courtship is a university career service officer who is doing their best to play chaperone for the students and the recruiters.,0.07234359532594681,0.04359006881713867,0.8840662837028503,neutral,0.028753526508808136
+10,2015-07-29 02:04:00,"Unfortunately, the average student-to-advisor ratio is 100-to-1, which makes it very difficult to give each student the attention they need and to track all of the activity.",0.024159900844097137,0.796414315700531,0.17942577600479126,negative,-0.7722544074058533
+11,2015-07-29 02:04:00,"Universities want as much information as possible about how their students are being recruited, who is interviewing at which companies, and where all of their graduates end up.",0.027211876586079597,0.00671005854383111,0.966077983379364,neutral,0.020501818507909775
+12,2015-07-29 02:04:00,"RelishMBA, one of a series of start-ups coming out of the University of Virginia's i.Lab, provides an online recruiting platform that Rumbaugh describes as a cross between LinkedIn , Salesforce, and Google Analytics that's currently used only for MBA students.",0.0389874242246151,0.007249180693179369,0.9537633657455444,neutral,0.031738243997097015
+13,2015-07-29 02:04:00,The tools are free for both students and university administrators.,0.029536047950387,0.012372088618576527,0.9580919146537781,neutral,0.0171639584004879
+14,2015-07-29 02:04:00,The business model relies on corporate recruiters paying annual licensing fees to RelishMBA in exchange for a more efficient and low-cost way to acquire new talent.,0.2544248700141907,0.007895339280366898,0.7376797795295715,neutral,0.24652953445911407
+15,2015-07-29 02:04:00,"In exchange for their licensing fees, the companies get four things, according to Rumbaugh:
+
+1.",0.03025367483496666,0.009012357331812382,0.960733950138092,neutral,0.021241318434476852
+16,2015-07-29 02:04:00,Branding.,0.03134215250611305,0.007129020057618618,0.9615287780761719,neutral,0.02421313151717186
+17,2015-07-29 02:04:00,"Each company, depending on the school where it's recruiting, will position its brand a little differently.",0.028604134917259216,0.008238782174885273,0.9631571173667908,neutral,0.020365353673696518
+18,2015-07-29 02:04:00,"In the past, they have done this by sending particular recruiters, usually alums, who would tailor their pitch to that group of students.",0.05202312394976616,0.017386477440595627,0.9305903911590576,neutral,0.03463664650917053
+19,2015-07-29 02:04:00,This approach gets expensive.,0.037067726254463196,0.05367177724838257,0.9092604517936707,neutral,-0.016604050993919373
+20,2015-07-29 02:04:00,"However, RelishMBA makes it easy and inexpensive for a company to create custom content on its landing pages, tailored to the school in question.",0.048114798963069916,0.010215827263891697,0.9416693449020386,neutral,0.03789897263050079
+21,2015-07-29 02:04:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+22,2015-07-29 02:04:00,Relationship management.,0.026438061147928238,0.007532996125519276,0.9660289287567139,neutral,0.018905065953731537
+23,2015-07-29 02:04:00,RelishMBA uses customer relationship management (CRM) tools to help companies keep track of all of their correspondences with students.,0.049594275653362274,0.0072208428755402565,0.9431848526000977,neutral,0.04237343370914459
+24,2015-07-29 02:04:00,"Often, many people at a company will be involved in the hiring of a single student.",0.02191445231437683,0.08955548703670502,0.8885300755500793,neutral,-0.06764103472232819
+25,2015-07-29 02:04:00,These CRM tools allow the company to see who is involved in these interactions at every step of the recruiting process.,0.0339488759636879,0.006770745385438204,0.9592804312705994,neutral,0.02717813104391098
+26,2015-07-29 02:04:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+27,2015-07-29 02:04:00,Easy access to students.,0.1122393012046814,0.00955417100340128,0.8782065510749817,neutral,0.10268513113260269
+28,2015-07-29 02:04:00,It's not always easy for companies to know exactly which students are interested in joining their workforce.,0.058495040982961655,0.03113248385488987,0.9103724956512451,neutral,0.027362557128071785
+29,2015-07-29 02:04:00,RelishMBA makes it easy for students to indicate interest in companies and for the companies to view a student's profile and contact them directly.,0.03857608139514923,0.006541924085468054,0.954882025718689,neutral,0.03203415870666504
+30,2015-07-29 02:04:00,"Rumbaugh says RelishMBA also provides a matching algorithm, similar to eHarmony's, that will help match student profiles to different companies.",0.2191862165927887,0.008425017818808556,0.7723888158798218,neutral,0.2107612043619156
+31,2015-07-29 02:04:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+32,2015-07-29 02:04:00,Analytics.,0.044619109481573105,0.015722928568720818,0.939657986164093,neutral,0.028896180912852287
+33,2015-07-29 02:04:00,"RelishMBA shares all of the data relevant to how a company's recruiting process is going, enabling the company to develop best practices and lower its costs to acquire top talent.",0.7510848641395569,0.013022052124142647,0.23589304089546204,positive,0.7380627989768982
+34,2015-07-29 02:04:00,RelishMBA's 2014 pilot program at Darden included the majority of all students and 30 different corporate partners.,0.11695963144302368,0.006197681650519371,0.8768426179885864,neutral,0.11076194792985916
+35,2015-07-29 02:04:00,"Currently, the company is out of beta and has more than $350,000 in its sales pipeline from 50 major corporate partners.",0.07501984387636185,0.5093796253204346,0.41560056805610657,negative,-0.4343597888946533
+36,2015-07-29 02:04:00,"RelishMBA is signing up major business schools as quickly as possible, and Rumbaugh hopes to eventually dovetail RelishMBA into RelishCareers, a leading marketplace for specialized talent-acquisition.",0.7086105942726135,0.010698332451283932,0.28069108724594116,positive,0.6979122757911682
+37,2015-07-29 02:04:00,Rumbaugh gave a presentation on RelishMBA at the recent TechBUZZ conference.,0.07277558743953705,0.02074035070836544,0.906484067440033,neutral,0.05203523486852646
+38,2015-07-29 02:04:00,"Check out the video below:
+
+If you'd like to follow RelishMBA's progress, you can visit its website and follow its Twitter account .",0.0415935292840004,0.0355738028883934,0.9228326678276062,neutral,0.006019726395606995
+39,2015-07-29 02:04:00,"The Motley Fool's mission is to help the world invest, better.",0.6313591599464417,0.013321365229785442,0.3553194999694824,positive,0.6180378198623657
+40,2015-07-29 02:04:00,We have done this over the past 20 years by thinking long term and outside the box -- even if that means turning Wall Street on its head.,0.12132513523101807,0.009310020133852959,0.8693649172782898,neutral,0.11201511323451996
+41,2015-07-29 02:04:00,"To learn more about what The Motley Fool thinks about current investment trends, and receive a special free report about what might be the next big industry to come out of Silicon Valley, just click here now .",0.04210572689771652,0.012670929543673992,0.9452233910560608,neutral,0.029434796422719955
+42,2015-07-29 02:04:00,The article TechBUZZ: RelishMBA Brings Grad Students and Employers Together originally appeared on Fool.com.,0.06330014020204544,0.01986662670969963,0.916833221912384,neutral,0.04343351349234581
+43,2015-07-29 02:04:00,David Forrest is the co-founder of ScreenDoor and a longtime Fool.,0.05583370476961136,0.035044342279434204,0.9091219305992126,neutral,0.020789362490177155
+44,2015-07-29 02:04:00,He doesn't own any of the stocks mentioned in this article.,0.00882302038371563,0.022792324423789978,0.9683846831321716,neutral,-0.013969304040074348
+45,2015-07-29 02:04:00,The Motley Fool recommends Google (C shares) and LinkedIn.,0.035120949149131775,0.01572757214307785,0.9491514563560486,neutral,0.019393377006053925
+46,2015-07-29 02:04:00,The Motley Fool owns shares of Google (C shares) and LinkedIn.,0.0172741636633873,0.013067886233329773,0.9696579575538635,neutral,0.004206277430057526
+47,2015-07-29 02:04:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+48,2015-07-29 02:04:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+49,2015-07-29 02:04:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+50,2015-07-29 02:04:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+51,2015-07-29 02:04:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+52,2015-07-29 02:04:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+53,2015-07-29 02:04:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

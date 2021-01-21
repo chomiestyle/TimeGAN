@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-09-28 05:30:00,Home Depot investors had to be expecting the worst.,0.06754253804683685,0.6992563605308533,0.23320110142230988,negative,-0.6317138075828552
+1,2014-09-28 05:30:00,"The data breach the DIY superstore suffered far surpassed the one that hit Target last year, and the discount department store chain is still coming to grips with the fallout.",0.6862998008728027,0.14217369258403778,0.17152652144432068,positive,0.5441260933876038
+2,2014-09-28 05:30:00,"Where some 40 million account holders were compromised by the hackers that infiltrated Target's accounts, 56 million Home Depot account holders had their data breached.",0.03039698861539364,0.9480615854263306,0.021541409194469452,negative,-0.9176645874977112
+3,2014-09-28 05:30:00,Why the different responses?,0.10171100497245789,0.10408375412225723,0.7942051887512207,neutral,-0.002372749149799347
+4,2014-09-28 05:30:00,"Is it ""data breach fatigue?""",0.06753063946962357,0.615657389163971,0.3168119192123413,negative,-0.548126757144928
+5,2014-09-28 05:30:00,Have we had so many of these break-ins that at this point consumers are just resigned to them occurring?,0.04711585491895676,0.5619051456451416,0.39097896218299866,negative,-0.5147892832756042
+6,2014-09-28 05:30:00,"Between Facebook 's violating our privacy regularly, Google admitting they're reading our emails, and the NSA screening every call, text, and email, maybe hacking into our credit card accounts isn't such a big deal anymore.",0.07589762657880783,0.4764005243778229,0.4477018415927887,negative,-0.40050289034843445
+7,2014-09-28 05:30:00,Not really.,0.10527074337005615,0.1190301701426506,0.7756990194320679,neutral,-0.013759426772594452
+8,2014-09-28 05:30:00,"Even though the hack attack at TJX remains by far the biggest breach of confidence consumers have suffered to date, with over 90 million accounts stolen over an 18-month period, the Target and Home Depot episodes are still enormously significant events.",0.06984881311655045,0.8146629333496094,0.11548825353384018,negative,-0.7448140978813171
+9,2014-09-28 05:30:00,There are several differences between the two incidents that make the fallout from them understandable.,0.03885406255722046,0.24725519120693207,0.7138907313346863,neutral,-0.2084011286497116
+10,2014-09-28 05:30:00,Shhh!,0.1891346126794815,0.10969795286655426,0.7011674046516418,neutral,0.07943665981292725
+11,2014-09-28 05:30:00,"If you ignore it, maybe it will go away
+
+First, Target badly mismanaged its response to the hack attack.",0.044713012874126434,0.8504247069358826,0.10486231744289398,negative,-0.8057116866111755
+12,2014-09-28 05:30:00,"It didn't let its customers know there was a problem, but rather began working behind the scenes with banks, which immediately started placing limitations on how much consumers could spend on their credit cards.",0.08766710013151169,0.10910066217184067,0.8032322525978088,neutral,-0.02143356204032898
+13,2014-09-28 05:30:00,"Coming as it did right at the start of the Christmas holiday shopping season, consumers were rightly surprised they were having purchases rejected.",0.12138447165489197,0.6941958665847778,0.1844196766614914,negative,-0.5728113651275635
+14,2014-09-28 05:30:00,"As I recounted last year, I was one of those Target customers whose accounts were comprised.",0.026732975617051125,0.023591244593262672,0.9496757984161377,neutral,0.003141731023788452
+15,2014-09-28 05:30:00,I was only alerted to something being amiss when I received an unidentified robo-call saying I needed to speak to someone about my debit card account.,0.07114382088184357,0.6806255578994751,0.24823060631752014,negative,-0.6094817519187927
+16,2014-09-28 05:30:00,It wasn't till weeks later that I and millions of other Target customers found out what the problem was.,0.0764378011226654,0.1864670366048813,0.7370951771736145,neutral,-0.11002923548221588
+17,2014-09-28 05:30:00,"In comparison, Home Depot was pretty upfront about the breach, and fortunately for it, the hacking occurred during the lazy days of summer and not when everyone was scrambling to buy gifts.",0.08781784027814865,0.41480502486228943,0.4973771572113037,neutral,-0.3269871771335602
+18,2014-09-28 05:30:00,"The site Krebs on Security was the first to suggest on Sept. 2 that there might be problems with Home Depot accounts, and when the company was contacted it admitted it was looking into it.",0.036820318549871445,0.8850957155227661,0.07808404415845871,negative,-0.8482754230499268
+19,2014-09-28 05:30:00,"A week later the DIY center confirmed that customer accounts at its U.S. and Canadian stores had indeed been compromised, though not those in Mexico, or online.",0.023280613124370575,0.9513354897499084,0.025383900851011276,negative,-0.9280548691749573
+20,2014-09-28 05:30:00,"It announced last week that all of the malware that had been installed on its system, malware that was uniquely built to attack Home Depot and has not been seen elsewhere, had been removed.",0.04270177707076073,0.7835060954093933,0.17379207909107208,negative,-0.7408043146133423
+21,2014-09-28 05:30:00,"Second, it wasn't just Target account info that was stolen, but encrypted PIN data as well.",0.04150303453207016,0.549225926399231,0.4092710316181183,negative,-0.5077229142189026
+22,2014-09-28 05:30:00,"Because of the layers of security embedded in the encryption code, the likelihood of actual fraudulent activity occurring was small -- data entered at register keypads is encrypted three times, with the code for breaking it stored offsite at the payment processor.",0.01937025599181652,0.06074558198451996,0.919884204864502,neutral,-0.04137532413005829
+23,2014-09-28 05:30:00,But it was still unsettling that such sensitive information was taken.,0.06644830107688904,0.7335705161094666,0.19998113811016083,negative,-0.6671222448348999
+24,2014-09-28 05:30:00,That didn't happen at Home Depot: there's not the same feeling of violation that consumers felt after Target's breach.,0.06360815465450287,0.65510493516922,0.28128692507743835,negative,-0.5914967656135559
+25,2014-09-28 05:30:00,"In the end, it seems to come down to time and response.",0.023941582068800926,0.009545640088617802,0.9665127992630005,neutral,0.014395941980183125
+26,2014-09-28 05:30:00,"For Target, it couldn't have happened at a worse time -- and the company compounded the problem by not letting its customers know there was a situation.",0.03418148681521416,0.8752343058586121,0.0905841737985611,negative,-0.8410528302192688
+27,2014-09-28 05:30:00,"Even so, despite the layers of encryption utilized to protect accounts, leaving all that sensitive data in the hands of retailers is still a dicey proposition.",0.040183838456869125,0.6772181987762451,0.2825978994369507,negative,-0.6370343565940857
+28,2014-09-28 05:30:00,"Each time companies raise the bar of protection, hackers vault over it with even more sophistication.",0.24113121628761292,0.08165067434310913,0.6772181391716003,neutral,0.15948054194450378
+29,2014-09-28 05:30:00,The business world is stuck playing catch up.,0.0639900341629982,0.21179179847240448,0.7242181897163391,neutral,-0.14780175685882568
+30,2014-09-28 05:30:00,"Maybe Apple 's new payment service, Apple Pay, is a solution.",0.4319544732570648,0.02001609280705452,0.5480294823646545,neutral,0.4119383692741394
+31,2014-09-28 05:30:00,It removes the need for all that security by taking the data away from the retailer and locking it in a vault behind a fingerprint on your handheld device.,0.030901212245225906,0.015503565780818462,0.9535951614379883,neutral,0.015397646464407444
+32,2014-09-28 05:30:00,You never give up control.,0.08755514770746231,0.019763020798563957,0.8926818370819092,neutral,0.0677921250462532
+33,2014-09-28 05:30:00,"If nothing else, the latest data breach incident provides an impetus for exploring such decentralized data storage, and should serve as a warning to other businesses to be proactive in their approach to security and upfront with their customers.",0.8535719513893127,0.016763105988502502,0.12966498732566833,positive,0.8368088603019714
+34,2014-09-28 05:30:00,"Top dividend stocks for the next decade
+
+The smartest investors know that dividend stocks simply crush their non-dividend paying counterparts over the long term.",0.09311813861131668,0.407069593667984,0.4998123049736023,neutral,-0.3139514625072479
+35,2014-09-28 05:30:00,That's beyond dispute.,0.11145628988742828,0.02713225595653057,0.861411452293396,neutral,0.08432403206825256
+36,2014-09-28 05:30:00,"They also know that a well-constructed dividend portfolio creates wealth steadily, while still allowing you to sleep like a baby.",0.5843973755836487,0.011641272343695164,0.4039613604545593,positive,0.5727561116218567
+37,2014-09-28 05:30:00,"Knowing how valuable such a portfolio might be, our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio.",0.08245469629764557,0.0054166438058018684,0.9121286273002625,neutral,0.07703804969787598
+38,2014-09-28 05:30:00,"To see our free report on these stocks, just click here .",0.015726452693343163,0.014490216039121151,0.9697833061218262,neutral,0.0012362366542220116
+39,2014-09-28 05:30:00,"The article Home Depot's Data Breach Was Worse, But Target Was Punished More.",0.030416743829846382,0.9449476003646851,0.02463573031127453,negative,-0.914530873298645
+40,2014-09-28 05:30:00,Why?,0.08602532744407654,0.06414811313152313,0.8498265147209167,neutral,0.021877214312553406
+41,2014-09-28 05:30:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+42,2014-09-28 05:30:00,Rich Duprey has no position in any stocks mentioned.,0.010102692060172558,0.04873904585838318,0.9411582946777344,neutral,-0.038636352866888046
+43,2014-09-28 05:30:00,The Motley Fool recommends Apple and Home Depot.,0.04527774080634117,0.0389433428645134,0.9157788753509521,neutral,0.006334397941827774
+44,2014-09-28 05:30:00,The Motley Fool owns shares of Apple.,0.04145649075508118,0.024770189076662064,0.9337733387947083,neutral,0.016686301678419113
+45,2014-09-28 05:30:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+46,2014-09-28 05:30:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+47,2014-09-28 05:30:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+48,2014-09-28 05:30:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+49,2014-09-28 05:30:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+50,2014-09-28 05:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+51,2014-09-28 05:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

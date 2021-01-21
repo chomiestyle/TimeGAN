@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-10-11 12:29:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 29,124 contracts has been traded thus far today, a contract volume which is representative of approximately 2.9 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04195886850357056,0.011259161867201328,0.9467819929122925,neutral,0.030699707567691803
+1,2019-10-11 12:29:00,"That number works out to 81.1% of HD's average daily trading volume over the past month, of 3.6 million shares.",0.8238335251808167,0.01944812573492527,0.15671835839748383,positive,0.8043854236602783
+2,2019-10-11 12:29:00,"Especially high volume was seen for the $235 strike call option expiring November 15, 2019, with 1,196 contracts trading so far today, representing approximately 119,600 underlying shares of HD.",0.1948036551475525,0.010598108172416687,0.7945982813835144,neutral,0.1842055469751358
+3,2019-10-11 12:29:00,"Below is a chart showing HD's trailing twelve month trading history, with the $235 strike highlighted in orange:
+
+Sally Beauty Holdings Inc (Symbol: SBH) saw options trading volume of 10,358 contracts, representing approximately 1.0 million underlying shares or approximately 73.9% of SBH's average daily trading volume over the past month, of 1.4 million shares.",0.0197175033390522,0.011327961459755898,0.9689545631408691,neutral,0.008389541879296303
+4,2019-10-11 12:29:00,"Particularly high volume was seen for the $15 strike put option expiring November 15, 2019, with 5,189 contracts trading so far today, representing approximately 518,900 underlying shares of SBH.",0.17267130315303802,0.011278266087174416,0.8160504102706909,neutral,0.16139303147792816
+5,2019-10-11 12:29:00,"Below is a chart showing SBH's trailing twelve month trading history, with the $15 strike highlighted in orange:
+
+And Blackrock Inc (Symbol: BLK) saw options trading volume of 4,362 contracts, representing approximately 436,200 underlying shares or approximately 72.7% of BLK's average daily trading volume over the past month, of 600,205 shares.",0.018603578209877014,0.013357088901102543,0.968039333820343,neutral,0.005246489308774471
+6,2019-10-11 12:29:00,"Particularly high volume was seen for the $432.50 strike call option expiring October 11, 2019, with 135 contracts trading so far today, representing approximately 13,500 underlying shares of BLK.",0.2565414011478424,0.011132683604955673,0.7323259115219116,neutral,0.24540871381759644
+7,2019-10-11 12:29:00,"Below is a chart showing BLK's trailing twelve month trading history, with the $432.50 strike highlighted in orange:
+
+For the various different available expirations for HD options, SBH options, or BLK options, visit StockOptionsChannel.com.",0.009718719869852066,0.029426347464323044,0.9608550071716309,neutral,-0.019707627594470978
+8,2019-10-11 12:29:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,73 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-13 02:31:00,The recent proxy fight at Procter & Gamble Co (NYSE: PG ) is a great example of the stagnation setting in at multinational consumer products companies.,0.08526788651943207,0.4471474885940552,0.46758460998535156,neutral,-0.3618795871734619
+1,2017-11-13 02:31:00,PG stock has slumped since the Oct. 10 vote.,0.018908454105257988,0.9681211113929749,0.01297033205628395,negative,-0.9492126703262329
+2,2017-11-13 02:31:00,"And with good reason, this unfortunate spat speaks to the difficult conditions ahead for P&G, specifically, and its ilk.",0.039753787219524384,0.7811232209205627,0.17912299931049347,negative,-0.7413694262504578
+3,2017-11-13 02:31:00,Nelson Peltz and his famed activist fund Trian Partners waged one of the most bitter corporate battles in recent memory against the entrenched management at P&G.,0.08408842235803604,0.8425053358078003,0.07340629398822784,negative,-0.7584168910980225
+4,2017-11-13 02:31:00,"Trian bought up more than $3 billion of PG stock, taking a 1.5% position in the company.",0.5301019549369812,0.012871372513473034,0.45702672004699707,positive,0.5172305703163147
+5,2017-11-13 02:31:00,"Gigantic companies such as P&G are usually safe from proxy fights - in fact, P&G is the largest company ever to be confronted seriously by an activist investor.",0.15282411873340607,0.33530545234680176,0.5118704438209534,neutral,-0.1824813336133957
+6,2017-11-13 02:31:00,"Why Trian Went to War
+
+Why did Trian take on such a gigantic company?",0.06845854222774506,0.039675746113061905,0.8918657302856445,neutral,0.02878279611468315
+7,2017-11-13 02:31:00,Mr. Peltz had a long list of complaints about P&G's management.,0.0327967144548893,0.9313937425613403,0.03580949455499649,negative,-0.898597002029419
+8,2017-11-13 02:31:00,"He said that P&G hadn't cut costs sufficiently, that they've failed at innovating, and that their decision to unload the majority of their brands over the past few years did little to create value for shareholders.",0.03442252799868584,0.9352535605430603,0.030323952436447144,negative,-0.9008310437202454
+9,2017-11-13 02:31:00,Some of these charges do ring true.,0.025612492114305496,0.049914926290512085,0.9244726300239563,neutral,-0.02430243417620659
+10,2017-11-13 02:31:00,Peltz claims that P&G hasn't created any game-changing innovations since the Swiffer 20 years ago - a claim that management didn't credibly refute.,0.04832110553979874,0.35953041911125183,0.5921484231948853,neutral,-0.3112093210220337
+11,2017-11-13 02:31:00,And it's true that P&G sets relatively low performance targets.,0.028098100796341896,0.26585954427719116,0.7060423493385315,neutral,-0.23776143789291382
+12,2017-11-13 02:31:00,"Management regularly reaches its performance incentive targets, earning their bonuses without doing much to bolster the PG stock price.",0.6362161636352539,0.02657618746161461,0.3372076153755188,positive,0.6096400022506714
+13,2017-11-13 02:31:00,"Over the past decade, PG share value has grown by about 50%, compared to triple that from the S&P 500 Index .",0.9485743045806885,0.016939444467425346,0.03448624908924103,positive,0.9316348433494568
+14,2017-11-13 02:31:00,Management defends itself by claiming that its has achieved its performance targets.,0.7902843952178955,0.03680431842803955,0.17291124165058136,positive,0.753480076789856
+15,2017-11-13 02:31:00,"These are largely tied to growing EPS consistently, which they've largely done.",0.3116622865200043,0.010091554373502731,0.6782461404800415,neutral,0.30157074332237244
+16,2017-11-13 02:31:00,"While net income has been flat or down, the company has spent its cash flow primarily on share buybacks.",0.023442547768354416,0.06596830487251282,0.9105891585350037,neutral,-0.0425257571041584
+17,2017-11-13 02:31:00,"In this way, the company has bought back almost 20% of the outstanding quantity of PG stock over the past decade.",0.5502275824546814,0.014199110679328442,0.4355733394622803,positive,0.5360284447669983
+18,2017-11-13 02:31:00,This allows the company to report steadily (if slowly) rising earnings even as income is flat and revenues shrink.,0.8966431617736816,0.026852965354919434,0.07650385797023773,positive,0.8697901964187622
+19,2017-11-13 02:31:00,The brand divestments doubled down on this strategy.,0.4265483021736145,0.37615254521369934,0.19729915261268616,positive,0.05039575695991516
+20,2017-11-13 02:31:00,P&G sold off more than half of its brands over the past few years to refocus business on its core product lines.,0.05982399359345436,0.10362805426120758,0.8365479111671448,neutral,-0.04380406066775322
+21,2017-11-13 02:31:00,The cash raised from all these brand sales has given management more balance sheet flexibility to keep buying back PG stock and raising the dividend.,0.9172612428665161,0.016804849728941917,0.06593392044305801,positive,0.9004563689231873
+22,2017-11-13 02:31:00,"For investors who count on PG stock for its dependable dividend, this strategy has worked fine.",0.8674081563949585,0.01545517798513174,0.11713670939207077,positive,0.8519529700279236
+23,2017-11-13 02:31:00,"Sure, PG stock has underperformed the market badly, but as an income source, it's achieved its job.",0.8791196346282959,0.018202388659119606,0.10267800092697144,positive,0.8609172701835632
+24,2017-11-13 02:31:00,"Management has taken a conservative strategy, but you they have delivered on the plan that they had previously laid out.",0.5034894347190857,0.01478372048586607,0.48172688484191895,positive,0.48870572447776794
+25,2017-11-13 02:31:00,Trian got involved because they think P&G can grow again.,0.7545625567436218,0.013197684660553932,0.23223978281021118,positive,0.7413648962974548
+26,2017-11-13 02:31:00,"Management, on the other hand, has been playing defense for the past decade.",0.02467823028564453,0.010281022638082504,0.9650407433509827,neutral,0.014397207647562027
+27,2017-11-13 02:31:00,Whether you support Peltz or P&G's current approach depends largely on how you see consumer staples products going in the future.,0.023631799966096878,0.009562051855027676,0.966806173324585,neutral,0.014069748111069202
+28,2017-11-13 02:31:00,"• 10 Losers That Will Be 2018's Best Stocks to Buy
+
+Bears on PG stock claim that consumers no longer care about brands.",0.0593506395816803,0.766579270362854,0.17407001554965973,negative,-0.7072286605834961
+29,2017-11-13 02:31:00,Store brands are taking more and more share from old dominant labels such as Tide.,0.4684484899044037,0.02410058304667473,0.5074508786201477,neutral,0.44434791803359985
+30,2017-11-13 02:31:00,"With the rise of Amazon.com, Inc. (NASDAQ: AMZN ), this effect is further accelerating.",0.7295970320701599,0.014557277783751488,0.25584569573402405,positive,0.7150397300720215
+31,2017-11-13 02:31:00,"Amazon's offlabel AmazonBasics batteries, for example, have taken a huge amount of market share in that segment.",0.6917581558227539,0.014590934850275517,0.29365089535713196,positive,0.6771672368049622
+32,2017-11-13 02:31:00,"In the previous world, product makers such as P&G advertised a lot and consumers responded by loyally buying their products.",0.4280795454978943,0.015035807155072689,0.5568847060203552,neutral,0.413043737411499
+33,2017-11-13 02:31:00,"However, big companies such as P&G haven't figured out how to make the transition to digital advertising yet.",0.12301856279373169,0.020936714485287666,0.8560447096824646,neutral,0.10208185017108917
+34,2017-11-13 02:31:00,Many large consumer products players have pulled back on advertising on Facebook Inc (NASDAQ: FB ) and other youth-focused platforms since it just isn't delivering a sufficient return on investment.,0.020615095272660255,0.9590542912483215,0.020330682396888733,negative,-0.9384391903877258
+35,2017-11-13 02:31:00,"That, in turn, results in younger consumers abandoning previously trusted brands for the cheapest option.",0.0751291885972023,0.7021088004112244,0.22276204824447632,negative,-0.6269795894622803
+36,2017-11-13 02:31:00,"Throw in other problems for P&G, such as a slowdown in emerging markets and an overly strong dollar, and the company has struggled to grow organically by more than a percent or two a year.",0.024979477748274803,0.947727620601654,0.027293024584650993,negative,-0.9227481484413147
+37,2017-11-13 02:31:00,Peltz thinks P&G can return to the glory days of the past.,0.7583407759666443,0.015323568135499954,0.22633564472198486,positive,0.7430171966552734
+38,2017-11-13 02:31:00,"However, it's unclear if the decline in brands right now is a cyclical thing or the new normal.",0.03776827082037926,0.3986397087574005,0.5635920166969299,neutral,-0.36087143421173096
+39,2017-11-13 02:31:00,"Proxy Battle: How To Split The Pie
+
+CNBC reported that P&G apparently spent $100 million defending itself against Peltz's effort to get a seat on the corporate board.",0.04931700602173805,0.8306149244308472,0.1200680360198021,negative,-0.7812979221343994
+40,2017-11-13 02:31:00,Peltz's Trian Fund in turn spent $25 million making their case.,0.1881076544523239,0.03724920377135277,0.7746431231498718,neutral,0.15085844695568085
+41,2017-11-13 02:31:00,"Combined, both sides spent $125 million on a vote that ended up in nearly a draw.",0.632560670375824,0.10194448381662369,0.2654948830604553,positive,0.5306161642074585
+42,2017-11-13 02:31:00,"Peltz lost narrowly, and presumably nothing much will change at P&G in the near term.",0.08226539194583893,0.17304569482803345,0.7446889281272888,neutral,-0.09078030288219452
+43,2017-11-13 02:31:00,"The conflict flushed $125 million down the drain, all while P&G continues to stagnate.",0.08441055566072464,0.7844712138175964,0.13111816346645355,negative,-0.7000606656074524
+44,2017-11-13 02:31:00,Corporate growth makes everyone happy.,0.28987589478492737,0.00970353651791811,0.7004205584526062,neutral,0.28017234802246094
+45,2017-11-13 02:31:00,"Management can pay themselves generous paychecks, and stock prices and earnings still rise.",0.8552384376525879,0.020082315430045128,0.12467923015356064,positive,0.8351561427116394
+46,2017-11-13 02:31:00,"However, when the growth stops, capitalism gets sand in its gears.",0.09269298613071442,0.21085071563720703,0.696456253528595,neutral,-0.11815772950649261
+47,2017-11-13 02:31:00,"Instead of focusing on operating the business better, the lawyers go to work and more shareholder capital is wasted fighting in how to distribute the stagnant business' remaining cash flow.",0.18259699642658234,0.49963513016700745,0.31776782870292664,negative,-0.3170381188392639
+48,2017-11-13 02:31:00,There can be a case for buying a stalled-out business if the price is right.,0.08837343007326126,0.11165134608745575,0.7999752163887024,neutral,-0.02327791601419449
+49,2017-11-13 02:31:00,"However, PG stock at 23x earnings is seriously overvalued assuming management sticks with its current strategy.",0.7002855539321899,0.19153694808483124,0.10817748308181763,positive,0.5087485909461975
+50,2017-11-13 02:31:00,The 3.1% dividend simply isn't high enough to justify paying such a huge PE ratio for a business that has seen shrinking revenues for years.,0.023306502029299736,0.948442280292511,0.028251180425286293,negative,-0.9251357913017273
+51,2017-11-13 02:31:00,PG stock will trade back to 15x earnings (the market's historical average) sooner or later if it remains a no-growth business.,0.22942711412906647,0.09813369065523148,0.6724391579627991,neutral,0.1312934160232544
+52,2017-11-13 02:31:00,You need a lot of dividends to make up for the capital losses when a company's valuation contracts that far.,0.20850592851638794,0.0739656537771225,0.7175284624099731,neutral,0.13454027473926544
+53,2017-11-13 02:31:00,"Given the deteriorating conditions for consumer staples companies, it's a risky segment of the market.",0.02325339987874031,0.3469051718711853,0.6298413872718811,neutral,-0.3236517608165741
+54,2017-11-13 02:31:00,"For now, it seems safest to stick with companies that are still growing quickly, such as Hormel Foods Corp (NYSE: HRL ).",0.20536868274211884,0.03050410747528076,0.7641271948814392,neutral,0.17486457526683807
+55,2017-11-13 02:31:00,"At Hormel, management is incentivized to deliver , and usually succeeds at hitting, 10% annual EPS growth.",0.8935720920562744,0.012345307506620884,0.09408269822597504,positive,0.8812267780303955
+56,2017-11-13 02:31:00,The long-term compounding of 10% EPS growth is immense - earnings per share doubles every seven years.,0.9101175665855408,0.0176538173109293,0.07222870737314224,positive,0.892463743686676
+57,2017-11-13 02:31:00,"HRL stock is cheaper than PG too, currently at just 20x earnings.",0.18572726845741272,0.06315828859806061,0.7511144876480103,neutral,0.12256897985935211
+58,2017-11-13 02:31:00,"P&G's paltry 3% compounded growth rate over the past five years, by contrast, leads to the stock being dead money for all but the most conservative of income investors.",0.08919542282819748,0.6350101232528687,0.27579444646835327,negative,-0.5458146929740906
+59,2017-11-13 02:31:00,"At the time of this writing, the author owned HRL stock.",0.01087235938757658,0.012037704698741436,0.9770898818969727,neutral,-0.001165345311164856
+60,2017-11-13 02:31:00,He had no positions in any of the other aforementioned securities.,0.009222356602549553,0.02401788905262947,0.9667597413063049,neutral,-0.014795532450079918
+61,2017-11-13 02:31:00,You can reach him on Twitter at @irbezek.,0.05966216325759888,0.04006844758987427,0.9002693295478821,neutral,0.01959371566772461
+62,2017-11-13 02:31:00,"• The 10 Best Growth Stocks You Can Buy Now
+
+The post What You Need To Know About Procter & Gamble After Its Boardroom Battle appeared first on InvestorPlace .",0.1521458923816681,0.01684930920600891,0.831004798412323,neutral,0.13529658317565918
+63,2017-11-13 02:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

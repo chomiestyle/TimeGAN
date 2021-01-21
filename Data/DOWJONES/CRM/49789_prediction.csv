@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-29 07:15:00,"During the first quarter of 2016, International Business Machines Corp. (NYSE: IBM ) stock reached lows that had not been seen since 2010.",0.021417668089270592,0.962465763092041,0.01611662283539772,negative,-0.9410480856895447
+1,2016-12-29 07:15:00,"Of course, there was lots of buzz that Big Blue was washed up.",0.16097593307495117,0.09300041943788528,0.7460236549377441,neutral,0.06797551363706589
+2,2016-12-29 07:15:00,"Better to invest in the hot plays like Facebook Inc (NASDAQ: FB ) and Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ), right?",0.08461518585681915,0.0106891468167305,0.9046956896781921,neutral,0.07392603904008865
+3,2016-12-29 07:15:00,"Well, of course, IBM stock proved that it still had some life left.",0.4520672857761383,0.026000525802373886,0.5219321846961975,neutral,0.4260667562484741
+4,2016-12-29 07:15:00,"For the year so far, the return is at about 21%.",0.11848802864551544,0.014772418886423111,0.8667395710945129,neutral,0.10371561348438263
+5,2016-12-29 07:15:00,"By comparison, FB has gained 12% and GOOG is up only about 3%.",0.922671377658844,0.03008224628865719,0.04724640026688576,positive,0.8925891518592834
+6,2016-12-29 07:15:00,"Although, about half of the gain for IBM stock came after the election of Donald Trump.",0.6654450297355652,0.053639739751815796,0.280915230512619,positive,0.6118053197860718
+7,2016-12-29 07:15:00,So perhaps the company will benefit from the expected spike in infrastructure spending - which will require sophisticated IT investments?,0.8152756690979004,0.0196826234459877,0.1650417000055313,positive,0.7955930233001709
+8,2016-12-29 07:15:00,And maybe there will be a nice benefit from corporate tax reform?,0.42582181096076965,0.040955815464258194,0.5332223176956177,neutral,0.38486599922180176
+9,2016-12-29 07:15:00,Perhaps so.,0.2150518000125885,0.07972928136587143,0.7052188515663147,neutral,0.13532251119613647
+10,2016-12-29 07:15:00,But there are certainly other advantages to consider - as well as risks.,0.16200563311576843,0.007972624152898788,0.8300217390060425,neutral,0.15403300523757935
+11,2016-12-29 07:15:00,"So let's take a look:
+
+Global Juggernaut: With a history that goes back over 100 years, IBM is definitely a highly trusted brand, especially with mission-critical functions.",0.7768752574920654,0.013565635308623314,0.2095591127872467,positive,0.7633095979690552
+12,2016-12-29 07:15:00,"• 7 Stocks That Won't Be Around a Year From Now
+
+The IBM platform is also quite broad and has a presence in over 175 countries.",0.25447723269462585,0.00756803946569562,0.7379547357559204,neutral,0.24690918624401093
+13,2016-12-29 07:15:00,"For example, there is IBM Global Business Services (GBS).",0.020723814144730568,0.009053658694028854,0.970222532749176,neutral,0.011670155450701714
+14,2016-12-29 07:15:00,"This is the consulting organization, which helps customers with implementations of new systems and maintenance of existing ones.",0.06153158098459244,0.004939465317875147,0.9335289597511292,neutral,0.05659211426973343
+15,2016-12-29 07:15:00,"IBM has been getting lots of traction from mobile as well as cloud deployments for Salesforce.com, Inc. (NYSE: CRM ) and Workday Inc (NYSE: WDAY ).",0.8939195275306702,0.01314613875001669,0.09293433278799057,positive,0.8807733654975891
+16,2016-12-29 07:15:00,"What's more, the company has assembled an impressive portfolio of hardware and software assets.",0.719004213809967,0.01043647713959217,0.2705593407154083,positive,0.70856773853302
+17,2016-12-29 07:15:00,"Just some include Watson, Tivoli (asset management), WebShere (for business applications) as well as a variety of high-powered mainframe computer systems.",0.020486485213041306,0.006628220900893211,0.9728853106498718,neutral,0.013858264312148094
+18,2016-12-29 07:15:00,Watson : This is essentially an AI (Artificial Intelligence) system that can learn by processing huge amounts of information.,0.026805046945810318,0.015034031122922897,0.958160936832428,neutral,0.01177101582288742
+19,2016-12-29 07:15:00,"While still in the early stages, Watson has tremendous potential - and wide applications.",0.8226751089096069,0.012453930452466011,0.16487090289592743,positive,0.8102211952209473
+20,2016-12-29 07:15:00,"After all, take a look at Watson Health, which is helping with life sciences, imaging, valued-based care and oncology.",0.07612687349319458,0.005081448238343,0.918791651725769,neutral,0.07104542851448059
+21,2016-12-29 07:15:00,"Actually, Finland and Italy are using the technology to assist doctors in providing better treatments.",0.5808953046798706,0.011762579903006554,0.4073421061038971,positive,0.5691327452659607
+22,2016-12-29 07:15:00,"What's more, Watson has been making wave in other important categories, such as virtual assistants for customer service, the Internet-of-Things (IoT), financial services, weather forecasting, regulatory compliance and even cybersecurity.",0.0453609824180603,0.006356228608638048,0.948282778263092,neutral,0.03900475427508354
+23,2016-12-29 07:15:00,"Then again, IBM has led the list for 23 consecutive years for patents issued .",0.28577756881713867,0.015324852429330349,0.6988975405693054,neutral,0.27045270800590515
+24,2016-12-29 07:15:00,"And yes, a big part of this has led to the advancements in Watson.",0.2496335506439209,0.007228359580039978,0.7431380748748779,neutral,0.24240519106388092
+25,2016-12-29 07:15:00,"Financials and Valuation : IBM continues to crank out strong cash flows, which came to $4.2 billion in the latest quarter .",0.9501952528953552,0.01699703373014927,0.032807640731334686,positive,0.9331982135772705
+26,2016-12-29 07:15:00,"The company has also been shareholder friendly, with the dividend yield at an attractive 3.4%.",0.8365964889526367,0.01532753836363554,0.14807599782943726,positive,0.8212689757347107
+27,2016-12-29 07:15:00,Consider that the company has increased the payout for 21 straight years and has not missed a payment since 1916!,0.5795663595199585,0.02698763832449913,0.39344602823257446,positive,0.5525787472724915
+28,2016-12-29 07:15:00,The valuation on IBM stock is also reasonable.,0.2687656581401825,0.012600613757967949,0.7186337113380432,neutral,0.2561650574207306
+29,2016-12-29 07:15:00,Keep in mind that the forward price-to-earnings ratio is at about 12X.,0.0282821636646986,0.007129214238375425,0.9645886421203613,neutral,0.021152948960661888
+30,2016-12-29 07:15:00,"By comparison, both Microsoft Corporation (NASDAQ: MSFT ) and SAP SE(ADR) (NYSE: SAP ) are at about 19X.",0.015288395807147026,0.011834627017378807,0.9728769063949585,neutral,0.003453768789768219
+31,2016-12-29 07:15:00,Growth Issues and Complexity : IBM has reported revenue declines for a grueling 18 consecutive quarters .,0.021202072501182556,0.9689291715621948,0.009868793189525604,negative,-0.9477270841598511
+32,2016-12-29 07:15:00,"This has come despite making strides in growth segments like cloud computing, analytics and AI.",0.8850045204162598,0.02348424680531025,0.09151125699281693,positive,0.8615202903747559
+33,2016-12-29 07:15:00,"Then again, these strategic imperatives still account for only about 40% of revenues.",0.013242054730653763,0.10438387840986252,0.8823739886283875,neutral,-0.09114181995391846
+34,2016-12-29 07:15:00,"Let's face it, managing IBM is no easy feat because of the many different categories (hey, just try reading through the 10-Q!)",0.04363684728741646,0.020705783739686012,0.9356573820114136,neutral,0.022931063547730446
+35,2016-12-29 07:15:00,"Going forward, the company may want to focus on just a few of the businesses, like Watson and the cloud segment, and spin-off or sell the rest.",0.014837798662483692,0.024402858689427376,0.9607593417167664,neutral,-0.009565060026943684
+36,2016-12-29 07:15:00,"This is a strategy that has worked quite well for Hewlett Packard Enterprise Co (NYSE: HPE ), whose shares are up 54% for the year so far.",0.9437008500099182,0.014999515376985073,0.04129958525300026,positive,0.9287013411521912
+37,2016-12-29 07:15:00,Image Creation: Is there really a turnaround at IBM?,0.7126590013504028,0.01787538267672062,0.2694655656814575,positive,0.694783627986908
+38,2016-12-29 07:15:00,Or is the company just being too loose in how it defines its business?,0.045013196766376495,0.3218277096748352,0.6331590414047241,neutral,-0.2768145203590393
+39,2016-12-29 07:15:00,"For example, by making some tweaks to old-line software, IBM could perhaps include the revenues in its strategic imperatives segment.",0.5184988975524902,0.010290328413248062,0.4712107181549072,positive,0.5082085728645325
+40,2016-12-29 07:15:00,Then there are the ongoing work reductions and stock buybacks.,0.02479586936533451,0.804053783416748,0.17115026712417603,negative,-0.7792578935623169
+41,2016-12-29 07:15:00,"Well, such moves may not last long.",0.04640807956457138,0.13560259342193604,0.8179892897605896,neutral,-0.08919451385736465
+42,2016-12-29 07:15:00,"According Credit Suisse Group AG(ADR) (NYSE: CS ) analyst Kulbinder Garcha : ""However, our closer examination highlights that a series of nonoperational, nonrecurring items are supporting the EPS.",0.23593765497207642,0.06731000542640686,0.6967523097991943,neutral,0.16862764954566956
+43,2016-12-29 07:15:00,"We believe the structural profitability may continue to erode.""",0.02704457752406597,0.9517036080360413,0.021251853555440903,negative,-0.924659013748169
+44,2016-12-29 07:15:00,"For 2017, his EPS forecast for IBM stock is $12.64.",0.017010169103741646,0.011156636290252209,0.9718332290649414,neutral,0.005853532813489437
+45,2016-12-29 07:15:00,"The Street, on the other hand, is looking at a consensus of $13.90.",0.16477376222610474,0.041533440351486206,0.7936928272247314,neutral,0.12324032187461853
+46,2016-12-29 07:15:00,"Legacy Businesses: The fact is that a large part of IBM's software and systems are based on older technologies, such as on-premise approaches.",0.015575312077999115,0.009666632860898972,0.9747580885887146,neutral,0.005908679217100143
+47,2016-12-29 07:15:00,"Granted, this does not necessarily mean that there is a threat of disruption.",0.022554242983460426,0.05322285369038582,0.9242229461669922,neutral,-0.030668610706925392
+48,2016-12-29 07:15:00,Keep in mind that companies are highly resistant to make changes to core technologies.,0.027018794789910316,0.023440036922693253,0.9495410919189453,neutral,0.003578757867217064
+49,2016-12-29 07:15:00,"However, it is important to note that there will still likely be sluggish growth.",0.18337786197662354,0.14567020535469055,0.6709519028663635,neutral,0.03770765662193298
+50,2016-12-29 07:15:00,"After all, as seen in the latest quarter , the software segment revenues increased by only 3% to $5.7 billion.",0.9009898900985718,0.05968758463859558,0.03932257369160652,positive,0.8413022756576538
+51,2016-12-29 07:15:00,"Another issue is that it is tough for a company like IBM to transition to newer technologies, such as cloud computing.",0.0492544062435627,0.6983721852302551,0.2523733675479889,negative,-0.6491177678108215
+52,2016-12-29 07:15:00,It's expensive and time consuming.,0.03593416139483452,0.0449615903198719,0.919104278087616,neutral,-0.009027428925037384
+53,2016-12-29 07:15:00,"More importantly, there is the risk of disrupting existing customer relationships.",0.019994055852293968,0.9245444536209106,0.05546150356531143,negative,-0.9045503735542297
+54,2016-12-29 07:15:00,Now other tech operators like Adobe Systems Incorporated (NASDAQ: ADBE ) have shown that the changes can be successful.,0.8779227137565613,0.016227057203650475,0.10585013777017593,positive,0.8616956472396851
+55,2016-12-29 07:15:00,"But as for IBM, it is a company that is at a much larger scale - and it has been fairly late in its moves as well.",0.19884485006332397,0.02982114627957344,0.7713339924812317,neutral,0.16902370750904083
+56,2016-12-29 07:15:00,Pulling off a turnaround of a massive organization like IBM is no easy feat.,0.7693763971328735,0.019457794725894928,0.21116578578948975,positive,0.7499185800552368
+57,2016-12-29 07:15:00,But CEO Virginia Rometty has done a pretty good job so far.,0.6961601972579956,0.017761575058102608,0.28607818484306335,positive,0.678398609161377
+58,2016-12-29 07:15:00,"If anything, the company looks positioned to benefit from one of the megatrends in technology: AI.",0.8159624338150024,0.012167350389063358,0.17187024652957916,positive,0.8037950992584229
+59,2016-12-29 07:15:00,This kind of technology is likely to be a gamechanger.,0.2522035837173462,0.011785205453634262,0.7360112071037292,neutral,0.24041837453842163
+60,2016-12-29 07:15:00,"IBM also has the ability to get wide-scale adoption because of its trusted brand, global infrastructure and large customer base.",0.8935678601264954,0.012911290861666203,0.09352080523967743,positive,0.8806565403938293
+61,2016-12-29 07:15:00,"• Target Corporation (TGT) Stock Is Off the Mark Going Into 2017
+
+Besides, the yield on the stock is attractive and the company should continue to crank out strong cash flows.",0.9217665195465088,0.0237845741212368,0.054448939859867096,positive,0.8979819416999817
+62,2016-12-29 07:15:00,So is now a good time to buy IBM stock?,0.08530035614967346,0.0193483829498291,0.8953512907028198,neutral,0.06595197319984436
+63,2016-12-29 07:15:00,"I think so - the company seems to be at an inflection point, where growth could be on the verge of returning once again.",0.7874343991279602,0.020368963479995728,0.19219669699668884,positive,0.7670654058456421
+64,2016-12-29 07:15:00,Tom Taulli runs the InvestorPlace blog IPO Playbook and is a registered investment adviser representative (you can visit his site to learn more about his financial planning services).,0.023058801889419556,0.01008710265159607,0.9668540954589844,neutral,0.012971699237823486
+65,2016-12-29 07:15:00,"He is also the author of various books on investing like All About Commodities, All About Short Selling and High-Profit IPO Strategies.",0.04497005045413971,0.00730680488049984,0.9477230906486511,neutral,0.03766324371099472
+66,2016-12-29 07:15:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+67,2016-12-29 07:15:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+68,2016-12-29 07:15:00,"• 7 Beaten-Down Tech Stocks to Buy With 50% Upside in 2017
+
+The post Should I Buy International Business Machines Corp. (IBM) Stock?",0.09635063260793686,0.03173339366912842,0.8719159960746765,neutral,0.06461723893880844
+69,2016-12-29 07:15:00,"3 Pros, 3 Cons appeared first on InvestorPlace .",0.06103947386145592,0.014877807348966599,0.9240827560424805,neutral,0.04616166651248932
+70,2016-12-29 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

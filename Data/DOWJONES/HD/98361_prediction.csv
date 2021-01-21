@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-04 04:59:00,Efficiency or the company's ability to transform its inputs into outputs is an important measure to determine its financial condition.,0.15793313086032867,0.0055078365840017796,0.836558997631073,neutral,0.15242528915405273
+1,2017-05-04 04:59:00,A company with a favorable efficiency level is expected to provide impressive returns as it is believed to be positively correlated with the company's price performance.,0.9250532984733582,0.014844566583633423,0.06010216847062111,positive,0.9102087020874023
+2,2017-05-04 04:59:00,"However, it is difficult to measure the efficiency level of a company.",0.02443018928170204,0.03506677970290184,0.9405030608177185,neutral,-0.010636590421199799
+3,2017-05-04 04:59:00,This is the reason why one must consider popular efficiency ratios while selecting stocks to build a profitable portfolio.,0.305339515209198,0.011066821403801441,0.6835936903953552,neutral,0.29427269101142883
+4,2017-05-04 04:59:00,We have considered four popular ratios in order to find efficient companies that have the potential to provide impressive returns.,0.5918383598327637,0.010267648845911026,0.3978939652442932,positive,0.5815706849098206
+5,2017-05-04 04:59:00,Inventory level is one of the key indicators of a company's business health.,0.047556016594171524,0.009850021451711655,0.9425939321517944,neutral,0.03770599514245987
+6,2017-05-04 04:59:00,"While a high inventory level may indicate that the company is going through a rough patch in terms of sales, a dwindling level may indicate that the company will run out of stock in a favorable sales condition.",0.08625047653913498,0.8583662509918213,0.05538333207368851,negative,-0.7721157670021057
+7,2017-05-04 04:59:00,This is where inventory turnover comes into play.,0.06010820344090462,0.03716263175010681,0.9027291536331177,neutral,0.022945571690797806
+8,2017-05-04 04:59:00,It is the ratio of 12-month cost of goods sold (COGS) to a 4-quarter average inventory.,0.02323969639837742,0.02062353678047657,0.9561368227005005,neutral,0.0026161596179008484
+9,2017-05-04 04:59:00,"Thus, a high value of the ratio indicates a low level of inventory relative to COGS, while a low ratio signals that the company has excess inventory.",0.030682221055030823,0.5822208523750305,0.3870968520641327,negative,-0.5515386462211609
+10,2017-05-04 04:59:00,This ratio is used to measure a company's capability to extend its credit and collect debts on the basis of that credit.,0.10885702073574066,0.005357624031603336,0.8857853412628174,neutral,0.1034993976354599
+11,2017-05-04 04:59:00,"Receivables turnover ratio or the ""accounts receivable turnover ratio"" or the ""debtor's turnover ratio"" is calculated by dividing 12-month sales by four-quarter average receivables.",0.02063777483999729,0.013089875690639019,0.9662722945213318,neutral,0.0075478991493582726
+12,2017-05-04 04:59:00,"While a high ratio indicates that the company efficiently collects its accounts receivables or has quality customers, a low ratio signals that the company has an inefficient collection procedure or has low-quality customers or an inefficient credit policy.",0.0715978816151619,0.24992147088050842,0.6784806847572327,neutral,-0.17832359671592712
+13,2017-05-04 04:59:00,This is a widely used measure of a company's efficiency.,0.1533641517162323,0.012365949340164661,0.8342698812484741,neutral,0.14099819958209991
+14,2017-05-04 04:59:00,Asset utilization indicates a company's potential to utilize its assets.,0.4582446217536926,0.008516517467796803,0.5332388281822205,neutral,0.4497281014919281
+15,2017-05-04 04:59:00,It is a ratio of total sales over the past 12 months to the last 4-quarter average of total assets.,0.031026046723127365,0.008961710147559643,0.9600122570991516,neutral,0.022064335644245148
+16,2017-05-04 04:59:00,"So, the higher the ratio, the greater is the chance that the company is utilizing its assets efficiently.",0.7937853932380676,0.013790113851428032,0.19242455065250397,positive,0.7799952626228333
+17,2017-05-04 04:59:00,"On the contrary, a low value of the ratio signals that it is failing to use its assets effectively.",0.024111788719892502,0.9544786214828491,0.021409614011645317,negative,-0.9303668141365051
+18,2017-05-04 04:59:00,Another popular efficiency ratio is operating margin.,0.13848428428173065,0.014460638165473938,0.8470550179481506,neutral,0.12402364611625671
+19,2017-05-04 04:59:00,"Operating profit margin, which is simply operating income over the past 12 months divided by sales over the same period, indicates how well a company is controlling its operating expenses.",0.1285359114408493,0.02358955331146717,0.8478745818138123,neutral,0.10494635999202728
+20,2017-05-04 04:59:00,"If a company has a high operating profit margin in relation to its competitors, it is doing a better job at controlling operating expenses.",0.7862110137939453,0.02600911445915699,0.18777981400489807,positive,0.7602018713951111
+21,2017-05-04 04:59:00,All these ratios can be considered as effective measures if one compares different companies within a particular sector or industry.,0.14186155796051025,0.006264715455472469,0.8518737554550171,neutral,0.1355968415737152
+22,2017-05-04 04:59:00,This is the reason why we have considered only those companies that have higher ratios than their respective industry averages.,0.03758227452635765,0.009127209894359112,0.953290581703186,neutral,0.028455063700675964
+23,2017-05-04 04:59:00,"In addition to the above-mentioned ratios, we have added a favorable Zacks Rank - Zacks Rank #1 (Strong Buy) or 2 (Buy) - to the screen with an objective to make this strategy more profitable.",0.8887218236923218,0.012262886390089989,0.09901522099971771,positive,0.8764589428901672
+24,2017-05-04 04:59:00,"The use of these few criteria narrowed down the universe of over 7,906 stocks to only 14.",0.07815781980752945,0.023014197126030922,0.8988279700279236,neutral,0.05514362454414368
+25,2017-05-04 04:59:00,"Here are five stocks from the 14 that made it through the screen:
+
+Home Depot IncHD is a home improvement retailer.",0.016725556924939156,0.012367608956992626,0.9709068536758423,neutral,0.004357947967946529
+26,2017-05-04 04:59:00,"The company sells an assortment of building materials, home improvement products, and lawn and garden products, and provides various services.",0.01825874298810959,0.005690271966159344,0.9760510325431824,neutral,0.012568471021950245
+27,2017-05-04 04:59:00,This Zacks Rank #2 company has an average four-quarter positive earnings surprise of 4.38%.,0.7866029739379883,0.10456452518701553,0.10883250832557678,positive,0.682038426399231
+28,2017-05-04 04:59:00,Heska CorpHSKA sells veterinary diagnostic and specialty products.,0.015053484588861465,0.007888593710958958,0.977057933807373,neutral,0.007164890877902508
+29,2017-05-04 04:59:00,"The company operates through two segments: Core Companion Animal Health (CCA) and Other Vaccines, Pharmaceuticals and Products (OVP).",0.016992289572954178,0.006186357233673334,0.9768213629722595,neutral,0.010805932804942131
+30,2017-05-04 04:59:00,This Zacks Rank #2 company has an average four-quarter positive earnings surprise of 92.58%.,0.7989135384559631,0.08309196680784225,0.11799448728561401,positive,0.7158215641975403
+31,2017-05-04 04:59:00,"Baxter International IncBAX , through its subsidiaries, provides renal and hospital products.",0.01926429569721222,0.00544902915135026,0.975286602973938,neutral,0.013815267011523247
+32,2017-05-04 04:59:00,The company operates through two segments: Hospital Products and Renal.,0.015520949847996235,0.00666307145729661,0.9778159856796265,neutral,0.008857877925038338
+33,2017-05-04 04:59:00,This Zacks Rank #2 company has an average four-quarter positive earnings surprise of 17.14%.,0.7989658713340759,0.10128039866685867,0.09975376725196838,positive,0.6976854801177979
+34,2017-05-04 04:59:00,"Lantheus Holdings IncLNTH is engaged in the development, manufacture, and commercialization of diagnostic medical imaging agents and products that assist clinicians in the diagnosis and treatment of cardiovascular and other diseases.",0.048838429152965546,0.0046684290282428265,0.9464931488037109,neutral,0.04416999965906143
+35,2017-05-04 04:59:00,This Zacks Rank #1 company has an average four-quarter positive earnings surprise of 118.33%.,0.7864142060279846,0.08746849745512009,0.12611734867095947,positive,0.6989457011222839
+36,2017-05-04 04:59:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+37,2017-05-04 04:59:00,"MaxLinear, Inc.MXL is a provider of radio frequency (RF) and mixed-signal integrated circuits for cable and satellite broadband communications and the connected home, and wired and wireless infrastructure markets.",0.06440643221139908,0.004301170818507671,0.9312924146652222,neutral,0.06010526046156883
+38,2017-05-04 04:59:00,This Zacks Rank #2 company has an average four-quarter positive earnings surprise of 11.71%.,0.8015457987785339,0.0907803401350975,0.10767388343811035,positive,0.7107654809951782
+39,2017-05-04 04:59:00,You can get the rest of the stocks on this list by signing up now for your 2-week free trial to the Research Wizard and start using this screen in your own trading.,0.0749206468462944,0.006793504115194082,0.9182858467102051,neutral,0.06812714040279388
+40,2017-05-04 04:59:00,"Further, you can also create your own strategies and test them first before taking the investment plunge.",0.10761035978794098,0.0061170910485088825,0.8862725496292114,neutral,0.10149326920509338
+41,2017-05-04 04:59:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+42,2017-05-04 04:59:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+43,2017-05-04 04:59:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+44,2017-05-04 04:59:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+45,2017-05-04 04:59:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+46,2017-05-04 04:59:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+47,2017-05-04 04:59:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+48,2017-05-04 04:59:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+49,2017-05-04 04:59:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+50,2017-05-04 04:59:00,"Disclosure: Performance information for Zacks' portfolios and strategies are available at:https://www.zacks.com/performance
+
+Zacks Restaurant Recommendations: In addition to dining at these special places, you can feast on their stock shares.",0.023128904402256012,0.007758645340800285,0.9691123962402344,neutral,0.015370259061455727
+51,2017-05-04 04:59:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+52,2017-05-04 04:59:00,"Download it free »
+
+Want the latest recommendations from Zacks Investment Research?",0.03019636683166027,0.01505932118743658,0.9547443389892578,neutral,0.01513704564422369
+53,2017-05-04 04:59:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+54,2017-05-04 04:59:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+55,2017-05-04 04:59:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,14 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-12-19 08:31:00,"Nearing the halfway mark in today's session, here are the individual equity names with the most call and put buying on optionMONSTER's ActionTracker data system.",0.04984217882156372,0.02422216720879078,0.925935685634613,neutral,0.02562001161277294
+1,2011-12-19 08:31:00,"Bank of America (BAC): Investors bought about 13,000 August 6 calls for $0.62 to $0.64, looking for upside in the shares.",0.5143164992332458,0.06308852881193161,0.42259493470191956,positive,0.45122796297073364
+2,2011-12-19 08:31:00,BAC fell 3.08 percent to $5.04.,0.0177659522742033,0.9665788412094116,0.015655187889933586,negative,-0.9488129019737244
+3,2011-12-19 08:31:00,"Home Depot (HD): An investor sold more than 21,000 January 39 puts for $0.53 and bought an equal number of January 30 puts for $0.10, apparently rolling a short position to the higher strike.",0.18783321976661682,0.4991290271282196,0.3130377531051636,negative,-0.3112958073616028
+4,2011-12-19 08:31:00,The trade reflects a belief that downside will be minimal over the next five weeks.,0.7951608300209045,0.025698330253362656,0.17914092540740967,positive,0.769462525844574
+5,2011-12-19 08:31:00,HD rose 0.20 percent to $40.50.,0.8992832899093628,0.02501503936946392,0.07570162415504456,positive,0.8742682337760925
+6,2011-12-19 08:31:00,"(See related story )
+
+Research In Motion (RIMM): Almost 7,000 March 17.50 calls were bought for $0.65, but volume was below open interest in the strike.",0.025540944188833237,0.9344975352287292,0.03996150195598602,negative,-0.9089565873146057
+7,2011-12-19 08:31:00,RIMM fell 2.53 percent to $13.10.,0.017084648832678795,0.9632577300071716,0.019657578319311142,negative,-0.9461730718612671
+8,2011-12-19 08:31:00,"Cisco Systems (CSCO): About 7,000 February 18 puts were bought for $1.09 to $1.10 as an investor positioned for the shares to head lower.",0.07872892916202545,0.6066318154335022,0.31463927030563354,negative,-0.5279029011726379
+9,2011-12-19 08:31:00,CSCO fell 0.72 percent to $17.81.,0.017696836963295937,0.9661456346511841,0.01615745760500431,negative,-0.9484487771987915
+10,2011-12-19 08:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

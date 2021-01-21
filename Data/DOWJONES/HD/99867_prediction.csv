@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-20 08:19:00,"In early trading on Wednesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.3%.",0.9367697238922119,0.032682739198207855,0.030547529458999634,positive,0.9040870070457458
+1,2014-08-20 08:19:00,"Year to date, Home Depot registers a 8.5% gain.",0.9467788934707642,0.022836266085505486,0.03038482740521431,positive,0.9239426255226135
+2,2014-08-20 08:19:00,"And the worst performing Dow component thus far on the day is Goldman Sachs Group ( GS ), trading down 0.6%.",0.020762164145708084,0.9642773270606995,0.014960456639528275,negative,-0.9435151815414429
+3,2014-08-20 08:19:00,Goldman Sachs Group is lower by about 2.4% looking at the year to date performance.,0.02059224247932434,0.967955470085144,0.01145226787775755,negative,-0.9473632574081421
+4,2014-08-20 08:19:00,"Two other components making moves today are Chevron ( CVX ), trading down 0.4%, and Boeing ( BA ), trading up 0.8% on the day.",0.0314888171851635,0.9415526390075684,0.026958536356687546,negative,-0.9100638031959534
+5,2014-08-20 08:19:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

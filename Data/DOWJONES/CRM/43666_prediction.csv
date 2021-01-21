@@ -1,0 +1,24 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-13 09:07:00,Microsoft’sÂ (NASDAQ:MSFT) announcement late last month of an earnings beat for its fiscal first quarter (ending September) was accompanied by CEO Satya Nadella explaining that Microsoft works closely with its partners to enhance the partners’ go-to-market strategies.,0.844231903553009,0.014715312048792839,0.14105278253555298,positive,0.829516589641571
+1,2019-11-13 09:07:00,"And clearly Microsoft gains from this symbiotic relationship, as all development and analytics get fed into Azure – making the overall process self-sustainable.",0.9163364171981812,0.014735287986695766,0.06892835348844528,positive,0.9016011357307434
+2,2019-11-13 09:07:00,"Notably, though, Microsoft’s partnership portfolio is growing in an interesting manner.",0.8407123684883118,0.011874280869960785,0.14741332828998566,positive,0.8288381099700928
+3,2019-11-13 09:07:00,"While Microsoft has a tie-up with Oracle, it also tied up with SAP – Oracle’s biggest competitor in databases – recently.",0.45502132177352905,0.018133658915758133,0.5268450379371643,neutral,0.4368876516819
+4,2019-11-13 09:07:00,"Also, VMware has had a preferred relationship with Amazon Web Services (AWS) for some time now, but Microsoft also managed to secure a similar arrangement with VMware.",0.827725887298584,0.014762789011001587,0.15751126408576965,positive,0.8129631280899048
+5,2019-11-13 09:07:00,Microsoft’s focus on partnering with huge (often competing) companies comes with its challenges.,0.2634754180908203,0.030287187546491623,0.7062373757362366,neutral,0.2331882268190384
+6,2019-11-13 09:07:00,But considering the strong growth in Microsoft’s Revenues over recent quarters – the company seems to be up to the task.,0.6661755442619324,0.019628699868917465,0.31419578194618225,positive,0.6465468406677246
+7,2019-11-13 09:07:00,What Need Does It Serve?,0.0563671700656414,0.027153251692652702,0.9164795875549316,neutral,0.0292139183729887
+8,2019-11-13 09:07:00,• Microsoft is a technology company that makes money from the sale of software and hardware for consumer and enterprises.,0.03789874166250229,0.0055899592116475105,0.9565113186836243,neutral,0.03230878338217735
+9,2019-11-13 09:07:00,What Are The Alternatives?,0.04358837008476257,0.03320921212434769,0.9232024550437927,neutral,0.010379157960414886
+10,2019-11-13 09:07:00,"• open source players in the office productivity and operating systems business
+• the likes of Amazon, Google and IBM in cloud
+• Oracle, SAP and Amazon in databases and enterprise systems.",0.05921317636966705,0.009129880927503109,0.9316568970680237,neutral,0.05008329451084137
+11,2019-11-13 09:07:00,"• More Personal Computing: Segment revenue is derived from the sale of operating systems, devices, gaming offerings and search products.",0.028501441702246666,0.006488023791462183,0.9650105237960815,neutral,0.02201341837644577
+12,2019-11-13 09:07:00,"• Intelligent Cloud: Segment revenue is derived from the sale of public, private and hybrid server products and related cloud services.",0.03760632500052452,0.005181179381906986,0.9572124481201172,neutral,0.03242514654994011
+13,2019-11-13 09:07:00,"• Productivity and Business Processes: Segment revenue is derived from the sale of subscription to Office, revenues from LinkedIn and from Microsoftâs on premise and cloud (Dynamics 365) enterprise solutions (including CRM and ERP).",0.03329848125576973,0.005744307767599821,0.9609572291374207,neutral,0.02755417302250862
+14,2019-11-13 09:07:00,"Microsoft’s revenue grew 30% over 2017-19 to $126 billion and is expected to increase 11% to nearly $139 billion by 2021
+
+(1) More Personal Computing Division Revenue growth of about $2 billion over the next two years will be driven by the company’s growing focus on gaming and the impending Windows refresh cycle.",0.9208235740661621,0.013098441064357758,0.06607801467180252,positive,0.9077251553535461
+15,2019-11-13 09:07:00,"(2) Intelligent Cloud Division Revenue growth of about $5 billion over the next two years will be driven by incremental use cases around cloud adoption, especially private cloud and edge.",0.8076161742210388,0.01010867953300476,0.18227510154247284,positive,0.7975075244903564
+16,2019-11-13 09:07:00,"(3) Productivity And Business Processes Division Revenue growth of about $7 billion over the next two years will be driven by higher subscription revenue from Office and enterprise products
+
+Additional details about how revenues for Microsoft’s segments have trended over the years is available in our interactive dashboard.",0.267367422580719,0.008485532365739346,0.7241470813751221,neutral,0.25888189673423767

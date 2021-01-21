@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-16 22:21:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Vertex Pharmaceuticals, Inc. (Symbol: VRTX), where a total volume of 8,192 contracts has been traded thus far today, a contract volume which is representative of approximately 819,200 underlying shares (given that every 1 contract represents 100 underlying shares).",0.0461001917719841,0.011491951532661915,0.9424078464508057,neutral,0.03460824117064476
+1,2017-03-16 22:21:00,"That number works out to 56.2% of VRTX's average daily trading volume over the past month, of 1.5 million shares.",0.720911979675293,0.020076123997569084,0.2590118944644928,positive,0.7008358836174011
+2,2017-03-16 22:21:00,"Particularly high volume was seen for the $90 strike call option expiring March 17, 2017 , with 3,617 contracts trading so far today, representing approximately 361,700 underlying shares of VRTX.",0.3063776195049286,0.011089312843978405,0.6825330853462219,neutral,0.2952882945537567
+3,2017-03-16 22:21:00,"Below is a chart showing VRTX's trailing twelve month trading history, with the $90 strike highlighted in orange:
+
+Gilead Sciences, Inc. (Symbol: GILD) options are showing a volume of 50,039 contracts thus far today.",0.024298690259456635,0.022689184173941612,0.9530121088027954,neutral,0.0016095060855150223
+4,2017-03-16 22:21:00,"That number of contracts represents approximately 5.0 million underlying shares, working out to a sizeable 55.6% of GILD's average daily trading volume over the past month, of 9.0 million shares.",0.14023920893669128,0.009889023378491402,0.8498717546463013,neutral,0.13035018742084503
+5,2017-03-16 22:21:00,"Particularly high volume was seen for the $70 strike call option expiring March 17, 2017 , with 3,893 contracts trading so far today, representing approximately 389,300 underlying shares of GILD.",0.27854135632514954,0.010988909751176834,0.710469663143158,neutral,0.2675524353981018
+6,2017-03-16 22:21:00,"Below is a chart showing GILD's trailing twelve month trading history, with the $70 strike highlighted in orange:
+
+And Home Depot Inc (Symbol: HD) options are showing a volume of 23,198 contracts thus far today.",0.021534496918320656,0.038178667426109314,0.9402868151664734,neutral,-0.016644170507788658
+7,2017-03-16 22:21:00,"That number of contracts represents approximately 2.3 million underlying shares, working out to a sizeable 54.4% of HD's average daily trading volume over the past month, of 4.3 million shares.",0.15565815567970276,0.009691964834928513,0.834649920463562,neutral,0.14596618711948395
+8,2017-03-16 22:21:00,"Particularly high volume was seen for the $142 strike put option expiring April 07, 2017 , with 5,504 contracts trading so far today, representing approximately 550,400 underlying shares of HD.",0.29747846722602844,0.010769505985081196,0.6917520761489868,neutral,0.2867089509963989
+9,2017-03-16 22:21:00,"Below is a chart showing HD's trailing twelve month trading history, with the $142 strike highlighted in orange:
+
+For the various different available expirations for VRTX options , GILD options , or HD options , visit StockOptionsChannel.com.",0.009823699481785297,0.020935911685228348,0.9692404270172119,neutral,-0.01111221220344305
+10,2017-03-16 22:21:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

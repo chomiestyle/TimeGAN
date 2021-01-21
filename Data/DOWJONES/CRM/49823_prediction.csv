@@ -1,0 +1,36 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-16 06:28:00,"International Business Machines CorporationIBM recently stated that its Bluemix OpenWhisk technology, an event-driven, open serverless computing platform, is seeing increased adoption across a wide range of industries.",0.8228588104248047,0.01112606655806303,0.166015163064003,positive,0.8117327690124512
+1,2016-12-16 06:28:00,"The company also announced the inclusion of new features within the OpenWhisk platform so as to enable developers to quickly debug a code, write programs in a wide range of programming languages as well as support third-party tools.",0.6141214370727539,0.009463670663535595,0.3764148950576782,positive,0.604657769203186
+2,2016-12-16 06:28:00,What is Driving Adoption of OpenWhisk ?,0.050940342247486115,0.019097227603197098,0.9299624562263489,neutral,0.03184311464428902
+3,2016-12-16 06:28:00,"OpenWhisk provides an open, non-proprietary platform for developers and the codes are easily accessible in active developer communities such as Apache.",0.18243440985679626,0.0059907943941652775,0.8115747570991516,neutral,0.17644362151622772
+4,2016-12-16 06:28:00,This helps developers to access a range of capabilities on the platform.,0.35399606823921204,0.007894180715084076,0.6381098031997681,neutral,0.34610188007354736
+5,2016-12-16 06:28:00,"Since it's an open serverless platform, developers have the choice of deciding where they want to run their apps.",0.02031317912042141,0.011862889863550663,0.9678239226341248,neutral,0.008450289256870747
+6,2016-12-16 06:28:00,This flexibility is leading to increased OpenWhisk adoptions.,0.9308207631111145,0.013464187271893024,0.05571502447128296,positive,0.917356550693512
+7,2016-12-16 06:28:00,"The implementation of IBM's Open Cloud Architecture, IBM Bluemix is based on Cloud Foundry, an open source Platform as a Service (PaaS) that helps organizations to integrate enterprise-level services with their existing cloud applications.",0.17567475140094757,0.0060496581718325615,0.8182756304740906,neutral,0.16962508857250214
+8,2016-12-16 06:28:00,"As per a report by Transparency Market Research, worldwide spending on PaaS is estimated to reach $7.98 billion by 2020, up at a CAGR of 25.7%.",0.9363638758659363,0.01610654406249523,0.04752948135137558,positive,0.9202573299407959
+9,2016-12-16 06:28:00,"Although there is stiff competition in the PaaS space with the presence of major players such as Microsoft's MSFT Azure, Amazon's AMZN EC2 and Salesforce's CRM Heroku, IBM is trying its best to establish its presence in the field and have a share of the $7.98 billion pie.",0.8797326683998108,0.012555907480418682,0.10771138966083527,positive,0.8671767711639404
+10,2016-12-16 06:28:00,"Notably, shares of IBM have underperformed the broader Zacks Computer Integrated Systems industry on a year-to-date basis.",0.2444383203983307,0.7173290848731995,0.03823254629969597,negative,-0.4728907644748688
+11,2016-12-16 06:28:00,"While the industry generated a return of 31.0%, the stock returned 22.1%.",0.3476428985595703,0.04335371404886246,0.6090034246444702,neutral,0.30428919196128845
+12,2016-12-16 06:28:00,The underperformance of the stock could be due to sluggish IT spending particularly on on-premise and data center hardware and foreign exchange volatility.,0.021229945123195648,0.9559377431869507,0.022832371294498444,negative,-0.9347078204154968
+13,2016-12-16 06:28:00,"Moreover, intensifying competition in the cloud remains a major concern for the company.",0.07614438235759735,0.059537410736083984,0.8643181920051575,neutral,0.016606971621513367
+14,2016-12-16 06:28:00,"However, IBM's strategic growth initiatives, including its Big Data & business analytics, cloud computing, mobile and social business are expected to drive growth in the coming quarters.",0.9122966527938843,0.012753557413816452,0.07494967430830002,positive,0.8995431065559387
+15,2016-12-16 06:28:00,"At present, IBM carries a Zacks Rank #3 (Hold).",0.031464237719774246,0.015946537256240845,0.952589213848114,neutral,0.015517700463533401
+16,2016-12-16 06:28:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+17,2016-12-16 06:28:00,"In addition to the recommendations that are available to the public on our website, how would you like to follow all Zacks' private buys and sells in real time?",0.024265384301543236,0.006688755936920643,0.9690458178520203,neutral,0.01757662743330002
+18,2016-12-16 06:28:00,Our experts cover all kinds of trades… from value to momentum .,0.02819868177175522,0.0061000012792646885,0.9657013416290283,neutral,0.022098680958151817
+19,2016-12-16 06:28:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+20,2016-12-16 06:28:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+21,2016-12-16 06:28:00,from stocks under $10 to ETF and option moves .,0.0437336191534996,0.065303273499012,0.890963077545166,neutral,-0.02156965434551239
+22,2016-12-16 06:28:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+23,2016-12-16 06:28:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+24,2016-12-16 06:28:00,from stocks that corporate insiders are buying up to companies that are about to report positive earnings surprises.,0.13842779397964478,0.017181528732180595,0.8443906903266907,neutral,0.12124626338481903
+25,2016-12-16 06:28:00,You can even look inside exclusive portfolios that are normally closed to new investors.,0.03530820831656456,0.007948080077767372,0.9567436575889587,neutral,0.027360128238797188
+26,2016-12-16 06:28:00,"Starting today, for the next month, you can have unrestricted access.",0.04061019793152809,0.005020172335207462,0.9543696045875549,neutral,0.035590026527643204
+27,2016-12-16 06:28:00,"Click here for Zacks' private trades >>
+
+Want the latest recommendations from Zacks Investment Research?",0.017841463908553123,0.01148654893040657,0.970672070980072,neutral,0.006354914978146553
+28,2016-12-16 06:28:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+29,2016-12-16 06:28:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+30,2016-12-16 06:28:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

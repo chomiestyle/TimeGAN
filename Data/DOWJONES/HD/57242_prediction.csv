@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-29 06:57:00,"The novel coronavirus pandemic has made investors skittish about retail stocks, and with good reason.",0.046998754143714905,0.8992874026298523,0.05371388792991638,negative,-0.8522886633872986
+1,2020-06-29 06:57:00,"However, not all retail is created equal.",0.023525847122073174,0.013044582679867744,0.9634295701980591,neutral,0.010481264442205429
+2,2020-06-29 06:57:00,Lowe’s (NYSE:LOW) is proof of that.,0.2386304885149002,0.01793445274233818,0.7434350848197937,neutral,0.22069603204727173
+3,2020-06-29 06:57:00,"Homeowners in lockdown may not have been buying new suits, but they spent a lot of time online, shopping at home improvement stores.",0.043744903057813644,0.3510923385620117,0.6051627993583679,neutral,-0.30734744668006897
+4,2020-06-29 06:57:00,"Lowe’s saw online sales jump 80% in the first quarter, with overall sales also up double-digits.",0.9480860233306885,0.025174347683787346,0.02673969231545925,positive,0.9229117035865784
+5,2020-06-29 06:57:00,That strong performance has driven LOW stock to a 9% gain so far in 2020.,0.9509292244911194,0.01911325193941593,0.029957562685012817,positive,0.9318159818649292
+6,2020-06-29 06:57:00,"And it looks as though the ride isn’t over yet, as homeowners look to their back yards this summer.",0.10114029794931412,0.21320046484470367,0.6856592893600464,neutral,-0.11206016689538956
+7,2020-06-29 06:57:00,The pandemic and resulting lockdown had a brutal effect on the retail sector.,0.037702515721321106,0.8708210587501526,0.09147637337446213,negative,-0.8331185579299927
+8,2020-06-29 06:57:00,"With stores shut down and weak e-commerce capabilities, department stores like Macy’s (NYSE:M) have been dealt a serious blow.",0.02229209616780281,0.9646211862564087,0.01308672595769167,negative,-0.9423291087150574
+9,2020-06-29 06:57:00,"Adding to their pain, working from home has lowered demand for new clothing as former office workers go casual.",0.01944683864712715,0.9616506099700928,0.01890263520181179,negative,-0.9422037601470947
+10,2020-06-29 06:57:00,Home improvement stores have seen a very different story.,0.025500105693936348,0.09525277465581894,0.8792470693588257,neutral,-0.06975267082452774
+11,2020-06-29 06:57:00,People who are self-isolating at home have apparently decided that this is the perfect time to renovate.,0.33900320529937744,0.02359030954539776,0.6374064683914185,neutral,0.3154129087924957
+12,2020-06-29 06:57:00,"When Lowe’s reported its first-quarter earnings in May, sales of $19.7 billion were up over 11% compared to the first quarter of 2019.",0.9561394453048706,0.02231908217072487,0.021541401743888855,positive,0.933820366859436
+13,2020-06-29 06:57:00,"Online sales increased a whopping 80% for the quarter, as the company’s ongoing e-commerce investment paid off.",0.9587964415550232,0.020785517990589142,0.020418033003807068,positive,0.9380109310150146
+14,2020-06-29 06:57:00,Earnings per share of $1.76 was an increase of 35% year over year.,0.954174816608429,0.020044995471835136,0.025780150666832924,positive,0.9341298341751099
+15,2020-06-29 06:57:00,"In other words, while so many retailers have been struggling for survival in the pandemic, Lowe’s has thrived.",0.9378454089164734,0.022291740402579308,0.039862796664237976,positive,0.9155536890029907
+16,2020-06-29 06:57:00,"Even after the March market meltdown, LOW stock is up 9% so far in 2020.",0.9423396587371826,0.019090542569756508,0.03856978192925453,positive,0.9232491254806519
+17,2020-06-29 06:57:00,Rival Home Depot (NYSE:HD) is seeing a similar pattern of consumer behavior.,0.15244947373867035,0.0403057336807251,0.8072448372840881,neutral,0.11214374005794525
+18,2020-06-29 06:57:00,And its stock has posted 11% growth so far this year.,0.9444780945777893,0.014962928369641304,0.04055897146463394,positive,0.9295151829719543
+19,2020-06-29 06:57:00,"With summer now here, 2020 is shaping up to be “the year of the back yard.” Many families are planning on “staycations” instead of travelling.",0.11933466792106628,0.1159440129995346,0.7647212743759155,neutral,0.0033906549215316772
+20,2020-06-29 06:57:00,"That means they’re spending money on lawn furniture and accessories, gardening supplies, tools, grills and other products that Lowes carries.",0.024747099727392197,0.008487149141728878,0.9667657613754272,neutral,0.016259949654340744
+21,2020-06-29 06:57:00,Big-ticket projects like new decks are also in play.,0.3206641674041748,0.011776416562497616,0.6675594449043274,neutral,0.3088877499103546
+22,2020-06-29 06:57:00,"The boost in spending at Lowes in the first quarter seems likely to continue through the summer, at least.",0.9273801445960999,0.015684571117162704,0.05693526566028595,positive,0.9116955995559692
+23,2020-06-29 06:57:00,"LOW stock has earns a solid A-rating in my Dividend Grader, along with an overall B-rating.",0.9362465143203735,0.018892139196395874,0.0448613315820694,positive,0.9173543453216553
+24,2020-06-29 06:57:00,Why?,0.08602532744407654,0.06414811313152313,0.8498265147209167,neutral,0.021877214312553406
+25,2020-06-29 06:57:00,Consistency for one thing.,0.061437953263521194,0.022824399173259735,0.9157376289367676,neutral,0.03861355409026146
+26,2020-06-29 06:57:00,"Every year since it became a publicly traded company in 1961, Lowe’s has paid out a quarterly dividend.",0.06196366623044014,0.02013612538576126,0.9179001450538635,neutral,0.04182754084467888
+27,2020-06-29 06:57:00,You can count on it like clockwork.,0.1346297562122345,0.010233855806291103,0.8551363348960876,neutral,0.12439589947462082
+28,2020-06-29 06:57:00,"In recent years, the dividend payout has increased significantly.",0.9099583029747009,0.013913937844336033,0.07612775266170502,positive,0.8960443735122681
+29,2020-06-29 06:57:00,"For example, in 2015 the total dividends amounted to $1.02 per share.",0.028637440875172615,0.0127788120880723,0.9585837721824646,neutral,0.01585862785577774
+30,2020-06-29 06:57:00,By 2019 that had increased to $2.06 per share.,0.8439797163009644,0.017218701541423798,0.13880157470703125,positive,0.82676100730896
+31,2020-06-29 06:57:00,That’s a very healthy 102% bump over the course of five years.,0.8636519312858582,0.014168164692819118,0.12217988818883896,positive,0.8494837880134583
+32,2020-06-29 06:57:00,"This year, the company has already paid out $1.65 in dividends.",0.462764173746109,0.01212732121348381,0.5251085162162781,neutral,0.4506368637084961
+33,2020-06-29 06:57:00,The latest — 55 cent per share — was announced on May 28.,0.1885310709476471,0.0100322887301445,0.8014366030693054,neutral,0.178498774766922
+34,2020-06-29 06:57:00,There is a lot to like about LOW stock at the moment.,0.05908214673399925,0.009694769978523254,0.9312230348587036,neutral,0.049387376755476
+35,2020-06-29 06:57:00,Lowe’s moved quickly to adjust to conditions under the coronavirus pandemic.,0.4237908720970154,0.018253730610013008,0.5579553842544556,neutral,0.40553712844848633
+36,2020-06-29 06:57:00,"During the second quarter when the effects of lockdowns were being felt by so many brick and mortar retailers, Lowe’s posted big revenue and EPS gains.",0.9496466517448425,0.024360815063118935,0.02599244751036167,positive,0.925285816192627
+37,2020-06-29 06:57:00,The summer is expected to continue that trend as people stay home and fix up their yards.,0.3081272542476654,0.016848139464855194,0.6750245690345764,neutral,0.2912791073322296
+38,2020-06-29 06:57:00,"The risk is that if the pandemic slows in the second half of the summer, the sudden interest in home renovation and yard work could drop off.",0.021703172475099564,0.9054043292999268,0.07289248704910278,negative,-0.8837011456489563
+39,2020-06-29 06:57:00,That would slow the spending and could add some volatility to LOW stock.,0.02822890132665634,0.9348239302635193,0.036947183310985565,negative,-0.9065950512886047
+40,2020-06-29 06:57:00,"That risk is part of the reason why overall, the stock gets a B-rating instead of an ‘A.’
+
+That being said, I believe the risk of things suddenly returning to normal remains relatively low.",0.14634904265403748,0.02825138531625271,0.8253995180130005,neutral,0.11809765547513962
+41,2020-06-29 06:57:00,"After all, the country just reported its single largest one-day gain in coronavirus cases since April.",0.7219157218933105,0.0993197038769722,0.17876456677913666,positive,0.622596025466919
+42,2020-06-29 06:57:00,"Having Americans hanging around the home through the summer will position Lowe’s stock for continued growth, making it a safe bet for your portfolio.",0.8854897022247314,0.01523557584732771,0.09927472472190857,positive,0.8702540993690491
+43,2020-06-29 06:57:00,And don’t forget those juicy dividends to sweeten the pot.,0.23085924983024597,0.05264216288924217,0.716498613357544,neutral,0.1782170832157135
+44,2020-06-29 06:57:00,"Louis Navellier had an unconventional start, as a grad student who accidentally built a market-beating stock system — with returns rivaling even Warren Buffett.",0.20356929302215576,0.1882939487695694,0.608136773109436,neutral,0.015275344252586365
+45,2020-06-29 06:57:00,"In his latest feat, Louis discovered the “Master Key” to profiting from the biggest tech revolution of this (or any) generation.",0.6762086749076843,0.026576509699225426,0.2972148656845093,positive,0.6496321558952332
+46,2020-06-29 06:57:00,Louis Navellier may hold some of the aforementioned securities in one or more of his newsletters.,0.012151041999459267,0.009621202014386654,0.9782277345657349,neutral,0.0025298399850726128
+47,2020-06-29 06:57:00,The post Lowe’s Stock Is Riding a Coronavirus-Fueled Home Improvement Wave appeared first on InvestorPlace.,0.3036796748638153,0.08170200139284134,0.6146183013916016,neutral,0.22197768092155457

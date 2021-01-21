@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-23 07:14:00,"Following the market opening Tuesday, the Dow traded down 0.25 percent to 16,579.78 while the NASDAQ slipped 0.39 percent to 4,552.67.",0.02169564738869667,0.9606512188911438,0.017653144896030426,negative,-0.938955545425415
+1,2016-02-23 07:14:00,"The S&P also fell, dropping 0.39 percent to 1,937.85.",0.018154993653297424,0.9720801115036011,0.009764911606907845,negative,-0.9539251327514648
+2,2016-02-23 07:14:00,"Tuesday morning, the cyclical consumer goods & services sector proved to be a source of strength for the market.",0.9200360178947449,0.023519184440374374,0.056444697082042694,positive,0.8965168595314026
+3,2016-02-23 07:14:00,"Leading the sector was strength from Bravo Brio Restaurant Group, Inc. (NASDAQ: BBRG ) and Trex Company, Inc. (NYSE: TREX ).",0.9190319180488586,0.018310489133000374,0.06265755742788315,positive,0.9007214307785034
+4,2016-02-23 07:14:00,"In trading on Tuesday, basic materials shares dropped by 1.17 percent.",0.0184687077999115,0.9729909300804138,0.008540418930351734,negative,-0.9545222520828247
+5,2016-02-23 07:14:00,"Meanwhile, top losers in the sector included Innophos Holdings, Inc. (NASDAQ: IPHS ), down 19 percent, and Century Aluminum Co (NASDAQ: CENX ), down 8 percent.",0.018445143476128578,0.9551196694374084,0.02643510140478611,negative,-0.9366745352745056
+6,2016-02-23 07:14:00,Home Depot Inc (NYSE: HD ) reported better-than-expected results for its fourth quarter.,0.8985572457313538,0.06871926784515381,0.03272353485226631,positive,0.8298379778862
+7,2016-02-23 07:14:00,Home Depot said it earned $1.17 per share in the fourth quarter on revenue of $20.98 billion.,0.29529502987861633,0.04408647119998932,0.6606185436248779,neutral,0.2512085437774658
+8,2016-02-23 07:14:00,Wall Street analysts were expecting the company to earn $1.10 per share on revenue of $20.39 billion.,0.7576770782470703,0.021096643060445786,0.2212262600660324,positive,0.7365804314613342
+9,2016-02-23 07:14:00,Comparable store sales for the quarter were +7.1 percent.,0.05839814990758896,0.053870100528001785,0.8877317905426025,neutral,0.0045280493795871735
+10,2016-02-23 07:14:00,Home Depot's Board of Directors also authorized a 17 percent increase to its quarterly dividend and investors will receive $0.69 per share.,0.773627758026123,0.013600929640233517,0.21277135610580444,positive,0.7600268125534058
+11,2016-02-23 07:14:00,"Looking forward to fiscal 2016, Home Depot expects to earn $6.12 to $6.18 per share on revenue of $88.084 billion to $88.838 billion.",0.7824859619140625,0.028764232993125916,0.1887497752904892,positive,0.7537217140197754
+12,2016-02-23 07:14:00,Wall Street analysts were already estimating the company to earn $6.16 per share on revenue of $93.12 billion.,0.7816582918167114,0.020801767706871033,0.19753992557525635,positive,0.7608565092086792
+13,2016-02-23 07:14:00,Newport Corp (NASDAQ: NEWP ) shares shot up 51 percent to $22.76.,0.9269863367080688,0.021757178008556366,0.0512564554810524,positive,0.9052291512489319
+14,2016-02-23 07:14:00,"MKS Instruments, Inc. (NASDAQ: MKSI ) announced plans to buy Newport for $980 million.",0.06941501796245575,0.004801745992153883,0.9257832169532776,neutral,0.06461327522993088
+15,2016-02-23 07:14:00,Newport reported upbeat Q4 earnings.,0.8453388214111328,0.060310497879981995,0.09435072541236877,positive,0.785028338432312
+16,2016-02-23 07:14:00,"Shares of Lantheus Holdings Inc (NASDAQ: LNTH ) got a boost, shooting up 20 percent to $2.44 after the company reported better-than-expected Q4 earnings.",0.9400836229324341,0.024873433634638786,0.035042960196733475,positive,0.9152101874351501
+17,2016-02-23 07:14:00,"MRC Global Inc (NYSE: MRC ) shares were also up, gaining 20 percent to $11.30 after the company reported upbeat Q4 earnings.",0.9429922103881836,0.02343088574707508,0.033576928079128265,positive,0.9195613265037537
+18,2016-02-23 07:14:00,"PTC Therapeutics, Inc. (NASDAQ: PTCT ) shares dropped 46 percent to $15.35 following announcement of receipt of refuse to file letter from the FDA for Translarna.",0.017585940659046173,0.9693928360939026,0.013021244667470455,negative,-0.951806902885437
+19,2016-02-23 07:14:00,Shares of Chegg Inc (NYSE: CHGG ) were down 38 percent to $3.29.,0.017741261050105095,0.9526893496513367,0.029569340869784355,negative,-0.9349480867385864
+20,2016-02-23 07:14:00,"Chegg reported better-than-expected quarterly earnings, but the company missed analysts' sales estimates.",0.03194500133395195,0.9510254263877869,0.017029600217938423,negative,-0.9190804362297058
+21,2016-02-23 07:14:00,The company also issued a weak forecast for sales.,0.01674148440361023,0.9633917212486267,0.019866904243826866,negative,-0.9466502666473389
+22,2016-02-23 07:14:00,"Power Solutions International Inc (NASDAQ: PSIX ) was down, falling around 23 percent to $8.30 after the company reported downbeat quarterly revenue and issued a weak FY16 revenue forecast.",0.017674343660473824,0.9702112078666687,0.012114554643630981,negative,-0.9525368809700012
+23,2016-02-23 07:14:00,"In commodity news, oil traded down 0.93 percent to $33.08, while gold traded up 0.96 percent to $1,221.70.",0.025346633046865463,0.9578842520713806,0.01676921360194683,negative,-0.9325376152992249
+24,2016-02-23 07:14:00,"Silver traded up 0.26 percent Tuesday to $15.26, while copper fell 0.42 percent to $2.11.",0.8297619819641113,0.10404805094003677,0.06619001179933548,positive,0.7257139086723328
+25,2016-02-23 07:14:00,European shares were lower today.,0.018981942906975746,0.9628152847290039,0.01820276863873005,negative,-0.9438333511352539
+26,2016-02-23 07:14:00,"The eurozone's STOXX 600 dropped 0.39 percent, the Spanish Ibex Index slipped 0.24 percent, while Italy's FTSE MIB Index declined 0.66 percent.",0.026939941570162773,0.9324138760566711,0.04064621403813362,negative,-0.9054739475250244
+27,2016-02-23 07:14:00,"Meanwhile, the German DAX slipped 0.82 percent, and the French CAC 40 declined 0.49 percent, while U.K. shares fell 0.63 percent.",0.019375918433070183,0.9601050615310669,0.020519014447927475,negative,-0.9407291412353516
+28,2016-02-23 07:14:00,The S&P/Case-Shiller home price index was steady for December.,0.3960238993167877,0.1614442765712738,0.44253188371658325,neutral,0.23457962274551392
+29,2016-02-23 07:14:00,"However, home prices adjusted for seasonal variations rose 0.8 percent in December.",0.8783537745475769,0.032762326300144196,0.08888397365808487,positive,0.8455914258956909
+30,2016-02-23 07:14:00,"The Conference Board's consumer confidence index fell to 92.2 in February, compared to a revised reading of 97.8 in January.",0.01790890097618103,0.9722708463668823,0.009820237755775452,negative,-0.9543619155883789
+31,2016-02-23 07:14:00,"However, economists were projecting a reading of 96.9.",0.08304233103990555,0.6216005086898804,0.2953571677207947,negative,-0.5385581851005554
+32,2016-02-23 07:14:00,Sales of existing homes increased 0.4 percent to an annual rate of 5.47 million in January.,0.9403543472290039,0.021668437868356705,0.03797721490263939,positive,0.9186859130859375
+33,2016-02-23 07:14:00,"However, economists were expecting a 5.30 million rate.",0.14292076230049133,0.6648845076560974,0.19219471514225006,negative,-0.5219637155532837
+34,2016-02-23 07:14:00,"The Richmond Fed's manufacturing index fell to a reading of -4.00 in February, versus a prior reading of 2.00.",0.018555471673607826,0.9720678329467773,0.009376758709549904,negative,-0.9535123705863953
+35,2016-02-23 07:14:00,"However, economists were expecting a reading of 2.00.",0.0969226211309433,0.652788519859314,0.25028881430625916,negative,-0.5558658838272095
+36,2016-02-23 07:14:00,© 2016 Benzinga.com.,0.024845656007528305,0.012067040428519249,0.9630873203277588,neutral,0.012778615579009056
+37,2016-02-23 07:14:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+38,2016-02-23 07:14:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+39,2016-02-23 07:14:00,Free Trading Education - Check out the free events taking place on Marketfy this week.,0.016787968575954437,0.009906403720378876,0.9733056426048279,neutral,0.0068815648555755615
+40,2016-02-23 07:14:00,Spaces are limited.,0.021315770223736763,0.12138502299785614,0.8572991490364075,neutral,-0.10006925463676453
+41,2016-02-23 07:14:00,Sign up today.,0.04344106838107109,0.006623172666877508,0.9499357342720032,neutral,0.036817897111177444
+42,2016-02-23 07:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

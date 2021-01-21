@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-17 07:43:00,"In early trading on Thursday, shares of Home Depot topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.4%.",0.9365919232368469,0.03284790739417076,0.030560126528143883,positive,0.9037440419197083
+1,2016-11-17 07:43:00,"Year to date, Home Depot has lost about 3.9% of its value.",0.017230555415153503,0.9523334503173828,0.030435964465141296,negative,-0.9351028800010681
+2,2016-11-17 07:43:00,"And the worst performing Dow component thus far on the day is Cisco Systems, trading down 6.0%.",0.019593046978116035,0.9639822244644165,0.01642477698624134,negative,-0.9443891644477844
+3,2016-11-17 07:43:00,Cisco Systems is showing a gain of 9.2% looking at the year to date performance.,0.9545230269432068,0.019444674253463745,0.0260323453694582,positive,0.9350783824920654
+4,2016-11-17 07:43:00,"Two other components making moves today are Wal-Mart Stores, trading down 3.0%, and JPMorgan Chase, trading up 1.3% on the day.",0.03130175545811653,0.9270588755607605,0.04163932427763939,negative,-0.8957571387290955
+5,2016-11-17 07:43:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

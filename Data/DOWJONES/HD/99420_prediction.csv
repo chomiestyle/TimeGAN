@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-25 00:34:00,News Flash : The stock market doesn't go straight up!,0.08592543005943298,0.24759119749069214,0.6664833426475525,neutral,-0.16166576743125916
+1,2015-08-25 00:34:00,"We often encounter a bunch of pullbacks, retracements, walking to the edge and threatening to jump off the cliff.",0.054083820432424545,0.19798904657363892,0.7479271292686462,neutral,-0.14390522241592407
+2,2015-08-25 00:34:00,We forget all about that because we're turning into participation trophy investors.,0.05591806769371033,0.02124536782503128,0.9228365421295166,neutral,0.03467269986867905
+3,2015-08-25 00:34:00,This market has rewarded the weak hands that limped in and amateurs who took their hairdresser's advice and bought Apple AAPL stock.,0.7401282787322998,0.05986088141798973,0.20001086592674255,positive,0.6802673935890198
+4,2015-08-25 00:34:00,We get it - Monday was an exceptionally chaotic/dramatic day for stocks.,0.09564173221588135,0.5126774311065674,0.3916808068752289,negative,-0.41703569889068604
+5,2015-08-25 00:34:00,"In just a few minutes after the opening bell, the Dow nosedived 1,089 points - the maximum loss ever witnessed during a single trading day, even exceeding the Flash Crash of 2010.",0.07822342216968536,0.8807971477508545,0.04097941890358925,negative,-0.8025737404823303
+6,2015-08-25 00:34:00,"The Dow lost 588 points before closing, the worst since Aug 2011.",0.019877104088664055,0.968686580657959,0.011436275206506252,negative,-0.9488095045089722
+7,2015-08-25 00:34:00,"For the second week now, stock markets across the world are in a panic due to concerns regarding China's economic slowdown.",0.03081025369465351,0.9332073926925659,0.03598225116729736,negative,-0.9023971557617188
+8,2015-08-25 00:34:00,"The wave of selling pushed the S&P 500 into correction for the first time since 2011, and pushed the Dow to close at an 18-month low.",0.3837336003780365,0.512878954410553,0.10338743776082993,negative,-0.12914535403251648
+9,2015-08-25 00:34:00,"In fact, stock prices for a number of iconic American Blue Chip companies (that are known to have survived quite a few challenges and market cycles) witnessed significant difference between the day's high and low.",0.477887898683548,0.38083380460739136,0.14127832651138306,positive,0.09705409407615662
+10,2015-08-25 00:34:00,"Some of them include -
+
+Most of the investors know that Blue Chip stocks have steady earnings.",0.3618343472480774,0.0280851349234581,0.6100805401802063,neutral,0.3337492048740387
+11,2015-08-25 00:34:00,"During an economic slump, investors may take refuge in them as they are secure.",0.22804132103919983,0.03377315402030945,0.7381855249404907,neutral,0.19426816701889038
+12,2015-08-25 00:34:00,Blue Chip companies provide security during phases of sluggish growth backed by their capable management teams and ability to generate consistent profits.,0.8310354351997375,0.01263983454555273,0.15632463991641998,positive,0.8183956146240234
+13,2015-08-25 00:34:00,"If these companies face such volatility, you might think that this is the end of the world and even hear the Four Horsemen of the Apocalypse galloping down Wall Street.",0.082974374294281,0.22369879484176636,0.6933267712593079,neutral,-0.14072442054748535
+14,2015-08-25 00:34:00,Guess what?,0.11678314208984375,0.10080753266811371,0.7824093699455261,neutral,0.01597560942173004
+15,2015-08-25 00:34:00,It is not as bad as people are making it out to be.,0.05928565934300423,0.38606342673301697,0.5546509027481079,neutral,-0.32677775621414185
+16,2015-08-25 00:34:00,"It was not ""Black Monday.""",0.03818541020154953,0.05233484506607056,0.9094797372817993,neutral,-0.014149434864521027
+17,2015-08-25 00:34:00,"It was ""Green Monday"" -- there were deals to be had across the board.",0.3135899305343628,0.031838927417993546,0.6545711159706116,neutral,0.28175100684165955
+18,2015-08-25 00:34:00,Stick to the basics and look for stocks with solid earnings stories that are still showing some strength relative to the rest of this market.,0.3970559239387512,0.013508183881640434,0.5894359350204468,neutral,0.38354775309562683
+19,2015-08-25 00:34:00,How about a Zacks Rank #1 (Strong Buy) or Zacks Rank #2 (Buy) Blue Chip stock?,0.16543270647525787,0.012540609575808048,0.8220266699790955,neutral,0.1528920978307724
+20,2015-08-25 00:34:00,That gives us four solid ideas right here (with two from the table above!).,0.3026849925518036,0.019475668668746948,0.6778393983840942,neutral,0.28320932388305664
+21,2015-08-25 00:34:00,"The Home Depot, Inc. and Ford Motor Co. did not have a good day yesterday.",0.027424992993474007,0.9134204983711243,0.05915450677275658,negative,-0.8859955072402954
+22,2015-08-25 00:34:00,Agreed.,0.41973429918289185,0.05249573662877083,0.5277699828147888,neutral,0.3672385513782501
+23,2015-08-25 00:34:00,But it was just one of those days for these stocks.,0.039782486855983734,0.031910281628370285,0.9283071756362915,neutral,0.007872205227613449
+24,2015-08-25 00:34:00,So go buy them when they are on sale!,0.06300320476293564,0.010258057154715061,0.9267386794090271,neutral,0.05274514853954315
+25,2015-08-25 00:34:00,"Home Depot and Ford have a Zacks Rank #2, Amazon.com Inc. AMZN and Toyota Motor Corporation TM sport a Zacks Rank #1.",0.06857084482908249,0.029478713870048523,0.9019504189491272,neutral,0.039092130959033966
+26,2015-08-25 00:34:00,Days like this are when money is minted on the market.,0.05963607877492905,0.05226084217429161,0.8881030678749084,neutral,0.007375236600637436
+27,2015-08-25 00:34:00,You can't flee from a market like this.,0.04279973357915878,0.10492902994155884,0.852271318435669,neutral,-0.062129296362400055
+28,2015-08-25 00:34:00,So march ahead and scoop up strong stocks that will sail through this volatility.,0.6518670320510864,0.014958945102989674,0.33317410945892334,positive,0.6369081139564514
+29,2015-08-25 00:34:00,"Don't be emotional, instead be a smart investor and fortunes will find their way into your portfolio.",0.30953243374824524,0.011028759181499481,0.6794388294219971,neutral,0.29850366711616516
+30,2015-08-25 00:34:00,This is your time to shine and our choice of stocks is your trump card.,0.1561271697282791,0.006852265913039446,0.8370205163955688,neutral,0.14927490055561066
+31,2015-08-25 00:34:00,"Test your mettle, forge your fortitude in the blazing market panic.",0.7210994362831116,0.03031333163380623,0.24858728051185608,positive,0.6907861232757568
+32,2015-08-25 00:34:00,"That's what separates the Pitt from the Poodles, platinum from white gold, women and men from wimps and mice.",0.04333588480949402,0.011498327367007732,0.945165753364563,neutral,0.03183755651116371
+33,2015-08-25 00:34:00,THIS...IS...WALL…STREET!,0.07486175000667572,0.05609521642327309,0.8690429925918579,neutral,0.018766533583402634
+34,2015-08-25 00:34:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+35,2015-08-25 00:34:00,"Today, you can download 7 Best Stocks for the Next 30 Days .",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+36,2015-08-25 00:34:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+37,2015-08-25 00:34:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+38,2015-08-25 00:34:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+39,2015-08-25 00:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

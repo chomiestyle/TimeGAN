@@ -1,0 +1,31 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-05-27 06:00:00,Having a six or seven figure sized investment portfolio doesn't automatically make it smart.,0.040874630212783813,0.017217008396983147,0.9419084191322327,neutral,0.023657621815800667
+1,2014-05-27 06:00:00,"Such is the case with a $725,000 investment portfolio that I recently graded.",0.08043446391820908,0.008028201758861542,0.9115372896194458,neutral,0.07240626215934753
+2,2014-05-27 06:00:00,"An investment Portfolio Report Card request was made to me by a mid-40s software engineer who described himself as an ""aggressive investor.""",0.033355165272951126,0.010713440366089344,0.9559314250946045,neutral,0.022641725838184357
+3,2014-05-27 06:00:00,Software is a pretty aggressive business and I've seen these types of portfolios before.,0.09234092384576797,0.005645076744258404,0.9020140767097473,neutral,0.0866958498954773
+4,2014-05-27 06:00:00,"Basically, the portfolio is a reflection of how the person manages their business career rather than being a reflection of who they are as an investor.",0.025231365114450455,0.008235864341259003,0.9665327072143555,neutral,0.016995500773191452
+5,2014-05-27 06:00:00,"Needless to say, it's the exact opposite of a match made in heaven.",0.05806796997785568,0.04055699333548546,0.9013750553131104,neutral,0.017510976642370224
+6,2014-05-27 06:00:00,"People are always told to invest in what they know, which is a perfectly unacceptable excuse for overdosing on too much of the same types of over familiar investments.",0.05543731525540352,0.36377739906311035,0.58078533411026,neutral,-0.30834007263183594
+7,2014-05-27 06:00:00,Can you guess what type of investments a software engineer might buy?,0.036939479410648346,0.013146273791790009,0.9499142169952393,neutral,0.023793205618858337
+8,2014-05-27 06:00:00,"Bingo, if you guessed ""technology stocks.""",0.07592166215181351,0.040943875908851624,0.8831344246864319,neutral,0.034977786242961884
+9,2014-05-27 06:00:00,"Granted, technology hasn't been a bad place to invest over the past few years.",0.09417971223592758,0.04944290965795517,0.8563774228096008,neutral,0.04473680257797241
+10,2014-05-27 06:00:00,"Since 2009, S&P 500 technology stocks (NYSEARCA:XLK) have gained around 119%, beating the S&P 500's (NYSEARCA:VOO) 114% gain.",0.9538035988807678,0.026929985731840134,0.019266359508037567,positive,0.9268736243247986
+11,2014-05-27 06:00:00,"The problem is the bulk of money in the $725,000 portfolio I graded was heavily overconcentrated in technology.",0.026834193617105484,0.25640618801116943,0.7167595624923706,neutral,-0.22957199811935425
+12,2014-05-27 06:00:00,"It held two mutual funds, two ETFs, and 16 individual stocks.",0.016918659210205078,0.008144013583660126,0.9749372601509094,neutral,0.008774645626544952
+13,2014-05-27 06:00:00,The owner was sure that his investments were fully diversified because two of the funds - the Nasdaq-100 ETF (NasdaqGM:QQQ) and the Technology Sector SPDR ETF (NYSEARCA:XLK) - each hold various types of tech stocks.,0.05206621438264847,0.005349687300622463,0.9425840973854065,neutral,0.04671652615070343
+14,2014-05-27 06:00:00,"From a correlation angle, both QQQ and XLK behave and perform so similarly it makes zero sense to own both funds in the same portfolio at the same time.",0.0315701961517334,0.033813782036304474,0.9346160292625427,neutral,-0.0022435858845710754
+15,2014-05-27 06:00:00,"On top of that, some of the 16 stocks held within the portfolio like Oracle and Salesforce.com ( CRM ) are duplicate holdings within QQQ and XLK.",0.019020073115825653,0.017374807968735695,0.9636050462722778,neutral,0.0016452651470899582
+16,2014-05-27 06:00:00,Constructing a portfolio that neither exceeds nor undershoots an investor's risk capacity is like finding a $30 million Henri Matisse painting for $50 at a swap meet.,0.2643767297267914,0.01097946148365736,0.7246438264846802,neutral,0.25339725613594055
+17,2014-05-27 06:00:00,It's rare.,0.07158562541007996,0.027544118463993073,0.9008702039718628,neutral,0.044041506946086884
+18,2014-05-27 06:00:00,"But for investors, it's absolutely necessary.",0.1313474178314209,0.009373333305120468,0.8592792749404907,neutral,0.12197408080101013
+19,2014-05-27 06:00:00,"Still, a $725,000 committed exclusively to technology stocks, isn't going to pass my Portfolio Report Card by totally missing exposure to major asset classes like global real estate (NYSEARCA:RWO), commodities (NYSEARCA:DBC), and emerging markets (NYSEARCA:VWO).",0.04138687252998352,0.66248619556427,0.2961269021034241,negative,-0.6210993528366089
+20,2014-05-27 06:00:00,"The final grade for this software engineer's Portfolio Report Card was ""D.""
+
+On a positive note, he's already made some portfolio adjustments and dialed down the risk.",0.4042845368385315,0.03172414004802704,0.5639913082122803,neutral,0.37256038188934326
+21,2014-05-27 06:00:00,"Not only is he better off, but he's back on track to reaching his financial goals.",0.8147776126861572,0.01647765189409256,0.1687447875738144,positive,0.7982999682426453
+22,2014-05-27 06:00:00,What's wrong with your investment portfolio?,0.07303155958652496,0.1739179491996765,0.7530504465103149,neutral,-0.10088638961315155
+23,2014-05-27 06:00:00,Ron DeLegge's Portfolio Report Card will tell you.,0.019071899354457855,0.014873472042381763,0.9660546183586121,neutral,0.004198427312076092
+24,2014-05-27 06:00:00,"And if your portfolio is smart enough to score an ""A,"" you'll get $100.",0.35689646005630493,0.012596610933542252,0.6305069327354431,neutral,0.344299852848053
+25,2014-05-27 06:00:00,It's Ron's way of rewarding well-built investment portfolios.,0.29284605383872986,0.007929177023470402,0.6992247700691223,neutral,0.28491687774658203
+26,2014-05-27 06:00:00,• Should Buy and Hold Investing Be Scrapped?,0.03683969005942345,0.07264664024114609,0.8905135989189148,neutral,-0.03580695018172264
+27,2014-05-27 06:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

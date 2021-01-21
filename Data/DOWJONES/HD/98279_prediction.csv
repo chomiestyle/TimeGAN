@@ -1,0 +1,92 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-18 05:30:00,"Chicago, IL - May 18, 2017 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01849125139415264,0.008493191562592983,0.9730154871940613,neutral,0.009998059831559658
+1,2017-05-18 05:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2017-05-18 05:30:00,"Stocks recently featured in the blog include Pfizer (NYSE: PFE- Free Report ), Home Depot (NYSE: HD- Free Report ), ConocoPhillips (NYSE: COP- Free Report ), Prudential Financial (NYSE: PRU- Free Report ) and Canadian Pacific (NYSE: CP- Free Report ).",0.018559051677584648,0.011806967668235302,0.9696339964866638,neutral,0.006752084009349346
+3,2017-05-18 05:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2017-05-18 05:30:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2017-05-18 05:30:00,"Here are highlights from Wednesday's Analyst Blog:
+
+Today's Research Daily features new research reports on 16 major stocks, including Pfizer (NYSE: PFE- Free Report ), Home Depot (NYSE: HD- Free Report ) and ConocoPhillips (NYSE: COP- Free Report ).",0.017196763306856155,0.01165757142007351,0.9711456894874573,neutral,0.005539191886782646
+6,2017-05-18 05:30:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+7,2017-05-18 05:30:00,"You can see all of today's research reports here >>>
+
+A brief comment about today's market action is in order before we discuss the featured analyst reports.",0.013565176166594028,0.008372403681278229,0.9780624508857727,neutral,0.0051927724853158
+8,2017-05-18 05:30:00,"Stocks appeared immune to the Washington drama for a while, but have started taking note of the issue in today's issue.",0.14762069284915924,0.06752180308103561,0.7848575115203857,neutral,0.08009888976812363
+9,2017-05-18 05:30:00,"This isn't helping stocks or the dollar, though safe-haven trades into treasuries and gold are doing better.",0.16669514775276184,0.7160305380821228,0.11727430671453476,negative,-0.5493353605270386
+10,2017-05-18 05:30:00,The key question that market participants are grappling with is the future of the Trump Agenda in the current backdrop of a never-ending cycle of crises.,0.07133650034666061,0.24286596477031708,0.6857975125312805,neutral,-0.17152947187423706
+11,2017-05-18 05:30:00,"If the administration is unable to lead Congress into enacting tax reforms and other pro-growth measures, then we probably need to get ready for the market to retrace its steps to the pre-election level.",0.39115723967552185,0.02512705884873867,0.5837156772613525,neutral,0.36603018641471863
+12,2017-05-18 05:30:00,"As a reference, the S&P 500 index is up +12% in the post-election period while the Russell 2000 index is up +15.7%.",0.9259373545646667,0.02248573862016201,0.05157693102955818,positive,0.9034516215324402
+13,2017-05-18 05:30:00,Pfizer shares have underperformed the peer group as well as the broader market over the past year (the stock is down -1.7% over the last one year vs. a +4.6% increase for the Zacks Large-Cap Pharma industry) +15.8% gain for the S&P 500 index) on continued drug pricing uncertainty that have refused to go away even after the election.,0.18006333708763123,0.7995913028717041,0.020345395430922508,negative,-0.6195279359817505
+14,2017-05-18 05:30:00,"These headwinds notwithstanding, the Zacks analyst is pointing out that Pfizer is strengthening its product portfolio as well as pipeline through acquisitions and licensing deals.",0.9526172876358032,0.016629425808787346,0.030753295868635178,positive,0.9359878897666931
+15,2017-05-18 05:30:00,"Also, cost-savings and share buybacks should help Pfizer achieve its earnings guidance.",0.9459279179573059,0.01625652424991131,0.037815533578395844,positive,0.9296714067459106
+16,2017-05-18 05:30:00,"While the Hospira acquisition has significantly expanded Pfizer's sterile injectable and biosimilar capabilities, the Medivation deal has strengthened its cancer franchise by adding Xtandi to its portfolio.",0.9508062601089478,0.016845030710101128,0.03234875202178955,positive,0.9339612126350403
+17,2017-05-18 05:30:00,"(You can read the full research report on Pfizer here >>> )
+
+Home Depot sharesare up +16.3% in the year-to-date period, outperforming the Zacks Retail sector (up +13.2%) and the broader market (S&P 500 up +7.5%) in that same time period.",0.9334877133369446,0.03696320578455925,0.029549067839980125,positive,0.8965244889259338
+18,2017-05-18 05:30:00,"Improving customer experience, solid execution and consistent housing market recovery helped the company post an earnings surprise in first-quarter fiscal 2017, retaining the four-year long trend of beating earnings estimates.",0.9499971866607666,0.028000472113490105,0.022002337500452995,positive,0.9219967126846313
+19,2017-05-18 05:30:00,"The company's relentless focus on offering innovative products, boosting interconnected customer experience and driving productivity seems to be paying off.",0.9154110550880432,0.014481095597147942,0.07010792195796967,positive,0.9009299874305725
+20,2017-05-18 05:30:00,"Moreover, the company raised earnings guidance for fiscal 2017 while retaining its sales view.",0.9255759716033936,0.017215212807059288,0.057208795100450516,positive,0.9083607792854309
+21,2017-05-18 05:30:00,"On the flip side, market participants can justifiably raise valuation concerns, particularly following the stock's stellar recent performance.",0.85821932554245,0.03673705831170082,0.1050436794757843,positive,0.821482241153717
+22,2017-05-18 05:30:00,"(You can read the full research report on Home Depot here>>> )
+
+ConocoPhillips shares are down -5.9% in the year-to-date period, roughly in-line with the Zacks Energy sector's performance in the same time period, on weakness in oil prices .",0.01939934305846691,0.970630943775177,0.009969795122742653,negative,-0.9512315988540649
+23,2017-05-18 05:30:00,"During the first quarter of this year, the company's loss per share narrowed considerably while its top line beat estimates.",0.8739879727363586,0.07952690124511719,0.046485114842653275,positive,0.7944610714912415
+24,2017-05-18 05:30:00,This was owing to improved commodity price realizations and increased production.,0.9457469582557678,0.0158928781747818,0.03836017847061157,positive,0.9298540949821472
+25,2017-05-18 05:30:00,But the quarterly loss compared unfavorably with estimates for the January-March quarter.,0.07354472577571869,0.8957330584526062,0.030722174793481827,negative,-0.8221883177757263
+26,2017-05-18 05:30:00,"Higher expenses, along with normal field declines and dispositions, led to the underperformance.",0.022626332938671112,0.9550004005432129,0.022373223677277565,negative,-0.9323740601539612
+27,2017-05-18 05:30:00,"However, the company's plan to reposition its asset base by divesting low-margin assets and using the sale proceeds to pay down debt and return cash to shareholders is proceeding nicely.",0.8749427199363708,0.012977352365851402,0.11207987368106842,positive,0.8619653582572937
+28,2017-05-18 05:30:00,The company decided to divest its interest in the San Juan Basin - rich in natural gas - for a consideration of almost $3 billion.,0.07262267917394638,0.031010864302515984,0.8963664770126343,neutral,0.04161181300878525
+29,2017-05-18 05:30:00,"The accord reflects ConocoPhillips' intention to lower its exposure to the U.S. natural gas business, which has been less profitable in recent years.",0.7313669919967651,0.06570110470056534,0.2029319554567337,positive,0.665665864944458
+30,2017-05-18 05:30:00,"(You can read the full research report on ConocoPhillips here>>> )
+
+Other noteworthy reports we are featuring today include Prudential Financial (NYSE: PRU- Free Report ) and Canadian Pacific (NYSE: CP- Free Report ).",0.024111228063702583,0.007278325967490673,0.968610405921936,neutral,0.016832903027534485
+31,2017-05-18 05:30:00,"The Best & Worst of Zacks
+
+Today you are invited to download the full, up-to-the-minute list of 220 Zacks Rank #1 ""Strong Buys"" free of charge.",0.10932573676109314,0.01583641581237316,0.8748378157615662,neutral,0.09348931908607483
+32,2017-05-18 05:30:00,From 1988 through 2015 this list has averaged a stellar gain of +25% per year.,0.8781132698059082,0.01517540868371725,0.10671132057905197,positive,0.862937867641449
+33,2017-05-18 05:30:00,"Plus, you may download 220 Zacks Rank #5 ""Strong Sells.""",0.2523351013660431,0.039101745933294296,0.7085631489753723,neutral,0.2132333517074585
+34,2017-05-18 05:30:00,"Even though this list holds many stocks that seem to be solid, it has historically performed 11X worse than the market.",0.02278171293437481,0.9607720971107483,0.016446147114038467,negative,-0.9379903674125671
+35,2017-05-18 05:30:00,"See these critical buys and sells free >>
+
+Today, Zacks is promoting its ''Buy'' stock recommendations.",0.39207175374031067,0.012364483438432217,0.5955637097358704,neutral,0.3797072768211365
+36,2017-05-18 05:30:00,Get #1 Stock of the Day pick for free .,0.2226315140724182,0.024793583899736404,0.7525749206542969,neutral,0.1978379338979721
+37,2017-05-18 05:30:00,Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.,0.06386703997850418,0.004654404241591692,0.9314785599708557,neutral,0.059212636202573776
+38,2017-05-18 05:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+39,2017-05-18 05:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+40,2017-05-18 05:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+41,2017-05-18 05:30:00,"Strong Stocks that Should Be in the News
+
+Many are little publicized and fly under the Wall Street radar.",0.044983625411987305,0.5624399185180664,0.3925764560699463,negative,-0.5174562931060791
+42,2017-05-18 05:30:00,They're virtually unknown to the general public.,0.035764459520578384,0.0785161554813385,0.885719358921051,neutral,-0.04275169596076012
+43,2017-05-18 05:30:00,"Yet today's 220 Zacks Rank #1 ""Strong Buys"" were generated by the stock-picking system that has nearly tripled the market from 1988 through 2015.",0.6580293774604797,0.017276067286729813,0.32469451427459717,positive,0.6407533288002014
+44,2017-05-18 05:30:00,Its average gain has been a stellar +26% per year.,0.8422174453735352,0.0191669799387455,0.13861553370952606,positive,0.8230504393577576
+45,2017-05-18 05:30:00,See these high-potential stocks free >>.,0.12527841329574585,0.05778927728533745,0.8169323205947876,neutral,0.0674891322851181
+46,2017-05-18 05:30:00,"Get the full Report on HY - FREE
+
+Get the full Report on AIT - FREE
+
+Get the full Report on UFI - FREE
+
+Get the full Report on HSC - FREE
+
+Get the full Report on NNBR - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.014158528298139572,0.00976578425616026,0.9760756492614746,neutral,0.004392744041979313
+47,2017-05-18 05:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+48,2017-05-18 05:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+49,2017-05-18 05:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+50,2017-05-18 05:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+51,2017-05-18 05:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+52,2017-05-18 05:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+53,2017-05-18 05:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+54,2017-05-18 05:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+55,2017-05-18 05:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+56,2017-05-18 05:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+57,2017-05-18 05:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+58,2017-05-18 05:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+59,2017-05-18 05:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+60,2017-05-18 05:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+61,2017-05-18 05:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+62,2017-05-18 05:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

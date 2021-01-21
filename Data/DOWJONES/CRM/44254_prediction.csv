@@ -1,0 +1,40 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-19 02:30:00,Success often comes from the top down.,0.11495695263147354,0.019092032685875893,0.8659510612487793,neutral,0.0958649218082428
+1,2019-06-19 02:30:00,A good CEO sets the tone for his or her company and inspires employees to do the best job possible.,0.38614606857299805,0.012967891059815884,0.6008860468864441,neutral,0.3731781840324402
+2,2019-06-19 02:30:00,"That's why investors should look for companies with a top executive who's not just well-liked by the public, but also by the people who work for her or him.",0.10659852623939514,0.011392681859433651,0.8820087313652039,neutral,0.09520584344863892
+3,2019-06-19 02:30:00,"The annual Glassdoor Employee Choice awards used data from workers ""who voluntarily provide anonymous feedback by completing a company review about their CEO's leadership, along with insights into their job, work environment and employer over the past year,"" according to a press release.",0.08997119963169098,0.017198702320456505,0.8928300738334656,neutral,0.07277249544858932
+4,2019-06-19 02:30:00,These rankings aren't about public perception.,0.022554120048880577,0.00895919743925333,0.9684866070747375,neutral,0.013594922609627247
+5,2019-06-19 02:30:00,"They rank the CEOs of companies with at least 1,000 workers using at least 100 ratings from employees during the eligible period.",0.026960229501128197,0.008072694763541222,0.9649670124053955,neutral,0.018887534737586975
+6,2019-06-19 02:30:00,A good CEO can set the tone for the whole company.,0.16475819051265717,0.010537749156355858,0.824704110622406,neutral,0.15422044694423676
+7,2019-06-19 02:30:00,Image source: Getty Images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+8,2019-06-19 02:30:00,Who are the top big company CEOs?,0.055451877415180206,0.048168960958719254,0.8963791131973267,neutral,0.007282916456460953
+9,2019-06-19 02:30:00,The majority of the top-50 CEOs (27) come from technology companies.,0.013861391693353653,0.010905980132520199,0.9752326607704163,neutral,0.002955411560833454
+10,2019-06-19 02:30:00,That's up from 26 last year.,0.9503874182701111,0.022628167644143105,0.026984376832842827,positive,0.9277592301368713
+11,2019-06-19 02:30:00,"That was followed by healthcare with 12, up from 11 in 2018; manufacturing with eight; and both retail and restaurants claiming seven spots.",0.8745429515838623,0.02969859167933464,0.09575842320919037,positive,0.8448443412780762
+12,2019-06-19 02:30:00,"(Note: This is at the time of the awards, as some CEOs have since departed.)",0.01390938088297844,0.13247564435005188,0.8536149263381958,neutral,-0.11856625974178314
+13,2019-06-19 02:30:00,What's clear from the rankings is that there's very little separation between the top CEOs.,0.01575428619980812,0.03737041354179382,0.9468753337860107,neutral,-0.021616127341985703
+14,2019-06-19 02:30:00,"The top-ranked leaders scored a 99% approval ranking from their employees, while the 20th-ranked CEO still scored a 96% approval rating.",0.6347706913948059,0.024216361343860626,0.3410129249095917,positive,0.6105543375015259
+15,2019-06-19 02:30:00,"""Today's job seekers are looking for leaders who share their values and will empower them to bring their full selves to work,"" said Glassdoor COO Christian Sutherland-Wong in a press release.",0.8059683442115784,0.015062698163092136,0.17896901071071625,positive,0.7909056544303894
+16,2019-06-19 02:30:00,"""More and more, we're seeing Top CEOs make decisions to shape the culture of their organizations to help recruit and retain quality talent, which has a direct correlation to fueling business success.""",0.5605672001838684,0.013718614354729652,0.4257141649723053,positive,0.5468485951423645
+17,2019-06-19 02:30:00,What does this mean for job seekers?,0.09666190296411514,0.2978912889957428,0.6054467558860779,neutral,-0.20122939348220825
+18,2019-06-19 02:30:00,"While a good CEO does not guarantee a pleasant working environment, it's a very good sign.",0.7990232110023499,0.018700843676924706,0.18227599561214447,positive,0.7803223729133606
+19,2019-06-19 02:30:00,"As you search for a job, it's smart to research a company's top boss.",0.05885033681988716,0.030626727268099785,0.9105229377746582,neutral,0.028223609551787376
+20,2019-06-19 02:30:00,"If it's someone on this list, that's a strong point in favor of your accepting the position.",0.1935962289571762,0.016701728105545044,0.7897019982337952,neutral,0.17689450085163116
+21,2019-06-19 02:30:00,"Most CEOs, however, don't make this list -- and the leaders of smaller companies may be harder to find information on.",0.034852031618356705,0.20159129798412323,0.763556718826294,neutral,-0.16673927009105682
+22,2019-06-19 02:30:00,"When you consider accepting a job at a smaller company, try to talk to present employees to get their opinion.",0.04730767756700516,0.01282093208283186,0.9398714303970337,neutral,0.03448674455285072
+23,2019-06-19 02:30:00,Look to see if the average person has been there for a long time -- that's generally a good sign -- and learn what you can about the CEO's reputation.,0.046450596302747726,0.010131879709661007,0.943417489528656,neutral,0.036318715661764145
+24,2019-06-19 02:30:00,"Your position may be many levels removed from the CEO, but that doesn't mean the CEO won't affect you.",0.020236168056726456,0.0884222686290741,0.8913415670394897,neutral,-0.06818610429763794
+25,2019-06-19 02:30:00,Awful bosses tend to create negative cultures that infect the entire organization.,0.055200014263391495,0.851611316204071,0.09318859130144119,negative,-0.7964112758636475
+26,2019-06-19 02:30:00,It's important to figure out whether that's the case before you make the decision to accept a job.,0.08819975703954697,0.04596320912241936,0.8658369779586792,neutral,0.04223654791712761
+27,2019-06-19 02:30:00,"The $16,728 Social Security bonus most retirees completely overlook 
+
+If you're like most Americans, you're a few years (or more) behind on your retirement savings.",0.09873557090759277,0.20154371857643127,0.6997206807136536,neutral,-0.1028081476688385
+28,2019-06-19 02:30:00,"But a handful of little-known ""Social Security secrets"" could help ensure a boost in your retirement income.",0.42587700486183167,0.05124306678771973,0.522879958152771,neutral,0.37463393807411194
+29,2019-06-19 02:30:00,"For example: one easy trick could pay you as much as $16,728 more... each year!",0.09068891406059265,0.031686555594205856,0.87762451171875,neutral,0.059002358466386795
+30,2019-06-19 02:30:00,"Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after.",0.35658568143844604,0.011904616840183735,0.6315096616744995,neutral,0.344681054353714
+31,2019-06-19 02:30:00,Simply click here to discover how to learn more about these strategies.,0.04130851849913597,0.009173430502414703,0.9495180249214172,neutral,0.03213508799672127
+32,2019-06-19 02:30:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+33,2019-06-19 02:30:00,Daniel B. Kline owns shares of Microsoft.,0.020350996404886246,0.012305316515266895,0.9673436880111694,neutral,0.00804567988961935
+34,2019-06-19 02:30:00,"The Motley Fool owns shares of and recommends HubSpot, Intuitive Surgical, Microsoft, NVIDIA, and Salesforce.com.",0.02863839641213417,0.017474092543125153,0.9538875222206116,neutral,0.011164303869009018
+35,2019-06-19 02:30:00,"The Motley Fool recommends Adobe Systems, T-Mobile US, and VMware.",0.02351660467684269,0.02502446435391903,0.9514589309692383,neutral,-0.0015078596770763397
+36,2019-06-19 02:30:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

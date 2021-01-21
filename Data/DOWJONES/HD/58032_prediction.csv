@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-07 10:15:00,The problem with owning stocks you don't understand is that it's hard to know what to do when bad (or even good) news arises.,0.03370247408747673,0.18802066147327423,0.7782769203186035,neutral,-0.1543181836605072
+1,2019-12-07 10:15:00,Should you sell?,0.07498378306627274,0.044433388859033585,0.8805828094482422,neutral,0.03055039420723915
+2,2019-12-07 10:15:00,Or maybe hold?,0.1707039326429367,0.10763619840145111,0.7216598987579346,neutral,0.0630677342414856
+3,2019-12-07 10:15:00,"You might not have enough context to make an informed decision, and at that point, you are really just guessing.",0.05392942577600479,0.10041254758834839,0.845658004283905,neutral,-0.0464831218123436
+4,2019-12-07 10:15:00,That's not the best way to invest your hard-earned money.,0.054017502814531326,0.25068721175193787,0.6952952742576599,neutral,-0.19666971266269684
+5,2019-12-07 10:15:00,Here are three companies you may already be familiar with as a customer that are easy to understand and might just deserve a place in your portfolio.,0.10838790982961655,0.007060670293867588,0.8845514059066772,neutral,0.10132724046707153
+6,2019-12-07 10:15:00,It started as a simple concept: have a limited menu of fresh ingredients and build a made-to-order burrito quickly with an efficient serving line.,0.10414322465658188,0.006331079639494419,0.8895257115364075,neutral,0.09781214594841003
+7,2019-12-07 10:15:00,"Chipotle Mexican Grill (NYSE: CMG) has been executing this model since it was founded, and the metrics are easy to grasp: More burritos means more revenue.",0.5819348096847534,0.01074304897338152,0.4073221981525421,positive,0.5711917877197266
+8,2019-12-07 10:15:00,Serve more customers per store and margins improve.,0.9428316354751587,0.019680403172969818,0.03748802840709686,positive,0.9231512546539307
+9,2019-12-07 10:15:00,Add more stores and revenue grows even more.,0.9245259165763855,0.017355628311634064,0.05811842903494835,positive,0.907170295715332
+10,2019-12-07 10:15:00,This was the story of this fast-casual restaurant for its first 22 years of operation.,0.05695195496082306,0.006793549284338951,0.9362545013427734,neutral,0.05015840381383896
+11,2019-12-07 10:15:00,Investing in stocks doesn't have to be complicated.,0.04581683874130249,0.006304448936134577,0.9478787183761597,neutral,0.03951238840818405
+12,2019-12-07 10:15:00,Image source: Getty images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+13,2019-12-07 10:15:00,"But in 2015, Chipotle hit a bump in the road when some customers got sick from E. coli and norovirus outbreaks.",0.029067333787679672,0.9496034383773804,0.021329177543520927,negative,-0.9205361008644104
+14,2019-12-07 10:15:00,"When things go wrong, this simple business model works against you.",0.036227546632289886,0.024438071995973587,0.9393343329429626,neutral,0.0117894746363163
+15,2019-12-07 10:15:00,"When news spread of burrito lovers getting sick, many people reduced how often they visited or stopped coming altogether.",0.051774028688669205,0.7644687294960022,0.1837572157382965,negative,-0.7126947045326233
+16,2019-12-07 10:15:00,Fewer people visiting stores means less revenue.,0.01848546974360943,0.9142870306968689,0.06722747534513474,negative,-0.8958015441894531
+17,2019-12-07 10:15:00,"But locations still incur costs just to stay open, which hurts margins.",0.019474878907203674,0.9664091467857361,0.014115980826318264,negative,-0.9469342827796936
+18,2019-12-07 10:15:00,The company has been working hard to put these events behind it.,0.2198612242937088,0.01665009930729866,0.7634886503219604,neutral,0.20321112871170044
+19,2019-12-07 10:15:00,"Along with instituting new food safety measures, Chipotle added new menu items and a loyalty program, improved its ordering app, and created a new advertising campaign in an effort to get burrito fans to come back.",0.8581563830375671,0.0171757023781538,0.12466790527105331,positive,0.8409807085990906
+20,2019-12-07 10:15:00,"These moves are starting to pay off, and the stock has responded by bouncing back near all-time highs.",0.9235614538192749,0.028537295758724213,0.04790123924612999,positive,0.8950241804122925
+21,2019-12-07 10:15:00,Patient investors who have held the stock over the last 10 years have been rewarded with solid market-beating results.,0.9417933225631714,0.01731574721634388,0.0408908948302269,positive,0.9244775772094727
+22,2019-12-07 10:15:00,It's an easy strategy to understand: offer a wide array of products for the home and ensure customers have a great experience interacting with the brand.,0.3199915885925293,0.00756765017285943,0.672440767288208,neutral,0.3124239444732666
+23,2019-12-07 10:15:00,Home Depot (NYSE: HD) is known for having knowledgeable orange-aproned associates to serve in-store visitors.,0.14771264791488647,0.009152106009423733,0.8431352376937866,neutral,0.13856054842472076
+24,2019-12-07 10:15:00,"Further improving the customer experience, it's investing in its One Home Depot initiative to allow do-it-yourselfers (DIYers) to have a frictionless ordering experience whether it's online or in the store.",0.868973433971405,0.012494267895817757,0.11853233724832535,positive,0.8564791679382324
+25,2019-12-07 10:15:00,"In addition to the DIYers, Home Depot has another key customer group that spends even more in its stores: professionals.",0.041739221662282944,0.01737786829471588,0.9408829212188721,neutral,0.024361353367567062
+26,2019-12-07 10:15:00,"That only makes sense, as their business relies on having the right materials to build, repair, maintain, or remodel homes or office spaces.",0.027312539517879486,0.00772392051294446,0.9649636149406433,neutral,0.019588619470596313
+27,2019-12-07 10:15:00,"The company has created a business-to-business (B2B) website specifically for pros to make it easier for them to purchase goods, track spending, and receive bulk discounts.",0.2750110924243927,0.007875391282141209,0.7171135544776917,neutral,0.26713570952415466
+28,2019-12-07 10:15:00,"Some financial metrics are also easy to understand like sales per square foot, same-store sales, and average ticket.",0.049926768988370895,0.007418980821967125,0.9426543116569519,neutral,0.04250779002904892
+29,2019-12-07 10:15:00,"As sales per square footage goes up, the company is getting better utilization of its brick-and-mortar stores.",0.9112036228179932,0.018742188811302185,0.07005416601896286,positive,0.8924614191055298
+30,2019-12-07 10:15:00,"As same-store sales increase, revenue per store is increasing, also helping margins.",0.9527493119239807,0.020063333213329315,0.027187367901206017,positive,0.9326859712600708
+31,2019-12-07 10:15:00,"Lastly, as average ticket sales go up, customers are spending more every time they visit.",0.5852712392807007,0.048526618629693985,0.366202175617218,positive,0.5367445945739746
+32,2019-12-07 10:15:00,This strategy of taking care of customers has paid off for shareholders.,0.7877073287963867,0.013849666342139244,0.1984429657459259,positive,0.7738576531410217
+33,2019-12-07 10:15:00,Owning Home Depot over the last decade has brought them not only market-beating returns but also a nice income stream of dividends.,0.8861287832260132,0.014476079493761063,0.09939515590667725,positive,0.8716527223587036
+34,2019-12-07 10:15:00,Apple (NASDAQ: AAPL) almost went bankrupt in 1997.,0.037336476147174835,0.4066881835460663,0.5559753775596619,neutral,-0.36935171484947205
+35,2019-12-07 10:15:00,It had expanded too fast and had too many products.,0.038864634931087494,0.8033119440078735,0.15782342851161957,negative,-0.7644473314285278
+36,2019-12-07 10:15:00,Founder Steve Jobs came back as CEO that year and saved the company with a simple strategy.,0.44417333602905273,0.02461296319961548,0.5312137007713318,neutral,0.41956037282943726
+37,2019-12-07 10:15:00,He kept 30% of the products that were great and cut the other 70%.,0.05413626879453659,0.7551400661468506,0.1907237321138382,negative,-0.7010037899017334
+38,2019-12-07 10:15:00,He brutally trimmed the development roadmap to focus on only four products: one desktop and one laptop each for the professional and the consumer.,0.04875297471880913,0.08733781427145004,0.8639092445373535,neutral,-0.038584839552640915
+39,2019-12-07 10:15:00,"Today, Apple continues to have a small and focused product set but sweats all the details to make each what Jobs called ""insanely great.""",0.3670291006565094,0.0236288383603096,0.6093420386314392,neutral,0.3434002697467804
+40,2019-12-07 10:15:00,This focus on building great products has resulted in the iPhone becoming the company's flagship product and the largest source of revenue.,0.7760331630706787,0.012106193229556084,0.21186065673828125,positive,0.7639269828796387
+41,2019-12-07 10:15:00,"With more than 2 billion iPhones sold since 2012, this large customer base attracts developers who build apps for its app store, which is another source of revenue.",0.390028715133667,0.009458507411181927,0.6005128026008606,neutral,0.3805702030658722
+42,2019-12-07 10:15:00,Having more apps available makes its mobile devices more attractive to buyers.,0.8412398099899292,0.013749577105045319,0.1450105905532837,positive,0.8274902105331421
+43,2019-12-07 10:15:00,"Computers, tablets, and accessories round out its product offerings via its high-throughput retail stores and website.",0.05939033627510071,0.004466383717954159,0.9361433386802673,neutral,0.054923951625823975
+44,2019-12-07 10:15:00,"Although iPhone sales have leveled off (or even declined on occasion) recently, revenue for apps, accessories, and services for mobile devices is growing.",0.841684877872467,0.04268387332558632,0.11563115566968918,positive,0.7990009784698486
+45,2019-12-07 10:15:00,The 10-year stock chart for Apple looks very similar to those of our other easy-to-understand companies.,0.1296752542257309,0.0074691446498036385,0.8628556132316589,neutral,0.12220610678195953
+46,2019-12-07 10:15:00,"Even though the stock has already had a great run, Apple's continued focus on making excellent products still gives investors plenty of things to be excited about.",0.8218219876289368,0.01689552515745163,0.1612825095653534,positive,0.8049264550209045
+47,2019-12-07 10:15:00,One advantage that sets these easy-to-understand businesses apart from other stocks is that investors have the opportunity to interact personally with these brands as customers.,0.4303770065307617,0.010214627720415592,0.5594083666801453,neutral,0.4201623797416687
+48,2019-12-07 10:15:00,"If you like to keep a close eye on the companies you own, these three just might be worth adding to your portfolio.",0.09378798305988312,0.006545261479914188,0.8996667861938477,neutral,0.0872427225112915
+49,2019-12-07 10:15:00,"10 stocks we like better than Chipotle Mexican Grill
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13755705952644348,0.027912059798836708,0.8345308899879456,neutral,0.10964500159025192
+50,2019-12-07 10:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+51,2019-12-07 10:15:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Chipotle Mexican Grill wasn't one of them!",0.24198588728904724,0.01574806682765484,0.7422659993171692,neutral,0.22623781859874725
+52,2019-12-07 10:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+53,2019-12-07 10:15:00,Brian Withers owns shares of Apple and Chipotle Mexican Grill.,0.02851570025086403,0.0115986168384552,0.9598856568336487,neutral,0.01691708341240883
+54,2019-12-07 10:15:00,The Motley Fool owns shares of and recommends Apple and Chipotle Mexican Grill.,0.04662381112575531,0.014669529162347317,0.938706636428833,neutral,0.03195428103208542
+55,2019-12-07 10:15:00,The Motley Fool recommends Home Depot and recommends the following options: long January 2021 $120 calls on Home Depot and short February 2020 $205 calls on Home Depot.,0.017827358096837997,0.02973451092839241,0.9524381160736084,neutral,-0.011907152831554413
+56,2019-12-07 10:15:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

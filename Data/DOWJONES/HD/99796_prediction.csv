@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-05 07:37:00,GE's latest ad spot features Jurassic Park's Jeff Goldblum.,0.03844567388296127,0.013298582285642624,0.9482557773590088,neutral,0.02514709159731865
+1,2014-10-05 07:37:00,"He's no longer a mathematician, but he sure knows a lot about the future of lighting.",0.08229582011699677,0.008059096522629261,0.9096450805664062,neutral,0.07423672080039978
+2,2014-10-05 07:37:00,"Source: General Electric via YouTube
+
+I've written hundreds of articles on General Electric , but not one of them had a punch-line like this: The 130-year old manufacturer is bringing sexy back.",0.049973875284194946,0.04580112174153328,0.9042250514030457,neutral,0.004172753542661667
+3,2014-10-05 07:37:00,"No, GE didn't rush out and hire supermodel Gisele Bundchen; apparel maker Under Armour already beat it to the punch .",0.30924439430236816,0.07028719782829285,0.6204683780670166,neutral,0.23895719647407532
+4,2014-10-05 07:37:00,"Instead, the company that popularized the light bulb hired a Hollywood star to help it ... um ... popularize a light bulb.",0.2543669044971466,0.009737216867506504,0.7358958721160889,neutral,0.24462968111038208
+5,2014-10-05 07:37:00,Or should we say glamorize ?,0.054478101432323456,0.036211639642715454,0.9093102216720581,neutral,0.018266461789608
+6,2014-10-05 07:37:00,"In a tongue-in-cheek promo, actor Jeff Goldblum (you know, the scientist from the 1990s blockbuster movie Jurassic Park ) is looking like the most eligible 1970s bachelor, but he's using futuristic app-controlled GE Link Light Bulbs to set the mood.",0.08463233709335327,0.06956587731838226,0.8458017706871033,neutral,0.015066459774971008
+7,2014-10-05 07:37:00,"What's more, he thinks this newfangled remote-controlled bulb could take any old chump from zero to hero - even you, me, and America.",0.12899629771709442,0.02020719088613987,0.8507965207099915,neutral,0.1087891086935997
+8,2014-10-05 07:37:00,"Here's a look at the 2-minute spot:
+
+Questions?",0.054711826145648956,0.0757233202457428,0.8695648908615112,neutral,-0.02101149410009384
+9,2014-10-05 07:37:00,"Well, I'm sure you have many.",0.11350461840629578,0.0129669439047575,0.8735284209251404,neutral,0.10053767263889313
+10,2014-10-05 07:37:00,"Like, ""Is that Goldblum's real hairdo?""",0.05195033177733421,0.09610331058502197,0.8519463539123535,neutral,-0.04415297880768776
+11,2014-10-05 07:37:00,"And ""Why is he inviting me into his hot tub?!""",0.057212021201848984,0.14892742037773132,0.7938605546951294,neutral,-0.09171539545059204
+12,2014-10-05 07:37:00,"Or, perhaps more importantly, ""What's going on with GE's ad campaigns?""",0.01605314575135708,0.08356106281280518,0.9003857970237732,neutral,-0.06750791519880295
+13,2014-10-05 07:37:00,"Well, as a longtime GE follower and investor, I'm glad you asked.",0.2239452600479126,0.010520168580114841,0.765534520149231,neutral,0.21342508494853973
+14,2014-10-05 07:37:00,GE's Link Light Bulb commercial is about more than just controlling your living room lamps from outside your home.,0.030606238171458244,0.007792042568325996,0.9616017937660217,neutral,0.022814195603132248
+15,2014-10-05 07:37:00,It's actually the latest ad in a series of innovative GE videos that delve into our budding relationship with machines - including light bulbs.,0.20438770949840546,0.007914903573691845,0.787697434425354,neutral,0.19647280871868134
+16,2014-10-05 07:37:00,"Prior to this one, however, the point of GE's ads wasn't to lure you into watching a fake infomercial.",0.023041008040308952,0.014808280393481255,0.9621506929397583,neutral,0.008232727646827698
+17,2014-10-05 07:37:00,"Instead, ads like GE's Emmy-nominated "" Childlike Imagination "" tempted the viewer to imagine a world powered by an invisible force - what GE calls the ""industrial Internet.""",0.10044930130243301,0.04688916355371475,0.8526615500450134,neutral,0.05356013774871826
+18,2014-10-05 07:37:00,It was dreamlike and inspirational.,0.368679940700531,0.011280089616775513,0.6200399994850159,neutral,0.3573998510837555
+19,2014-10-05 07:37:00,"Likewise, GE's poignant ad called "" The Boy Who Beeps "" showed us how another child relates to a world of high-tech machines: by talking to them.",0.12179398536682129,0.01562387403100729,0.8625821471214294,neutral,0.10617011040449142
+20,2014-10-05 07:37:00,"Three highly provocative GE ad spots, all of them tied to the much-hyped Internet of things.",0.07731011509895325,0.028073450550436974,0.894616425037384,neutral,0.049236662685871124
+21,2014-10-05 07:37:00,"Yet each one has a different angle, from awe-inspiring to eerie sci-fi to humorous.",0.05641660839319229,0.019997652620077133,0.9235857725143433,neutral,0.03641895577311516
+22,2014-10-05 07:37:00,"So, what's the point?",0.05275947228074074,0.06245221942663193,0.8847882747650146,neutral,-0.00969274714589119
+23,2014-10-05 07:37:00,"Well, I don't think GE's intent is to simply peddle products with this campaign (except for the fact that Goldblum is literally peddling GE products).",0.010916083119809628,0.025527870282530785,0.9635560512542725,neutral,-0.014611787162721157
+24,2014-10-05 07:37:00,"It's hard to imagine a half-dressed, well-tanned ""Terry Quattro"" character will trigger a stampede to Home Depot .",0.09344163537025452,0.32180720567703247,0.5847511887550354,neutral,-0.22836557030677795
+25,2014-10-05 07:37:00,But humor is a desirable wavelength on which to communicate with customers about technology.,0.14664626121520996,0.011181852780282497,0.8421719074249268,neutral,0.13546441495418549
+26,2014-10-05 07:37:00,"Here's how advertising industry insider Evan Benedetto of BBH ad agency put it in context:
+
+With each spot, GE is starting a conversation about a technology that most people have yet to comprehend, but that could have far-reaching implications.",0.04536927863955498,0.03101523220539093,0.9236154556274414,neutral,0.014354046434164047
+27,2014-10-05 07:37:00,And it's doing it on a level that we can relate to.,0.21953843533992767,0.007711492478847504,0.7727500796318054,neutral,0.21182695031166077
+28,2014-10-05 07:37:00,"In some ways, the ability to connect machines with the Internet offers incredible opportunity.",0.565684974193573,0.01249519269913435,0.42181986570358276,positive,0.553189754486084
+29,2014-10-05 07:37:00,"It could, for example, make business more efficient: GE, for instance, estimates that the industries it serves will save a combined $276 billion over 15 years by reducing fuel consumption and slashing downtime.",0.7825401425361633,0.02111274190247059,0.19634708762168884,positive,0.7614274024963379
+30,2014-10-05 07:37:00,"On the flipside, the industrial Internet poses its own risks and drawbacks as well.",0.04537474364042282,0.04107697680592537,0.9135482907295227,neutral,0.004297766834497452
+31,2014-10-05 07:37:00,Security and privacy concerns will increase since data on nearly everything will be stored in the cloud.,0.04743779078125954,0.5325523614883423,0.42000991106033325,negative,-0.48511457443237305
+32,2014-10-05 07:37:00,And consider the implications on product obsolescence?,0.0338740237057209,0.034851644188165665,0.9312742948532104,neutral,-0.0009776204824447632
+33,2014-10-05 07:37:00,Will that 22-year light bulb featured in the commercial really last for 22 years?,0.04834604263305664,0.0128475371748209,0.938806414604187,neutral,0.03549850732088089
+34,2014-10-05 07:37:00,"Or will ""smart"" light bulbs suddenly be part of the ""smartphone"" upgrade cycle?",0.20199839770793915,0.017109837383031845,0.7808917760848999,neutral,0.184888556599617
+35,2014-10-05 07:37:00,"New software, for instance, may require new hardware, and so on and so forth.",0.0509207658469677,0.01111260149627924,0.9379666447639465,neutral,0.03980816528201103
+36,2014-10-05 07:37:00,"Two writers at The Atlantic described these issues and a number of others - including hacking - in a recent in-depth article titled ""When Everything Works Like Your Cell Phone.""",0.026716960594058037,0.06059126928448677,0.9126917123794556,neutral,-0.03387431055307388
+37,2014-10-05 07:37:00,"For those interested in where everyday consumer products might be headed, I highly recommend it.",0.09156688302755356,0.008683082647621632,0.8997500538825989,neutral,0.0828837975859642
+38,2014-10-05 07:37:00,What does this mean for GE?,0.013017632067203522,0.016145311295986176,0.9708370566368103,neutral,-0.003127679228782654
+39,2014-10-05 07:37:00,"Up to now, GE's barely scratched the surface in communicating with customers about how the industrial Internet will work and affect our lives.",0.0475161038339138,0.07335500419139862,0.8791289329528809,neutral,-0.025838900357484818
+40,2014-10-05 07:37:00,"The image above, which shows a plane flying through a hazy atmosphere of ""1""s and ""0""s was about the best illustration the company offered.",0.30986538529396057,0.017645100131630898,0.672489583492279,neutral,0.2922202944755554
+41,2014-10-05 07:37:00,"And, unless you can read binary code, it wasn't a very good one.",0.09675269573926926,0.2926449477672577,0.6106023788452148,neutral,-0.19589224457740784
+42,2014-10-05 07:37:00,"But GE's latest series of ads make this concept more tangible, meaningful, and even humorous.",0.25894299149513245,0.019223123788833618,0.7218338847160339,neutral,0.23971986770629883
+43,2014-10-05 07:37:00,It shows us what's possible in a hyper-connected world.,0.23379062116146088,0.008478105999529362,0.7577312588691711,neutral,0.2253125160932541
+44,2014-10-05 07:37:00,"Jeff Goldblum's not just hawking us light bulbs, he's suavely introducing us to the future, which apparently is coated in sequins, gold, and hair gel.",0.16675060987472534,0.007592684123665094,0.8256567120552063,neutral,0.15915793180465698
+45,2014-10-05 07:37:00,"The only question we need to answer is, ""Are we ready?""",0.07645557820796967,0.026887759566307068,0.8966566920280457,neutral,0.0495678186416626
+46,2014-10-05 07:37:00,One bleeding-edge technology is about to put the World-Wide-Web to bed.,0.27684587240219116,0.05647279694676399,0.6666812896728516,neutral,0.22037307918071747
+47,2014-10-05 07:37:00,"And if you act right away, it could make you wildly rich.",0.19043397903442383,0.02198822796344757,0.7875778079032898,neutral,0.16844575107097626
+48,2014-10-05 07:37:00,Experts are calling it the single largest business opportunity in the history of capitalism...,0.4697682559490204,0.014931482262909412,0.5153002738952637,neutral,0.45483678579330444
+49,2014-10-05 07:37:00,"The Economist is calling it ""transformative""...",0.2920668423175812,0.02812976948916912,0.6798033714294434,neutral,0.2639370858669281
+50,2014-10-05 07:37:00,"But you'll probably just call it ""how I made my millions.""",0.05083315446972847,0.022208668291568756,0.9269581437110901,neutral,0.028624486178159714
+51,2014-10-05 07:37:00,Don't be too late to the party- click here for 1 stock to own when the web goes dark.,0.03540655970573425,0.03353281691670418,0.9310606718063354,neutral,0.001873742789030075
+52,2014-10-05 07:37:00,The article This Hilarious Jeff Goldblum Commercial Makes GE's New Light Bulb Sexy originally appeared on Fool.com.,0.025694189593195915,0.01464930735528469,0.9596565365791321,neutral,0.011044882237911224
+53,2014-10-05 07:37:00,"Isaac Pino, CPA owns shares of General Electric Company.",0.01545897126197815,0.010067621245980263,0.9744734168052673,neutral,0.005391350015997887
+54,2014-10-05 07:37:00,The Motley Fool owns shares of General Electric Company.,0.046901196241378784,0.03773745521903038,0.9153614044189453,neutral,0.009163741022348404
+55,2014-10-05 07:37:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+56,2014-10-05 07:37:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+57,2014-10-05 07:37:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+58,2014-10-05 07:37:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+59,2014-10-05 07:37:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+60,2014-10-05 07:37:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+61,2014-10-05 07:37:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

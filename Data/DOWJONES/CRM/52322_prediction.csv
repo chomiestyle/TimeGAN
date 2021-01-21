@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-03-20 06:20:00,"In the world of software-as-as-service, deferred revenue is often used to predict future revenue.",0.026784801855683327,0.015265071764588356,0.9579501152038574,neutral,0.01151973009109497
+1,2015-03-20 06:20:00,"A SaaS company takes a payment from a customer up front, delivering the service over the length of the contract while recognizing the revenue from the contract along the way.",0.025362243875861168,0.008722571656107903,0.9659151434898376,neutral,0.016639672219753265
+2,2015-03-20 06:20:00,Any revenue yet to be recognized shows up as a deferred revenue liability on the balance sheet.,0.024430444464087486,0.5874740481376648,0.388095498085022,negative,-0.5630435943603516
+3,2015-03-20 06:20:00,"When SaaS giant salesforce.com reported its fourth-quarter earnings last month, deferred revenue growth took center stage.",0.8098111748695374,0.023054800927639008,0.167134091258049,positive,0.7867563962936401
+4,2015-03-20 06:20:00,"Right at the top of the press release, the company touted 32% year-over-year deferred revenue growth as a major achievement.",0.9430549740791321,0.015671774744987488,0.041273169219493866,positive,0.9273831844329834
+5,2015-03-20 06:20:00,"The market ate it up, and the stock soared.",0.6875466108322144,0.02968437783420086,0.28276899456977844,positive,0.6578622460365295
+6,2015-03-20 06:20:00,"Further down the press release, Salesforce guided for revenue growth of just 20%-21% for the next fiscal year.",0.8424530029296875,0.05650264769792557,0.10104431211948395,positive,0.7859503626823425
+7,2015-03-20 06:20:00,"If the deferred revenue balance was sitting 32% higher than at the end of fiscal 2014, how on Earth is revenue going to grow so much slower?",0.24864588677883148,0.18982864916324615,0.5615254640579224,neutral,0.05881723761558533
+8,2015-03-20 06:20:00,Essentially all of that deferred revenue will be realized as revenue over the next year.,0.031274907290935516,0.007230388466268778,0.9614947438240051,neutral,0.024044519290328026
+9,2015-03-20 06:20:00,Is Salesforce expecting a major slowdown in acquiring new customers?,0.02070101723074913,0.9031088948249817,0.07619018107652664,negative,-0.8824079036712646
+10,2015-03-20 06:20:00,"Of course, as Salesforce gets bigger, the revenue growth percentage is bound to slow.",0.017393453046679497,0.9242088198661804,0.0583978109061718,negative,-0.9068153500556946
+11,2015-03-20 06:20:00,But there's something else happening here that is important for investors in SaaS companies to understand.,0.07155390828847885,0.008938068524003029,0.9195079803466797,neutral,0.06261584162712097
+12,2015-03-20 06:20:00,"Deferred revenue growth, while sometimes a decent indicator of future revenue growth, has a major flaw that can mislead investors into believing a company is growing faster than is the case.",0.048573512583971024,0.8484174013137817,0.10300906002521515,negative,-0.7998439073562622
+13,2015-03-20 06:20:00,"If I told you a certain SaaS company increased its deferred revenue by 30% last year, you would probably assume it was a fast-growing company.",0.9135806560516357,0.015571126714348793,0.07084818929433823,positive,0.8980095386505127
+14,2015-03-20 06:20:00,"To illustrate why that's not necessarily the case, let's introduce a fictional SaaS company.",0.03148135170340538,0.01213251892477274,0.9563860893249512,neutral,0.019348833709955215
+15,2015-03-20 06:20:00,"I'll call it HypeSaaS
+
+HypeSaaS has run into a problem -- revenue has stagnated at $100 million per year.",0.01818675920367241,0.957699179649353,0.024113992229104042,negative,-0.9395124316215515
+16,2015-03-20 06:20:00,"Try as it might, the company can't seem to grow its business, and it expects revenue to be flat for the foreseeable future.",0.0175603237003088,0.9194971919059753,0.06294238567352295,negative,-0.9019368886947632
+17,2015-03-20 06:20:00,"All of HypeSaaS's customers are invoiced quarterly, and they all pay on the last day of each quarter.",0.011132033541798592,0.02766222506761551,0.961205780506134,neutral,-0.016530191525816917
+18,2015-03-20 06:20:00,"The CEO of HypeSaaS decides to move away from quarterly invoicing, instead pushing customers to pay for a full year of service in advance.",0.10948406904935837,0.1873442530632019,0.7031716704368591,neutral,-0.07786018401384354
+19,2015-03-20 06:20:00,"Over the next 10 years, HypeSaaS gradually shifts its customer base to annual payments.",0.3200150430202484,0.009888029657304287,0.6700968742370605,neutral,0.31012701988220215
+20,2015-03-20 06:20:00,"Annual revenue remains flat at $100 million during the entire period, as the business doesn't fundamentally change.",0.021022340282797813,0.7053683400154114,0.2736092805862427,negative,-0.6843460202217102
+21,2015-03-20 06:20:00,What happens to the deferred revenue during this time?,0.009607698768377304,0.034419815987348557,0.9559724926948547,neutral,-0.024812117218971252
+22,2015-03-20 06:20:00,"Well, before the change, HypeSaaS's deferred revenue on the first day of the year would be $25 million, equal to a quarter's worth of revenue, since all customers were paying quarterly.",0.04854008927941322,0.04318782687187195,0.9082720279693604,neutral,0.005352262407541275
+23,2015-03-20 06:20:00,"Here's how the deferred revenue changes over the following decade:
+
+If you looked at only HypeSaaS's deferred revenue, you would see a company that appeared to be securing an increasing amount of business each year.",0.22622770071029663,0.01099180243909359,0.762780487537384,neutral,0.2152359038591385
+24,2015-03-20 06:20:00,But in reality the gradual lengthening of the average invoice period is the only reason deferred revenue was growing at all.,0.5931814908981323,0.018666382879018784,0.3881521224975586,positive,0.5745151042938232
+25,2015-03-20 06:20:00,A SaaS company's deferred revenue is highly sensitive to the timing of customer payments.,0.01181209459900856,0.014037039130926132,0.9741508960723877,neutral,-0.002224944531917572
+26,2015-03-20 06:20:00,"HypeSaaS is an extreme example, but a portion of Salesforce's deferred revenue growth can be attributed to a lengthening of invoice periods.",0.5034228563308716,0.04742706939578056,0.44915005564689636,positive,0.4559957981109619
+27,2015-03-20 06:20:00,"In fiscal 2014, 74% of its invoices were issued with annual terms, with most of the rest coming with quarterly terms and a small number coming with multiyear terms.",0.012758816592395306,0.017608122900128365,0.9696331024169922,neutral,-0.004849306307733059
+28,2015-03-20 06:20:00,"In fiscal 2015, this percentage of annual terms rose to 80%.",0.8962458968162537,0.013751697726547718,0.09000241756439209,positive,0.8824942111968994
+29,2015-03-20 06:20:00,"Prior to fiscal 2014, Salesforce didn't disclose this percentage, but we can still extract some information.",0.019881827756762505,0.0072060138918459415,0.9729121327400208,neutral,0.01267581433057785
+30,2015-03-20 06:20:00,"In the HypeSaaS example, all deferred revenue was current, meaning it would be recognized as revenue over the following year.",0.04913715645670891,0.008793346583843231,0.9420695304870605,neutral,0.04034380987286568
+31,2015-03-20 06:20:00,This current deferred revenue as a percentage of the revenue recorded during the following year is an important number to watch.,0.029361922293901443,0.010489857755601406,0.960148274898529,neutral,0.018872063606977463
+32,2015-03-20 06:20:00,"If it grows, that means invoice lengths were being increased.",0.3781011402606964,0.015400483272969723,0.6064983606338501,neutral,0.3627006709575653
+33,2015-03-20 06:20:00,"In HypeSaaS's case, this number grew from 25% to 100% over 10 years.",0.8692635297775269,0.012482578866183758,0.11825382709503174,positive,0.8567809462547302
+34,2015-03-20 06:20:00,"For Salesforce, the vast majority of deferred revenue is current, so we can do the same analysis.",0.01582520641386509,0.009417086839675903,0.974757730960846,neutral,0.006408119574189186
+35,2015-03-20 06:20:00,"Here's how this has percentage changed:
+
+Current Deferred Revenue on Last Day of Previous Year
+
+Salesforce has been lengthening the average invoice period over the past few years, which helps explain the gap between the deferred revenue growth in fiscal 2015 and the expected revenue growth in fiscal 2016.",0.14828814566135406,0.37945908308029175,0.4722527265548706,neutral,-0.23117093741893768
+36,2015-03-20 06:20:00,"Since Salesforce gives guidance for revenue, deferred revenue growth doesn't really offer investors any new information.",0.018219271674752235,0.06806489825248718,0.9137158989906311,neutral,-0.049845628440380096
+37,2015-03-20 06:20:00,"Assuming Salesforce hits its guidance, the fact that deferred revenue grew by 32% last year means nothing.",0.5995764136314392,0.14924094080924988,0.25118255615234375,positive,0.45033547282218933
+38,2015-03-20 06:20:00,Why it's being touted as an important figure is beyond me.,0.08829710632562637,0.03357598930597305,0.8781269192695618,neutral,0.05472111701965332
+39,2015-03-20 06:20:00,"Salesforce is still growing its business, but its deferred revenue growth overstates its future revenue growth thanks to the lengthening of its average invoice period.",0.6964412927627563,0.15460249781608582,0.14895620942115784,positive,0.5418387651443481
+40,2015-03-20 06:20:00,"When analyzing any SaaS company, investors should keep in mind that deferred revenue growth is an imperfect measure of future revenue growth.",0.031354621052742004,0.5203838348388672,0.4482615292072296,negative,-0.4890292286872864
+41,2015-03-20 06:20:00,"If the company doesn't disclose anything about its contract terms, it's difficult to tell exactly how business is really going.",0.016453644260764122,0.08800668269395828,0.8955397009849548,neutral,-0.07155303657054901
+42,2015-03-20 06:20:00,"For Salesforce, perpetually profitless on a generally accepted accounting principles basis and trading at about eight times sales, the difference between 21% growth and 32% growth is important.",0.03391506150364876,0.029761945828795433,0.9363230466842651,neutral,0.004153115674853325
+43,2015-03-20 06:20:00,"The market should be focusing on real future revenue growth, not deferred revenue growth, when judging the company's prospects.",0.09659875929355621,0.008349615149199963,0.8950515985488892,neutral,0.08824914693832397
+44,2015-03-20 06:20:00,"Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets.",0.0451636016368866,0.12186315655708313,0.8329732418060303,neutral,-0.07669955492019653
+45,2015-03-20 06:20:00,And its stock price has nearly unlimited room to run for early in-the-know investors.,0.31984880566596985,0.017700059339404106,0.6624511480331421,neutral,0.3021487593650818
+46,2015-03-20 06:20:00,"To be one of them, just click here !",0.08763899654150009,0.07616403698921204,0.836197018623352,neutral,0.011474959552288055
+47,2015-03-20 06:20:00,The article Don't Be Fooled by salesforce.com's Deferred Revenue originally appeared on Fool.com.,0.014320435002446175,0.06579121947288513,0.9198883175849915,neutral,-0.051470786333084106
+48,2015-03-20 06:20:00,Timothy Green has no position in any stocks mentioned.,0.010590942576527596,0.04123466834425926,0.9481744170188904,neutral,-0.030643725767731667
+49,2015-03-20 06:20:00,The Motley Fool recommends Apple and Salesforce.com.,0.02552022784948349,0.029912548139691353,0.9445672035217285,neutral,-0.004392320290207863
+50,2015-03-20 06:20:00,The Motley Fool owns shares of Apple.,0.04145649075508118,0.024770189076662064,0.9337733387947083,neutral,0.016686301678419113
+51,2015-03-20 06:20:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+52,2015-03-20 06:20:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+53,2015-03-20 06:20:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+54,2015-03-20 06:20:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+55,2015-03-20 06:20:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+56,2015-03-20 06:20:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+57,2015-03-20 06:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

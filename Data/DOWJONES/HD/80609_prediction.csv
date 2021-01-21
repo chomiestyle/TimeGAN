@@ -1,0 +1,72 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-26 07:00:00,Are you ready to rumble?,0.15717196464538574,0.05848667025566101,0.7843413949012756,neutral,0.09868529438972473
+1,2019-11-26 07:00:00,"The shopping matchup of the year, Black Friday vs. Cyber Monday, is nearly upon us.",0.4500100910663605,0.05919020622968674,0.49079975485801697,neutral,0.39081987738609314
+2,2019-11-26 07:00:00,And that means it's time to set a shopping strategy for the most important items on your wish list: Do you buy them on Black Friday or hold out for a better deal on Cyber Monday?,0.11794084310531616,0.03612615168094635,0.8459329605102539,neutral,0.08181469142436981
+3,2019-11-26 07:00:00,The right move depends on what you need to buy and what kind of shopping experience you can tolerate.,0.05571532994508743,0.011318514123558998,0.9329661130905151,neutral,0.044396817684173584
+4,2019-11-26 07:00:00,Use this holiday cheat sheet to decide which items to buy early on Black Friday and which purchases can wait until Cyber Monday.,0.02037968300282955,0.01688423752784729,0.9627360701560974,neutral,0.0034954454749822617
+5,2019-11-26 07:00:00,"What to buy on Black Friday
+
+1.",0.03126474469900131,0.01109117642045021,0.9576441049575806,neutral,0.0201735682785511
+6,2019-11-26 07:00:00,Trending toys.,0.05722922459244728,0.011760500259697437,0.9310102462768555,neutral,0.04546872526407242
+7,2019-11-26 07:00:00,Remember when Tickle Me Elmo sold out by 10 a.m. on Black Friday in 1996?,0.05382796376943588,0.04988682270050049,0.8962852358818054,neutral,0.003941141068935394
+8,2019-11-26 07:00:00,"You never know which toys will generate that level of shopping hysteria, but you're better off not risking it.",0.08281423896551132,0.11783147603273392,0.7993543148040771,neutral,-0.035017237067222595
+9,2019-11-26 07:00:00,"If the kids in your life have their hearts set on specific toys, prioritize those purchases.",0.02516823448240757,0.006429910194128752,0.9684019088745117,neutral,0.01873832382261753
+10,2019-11-26 07:00:00,"You may not get the lowest price, but you won't face a disappointed kiddo, either.",0.08627107739448547,0.031091222539544106,0.8826376795768738,neutral,0.05517985671758652
+11,2019-11-26 07:00:00,Best-case scenario?,0.05205671489238739,0.027310334146022797,0.9206329584121704,neutral,0.024746380746364594
+12,2019-11-26 07:00:00,You snag the last Hatchimals Wow Llalcorn and come home a hero.,0.3232508599758148,0.02982170879840851,0.6469274163246155,neutral,0.2934291362762451
+13,2019-11-26 07:00:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+14,2019-11-26 07:00:00,Doorbusters on TVs and tech.,0.0886189267039299,0.05185350030660629,0.8595276474952698,neutral,0.03676542639732361
+15,2019-11-26 07:00:00,"Doorbusters are ""loss leaders,"" items priced low enough to get you out of bed at 6 a.m. to go shopping at Best Buy (NYSE: BBY).",0.08210894465446472,0.2307657152414322,0.6871253252029419,neutral,-0.14865677058696747
+16,2019-11-26 07:00:00,"You'll see these aggressive deals on TVs, gaming consoles, headphones, and other technology.",0.20130090415477753,0.006804909557104111,0.7918941974639893,neutral,0.19449599087238312
+17,2019-11-26 07:00:00,Retailers make it work for them by limiting the number of units available at the doorbuster price -- which means they sell out quickly.,0.027158554643392563,0.11078576743602753,0.8620557188987732,neutral,-0.08362720906734467
+18,2019-11-26 07:00:00,"If something on your list turns up as a doorbuster, show up at the store early and be prepared to fend off other shoppers.",0.07388732582330704,0.02544238232076168,0.9006702899932861,neutral,0.04844494163990021
+19,2019-11-26 07:00:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+20,2019-11-26 07:00:00,Appliances and other big-ticket items.,0.042911361902952194,0.011011661030352116,0.9460769295692444,neutral,0.03189970180392265
+21,2019-11-26 07:00:00,Black Friday drives a lot of foot traffic into brick-and-mortar stores.,0.09411774575710297,0.2697763442993164,0.6361058950424194,neutral,-0.17565859854221344
+22,2019-11-26 07:00:00,And those retailers are ready to differentiate themselves from online competitors by spotlighting items that are far too big for next-day shipping.,0.7837207317352295,0.020963722839951515,0.19531555473804474,positive,0.7627570033073425
+23,2019-11-26 07:00:00,"Best Buy, Lowe's (NYSE: LOW), Home Depot (NYSE: HD), and Walmart (NYSE: WMT) are already promoting up to 70% savings on appliances.",0.9286952614784241,0.01617504470050335,0.05512969195842743,positive,0.9125202298164368
+24,2019-11-26 07:00:00,"These deals may last through Cyber Monday, but they're not likely to get any bigger.",0.08150587975978851,0.035232894122600555,0.8832612037658691,neutral,0.04627298563718796
+25,2019-11-26 07:00:00,"Shop for your big-ticket items early, when you'll have a bigger selection.",0.09401802718639374,0.011906608939170837,0.8940753936767578,neutral,0.0821114182472229
+26,2019-11-26 07:00:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+27,2019-11-26 07:00:00,Smartphones.,0.04339166730642319,0.016781684011220932,0.9398266673088074,neutral,0.026609983295202255
+28,2019-11-26 07:00:00,"You'll find smartphone deals running throughout the holiday shopping weekend, but the biggest discounts on newer-model phones will sell out early.",0.14303649961948395,0.04491392523050308,0.8120496273040771,neutral,0.09812257438898087
+29,2019-11-26 07:00:00,"Shop Walmart, Target (NYSE: TGT), or Best Buy on Black Friday for up to $500 off or a free $500 store gift card with activation.",0.028051219880580902,0.019107840955257416,0.9528409838676453,neutral,0.008943378925323486
+30,2019-11-26 07:00:00,"If you miss those deals, cellular providers AT&T (NYSE: T) and T-Mobile (NASDAQ: TMUS) have buy one, get one deals that will be available through Cyber Monday.",0.0718369111418724,0.012152133509516716,0.9160109758377075,neutral,0.05968477576971054
+31,2019-11-26 07:00:00,"What to buy on Cyber Monday
+
+1.",0.02930700220167637,0.010752351954579353,0.9599406123161316,neutral,0.018554650247097015
+32,2019-11-26 07:00:00,Beauty products.,0.030400561168789864,0.009161693975329399,0.9604377150535583,neutral,0.021238867193460464
+33,2019-11-26 07:00:00,"In 2018, Sephora and Ulta Beauty slashed prices on popular items by up to 50%.",0.015998007729649544,0.9614017605781555,0.022600246593356133,negative,-0.9454037547111511
+34,2019-11-26 07:00:00,"Beauty lovers also had their pick of gifts with purchase, seasonal beauty sets, and buy one, get one deals.",0.07106548547744751,0.0075357332825660706,0.9213987588882446,neutral,0.06352975219488144
+35,2019-11-26 07:00:00,Expect beauty retailers to announce sales early and then ratchet up the discounts in the days leading up to Cyber Monday.,0.1947266012430191,0.01369001716375351,0.7915832996368408,neutral,0.1810365915298462
+36,2019-11-26 07:00:00,You don't have to worry too much that inventory will sell out unless you're stalking a specific item that's trending.,0.05354837700724602,0.030195903033018112,0.9162557125091553,neutral,0.023352473974227905
+37,2019-11-26 07:00:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+38,2019-11-26 07:00:00,Small home gadgets.,0.05608080327510834,0.022003434598445892,0.9219157099723816,neutral,0.034077368676662445
+39,2019-11-26 07:00:00,Things like Roomba vacuums and Instant Pots should also be heavily discounted on Cyber Monday.,0.03025323711335659,0.09825196117162704,0.8714947700500488,neutral,-0.0679987221956253
+40,2019-11-26 07:00:00,Items that are small enough to ship or easy enough to pick up in store get overshadowed on Black Friday by refrigerators and dishwashers that aren't easy to purchase online.,0.03306044638156891,0.8813021183013916,0.08563752472400665,negative,-0.8482416868209839
+41,2019-11-26 07:00:00,That means -- cross your fingers -- perhaps Best Buy will be ready to make you a deal on that Vitamix you've always wanted.,0.4795179069042206,0.014687568880617619,0.5057945251464844,neutral,0.46483033895492554
+42,2019-11-26 07:00:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+43,2019-11-26 07:00:00,Clothes and random gifts.,0.08911772072315216,0.03951520472764969,0.8713670372962952,neutral,0.04960251599550247
+44,2019-11-26 07:00:00,"Sitewide discounts are popular on Cyber Monday, particularly among clothing retailers.",0.2517070472240448,0.03210931643843651,0.716183602809906,neutral,0.219597727060318
+45,2019-11-26 07:00:00,"In 2018, shoppers scored half-off everything, plus free shipping at Abercrombie & Fitch, Ann Taylor, Banana Republic, Calvin Klein, Eddie Bauer, Express, Gap, Nine West, and Tommy Hilfiger.",0.5665358304977417,0.023588523268699646,0.4098756015300751,positive,0.5429472923278809
+46,2019-11-26 07:00:00,Even Target jumped into the mix with a 15% off sitewide deal for the day.,0.7430724501609802,0.043883856385946274,0.21304365992546082,positive,0.6991885900497437
+47,2019-11-26 07:00:00,A sitewide deal from your favorite retailer gives you a broader pick of discounted goods.,0.3314739763736725,0.014028571546077728,0.6544973850250244,neutral,0.31744539737701416
+48,2019-11-26 07:00:00,That's helpful when you haven't decided what to buy for the people on your gift list.,0.05995124578475952,0.0559731088578701,0.8840755820274353,neutral,0.0039781369268894196
+49,2019-11-26 07:00:00,"Wait for Cyber Monday, and you can browse stores with sitewide discounts, knowing that you'll save on whatever you end up purchasing.",0.07371950149536133,0.03262173756957054,0.8936588168144226,neutral,0.04109776392579079
+50,2019-11-26 07:00:00,"And for everything else on your list...
+
+For everything else on your list, decide on the timing of your purchase by considering the size of the item and shopping experience you want.",0.01592232473194599,0.007417534943670034,0.9766601324081421,neutral,0.00850478932261467
+51,2019-11-26 07:00:00,The general rule of thumb is to spend your Black Friday shopping for goods that are in high demand or hard to buy online.,0.03738904371857643,0.056670572608709335,0.9059404134750366,neutral,-0.019281528890132904
+52,2019-11-26 07:00:00,"Of course, that makes sense only if you can handle the Black Friday in-store shopping experience.",0.06932779401540756,0.01589036174118519,0.9147818088531494,neutral,0.05343743413686752
+53,2019-11-26 07:00:00,"If you're chasing doorbusters, for example, plan on getting up early and, possibly, sparring for the last toy on the shelf.",0.058565933257341385,0.03816785663366318,0.903266191482544,neutral,0.020398076623678207
+54,2019-11-26 07:00:00,"On Cyber Monday, focus on smaller items and use sitewide discounts to browse your favorite retailers for the last few random gifts on your list.",0.04932347312569618,0.029167206957936287,0.921509325504303,neutral,0.020156266167759895
+55,2019-11-26 07:00:00,"The $16,728 Social Security bonus most retirees completely overlook 
+
+If you're like most Americans, you're a few years (or more) behind on your retirement savings.",0.09873557090759277,0.20154371857643127,0.6997206807136536,neutral,-0.1028081476688385
+56,2019-11-26 07:00:00,"But a handful of little-known ""Social Security secrets"" could help ensure a boost in your retirement income.",0.42587700486183167,0.05124306678771973,0.522879958152771,neutral,0.37463393807411194
+57,2019-11-26 07:00:00,"For example: one easy trick could pay you as much as $16,728 more... each year!",0.09068891406059265,0.031686555594205856,0.87762451171875,neutral,0.059002358466386795
+58,2019-11-26 07:00:00,"Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after.",0.35658568143844604,0.011904616840183735,0.6315096616744995,neutral,0.344681054353714
+59,2019-11-26 07:00:00,Simply click here to discover how to learn more about these strategies.,0.04130851849913597,0.009173430502414703,0.9495180249214172,neutral,0.03213508799672127
+60,2019-11-26 07:00:00,Catherine Brock owns shares of AT&T.,0.02144422009587288,0.011717897839844227,0.9668378233909607,neutral,0.009726322256028652
+61,2019-11-26 07:00:00,"The Motley Fool recommends Home Depot, Lowe's, T-Mobile US, and Ulta Beauty and recommends the following options: long January 2021 $120 calls on Home Depot and short February 2020 $205 calls on Home Depot.",0.01844058930873871,0.027210479602217674,0.9543489813804626,neutral,-0.008769890293478966
+62,2019-11-26 07:00:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

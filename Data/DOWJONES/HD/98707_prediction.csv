@@ -1,0 +1,22 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-25 01:35:00,Stocks traded lower on Tuesday as a decline in consumer confidence coupled with dour corporate forecasts for the fourth quarter from some of the Dow Jones' largest component stocks weighed on investor sentiment.,0.0237747710198164,0.9636614322662354,0.012563767842948437,negative,-0.9398866891860962
+1,2016-10-25 01:35:00,"The blue-chip index closed below its 100-day moving average for an eleventh consecutive day led by losses in component stocks 3M ( MMM ), Home Depot ( HD ) and Caterpillar ( CAT ).",0.02128537930548191,0.970058023929596,0.008656568825244904,negative,-0.948772668838501
+2,2016-10-25 01:35:00,"Of the eleven S&P 500 sectors, utilities closed higher as a result of lower Treasury yields with consumer discretionary and material stocks taking the brunt of today's selling pressure.",0.3702472150325775,0.5861343741416931,0.04361843317747116,negative,-0.2158871591091156
+3,2016-10-25 01:35:00,The consumer staple sector closed marginally higher.,0.8541361093521118,0.07025209069252014,0.07561186701059341,positive,0.7838840484619141
+4,2016-10-25 01:35:00,"Third quarter earnings poured in before the opening bell, and although most were better-than-expected, investors were unnerved by lackluster guidance from Under Armour ( UA ), Caterpillar, 3M ( MMM ) and Whirlpool ( WHR ) as the strength of the dollar, and impending exit of the UK from the European Union undermines growth forecasts for multinationals.",0.024656981229782104,0.9647547602653503,0.010588312521576881,negative,-0.9400978088378906
+5,2016-10-25 01:35:00,The negative tone was amplified by a sizable decay in consumer confidence.,0.02233506739139557,0.9562903642654419,0.021374482661485672,negative,-0.9339553117752075
+6,2016-10-25 01:35:00,"A week before election day, the Conference Board consumer confidence index fell to a 3-month low of 98.6 from a downward revised 103.5 in September, missing estimates to drop to 101.0.",0.019477207213640213,0.971732497215271,0.008790302090346813,negative,-0.9522553086280823
+7,2016-10-25 01:35:00,This corresponds to a 13-month low in a comparable survey by the University of Michigan as business and employment conditions deteriorate.,0.0220778975635767,0.9621132612228394,0.01580880954861641,negative,-0.940035343170166
+8,2016-10-25 01:35:00,"Housing prices, however, improved in August according to a pair of surveys from the Federal Housing Finance Agency and Case Shiller.",0.9386059045791626,0.02517113834619522,0.036223046481609344,positive,0.9134347438812256
+9,2016-10-25 01:35:00,"The FHFA house price index increased by 0.7%, beating +0.5% estimates, while Cash Shiller was up an as-expected 0.2%.",0.9467551708221436,0.028246145695447922,0.024998579174280167,positive,0.9185090065002441
+10,2016-10-25 01:35:00,"Oil futures were lower as well with West Texas intermediate settling below $50 per barrel ahead of a weekly report expected to show rising inventories, and an important meeting of the Organization for Petroleum Exporting Countries (OPEC) next month.",0.0334760807454586,0.9360914826393127,0.03043239191174507,negative,-0.9026154279708862
+11,2016-10-25 01:35:00,"Here's where the markets stood at the close:
+
+(+) GBT (+11.27%) Reached agreement with FDA regarding design of GBT440 sickle-cell disease trial
+
+(-) FCEL (-27.88%) Beacon Falls project not selected for New England clean energy RFP
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009798048064112663,0.017234552651643753,0.9729674458503723,neutral,-0.00743650458753109
+12,2016-10-25 01:35:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+13,2016-10-25 01:35:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+14,2016-10-25 01:35:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

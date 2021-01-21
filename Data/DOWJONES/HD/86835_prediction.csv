@@ -1,0 +1,92 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-19 14:04:05,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2020-10-19 14:04:05,"Today's Research Daily features new research reports on 16 major stocks, including Amazon.com (AMZN), The Home Depot (HD) and Sanofi (SNY).",0.03525790944695473,0.009039393626153469,0.9557027220726013,neutral,0.026218514889478683
+2,2020-10-19 14:04:05,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2020-10-19 14:04:05,"You can see all of today’s research reports here >>>
+
+Amazon shares have lost some ground lately, but the stock has been a standout performer in the year-to-date period (+77.1% vs. +8.2% for the S&P 500 index) on the back of Amazon's leverage to the boost in digital sales as a result of the pandemic.",0.7962686419487,0.054740965366363525,0.1489904373884201,positive,0.7415276765823364
+4,2020-10-19 14:04:05,"Additionally, solid Prime momentum owing to ultrafast delivery services and expanding content portfolio remains a tailwind.",0.8184906244277954,0.09409410506486893,0.08741521835327148,positive,0.7243965268135071
+5,2020-10-19 14:04:05,"Further, strong adoption rate of AWS is aiding the company’s cloud dominance.",0.9143247008323669,0.014036526903510094,0.07163877040147781,positive,0.9002881646156311
+6,2020-10-19 14:04:05,"Moreover, expanding AWS portfolio is contributing well.",0.9161325693130493,0.013527118600904942,0.07034025341272354,positive,0.9026054739952087
+7,2020-10-19 14:04:05,"Additionally, improving Alexa skills and features are positives.",0.9173730611801147,0.015772148966789246,0.0668548122048378,positive,0.9016008973121643
+8,2020-10-19 14:04:05,"Also, expanding smart home products offerings are tailwinds.",0.11226601153612137,0.8016685247421265,0.08606547117233276,negative,-0.6894025206565857
+9,2020-10-19 14:04:05,"However, accelerating coronavirus related expenses might hurt the company’s profitability in the near term.",0.022697892040014267,0.9583195447921753,0.018982578068971634,negative,-0.9356216788291931
+10,2020-10-19 14:04:05,"Also, foreign exchange headwinds and rising cloud competition are concerns.",0.04551912471652031,0.6183343529701233,0.3361465334892273,negative,-0.5728152394294739
+11,2020-10-19 14:04:05,Shares of Home Depot have gained +21.5% over the past year against the Zacks Retail Building Products industry’s rise of 29.6%.,0.9550020098686218,0.026927057653665543,0.018070843070745468,positive,0.9280749559402466
+12,2020-10-19 14:04:05,The Zacks analyst believes that Home Depot’s interconnected retail strategy and underlying technology infrastructure have boosted web traffic in the past several months.,0.9462600946426392,0.016368333250284195,0.03737163171172142,positive,0.9298917651176453
+13,2020-10-19 14:04:05,"The company posted better-than-expected top and bottom line results in the second-quarter fiscal 2020, despite the looming impacts of coronavirus outbreak.",0.9311219453811646,0.044478122144937515,0.024399885907769203,positive,0.8866438269615173
+14,2020-10-19 14:04:05,"Sales gains were attributed to its robust and flexible interconnected infrastructure, which helped it quickly adapt to the changing customer preferences amid the coronavirus pandemic.",0.9432263374328613,0.015330352820456028,0.04144328087568283,positive,0.9278959631919861
+15,2020-10-19 14:04:05,It also gained from strong growth in its Pro and DIY customer categories.,0.9543677568435669,0.017022548243403435,0.02860976941883564,positive,0.9373452067375183
+16,2020-10-19 14:04:05,"Notably, DIY sales outpaced Pro sales growth in the fiscal second quarter owing to rise in home improvement projects.",0.6839928030967712,0.29113489389419556,0.02487223781645298,positive,0.3928579092025757
+17,2020-10-19 14:04:05,"However, it incurred additional costs related to the coronavirus pandemic which partly deleveraged expenses.",0.03158091381192207,0.9171269536018372,0.05129223316907883,negative,-0.8855460286140442
+18,2020-10-19 14:04:05,Sanofi shares have gained +4.1% over the past six months against the Zacks Large Cap Pharmaceuticals industry’s fall of -0.2%.,0.9569612145423889,0.02563760057091713,0.01740117557346821,positive,0.9313235878944397
+19,2020-10-19 14:04:05,The Zacks analyst believes that its R&D pipeline is strong and cost-savings and efficiency initiatives are supporting the bottom-line.,0.9097569584846497,0.012815248221158981,0.0774277001619339,positive,0.8969417214393616
+20,2020-10-19 14:04:05,"Sanofi’s Specialty Care segment is on a strong footing, particularly with regular label expansion of Dupixent.",0.9342589378356934,0.01427254918962717,0.051468461751937866,positive,0.919986367225647
+21,2020-10-19 14:04:05,"The drug has, in a very short time, become Sanofi’s key top-line driver.",0.8569784164428711,0.012381990440189838,0.13063961267471313,positive,0.8445964455604553
+22,2020-10-19 14:04:05,Sanofi possesses one of the world’s leading vaccine operations.,0.7311344146728516,0.011502577923238277,0.2573630213737488,positive,0.7196318507194519
+23,2020-10-19 14:04:05,"However, headwinds include weak performance of the Diabetes unit, generic competition for many drugs and slower-than-expected uptake of core products like Praluent.",0.019759953022003174,0.9643130898475647,0.015926910564303398,negative,-0.9445531368255615
+24,2020-10-19 14:04:05,"COVID-19 resulted in slowdown of new patient additions, deferral of procedures and some vaccinations, and lower in-pharmacy traffic in Q2.",0.02707115188241005,0.9441000819206238,0.028828786686062813,negative,-0.9170289039611816
+25,2020-10-19 14:04:05,Estimates have gone down slightly ahead of Q3 earnings.,0.018124505877494812,0.9442539811134338,0.03762156143784523,negative,-0.9261294603347778
+26,2020-10-19 14:04:05,Sanofi has a mixed record of earnings surprise in the recent quarters.,0.0517130009829998,0.8244715332984924,0.12381549924612045,negative,-0.7727585434913635
+27,2020-10-19 14:04:05,"Other noteworthy reports we are featuring today include Intel (INTC), SAP SE (SAP) and American Tower (AMT).",0.03857634589076042,0.0055270264856517315,0.9558966755867004,neutral,0.0330493189394474
+28,2020-10-19 14:04:05,"From thousands of stocks, 5 Zacks experts each picked their favorite to gain +100% or more in months to come.",0.6877041459083557,0.021529894322156906,0.29076600074768066,positive,0.6661742329597473
+29,2020-10-19 14:04:05,"From those 5, Zacks Director of Research, Sheraz Mian hand-picks one to have the most explosive upside of all.",0.2174600213766098,0.03765210136771202,0.7448878288269043,neutral,0.17980791628360748
+30,2020-10-19 14:04:05,"With users in 180 countries and soaring revenues, it’s set to thrive on remote working long after the pandemic ends.",0.7703711986541748,0.021027710288763046,0.20860108733177185,positive,0.7493435144424438
+31,2020-10-19 14:04:05,No wonder it recently offered a stunning $600 million stock buy-back plan.,0.697752058506012,0.014472483657300472,0.2877754867076874,positive,0.6832795739173889
+32,2020-10-19 14:04:05,The sky’s the limit for this emerging tech giant.,0.1327681839466095,0.015294401906430721,0.851937472820282,neutral,0.1174737811088562
+33,2020-10-19 14:04:05,"And the earlier you get in, the greater your potential gain.",0.5168577432632446,0.021949447691440582,0.4611928462982178,positive,0.49490830302238464
+34,2020-10-19 14:04:05,"Click Here, See It Free >>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.14159414172172546,0.008504646830260754,0.8499011993408203,neutral,0.13308949768543243
+35,2020-10-19 14:04:05,He is frequently quoted in the print and electronic media and publishes the weekly and reports.,0.03331075236201286,0.01755107194185257,0.9491382241249084,neutral,0.015759680420160294
+36,2020-10-19 14:04:05,"If you want an email notification each time Sheraz publishes a new article, please
+
+Per the Zacks analyst, solid uptake of latest Xeon Scalable processors, and demand from cloud service providers will drive Intel's growth.",0.8828222751617432,0.012388466857373714,0.10478922724723816,positive,0.8704338073730469
+37,2020-10-19 14:04:05,"Per the Zacks analyst, robust adoption of S/4HANA and other cloud-based offerings have driven SAP's top line.",0.9357349872589111,0.014197394251823425,0.05006756633520126,positive,0.9215375781059265
+38,2020-10-19 14:04:05,"Per the Zacks analyst, American Tower will benefit from increased investment by wireless carriers in 4G LTE and 5G networks, though stiff competition and tenant concentration are concerning.",0.9372025728225708,0.015507572330534458,0.047289930284023285,positive,0.9216949939727783
+39,2020-10-19 14:04:05,"Per the Zacks analyst, Caterpillar's focus on cutting down costs will help sustain margins despite weak demand owing to the impact of the coronavirus pandemic.",0.9492764472961426,0.021390100941061974,0.029333392158150673,positive,0.9278863668441772
+40,2020-10-19 14:04:05,The Zacks analyst is encouraged by the company's initiatives to focus on its oncology pipeline.,0.8835529685020447,0.012496274895966053,0.10395073145627975,positive,0.8710566759109497
+41,2020-10-19 14:04:05,"The Zacks analyst is upbeat about CVS Health's consumer-centric digital strategy, which has received a significant boost during the pandemic due to widespread stay-at-home orders.",0.9169296622276306,0.016951879486441612,0.06611843407154083,positive,0.8999778032302856
+42,2020-10-19 14:04:05,"Per a Zacks analyst, General Electric (GE) is poised to gain from contracts secured, especially those by Renewable Energy.",0.9474694132804871,0.01692197285592556,0.03560865670442581,positive,0.9305474162101746
+43,2020-10-19 14:04:05,"Its focus on Power, Aviation, and Renewable Energy businesses will be a boon.",0.7691113352775574,0.015574551187455654,0.21531414985656738,positive,0.7535367608070374
+44,2020-10-19 14:04:05,"Per the Zacks analyst, organic growth remains a key strength at First Republic.",0.8110911250114441,0.011850913055241108,0.17705795168876648,positive,0.799240231513977
+45,2020-10-19 14:04:05,Higher revenues reflect improving loan and deposit balances.,0.95106041431427,0.019156483933329582,0.02978314459323883,positive,0.9319039583206177
+46,2020-10-19 14:04:05,"Per the Zacks analyst, demand for Pacira's flagship product Exparel has been strong since its launch.",0.950188934803009,0.016193436458706856,0.033617742359638214,positive,0.9339954853057861
+47,2020-10-19 14:04:05,The drug's label expansion studies are also progressing well which can boost sales further.,0.9524882435798645,0.016795780509710312,0.030716024339199066,positive,0.9356924891471863
+48,2020-10-19 14:04:05,"Per the Zacks analyst, robust balance sheet position, increased orders across various end markets and cost-saving initiatives are likely to boost Badger Meter's near-term performance.",0.9566743969917297,0.018677471205592155,0.02464805543422699,positive,0.9379969239234924
+49,2020-10-19 14:04:05,"BP is not on a strong footing to combat low oil prices, as it cannot rely on its debt-laden balance sheet.",0.0775909349322319,0.7990459203720093,0.12336313724517822,negative,-0.7214549779891968
+50,2020-10-19 14:04:05,"Also, Gulf of Mexico (GoM) oil spill payment still affects the firm, per the Zacks analyst.",0.025737522169947624,0.8439435362815857,0.13031896948814392,negative,-0.8182060122489929
+51,2020-10-19 14:04:05,"Per the Zacks analysts, Best Buy's gross margin has been hurt by high supply chain costs, as witnessed in fiscal second-quarter 2021.",0.01980229839682579,0.9688993096351624,0.011298438534140587,negative,-0.9490970373153687
+52,2020-10-19 14:04:05,"Per the Zacks analyst, an ongoing decline in its end markets due to the coronavirus pandemic as well as higher costs related to its manufacturing footprint initiatives will weigh on Timken's results.",0.023880137130618095,0.9526759386062622,0.023443883284926414,negative,-0.9287958145141602
+53,2020-10-19 14:04:05,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+54,2020-10-19 14:04:05,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+55,2020-10-19 14:04:05,"Click to get this free report
+
+ 
+
+Sanofi (SNY) : Free Stock Analysis Report
+
+ 
+
+SAP SE (SAP) : Free Stock Analysis Report
+
+ 
+
+Intel Corporation (INTC) : Free Stock Analysis Report
+
+ 
+
+The Home Depot, Inc. (HD) : Free Stock Analysis Report
+
+ 
+
+Amazon.com, Inc. (AMZN) : Free Stock Analysis Report
+
+ 
+
+American Tower Corporation REIT (AMT) : Free Stock Analysis Report
+
+ 
+
+To read this article on Zacks.com click here.",0.012196539901196957,0.016246506944298744,0.9715569019317627,neutral,-0.004049967043101788
+56,2020-10-19 14:04:05,Zacks Investment Research,0.04020046442747116,0.013417160138487816,0.9463823437690735,neutral,0.026783304288983345

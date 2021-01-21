@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-02-22 03:03:00,Veeva Systems Inc. (NYSE: VEEV) had a great 2017.,0.8865866661071777,0.014920547604560852,0.09849273413419724,positive,0.8716661334037781
+1,2018-02-22 03:03:00,The stock soared nearly 36%.,0.9152487516403198,0.02203119918704033,0.06272011250257492,positive,0.8932175636291504
+2,2018-02-22 03:03:00,Veeva's cloud-based applications for the life sciences market continued to enjoy strong demand.,0.9428901672363281,0.014795645140111446,0.04231429100036621,positive,0.9280945062637329
+3,2018-02-22 03:03:00,"However, all of its gains were made in the first five months of the year.",0.9165986180305481,0.02240549772977829,0.06099577620625496,positive,0.8941931128501892
+4,2018-02-22 03:03:00,"From June through the end of the year, the stock fell 15%.",0.01756795309484005,0.9722990393638611,0.010133046656847,negative,-0.9547311067581177
+5,2018-02-22 03:03:00,"So far in 2018, though, Veeva is bouncing back nicely.",0.9166611433029175,0.025739368051290512,0.057599522173404694,positive,0.8909217715263367
+6,2018-02-22 03:03:00,"Double-digit percentage swings are par for the course with a high-growth, high-valuation stock like Veeva Systems.",0.28771963715553284,0.03772358223795891,0.6745567917823792,neutral,0.24999605119228363
+7,2018-02-22 03:03:00,It's more important for investors to look at the company's business model and opportunities for future growth.,0.12000022083520889,0.005368351936340332,0.8746314644813538,neutral,0.11463186889886856
+8,2018-02-22 03:03:00,"With a long-term view in mind, is Veeva Systems a buy?",0.10479152947664261,0.0206743236631155,0.8745341897010803,neutral,0.08411720395088196
+9,2018-02-22 03:03:00,"In my view, the single most compelling reason to buy Veeva stock is the company's moat .",0.09252368658781052,0.006460875738412142,0.9010154604911804,neutral,0.08606281131505966
+10,2018-02-22 03:03:00,"Just like medieval castles had a moat of water that served as a barrier to protect against enemies, Veeva's products protect it from rivals.",0.13644181191921234,0.014889228157699108,0.8486689329147339,neutral,0.12155258655548096
+11,2018-02-22 03:03:00,How?,0.09705228358507156,0.03652043268084526,0.8664273023605347,neutral,0.0605318509042263
+12,2018-02-22 03:03:00,Three words: high switching costs.,0.05171189084649086,0.0223727747797966,0.9259153604507446,neutral,0.02933911606669426
+13,2018-02-22 03:03:00,Veeva's core products includes its customer relationship management (CRM) system and its Vault suite of applications that help biopharmaceutical companies manage the drug development process.,0.06478136032819748,0.0044011869467794895,0.9308174848556519,neutral,0.06038017198443413
+14,2018-02-22 03:03:00,"Customers that use Veeva's applications must load all of their data, including customers, clinical trial data, and much more, into the systems.",0.01580026000738144,0.008561981841921806,0.9756377935409546,neutral,0.007238278165459633
+15,2018-02-22 03:03:00,"To leave Veeva for a rival system, a customer would have to convert all of that data to the new system -- a time-consuming and costly process.",0.040358297526836395,0.5105384588241577,0.4491032660007477,negative,-0.4701801538467407
+16,2018-02-22 03:03:00,"In addition, the customer would need to train all of its employees on the new system, requiring even more time and cost.",0.21593070030212402,0.481967955827713,0.30210140347480774,negative,-0.266037255525589
+17,2018-02-22 03:03:00,These switching costs mean that customers tend to stay on Veeva's products.,0.029827089980244637,0.6589977145195007,0.3111751973628998,negative,-0.6291705965995789
+18,2018-02-22 03:03:00,"At the same time, though, Veeva continues to roll out new products that meet additional customer needs.",0.6847679018974304,0.009740907698869705,0.30549120903015137,positive,0.6750270128250122
+19,2018-02-22 03:03:00,"For example, in 2017 the company launched Vault EDC (electronic data capture) and Vault eSource.",0.11674084514379501,0.004874641075730324,0.878384530544281,neutral,0.11186620593070984
+20,2018-02-22 03:03:00,"The former product enables clinical trial sites, sponsors, and contract research organizations to easily and quickly access clinical data, while the latter product integrates electronic source data directly into Vault EDC.",0.09203898906707764,0.005312427878379822,0.9026486277580261,neutral,0.08672656118869781
+21,2018-02-22 03:03:00,"As more customers adopt these and other new products, it becomes even harder for them to switch to a competing system.",0.0929933562874794,0.14530394971370697,0.7617027759552002,neutral,-0.05231059342622757
+22,2018-02-22 03:03:00,New products also allow Veeva to expand its total addressable market.,0.9376185536384583,0.014223591424524784,0.048157889395952225,positive,0.9233949780464172
+23,2018-02-22 03:03:00,The company is even moving into entirely new markets outside of the life sciences industry.,0.4697321057319641,0.009365925565361977,0.5209019184112549,neutral,0.4603661894798279
+24,2018-02-22 03:03:00,"Last year, Veeva landed a large consumer packaged goods customer.",0.7669880986213684,0.01307437103241682,0.21993756294250488,positive,0.7539137005805969
+25,2018-02-22 03:03:00,"Although its expansion into new markets might move relatively slowly at first, this represents a tremendous growth opportunity for the company.",0.9215977787971497,0.013517237268388271,0.06488499790430069,positive,0.908080518245697
+26,2018-02-22 03:03:00,"With its strong moat and solid growth prospects, why wouldn't investors want to buy Veeva?",0.5497078895568848,0.01594911329448223,0.4343430697917938,positive,0.5337587594985962
+27,2018-02-22 03:03:00,Probably the top reason would be that they think the stock is expensive and that much of the growth is already baked into the share price.,0.03338920697569847,0.11485137790441513,0.8517594337463379,neutral,-0.08146217465400696
+28,2018-02-22 03:03:00,Veeva stock currently trades at 71 times trailing-12-month earnings and 60 times expected earnings.,0.05523483082652092,0.007614775560796261,0.9371503591537476,neutral,0.047620054334402084
+29,2018-02-22 03:03:00,Those are nosebleed valuation levels.,0.030576249584555626,0.029651228338479996,0.9397725462913513,neutral,0.0009250212460756302
+30,2018-02-22 03:03:00,"But Veeva has expanded rapidly and more growth is expected, so is the stock cheap factoring in growth prospects?",0.6687889695167542,0.01921597681939602,0.3119949996471405,positive,0.6495729684829712
+31,2018-02-22 03:03:00,"Actually, no.",0.0866352841258049,0.08886206895112991,0.8245026469230652,neutral,-0.002226784825325012
+32,2018-02-22 03:03:00,The stock's price-to-earnings-to-growth (PEG) ratio of 2.96 is also really high.,0.6284626126289368,0.01713588833808899,0.35440149903297424,positive,0.6113266944885254
+33,2018-02-22 03:03:00,Then there's the Wall Street projections that Veeva's growth rate will slow.,0.021210430189967155,0.9134349822998047,0.06535454839468002,negative,-0.8922245502471924
+34,2018-02-22 03:03:00,"Over the last five years, Veeva grew earnings by more than 42% per year on average.",0.9483174085617065,0.015451209619641304,0.03623143583536148,positive,0.9328662157058716
+35,2018-02-22 03:03:00,"However, analysts think that the company's earnings growth will slow to roughly half that amount over the next five years.",0.01799672096967697,0.9516772627830505,0.03032596968114376,negative,-0.933680534362793
+36,2018-02-22 03:03:00,The reality is Veeva isn't the hot growth story that it once was.,0.025178225710988045,0.02881336584687233,0.9460084438323975,neutral,-0.003635140135884285
+37,2018-02-22 03:03:00,"It's got over 600 customers, including many of the largest biopharmaceutical companies in the world.",0.2825642228126526,0.007143659982830286,0.7102921009063721,neutral,0.27542057633399963
+38,2018-02-22 03:03:00,Investors looking for sizzling growth could potentially find other stocks that are earlier in their life cycle than Veeva is and that aren't as expensive.,0.049817267805337906,0.030271047726273537,0.9199116230010986,neutral,0.01954622007906437
+39,2018-02-22 03:03:00,"Several years ago, I would have looked at Veeva's earnings multiples and concluded the stock was too pricey to buy.",0.0529104582965374,0.3570495843887329,0.5900399088859558,neutral,-0.3041391372680664
+40,2018-02-22 03:03:00,I would have put faith in Wall Street's projections of slowing growth and stayed clear of the stock altogether.,0.1370166391134262,0.10193027555942535,0.7610530853271484,neutral,0.035086363554000854
+41,2018-02-22 03:03:00,"Now, however, my opinions are formed more by a company's business model and moat than they are by current numbers and analysts' best guesses about the future.",0.03596825897693634,0.007218548096716404,0.9568132162094116,neutral,0.02874971181154251
+42,2018-02-22 03:03:00,"In my view, Veeva has about as solid of a business model and moat as they come.",0.43278956413269043,0.009571448899805546,0.5576390027999878,neutral,0.42321810126304626
+43,2018-02-22 03:03:00,The company has great products that meet customer needs.,0.6421241164207458,0.010563126765191555,0.3473128080368042,positive,0.6315609812736511
+44,2018-02-22 03:03:00,It continues to innovate by rolling out new products.,0.8201644420623779,0.010958210565149784,0.16887742280960083,positive,0.8092062473297119
+45,2018-02-22 03:03:00,Veeva isn't limiting itself to just one industry.,0.019886616617441177,0.007311591412872076,0.9728018045425415,neutral,0.012575024738907814
+46,2018-02-22 03:03:00,"Sure, the stock is expensive.",0.044064078480005264,0.018282093107700348,0.9376537799835205,neutral,0.025781985372304916
+47,2018-02-22 03:03:00,"But just as you would expect to pay more for a room at a five-star resort than you would at a motel by the interstate, you pay more for quality stocks.",0.20718182623386383,0.0161724966019392,0.7766456604003906,neutral,0.19100932776927948
+48,2018-02-22 03:03:00,Veeva is a quality stock that I still think is a smart long-term pick.,0.7877196073532104,0.011980759911239147,0.20029962062835693,positive,0.7757388353347778
+49,2018-02-22 03:03:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+50,2018-02-22 03:03:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+51,2018-02-22 03:03:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+52,2018-02-22 03:03:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+53,2018-02-22 03:03:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+54,2018-02-22 03:03:00,Keith Speights has no position in any of the stocks mentioned.,0.009128669276833534,0.045183293521404266,0.9456880688667297,neutral,-0.03605462610721588
+55,2018-02-22 03:03:00,The Motley Fool owns shares of and recommends Veeva Systems.,0.034477271139621735,0.013045232743024826,0.9524774551391602,neutral,0.02143203839659691
+56,2018-02-22 03:03:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+57,2018-02-22 03:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

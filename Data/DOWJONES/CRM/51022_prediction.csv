@@ -1,0 +1,13 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-11 21:13:00,SAP ( SAP ) and Salesforce ( CRM ) are both giants in the enterprise software domain.,0.1757696270942688,0.007880669087171555,0.8163496851921082,neutral,0.16788895428180695
+1,2016-07-11 21:13:00,"Salesforce, the dominant player in the CRM domain, has seen impressive growth in each of the past few years, primarily driven by new customer additions and diversification of offerings.",0.9448028802871704,0.014147148467600346,0.04105000197887421,positive,0.9306557178497314
+2,2016-07-11 21:13:00,"SAP is also a leader in the CRM space, in addition to the Enterprise Resource Planning and Supply Chain Management fields.",0.5727616548538208,0.010079157538712025,0.41715914011001587,positive,0.5626825094223022
+3,2016-07-11 21:13:00,"Given the business models and product offerings of the two companies, sales and marketing is crucial for their top lines, as it plays an instrumental role in bringing new clients.",0.44580304622650146,0.00961573887616396,0.5445812344551086,neutral,0.4361872971057892
+4,2016-07-11 21:13:00,"Both the companies allocate a significant amount to their sales and marketing activities, as shown by the table below.",0.014886781573295593,0.007246355526149273,0.9778668284416199,neutral,0.00764042604714632
+5,2016-07-11 21:13:00,"SAP generates more revenue for each dollar that it spends on its marketing costs, though much of that is due to the fact that it offers bundled packages to customers.",0.03765559196472168,0.0292231235653162,0.9331212639808655,neutral,0.00843246839940548
+6,2016-07-11 21:13:00,"On the other hand, Salesforce is a comparatively newer company, and see rapid year-on-year growth.",0.8296973705291748,0.024991795420646667,0.14531084895133972,positive,0.8047055602073669
+7,2016-07-11 21:13:00,"Accordingly, it needs to spend heavily in sales and marketing activities in order to generate interest and grow its customer base.",0.8293280601501465,0.012798486277461052,0.15787339210510254,positive,0.8165295720100403
+8,2016-07-11 21:13:00,"Salesforce has managed to see improvement in its revenue per sales and marketing dollar spent, while the same figure for SAP has declined.",0.3321899175643921,0.6421063542366028,0.025703759863972664,negative,-0.3099164366722107
+9,2016-07-11 21:13:00,"See More at Trefis |View Interactive Institutional Research (Powered by Trefis)
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009789738804101944,0.015479715541005135,0.9747305512428284,neutral,-0.005689976736903191

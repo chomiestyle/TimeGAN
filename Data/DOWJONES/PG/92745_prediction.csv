@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-18 07:30:00,"In early trading on Friday, shares of Cisco Systems topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.0%.",0.9363375902175903,0.032948944717645645,0.030713483691215515,positive,0.9033886194229126
+1,2016-11-18 07:30:00,"Year to date, Cisco Systems registers a 11.7% gain.",0.9529263973236084,0.018758472055196762,0.028315182775259018,positive,0.9341679215431213
+2,2016-11-18 07:30:00,"And the worst performing Dow component thus far on the day is Procter & Gamble, trading down 0.8%.",0.020854752510786057,0.9645605087280273,0.014584728516638279,negative,-0.9437057375907898
+3,2016-11-18 07:30:00,Procter & Gamble is showing a gain of 3.8% looking at the year to date performance.,0.9465446472167969,0.018781330436468124,0.034673985093832016,positive,0.9277633428573608
+4,2016-11-18 07:30:00,"Two other components making moves today are Wal-Mart Stores, trading down 0.8%, and Microsoft, trading up 0.6% on the day.",0.033749908208847046,0.9270451068878174,0.03920493274927139,negative,-0.893295168876648
+5,2016-11-18 07:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

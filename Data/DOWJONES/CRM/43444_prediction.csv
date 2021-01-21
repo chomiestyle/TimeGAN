@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-17 04:28:00,"If any company besides Amazon (NASDAQ:) exemplifies the value of early adoption and the “be right and sit tight” philosophy of investing, it’s Salesforce (NYSE:) stock.",0.10405789315700531,0.013553308323025703,0.8823887705802917,neutral,0.09050458669662476
+1,2019-12-17 04:28:00,"Anyone who had the foresight to buy and hold CRM stock 15 years ago has been richly rewarded; today, prospective investors must consider whether hypergrowth by CRM stock is still likely or even possible.",0.7939183712005615,0.016151810064911842,0.18992988765239716,positive,0.7777665853500366
+2,2019-12-17 04:28:00,I dare to declare that it’s both possible and likely.,0.12413954734802246,0.019351083785295486,0.8565093278884888,neutral,0.10478846728801727
+3,2019-12-17 04:28:00,"As the company’s ticker symbol implies, Salesforce is the undisputed heavyweight champion of CRM, or customer relationship management.",0.7088544964790344,0.013833951205015182,0.27731162309646606,positive,0.6950205564498901
+4,2019-12-17 04:28:00,CRM is a sector that will continue to expand as businesses embrace this subset of technology as a prerequisite of growth and even survival.,0.8335328698158264,0.012432442046701908,0.15403474867343903,positive,0.8211004137992859
+5,2019-12-17 04:28:00,"Cloud technology in particular will drive Salesforce stock to new highs, not necessarily today or tomorrow, but inevitably at some point.",0.7893001437187195,0.019517656415700912,0.19118210673332214,positive,0.7697824835777283
+6,2019-12-17 04:28:00,"Salesforce stock is by no means a pure-play, cloud-technology bet, and it’s certainly not the only cloud-related asset out there.",0.04032561555504799,0.009039773605763912,0.9506345987319946,neutral,0.0312858410179615
+7,2019-12-17 04:28:00,"Still, customer relationship management and cloud technology go hand-in-hand nowadays, and Salesforce’s early positioning in the cloud gave both the company and the owners of CRM stock a head start.",0.8563598394393921,0.018241073936223984,0.12539911270141602,positive,0.8381187915802002
+8,2019-12-17 04:28:00,"Salesforce’s website in today’s business environment better than I ever could:
+
+“Cloud-based CRM systems… mean every user has the same information, all the time.",0.5167102217674255,0.024461643770337105,0.4588281214237213,positive,0.4922485649585724
+9,2019-12-17 04:28:00,"Your sales teams out on the road can check data, update it instantly after a meeting, or work from anywhere.",0.02712312527000904,0.00888688862323761,0.9639899730682373,neutral,0.01823623664677143
+10,2019-12-17 04:28:00,"The same information is available to anyone who needs it, from the sales team to the customer service representatives.”
+
+Cloud-based CRM also tends to be cheaper, faster, more portable, more adaptable to growth, more feature-rich, and just plain better than the alternatives.",0.6093490123748779,0.011609170585870743,0.37904176115989685,positive,0.5977398157119751
+11,2019-12-17 04:28:00,"By bringing cloud technology to CRM, Salesforce took a subsector it was already dominating, transformed it, and retained its dominance.",0.7792963981628418,0.01228525023907423,0.2084183394908905,positive,0.7670111656188965
+12,2019-12-17 04:28:00,Salesforce’s next hurdle is overcoming an obstacle it didn’t create.,0.7780904769897461,0.018712757155299187,0.20319676399230957,positive,0.7593777179718018
+13,2019-12-17 04:28:00,"While Facebook (NASDAQ:) has gained notoriety for allegedly misusing people’s personal data, Salesforce has committed no such transgressions (as far as I know).",0.03500106930732727,0.32884731888771057,0.6361516118049622,neutral,-0.2938462495803833
+14,2019-12-17 04:28:00,"Nonetheless, CRM must find ways to shake off any damage that it’s suffered as a result of Facebook’s issues.",0.7388033866882324,0.07323289662599564,0.18796367943286896,positive,0.6655704975128174
+15,2019-12-17 04:28:00,"That’s easier said than done, as Facebook’s breach of trust has cast a shadow on any company that stores users’ data.",0.035002630203962326,0.8467350006103516,0.1182624027132988,negative,-0.8117323517799377
+16,2019-12-17 04:28:00,"More than anything, clients and users want to see a proactive approach, not just a defensive stance, to addressing people’s privacy concerns (are you listening, Mark Zuckerberg?).",0.46785929799079895,0.014941856265068054,0.5171988010406494,neutral,0.4529174566268921
+17,2019-12-17 04:28:00,"In that area, I feel that Salesforce has really performed well.",0.9324480891227722,0.014797985553741455,0.05275384336709976,positive,0.9176501035690308
+18,2019-12-17 04:28:00,"Usually I like to focus on companies’ earnings and revenues, but today I’ll direct your attention to Salesforce’s third-quarter conference call, which featured multiple company representatives actively calling for policy reform.",0.21948209404945374,0.07678727060556412,0.7037306427955627,neutral,0.14269483089447021
+19,2019-12-17 04:28:00,"First, Amy Weaver, CRM’s president, Legal & Corporate Affairs, General Counsel and Secretary:
+
+“[T]he CCPA, which is the California Consumer Privacy Act… is really an important step forward in the U.S. privacy landscape.",0.4285571575164795,0.010103764943778515,0.5613390803337097,neutral,0.4184533953666687
+20,2019-12-17 04:28:00,"But as I said before, we really believe that all Americans… deserve strong privacy protections and that is why we are continuing to advocate for a comprehensive federal privacy law.”
+
+That sentiment was reiterated and elaborated upon by Salesforce Chairman and Co-CEO Marc Benioff:
+
+“That’s also why I called for a U.S. national privacy law.",0.5969698429107666,0.014379879459738731,0.38865023851394653,positive,0.5825899839401245
+21,2019-12-17 04:28:00,We do not want to patchwork…like what we’ve seen in California.,0.03231577202677727,0.19763772189617157,0.7700465321540833,neutral,-0.165321946144104
+22,2019-12-17 04:28:00,I think it’s extremely important.,0.17096276581287384,0.012747150845825672,0.8162900805473328,neutral,0.15821561217308044
+23,2019-12-17 04:28:00,What has happened in California.,0.03621109575033188,0.027672970667481422,0.9361159205436707,neutral,0.008538125082850456
+24,2019-12-17 04:28:00,"I have worked with the team to get that done, but we don’t want to patchwork across the United States.",0.06402771919965744,0.0414469875395298,0.8945253491401672,neutral,0.02258073166012764
+25,2019-12-17 04:28:00,"We badly need a national privacy law.”
+
+That, more than any earnings or revenue numbers, made an impression on me.",0.0796118676662445,0.20759299397468567,0.7127951383590698,neutral,-0.12798112630844116
+26,2019-12-17 04:28:00,"I’m not expecting Salesforce to undo Facebook’s industry-wide PR damage, but it gives me that warm and fuzzy feeling to root for a company that exudes integrity.",0.6338354349136353,0.04997028037905693,0.3161942958831787,positive,0.5838651657104492
+27,2019-12-17 04:28:00,That quality pays extraordinary dividends in a decidedly trust-dependent field of endeavor.,0.7874166369438171,0.013145067729055882,0.199438214302063,positive,0.774271547794342
+28,2019-12-17 04:28:00,"I’ve seen folks complaining lately that CRM stock has been stuck in a range for awhile, causing them to lose patience.",0.0244834516197443,0.9449605941772461,0.030555933713912964,negative,-0.9204771518707275
+29,2019-12-17 04:28:00,I would encourage them to see past the short-term and stick with a company they can actually feel good about.,0.5917311906814575,0.01132146269083023,0.39694738388061523,positive,0.5804097056388855
+30,2019-12-17 04:28:00,"As trust in Salesforce grows, CRM stock will also increase.",0.9449126124382019,0.01463407278060913,0.04045339301228523,positive,0.9302785396575928
+31,2019-12-17 04:28:00,"As of this writing, David Moadel did not hold a position in any of the aforementioned securities.",0.009070697240531445,0.025612669065594673,0.9653165936470032,neutral,-0.016541972756385803
+32,2019-12-17 04:28:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

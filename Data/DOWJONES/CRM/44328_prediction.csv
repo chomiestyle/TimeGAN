@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-10 06:32:00,"In early trading on Monday, shares of Analog Devices (ADI) topped the list of the day's best performing components of the S&P 500 index, trading up 6.3%.",0.9402297735214233,0.026271618902683258,0.03349856659770012,positive,0.9139581322669983
+1,2019-06-10 06:32:00,"Year to date, Analog Devices registers a 24.7% gain.",0.948762059211731,0.01748272031545639,0.03375517576932907,positive,0.9312793612480164
+2,2019-06-10 06:32:00,"And the worst performing S&P 500 component thus far on the day is Salesforce.com (CRM), trading down 3.9%.",0.020933933556079865,0.9673957824707031,0.011670288629829884,negative,-0.9464618563652039
+3,2019-06-10 06:32:00,Salesforce.com is showing a gain of 13.2% looking at the year to date performance.,0.9546553492546082,0.021919259801506996,0.02342538721859455,positive,0.9327360987663269
+4,2019-06-10 06:32:00,"Two other components making moves today are Molson Coors Brewing (TAP), trading down 3.2%, and Kraft Heinz (KHC), trading up 5.6% on the day.",0.032332416623830795,0.9298930764198303,0.03777454048395157,negative,-0.8975606560707092

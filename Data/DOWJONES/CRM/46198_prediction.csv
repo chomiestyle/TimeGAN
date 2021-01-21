@@ -1,0 +1,74 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-20 00:01:00,"Red Hat Inc.RHT reported second-quarter fiscal 2019 non-GAAP earnings of 85 cents per share, surpassing the Zacks Consensus Estimate by 4 cents.",0.9401664733886719,0.033980365842580795,0.02585315890610218,positive,0.9061861038208008
+1,2018-09-20 00:01:00,"The figure increased 24% on a year-over-year basis, primarily driven by strong top-line growth.",0.9561739563941956,0.018543491140007973,0.02528250217437744,positive,0.9376304745674133
+2,2018-09-20 00:01:00,"Revenues increased 13.7% year over year to $822.7 million, primarily driven by strong demand for hybrid cloud technology solutions as well as aggressive cross-selling.",0.9587185382843018,0.017663726583123207,0.023617766797542572,positive,0.9410548210144043
+3,2018-09-20 00:01:00,"However, the figure lagged the Zacks Consensus Estimate of $828 million.",0.15206846594810486,0.7617623209953308,0.08616925776004791,negative,-0.6096938848495483
+4,2018-09-20 00:01:00,"Revenues, adjusted for currency impact, increased 14.3% year over year to $826.9 million.",0.9575127363204956,0.01884429156780243,0.02364295907318592,positive,0.938668429851532
+5,2018-09-20 00:01:00,"The company noted that 77% of the revenues (compared with 79% in the year-ago quarter) came from the channel, while 23% came from direct sales force (compared with 21% in the year-ago quarter).",0.07690533995628357,0.09849848598241806,0.8245961666107178,neutral,-0.02159314602613449
+6,2018-09-20 00:01:00,"Americas; Europe, Middle East & Africa (EMEA); and Asia-Pacific (APAC) revenues increased 11%, 18.5% and 18.8%, respectively.",0.9580094814300537,0.020304322242736816,0.02168615348637104,positive,0.9377051591873169
+7,2018-09-20 00:01:00,"After adjusting for currency impact, Americas, EMEA and APAC revenues increased 12%, 17.4% and 20.3%, respectively.",0.9586101770401001,0.019855882972478867,0.021533891558647156,positive,0.9387543201446533
+8,2018-09-20 00:01:00,"Almost 54% of the bookings came from Americas, 26% from EMEA and 20% from APAC.",0.02694007195532322,0.014251678250730038,0.9588083028793335,neutral,0.012688393704593182
+9,2018-09-20 00:01:00,"Bookings duration was approximately 22 months, up nearly one month from the year-ago quarter.",0.9549720287322998,0.020406633615493774,0.024621278047561646,positive,0.9345654249191284
+10,2018-09-20 00:01:00,Total backlog grew 20% from the year-ago quarter to $3.3 billion.,0.9555140733718872,0.019374733790755272,0.02511119842529297,positive,0.9361393451690674
+11,2018-09-20 00:01:00,"Red Hat, Inc. Price, Consensus and EPS Surprise | Red Hat, Inc. Quote
+
+Subscription revenues (88% of revenues) increased 13.4% year over year to $722.7 million.",0.9581042528152466,0.01842554472386837,0.023470263928174973,positive,0.9396787285804749
+12,2018-09-20 00:01:00,"When adjusted for currency impact, revenues increased 13.8% to $725.3 million.",0.9567602872848511,0.018936708569526672,0.024303004145622253,positive,0.9378235936164856
+13,2018-09-20 00:01:00,Infrastructure related subscription revenues increased 8.1% from the year-ago quarter to $526.7 million.,0.9586671590805054,0.020352713763713837,0.02098015509545803,positive,0.9383144378662109
+14,2018-09-20 00:01:00,"After adjusting for currency impact, revenues increased 8.3% to $528.1 million.",0.9567524194717407,0.018726825714111328,0.024520810693502426,positive,0.9380255937576294
+15,2018-09-20 00:01:00,The segment revenues were negatively impacted by lower available renewal base and renewal value for Red Hat Enterprise Linux (RHEL).,0.017386166378855705,0.9434574842453003,0.03915643319487572,negative,-0.9260713458061218
+16,2018-09-20 00:01:00,"Moreover, the company lost one renewal deal to a legacy on-premise provider, primarily due to pricing.",0.020184120163321495,0.9664477705955505,0.013368131592869759,negative,-0.9462636709213257
+17,2018-09-20 00:01:00,This coupled with reduced scope of an Army project hurt top-line growth.,0.01664215512573719,0.9690051674842834,0.014352632686495781,negative,-0.9523630142211914
+18,2018-09-20 00:01:00,"However, management expects RHEL growth to reaccelerate in the next fiscal year (later part of the first quarter or early second quarter) to reach more than 10%, driven by a higher renewal base.",0.9438198804855347,0.015794435515999794,0.04038570448756218,positive,0.9280254244804382
+19,2018-09-20 00:01:00,"Application development & emerging technologies (Ansible, OpenShift, OpenStack, Storage and cloud management) subscription revenues surged 30.6% year over year to $196 million.",0.9561833739280701,0.02302667312324047,0.02078997902572155,positive,0.9331567287445068
+20,2018-09-20 00:01:00,"After adjusting for currency impact, revenues jumped 31.3% to $197.1 million.",0.9521309733390808,0.021389292553067207,0.026479780673980713,positive,0.9307416677474976
+21,2018-09-20 00:01:00,Red Hat stated that strong performance from the emerging technologies was partially offset by moderate growth (8-10%) in middleware offerings.,0.7659496068954468,0.04640830308198929,0.1876421719789505,positive,0.7195413112640381
+22,2018-09-20 00:01:00,"The ongoing transition of workloads, from traditional physical deployments to container environments, was blamed for weakness in middleware growth.",0.021762685850262642,0.9419182538986206,0.036319080740213394,negative,-0.9201555848121643
+23,2018-09-20 00:01:00,Training & services revenues (12% of revenues) advanced 16.6% from the year-ago quarter to $100 million.,0.956545352935791,0.02136974036693573,0.022084953263401985,positive,0.9351755976676941
+24,2018-09-20 00:01:00,"When adjusted for currency impact, revenues increased 18.5% to $101.7 million.",0.956672191619873,0.01853388175368309,0.024793939664959908,positive,0.9381383061408997
+25,2018-09-20 00:01:00,The top-line growth in the services business was primarily driven by strong consulting and training demand for Ansible and OpenShift.,0.9082809686660767,0.01186315156519413,0.07985594868659973,positive,0.8964177966117859
+26,2018-09-20 00:01:00,"Red Hat inked 73 deals worth more than $1 million in the quarter, which increased 11% year over year.",0.9411925077438354,0.015606308355927467,0.04320118576288223,positive,0.9255862236022949
+27,2018-09-20 00:01:00,"Among these deals, 11 were worth more than $5 million, out of which one deal was worth more than $10 million.",0.03918715938925743,0.011593827977776527,0.9492189884185791,neutral,0.027593331411480904
+28,2018-09-20 00:01:00,"Moreover, the company renewed 24 of the prior 25 largest deals at more than 100% of prior deal value.",0.8786486387252808,0.014245915226638317,0.10710548609495163,positive,0.864402711391449
+29,2018-09-20 00:01:00,Mid-market deals valued more than $250k soared 120% on a year-over-year basis.,0.9427095651626587,0.021143529564142227,0.036146797239780426,positive,0.9215660095214844
+30,2018-09-20 00:01:00,"Both OpenShift and Ansible continue to gain strong traction by adding almost a hundred new customers each, since the first quarter.",0.9351370930671692,0.01581292599439621,0.04905000329017639,positive,0.9193241596221924
+31,2018-09-20 00:01:00,Median revenue per customer also continues to grow.,0.9308016896247864,0.014273209497332573,0.054925091564655304,positive,0.9165284633636475
+32,2018-09-20 00:01:00,"Most recently, the company inked partnership with Hortonworks HDP and IBM IBM to integrate their big data and analytics products onto OpenShift.",0.8810123801231384,0.012625865638256073,0.10636170208454132,positive,0.8683865070343018
+33,2018-09-20 00:01:00,"Moreover, Ansible reached approximately 2 million managed nodes at the end of the quarter, almost double the number of managed nodes since fourth-quarter 2017.",0.8860127329826355,0.015270045958459377,0.09871724992990494,positive,0.870742678642273
+34,2018-09-20 00:01:00,Management noted that 77% of the deals included one or more components from the company's application development and emerging technologies offerings.,0.02739039435982704,0.00548352487385273,0.9671260714530945,neutral,0.021906869485974312
+35,2018-09-20 00:01:00,Top verticals within the deals worth more than $1 million were financial services and Government.,0.03436141461133957,0.005163379944860935,0.9604752063751221,neutral,0.02919803559780121
+36,2018-09-20 00:01:00,Non-GAAP gross profit increased 14.3% year over year to $714.4 million.,0.960155725479126,0.020481767132878304,0.01936250366270542,positive,0.9396739602088928
+37,2018-09-20 00:01:00,Non-GAAP gross margin expanded 40 basis points (bps) on a year-over-year basis to 86.8%.,0.9581131339073181,0.019044991582632065,0.0228419192135334,positive,0.9390681385993958
+38,2018-09-20 00:01:00,Non-GAAP operating expenses increased 19.2% from the year-ago quarter to $517.4 million.,0.9519423246383667,0.029979955404996872,0.018077760934829712,positive,0.9219623804092407
+39,2018-09-20 00:01:00,Non-GAAP operating margin contracted 250 bps to 23.9% due to higher operating expenses.,0.04190794751048088,0.9516289234161377,0.006463132333010435,negative,-0.9097209572792053
+40,2018-09-20 00:01:00,"However, the figure was 90 bps higher than management's guidance, owing to the postponement of some hiring and marketing programs to the second half of the year.",0.09196320921182632,0.8577778935432434,0.05025891587138176,negative,-0.7658146619796753
+41,2018-09-20 00:01:00,"Red Hat ended the quarter with cash, cash equivalents & investments of $2.20 billion compared with $2.53 billion at the end of the previous quarter.",0.5769581198692322,0.3595881760120392,0.06345360726118088,positive,0.217369943857193
+42,2018-09-20 00:01:00,The company generated operating cash flow of almost $165.4 million compared with $346.2 million in the previous quarter.,0.8644406199455261,0.09384476393461227,0.041714541614055634,positive,0.7705958485603333
+43,2018-09-20 00:01:00,"Furthermore, Red Hat spent $250 million on share repurchase and has $750 million remaining under the program.",0.06274377554655075,0.007107182405889034,0.9301490783691406,neutral,0.05563659220933914
+44,2018-09-20 00:01:00,"At the end of the second quarter, total deferred revenue balance was $2.4 billion, up 17% year over year.",0.9423033595085144,0.016005000099539757,0.04169170558452606,positive,0.9262983798980713
+45,2018-09-20 00:01:00,"For fiscal 2019, Red Hat forecasts revenues in the range of approximately $3.360-$3.395 billion, down from previous guidance of $3.375-$3.410 billion, primarily due to the negative impact from a strong U.S. dollar.",0.015254375524818897,0.9710662364959717,0.01367936097085476,negative,-0.9558118581771851
+46,2018-09-20 00:01:00,"Moreover, weakness in middleware, primarily due to ongoing workload shifting from legacy physical deployments to container environments, is expected to hurt top-line growth this fiscal.",0.02082146145403385,0.9636766910552979,0.015501783229410648,negative,-0.9428552389144897
+47,2018-09-20 00:01:00,Non-GAAP operating margin is still anticipated to be 23.9%.,0.12381763011217117,0.024793537333607674,0.8513888120651245,neutral,0.09902409464120865
+48,2018-09-20 00:01:00,"Red Hat now expects fiscal non-GAAP earnings between $3.45 and $3.49, better than previous guidance of $3.44-$3.48 per share.",0.8501684069633484,0.12698259949684143,0.02284897305071354,positive,0.7231857776641846
+49,2018-09-20 00:01:00,This is primarily due to lower effective tax rate.,0.02812228351831436,0.6046837568283081,0.36719390749931335,negative,-0.576561450958252
+50,2018-09-20 00:01:00,Operating cash flow is still expected to be $1.035-$1.045 billion.,0.0663965567946434,0.013110285624861717,0.9204931855201721,neutral,0.053286269307136536
+51,2018-09-20 00:01:00,"Moving to the third quarter outlook, Red Hat projects revenues of $848-$856 million, while non-GAAP earnings are expected to be 87 cents per share.",0.05042428895831108,0.011831573210656643,0.937744140625,neutral,0.03859271481633186
+52,2018-09-20 00:01:00,Non-GAAP operating margin is expected to be 24%.,0.046011537313461304,0.02332174777984619,0.9306666851043701,neutral,0.022689789533615112
+53,2018-09-20 00:01:00,"Zacks Rank and Stocks to Consider
+
+Salesforce.com CRM is a stock worth considering in the same sector, as it sports a Zacks Rank #1 (Strong Buy).",0.7852522730827332,0.02013135701417923,0.194616436958313,positive,0.7651209235191345
+54,2018-09-20 00:01:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+55,2018-09-20 00:01:00,Long-term earnings growth for salesforce is pegged at 25%.,0.41746366024017334,0.012320568785071373,0.5702157616615295,neutral,0.4051430821418762
+56,2018-09-20 00:01:00,Will You Make a Fortune on the Shift to Electric Cars?,0.16753385961055756,0.018516888841986656,0.8139492273330688,neutral,0.14901697635650635
+57,2018-09-20 00:01:00,Here's another stock idea to consider.,0.05285736173391342,0.007070568855851889,0.9400720596313477,neutral,0.045786794275045395
+58,2018-09-20 00:01:00,"Much like petroleum 150 years ago, lithium power may soon shake the world, creating millionaires and reshaping geo-politics.",0.47791752219200134,0.07177354395389557,0.4503089487552643,positive,0.4061439633369446
+59,2018-09-20 00:01:00,Soon electric vehicles (EVs) may be cheaper than gas guzzlers.,0.5187358856201172,0.013680092990398407,0.4675840437412262,positive,0.5050557851791382
+60,2018-09-20 00:01:00,Some are already reaching 265 miles on a single charge.,0.453574001789093,0.02303212694823742,0.5233939290046692,neutral,0.43054187297821045
+61,2018-09-20 00:01:00,"With battery prices plummeting and charging stations set to multiply, one company stands out as the #1 stock to buy according to Zacks research.",0.515029788017273,0.07344300299882889,0.41152721643447876,positive,0.44158679246902466
+62,2018-09-20 00:01:00,It's not the one you think.,0.04626888781785965,0.042117830365896225,0.9116132855415344,neutral,0.004151057451963425
+63,2018-09-20 00:01:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+64,2018-09-20 00:01:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+65,2018-09-20 00:01:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+66,2018-09-20 00:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

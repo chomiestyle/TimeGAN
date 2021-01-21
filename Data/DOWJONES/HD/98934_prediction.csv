@@ -1,0 +1,109 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-06-16 05:30:00,"Chicago, IL - June 16, 2016 - Stocks in this week's article include: Cimpress N.V. ( CMPR ), Ubiquiti Networks, Inc. ( UBNT ), Baxter International Inc. ( BAX ), Home Depot, Inc. ( HD ) and Electronic Arts Inc. ( EA ).",0.02764875814318657,0.03021264635026455,0.9421386122703552,neutral,-0.00256388820707798
+1,2016-06-16 05:30:00,"Screen of the Week of Zacks Investment Research:
+
+Investing in efficient companies can yield healthy returns irrespective of market conditions.",0.9025422930717468,0.013613601215183735,0.08384409546852112,positive,0.8889287114143372
+2,2016-06-16 05:30:00,The efficiency of a company refers to how well it utilizes its inputs to produce outputs.,0.11548104137182236,0.006337989587336779,0.878180980682373,neutral,0.10914304852485657
+3,2016-06-16 05:30:00,A company's efficiency level significantly impacts its price performance.,0.029273824766278267,0.04440183565020561,0.9263243675231934,neutral,-0.015128010883927345
+4,2016-06-16 05:30:00,"Thus, companies with high levels of efficiency are believed to be good additions to one's portfolio.",0.7958124876022339,0.012996058911085129,0.1911914199590683,positive,0.7828164100646973
+5,2016-06-16 05:30:00,There are a number of ratios to measure how efficiently a company utilizes its assets and liabilities to produce outputs.,0.023486454039812088,0.005375183653086424,0.9711384177207947,neutral,0.018111269921064377
+6,2016-06-16 05:30:00,"In this article, we have considered four popular efficiency ratios to select efficient companies.",0.04372705891728401,0.007708188612014055,0.9485647678375244,neutral,0.036018870770931244
+7,2016-06-16 05:30:00,Inventory level is one of the key indicators of a company's business health.,0.047556016594171524,0.009850021451711655,0.9425939321517944,neutral,0.03770599514245987
+8,2016-06-16 05:30:00,"While a high inventory level may indicate that the company is going through a rough patch in terms of sales, a dwindling level may indicate that the company will run out of stock in a favorable sales condition.",0.08625047653913498,0.8583662509918213,0.05538333207368851,negative,-0.7721157670021057
+9,2016-06-16 05:30:00,This is where inventory turnover comes into play.,0.06010820344090462,0.03716263175010681,0.9027291536331177,neutral,0.022945571690797806
+10,2016-06-16 05:30:00,It is the ratio of 12-month cost of goods sold (COGS) to a 4-quarter average inventory.,0.02323969639837742,0.02062353678047657,0.9561368227005005,neutral,0.0026161596179008484
+11,2016-06-16 05:30:00,"Thus, a high value of the ratio indicates a low level of inventory relative to COGS, while a low ratio signals that the company has excess inventory.",0.030682221055030823,0.5822208523750305,0.3870968520641327,negative,-0.5515386462211609
+12,2016-06-16 05:30:00,This ratio is used to measure a company's capability to extend its credit and collect debts on the basis of that credit.,0.10885702073574066,0.005357624031603336,0.8857853412628174,neutral,0.1034993976354599
+13,2016-06-16 05:30:00,"Receivables turnover ratio or the ""accounts receivable turnover ratio"" or the ""debtor's turnover ratio"" is calculated by dividing 12-month sales by four-quarter average receivables.",0.02063777483999729,0.013089875690639019,0.9662722945213318,neutral,0.0075478991493582726
+14,2016-06-16 05:30:00,"While a high ratio may indicate that the company efficiently collects its accounts receivables or it has quality customers, a low ratio may signal that the company has inefficient collection procedure or it has low-quality customers or it has inefficient credit policy.",0.06530719250440598,0.14628177881240845,0.788411021232605,neutral,-0.08097458630800247
+15,2016-06-16 05:30:00,This is a widely used measure of a company's efficiency.,0.1533641517162323,0.012365949340164661,0.8342698812484741,neutral,0.14099819958209991
+16,2016-06-16 05:30:00,Asset utilization indicates a company's potential to utilize its assets.,0.4582446217536926,0.008516517467796803,0.5332388281822205,neutral,0.4497281014919281
+17,2016-06-16 05:30:00,It is a ratio of total sales over the past 12 months to the last 4-quarter average of total assets.,0.031026046723127365,0.008961710147559643,0.9600122570991516,neutral,0.022064335644245148
+18,2016-06-16 05:30:00,"So, the higher the ratio, the greater is the possibility that the company is utilizing its assets efficiently.",0.7632286548614502,0.013088838197290897,0.22368250787258148,positive,0.7501398324966431
+19,2016-06-16 05:30:00,"On the contrary, a low value of the ratio may signal that it is failing to use its assets effectively.",0.0244942344725132,0.9522922039031982,0.023213563486933708,negative,-0.9277979731559753
+20,2016-06-16 05:30:00,Another popular efficiency ratio is operating margin.,0.13848428428173065,0.014460638165473938,0.8470550179481506,neutral,0.12402364611625671
+21,2016-06-16 05:30:00,"Operating profit margin, which is simply operating income over the past 12 months divided by sales over the same period, indicates how well a company is controlling its operating expenses.",0.1285359114408493,0.02358955331146717,0.8478745818138123,neutral,0.10494635999202728
+22,2016-06-16 05:30:00,"If a company has a high operating profit margin in relation to its competitors, it is doing a better job at controlling operating expenses.",0.7862110137939453,0.02600911445915699,0.18777981400489807,positive,0.7602018713951111
+23,2016-06-16 05:30:00,All these ratios can be considered as effective measures if one compares different companies within a particular sector or industry.,0.14186155796051025,0.006264715455472469,0.8518737554550171,neutral,0.1355968415737152
+24,2016-06-16 05:30:00,This is the reason why we have considered only those companies that have these ratios higher than their respective industry averages.,0.04021324962377548,0.007899198681116104,0.9518875479698181,neutral,0.03231405094265938
+25,2016-06-16 05:30:00,"In addition to the above mentioned ratios, we have added favorable Zacks Rank - Zacks Rank #1 (Strong Buy) or a Zacks Rank #2 (Buy) - to the screen with an objective to make this strategy more profitable.",0.6673869490623474,0.010200045071542263,0.32241302728652954,positive,0.6571869254112244
+26,2016-06-16 05:30:00,"Zacks Rankless than or equal to #2
+
+The use of these few criteria has narrowed down the universe of over 7,700stocks to only 17.",0.20074258744716644,0.16578124463558197,0.633476197719574,neutral,0.03496134281158447
+27,2016-06-16 05:30:00,"Here are 5 stocks from the 17 that made it through the screen:
+
+Cimpress N.V. ( CMPR ) is an online supplier of graphic design and customized printed products to businesses and consumers.",0.03353504091501236,0.006400017533451319,0.9600649476051331,neutral,0.027135023847222328
+28,2016-06-16 05:30:00,"This Zacks Rank #1 company reported earnings per share (EPS) of 75 cents last quarter, surpassing the Zacks Consensus Estimate of 8 cents.",0.9417985081672668,0.026962824165821075,0.031238699331879616,positive,0.9148356914520264
+29,2016-06-16 05:30:00,Cimpress also has an average four-quarter EPS surprise of more than 100%.,0.2975650727748871,0.009054022841155529,0.6933808922767639,neutral,0.2885110378265381
+30,2016-06-16 05:30:00,"Ubiquiti Networks, Inc. ( UBNT ) is engaged in the business of designing, manufacturing and selling broadband wireless solutions worldwide.",0.052766308188438416,0.004317654762417078,0.9429160356521606,neutral,0.048448652029037476
+31,2016-06-16 05:30:00,"This Zacks Rank #1 company reported EPS of 62 cents last quarter, higher than the Zacks Consensus Estimate of 53 cents.",0.9431326985359192,0.024467501789331436,0.03239978849887848,positive,0.9186651706695557
+32,2016-06-16 05:30:00,Ubiquiti also has an average four-quarter EPS surprise of more than 12.8%.,0.19059054553508759,0.009754706174135208,0.7996547818183899,neutral,0.18083584308624268
+33,2016-06-16 05:30:00,"Baxter International Inc. ( BAX ) engages in the worldwide development, manufacture and distribution of a diversified line of products, systems and services used primarily in the health care field.",0.09138599783182144,0.004584035836160183,0.9040299654006958,neutral,0.08680196106433868
+34,2016-06-16 05:30:00,"This Zacks Rank #1 company reported EPS of 36 cents last quarter, outpacing the Zacks Consensus Estimate of 29 cents.",0.8009591102600098,0.07261533290147781,0.12642554938793182,positive,0.7283437848091125
+35,2016-06-16 05:30:00,Home Depot also has an average four-quarter EPS surprise of 27.7%.,0.02992311306297779,0.014720892533659935,0.9553559422492981,neutral,0.015202220529317856
+36,2016-06-16 05:30:00,"The Home Depot, Inc. ( HD ) is one of the world's largest home improvement retailers.",0.3580641448497772,0.009016452357172966,0.632919430732727,neutral,0.3490476906299591
+37,2016-06-16 05:30:00,"This Zacks Rank #2 company reported EPS of $1.44 last quarter, beating the Zacks Consensus Estimate of $1.34.",0.92169189453125,0.043438900262117386,0.03486919403076172,positive,0.8782529830932617
+38,2016-06-16 05:30:00,Home Depot also has an average four-quarter EPS surprise of 4.2%.,0.032608069479465485,0.014789733104407787,0.9526021480560303,neutral,0.017818335443735123
+39,2016-06-16 05:30:00,"Electronic Arts Inc. ( EA ) is involved in the creation, marketing and distribution of entertainment software, which can be played or sold online.",0.02454563044011593,0.0049297995865345,0.9705246090888977,neutral,0.01961583085358143
+40,2016-06-16 05:30:00,"This Zacks Rank #2 company reported EPS of 38 cents last quarter, outpacing the Zacks Consensus Estimate of 30 cents.",0.8234733939170837,0.0612151138484478,0.11531144380569458,positive,0.7622582912445068
+41,2016-06-16 05:30:00,Home Depot also has an average four-quarter EPS surprise of 49.3%.,0.02858581952750683,0.012092557735741138,0.9593216776847839,neutral,0.016493260860443115
+42,2016-06-16 05:30:00,"While backtesting over a two-year timeframe (May 16, 2014 to May 20, 2016), considering a four-week holding period, a portfolio following this strategy provided a total return of 19.3% compared with the S&P 500's return of 8.4%.",0.8887671828269958,0.051840104162693024,0.05939263105392456,positive,0.836927056312561
+43,2016-06-16 05:30:00,Thus this strategy may prove to be a profitable one for investor who is seeking healthy returns.,0.9060335755348206,0.013344732113182545,0.08062165230512619,positive,0.8926888704299927
+44,2016-06-16 05:30:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+45,2016-06-16 05:30:00,It can all be done with the Research Wizard stock picking and back-testing software.,0.02481740340590477,0.007912768982350826,0.9672698378562927,neutral,0.01690463349223137
+46,2016-06-16 05:30:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+47,2016-06-16 05:30:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+48,2016-06-16 05:30:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+49,2016-06-16 05:30:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+50,2016-06-16 05:30:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+51,2016-06-16 05:30:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+52,2016-06-16 05:30:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+53,2016-06-16 05:30:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+54,2016-06-16 05:30:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+55,2016-06-16 05:30:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at:https://www.zacks.com/performance.,0.01448096428066492,0.00816013291478157,0.9773589372634888,neutral,0.00632083136588335
+56,2016-06-16 05:30:00,"Zacks Restaurant Recommendations: In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+57,2016-06-16 05:30:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+58,2016-06-16 05:30:00,"Download it free »
+
+Sign up now for your free trial today and start picking better stocks immediately.",0.25327056646347046,0.01330951601266861,0.7334199547767639,neutral,0.23996105790138245
+59,2016-06-16 05:30:00,"And with the backtesting feature, you can test your ideas to see how you can improve your trading in both up markets and down markets.",0.7471936345100403,0.01405523344874382,0.23875106871128082,positive,0.733138382434845
+60,2016-06-16 05:30:00,Don't wait for the market to get better before you decide to do better.,0.32742658257484436,0.027078744024038315,0.6454946994781494,neutral,0.30034783482551575
+61,2016-06-16 05:30:00,"Start learning how to be a better trader today: https://at.zacks.com/?id=111
+
+Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011164776980876923,0.025693578645586967,0.9631416201591492,neutral,-0.014528801664710045
+62,2016-06-16 05:30:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+63,2016-06-16 05:30:00,"About Screen of the Week
+
+Zacks.com created the first and best screening system on the web earning the distinction as the ""#1 site for screening stocks"" by Money Magazine.",0.8801765441894531,0.015994274988770485,0.10382916778326035,positive,0.8641822934150696
+64,2016-06-16 05:30:00,But powerful screening tools is just the start.,0.09495247155427933,0.005706817843019962,0.8993407487869263,neutral,0.08924565464258194
+65,2016-06-16 05:30:00,That is why Zacks created the Screen of the Week to highlight profitable stock picking strategies that investors can actively use.,0.14883984625339508,0.00999003741890192,0.8411701321601868,neutral,0.13884980976581573
+66,2016-06-16 05:30:00,"Each week, Zacks Profit from the Pros free email newsletter shares a new screening strategy.",0.3513948619365692,0.009931724518537521,0.6386734247207642,neutral,0.3414631485939026
+67,2016-06-16 05:30:00,"Learn more about it here https://at.zacks.com/?id=112
+
+Zacks.com is a property of Zacks Investment Research, Inc., which was formed in 1978.",0.016615888103842735,0.006967712193727493,0.9764164090156555,neutral,0.009648175910115242
+68,2016-06-16 05:30:00,"The later formation of the Zacks Rank, a proprietary stock picking system; continues to outperform the market by nearly a 3 to 1 margin.",0.9116206169128418,0.04347905144095421,0.0449003241956234,positive,0.8681415915489197
+69,2016-06-16 05:30:00,The best way to unlock the profitable stock recommendations and market insights of Zacks Investment Research is through our free daily email newsletter; Profit from the Pros.,0.07881949096918106,0.006378026679158211,0.9148024916648865,neutral,0.072441466152668
+70,2016-06-16 05:30:00,"In short, it's your steady flow of Profitable ideas GUARANTEED to be worth your time!",0.43368902802467346,0.012674679979681969,0.5536363124847412,neutral,0.42101433873176575
+71,2016-06-16 05:30:00,Click here for your free subscription to Profit from the Pros .,0.050681523978710175,0.02834671176970005,0.9209718108177185,neutral,0.022334812209010124
+72,2016-06-16 05:30:00,"Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.01284766010940075,0.009404126554727554,0.9777481555938721,neutral,0.003443533554673195
+73,2016-06-16 05:30:00,"Zacks.com provides investment resources and informs you of these resources, which you may choose to use in making your own investment decisions.",0.023836323991417885,0.005520980339497328,0.9706427454948425,neutral,0.01831534318625927
+74,2016-06-16 05:30:00,"Zacks is providing information on this resource to you subject to the Zacks ""Terms and Conditions of Service"" disclaimer.",0.0142265185713768,0.008723904378712177,0.9770495891571045,neutral,0.005502614192664623
+75,2016-06-16 05:30:00,www.zacks.com/disclaimer .,0.03363189846277237,0.05275096744298935,0.9136171340942383,neutral,-0.01911906898021698
+76,2016-06-16 05:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+77,2016-06-16 05:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+78,2016-06-16 05:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+79,2016-06-16 05:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+80,2016-06-16 05:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+81,2016-06-16 05:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+82,2016-06-16 05:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+83,2016-06-16 05:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+84,2016-06-16 05:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+85,2016-06-16 05:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+86,2016-06-16 05:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+87,2016-06-16 05:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+88,2016-06-16 05:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+89,2016-06-16 05:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+90,2016-06-16 05:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+91,2016-06-16 05:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

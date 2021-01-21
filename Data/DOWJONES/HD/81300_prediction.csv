@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-13 07:24:00,"In early trading on Wednesday, shares of United Technologies Corp ( UTX ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.2%.",0.9407910704612732,0.029747480526566505,0.029461439698934555,positive,0.9110435843467712
+1,2019-03-13 07:24:00,"Year to date, United Technologies Corp registers a 18.5% gain.",0.9446433782577515,0.01750979758799076,0.037846826016902924,positive,0.9271335601806641
+2,2019-03-13 07:24:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.6%.",0.021288415417075157,0.9647591710090637,0.01395240519195795,negative,-0.9434707760810852
+3,2019-03-13 07:24:00,Home Depot is showing a gain of 6.4% looking at the year to date performance.,0.9480219483375549,0.020396124571561813,0.03158191591501236,positive,0.927625834941864
+4,2019-03-13 07:24:00,"Two other components making moves today are Coca-Cola ( KO ), trading down 0.3%, and Boeing ( BA ), trading up 1.1% on the day.",0.049828577786684036,0.9196349382400513,0.03053649328649044,negative,-0.8698063492774963
+5,2019-03-13 07:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

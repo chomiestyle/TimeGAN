@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-31 08:07:00,Risk is just part of the game on Wall Street -- there's no way around it.,0.04069908335804939,0.05903018265962601,0.9002707004547119,neutral,-0.018331099301576614
+1,2019-08-31 08:07:00,"How much risk you take on, however, is up to you, and the stocks you pick for your portfolio play a big role.",0.03252872824668884,0.005636898800730705,0.9618344306945801,neutral,0.026891829445958138
+2,2019-08-31 08:07:00,"If you are a low-risk investor, then you'll want to favor financially strong companies with long histories of success.",0.3482744097709656,0.009304678998887539,0.6424209475517273,neutral,0.33896973729133606
+3,2019-08-31 08:07:00,"Add some dividend income to the mix, too, and sticking it out through thick and thin gets a lot easier.",0.41084080934524536,0.013736288994550705,0.5754228830337524,neutral,0.39710453152656555
+4,2019-08-31 08:07:00,Here are three great stocks that fit that bill.,0.12670454382896423,0.005879631731659174,0.8674157857894897,neutral,0.1208249107003212
+5,2019-08-31 08:07:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+6,2019-08-31 08:07:00,"Down and out, and it's OK
+
+ExxonMobil's (NYSE: XOM) balance sheet is among the strongest of its oil major peers, with long-term debt at less than 10% of the capital structure.",0.7595201134681702,0.022945480421185493,0.2175344079732895,positive,0.736574649810791
+7,2019-08-31 08:07:00,"With a market cap of $280 billion, it is one of the largest energy companies in the world.",0.3070834279060364,0.007656808942556381,0.6852597594261169,neutral,0.2994266152381897
+8,2019-08-31 08:07:00,"Its business, meanwhile, is spread across the upstream (drilling), midstream (pipeline), and downstream (chemicals and refining) sectors, providing balance to its portfolio.",0.4326263666152954,0.00863884948194027,0.5587347745895386,neutral,0.4239875078201294
+9,2019-08-31 08:07:00,Exxon is a conservatively run company and there is a lot to like here.,0.09033841639757156,0.007893214002251625,0.9017683267593384,neutral,0.08244520425796509
+10,2019-08-31 08:07:00,"Today the yield is a generous 5% or so, toward the high end of the company's historical yield range.",0.8009858727455139,0.022578401491045952,0.17643578350543976,positive,0.7784074544906616
+11,2019-08-31 08:07:00,That's because investors are worried about Exxon's future today.,0.07090962678194046,0.5476386547088623,0.38145169615745544,negative,-0.47672903537750244
+12,2019-08-31 08:07:00,"Production has been falling for a number of years and the oil giant is in the middle of a big spending binge, with annual capital spending plans of up to $35 billion through 2025.",0.05675293877720833,0.8144868016242981,0.1287602335214615,negative,-0.7577338814735413
+13,2019-08-31 08:07:00,Those investments are starting to pay off and production appears to have turned a corner.,0.8771814107894897,0.01896093785762787,0.10385765880346298,positive,0.8582204580307007
+14,2019-08-31 08:07:00,Yet there's a lingering fear that carbon energy sources are on the way out.,0.1019042506814003,0.5209912061691284,0.3771045506000519,negative,-0.4190869629383087
+15,2019-08-31 08:07:00,"That's probably true over the long term, but oil and natural gas are depleting assets, so you need to keep drilling or you run out.",0.05128295347094536,0.41877424716949463,0.5299427509307861,neutral,-0.36749130487442017
+16,2019-08-31 08:07:00,"And even if the world comes together on carbon reduction plans, lots more oil will still be needed.",0.4374609887599945,0.06404415518045425,0.49849486351013184,neutral,0.37341684103012085
+17,2019-08-31 08:07:00,"The fly in the ointment here is that oil prices are volatile, which is one of the reasons why Exxon's yield is so high today.",0.21374578773975372,0.047655582427978516,0.738598644733429,neutral,0.1660902053117752
+18,2019-08-31 08:07:00,But the company has proven over time that its conservative approach can weather the ups and downs while it continues to invest for the future and reward investors with dividends (it has increased its dividend annually for 37 years).,0.9151708483695984,0.016338365152478218,0.06849080324172974,positive,0.8988324999809265
+19,2019-08-31 08:07:00,"If you like sleeping well at night, this energy giant can help you out.",0.1403588503599167,0.010176139883697033,0.849465012550354,neutral,0.13018271327018738
+20,2019-08-31 08:07:00,"Next up is Hormel Foods (NYSE: HRL), which is probably best known for making Spam.",0.04792766645550728,0.016343578696250916,0.9357287287712097,neutral,0.03158408775925636
+21,2019-08-31 08:07:00,"That iconic canned meat can be found in the center of the grocery store, which is a problem today because customers are increasingly favoring fresher foods, which tend to be located on the outer rim of the supermarket.",0.03109496459364891,0.8478362560272217,0.12106876075267792,negative,-0.8167412877082825
+22,2019-08-31 08:07:00,"That's put pressure on the entire packaged food industry and helps explain why Hormel's yield, at around 2%, is toward the high end of its historical range.",0.08842656016349792,0.6740743517875671,0.23749910295009613,negative,-0.5856478214263916
+23,2019-08-31 08:07:00,But this food maker is adjusting -- just like it has many times before.,0.26073846220970154,0.012118604965507984,0.7271429896354675,neutral,0.24861985445022583
+24,2019-08-31 08:07:00,"For example, it has been buying brands like Wholly Guacamole and Columbus Meats that resonate with customers while selling older brands (Diamond Salt is one example) that don't.",0.04964399337768555,0.022503510117530823,0.9278525114059448,neutral,0.027140483260154724
+25,2019-08-31 08:07:00,"This is just par for the course at Hormel, which is best viewed as a brand manager.",0.06914462894201279,0.017784051597118378,0.91307133436203,neutral,0.05136057734489441
+26,2019-08-31 08:07:00,Today the company has a portfolio of roughly 40 brands that hold the No.,0.13651759922504425,0.009888652712106705,0.8535937666893005,neutral,0.12662895023822784
+27,2019-08-31 08:07:00,1 or 2 position in their niche.,0.09698893129825592,0.016805147752165794,0.8862059116363525,neutral,0.08018378168344498
+28,2019-08-31 08:07:00,A focus on leading brands is how it has amassed an over 50-year streak of annual dividend increases.,0.8551844954490662,0.014691482298076153,0.130124032497406,positive,0.8404930233955383
+29,2019-08-31 08:07:00,"And before saying the yield is too low, consider that the dividend has grown at an annualized rate of 15% over the past decade.",0.7002369165420532,0.014594774693250656,0.28516826033592224,positive,0.6856421232223511
+30,2019-08-31 08:07:00,That's pretty incredible.,0.35346856713294983,0.01357516460120678,0.6329562067985535,neutral,0.3398934006690979
+31,2019-08-31 08:07:00,"The best part, however, for conservative investors, is that Hormel is very prudent with its balance sheet.",0.32548609375953674,0.009788577444851398,0.6647253036499023,neutral,0.3156975209712982
+32,2019-08-31 08:07:00,"Despite making a number of notable acquisitions over the past few years, long-term debt makes up less than 5% of the capital structure.",0.016716577112674713,0.2715434432029724,0.7117399573326111,neutral,-0.2548268735408783
+33,2019-08-31 08:07:00,There's very little financial risk here.,0.036721061915159225,0.008838682435452938,0.9544402956962585,neutral,0.027882378548383713
+34,2019-08-31 08:07:00,"While it would be hard to call the stock cheap today, great companies rarely go on sale.",0.06650426983833313,0.10848461091518402,0.8250111937522888,neutral,-0.04198034107685089
+35,2019-08-31 08:07:00,"Hormel is a wonderful option for most investors, and the historically high yield is a nice sweetener today.",0.6118996143341064,0.014525859616696835,0.37357446551322937,positive,0.5973737835884094
+36,2019-08-31 08:07:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+37,2019-08-31 08:07:00,"One for the wish list
+
+The last name to consider is Procter & Gamble (NYSE: PG), an icon in the consumer goods space that makes things like Bounty paper towels and Tide laundry detergent.",0.055226635187864304,0.015505611896514893,0.9292677640914917,neutral,0.03972102329134941
+38,2019-08-31 08:07:00,These are items that consumers use every day and brands that they tend to be fairly loyal to even during economic downturns.,0.055191148072481155,0.009014997631311417,0.9357938766479492,neutral,0.04617615044116974
+39,2019-08-31 08:07:00,The company has amassed an incredible record of 63 consecutive annual dividend increases off this foundation.,0.8069964647293091,0.01244813296943903,0.18055541813373566,positive,0.7945483326911926
+40,2019-08-31 08:07:00,"Debt here is a bit higher than the other two companies discussed so far, making up roughly 30% of the capital structure.",0.16822855174541473,0.012690767645835876,0.819080650806427,neutral,0.15553778409957886
+41,2019-08-31 08:07:00,"That sounds high relative to Exxon and Hormel, but is still a conservative number overall.",0.3028763234615326,0.09728581458330154,0.5998378992080688,neutral,0.20559051632881165
+42,2019-08-31 08:07:00,"It's also worth noting that Procter & Gamble, like Hormel, is a brand manager at heart.",0.10322877764701843,0.005945208948105574,0.8908259868621826,neutral,0.09728357195854187
+43,2019-08-31 08:07:00,It recently sold a number of brands so it could refocus on its core offerings -- a move that has worked out very well for the company and its investors.,0.9101682901382446,0.012954141944646835,0.07687759399414062,positive,0.8972141742706299
+44,2019-08-31 08:07:00,"That success, however, is a slight problem.",0.026875650510191917,0.8057126402854919,0.1674116849899292,negative,-0.7788369655609131
+45,2019-08-31 08:07:00,"Procter & Gamble is a great company, but it looks a little pricey today.",0.03819260746240616,0.6263139247894287,0.3354935050010681,negative,-0.5881212949752808
+46,2019-08-31 08:07:00,"The stock has rallied nearly 45% over the past year and looks expensive based on key metrics like price to sales, price to earnings, price to cash flow, and price to book value.",0.5239738821983337,0.020280946046113968,0.455745130777359,positive,0.5036929249763489
+47,2019-08-31 08:07:00,"The yield, at roughly 2.5%, is also not that impressive compared to the historical yield range.",0.06754101067781448,0.8010824918746948,0.1313764750957489,negative,-0.7335414886474609
+48,2019-08-31 08:07:00,"However, Procter & Gamble is a well-run company built on a conservative core business.",0.4439416229724884,0.01268011424690485,0.5433782935142517,neutral,0.43126150965690613
+49,2019-08-31 08:07:00,There are a number of factors that link these three companies.,0.02074531465768814,0.008376575075089931,0.9708780646324158,neutral,0.01236873958259821
+50,2019-08-31 08:07:00,Two big ones are that they take a conservative stance with their finances and make sure to reward investors via regular dividend increases.,0.17154712975025177,0.010800120420753956,0.8176527619361877,neutral,0.1607470065355301
+51,2019-08-31 08:07:00,Those are traits that will help conservative investors stick around through thick and thin.,0.4329025447368622,0.015864074230194092,0.5512334108352661,neutral,0.4170384705066681
+52,2019-08-31 08:07:00,"It's not that you can simply forget you own Exxon, Hormel, or Procter & Gamble, but you don't need to keep watching the ticker tape concerned that they might go out of business during the next recession.",0.041678957641124725,0.36932986974716187,0.5889911651611328,neutral,-0.32765090465545654
+53,2019-08-31 08:07:00,"10 stocks we like better than ExxonMobil
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1518031805753708,0.0216960571706295,0.8265007138252258,neutral,0.130107119679451
+54,2019-08-31 08:07:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+55,2019-08-31 08:07:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and ExxonMobil wasn't one of them!",0.2061556726694107,0.01494398433715105,0.7789002656936646,neutral,0.19121168553829193
+56,2019-08-31 08:07:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+57,2019-08-31 08:07:00,"Reuben Gregg Brewer owns shares of ExxonMobil, Hormel Foods, and Procter & Gamble.",0.01512758620083332,0.008057222701609135,0.9768152236938477,neutral,0.007070363499224186
+58,2019-08-31 08:07:00,The Motley Fool is short shares of Procter & Gamble.,0.044476453214883804,0.4596617817878723,0.49586179852485657,neutral,-0.4151853322982788
+59,2019-08-31 08:07:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

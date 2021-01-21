@@ -1,0 +1,35 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-19 03:48:00,U.S. stocks had an early surge Wednesday before falling back down as a report revealed that most policymakers are in favor of raising interest rates.,0.5874594449996948,0.2924199104309082,0.12012063711881638,positive,0.2950395345687866
+1,2016-05-19 03:48:00,The S&P 500 was 0.1% higher and the Dow Jones Industrial Average fell 0.1% yesterday.,0.03838921710848808,0.9283381104469299,0.0332726426422596,negative,-0.8899489045143127
+2,2016-05-19 03:48:00,"A few more companies reported earnings Wednesday, including Cisco Systems, Inc. (NASDAQ: CSCO ) and Salesforce.com, Inc. (NYSE: CRM ).",0.46364161372184753,0.03706067055463791,0.49929770827293396,neutral,0.42658093571662903
+3,2016-05-19 03:48:00,Tesla Motors Inc (NASDAQ: TSLA ) also made the news Wednesday.,0.16102463006973267,0.01844012551009655,0.8205351829528809,neutral,0.14258450269699097
+4,2016-05-19 03:48:00,Cisco was set to enjoy a strong Thursday of trading after CSCO earnings came in ahead of estimates .,0.9428554177284241,0.027913004159927368,0.029231606051325798,positive,0.9149423837661743
+5,2016-05-19 03:48:00,"For its fiscal third quarter, the network provider reported profits of 57 cents per share to beat Wall Street expectations for 55 cents.",0.9460435509681702,0.03429057449102402,0.019665831699967384,positive,0.9117529988288879
+6,2016-05-19 03:48:00,"Revenues headed 3% higher to $12 billion, also just getting past estimates for $11.97 billion.",0.926355242729187,0.041038841009140015,0.03260589390993118,positive,0.8853163719177246
+7,2016-05-19 03:48:00,"• 10 Top Stocks Every Retirement Portfolio Should Have
+
+Cisco is in the middle of a transition to become more software-centric, but its Q3 results as well as its projections for the current quarter show that the company is having more success than not.",0.764873206615448,0.018163347616791725,0.2169634848833084,positive,0.7467098832130432
+8,2016-05-19 03:48:00,"Guidance for fiscal Q4 came to a range of 59 cents to 61 cents, while analysts expect 58 cents per share.",0.17841656506061554,0.058116864413022995,0.7634665966033936,neutral,0.12029969692230225
+9,2016-05-19 03:48:00,"CSCO shares traded 6% higher in Wednesday's postmarket trading, and that momentum didn't stop in Thursday's premarket.",0.9163018465042114,0.03134055435657501,0.05235762894153595,positive,0.8849613070487976
+10,2016-05-19 03:48:00,"Salesforce also reported its most recent quarter, it also beat and CRM is also set to outpace the markets on Thursday.",0.8716827034950256,0.06604500859975815,0.06227223575115204,positive,0.8056377172470093
+11,2016-05-19 03:48:00,"The cloud computing solutions provider posted adjusted earnings of 24 cents per share , beating the Wall Street estimate by 1 cent per share.",0.9448164701461792,0.03253345191478729,0.022650036960840225,positive,0.9122830033302307
+12,2016-05-19 03:48:00,"Additionally, CRM announced that revenue amounted to $1.92 billion, topping analysts' average projection of $1.89 billion.",0.9414440393447876,0.019742153584957123,0.038813747465610504,positive,0.9217019081115723
+13,2016-05-19 03:48:00,"The performance was led by a 26% improvement in subscription and support revenues, according to COO Keith Block.",0.9538052082061768,0.02270999737083912,0.023484811186790466,positive,0.9310951828956604
+14,2016-05-19 03:48:00,CRM also said it signed another nine-figure contract after inking a pair in the previous quarter.,0.8987612724304199,0.019428910687565804,0.08180979639291763,positive,0.8793323636054993
+15,2016-05-19 03:48:00,"The road ahead looks great, too, as Salesforce upped its Q2 revenue guidance to $2.005 billion to $20.15 billion, and full-year revenue guidance to $8.16 billion to $8.2 billion.",0.9434347748756409,0.022036010399460793,0.03452916070818901,positive,0.9213987588882446
+16,2016-05-19 03:48:00,Salesforce shares were set to pop 6% in Thursday trading.,0.8986987471580505,0.031895898282527924,0.06940535455942154,positive,0.8668028712272644
+17,2016-05-19 03:48:00,Tesla sparked worries of stock dilution last night by announcing it planned to sell $2 billion in stock - though it's for a growthy cause.,0.2905575633049011,0.14898788928985596,0.5604545474052429,neutral,0.14156967401504517
+18,2016-05-19 03:48:00,"Tesla CEO Elon Musk shocked Wall Street a few weeks ago when he drastically increased the company's production targets, saying the company would build 500,000 EVs annually by 2018 - two years sooner than originally planned.",0.7935644388198853,0.05491592735052109,0.15151958167552948,positive,0.738648533821106
+19,2016-05-19 03:48:00,"The expectation was that TSLA would have to spend big to make that happen, and that's exactly what it will do.",0.2318255752325058,0.010926423594355583,0.757248044013977,neutral,0.22089914977550507
+20,2016-05-19 03:48:00,"• The 10 Best Dividend Stocks in Tech
+
+TSLA said on Wednesday that it will sell $2 billion in additional stock to help pay for the boost in production it'll need out of the Model 3 - as well as ""to cover tax obligations associated with his exercise of more than 5.5 million in stock options,"" according to the Wall Street Journal .",0.7278585433959961,0.019072307273745537,0.2530691921710968,positive,0.7087862491607666
+21,2016-05-19 03:48:00,"Raising some eyebrows, however, was the coincidence of Goldman Sachs Group Inc's (NYSE: GS ) involvement in the deal.",0.291459858417511,0.05617818981409073,0.6523619294166565,neutral,0.23528167605400085
+22,2016-05-19 03:48:00,"GS was announced as one of the underwriters for Tesla's secondary offering … mere hours after analysts from the firm upgraded TSLA stock to a ""buy"" rating.",0.5105297565460205,0.010885121300816536,0.47858521342277527,positive,0.4996446371078491
+23,2016-05-19 03:48:00,"The news initially sent Tesla shares down 3% in Wednesday's after-hours trading, but TSLA stock is rebounding this morning, actually showing gains of around 1%.",0.8889912962913513,0.08370302617549896,0.02730569988489151,positive,0.8052882552146912
+24,2016-05-19 03:48:00,"As of this writing, Karl Utermohlen did not hold a position in any of the aforementioned securities.",0.00865891482681036,0.03138447925448418,0.9599566459655762,neutral,-0.022725563496351242
+25,2016-05-19 03:48:00,"• Why Apple HAD to Turn to India (AAPL)
+• 9 Hot Stocks That Could Jump 30% and Still Be Cheap
+
+The post 3 Stocks to Watch on Thursday: Cisco Systems, Inc. (CSCO), Salesforce.com, Inc. (CRM) and Tesla Motors Inc (TSLA) appeared first on InvestorPlace .",0.23198699951171875,0.0353415310382843,0.7326714992523193,neutral,0.19664546847343445
+26,2016-05-19 03:48:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

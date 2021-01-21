@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-26 07:14:00,A spate of disappointing quarterly reports dragged the major indexes down on Tuesday.,0.02526865527033806,0.9576790928840637,0.01705223135650158,negative,-0.9324104189872742
+1,2016-10-26 07:14:00,"As one of the busiest earnings day got under way, behemoths including Whirlpool, General Motors, Caterpillar and 3M, all lost ground.",0.020734693855047226,0.9471540451049805,0.03211124613881111,negative,-0.9264193773269653
+2,2016-10-26 07:14:00,"Consumer confidence, meantime, tumbled ahead of the presidential election, which in turn dampened investor sentiment.",0.0663088709115982,0.8952142596244812,0.03847678750753403,negative,-0.8289054036140442
+3,2016-10-26 07:14:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article.",0.019620023667812347,0.013874631375074387,0.9665053486824036,neutral,0.005745392292737961
+4,2016-10-26 07:14:00,"The Dow Jones Industrial Average (DJI) declined 0.3%, to close at 18,169.27.",0.02512911707162857,0.9604570865631104,0.014413850381970406,negative,-0.93532794713974
+5,2016-10-26 07:14:00,"The S&P 500 fell 0.4% to close at 2,143.16.",0.021713493391871452,0.967930793762207,0.010355652309954166,negative,-0.9462172985076904
+6,2016-10-26 07:14:00,"The tech-laden Nasdaq Composite Index closed at 5,283.40, decreasing 0.5%.",0.02754562720656395,0.9633749127388,0.009079555980861187,negative,-0.9358292818069458
+7,2016-10-26 07:14:00,The fear-gauge CBOE Volatility Index (VIX) advanced 3.4% to settle at 13.46.,0.9195025563240051,0.02418755739927292,0.056309815496206284,positive,0.8953149914741516
+8,2016-10-26 07:14:00,A total of around 3.7 billion shares were traded on Tuesday on the NYSE.,0.04548502713441849,0.005801437888294458,0.9487136006355286,neutral,0.03968358784914017
+9,2016-10-26 07:14:00,Decliners outpaced advancing stocks on the NYSE.,0.7142589688301086,0.23320606350898743,0.05253498628735542,positive,0.4810529053211212
+10,2016-10-26 07:14:00,"For 58% stocks that declined, 38% advanced.",0.045790836215019226,0.4014933705329895,0.5527157783508301,neutral,-0.3557025194168091
+11,2016-10-26 07:14:00,U.S. stocks fell on Tuesday following a string of discouraging corporate results.,0.02474301867187023,0.9604699611663818,0.014787044376134872,negative,-0.9357269406318665
+12,2016-10-26 07:14:00,Whirlpool Corporation ( WHR ) delivered a dismal third-quarter 2016 as both the top and the bottom lines missed estimates.,0.021528830751776695,0.9678483605384827,0.010622863657772541,negative,-0.9463195204734802
+13,2016-10-26 07:14:00,The largest home-appliances manufacturer posted third quarter earnings per share of $3.66 that fell short of the Zacks Consensus Estimate of $3.88.,0.03091619350016117,0.9545473456382751,0.014536499045789242,negative,-0.9236311316490173
+14,2016-10-26 07:14:00,"Whirlpool's net sales of $5,248 million also missed the Zacks Consensus Estimate of $5,310 million.",0.02281690016388893,0.9634557962417603,0.013727357611060143,negative,-0.9406388998031616
+15,2016-10-26 07:14:00,"Shares of Whirlpool tanked 10.8% (read more: Whirlpool Falls as Q3 Earnings Miss, Curtails '16 View ).",0.022008400410413742,0.9676265120506287,0.010365051217377186,negative,-0.9456180930137634
+16,2016-10-26 07:14:00,"Caterpillar Inc.'s ( CAT ) third-quarter earnings of 85 cents per share beat the Zacks Consensus Estimate of 75 cents, but plunged 19% from the prior-year quarter.",0.08803992718458176,0.8999009728431702,0.012059058994054794,negative,-0.8118610382080078
+17,2016-10-26 07:14:00,"Revenues of $9.16 billion in the quarter fell short of the Zacks Consensus Estimate of $9.80 billion, while it plummeted 16% year over year.",0.019684795290231705,0.9702664017677307,0.010048891417682171,negative,-0.9505816102027893
+18,2016-10-26 07:14:00,Decline in commodity prices across the globe along with economic weakness in developing countries were cited to be reasons behind this fall in revenues.,0.018290141597390175,0.9658625721931458,0.015847282484173775,negative,-0.9475724101066589
+19,2016-10-26 07:14:00,"Shares of Caterpillar dropped 1.8% (read more: Caterpillar Q3 Earnings Top, Stock Down on View Cut ).",0.01957528293132782,0.971356987953186,0.009067600592970848,negative,-0.951781690120697
+20,2016-10-26 07:14:00,"Despite a challenging macroeconomic environment, 3M Company ( MMM ) reported relatively healthy third-quarter results with earnings of $2.15 per share that exceeded the Zacks Consensus Estimate by a penny.",0.9460142254829407,0.029323570430278778,0.024662209674715996,positive,0.9166906476020813
+21,2016-10-26 07:14:00,"However, net sales were $7,709 million, down from $7,712 million in the year-ago quarter and in line with the Zacks Consensus Estimate.",0.01683778688311577,0.9724897146224976,0.010672442615032196,negative,-0.9556519389152527
+22,2016-10-26 07:14:00,"Shares of 3M declined 3% (read more: 3M Marginally Beats Q3 Earnings, Trims 2016 Guidance ).",0.02726738527417183,0.9597834348678589,0.012949151918292046,negative,-0.9325160384178162
+23,2016-10-26 07:14:00,General Motors Co.'s ( GM ) earnings of $1.72 per share in the third quarter surpassed the Zacks Consensus Estimate of $1.44.,0.9395084381103516,0.0261306781321764,0.03436078876256943,positive,0.9133777618408203
+24,2016-10-26 07:14:00,Revenues of $42.8 billion also beat the Zacks Consensus Estimate of $40.09 billion.,0.9407919645309448,0.03221647068858147,0.026991644874215126,positive,0.9085754752159119
+25,2016-10-26 07:14:00,"But, the auto manufacturer signaled continued weakness in Europe due to Brexit.",0.06763868778944016,0.9149214029312134,0.01743992790579796,negative,-0.8472827076911926
+26,2016-10-26 07:14:00,Its Europe segment witnessed a 7.3% fall in revenues to $4.2 billion in the quarter.,0.017447635531425476,0.9725242257118225,0.010028156451880932,negative,-0.9550765752792358
+27,2016-10-26 07:14:00,"As a result, its shares dipped 4.2 (read more: General Motors Beats on Q3 Earnings & Revenues ).",0.018144063651561737,0.9706846475601196,0.011171290650963783,negative,-0.9525405764579773
+28,2016-10-26 07:14:00,The confidence of Americans about the U.S economy also took a beating in October.,0.06434446573257446,0.8948983550071716,0.04075714945793152,negative,-0.8305538892745972
+29,2016-10-26 07:14:00,"In fact, consumer confidence dropped to 98.6 this month, a three-month low, according to the Conference Board.",0.01837931200861931,0.971903383731842,0.009717337787151337,negative,-0.9535240530967712
+30,2016-10-26 07:14:00,"Last month, the level of confidence was at 103.5, a one-and-a-half year high.",0.5416892170906067,0.1574869453907013,0.30082380771636963,positive,0.3842022716999054
+31,2016-10-26 07:14:00,"A measure of current conditions, the present situation index declined to 120.6 from 127.9, while the future expectations index also fell from 87.2 to 83.9, the lowest level since July.",0.017450150102376938,0.972326397895813,0.01022336259484291,negative,-0.9548762440681458
+32,2016-10-26 07:14:00,"Americans seems less optimistic about the state of the economy, with some saying that jobs are a bit hard to find.",0.023382993414998055,0.9475544691085815,0.029062526300549507,negative,-0.9241714477539062
+33,2016-10-26 07:14:00,"This has adversely affected consumer discretionary goods, which is also influenced by the state of the economy.",0.019264543429017067,0.9129139184951782,0.06782148778438568,negative,-0.8936493992805481
+34,2016-10-26 07:14:00,"The Consumer Discretionary Select Sector SPDR (XLY) decreased 1.8%, the highest among the S&P 500 sectors.",0.022546153515577316,0.9705515503883362,0.006902386900037527,negative,-0.9480053782463074
+35,2016-10-26 07:14:00,"One of its key components, the Home Depot, Inc. ( HD ) weighed on the blue-chip index by declining 3.5%.",0.022735299542546272,0.9658121466636658,0.011452492326498032,negative,-0.9430768489837646
+36,2016-10-26 07:14:00,Home Depot possess a Zacks Rank #3 (Hold).,0.021146681159734726,0.026247061789035797,0.9526062607765198,neutral,-0.005100380629301071
+37,2016-10-26 07:14:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+38,2016-10-26 07:14:00,Comcast Corp. ( CMCSA ) reported mixed financial results in the third quarter of 2016.,0.020287856459617615,0.9549968242645264,0.02471529133617878,negative,-0.9347089529037476
+39,2016-10-26 07:14:00,"( Read More )
+
+Biotech company Biogen Inc .",0.012481615878641605,0.02137286216020584,0.9661455750465393,neutral,-0.008891246281564236
+40,2016-10-26 07:14:00,"'s ( BIIB ) shares were up in pre-market trading , with the company surpassing earnings as well as sales expectations.",0.950091540813446,0.025390256196260452,0.02451823465526104,positive,0.9247012734413147
+41,2016-10-26 07:14:00,"( Read More )
+
+Express Scripts Holding Company ( ESRX ) posted in line third-quarter 2016 earnings per share.",0.7880201935768127,0.11775671690702438,0.09422313421964645,positive,0.6702634692192078
+42,2016-10-26 07:14:00,"However, revenue missed the Zacks Consensus Estimate.",0.024603188037872314,0.9597825407981873,0.01561425905674696,negative,-0.9351793527603149
+43,2016-10-26 07:14:00,"( Read More )
+
+Equity Residential ( EQR ) came up with third-quarter 2016 normalized funds from operations (""FFO"") per share of 78 cents, in line with the Zacks Consensus Estimate.",0.9302204251289368,0.023066755384206772,0.046712812036275864,positive,0.9071536660194397
+44,2016-10-26 07:14:00,"( Read More )
+
+Today you can gain access to long-term trades with double and triple-digit profit potential rarely available to the public.",0.8037841320037842,0.01260899193584919,0.18360687792301178,positive,0.791175127029419
+45,2016-10-26 07:14:00,"Starting now, you can look inside our stocks under $10, home run and value stock portfolios, plus more.",0.026588696986436844,0.007702364586293697,0.9657089114189148,neutral,0.018886331468820572
+46,2016-10-26 07:14:00,Want a peek at this private information?,0.07614265382289886,0.04574284330010414,0.8781145215034485,neutral,0.030399810522794724
+47,2016-10-26 07:14:00,"Click here >>
+
+Want the latest recommendations from Zacks Investment Research?",0.026053117588162422,0.013497531414031982,0.9604493975639343,neutral,0.01255558617413044
+48,2016-10-26 07:14:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+49,2016-10-26 07:14:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+50,2016-10-26 07:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

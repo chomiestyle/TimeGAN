@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-19 07:03:00,"We at The Motley Fool to look at investing like a marathon, not a sprint.",0.04844305291771889,0.009150161407887936,0.9424068331718445,neutral,0.03929289057850838
+1,2014-10-19 07:03:00,"Unfortunately for many investors, the headlines on most major financial news sources have to do with short-term moves in the market, telling you what the market and the latest ""it"" stocks did today.",0.019832978025078773,0.07981952279806137,0.9003475308418274,neutral,-0.05998654663562775
+2,2014-10-19 07:03:00,"So, how do you filter out that information and decide what stocks to buy for the long run?",0.02464459091424942,0.012805589474737644,0.9625498056411743,neutral,0.011839001439511776
+3,2014-10-19 07:03:00,"How do we separate the companies that are doing well over the past few days from the companies that will still be thriving 10 years from now, 20 years from now, or more?",0.04240133613348007,0.017589407041668892,0.9400092959403992,neutral,0.02481192909181118
+4,2014-10-19 07:03:00,"Look for companies with a ""wide moat""
+
+Warren Buffett is well-known for investing in companies with a wide economic moat.",0.11046451330184937,0.007591680157929659,0.8819438219070435,neutral,0.102872833609581
+5,2014-10-19 07:03:00,"In other words, he looks for companies with a very distinct competitive advantage that would be hard for competitors to penetrate.",0.2806204557418823,0.02019001916050911,0.6991895437240601,neutral,0.2604304254055023
+6,2014-10-19 07:03:00,"These are generally companies that are dominant in their industries, and will likely maintain this position for the foreseeable future.",0.40671709179878235,0.008881294168531895,0.5844016075134277,neutral,0.39783579111099243
+7,2014-10-19 07:03:00,"For example, companies that own a lot of patents, like Pfizer , or companies with extremely strong brand names, like McDonalds or Coca Cola , are ""wide moat"" companies.",0.05125684663653374,0.024723542854189873,0.9240196347236633,neutral,0.026533303782343864
+8,2014-10-19 07:03:00,"Now, only having a wide moat isn't necessarily a guarantee that a company will withstand the test of time.",0.31791990995407104,0.022985873743891716,0.6590941548347473,neutral,0.2949340343475342
+9,2014-10-19 07:03:00,Companies can eventually begin to lose their advantage over time to rivals.,0.03396717831492424,0.910584568977356,0.05544823408126831,negative,-0.8766173720359802
+10,2014-10-19 07:03:00,"So, in order to find stocks that will provide great returns for decades to come, we need to dig a little deeper.",0.5808863043785095,0.01083765085786581,0.4082760810852051,positive,0.5700486302375793
+11,2014-10-19 07:03:00,"In stocks, history does tend to repeat itself
+
+What I mean by this is that companies that have a good track record of creating shareholder value in the form of dividends and share buybacks tend to continue to do so.",0.3686788082122803,0.010900248773396015,0.6204209327697754,neutral,0.35777854919433594
+12,2014-10-19 07:03:00,"And, great dividend stocks tend to significantly outperform non-payers over the long run.",0.9104389548301697,0.05516120046377182,0.034399811178445816,positive,0.8552777767181396
+13,2014-10-19 07:03:00,"Many experts call these type of stocks ""Dividend Aristocrats,"" which refers to any stock that has increased its dividend annually for a minimum of 25 consecutive years.",0.2272329330444336,0.01372449565678835,0.7590425610542297,neutral,0.21350844204425812
+14,2014-10-19 07:03:00,"And, if you look at this list of stocks that fit the description, there are quite a few.",0.02277376875281334,0.008788865990936756,0.9684373140335083,neutral,0.013984902761876583
+15,2014-10-19 07:03:00,"And, most of these stocks have very good share buyback programs.",0.3951955735683441,0.008950714953243732,0.5958536863327026,neutral,0.38624486327171326
+16,2014-10-19 07:03:00,"For example, Coca Cola has increased its dividend for 51 years in a row.",0.9072444438934326,0.01766768842935562,0.07508789002895355,positive,0.8895767331123352
+17,2014-10-19 07:03:00,"And, the company has repurchased more than 6% of its outstanding shares since 2010.",0.3646383285522461,0.009715942665934563,0.6256457567214966,neutral,0.3549223840236664
+18,2014-10-19 07:03:00,"When you have a company that increases its dividend and buys back shares, it creates a one-two punch of value that produces excellent returns over long time periods.",0.75083327293396,0.014059842564165592,0.235106959939003,positive,0.7367734313011169
+19,2014-10-19 07:03:00,"Finally, companies you invest in for the long run should pass the ""100-year rule.""",0.23492006957530975,0.010869202204048634,0.7542107701301575,neutral,0.2240508645772934
+20,2014-10-19 07:03:00,"Before buying a stock, ask yourself: How likely is the company to be around in 100 years?",0.029006706550717354,0.013300971128046513,0.9576923251152039,neutral,0.015705734491348267
+21,2014-10-19 07:03:00,"Just as a few examples, people will always need to buy food, maintain their homes, and keep their money in a safe place.",0.23014070093631744,0.03846346586942673,0.7313958406448364,neutral,0.1916772425174713
+22,2014-10-19 07:03:00,"Companies with a ""wide moat"" in these industries ( Wal-Mart , Home Depot , and Wells Fargo , for instance) should be able to withstand the test of time.",0.629226565361023,0.014000577852129936,0.35677286982536316,positive,0.6152259707450867
+23,2014-10-19 07:03:00,"However, some of the best-run, sector-leading companies in the world don't necessarily pass this test.",0.13405458629131317,0.045209258794784546,0.8207361698150635,neutral,0.08884532749652863
+24,2014-10-19 07:03:00,Take a look at Apple as an example.,0.03633332997560501,0.01565534807741642,0.9480113387107849,neutral,0.02067798189818859
+25,2014-10-19 07:03:00,"Sure, it is the leader in mobile phones and tablet computing, but are those two things people will still need in 100 years?",0.1725214123725891,0.008089857175946236,0.819388747215271,neutral,0.16443155705928802
+26,2014-10-19 07:03:00,"Maybe, but maybe not.",0.13927912712097168,0.2870630621910095,0.5736578106880188,neutral,-0.14778393507003784
+27,2014-10-19 07:03:00,"Now, I'm not saying that all of the stocks you invest in need to meet all three of these characteristics.",0.042805466800928116,0.006164402700960636,0.9510301351547241,neutral,0.036641065031290054
+28,2014-10-19 07:03:00,"In fact, I think Apple is a great investment at its current share price.",0.7513753175735474,0.01202399842441082,0.23660072684288025,positive,0.7393513321876526
+29,2014-10-19 07:03:00,"However, the title of this article is ""stocks that will make your kids rich.""",0.022191567346453667,0.010859174653887749,0.9669492840766907,neutral,0.011332392692565918
+30,2014-10-19 07:03:00,Would you feel comfortable buying 100 shares of Apple and putting them in a time capsule for your kids to open in 50 years?,0.08457274734973907,0.011187518015503883,0.9042397737503052,neutral,0.07338523119688034
+31,2014-10-19 07:03:00,"Maybe, but I would definitely feel a lot more ""at ease"" if the time capsule was filled with investments like Wal-Mart, Johnson & Johnson , and Procter & Gamble .",0.1967218816280365,0.01997634768486023,0.783301830291748,neutral,0.17674553394317627
+32,2014-10-19 07:03:00,"As a final thought on the wide moat companies who always increase their dividend and will be around for years to come, consider that a $40 investment in Coca Cola in 1919 (95 years ago) would be worth nearly $11 million today after years of growth, buybacks, and compounded dividends.",0.6559467911720276,0.013142753392457962,0.33091041445732117,positive,0.6428040266036987
+33,2014-10-19 07:03:00,"So, if you really want to make your children and grandchildren rich, this is the most foolproof way to do it.",0.13729147613048553,0.019263263791799545,0.8434452414512634,neutral,0.11802820861339569
+34,2014-10-19 07:03:00,"These high-dividend stocks can create even more long-term wealth
+
+As I mentioned earlier, dividend stocks simply crush their non-dividend paying counterparts over the long term.",0.2084520310163498,0.135297954082489,0.6562500596046448,neutral,0.07315407693386078
+35,2014-10-19 07:03:00,That's beyond dispute.,0.11145628988742828,0.02713225595653057,0.861411452293396,neutral,0.08432403206825256
+36,2014-10-19 07:03:00,"A well-constructed dividend portfolio creates wealth steadily, while still allowing you to sleep like a baby.",0.7379435300827026,0.012354493141174316,0.24970196187496185,positive,0.7255890369415283
+37,2014-10-19 07:03:00,"Knowing how valuable such a portfolio might be, our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio.",0.08245469629764557,0.0054166438058018684,0.9121286273002625,neutral,0.07703804969787598
+38,2014-10-19 07:03:00,"To see our free report on these stocks, just click here .",0.015726452693343163,0.014490216039121151,0.9697833061218262,neutral,0.0012362366542220116
+39,2014-10-19 07:03:00,The article How to Buy Stocks That Can Make Your Kids Rich originally appeared on Fool.com.,0.0429394505918026,0.009495784528553486,0.9475647807121277,neutral,0.033443666994571686
+40,2014-10-19 07:03:00,Matthew Frankel has no position in any stocks mentioned.,0.010626859962940216,0.04838044196367264,0.9409926533699036,neutral,-0.03775358200073242
+41,2014-10-19 07:03:00,"The Motley Fool recommends Apple, Coca-Cola, Home Depot, Johnson & Johnson, McDonald's, Procter & Gamble, and Wells Fargo.",0.01702345535159111,0.02427678182721138,0.9586998224258423,neutral,-0.00725332647562027
+42,2014-10-19 07:03:00,"The Motley Fool owns shares of Apple, Johnson & Johnson, and Wells Fargo and has the following options: long January 2016 $37 calls on Coca-Cola and short January 2016 $37 puts on Coca-Cola.",0.012718110345304012,0.019109049811959267,0.9681728482246399,neutral,-0.006390939466655254
+43,2014-10-19 07:03:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+44,2014-10-19 07:03:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+45,2014-10-19 07:03:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+46,2014-10-19 07:03:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+47,2014-10-19 07:03:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+48,2014-10-19 07:03:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+49,2014-10-19 07:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

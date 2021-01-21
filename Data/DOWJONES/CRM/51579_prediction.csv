@@ -1,0 +1,23 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-22 06:02:00,"The Dow Jones Industrial Average was set to open nearly 200 points higher as a rally in oil fueled gains across Asia, Europe and the U.S. Oil futures were nearly 6% higher after the International Energy Agency said that oil supplies should level off in 2017, resulting in a rebound in energy prices.",0.9235755801200867,0.04015753045678139,0.036266833543777466,positive,0.8834180235862732
+1,2016-02-22 06:02:00,"Additionally, bearish EU-zone manufacturing data underscored the need for further accommodation from the European Central Bank next month, contributing to near 2% gains in equities across Europe.",0.9374098777770996,0.030919600278139114,0.03167063742876053,positive,0.9064902663230896
+2,2016-02-22 06:02:00,Global equities were also buoyed by China's announcement last night to replace its securities chief Xiao Gang amid accusations that Gang was largely responsible for recent turbulence in China's stock market.,0.8832502961158752,0.040469828993082047,0.07627987861633301,positive,0.8427804708480835
+3,2016-02-22 06:02:00,"In response, the Shanghai stock index appreciated more than 2%, restoring confidence in risky assets across Europe.",0.9437883496284485,0.022819865494966507,0.033391792327165604,positive,0.9209684729576111
+4,2016-02-22 06:02:00,"This morning's economic data started with a huge beat on the Chicago Fed National Activity Index to positive 0.28 in January from a revised negative 0.34 in December, beating estimates for a much more modest improvement to negative 0.10.",0.9195372462272644,0.0530724823474884,0.027390317991375923,positive,0.8664647340774536
+5,2016-02-22 06:02:00,"Later this morning, the February flash Purchasing Managers manufacturing index is expected to decline to 52.4 from 52.7 in January.",0.017128530889749527,0.972320556640625,0.01055092178285122,negative,-0.9551920294761658
+6,2016-02-22 06:02:00,"In corporate news, shares of Lumber Liquidators ( LL ) were under heavy pressure after the Centers for Disease Control said its wood flooring poses a much higher risk of cancer than previously reported.",0.02636769227683544,0.9536818265914917,0.019950442016124725,negative,-0.9273141622543335
+7,2016-02-22 06:02:00,Shares of Allergan ( AGN ) were higher after the company reported better-than-expected Q4 results.,0.9499465227127075,0.023150235414505005,0.02690325491130352,positive,0.9267963171005249
+8,2016-02-22 06:02:00,"(+) TRVN (+16.63%) Received FDA Breakthrough Therapy designation for oliceridine for the treatment of acute pain
+
+(+) CLDX (+3.71%) Presented positive preliminary data on CDX-301, a hematopoietic cytokine that expands dendritic cells and hematopoietic stem cells
+
+(-) CMRX (-24.12%) Phase 3 SUPPRESS trial for Brincidofovir did not meet primary endpoint
+
+(-) LL (-16.54%) CDC said cancer risk from wood flooring is 3x greater than originally thought
+
+(-) HSBC (-2.58%) Posts surprise loss in fourth quarter on lower lending revenue and writedowns
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.02659718692302704,0.25670212507247925,0.7167006731033325,neutral,-0.2301049381494522
+9,2016-02-22 06:02:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+10,2016-02-22 06:02:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+11,2016-02-22 06:02:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492298677563667,0.9303174018859863,neutral,-0.04016338288784027

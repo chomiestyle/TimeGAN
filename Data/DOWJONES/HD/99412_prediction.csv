@@ -1,0 +1,39 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-31 01:51:00,The Home Depot ( HD ) is one of the world's largest home improvement retailers.,0.3342176079750061,0.008962542749941349,0.6568198800086975,neutral,0.32525506615638733
+1,2015-08-31 01:51:00,"They market and cater to a wide range of clientele, with mindsets varying from guy who knows the difference between drywall and wood screws, as well as the difference between miter and panel saws (the majority of HD customers), to the guy who tells his girlfriend ""I use to watch my father put up drywall when I was a teenager.",0.026316141709685326,0.03720807284116745,0.9364757537841797,neutral,-0.010891931131482124
+2,2015-08-31 01:51:00,I know what I'm doing.,0.15541209280490875,0.013142318464815617,0.831445574760437,neutral,0.1422697752714157
+3,2015-08-31 01:51:00,"I got this, don't worry"" (the minority of HD customers - i.e.",0.018240101635456085,0.013197246938943863,0.968562662601471,neutral,0.005042854696512222
+4,2015-08-31 01:51:00,yours truly).,0.040715962648391724,0.013554529286921024,0.9457295536994934,neutral,0.027161434292793274
+5,2015-08-31 01:51:00,"From all levels of do-it-yourselfers, the Home Depot is what FAO Schwarz use to be for children during the holiday season - a magical wonderland of power tools, state-of-the-art appliances, and more duct tape than one can imagine.",0.14758463203907013,0.013534098863601685,0.838881254196167,neutral,0.13405053317546844
+6,2015-08-31 01:51:00,"Their slogan, ""More savings.",0.6360552310943604,0.019231434911489487,0.3447132706642151,positive,0.6168237924575806
+7,2015-08-31 01:51:00,More doing.,0.1821068525314331,0.024166379123926163,0.7937268018722534,neutral,0.15794047713279724
+8,2015-08-31 01:51:00,"That's the power of the Home Depot"" is engrained into my head.",0.10141709446907043,0.07658345252275467,0.8219994306564331,neutral,0.024833641946315765
+9,2015-08-31 01:51:00,"Since the company is highly recognizable, let's provide and examine 3 key factors for potential buyers to know before investing into the Home Depot.",0.05155414715409279,0.005330545362085104,0.9431152939796448,neutral,0.04622360318899155
+10,2015-08-31 01:51:00,"The Home Depot has a Zacks Rank #2 (Buy) and is gaining momentum from its position last week, a Zacks Rank #3 (Hold).",0.9408893585205078,0.021546121686697006,0.0375644825398922,positive,0.9193432331085205
+11,2015-08-31 01:51:00,"Under our Style Scores system, Home Depot has a Momentum Style Score of a 'B' and a Growth Style Score of a 'B,' and a Value Style Score of a 'B.'",0.1135040745139122,0.006759455427527428,0.8797364234924316,neutral,0.10674461722373962
+12,2015-08-31 01:51:00,"The Home Depot is the top ranked company in its respective industry, ranked higher than notable competitors of Lowe's Companies Inc. ( LOW ), which has a Zacks Rank #3 (Hold), and Lumber Liquidators Inc. ( LL ), which as a Zacks Rank #5 (Strong Sell).",0.8206449151039124,0.03967637941241264,0.13967864215373993,positive,0.7809685468673706
+13,2015-08-31 01:51:00,"According to our earnings data on the home improvement retailer, which dates back to the earnings period ending in April of 2009, the Home Depot has never performed below the Zacks Consensus Estimate.",0.0701247900724411,0.8521060347557068,0.07776912301778793,negative,-0.7819812297821045
+14,2015-08-31 01:51:00,"With the exception of a push in the earnings period ending in April of 2012, the company has consistently outperformed the earnings estimates.",0.19027332961559296,0.7843239307403564,0.025402739644050598,negative,-0.5940505862236023
+15,2015-08-31 01:51:00,2015 has not been the strongest year for outperforming earnings for the company.,0.3119860589504242,0.6431637406349182,0.04485023766756058,negative,-0.331177681684494
+16,2015-08-31 01:51:00,"In the past two earning periods, the Home Depot posted $1.71 and $1.16 EPS figures, which only exceeded the estimates by 0.59% and 0.87% respectively.",0.31807461380958557,0.600008487701416,0.08191700279712677,negative,-0.28193387389183044
+17,2015-08-31 01:51:00,"However, the sheer reliability of the company continually outperforming the Zacks Consensus Estimates demonstrates the stability of Home Depot stock.",0.8824681639671326,0.03134419023990631,0.08618772029876709,positive,0.8511239886283875
+18,2015-08-31 01:51:00,"Furthermore, the year-over-year change in earnings from the latest quarter shows a 13.16% increase in the company's EPS from the previous year.",0.9550592303276062,0.021994492039084435,0.022946342825889587,positive,0.9330647587776184
+19,2015-08-31 01:51:00,The Home Depot has consistently increased its revenue since the 2012 fiscal year.,0.9506994485855103,0.020292149856686592,0.02900838665664196,positive,0.9304072856903076
+20,2015-08-31 01:51:00,"Between the 2013 and 2014 fiscal years, the company increased its net sales from $78.8 billion to $83.2 billion, which is a 5.6% increase.",0.9542062878608704,0.018388312309980392,0.027405444532632828,positive,0.9358179569244385
+21,2015-08-31 01:51:00,The Home Depot is continuing this trend in 2015.,0.3166235387325287,0.008329530246555805,0.675046980381012,neutral,0.30829399824142456
+22,2015-08-31 01:51:00,"Net sales for the first two quarters of the 2015 fiscal year are a combined $45.7 billion, which is a 5% increase from the combined net sales during the same timespan last year.",0.9508638381958008,0.019966837018728256,0.02916942909359932,positive,0.9308969974517822
+23,2015-08-31 01:51:00,"The company is on pace to, once again, increase revenues and outperform the previous year's sales totals.",0.951705813407898,0.028004257008433342,0.020289892330765724,positive,0.9237015843391418
+24,2015-08-31 01:51:00,"The Home Depot, and to an extent Lowe's, is the one hardware retailer that is synonymous with home improvement goods and services within American culture.",0.08968857675790787,0.01359887421131134,0.8967125415802002,neutral,0.07608970254659653
+25,2015-08-31 01:51:00,"From their orange logo and aprons to their spacious and industrious floor space, people recognize the ""Home Depot"" name and brand.",0.1349397748708725,0.009400966577231884,0.8556592464447021,neutral,0.12553881108760834
+26,2015-08-31 01:51:00,"The Home Depot has strong Zacks Rankings and consistent earnings, as well as a respectable Forward PE value of 22.22.",0.8875190019607544,0.016592228785157204,0.0958886444568634,positive,0.8709267973899841
+27,2015-08-31 01:51:00,"Unless something catastrophic happens with the company's earnings in the near future, the Home Depot may be a stable stock worth consideration to add to a portfolio.",0.2153860479593277,0.012349555268883705,0.7722644209861755,neutral,0.20303648710250854
+28,2015-08-31 01:51:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+29,2015-08-31 01:51:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+30,2015-08-31 01:51:00,"Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.024332426488399506,0.01685955375432968,0.9588080644607544,neutral,0.007472872734069824
+31,2015-08-31 01:51:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+32,2015-08-31 01:51:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+33,2015-08-31 01:51:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

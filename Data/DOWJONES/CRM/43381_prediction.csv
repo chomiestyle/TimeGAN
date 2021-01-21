@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-30 08:24:00,"Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",0.0258023664355278,0.0078038182109594345,0.9663938879966736,neutral,0.017998548224568367
+1,2019-12-30 08:24:00,"For the First Trust Cloud Computing ETF (Symbol: SKYY), we found that the implied analyst target price for the ETF based upon its underlying holdings is $68.31 per unit.",0.05778177082538605,0.005217287223786116,0.9370009899139404,neutral,0.052564483135938644
+2,2019-12-30 08:24:00,"With SKYY trading at a recent price near $60.84 per unit, that means that analysts see 12.27% upside for this ETF looking through to the average analyst targets of the underlying holdings.",0.6645556092262268,0.03181903064250946,0.3036253750324249,positive,0.6327365636825562
+3,2019-12-30 08:24:00,"Three of SKYY's underlying holdings with notable upside to their analyst target prices are MicroStrategy Inc. (Symbol: MSTR), CloudFlare Inc (Symbol: NET), and Salesforce.com Inc (Symbol: CRM).",0.08945852518081665,0.00821040477603674,0.9023310542106628,neutral,0.08124811947345734
+4,2019-12-30 08:24:00,"Although MSTR has traded at a recent price of $144.76/share, the average analyst target is 38.16% higher at $200.00/share.",0.28687748312950134,0.05553615093231201,0.6575863361358643,neutral,0.23134133219718933
+5,2019-12-30 08:24:00,"Similarly, NET has 25.82% upside from the recent share price of $16.69 if the average analyst target price of $21.00/share is reached, and analysts on average are expecting CRM to reach a target price of $188.97/share, which is 14.54% above the recent price of $164.98.",0.9236876368522644,0.01992650330066681,0.05638581141829491,positive,0.9037611484527588
+6,2019-12-30 08:24:00,"Below is a twelve month price history chart comparing the stock performance of MSTR, NET, and CRM:
+
+Below is a summary table of the current analyst target prices discussed above:
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now?",0.021354954689741135,0.1274816393852234,0.8511634469032288,neutral,-0.10612668097019196
+7,2019-12-30 08:24:00,"Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments?",0.05164404958486557,0.013284869492053986,0.9350711107254028,neutral,0.038359180092811584
+8,2019-12-30 08:24:00,"A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past.",0.16977764666080475,0.0406530387699604,0.7895692586898804,neutral,0.12912461161613464
+9,2019-12-30 08:24:00,These are questions that require further investor research.,0.03949739784002304,0.026686131954193115,0.9338164925575256,neutral,0.012811265885829926
+10,2019-12-30 08:24:00,10 ETFs With Most Upside To Analyst Targets »,0.38490161299705505,0.029027653858065605,0.586070716381073,neutral,0.3558739721775055

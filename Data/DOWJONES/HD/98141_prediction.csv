@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-13 06:59:00,There’s nothing better than getting paid for just holding on to an asset.,0.16866180300712585,0.07279396057128906,0.7585442662239075,neutral,0.09586784243583679
+1,2019-08-13 06:59:00,Except if those dividends are paid monthly.,0.009526494890451431,0.014335530810058117,0.9761379957199097,neutral,-0.004809035919606686
+2,2019-08-13 06:59:00,"Stocks that pay their dividends every month can provide faster compounding when those payouts are reinvested, not to mention budget simplification.",0.5770520567893982,0.02799575962126255,0.3949521780014038,positive,0.5490562915802002
+3,2019-08-13 06:59:00,"After all, mortgage payments, car loans and utility bills are due every month.",0.014444228261709213,0.015026870183646679,0.9705288410186768,neutral,-0.0005826419219374657
+4,2019-08-13 06:59:00,"The only problem is, the number of have been slowly dwindling over the years.",0.026816580444574356,0.5580471158027649,0.41513630747795105,negative,-0.5312305092811584
+5,2019-08-13 06:59:00,"Luckily, plenty of exchange-traded funds (ETFs) have moved in to fill the void.",0.5545457601547241,0.02975466288626194,0.4156995713710785,positive,0.5247911214828491
+6,2019-08-13 06:59:00,"While the vast majority of monthly dividend ETFs own bond and fixed income assets, there are more than 40 funds that invest in equities.",0.013854440301656723,0.009202420711517334,0.9769431352615356,neutral,0.004652019590139389
+7,2019-08-13 06:59:00,"With these ETFs, investors can gain valuable diversification benefits, decent yields, and a steady monthly paycheck.",0.9371344447135925,0.015464435331523418,0.047401171177625656,positive,0.9216700196266174
+8,2019-08-13 06:59:00,"In many cases, buying the diversified dividend ETF makes more sense than buying individual stocks that pay monthly.",0.0961567834019661,0.010971888899803162,0.8928713202476501,neutral,0.08518489450216293
+9,2019-08-13 06:59:00,This can be especially true for those in or near retirement.,0.02111833542585373,0.04112033545970917,0.9377613067626953,neutral,-0.020002000033855438
+10,2019-08-13 06:59:00,Do you buy a monthly dividend ETF?,0.020948223769664764,0.01092358399182558,0.9681282043457031,neutral,0.010024639777839184
+11,2019-08-13 06:59:00,Which fund?,0.056125447154045105,0.029150569811463356,0.9147239923477173,neutral,0.02697487734258175
+12,2019-08-13 06:59:00,How do you separate the wheat from the chaff?,0.027970561757683754,0.022542424499988556,0.949487030506134,neutral,0.005428137257695198
+13,2019-08-13 06:59:00,"Luckily, InvestorPlace has done some of the work for you.",0.3136332631111145,0.011064691469073296,0.6753020882606506,neutral,0.30256858468055725
+14,2019-08-13 06:59:00,"With that, here are three monthly dividend ETFs worthy of your portfolio.",0.01961149089038372,0.010168016888201237,0.9702205061912537,neutral,0.009443474002182484
+15,2019-08-13 06:59:00,"If you’re looking for a single-core fund to provide plenty of monthly dividends, then the WisdomTree U.S. Total Dividend Fund (NYSEARCA:) has to be the first stop.",0.12395764142274857,0.01211073063313961,0.8639315962791443,neutral,0.1118469089269638
+16,2019-08-13 06:59:00,"Not only is DTD one of the oldest and largest monthly dividend ETFs on the market, it also has some of the widest coverage out of any ETF out there.",0.5234816670417786,0.011279093101620674,0.4652392864227295,positive,0.5122025609016418
+17,2019-08-13 06:59:00,WisdomTree is known for its fundamentally weighted and proprietary indexes.,0.069936603307724,0.005285611376166344,0.9247777462005615,neutral,0.0646509900689125
+18,2019-08-13 06:59:00,DTD is no different and racks the WisdomTree U.S. Dividend Index.,0.16760723292827606,0.01945040374994278,0.8129423260688782,neutral,0.14815682172775269
+19,2019-08-13 06:59:00,This index screens and weights firms by the number of dividends they are projected to pay in the upcoming year.,0.014754032716155052,0.016530921682715416,0.9687150120735168,neutral,-0.0017768889665603638
+20,2019-08-13 06:59:00,"The best part is that the ETF does this across large-, mid-, and small-cap U.S. stocks.",0.06625150889158249,0.005543936975300312,0.9282045960426331,neutral,0.06070757284760475
+21,2019-08-13 06:59:00,That’s important as many dividend ETFs only focus on the big guys.,0.01575060933828354,0.010920225642621517,0.9733291268348694,neutral,0.004830383695662022
+22,2019-08-13 06:59:00,Small- and mid-cap stocks can pay amazing dividends as well.,0.07216531783342361,0.006421374157071114,0.9214133620262146,neutral,0.06574394553899765
+23,2019-08-13 06:59:00,Holdings for the ETF range from giants like Microsoft (NASDAQ:) to relative unknowns like J&J Snack Foods (NASDAQ:).,0.045999713242053986,0.006797000765800476,0.9472032189369202,neutral,0.03920271247625351
+24,2019-08-13 06:59:00,"All in all, with the inclusion of small- and mid-cap stocks, DTD boosts its holdings north of 860.",0.9473887085914612,0.021880583837628365,0.03073064237833023,positive,0.9255081415176392
+25,2019-08-13 06:59:00,This wide net provides plenty of diversification.,0.7008150815963745,0.011286691762506962,0.2878982126712799,positive,0.6895284056663513
+26,2019-08-13 06:59:00,It also pays some decent dividends.,0.7272797226905823,0.022192351520061493,0.25052788853645325,positive,0.7050873637199402
+27,2019-08-13 06:59:00,"Currently, DTD pays a market-beating 2.13% yield.",0.1876375824213028,0.013752445578575134,0.7986099720001221,neutral,0.17388513684272766
+28,2019-08-13 06:59:00,And the ETF has paid that dividend monthly since its inception.,0.05544600263237953,0.008584520779550076,0.9359695315361023,neutral,0.04686148092150688
+29,2019-08-13 06:59:00,"This yield, expanse of holdings, and monthly payment makes DTD one of the best core solutions for income seekers.",0.7140336632728577,0.011813029646873474,0.27415332198143005,positive,0.702220618724823
+30,2019-08-13 06:59:00,"Expenses for this dividend ETF run at a cheap 0.28%- or $28 per $10,000 invested.",0.06595256179571152,0.03375445306301117,0.9002929925918579,neutral,0.03219810873270035
+31,2019-08-13 06:59:00,"For many retirees or investors near retirement, owning small-caps can provide some restless nights of sleep.",0.0910203754901886,0.05679864063858986,0.8521809577941895,neutral,0.03422173485159874
+32,2019-08-13 06:59:00,"After all, even dividend-paying smaller stocks still provide plenty of volatility.",0.2048642635345459,0.01914394646883011,0.7759917974472046,neutral,0.1857203245162964
+33,2019-08-13 06:59:00,"To that end, focusing on the big boys could be the way to go.",0.11913736909627914,0.02781985141336918,0.8530427813529968,neutral,0.09131751954555511
+34,2019-08-13 06:59:00,"And you can’t get much bigger than the
+
+While the Dow Jones does get called a flawed index due to its weighting formula, you can’t deny that the index holds 30 of the biggest and most stable blue-chips in the world.",0.20788128674030304,0.14719057083129883,0.6449281573295593,neutral,0.06069071590900421
+35,2019-08-13 06:59:00,This has a ton of appeal for investors.,0.5479454398155212,0.024730371311306953,0.42732420563697815,positive,0.5232150554656982
+36,2019-08-13 06:59:00,The SPDR Dow Jones Industrial Average ETF (NYSEArca:) is the way to gain access.,0.18291501700878143,0.00858377292752266,0.8085011839866638,neutral,0.17433124780654907
+37,2019-08-13 06:59:00,"The “Diamonds” hold all thirty stocks in the index and provide access to leading firms like Bank of America (NYSE:), Home Depot (NYSE:) and Visa (NYSE:).",0.606504499912262,0.011037511751055717,0.382457971572876,positive,0.5954669713973999
+38,2019-08-13 06:59:00,It really is a who’s who of America’s leaders and provides instant access to these blue chips.,0.5146509408950806,0.012001118622720242,0.47334787249565125,positive,0.5026498436927795
+39,2019-08-13 06:59:00,The ETF is very liquid and trades millions of shares per day.,0.047444216907024384,0.010411504656076431,0.9421443343162537,neutral,0.03703271225094795
+40,2019-08-13 06:59:00,"Moreover, expenses for the fund are super cheap at just 0.17%.",0.03251747041940689,0.03204960376024246,0.9354329109191895,neutral,0.0004678666591644287
+41,2019-08-13 06:59:00,Unlike its holdings — which pay quarterly dividends — the DIA pays its dividend every month.,0.013122557662427425,0.014859762042760849,0.9720177054405212,neutral,-0.0017372043803334236
+42,2019-08-13 06:59:00,This allows investors to own the biggest stocks in the nation and get the needed income to fit their budget.,0.7285225987434387,0.012438326142728329,0.2590390145778656,positive,0.7160843014717102
+43,2019-08-13 06:59:00,No wonder why more than $21 billion worth of investor cash sits in this dividend ETF.,0.058212872594594955,0.008113988675177097,0.9336731433868408,neutral,0.05009888485074043
+44,2019-08-13 06:59:00,The fund is a great way to score a good monthly dividend from stocks.,0.7795608639717102,0.018226712942123413,0.20221242308616638,positive,0.7613341808319092
+45,2019-08-13 06:59:00,A quick scan of many of the top individual monthly dividend pay stocks happens to be mortgage REITs (mREITs) or business development companies (BDCs).,0.016274111345410347,0.016687637194991112,0.9670382142066956,neutral,-0.00041352584958076477
+46,2019-08-13 06:59:00,"Given the nature of their underlying businesses, stocks in these categories tend to be on the riskier side of things.",0.027089348062872887,0.03498244658112526,0.9379281401634216,neutral,-0.007893098518252373
+47,2019-08-13 06:59:00,"Not to mention, they can be a bit difficult for laymen to evaluate and research.",0.041812051087617874,0.27333077788352966,0.6848572492599487,neutral,-0.2315187305212021
+48,2019-08-13 06:59:00,"As a result, stocks like mREIT(NASDAQ:) compensate investors for that risk with yields in excess of 11%.",0.836521327495575,0.041923101991415024,0.12155555933713913,positive,0.7945982217788696
+49,2019-08-13 06:59:00,"But there is a way to score the high yield, reduce risk, and still get a monthly payout.",0.8318911194801331,0.015718158334493637,0.15239077806472778,positive,0.8161729574203491
+50,2019-08-13 06:59:00,That’s through Invesco KBW High Dividend Yield Financial ETF (NYSEArca:).,0.03391622006893158,0.004961920902132988,0.9611218571662903,neutral,0.02895429916679859
+51,2019-08-13 06:59:00,"KBWD tracks the , an index of mREITs, BDCs, and other high-yield financial stocks.",0.01877623051404953,0.0068868836387991905,0.9743368625640869,neutral,0.01188934687525034
+52,2019-08-13 06:59:00,"With it, investors can access up to 40 different stocks in these categories.",0.1758180856704712,0.005669066682457924,0.8185127973556519,neutral,0.17014901340007782
+53,2019-08-13 06:59:00,This helps cut down on the risk and potential issues with individual stocks in the sector.,0.8952866792678833,0.030409598723053932,0.07430368661880493,positive,0.8648771047592163
+54,2019-08-13 06:59:00,"However, what investors don’t sacrifice is income.",0.02630116418004036,0.010909303091466427,0.9627895355224609,neutral,0.015391861088573933
+55,2019-08-13 06:59:00,KBWD’s broad portfolio still allows it to provide a massive 9%-plus dividend yield.,0.9008622169494629,0.013784300535917282,0.08535349369049072,positive,0.8870779275894165
+56,2019-08-13 06:59:00,"Like the other two dividend ETFs on this list, KBWD pays their Expenses for the fund clock in at just 0.35%.",0.01504840049892664,0.11323043704032898,0.8717212080955505,neutral,-0.09818203747272491
+57,2019-08-13 06:59:00,"With its broad access to these risky stocks and its high yield, KBWD could be one of the best dividend ETFs to boost your overall monthly income.",0.9269409775733948,0.017136571928858757,0.05592244490981102,positive,0.9098044037818909
+58,2019-08-13 06:59:00,"At the time of writing, Aaron Levitt did not own any stocks mentioned.",0.009184816852211952,0.017470942810177803,0.9733442664146423,neutral,-0.00828612595796585
+59,2019-08-13 06:59:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

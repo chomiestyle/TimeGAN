@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-06 01:23:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-03-06 01:23:00,"Today's Research Daily features new research reports on 16 major stocks, including Salesforce (CRM), Lowe's (LOW) and VMware (VMW).",0.029517021030187607,0.009008911438286304,0.9614740014076233,neutral,0.020508110523223877
+2,2018-03-06 01:23:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-03-06 01:23:00,"You can see all of today's research reports here >>>
+
+Buy-rated Salesforce 's shares have handily beat the broader Tech sector over the last year, with the stock up more than double the Zacks Technology sector's +23.3% gain.",0.9455251097679138,0.02971029095351696,0.02476453222334385,positive,0.9158148169517517
+4,2018-03-06 01:23:00,Salesforce reported stellar Q4 results and provided a strong outlook.,0.9447916746139526,0.01915835589170456,0.03604992851614952,positive,0.9256333112716675
+5,2018-03-06 01:23:00,The Zacks analyst likes the fact that the company achieved the $10-billion mark in revenues faster than any other enterprise software company.,0.9265068769454956,0.01897941716015339,0.05451366305351257,positive,0.9075274467468262
+6,2018-03-06 01:23:00,The company's diverse cloud offerings and strong spending on digital marketing remain key catalysts.,0.8390589952468872,0.011831860058009624,0.14910906553268433,positive,0.8272271156311035
+7,2018-03-06 01:23:00,"Additionally, strategic acquisitions and the resultant synergies are anticipated to prove conducive to growth over the long run.",0.9254710078239441,0.013231851160526276,0.0612972192466259,positive,0.912239134311676
+8,2018-03-06 01:23:00,"Furthermore, the company's move of utilizing other data center operators like Amazon and Alphabet's geographical reach to expand its international business is commendable and will help it in achieving its targeted $20 billion sales mark in next few years as well.",0.9443543553352356,0.014835208654403687,0.04081037640571594,positive,0.9295191764831543
+9,2018-03-06 01:23:00,"Nonetheless, stiff competition and an increase in investments for international expansions and data centers could negatively impact near-term profitability.",0.022975372150540352,0.9460110068321228,0.031013522297143936,negative,-0.9230356216430664
+10,2018-03-06 01:23:00,(You can read the full research report on Salesforce here >>> ).,0.012213421985507011,0.013723894022405148,0.9740626215934753,neutral,-0.0015104720368981361
+11,2018-03-06 01:23:00,"Shares of Lowe's have gained +6.8% over the last year, underperforming the Zacks Building Products industry, which has increased +17.1% over the same period.",0.9318918585777283,0.04973658546805382,0.018371567130088806,positive,0.8821552991867065
+12,2018-03-06 01:23:00,Lowe's reported lower-than-expected fourth-quarter fiscal 2017 earnings and issued soft guidance for 2018.,0.01828666962683201,0.9663777351379395,0.015335585922002792,negative,-0.9480910897254944
+13,2018-03-06 01:23:00,The company's revenues beat and comps growth failed to cushion the stock.,0.02477266453206539,0.9623904228210449,0.012836858630180359,negative,-0.9376177787780762
+14,2018-03-06 01:23:00,"For fiscal 2018, the company anticipates earnings per share in the band of $5.40-$5.50, which was sharply below analyst expectations.",0.03544183447957039,0.9335422515869141,0.031015925109386444,negative,-0.8981004357337952
+15,2018-03-06 01:23:00,"Of late, estimates are trending downwards.",0.034862540662288666,0.5570857524871826,0.4080517292022705,negative,-0.5222232341766357
+16,2018-03-06 01:23:00,"However, the Zacks analyst thinks improving job scenario, housing market recovery, merchandising initiatives and post hurricane construction activities along with efforts to enhance omni-channel capabilities bode well for Lowe's.",0.9458832144737244,0.01474213507026434,0.039374690502882004,positive,0.9311410784721375
+17,2018-03-06 01:23:00,The buyout of Maintenance Supply Headquarters is also strengthening relationship with Pro customers.,0.945743978023529,0.017426038160920143,0.03683008998632431,positive,0.9283179640769958
+18,2018-03-06 01:23:00,"Notably, Pro growth rate in the fourth quarter and fiscal 2017 have outpaced do-it-yourself (DIY).",0.9442380666732788,0.029088960960507393,0.02667304500937462,positive,0.9151490926742554
+19,2018-03-06 01:23:00,"Also, Canadian and Mexican businesses have been doing quite well.",0.9393008947372437,0.01754765398800373,0.043151404708623886,positive,0.9217532277107239
+20,2018-03-06 01:23:00,(You can read the full research report on Lowe's here >>> ).,0.012952213175594807,0.013178765773773193,0.9738690257072449,neutral,-0.0002265525981783867
+21,2018-03-06 01:23:00,"VMware 's shares have gained +32.3% over the last one year, underperforming the Zacks Software industry which is up +36.2% over the same period.",0.9391873478889465,0.04281167313456535,0.018000973388552666,positive,0.8963756561279297
+22,2018-03-06 01:23:00,VMware reported impressive fourth-quarter fiscal 2018 results.,0.9503908753395081,0.017776286229491234,0.031832799315452576,positive,0.9326145648956299
+23,2018-03-06 01:23:00,Both earnings and revenues increased on a year-over-year basis.,0.9485594034194946,0.016241269186139107,0.03519926965236664,positive,0.9323181509971619
+24,2018-03-06 01:23:00,"The company is benefiting from robust performance of its product offerings like NSX, vSphere and vSAN.",0.951798141002655,0.015272379852831364,0.03292951360344887,positive,0.9365257620811462
+25,2018-03-06 01:23:00,"The Zacks analyst thinks expanding product portfolio, partnerships with the likes of IBM, Amazon, Pivotal and Alphabet along with continuing enterprise deal wins continue to drive growth.",0.9398637413978577,0.014179416932165623,0.04595685750246048,positive,0.9256843328475952
+26,2018-03-06 01:23:00,"However, several of the growth engines that the company is relying on could take longer to yield results.",0.32302525639533997,0.04905926436185837,0.6279155015945435,neutral,0.273965984582901
+27,2018-03-06 01:23:00,"Thus, heavy spending on R&D may weigh on its margins.",0.025869660079479218,0.9114751219749451,0.06265518814325333,negative,-0.8856054544448853
+28,2018-03-06 01:23:00,"Moreover, intensifying competition from Microsoft and Citrix Systems remains a headwind in the near term.",0.03287147730588913,0.909630537033081,0.057497985661029816,negative,-0.8767590522766113
+29,2018-03-06 01:23:00,"Additionally, rumors of a reverse merger with parent Dell Technologies is expected to remain an overhang on the stock in the near term.",0.045531466603279114,0.42650076746940613,0.5279677510261536,neutral,-0.3809692859649658
+30,2018-03-06 01:23:00,(You can read the full research report on VMware here >>> ).,0.014514247886836529,0.013968142680823803,0.9715176224708557,neutral,0.0005461052060127258
+31,2018-03-06 01:23:00,"Other noteworthy reports we are featuring today include Allstate (ALL), Newmont (NEM) and Best Buy's (BBY).",0.04102109372615814,0.005605948157608509,0.9533730149269104,neutral,0.03541514649987221
+32,2018-03-06 01:23:00,Zacks EVP Kevin Matras believes this familiar stock has only just begun its climb to become one of the greatest investments of all time.,0.814492404460907,0.0160694383084774,0.1694381833076477,positive,0.7984229922294617
+33,2018-03-06 01:23:00,It's a once-in-a-generation opportunity to invest in pure genius.,0.5448517799377441,0.011377338320016861,0.4437708854675293,positive,0.5334744453430176
+34,2018-03-06 01:23:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+35,2018-03-06 01:23:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+36,2018-03-06 01:23:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+Per the Zacks analyst, Best Buy's 2020: Building the New Blue strategy will continue to fuel results in the coming quarters.",0.9046971201896667,0.01727910153567791,0.0780237689614296,positive,0.8874180316925049
+37,2018-03-06 01:23:00,The Zacks analyst thinks that FMC will gain from expansion actions in its lithium unit and the acquisition of DuPont's crop protection assets.,0.9473476409912109,0.014374538324773312,0.03827782720327377,positive,0.9329730868339539
+38,2018-03-06 01:23:00,"Strong demand for repair and remodeling products across all channels of distribution led to a 4% increase in North American sales in 2017 and is expected to continue in 2018, per the Zacks analyst.",0.9460470676422119,0.014515131711959839,0.039437711238861084,positive,0.9315319061279297
+39,2018-03-06 01:23:00,"While Cimarex Energy's Permian Basin and Mid-Continent premium acreages bode well, the covering analyst is worried about the company's high-debt burden.",0.04859137535095215,0.8761621117591858,0.07524651288986206,negative,-0.8275707364082336
+40,2018-03-06 01:23:00,"Per the Zacks analyst initiatives such as pricing discipline, new products and technology has led to premium growth, but high weather related losses hurt margins.",0.06971706449985504,0.9141849875450134,0.016097959131002426,negative,-0.8444679379463196
+41,2018-03-06 01:23:00,The Zacks analyst is positive about Discovery's expansion efforts.,0.8541260957717896,0.014783189631998539,0.1310907006263733,positive,0.8393428921699524
+42,2018-03-06 01:23:00,Strong ad revenues are also encouraging.,0.918460488319397,0.019869668409228325,0.06166985258460045,positive,0.8985908031463623
+43,2018-03-06 01:23:00,The Zacks analyst is impressed with Newmont's efforts to reduce debt and improve efficiency.,0.9401983022689819,0.017406487837433815,0.04239523783326149,positive,0.9227918386459351
+44,2018-03-06 01:23:00,The Zacks analyst likes the impressive performance of the company's QVC unit on the back of a surge in online sales and growing demand for smartphones.,0.9488182067871094,0.01801805943250656,0.03316372632980347,positive,0.9308001399040222
+45,2018-03-06 01:23:00,The HSN buyout is a huge positive.,0.8041394948959351,0.016313321888446808,0.17954720556735992,positive,0.7878261804580688
+46,2018-03-06 01:23:00,The Zacks analyst is bullish on Amedisys' expanding customer base through strategic buyouts like Intercity.,0.9377012848854065,0.016874775290489197,0.045423928648233414,positive,0.9208264946937561
+47,2018-03-06 01:23:00,Aging U.S. population and home health as a cheaper care modality are other growth drivers.,0.6569413542747498,0.021809320896863937,0.3212493658065796,positive,0.6351320147514343
+48,2018-03-06 01:23:00,"Per the Zacks analyst, the impressive growth achieved in Krystexxa sales has boosted Horizon Pharma's topline.",0.9570375084877014,0.017629349604249,0.025333231315016747,positive,0.9394081830978394
+49,2018-03-06 01:23:00,The company also expects to continue the growth in 2018.,0.9224510192871094,0.013480320572853088,0.06406867504119873,positive,0.9089707136154175
+50,2018-03-06 01:23:00,"Reduced rig operating days following lower utilization of floaters continues to hurt Ensco's net cashflow from operations, according to the Zacks analyst.",0.021559828892350197,0.9667888283729553,0.011651354841887951,negative,-0.9452289938926697
+51,2018-03-06 01:23:00,Per the Zacks analyst increasing expenses have weighed on the company's margins and the same are expected to rise over the coming quarters given its ongoing investments in business expansion.,0.17059102654457092,0.7861955165863037,0.043213482946157455,negative,-0.6156045198440552
+52,2018-03-06 01:23:00,"Per the Zacks analyst, dwindling Dental segment revenues is a concern.",0.01886756718158722,0.9641151428222656,0.01701720431447029,negative,-0.9452475905418396
+53,2018-03-06 01:23:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+54,2018-03-06 01:23:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+55,2018-03-06 01:23:00,"Click to get this free report
+
+Best Buy Co., Inc. (BBY): Free Stock Analysis Report
+
+To read this article on Zacks.com click here.",0.011456410400569439,0.020273467525839806,0.9682701230049133,neutral,-0.008817057125270367
+56,2018-03-06 01:23:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

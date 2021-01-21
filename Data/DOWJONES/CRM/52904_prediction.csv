@@ -1,0 +1,21 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-06-26 00:40:00,"In the latest look at the underlying components of the S&P 500 ordered by largest market capitalization, Salesforce.com Inc (Symbol: CRM) has taken over the #130 spot from American Tower Corp (Symbol: AMT), according to The Online Investor .",0.07515124976634979,0.021378865465521812,0.9034699201583862,neutral,0.05377238243818283
+1,2014-06-26 00:40:00,"Market capitalization is an important data point for investors to keep an eye on, for various reasons.",0.06512045860290527,0.007331919856369495,0.9275476336479187,neutral,0.05778853967785835
+2,2014-06-26 00:40:00,The most basic reason is that it gives a true comparison of the value attributed by the stock market to a given company's stock.,0.05135995149612427,0.0059317946434021,0.9427081942558289,neutral,0.04542815685272217
+3,2014-06-26 00:40:00,Many beginning investors look at one stock trading at $10 and another trading at $20 and mistakenly think the latter company is worth twice as much - that of course is a completely meaningless comparison without knowing how many shares of each company exist.,0.041374705731868744,0.2569429874420166,0.7016823291778564,neutral,-0.21556827425956726
+4,2014-06-26 00:40:00,"But comparing market capitalization (factoring in those share counts) creates a true ""apples-to-apples"" comparison of the value of two stocks.",0.2478971630334854,0.020627759397029877,0.7314750552177429,neutral,0.22726941108703613
+5,2014-06-26 00:40:00,"In the case of Salesforce.com Inc (Symbol: CRM), the market cap is now $35.10 billion, versus American Tower Corp (Symbol: AMT) at $35.07 billion.",0.303163081407547,0.11663690209388733,0.5802000164985657,neutral,0.18652617931365967
+6,2014-06-26 00:40:00,"Below is a chart of Salesforce.com Inc versus American Tower Corp plotting their respective size rank within the S&P 500 over time (CRM plotted in blue; AMT plotted in green):
+
+Below is a three month price history chart comparing the stock performance of CRM vs. AMT:
+
+Another reason market capitalization is important is where it places a company in terms of its size tier in relation to peers - much like the way a mid-size sedan is typically compared to other mid-size sedans (and not SUV's).",0.05989263206720352,0.023426510393619537,0.9166808724403381,neutral,0.036466121673583984
+7,2014-06-26 00:40:00,This can have a direct impact on which mutual funds and ETFs are willing to own the stock.,0.01339706964790821,0.018111640587449074,0.9684913158416748,neutral,-0.004714570939540863
+8,2014-06-26 00:40:00,"For instance, a mutual fund that is focused solely on Large Cap stocks may for example only be interested in those companies sized $10 billion or larger.",0.014068981632590294,0.011452157981693745,0.9744788408279419,neutral,0.0026168236508965492
+9,2014-06-26 00:40:00,"Another illustrative example is the S&P MidCap index which essentially takes the S&P 500 index and ""tosses out"" the biggest 100 companies so as to focus solely on the 400 smaller ""up-and-comers"" (which in the right environment can outperform their larger rivals).",0.072017140686512,0.03575460612773895,0.8922282457351685,neutral,0.03626253455877304
+10,2014-06-26 00:40:00,"So a company's market cap, especially in relation to other companies, carries great importance, and for this reason we at The Online Investor find value to putting together these rankings daily.",0.2150925099849701,0.00856061652302742,0.7763468623161316,neutral,0.20653189718723297
+11,2014-06-26 00:40:00,"According to the ETF Finder at ETF Channel, CRM and AMT collectively make up 1.42% of the Guggenheim Raymond James SB-1 Equity ETF ( RYJ ) which is lower by about 0.1% on the day Thursday.",0.01939573511481285,0.9551029205322266,0.02550121210515499,negative,-0.9357072114944458
+12,2014-06-26 00:40:00,"At the closing bell, CRM is down about 0.4%, while AMT is off about 0.7% on the day Thursday.",0.018441256135702133,0.9605002999305725,0.021058538928627968,negative,-0.9420590400695801
+13,2014-06-26 00:40:00,"The 20 Largest U.S. Companies By Market Capitalization »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01015871949493885,0.016536811366677284,0.9733045101165771,neutral,-0.006378091871738434

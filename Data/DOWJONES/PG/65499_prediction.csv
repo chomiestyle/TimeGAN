@@ -1,0 +1,60 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-22 08:50:00,The Federal Reserve (also called The Fed) held its Federal Open Market Committee (FOMC) meeting earlier this month and determined that it would make no changes in U.S. monetary policy.,0.059701308608055115,0.08829453587532043,0.8520041704177856,neutral,-0.02859322726726532
+1,2019-12-22 08:50:00,"This meant no adjustment to the target range for the Federal Funds Rate, which is the lever it uses to influence the economy.",0.13371671736240387,0.059311628341674805,0.8069716095924377,neutral,0.07440508902072906
+2,2019-12-22 08:50:00,Interest rates are something that stock market investors generally don't focus on.,0.048144884407520294,0.107058085501194,0.8447970151901245,neutral,-0.058913201093673706
+3,2019-12-22 08:50:00,"However, they should.",0.11410267651081085,0.03275580704212189,0.8531415462493896,neutral,0.08134686946868896
+4,2019-12-22 08:50:00,"An old market saw is ""Don't fight the Fed,"" which means markets generally go up when the Fed is cutting rates and struggle when the Fed is raising them.",0.19419889152050018,0.22611531615257263,0.5796858072280884,neutral,-0.03191642463207245
+5,2019-12-22 08:50:00,Why is that?,0.06793701648712158,0.08131454139947891,0.8507484793663025,neutral,-0.01337752491235733
+6,2019-12-22 08:50:00,And how can it affect your investment decisions?,0.01880391500890255,0.025831928476691246,0.9553641080856323,neutral,-0.007028013467788696
+7,2019-12-22 08:50:00,Let's take a closer look at how market professionals anticipate further moves out of the Fed and use it to their investing advantage.,0.17036965489387512,0.007181880529969931,0.8224484324455261,neutral,0.16318777203559875
+8,2019-12-22 08:50:00,The Fed is mandated by law to help manage the U.S. economy and maximize employment while controlling inflation.,0.1509116291999817,0.006315167993307114,0.8427731990814209,neutral,0.14459645748138428
+9,2019-12-22 08:50:00,"One of the Fed's best tool for doing this is by manipulating the Fed Funds rate, which is the interest rate which banks use when lending to each other and when borrowing short-term from the government.",0.028224103152751923,0.01897069625556469,0.9528052806854248,neutral,0.009253406897187233
+10,2019-12-22 08:50:00,"When the Fed becomes concerned that the overall U.S. economy is slipping into recession (a situation where the GDP growth rate is negative for two consecutive quarters or more), it will lower the target range for the Fed Funds rate (often called easing).",0.08665942400693893,0.25626635551452637,0.6570742726325989,neutral,-0.16960692405700684
+11,2019-12-22 08:50:00,This encourages investment and the movement of capital and tends to kick-start the overall economy.,0.6487189531326294,0.01213005930185318,0.3391510546207428,positive,0.6365888714790344
+12,2019-12-22 08:50:00,"When the Fed is concerned that economic growth is overheating and increasing inflation above a target rate of 2%, it will raise the Fed Funds rate to compensate (often called tightening).",0.19666364789009094,0.0488019622862339,0.7545344233512878,neutral,0.14786168932914734
+13,2019-12-22 08:50:00,This helps temper the growth of inflation by keeping certain costs under control.,0.47113654017448425,0.013104669749736786,0.5157588124275208,neutral,0.45803186297416687
+14,2019-12-22 08:50:00,"The Fed regularly meets 8 times a year to discuss the economy and what the rate should be, although it can call a special meeting to respond to fast-moving economic issues if circumstances warrant it.",0.019190344959497452,0.014775286428630352,0.9660344123840332,neutral,0.0044150585308671
+15,2019-12-22 08:50:00,"Along with determining the current rate, the Fed usually releases its forecast for the Fed Funds rate for the next three years as well as a long-term projection at the December, March, June, and September meetings.",0.01628815568983555,0.008297142572700977,0.9754146337509155,neutral,0.007991013117134571
+16,2019-12-22 08:50:00,It summarizes the individual forecasts for each Federal Reserve voting member on a graph of dots better known as the dot plot.,0.028663640841841698,0.011124606244266033,0.9602118134498596,neutral,0.01753903552889824
+17,2019-12-22 08:50:00,"If you look at the dot plot below from its latest meeting, you will see interest rates on the vertical axis and years on the horizontal axis.",0.020567869767546654,0.02940557897090912,0.9500265121459961,neutral,-0.008837709203362465
+18,2019-12-22 08:50:00,Each dot on the graph represents what each voting member's forecast for the Fed Funds rate will be at the end of that year.,0.023498522117733955,0.012952758930623531,0.9635487198829651,neutral,0.010545763187110424
+19,2019-12-22 08:50:00,"The first column is the forecast for the end of 2019, and we can see 17 dots in the 1.5% to 1.75% range, which is where the current target range stands.",0.01851225644350052,0.019560839980840683,0.9619269371032715,neutral,-0.0010485835373401642
+20,2019-12-22 08:50:00,"If you look at 2020, you will see that 13 members think rates will stay where they are now, and 4 members think they will increase by 25 basis points to a range of 1.75% to 2%.",0.6823111772537231,0.015927955508232117,0.30176079273223877,positive,0.6663832068443298
+21,2019-12-22 08:50:00,This means that the Fed (on balance) thinks the next move (whenever it comes) will be to raise the Fed Fund rate.,0.2523386478424072,0.021259499713778496,0.7264018654823303,neutral,0.23107914626598358
+22,2019-12-22 08:50:00,"The market has a view of rates, too
+
+The Fed Funds dot plot is not the only tool to forecast rates -- there are futures contracts that allow investors to bet on the direction of rates as well.",0.041421327739953995,0.013401398435235023,0.9451772570610046,neutral,0.02801992930471897
+23,2019-12-22 08:50:00,These futures trade on the Chicago Mercantile Exchange and the exchange uses the trading prices for these contracts to develop a consensus on the implied probability for rates based on trading prices.,0.029592836275696754,0.006526249460875988,0.9638808965682983,neutral,0.02306658774614334
+24,2019-12-22 08:50:00,"Currently, the market prognosticator's forecast for the end of 2020, which you can see on the Chicago Mercantile Exchange website, shows that the market thinks the Fed's next move will be to cut rates.",0.11435697972774506,0.22671635448932648,0.6589266657829285,neutral,-0.11235937476158142
+25,2019-12-22 08:50:00,"Very roughly, they see a 46% chance of no moves, a 1% chance of a hike, and a 53% chance of a rate cut (or cuts).",0.22407588362693787,0.06813120096921921,0.7077929973602295,neutral,0.15594467520713806
+26,2019-12-22 08:50:00,"So, the markets and central bankers disagree.",0.10194330662488937,0.6596021056175232,0.23845458030700684,negative,-0.5576587915420532
+27,2019-12-22 08:50:00,"Lately, the markets have been correct.",0.5124858617782593,0.056230831891298294,0.43128326535224915,positive,0.4562550187110901
+28,2019-12-22 08:50:00,How can an investor use this information?,0.0270523838698864,0.016741927713155746,0.9562056660652161,neutral,0.010310456156730652
+29,2019-12-22 08:50:00,"If rates are falling, that is generally bullish for the stock market.",0.06769733875989914,0.4816955327987671,0.45060715079307556,negative,-0.41399818658828735
+30,2019-12-22 08:50:00,"That said, some stocks are highly interest-rate sensitive -- especially those that trade on the interest in their dividend yields.",0.020071513950824738,0.031132526695728302,0.9487959742546082,neutral,-0.011061012744903564
+31,2019-12-22 08:50:00,The classic example of a stock doing well with falling rates is a regulated utility such as Duke Energy (NYSE: DUK).,0.4956572353839874,0.19011086225509644,0.3142319917678833,positive,0.305546373128891
+32,2019-12-22 08:50:00,Real estate investment trusts such as Federal Realty (NYSE: FRT) also perform well as rates fall.,0.8644126653671265,0.08341898769140244,0.0521683506667614,positive,0.7809937000274658
+33,2019-12-22 08:50:00,This is due to the fact that their borrowing costs fall and their source of income (usually rents and fees) is longer-term and won't be as sensitive to a fall in rates.,0.042496029287576675,0.5684574842453003,0.38904643058776855,negative,-0.5259614586830139
+34,2019-12-22 08:50:00,"Stocks that have stable and predictable dividend yields also get a boost because they tend to correlate with the bond markets, which benefit from a drop in rates.",0.8928547501564026,0.029420770704746246,0.07772449404001236,positive,0.8634339570999146
+35,2019-12-22 08:50:00,Banks also prefer lower rates as it lowers their cost of funds.,0.4227980673313141,0.07162003219127655,0.5055819153785706,neutral,0.35117805004119873
+36,2019-12-22 08:50:00,"So, if rates are heading lower, stocks in financial and housing sectors should perform well.",0.8963434100151062,0.02646295540034771,0.07719365507364273,positive,0.8698804378509521
+37,2019-12-22 08:50:00,Where should you be if rates are rising?,0.09428509324789047,0.07201440632343292,0.8337005376815796,neutral,0.02227068692445755
+38,2019-12-22 08:50:00,"This is a tougher call, however defensive stocks like consumer staples stalwart Proctor and Gamble (NYSE: PG) generally perform best in a tightening cycle as investors anticipate a slowdown in the economy.",0.5405523180961609,0.34071752429008484,0.11873019486665726,positive,0.19983479380607605
+39,2019-12-22 08:50:00,"Other than that, there simply aren't a lot of market sectors that respond well to an interest rate hike.",0.0688132718205452,0.02303077094256878,0.9081559181213379,neutral,0.04578249901533127
+40,2019-12-22 08:50:00,"Industrials, cyclicals and consumer discretionary will struggle.",0.030259640887379646,0.3988359868526459,0.5709043145179749,neutral,-0.3685763478279114
+41,2019-12-22 08:50:00,"So, the next best thing is a sector that is insensitive to rates like most growth stocks, media or biotech.",0.01630292646586895,0.02754179947078228,0.9561552405357361,neutral,-0.01123887300491333
+42,2019-12-22 08:50:00,"The information is out there and can make you a better-informed investor
+
+As a general rule, speculating on changes in interest rates is a bad idea.",0.07426930963993073,0.5216436386108398,0.40408703684806824,negative,-0.4473743438720703
+43,2019-12-22 08:50:00,"However, for buy-and-hold, long-term investors, the clues given by the Fed and the markets can be useful for deciding which sectors to overweight and which ones to underweight in their investment portfolio when adding new funds.",0.07469959557056427,0.012272235937416553,0.9130281805992126,neutral,0.06242736056447029
+44,2019-12-22 08:50:00,"10 stocks we like better than Duke Energy
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11820677667856216,0.025957485660910606,0.8558356761932373,neutral,0.09224928915500641
+45,2019-12-22 08:50:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+46,2019-12-22 08:50:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Duke Energy wasn't one of them!",0.17924387753009796,0.01254895981401205,0.8082072138786316,neutral,0.16669492423534393
+47,2019-12-22 08:50:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+48,2019-12-22 08:50:00,"Brent Nyitray, CFA has no position in any of the stocks mentioned.",0.011893868446350098,0.07687962055206299,0.9112265110015869,neutral,-0.06498575210571289
+49,2019-12-22 08:50:00,The Motley Fool is short shares of Procter & Gamble.,0.044476453214883804,0.4596617817878723,0.49586179852485657,neutral,-0.4151853322982788
+50,2019-12-22 08:50:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

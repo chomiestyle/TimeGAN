@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-09-30 07:11:00,"In early trading on Wednesday, shares of Intel Corp ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.4%.",0.9379746913909912,0.032078471034765244,0.029946809634566307,positive,0.9058962464332581
+1,2015-09-30 07:11:00,"Year to date, Intel Corp has lost about 17.5% of its value.",0.016985122114419937,0.9517083764076233,0.03130653500556946,negative,-0.9347232580184937
+2,2015-09-30 07:11:00,"And the worst performing Dow component thus far on the day is Travelers Companies ( TRV ), trading up 0.5%.",0.02627444639801979,0.960991382598877,0.012734114192426205,negative,-0.9347169399261475
+3,2015-09-30 07:11:00,Travelers Companies is lower by about 5.5% looking at the year to date performance.,0.019645750522613525,0.965209424495697,0.015144756995141506,negative,-0.9455636739730835
+4,2015-09-30 07:11:00,"Two other components making moves today are Procter & Gamble ( PG ), trading up 0.7%, and Nike ( NKE ), trading up 2.1% on the day.",0.870937168598175,0.03035638853907585,0.09870646148920059,positive,0.8405807614326477
+5,2015-09-30 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-01 03:31:00,The stock market recovery off of historic 2020 lows has been anything but even.,0.7622393369674683,0.14019820094108582,0.09756248444318771,positive,0.6220411062240601
+1,2020-09-01 03:31:00,"Large-cap tech names have dragged averages higher, while technology as a whole ballooned to 36.6% of the S&P 500 index -- a historic high.",0.8420267105102539,0.09802424907684326,0.059948958456516266,positive,0.7440024614334106
+2,2020-09-01 03:31:00,"Conversely, many stocks remain lower for the year.",0.022430285811424255,0.9499161839485168,0.027653640136122704,negative,-0.9274858832359314
+3,2020-09-01 03:31:00,"Three companies -- Apple (NASDAQ: AAPL), NVIDIA (NASDAQ: NVDA) and Salesforce.com (NYSE: CRM) -- saw their share prices benefit the most during August.",0.9128596782684326,0.0420619435608387,0.04507839307188988,positive,0.8707977533340454
+4,2020-09-01 03:31:00,Is it too late to invest in these coronavirus beneficiaries?,0.03825622797012329,0.0856824517250061,0.8760613203048706,neutral,-0.04742622375488281
+5,2020-09-01 03:31:00,All of the S&P 500 winners in August -- including the three biggest leaders listed above -- have one thing in common: The companies all benefited from trends created by the pandemic like working from home and social distancing.,0.5829640030860901,0.015783898532390594,0.40125206112861633,positive,0.5671800971031189
+6,2020-09-01 03:31:00,"For example, NVIDIA's and Apple's hardware both benefit from remote living cultivating the need for more connected devices, while Salesforce's software empowers productivity from a distance.",0.43366268277168274,0.012208227999508381,0.5541291236877441,neutral,0.42145445942878723
+7,2020-09-01 03:31:00,"When looking through the rest of the S&P 500's August winners, that trend becomes clearer: If a company relies on live attendance to generate sales, times have been tough.",0.04204344376921654,0.8785744905471802,0.07938208431005478,negative,-0.8365310430526733
+8,2020-09-01 03:31:00,"If, however, a company's products and services cater to life amid COVID-19, share profits have been generally abundant.",0.7721306681632996,0.013510433956980705,0.2143588364124298,positive,0.7586202621459961
+9,2020-09-01 03:31:00,"If the pandemic continued forever, it would be feasible to think companies benefiting from COVID-19 could continue realizing outsized growth and increased interest.",0.9148613810539246,0.017050908878445625,0.06808777898550034,positive,0.8978104591369629
+10,2020-09-01 03:31:00,"Fortunately, this nightmarish virus should have an expiration date thanks to the biotech industry's efforts to develop a coronavirus vaccine.",0.5167610049247742,0.03123125433921814,0.4520077407360077,positive,0.48552975058555603
+11,2020-09-01 03:31:00,"Last week, Abbott Labs got emergency FDA approval for its $5, 15-minute coronavirus test.",0.787148654460907,0.0704478994011879,0.14240343868732452,positive,0.7167007327079773
+12,2020-09-01 03:31:00,"While this doesn't eradicate the disease, it does greatly enhance our ability to scale testing nationwide.",0.9214786291122437,0.014050542376935482,0.06447084248065948,positive,0.9074280858039856
+13,2020-09-01 03:31:00,The FDA also granted emergency authorization for a blood-plasma treatment that cuts the COVID-19 mortality rate considerably.,0.8135522603988647,0.11623935401439667,0.07020843774080276,positive,0.6973128914833069
+14,2020-09-01 03:31:00,"Perhaps most importantly, Dr. Anthony Fauci -- the leading infectious disease expert in America -- consistently and publicly reiterates his belief that a vaccine for the novel coronavirus will be available by the beginning of 2021.",0.44340673089027405,0.010732391849160194,0.5458608269691467,neutral,0.4326743483543396
+15,2020-09-01 03:31:00,"Former FDA head Dr. Scott Gottlieb has publicly shared that belief numerous times, too.",0.11703860014677048,0.0715993270277977,0.811362087726593,neutral,0.04543927311897278
+16,2020-09-01 03:31:00,All of these tools will be valuable pieces of the puzzle for overcoming COVID-19.,0.5193355083465576,0.013523400761187077,0.4671410620212555,positive,0.5058121085166931
+17,2020-09-01 03:31:00,"When we finally do, trends propping up technology companies such as Apple, NVIDIA, and Salesforce may begin to ebb.",0.09896668046712875,0.05090462043881416,0.8501286506652832,neutral,0.04806206002831459
+18,2020-09-01 03:31:00,"Perhaps when the mortality risk is greatly diminished, folks will be more likely to take a vacation or eat dinner in a restaurant rather than continuing to exist in isolation.",0.10540378093719482,0.0804237499833107,0.8141725063323975,neutral,0.024980030953884125
+19,2020-09-01 03:31:00,That's not a good thing for stocks gaining from forced distancing.,0.1932888776063919,0.6731504201889038,0.1335606873035431,negative,-0.4798615574836731
+20,2020-09-01 03:31:00,Does that mean technology stocks and other companies benefiting from COVID-19 should be avoided and even sold?,0.02893248200416565,0.299509197473526,0.6715583205223083,neutral,-0.27057671546936035
+21,2020-09-01 03:31:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+22,2020-09-01 03:31:00,"Instead, if you have decided -- for example -- that you wish to buy NVIDIA despite its historically elevated earnings multiple of 96 times, maybe add shares incrementally.",0.4837215840816498,0.015481293201446533,0.5007971525192261,neutral,0.46824029088020325
+23,2020-09-01 03:31:00,This will allot you more flexibility to dollar-cost average your investment in the stock if it does begin to fade.,0.7849253416061401,0.014777429401874542,0.20029723644256592,positive,0.7701479196548462
+24,2020-09-01 03:31:00,COVID-19 continued to power pandemic beneficiaries in August.,0.47368067502975464,0.06130337715148926,0.4650159776210785,positive,0.4123772978782654
+25,2020-09-01 03:31:00,"With news beginning to improve on the vaccine, testing, and treatment fronts, it may not be time to aggressively buy into pure-play pandemic winners.",0.5522987842559814,0.043755099177360535,0.4039461016654968,positive,0.5085436701774597
+26,2020-09-01 03:31:00,"Longer term, these could all continue to be fruitful investments for shareholders.",0.885924220085144,0.013483193702995777,0.10059258341789246,positive,0.8724410533905029
+27,2020-09-01 03:31:00,"For now, however, encouraging news in biotech could lead current market leaders to pull back and give you a better chance to add equity exposure later on.",0.7372450232505798,0.03511381521821022,0.22764118015766144,positive,0.7021312117576599
+28,2020-09-01 03:31:00,"If you are determined to add an August pandemic winner like Apple, NVIDIA, or Salesforce, proceed with caution.",0.025796545669436455,0.02742074616253376,0.946782648563385,neutral,-0.0016242004930973053
+29,2020-09-01 03:31:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+30,2020-09-01 03:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+31,2020-09-01 03:31:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now… and Apple wasn't one of them!",0.17095725238323212,0.01498203631490469,0.8140606880187988,neutral,0.15597522258758545
+32,2020-09-01 03:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2020-09-01 03:31:00,Bradley Freeman has no position in any of the stocks mentioned.,0.010541830211877823,0.04786666855216026,0.9415915608406067,neutral,-0.03732483834028244
+34,2020-09-01 03:31:00,"The Motley Fool owns shares of and recommends Apple, NVIDIA, and Salesforce.com.",0.03456861898303032,0.027693018317222595,0.9377383589744568,neutral,0.006875600665807724
+35,2020-09-01 03:31:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

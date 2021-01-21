@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-17 22:27:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 29,578 contracts has been traded thus far today, a contract volume which is representative of approximately 3.0 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04215802252292633,0.010942431166768074,0.9468995928764343,neutral,0.031215591356158257
+1,2017-08-17 22:27:00,"That number works out to 56.9% of HD's average daily trading volume over the past month, of 5.2 million shares.",0.7115298509597778,0.020837675780057907,0.2676324248313904,positive,0.6906921863555908
+2,2017-08-17 22:27:00,"Especially high volume was seen for the $110 strike put option expiring October 20, 2017 , with 2,135 contracts trading so far today, representing approximately 213,500 underlying shares of HD.",0.22905735671520233,0.010036652907729149,0.7609059810638428,neutral,0.21902070939540863
+3,2017-08-17 22:27:00,"Below is a chart showing HD's trailing twelve month trading history, with the $110 strike highlighted in orange:
+
+Noble Energy Inc (Symbol: NBL) saw options trading volume of 25,309 contracts, representing approximately 2.5 million underlying shares or approximately 50.3% of NBL's average daily trading volume over the past month, of 5.0 million shares.",0.016404123976826668,0.01299293339252472,0.9706029891967773,neutral,0.0034111905843019485
+4,2017-08-17 22:27:00,"Particularly high volume was seen for the $22.50 strike put option expiring September 15, 2017 , with 15,043 contracts trading so far today, representing approximately 1.5 million underlying shares of NBL.",0.20720919966697693,0.009150583297014236,0.7836402058601379,neutral,0.198058620095253
+5,2017-08-17 22:27:00,"Below is a chart showing NBL's trailing twelve month trading history, with the $22.50 strike highlighted in orange:
+
+And Caterpillar Inc. (Symbol: CAT) options are showing a volume of 19,626 contracts thus far today.",0.020771527662873268,0.03285159915685654,0.9463768601417542,neutral,-0.012080071493983269
+6,2017-08-17 22:27:00,"That number of contracts represents approximately 2.0 million underlying shares, working out to a sizeable 49.2% of CAT's average daily trading volume over the past month, of 4.0 million shares.",0.15327604115009308,0.010356645099818707,0.8363672494888306,neutral,0.1429193913936615
+7,2017-08-17 22:27:00,"Particularly high volume was seen for the $114 strike call option expiring August 18, 2017 , with 1,801 contracts trading so far today, representing approximately 180,100 underlying shares of CAT.",0.19609412550926208,0.010178370401263237,0.7937275171279907,neutral,0.1859157532453537
+8,2017-08-17 22:27:00,"Below is a chart showing CAT's trailing twelve month trading history, with the $114 strike highlighted in orange:
+
+For the various different available expirations for HD options , NBL options , or CAT options , visit StockOptionsChannel.com.",0.010378959588706493,0.023438023403286934,0.966183066368103,neutral,-0.01305906381458044
+9,2017-08-17 22:27:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

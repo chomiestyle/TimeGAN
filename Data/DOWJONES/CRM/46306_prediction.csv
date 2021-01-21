@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-09 04:18:00,There was plenty of good news when Salesforce.com (NYSE: CRM) reported its second-quarter financial results .,0.7278051376342773,0.024412931874394417,0.2477819323539734,positive,0.7033922076225281
+1,2018-09-09 04:18:00,"The company continued its habit of ""beat and raise,"" beating expectations and raising its forecast for the remainder of the year.",0.8553959727287292,0.01788410358130932,0.12671996653079987,positive,0.8375118970870972
+2,2018-09-09 04:18:00,"Revenue for the quarter grew 27% year over year to $3.28 billion, surpassing analysts' consensus estimates for $3.23 billion and topping the high end of the company's projections.",0.9568463563919067,0.020750850439071655,0.022402839735150337,positive,0.9360954761505127
+3,2018-09-09 04:18:00,"Profits also surprised, as adjusted earnings per share of $0.71 sailed past the $0.33 earned in the year-ago quarter, well above the $0.0.47 expected by analysts.",0.8970608711242676,0.07969354093074799,0.02324563078582287,positive,0.8173673152923584
+4,2018-09-09 04:18:00,There was much greater detail provided by Salesforce executives on the conference call to discuss the quarterly results.,0.051831357181072235,0.010816864669322968,0.9373518228530884,neutral,0.04101449251174927
+5,2018-09-09 04:18:00,"Read on to find out why Salesforce management is so excited about a recent acquisition, the growing importance of artificial intelligence, and how tax reform is affecting business.",0.11973529309034348,0.01773686893284321,0.8625278472900391,neutral,0.10199842602014542
+6,2018-09-09 04:18:00,"Salesforce announced back in March that it planned to purchase MuleSoft, which specializes in connecting enterprise apps, devices, and data from legacy systems -- across both private and public clouds -- and combining the data to provide even greater customer insights for companies.",0.8164262771606445,0.011463593691587448,0.17211014032363892,positive,0.804962694644928
+7,2018-09-09 04:18:00,"Salesforce had a long history with the company, having helped fund MuleSoft as a start-up.",0.24274253845214844,0.007383792661130428,0.7498736381530762,neutral,0.23535874485969543
+8,2018-09-09 04:18:00,"This is the first full quarter since the acquisition was announced, and Salesforce executives were head over heels with the recent purchase.",0.1727764755487442,0.5419020652770996,0.28532150387763977,negative,-0.3691256046295166
+9,2018-09-09 04:18:00,"Keith Block, co-CEO, said that MuleSoft ""was off to a fast start,"" saying the technology was ""in every conversation we had with senior executives"" during the quarter.",0.6167764663696289,0.013940509408712387,0.3692830502986908,positive,0.6028359532356262
+10,2018-09-09 04:18:00,"Block also said, ""We've done many, many acquisitions here...this is probably the smoothest integration that we've had.""",0.8842752575874329,0.013929887674748898,0.10179483890533447,positive,0.8703453540802002
+11,2018-09-09 04:18:00,"""I will just characterize it this way: nearly universal euphoria,"" Block said.",0.04420742392539978,0.013895537704229355,0.9418969750404358,neutral,0.030311886221170425
+12,2018-09-09 04:18:00,"""This was a missing piece to the puzzle.",0.13283231854438782,0.2419498860836029,0.625217854976654,neutral,-0.10911756753921509
+13,2018-09-09 04:18:00,We listen to our customers.,0.06101067364215851,0.006068883463740349,0.9329204559326172,neutral,0.05494178831577301
+14,2018-09-09 04:18:00,"That's why we made the acquisition, because we knew exactly how important this was going to be to completing that digital transformation.""",0.6965600252151489,0.013392291031777859,0.29004770517349243,positive,0.6831677556037903
+15,2018-09-09 04:18:00,"The growing importance -- and responsibility -- of AI
+
+Chairman and co-CEO Marc Benioff said that artificial intelligence (AI) was one of the ""critical aspects"" of the digital age, giving ""computers the ability to learn from all kinds of data.""",0.4122546315193176,0.012147062458097935,0.5755982398986816,neutral,0.40010756254196167
+16,2018-09-09 04:18:00,"The technology provides insight into customers that is ""far more personalized, efficient, and effective.""",0.7358763813972473,0.0126202292740345,0.2515033483505249,positive,0.7232561707496643
+17,2018-09-09 04:18:00,"Benioff revealed that Einstein, its AI platform, was enabling ""over three billion predictions and insights every single day"" -- up 50% from the 2 billion predictions the company reported last quarter.",0.9522609114646912,0.022304916754364967,0.025434186682105064,positive,0.9299560189247131
+18,2018-09-09 04:18:00,"But as the old saying goes, ""with great power comes great responsibility.""",0.20418238639831543,0.024798989295959473,0.7710186243057251,neutral,0.17938339710235596
+19,2018-09-09 04:18:00,"Salesforce CFO Mark Hawkins said, ""We're deeply committed to artificial intelligence and as I said, we're also deeply committed to the ethical and humane use of that technology that we all realize that AI is developing a lot faster and going a lot farther than any of us realized.""",0.6700402498245239,0.011940703727304935,0.3180190622806549,positive,0.6580995321273804
+20,2018-09-09 04:18:00,"To that end, Benioff announced that Salesforce was making ""ethical and humane use of technology a strategic initiative at Salesforce"" and will be creating a new position within the company to ""encourage, promote, publish, and implement industry standards guidelines.""",0.6413625478744507,0.010182112455368042,0.3484553098678589,positive,0.6311804056167603
+21,2018-09-09 04:18:00,Benioff believes that Salesforce will continue to benefit from U.S. tax reform enacted last year.,0.9272770285606384,0.014058343134820461,0.05866461992263794,positive,0.9132186770439148
+22,2018-09-09 04:18:00,He also said he is seeing the same thing from CEOs in Europe and Asia.,0.25617340207099915,0.015417874790728092,0.728408694267273,neutral,0.24075552821159363
+23,2018-09-09 04:18:00,"Benioff went on to say that Salesforce has ""the right product at the right time"" to take advantage of this spending spree.",0.8579003810882568,0.02051955834031105,0.12157999724149704,positive,0.8373808264732361
+24,2018-09-09 04:18:00,"Why Salesforce is so excited
+
+What was really apparent on the conference call was a level of enthusiasm you don't typically see when discussing quarterly results.",0.16079279780387878,0.017038747668266296,0.8221684694290161,neutral,0.1437540501356125
+25,2018-09-09 04:18:00,Salesforce is in a unique position to benefit from the digital transformation that is taking place due to the rapid adoption of cloud computing and the need to extract greater customer insight from data in a growing number of silos.,0.8627915382385254,0.011323266662657261,0.1258852481842041,positive,0.8514682650566101
+26,2018-09-09 04:18:00,Being in the right place at the right time with the right products will continue to enrich Salesforce -- and its shareholders.,0.9081147909164429,0.014744291082024574,0.07714081555604935,positive,0.893370509147644
+27,2018-09-09 04:18:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+28,2018-09-09 04:18:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+29,2018-09-09 04:18:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+30,2018-09-09 04:18:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2018-09-09 04:18:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+32,2018-09-09 04:18:00,Danny Vena has no position in any of the stocks mentioned.,0.008690607734024525,0.04267596825957298,0.9486334323883057,neutral,-0.03398536145687103
+33,2018-09-09 04:18:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+34,2018-09-09 04:18:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+35,2018-09-09 04:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

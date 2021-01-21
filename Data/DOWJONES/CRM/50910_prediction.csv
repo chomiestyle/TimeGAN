@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-08-18 07:40:00,"Salesforce ( CRM ) has been on a buying spree this year, with the company buying no less than three companies in the span of one month.",0.41777434945106506,0.04106859862804413,0.541157066822052,neutral,0.37670576572418213
+1,2016-08-18 07:40:00,"Salesforce is no stranger to acquisitions, but nine companies in under 12 months clearly indicates that the company is either racing to fill a few holes or trying to expand its reach as quickly as it can.",0.808844804763794,0.0165514275431633,0.17460377514362335,positive,0.79229336977005
+2,2016-08-18 07:40:00,"With Oracle ( ORCL ) turning up the heat on the SaaS/PaaS front and pushing hard into the Cloud Enterprise Resource Planning space ( Cloud ERP ), Salesforce is strengthening its own stronghold - CRM - while at the same time steadily expanding its expertise in the sales management side.",0.945742130279541,0.015603868290781975,0.038654062896966934,positive,0.9301382899284363
+3,2016-08-18 07:40:00,They seem to be simultaneously moving deeper into the operations services as well.,0.10835506021976471,0.006080963648855686,0.8855639100074768,neutral,0.1022740975022316
+4,2016-08-18 07:40:00,"Salesforce is the worldAAAs number one Customer Relationship Management software provider, the kind of company that you would bank on to take care of your sales lifecycle.",0.2632119357585907,0.008337285369634628,0.7284508347511292,neutral,0.25487464666366577
+5,2016-08-18 07:40:00,"So why would the number one CRM player in the world spend nearly $3 billion to buy Demandware (NYSE:DWRE), an e-commerce software platform and the kind of company that you would rely on to take care of all your online business.",0.11928603053092957,0.012150375172495842,0.8685635924339294,neutral,0.10713565349578857
+6,2016-08-18 07:40:00,"AAAThe capabilities within the Demandware Commerce Cloud are organized into several functional categories: experience capabilities enable retailers to orchestrate content, products, pricing and promotions to engage consumers; with operations capabilities, retailers can extend core functions across all channels, connecting fulfillment and back-office functions; and intelligence capabilities enhance the retailersAAA ability to be data-driven with business insights and consumer personalization.",0.1519189178943634,0.006280873902142048,0.8418002128601074,neutral,0.14563804864883423
+7,2016-08-18 07:40:00,"Together, these capabilities power commerce across all channels AAA mobile, web, kiosk, store, call center, and others AAA and from shopping to fulfillment to customer experience.AAADemandware
+
+Note how Demandware highlights operational capabilities, while explaining their expertise.",0.11625289171934128,0.005713371094316244,0.8780337572097778,neutral,0.1105395182967186
+8,2016-08-18 07:40:00,Demandware can take care of all operational work starting from content management to taking care of back office work.,0.015765471383929253,0.008882182650268078,0.97535240650177,neutral,0.006883288733661175
+9,2016-08-18 07:40:00,This is a huge strategic acquisition for Salesforce.,0.7093934416770935,0.01094321720302105,0.2796633243560791,positive,0.6984502077102661
+10,2016-08-18 07:40:00,"It clearly shows that the company is moving deep into offering business solutions and does not want to be known just as a CRM player, so it is slowly building its offerings into an end-to-end solution.",0.7913282513618469,0.011103560216724873,0.19756822288036346,positive,0.7802246809005737
+11,2016-08-18 07:40:00,"Businesses have already reached a point where they need to have an online presence to exist and Salesforce wants to position itself as not only a supporter of sales, but also a provider of sales operations solutions.",0.750609278678894,0.011291607283055782,0.2380991280078888,positive,0.7393176555633545
+12,2016-08-18 07:40:00,"And that includes analytics, which Salesforce did not have in its quiver of capabilities.",0.012140360660851002,0.057170938700437546,0.9306886792182922,neutral,-0.04503057897090912
+13,2016-08-18 07:40:00,"That came in the form of Beyondcore , a startup that builds business analytics tools.",0.3391094505786896,0.008960862644016743,0.6519297361373901,neutral,0.3301485776901245
+14,2016-08-18 07:40:00,"Now, I do not necessarily condone the amount of money that Salesforce is spending on acquiring new capabilities when they are already splurging half their revenues every month on customer acquisition.",0.03648649901151657,0.02771286480128765,0.9358006715774536,neutral,0.00877363421022892
+15,2016-08-18 07:40:00,"These expenses might appear under a different account head, but with sales and marketing already exceeding 50% of gross revenues, these acquisitions are bound to hit their cash position in a negative way.",0.020347414538264275,0.9558510184288025,0.02380150742828846,negative,-0.9355036020278931
+16,2016-08-18 07:40:00,"And with the company running negative on profitability, one could
+
+Warning!",0.029193220660090446,0.8220242857933044,0.14878244698047638,negative,-0.7928310632705688
+17,2016-08-18 07:40:00,GuruFocus has detected 5 Warning Signs with GOOG.,0.046291105449199677,0.8968854546546936,0.056823406368494034,negative,-0.8505943417549133
+18,2016-08-18 07:40:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+19,2016-08-18 07:40:00,"The intrinsic value of GOOG
+
+Warning!",0.09601510316133499,0.0665905550122261,0.8373943567276001,neutral,0.029424548149108887
+20,2016-08-18 07:40:00,GuruFocus has detected 4 Warning Sign with ABT.,0.0419246107339859,0.9021856784820557,0.05588972568511963,negative,-0.860261082649231
+21,2016-08-18 07:40:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+22,2016-08-18 07:40:00,"The intrinsic value of ABT
+
+Warning!",0.07724151015281677,0.019147567451000214,0.9036109447479248,neutral,0.05809394270181656
+23,2016-08-18 07:40:00,GuruFocus has detected 4 Warning Signs with CRM.,0.07610899209976196,0.8194312453269958,0.1044597178697586,negative,-0.7433222532272339
+24,2016-08-18 07:40:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+25,2016-08-18 07:40:00,"The intrinsic value of CRM
+
+About GuruFocus: GuruFocus.com tracks the stocks picks and portfolio holdings of the world's best investors.",0.02791484072804451,0.00714394636452198,0.964941143989563,neutral,0.02077089436352253
+26,2016-08-18 07:40:00,This value investing site offers stock screeners and valuation tools.,0.03417489305138588,0.006519665941596031,0.9593054056167603,neutral,0.02765522710978985
+27,2016-08-18 07:40:00,And publishes daily articles tracking the latest moves of the world's best investors.,0.03742823377251625,0.006741959135979414,0.9558297991752625,neutral,0.03068627417087555
+28,2016-08-18 07:40:00,GuruFocus also provides promising stock ideas in 3 monthly newsletters sent to Premium Members .,0.20221388339996338,0.007654124870896339,0.7901319265365601,neutral,0.1945597529411316
+29,2016-08-18 07:40:00,This article first appeared on GuruFocus .,0.018785500898957253,0.014738528989255428,0.9664759039878845,neutral,0.004046971909701824
+30,2016-08-18 07:40:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

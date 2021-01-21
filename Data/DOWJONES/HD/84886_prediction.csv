@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-01 06:21:00,"In recent trading, shares of Home Depot Inc (Symbol: HD) have crossed above the average analyst 12-month target price of $177.72, changing hands for $179.82/share.",0.8884468674659729,0.07190880179405212,0.039644304662942886,positive,0.8165380954742432
+1,2017-12-01 06:21:00,"When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation, or, re-adjust their target price to a higher level.",0.11153622716665268,0.02418411709368229,0.8642796277999878,neutral,0.08735211193561554
+2,2017-12-01 06:21:00,"Analyst reaction may also depend on the fundamental business developments that may be responsible for driving the stock price higher - if things are looking up for the company, perhaps it is time for that target price to be raised.",0.7517263293266296,0.024296877905726433,0.22397679090499878,positive,0.7274294495582581
+3,2017-12-01 06:21:00,"There are 18 different analyst targets contributing to that average for Home Depot Inc, but the average is just that - a mathematical average.",0.024280022829771042,0.025015249848365784,0.9507047533988953,neutral,-0.0007352270185947418
+4,2017-12-01 06:21:00,"There are analysts with lower targets than the average, including one looking for a price of $141.00.",0.020144445821642876,0.9073624014854431,0.07249321043491364,negative,-0.8872179388999939
+5,2017-12-01 06:21:00,And then on the other side of the spectrum one analyst has a target as high as $192.00.,0.11700071394443512,0.029789907857775688,0.853209376335144,neutral,0.08721080422401428
+6,2017-12-01 06:21:00,The standard deviation is $12.736.,0.05213593691587448,0.04312961548566818,0.9047344326972961,neutral,0.009006321430206299
+7,2017-12-01 06:21:00,"But the whole reason to look at the average HD price target in the first place is to tap into a ""wisdom of crowds"" effort, putting together the contributions of all the individual minds who contributed to the ultimate number, as opposed to what just one particular expert believes.",0.11833752691745758,0.027733705937862396,0.853928804397583,neutral,0.09060382097959518
+8,2017-12-01 06:21:00,"And so with HD crossing above that average target price of $177.72/share, investors in HD have been given a good signal to spend fresh time assessing the company and deciding for themselves: is $177.72 just one stop on the way to an even higher target, or has the valuation gotten stretched to the point where it is time to think about taking some chips off the table?",0.2661530375480652,0.27427971363067627,0.45956721901893616,neutral,-0.008126676082611084
+9,2017-12-01 06:21:00,"Below is a table showing the current thinking of the analysts that cover Home Depot Inc:
+
+The average rating presented in the last row of the above table above is from 1 to 5 where 1 is Strong Buy and 5 is Strong Sell.",0.027967123314738274,0.01698378287255764,0.9550490975379944,neutral,0.010983340442180634
+10,2017-12-01 06:21:00,This article used data provided by Zacks Investment Research via Quandl.com .,0.015573251992464066,0.00797034241259098,0.9764564037322998,neutral,0.007602909579873085
+11,2017-12-01 06:21:00,Get the latest Zacks research report on HD - FREE .,0.03312917426228523,0.015267233364284039,0.9516035318374634,neutral,0.01786193996667862
+12,2017-12-01 06:21:00,"The Top 25 Broker Analyst Picks of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010626810602843761,0.017950238659977913,0.9714229106903076,neutral,-0.0073234280571341515

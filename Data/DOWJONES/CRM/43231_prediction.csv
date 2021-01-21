@@ -1,0 +1,454 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-20 07:29:00,"In this episode of Motley Fool Money, our host Chris Hill is joined by Motley Fool senior analysts Jason Moser, Emily Flippen, and Ron Gross.",0.046385202556848526,0.01438868511468172,0.9392261505126953,neutral,0.03199651837348938
+1,2020-02-20 07:29:00,They bring us the latest headlines from Wall Street and discuss stocks across various industries.,0.051927175372838974,0.007258339785039425,0.9408144950866699,neutral,0.044668834656476974
+2,2020-02-20 07:29:00,Kellogg's (NYSE: K) is joining the bandwagon of plant-based proteins.,0.1817801147699356,0.008476908318698406,0.8097429275512695,neutral,0.17330320179462433
+3,2020-02-20 07:29:00,We have fried-chicken-scented footwear and many other interesting stories.,0.04841912165284157,0.006724862847477198,0.9448559880256653,neutral,0.04169425740838051
+4,2020-02-20 07:29:00,"And finally, we look at the latest updates on coronavirus, a round of buy, sell, and hold, and three stocks to put on your watch list.",0.02754337340593338,0.00865150522440672,0.9638051390647888,neutral,0.018891867250204086
+5,2020-02-20 07:29:00,"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",0.04401024803519249,0.02094588615000248,0.9350439310073853,neutral,0.02306436188519001
+6,2020-02-20 07:29:00,"To get started investing, check out our quick-start guide to investing in stocks.",0.07803143560886383,0.00962066650390625,0.9123478531837463,neutral,0.06841076910495758
+7,2020-02-20 07:29:00,A full transcript follows the video.,0.01917308010160923,0.010780171491205692,0.9700466990470886,neutral,0.008392908610403538
+8,2020-02-20 07:29:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have an investing tip, it can pay to listen.",0.14467975497245789,0.019747961312532425,0.8355723023414612,neutral,0.12493179738521576
+9,2020-02-20 07:29:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+10,2020-02-20 07:29:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+11,2020-02-20 07:29:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+12,2020-02-20 07:29:00,"This video was recorded on Feb. 14, 2020.",0.017890118062496185,0.009125319309532642,0.9729846119880676,neutral,0.008764798752963543
+13,2020-02-20 07:29:00,"Chris Hill: We begin with three record highs, and first up is Nvidia (NASDAQ: NVDA).",0.09116480499505997,0.009452259168028831,0.899383008480072,neutral,0.08171254396438599
+14,2020-02-20 07:29:00,Fourth-quarter profits came in higher than expected for the semiconductor company.,0.9488096237182617,0.025893274694681168,0.02529713697731495,positive,0.9229163527488708
+15,2020-02-20 07:29:00,"Shares of Nvidia up more than 15% this week, Jason.",0.9372895956039429,0.02770959585905075,0.03500081226229668,positive,0.9095799922943115
+16,2020-02-20 07:29:00,"The inventory problems of a while ago, are those gone?",0.0364547073841095,0.27482011914253235,0.6887251734733582,neutral,-0.23836541175842285
+17,2020-02-20 07:29:00,"Jason Moser: Yeah, I think so.",0.08917910605669022,0.0257271695882082,0.8850937485694885,neutral,0.06345193833112717
+18,2020-02-20 07:29:00,"I mean it is a good business, I think they were dealing with a stretch of challenging times, albeit self-inflicted.",0.5755090117454529,0.019034188240766525,0.4054568409919739,positive,0.5564748048782349
+19,2020-02-20 07:29:00,"But their inventory concerns, I think a lot of that was related to crypto.",0.024204926565289497,0.21388551592826843,0.7619096040725708,neutral,-0.18968059122562408
+20,2020-02-20 07:29:00,"For context, there is no mention of crypto or bitcoin in the call this quarter.",0.012072283774614334,0.027783602476119995,0.9601441025733948,neutral,-0.01571131870150566
+21,2020-02-20 07:29:00,So I think they've put that behind them.,0.09005242586135864,0.0938945859670639,0.8160529136657715,neutral,-0.0038421601057052612
+22,2020-02-20 07:29:00,"A little bit of a good news/bad news quarter, depending on how you frame it.",0.02022060751914978,0.025579191744327545,0.9542002081871033,neutral,-0.005358584225177765
+23,2020-02-20 07:29:00,"But gaming was up 56% from a year ago, though it was down for the year 12%.",0.16067640483379364,0.8147305250167847,0.024593070149421692,negative,-0.6540541052818298
+24,2020-02-20 07:29:00,"Interesting data point here, the holiday season retailers stocked a record 125 different gaming laptops based on Nvidia technology.",0.18096967041492462,0.015384390018880367,0.8036459684371948,neutral,0.16558527946472168
+25,2020-02-20 07:29:00,That was up from 94 from a year ago.,0.9488075971603394,0.027339451014995575,0.02385294996201992,positive,0.9214681386947632
+26,2020-02-20 07:29:00,"Data center, which is another driver of revenue was really strong, up 43% from a year ago for the quarter.",0.954449474811554,0.026026181876659393,0.01952430047094822,positive,0.928423285484314
+27,2020-02-20 07:29:00,Full-year was actually up 2% to almost $3 billion for the business.,0.9528549313545227,0.019847698509693146,0.027297427877783775,positive,0.9330072402954102
+28,2020-02-20 07:29:00,And then automotive revenue was flat from a year ago.,0.022619739174842834,0.9564332365989685,0.020947033539414406,negative,-0.9338135123252869
+29,2020-02-20 07:29:00,"But full-year revenue for this segment of the business was $700 million, up 9%.",0.9357445240020752,0.031138036400079727,0.03311742842197418,positive,0.9046064615249634
+30,2020-02-20 07:29:00,"So, you can see some powerful drivers there in data center, in gaming and automotive.",0.09547114372253418,0.0062553249299526215,0.8982735276222229,neutral,0.08921581506729126
+31,2020-02-20 07:29:00,They've also recently entered into a collaboration with Tencent (OTC: TCEHY) to bring PC gaming to the cloud in China.,0.9104968905448914,0.012697456404566765,0.0768057182431221,positive,0.8977994322776794
+32,2020-02-20 07:29:00,"So I think there's some potential there, given Tencent's status in the gaming world.",0.5611027479171753,0.011149843223392963,0.42774736881256104,positive,0.5499529242515564
+33,2020-02-20 07:29:00,And they do continue just to make really big investments in AI.,0.578525960445404,0.010046291165053844,0.41142770648002625,positive,0.5684796571731567
+34,2020-02-20 07:29:00,A couple of months back we talked about this and they said on one of the calls that they saw AI as really the most powerful technology force of our time.,0.4165650010108948,0.010189794935286045,0.5732452273368835,neutral,0.4063751995563507
+35,2020-02-20 07:29:00,So that's getting a lot of their investment dollars these days.,0.10845056176185608,0.02209636941552162,0.8694530129432678,neutral,0.08635419607162476
+36,2020-02-20 07:29:00,But they can make their money in a number of different ways.,0.04265429824590683,0.007539119105786085,0.9498065710067749,neutral,0.03511517867445946
+37,2020-02-20 07:29:00,They reinvest a lot of their returns back into the company to continue that R&D to bring new technology to new lines of the business.,0.6994078755378723,0.010320900939404964,0.29027116298675537,positive,0.6890869736671448
+38,2020-02-20 07:29:00,"So all in all, I think the market has got this one right.",0.35205361247062683,0.018200093880295753,0.6297463178634644,neutral,0.33385351300239563
+39,2020-02-20 07:29:00,It was a good quarter.,0.7270506024360657,0.027539346367120743,0.24541008472442627,positive,0.6995112299919128
+40,2020-02-20 07:29:00,Emily Flippen: Yeah.,0.15745215117931366,0.06541435420513153,0.7771334648132324,neutral,0.09203779697418213
+41,2020-02-20 07:29:00,I have to wonder.,0.08270195871591568,0.07695774734020233,0.8403403162956238,neutral,0.005744211375713348
+42,2020-02-20 07:29:00,And I think this is a little bit far out in terms of the time frame we're looking at.,0.020525820553302765,0.025368882343173027,0.9541052579879761,neutral,-0.004843061789870262
+43,2020-02-20 07:29:00,"But the move to cloud gaming, not just in China but in the U.S., too, might be kind of an underappreciated catalyst for a company like Nvidia.",0.025477716699242592,0.92803955078125,0.046482738107442856,negative,-0.9025618433952332
+44,2020-02-20 07:29:00,"The technology we have right now isn't quite there, but in a matter of years I think cloud gaming might become the norm.",0.060296542942523956,0.006291607394814491,0.9334118962287903,neutral,0.054004937410354614
+45,2020-02-20 07:29:00,Moser: Yeah.,0.16852477192878723,0.04414665326476097,0.7873285412788391,neutral,0.12437811493873596
+46,2020-02-20 07:29:00,"I think you're right, I mean it's 5G and then -- I can't believe we're already working on 10G, I think, from what I've heard.",0.12052281945943832,0.010539878159761429,0.8689373135566711,neutral,0.1099829375743866
+47,2020-02-20 07:29:00,"I mean it really does boil down to latencies as these new generation of connections come online, that latency becomes less and less of an issue and things like cloud gaming really do start to gain traction.",0.081666000187397,0.012895278632640839,0.9054387211799622,neutral,0.06877072155475616
+48,2020-02-20 07:29:00,"Ron Gross: I just have a question, does a game like Fortnite, that's not on the cloud -- you have to actually download that, right?",0.031001847237348557,0.024840688332915306,0.9441574811935425,neutral,0.00616115890443325
+49,2020-02-20 07:29:00,That has not migrated yet?,0.10101021081209183,0.14341308176517487,0.7555766701698303,neutral,-0.04240287095308304
+50,2020-02-20 07:29:00,Flippen: It has not migrated.,0.017236391082406044,0.05918043851852417,0.9235830903053284,neutral,-0.041944049298763275
+51,2020-02-20 07:29:00,"Cloud gaming can be a little bit confusing, but the idea is that there are servers centralized somewhere else other than the computer or console that you're playing on and you're quite literally streaming a game instead of downloading it and you can move it from device to device.",0.031719207763671875,0.03106103092432022,0.9372197389602661,neutral,0.000658176839351654
+52,2020-02-20 07:29:00,"A game like Fortnite is downloadable and then played online, which is different.",0.028553800657391548,0.0455218143761158,0.9259243607521057,neutral,-0.01696801371872425
+53,2020-02-20 07:29:00,Moser: Yeah.,0.16852477192878723,0.04414665326476097,0.7873285412788391,neutral,0.12437811493873596
+54,2020-02-20 07:29:00,"And then the advent of edge computing, remember we talked about Limelight Networks last week, edge computing is another piece of that bigger puzzle that I think is going to help on that latency side.",0.1817091554403305,0.008694102987647057,0.8095967173576355,neutral,0.1730150580406189
+55,2020-02-20 07:29:00,"So you will see that cloud gaming pick up steam, I think.",0.4325007200241089,0.01569032482802868,0.5518088936805725,neutral,0.41681039333343506
+56,2020-02-20 07:29:00,Hill: Shopify's (NYSE: SHOP) fourth-quarter revenue was up nearly 50% compared to a year ago.,0.9581212401390076,0.02255278080701828,0.019325945526361465,positive,0.9355684518814087
+57,2020-02-20 07:29:00,"Shopify's guidance for 2020 also got Wall Street's attention in a good way, Emily, shares up 12% this week, hitting a record high.",0.9381139874458313,0.02704576775431633,0.03484027087688446,positive,0.9110682010650635
+58,2020-02-20 07:29:00,Flippen: I love that.,0.3383510410785675,0.01693294197320938,0.6447160243988037,neutral,0.3214181065559387
+59,2020-02-20 07:29:00,"Shares are up 12% this week, but since November, before the earnings, the stock was up something like 70%.",0.886031985282898,0.03034483827650547,0.0836232379078865,positive,0.855687141418457
+60,2020-02-20 07:29:00,"I mean, it has been a company that has been on fire even over the past few months.",0.05930494889616966,0.1853717565536499,0.7553233504295349,neutral,-0.12606680393218994
+61,2020-02-20 07:29:00,"I'm not going to lie, I was hoping it would be a good quarter and the market would just hammer them, because this is a company that I think every investor should own in their portfolio.",0.2520316541194916,0.023159591481089592,0.7248088121414185,neutral,0.22887206077575684
+62,2020-02-20 07:29:00,"Unfortunately, it's just -- because it's been such a high-flying company, there really doesn't seem to be any attractive entry point here.",0.041821226477622986,0.04895540699362755,0.9092233180999756,neutral,-0.007134180516004562
+63,2020-02-20 07:29:00,Their great quarter was a result of an increase in not only the people selling on [the] Shopify platform.,0.8564446568489075,0.016658606007695198,0.12689676880836487,positive,0.8397860527038574
+64,2020-02-20 07:29:00,"So for anybody who's not familiar with Shopify, they host essentially the back end systems that many online stores run off of.",0.015363272279500961,0.038944460451602936,0.945692241191864,neutral,-0.023581188172101974
+65,2020-02-20 07:29:00,"So if you're buying something that's not on Amazon, it's more than likely that they're using a source like Shopify to run their online store.",0.017836613580584526,0.021061750128865242,0.9611015915870667,neutral,-0.003225136548280716
+66,2020-02-20 07:29:00,"So a lot more people selling on their platform, but more importantly, a lot more people using what they call merchant solutions.",0.05799657106399536,0.007719075307250023,0.9342843890190125,neutral,0.05027749389410019
+67,2020-02-20 07:29:00,"This is Shopify fulfillment, shipping, payment processing, the opportunities here are really endless.",0.14580771327018738,0.0061635179445147514,0.8480287790298462,neutral,0.13964419066905975
+68,2020-02-20 07:29:00,"Unfortunately, because Shopify has been on such a tear, it's a really highly valued company.",0.290920227766037,0.018119709566235542,0.6909601092338562,neutral,0.2728005051612854
+69,2020-02-20 07:29:00,And there's a lot of argument to be made that the opportunity for Shopify isn't as big in terms of the number of merchants that they can achieve on their platform as some people have made it out to be.,0.3503590226173401,0.017041640356183052,0.6325992941856384,neutral,0.333317369222641
+70,2020-02-20 07:29:00,Gross: Did I actually just hear you talk about valuation?,0.04732836037874222,0.09038858115673065,0.8622831106185913,neutral,-0.043060220777988434
+71,2020-02-20 07:29:00,Moser: I don't understand what the problem is?,0.058333758264780045,0.5005958676338196,0.44107040762901306,negative,-0.44226211309432983
+72,2020-02-20 07:29:00,"I mean, the stock is only trading at 1,900 times trailing adjusted earnings.",0.012938657775521278,0.04599133878946304,0.941070020198822,neutral,-0.033052682876586914
+73,2020-02-20 07:29:00,"I mean, you know --
+
+Gross: You have no vision, Jason.",0.03851471468806267,0.12316133826971054,0.8383239507675171,neutral,-0.08464662730693817
+74,2020-02-20 07:29:00,"Flippen: I will say, I hate letting valuation keep me out of a good company, and I own some Shopify.",0.038578182458877563,0.47969579696655273,0.4817259609699249,neutral,-0.44111761450767517
+75,2020-02-20 07:29:00,"I've been meaning to increase my position, I'm kicking myself for not doing that previously, but I do think this is a company that, when I look forward six to nine months, it's probably overdue for some sort of pullback.",0.8338574171066284,0.028371378779411316,0.13777123391628265,positive,0.8054860234260559
+76,2020-02-20 07:29:00,"No idea if it's going to be a pullback that brings it down to prices before where it is today, but if and when that happens, I think I'm going to jump.",0.1665138155221939,0.07824157923460007,0.7552446722984314,neutral,0.08827223628759384
+77,2020-02-20 07:29:00,"Moser: You know, I like payments, Chris.",0.10251398384571075,0.03289186581969261,0.8645941615104675,neutral,0.06962211430072784
+78,2020-02-20 07:29:00,"And the neat thing about Shopify is, we talk a lot about Square and PayPal and companies like that.",0.03296155855059624,0.008017528802156448,0.9590209722518921,neutral,0.02494402974843979
+79,2020-02-20 07:29:00,"Stripe is another company in that space, while it's not public, Stripe is the payments provider for Shopify.",0.020275060087442398,0.007662509102374315,0.9720624089241028,neutral,0.01261255145072937
+80,2020-02-20 07:29:00,So when you see all of that gross merchandise volume flowing through Shopify's networks and they're using Shopify payments.,0.023760851472616196,0.00908521469682455,0.9671539664268494,neutral,0.014675636775791645
+81,2020-02-20 07:29:00,"If you're an investor in Shopify, you do actually get a little exposure to Stripe.",0.08048206567764282,0.008216232992708683,0.9113017320632935,neutral,0.07226583361625671
+82,2020-02-20 07:29:00,"I just think that's kind of a nice way to look at it, Ron.",0.14882659912109375,0.016459859907627106,0.8347135186195374,neutral,0.13236674666404724
+83,2020-02-20 07:29:00,Hill: Shares of Pepsi (NASDAQ: PEP) hitting a record high this week after fourth-quarter profits and revenue came in higher than expected.,0.9365195631980896,0.03290850669145584,0.030571915209293365,positive,0.9036110639572144
+84,2020-02-20 07:29:00,"Nice way to wrap up the fiscal year, Ron.",0.27716338634490967,0.02096916362643242,0.7018675208091736,neutral,0.25619423389434814
+85,2020-02-20 07:29:00,"Gross: Yeah, beat expectations but guidance was weak, which I think investors were focused on but overall really nice report with organic revenue up 4%.",0.7111827731132507,0.2439892292022705,0.04482796788215637,positive,0.4671935439109802
+86,2020-02-20 07:29:00,"Frito-Lay did a nice job with 3% organic revenue growth, and that was driven by 2% volume growth and 1% growth due to price increases, so they were able to drive total growth.",0.9242516756057739,0.015450958162546158,0.060297347605228424,positive,0.9088007211685181
+87,2020-02-20 07:29:00,"Through both methods PepsiCo beverages of North America also 3% revenue growth, fastest rate of growth in four years for them.",0.9518526792526245,0.02087654173374176,0.027270879596471786,positive,0.930976152420044
+88,2020-02-20 07:29:00,"Their trademark Pepsi brand, which is actually Pepsi, the drink, posted a sixth consecutive quarter of net revenue growth thanks to strong double-digit growth in Pepsi Zero Sugar, which I have never tried and probably will not.",0.9446485042572021,0.014329345896840096,0.0410221628844738,positive,0.9303191304206848
+89,2020-02-20 07:29:00,"They're being innovative, which you have to be in this space.",0.14243704080581665,0.006988340523093939,0.8505746722221375,neutral,0.13544869422912598
+90,2020-02-20 07:29:00,"So Gatorade Zero, Bubly Sparkling, Mountain Dew, Game Fuel -- which I also have never tried.",0.05580965429544449,0.024805141612887383,0.9193851351737976,neutral,0.031004512682557106
+91,2020-02-20 07:29:00,"Hill: I don't think you're the target, probably.",0.03321266174316406,0.07870706915855408,0.8880802392959595,neutral,-0.045494407415390015
+92,2020-02-20 07:29:00,"[laughs]
+
+Gross: [laughs] Now, cumulatively over $1 billion in retail sales from just those three new beverages.",0.18726293742656708,0.0161437951028347,0.7965932488441467,neutral,0.17111913859844208
+93,2020-02-20 07:29:00,"So they're being innovative, which is essential, and we'll continue to see new launches that are healthier and have different sizing.",0.5859830975532532,0.009886074811220169,0.40413084626197815,positive,0.5760970115661621
+94,2020-02-20 07:29:00,"Flippen: I know we're joking about all the Pepsi Zeros and the different sodas coming out today, but I think it's actually playing off of an important trend, it's a trend that we see in the alcohol industry with the emergence of hard seltzers, that is, people looking for water-like beverages that are packaged in really appealing ways, that come -- like you mentioned -- in different sizes.",0.03184401988983154,0.01991935633122921,0.9482367038726807,neutral,0.011924663558602333
+95,2020-02-20 07:29:00,That's probably an underrated opportunity for companies like this.,0.5262835621833801,0.015650393441319466,0.45806601643562317,positive,0.5106331706047058
+96,2020-02-20 07:29:00,Gross: Yeah.,0.1447022259235382,0.09308457374572754,0.7622132301330566,neutral,0.05161765217781067
+97,2020-02-20 07:29:00,"Because things look pretty strong, I think, investors were surprised that guidance was weak, only calling for 6% earnings growth in 2020, which was less than certainly the analyst community was thinking about.",0.07345814257860184,0.8451935052871704,0.08134834468364716,negative,-0.7717353701591492
+98,2020-02-20 07:29:00,"They did announce a 7% increase in the dividend, which is nice 2.8%, not too shabby for a company like Pepsi, trading at 25 times, right in line with Coca-Cola -- not cheap, not screamingly expensive, either.",0.9146026372909546,0.022800469771027565,0.06259690970182419,positive,0.891802191734314
+99,2020-02-20 07:29:00,"Hill: Roku's stock did not hit a new high this week, but fourth-quarter results beat on the top and bottom line, and the video streaming company ended the fiscal year with just under 37 million active accounts.",0.21661542356014252,0.5486847758293152,0.2346997857093811,negative,-0.3320693373680115
+100,2020-02-20 07:29:00,"Jason, not hitting a new high this week, but Roku's stock has nearly tripled over the past year.",0.8553892970085144,0.033419571816921234,0.11119116097688675,positive,0.821969747543335
+101,2020-02-20 07:29:00,Moser: Yeah.,0.16852477192878723,0.04414665326476097,0.7873285412788391,neutral,0.12437811493873596
+102,2020-02-20 07:29:00,"I mean, in this world of adjusted EBITDA -- and as Charlie Munger so eloquently put it, ""BS earnings,"" right, you guys read that this week -- it's easy to become disenchanted with businesses that aren't making money yet, and Roku certainly falls into that category.",0.05084044486284256,0.04741772264242172,0.9017418622970581,neutral,0.0034227222204208374
+103,2020-02-20 07:29:00,But I don't think Roku is the type of business you should be disenchanted with.,0.018179958686232567,0.033245548605918884,0.948574423789978,neutral,-0.015065589919686317
+104,2020-02-20 07:29:00,And that really is because of the market that it focuses on.,0.04598093405365944,0.006412547547370195,0.9476065039634705,neutral,0.03956838697195053
+105,2020-02-20 07:29:00,It really is just a tremendously resilient and growing market in entertainment.,0.5620361566543579,0.009994888678193092,0.4279688596725464,positive,0.5520412921905518
+106,2020-02-20 07:29:00,"And as you mentioned, they added 4.6 million active accounts.",0.22612161934375763,0.011675436049699783,0.7622029185295105,neutral,0.21444618701934814
+107,2020-02-20 07:29:00,The ARPU -- average revenue per user -- up 29% year-over-year to $23.14.,0.947357177734375,0.02713179402053356,0.02551102638244629,positive,0.9202253818511963
+108,2020-02-20 07:29:00,"It is interesting to see the dynamics of the way this business plays out, because when it came public, we knew Roku as this little box that you buy for your TV.",0.040866829454898834,0.005961130373179913,0.9531720280647278,neutral,0.03490569815039635
+109,2020-02-20 07:29:00,"And I mean, hardware is a race to the bottom, what are they doing?",0.05192289128899574,0.14021292328834534,0.8078641891479492,neutral,-0.08829003572463989
+110,2020-02-20 07:29:00,But really it was just the beginning of their pivot over to becoming more of a platform.,0.3728067874908447,0.011948577128350735,0.6152446269989014,neutral,0.3608582019805908
+111,2020-02-20 07:29:00,"And what we're seeing play out is pretty impressive, platform revenue up 71% for the year or for the quarter to $260 million, player revenue was actually up 22%.",0.9384908080101013,0.01590486243367195,0.04560432583093643,positive,0.9225859642028809
+112,2020-02-20 07:29:00,"But when you take a little bit further down the line, gross profit shows where the puck is headed with platform gross profits up 48% but player gross profit down a 125%.",0.6703689098358154,0.13445644080638885,0.1951746642589569,positive,0.5359124541282654
+113,2020-02-20 07:29:00,"And yes, that means it lost money, but that's OK, that's intentional.",0.06828578561544418,0.6858002543449402,0.24591390788555145,negative,-0.6175144910812378
+114,2020-02-20 07:29:00,"They are calling for $1.6 billion in revenue for 2020, that's 42% growth from a year ago.",0.9437755346298218,0.018724091351032257,0.03750046715140343,positive,0.9250514507293701
+115,2020-02-20 07:29:00,"Real profitability is still something we can dream about, but I do like their chances, they're making a lot of investments.",0.42537811398506165,0.010664217174053192,0.563957691192627,neutral,0.41471388936042786
+116,2020-02-20 07:29:00,"And you have to remember, too, the international story for this business has only just begun.",0.1801188588142395,0.00889864657074213,0.8109824657440186,neutral,0.17122021317481995
+117,2020-02-20 07:29:00,"And I do think that there is a very big opportunity out there in more cost-sensitive economies where ad-supported streaming is a much more attractive offering, that's where Roku really has an opportunity to shine.",0.8344751596450806,0.012187911197543144,0.15333692729473114,positive,0.8222872614860535
+118,2020-02-20 07:29:00,"Flippen: Roku has been slow to the international uptake, though, in some markets.",0.26492100954055786,0.6270783543586731,0.10800070315599442,negative,-0.36215734481811523
+119,2020-02-20 07:29:00,"They're just really now penetrating Europe, and it'll be interesting to watch over the next six to 12 months how well they expand internationally.",0.45861613750457764,0.010405401699244976,0.5309784412384033,neutral,0.448210746049881
+120,2020-02-20 07:29:00,"But I'll just remind listeners, and this is probably a repeat for many people who have heard us talk about Roku before, but part of the value proposition for Roku has always been about the revenue that they get from people who are signing up for streaming partners on their platform, they get a portion of that monthly revenue.",0.08043535053730011,0.006911971606314182,0.9126526713371277,neutral,0.0735233798623085
+121,2020-02-20 07:29:00,"And that's recurring revenue, subscription revenue, that's extremely powerful.",0.344779908657074,0.008992365561425686,0.6462277173995972,neutral,0.3357875347137451
+122,2020-02-20 07:29:00,"Analyst Ben Ra and I were talking the other day, and the question he asked me is that, ""How many people do you think are signing up for Disney+ directly?",0.07467899471521378,0.009938983246684074,0.9153819680213928,neutral,0.06474000960588455
+123,2020-02-20 07:29:00,"You know, going to Disney+ themselves to sign up?""",0.1468307226896286,0.030088111758232117,0.8230811953544617,neutral,0.11674261093139648
+124,2020-02-20 07:29:00,"And I said I was thinking to myself, probably not that many.",0.06034529209136963,0.12267846614122391,0.8169763088226318,neutral,-0.06233317404985428
+125,2020-02-20 07:29:00,He mentioned they have an agreement with -- I believe it was Verizon.,0.32510027289390564,0.0232447050511837,0.6516550183296204,neutral,0.30185556411743164
+126,2020-02-20 07:29:00,"But additionally, people are signing up on Roku's platforms.",0.6749371886253357,0.013697280548512936,0.31136554479599,positive,0.6612399220466614
+127,2020-02-20 07:29:00,"I mean, that's how they access these players.",0.03891642019152641,0.00628839572891593,0.9547951817512512,neutral,0.032628025859594345
+128,2020-02-20 07:29:00,"Hill: Yeah, the CEO talked about that recently.",0.041514378041028976,0.014406709931790829,0.9440788626670837,neutral,0.027107667177915573
+129,2020-02-20 07:29:00,Moser: [laughs] Don't hurt yourself patting yourself on the back.,0.0956980362534523,0.545525848865509,0.3587760329246521,negative,-0.44982782006263733
+130,2020-02-20 07:29:00,"Hill: [laughs] Yeah, I mean, he took a little bit of credit for the Disney+ subscription numbers, and probably rightly so.",0.232542484998703,0.025781797245144844,0.7416757345199585,neutral,0.2067606896162033
+131,2020-02-20 07:29:00,"Moser: Yeah, I don't begrudge him that; it's a nice way to toot your own horn.",0.11096850037574768,0.041496217250823975,0.847535252571106,neutral,0.0694722831249237
+132,2020-02-20 07:29:00,"And let's face it, when you look at this opportunity, Amazon and Roku are really separating themselves from the pack.",0.04411964491009712,0.5053094029426575,0.4505709707736969,negative,-0.46118974685668945
+133,2020-02-20 07:29:00,And that always kind of made me wonder.,0.14788976311683655,0.17371869087219238,0.6783915758132935,neutral,-0.025828927755355835
+134,2020-02-20 07:29:00,"I just feel like Roku would be an ideal acquisition for Amazon for them to really stake their claim in this entertainment space, but they decided to go with Whole Foods instead.",0.33316588401794434,0.008725524879992008,0.6581085324287415,neutral,0.3244403600692749
+135,2020-02-20 07:29:00,"I mean, I don't know what the world is coming to, Chris.",0.03460497781634331,0.07891310751438141,0.8864818811416626,neutral,-0.0443081296980381
+136,2020-02-20 07:29:00,Hill: Mattel's (NASDAQ: MAT) fourth-quarter results had a familiar feeling.,0.27833637595176697,0.018403206020593643,0.7032603621482849,neutral,0.2599331736564636
+137,2020-02-20 07:29:00,"Sales of Barbie rose, while the American Girl and Fisher-Price segments fell.",0.035509366542100906,0.9445714950561523,0.019919143989682198,negative,-0.9090621471405029
+138,2020-02-20 07:29:00,"Silver lining, Ron, I guess Mattel is cutting costs, so that's going well.",0.8926349878311157,0.04637570679187775,0.060989297926425934,positive,0.8462592959403992
+139,2020-02-20 07:29:00,Moser: [laughs] You nailed it; we're done here.,0.25806716084480286,0.0692308098077774,0.6727020144462585,neutral,0.18883635103702545
+140,2020-02-20 07:29:00,"Hill: [laughs] Oh, OK. We can just move on.",0.0824904590845108,0.0346887931227684,0.8828207850456238,neutral,0.0478016659617424
+141,2020-02-20 07:29:00,Moser: Exceeded their 2019 cost-cutting target of $650 million by 35%; that is really the only reason they were able to turn an operating profit this time around.,0.9257038831710815,0.0396512970328331,0.03464486449956894,positive,0.8860526084899902
+142,2020-02-20 07:29:00,"Hasbro's Frozen 2 dolls were the hot ticket here, and that hurt Mattel, certainly, in the doll category.",0.02626182697713375,0.9387978911399841,0.03494022414088249,negative,-0.912536084651947
+143,2020-02-20 07:29:00,"There was some growth in Hot Wheels, Toy Story 4, and that created some growth opportunities.",0.8634588718414307,0.014601367525756359,0.12193984538316727,positive,0.8488575220108032
+144,2020-02-20 07:29:00,"But for the most part, this is a turnaround story of getting their cost structure right, moving to more digital offerings.",0.8289859294891357,0.01298830658197403,0.15802574157714844,positive,0.8159976005554199
+145,2020-02-20 07:29:00,"Baby Yoda toy is still ready or projected to come out in April; that, I think, will be a catalyst for some growth as well.",0.5990738272666931,0.012551477178931236,0.3883747160434723,positive,0.5865223407745361
+146,2020-02-20 07:29:00,"But really, it's a multiyear turnaround strategy that they're continuing to execute on.",0.7074964642524719,0.01035608071833849,0.28214746713638306,positive,0.6971403956413269
+147,2020-02-20 07:29:00,"Stock is relatively cheap at 17 times -- it's actually 17 times EBITDA, so it is not cheap.",0.04071297496557236,0.03633551299571991,0.9229514598846436,neutral,0.0043774619698524475
+148,2020-02-20 07:29:00,I take that back.,0.11647715419530869,0.06261008977890015,0.820912778377533,neutral,0.05386706441640854
+149,2020-02-20 07:29:00,It is extremely expensive [laughs] is what I meant to say.,0.028635909780859947,0.059626251459121704,0.9117377996444702,neutral,-0.030990341678261757
+150,2020-02-20 07:29:00,"So, I wouldn't touch this until you see more of a turnaround.",0.4422179162502289,0.014591909013688564,0.5431901812553406,neutral,0.42762601375579834
+151,2020-02-20 07:29:00,"Hill: Fourth-quarter revenue for Lyft (NASDAQ: LYFT) came in higher than expected, the company also saw an increase in active riders.",0.9555373787879944,0.02190302684903145,0.02255970984697342,positive,0.933634340763092
+152,2020-02-20 07:29:00,"But shares of Lyft are down more than 10% this week, Emily, because what?",0.018545249477028847,0.9376087188720703,0.04384604096412659,negative,-0.9190634489059448
+153,2020-02-20 07:29:00,Because of Uber?,0.09216015785932541,0.16107772290706635,0.7467621564865112,neutral,-0.06891756504774094
+154,2020-02-20 07:29:00,Why is this stock down?,0.0585041344165802,0.1443115770816803,0.7971843481063843,neutral,-0.0858074426651001
+155,2020-02-20 07:29:00,This is a good quarter.,0.5996859073638916,0.016013266518712044,0.3843008279800415,positive,0.5836726427078247
+156,2020-02-20 07:29:00,Flippen: It was a strong quarter for Lyft in the sense that they beat on both the top and the bottom lines.,0.9270326495170593,0.02182666026055813,0.05114072933793068,positive,0.9052059650421143
+157,2020-02-20 07:29:00,But remember that beating on the bottom line for them still means losing millions of dollars.,0.059041935950517654,0.7476904988288879,0.19326752424240112,negative,-0.6886485815048218
+158,2020-02-20 07:29:00,[laughs] So people were especially concerned because it seems like this endless void of cash churn.,0.06738884747028351,0.23349498212337494,0.6991161704063416,neutral,-0.16610613465309143
+159,2020-02-20 07:29:00,"Uber, obviously, previously increasing their guidance for when they think they could become profitable, Lyft did not adjust any profitability guidance.",0.04925817623734474,0.03368137776851654,0.9170604944229126,neutral,0.015576798468828201
+160,2020-02-20 07:29:00,That's still very far off in the future.,0.08210235834121704,0.131527841091156,0.786369800567627,neutral,-0.049425482749938965
+161,2020-02-20 07:29:00,End of 2021 is probably the earliest we're going to see that.,0.020206144079566002,0.017336204648017883,0.9624577164649963,neutral,0.0028699394315481186
+162,2020-02-20 07:29:00,"But their RevPAR, which I like.",0.07273591309785843,0.013508996926248074,0.9137551188468933,neutral,0.05922691524028778
+163,2020-02-20 07:29:00,"[laughs] It's like ARPU, but it's revenue per active rider, RevPAR.",0.12491212040185928,0.009178686887025833,0.865909218788147,neutral,0.11573342978954315
+164,2020-02-20 07:29:00,"It was up to over $44, which beat expectations.",0.9144201874732971,0.03889790177345276,0.046682026237249374,positive,0.875522255897522
+165,2020-02-20 07:29:00,All of this is to say that I do think the market has created a doomsday-like scenario for companies like Uber and like Lyft.,0.0546284019947052,0.36193034052848816,0.5834412574768066,neutral,-0.30730193853378296
+166,2020-02-20 07:29:00,"And that's not to say that they aren't, in some ways, dependent upon either increasing their revenues or decreasing their costs, obviously, to reach profitability in the future, but what is essentially a duopoly right now, they're not expressing very much pricing power.",0.03861401602625847,0.0465158112347126,0.9148701429367065,neutral,-0.007901795208454132
+167,2020-02-20 07:29:00,"And I think in the future, as people become accustomed to using these types of ridesharing apps as a part of their everyday life, people would be increasingly willing to pay slightly more for that.",0.4842967092990875,0.011770808137953281,0.5039324760437012,neutral,0.4725258946418762
+168,2020-02-20 07:29:00,So I think there [is] some pricing power that hasn't fully been expressed by Lyft here.,0.11164537072181702,0.03153940662741661,0.8568152189254761,neutral,0.08010596036911011
+169,2020-02-20 07:29:00,"Hill: Shares of Under Armour (NYSE: UA) (NYSE: UAA) down more than 15% this week, after fourth-quarter sales came in lower than expected, and, Jason, 2020 is not going to be any better.",0.019420040771365166,0.9705808758735657,0.00999912153929472,negative,-0.9511608481407166
+170,2020-02-20 07:29:00,"Moser: [laughs] Well, I was going to say.",0.05278700590133667,0.03715914487838745,0.9100538492202759,neutral,0.01562786102294922
+171,2020-02-20 07:29:00,"The good news is, the quarter was not as bad as the market would have you believe, the bad news, you guessed it, yeah, 2020 is really not looking good.",0.03512327000498772,0.6622728705406189,0.3026038110256195,negative,-0.6271495819091797
+172,2020-02-20 07:29:00,And that's where I think the market is focused and rightly so.,0.11496168375015259,0.013780624605715275,0.8712576627731323,neutral,0.10118106007575989
+173,2020-02-20 07:29:00,"For the quarter, sales were up 4%.",0.950506329536438,0.02007363922894001,0.029419999569654465,positive,0.9304326772689819
+174,2020-02-20 07:29:00,"Gross margin, actually, ticked up 230 basis points, thanks to some pricing.",0.9061494469642639,0.021820178255438805,0.07203030586242676,positive,0.8843292593955994
+175,2020-02-20 07:29:00,They continue to right-size inventory; remember they had some real issues with that over the past couple of years.,0.10652825236320496,0.4826123118400574,0.41085946559906006,negative,-0.3760840594768524
+176,2020-02-20 07:29:00,"But they've announced yet another restructuring effort, Chris, and we know that that is investor code for ""run, run far away as quickly as you can.""",0.21931059658527374,0.052728161215782166,0.7279613018035889,neutral,0.16658243536949158
+177,2020-02-20 07:29:00,"It's not to say that restructuring efforts won't work, but they will not work overnight, it's going to take some time.",0.03429257497191429,0.12555065751075745,0.8401567339897156,neutral,-0.09125807881355286
+178,2020-02-20 07:29:00,"North America continues to be a big point of weakness for the company, they're calling for mid- to high-single-digit declines in North America.",0.02532365918159485,0.934013307094574,0.04066302627325058,negative,-0.9086896181106567
+179,2020-02-20 07:29:00,So they're going to be ramping up some brand marketing spend there to try to stoke demand.,0.5469095706939697,0.013423675671219826,0.439666748046875,positive,0.5334858894348145
+180,2020-02-20 07:29:00,"And they do have some continued challenges in wholesale, so they need to earn their right to get back on the shelf there.",0.6736559867858887,0.025539526715874672,0.30080458521842957,positive,0.6481164693832397
+181,2020-02-20 07:29:00,You know it's imperative to me that Kevin Plank lets Patrik Frisk now run this business.,0.03823433071374893,0.01009274274110794,0.9516729712486267,neutral,0.02814158797264099
+182,2020-02-20 07:29:00,"And while Plank maintains a stake in the business and a title as brand ambassador or whatever, he needs to let Frisk run this business.",0.07807459682226181,0.008754315786063671,0.913171112537384,neutral,0.06932028383016586
+183,2020-02-20 07:29:00,"I will say, I found it a very positive sign that Kevin Plank wasn't even on this earnings call.",0.2793123126029968,0.09042093902826309,0.6302667260169983,neutral,0.18889138102531433
+184,2020-02-20 07:29:00,"I hope that he is not on any more of them, because I do think that he can cause more trouble than good at this point for the business.",0.04732091352343559,0.35009512305259705,0.6025838851928711,neutral,-0.30277422070503235
+185,2020-02-20 07:29:00,There are a lot of parallels with Chipotle here.,0.09021683037281036,0.01404692605137825,0.8957362174987793,neutral,0.07616990804672241
+186,2020-02-20 07:29:00,"I'm not saying this is a Chipotle-like story, but they're two companies where they make good stuff, people like them, they have very strong brand equity.",0.2816331088542938,0.010272604413330555,0.7080942988395691,neutral,0.27136051654815674
+187,2020-02-20 07:29:00,Clearly a leadership change was needed.,0.19468849897384644,0.19923685491085052,0.6060746312141418,neutral,-0.004548355937004089
+188,2020-02-20 07:29:00,They've made that change.,0.5065488815307617,0.017762184143066406,0.47568896412849426,positive,0.4887866973876953
+189,2020-02-20 07:29:00,Now let's see if new leadership can actually take this business in a new direction.,0.6448531150817871,0.012763000093400478,0.34238386154174805,positive,0.6320900917053223
+190,2020-02-20 07:29:00,It's certainly possible.,0.16938155889511108,0.02447306178510189,0.806145429611206,neutral,0.14490850269794464
+191,2020-02-20 07:29:00,"Like you've always said, they've got the hard part out of the way, they make good stuff, now they just need to run a good business.",0.24626506865024567,0.014681854285299778,0.7390530705451965,neutral,0.23158320784568787
+192,2020-02-20 07:29:00,Gross: Are they going to make queso?,0.022351671010255814,0.036028530448675156,0.9416197538375854,neutral,-0.013676859438419342
+193,2020-02-20 07:29:00,"[laughs]
+
+Moser: With or without stabilizers, I think that's really the sticking point, right?",0.04147254675626755,0.024260159581899643,0.9342672228813171,neutral,0.017212387174367905
+194,2020-02-20 07:29:00,"Hill: Restaurant Brands International (NYSE: QSR) is the parent company of Burger King, Popeyes, and Tim Hortons.",0.026165030896663666,0.005302096251398325,0.968532919883728,neutral,0.020862935110926628
+195,2020-02-20 07:29:00,Shares up a bit this week thanks to a fourth-quarter report that was highlighted by Popeyes' same-store sales increasing 38%.,0.9401344060897827,0.028049346059560776,0.031816259026527405,positive,0.9120850563049316
+196,2020-02-20 07:29:00,"[laughs] Ron, we've been doing this show since 2009, we have never talked about a restaurant that did that.",0.02896195277571678,0.014672640711069107,0.9563654065132141,neutral,0.014289312064647675
+197,2020-02-20 07:29:00,38% growth in same-store sales.,0.8803999423980713,0.03158862143754959,0.08801142871379852,positive,0.8488113284111023
+198,2020-02-20 07:29:00,"Gross: Thanks to the chicken sandwich, which I am on record as being not impressed with, but America loves that chicken sandwich.",0.08977488428354263,0.11156661063432693,0.7986584901809692,neutral,-0.021791726350784302
+199,2020-02-20 07:29:00,"Hill: You are the outlier, my friend.",0.1884121298789978,0.2124183624982834,0.5991694927215576,neutral,-0.024006232619285583
+200,2020-02-20 07:29:00,Gross: I am the outlier.,0.06834646314382553,0.2158196121454239,0.715833842754364,neutral,-0.14747315645217896
+201,2020-02-20 07:29:00,I think it's because I don't like mayonnaise; we've talked about it before.,0.034283626824617386,0.11495405435562134,0.8507623076438904,neutral,-0.08067043125629425
+202,2020-02-20 07:29:00,But it's extremely impressive.,0.261661559343338,0.010010479018092155,0.7283279299736023,neutral,0.2516510784626007
+203,2020-02-20 07:29:00,Popeyes is really getting it done for the company.,0.48078590631484985,0.010303801856935024,0.5089102983474731,neutral,0.47048211097717285
+204,2020-02-20 07:29:00,Burger King was fine as well.,0.25542646646499634,0.07448135316371918,0.6700921654701233,neutral,0.18094511330127716
+205,2020-02-20 07:29:00,Same-store sales growth up almost 3%.,0.9461522102355957,0.024356333538889885,0.029491465538740158,positive,0.9217959046363831
+206,2020-02-20 07:29:00,Some success with the Impossible Whopper driving growth there.,0.39772385358810425,0.03847478702664375,0.5638013482093811,neutral,0.3592490553855896
+207,2020-02-20 07:29:00,Tim Hortons is clearly the weak point here.,0.04212379828095436,0.7777373194694519,0.18013884127140045,negative,-0.7356135249137878
+208,2020-02-20 07:29:00,Comp sales down 4%.,0.019277624785900116,0.9667344093322754,0.013987887650728226,negative,-0.9474567770957947
+209,2020-02-20 07:29:00,"Tim Hortons represents about 60% of the company's revenues, so they really got to do something here if this company is going to turn around as a whole.",0.5038518905639648,0.013942191377282143,0.48220592737197876,positive,0.48990970849990845
+210,2020-02-20 07:29:00,Competition is stiff in the Tim Hortons space.,0.12863092124462128,0.39562132954597473,0.4757477939128876,neutral,-0.26699042320251465
+211,2020-02-20 07:29:00,"Their lunch offerings, their cold drinks not having the intended impact.",0.07114465534687042,0.21268029510974884,0.7161750197410583,neutral,-0.14153563976287842
+212,2020-02-20 07:29:00,"Really, you know, they were profitable, adjusted earnings up 3%, but nothing really exciting going on.",0.7035038471221924,0.037128251045942307,0.25936785340309143,positive,0.6663755774497986
+213,2020-02-20 07:29:00,"Hill: I wanted to have a segment where we just talk about the coronavirus, because what seems like something that was getting better, both in terms of the actual health of our people and therefore the ripple effect for businesses, took a turn in terms of the information coming out of China.",0.25207123160362244,0.021288137882947922,0.7266405820846558,neutral,0.23078308999538422
+214,2020-02-20 07:29:00,"As of this taping, we're at 64,000 confirmed cases, nearly 1,400 deaths and, obviously, for the people who are affected by this, our hearts and prayers go out to them.",0.1555429846048355,0.020181164145469666,0.8242759108543396,neutral,0.13536182045936584
+215,2020-02-20 07:29:00,"As a show about business, I wanted to talk about the ripple effect of this virus, because I think we are about to enter a period of time where the range of potential outcomes for businesses is much larger than it was even, say, a week or two ago.",0.15196490287780762,0.05837702378630638,0.7896580696105957,neutral,0.09358787536621094
+216,2020-02-20 07:29:00,"And Ron, I'll just start with you.",0.05628567934036255,0.015078523196280003,0.928635835647583,neutral,0.04120715707540512
+217,2020-02-20 07:29:00,"I mean, we were talking this morning about how you made the point that the way that you are looking at investing right now really hasn't changed.",0.07530713826417923,0.019602613523602486,0.9050902128219604,neutral,0.05570452660322189
+218,2020-02-20 07:29:00,"And I guess my first question would be: For how much longer does this go on that you think to yourself, ""You know what, I am actually going to make some changes in the way I invest,"" whether it's actual buying or selling or just removing companies from your watch list?",0.027401123195886612,0.021749788895249367,0.9508490562438965,neutral,0.005651334300637245
+219,2020-02-20 07:29:00,Gross: Yeah.,0.1447022259235382,0.09308457374572754,0.7622132301330566,neutral,0.05161765217781067
+220,2020-02-20 07:29:00,"Before taping, you made a good comment about that and there are places and industries where I would probably stay away from until I get a bit better clarity here.",0.1036740094423294,0.051199689507484436,0.8451263308525085,neutral,0.05247431993484497
+221,2020-02-20 07:29:00,"You know, we could compare this to the SARS outbreak in 2002 to 2003, and that was relatively short-lived and things rebounded quickly.",0.5029411315917969,0.040204983204603195,0.4568539559841156,positive,0.4627361595630646
+222,2020-02-20 07:29:00,"But even now, this is much more severe, and we don't know if the severity will continue or if it's going to reverse shortly.",0.06249825656414032,0.20119482278823853,0.7363069653511047,neutral,-0.1386965662240982
+223,2020-02-20 07:29:00,"But China is such a huge part of the global supply chain that this is going to reverberate throughout many industries, whether it's semiconductors or companies like Apple and Intel.",0.11812549084424973,0.01277889870107174,0.8690955638885498,neutral,0.10534659028053284
+224,2020-02-20 07:29:00,General Motors sells more cars into China than they do into the U.S.,0.0976375937461853,0.010696026496589184,0.8916663527488708,neutral,0.08694157004356384
+225,2020-02-20 07:29:00,There's a lot of repercussions here that definitely there will be an economic impact; it's too hard to tell yet how big that will be.,0.05368451401591301,0.4206995964050293,0.5256158113479614,neutral,-0.3670150935649872
+226,2020-02-20 07:29:00,"Flippen: I feel like we all have a decision we make when you wake up in the morning, get our cup of coffee.",0.06548280268907547,0.016098033636808395,0.9184191226959229,neutral,0.049384769052267075
+227,2020-02-20 07:29:00,"We have the mug that says, ""Keep Calm and Carry On,"" and the mug that says, ""Now Panic and Freak Out!""",0.04884885996580124,0.025951717048883438,0.9251993894577026,neutral,0.0228971429169178
+228,2020-02-20 07:29:00,"[laughs] And I would say the media has definitely drank from the ""Panic and Freak Out"" mug a little bit more than, I think, the average investor should.",0.4872685670852661,0.03432082757353783,0.47841060161590576,positive,0.452947735786438
+229,2020-02-20 07:29:00,You can make the story however you want to make it.,0.03434012085199356,0.007374410517513752,0.9582855105400085,neutral,0.026965711265802383
+230,2020-02-20 07:29:00,"You can take the SARS argument and say that ""look, the majority of these cases are not that bad, people who are, unfortunately, dying are people who have had some sort of autoimmune disease in the past or older, it's not targeting mainly healthy individuals.""",0.036181118339300156,0.3191046714782715,0.6447142362594604,neutral,-0.28292354941368103
+231,2020-02-20 07:29:00,"But then you can also say, ""Look, we don't know how long this is going to go on, this could potentially have longstanding impacts not just for the Chinese economy but for the worldwide economy -- as Ron alluded to -- for a year, possibly more.""",0.0845072790980339,0.4082229733467102,0.5072697997093201,neutral,-0.3237156867980957
+232,2020-02-20 07:29:00,"Ultimately, anyone telling you it's one or the other, unless they're a government health official, probably it is just taking their best guess.",0.04871441051363945,0.108985036611557,0.8423005938529968,neutral,-0.06027062609791756
+233,2020-02-20 07:29:00,"So I think that to the extent that we all can, it really hasn't changed my investing philosophy, and I don't think it should change the average person's investing philosophy.",0.08209788799285889,0.0305932629853487,0.8873088359832764,neutral,0.051504626870155334
+234,2020-02-20 07:29:00,"Hill: Well, and to that point, we had the Secretary of Health and Human Services, Alex Azar, come out and say, Look, for Americans, right now, the risk is very low, and then in the next breath said, But that could change rapidly.",0.041748009622097015,0.0897541418671608,0.8684978485107422,neutral,-0.04800613224506378
+235,2020-02-20 07:29:00,"[laughs] To pick a specific example, Jason, we had Disney on their most recent report, they came out, Bob Iger talked about the impact on the parks in China, and it was very contained.",0.02426542527973652,0.05316953361034393,0.9225650429725647,neutral,-0.028904108330607414
+236,2020-02-20 07:29:00,"It was, Look, we think we're going to take this level of financial hit if these parks are closed for two months.",0.12959356606006622,0.058159492909908295,0.8122469782829285,neutral,0.07143407315015793
+237,2020-02-20 07:29:00,"And to the point I made earlier, I feel like we could be coming up not on earnings season, but a round of company announcements where businesses like Disney and others come out and say, Hey, we're updating our guidance with respect to China and it's far worse than we projected earlier.",0.06363650411367416,0.6727269291877747,0.26363661885261536,negative,-0.6090904474258423
+238,2020-02-20 07:29:00,"Moser: I mean there's no question, if we see the same types of headlines and we're still having this conversation one, two months down the road here, I mean we're going to see a lot of these companies start coming back out, resetting the bar a little bit, because it's maybe a little bit worse than they initially thought.",0.07800573110580444,0.7304194569587708,0.1915748119354248,negative,-0.6524137258529663
+239,2020-02-20 07:29:00,"Now, I do think it's worth mentioning the quality of the information that we're getting.",0.15920943021774292,0.00927465595304966,0.831515908241272,neutral,0.1499347686767578
+240,2020-02-20 07:29:00,"I mean, we are getting a lot of information that is not necessarily fully substantiated, it's not necessarily coming from experts, it's not necessarily coming from reliable sources.",0.02652938850224018,0.06628976762294769,0.9071808457374573,neutral,-0.03976038098335266
+241,2020-02-20 07:29:00,"Now, it's worth noting, the World Health Organization is going to be getting boots on the ground in China here I think in the coming week.",0.11898736655712128,0.07028761506080627,0.8107249736785889,neutral,0.048699751496315
+242,2020-02-20 07:29:00,We're going to get a lot of clarity from that visit alone.,0.4339865446090698,0.01169668696820736,0.5543166995048523,neutral,0.4222898483276367
+243,2020-02-20 07:29:00,And I think that information is going to help a lot of these executives get a better idea of how this could potentially impact their businesses over the course of the next one or two months if it's going to drag on beyond that.,0.47006696462631226,0.011818447150290012,0.5181145071983337,neutral,0.4582485258579254
+244,2020-02-20 07:29:00,"Because yeah, I mean it does feel like it's something where we maybe didn't think it was going to be that big of a deal for a while, now it seems like it's a little bit of a bigger deal than we initially anticipated.",0.12800563871860504,0.04719557613134384,0.8247988224029541,neutral,0.0808100625872612
+245,2020-02-20 07:29:00,"But by the same token, we've got plenty of big pharmaceuticals out there working on treatments now, and I have no doubt that they'll come up with one.",0.38634923100471497,0.009990962222218513,0.6036598086357117,neutral,0.3763582706451416
+246,2020-02-20 07:29:00,"I will say, you think about a year ago, when we were talking about these China trade concerns, and all of these companies that we were speaking to that were really focused on diversifying their supply chains away from China, that's starting to look like a pretty good decision right now.",0.5658044219017029,0.016743218526244164,0.4174523651599884,positive,0.5490611791610718
+247,2020-02-20 07:29:00,"I mean, serendipitous, maybe, but still, I mean at the end of the day it's going to be something that works in their favor.",0.19093328714370728,0.01923528127372265,0.7898313999176025,neutral,0.17169800400733948
+248,2020-02-20 07:29:00,"Gross: Yeah, for sure.",0.09925755113363266,0.08113205432891846,0.8196104168891907,neutral,0.018125496804714203
+249,2020-02-20 07:29:00,"Appropriately, companies have already started to warn, they're being conservative about it.",0.0811660960316658,0.07919172942638397,0.8396421670913696,neutral,0.00197436660528183
+250,2020-02-20 07:29:00,"Mattel mentioned that it could have an impact on the next quarter, because they source from China, not as much as Hasbro does.",0.10202623158693314,0.44495153427124023,0.4530222713947296,neutral,-0.3429253101348877
+251,2020-02-20 07:29:00,"But a lot of these folks, as you said, have already moved to Vietnam and other places.",0.030133411288261414,0.01118392962962389,0.9586827158927917,neutral,0.0189494825899601
+252,2020-02-20 07:29:00,Popeyes' expansion in China could potentially be on hold as a result of this.,0.02285802736878395,0.7491939663887024,0.22794798016548157,negative,-0.7263359427452087
+253,2020-02-20 07:29:00,So companies are coming out and talking about it preliminarily.,0.03643720969557762,0.014670778065919876,0.9488920569419861,neutral,0.021766431629657745
+254,2020-02-20 07:29:00,"I think it's important to also note -- just from a stock market perspective -- that back in 2002 to 2003 with SARS, valuations were not stretched back then, they are now, and it is almost like investors are looking for a reason to sell stock.",0.1213948130607605,0.014450708404183388,0.8641545176506042,neutral,0.10694410651922226
+255,2020-02-20 07:29:00,"It hasn't really happened yet, but if this continues to get worse there could be an impact on the market as a whole.",0.02847856841981411,0.8079831600189209,0.16353829205036163,negative,-0.7795045971870422
+256,2020-02-20 07:29:00,"Moser: I mean, are they stretched on an adjusted EBITDA level?",0.036387864500284195,0.02065456472337246,0.9429575800895691,neutral,0.015733299776911736
+257,2020-02-20 07:29:00,"I mean, I don't know about that, Ron.",0.03794151172041893,0.09586314857006073,0.8661953210830688,neutral,-0.0579216368496418
+258,2020-02-20 07:29:00,Let's talk about that.,0.12585169076919556,0.020527120679616928,0.8536211848258972,neutral,0.10532456636428833
+259,2020-02-20 07:29:00,"Flippen: [laughs] Yeah, we talk about some companies -- potentially over the next few months -- adjusting guidance, but there's one industry that's been really, mainly hit by this -- and a lot of big companies -- and have already adjusted full-year guidance as a result of the coronavirus -- that's the cruise industry.",0.05352138355374336,0.09792257845401764,0.8485560417175293,neutral,-0.04440119490027428
+260,2020-02-20 07:29:00,"So Carnival Cruise Line already made statements saying, Here's the expectation that we have for our bottom line, if we don't do anymore cruises to China or to Asia over the next year.",0.03351029381155968,0.029626082628965378,0.9368636608123779,neutral,0.0038842111825942993
+261,2020-02-20 07:29:00,"So there are some companies and some industries that are being, I will say, more proactive with the results.",0.570967435836792,0.017989451065659523,0.41104310750961304,positive,0.552977979183197
+262,2020-02-20 07:29:00,"Granted, I think the cruise line industry has been a little bit more under fire as these ""floating petri dishes"" seem to be a hotbed for the coronavirus.",0.05595993623137474,0.0901188775897026,0.8539211750030518,neutral,-0.034158941358327866
+263,2020-02-20 07:29:00,"Hill: So is that one thing investors should do, just reset expectations, look at your portfolio and think, well, to the extent that these companies, that I own, are doing business in China, maybe I just need to -- even before a company does -- just sort of lower my expectations a little bit in terms of what the results are going to be?",0.0550164058804512,0.32879412174224854,0.6161894798278809,neutral,-0.27377772331237793
+264,2020-02-20 07:29:00,Gross: I think that's fair.,0.08233875781297684,0.05961044505238533,0.8580507636070251,neutral,0.022728312760591507
+265,2020-02-20 07:29:00,"It seems the way the markets work nowadays is, we get a little bit of a pullback, people will readjust but then people are always looking to bounce right back in, and those adjustments get wiped away pretty quickly.",0.06538937985897064,0.15482346713542938,0.7797870635986328,neutral,-0.08943408727645874
+266,2020-02-20 07:29:00,"Again, it depends on the severity of this.",0.014540251344442368,0.015501592308282852,0.9699581265449524,neutral,-0.0009613409638404846
+267,2020-02-20 07:29:00,"If this is one or two quarters of reduced operating income, then it's just a short-lived situation.",0.019151199609041214,0.9050287008285522,0.07582009583711624,negative,-0.8858774900436401
+268,2020-02-20 07:29:00,"Hill: Last thing, before we wrap up.",0.013822119683027267,0.02810637839138508,0.9580715298652649,neutral,-0.014284258708357811
+269,2020-02-20 07:29:00,"On the flip side, are there businesses out there -- and I'm thinking of two businesses that I do not own but probably should, Home Depot and Lowe's -- that are very significantly concentrated in the United States, do businesses like that become more attractive?",0.0777946412563324,0.008732662536203861,0.9134727120399475,neutral,0.06906197965145111
+270,2020-02-20 07:29:00,"Moser: So I think that if you believe that we will eventually contain this and that everything will ultimately be OK --
+
+Hill: As opposed to what?",0.1130145862698555,0.04187094420194626,0.8451144695281982,neutral,0.07114364206790924
+271,2020-02-20 07:29:00,A global wipeout?,0.1275079995393753,0.2721008360385895,0.6003912091255188,neutral,-0.14459283649921417
+272,2020-02-20 07:29:00,"Moser: Hey, listen, it's not out of the range of possibility, right?",0.03566083684563637,0.08943357318639755,0.8749055862426758,neutral,-0.053772736340761185
+273,2020-02-20 07:29:00,Hill: It's not.,0.06097027286887169,0.10322301089763641,0.835806667804718,neutral,-0.042252738028764725
+274,2020-02-20 07:29:00,"But, yes, put me in the category that says, ""Yes, I believe we will eventually contain this.""",0.3136134147644043,0.039948586374521255,0.6464380621910095,neutral,0.27366483211517334
+275,2020-02-20 07:29:00,"Moser: It is a rhetorical question, but, yes, let's say, ""Yes, OK, we will eventually contain this.""",0.16590365767478943,0.05516747385263443,0.7789289355278015,neutral,0.110736183822155
+276,2020-02-20 07:29:00,"I mean, I think with that being said, you need to be watching a lot of these companies very closely as they monitor and perhaps even ratchet back their own guidance.",0.11433199048042297,0.007805148605257273,0.8778628706932068,neutral,0.10652684420347214
+277,2020-02-20 07:29:00,"Because, two very good examples in Home Depot and Lowe's -- obviously, very, very U.S.-centric businesses, obviously also big supply chain issues out there coming out of China.",0.14088308811187744,0.16757594048976898,0.6915410161018372,neutral,-0.02669285237789154
+278,2020-02-20 07:29:00,"Now, that said, those are two great examples of companies that have spent the last year or two working on diversifying their supply chain away from just China.",0.6481258273124695,0.012451684102416039,0.33942243456840515,positive,0.6356741189956665
+279,2020-02-20 07:29:00,"So I think those could be good examples of companies that might -- the baby is thrown out with the bathwater, but at the end of the day you still want to own them.",0.05826761573553085,0.014894056133925915,0.9268383383750916,neutral,0.043373558670282364
+280,2020-02-20 07:29:00,"Hill: Before we get to the stocks on our radar, let's play a round of buy, sell, or hold.",0.03808578476309776,0.008818802423775196,0.9530953764915466,neutral,0.02926698327064514
+281,2020-02-20 07:29:00,"These aren't actual stocks, but Ron, I want you to treat them like stocks, if you would buy, sell, or hold them?",0.024379059672355652,0.007721473928540945,0.9678993821144104,neutral,0.01665758527815342
+282,2020-02-20 07:29:00,Let's start with this.,0.06193206459283829,0.010031546466052532,0.9280363917350769,neutral,0.05190051719546318
+283,2020-02-20 07:29:00,This week Facebook (NASDAQ: FB) very quietly released a new app that looks a whole lot like Pinterest (NYSE: PINS).,0.2519935369491577,0.009843157604336739,0.7381632924079895,neutral,0.24215038120746613
+284,2020-02-20 07:29:00,"Buy, sell, or hold Facebook's new app Hobbi?",0.029470285400748253,0.016830231994390488,0.9536994695663452,neutral,0.012640053406357765
+285,2020-02-20 07:29:00,Gross: Sell.,0.0962887853384018,0.07346823066473007,0.830242931842804,neutral,0.022820554673671722
+286,2020-02-20 07:29:00,Eh!,0.1756451278924942,0.10010050982236862,0.7242543697357178,neutral,0.07554461807012558
+287,2020-02-20 07:29:00,The world doesn't need another Pinterest; Pinterest has got this.,0.1207042708992958,0.016389966011047363,0.862905740737915,neutral,0.10431430488824844
+288,2020-02-20 07:29:00,I don't think it's going to be a success at all.,0.05932646989822388,0.04145769774913788,0.899215817451477,neutral,0.017868772149086
+289,2020-02-20 07:29:00,"Hill: What do you think, Emily?",0.04027879238128662,0.026465024799108505,0.933256208896637,neutral,0.013813767582178116
+290,2020-02-20 07:29:00,Pinterest was down a couple of percentage points; at least some investors out there were a little scared.,0.04506383463740349,0.8868363499641418,0.06809983402490616,negative,-0.8417724967002869
+291,2020-02-20 07:29:00,Flippen: Eh!,0.1156083345413208,0.12361794710159302,0.760773777961731,neutral,-0.008009612560272217
+292,2020-02-20 07:29:00,Sell.,0.0927303358912468,0.019967738538980484,0.8873019218444824,neutral,0.07276259362697601
+293,2020-02-20 07:29:00,I don't really think the world needs Pinterest.,0.02739800699055195,0.033520594239234924,0.9390814304351807,neutral,-0.006122587248682976
+294,2020-02-20 07:29:00,"Moser: Yeah, I'm selling Facebook's Hobbi.",0.037006787955760956,0.019521456211805344,0.9434717297554016,neutral,0.017485331743955612
+295,2020-02-20 07:29:00,"I mean, that's the question, right?",0.038223039358854294,0.03696419298648834,0.9248127937316895,neutral,0.0012588463723659515
+296,2020-02-20 07:29:00,"I don't think -- to me Pinterest has a great audience, a lot of unique content, and I think, most importantly, trust; I don't know why users would defect.",0.26950526237487793,0.02996617741882801,0.7005285620689392,neutral,0.23953908681869507
+297,2020-02-20 07:29:00,"Hill: Samsung (OTC: SSNLF) promoted this during the Academy Awards; buy, sell or hold the new Galaxy Z foldable phone?",0.06572210788726807,0.0077927145175635815,0.9264851808547974,neutral,0.0579293929040432
+298,2020-02-20 07:29:00,"What do you think, Ron?",0.04351184889674187,0.0172230526804924,0.9392650127410889,neutral,0.026288796216249466
+299,2020-02-20 07:29:00,"Gross: I think I'm going to have to buy this, because my favorite phone of all time was the Motorola StarTAC, which looked like from Star Trek Enterprise, that kind of a thing.",0.03629355505108833,0.03262872248888016,0.9310777187347412,neutral,0.0036648325622081757
+300,2020-02-20 07:29:00,I loved it.,0.26137712597846985,0.014735355973243713,0.72388756275177,neutral,0.24664177000522614
+301,2020-02-20 07:29:00,I hope it comes back.,0.39433518052101135,0.03198819234967232,0.573676586151123,neutral,0.36234697699546814
+302,2020-02-20 07:29:00,Flippen: [laughs] There's a lot of fist bumping when Ron said that.,0.07242430746555328,0.2592464089393616,0.6683292388916016,neutral,-0.1868221014738083
+303,2020-02-20 07:29:00,And I think I have no idea what that phone looks like.,0.031247328966856003,0.0910569503903389,0.8776956796646118,neutral,-0.059809621423482895
+304,2020-02-20 07:29:00,You know what I'm going to do?,0.053293436765670776,0.02240758016705513,0.9242989420890808,neutral,0.030885856598615646
+305,2020-02-20 07:29:00,"I'm going to hold this smartphone, I'm going to hold it in my hand and continue to be upset about the fact that it does not automatically flip like a Motorola RAZR, which is more my generation.",0.06435738503932953,0.4484594464302063,0.487183153629303,neutral,-0.3841020464897156
+306,2020-02-20 07:29:00,"[laughs]
+
+Moser: The old buy, hold?",0.08077989518642426,0.08333078771829605,0.8358892798423767,neutral,-0.0025508925318717957
+307,2020-02-20 07:29:00,I don't -- God!,0.11915663629770279,0.27477461099624634,0.6060687899589539,neutral,-0.15561798214912415
+308,2020-02-20 07:29:00,I'm selling.,0.24739421904087067,0.01235292386263609,0.7402529120445251,neutral,0.2350412905216217
+309,2020-02-20 07:29:00,Do people really want this thing?,0.0464513823390007,0.039329007267951965,0.9142195582389832,neutral,0.007122375071048737
+310,2020-02-20 07:29:00,"I feel like no, sell.",0.10219304263591766,0.13681906461715698,0.7609879374504089,neutral,-0.03462602198123932
+311,2020-02-20 07:29:00,I just don't see why.,0.04180024191737175,0.10303639620542526,0.8551633954048157,neutral,-0.06123615428805351
+312,2020-02-20 07:29:00,It's going to get a crease; it's going to get a crack.,0.26358118653297424,0.04814036935567856,0.6882784366607666,neutral,0.2154408097267151
+313,2020-02-20 07:29:00,"I mean, do people really want this, Chris?",0.0376964770257473,0.018734203651547432,0.9435693621635437,neutral,0.018962273374199867
+314,2020-02-20 07:29:00,"Hill: I sort of feel like it's a hold, only because Samsung came out last year with just a debacle of this fold phone that they sent test versions of to consumer tech reporters, like Joanna Stern at The Wall Street Journal, and then they recalled them, because it was such a fail.",0.060522813349962234,0.5891105532646179,0.35036665201187134,negative,-0.5285877585411072
+315,2020-02-20 07:29:00,"And so Samsung is going to keep going at this, that's why I think it's a hold.",0.20841389894485474,0.013154493644833565,0.7784315943717957,neutral,0.19525940716266632
+316,2020-02-20 07:29:00,"Moser: Yeah, they're telling you how often you can open and close it.",0.03017917089164257,0.02873721718788147,0.941083550453186,neutral,0.0014419537037611008
+317,2020-02-20 07:29:00,So there's going to be an app that tells you how many times you've opened it and closed it.,0.03726952522993088,0.01907443255186081,0.9436560869216919,neutral,0.01819509267807007
+318,2020-02-20 07:29:00,"And one day, because you're that much closer to the death of your phone.",0.14080524444580078,0.17646104097366333,0.6827337145805359,neutral,-0.03565579652786255
+319,2020-02-20 07:29:00,Hill: Okay.,0.16098541021347046,0.07579195499420166,0.7632226943969727,neutral,0.0851934552192688
+320,2020-02-20 07:29:00,Can I change my vote?,0.10244331508874893,0.11974707245826721,0.7778096199035645,neutral,-0.01730375736951828
+321,2020-02-20 07:29:00,Moser: I just don't know if this is something that people really want.,0.01793218031525612,0.023509366437792778,0.9585584998130798,neutral,-0.005577186122536659
+322,2020-02-20 07:29:00,Hill: Kellogg's is jumping into the plant-based protein wars.,0.30290186405181885,0.026613501831889153,0.6704846024513245,neutral,0.27628836035728455
+323,2020-02-20 07:29:00,"Buy, sell, or hold the brand name, Incogmeato.",0.015814708545804024,0.00697292061522603,0.9772123694419861,neutral,0.00884178839623928
+324,2020-02-20 07:29:00,"That's Kellogg's plant-based protein line, Incogmeato.",0.048007261008024216,0.009321772493422031,0.9426709413528442,neutral,0.03868548944592476
+325,2020-02-20 07:29:00,Gross: [laughs] It's too cute for me.,0.060965124517679214,0.3737007677555084,0.5653340816497803,neutral,-0.3127356469631195
+326,2020-02-20 07:29:00,I'm going to sell the name.,0.04979035258293152,0.005548674147576094,0.9446609616279602,neutral,0.04424167796969414
+327,2020-02-20 07:29:00,"The product might be perfectly fine, but I'm going to sell the name.",0.09057005494832993,0.006737980060279369,0.9026919603347778,neutral,0.08383207768201828
+328,2020-02-20 07:29:00,Flippen: Buy!,0.1970081627368927,0.05911090597510338,0.7438808679580688,neutral,0.13789725303649902
+329,2020-02-20 07:29:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+330,2020-02-20 07:29:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+331,2020-02-20 07:29:00,Buy!,0.18153725564479828,0.0533633828163147,0.7650993466377258,neutral,0.12817387282848358
+332,2020-02-20 07:29:00,I'm not walking by an Incogmeato and not buying it.,0.06064246967434883,0.11356497555971146,0.8257925510406494,neutral,-0.052922505885362625
+333,2020-02-20 07:29:00,"I wonder how many times I can say ""buy"" in one sentence.",0.08297882229089737,0.1283477246761322,0.7886734008789062,neutral,-0.04536890238523483
+334,2020-02-20 07:29:00,"I am shocked that nobody took the name Incogmeato among the plant-based meat craze before, but I am excited for this.",0.20787742733955383,0.010349835269153118,0.781772792339325,neutral,0.19752758741378784
+335,2020-02-20 07:29:00,Hill: Can I just play devil's advocate and say that both Impossible Foods and Beyond Meat are really strong names.,0.10818097740411758,0.011196145787835121,0.8806228637695312,neutral,0.09698483347892761
+336,2020-02-20 07:29:00,"So I think if they were considering Incogmeato, I understand why they chose the names that they chose.",0.05829267576336861,0.009357052855193615,0.9323502779006958,neutral,0.04893562197685242
+337,2020-02-20 07:29:00,"Flippen: I mean, maybe I'm the only person who feels this way, but Impossible Foods is kind of, like, ehh, Beyond Meat, ehh.",0.05039404705166817,0.02055514231324196,0.9290508031845093,neutral,0.02983890473842621
+338,2020-02-20 07:29:00,"But Incogmeato, it tells you exactly what it is.",0.03278793394565582,0.016377082094550133,0.9508350491523743,neutral,0.01641085185110569
+339,2020-02-20 07:29:00,I have no questions about that product.,0.03423665463924408,0.00907896738499403,0.956684410572052,neutral,0.025157686322927475
+340,2020-02-20 07:29:00,"[laughs]
+
+Hill: I feel like if you're someone who is a vegetarian, but you hate puns, you're going to be really conflicted on this, Jason.",0.05008680745959282,0.7557958364486694,0.19411730766296387,negative,-0.7057090401649475
+341,2020-02-20 07:29:00,"Moser: Mac, were you behind this name?",0.044627536088228226,0.14449916779994965,0.81087327003479,neutral,-0.09987163543701172
+342,2020-02-20 07:29:00,"I mean, now that you just said that, ""puns,"" I feel like we're going straight to Mac Greer behind the glass there.",0.0841558650135994,0.03627007454633713,0.8795740604400635,neutral,0.04788579046726227
+343,2020-02-20 07:29:00,"I don't know, I mean, I am for this market, I feel like they need to make those products healthier.",0.36090415716171265,0.011944932863116264,0.6271508932113647,neutral,0.3489592373371124
+344,2020-02-20 07:29:00,The branding is clever.,0.29312676191329956,0.011754832230508327,0.6951183676719666,neutral,0.28137192130088806
+345,2020-02-20 07:29:00,I'm a buy there.,0.25883957743644714,0.019539304077625275,0.7216210961341858,neutral,0.23930028080940247
+346,2020-02-20 07:29:00,I think they can probably do something with it.,0.1986941695213318,0.00927049107849598,0.7920353412628174,neutral,0.18942368030548096
+347,2020-02-20 07:29:00,Hill: Let's bring in our man behind the glass Steve Broido on this one.,0.10189304500818253,0.011927087791264057,0.8861798644065857,neutral,0.08996595442295074
+348,2020-02-20 07:29:00,"Steve, you have to have an opinion on the brand name Incogmeato.",0.03640609607100487,0.008142264559864998,0.9554516077041626,neutral,0.02826383151113987
+349,2020-02-20 07:29:00,"Moser: That's the point, it's not.",0.035415928810834885,0.0992792621254921,0.8653048872947693,neutral,-0.06386333703994751
+350,2020-02-20 07:29:00,"[laughs]
+
+Hill: Are you concerned that if this is at all a success that at some point in the future Kellogg's is going to have a crossover product that's basically an Incogmeato Pop-Tart?",0.0424453429877758,0.014777543023228645,0.9427770972251892,neutral,0.027667799964547157
+351,2020-02-20 07:29:00,"Broido: I think that would be a problem for sure, absolutely.",0.03649231046438217,0.2690795660018921,0.6944280862808228,neutral,-0.23258724808692932
+352,2020-02-20 07:29:00,"Hill: All right, last, but certainly not least, Yum!",0.06542447209358215,0.08085592091083527,0.8537195920944214,neutral,-0.015431448817253113
+353,2020-02-20 07:29:00,"Brands and Crocs teamed up to make clogs -- and by the way, they unveiled this at New York Fashion Week -- they teamed up to make clogs designed with KFC's signature red-and-white buckets and they are scented like fried chicken.",0.4553118348121643,0.011134989559650421,0.5335531234741211,neutral,0.4441768527030945
+354,2020-02-20 07:29:00,"Ron, so buy, sell, or hold the new KFC Crocs?",0.03637310117483139,0.015546165406703949,0.9480807185173035,neutral,0.02082693576812744
+355,2020-02-20 07:29:00,"Gross: I am a sell, because they come with charms on the top of them that look like little drumsticks, which is not necessary, and you don't want that smell just constantly in your closet, in your house, on your person; I'm a sell.",0.04545101523399353,0.06303923577070236,0.8915097117424011,neutral,-0.017588220536708832
+356,2020-02-20 07:29:00,"Flippen: Whether they're Crocs or clogs, whatever they are, I am buying these shoes.",0.09622453153133392,0.007881770841777325,0.8958937525749207,neutral,0.08834276348352432
+357,2020-02-20 07:29:00,"Look, KFC is not a fast-casual restaurant chain or fast-food chain, it's a lifestyle, [laughs] and you're either in or you're out, and I'm in.",0.03639005124568939,0.007938845083117485,0.9556711316108704,neutral,0.028451206162571907
+358,2020-02-20 07:29:00,Hill: I think she makes a good point there.,0.5201709866523743,0.033568140119314194,0.446260929107666,positive,0.4866028428077698
+359,2020-02-20 07:29:00,"Moser: I don't know, man, it's just I feel like --
+
+Hill: [laughs] No, just the point of it.",0.03925490379333496,0.15728671848773956,0.8034583330154419,neutral,-0.1180318146944046
+360,2020-02-20 07:29:00,"Look, either you're buying these things or you're not.",0.029704738408327103,0.03840521723031998,0.931890070438385,neutral,-0.008700478821992874
+361,2020-02-20 07:29:00,"And if they do it in a limited way, it's going to be a hit.",0.21700087189674377,0.03515145555138588,0.7478476762771606,neutral,0.1818494200706482
+362,2020-02-20 07:29:00,Moser: It's probably going to be in a very limited way.,0.010994459502398968,0.044109173119068146,0.944896399974823,neutral,-0.0331147126853466
+363,2020-02-20 07:29:00,"I mean the world is a very shallow place and just when I think it can't get any shallower, they just seem to drain a little bit more water out of the pool.",0.04364226013422012,0.09814926236867905,0.858208417892456,neutral,-0.05450700223445892
+364,2020-02-20 07:29:00,"And I just don't understand, who in the world is walking around in these things?",0.03800831735134125,0.09508898854255676,0.8669026494026184,neutral,-0.057080671191215515
+365,2020-02-20 07:29:00,"But maybe they're a collector's item, I guess you got to.",0.11047214269638062,0.016480406746268272,0.873047411441803,neutral,0.0939917340874672
+366,2020-02-20 07:29:00,"Maybe I'm going to go hold, because there probably is some sort of a collector's item here.",0.07300848513841629,0.029701607301831245,0.8972898721694946,neutral,0.043306879699230194
+367,2020-02-20 07:29:00,"Just real, real KFC sycophants that just can't really --
+
+Flippen: It's Mac, the target audience there.",0.025042040273547173,0.024578090757131577,0.9503799080848694,neutral,0.000463949516415596
+368,2020-02-20 07:29:00,Moser: Is that it?,0.03916330635547638,0.040795519948005676,0.9200412034988403,neutral,-0.0016322135925292969
+369,2020-02-20 07:29:00,"Hill: Steve Broido, what do you think?",0.03781608119606972,0.024326855316758156,0.9378570318222046,neutral,0.013489225879311562
+370,2020-02-20 07:29:00,Broido: I think having your feet smell like chicken sounds delicious.,0.12805409729480743,0.022406721487641335,0.8495391607284546,neutral,0.10564737766981125
+371,2020-02-20 07:29:00,"[laughs]
+
+Hill: [laughs] There is absolutely a market out there.",0.12352457642555237,0.009587523527443409,0.8668878674507141,neutral,0.11393705010414124
+372,2020-02-20 07:29:00,"All right, at long last, let's get to the stocks on our radar, and our man behind the glass will hit you with the question.",0.07783428579568863,0.022809568792581558,0.8993561863899231,neutral,0.05502471700310707
+373,2020-02-20 07:29:00,"But before we do that, Ron, I got to say a quick shout-out to our special guest behind the glass, Mrs. Moser.",0.0981927439570427,0.02924458682537079,0.8725626468658447,neutral,0.0689481571316719
+374,2020-02-20 07:29:00,Jason's mom in the house.,0.1024472564458847,0.08066083490848541,0.8168919682502747,neutral,0.021786421537399292
+375,2020-02-20 07:29:00,Hanging out.,0.17009098827838898,0.017546480521559715,0.8123624920845032,neutral,0.1525445133447647
+376,2020-02-20 07:29:00,Hill: All right.,0.12061024457216263,0.04748506471514702,0.8319047689437866,neutral,0.07312518358230591
+377,2020-02-20 07:29:00,"What's on your radar this week, Ron?",0.0366060808300972,0.025856170803308487,0.9375377893447876,neutral,0.010749910026788712
+378,2020-02-20 07:29:00,"Gross: I'm looking at Appian (NASDAQ: APPN), a beloved stock in Fooldom, but one that I've never looked into until now.",0.06298509240150452,0.01904737949371338,0.9179675579071045,neutral,0.04393771290779114
+379,2020-02-20 07:29:00,"Their so-called low code approach allows existing staff at small- to medium-size businesses to develop apps and software, save these companies from having to hire IT professionals.",0.13209213316440582,0.05406292527914047,0.8138449788093567,neutral,0.07802920788526535
+380,2020-02-20 07:29:00,"Founder, CEO Matt Calkins, sees an addressable market that's going to grow to $50 billion.",0.5465441942214966,0.009804263710975647,0.44365161657333374,positive,0.5367399454116821
+381,2020-02-20 07:29:00,Last quarter 38% jump in subscription revenue.,0.9437694549560547,0.030745213851332664,0.025485316291451454,positive,0.9130242466926575
+382,2020-02-20 07:29:00,Retention rate strong at a 119%.,0.478911429643631,0.050418052822351456,0.4706704914569855,positive,0.4284933805465698
+383,2020-02-20 07:29:00,Stock is up at 40% over the last three months.,0.9464525580406189,0.018129436299204826,0.03541802242398262,positive,0.9283231496810913
+384,2020-02-20 07:29:00,So valuation might be a problem here; that's something I'm going to dig into.,0.038290735334157944,0.04876679554581642,0.9129424095153809,neutral,-0.010476060211658478
+385,2020-02-20 07:29:00,"Broido: If you have a hard time evaluating tech companies, how can you evaluate a tech company that is low-tech, how does that work?",0.023511700332164764,0.027706889435648918,0.9487813711166382,neutral,-0.004195189103484154
+386,2020-02-20 07:29:00,Gross: It's pretty much the same as you would with any company.,0.027722755447030067,0.00856870412826538,0.9637085795402527,neutral,0.019154051318764687
+387,2020-02-20 07:29:00,"Look at what the addressable market is, look at their market share, look at their product differentiation, if they have any competitive advantages, and then make a decision.",0.04737743362784386,0.005301519297063351,0.9473209977149963,neutral,0.04207591339945793
+388,2020-02-20 07:29:00,"Flippen: Tencent, TCEHY, an ADR.",0.012213536538183689,0.017941979691386223,0.9698445200920105,neutral,-0.005728443153202534
+389,2020-02-20 07:29:00,"Largest gaming company in the world, China-based, is on my radar this week.",0.08195184916257858,0.010967493057250977,0.9070805907249451,neutral,0.0709843561053276
+390,2020-02-20 07:29:00,"And that's because one of things we didn't talk about when talking about coronavirus is, what people are doing instead of going outside and doing their jobs; otherwise existing as humans in China?",0.023755839094519615,0.0733727440237999,0.9028714299201965,neutral,-0.04961690306663513
+391,2020-02-20 07:29:00,"And you know what, a lot of people, as you may expect, are playing video games.",0.02045295760035515,0.020536966621875763,0.9590100646018982,neutral,-8.400902152061462e-05
+392,2020-02-20 07:29:00,"So, new reports coming out today saying that, yeah, the number of people who have downloaded apps from the app store -- that directly benefits companies like Tencent, other gaming companies in China -- have increased dramatically since coronavirus.",0.8851969838142395,0.028376184403896332,0.08642688393592834,positive,0.856820821762085
+393,2020-02-20 07:29:00,Broido: What is Tencent's biggest game that I might have heard of?,0.03428981453180313,0.015210910700261593,0.9504992961883545,neutral,0.019078902900218964
+394,2020-02-20 07:29:00,Flippen: That's a really good question.,0.10000571608543396,0.029792146757245064,0.8702021837234497,neutral,0.07021357119083405
+395,2020-02-20 07:29:00,The game that you might be familiar with the most -- although there are a lot of games that Tencent owns -- is probably an app called Clash of Clans.,0.01654900424182415,0.012355231679975986,0.9710958003997803,neutral,0.004193772561848164
+396,2020-02-20 07:29:00,It's extremely popular across the world.,0.31514331698417664,0.008847065269947052,0.6760096549987793,neutral,0.3062962591648102
+397,2020-02-20 07:29:00,"But Tencent also has their own video streaming platform, that's Tencent Video.",0.03186522051692009,0.006175824906677008,0.9619589447975159,neutral,0.025689395144581795
+398,2020-02-20 07:29:00,So Tencent Video has also been a huge driver of both content and engagement for Tencent.,0.5496675968170166,0.011097968555986881,0.4392344057559967,positive,0.5385696291923523
+399,2020-02-20 07:29:00,"Moser: Yeah, I've been digging more into Salesforce (NYSE: CRM), ticker CRM.",0.04793555662035942,0.012551880441606045,0.9395125508308411,neutral,0.0353836752474308
+400,2020-02-20 07:29:00,"And you remember they made, in the middle of 2019, they made a big acquisition of Tableau: $18 billion, $19 billion acquisition; big deal.",0.6302152872085571,0.01119784452021122,0.3585869073867798,positive,0.6190174221992493
+401,2020-02-20 07:29:00,"And we're seeing more and more companies incorporating data visualization in this age of data, trying to figure out how to parse that data and consume it and do productive things with it.",0.1202344298362732,0.0062845926731824875,0.8734809756278992,neutral,0.11394983530044556
+402,2020-02-20 07:29:00,"So data visualization, which incorporates things like, yup, you guessed it, augmented reality, where you can see what that data is telling you.",0.03733458369970322,0.006974746007472277,0.9556906223297119,neutral,0.030359838157892227
+403,2020-02-20 07:29:00,"Now, this is right up Tableau's alley.",0.1178082674741745,0.039311207830905914,0.8428804874420166,neutral,0.07849705964326859
+404,2020-02-20 07:29:00,"And so, earnings were out on February 25 for Salesforce.",0.0878819078207016,0.6576613783836365,0.2544567286968231,negative,-0.5697794556617737
+405,2020-02-20 07:29:00,And I'm going to be interested to see how they're incorporating Tableau in the business and what they see the future holding.,0.0700969249010086,0.005002544727176428,0.924900472164154,neutral,0.06509438157081604
+406,2020-02-20 07:29:00,"Broido: Yeah, does Salesforce replace sales staff or supplement or complement them?",0.03388291597366333,0.3352166414260864,0.630900502204895,neutral,-0.3013337254524231
+407,2020-02-20 07:29:00,Moser: A little of both.,0.07047682255506516,0.03254121541976929,0.8969820141792297,neutral,0.03793560713529587
+408,2020-02-20 07:29:00,"I think it definitely marginalizes the sales staff to a degree, because it incorporates so much technology.",0.05300641432404518,0.4058677852153778,0.5411258339881897,neutral,-0.3528613746166229
+409,2020-02-20 07:29:00,"But I think, ultimately, at the end of the day, it's just to make your customer relationship management better.",0.572759211063385,0.019238602370023727,0.40800216794013977,positive,0.5535206198692322
+410,2020-02-20 07:29:00,"And in order to do that, you got to have both.",0.20392198860645294,0.013688568025827408,0.7823894619941711,neutral,0.19023342430591583
+411,2020-02-20 07:29:00,"Hill: Salesforce, Tencent, Appian.",0.016342055052518845,0.02148829959332943,0.9621696472167969,neutral,-0.005146244540810585
+412,2020-02-20 07:29:00,Three very different businesses.,0.027786782011389732,0.0257943794131279,0.946418821811676,neutral,0.001992402598261833
+413,2020-02-20 07:29:00,"Steve, you got a stock you want to add to your watchlist?",0.07035267353057861,0.006947532296180725,0.9226998090744019,neutral,0.06340514123439789
+414,2020-02-20 07:29:00,"Broido: So I've got Appian and I've got Salesforce, so I think I'm going to have to go with Tencent.",0.029965579509735107,0.219570592045784,0.7504638433456421,neutral,-0.1896050125360489
+415,2020-02-20 07:29:00,Hill: All right.,0.12061024457216263,0.04748506471514702,0.8319047689437866,neutral,0.07312518358230591
+416,2020-02-20 07:29:00,"Jason Moser, Emily Flippen, Ron Gross, thanks for being here.",0.1813930720090866,0.030649805441498756,0.7879571318626404,neutral,0.1507432609796524
+417,2020-02-20 07:29:00,Hill: That's going to do it for this week's edition of Motley Fool Money.,0.15937551856040955,0.02286258339881897,0.8177618980407715,neutral,0.13651293516159058
+418,2020-02-20 07:29:00,"You can always drop us an email, radio@fool.com.",0.04180285707116127,0.03598682954907417,0.9222103357315063,neutral,0.005816027522087097
+419,2020-02-20 07:29:00,That's radio@fool.com.,0.04178404435515404,0.02543199248611927,0.9327839612960815,neutral,0.016352051869034767
+420,2020-02-20 07:29:00,"Our engineer is Steve Broido, our producer is Mac Greer, I'm Chris Hill, thanks for listening, we'll see you next week.",0.07163134217262268,0.017373811453580856,0.910994827747345,neutral,0.054257530719041824
+421,2020-02-20 07:29:00,"Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to its CEO, Mark Zuckerberg, is a member of The Motley Fool's board of directors.",0.02931261993944645,0.019226934760808945,0.9514604210853577,neutral,0.010085685178637505
+422,2020-02-20 07:29:00,"Chris Hill owns shares of PayPal Holdings, Under Armour (A Shares), Under Armour (C Shares), and Walt Disney.",0.0157538540661335,0.008320950902998447,0.9759252071380615,neutral,0.007432903163135052
+423,2020-02-20 07:29:00,Emily Flippen owns shares of Shopify and Square.,0.02369280718266964,0.013311974704265594,0.9629952311515808,neutral,0.010380832478404045
+424,2020-02-20 07:29:00,"Jason Moser owns shares of Apple, Chipotle Mexican Grill, Hasbro, Intel, PayPal Holdings, Shopify, Square, Under Armour (A Shares), Under Armour (C Shares), and Walt Disney.",0.018784239888191223,0.0073075201362371445,0.9739083051681519,neutral,0.011476719751954079
+425,2020-02-20 07:29:00,"Ron Gross owns shares of Apple, Facebook, Square, and Walt Disney.",0.01904640905559063,0.011579608544707298,0.9693740010261536,neutral,0.007466800510883331
+426,2020-02-20 07:29:00,"The Motley Fool owns shares of and recommends Appian, Apple, Chipotle Mexican Grill, Facebook, Hasbro, Home Depot, NVIDIA, PayPal Holdings, Pinterest, Salesforce.com, Shopify, Square, Tencent Holdings, Under Armour (A Shares), Under Armour (C Shares), and Walt Disney.",0.018686411902308464,0.01285987813025713,0.9684537649154663,neutral,0.005826533772051334
+427,2020-02-20 07:29:00,"The Motley Fool recommends Intel, Lowe's, and Uber Technologies and recommends the following options: long January 2021 $60 calls on Walt Disney, long January 2021 $120 calls on Home Depot, short February 2020 $205 calls on Home Depot, short April 2020 $135 calls on Walt Disney, and short March 2020 $70 puts on Square.",0.017258914187550545,0.03706175833940506,0.9456793665885925,neutral,-0.019802844151854515
+428,2020-02-20 07:29:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

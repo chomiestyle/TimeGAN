@@ -1,0 +1,68 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-27 22:35:00,"Ah, the perpetual bubble question.",0.1056438758969307,0.13015314936637878,0.764202892780304,neutral,-0.02450927346944809
+1,2014-10-27 22:35:00,There's a bit of urgency among tech investors in this topic.,0.20791950821876526,0.017766447737812996,0.7743140459060669,neutral,0.1901530623435974
+2,2014-10-27 22:35:00,Some want to find out how much longer it'll last so they can invest a bit more and make some money before the bubble bursts; others are looking to tap out before there's a loss.,0.25757986307144165,0.024782024323940277,0.7176380753517151,neutral,0.23279783129692078
+3,2014-10-27 22:35:00,But predicting any bubble is no small feat.,0.13815265893936157,0.010548789985477924,0.8512986302375793,neutral,0.12760387361049652
+4,2014-10-27 22:35:00,"A wiser approach would be to take a look at what's caused past tech bubbles, what some experts are saying now (from both sides) and deduct from that where the tech industry stands right now.",0.049495480954647064,0.016365086659789085,0.9341394901275635,neutral,0.03313039243221283
+5,2014-10-27 22:35:00,"If you take the peak of the dot-com boom to its eventual crash, the timing of the downward slope goes from 2000 until 2002, when the Nasdaq Composite Index lost 78% of its value.",0.024211684241890907,0.904937744140625,0.07085055857896805,negative,-0.8807260394096375
+6,2014-10-27 22:35:00,"Using data from University of Florida professor Jay Ritter, Matt Jarzemsky from the Wall Street Journal wrote last month that this year companies are receiving a median IPO price of 8.2 times their last year's sales, compared to the median 3.6 times sales companies have received over the past 12 years.",0.8235620856285095,0.10965177416801453,0.06678617000579834,positive,0.7139103412628174
+7,2014-10-27 22:35:00,"That may not be the trend some investors want to see, but it doesn't compare to the median IPO price of 31 times price-to-sales companies were getting in 2000.",0.052896346896886826,0.21135200560092926,0.7357516884803772,neutral,-0.15845565497875214
+8,2014-10-27 22:35:00,"But back in March, when the Nasdaq Composite Index starting climbing close to its pre-crash value, there was talk of a possible tech bubble once again.",0.5920672416687012,0.08758562058210373,0.3203471004962921,positive,0.5044816136360168
+9,2014-10-27 22:35:00,"Of course, that rise neither proves nor disproves a bubble, but since that time some in Silicon Valley have started to send out warning signals.",0.09583361446857452,0.6833643317222595,0.22080209851264954,negative,-0.5875307321548462
+10,2014-10-27 22:35:00,"The writing on the wall
+
+It's easy to categorize anyone talking about a tech bubble as an alarmist, or an ultra conservative investor who doesn't understand the tech industry.",0.07384509593248367,0.404356449842453,0.5217984318733215,neutral,-0.3305113613605499
+11,2014-10-27 22:35:00,But that's not exactly what's happening right now.,0.0356278121471405,0.08920501917600632,0.8751671314239502,neutral,-0.053577207028865814
+12,2014-10-27 22:35:00,"Last month, Bill Gurley, a partner at Silicon Valley-based investor Benchmark, said venture capitalists are taking on an ""excessive amount of risk.""",0.042416252195835114,0.800368070602417,0.15721571445465088,negative,-0.7579517960548401
+13,2014-10-27 22:35:00,"This coming from a VC who's backed Uber and OpenTable , while Benchmark has backed Snapchat and Yelp .",0.11700934171676636,0.03060699626803398,0.8523836731910706,neutral,0.08640234172344208
+14,2014-10-27 22:35:00,"His concern comes not just from the high valuations tech companies are currently receiving, but from (more importantly) the rate at which start-ups are burning through cash, referred to as the burn rate.",0.0660688653588295,0.039773859083652496,0.8941572904586792,neutral,0.026295006275177002
+15,2014-10-27 22:35:00,"He told WSJ:
+
+""And I guarantee you two things: One, the average burn rate at the average venture-backed company in Silicon Valley is at an all-time high since '99 and maybe in many industries higher than in '99.",0.2252272069454193,0.1123131662607193,0.6624596118927002,neutral,0.11291404068470001
+16,2014-10-27 22:35:00,"And two, more humans in Silicon Valley are working for money-losing companies than have been in 15 years, and that's a form of discounted risk.""",0.046728044748306274,0.4490320086479187,0.5042399168014526,neutral,-0.4023039638996124
+17,2014-10-27 22:35:00,But he's not the only one concerned.,0.08502702414989471,0.09850682318210602,0.8164660930633545,neutral,-0.013479799032211304
+18,2014-10-27 22:35:00,"Fortune writer Adam Lashinsky wrote in May that Arista Networks offered him ""friends and family"" stock pricing before the company had its initial public offering.",0.19062365591526031,0.016978217288851738,0.7923981547355652,neutral,0.17364543676376343
+19,2014-10-27 22:35:00,"He declined their offer and points to the fact that when journalists covering Silicon Valley are being offered special IPO pricing, it echoes what tech companies did right before the dot-com bubble burst in the early 2000s.",0.09104130417108536,0.055418774485588074,0.8535400032997131,neutral,0.035622529685497284
+20,2014-10-27 22:35:00,"But pinpointing a bubble is hard to do, and some industry insiders think all the bubble talk is overblown.",0.07708669453859329,0.4456140100955963,0.4772992730140686,neutral,-0.3685273230075836
+21,2014-10-27 22:35:00,"Nothing to see here
+
+At the 40 under 40 event in San Francisco last month, Fortunepolled a handful of tech entrepreneurs, with two saying there's no tech bubble right now.",0.09824489057064056,0.1162702813744545,0.7854848504066467,neutral,-0.018025390803813934
+22,2014-10-27 22:35:00,"Marc Benioff, CEO of Salesforce.com , said, ""It's not a tech bubble.",0.024644706398248672,0.031482595950365067,0.9438726902008057,neutral,-0.006837889552116394
+23,2014-10-27 22:35:00,It's the biggest wave of innovation in the history of the world.,0.6643165349960327,0.012665484100580215,0.32301798462867737,positive,0.6516510248184204
+24,2014-10-27 22:35:00,"It's a combining of unbelievable forces of cloud, social networks, mobility plus connected products.""",0.3413448929786682,0.011461173184216022,0.6471939086914062,neutral,0.32988372445106506
+25,2014-10-27 22:35:00,Chief product officer and co-founder of Airbnb Joe Gebbia agreed.,0.5537748336791992,0.02546841651201248,0.4207567572593689,positive,0.5283064246177673
+26,2014-10-27 22:35:00,"He said, ""There's a cycle involved.",0.0471019484102726,0.015898583456873894,0.936999499797821,neutral,0.031203364953398705
+27,2014-10-27 22:35:00,But we're not in a tech bubble because companies are making revenues.,0.05137910321354866,0.02757858857512474,0.921042263507843,neutral,0.02380051463842392
+28,2014-10-27 22:35:00,And I think that was a major difference between what's happening right now and what's happening 14 years ago.,0.10069213807582855,0.03396866098046303,0.8653392195701599,neutral,0.06672348082065582
+29,2014-10-27 22:35:00,"Companies today are making real money.""",0.7286961078643799,0.025059740990400314,0.24624411761760712,positive,0.7036363482475281
+30,2014-10-27 22:35:00,And the answer is...,0.05841967836022377,0.021068282425403595,0.9205120801925659,neutral,0.037351395934820175
+31,2014-10-27 22:35:00,It's interesting to see venture capitalists like Gurley and others talk about being in the midst of a bubble.,0.09128192812204361,0.032796334475278854,0.8759217262268066,neutral,0.058485593646764755
+32,2014-10-27 22:35:00,These are people who have the most to gain as companies receive high valuations and go public (though they can also have the most to lose if things go south as well).,0.13358359038829803,0.010826229117810726,0.8555901646614075,neutral,0.12275736033916473
+33,2014-10-27 22:35:00,But it's hard not to think something's wrong as you read through some of their perspectives and consider the amount of money start-ups are burning through.,0.04545478895306587,0.09879092872142792,0.8557542562484741,neutral,-0.053336139768362045
+34,2014-10-27 22:35:00,Netscape co-founder and Andreessen Horowitz VC partner Marc Andreessen sent out a series of warning tweets last month reiterating the problem with high burn rates.,0.04654865339398384,0.8847941160202026,0.0686573013663292,negative,-0.8382454514503479
+35,2014-10-27 22:35:00,"What's not known is how long the party will last if we are in a bubble, and whether or not it will pop or simply deflate slowly.",0.013583622872829437,0.02977258898317814,0.9566437602043152,neutral,-0.0161889661103487
+36,2014-10-27 22:35:00,"Even if a bubble exists, calamity is not necessarily the next stop.",0.03266127035021782,0.0507318377494812,0.9166068434715271,neutral,-0.018070567399263382
+37,2014-10-27 22:35:00,"I have nothing against Salesforce.com or Airbnb, but I'd argue that it's rare for a tech company executive to admit (or believe) a tech bubble exists.",0.04519647732377052,0.1809457242488861,0.773857831954956,neutral,-0.13574925065040588
+38,2014-10-27 22:35:00,"Though it's hard to know exactly how it'll play out, I would side with the venture capitalists concerned about an increase in burn rates.",0.12240596860647202,0.08686418831348419,0.7907298803329468,neutral,0.035541780292987823
+39,2014-10-27 22:35:00,"If that's not convincing enough for you, perhaps some wise words spoken by Nobel Prize winner Robert Schiller earlier this year will resonate.",0.34109705686569214,0.022939523681998253,0.6359634399414062,neutral,0.31815752387046814
+40,2014-10-27 22:35:00,He thinks there is a bit of a tech bubble because people are too impressed with technology stocks.,0.03261490911245346,0.7930689454078674,0.1743161380290985,negative,-0.7604540586471558
+41,2014-10-27 22:35:00,"He ended his thoughts about a tech bubble with, ""I'm more of a stable investor who looks at long history and wants to invest for the long-term.""",0.18520240485668182,0.013058985583484173,0.8017386198043823,neutral,0.17214341461658478
+42,2014-10-27 22:35:00,"For anyone investing in tech stocks right now, that's sage advice to remember.",0.09333395957946777,0.017272843047976494,0.8893932104110718,neutral,0.07606111466884613
+43,2014-10-27 22:35:00,One bleeding-edge technology is about to put the World-Wide-Web to bed.,0.27684587240219116,0.05647279694676399,0.6666812896728516,neutral,0.22037307918071747
+44,2014-10-27 22:35:00,"And if you act right away, it could make you wildly rich.",0.19043397903442383,0.02198822796344757,0.7875778079032898,neutral,0.16844575107097626
+45,2014-10-27 22:35:00,Experts are calling it the single largest business opportunity in the history of capitalism...,0.4697682559490204,0.014931482262909412,0.5153002738952637,neutral,0.45483678579330444
+46,2014-10-27 22:35:00,"The Economist is calling it ""transformative""...",0.2920668423175812,0.02812976948916912,0.6798033714294434,neutral,0.2639370858669281
+47,2014-10-27 22:35:00,"But you'll probably just call it ""how I made my millions.""",0.05083315446972847,0.022208668291568756,0.9269581437110901,neutral,0.028624486178159714
+48,2014-10-27 22:35:00,Don't be too late to the party- click here for 1 stock to own when the web goes dark.,0.03540655970573425,0.03353281691670418,0.9310606718063354,neutral,0.001873742789030075
+49,2014-10-27 22:35:00,The article Key Warning Signs of Tech Stock Bubbles -- Are We In One?,0.1313156932592392,0.1962188482284546,0.672465443611145,neutral,-0.0649031549692154
+50,2014-10-27 22:35:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+51,2014-10-27 22:35:00,Chris Neiger has no position in any stocks mentioned.,0.012129183858633041,0.06580059975385666,0.9220702648162842,neutral,-0.05367141589522362
+52,2014-10-27 22:35:00,The Motley Fool recommends Salesforce.com and Yelp.,0.04321400076150894,0.08470280468463898,0.8720831274986267,neutral,-0.041488803923130035
+53,2014-10-27 22:35:00,The Motley Fool owns shares of Arista Networks.,0.024322157725691795,0.017890747636556625,0.9577870965003967,neutral,0.00643141008913517
+54,2014-10-27 22:35:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+55,2014-10-27 22:35:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+56,2014-10-27 22:35:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+57,2014-10-27 22:35:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+58,2014-10-27 22:35:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+59,2014-10-27 22:35:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+60,2014-10-27 22:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

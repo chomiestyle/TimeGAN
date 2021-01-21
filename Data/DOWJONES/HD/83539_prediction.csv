@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-18 07:15:00,"In early trading on Wednesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.1%.",0.9367927312850952,0.032720375806093216,0.03048689477145672,positive,0.9040723443031311
+1,2018-04-18 07:15:00,"Year to date, Home Depot has lost about 5.8% of its value.",0.01722179912030697,0.9533674716949463,0.02941073849797249,negative,-0.9361456632614136
+2,2018-04-18 07:15:00,"And the worst performing Dow component thus far on the day is International Business Machines ( IBM ), trading down 6.0%.",0.02052372507750988,0.9656340479850769,0.013842189684510231,negative,-0.9451103210449219
+3,2018-04-18 07:15:00,International Business Machines is lower by about 1.4% looking at the year to date performance.,0.02068391442298889,0.9671109318733215,0.012205093167722225,negative,-0.9464269876480103
+4,2018-04-18 07:15:00,"Two other components making moves today are Johnson & Johnson ( JNJ ), trading down 2.2%, and Exxon Mobil Corp ( XOM ), trading up 1.4% on the day.",0.03566538915038109,0.9329836368560791,0.031351007521152496,negative,-0.8973182439804077
+5,2018-04-18 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

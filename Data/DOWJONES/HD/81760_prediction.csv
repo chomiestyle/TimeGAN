@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-12-27 04:34:00,"Chicago, IL - December 27, 2018 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017656590789556503,0.008769678883254528,0.9735736846923828,neutral,0.008886911906301975
+1,2018-12-27 04:34:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2018-12-27 04:34:00,"Stocks recently featured in the blog include: Amazon AMZN , Johnson & Johnson JNJ , Home Depot HD , Medtronic MDT and Paychex PAYX .",0.02003789320588112,0.00956032332032919,0.9704017639160156,neutral,0.01047756988555193
+3,2018-12-27 04:34:00,"Here are highlights from Wednesday's Analyst Blog:
+
+The Zacks Research Daily presents the best research output of our analyst team.",0.2265114039182663,0.00957189779728651,0.7639166712760925,neutral,0.2169395089149475
+4,2018-12-27 04:34:00,"Today's Research Daily features new research reports on 16 major stocks, including Amazon, Johnson & Johnson and Home Depot.",0.04056743159890175,0.009736674837768078,0.9496959447860718,neutral,0.030830755829811096
+5,2018-12-27 04:34:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+6,2018-12-27 04:34:00,"You can see all of today's research reports here >>>
+
+Buy-ranked Amazon 's shares have outperformed the broader market year to date by a wide margin (the stock is up +14.9% vs. the -12% decline for the S&P 500 as a whole).",0.9277239441871643,0.04610912874341011,0.026166880503296852,positive,0.8816148042678833
+7,2018-12-27 04:34:00,"The Zacks analyst thinks Amazon's strengthening retail position, with the help of its growing global footprint and distribution strength, remains its key growth driver.",0.9478121995925903,0.01509299036115408,0.03709487244486809,positive,0.9327192306518555
+8,2018-12-27 04:34:00,"Moreover, robust Prime program and its benefits will continue to aid Amazon's retail business.",0.9392427206039429,0.014601691626012325,0.046155646443367004,positive,0.9246410131454468
+9,2018-12-27 04:34:00,"Also, the rapid expansion of grocery services via Prime is a major positive.",0.9215119481086731,0.014758187346160412,0.06372988224029541,positive,0.9067537784576416
+10,2018-12-27 04:34:00,"Additionally, the company's growing brick and mortar presence is a tailwind.",0.0814678743481636,0.8500711917877197,0.06846088171005249,negative,-0.7686033248901367
+11,2018-12-27 04:34:00,"Further, increasing AWS regions and its growing adoption will continue to aid Amazon's cloud momentum.",0.9387527108192444,0.014130714349448681,0.04711655527353287,positive,0.9246219992637634
+12,2018-12-27 04:34:00,"Also, a rising number of Alexa compatible devices is a major positive.",0.9177128076553345,0.01435326598584652,0.06793397665023804,positive,0.9033595323562622
+13,2018-12-27 04:34:00,The company's growing initiatives are likely to aid its performance in the current holiday season.,0.9429108500480652,0.01458266843110323,0.04250643774867058,positive,0.9283281564712524
+14,2018-12-27 04:34:00,"However, the management has lowered its sales outlook for this season due to changes in Indian holiday timing.",0.015746084973216057,0.9506974220275879,0.03355642408132553,negative,-0.9349513649940491
+15,2018-12-27 04:34:00,"Also, rising cloud battle and heavy investment in fulfillment centers are headwinds.",0.02690240740776062,0.9481162428855896,0.02498144470155239,negative,-0.9212138652801514
+16,2018-12-27 04:34:00,"Shares of Johnson & Johnson have underperformed the Zacks Large Cap Pharmaceuticals in the past six months, gaining +1% vs. +5.3%.",0.4574894309043884,0.5213969349861145,0.0211136844009161,negative,-0.06390750408172607
+17,2018-12-27 04:34:00,J&J's Pharma segment is performing better than the market in 2018 despite the impact of biosimilars on Remicade sales.,0.9293774962425232,0.04418785497546196,0.026434652507305145,positive,0.8851896524429321
+18,2018-12-27 04:34:00,"Also, the Medical Devices and Consumer units are seeing improving organic growth trends.",0.9470376968383789,0.014846541918814182,0.038115713745355606,positive,0.9321911334991455
+19,2018-12-27 04:34:00,"Though quite a few key products in J&J's portfolio are facing generic competition, the Zacks analyst thinks new products in all segments, successful label expansion of cancer drugs like Imbruvica and Darzalex and contribution from recent acquisitions will continue to drive top-line growth.",0.9084347486495972,0.012109360657632351,0.07945597916841507,positive,0.896325409412384
+20,2018-12-27 04:34:00,J&J enjoys a robust multi-year pipeline of new drugs and line extensions.,0.9192935824394226,0.013138441368937492,0.06756800413131714,positive,0.9061551690101624
+21,2018-12-27 04:34:00,"Headwinds like generics, pricing pressure and soft global market conditions remain.",0.02310333028435707,0.9418946504592896,0.0350019708275795,negative,-0.9187912940979004
+22,2018-12-27 04:34:00,Allegations that its talc/baby powders contain asbestos which causes the users to develop ovarian cancer have been an overhang on the stock's price lately.,0.027961311861872673,0.8896031379699707,0.08243555575609207,negative,-0.8616418242454529
+23,2018-12-27 04:34:00,"Buy-ranked Home Depot 's shares have lost 18.9% in the past six months, marginally underperforming the Zacks Retail Building Products industry's 17% decline.",0.018832499161362648,0.9715459942817688,0.009621539153158665,negative,-0.9527134895324707
+24,2018-12-27 04:34:00,"The company has a five-year long trend of beating earnings estimates, which continued in third-quarter fiscal 2018.",0.8670677542686462,0.06131531670689583,0.07161704450845718,positive,0.8057524561882019
+25,2018-12-27 04:34:00,"Moreover, it has delivered positive sales surprise in eight out of the last nine quarters.",0.9543998837471008,0.020249996334314346,0.025350145995616913,positive,0.9341498613357544
+26,2018-12-27 04:34:00,Results gained from strength in both professional and do-it-yourself categories.,0.9296019673347473,0.016380399465560913,0.05401766300201416,positive,0.9132215976715088
+27,2018-12-27 04:34:00,It also benefits from positive customer response for assortments as well as enhancements to drive integrated shopping experience.,0.9375815987586975,0.014285357668995857,0.048133064061403275,positive,0.9232962131500244
+28,2018-12-27 04:34:00,"The company is witnessing strength across store operations as well as digital portals, which reflect strong customer demand in the home improvement markets.",0.9434237480163574,0.014535797759890556,0.04204048216342926,positive,0.9288879632949829
+29,2018-12-27 04:34:00,"Backed by solid year-to-date performance, the company raised its earnings and sales forecast for fiscal 2018.",0.9400414824485779,0.019124679267406464,0.04083377495408058,positive,0.9209167957305908
+30,2018-12-27 04:34:00,"However, the company saw tough comps comparisons in the fiscal third quarter owing to impacts of hurricane-related sales gains in the prior year.",0.07144752144813538,0.9060474634170532,0.02250502072274685,negative,-0.8345999717712402
+31,2018-12-27 04:34:00,Higher supply chain and transportation costs also continue to hurt margins.,0.01785552315413952,0.9682148694992065,0.013929581269621849,negative,-0.9503593444824219
+32,2018-12-27 04:34:00,Other noteworthy reports we are featuring today include Medtronic and Paychex.,0.02949587255716324,0.0062688798643648624,0.9642351865768433,neutral,0.023226993158459663
+33,2018-12-27 04:34:00,"It's hard to believe, even for us at Zacks.",0.08736173063516617,0.254048228263855,0.6585900187492371,neutral,-0.1666865050792694
+34,2018-12-27 04:34:00,"But while the market gained +21.9% in 2017, our top stock-picking screens have returned +115.0%, +109.3%, +104.9%, +98.6%, and +67.1%.",0.5075593590736389,0.04700726270675659,0.4454334080219269,positive,0.4605520963668823
+35,2018-12-27 04:34:00,And this outperformance has not just been a recent phenomenon.,0.07535909861326218,0.015217346139252186,0.9094235301017761,neutral,0.060141753405332565
+36,2018-12-27 04:34:00,Over the years it has been remarkably consistent.,0.6927107572555542,0.013971779495477676,0.29331743717193604,positive,0.6787389516830444
+37,2018-12-27 04:34:00,"From 2000 - 2017, the composite yearly average gain for these strategies has beaten the market more than 19X over.",0.7464389204978943,0.10755439102649689,0.14600670337677002,positive,0.6388845443725586
+38,2018-12-27 04:34:00,Maybe even more remarkable is the fact that we're willing to share their latest stocks with you without cost or obligation.,0.5744941830635071,0.01052891369909048,0.41497692465782166,positive,0.5639652609825134
+39,2018-12-27 04:34:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+40,2018-12-27 04:34:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+41,2018-12-27 04:34:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+42,2018-12-27 04:34:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+43,2018-12-27 04:34:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+44,2018-12-27 04:34:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+45,2018-12-27 04:34:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+46,2018-12-27 04:34:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+47,2018-12-27 04:34:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+48,2018-12-27 04:34:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+49,2018-12-27 04:34:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+50,2018-12-27 04:34:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+51,2018-12-27 04:34:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2018-12-27 04:34:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2018-12-27 04:34:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+54,2018-12-27 04:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

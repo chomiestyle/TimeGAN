@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-01 05:03:00,The two leading home improvement retailers have been good places to park some money over the years.,0.5074782967567444,0.017994370311498642,0.4745272994041443,positive,0.48948392271995544
+1,2019-03-01 05:03:00,"Lowe's (NYSE: LOW) and Home Depot (NYSE: HD) have benefited from positive homeownership trends and, most recently, rising home prices, which have caused more homeowners to stay where they are and fix up their dwellings instead of moving.",0.9307371377944946,0.02223081886768341,0.04703211039304733,positive,0.9085063338279724
+2,2019-03-01 05:03:00,"Over the last five years, both stocks have more than doubled shareholders' money.",0.820574164390564,0.01513822004199028,0.16428767144680023,positive,0.8054359555244446
+3,2019-03-01 05:03:00,"Home Depot has a slight edge, beating the return on Lowe's stock, 126% to 110%.",0.8763460516929626,0.060646094381809235,0.06300781667232513,positive,0.8156999349594116
+4,2019-03-01 05:03:00,One reason is that Lowe's has suffered from operational issues that pressured growth in revenue and profits.,0.026251137256622314,0.9544764161109924,0.019272441044449806,negative,-0.9282252788543701
+5,2019-03-01 05:03:00,"The numbers reveal two completely different companies
+
+The recent operating performance shows Home Depot is a better-run company.",0.8998693227767944,0.04897154122591019,0.0511590912938118,positive,0.8508977890014648
+6,2019-03-01 05:03:00,"In 2018, Lowe's revenue grew 3.9%, while Home Depot sales climbed 7.2%.",0.942360520362854,0.017439553514122963,0.04019991308450699,positive,0.9249209761619568
+7,2019-03-01 05:03:00,"In the last quarter of the year, Lowe's reported just 1.7% growth in comparable-store sales, but Home Depot's comps growth was higher at 3.2%.",0.782534122467041,0.029732055962085724,0.1877337098121643,positive,0.7528020739555359
+8,2019-03-01 05:03:00,Lowe's slower growth was not based on weak traffic but several execution issues throughout the company.,0.03230244666337967,0.9212387800216675,0.046458784490823746,negative,-0.8889363408088684
+9,2019-03-01 05:03:00,"Management cited inefficient inventory management, poor customer service, poor merchandise assortment, and other execution issues.",0.018566938117146492,0.9632920026779175,0.018141038715839386,negative,-0.9447250366210938
+10,2019-03-01 05:03:00,These problems are evident in the wide disparity between both companies' margins.,0.02352626994252205,0.8898336887359619,0.08664009720087051,negative,-0.8663074374198914
+11,2019-03-01 05:03:00,"In 2018, Lowe's reported a gross margin of 32.1% and an operating margin of 5.6% -- with both numbers down from 2017 levels.",0.017363283783197403,0.9710871577262878,0.01154961995780468,negative,-0.9537238478660583
+12,2019-03-01 05:03:00,"Meanwhile, Home Depot's gross margin slightly improved to 34.3% last year, and the operating margin remained firm at 14.3%.",0.9574493169784546,0.022855103015899658,0.01969560608267784,positive,0.9345942139625549
+13,2019-03-01 05:03:00,Home Depot's higher margins are a sign of much better store execution and more efficient inventory management.,0.9467017650604248,0.01668865978717804,0.03660963475704193,positive,0.930013120174408
+14,2019-03-01 05:03:00,"Better execution leads to better stock returns
+
+It's eye-opening to see the discrepancy between these two home improvement stores, especially given that they serve the same market and are benefiting from the same housing trends.",0.4945184886455536,0.07357136160135269,0.43191012740135193,positive,0.4209471344947815
+15,2019-03-01 05:03:00,"The difference in performance goes to show that not all companies are made the same, even ones that compete in the same industry and look identical on the surface.",0.13602860271930695,0.017104271799325943,0.8468670845031738,neutral,0.1189243346452713
+16,2019-03-01 05:03:00,"Before you invest in a stock, it pays to look beneath the headline numbers and see what's really going on.",0.0445907823741436,0.022724682465195656,0.932684600353241,neutral,0.021866099908947945
+17,2019-03-01 05:03:00,Both companies grew revenue at about the same rate over the last five years.,0.6911929249763489,0.011476660147309303,0.29733040928840637,positive,0.6797162890434265
+18,2019-03-01 05:03:00,But Lowe's operating-income growth started to lag Home Depot's in 2016.,0.05882826820015907,0.9089697003364563,0.032202038913965225,negative,-0.8501414060592651
+19,2019-03-01 05:03:00,A deceleration in operating-income growth is a sign of bloated operating expenses.,0.0236187893897295,0.9607922434806824,0.015588944777846336,negative,-0.9371734261512756
+20,2019-03-01 05:03:00,This was the early sign that Lowe's had execution issues.,0.1052420362830162,0.711626410484314,0.18313151597976685,negative,-0.6063843965530396
+21,2019-03-01 05:03:00,Management at Lowe's announced during the third-quarter conference call in 2018 that it had a plan to fix the execution problems.,0.5553429126739502,0.07207007706165314,0.3725869953632355,positive,0.48327285051345825
+22,2019-03-01 05:03:00,"However, one analyst with Barclays wasn't impressed and downgraded the stock anyway.",0.02104813978075981,0.9135543704032898,0.0653974786400795,negative,-0.8925062417984009
+23,2019-03-01 05:03:00,"The analyst said that while Lowe's may eventually narrow the gap with Home Depot, turnaround initiatives that focus on fixing labor execution tend to take awhile.",0.7775986790657043,0.08209247887134552,0.14030887186527252,positive,0.69550621509552
+24,2019-03-01 05:03:00,"In other words, Lowe's problems will likely take more than a year to fix.",0.1167604848742485,0.03455570712685585,0.8486838340759277,neutral,0.08220477402210236
+25,2019-03-01 05:03:00,"Other analysts seem to have the same opinion, as the consensus analyst estimate calls for Lowe's to grow revenue 1.8% in fiscal 2020 (which ends in January), while analysts expect Home Depot to maintain its faster pace of growth at 3.4% this year.",0.9373905658721924,0.0185198076069355,0.044089607894420624,positive,0.918870747089386
+26,2019-03-01 05:03:00,This isn't a good time for Lowe's to have to spend resources to fix problems that it shouldn't have at this point.,0.09015462547540665,0.4614242613315582,0.4484211802482605,negative,-0.3712696433067322
+27,2019-03-01 05:03:00,"Because Home Depot is humming along, it's focused on spending money in areas that expand its moat, particularly on the digital side of the business .",0.5032716989517212,0.010353438556194305,0.4863748252391815,positive,0.4929182529449463
+28,2019-03-01 05:03:00,"Team Orange delivered a 23% growth rate in online sales during the fourth quarter, versus just 11% for Team Blue.",0.9525406360626221,0.025122076272964478,0.022337330505251884,positive,0.92741858959198
+29,2019-03-01 05:03:00,"Lowe's will eventually fix the problems, but in the meantime, shareholders should stick with the company that has delivered more consistent results, especially given that the two stocks trade for about the same forward P/E multiple of 18 based on analysts' earnings estimates.",0.7766512036323547,0.03308591991662979,0.19026289880275726,positive,0.7435652613639832
+30,2019-03-01 05:03:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+31,2019-03-01 05:03:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+32,2019-03-01 05:03:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+33,2019-03-01 05:03:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2019-03-01 05:03:00,John Ballard has no position in any of the stocks mentioned.,0.009611976332962513,0.03697148710489273,0.9534165859222412,neutral,-0.027359511703252792
+35,2019-03-01 05:03:00,The Motley Fool recommends Home Depot and Lowe's.,0.02802175283432007,0.032823480665683746,0.9391547441482544,neutral,-0.004801727831363678
+36,2019-03-01 05:03:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2019-03-01 05:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

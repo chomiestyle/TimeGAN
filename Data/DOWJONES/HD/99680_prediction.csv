@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-01-07 08:51:00,"In early trading on Wednesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.5%.",0.9373747706413269,0.03236469626426697,0.030260585248470306,positive,0.9050101041793823
+1,2015-01-07 08:51:00,"Year to date, Home Depot has lost about 1.5% of its value.",0.017087876796722412,0.953608512878418,0.02930361032485962,negative,-0.9365206360816956
+2,2015-01-07 08:51:00,"And the worst performing Dow component thus far on the day is International Business Machines ( IBM ), trading down 0.4%.",0.021240685135126114,0.9657923579216003,0.012966945767402649,negative,-0.9445516467094421
+3,2015-01-07 08:51:00,International Business Machines is lower by about 3.2% looking at the year to date performance.,0.020442809909582138,0.9670398235321045,0.01251734234392643,negative,-0.9465970396995544
+4,2015-01-07 08:51:00,"Two other components making moves today are Procter & Gamble ( PG ), trading up 0.1%, and American Express ( AXP ), trading up 2.1% on the day.",0.871558427810669,0.03298242762684822,0.09545917063951492,positive,0.8385760188102722
+5,2015-01-07 08:51:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

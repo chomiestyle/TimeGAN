@@ -1,0 +1,61 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-06-19 04:30:00,One of the important keys to successful investing is the proper identification of overpriced stocks and correctly priced ones.,0.25752145051956177,0.00778996804729104,0.7346885800361633,neutral,0.24973148107528687
+1,2017-06-19 04:30:00,"However, in reality, the overpriced toxic stocks and the fairly priced stocks are intermingled in the market place in such a way that it becomes extremely difficult to distinguish them.",0.028426555916666985,0.1927797496318817,0.7787936925888062,neutral,-0.16435319185256958
+2,2017-06-19 04:30:00,Investors who can figure out the toxic stocks and abandon them at the right time are likely to gain.,0.5810564756393433,0.08247625827789307,0.3364672064781189,positive,0.4985802173614502
+3,2017-06-19 04:30:00,"Generally, toxic stocks are susceptible to external shocks and are loaded with huge debts.",0.044029850512742996,0.23742495477199554,0.718545138835907,neutral,-0.19339510798454285
+4,2017-06-19 04:30:00,"Also, sometimes, the price of the toxic stocks is unjustifiably inflated.",0.06517556309700012,0.5643043518066406,0.37052008509635925,negative,-0.4991287887096405
+5,2017-06-19 04:30:00,The irrationally high price of the toxic stocks is only temporary as the intrinsic value of these stocks is lower than the current bloated price.,0.02460981346666813,0.8938872218132019,0.08150285482406616,negative,-0.8692774176597595
+6,2017-06-19 04:30:00,The inflated price of the toxic stocks can be due to either an irrational exuberance associated with them or some serious fundamental drawback.,0.030512118712067604,0.500529944896698,0.46895796060562134,negative,-0.47001782059669495
+7,2017-06-19 04:30:00,"If you own such stocks for a very long period of time, you are sure to see huge erosion in your wealth.",0.03326597809791565,0.8577721118927002,0.10896189510822296,negative,-0.8245061635971069
+8,2017-06-19 04:30:00,"On the other hand, if you can pinpoint the toxic stocks accurately, you may gain by resorting to an investing strategy called short selling.",0.20212168991565704,0.01440728921443224,0.7834710478782654,neutral,0.18771439790725708
+9,2017-06-19 04:30:00,This strategy allows you to sell a stock first and then buy it when the price falls.,0.028492551296949387,0.0071497210301458836,0.9643576741218567,neutral,0.02134283073246479
+10,2017-06-19 04:30:00,"While short selling excels in bear markets, it typically loses money in bull markets.",0.0723898857831955,0.4307730793952942,0.4968370795249939,neutral,-0.3583831787109375
+11,2017-06-19 04:30:00,"So, identifying toxic stocks and throwing them away at the right time is the key to protect your portfolio from big losses or make profits by short selling them.",0.09357531368732452,0.027475299313664436,0.8789493441581726,neutral,0.06610001623630524
+12,2017-06-19 04:30:00,"Here is a winning strategy that will help you to identify overpriced toxic stocks:
+
+Most recent Debt/Equity Ratio greater than the median industry average : High debt/equity ratio implies high leverage.",0.5066813230514526,0.01784672774374485,0.4754719138145447,positive,0.48883458971977234
+13,2017-06-19 04:30:00,High leverage indicates a huge level of repayment that the company has to make in connection with the debt amount.,0.12934015691280365,0.012604632414877415,0.8580551743507385,neutral,0.11673552542924881
+14,2017-06-19 04:30:00,P/E using 12-month forward EPS estimate greater than 50 : A very high forward P/E implies that a stock is highly overvalued.,0.27337369322776794,0.15099157392978668,0.5756346583366394,neutral,0.12238211929798126
+15,2017-06-19 04:30:00,% Change in F (1) and F (2) Estimate (12 Weeks) less than -5 : Negative EPS estimate revision for this and the next fiscal year during the past 12 weeks points to analysts' pessimism.,0.02289821207523346,0.9613451361656189,0.015756601467728615,negative,-0.9384469389915466
+16,2017-06-19 04:30:00,Zacks Rank more than or equal to #3 (Hold) : We have not considered Buy-rated stocks that generally outperform the market.,0.06852714717388153,0.08168552070856094,0.8497873544692993,neutral,-0.013158373534679413
+17,2017-06-19 04:30:00,"Here are five of the 19 toxic stocks that showed up on the screen:
+
+Etsy, Inc.ETSY is a Brooklyn, NY-based Internet services company.",0.014630794525146484,0.0953952968120575,0.8899739384651184,neutral,-0.08076450228691101
+18,2017-06-19 04:30:00,"It operates a marketplace to make, sell and buy goods online and offline worldwide.",0.043769121170043945,0.004551163874566555,0.9516796469688416,neutral,0.039217956364154816
+19,2017-06-19 04:30:00,"Over the last 30 days, its quarter estimates widened from a loss of a penny per share to a loss of 2 cents.",0.057902950793504715,0.9222128987312317,0.019884170964360237,negative,-0.8643099665641785
+20,2017-06-19 04:30:00,The company has a Zacks Rank #3.,0.3151754140853882,0.021197421476244926,0.6636272072792053,neutral,0.2939780056476593
+21,2017-06-19 04:30:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+22,2017-06-19 04:30:00,"Live Nation Entertainment, Inc.LYV is a Beverly Hills, CA-based live entertainment company.",0.023388201370835304,0.005737757310271263,0.970874011516571,neutral,0.01765044406056404
+23,2017-06-19 04:30:00,"Over the past 30 days, its second-quarter 2017 estimates remained unchanged at 17 cents a share.",0.12495975196361542,0.5679605603218079,0.3070797324180603,negative,-0.44300079345703125
+24,2017-06-19 04:30:00,The stock currently has a Zacks Rank #3.,0.1364876627922058,0.011149837635457516,0.8523624539375305,neutral,0.12533782422542572
+25,2017-06-19 04:30:00,"Salesforce.com, inc.CRM is a San Francisco, CA-based computer software industry firm.",0.02325519733130932,0.0062089585699141026,0.9705358147621155,neutral,0.017046239227056503
+26,2017-06-19 04:30:00,"Over the past one month period, its second quarter earnings estimate has declined 18.2% to 9 cents a share.",0.018884040415287018,0.9719575643539429,0.009158406406641006,negative,-0.9530735015869141
+27,2017-06-19 04:30:00,"Currently, the company carries a Zacks Rank #3.",0.078742116689682,0.010858613066375256,0.9103992581367493,neutral,0.06788350641727448
+28,2017-06-19 04:30:00,"Boston, MA-based, Vertex Pharmaceuticals IncorporatedVRTX is a biotechnology company.",0.019998321309685707,0.005646068137139082,0.9743555784225464,neutral,0.014352252706885338
+29,2017-06-19 04:30:00,"Over the past one-month period, current quarter estimates remained unchanged at 5 cents per share.",0.16656842827796936,0.34164369106292725,0.4917878806591034,neutral,-0.17507526278495789
+30,2017-06-19 04:30:00,The stock currently has a Zacks Rank #3.,0.1364876627922058,0.011149837635457516,0.8523624539375305,neutral,0.12533782422542572
+31,2017-06-19 04:30:00,"NeoGenomics, Inc.NEO is a Fort Myers, FL-based company belonging to the biomedical and genetics industry.",0.019649889320135117,0.005806745961308479,0.9745433330535889,neutral,0.013843143358826637
+32,2017-06-19 04:30:00,"Over the past one-month period, current quarter estimates remained unchanged at 2 cents per share.",0.1665237545967102,0.3614615797996521,0.4720146358013153,neutral,-0.1949378252029419
+33,2017-06-19 04:30:00,The stock currently has a Zacks Rank #3.,0.1364876627922058,0.011149837635457516,0.8523624539375305,neutral,0.12533782422542572
+34,2017-06-19 04:30:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+35,2017-06-19 04:30:00,It can all be done with the Research Wizard stock picking and backtesting software.,0.02909490093588829,0.007561055943369865,0.9633440375328064,neutral,0.021533844992518425
+36,2017-06-19 04:30:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+37,2017-06-19 04:30:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+38,2017-06-19 04:30:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+39,2017-06-19 04:30:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+40,2017-06-19 04:30:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+41,2017-06-19 04:30:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+42,2017-06-19 04:30:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+43,2017-06-19 04:30:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+44,2017-06-19 04:30:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material .,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+45,2017-06-19 04:30:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at : https://www.zacks.com/performance .,0.01448096428066492,0.00816013291478157,0.9773589372634888,neutral,0.00632083136588335
+46,2017-06-19 04:30:00,"Zacks Restaurant Recommendations : In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+47,2017-06-19 04:30:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+48,2017-06-19 04:30:00,"Download it free »
+
+Want the latest recommendations from Zacks Investment Research?",0.03019636683166027,0.01505932118743658,0.9547443389892578,neutral,0.01513704564422369
+49,2017-06-19 04:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+50,2017-06-19 04:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+51,2017-06-19 04:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

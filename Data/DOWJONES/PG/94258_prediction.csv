@@ -1,0 +1,30 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-04-24 05:55:00,Stock futures are mixed this morning as markets digest another bevy of corporate earnings and a disappointing report on durable goods orders in the United States.,0.03566046804189682,0.9384319186210632,0.025907598435878754,negative,-0.9027714729309082
+1,2013-04-24 05:55:00,"After yesterday's close, Apple ( AAPL ) announced that though profits fell, it still beat Wall Street's expectations.",0.6431254148483276,0.3062489926815033,0.05062555521726608,positive,0.33687642216682434
+2,2013-04-24 05:55:00,It earned $10.09 per share on revenue of $43.6 billion.,0.10951763391494751,0.027969393879175186,0.8625129461288452,neutral,0.08154824376106262
+3,2013-04-24 05:55:00,It cut its guidance for the current quarter below analyst estimates.,0.021815167739987373,0.9450967907905579,0.033088017255067825,negative,-0.9232816100120544
+4,2013-04-24 05:55:00,"To appease investors upset with the precipitous share price decline, the company will double its return of capital to shareholders by raising its dividend by 15% and buying back $60 billion in shares.",0.893538773059845,0.015484335832297802,0.09097692370414734,positive,0.8780544400215149
+5,2013-04-24 05:55:00,"To do so, Apple will issue debt.",0.056709740310907364,0.00571754015982151,0.9375727772712708,neutral,0.050992198288440704
+6,2013-04-24 05:55:00,"Shares dipped $8.00, or 2% from yesterday's close.",0.022291600704193115,0.9669352173805237,0.010773119516670704,negative,-0.9446436166763306
+7,2013-04-24 05:55:00,AT&T ( T ) also fell in the pre-market after reporting lower than expected earnings.,0.018412215635180473,0.9724681973457336,0.009119571186602116,negative,-0.9540559649467468
+8,2013-04-24 05:55:00,"The company brought 296,000 new customers to its wireless business over the quarter, while rival Verizon ( VZ ) added 677,000.",0.876232385635376,0.014676193706691265,0.10909149795770645,positive,0.8615561723709106
+9,2013-04-24 05:55:00,Procter&Gamble ( PG ) beat profit estimates but trailed on revenue.,0.09570818394422531,0.8667290210723877,0.03756282478570938,negative,-0.7710208296775818
+10,2013-04-24 05:55:00,The company reported earnings of $0.99 per share on $20.6 billion in revenue.,0.10688251256942749,0.01030635740607977,0.8828111290931702,neutral,0.09657615423202515
+11,2013-04-24 05:55:00,Shares are off by more than 3% in pre-market trading.,0.0183779988437891,0.9697093963623047,0.011912691406905651,negative,-0.951331377029419
+12,2013-04-24 05:55:00,EBay ( EBAY ) rose 0.69% this morning after Wells Fargo (WFC) raised its rating on the retailer to outperform from market perform.,0.9263058304786682,0.05012086033821106,0.023573290556669235,positive,0.8761849403381348
+13,2013-04-24 05:55:00,"Ford (F) reported earnings of $0.41 per share on $35.8 billion in revenue, beating estimates.",0.888704776763916,0.06878894567489624,0.04250631481409073,positive,0.8199158310890198
+14,2013-04-24 05:55:00,"While it earned $2.4 billion in North America, the automaker lost $462 million in Europe, tripling the loss in the region a year ago.",0.0202782042324543,0.9700904488563538,0.009631296619772911,negative,-0.9498122334480286
+15,2013-04-24 05:55:00,Ford announced that it expects to lose $2 billion in Europe in 2013.,0.018425101414322853,0.9561359286308289,0.025438906624913216,negative,-0.9377108216285706
+16,2013-04-24 05:55:00,Germany's Ifo index showed that business sentiment fell for the second straight time this month.,0.019590532407164574,0.9714118838310242,0.008997543714940548,negative,-0.9518213272094727
+17,2013-04-24 05:55:00,The index fell to 104.4 from 106.7 in March.,0.016782857477664948,0.9738193154335022,0.009397783316671848,negative,-0.9570364356040955
+18,2013-04-24 05:55:00,European shares rose this morning on reports that the European Central Bank is ready to cut interest rates in response to the constant barrage of nasty economic data.,0.701252281665802,0.17621298134326935,0.12253467738628387,positive,0.5250393152236938
+19,2013-04-24 05:55:00,The bank last cut rates in July 2012.,0.10180501639842987,0.6002736687660217,0.2979212999343872,negative,-0.49846863746643066
+20,2013-04-24 05:55:00,The ECB meets next week in Bratislava.,0.05642693117260933,0.024845004081726074,0.9187280535697937,neutral,0.031581927090883255
+21,2013-04-24 05:55:00,Durable goods orders in the US fell far more than expected in March.,0.018141109496355057,0.9734780192375183,0.008380843326449394,negative,-0.9553369283676147
+22,2013-04-24 05:55:00,New orders fell 5.7% after February's downwardly revised 4.3%.,0.0223859790712595,0.9694197177886963,0.0081942742690444,negative,-0.9470337629318237
+23,2013-04-24 05:55:00,Economists only expected to see a 2.8% drop in orders.,0.019566750153899193,0.9683080911636353,0.012125113978981972,negative,-0.9487413167953491
+24,2013-04-24 05:55:00,"Excluding transportation, durable orders fell 1.4%.",0.021729731932282448,0.9696988463401794,0.00857135746628046,negative,-0.9479691386222839
+25,2013-04-24 05:55:00,Stock futures are mixed this morning.,0.08098733425140381,0.7278636693954468,0.19114893674850464,negative,-0.646876335144043
+26,2013-04-24 05:55:00,"Dow (INDEXDJX:.DJI) futures are up 0.20% at 14,674 and S&P (INDEXSP:.INX) futures rose 0.09% to 1,575.00.",0.930101752281189,0.030764194205403328,0.039134010672569275,positive,0.8993375301361084
+27,2013-04-24 05:55:00,"Futures on the Nasdaq (INDEXNASDAQ:.IXIC) index, over which Apple has an outsized 12.3% influence, declined 0.07% to 2,821.00.",0.022557342424988747,0.9654158353805542,0.012026944197714329,negative,-0.9428585171699524
+28,2013-04-24 05:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

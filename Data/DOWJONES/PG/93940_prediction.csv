@@ -1,0 +1,40 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-05-14 00:39:00,"The NASDAQ 100 After Hours Indicator is up 9.56 to 3,602.81.",0.9065461754798889,0.0357433557510376,0.057710468769073486,positive,0.8708028197288513
+1,2014-05-14 00:39:00,"The total After hours volume is currently 31,739,495 shares traded.",0.013071799650788307,0.009310952387750149,0.9776172637939453,neutral,0.0037608472630381584
+2,2014-05-14 00:39:00,"The following are the most active stocks for the after hours session :
+
+Cisco Systems, Inc. ( CSCO ) is +1.8101 at $24.62, with 6,454,450 shares traded.",0.025113549083471298,0.03001292049884796,0.9448735117912292,neutral,-0.004899371415376663
+3,2014-05-14 00:39:00,"RTT News Reports: Cisco Q3 Results Top Estimates
+
+Rio Tinto Plc ( RIO ) is +0.02 at $56.42, with 1,801,434 shares traded.RIO is scheduled to provide an earnings report on 5/15/2014, for the fiscal quarter ending Mar2014.",0.0328192301094532,0.028445517644286156,0.93873530626297,neutral,0.004373712465167046
+4,2014-05-14 00:39:00,"The consensus earnings per share forecast is 999 per share, which represents a 99,900 percent increase over the EPS one Year Ago
+
+SLM Corporation ( SLM ) is unchanged at $8.90, with 1,583,173 shares traded.",0.8436137437820435,0.05032849684357643,0.10605783015489578,positive,0.7932852506637573
+5,2014-05-14 00:39:00,"As reported by Zacks, the current mean recommendation for SLM is in the ""buy range"".",0.04728725180029869,0.012719603255391121,0.939993143081665,neutral,0.03456764668226242
+6,2014-05-14 00:39:00,"PowerShares QQQ Trust, Series 1 ( QQQ ) is +0.15 at $87.98, with 1,453,935 shares traded.",0.07407691329717636,0.045148104429244995,0.8807749152183533,neutral,0.028928808867931366
+7,2014-05-14 00:39:00,This represents a 27.23% increase from its 52 Week Low.,0.9514707922935486,0.025409018620848656,0.023120122030377388,positive,0.926061749458313
+8,2014-05-14 00:39:00,"Procter & Gamble Company (The) ( PG ) is unchanged at $81.17, with 1,293,068 shares traded.",0.023510806262493134,0.061692558228969574,0.9147965908050537,neutral,-0.03818175196647644
+9,2014-05-14 00:39:00,"Over the last four weeks they have had 5 up revisions for the earnings forecast, for the fiscal quarter ending Sep 2014.",0.06727861613035202,0.10226373374462128,0.8304576277732849,neutral,-0.03498511761426926
+10,2014-05-14 00:39:00,The consensus EPS forecast is $1.16.,0.0537048801779747,0.02610059827566147,0.9201945066452026,neutral,0.027604281902313232
+11,2014-05-14 00:39:00,PG's current last sale is 92.24% of the target price of $88.,0.017506949603557587,0.008881503716111183,0.9736115336418152,neutral,0.008625445887446404
+12,2014-05-14 00:39:00,"MasTec, Inc. ( MTZ ) is unchanged at $39.68, with 1,205,486 shares traded.",0.03448530286550522,0.029768966138362885,0.9357457756996155,neutral,0.004716336727142334
+13,2014-05-14 00:39:00,"Over the last four weeks they have had 4 up revisions for the earnings forecast, for the fiscal quarter ending Dec 2014.",0.06903887540102005,0.09718247503042221,0.8337786793708801,neutral,-0.02814359962940216
+14,2014-05-14 00:39:00,The consensus EPS forecast is $0.74.,0.036708634346723557,0.0327850766479969,0.9305062890052795,neutral,0.003923557698726654
+15,2014-05-14 00:39:00,As reported in the last short interest update the days to cover for MTZ is 13.499882; this calculation is based on the average trading volume of the stock.,0.011674224399030209,0.01769140549004078,0.970634400844574,neutral,-0.0060171810910105705
+16,2014-05-14 00:39:00,"Taiwan Semiconductor Manufacturing Company Ltd. ( TSM ) is unchanged at $20.58, with 1,038,783 shares traded.",0.04935464262962341,0.10456597059965134,0.846079409122467,neutral,-0.055211327970027924
+17,2014-05-14 00:39:00,"As reported by Zacks, the current mean recommendation for TSM is in the ""strong buy range"".",0.18354664742946625,0.019814344123005867,0.7966390252113342,neutral,0.16373230516910553
+18,2014-05-14 00:39:00,"Insys Therapeutics, Inc. ( INSY ) is unchanged at $23.01, with 1,016,114 shares traded.",0.03279413655400276,0.08682078123092651,0.8803850412368774,neutral,-0.05402664467692375
+19,2014-05-14 00:39:00,"As reported by Zacks, the current mean recommendation for INSY is in the ""strong buy range"".",0.20237071812152863,0.0208953358232975,0.7767339944839478,neutral,0.18147538602352142
+20,2014-05-14 00:39:00,"Zions Bancorporation ( ZIONW ) is -0.34 at $4.69, with 1,000,000 shares traded.",0.0269763320684433,0.08420305699110031,0.8888205885887146,neutral,-0.05722672492265701
+21,2014-05-14 00:39:00,"Mitsubishi UFJ Financial Group Inc ( MTU ) is +0.0057 at $5.69, with 917,300 shares traded.MTU is scheduled to provide an earnings report on 5/21/2014, for the fiscal quarter ending Mar2014.",0.02563987486064434,0.018940357491374016,0.9554197192192078,neutral,0.006699517369270325
+22,2014-05-14 00:39:00,"The consensus earnings per share forecast is 999 per share, which represents a 24 percent increase over the EPS one Year Ago
+
+Broadcom Corporation ( BRCM ) is +0.07 at $29.90, with 901,539 shares traded.",0.946325957775116,0.022125519812107086,0.031548529863357544,positive,0.9242004156112671
+23,2014-05-14 00:39:00,"Over the last four weeks they have had 6 up revisions for the earnings forecast, for the fiscal quarter ending Jun 2014.",0.06442101299762726,0.06536763906478882,0.8702113628387451,neutral,-0.0009466260671615601
+24,2014-05-14 00:39:00,The consensus EPS forecast is $0.4.,0.03309677541255951,0.035036202520132065,0.9318670034408569,neutral,-0.0019394271075725555
+25,2014-05-14 00:39:00,"As reported by Zacks, the current mean recommendation for BRCM is in the ""buy range"".",0.0553998239338398,0.010986151173710823,0.9336140155792236,neutral,0.044413670897483826
+26,2014-05-14 00:39:00,"Bank of America Corporation ( BAC ) is +0.01 at $14.85, with 635,164 shares traded.",0.03502048924565315,0.034570660442113876,0.9304088354110718,neutral,0.0004498288035392761
+27,2014-05-14 00:39:00,"Over the last four weeks they have had 3 up revisions for the earnings forecast, for the fiscal quarter ending Sep 2014.",0.06807933002710342,0.09186603873968124,0.8400546312332153,neutral,-0.02378670871257782
+28,2014-05-14 00:39:00,The consensus EPS forecast is $0.33.,0.036028917878866196,0.03164093568921089,0.9323301911354065,neutral,0.004387982189655304
+29,2014-05-14 00:39:00,BAC's current last sale is 83.66% of the target price of $17.75.,0.02189408428966999,0.00734206335619092,0.9707638025283813,neutral,0.014552021399140358
+30,2014-05-14 00:39:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

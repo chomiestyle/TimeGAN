@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-05 07:16:00,"In early trading on Wednesday, shares of Chesapeake Energy ( CHK ) topped the list of the day's best performing components of the S&P 500 index, trading up 3.9%.",0.9422714114189148,0.028636503964662552,0.029091985896229744,positive,0.9136348962783813
+1,2016-10-05 07:16:00,"Year to date, Chesapeake Energy registers a 47.0% gain.",0.9419798254966736,0.018349111080169678,0.0396711528301239,positive,0.9236307144165039
+2,2016-10-05 07:16:00,"And the worst performing S&P 500 component thus far on the day is Salesforce.com ( CRM ), trading down 7.5%.",0.020878439769148827,0.9673795104026794,0.01174202561378479,negative,-0.9465010762214661
+3,2016-10-05 07:16:00,Salesforce.com is lower by about 14.3% looking at the year to date performance.,0.019882913678884506,0.9682741165161133,0.011842984706163406,negative,-0.9483911991119385
+4,2016-10-05 07:16:00,"Two other components making moves today are Acuity Brands ( AYI ), trading down 5.5%, and Constellation Brands ( STZ ), trading up 3.1% on the day.",0.030623283237218857,0.9180710315704346,0.051305655390024185,negative,-0.8874477744102478
+5,2016-10-05 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-05 22:21:00,"Technology stocks were recording small gains, with shares of tech companies in the S&P 500 climbing about 0.2% in recent trade.",0.8567801117897034,0.07993242144584656,0.06328746676445007,positive,0.7768477201461792
+1,2016-10-05 22:21:00,"In company news, Park Electrochemical Corp ( PKE ) declined Thursday after the electronic components company reported falling fiscal Q2 net income and sales compared with year-ago levels.",0.02097126469016075,0.9692803621292114,0.009748402051627636,negative,-0.9483091235160828
+2,2016-10-05 22:21:00,"Excluding one-time items, Park earned $0.10 per share, down from $0.23 per share during the same quarter last year.",0.017245959490537643,0.9722554087638855,0.010498675517737865,negative,-0.9550094604492188
+3,2016-10-05 22:21:00,prior year period.,0.011613575741648674,0.018109777942299843,0.9702765941619873,neutral,-0.006496202200651169
+4,2016-10-05 22:21:00,Net sales dropped 23.2% year-over-year to $29.1 million.,0.017592525109648705,0.9735562801361084,0.008851232007145882,negative,-0.9559637308120728
+5,2016-10-05 22:21:00,Analyst estimates were not available for comparison.,0.009185158647596836,0.03940944746136665,0.95140540599823,neutral,-0.030224289745092392
+6,2016-10-05 22:21:00,"PKE shares were down almost 8% at $16.32 each, earlier sinking to a session low of $15.70 a share.",0.019358064979314804,0.9696022868156433,0.011039689183235168,negative,-0.9502442479133606
+7,2016-10-05 22:21:00,"(+) QTM, (+5.6%) Forecasts Q2 revenue in a range of $132 mln to $134 mln, exceeding Capital IQ consensus by at least $12.1 mln.",0.9301654696464539,0.02814335562288761,0.04169120639562607,positive,0.902022123336792
+8,2016-10-05 22:21:00,Also sees break-even EPS.,0.2346750944852829,0.42704641819000244,0.3382784426212311,negative,-0.19237132370471954
+9,2016-10-05 22:21:00,"(-) TWTR , (-20.8%) Disney ( DIS ) and Alphabet (GOOG,GOOGL) reportedly drop out of bidding process, leaving Salesforce.com ( CRM ) as the lone likely suitor.",0.016108589246869087,0.945225179195404,0.03866622596979141,negative,-0.9291166067123413
+10,2016-10-05 22:21:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597
+11,2016-10-05 22:21:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+12,2016-10-05 22:21:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+13,2016-10-05 22:21:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

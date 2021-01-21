@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-04-27 07:24:00,"In early trading on Monday, shares of Apple ( AAPL ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.1%.",0.9387412667274475,0.031236713752150536,0.030022019520401955,positive,0.9075045585632324
+1,2015-04-27 07:24:00,"Year to date, Apple registers a 20.5% gain.",0.9418433904647827,0.024094322696328163,0.034062325954437256,positive,0.9177490472793579
+2,2015-04-27 07:24:00,"And the worst performing Dow component thus far on the day is American Express ( AXP ), trading down 0.7%.",0.02145669423043728,0.9647485017776489,0.013794721104204655,negative,-0.9432917833328247
+3,2015-04-27 07:24:00,American Express is lower by about 16.7% looking at the year to date performance.,0.020863700658082962,0.9652891755104065,0.013847160153090954,negative,-0.9444254636764526
+4,2015-04-27 07:24:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.5%, and Walt Disney ( DIS ), trading up 1.4% on the day.",0.030358362942934036,0.9369260668754578,0.032715607434511185,negative,-0.9065676927566528
+5,2015-04-27 07:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

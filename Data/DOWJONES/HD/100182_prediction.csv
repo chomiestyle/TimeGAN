@@ -1,0 +1,14 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-08-20 00:45:00,"Tuesday's session closes with the NASDAQ Composite Index at 3,613.59.",0.05266539379954338,0.022350255399942398,0.924984335899353,neutral,0.030315138399600983
+1,2013-08-20 00:45:00,The total shares traded for the NASDAQ was over 1.27 billion.,0.031062141060829163,0.005782890599220991,0.9631549715995789,neutral,0.025279249995946884
+2,2013-08-20 00:45:00,Advancers stocks led declining by 2.69 to 1 ratio.,0.03725117817521095,0.9464600682258606,0.016288798302412033,negative,-0.9092088937759399
+3,2013-08-20 00:45:00,There were 1842 advancers and 685 decliners for the day.,0.14298486709594727,0.22118602693080902,0.6358290910720825,neutral,-0.07820115983486176
+4,2013-08-20 00:45:00,On the NASDAQ Stock Exchange 25 stocks reached a 52 week high and 18 those reaching lows totaled.,0.6294664144515991,0.15990927815437317,0.2106243073940277,positive,0.46955713629722595
+5,2013-08-20 00:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+6,2013-08-20 00:45:00,The NASDAQ 100 index closed up .4% for the day; a total of 12.41 points.,0.9218900203704834,0.03640689328312874,0.04170320928096771,positive,0.8854831457138062
+7,2013-08-20 00:45:00,"The current value is 3,082.17.",0.015245579183101654,0.007988130673766136,0.9767663478851318,neutral,0.007257448509335518
+8,2013-08-20 00:45:00,"Apple Inc. ( AAPL ) had the largest percent change down (-1.31%) while Netflix, Inc. ( NFLX ) had the largest percent change gain rising 5.2%.",0.08715719729661942,0.6654742956161499,0.24736854434013367,negative,-0.5783171057701111
+9,2013-08-20 00:45:00,The Dow Jones index closed down -.05% for the day; a total of -7.75 points.,0.017611941322684288,0.9710732102394104,0.011314860545098782,negative,-0.9534612894058228
+10,2013-08-20 00:45:00,"The current value is 15,002.99.",0.017600631341338158,0.007026528939604759,0.9753727912902832,neutral,0.010574102401733398
+11,2013-08-20 00:45:00,"Home Depot, Inc. (The) ( HD ) had the largest percent change down (-1.22%) while Intel Corporation ( INTC ) had the largest percent change gain rising 1.09%.",0.037290751934051514,0.8648491501808167,0.09786001592874527,negative,-0.8275583982467651
+12,2013-08-20 00:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

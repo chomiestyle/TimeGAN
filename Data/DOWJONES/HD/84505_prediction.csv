@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-02 07:36:00,The bleakest story of the Christmas season was offered by The Washington Post .,0.06255877017974854,0.7557317614555359,0.18170948326587677,negative,-0.6931729912757874
+1,2018-01-02 07:36:00,"It was the tale of a failing mall in western Pennsylvania and its last anchor , a J C Penney Company Inc (NYSE: JCP ) store.",0.09850160777568817,0.39271363615989685,0.5087847709655762,neutral,-0.2942120432853699
+2,2018-01-02 07:36:00,"The author profiled the woman at the jewelry counter, trying hard to deliver personal attention to Christmas shoppers to keep her job, and a former mall cop who now calls himself an assistant manager and is trying to get shops rented.",0.061321720480918884,0.2123810201883316,0.7262972593307495,neutral,-0.15105929970741272
+3,2018-01-02 07:36:00,"The tone, however, is grim, as are the prospects for indoor shopping malls generally.",0.022857774049043655,0.755497395992279,0.22164474427700043,negative,-0.7326396107673645
+4,2018-01-02 07:36:00,"If Stephen Sondheim were writing West Side Story today, he'd likely set it at a shopping mall .",0.10667514055967331,0.11416686326265335,0.7791579961776733,neutral,-0.0074917227029800415
+5,2018-01-02 07:36:00,"The best bargain at the mall, however, may be stock in J C Penney itself.",0.05833973363041878,0.059810273349285126,0.881850004196167,neutral,-0.0014705397188663483
+6,2018-01-02 07:36:00,"The company should approach $13 billion in sales for the year, but the stock is valued at just $1 billion.",0.06546943634748459,0.02119274251163006,0.9133378267288208,neutral,0.04427669197320938
+7,2018-01-02 07:36:00,"Penney's position as an ""anchor tenant"" at mainstream shopping malls has been frustrating all of CEO Marvin Ellison's efforts at reinvention since the former Home Depot Inc (NYSE: HD ) and Target Corporation (NYSE: TGT ) took command in August, 2015.",0.030605163425207138,0.9120264053344727,0.0573684424161911,negative,-0.8814212679862976
+8,2018-01-02 07:36:00,"• 10 Best Stocks for 2018: The Field Is Set
+
+Ellison has tried some things, like pop-up stores dubbed Jacques Penne with curated gift collections.",0.10649894922971725,0.008126755245029926,0.8853743076324463,neutral,0.0983721911907196
+9,2018-01-02 07:36:00,But numbers don't lie.,0.040879733860492706,0.04024070128798485,0.9188795685768127,neutral,0.0006390325725078583
+10,2018-01-02 07:36:00,"Penney's may bring in 42 cents per share of earnings for the Christmas quarter when it reports Feb. 9, but it will still have a loss for the year.",0.027036579325795174,0.9533836245536804,0.019579771906137466,negative,-0.926347017288208
+11,2018-01-02 07:36:00,"Ellison deserves praise for saving the company, which looked about to go under when he came on board.",0.39125412702560425,0.0416952483355999,0.5670506358146667,neutral,0.34955888986587524
+12,2018-01-02 07:36:00,"But long-term debt is still half of assets, and cash flow has been strongly negative for two of the last three quarters.",0.017276739701628685,0.9419583082199097,0.04076489061117172,negative,-0.924681544303894
+13,2018-01-02 07:36:00,He hasn't saved the store.,0.13794218003749847,0.2262772172689438,0.6357805728912354,neutral,-0.08833503723144531
+14,2018-01-02 07:36:00,"When Santa Claus isn't in town, Penney's is nowhere.",0.05889445170760155,0.1486593335866928,0.7924462556838989,neutral,-0.08976487815380096
+15,2018-01-02 07:36:00,"More retail shops are expected to close in 2018 than even in 2017, which was dubbed ""retailmageddon.""",0.03738526627421379,0.8154225945472717,0.1471920907497406,negative,-0.7780373096466064
+16,2018-01-02 07:36:00,USA Today recently put JC Penney on its death watch .,0.05067287012934685,0.6573407053947449,0.29198646545410156,negative,-0.6066678166389465
+17,2018-01-02 07:36:00,"Thus, nearly all analysts following the stock have a wait-and-see or ""neutral"" rating on the shares.",0.02761799283325672,0.08268071711063385,0.889701247215271,neutral,-0.05506272614002228
+18,2018-01-02 07:36:00,"Penney's is not yet dead , as I wrote last month, but it is not at all well , as Vince Martin wrote.",0.05552162230014801,0.5609602332115173,0.38351815938949585,negative,-0.5054386258125305
+19,2018-01-02 07:36:00,The best move for Ellison may be to break up the store.,0.017387276515364647,0.07270501554012299,0.9099076390266418,neutral,-0.05531773716211319
+20,2018-01-02 07:36:00,Stop trying to be a full-line department store.,0.04828538000583649,0.020302485674619675,0.9314121603965759,neutral,0.027982894331216812
+21,2018-01-02 07:36:00,"Downsize remaining units and rename them, then open new stores for items like tools or cooking elsewhere.",0.019199954345822334,0.00885460153222084,0.9719454050064087,neutral,0.010345352813601494
+22,2018-01-02 07:36:00,"Instead of being a single mainstream retailer, become a chain of specialty shops.",0.038085803389549255,0.009290969930589199,0.9526232481002808,neutral,0.02879483252763748
+23,2018-01-02 07:36:00,"That, of course, is the spitballing brainstorm of a single journalist.",0.099366694688797,0.0768452137708664,0.8237881064414978,neutral,0.022521480917930603
+24,2018-01-02 07:36:00,That's not a strategy.,0.02401084266602993,0.019895439967513084,0.9560937881469727,neutral,0.004115402698516846
+25,2018-01-02 07:36:00,It certainly doesn't appear to be Penney's strategy.,0.009976409375667572,0.04026462510228157,0.9497589468955994,neutral,-0.030288215726614
+26,2018-01-02 07:36:00,Or is it?,0.0953621119260788,0.0982147604227066,0.8064231276512146,neutral,-0.0028526484966278076
+27,2018-01-02 07:36:00,"At least online, Ellison is trying to specialize.",0.06049593165516853,0.0068423147313296795,0.932661771774292,neutral,0.053653616458177567
+28,2018-01-02 07:36:00,"The company recently launched a ""subscription"" service for big and tall men, partnering with Bombfell , a company that knows that business.",0.546545147895813,0.013345970772206783,0.44010886549949646,positive,0.5331991910934448
+29,2018-01-02 07:36:00,"Inside the stores, the company also offers a Project Runway line , based on the TV show, showcasing the work of new designers.",0.05013551563024521,0.006868071388453245,0.9429964423179626,neutral,0.043267443776130676
+30,2018-01-02 07:36:00,"Penney's also runs stores-within-a-store for Sephora, owned by LVMH Moet Hennessey Louis Vuitton SE (OTCMKTS: LVMUY )
+
+Is It Possible?",0.017421172931790352,0.011556429788470268,0.971022367477417,neutral,0.005864743143320084
+31,2018-01-02 07:36:00,"Breaking up the store online, creating new brands and new ways to buy, might work.",0.34605181217193604,0.011145694181323051,0.6428024768829346,neutral,0.33490613102912903
+32,2018-01-02 07:36:00,"Downsizing, creating units that sell just cookware, or appliances, creating new brands that work online, seems like a viable strategy.",0.14181184768676758,0.008199681527912617,0.8499885201454163,neutral,0.13361217081546783
+33,2018-01-02 07:36:00,"• Direxion Shares Exchange Traded Fund Trust Is Still Packed With Profits
+
+But Ellison would have to commit to such a strategy for it to move the stock.",0.6814132928848267,0.03052443079650402,0.28806230425834656,positive,0.6508888602256775
+34,2018-01-02 07:36:00,"So far, he has been trying things, experimenting.",0.0726827085018158,0.007291932590305805,0.9200253486633301,neutral,0.06539077311754227
+35,2018-01-02 07:36:00,Penney's needs a complete reinvention.,0.35219651460647583,0.010614369995892048,0.6371890902519226,neutral,0.34158214926719666
+36,2018-01-02 07:36:00,"If Ellison were to announce one, or even rumored to be about to announce one, a speculator could make money on Penney shares.",0.05259029194712639,0.20268887281417847,0.7447208166122437,neutral,-0.15009857714176178
+37,2018-01-02 07:36:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+38,2018-01-02 07:36:00,"He is the author of the historical mystery romance The Reluctant Detective Travels in Time , available now at the Amazon Kindle store.",0.06731477379798889,0.018257636576890945,0.914427638053894,neutral,0.049057137221097946
+39,2018-01-02 07:36:00,Write him at danablankenhorn@gmail.comor follow him on Twitter at @danablankenhorn .,0.04530028998851776,0.049376752227544785,0.9053230285644531,neutral,-0.004076462239027023
+40,2018-01-02 07:36:00,As of this writing he owned no shares in companies mentioned in this story.,0.009477799758315086,0.01894531026482582,0.9715768098831177,neutral,-0.009467510506510735
+41,2018-01-02 07:36:00,"• 8 Stocks to Buy That Are Growing Faster Than Amazon
+• Macy's Inc Stock Offers Benefits to Both Growth and Income Investors
+
+The post J C Penney Co.",0.8772141933441162,0.018291467800736427,0.10449433326721191,positive,0.8589227199554443
+42,2018-01-02 07:36:00,Needs a Big Move - Like a Breakup?,0.10894408077001572,0.1372928023338318,0.7537630796432495,neutral,-0.02834872156381607
+43,2018-01-02 07:36:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+44,2018-01-02 07:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

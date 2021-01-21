@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-17 23:34:00,"After the market closes on Thursday, Microsoft (NASDAQ: MSFT ) will release its fourth-quarter earnings results.",0.046200286597013474,0.016952132806181908,0.9368475675582886,neutral,0.029248153790831566
+1,2018-07-17 23:34:00,"And for the most part, Wall Street is upbeat.",0.12765133380889893,0.013612784445285797,0.8587359189987183,neutral,0.11403854936361313
+2,2018-07-17 23:34:00,"In fact, during the past week, MSFT stock has logged a return of about 4.5%.",0.8937827944755554,0.023411832749843597,0.08280543982982635,positive,0.8703709840774536
+3,2018-07-17 23:34:00,So what's the consensus on Microsoft earnings?,0.019579865038394928,0.024271083995699883,0.9561490416526794,neutral,-0.0046912189573049545
+4,2018-07-17 23:34:00,"Well, revenues are expected to jump 18.3% to $29.2 billion and earnings to come to $1.08-per-share.",0.9547722339630127,0.020388159900903702,0.02483956702053547,positive,0.9343840479850769
+5,2018-07-17 23:34:00,"Yet it seems that Microsoft earnings will likely beat, as has been the habit for the company for some time.",0.9120264053344727,0.03749547526240349,0.05047815293073654,positive,0.8745309114456177
+6,2018-07-17 23:34:00,Keep in mind that management tends to take a conservative approach to its forecasts.,0.05025375261902809,0.010406499728560448,0.9393396973609924,neutral,0.03984725475311279
+7,2018-07-17 23:34:00,"As for what analysts will be drilling down on, there are some key themes.",0.019974036142230034,0.01095661986619234,0.9690693020820618,neutral,0.009017416276037693
+8,2018-07-17 23:34:00,"First, there is the outlook for the PC market, which remains an important part of the story for Microsoft earnings.",0.022426830604672432,0.007295583374798298,0.9702776074409485,neutral,0.015131247229874134
+9,2018-07-17 23:34:00,The good news is that it looks like the PC market is gaining momentum.,0.8611646294593811,0.015291082672774792,0.12354438751935959,positive,0.8458735346794128
+10,2018-07-17 23:34:00,"According to Gartner , the shipments of PCs during the Q2 were the strongest they've been in six years.",0.9472813010215759,0.021972540766000748,0.030746182426810265,positive,0.9253087639808655
+11,2018-07-17 23:34:00,The main driver was a growth in demand from business customers.,0.9130107760429382,0.015328246168792248,0.07166089862585068,positive,0.8976825475692749
+12,2018-07-17 23:34:00,"• 4 Underappreciated Stocks to Buy Before the Analysts Weigh In
+
+But Microsoft has generally been able to gin up growth from its PC business even when the overall market has declined.",0.5850655436515808,0.36946067214012146,0.04547382891178131,positive,0.21560487151145935
+13,2018-07-17 23:34:00,"For example, there has been strength in Windows 10 upgrades because of the concerns with high-profile cyberattacks.",0.895413339138031,0.02448675036430359,0.08009997755289078,positive,0.8709266185760498
+14,2018-07-17 23:34:00,"During fiscal Q3 (last quarter), sales rose by 11% .",0.9474668502807617,0.016995400190353394,0.03553768992424011,positive,0.9304714202880859
+15,2018-07-17 23:34:00,"Of course, when it comes to Microsoft earnings, analysts will be mostly focused on the cloud business.",0.012085163034498692,0.018736129626631737,0.9691786766052246,neutral,-0.006650966592133045
+16,2018-07-17 23:34:00,And there are few signs of weakness.,0.07109560072422028,0.10127408057451248,0.827630341053009,neutral,-0.030178479850292206
+17,2018-07-17 23:34:00,"The company is likely to continue to see robust growth from Azure, which is its web hosting platform (in the latest quarter, revenues spiked by a sizzling 93%).",0.9524554014205933,0.016209807246923447,0.031334806233644485,positive,0.9362456202507019
+18,2018-07-17 23:34:00,"While Amazon.com (Nasdaq: AMZN ) and Google (NASDAQ: GOOGL ) remain tough competitors in the cloud market, Microsoft still has some key advantages.",0.8899171948432922,0.019639234989881516,0.09044355899095535,positive,0.8702779412269592
+19,2018-07-17 23:34:00,"There is the Office 365 franchise, which is a critical piece of corporations across the world.",0.15518036484718323,0.008377236314117908,0.8364424109458923,neutral,0.1468031257390976
+20,2018-07-17 23:34:00,And Microsoft also has LinkedIn - the world's largest professional network.,0.39021822810173035,0.010110561735928059,0.5996711850166321,neutral,0.38010767102241516
+21,2018-07-17 23:34:00,Even the often-ignored Dynamics 365 system is showing signs of life.,0.33529818058013916,0.028285212814807892,0.6364165544509888,neutral,0.30701297521591187
+22,2018-07-17 23:34:00,"While salesforce.com (NASDAQ: CRM ) still dominates the CRM (Customer Relationship Management) market, customers are still interested in alternatives.",0.3855295181274414,0.012332409620285034,0.6021380424499512,neutral,0.37319710850715637
+23,2018-07-17 23:34:00,"There are some other notable events that analysts will likely take note of during the Microsoft earnings call:
+• Walmart (NYSE: WMT ) signed an agreement to use Microsoft's cloud platform, such as for deep learning and AI (Artificial Intelligence) functions.",0.916235089302063,0.014077631756663322,0.06968723237514496,positive,0.9021574854850769
+24,2018-07-17 23:34:00,The deal has a term of five years.,0.07430848479270935,0.004528154619038105,0.9211633205413818,neutral,0.06978032737970352
+25,2018-07-17 23:34:00,"• Microsoft shelled out a whopping $7.5 billion for GitHub , which is the largest repository of computer code.",0.11391769349575043,0.3784070611000061,0.507675290107727,neutral,-0.2644893527030945
+26,2018-07-17 23:34:00,There are about 28 million users.,0.01709040440618992,0.010144026018679142,0.9727655649185181,neutral,0.0069463783875107765
+27,2018-07-17 23:34:00,"No doubt, this base could ultimately start to transition over to Microsoft cloud services.",0.6182748079299927,0.009843924082815647,0.37188130617141724,positive,0.6084308624267578
+28,2018-07-17 23:34:00,"Chris Wanstrath, the co-founder of GitHub, wrote this in a blog : ""When GitHub first launched ten years ago, I could have never imagined this headline.",0.03462252393364906,0.04727622866630554,0.9181011915206909,neutral,-0.012653704732656479
+29,2018-07-17 23:34:00,"Git was a powerful but niche tool, clouds were just things in the sky, and Microsoft was a very different company…Now, of course, things are different.",0.062068212777376175,0.027499491348862648,0.9104323387145996,neutral,0.03456871956586838
+30,2018-07-17 23:34:00,"Git is far and away the most popular version control system, clouds are mostly computers, and Microsoft is the most active organization on GitHub in the world.""",0.11657178401947021,0.01149309054017067,0.8719351291656494,neutral,0.10507869720458984
+31,2018-07-17 23:34:00,"It's true that Microsoft stock is far from cheap, with the forward price-to-earnings multiple at 26x.",0.138429656624794,0.01829035021364689,0.843280017375946,neutral,0.12013930827379227
+32,2018-07-17 23:34:00,The dividend is also at a measly 1.65%.,0.04076690599322319,0.13164900243282318,0.8275841474533081,neutral,-0.09088209271430969
+33,2018-07-17 23:34:00,But I still think there is upside.,0.17137402296066284,0.056600943207740784,0.7720250487327576,neutral,0.11477307975292206
+34,2018-07-17 23:34:00,The cloud market is a secular trend and Microsoft is well positioned to be a long-term winner.,0.8569869995117188,0.013996207155287266,0.1290167272090912,positive,0.8429908156394958
+35,2018-07-17 23:34:00,"It is also encouraging that CEO Satya Nadella has been willing to make bold actions, such as with acquisitions.",0.9007924199104309,0.014999832026660442,0.08420762419700623,positive,0.88579261302948
+36,2018-07-17 23:34:00,"And yes, Microsoft should continue to crank out huge amounts of cash flows.",0.9052808880805969,0.01460597850382328,0.08011312037706375,positive,0.890674889087677
+37,2018-07-17 23:34:00,"• 7 Top S&P 500 Stocks to Consider for Long-Term Gains
+
+So in light of all these key factors, it's certainly reasonable for Microsoft stock trade at a premium.",0.37314262986183167,0.022369353100657463,0.6044880151748657,neutral,0.35077327489852905
+38,2018-07-17 23:34:00,"Tom Taulli is the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04080922156572342,0.006492978427559137,0.9526978135108948,neutral,0.03431624174118042
+39,2018-07-17 23:34:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+40,2018-07-17 23:34:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+41,2018-07-17 23:34:00,"Discovered almost by accident, Louis Navellier's incredible trading breakthrough has delivered 148 double- and triple-digit winners over the past 5 years - including a stunning 487% win in just 10 months.",0.8723722100257874,0.019652631133794785,0.10797521471977234,positive,0.8527196049690247
+42,2018-07-17 23:34:00,"Learn to use this formula and you can start turning every $10,000 invested into as much as $58,700 .",0.160195454955101,0.007137005217373371,0.8326675891876221,neutral,0.15305845439434052
+43,2018-07-17 23:34:00,"• 4 Underappreciated Stocks to Buy Before the Analysts Weigh In
+• 5 Stocks That Could Double In the Next 5 Years
+
+The post Microsoft Earnings Preview: Of Course, It's All About the Cloud appeared first on InvestorPlace .",0.11594373732805252,0.040636494755744934,0.8434198498725891,neutral,0.07530724257230759
+44,2018-07-17 23:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-05 07:35:00,"In early trading on Friday, shares of Tyson Foods ( TSN ) topped the list of the day's best performing components of the S&P 500 index, trading up 12.5%.",0.9406414031982422,0.029550159350037575,0.029808521270751953,positive,0.9110912680625916
+1,2016-02-05 07:35:00,"Year to date, Tyson Foods registers a 9.6% gain.",0.9447444677352905,0.019434688612818718,0.035820864140987396,positive,0.9253097772598267
+2,2016-02-05 07:35:00,"And the worst performing S&P 500 component thus far on the day is Hess Corp ( HES ), trading down 10.3%.",0.021087465807795525,0.9652926325798035,0.01361992210149765,negative,-0.9442051649093628
+3,2016-02-05 07:35:00,Hess Corp is lower by about 19.6% looking at the year to date performance.,0.021075457334518433,0.9647921323776245,0.014132421463727951,negative,-0.9437166452407837
+4,2016-02-05 07:35:00,"Two other components making moves today are Salesforce.com ( CRM ), trading down 10.1%, and Symantec Corp. ( SYMC ), trading up 6.2% on the day.",0.025582080706954002,0.9469819664955139,0.02743583731353283,negative,-0.9213998913764954
+5,2016-02-05 07:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

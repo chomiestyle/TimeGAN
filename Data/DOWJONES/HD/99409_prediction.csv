@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-09-02 07:14:00,"In early trading on Wednesday, shares of Intel ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.0%.",0.9385958909988403,0.032231543213129044,0.029172586277127266,positive,0.9063643217086792
+1,2015-09-02 07:14:00,"Year to date, Intel has lost about 21.8% of its value.",0.016807658597826958,0.9583731889724731,0.024819079786539078,negative,-0.9415655136108398
+2,2015-09-02 07:14:00,"And the worst performing Dow component thus far on the day is Verizon Communications ( VZ ), trading up 0.3%.",0.024919701740145683,0.9617221355438232,0.013358066789805889,negative,-0.9368024468421936
+3,2015-09-02 07:14:00,Verizon Communications is lower by about 3.8% looking at the year to date performance.,0.019412212073802948,0.9664573073387146,0.014130436815321445,negative,-0.947045087814331
+4,2015-09-02 07:14:00,"Two other components making moves today are UnitedHealth Group ( UNH ), trading up 0.6%, and Home Depot ( HD ), trading up 2.0% on the day.",0.8830692768096924,0.03432610258460045,0.08260462433099747,positive,0.848743200302124
+5,2015-09-02 07:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

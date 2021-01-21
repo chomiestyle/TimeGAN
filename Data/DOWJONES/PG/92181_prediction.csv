@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-24 04:02:00,They are three of the biggest names among dividend investors.,0.17224660515785217,0.009461366571485996,0.8182920217514038,neutral,0.16278523206710815
+1,2017-09-24 04:02:00,"Coca-Cola (NYSE: KO) , Procter & Gamble (NYSE: PG) , and PepsiCo (NYSE: PEP) have been offering investors dividend increases for a combined 162 consecutive years.",0.798107385635376,0.01528781745582819,0.18660476803779602,positive,0.7828195691108704
+2,2017-09-24 04:02:00,That's the key to building dynastic wealth: the compounding power of dividend increases.,0.44889214634895325,0.011657560244202614,0.5394502878189087,neutral,0.4372345805168152
+3,2017-09-24 04:02:00,"But between these three stalwarts, which is the better buy today?",0.17523083090782166,0.05484810844063759,0.769921064376831,neutral,0.12038272619247437
+4,2017-09-24 04:02:00,That's a question that many soon-to-be retirees may be asking themselves.,0.04050752520561218,0.08343695104122162,0.8760554790496826,neutral,-0.042929425835609436
+5,2017-09-24 04:02:00,"While there's no way to know the answer with 100% certainty, there are ways of breaking the question down into digestible pieces.",0.0746198520064354,0.04085646569728851,0.8845236301422119,neutral,0.03376338630914688
+6,2017-09-24 04:02:00,"By looking at three key facets, you'll see which I believe is the best buy at today's prices.",0.28317996859550476,0.01172526553273201,0.7050947546958923,neutral,0.27145469188690186
+7,2017-09-24 04:02:00,"In the investing world, there's nothing more important than a company's sustainable competitive advantage -- often referred to as a ""moat.""",0.2687571048736572,0.01191439013928175,0.7193284630775452,neutral,0.256842702627182
+8,2017-09-24 04:02:00,"In its simplest sense, it is the thing that separates you from the competition, the thing that keeps customers coming back for more, week after week, and the thing that keeps your rivals at bay for decades.",0.07753532379865646,0.021676700562238693,0.9007880091667175,neutral,0.05585862323641777
+9,2017-09-24 04:02:00,All three of these companies rely upon the stable of their brands to supply a moat.,0.13747450709342957,0.0065994407050311565,0.8559260964393616,neutral,0.13087506592273712
+10,2017-09-24 04:02:00,"The familiarity that consumers have with these brands breeds trust, and with that trust, these organizations have pricing power over their rivals.",0.4931267201900482,0.0119436364620924,0.49492964148521423,neutral,0.48118308186531067
+11,2017-09-24 04:02:00,"Here's a look at some of the most important brands at each company, and how much they are worth -- according to the most recent Forbes rating of brands.",0.034497011452913284,0.007812857627868652,0.9576901197433472,neutral,0.026684153825044632
+12,2017-09-24 04:02:00,"While it may be a simplistic way of measuring a moat, Coke's brand value is by far the superior of the three -- especially on a worldwide level.",0.9254035353660583,0.020457621663808823,0.0541389100253582,positive,0.9049459099769592
+13,2017-09-24 04:02:00,Pepsi and Procter & Gamble are in a virtual tie for second place.,0.531672477722168,0.11849689483642578,0.349830687046051,positive,0.4131755828857422
+14,2017-09-24 04:02:00,"Anyone who is putting a sizable portion of a retirement portfolio in these companies is likely doing so because of the aforementioned moats, and the sizable cash flows that they produce.",0.05318313091993332,0.008156717754900455,0.938660204410553,neutral,0.04502641409635544
+15,2017-09-24 04:02:00,That's why the dividends are such a draw.,0.09194979816675186,0.02748434618115425,0.8805658221244812,neutral,0.06446544826030731
+16,2017-09-24 04:02:00,"But while it makes sense to want all of that cash to be paid out to you, it's not a wise stance in the long run.",0.054492902010679245,0.041433751583099365,0.9040732979774475,neutral,0.01305915042757988
+17,2017-09-24 04:02:00,"That's because every company, at one point or another, is going to face difficult economic times.",0.054470889270305634,0.07358068972826004,0.8719484806060791,neutral,-0.019109800457954407
+18,2017-09-24 04:02:00,"Those that have cash on hand have options -- outspend rivals to gain market share, buy back shares on the cheap, or even make a splashy acquisition.",0.32744449377059937,0.014326889999210835,0.6582285761833191,neutral,0.3131175935268402
+19,2017-09-24 04:02:00,"The bottom line is that over the decades, such companies -- and their investors -- can actually benefit from recessions; they drive out the weaker competition.",0.5239315032958984,0.034663718193769455,0.44140470027923584,positive,0.4892677962779999
+20,2017-09-24 04:02:00,Debt-heavy players are in the opposite boat.,0.05367141589522362,0.25803619623184204,0.6882924437522888,neutral,-0.20436477661132812
+21,2017-09-24 04:02:00,"Their lack of leverage and cash flow make them more likely to be one of the ""driven-out"" than a survivor.",0.03447303920984268,0.42580488324165344,0.5397220849990845,neutral,-0.39133185148239136
+22,2017-09-24 04:02:00,Keeping in mind that P&G is valued at a 45% premium to Pepsi and a 20% premium to Coke -- based on market capitalizations -- here's how the three stack up.,0.08896177262067795,0.008876181207597256,0.9021620750427246,neutral,0.08008559048175812
+23,2017-09-24 04:02:00,"Data source: SEC filings, Yahoo!",0.01582607999444008,0.07029423862695694,0.9138797521591187,neutral,-0.05446815863251686
+24,2017-09-24 04:02:00,Finance.,0.016506465151906013,0.008342479355633259,0.975151002407074,neutral,0.008163985796272755
+25,2017-09-24 04:02:00,Net income and free cash flow presented on trailing 12-month basis.,0.02135045826435089,0.007538136560469866,0.9711114168167114,neutral,0.013812322169542313
+26,2017-09-24 04:02:00,Figures rounded to nearest billion.,0.24528901278972626,0.09954285621643066,0.6551681160926819,neutral,0.1457461565732956
+27,2017-09-24 04:02:00,"P&G net income backs out one-time benefit of $5.3 billion
+
+None of these companies is in dire straits -- they all produce tons of cash flow.",0.24085628986358643,0.0767100378870964,0.6824336647987366,neutral,0.16414624452590942
+28,2017-09-24 04:02:00,"But when it comes to balance sheet leverage, there are some clear winners -- and a loser.",0.3261217176914215,0.06132528930902481,0.6125530004501343,neutral,0.2647964358329773
+29,2017-09-24 04:02:00,"Pepsi has more debt than cash on hand, Coke doesn't, and Procter & Gamble has almost twice as much cash than debt.",0.018895570188760757,0.03539429232478142,0.9457101821899414,neutral,-0.01649872213602066
+30,2017-09-24 04:02:00,And then we have the can of worms that is valuation.,0.12136120349168777,0.017346512526273727,0.86129230260849,neutral,0.10401469469070435
+31,2017-09-24 04:02:00,There's no one metric that can tell you just how expensive a stock is.,0.035362306982278824,0.027511682361364365,0.9371260404586792,neutral,0.00785062462091446
+32,2017-09-24 04:02:00,"Instead, I like to use a number of data points to get a more holistic picture.",0.09381479769945145,0.006363927386701107,0.8998212814331055,neutral,0.08745086938142776
+33,2017-09-24 04:02:00,There's no doubt that Coke has the least favorable valuation out of the three.,0.4717245101928711,0.019023019820451736,0.5092524886131287,neutral,0.45270147919654846
+34,2017-09-24 04:02:00,"Not only is it more expensive on all of the valuations, but the company is perilously close to having an unsustainable dividend.",0.031901877373456955,0.904069721698761,0.06402840465307236,negative,-0.8721678256988525
+35,2017-09-24 04:02:00,"Between Pepsi and Procter & Gamble, it's too close to call a winner.",0.1960160732269287,0.1733853667974472,0.6305985450744629,neutral,0.022630706429481506
+36,2017-09-24 04:02:00,"While Procter & Gamble has a higher yield, it also has a higher payout ratio -- meaning Pepsi may have slightly more room to grow its dividend.",0.9037140011787415,0.017189865931868553,0.07909610122442245,positive,0.8865241408348083
+37,2017-09-24 04:02:00,"Combine all of these factors, and I have Procter & Gamble coming out as the best deal out of the three -- with a stellar balance sheet and a favorable valuation.",0.9086180329322815,0.01408450398594141,0.07729742676019669,positive,0.8945335149765015
+38,2017-09-24 04:02:00,"PepsiCo comes in last, as its balance sheet is more leveraged and the value of its brands not as impressive as Coca-Cola -- which ends up right in the middle.",0.33978763222694397,0.30807819962501526,0.352134108543396,neutral,0.03170943260192871
+39,2017-09-24 04:02:00,"10 stocks we like better than Procter & Gamble
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12989184260368347,0.022431962192058563,0.8476762175559998,neutral,0.10745988041162491
+40,2017-09-24 04:02:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+41,2017-09-24 04:02:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Procter & Gamble wasn't one of them!",0.18411676585674286,0.01372705027461052,0.8021562099456787,neutral,0.17038971185684204
+42,2017-09-24 04:02:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+43,2017-09-24 04:02:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+44,2017-09-24 04:02:00,Brian Stoffel has no position in any of the stocks mentioned.,0.010457303375005722,0.05455100163817406,0.934991717338562,neutral,-0.044093698263168335
+45,2017-09-24 04:02:00,The Motley Fool recommends PepsiCo.,0.04996848106384277,0.030314641073346138,0.9197168946266174,neutral,0.019653839990496635
+46,2017-09-24 04:02:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2017-09-24 04:02:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

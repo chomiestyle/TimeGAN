@@ -1,0 +1,60 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-24 06:31:00,The retail industry has been a great big puddle of uncertainty lately.,0.05032581463456154,0.46825486421585083,0.48141929507255554,neutral,-0.4179290533065796
+1,2017-07-24 06:31:00,"E-commerce juggernaut Amazon.com, Inc. has numerous traditional retailers trembling in their boots.",0.09211917221546173,0.19315136969089508,0.7147294282913208,neutral,-0.10103219747543335
+2,2017-07-24 06:31:00,"Still, many believe that the fear driving retailers down is overblown, if not unfounded.",0.11218158900737762,0.5756792426109314,0.3121391832828522,negative,-0.4634976387023926
+3,2017-07-24 06:31:00,"Today's contestants are on the short list of companies that many believe can make a stand against the online behemoth and have a meaningful existence in a world dominated by e-commerce: leading home-improvement store The Home Depot, Inc. (NYSE: HD) and big-box retailer Target Corporation (NYSE: TGT) .",0.3627862334251404,0.013592912815511227,0.6236208081245422,neutral,0.3491933345794678
+4,2017-07-24 06:31:00,"The numbers don't lie, so let's dive into several meaningful metrics and see which one is better equipped to survive and even thrive.",0.39566510915756226,0.01051673199981451,0.5938181281089783,neutral,0.38514837622642517
+5,2017-07-24 06:31:00,"While these cash piles might seem excessive, it's good for companies to squirrel some away for a rainy day, and they pale in comparison with the mounds of debt these companies carry relative to their cash.",0.028867295011878014,0.8687291741371155,0.10240351408720016,negative,-0.8398618698120117
+6,2017-07-24 06:31:00,"The good news is that each company could extinguish its debt in less than three years, if all things remain equal.",0.5025291442871094,0.011304236017167568,0.4861666262149811,positive,0.49122491478919983
+7,2017-07-24 06:31:00,"With positive net income and significant free cash flow, these two seem similarly matched in financial fortitude.",0.6795782446861267,0.019623296335339546,0.3007984757423401,positive,0.6599549651145935
+8,2017-07-24 06:31:00,"In its most recent quarter, Home Depot reported sales of $23.9 billion, up 4.9% year over year.",0.954766035079956,0.019192464649677277,0.026041492819786072,positive,0.9355735778808594
+9,2017-07-24 06:31:00,"Comparable-store sales increased 5.5%, while comparable sales at U.S. locations grew 6% over the prior-year quarter.",0.9557921290397644,0.020841704681515694,0.02336616814136505,positive,0.9349504113197327
+10,2017-07-24 06:31:00,"Net income grew by 12% and earnings per share increased 16%, both over the prior-year period.",0.9554451704025269,0.017699595540761948,0.026855237782001495,positive,0.9377455711364746
+11,2017-07-24 06:31:00,"Until the Kenmore deal, investors had thought Home Depot's hardware and home-improvement niche was immune to the threat e-commerce poses, but a more realistic view took hold this week.",0.3127991855144501,0.13815836608409882,0.5490424633026123,neutral,0.17464081943035126
+12,2017-07-24 06:31:00,"You might be surprised to know, however, that Home Depot has been growing its own internet presence , which recently increased online sales by 19% and accounted for 5.9% of its revenue.",0.942886471748352,0.014757996425032616,0.04235551133751869,positive,0.9281284809112549
+13,2017-07-24 06:31:00,"The company has been effectively leveraging its physical footprint, as 45% of online orders are picked up in-store.",0.7836514711380005,0.015237531624734402,0.2011110484600067,positive,0.7684139609336853
+14,2017-07-24 06:31:00,"During the same quarter, Target reported sales of $16 billion, a 1.1% year-over-year decline.",0.01782737486064434,0.9739767909049988,0.00819577556103468,negative,-0.9561493992805481
+15,2017-07-24 06:31:00,"Comparable sales dipped 1.3% below the prior-year quarter, driven by decreases in basket size and foot traffic.",0.01967315562069416,0.9714046120643616,0.00892226118594408,negative,-0.9517314434051514
+16,2017-07-24 06:31:00,"Excluding one-time items, Target's net income fell 6%.",0.017813971266150475,0.9737951159477234,0.008390843868255615,negative,-0.9559811353683472
+17,2017-07-24 06:31:00,Target has several initiatives it is adopting to stay relevant in a world dominated by e-commerce.,0.6976296901702881,0.011142781004309654,0.2912275195121765,positive,0.6864868998527527
+18,2017-07-24 06:31:00,The company has been sacrificing margins and profit in an attempt to drive foot traffic in its store.,0.022971557453274727,0.9526391625404358,0.02438925765454769,negative,-0.929667592048645
+19,2017-07-24 06:31:00,"It is also testing several delivery programs to better compete with Amazon, including same-day shipping, boxing and shipping essentials, and preparing in-store pickup orders within an hour.",0.7562172412872314,0.011984449811279774,0.23179833590984344,positive,0.7442327737808228
+20,2017-07-24 06:31:00,"With better recent results, and for blending online and in-store sales, Home Depot gets the nod.",0.9131529331207275,0.018793413415551186,0.06805370002985,positive,0.8943595290184021
+21,2017-07-24 06:31:00,"Over the past 12 months, neither company has kept pace with the broader market, which was most recently up by about 13%.",0.9300975203514099,0.023847246542572975,0.04605518653988838,positive,0.9062502980232239
+22,2017-07-24 06:31:00,"Home Depot has gained a maudlin 7%, while Target has fallen an astonishing 26%, beaten down by fears of e-commerce and slumping same-store sales.",0.023203205317258835,0.9668475389480591,0.009949266910552979,negative,-0.9436443448066711
+23,2017-07-24 06:31:00,"Given Home Depot's uninspiring but still positive stock performance, you'd expect it benefit from a higher valuation -- and you'd be right.",0.8515964150428772,0.016791118308901787,0.13161249458789825,positive,0.8348053097724915
+24,2017-07-24 06:31:00,Home Depot sports a price-to-earnings ratio of 22 times trailing earnings.,0.06554984301328659,0.008482522331178188,0.9259676933288574,neutral,0.05706731975078583
+25,2017-07-24 06:31:00,Target is priced at a much lower 11 times trailing earnings.,0.022193800657987595,0.6260583996772766,0.3517477512359619,negative,-0.6038646101951599
+26,2017-07-24 06:31:00,Looking forward doesn't change the market's view.,0.028239257633686066,0.06798989325761795,0.9037708640098572,neutral,-0.039750635623931885
+27,2017-07-24 06:31:00,Home Depot's forward multiple of 20 is still higher when compared with Target's less expensive forward multiple of 12.,0.8881458640098572,0.04208848997950554,0.0697656199336052,positive,0.8460573554039001
+28,2017-07-24 06:31:00,It appears investors have much greater confidence in Home Depot's ability to stave off the beast.,0.9354220032691956,0.017728036269545555,0.04684995859861374,positive,0.9176939725875854
+29,2017-07-24 06:31:00,"With one company enjoying much greater stock-price appreciation and the other sporting a cheaper valuation, there is no clear winner.",0.7968234419822693,0.05783390998840332,0.14534270763397217,positive,0.738989531993866
+30,2017-07-24 06:31:00,"Over the past year, both companies have exhibited shareholder-friendly tendencies, by buying back shares and paying a dividend.",0.7614202499389648,0.018402425572276115,0.22017726302146912,positive,0.743017852306366
+31,2017-07-24 06:31:00,"Home Depot's diluted shares outstanding have fallen by 2.9% over the past four quarters, while Target's share count is down by over 5%.",0.01649785414338112,0.9725244641304016,0.010977622121572495,negative,-0.9560266137123108
+32,2017-07-24 06:31:00,"Pulling back even further, Target has been buying back shares aggressively for the past two years, lowering its count by 13%, compared with just over 6% for Home Depot.",0.026809802278876305,0.951331615447998,0.021858595311641693,negative,-0.924521803855896
+33,2017-07-24 06:31:00,"In terms of dividends, Target's share-price underperformance has juiced its dividend yield, which currently sits at 4.38%, more than double Home Depot's 2.15%.",0.7191653847694397,0.26201367378234863,0.01882091350853443,positive,0.45715171098709106
+34,2017-07-24 06:31:00,Both companies are similarly matched in terms of payout ratio.,0.31849056482315063,0.01572467014193535,0.6657847762107849,neutral,0.3027659058570862
+35,2017-07-24 06:31:00,"Home Depot is currently spending 44% of its earnings to fund its dividend, compared with Target's slightly higher 48%.",0.4247008264064789,0.10044580698013306,0.4748533368110657,neutral,0.3242550194263458
+36,2017-07-24 06:31:00,Anything in a range of 35% to 55% is considered healthy.,0.0406789556145668,0.00935070775449276,0.9499703645706177,neutral,0.031328245997428894
+37,2017-07-24 06:31:00,"Home Depot thus has more room to increase its dividend, particularly in the face of its growing sales and profitability.",0.9424997568130493,0.015210013836622238,0.04229018837213516,positive,0.9272897243499756
+38,2017-07-24 06:31:00,"For buying back more shares and sporting a higher yield, the nod goes to Target.",0.6142494082450867,0.029923908412456512,0.35582664608955383,positive,0.5843254923820496
+39,2017-07-24 06:31:00,"And the winner is... Home Depot
+
+The vote wasn't nearly as close as it appeared.",0.15186788141727448,0.1848316788673401,0.6633004546165466,neutral,-0.03296379745006561
+40,2017-07-24 06:31:00,"Home Depot is in a much better place currently, and its spot in the home-improvement, hardware, and tools market should give it a level of insulation from the ongoing trend toward e-commerce.",0.9282045960426331,0.015930991619825363,0.0558643564581871,positive,0.9122735857963562
+41,2017-07-24 06:31:00,Most consumers would rather grab items and go for their weekend honey-do list.,0.09145045280456543,0.13026157021522522,0.778287947177887,neutral,-0.03881111741065979
+42,2017-07-24 06:31:00,"Still, as we learned this week, every company is at least somewhat vulnerable.",0.08127552270889282,0.10000886768102646,0.8187156319618225,neutral,-0.018733344972133636
+43,2017-07-24 06:31:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+44,2017-07-24 06:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+45,2017-07-24 06:31:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+46,2017-07-24 06:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+47,2017-07-24 06:31:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+48,2017-07-24 06:31:00,Danny Vena owns shares of Amazon.,0.023162437602877617,0.014234360307455063,0.9626032710075378,neutral,0.008928077295422554
+49,2017-07-24 06:31:00,The Motley Fool owns shares of and recommends Amazon.,0.05119821056723595,0.03092995285987854,0.9178718328475952,neutral,0.020268257707357407
+50,2017-07-24 06:31:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+51,2017-07-24 06:31:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+52,2017-07-24 06:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

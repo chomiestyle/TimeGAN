@@ -1,0 +1,60 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-19 01:41:00,"MoneyMorning.com Report - For Aug. 19, here's how the Dow Jones Industrial Average did today, earnings reports , top stock market news , and stocks to watch based on today's market moves...
+
+How Did the Stock Market Do Today?",0.01473271194845438,0.014933653175830841,0.9703336358070374,neutral,-0.00020094122737646103
+1,2015-08-19 01:41:00,The Dow Jones Industrial Average slumped today after the release of minutes from the July Fed Open Market Committee meeting.,0.020249975845217705,0.9666649103164673,0.01308507565408945,negative,-0.9464149475097656
+2,2015-08-19 01:41:00,The Dow finished down 162 points and the odds of the central bank increasing interest rates in September slipped after investors examined the U.S. Federal Reserve's meeting minutes.,0.045003484934568405,0.9080192446708679,0.04697730392217636,negative,-0.8630157709121704
+3,2015-08-19 01:41:00,"According to the minutes, members of the central bank said they have concerns about lagging inflation levels and weakness in the global economy.",0.04031001031398773,0.8891170620918274,0.07057292014360428,negative,-0.8488070368766785
+4,2015-08-19 01:41:00,"The Fed did say it only requires ""some"" additional improvement in the jobs sector in order to hike interest rates.",0.8100684285163879,0.020477695390582085,0.16945390403270721,positive,0.7895907163619995
+5,2015-08-19 01:41:00,"Meanwhile, the German parliament announced today it has ratified the new bailout deal for Greece.",0.8938890695571899,0.02292461134493351,0.0831863135099411,positive,0.8709644675254822
+6,2015-08-19 01:41:00,"Terms of the deal will allow European creditors to inject money into the Greek economy, despite steep concerns from Chancellor Angela Merkel and her conservative coalition.",0.8836037516593933,0.02515430934727192,0.09124192595481873,positive,0.8584494590759277
+7,2015-08-19 01:41:00,"The S&P 500 Volatility Index (VIX), the market's fear gauge, gained 7.8% on the day.",0.9343571662902832,0.03380648046731949,0.03183630481362343,positive,0.9005506634712219
+8,2015-08-19 01:41:00,"• Stock MarketNews: Today, all 10 S&P 500 sectors fell, with the energy sector down more than 2.5%.",0.019713273271918297,0.9696848392486572,0.010601780377328396,negative,-0.9499715566635132
+9,2015-08-19 01:41:00,The basic materials sector slipped another 1.5% on the day.,0.018400736153125763,0.9712040424346924,0.010395190678536892,negative,-0.9528033137321472
+10,2015-08-19 01:41:00,"Gold prices jumped more than 1.4%, while silver prices added nearly 3% as investors raised concerns about the global economy in the wake of the Federal Reserve's release of minutes from its July meeting.",0.8827423453330994,0.060902971774339676,0.0563545748591423,positive,0.8218393921852112
+11,2015-08-19 01:41:00,The yellow metal rally was a boon for mining companies.,0.8807677030563354,0.04537066072225571,0.07386168092489243,positive,0.8353970646858215
+12,2015-08-19 01:41:00,"Shares of AngloGold Ashanti Ltd. (NYSE ADR: AU) gained nearly 11%, while Gold Fields Ltd. (NYSE ADR: GFI) added 9.7%.",0.948531448841095,0.021466605365276337,0.030002012848854065,positive,0.927064836025238
+13,2015-08-19 01:41:00,• Oil Moves: Domestic oil prices fell to their lowest levels since March 2009 after the release of Fed minutes and news that inventory levels increased last week.,0.018798382952809334,0.9697966575622559,0.011404982767999172,negative,-0.9509982466697693
+14,2015-08-19 01:41:00,WTI crude futures for September slumped more than 4.6% to hit $40.66 per barrel.,0.019121816381812096,0.9710952043533325,0.00978290755301714,negative,-0.9519733786582947
+15,2015-08-19 01:41:00,"Meanwhile, Brent oil prices dipped 3.8% to $47.01 per barrel.",0.02224256843328476,0.9674370288848877,0.010320414789021015,negative,-0.9451944828033447
+16,2015-08-19 01:41:00,"Shares of Chevron Corp. ( CVX ) fell another 3% on the day, while BP Plc.",0.020466674119234085,0.9672388434410095,0.012294475920498371,negative,-0.9467721581459045
+17,2015-08-19 01:41:00,(NYSE ADR: BP) dipped 1.7%.,0.21447499096393585,0.7577819228172302,0.02774299681186676,negative,-0.5433069467544556
+18,2015-08-19 01:41:00,"Meanwhile, Exxon Mobil Corp. ( XOM ) slipped another 2.1% on the day.",0.019577352330088615,0.9710990190505981,0.00932363886386156,negative,-0.9515216946601868
+19,2015-08-19 01:41:00,"• On Tap Thursday: Tomorrow, investors will listen to a speech by San Francisco Federal Reserve President John Williams, a weekly update on jobless claims, the monthly report on existing home sales, and earnings reports from a number of technology and retail stocks.",0.03892216458916664,0.010360952466726303,0.9507169127464294,neutral,0.028561212122440338
+20,2015-08-19 01:41:00,"Companies reporting earnings include Salesforce.com Inc. ( CRM ), Hewlett-Packard Co. ( HPQ ), Marvell Technology Group Ltd. (Nasdaq: MRVL), Intuit Inc. (Nasdaq: INTU), Gap Inc. ( GPS ), and The Fresh Market Inc. (Nasdaq: TFM).",0.04309011623263359,0.013428247533738613,0.9434815645217896,neutral,0.029661867767572403
+21,2015-08-19 01:41:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+22,2015-08-19 01:41:00,"1, WTW: Shares of Weight Watchers International Inc. (WTW) jumped 8.9% after the company received an upgrade from investment firm Morgan Stanley (MS).",0.9504044651985168,0.02281819097697735,0.026777390390634537,positive,0.9275862574577332
+23,2015-08-19 01:41:00,"Company shares have fallen more than 76% since the beginning of the year, but the investment firm set a price target of $6, roughly 5% above its current level.",0.05013522505760193,0.9071065187454224,0.042758259922266006,negative,-0.856971263885498
+24,2015-08-19 01:41:00,"According to a report in the New York Post , an activist hedge fund could soon make an offer for Artal Group, a firm that owns roughly 51% of the weight-loss company.",0.2290680855512619,0.03772517293691635,0.7332067489624023,neutral,0.19134292006492615
+25,2015-08-19 01:41:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+26,2015-08-19 01:41:00,"2, TGT: Shares of Target Corp. (TGT) were up 0.7% after the company beat Wall Street earnings expectations and reported strong improvements under its CEO Brian Cornell, who took over the role last year.",0.953167736530304,0.02597847953438759,0.0208538006991148,positive,0.9271892309188843
+27,2015-08-19 01:41:00,"The company beat per-share analyst expectations by $0.11, while revenue targets were in line with estimates.",0.9451636672019958,0.029674382880330086,0.02516196109354496,positive,0.9154892563819885
+28,2015-08-19 01:41:00,The company hiked its profit outlook for 2015.,0.8282724022865295,0.06478797644376755,0.10693962872028351,positive,0.7634844183921814
+29,2015-08-19 01:41:00,The firm reported a rise in same-store sales for the fourth consecutive quarter.,0.948493480682373,0.02458963915705681,0.02691696770489216,positive,0.9239038228988647
+30,2015-08-19 01:41:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+31,2015-08-19 01:41:00,"3, SPLS: Shares of Staples Inc. (Nasdaq: SPLS) slipped 0.2% after the company reported falling quarterly sales, but said its second-quarter results were in line with Wall Street expectations.",0.028110310435295105,0.9630289077758789,0.008860819973051548,negative,-0.9349185824394226
+32,2015-08-19 01:41:00,The company said the ongoing process of purchasing Office Depot Inc. (Nasdaq: ODP) might have concerned investors.,0.03295218199491501,0.7991353273391724,0.16791246831417084,negative,-0.7661831378936768
+33,2015-08-19 01:41:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+34,2015-08-19 01:41:00,"4, DV: Shares of DeVry Education Group Inc. (DV) dipped more than 5.7% after the company announced quarterly profit slipped nearly 20% compared to the same period last year.",0.023967035114765167,0.967521071434021,0.008511924184858799,negative,-0.9435540437698364
+35,2015-08-19 01:41:00,The for-profit education group said enrollment levels remained weak in the June-ending quarter.,0.019661540165543556,0.9644232988357544,0.01591513119637966,negative,-0.9447617530822754
+36,2015-08-19 01:41:00,• Stocks to Watch No.,0.4501398503780365,0.3952687084674835,0.15459148585796356,positive,0.05487114191055298
+37,2015-08-19 01:41:00,"5, JPM: Shares of financial stocks were down on the day.",0.022750720381736755,0.9651408791542053,0.012108406983315945,negative,-0.9423901438713074
+38,2015-08-19 01:41:00,But the big news is three of the largest financial firms in the world are planning to unite to create a data firm dedicated to determining market prices and costs associated with transactions.,0.4013935327529907,0.010942392982542515,0.5876640677452087,neutral,0.3904511332511902
+39,2015-08-19 01:41:00,"The Wall Street Journal reports JPMorgan Chase & Co. (JPM), Goldman Sachs Group Inc. (GS), and Morgan Stanley (MS) have all invested more than $1 million to create a program called ""SPReD,"" or Securities Product Reference Data.",0.2322896122932434,0.007340920157730579,0.7603695392608643,neutral,0.2249486893415451
+40,2015-08-19 01:41:00,The platform will be launched within the next year.,0.09329469501972198,0.007832980714738369,0.8988723158836365,neutral,0.08546171337366104
+41,2015-08-19 01:41:00,"What Investors Must Know This Week
+• Why We're Still Bullish on Apple Stock (Nasdaq: AAPL)
+• The Best Way to Add Gold to Your Portfolio Today
+• The 4 Real Reasons Oil Prices Are Slipping - and How to Profit
+
+To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.1669871062040329,0.010639621876180172,0.8223732709884644,neutral,0.15634748339653015
+42,2015-08-19 01:41:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+43,2015-08-19 01:41:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+44,2015-08-19 01:41:00,Disclaimer: © 2015 Money Morning and Money Map Press.,0.013070347718894482,0.010420763865113258,0.9765089154243469,neutral,0.0026495838537812233
+45,2015-08-19 01:41:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+46,2015-08-19 01:41:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+47,2015-08-19 01:41:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+48,2015-08-19 01:41:00,"16 W. Madison St. Baltimore, MD, 21201.",0.04034261777997017,0.013275643810629845,0.9463818073272705,neutral,0.027066973969340324
+49,2015-08-19 01:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

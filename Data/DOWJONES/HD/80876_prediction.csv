@@ -1,0 +1,184 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-26 10:14:00,The 1980s kicked off an era in which greed was good.,0.19912566244602203,0.01936817727982998,0.7815062403678894,neutral,0.1797574907541275
+1,2019-08-26 10:14:00,"Since the Great Recession, we've turned over a new leaf in the narrative: You can do well (financially) by doing good (for the world).",0.80345618724823,0.01745484583079815,0.17908897995948792,positive,0.7860013246536255
+2,2019-08-26 10:14:00,The sentiment is so pervasive that it has given rise to socially responsible investing -- or SRI.,0.4164435565471649,0.01422959566116333,0.5693268775939941,neutral,0.4022139608860016
+3,2019-08-26 10:14:00,"SRI stocks -- short for ""socially responsible investing"" -- aim to make you money while making the world a better place.",0.2721301317214966,0.008705470710992813,0.7191643714904785,neutral,0.26342466473579407
+4,2019-08-26 10:14:00,Image source: Getty Images.,0.021672355011105537,0.013367056846618652,0.9649605751037598,neutral,0.008305298164486885
+5,2019-08-26 10:14:00,What is an SRI stock?,0.05675491690635681,0.04571724683046341,0.8975278735160828,neutral,0.011037670075893402
+6,2019-08-26 10:14:00,SRI stocks represent companies that create social good.,0.08848226070404053,0.004813476465642452,0.9067042469978333,neutral,0.0836687833070755
+7,2019-08-26 10:14:00,"In general, they make the world better.",0.5264276266098022,0.016214758157730103,0.45735764503479004,positive,0.5102128982543945
+8,2019-08-26 10:14:00,"MSCI, a global investment research company, is a major source of SRI information.",0.06387094408273697,0.005863170139491558,0.9302659630775452,neutral,0.058007773011922836
+9,2019-08-26 10:14:00,The company has exact specifications for what characteristics a company needs to be considered a socially responsible investment.,0.050406645983457565,0.005219407845288515,0.9443739056587219,neutral,0.04518723860383034
+10,2019-08-26 10:14:00,The easiest place to start is by talking about what industries are automatically eliminated from being included in a list of socially responsible companies.,0.06701233983039856,0.14018473029136658,0.7928029298782349,neutral,-0.07317239046096802
+11,2019-08-26 10:14:00,"MSCI refers to these industries as ""values-based exclusions.""",0.012093896046280861,0.04586894437670708,0.9420371055603027,neutral,-0.03377504646778107
+12,2019-08-26 10:14:00,"Essentially, these are areas of the economy that have the potential to create more suffering than good.",0.12660029530525208,0.04259009286761284,0.8308095932006836,neutral,0.08401019871234894
+13,2019-08-26 10:14:00,"This list includes:
+
+While this drastically reduces the number of companies that can be designated SRI stocks, there are still many others to choose from.",0.1154046580195427,0.11216366291046143,0.7724316716194153,neutral,0.0032409951090812683
+14,2019-08-26 10:14:00,"Step two: ESG -- or environmental, social, and governance -- scores
+
+The next step in the process is to evaluate and grade each company on its environmental, social, and governance (ESG) ratings.",0.07672318071126938,0.005381280090659857,0.9178955554962158,neutral,0.07134190201759338
+15,2019-08-26 10:14:00,"Specifically, MSCI looks for how well companies are mitigating risks regarding their environmental, social, and governance policies.",0.3469676375389099,0.010274474509060383,0.6427578926086426,neutral,0.3366931676864624
+16,2019-08-26 10:14:00,Such designations are so popular that we've devoted an entire section at The Motley Fool to ESG stocks.,0.040979109704494476,0.008621874265372753,0.9503990411758423,neutral,0.03235723450779915
+17,2019-08-26 10:14:00,"In this light, MSCI isn't simply looking for ""do-gooders.""",0.0352175347507,0.008872785605490208,0.9559096693992615,neutral,0.026344750076532364
+18,2019-08-26 10:14:00,"It's following the mantra that companies can ""do well by doing good.""",0.20260751247406006,0.008382708765566349,0.7890097498893738,neutral,0.19422480463981628
+19,2019-08-26 10:14:00,"In fact, it might be more telling to say that companies that don't do well in these arenas are open to risks that might not be captured by traditional financial metrics.",0.0578678697347641,0.04444513097405434,0.8976870179176331,neutral,0.013422738760709763
+20,2019-08-26 10:14:00,"Consider:
+• Environment: Companies that have weak environmental policies can waste money on unnecessary resources.",0.026554111391305923,0.9285844564437866,0.04486151412129402,negative,-0.902030348777771
+21,2019-08-26 10:14:00,"Depending on their industry, they can open themselves up to huge losses -- as BP did with the Deepwater Horizon oil spill in 2010.",0.13641196489334106,0.5053497552871704,0.35823825001716614,negative,-0.36893779039382935
+22,2019-08-26 10:14:00,• Social: Those that don't focus on their social responsibilities risk permanent damage to their brand.,0.02473755180835724,0.932854175567627,0.04240830987691879,negative,-0.9081166386604309
+23,2019-08-26 10:14:00,That can have dire consequences for businesses.,0.03621889278292656,0.8853527307510376,0.07842835783958435,negative,-0.8491338491439819
+24,2019-08-26 10:14:00,One of the most salient recent examples came from Uber.,0.12851972877979279,0.013897622004151344,0.857582688331604,neutral,0.11462210863828659
+25,2019-08-26 10:14:00,The company endured months of bad press after allegations of sexual harassment from executives came to light.,0.024339722469449043,0.9565799236297607,0.019080378115177155,negative,-0.9322401881217957
+26,2019-08-26 10:14:00,"Not surprisingly, competitor Lyft made large market-share gains immediately following these revelations.",0.9458364248275757,0.019775426015257835,0.03438812866806984,positive,0.9260609745979309
+27,2019-08-26 10:14:00,• Governance: One of the most blatant examples of poor governance comes from Wells Fargo.,0.06440393626689911,0.6183193922042847,0.31727665662765503,negative,-0.5539154410362244
+28,2019-08-26 10:14:00,"For years, the company pushed performance metrics and incentives that forced employees to create fake accounts for customers that had far-reaching -- and negative -- effects.",0.05438769608736038,0.7543118596076965,0.1913003921508789,negative,-0.6999241709709167
+29,2019-08-26 10:14:00,"After consulting a wide range of resources, MSCI then gives each company a grade.",0.09784135222434998,0.005767551250755787,0.8963910937309265,neutral,0.09207379817962646
+30,2019-08-26 10:14:00,"""Laggards"" are those that get a CCC or B; ""Average"" scores are BB, BBB, and A; and ""Leaders"" are those that get AA or AAA scores.",0.028459660708904266,0.010846029967069626,0.9606943130493164,neutral,0.01761363074183464
+31,2019-08-26 10:14:00,"To be considered for inclusion in the SRI index, companies need to have an ESG score of A or above.",0.20786163210868835,0.010651176795363426,0.781487226486206,neutral,0.19721046090126038
+32,2019-08-26 10:14:00,"Next, there's an ongoing evaluation on each company based on ""ESG controversies.""",0.017885971814393997,0.020615926012396812,0.9614980220794678,neutral,-0.0027299541980028152
+33,2019-08-26 10:14:00,"These controversies are divided into five broad categories, including:
+• Environment: Problems with emissions, water use, and the supply chain
+• Human rights: Adverse impacts on local communities or violations of human rights or civil liberties
+• Labor rights: Allegations or proof of discrimination, child labor, or health and safety issues
+• Governance: Includes problematic governance structures, allegations or proof of bribery or corruption, and controversial investments
+
+MSCI's team will investigate all of these areas and assign each company an ESG controversies score of 0 (the worst score) to 10 (the best score).",0.040942490100860596,0.01038684044033289,0.9486706852912903,neutral,0.03055565059185028
+34,2019-08-26 10:14:00,"To be included in the index, companies need a score of 4 or above.",0.1888246387243271,0.012119577266275883,0.7990557551383972,neutral,0.17670506238937378
+35,2019-08-26 10:14:00,"Finally, once all of these steps have been taken, MSCI ranks the companies that are left according to their scores.",0.03307048976421356,0.0074004377238452435,0.9595290422439575,neutral,0.02567005157470703
+36,2019-08-26 10:14:00,MSCI comes up with model indices with several different flavors.,0.03178974613547325,0.00626493850722909,0.9619453549385071,neutral,0.02552480809390545
+37,2019-08-26 10:14:00,"For instance, there is an SRI index for the entire world, for Europe, for emerging markets, and so on.",0.03789274021983147,0.007560414262115955,0.9545468091964722,neutral,0.030332326889038086
+38,2019-08-26 10:14:00,"Since its inception in September 2007 through July 2019, the World SRI index has outperformed its benchmark index, the MSCI World Index -- but not by much.",0.6519331932067871,0.30851051211357117,0.03955632075667381,positive,0.34342268109321594
+39,2019-08-26 10:14:00,"If you invested $100 in the broader global market in 2007, it would have been worth $183.03 by July 2019.",0.08854849636554718,0.006098819896578789,0.9053527116775513,neutral,0.08244967460632324
+40,2019-08-26 10:14:00,The same investment in the MSCI SRI World Index would be worth $196.20.,0.08690173178911209,0.005326124373823404,0.9077721238136292,neutral,0.08157560974359512
+41,2019-08-26 10:14:00,There are two ways to look at this.,0.021011454984545708,0.019007720053195953,0.9599807858467102,neutral,0.0020037349313497543
+42,2019-08-26 10:14:00,"On one hand, the difference in performance is negligible: The SRI index outperforms by just 0.62 percentage points per year.",0.13577277958393097,0.751747190952301,0.112480029463768,negative,-0.6159744262695312
+43,2019-08-26 10:14:00,This doesn't suggest a history of market-thumping returns.,0.2503832280635834,0.016224388033151627,0.7333923578262329,neutral,0.23415884375572205
+44,2019-08-26 10:14:00,"At the same time, that's not exactly the point.",0.07566561549901962,0.10014183819293976,0.8241925835609436,neutral,-0.024476222693920135
+45,2019-08-26 10:14:00,Those who invest in SRI indices are often doing so because they want their investments to reflect their values.,0.08935712277889252,0.007231078576296568,0.9034118056297302,neutral,0.08212604373693466
+46,2019-08-26 10:14:00,There's nothing wrong with market-matching returns -- especially if that's what your investing goals call for.,0.10813406854867935,0.010368583723902702,0.881497323513031,neutral,0.0977654829621315
+47,2019-08-26 10:14:00,"If you can accomplish those returns with the peace of mind that you know where your money is going, more power to you.",0.44848787784576416,0.010191868059337139,0.541320264339447,neutral,0.43829602003097534
+48,2019-08-26 10:14:00,"Here's a look at the 10 largest components of the MSCI World SRI Index (as of July 31, 2019) and what each company does.",0.015965454280376434,0.008424188941717148,0.9756103754043579,neutral,0.0075412653386592865
+49,2019-08-26 10:14:00,"Later, we'll investigate how each company garnered a spot on the list.",0.13503165543079376,0.007643471471965313,0.8573248386383057,neutral,0.12738817930221558
+50,2019-08-26 10:14:00,Does it seem odd to see some of these companies included?,0.015529531054198742,0.030309738591313362,0.954160749912262,neutral,-0.01478020753711462
+51,2019-08-26 10:14:00,"On the surface, its easy to see why software companies -- which don't produce too much waste and promote sustainability -- are on the list.",0.038903795182704926,0.04001232609152794,0.9210838079452515,neutral,-0.0011085309088230133
+52,2019-08-26 10:14:00,"But oil companies, fast food companies, and purveyors of junk food?",0.039022836834192276,0.09825915843248367,0.8627179861068726,neutral,-0.0592363215982914
+53,2019-08-26 10:14:00,You might be surprised once you start looking deeper.,0.0831725224852562,0.017612235620617867,0.8992152214050293,neutral,0.06556028872728348
+54,2019-08-26 10:14:00,Accenture is a global consulting firm based out of Ireland.,0.062171850353479385,0.00539700873196125,0.9324311017990112,neutral,0.056774839758872986
+55,2019-08-26 10:14:00,"Right off the bat, Accenture lends itself to SRI investments: Giving advice to enterprise clients is not the type of business that naturally lends itself to waste and pollution.",0.014714128337800503,0.028035175055265427,0.957250714302063,neutral,-0.013321046717464924
+56,2019-08-26 10:14:00,The company does a lot to promote the well-being of all stakeholders.,0.31353557109832764,0.008521782234311104,0.6779426336288452,neutral,0.3050137758255005
+57,2019-08-26 10:14:00,"This includes:
+• Aiming for a 50-50 balance between men and women in its workforce (it's currently at 42% women)
+• With a 2025 target date, reducing greenhouse gases by 11% from 2016 levels
+• Creating a new category dubbed Procurement Plus to make sure all the organizations it buys from abide by certain rules regarding sustainability, diversity, and human rights
+• The company has developed its own ethical conduct guide for the use of artificial intelligence (AI).",0.2013951987028122,0.006716992240399122,0.7918877601623535,neutral,0.1946782022714615
+58,2019-08-26 10:14:00,Making strides within its own business practices is important.,0.5154757499694824,0.009742689318954945,0.4747815430164337,positive,0.505733072757721
+59,2019-08-26 10:14:00,But Accenture's real leverage -- when it comes to improving society -- has just as much to do with the advice it gives its clients as with anything else.,0.17259028553962708,0.007880858145654202,0.8195288777351379,neutral,0.1647094339132309
+60,2019-08-26 10:14:00,That's why one initiative stands out as paramount: a clearly stated goal to help clients reduce global greenhouse gas emissions.,0.6005431413650513,0.013324101455509663,0.38613274693489075,positive,0.5872190594673157
+61,2019-08-26 10:14:00,"In 2018, the company helped clients eliminate 301,000 metric tons of CO2 emissions -- with another 2.6 million metric tons identified to eliminate in the near future.",0.8911243677139282,0.018508736044168472,0.09036694467067719,positive,0.87261563539505
+62,2019-08-26 10:14:00,"Of all the companies on this list, Total might be the most surprising.",0.043292827904224396,0.033520497381687164,0.923186719417572,neutral,0.009772330522537231
+63,2019-08-26 10:14:00,"Gas and oil companies don't have the best reputation when it comes to sustainability: Not only does their primary product increase greenhouse gas emissions, but the extraction of such natural resources has been known to cause major ecological issues.",0.0367533378303051,0.7754014730453491,0.1878451257944107,negative,-0.7386481165885925
+64,2019-08-26 10:14:00,"The flip side of that same coin, however, means that Total is uniquely positioned to help reduce pollution dramatically.",0.844184398651123,0.013832375407218933,0.1419832855463028,positive,0.8303520083427429
+65,2019-08-26 10:14:00,"Since it is the fourth-largest oil and gas player in the world, any moves Total makes will reverberate around the world.",0.23872537910938263,0.011048546060919762,0.7502260804176331,neutral,0.22767683863639832
+66,2019-08-26 10:14:00,"Total knows that, and the French company's overarching goal is ""to become the responsible energy major"" -- or major energy company.",0.5147987008094788,0.00958709605038166,0.47561416029930115,positive,0.505211591720581
+67,2019-08-26 10:14:00,"There are multiple prongs to this approach:
+• A 2020 goal for inclusion of women in senior executive and committee leadership roles to stand at 25% and 20% of total membership, respectively.",0.2018866091966629,0.008229180239140987,0.7898842096328735,neutral,0.19365742802619934
+68,2019-08-26 10:14:00,"To put in perspective how far the company has come, in 2004, 5% of senior executives were women.",0.04130016267299652,0.014434621669352055,0.9442652463912964,neutral,0.02686554193496704
+69,2019-08-26 10:14:00,"In 2018, it was 21.6%.",0.06281106919050217,0.013808631338179111,0.9233803153038025,neutral,0.04900243878364563
+70,2019-08-26 10:14:00,"• Decrease sulfuric oxide emissions by 50% between 2010 and 2020 (this was accomplished by 2017)
+• Valorize (reuse, recycle, or compost) 50% of wastes produced by the company
+• Pledge not to develop energy resources in sites designated on the UNESCO World Heritage List or underneath the Arctic polar ice cap
+
+Clearly, by reducing waste and emissions at sites throughout the world, Total can have an outsized effect on sustainability efforts -- which lands it a spot on this list.",0.4476306438446045,0.08849172294139862,0.46387767791748047,neutral,0.3591389060020447
+71,2019-08-26 10:14:00,Adobe is the worldwide leader in providing tools for creative professionals.,0.6874439716339111,0.011319905519485474,0.301236093044281,positive,0.676124095916748
+72,2019-08-26 10:14:00,"The company's software is the lifeblood for the world's designers, illustrators, animators, and graphics professionals.",0.29653075337409973,0.00826206710189581,0.6952072381973267,neutral,0.28826868534088135
+73,2019-08-26 10:14:00,"Because it is a software company, Adobe also benefits from the fact that it doesn't produce too much waste.",0.155120387673378,0.00825248658657074,0.836627185344696,neutral,0.14686790108680725
+74,2019-08-26 10:14:00,"If you think about it, the key product is the code that its engineers embed into the company's technology.",0.03941335901618004,0.005995230749249458,0.9545914530754089,neutral,0.03341812640428543
+75,2019-08-26 10:14:00,"That being said, Adobe has made a number of SRI commitments of note:
+• The company vowed to make zero political contributions -- and followed through -- in 2018.",0.2638434171676636,0.011342620477080345,0.7248139381408691,neutral,0.2525008022785187
+76,2019-08-26 10:14:00,• Pay parity for equal jobs between men and women has been achieved.,0.9025291800498962,0.020025523379445076,0.07744535803794861,positive,0.8825036287307739
+77,2019-08-26 10:14:00,• 70% of the company's workforce performs their duties in LEED-certified work spaces.,0.015751158818602562,0.05854902043938637,0.925699770450592,neutral,-0.042797863483428955
+78,2019-08-26 10:14:00,• The amount of carbon dioxide emissions per employee fell 23% -- though the time frame for that reduction isn't clear.,0.020511450245976448,0.9657660126686096,0.013722473755478859,negative,-0.9452545642852783
+79,2019-08-26 10:14:00,It might be surprising to see McDonald's landing on a list of socially responsible companies.,0.25020140409469604,0.06980407983064651,0.679994523525238,neutral,0.18039733171463013
+80,2019-08-26 10:14:00,"Ever since the 2004 documentary Super Size Me, it has been synonymous with unhealthy eating habits across the Western world.",0.11770322173833847,0.3043748438358307,0.5779219269752502,neutral,-0.18667161464691162
+81,2019-08-26 10:14:00,"But over the past decade, the company has launched a Scale for Good campaign.",0.6646950840950012,0.012513242661952972,0.3227916657924652,positive,0.65218186378479
+82,2019-08-26 10:14:00,"The idea is simple: Given the fact that McDonald's has a greater global scale than any other restaurant worldwide, it has the potential to affect more change than thousands of tinier restaurants added together.",0.4757746160030365,0.012495962902903557,0.5117294192314148,neutral,0.4632786512374878
+83,2019-08-26 10:14:00,"To that end, the company has focused its efforts in a wide range of areas, including:
+• Sourcing beef from sustainable farmers using best practices
+• By 2025, guaranteeing that 100% of packaging comes from recycled, renewable, or certified sources
+• Offering Happy Meals with less sugar and saturated fat that are made using simpler ingredients
+
+The real leverage point unique to McDonald's is its place in the food chain.",0.1833045929670334,0.006979465484619141,0.809715986251831,neutral,0.17632512748241425
+84,2019-08-26 10:14:00,"By being the face that interacts directly with the end consumer, it has the potential to affect wide-ranging changes in how beef is produced -- and how forests that are being cut down for cattle grazing can be preserved.",0.08689236640930176,0.011853713542222977,0.901253879070282,neutral,0.07503865659236908
+85,2019-08-26 10:14:00,"When people hear Pepsi, they often just think of the caffeinated beverage that's Coke's foil.",0.06054985150694847,0.09687356650829315,0.8425765633583069,neutral,-0.03632371500134468
+86,2019-08-26 10:14:00,But the company is much more than that.,0.04872993752360344,0.009463750757277012,0.9418063759803772,neutral,0.039266187697649
+87,2019-08-26 10:14:00,"Its top brands include other beverages (Gatorade, Tropicana, Aquafina) and foods (Quaker Oats, Doritos, Fritos).",0.030563239008188248,0.006578109227120876,0.9628587365150452,neutral,0.023985128849744797
+88,2019-08-26 10:14:00,"While these snacks -- by and large -- may not be well regarded for their nutritional value, the company has been going the extra mile to fulfill its SRI mission.",0.8112169504165649,0.013344350270926952,0.17543867230415344,positive,0.7978726029396057
+89,2019-08-26 10:14:00,"Among the company's key initiatives:
+• Significantly cutting down added sugars, sodium, and saturated fat in the company's beverages
+• A goal of replenishing 100% of water used in high-water-risk areas by 2025 (the company replenished 22% in 2017)
+
+Given the global scope of Pepsi's operations, these choices can significantly move the needle in the communities where the company has factories.",0.8488497138023376,0.02325131930410862,0.1278989315032959,positive,0.825598418712616
+90,2019-08-26 10:14:00,Home Depot is one of North America's largest housing and construction suppliers.,0.3473135828971863,0.008164219558238983,0.6445221900939941,neutral,0.3391493558883667
+91,2019-08-26 10:14:00,"The company plays an enormous role in resource deployment on the continent, so it's heartening to see its inclusion on this list.",0.598016083240509,0.01085262093693018,0.39113128185272217,positive,0.5871634483337402
+92,2019-08-26 10:14:00,"• Reducing greenhouse gases from Home Depot's U.S. logistics operation by 8% in 2018
+
+While there have been several notable complaints about the treatment of rank-and-file employees, they haven't risen to the level at which MSCI believes they cancel out the environmental benefits of the company's initiatives.",0.03333214670419693,0.9149472713470459,0.051720570772886276,negative,-0.8816151022911072
+93,2019-08-26 10:14:00,"One of a handful of non-U.S.-based businesses on this list, Roche is a major pharmaceutical and diagnostic testing company domiciled in Switzerland.",0.017388146370649338,0.00923093967139721,0.9733808636665344,neutral,0.008157206699252129
+94,2019-08-26 10:14:00,The company is a leader in both cancer treatments and in vitro diagnostic testing.,0.5768477916717529,0.009759454987943172,0.4133927524089813,positive,0.5670883655548096
+95,2019-08-26 10:14:00,It is also a leader in socially responsible business practices.,0.7522500157356262,0.01358726155012846,0.23416271805763245,positive,0.7386627793312073
+96,2019-08-26 10:14:00,By its very nature -- helping to cure and diagnose potentially life-threatening diseases -- Roche has a bent toward SRI.,0.18533369898796082,0.007973643019795418,0.8066926598548889,neutral,0.17736005783081055
+97,2019-08-26 10:14:00,But those practices go far beyond just pharmaceuticals.,0.03643980249762535,0.007703233044594526,0.9558569192886353,neutral,0.028736568987369537
+98,2019-08-26 10:14:00,"They include:
+• Decreasing energy consumption by 10% over the same time frame
+
+At the same time, the Access to Medicine Foundation -- which monitors how well companies make their life-saving drugs accessible to at-risk populations -- ranked Roche among the top 10 drug companies globally for making drugs accessible.",0.7418662905693054,0.019473735243082047,0.23865996301174164,positive,0.7223925590515137
+99,2019-08-26 10:14:00,Who doesn't know about Disney?,0.061506498605012894,0.0844154804944992,0.8540779948234558,neutral,-0.022908981889486313
+100,2019-08-26 10:14:00,The company is home to a sprawling media and entertainment empire.,0.09997019916772842,0.006571936886757612,0.8934578895568848,neutral,0.09339826554059982
+101,2019-08-26 10:14:00,"This includes a division for theme parks, another for studio entertainment, a third for media networks -- like ABC, ESPN, its namesake Disney Channel, and the soon-to-be-launched Disney+ streaming -- and a fourth for direct-to-consumer products like toys and games.",0.023316923528909683,0.005559029523283243,0.971123993396759,neutral,0.017757894471287727
+102,2019-08-26 10:14:00,"The company's SRI efforts have been massive, given the scale of its operations.",0.5879582762718201,0.01096157357096672,0.4010801315307617,positive,0.5769966840744019
+103,2019-08-26 10:14:00,"These include:
+• Maintaining potable water use at 2013 levels companywide.",0.055415619164705276,0.007139914203435183,0.9374444484710693,neutral,0.04827570542693138
+104,2019-08-26 10:14:00,"Last year, in fact, water usage was 5.8% below the 2013 baseline.",0.019557904452085495,0.9060088396072388,0.07443327456712723,negative,-0.8864509463310242
+105,2019-08-26 10:14:00,"• Reducing net emissions by 44% last year from 2012 baselines
+• Providing more than 600,000 volunteer hours in 2018 to local organizations
+• 54% of waste from theme parks was diverted away from landfills.",0.3642410337924957,0.47540172934532166,0.16035719215869904,negative,-0.11116069555282593
+106,2019-08-26 10:14:00,These efforts are not only good for the planet but good for business as well.,0.7694088220596313,0.014297853223979473,0.2162933349609375,positive,0.7551109790802002
+107,2019-08-26 10:14:00,Procter & Gamble is one of the world's largest conglomerates.,0.2466440349817276,0.010195157490670681,0.7431607842445374,neutral,0.23644888401031494
+108,2019-08-26 10:14:00,The company makes everything from Pampers diapers to Crest toothpaste to Gillette razors.,0.03576938435435295,0.005960151087492704,0.9582704901695251,neutral,0.02980923280119896
+109,2019-08-26 10:14:00,"Because there's so much manufacturing involved in P&G's business, it's impressive that the company finds a spot on this list.",0.8098475337028503,0.013948262669146061,0.17620420455932617,positive,0.7958992719650269
+110,2019-08-26 10:14:00,Other companies -- predominantly software ones -- don't have to worry about pollution nearly as much.,0.01571383699774742,0.030828317627310753,0.9534578323364258,neutral,-0.015114480629563332
+111,2019-08-26 10:14:00,"The company is able to do that by pursuing a number of different initiatives, including:
+• Eliminating animal testing from all product development -- a goal that has yet to be reached
+• Developing supplier sustainability guidelines that include a focus on just labor practices and environmental sustainability
+
+Microsoft is not only the world's largest SRI company, but -- depending on the stock's performance on any given day -- the largest company in the world.",0.4076647162437439,0.008223378099501133,0.5841119289398193,neutral,0.39944133162498474
+112,2019-08-26 10:14:00,Period.,0.06959164887666702,0.03324785456061363,0.8971604108810425,neutral,0.03634379431605339
+113,2019-08-26 10:14:00,"Valued at more than $1 trillion, this company is a juggernaut that includes a core software-as-a-service component (Office 365), a fast-growing cloud segment (Azure), and a number of hardware products (Xbox, to name one).",0.1784178614616394,0.005644289311021566,0.8159378170967102,neutral,0.1727735698223114
+114,2019-08-26 10:14:00,"By its very nature, Microsoft lends itself to an SR focus.",0.041592471301555634,0.006181116681545973,0.9522264003753662,neutral,0.03541135415434837
+115,2019-08-26 10:14:00,Software companies generate little waste -- their key product is coding done by engineers.,0.014916203916072845,0.011373982764780521,0.973709762096405,neutral,0.003542221151292324
+116,2019-08-26 10:14:00,"Beyond that, however, the company has routinely gone above and beyond the call of duty.",0.17416930198669434,0.016554193571209908,0.8092764616012573,neutral,0.15761511027812958
+117,2019-08-26 10:14:00,"This includes:
+• Donating $1.4 billion annually in software and services to nonprofits
+
+Remember, just because a company lands on an SRI list doesn't mean that it's perfect.",0.1369941234588623,0.020082848146557808,0.8429229855537415,neutral,0.11691127717494965
+118,2019-08-26 10:14:00,And it doesn't automatically make it a sound investment.,0.4559028148651123,0.022624729201197624,0.5214725136756897,neutral,0.43327808380126953
+119,2019-08-26 10:14:00,You have to do your own homework to see how a company aligns with your own moral and investing principles.,0.11702655255794525,0.011244766414165497,0.8717287182807922,neutral,0.10578178614377975
+120,2019-08-26 10:14:00,But an SRI designation is not an unimportant part of the investing equation either.,0.022973716259002686,0.031128786504268646,0.9458975195884705,neutral,-0.00815507024526596
+121,2019-08-26 10:14:00,"As public -- and political -- forces focus more on the environment, governance, and employee-related issues, the companies that shine in these areas will benefit.",0.6424661874771118,0.011339666321873665,0.3461940586566925,positive,0.6311265230178833
+122,2019-08-26 10:14:00,That's what makes these lists so valuable: They give insight into how companies are mitigating risks that might not be in the limelight right now but could be soon.,0.2669183313846588,0.009360953234136105,0.7237207293510437,neutral,0.25755739212036133
+123,2019-08-26 10:14:00,"By paying attention to companies that are doing well by doing good, you're aligning your incentives with forces that may ultimately prove to be the difference between wealth-generating and simply ho-hum investments.",0.2078097015619278,0.012083589099347591,0.7801067233085632,neutral,0.19572611153125763
+124,2019-08-26 10:14:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+125,2019-08-26 10:14:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+126,2019-08-26 10:14:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+127,2019-08-26 10:14:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+128,2019-08-26 10:14:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+129,2019-08-26 10:14:00,Brian Stoffel has no position in any of the stocks mentioned.,0.010457303375005722,0.05455100163817406,0.934991717338562,neutral,-0.044093698263168335
+130,2019-08-26 10:14:00,The Motley Fool owns shares of and recommends Microsoft and Walt Disney.,0.04365014657378197,0.035253532230854034,0.9210962653160095,neutral,0.008396614342927933
+131,2019-08-26 10:14:00,"The Motley Fool is short shares of Procter & Gamble and has the following options: long January 2021 $60 calls on Walt Disney, short August 2019 $195 calls on Home Depot, short October 2019 $125 calls on Walt Disney, short January 2020 $155 calls on Accenture, long January 2021 $110 calls on Accenture, long January 2021 $120 calls on Home Depot, and long January 2021 $85 calls on Microsoft.",0.011388071812689304,0.04009944200515747,0.9485124349594116,neutral,-0.02871137112379074
+132,2019-08-26 10:14:00,"The Motley Fool recommends Accenture, Adobe Systems, Home Depot, and Uber Technologies.",0.02910982072353363,0.02273733727633953,0.9481528401374817,neutral,0.006372483447194099
+133,2019-08-26 10:14:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

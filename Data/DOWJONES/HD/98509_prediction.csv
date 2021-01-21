@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-21 01:56:00,Stocks rose on Tuesday as both the Dow Jones Industrial Average (DJINDICES: ^DJI) and the S&P 500 (SNPINDEX: ^GSPC) indexes finished higher by over 0.5%.,0.9283334612846375,0.03288334235548973,0.03878317400813103,positive,0.8954501152038574
+1,2017-02-21 01:56:00,"Financial stocks saw some of the heaviest trading, yet the popular Financial Select Sector SPDR ETF (NYSEMKT: XLF) still trailed the broader market slightly with a 0.5% increase.",0.884172797203064,0.07142224162817001,0.044404949992895126,positive,0.8127505779266357
+2,2017-02-21 01:56:00,"Gold prices held steady, but that didn't stop the highly leveraged bet on the precious metal, Direxion Daily Gold Miners Bull 3X ETF (NYSEMKT: NUGT) , from falling 2%.",0.0809989869594574,0.9015799164772034,0.017421061173081398,negative,-0.8205809593200684
+3,2017-02-21 01:56:00,"As for individual stocks, Home Depot (NYSE: HD) and Dillard's (NYSE: DDS) both made large moves following the retailers' respective quarterly earnings announcements.",0.6080867052078247,0.03990611061453819,0.3520071804523468,positive,0.5681806206703186
+4,2017-02-21 01:56:00,Home Depot shares pushed further into record territory after the home improvement giant trounced its own quarterly revenue and profit forecasts .,0.7073487043380737,0.20725345611572266,0.08539779484272003,positive,0.5000952482223511
+5,2017-02-21 01:56:00,Comparable-store sales improved by 6% thanks to a solid mix of increased customer traffic and higher spending per visit.,0.958765983581543,0.02193710021674633,0.019296955317258835,positive,0.9368289113044739
+6,2017-02-21 01:56:00,"That was good enough to raise comps by 5.6% for the full year, beating executives' target of 4.9%.",0.956073522567749,0.023826533928513527,0.020100034773349762,positive,0.9322469830513
+7,2017-02-21 01:56:00,Earnings also came in ahead of guidance by spiking 18% to $6.45 for the year as opposed to the 16% increase management forecast in mid-November.,0.867918074131012,0.10188030451536179,0.030201641842722893,positive,0.7660377621650696
+8,2017-02-21 01:56:00,"CEO Craig Menear cited ""a healthy housing market and strong customer demand"" for helping produce the surprising gains.",0.9409257173538208,0.01836431585252285,0.0407099649310112,positive,0.9225614070892334
+9,2017-02-21 01:56:00,The retailer continued to set itself apart from rivals by posting stellar e-commerce figures.,0.9324211478233337,0.03671269491314888,0.030866101384162903,positive,0.895708441734314
+10,2017-02-21 01:56:00,Sales rose 19% in that category -- up from a 17% increase in the prior quarter.,0.9576150178909302,0.02161414362490177,0.020770788192749023,positive,0.9360008835792542
+11,2017-02-21 01:56:00,Home Depot's results keep it on track to meet its long-term target of passing $100 billion of annual revenue by 2018.,0.9350004196166992,0.018575459718704224,0.04642406105995178,positive,0.9164249897003174
+12,2017-02-21 01:56:00,"And, because profitability is expanding at the same time, the retailer is flush with excess cash.",0.8433601260185242,0.02320030704140663,0.13343964517116547,positive,0.8201597929000854
+13,2017-02-21 01:56:00,"In response, management announced plans to deliver a large portion of those funds back to shareholders as it raised Home Depot's dividend by 29% while increasing its targeted payout ratio to 55% of earnings from 50%.",0.920563280582428,0.013626857660710812,0.06580986827611923,positive,0.9069364070892334
+14,2017-02-21 01:56:00,Dillard's stock slumped 8.3% following disappointing earnings results.,0.020401766523718834,0.9689730405807495,0.010625191032886505,negative,-0.9485712647438049
+15,2017-02-21 01:56:00,"Declines in shopper traffic at malls contributed to a 6% drop in comparable-store sales over the key holiday period, the retailer said.",0.01786329597234726,0.972234308719635,0.009902358055114746,negative,-0.9543710350990295
+16,2017-02-21 01:56:00,"All sales categories shrank, with home and furniture and shoes faring the worst.",0.01896553486585617,0.9667072296142578,0.014327127486467361,negative,-0.947741687297821
+17,2017-02-21 01:56:00,"The good news is that the company held the line on prices, and so gross profit margin improved slightly.",0.9467606544494629,0.02379080280661583,0.029448524117469788,positive,0.9229698777198792
+18,2017-02-21 01:56:00,"Unfortunately for the business, though, increased expenses overwhelmed that tiny improvement to send profitability far lower.",0.02237694524228573,0.9649238586425781,0.01269916445016861,negative,-0.9425469040870667
+19,2017-02-21 01:56:00,Net profit margin for the fiscal year dipped to 2.7% of sales from 4.1% a year ago.,0.01811082474887371,0.973453938961029,0.008435160852968693,negative,-0.9553431272506714
+20,2017-02-21 01:56:00,"""Our operating results reflect another quarter of mall traffic declines from continued retail industry challenges,"" CEO William Dillard said in a press release.",0.023067746311426163,0.9603384137153625,0.01659379154443741,negative,-0.9372706413269043
+21,2017-02-21 01:56:00,"In response, the company is boosting its branding efforts and pouring more cash into improving the shopper experience both online and in stores.",0.939864993095398,0.017210854217410088,0.04292408004403114,positive,0.9226541519165039
+22,2017-02-21 01:56:00,A quick sales rebound doesn't look likely if shoppers continue opting for online purchases over a trip to the mall.,0.21595993638038635,0.3896360695362091,0.3944040536880493,neutral,-0.17367613315582275
+23,2017-02-21 01:56:00,"However, with nearly $350 million in cash on the books, Dillard's at least has some flexibility to make investments in the business while continuing to return cash to shareholders through aggressive stock repurchase spending.",0.8624413013458252,0.012957683764398098,0.12460095435380936,positive,0.8494836091995239
+24,2017-02-21 01:56:00,"Offer from The Motley Fool: The 10 best stocks to buy now
+
+Motley Fool co-founders Tom and David Gardner have spent more than a decade beating the market.",0.3577365279197693,0.079598069190979,0.5626654624938965,neutral,0.2781384587287903
+25,2017-02-21 01:56:00,"In fact, the newsletter they run, Motley Fool Stock Advisor , has tripled the S&P 500!",0.622062087059021,0.04942350834608078,0.32851436734199524,positive,0.5726385712623596
+26,2017-02-21 01:56:00,"*
+
+Tom and David just revealed their ten top stock picks for investors to buy right now.",0.13930022716522217,0.010441468097269535,0.8502583503723145,neutral,0.1288587599992752
+27,2017-02-21 01:56:00,Click here to get access to the full list!,0.04566172882914543,0.045436516404151917,0.9089017510414124,neutral,0.00022521242499351501
+28,2017-02-21 01:56:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+29,2017-02-21 01:56:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+30,2017-02-21 01:56:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+31,2017-02-21 01:56:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

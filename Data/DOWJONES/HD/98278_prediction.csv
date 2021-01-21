@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-18 06:32:00,Home Depot (NYSE: HD) posted quarterly results this week that showed the home improvement giant is staying above the weak retailing industry trends.,0.9238898754119873,0.0335690900683403,0.0425410233438015,positive,0.8903207778930664
+1,2017-05-18 06:32:00,The company announced broad sales growth and accelerating profit gains over the spring selling season even as customer traffic was stubbornly low.,0.9480214715003967,0.0241797287017107,0.027798831462860107,positive,0.9238417148590088
+2,2017-05-18 06:32:00,More on those shopper trends in a moment.,0.04242594167590141,0.033098675310611725,0.924475371837616,neutral,0.009327266365289688
+3,2017-05-18 06:32:00,"First, here's how the big-picture operating results stacked up against the prior year:
+
+With help from surging average spending and a fast-growing online business, Home Depot managed another quarter of market-beating sales gains.",0.9461657404899597,0.024653123691678047,0.029181180521845818,positive,0.9215126037597656
+4,2017-05-18 06:32:00,"Its focus on new and innovative products, meanwhile, helped it deliver a further expansion in profitability.",0.9549124836921692,0.016746388748288155,0.028341175988316536,positive,0.938166081905365
+5,2017-05-18 06:32:00,• Comparable-store sales rose 5.5% worldwide and jumped 6% in the core U.S. market.,0.9545532464981079,0.02075396664440632,0.02469278685748577,positive,0.9337992668151855
+6,2017-05-18 06:32:00,"• Customer traffic growth slowed for the second straight quarter, falling to a 1.6% pace from 2.9%.",0.017249053344130516,0.9736054539680481,0.009145495481789112,negative,-0.956356406211853
+7,2017-05-18 06:32:00,"However, Home Depot offset that decline with a 3.9% spike in average spending per transaction.",0.8400468826293945,0.1297902911901474,0.030162924900650978,positive,0.7102565765380859
+8,2017-05-18 06:32:00,• Home Depot managed a 16% pop in big-ticket transactions (amounting to more than $900) as it pushed deeper into the professional side of the industry.,0.9511620402336121,0.019930042326450348,0.028907930478453636,positive,0.9312319755554199
+9,2017-05-18 06:32:00,"• Its e-commerce site, one of the biggest in the industry, posted 23% growth.",0.949956476688385,0.017464688047766685,0.032578855752944946,positive,0.9324917793273926
+10,2017-05-18 06:32:00,"• Because expenses rose at a slower pace than revenue, operating margin improved to 14% of sales from 13.5%.",0.9555831551551819,0.028097882866859436,0.01631896384060383,positive,0.9274852871894836
+11,2017-05-18 06:32:00,"What management had to say
+
+Executives were happy with the solid start to the fiscal year.",0.8722358345985413,0.02910974994301796,0.0986543819308281,positive,0.8431260585784912
+12,2017-05-18 06:32:00,"""We were pleased with our results as they reflected broad-based growth across our interconnected platform and all geographies,"" CEO Craig Menear said in a press release.",0.9165487289428711,0.013487286865711212,0.0699639841914177,positive,0.9030614495277405
+13,2017-05-18 06:32:00,Management added context in a conference call with investors where they credited their contractor segment with helping deliver the outsized comps gains.,0.8875511288642883,0.02250131592154503,0.08994755148887634,positive,0.8650498390197754
+14,2017-05-18 06:32:00,"""Pro sales once again outpaced DIY sales in the quarter,"" Menear explained.",0.9280785918235779,0.052636198699474335,0.019285215064883232,positive,0.875442385673523
+15,2017-05-18 06:32:00,Menear and his team still believe they'll grow sales at a 4.6% pace this year to mark a slowdown from last year's 5.6% increase.,0.4371672570705414,0.5191912055015564,0.043641552329063416,negative,-0.08202394843101501
+16,2017-05-18 06:32:00,"Rival Lowe 's (NYSE: LOW) , which is slated to report its first-quarter results on May 24, is targeting a slightly weaker 4.1% comps gain in 2017.",0.0248919278383255,0.9545325636863708,0.020575445145368576,negative,-0.9296406507492065
+17,2017-05-18 06:32:00,"Home Depot didn't boost its expansion outlook this week, but management does see profits rising at a slightly faster pace than originally projected.",0.9365887641906738,0.01853770576417446,0.044873468577861786,positive,0.9180510640144348
+18,2017-05-18 06:32:00,"Earnings should improve by 11%, they said, to $7.15 per share.",0.9574755430221558,0.022179972380399704,0.020344387739896774,positive,0.935295581817627
+19,2017-05-18 06:32:00,That's up from February's forecast of $7.13 per share.,0.9508893489837646,0.02424805797636509,0.024862555786967278,positive,0.9266412854194641
+20,2017-05-18 06:32:00,The retailer is still on track to pass $100 billion of annual revenue within the next few quarters.,0.8793300986289978,0.015774279832839966,0.10489556193351746,positive,0.8635557889938354
+21,2017-05-18 06:32:00,"It is well on its way to generating $15 billion of operating earnings off that figure, too, as operating margin jumps to 14.5% from 13.3% in fiscal 2015.",0.949356198310852,0.033922065049409866,0.016721779480576515,positive,0.9154341220855713
+22,2017-05-18 06:32:00,The steadily improving housing market forms the foundation for those growth forecasts.,0.41074779629707336,0.011433223262429237,0.5778189301490784,neutral,0.3993145823478699
+23,2017-05-18 06:32:00,"And at the moment, economic forecasts predict just modest gains for the rest of the year.",0.6218395829200745,0.10516322404146194,0.2729972004890442,positive,0.5166763663291931
+24,2017-05-18 06:32:00,"On the other hand, Home Depot has demonstrated an ability to outgrow the industry thanks to solid execution around product selection and e-commerce.",0.9197720289230347,0.013256859965622425,0.06697104871273041,positive,0.9065151810646057
+25,2017-05-18 06:32:00,Its push into major new segments that serve the professional segment also give it an almost $600 billion total addressable market to attack as it eyes expanding past its $100 billion revenue milestone.,0.9135918021202087,0.015330702997744083,0.07107748836278915,positive,0.8982610702514648
+26,2017-05-18 06:32:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+27,2017-05-18 06:32:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+28,2017-05-18 06:32:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+29,2017-05-18 06:32:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+30,2017-05-18 06:32:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+31,2017-05-18 06:32:00,"*Stock Advisor returns as of May 1, 2017
+
+Demitrios Kalogeropoulos owns shares of Home Depot.",0.017450585961341858,0.010398609563708305,0.9721508622169495,neutral,0.0070519763976335526
+32,2017-05-18 06:32:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+33,2017-05-18 06:32:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+34,2017-05-18 06:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-27 04:30:00,Apple (NASDAQ: AAPL) and Amazon (NASDAQ: AMZN) both briefly became trillion dollar companies over the past year.,0.32145413756370544,0.07474293559789658,0.6038029193878174,neutral,0.24671119451522827
+1,2019-02-27 04:30:00,"However, neither company remained above that valuation, and analysts rushed to crown the next trillion dollar company.",0.7961694002151489,0.0523054413497448,0.15152518451213837,positive,0.7438639402389526
+2,2019-02-27 04:30:00,"One of the top candidates is Microsoft (NASDAQ: MSFT) , which currently has a market cap of about $860 billion.",0.17610062658786774,0.008148688822984695,0.8157506585121155,neutral,0.16795194149017334
+3,2019-02-27 04:30:00,"Analysts at Wedbush Securities recently joined the bullish chorus, claiming that the growth of its cloud services would boost its market cap past the $1 trillion mark later this year.",0.9473740458488464,0.020036522299051285,0.03258941322565079,positive,0.9273375272750854
+4,2019-02-27 04:30:00,"Could that actually happen, or are the analysts getting ahead of themselves?",0.14268545806407928,0.07401881366968155,0.7832956910133362,neutral,0.06866664439439774
+5,2019-02-27 04:30:00,"A company's market cap, which is calculated by multiplying the number of outstanding shares by its price per share, is a poor way to value a company because it doesn't measure the value of those shares relative to its earnings.",0.028275616466999054,0.7566337585449219,0.2150905281305313,negative,-0.7283581495285034
+6,2019-02-27 04:30:00,"For example, Apple traded at just 16 times forward earnings when it crossed the $1 trillion mark last August .",0.13027267158031464,0.1871841549873352,0.6825432181358337,neutral,-0.05691148340702057
+7,2019-02-27 04:30:00,Amazon's forward P/E was around 100 when it hit that mark the following month.,0.3924405574798584,0.02605907991528511,0.5815003514289856,neutral,0.3663814663887024
+8,2019-02-27 04:30:00,"In other words, if Apple and Amazon traded at the same P/E ratios, Apple's market cap would be much higher than Amazon's.",0.5964027047157288,0.024636654183268547,0.37896066904067993,positive,0.5717660784721375
+9,2019-02-27 04:30:00,"However, stocks also have higher P/E ratios because investors are willing to pay more for future earnings growth.",0.8984616994857788,0.026412595063447952,0.07512571662664413,positive,0.87204909324646
+10,2019-02-27 04:30:00,Stocks ideally have a P/E ratio that's lower than their projected earnings growth rate.,0.02190500870347023,0.8842827081680298,0.09381239861249924,negative,-0.8623777031898499
+11,2019-02-27 04:30:00,"Here's how Apple, Amazon, and Microsoft's forward earnings growth rates currently compare to their forward P/E ratios:
+
+Based on this chart, shares of Apple and Amazon are cheaper relative to their earnings growth potential than Microsoft's stock -- which raises concerns with Wall Street's predictions that Microsoft will be the next trillion dollar stock.",0.43960654735565186,0.13148175179958344,0.42891165614128113,positive,0.3081247806549072
+12,2019-02-27 04:30:00,"Why Microsoft probably can't hit $1 trillion this year
+
+To hit a market cap of $1 trillion, Microsoft's stock needs to rally 16% to about $130, assuming that its share count remains roughly the same.",0.9131149649620056,0.030595144256949425,0.0562899224460125,positive,0.8825198411941528
+13,2019-02-27 04:30:00,"That would boost its forward P/E to 26, which would be double its projected earnings growth rate for the year.",0.9539487957954407,0.022245017811655998,0.023806214332580566,positive,0.9317038059234619
+14,2019-02-27 04:30:00,Analysts expect Microsoft's annual earnings to grow at an average rate of 14% over the next five years.,0.9376219511032104,0.013738554902374744,0.048639461398124695,positive,0.9238833785057068
+15,2019-02-27 04:30:00,"This gives it a 5-year PEG ratio of 1.8, which is significantly higher than Apple's PEG ratio of 1.2 and Amazon's PEG ratio of 1.4.",0.9155281186103821,0.017611319199204445,0.06686055660247803,positive,0.8979167938232422
+16,2019-02-27 04:30:00,"A PEG ratio under 1 indicates that a stock is ""undervalued"", so Microsoft's stock seems the priciest of the three relative to its long-term earnings growth potential.",0.24086904525756836,0.539811372756958,0.21931953728199005,negative,-0.29894232749938965
+17,2019-02-27 04:30:00,But what about the cloud business?,0.03804575651884079,0.029289331287145615,0.9326648712158203,neutral,0.008756425231695175
+18,2019-02-27 04:30:00,Microsoft's cloud business is certainly the company's core pillar of growth.,0.6862697601318359,0.011031030677258968,0.3026992082595825,positive,0.6752387285232544
+19,2019-02-27 04:30:00,Its commercial cloud revenue rose 48% annually to $9 billion and accounted for 31% of its top line last quarter.,0.9497643113136292,0.015523161739110947,0.03471256420016289,positive,0.9342411756515503
+20,2019-02-27 04:30:00,"However, the growth of that business in fiscal 2019 remains below its 50%+ growth rates throughout fiscal 2018:
+
+The growth of its cloud platform Azure , the second largest cloud infrastructure player in the world after Amazon Web Services (AWS), also decelerated in the first half of 2019.",0.022569287568330765,0.9519578814506531,0.025472840294241905,negative,-0.9293885827064514
+21,2019-02-27 04:30:00,"Office 365 and Dynamics CRM, the other two pillars of its cloud business, also generated slower growth compared to the prior year quarters.",0.018528910353779793,0.9663147330284119,0.015156345441937447,negative,-0.9477857947349548
+22,2019-02-27 04:30:00,"Those growth rates are still impressive, but they indicate that softer enterprise spending or tougher competition from AWS and Salesforce (NYSE: CRM) in the CRM market could still throttle its long-term cloud growth.",0.21608102321624756,0.7594696879386902,0.024449292570352554,negative,-0.5433886647224426
+23,2019-02-27 04:30:00,"Microsoft could be tempted to counter the competition with lower prices, but that would weigh down its earnings growth and make it even harder to justify a $1 trillion valuation.",0.028578663244843483,0.9424360394477844,0.028985321521759033,negative,-0.9138574004173279
+24,2019-02-27 04:30:00,"Ignore the market cap and focus on the valuations
+
+I think Microsoft is still a great long-term tech play.",0.29960861802101135,0.01123388484120369,0.6891575455665588,neutral,0.28837472200393677
+25,2019-02-27 04:30:00,"However, the stock isn't cheap now, and a $1 trillion target for the company would be based more on hype than reality.",0.03528980910778046,0.07087904214859009,0.8938311338424683,neutral,-0.03558923304080963
+26,2019-02-27 04:30:00,"Therefore, investors should focus on Microsoft's valuations instead of its market cap to decide if the stock is a worthy investment.",0.2608090937137604,0.013828251510858536,0.7253626585006714,neutral,0.24698084592819214
+27,2019-02-27 04:30:00,"10 stocks we like better than Microsoft
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.144730806350708,0.02607131190598011,0.829197883605957,neutral,0.11865949630737305
+28,2019-02-27 04:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+29,2019-02-27 04:30:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Microsoft wasn't one of them!",0.20279869437217712,0.013692434877157211,0.7835088968276978,neutral,0.18910625576972961
+30,2019-02-27 04:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2019-02-27 04:30:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+32,2019-02-27 04:30:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+33,2019-02-27 04:30:00,Leo Sun owns shares of Amazon and Apple.,0.01574373058974743,0.009161044843494892,0.975095272064209,neutral,0.006582685746252537
+34,2019-02-27 04:30:00,"The Motley Fool owns shares of and recommends Amazon, Apple, and Salesforce.com.",0.0337943360209465,0.027993211522698402,0.9382124543190002,neutral,0.0058011244982481
+35,2019-02-27 04:30:00,The Motley Fool owns shares of Microsoft and has the following options: long January 2020 $150 calls on Apple and short January 2020 $155 calls on Apple.,0.015148509293794632,0.042136598378419876,0.9427148699760437,neutral,-0.026988089084625244
+36,2019-02-27 04:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2019-02-27 04:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

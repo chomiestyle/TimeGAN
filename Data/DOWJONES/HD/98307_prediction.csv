@@ -1,0 +1,27 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-16 00:25:00,"The Dow Jones Industrial Average (DJIA) jumped out of the gate thanks to strong earnings from Home Depot , but uncertainty surrounding President Donald Trump's release of allegedly classified information to Russia halted stocks' momentum.",0.6043204069137573,0.3224833607673645,0.07319623976945877,positive,0.2818370461463928
+1,2017-05-16 00:25:00,"This also weighed on the U.S. dollar, helping gold futures grab a fifth straight win.",0.7807955145835876,0.14050191640853882,0.07870249450206757,positive,0.6402935981750488
+2,2017-05-16 00:25:00,"Still, the S&P 500 Index ( SPX ) and Nasdaq Composite (COMP) grabbed record highs once again, and the Nasdaq ended the day in the black, as tech stocks continued to outperform.",0.7654706835746765,0.1470697522163391,0.087459497153759,positive,0.6184009313583374
+3,2017-05-16 00:25:00,"Continue reading for more on today's market, including:
+• The ""positive catalyst"" that could lift this healthcare stock tomorrow.",0.8642824292182922,0.01592271775007248,0.11979477107524872,positive,0.8483597040176392
+4,2017-05-16 00:25:00,"• Plus, a brokerage stock to avoid; inside Etsy's huge day; and options traders take on Cisco earnings.",0.15692928433418274,0.20228230953216553,0.6407883763313293,neutral,-0.04535302519798279
+5,2017-05-16 00:25:00,"The Dow Jones Industrial Average (DJIA- 20,979.75) closed down 2.2 points, or 0.01%, with half of its 30 components closing in the black.",0.025500325486063957,0.9565173983573914,0.01798226125538349,negative,-0.9310171008110046
+6,2017-05-16 00:25:00,"While Home Depot had a strong showing, it was Microsoft that had the best day, adding 2%.",0.9086394906044006,0.030672257766127586,0.060688216239213943,positive,0.8779672384262085
+7,2017-05-16 00:25:00,"At the bottom was UnitedHealth, losing 2%.",0.018928369507193565,0.9615897536277771,0.019481943920254707,negative,-0.9426614046096802
+8,2017-05-16 00:25:00,"The S&P 500 Index (SPX - 2,400.67) shed 1.7 point, or 0.1%, after tapping an all-time best of 2,405.77.",0.02433028817176819,0.9663065671920776,0.009363075718283653,negative,-0.9419763088226318
+9,2017-05-16 00:25:00,"The Nasdaq Composite (COMP - 6,169.87) , though, managed a 20.2-point, or 0.3%, advance, for another record close.",0.8929799199104309,0.0740126520395279,0.03300746530294418,positive,0.8189672827720642
+10,2017-05-16 00:25:00,"The CBOE Volatility Index (VIX - 10.65) moved up 0.2 point, or 2.2%.",0.9113172888755798,0.03190556541085243,0.0567772202193737,positive,0.8794116973876953
+11,2017-05-16 00:25:00,• Reports are circulating that hackers have stolen the upcoming Pirates of the Caribbean installment from Disney and are threatening to release it in pieces unless they are paid.,0.039284348487854004,0.9149397015571594,0.045775916427373886,negative,-0.8756553530693054
+12,2017-05-16 00:25:00,"The movie, ""Pirates of the Caribbean: Dead Men Tell No Tales,"" is set to hit theaters May 25.",0.09257790446281433,0.0121080307289958,0.8953140377998352,neutral,0.08046987652778625
+13,2017-05-16 00:25:00,"( The Guardian )
+• Speaking of hackers, cybersecurity experts have reason to believe the culprit for this weekend's massive cyber attack, known as "" WannaCry ,"" may be out of North Korea.",0.09683208912611008,0.5788297653198242,0.32433822751045227,negative,-0.48199766874313354
+14,2017-05-16 00:25:00,Symantec and Google both found evidence possibly connecting the rogue state.,0.13213489949703217,0.6442224979400635,0.22364258766174316,negative,-0.5120875835418701
+15,2017-05-16 00:25:00,"(Bloomberg)
+• More headwinds could be in store for this brokerage stock .",0.026851989328861237,0.9503339529037476,0.022814098745584488,negative,-0.9234819412231445
+16,2017-05-16 00:25:00,• How options traders are gearing up for Cisco earnings .,0.3913586139678955,0.02834928222000599,0.5802921652793884,neutral,0.36300933361053467
+17,2017-05-16 00:25:00,"Despite an early rise, oil prices closed lower today, as traders await tomorrow's update on domestic crude inventories.",0.025665543973445892,0.9529106616973877,0.021423790603876114,negative,-0.9272451400756836
+18,2017-05-16 00:25:00,"In addition, the International Energy Agency (IEA) said extended production cuts from the Organization of the Petroleum Countries (OPEC) may not help curb the global crude glut all that much.",0.06449634581804276,0.9069985151290894,0.028505107387900352,negative,-0.8425021767616272
+19,2017-05-16 00:25:00,"June-dated crude futures settled down 19 cents, or 0.4%, at $48.66 per barrel.",0.024619461968541145,0.9631094336509705,0.01227108109742403,negative,-0.9384899735450745
+20,2017-05-16 00:25:00,"Gold prices rose today, marking a fifth straight day of gains, amid a cooling dollar and appetite for perceived safe havens.",0.9404115080833435,0.025330698117613792,0.03425777703523636,positive,0.9150807857513428
+21,2017-05-16 00:25:00,"Gold set for June delivery ended the day up $6.40, or 0.5%, at $1,236.40 per barrel.",0.8789762258529663,0.06395671516656876,0.05706706643104553,positive,0.8150194883346558
+22,2017-05-16 00:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

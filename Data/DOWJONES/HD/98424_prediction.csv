@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-30 07:36:00,"I'm not trying to sound the alarm and get everyone rushing for the exits, but according to the Shiller price-to-earnings ratio, the stock market is now the third most expensive it has been in history, behind only the market of 1929 and the dot-com bubble of 2000.",0.11665740609169006,0.37523508071899414,0.5081074833869934,neutral,-0.2585776746273041
+1,2017-03-30 07:36:00,"For those who are nervous about their long positions and want to find a way to protect against it in a relatively inexpensive manner, you may want to consider options trades, including what's called a Protective Collar.",0.07196420431137085,0.01307014748454094,0.9149656295776367,neutral,0.05889405682682991
+2,2017-03-30 07:36:00,"With these options trades, you first sell covered calls against your long position.",0.018594464287161827,0.009297274053096771,0.9721082448959351,neutral,0.009297190234065056
+3,2017-03-30 07:36:00,"You know this trade, as I've written about it frequently.",0.04130588844418526,0.010061487555503845,0.9486325979232788,neutral,0.031244400888681412
+4,2017-03-30 07:36:00,"Normally, you might do it to generate some income against a long position.",0.10402385145425797,0.02404521405696869,0.8719309568405151,neutral,0.07997863739728928
+5,2017-03-30 07:36:00,"However, in this case, you use the premiums generated from the sale of the covered calls to purchase puts against the same long position.",0.025724703446030617,0.007932939566671848,0.9663423299789429,neutral,0.017791762948036194
+6,2017-03-30 07:36:00,"• The 7 Best Stocks to Buy for an Income-Rich Retirement
+
+Thus, you give up the upside and should be able to offset against downside loss for a period of time.",0.8583207130432129,0.019627586007118225,0.1220516785979271,positive,0.8386931419372559
+7,2017-03-30 07:36:00,Let's start with one stock I do believe is overvalued: Home Depot Inc (NYSE: HD ).,0.2577183246612549,0.010162180289626122,0.7321195006370544,neutral,0.2475561499595642
+8,2017-03-30 07:36:00,"As I wrote in another article this week, I think HD stock is at least 20% more expensive than even the most aggressive valuation estimate.",0.3894115090370178,0.021364431828260422,0.589224100112915,neutral,0.3680470883846283
+9,2017-03-30 07:36:00,"Thus, I think it is vulnerable to a downside fall, either from a large market correction, or just because the market may wake up and fix the problem on its own.",0.10916329175233841,0.7064340114593506,0.1844027191400528,negative,-0.5972707271575928
+10,2017-03-30 07:36:00,"With Home Depot having closed at $147 on Wednesday, you could sell the 16 Jun $145 covered calls for $5.25, and then buy the 16 Jun $145 puts for $3.75.",0.02778315171599388,0.020785879343748093,0.9514309763908386,neutral,0.006997272372245789
+11,2017-03-30 07:36:00,"Thus, you first make $150 in net premium, which offsets a fall to $145.50.",0.21915054321289062,0.14376355707645416,0.6370859146118164,neutral,0.07538698613643646
+12,2017-03-30 07:36:00,"That leaves you only exposed for a 50-cent loss to $145, after which the puts will offset your long position at a 1:1 ratio.",0.20357970893383026,0.6924437284469604,0.1039765402674675,negative,-0.488864004611969
+13,2017-03-30 07:36:00,"Some investors think that Starbucks Corporation (NASDAQ: SBUX ) may have run its course for the near-term, as CEO Howard Schultz moves to the role of Executive Chairman to focus on new initiatives.",0.17764972150325775,0.34214502573013306,0.4802052080631256,neutral,-0.1644953042268753
+14,2017-03-30 07:36:00,"At 30x net income, it's also very expensive at around $58 per share.",0.026203004643321037,0.06075085699558258,0.9130461812019348,neutral,-0.034547850489616394
+15,2017-03-30 07:36:00,• The 7 Best REITs to Buy for Big (And Growing!),0.5039196014404297,0.021529026329517365,0.47455134987831116,positive,0.4823905825614929
+16,2017-03-30 07:36:00,"Yields
+
+Want to hedge your bets for an even longer period of time?",0.09732166677713394,0.04903104901313782,0.8536472320556641,neutral,0.048290617763996124
+17,2017-03-30 07:36:00,It's not unreasonable given the state of the overall market and particularly expensive state of SBUX stock.,0.0279200728982687,0.18044088780879974,0.7916390299797058,neutral,-0.1525208204984665
+18,2017-03-30 07:36:00,"Maybe you want to sell the 15 Sept $57.50 covered calls for $2.80 and buy the 15 Sept $57.50 puts for $2.80, as well.",0.027942389249801636,0.012735547497868538,0.9593220949172974,neutral,0.015206841751933098
+19,2017-03-30 07:36:00,You don't have to limit yourself to just doing this on individual stocks.,0.02657359279692173,0.009204499423503876,0.9642218947410583,neutral,0.017369093373417854
+20,2017-03-30 07:36:00,You may be an ETF investor and only hold these diversified baskets of stocks.,0.023763928562402725,0.01018067728728056,0.9660554528236389,neutral,0.013583251275122166
+21,2017-03-30 07:36:00,"In fact, many of you may own the SPDR S&P 500 ETF Trust (NYSEARCA: SPY ).",0.03494833782315254,0.006605584640055895,0.9584461450576782,neutral,0.028342753648757935
+22,2017-03-30 07:36:00,This popular ETF gives you exposure to the S&P 500 index itself.,0.05134627968072891,0.006156730931252241,0.9424970149993896,neutral,0.045189548283815384
+23,2017-03-30 07:36:00,Why not hedge this important index if you own it?,0.06134214624762535,0.014498700387775898,0.9241591095924377,neutral,0.04684344679117203
+24,2017-03-30 07:36:00,SPY closed at $235.54 on Wednesday.,0.21495136618614197,0.0891057699918747,0.6959428787231445,neutral,0.12584559619426727
+25,2017-03-30 07:36:00,You may want to sell the 16 Jun $235 covered calls for $5.25.,0.027541395276784897,0.008562297560274601,0.9638962745666504,neutral,0.01897909864783287
+26,2017-03-30 07:36:00,"Using that $525 in cash you get for selling the covered calls, you can turn around and buy the 16 Jun $235 puts for $4.65, and net $60 in cash.",0.07378748804330826,0.008105863817036152,0.9181066155433655,neutral,0.06568162143230438
+27,2017-03-30 07:36:00,You may want to sell the 15 Sept $235 covered calls for $8.15.,0.02700614556670189,0.010157783515751362,0.9628360271453857,neutral,0.016848362982273102
+28,2017-03-30 07:36:00,"Using that $815 in cash you get for selling the covered calls, you can turn around and buy the 15 Sept $235 puts for $7.95, and net $20 in cash.",0.07920628041028976,0.00816961470991373,0.9126241207122803,neutral,0.07103666663169861
+29,2017-03-30 07:36:00,"Lawrence Meyers is the CEO of PDL Capital, a specialty lender focusing on consumer finance.",0.021865898743271828,0.007918674498796463,0.9702154397964478,neutral,0.013947224244475365
+30,2017-03-30 07:36:00,"He has 20 years' experience in the stock market, and has written more than 1,200 articles on investing.",0.06380219012498856,0.007270858157426119,0.928926944732666,neutral,0.056531332433223724
+31,2017-03-30 07:36:00,He also is the Manager of the forthcoming Liberty Portfolio.,0.023027220740914345,0.0058922432363033295,0.971080482006073,neutral,0.017134977504611015
+32,2017-03-30 07:36:00,Lawrence Meyers can be reached at TheLibertyPortfolio@gmail.com .,0.036163315176963806,0.02545534260571003,0.9383813142776489,neutral,0.010707972571253777
+33,2017-03-30 07:36:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+34,2017-03-30 07:36:00,The post 3 Options Trades That Will Protect You From Harm appeared first on InvestorPlace .,0.053494904190301895,0.015657631680369377,0.9308474063873291,neutral,0.03783727437257767
+35,2017-03-30 07:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

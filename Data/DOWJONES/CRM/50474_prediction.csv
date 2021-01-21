@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-03 00:26:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Cal-Maine Foods Inc (Symbol: CALM), where a total volume of 2,469 contracts has been traded thus far today, a contract volume which is representative of approximately 246,900 underlying shares (given that every 1 contract represents 100 underlying shares).",0.0396844819188118,0.014316050335764885,0.9459995031356812,neutral,0.025368431583046913
+1,2016-10-03 00:26:00,"That number works out to 41.9% of CALM's average daily trading volume over the past month, of 588,790 shares.",0.7883193492889404,0.026605041697621346,0.18507561087608337,positive,0.7617142796516418
+2,2016-10-03 00:26:00,"Especially high volume was seen for the $50 strike call option expiring November 18, 2016 , with 563 contracts trading so far today, representing approximately 56,300 underlying shares of CALM.",0.264962762594223,0.010777800343930721,0.7242594361305237,neutral,0.2541849613189697
+3,2016-10-03 00:26:00,"Below is a chart showing CALM's trailing twelve month trading history, with the $50 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) saw options trading volume of 28,891 contracts, representing approximately 2.9 million underlying shares or approximately 40.7% of CRM's average daily trading volume over the past month, of 7.1 million shares.",0.018720410764217377,0.012568226084113121,0.9687113165855408,neutral,0.006152184680104256
+4,2016-10-03 00:26:00,"Particularly high volume was seen for the $65 strike put option expiring November 18, 2016 , with 2,535 contracts trading so far today, representing approximately 253,500 underlying shares of CRM.",0.29119324684143066,0.010830583982169628,0.6979761719703674,neutral,0.28036266565322876
+5,2016-10-03 00:26:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $65 strike highlighted in orange:
+
+And Imperva Inc. (Symbol: IMPV) options are showing a volume of 3,911 contracts thus far today.",0.01729290373623371,0.029584696516394615,0.9531223177909851,neutral,-0.012291792780160904
+6,2016-10-03 00:26:00,"That number of contracts represents approximately 391,100 underlying shares, working out to a sizeable 40.4% of IMPV's average daily trading volume over the past month, of 968,685 shares.",0.15156584978103638,0.00962858833372593,0.8388054966926575,neutral,0.141937255859375
+7,2016-10-03 00:26:00,"Especially high volume was seen for the $55 strike call option expiring October 21, 2016 , with 3,152 contracts trading so far today, representing approximately 315,200 underlying shares of IMPV.",0.30314305424690247,0.011777067556977272,0.68507981300354,neutral,0.29136598110198975
+8,2016-10-03 00:26:00,"Below is a chart showing IMPV's trailing twelve month trading history, with the $55 strike highlighted in orange:
+
+For the various different available expirations for CALM options , CRM options , or IMPV options , visit StockOptionsChannel.com.",0.009632757864892483,0.02405879646539688,0.9663084745407104,neutral,-0.014426038600504398
+9,2016-10-03 00:26:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

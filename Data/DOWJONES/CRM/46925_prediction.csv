@@ -1,0 +1,70 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-26 03:18:00,"Some parts of healthcare are very familiar to most people, such as prescription drugs and hospitals.",0.03056393191218376,0.0100173931568861,0.9594186544418335,neutral,0.02054653875529766
+1,2018-05-26 03:18:00,But there are also less visible aspects of healthcare that are very important -- and that present solid investment opportunities.,0.16872180998325348,0.009301021695137024,0.8219771385192871,neutral,0.15942078828811646
+2,2018-05-26 03:18:00,The systems and technology used by biopharmaceutical companies to develop prescription drugs and that hospitals use to track patients' medical data are great examples.,0.20716318488121033,0.007647720631211996,0.7851890921592712,neutral,0.1995154619216919
+3,2018-05-26 03:18:00,Veeva Systems (NYSE: VEEV) and Cerner Corporation (NASDAQ: CERN) stand out as two of the top providers of these healthcare systems.,0.6231829524040222,0.012118352577090263,0.36469873785972595,positive,0.611064612865448
+4,2018-05-26 03:18:00,"Veeva has definitely been the bigger winner lately, with its stock soaring nearly 40% so far in 2018.",0.9224446415901184,0.02797027863562107,0.04958510026335716,positive,0.8944743871688843
+5,2018-05-26 03:18:00,"Meanwhile, Cerner stock is down more than 10% year to date.",0.0171655360609293,0.9666404128074646,0.016194108873605728,negative,-0.9494748711585999
+6,2018-05-26 03:18:00,But which of these two healthcare technology stocks is the better pick for investors looking to the future?,0.16314198076725006,0.024444490671157837,0.8124135732650757,neutral,0.13869749009609222
+7,2018-05-26 03:18:00,Here's how Veeva and Cerner compare.,0.0449889712035656,0.014580076560378075,0.9404309391975403,neutral,0.030408894643187523
+8,2018-05-26 03:18:00,An ideal stock would have a huge market opportunity in front of it and a strong moat that protects it from competition.,0.695324182510376,0.012506271712481976,0.2921695113182068,positive,0.6828179359436035
+9,2018-05-26 03:18:00,Veeva Systems checks off both boxes.,0.05822015926241875,0.09573616832494736,0.8460437059402466,neutral,-0.03751600906252861
+10,2018-05-26 03:18:00,Veeva is the leader in cloud-based software for the life sciences industry.,0.5149979591369629,0.010011187754571438,0.4749908447265625,positive,0.5049867630004883
+11,2018-05-26 03:18:00,"The company has enjoyed tremendous success, with its customer base including many of the world's largest drugmakers.",0.9033611416816711,0.012684267945587635,0.08395454287528992,positive,0.8906768560409546
+12,2018-05-26 03:18:00,But Veeva still has plenty of room to grow.,0.7874591946601868,0.012096951715648174,0.20044386386871338,positive,0.7753622531890869
+13,2018-05-26 03:18:00,The company's initial product was a cloud-based customer relationship management (CRM) system.,0.05674159154295921,0.005042108241468668,0.9382163286209106,neutral,0.05169948190450668
+14,2018-05-26 03:18:00,Veeva still makes more than 60% of its total revenue from its CRM offerings.,0.04132630303502083,0.006009924691170454,0.9526637196540833,neutral,0.03531637787818909
+15,2018-05-26 03:18:00,"However, the company's Vault content management software represents an even bigger growth opportunity.",0.9231894612312317,0.0139951566234231,0.06281541287899017,positive,0.90919429063797
+16,2018-05-26 03:18:00,Veeva isn't limiting itself to the life sciences industry.,0.017795298248529434,0.007546192966401577,0.9746584892272949,neutral,0.010249105282127857
+17,2018-05-26 03:18:00,"The company has made inroads into the consumer packaged goods and chemicals industries, picking up some big customers along the way with its new quality management software.",0.9181613922119141,0.015551677905023098,0.06628689169883728,positive,0.9026097059249878
+18,2018-05-26 03:18:00,How big is the total addressable market for Veeva?,0.030614733695983887,0.009690494276583195,0.9596948027610779,neutral,0.020924240350723267
+19,2018-05-26 03:18:00,The company's management estimates an opportunity of more than $8 billion annually.,0.8117099404335022,0.011327688582241535,0.17696236073970795,positive,0.8003822565078735
+20,2018-05-26 03:18:00,Veeva's revenue in 2017 was close to $686 million.,0.0976703092455864,0.008510333485901356,0.8938193321228027,neutral,0.08915997296571732
+21,2018-05-26 03:18:00,"In addition to a large potential market, Veeva enjoys a strong moat thanks to the high costs for customers to switch to another system.",0.8966943621635437,0.014084962196648121,0.08922065794467926,positive,0.8826094269752502
+22,2018-05-26 03:18:00,Customers invest a lot of time loading data into Veeva's systems and training employees on the systems.,0.034006621688604355,0.007165065500885248,0.958828330039978,neutral,0.026841556653380394
+23,2018-05-26 03:18:00,"To move to one of Veeva's rivals, they would spend a lot more time and money.",0.5069757103919983,0.012175135314464569,0.48084911704063416,positive,0.4948005676269531
+24,2018-05-26 03:18:00,"Veeva knows this, of course, and continues to roll out more new applications to make it even ""stickier"" for customers.",0.6275966763496399,0.011681169271469116,0.360722154378891,positive,0.6159155368804932
+25,2018-05-26 03:18:00,"The more of Veeva's systems a customer uses, the less likely they are to switch to another software provider.",0.033001597970724106,0.6153436303138733,0.3516547679901123,negative,-0.5823420286178589
+26,2018-05-26 03:18:00,Cerner ranks as the 800-pound gorilla in the health information management system market for hospitals and clinics.,0.7539973258972168,0.014393100515007973,0.2316095232963562,positive,0.7396042346954346
+27,2018-05-26 03:18:00,"The company's technology is used by more than 27,000 provider facilities across the world.",0.1318504810333252,0.005036624614149332,0.8631128668785095,neutral,0.1268138587474823
+28,2018-05-26 03:18:00,Cerner ranks either No.,0.060948584228754044,0.09260847419500351,0.8464429974555969,neutral,-0.031659889966249466
+29,2018-05-26 03:18:00,1 or No.,0.06510657072067261,0.026510996744036674,0.9083824157714844,neutral,0.038595572113990784
+30,2018-05-26 03:18:00,2 in market share in all but one global region.,0.2422306090593338,0.01294949185103178,0.7448199391365051,neutral,0.22928111255168915
+31,2018-05-26 03:18:00,"The reasons to buy Veeva also apply for Cerner, although the two companies' markets are quite different.",0.03737249597907066,0.07221686840057373,0.8904106616973877,neutral,-0.03484437242150307
+32,2018-05-26 03:18:00,Most U.S. hospitals and clinics already have electronic medical record (EMR) systems.,0.03094560280442238,0.009240629151463509,0.9598137736320496,neutral,0.02170497365295887
+33,2018-05-26 03:18:00,"However, Cerner thinks that it has a great opportunity to replace competitors' systems.",0.8669474720954895,0.013203040696680546,0.11984950304031372,positive,0.8537444472312927
+34,2018-05-26 03:18:00,"Around 2,000 sites use older legacy systems.",0.01312769390642643,0.015455655753612518,0.9714165925979614,neutral,-0.0023279618471860886
+35,2018-05-26 03:18:00,Cerner views these sites as prime targets for conversion to its integrated software.,0.45366767048835754,0.008509179577231407,0.5378231406211853,neutral,0.4451584815979004
+36,2018-05-26 03:18:00,"In addition, the company thinks that industry consolidation should work in its favor.",0.8497229814529419,0.01329810917377472,0.13697898387908936,positive,0.8364248871803284
+37,2018-05-26 03:18:00,"As healthcare providers merge and make acquisitions, they're likely to want the scale and standardization that a major player like Cerner can give.",0.515981912612915,0.009356960654258728,0.4746611714363098,positive,0.5066249370574951
+38,2018-05-26 03:18:00,Cerner also sees plenty of growth opportunities for key products.,0.8366922736167908,0.011254812590777874,0.1520528644323349,positive,0.8254374861717224
+39,2018-05-26 03:18:00,Revenue from the company's population health management solutions grew 20% in 2017.,0.9411400556564331,0.014212768524885178,0.04464714974164963,positive,0.9269272685050964
+40,2018-05-26 03:18:00,Cerner's revenue cycle management software enjoyed 15% revenue growth last year.,0.951223611831665,0.015314220450818539,0.03346217796206474,positive,0.9359093904495239
+41,2018-05-26 03:18:00,"As is the case with Veeva, customers that use Cerner's systems have high switching costs.",0.025513483211398125,0.7081704139709473,0.26631608605384827,negative,-0.6826569437980652
+42,2018-05-26 03:18:00,"Implementing EMR, revenue cycle management, and other systems requires massive investments in time and money.",0.40809154510498047,0.008633441291749477,0.5832749605178833,neutral,0.399458110332489
+43,2018-05-26 03:18:00,"Once a customer chooses to go with Cerner, they're highly likely to remain a customer over the long run.",0.13627159595489502,0.008842500858008862,0.8548858761787415,neutral,0.12742909789085388
+44,2018-05-26 03:18:00,Which stock is the better pick?,0.09372591972351074,0.03396950289607048,0.8723046183586121,neutral,0.05975641682744026
+45,2018-05-26 03:18:00,My choice is Veeva.,0.0633404478430748,0.011719112284481525,0.9249404668807983,neutral,0.05162133648991585
+46,2018-05-26 03:18:00,Cerner has hit a few bumps in the road recently.,0.6590702533721924,0.10061030834913254,0.24031943082809448,positive,0.5584599375724792
+47,2018-05-26 03:18:00,The company reported lower-than-expected revenue in the first quarter and cut its full-year 2018 revenue outlook.,0.015610492788255215,0.9702671766281128,0.014122298918664455,negative,-0.9546566605567932
+48,2018-05-26 03:18:00,"Although a big reason for this stemmed from the delay in a large contract that Cerner expected to close, the company isn't enjoying the solid growth that it once did.",0.05344228819012642,0.8054087162017822,0.14114895462989807,negative,-0.7519664168357849
+49,2018-05-26 03:18:00,"Veeva, on the other hand, continues to attract more new customers and sign up more existing customers on additional applications.",0.9463843703269958,0.01666348986327648,0.03695211932063103,positive,0.9297208786010742
+50,2018-05-26 03:18:00,"At first glance, Veeva's forward earnings multiple of nearly 51 might be scary.",0.04344634339213371,0.7244852781295776,0.23206835985183716,negative,-0.6810389161109924
+51,2018-05-26 03:18:00,"However, the company's outstanding growth prospects make it an even better value than Cerner, in my opinion.",0.9139024019241333,0.017762428149580956,0.06833521276712418,positive,0.8961399793624878
+52,2018-05-26 03:18:00,I think Veeva will keep up its winning ways.,0.8533108234405518,0.014458025805652142,0.13223110139369965,positive,0.8388528227806091
+53,2018-05-26 03:18:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+54,2018-05-26 03:18:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+55,2018-05-26 03:18:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+56,2018-05-26 03:18:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+57,2018-05-26 03:18:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+58,2018-05-26 03:18:00,"*Stock Advisor returns as of May 8, 2018
+
+Keith Speights has no position in any of the stocks mentioned.",0.009236800484359264,0.032300885766744614,0.9584623575210571,neutral,-0.023064084351062775
+59,2018-05-26 03:18:00,The Motley Fool owns shares of and recommends Veeva Systems.,0.034477271139621735,0.013045232743024826,0.9524774551391602,neutral,0.02143203839659691
+60,2018-05-26 03:18:00,The Motley Fool recommends Cerner.,0.07089276611804962,0.0261527206748724,0.9029545187950134,neutral,0.044740043580532074
+61,2018-05-26 03:18:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+62,2018-05-26 03:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

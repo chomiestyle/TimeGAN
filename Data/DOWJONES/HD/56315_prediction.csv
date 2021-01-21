@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-18 06:21:00,"In early trading on Tuesday, shares of Exxon Mobil topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.9%.",0.9350968599319458,0.03590821102261543,0.028994979336857796,positive,0.8991886377334595
+1,2020-08-18 06:21:00,"Year to date, Exxon Mobil has lost about 38.3% of its value.",0.01638604886829853,0.9550628066062927,0.02855111099779606,negative,-0.9386767745018005
+2,2020-08-18 06:21:00,"And the worst performing Dow component thus far on the day is Home Depot, trading down 0.9%.",0.02091939002275467,0.9649857878684998,0.01409484725445509,negative,-0.9440664052963257
+3,2020-08-18 06:21:00,Home Depot is showing a gain of 30.8% looking at the year to date performance.,0.9490596055984497,0.019918229430913925,0.03102218545973301,positive,0.9291414022445679
+4,2020-08-18 06:21:00,"Two other components making moves today are Walmart, trading down 0.5%, and Intel, trading up 0.8% on the day.",0.03370831534266472,0.929003894329071,0.03728775680065155,negative,-0.8952955603599548

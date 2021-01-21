@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-08-19 22:31:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in United Rentals Inc (Symbol: URI), where a total volume of 23,128 contracts has been traded thus far today, a contract volume which is representative of approximately 2.3 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04290516674518585,0.011026274412870407,0.946068525314331,neutral,0.031878892332315445
+1,2018-08-19 22:31:00,"That number works out to 213.4% of URI's average daily trading volume over the past month, of 1.1 million shares.",0.7200619578361511,0.02165457420051098,0.2582835555076599,positive,0.6984074115753174
+2,2018-08-19 22:31:00,"Especially high volume was seen for the $155 strike call option expiring September 21, 2018 , with 9,959 contracts trading so far today, representing approximately 995,900 underlying shares of URI.",0.3393213748931885,0.013170037418603897,0.6475085616111755,neutral,0.3261513411998749
+3,2018-08-19 22:31:00,"Below is a chart showing URI's trailing twelve month trading history, with the $155 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) saw options trading volume of 31,082 contracts, representing approximately 3.1 million underlying shares or approximately 78.4% of HD's average daily trading volume over the past month, of 4.0 million shares.",0.020645229145884514,0.011354955844581127,0.9679998159408569,neutral,0.009290273301303387
+4,2018-08-19 22:31:00,"Especially high volume was seen for the $187.50 strike put option expiring September 21, 2018 , with 6,864 contracts trading so far today, representing approximately 686,400 underlying shares of HD.",0.28891289234161377,0.011333175003528595,0.6997539401054382,neutral,0.27757972478866577
+5,2018-08-19 22:31:00,"Below is a chart showing HD's trailing twelve month trading history, with the $187.50 strike highlighted in orange:
+
+And Delta Air Lines Inc (Symbol: DAL) options are showing a volume of 31,552 contracts thus far today.",0.02060176618397236,0.024851782247424126,0.9545465111732483,neutral,-0.004250016063451767
+6,2018-08-19 22:31:00,"That number of contracts represents approximately 3.2 million underlying shares, working out to a sizeable 69% of DAL's average daily trading volume over the past month, of 4.6 million shares.",0.1911274939775467,0.009456210769712925,0.7994163036346436,neutral,0.18167127668857574
+7,2018-08-19 22:31:00,"Especially high volume was seen for the $60 strike call option expiring October 19, 2018 , with 7,594 contracts trading so far today, representing approximately 759,400 underlying shares of DAL.",0.33716627955436707,0.012339332140982151,0.650494396686554,neutral,0.3248269557952881
+8,2018-08-19 22:31:00,"Below is a chart showing DAL's trailing twelve month trading history, with the $60 strike highlighted in orange:
+
+For the various different available expirations for URI options , HD options , or DAL options , visit StockOptionsChannel.com.",0.01021641306579113,0.023940235376358032,0.9658433198928833,neutral,-0.013723822310566902
+9,2018-08-19 22:31:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

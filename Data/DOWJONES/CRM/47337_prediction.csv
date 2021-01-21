@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-15 23:07:00,"With shares of salesforce.com, inc. (NYSE: CRM ) up more than 50% over the course of the past 12 months and up 18% just since the end of last year, it's difficult to say they're not technically overbought.",0.8966740369796753,0.023069415241479874,0.08025658130645752,positive,0.8736045956611633
+1,2018-03-15 23:07:00,"Now may be a good time to take some profits on CRM stock, just as a matter of trading discipline.",0.2798953354358673,0.041434235870838165,0.6786704063415527,neutral,0.23846110701560974
+2,2018-03-15 23:07:00,Just don't sit on the sidelines for too long.,0.05322857201099396,0.046133480966091156,0.9006378650665283,neutral,0.0070950910449028015
+3,2018-03-15 23:07:00,"See, even though Salesforce stock isn't going to win any value awards anytime soon, it doesn't need to.",0.255942165851593,0.016525395214557648,0.7275323867797852,neutral,0.23941677808761597
+4,2018-03-15 23:07:00,"This is a story stock, but the story is a good one.",0.18097011744976044,0.01272894348949194,0.806300938129425,neutral,0.16824117302894592
+5,2018-03-15 23:07:00,You just have to take a step back and look at the bigger picture to fully appreciate it.,0.24599608778953552,0.019136596471071243,0.7348673939704895,neutral,0.22685949504375458
+6,2018-03-15 23:07:00,"For the unfamiliar (and there aren't many of them), Salesforce provides cloud-based customer management software, helping businesses better manage current and would-be clients.",0.1267937272787094,0.007040027994662523,0.8661662340164185,neutral,0.11975369602441788
+7,2018-03-15 23:07:00,Its biggest competitor is a product from Microsoft Corporation (NASDAQ: MSFT ) called Dynamics.,0.03985248878598213,0.04299730062484741,0.9171501994132996,neutral,-0.00314481183886528
+8,2018-03-15 23:07:00,"As one would expect, Microsoft has slowly but surely added bells and whistles to its platform, including integrating it with professional networking site LinkedIn.",0.6596954464912415,0.012405162677168846,0.32789933681488037,positive,0.6472902894020081
+9,2018-03-15 23:07:00,It's impressive.,0.568035364151001,0.012333475984632969,0.41963115334510803,positive,0.5557019114494324
+10,2018-03-15 23:07:00,"• The 10 Best Stocks to Invest In Right Now
+
+On balance, though, CRM is the better pick of the two, and not just because it's a pure play on customer management tools.",0.5604687929153442,0.018407925963401794,0.4211232662200928,positive,0.5420608520507812
+11,2018-03-15 23:07:00,The company's simply offering a superior product thanks to several bolt-on upgrades.,0.9242072701454163,0.014752657152712345,0.061040088534355164,positive,0.9094545841217041
+12,2018-03-15 23:07:00,"The latest of these is the acquisition of CloudCraze , a business-to-business (B2B) e-commerce solution that integrates seamlessly with Salesforce.",0.6086128354072571,0.009294434450566769,0.38209274411201477,positive,0.5993183851242065
+13,2018-03-15 23:07:00,"Indeed, though the use of Salesforce isn't a prerequisite for the use of CloudCraze's e-commerce tools, the B2B platform was built from the ground up with Salesforce in mind.",0.27642548084259033,0.00729404017329216,0.7162805199623108,neutral,0.26913145184516907
+14,2018-03-15 23:07:00,"And for perspective, The Coca-Cola Co (NYSE: KO ), Symantec Corporation (NASDAQ: SYMC ), General Electric Company (NYSE: GE ) and a whole slew of other recognizable names already use CloudCraze .",0.03415911644697189,0.02552890218794346,0.9403120279312134,neutral,0.008630214259028435
+15,2018-03-15 23:07:00,Clearly it's doing something right that Salesforce can tap into.,0.6371130347251892,0.012623677030205727,0.3502632677555084,positive,0.6244893670082092
+16,2018-03-15 23:07:00,CloudCraze is the company's second smart acquisition of the year.,0.771299421787262,0.012620142661035061,0.2160804122686386,positive,0.7586792707443237
+17,2018-03-15 23:07:00,"It's first one was January's deal to buy Attic Labs , which has developed decentralized database software.",0.18760287761688232,0.007470137905329466,0.8049269914627075,neutral,0.18013274669647217
+18,2018-03-15 23:07:00,It's another savvy addition that ultimately makes Salesforce.com a more potent sales tool.,0.8723531365394592,0.01452936977148056,0.11311756819486618,positive,0.8578237891197205
+19,2018-03-15 23:07:00,But it's not just acquisitions.,0.03060053288936615,0.0062863705679774284,0.9631130695343018,neutral,0.024314161390066147
+20,2018-03-15 23:07:00,"Salesforce is innovating as well, recognizing that constant evolving and renewal is the key to constant growth.",0.851265013217926,0.012306978926062584,0.1364280879497528,positive,0.8389580249786377
+21,2018-03-15 23:07:00,"One of those upgrades is further integration of Dropbox's team-collaboration service with Salesforce, unveiled earlier this month.",0.8835646510124207,0.01295703835785389,0.10347825288772583,positive,0.8706076145172119
+22,2018-03-15 23:07:00,"Its most recent evolution, however, is a product called Essentials , which is a simplified version of its core products aimed at small businesses that's arguably its best yet.",0.1410393863916397,0.0077253906056284904,0.8512352108955383,neutral,0.13331399857997894
+23,2018-03-15 23:07:00,And it does mean small.,0.042071957141160965,0.04891473427414894,0.9090132713317871,neutral,-0.006842777132987976
+24,2018-03-15 23:07:00,"Pricing on the new platform is $25/month per user for up to 10 users, which is one-third the cost of access to the full version of the platform.",0.05080918222665787,0.01940462552011013,0.9297861456871033,neutral,0.03140455484390259
+25,2018-03-15 23:07:00,It's a market that - and this is the brilliant part of the plan - Microsoft hasn't really tried to address with Dynamics.,0.06262896209955215,0.00937214307487011,0.9279989004135132,neutral,0.053256817162036896
+26,2018-03-15 23:07:00,Microsoft's service is considerably more expensive and appears to be aimed at medium-sized organizations .,0.02605363540351391,0.017408300191164017,0.9565380215644836,neutral,0.008645335212349892
+27,2018-03-15 23:07:00,"That may be a mistake on Microsoft's part, though.",0.036754827946424484,0.8498088121414185,0.11343641579151154,negative,-0.8130539655685425
+28,2018-03-15 23:07:00,"A little more than 17% of the country's 28.8 million small businesses employ 19 or fewer people , and changes in the way commerce works are all but necessitating they rethink how they connect with customers.",0.031507641077041626,0.3793469965457916,0.5891454219818115,neutral,-0.34783935546875
+29,2018-03-15 23:07:00,"On the surface, all this deal-making, partnerships and product development simply look like business as usual.",0.019982028752565384,0.009853818453848362,0.9701641798019409,neutral,0.010128210298717022
+30,2018-03-15 23:07:00,"Customers expect ever-improving service, and they get it from Salesforce as well as its competitors.",0.8802721500396729,0.014149358496069908,0.10557851940393448,positive,0.8661227822303772
+31,2018-03-15 23:07:00,"The compelling aspect of CRM isn't the quantity of improvements and offerings it's been adding to the menu, however.",0.29395487904548645,0.009088728576898575,0.69695645570755,neutral,0.2848661541938782
+32,2018-03-15 23:07:00,It's the quality of them.,0.0989796444773674,0.008195912465453148,0.8928244709968567,neutral,0.0907837301492691
+33,2018-03-15 23:07:00,"It's admittedly difficult to see with just a superficial glance, but the integration of tools like those CloudCraze has developed are the natural progression of CRM platforms.",0.14534859359264374,0.008428596891462803,0.8462227582931519,neutral,0.1369199901819229
+34,2018-03-15 23:07:00,Using artificial intelligence to easily and naturally get the most out of your customer data (which Salesforce does through its Einstein technology ) is another natural extension of today's capabilities.,0.33227813243865967,0.008208708837628365,0.6595131158828735,neutral,0.32406941056251526
+35,2018-03-15 23:07:00,The end result is constant and impressive growth.,0.9331621527671814,0.014221982099115849,0.052615780383348465,positive,0.9189401865005493
+36,2018-03-15 23:07:00,"More important to current and would-be owners of CRM stock, however, is revenue and earnings progress that's on the verge of pushing the company deeper into profitable territory than it's ever been before.",0.9226400256156921,0.01612059399485588,0.061239372938871384,positive,0.9065194129943848
+37,2018-03-15 23:07:00,CRM stock is still not cheap.,0.05045575276017189,0.7425779700279236,0.20696626603603363,negative,-0.692122220993042
+38,2018-03-15 23:07:00,"Even at next year's expected non-GAAP-per-share profit of $2.05, the stock is still priced at a forward-looking P/E of 62.",0.7386977076530457,0.022985972464084625,0.2383164018392563,positive,0.7157117128372192
+39,2018-03-15 23:07:00,"• Grab Salesforce.com, Inc. Stock Before It Soars Too High
+
+It just doesn't matter.",0.02958788350224495,0.10567055642604828,0.8647415637969971,neutral,-0.07608267664909363
+40,2018-03-15 23:07:00,This is a company that's doing everything right.,0.5559874773025513,0.011520607396960258,0.4324919581413269,positive,0.5444668531417847
+41,2018-03-15 23:07:00,"That and its fiscal trajectory can and likely will keep a fire lit beneath CRM stock, allowing for the usual ebb and flow all stocks experience.",0.5927405953407288,0.017338965088129044,0.3899204432964325,positive,0.5754016041755676
+42,2018-03-15 23:07:00,"As of this writing, James Brumley did not hold a position in any of the aforementioned securities.",0.009174379520118237,0.0268092043697834,0.9640164375305176,neutral,-0.01763482391834259
+43,2018-03-15 23:07:00,"You can follow him on Twitter, at @jbrumley .",0.06920740753412247,0.041848208755254745,0.8889443874359131,neutral,0.02735919877886772
+44,2018-03-15 23:07:00,"• 3 Dirt Cheap Stocks That Will Make Value Investors Fall in Love
+
+The post Salesforce.com, Inc. Stock Is Firing on All Cylinders appeared first on InvestorPlace .",0.23275893926620483,0.09304113686084747,0.6741999387741089,neutral,0.13971780240535736
+45,2018-03-15 23:07:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

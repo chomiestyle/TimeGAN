@@ -1,0 +1,10 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-20 08:18:00,"Susan Wojcicki, Director at salesforce.com Inc. ( CRM ), bought 1,356 shares of the company's common stock on September 19.",0.025563901290297508,0.008702960796654224,0.9657331109046936,neutral,0.01686093956232071
+1,2016-09-20 08:18:00,"The shares were purchased at $73.71 for a total of $99,950.76.",0.03793281689286232,0.00576845882460475,0.9562986493110657,neutral,0.03216435760259628
+2,2016-09-20 08:18:00,IK-> The technicals for CRM ($73.22 up $0.21) are bullish with a neutral trend.,0.42078569531440735,0.15954594314098358,0.41966837644577026,positive,0.26123976707458496
+3,2016-09-20 08:18:00,Support has been around $73.06 and resistance around $73.99.,0.23218771815299988,0.13067463040351868,0.6371376514434814,neutral,0.1015130877494812
+4,2016-09-20 08:18:00,Look at the November 55/60 bull-put spread for a 20-cent credit.,0.09092104434967041,0.04705324396491051,0.8620256781578064,neutral,0.0438678003847599
+5,2016-09-20 08:18:00,That's a 4.2% return and the stock has to fall 18.1% to cause a problem.,0.021520722657442093,0.9452710747718811,0.0332082062959671,negative,-0.9237503409385681
+6,2016-09-20 08:18:00,"[InvestorsKeyhole, Various news and data services]
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531679563224316,0.016395773738622665,0.9740725755691528,neutral,-0.00686409417539835

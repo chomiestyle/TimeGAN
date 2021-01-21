@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-07 08:31:00,Home Depot (NYSE: HD) has proven to be a retail chain that's immune to internet disruption.,0.6889113783836365,0.02548178657889366,0.2856067717075348,positive,0.6634296178817749
+1,2017-10-07 08:31:00,"Most likely, that's partly due to the fact that many of the items it sells consumers actually want to see or touch, and partly because of the size of many building materials.",0.026749206706881523,0.006574859376996756,0.9666759371757507,neutral,0.02017434686422348
+2,2017-10-07 08:31:00,"Shares, as you can see on the chart below, have almost doubled over the last three years.",0.8774977922439575,0.015123317018151283,0.10737889260053635,positive,0.862374484539032
+3,2017-10-07 08:31:00,"There's no reason to expect that steady growth to change anytime soon, but I still have no interest in owning any shares.",0.025472933426499367,0.01798289828002453,0.9565441608428955,neutral,0.007490035146474838
+4,2017-10-07 08:31:00,To say I'm not handy is slightly more accurate than saying I'm not an alligator or a palm tree.,0.06012338399887085,0.11601968109607697,0.8238569498062134,neutral,-0.055896297097206116
+5,2017-10-07 08:31:00,"I can change a light bulb most of the time and I know a bit about getting clogged plumbing to work, but most home repairs are beyond me.",0.02704657055437565,0.0381617434322834,0.934791624546051,neutral,-0.011115172877907753
+6,2017-10-07 08:31:00,"That means when I walk into a store like Home Depot, I'm generally not happy to be there.",0.07145348936319351,0.3914071321487427,0.537139356136322,neutral,-0.31995365023612976
+7,2017-10-07 08:31:00,I find the chain overwhelming and shopping there akin to looking for a needle in a haystack.,0.09396607428789139,0.15116198360919952,0.7548719644546509,neutral,-0.057195909321308136
+8,2017-10-07 08:31:00,"Sometimes I may know what section I need to be in be it ""plumbing,"" ""hardware,"" ""paint,"" ""flooring"" or something else, but that's usually the extent of my knowledge.",0.017307695001363754,0.02048351988196373,0.9622087478637695,neutral,-0.0031758248805999756
+9,2017-10-07 08:31:00,"The problem I have with Home Depot -- and the reason I won't ever buy shares in the company -- is that even if you know the vague direction to go, finding help once you get there is often a challenge.",0.06866401433944702,0.3561829924583435,0.5751529335975647,neutral,-0.2875189781188965
+10,2017-10-07 08:31:00,"The stores I have been in (at least four in Connecticut, where we lived for over a decade, and three in Florida, where we live now) never have enough staff, and even when you do find someone to wait on you, they're not always helpful.",0.03497321158647537,0.5041496157646179,0.46087712049484253,negative,-0.46917641162872314
+11,2017-10-07 08:31:00,"While fixing under-staffing simply requires more workers, bad customer service is another issue entirely.",0.02474246546626091,0.8698534369468689,0.10540414601564407,negative,-0.8451109528541565
+12,2017-10-07 08:31:00,"In many cases, the problem is that Home Depot workers may know their subject matter well, but they have little experience or training when it comes to waiting on people who do not.",0.026636695489287376,0.7296379208564758,0.24372528493404388,negative,-0.7030012011528015
+13,2017-10-07 08:31:00,"For example, on a recent visit, I needed to buy screws that are used to hang things on drywall when the wall doesn't have a stud.",0.1141207218170166,0.027378950268030167,0.8585003614425659,neutral,0.08674177527427673
+14,2017-10-07 08:31:00,"I didn't, and still don't, know what the item is called nor did I know that there would be more than one variation of the product.",0.012517292983829975,0.017475774511694908,0.9700068831443787,neutral,-0.004958481527864933
+15,2017-10-07 08:31:00,"The first store employee I flagged down pointed me toward the right section, an area roughly the size of a 7-Eleven.",0.11789753288030624,0.030742118135094643,0.8513603210449219,neutral,0.08715541660785675
+16,2017-10-07 08:31:00,"In a store the size of multiple football fields, that narrowed things down, but did not solve my problem.",0.10032089799642563,0.7789534330368042,0.12072567641735077,negative,-0.6786325573921204
+17,2017-10-07 08:31:00,"After wandering around for 15 minutes, and confessing to the worker I eventually found that, ""I know nothing about this, but want to hang a TV mount on a wall with no studs,"" I was pointed to the right area in the section.",0.08416417241096497,0.04830725118517876,0.8675285577774048,neutral,0.03585692122578621
+18,2017-10-07 08:31:00,"Had the worker walked me over and spent even a minute showing me the different versions of what I wanted, I may have saved 20 minutes of trying to guess which ones were the right ones.",0.06244005635380745,0.08494380861520767,0.8526161313056946,neutral,-0.022503752261400223
+19,2017-10-07 08:31:00,"And, if the person sort of helping me had asked a follow-up question, ""How big is the TV?""",0.02917407639324665,0.054867617785930634,0.9159582853317261,neutral,-0.025693541392683983
+20,2017-10-07 08:31:00,I would have learned that the type of screw I bought was for hanging much lighter objects.,0.046433739364147186,0.01643727719783783,0.9371289610862732,neutral,0.029996462166309357
+21,2017-10-07 08:31:00,"Instead, I learned that later when the contractor hired to hang my TV suggested it would eventually pull out of the wall, and that I would be better leaving it on the TV stand it sat on.",0.08860782533884048,0.3406347930431366,0.5707574486732483,neutral,-0.2520269751548767
+22,2017-10-07 08:31:00,"The opposite of buy what you know
+
+For handy people, contractors, and those more self-sufficient when it comes to shopping than I am, Home Depot may be an excellent stock to buy.",0.2257518172264099,0.011966699734330177,0.7622814774513245,neutral,0.2137851119041443
+23,2017-10-07 08:31:00,"The chain serves those constituencies well, but it has repeatedly failed me, someone who has semi-seriously joked about moving when the ""change filter"" light goes on in my refrigerator (my wife now handles changing that).
+
+""",0.1094704195857048,0.07837028801441193,0.8121592998504639,neutral,0.031100131571292877
+24,2017-10-07 08:31:00,"Buy what you know "" is a stock purchasing philosophy that says you should purchase shares in companies you use, understand, and believe in.",0.056917496025562286,0.006246217992156744,0.9368362426757812,neutral,0.050671279430389404
+25,2017-10-07 08:31:00,"I'm passing on Home Depot, for sort of the opposite reason.",0.030140938237309456,0.039639271795749664,0.930219829082489,neutral,-0.009498333558440208
+26,2017-10-07 08:31:00,"I do believe in the fundamentals of the business and I do show at Home Depot, but I question any retailer that makes no effort to serve a potential customer base.",0.06711612641811371,0.026732981204986572,0.9061509370803833,neutral,0.040383145213127136
+27,2017-10-07 08:31:00,"Home Depot's business should continue to grow , but that masks the chain's problems.",0.5634353160858154,0.16348272562026978,0.2730819582939148,positive,0.39995259046554565
+28,2017-10-07 08:31:00,"Handy people and contractors may not need attentive customer service, but people like me do.",0.03125116601586342,0.020457277074456215,0.948291540145874,neutral,0.010793888941407204
+29,2017-10-07 08:31:00,I'm passing on the company because it has effectively passed on serving me.,0.4883537292480469,0.011094820685684681,0.5005514621734619,neutral,0.47725892066955566
+30,2017-10-07 08:31:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+31,2017-10-07 08:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+32,2017-10-07 08:31:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+33,2017-10-07 08:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2017-10-07 08:31:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+35,2017-10-07 08:31:00,Daniel B. Kline has no position in any of the stocks mentioned.,0.008790641091763973,0.041518110781908035,0.9496912956237793,neutral,-0.03272746875882149
+36,2017-10-07 08:31:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+37,2017-10-07 08:31:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+38,2017-10-07 08:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

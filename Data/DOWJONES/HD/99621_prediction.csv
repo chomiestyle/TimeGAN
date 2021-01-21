@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-03-10 09:05:00,Gasoline prices have crept up from the lows they hit in February.,0.9287620782852173,0.03194587305188179,0.039292022585868835,positive,0.8968161940574646
+1,2015-03-10 09:05:00,But gas is still a whopping 30% cheaper than it was just a few months before.,0.8404315710067749,0.03443906828761101,0.12512940168380737,positive,0.8059924840927124
+2,2015-03-10 09:05:00,Price is per gallon.,0.01855386234819889,0.012282020412385464,0.9691641330718994,neutral,0.006271841935813427
+3,2015-03-10 09:05:00,"US Retail Gas Price data by YCharts
+
+And while prices can jump higher as quickly as they fell, it's worth considering the implications for retailers if they don't bounce back.",0.5205263495445251,0.11482740193605423,0.36464622616767883,positive,0.4056989550590515
+4,2015-03-10 09:05:00,"In other words, who wins if cheap gas is here to stay?",0.13615593314170837,0.02209140919148922,0.8417526483535767,neutral,0.114064522087574
+5,2015-03-10 09:05:00,Big box stores are one obvious answer to that question.,0.06752344220876694,0.0463603213429451,0.8861162066459656,neutral,0.02116312086582184
+6,2015-03-10 09:05:00,Because they rely on car transportation these retailers stand to gain more from persistently low gasoline prices.,0.9131715893745422,0.01793454959988594,0.06889385730028152,positive,0.8952370285987854
+7,2015-03-10 09:05:00,"First, like their smaller rivals they'll likely see higher sales as customers' discretionary spending budgets expand on account of lower gas bills.",0.8826971054077148,0.019647318869829178,0.09765549749135971,positive,0.8630498051643372
+8,2015-03-10 09:05:00,"And in addition, big box stores should see higher traffic as they become a cheaper destination for their customers to reach.",0.9168452024459839,0.016802174970507622,0.06635266542434692,positive,0.9000430107116699
+9,2015-03-10 09:05:00,"A big box store, sometimes called a supercenter or megacenter, is a shop that has two defining characteristics: It's big and it's far away.",0.025180228054523468,0.011541422456502914,0.9632782936096191,neutral,0.013638805598020554
+10,2015-03-10 09:05:00,Let's start with size.,0.06529610604047775,0.007341644261032343,0.9273622035980225,neutral,0.05795446038246155
+11,2015-03-10 09:05:00,"Here you can picture Wal-Mart and its vast structures that top out at a whopping 219,000 square feet.",0.13528242707252502,0.018043607473373413,0.8466739654541016,neutral,0.11723881959915161
+12,2015-03-10 09:05:00,"Compare that to a typical Dollar Tree store (8,000 square feet) or even a Whole Foods shop (38,000 square feet) for some perspective.",0.027223605662584305,0.012943338602781296,0.9598330855369568,neutral,0.014280267059803009
+13,2015-03-10 09:05:00,All that extra space allows Wal-Mart to offer a wider range of products under one roof -- everything from apparel to groceries to home furnishings.,0.6112400889396667,0.011816179379820824,0.37694376707077026,positive,0.599423885345459
+14,2015-03-10 09:05:00,And the resulting elevated sales volume gives it room to charge a lower mark-up on each item that it sells.,0.7529503703117371,0.01735253818333149,0.22969716787338257,positive,0.7355978488922119
+15,2015-03-10 09:05:00,The second key aspect of a big box store is location.,0.046676408499479294,0.005951541475951672,0.9473720192909241,neutral,0.04072486609220505
+16,2015-03-10 09:05:00,One shop tends to cover a wide geographic range as opposed to something like a Starbucks that can be built in close proximity to several other locations.,0.04984094575047493,0.018422698602080345,0.9317363500595093,neutral,0.031418249011039734
+17,2015-03-10 09:05:00,"Big box stores are also far from city centers, in an area where the real estate is cheap.",0.044745463877916336,0.08450999855995178,0.870744526386261,neutral,-0.039764534682035446
+18,2015-03-10 09:05:00,"Sure, customers are inconvenienced in that they can't walk or use public transportation to get to the store.",0.03252686560153961,0.9245038628578186,0.042969271540641785,negative,-0.8919770121574402
+19,2015-03-10 09:05:00,Trips to a big box retailer usually involve a fair amount of driving (a four hour trek to IKEA isn't that unusual).,0.0374591164290905,0.029334576800465584,0.9332062602043152,neutral,0.008124539628624916
+20,2015-03-10 09:05:00,"But in exchange for the car requirements and gas expenses, shoppers get to satisfy most of their needs in one location and at lower prices than they can find closer to their house or work.",0.10680984705686569,0.06933749467134476,0.8238526582717896,neutral,0.037472352385520935
+21,2015-03-10 09:05:00,The two retailers that I'd single out in an era of cheaper gas are Costco and Home Depot .,0.04665865749120712,0.007832901552319527,0.9455084800720215,neutral,0.038825757801532745
+22,2015-03-10 09:05:00,"Costco is booking record growth right now, with sales at existing locations up 8% in the most recent quarter.",0.9536293148994446,0.017969531938433647,0.028401197865605354,positive,0.9356597661972046
+23,2015-03-10 09:05:00,But I think many investors don't realize that the company's potential for growing its store base is also huge.,0.6967440843582153,0.016670148819684982,0.2865857481956482,positive,0.6800739169120789
+24,2015-03-10 09:05:00,"Costco opened 17 new shops in the U.S. last year, or more than half of its global expansion.",0.8049004673957825,0.015210815705358982,0.1798887550830841,positive,0.7896896600723267
+25,2015-03-10 09:05:00,Lower gas prices could be one of the factors that help keep Costco's store footprint growing at a solid clip in this market.,0.9215326905250549,0.016802728176116943,0.06166462600231171,positive,0.904729962348938
+26,2015-03-10 09:05:00,"Meanwhile, Home Depot isn't likely to double down on store openings.",0.03964067995548248,0.8084405064582825,0.15191888809204102,negative,-0.7687998414039612
+27,2015-03-10 09:05:00,"In fact, management plans to add no new locations to its U.S. base this year.",0.027719171717762947,0.11251664161682129,0.8597641587257385,neutral,-0.08479747176170349
+28,2015-03-10 09:05:00,The company will instead focus on improving sales at existing shops while sending extra cash to shareholders.,0.876204252243042,0.013510584831237793,0.11028514802455902,positive,0.8626936674118042
+29,2015-03-10 09:05:00,Home Depot enjoyed its fastest customer traffic growth yet in the past few months as it served a record 1.4 billion shoppers last quarter.,0.9426451921463013,0.01886165142059326,0.038493163883686066,positive,0.923783540725708
+30,2015-03-10 09:05:00,The retailer is highly exposed to growth in the economy.,0.5194419622421265,0.011386720463633537,0.46917131543159485,positive,0.5080552697181702
+31,2015-03-10 09:05:00,And management has shown its skill at turning any revenue growth into even stronger earnings gains .,0.9394011497497559,0.01651342399418354,0.04408539831638336,positive,0.9228877425193787
+32,2015-03-10 09:05:00,"Cheaper gas, if it sticks around, can only help Home Depot continue that impressive trend.",0.9338980913162231,0.018937306478619576,0.04716455563902855,positive,0.9149608016014099
+33,2015-03-10 09:05:00,"1 great stock to buy for 2015 and beyond
+
+2015 is shaping up to be another great year for stocks.",0.7091931104660034,0.01957509107887745,0.2712317407131195,positive,0.6896179914474487
+34,2015-03-10 09:05:00,"But if you want to make sure that 2015 is your best investing year ever, you need to know where to start.",0.19285500049591064,0.009844190441071987,0.7973007559776306,neutral,0.18301081657409668
+35,2015-03-10 09:05:00,That's why The Motley Fool's chief investment officer just published a brand-new research report that reveals his top stock for the year ahead.,0.13670983910560608,0.02149822935461998,0.8417919278144836,neutral,0.1152116060256958
+36,2015-03-10 09:05:00,To get the full story on this year's stock -- completely free -- simply click here .,0.020147698000073433,0.011273055337369442,0.9685792326927185,neutral,0.008874642662703991
+37,2015-03-10 09:05:00,The article What Happens to the Big Box Store if Cheap Gas is Here to Stay?,0.03611396998167038,0.04034324362874031,0.9235427379608154,neutral,-0.004229273647069931
+38,2015-03-10 09:05:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+39,2015-03-10 09:05:00,"John Mackey, co-CEO of Whole Foods Market, is a member of The Motley Fool's board of directors.",0.021732427179813385,0.01664014533162117,0.9616274237632751,neutral,0.005092281848192215
+40,2015-03-10 09:05:00,"Demitrios Kalogeropoulos owns shares of Costco Wholesale, Starbucks, and Whole Foods Market.",0.015580940991640091,0.008631463162600994,0.9757876396179199,neutral,0.006949477829039097
+41,2015-03-10 09:05:00,"The Motley Fool recommends Costco Wholesale, Home Depot, Starbucks, and Whole Foods Market.",0.02281792461872101,0.02024695836007595,0.9569351077079773,neutral,0.0025709662586450577
+42,2015-03-10 09:05:00,"The Motley Fool owns shares of Costco Wholesale, Starbucks, and Whole Foods Market.",0.02007126435637474,0.012812066823244095,0.9671167135238647,neutral,0.007259197533130646
+43,2015-03-10 09:05:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+44,2015-03-10 09:05:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+45,2015-03-10 09:05:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+46,2015-03-10 09:05:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+47,2015-03-10 09:05:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+48,2015-03-10 09:05:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+49,2015-03-10 09:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

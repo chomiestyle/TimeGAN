@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-10 01:39:00,"It is January 10, and I still have not made it to the gym this year.",0.05428313463926315,0.3453182280063629,0.600398600101471,neutral,-0.29103508591651917
+1,2017-01-10 01:39:00,"In the least surprising news ever, my New Year's resolution is not going well so far.",0.031513433903455734,0.8627076148986816,0.10577906668186188,negative,-0.8311941623687744
+2,2017-01-10 01:39:00,"While I may be struggling to make those promised changes, that does not mean 2017 will be a stagnant year.",0.04644182696938515,0.6522537469863892,0.3013044595718384,negative,-0.6058118939399719
+3,2017-01-10 01:39:00,"In fact, this year is shaping up to be busy one.",0.20058013498783112,0.022211812436580658,0.7772079706192017,neutral,0.17836833000183105
+4,2017-01-10 01:39:00,"President-elect Donald Trump takes office this month, and like him or not, his administration promises to be unique at the very least.",0.45205336809158325,0.016076523810625076,0.5318701267242432,neutral,0.4359768331050873
+5,2017-01-10 01:39:00,"On top of that, we get another episodic Star Wars film at the end of the year, people keep saying Daft Punk might tour, and I'm sure we will get a plethora of new stories that will outshine the craziness of 2016.",0.2676164507865906,0.01178949698805809,0.720594048500061,neutral,0.2558269500732422
+6,2017-01-10 01:39:00,"While this is all fun to think about, 2017 also needs to be a year of change for several major companies.",0.38526076078414917,0.01853836141526699,0.5962009429931641,neutral,0.3667224049568176
+7,2017-01-10 01:39:00,"Some businesses need to get back on track, some need to stop the bleeding, and some need to give it up and find a buyer.",0.35620447993278503,0.055265530943870544,0.5885300040245056,neutral,0.3009389638900757
+8,2017-01-10 01:39:00,"Besides the fact that takeover rumors are a personal favorite of mind, it is also important for investors to keep an eye on companies that are on the brink of a sale.",0.08729466795921326,0.013090466149151325,0.8996148705482483,neutral,0.07420419901609421
+9,2017-01-10 01:39:00,"Check out these three companies that should look for a suitor this year:
+
+Oh look, another Twitter buyout suggestion.",0.11799007654190063,0.015609023161232471,0.8664008975028992,neutral,0.10238105058670044
+10,2017-01-10 01:39:00,"We all get it at this point, right?",0.08146677166223526,0.011781114153563976,0.9067521691322327,neutral,0.06968566030263901
+11,2017-01-10 01:39:00,Things simply are not working at Twitter and the company is quickly becoming the laughing stock of the technology world.,0.0674678310751915,0.5985634326934814,0.33396872878074646,negative,-0.5310956239700317
+12,2017-01-10 01:39:00,"TWTR has shed nearly 14% over the past 52 weeks, membership growth has remained stagnant, investments in sports livestreaming are not paying off, and CEO Jack Dorsey's turnaround plan seems to be going nowhere.",0.019487697631120682,0.9669820666313171,0.013530214317142963,negative,-0.947494387626648
+13,2017-01-10 01:39:00,What's worse is that the company seemingly cannot find an interested buyer.,0.021398084238171577,0.8519229888916016,0.1266789436340332,negative,-0.8305249214172363
+14,2017-01-10 01:39:00,"Over the past few months, companies like Disney DIS , Salesforce CRM , and Alphabet GOOGL have all been linked to Twitter.",0.054098568856716156,0.099577896296978,0.8463234901428223,neutral,-0.04547932744026184
+15,2017-01-10 01:39:00,"Each had a varying level of interest, and each distanced itself from the rumors shortly thereafter.",0.06619174033403397,0.24068748950958252,0.6931207776069641,neutral,-0.17449575662612915
+16,2017-01-10 01:39:00,"The latest business supposedly interested in Twitter is Japan's SoftBank SFTBY , and at this point, investors are ready for any changes.",0.14894576370716095,0.024803517386317253,0.8262507319450378,neutral,0.12414224445819855
+17,2017-01-10 01:39:00,Perhaps a firm could buy the company out and take it private again to ease the pressure.,0.7545034885406494,0.033062756061553955,0.2124338150024414,positive,0.7214407324790955
+18,2017-01-10 01:39:00,When was the last time you stepped in a Sears store?,0.06917668133974075,0.17194877564907074,0.7588745355606079,neutral,-0.10277209430932999
+19,2017-01-10 01:39:00,How about a Kmart?,0.06587187945842743,0.021189533174037933,0.9129385352134705,neutral,0.044682346284389496
+20,2017-01-10 01:39:00,The fact that a significant portion of people reading those two questions honestly don't know the answer is the big problem here.,0.035428714007139206,0.5419450402259827,0.42262622714042664,negative,-0.5065163373947144
+21,2017-01-10 01:39:00,Sears was once the pinnacle of American retail.,0.2679912745952606,0.011846642009913921,0.7201620936393738,neutral,0.256144642829895
+22,2017-01-10 01:39:00,The company innovated the catalog system of ordering and became a staple in nearly every mall in the country.,0.5918285846710205,0.011789252050220966,0.3963821828365326,positive,0.5800393223762512
+23,2017-01-10 01:39:00,"With its Craftsman line of tools, Sears became a hardware and home goods behemoth.",0.222661554813385,0.04740308225154877,0.729935348033905,neutral,0.17525847256183624
+24,2017-01-10 01:39:00,Oh how the mighty have fallen.,0.34095510840415955,0.15333253145217896,0.5057123899459839,neutral,0.1876225769519806
+25,2017-01-10 01:39:00,"Over the past decade, revenues have been chopped in half, leaving profits as nonexistent as customers at a Sears store.",0.018844932317733765,0.9633626937866211,0.017792342230677605,negative,-0.9445177316665649
+26,2017-01-10 01:39:00,"Over the past three years, Sears has burned about $1.7 billion of cash annually.",0.0268821083009243,0.7400881052017212,0.23302975296974182,negative,-0.7132059931755066
+27,2017-01-10 01:39:00,"Unfortunately, Sears has done the best it could to make itself unattractive to a potential buyer.",0.1806638091802597,0.6683461666107178,0.1509900689125061,negative,-0.4876823425292969
+28,2017-01-10 01:39:00,"The company has a mountain of debt owed to its own CEO's investment fund, and its biggest moneymakers over the past few years have been sales of its best real estate.",0.036941222846508026,0.05727335065603256,0.9057853817939758,neutral,-0.020332127809524536
+29,2017-01-10 01:39:00,Sears also struck a deal with Stanley Black & Decker SWK for the rights to sell the Craftsman brand outside of Sears-affiliated stores.,0.8979966640472412,0.016888650134205818,0.08511462062597275,positive,0.8811079859733582
+30,2017-01-10 01:39:00,"While Sears will continue to produce and sell its own Craftsman products in Sears and Kmart stores, Stanley Black & Decker has basically bought out the brand's growth opportunity.",0.5138378739356995,0.053729038685560226,0.4324330985546112,positive,0.46010884642601013
+31,2017-01-10 01:39:00,"With no cash and nothing interesting to sell, Sears might be best served focusing on real estate.",0.017232710495591164,0.09411515295505524,0.8886521458625793,neutral,-0.07688244432210922
+32,2017-01-10 01:39:00,Perhaps this company could bumbling company could be bought out and transformed into a REIT.,0.04458928108215332,0.010105674155056477,0.9453051090240479,neutral,0.03448360785841942
+33,2017-01-10 01:39:00,At times I feel bad for Pandora.,0.07077285647392273,0.7701118588447571,0.15911534428596497,negative,-0.6993390321731567
+34,2017-01-10 01:39:00,This company became the biggest name in online radio and was immediately drowned out by alternative forms of music streaming.,0.13890384137630463,0.172456756234169,0.6886394023895264,neutral,-0.03355291485786438
+35,2017-01-10 01:39:00,I'm no longer interested in its once-unique curated stations when the deeper libraries of Spotify and Apple Music now do the same thing.,0.02151196263730526,0.06746428459882736,0.911023736000061,neutral,-0.04595232009887695
+36,2017-01-10 01:39:00,"Although Pandora has been working on loosening the limitations that sent listeners to different platforms, it may be too little too late now.",0.41476407647132874,0.1143832877278328,0.47085264325141907,neutral,0.30038079619407654
+37,2017-01-10 01:39:00,The company seemingly understands this and has recently discussed being open to selling itself.,0.15767301619052887,0.008972033858299255,0.8333548903465271,neutral,0.14870098233222961
+38,2017-01-10 01:39:00,"Last summer, it was reported that SiriusXm SIRI majority-owner Liberty Media LMCA was interested in buying out Pandora for $15 a share.",0.08718977868556976,0.010608545504510403,0.9022016525268555,neutral,0.07658123224973679
+39,2017-01-10 01:39:00,"Takeover talks picked back up in December when Pandora said it was finally open to a SiriusXm deal, but the satellite radio company has recently downplayed its interest.",0.22582121193408966,0.34334275126457214,0.430836021900177,neutral,-0.11752153933048248
+40,2017-01-10 01:39:00,"Personally, I could see someone like Spotify being interested in this somewhat-competitor, but Pandora should really be looking for any potential buyers before it gets left in the dust of a quickly changing music industry.",0.14621029794216156,0.010443326085805893,0.8433464169502258,neutral,0.13576696813106537
+41,2017-01-10 01:39:00,"In addition to the stocks discussed above, would you like to know about our 10 finest tickers for the entirety of 2017?",0.017297688871622086,0.008263223804533482,0.9744390845298767,neutral,0.009034465067088604
+42,2017-01-10 01:39:00,Who wouldn't?,0.11916464567184448,0.12444141507148743,0.7563939094543457,neutral,-0.005276769399642944
+43,2017-01-10 01:39:00,"These 10 are painstakingly hand-picked from 4,400 companies covered by the Zacks Rank.",0.17488308250904083,0.010111545212566853,0.815005362033844,neutral,0.16477154195308685
+44,2017-01-10 01:39:00,They are our primary picks to buy and hold.,0.06502371281385422,0.004741181619465351,0.9302350878715515,neutral,0.06028253212571144
+45,2017-01-10 01:39:00,"Be among the very first to see them >>
+
+Want the latest recommendations from Zacks Investment Research?",0.045785315334796906,0.011514252983033657,0.9427003860473633,neutral,0.034271061420440674
+46,2017-01-10 01:39:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+47,2017-01-10 01:39:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+48,2017-01-10 01:39:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

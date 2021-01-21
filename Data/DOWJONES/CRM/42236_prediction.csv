@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-31 09:15:00,"The Dow Jones Industrial Average (DJINDICES: ^DJI) looked a little different on Monday, with Salesforce.com (NYSE: CRM), Amgen (NASDAQ: AMGN), and Honeywell International (NYSE: HON) joining the index.",0.1492108851671219,0.03982709348201752,0.8109620213508606,neutral,0.10938379168510437
+1,2020-08-31 09:15:00,"All three stocks slid on Monday, helping to drag the Dow down 0.78% by 12:40 p.m. EDT.",0.023752180859446526,0.964453935623169,0.011793959885835648,negative,-0.9407017827033997
+2,2020-08-31 09:15:00,Also contributing to the Dow's losses was Walmart (NYSE: WMT).,0.03835145756602287,0.8864464163780212,0.0752020999789238,negative,-0.8480949401855469
+3,2020-08-31 09:15:00,"While the stock has surged this year, an analyst downgraded it on Monday over concerns of a spending slowdown for the discount retailer.",0.024219822138547897,0.9528026580810547,0.022977536544203758,negative,-0.9285828471183777
+4,2020-08-31 09:15:00,The stocks that make up the Dow have only changed 60 times since the index was created in 1896.,0.04457220807671547,0.026972400024533272,0.9284553527832031,neutral,0.017599808052182198
+5,2020-08-31 09:15:00,"On Monday, the latest change took effect.",0.04738113656640053,0.007928483188152313,0.9446904063224792,neutral,0.039452653378248215
+6,2020-08-31 09:15:00,"Salesforce, Amgen, and Honeywell International officially entered the Dow on Monday, replacing ExxonMobil, Pfizer, and Raytheon Technologies.",0.08363984525203705,0.00807302724570036,0.9082871079444885,neutral,0.07556682080030441
+7,2020-08-31 09:15:00,This happened on the same day that Dow component Apple completed its 4-for-1 stock split.,0.1458074152469635,0.02073736861348152,0.8334552049636841,neutral,0.12507005035877228
+8,2020-08-31 09:15:00,"Since the Dow is weighted by stock price, that split lowered the Dow's weighting toward technology stocks, which prompted the changes.",0.6886001229286194,0.10864493995904922,0.2027549296617508,positive,0.5799551606178284
+9,2020-08-31 09:15:00,The new Dow components didn't get off to a great start as part of the index.,0.07751955837011337,0.10128283500671387,0.8211976885795593,neutral,-0.023763276636600494
+10,2020-08-31 09:15:00,"By early Monday afternoon, Salesforce stock was down 1.6%, Amgen shares were off 0.5%, and Honeywell stock had fallen 2.1%.",0.01811990700662136,0.9701682329177856,0.011711790226399899,negative,-0.9520483016967773
+11,2020-08-31 09:15:00,Mega-retailer Walmart has seen sales surge during the pandemic.,0.9177548885345459,0.050441473722457886,0.03180372714996338,positive,0.8673133850097656
+12,2020-08-31 09:15:00,"During the second quarter, the company posted U.S. comparable-store sales growth of 9.3%.",0.9379338026046753,0.01688496582210064,0.04518129676580429,positive,0.9210488200187683
+13,2020-08-31 09:15:00,"That was driven by both general merchandise and groceries, as well as a 97% increase in e-commerce sales.",0.9389634132385254,0.020624566823244095,0.04041203111410141,positive,0.9183388352394104
+14,2020-08-31 09:15:00,Economic stimulus likely played a big role in Walmart's recent success.,0.6348199844360352,0.011806735768914223,0.35337328910827637,positive,0.6230132579803467
+15,2020-08-31 09:15:00,"Americans received direct stimulus checks after the pandemic forced many businesses to temporarily close, and unemployment benefits were boosted by a $600 weekly federal supplement that ran through July.",0.8731740713119507,0.05226349085569382,0.0745624229311943,positive,0.8209105730056763
+16,2020-08-31 09:15:00,This extra cash combined with less spending on restaurants and travel led to increased consumer spending in certain categories.,0.895889163017273,0.024759478867053986,0.07935139536857605,positive,0.8711296916007996
+17,2020-08-31 09:15:00,"Walmart saw strong demand for TVs, computing and connected-home products, and outdoor entertainment and sports products.",0.8315514922142029,0.012984543107450008,0.15546400845050812,positive,0.8185669779777527
+18,2020-08-31 09:15:00,This was on top of elevated demand for cleaning supplies and other pandemic-related products.,0.8791640400886536,0.04259193688631058,0.07824401557445526,positive,0.8365721106529236
+19,2020-08-31 09:15:00,One analyst thinks that less economic stimulus in the year ahead will hurt Walmart's results.,0.024114008992910385,0.9580357670783997,0.017850272357463837,negative,-0.933921754360199
+20,2020-08-31 09:15:00,"R5 Capital downgraded the stock on Monday from buy to hold, citing concerns about the retailer's sales over the next year, as analyst Scott Mushkin expects lower unemployment benefits and a contraction in disposable income to translate to a less favorable environment for Walmart.",0.023955563083291054,0.9502111077308655,0.025833403691649437,negative,-0.9262555241584778
+21,2020-08-31 09:15:00,Mushkin is likely right.,0.23561181128025055,0.03732483461499214,0.7270632982254028,neutral,0.1982869803905487
+22,2020-08-31 09:15:00,"In fact, Walmart warned during its second-quarter earnings call that the waning of economic stimulus toward the end of the quarter brought its comps growth back to a normal range.",0.8673530220985413,0.06069818139076233,0.07194875180721283,positive,0.8066548109054565
+23,2020-08-31 09:15:00,"Comps in July were up just 4%, even with the federal supplemental unemployment benefit still in effect.",0.9286300539970398,0.03458155691623688,0.036788344383239746,positive,0.8940485119819641
+24,2020-08-31 09:15:00,"Congress has yet to agree on another stimulus bill, and any bill that manages to get passed will likely be smaller in scope than the CARES Act passed in March.",0.03936082869768143,0.6867852807044983,0.27385395765304565,negative,-0.6474244594573975
+25,2020-08-31 09:15:00,"Without economic stimulus, Walmart's customers are unlikely to spend as freely in a rough economy.",0.15391911566257477,0.5582889914512634,0.287791907787323,negative,-0.40436989068984985
+26,2020-08-31 09:15:00,"The retailer's efficiency and low pricing will allow it to weather whatever storm is coming, but sales growth is unlikely to be all that impressive without additional economic stimulus.",0.7340042591094971,0.0930887833237648,0.17290697991847992,positive,0.6409154534339905
+27,2020-08-31 09:15:00,"The e-commerce business may continue to boom as the pandemic plays out, but the in-store business likely won't fare as well.",0.28046175837516785,0.2919243276119232,0.42761391401290894,neutral,-0.011462569236755371
+28,2020-08-31 09:15:00,Shares of Walmart were down about 2.4% by early Monday afternoon on the analyst downgrade.,0.019030394032597542,0.9682365655899048,0.012732935138046741,negative,-0.9492061734199524
+29,2020-08-31 09:15:00,The stock is still up about 15% since the start of the year.,0.9323704838752747,0.020089149475097656,0.04754030331969261,positive,0.912281334400177
+30,2020-08-31 09:15:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+31,2020-08-31 09:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+32,2020-08-31 09:15:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+33,2020-08-31 09:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+34,2020-08-31 09:15:00,Timothy Green has no position in any of the stocks mentioned.,0.010180004872381687,0.0389644093811512,0.9508556127548218,neutral,-0.028784405440092087
+35,2020-08-31 09:15:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+36,2020-08-31 09:15:00,The Motley Fool recommends Amgen.,0.058421194553375244,0.05450756475329399,0.8870712518692017,neutral,0.003913629800081253
+37,2020-08-31 09:15:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

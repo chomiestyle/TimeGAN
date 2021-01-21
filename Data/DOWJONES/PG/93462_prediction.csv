@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-06-13 08:04:00,"In Johnson & Johnson 's latest earnings report, they announced yet another dividend increase.",0.9293000102043152,0.016262521967291832,0.054437391459941864,positive,0.9130374789237976
+1,2015-06-13 08:04:00,"This, of course, came as little surprise, as Johnson & Johnson is a Dividend Aristocrat -- an elite group of S&P 500 companies that have increased their dividends without fail annually for the past 25 years.",0.7400773763656616,0.014296101406216621,0.2456265538930893,positive,0.725781261920929
+2,2015-06-13 08:04:00,"The list of Dividend Aristocrats includes such household names as Coca-Cola , Procter & Gamble , and 3M .",0.023725003004074097,0.019708599895238876,0.9565663933753967,neutral,0.00401640310883522
+3,2015-06-13 08:04:00,"Given its status among these top stocks, J&J would certainly be on my watch list if I didn't own it already.",0.1073446273803711,0.01817384921014309,0.8744814991950989,neutral,0.08917077630758286
+4,2015-06-13 08:04:00,"Strong in the face of currency headwinds
+
+First quarter numbers for J&J were unsurprisingly solid; earnings per share came in at $1.56 on sales of $17.4 billion, beating estimates of $1.53 and $17.3 billion for the quarter.",0.9444540739059448,0.036088958382606506,0.01945696398615837,positive,0.9083651304244995
+5,2015-06-13 08:04:00,"However, the sales figure fell short of last year's first-quarter result by more than 4%.",0.020818771794438362,0.9672986268997192,0.011882530525326729,negative,-0.946479856967926
+6,2015-06-13 08:04:00,"While domestic sales were up by almost 6%, international sales declined by an eyebrow-raising 12.4%.",0.026197541505098343,0.9631774425506592,0.010625104419887066,negative,-0.9369798898696899
+7,2015-06-13 08:04:00,"The main culprit was currency fluctuation, as the international sales figure encompassed a 0.8% increase in sales and a 13.2% negative currency impact.",0.03028782829642296,0.9575247168540955,0.012187441810965538,negative,-0.9272369146347046
+8,2015-06-13 08:04:00,"Although Johnson & Johnson is best known for numerous iconic consumer brands, including Band-Aid, Listerine, Tylenol, Nicorette, and Motrin, the company actually consists of three distinct business units: pharmaceuticals, medical devices and diagnostics, and consumer products.",0.014827373437583447,0.008068694733083248,0.9771038889884949,neutral,0.006758678704500198
+9,2015-06-13 08:04:00,"Pharmaceutical sales reached $7.73 billion in the first quarter, up 3% year over year.",0.9543522000312805,0.018764926120638847,0.026882821694016457,positive,0.9355872869491577
+10,2015-06-13 08:04:00,"Domestic sales increased by nearly 17%, while international sales declined by 10.7% due to those currency issues.",0.023188499733805656,0.9667474627494812,0.01006396859884262,negative,-0.9435589909553528
+11,2015-06-13 08:04:00,"The medical devices unit's revenue was $6.26 billion, down 11.4% year over year on a 6.1% drop in domestic sales and a 15.6% sales plunge internationally.",0.018972985446453094,0.9720326662063599,0.008994360454380512,negative,-0.9530596733093262
+12,2015-06-13 08:04:00,"While these numbers might seem alarming, much of the variance can be attributed to foreign currency fluctuations here as well.",0.0520101822912693,0.2742373049259186,0.67375248670578,neutral,-0.22222712635993958
+13,2015-06-13 08:04:00,"Consumer products sales dropped by 4.7% in the quarter, to $3.39 billion.",0.02011064998805523,0.9718402028083801,0.00804905779659748,negative,-0.9517295360565186
+14,2015-06-13 08:04:00,Domestic sales figures increased by 3.8% and international sales declined by 9.7%.,0.05229457467794418,0.933386504650116,0.014318861067295074,negative,-0.8810919523239136
+15,2015-06-13 08:04:00,The international sales figure encompasses a 3.1% increase in sales and a 12.8% negative currency impact.,0.27921417355537415,0.6915067434310913,0.029279056936502457,negative,-0.41229256987571716
+16,2015-06-13 08:04:00,We all know currencies move in both directions.,0.1351475864648819,0.009932366199791431,0.8549200296401978,neutral,0.12521521747112274
+17,2015-06-13 08:04:00,"So while the latest quarter's numbers are ugly, the results could easily reverse themselves in short order, particularly if currencies revert back to last year's levels.",0.7142691612243652,0.11448615789413452,0.17124471068382263,positive,0.5997830033302307
+18,2015-06-13 08:04:00,"I won't try to predict where currencies are heading, but a reversal could provide a nice pop in earnings this time next year.",0.8385475277900696,0.022558199241757393,0.13889431953430176,positive,0.8159893155097961
+19,2015-06-13 08:04:00,"So, as long-term investors, it doesn't make sense to worry too much about these fluctuations that have little to do with the underlying business' strength.",0.016176674515008926,0.09453161060810089,0.8892917633056641,neutral,-0.07835493981838226
+20,2015-06-13 08:04:00,"The most important of all these numbers
+
+While all of the aforementioned numbers help paint the complete picture of the company's current state, one number stands out among the rest: 53.",0.03269165754318237,0.018369389697909355,0.9489389657974243,neutral,0.014322267845273018
+21,2015-06-13 08:04:00,"The 7.1% increase in the quarterly dividend, from $0.70 per share to $0.75 per share, marks the 53rd consecutive year in which Johnson & Johnson has increased its payout.",0.9445434212684631,0.01884491555392742,0.036611683666706085,positive,0.9256985187530518
+22,2015-06-13 08:04:00,This is an extraordinary accomplishment that very few companies can match.,0.7662551403045654,0.012687320820987225,0.22105751931667328,positive,0.7535678148269653
+23,2015-06-13 08:04:00,Only 10 of the 54 Dividend Aristocrats have raised their raised their payout for at least 50 consecutive years.,0.2595691680908203,0.04592021554708481,0.6945105791091919,neutral,0.2136489450931549
+24,2015-06-13 08:04:00,"That short list includes the aforementioned Coca-Cola, Procter & Gamble, and 3M.",0.022544022649526596,0.011192171834409237,0.9662638306617737,neutral,0.01135185081511736
+25,2015-06-13 08:04:00,"In total, only 16 companies have raised their dividend for at least 50 years.",0.1810774803161621,0.013154768384993076,0.8057677745819092,neutral,0.167922705411911
+26,2015-06-13 08:04:00,"The six others, which aren't members of the Dividend Aristocracy since they are not members of the S&P 500, are predominantly utility companies.",0.009522411972284317,0.017338989302515984,0.9731385707855225,neutral,-0.007816577330231667
+27,2015-06-13 08:04:00,This is truly an elite group.,0.31399035453796387,0.0085348691791296,0.6774747967720032,neutral,0.3054554760456085
+28,2015-06-13 08:04:00,"Despite this accomplishment, in recent weeks, shares of Johnson & Johnson have declined by almost 6%.",0.01745740883052349,0.9709796905517578,0.011562955565750599,negative,-0.953522264957428
+29,2015-06-13 08:04:00,"However, this dip, combined with the latest increase to its dividend, has shares of Johnson & Johnson now yielding more than 3%.",0.3924485146999359,0.5752759575843811,0.03227552771568298,negative,-0.1828274428844452
+30,2015-06-13 08:04:00,"This latest dividend increase is consistent with recent years' boosts, on a percentage basis.",0.9252399206161499,0.014590129256248474,0.060169972479343414,positive,0.9106497764587402
+31,2015-06-13 08:04:00,"As the chart shows, annual dividend increase in the neighborhood of 7% has been the norm in since 2011.",0.7385842800140381,0.021492764353752136,0.23992298543453217,positive,0.7170915007591248
+32,2015-06-13 08:04:00,"However, that is a departure from prior years' increases: Five of the six preceding years had double-digit dividend increases.",0.49568992853164673,0.14124241471290588,0.3630676865577698,positive,0.35444751381874084
+33,2015-06-13 08:04:00,Johnson & Johnson is a solid performer and should be for years to come.,0.9115062952041626,0.013373718596994877,0.07511992752552032,positive,0.8981325626373291
+34,2015-06-13 08:04:00,"The size of the dividend increases might have fallen in recent years, but the opportunity to invest in a company that has increased its dividend for 53 consecutive years and to get a 3% yield with 7% annual payout boosts still makes Johnson & Johnson a solid core company for your portfolio.",0.9191664457321167,0.01856023073196411,0.062273334711790085,positive,0.9006062150001526
+35,2015-06-13 08:04:00,"JNJ is certainly no ""dividend trap.""",0.07617725431919098,0.021149378269910812,0.9026734232902527,neutral,0.05502787604928017
+36,2015-06-13 08:04:00,This company has been around for 129 years.,0.14025083184242249,0.006992292124778032,0.852756917476654,neutral,0.13325853645801544
+37,2015-06-13 08:04:00,"With an enviable array of brand name consumer products sold around the world which people will be using for years to come, a solid R&D effort which generates new and high quality pharmaceutical products and medical devices on a regular basis, and the ability to easily purchase smaller competitors to build out its product array, this company can be a solid foundation for your portfolio.",0.7432354092597961,0.010441232472658157,0.2463233470916748,positive,0.7327941656112671
+38,2015-06-13 08:04:00,"It's worth noting, however, the stock seems currently fairly valued, so while you might be investing in a great company, you wouldn't be getting it at a particularly great price.",0.16593249142169952,0.011691628023982048,0.8223758935928345,neutral,0.15424086153507233
+39,2015-06-13 08:04:00,"I'll let the Oracle of Omaha himself weigh in on that predicament:
+
+This $19 trillion industry could destroy the Internet
+
+One bleeding-edge technology is about to put the World Wide Web to bed.",0.11402641981840134,0.3393545150756836,0.5466191172599792,neutral,-0.22532808780670166
+40,2015-06-13 08:04:00,"And if you act quickly, you could be among the savvy investors who enjoy the profits from this stunning change.",0.6098767518997192,0.016880961135029793,0.3732422888278961,positive,0.5929957628250122
+41,2015-06-13 08:04:00,Experts are calling it the single largest business opportunity in the history of capitalism...,0.4697682559490204,0.014931482262909412,0.5153002738952637,neutral,0.45483678579330444
+42,2015-06-13 08:04:00,"The Economist is calling it ""transformative""...",0.2920668423175812,0.02812976948916912,0.6798033714294434,neutral,0.2639370858669281
+43,2015-06-13 08:04:00,"But you'll probably just call it ""how I made my millions.""",0.05083315446972847,0.022208668291568756,0.9269581437110901,neutral,0.028624486178159714
+44,2015-06-13 08:04:00,Don't be too late to the party -- click here for one stock to own when the Web goes dark.,0.03679744526743889,0.03676910325884819,0.9264333844184875,neutral,2.8342008590698242e-05
+45,2015-06-13 08:04:00,The article The 1 Johnson & Johnson Number You Should Know originally appeared on Fool.com.,0.017246311530470848,0.013924496248364449,0.9688292145729065,neutral,0.0033218152821063995
+46,2015-06-13 08:04:00,"David Weinberg owns shares of Coca-Cola, Johnson & Johnson, and Procter & Gamble.",0.019791290163993835,0.008658288978040218,0.9715504050254822,neutral,0.011133001185953617
+47,2015-06-13 08:04:00,"The Motley Fool recommends Coca-Cola, Johnson & Johnson, and Procter & Gamble.",0.02168765664100647,0.031189708039164543,0.9471225738525391,neutral,-0.009502051398158073
+48,2015-06-13 08:04:00,The Motley Fool owns shares of Johnson & Johnson and has the following options: long January 2016 $37 calls on Coca-Cola and short January 2016 $37 puts on Coca-Cola.,0.011966193094849586,0.020721478387713432,0.9673123359680176,neutral,-0.008755285292863846
+49,2015-06-13 08:04:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+50,2015-06-13 08:04:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+51,2015-06-13 08:04:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+52,2015-06-13 08:04:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+53,2015-06-13 08:04:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+54,2015-06-13 08:04:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+55,2015-06-13 08:04:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

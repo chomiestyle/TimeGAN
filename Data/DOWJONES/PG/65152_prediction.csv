@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-02-28 12:32:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in PepsiCo Inc (Symbol: PEP), where a total volume of 21,173 contracts has been traded thus far today, a contract volume which is representative of approximately 2.1 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04036121815443039,0.011685422621667385,0.9479533433914185,neutral,0.02867579460144043
+1,2020-02-28 12:32:00,"That number works out to 47.4% of PEP's average daily trading volume over the past month, of 4.5 million shares.",0.694251537322998,0.02157549187541008,0.2841729521751404,positive,0.6726760268211365
+2,2020-02-28 12:32:00,"Particularly high volume was seen for the $145 strike call option expiring March 20, 2020, with 5,081 contracts trading so far today, representing approximately 508,100 underlying shares of PEP.",0.22586724162101746,0.010204422287642956,0.7639283537864685,neutral,0.21566282212734222
+3,2020-02-28 12:32:00,"Below is a chart showing PEP's trailing twelve month trading history, with the $145 strike highlighted in orange:
+
+Intel Corp (Symbol: INTC) saw options trading volume of 98,899 contracts, representing approximately 9.9 million underlying shares or approximately 46.6% of INTC's average daily trading volume over the past month, of 21.2 million shares.",0.019595807418227196,0.013153286650776863,0.9672508835792542,neutral,0.006442520767450333
+4,2020-02-28 12:32:00,"Particularly high volume was seen for the $65 strike call option expiring April 17, 2020, with 3,045 contracts trading so far today, representing approximately 304,500 underlying shares of INTC.",0.31644877791404724,0.011839112266898155,0.6717121005058289,neutral,0.30460965633392334
+5,2020-02-28 12:32:00,"Below is a chart showing INTC's trailing twelve month trading history, with the $65 strike highlighted in orange:
+
+And Procter & Gamble Company (Symbol: PG) saw options trading volume of 32,363 contracts, representing approximately 3.2 million underlying shares or approximately 46.4% of PG's average daily trading volume over the past month, of 7.0 million shares.",0.020694777369499207,0.013585466891527176,0.9657197594642639,neutral,0.007109310477972031
+6,2020-02-28 12:32:00,"Particularly high volume was seen for the $110 strike put option expiring March 20, 2020, with 1,774 contracts trading so far today, representing approximately 177,400 underlying shares of PG.",0.1563844382762909,0.008315857499837875,0.8352996706962585,neutral,0.14806857705116272
+7,2020-02-28 12:32:00,"Below is a chart showing PG's trailing twelve month trading history, with the $110 strike highlighted in orange:
+
+For the various different available expirations for PEP options, INTC options, or PG options, visit StockOptionsChannel.com.",0.009894260205328465,0.023526424542069435,0.966579258441925,neutral,-0.01363216433674097
+8,2020-02-28 12:32:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

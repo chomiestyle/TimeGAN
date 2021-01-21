@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-22 02:45:00,"In the latest trading session, Home Depot (HD) closed at $178.75, marking a -0.61% move from the previous day.",0.8321697115898132,0.1473945528268814,0.020435690879821777,positive,0.684775173664093
+1,2018-10-22 02:45:00,This change lagged the S&P 500's daily loss of 0.43%.,0.216261625289917,0.7509250640869141,0.03281327709555626,negative,-0.5346634387969971
+2,2018-10-22 02:45:00,"Elsewhere, the Dow lost 0.5%, while the tech-heavy Nasdaq added 0.26%.",0.020144479349255562,0.9685161709785461,0.011339455842971802,negative,-0.9483717083930969
+3,2018-10-22 02:45:00,"Prior to today's trading, shares of the home-improvement retailer had lost 14.79% over the past month.",0.019416894763708115,0.9704679846763611,0.010115180164575577,negative,-0.9510511159896851
+4,2018-10-22 02:45:00,This has lagged the Retail-Wholesale sector's loss of 9.86% and the S&P 500's loss of 4.68% in that time.,0.06984817981719971,0.9103502631187439,0.019801663234829903,negative,-0.8405020833015442
+5,2018-10-22 02:45:00,"Investors will be hoping for strength from HD as it approaches its next earnings release, which is expected to be November 13, 2018.",0.8730969429016113,0.016867375001311302,0.11003568768501282,positive,0.8562295436859131
+6,2018-10-22 02:45:00,"In that report, analysts expect HD to post earnings of $2.28 per share.",0.6643522381782532,0.018507061526179314,0.31714072823524475,positive,0.6458451747894287
+7,2018-10-22 02:45:00,This would mark year-over-year growth of 23.91%.,0.9257883429527283,0.015486812219023705,0.0587247796356678,positive,0.9103015065193176
+8,2018-10-22 02:45:00,"Meanwhile, our latest consensus estimate is calling for revenue of $26.28 billion, up 5.02% from the prior-year quarter.",0.9591016173362732,0.020991532132029533,0.01990683004260063,positive,0.9381101131439209
+9,2018-10-22 02:45:00,"Looking at the full year, our Zacks Consensus Estimates suggest analysts are expecting earnings of $9.57 per share and revenue of $108.29 billion.",0.17237772047519684,0.01295487955212593,0.8146674036979675,neutral,0.1594228446483612
+10,2018-10-22 02:45:00,"These totals would mark changes of +28.28% and +7.32%, respectively, from last year.",0.7940340638160706,0.08974583446979523,0.11622008681297302,positive,0.7042882442474365
+11,2018-10-22 02:45:00,Investors might also notice recent changes to analyst estimates for HD.,0.08174712210893631,0.04681228846311569,0.871440589427948,neutral,0.03493483364582062
+12,2018-10-22 02:45:00,Recent revisions tend to reflect the latest near-term business trends.,0.02988542802631855,0.005542353726923466,0.9645722508430481,neutral,0.02434307336807251
+13,2018-10-22 02:45:00,"As a result, we can interpret positive estimate revisions as a good sign for the company's business outlook.",0.9123063087463379,0.017681192606687546,0.07001250237226486,positive,0.8946251273155212
+14,2018-10-22 02:45:00,Research indicates that these estimate revisions are directly correlated with near-term share price momentum.,0.3644367456436157,0.019968166947364807,0.6155951023101807,neutral,0.3444685935974121
+15,2018-10-22 02:45:00,We developed the Zacks Rank to capitalize on this phenomenon.,0.28341078758239746,0.00647409912198782,0.7101150751113892,neutral,0.27693668007850647
+16,2018-10-22 02:45:00,"Our system takes these estimate changes into account and delivers a clear, actionable rating model.",0.40350618958473206,0.008978712372481823,0.587515115737915,neutral,0.39452746510505676
+17,2018-10-22 02:45:00,"The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988.",0.9196574687957764,0.02098225988447666,0.05936018005013466,positive,0.8986752033233643
+18,2018-10-22 02:45:00,"Within the past 30 days, our consensus EPS projection has moved 0.01% lower.",0.0278756245970726,0.9129809737205505,0.05914340913295746,negative,-0.8851053714752197
+19,2018-10-22 02:45:00,HD is currently sporting a Zacks Rank of #4 (Sell).,0.41353434324264526,0.022106045857071877,0.5643596053123474,neutral,0.39142829179763794
+20,2018-10-22 02:45:00,"Digging into valuation, HD currently has a Forward P/E ratio of 18.79.",0.034319743514060974,0.005900567397475243,0.959779679775238,neutral,0.02841917611658573
+21,2018-10-22 02:45:00,This represents a premium compared to its industry's average Forward P/E of 14.63.,0.8275436162948608,0.08518902957439423,0.08726732432842255,positive,0.7423545718193054
+22,2018-10-22 02:45:00,"Also, we should mention that HD has a PEG ratio of 1.42.",0.04332606866955757,0.006824228912591934,0.9498496651649475,neutral,0.03650183975696564
+23,2018-10-22 02:45:00,"This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate.",0.05599822849035263,0.006487204693257809,0.93751460313797,neutral,0.04951102286577225
+24,2018-10-22 02:45:00,"Building Products - Retail stocks are, on average, holding a PEG ratio of 1.32 based on yesterday's closing prices.",0.06400500982999802,0.030194291844964027,0.9058007597923279,neutral,0.03381071984767914
+25,2018-10-22 02:45:00,The Building Products - Retail industry is part of the Retail-Wholesale sector.,0.013527807779610157,0.007622756063938141,0.978849470615387,neutral,0.005905051715672016
+26,2018-10-22 02:45:00,"This group has a Zacks Industry Rank of 216, putting it in the bottom 15% of all 250+ industries.",0.06870205700397491,0.2809545695781708,0.6503434181213379,neutral,-0.21225251257419586
+27,2018-10-22 02:45:00,The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors.,0.02312290668487549,0.011325368657708168,0.9655517339706421,neutral,0.01179753802716732
+28,2018-10-22 02:45:00,Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.,0.6436750292778015,0.3071485161781311,0.0491764210164547,positive,0.3365265130996704
+29,2018-10-22 02:45:00,"To follow HD in the coming trading sessions, be sure to utilize Zacks.com.",0.024111254140734673,0.015514100901782513,0.9603745937347412,neutral,0.00859715323895216
+30,2018-10-22 02:45:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+31,2018-10-22 02:45:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+32,2018-10-22 02:45:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+33,2018-10-22 02:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-09 22:12:00,The market hasn't soared in 2017 because it wants corporate tax cuts in 2019.,0.3565319776535034,0.2714831531047821,0.3719848394393921,neutral,0.08504882454872131
+1,2017-11-09 22:12:00,It wants those cuts NOW!!!,0.13522528111934662,0.2874507009983063,0.5773240327835083,neutral,-0.15222541987895966
+2,2017-11-09 22:12:00,"So when the Senate tax plan called for a delay, the major indices responded with sharp declines.",0.057721905410289764,0.8739627003669739,0.06831537187099457,negative,-0.8162407875061035
+3,2017-11-09 22:12:00,"""As I said in the commentary yesterday, any phase in of the corporate tax rate is a negative,"" said Jeremy Mullin in Counterstrike .",0.029238663613796234,0.873553991317749,0.09720740467309952,negative,-0.8443153500556946
+4,2017-11-09 22:12:00,"""So when the headline came out that the rate wouldn't be effective until 2019, the markets sold off aggressively.",0.6588696241378784,0.0789036825299263,0.26222676038742065,positive,0.5799659490585327
+5,2017-11-09 22:12:00,"However, when another headline came out saying the rate would go into effect right away, the market rallied.""",0.8367729783058167,0.044365257024765015,0.11886172741651535,positive,0.792407751083374
+6,2017-11-09 22:12:00,"Yes, the Big 3 came well off their lows by the closing bell, though were still solidly in negative territory.",0.15443046391010284,0.7523341178894043,0.09323542565107346,negative,-0.5979036688804626
+7,2017-11-09 22:12:00,"The Dow's winning streak ended as it slipped 0.43% to 23,461.9 and the S&P was off 0.38% to 2584.6.",0.01968146674335003,0.9638003706932068,0.016518214717507362,negative,-0.9441189169883728
+8,2017-11-09 22:12:00,"Even without the tax talk, it was a rough day for technology, sending the NASDAQ lower by 0.58% to 6750.1.",0.01958652026951313,0.9676452875137329,0.012768197804689407,negative,-0.9480587840080261
+9,2017-11-09 22:12:00,"""We better get used to the ping pong action as headlines come out.",0.15985606610774994,0.01748799905180931,0.822655975818634,neutral,0.14236806333065033
+10,2017-11-09 22:12:00,"Until we know exactly what we are getting, I expect volatility with each headline,"" said Jeremy.",0.12352056056261063,0.08937917649745941,0.7871003150939941,neutral,0.034141384065151215
+11,2017-11-09 22:12:00,"One good thing about a pullback is the opportunities it affords investors, and the editors certainly took advantage of that today.",0.6513931155204773,0.014555430971086025,0.3340514302253723,positive,0.6368376612663269
+12,2017-11-09 22:12:00,"On Thursday, four of the portfolios bought positions, including Insider Trader , TAZR Trader , Surprise Trader and Technology Innovators .",0.47254329919815063,0.014467453584074974,0.5129892826080322,neutral,0.4580758512020111
+13,2017-11-09 22:12:00,There were also double-digit winners by Healthcare Innovators and Stocks Under $10 .,0.7040229439735413,0.08106720447540283,0.21490982174873352,positive,0.6229557394981384
+14,2017-11-09 22:12:00,"Let's get right to it:
+
+Insider Trader: Shares of consumer staples giant Church & Dwight (CHD) are down 11% over the past three months, but it had a solid third-quarter report.",0.02286389097571373,0.9655060172080994,0.011630075983703136,negative,-0.9426421523094177
+15,2017-11-09 22:12:00,"The CEO and CFO obviously see an opportunity here, which is why they each bought shares of their own company after the report.",0.3228761553764343,0.009448571130633354,0.667675256729126,neutral,0.313427597284317
+16,2017-11-09 22:12:00,"However, Tracey was even more impressed with the September purchase by the EVP of Global Human Resources, who is compensated differently than the higher-ups and needs to use her own money to buy.",0.7896044850349426,0.03152766823768616,0.17886781692504883,positive,0.7580767869949341
+17,2017-11-09 22:12:00,"Plus, who knows better than HR how a company is REALLY doing?",0.05833442881703377,0.027899334207177162,0.9137662649154663,neutral,0.030435094609856606
+18,2017-11-09 22:12:00,Tracey added CHD on Thursday with an allocation of about 8%.,0.6095436811447144,0.02021816000342369,0.37023812532424927,positive,0.5893255472183228
+19,2017-11-09 22:12:00,Read the complete commentary for more.,0.03290729224681854,0.015654757618904114,0.9514380097389221,neutral,0.01725253462791443
+20,2017-11-09 22:12:00,"TAZR Trader: If corporate tax cuts are pushed back to 2019 or further, then Kevin thinks this market is ripe for profit-taking.",0.5179982781410217,0.24234357476234436,0.23965811729431152,positive,0.27565470337867737
+21,2017-11-09 22:12:00,"Instead of selling any holdings, the editor wants to try and hedge any spike in volatility by buying a 4% allocation in VelocityShares Daily 2X Short-Term ETN (TVIX).",0.32501086592674255,0.01507244911044836,0.6599166989326477,neutral,0.3099384307861328
+22,2017-11-09 22:12:00,Read the complete commentary for more on this move.,0.027438277378678322,0.01237252913415432,0.960189163684845,neutral,0.015065748244524002
+23,2017-11-09 22:12:00,"Surprise Trader: Earnings estimates are pushing higher for Tyson Foods (TSN), as the chicken giant has been showing some momentum lately.",0.9446164965629578,0.028557922691106796,0.026825612410902977,positive,0.9160585999488831
+24,2017-11-09 22:12:00,Dave added the stock on Thursday with a 12.5% allocation ahead of its quarterly report on November 13.,0.4752489924430847,0.014866963028907776,0.5098840594291687,neutral,0.46038204431533813
+25,2017-11-09 22:12:00,"Meanwhile, Home Depot (HD) has a slightly positive Earnings ESP for its report on November 14th.",0.8849204778671265,0.07307866215705872,0.04200083762407303,positive,0.8118418455123901
+26,2017-11-09 22:12:00,"But perhaps more importantly, the editor thinks this home improvement retailer saw an increase in business due to the active hurricane season.",0.9289908409118652,0.017897367477416992,0.0531117208302021,positive,0.9110934734344482
+27,2017-11-09 22:12:00,So he bought a 12.5% allocation in this name too.,0.09158272296190262,0.006576799787580967,0.9018404483795166,neutral,0.08500592410564423
+28,2017-11-09 22:12:00,"Read the full write-up for more on these new additions, including the two sells that made room for these moves.",0.02100486122071743,0.010175474919378757,0.9688196182250977,neutral,0.010829386301338673
+29,2017-11-09 22:12:00,Healthcare Innovators: Another beat-and-raise quarter has put Inogen (INGN) on a course for 20% growth or more.,0.9483404159545898,0.020489681512117386,0.031169835478067398,positive,0.9278507232666016
+30,2017-11-09 22:12:00,"Given such a trajectory, Kevin isn't sure how long this maker of portable oxygen concentrators can support a 90X multiple.",0.13040490448474884,0.01596565917134285,0.853629469871521,neutral,0.11443924903869629
+31,2017-11-09 22:12:00,"Therefore, he decided to sell INGN and take the nice 43.4% profit in just six months.",0.36464226245880127,0.015370670706033707,0.6199870705604553,neutral,0.34927159547805786
+32,2017-11-09 22:12:00,"Stocks Under $10: The portfolio is set for a complete overhaul soon, and Brian Bolan started today with a number of sells.",0.2687007486820221,0.014655422419309616,0.7166438698768616,neutral,0.2540453374385834
+33,2017-11-09 22:12:00,"The big winner of the group was Bristow Group (BRS), which was sold for a profit of approximately 45%.",0.7342574000358582,0.014247891493141651,0.2514946758747101,positive,0.7200095057487488
+34,2017-11-09 22:12:00,"The company operates a fleet of helicopters that service the energy sector, and its only been in the portfolio for about two months.",0.009267077781260014,0.022295553237199783,0.9684373140335083,neutral,-0.01302847545593977
+35,2017-11-09 22:12:00,Get ready for more moves next week.,0.1325276494026184,0.00979258120059967,0.8576797246932983,neutral,0.12273506820201874
+36,2017-11-09 22:12:00,"Technology Innovators: Despite a great beat-and-raise quarter earlier this month, most investors have still never heard of Axcelis Technologies (ACLS).",0.44011783599853516,0.02333592064678669,0.5365462899208069,neutral,0.4167819023132324
+37,2017-11-09 22:12:00,But Brian Bolan has!,0.12928341329097748,0.1752139925956726,0.6955025792121887,neutral,-0.04593057930469513
+38,2017-11-09 22:12:00,The company produces ion implantation equipment used in the fabrication of semiconductors.,0.035175565630197525,0.005190224852412939,0.9596342444419861,neutral,0.0299853403121233
+39,2017-11-09 22:12:00,"In other words, it is a feeder to an industry that has seen big growth for the last several quarters.",0.8328391313552856,0.013622044585645199,0.15353885293006897,positive,0.8192170858383179
+40,2017-11-09 22:12:00,"The editor feels that things are getting better for ACLS, so he used today's pullback as an opportunity to add the name to the portfolio.",0.4381412863731384,0.013733407482504845,0.5481252670288086,neutral,0.42440786957740784
+41,2017-11-09 22:12:00,Read the full write-up for more on this new addition.,0.01790444180369377,0.014545392245054245,0.9675502181053162,neutral,0.0033590495586395264
+42,2017-11-09 22:12:00,"Options Trader:""The markets pulled back a bit today after differences emerged between the Senate and House tax plans.",0.1689673662185669,0.7716434001922607,0.05938920006155968,negative,-0.6026760339736938
+43,2017-11-09 22:12:00,"""The biggest contention that likely impacted the market the most was the Senate's floated proposal that the corporate tax cuts be delayed until 2019.",0.04110664501786232,0.7847447395324707,0.1741485893726349,negative,-0.7436380982398987
+44,2017-11-09 22:12:00,I also heard the Senate's version would have a higher repatriation rate as well.,0.27918341755867004,0.011563028208911419,0.7092534899711609,neutral,0.26762038469314575
+45,2017-11-09 22:12:00,"""I, for one, still believe this will get passed.",0.38046789169311523,0.054072462022304535,0.565459668636322,neutral,0.3263954222202301
+46,2017-11-09 22:12:00,"Quite frankly, it's good for the country, good for the economy, and good for ordinary Americans.",0.6634343862533569,0.01596488431096077,0.320600688457489,positive,0.6474695205688477
+47,2017-11-09 22:12:00,"Plus, if the Republicans have any hope of getting re-elected next year, they absolutely have to get this done.",0.36584916710853577,0.017311908304691315,0.6168389320373535,neutral,0.34853726625442505
+48,2017-11-09 22:12:00,"And knowing their own self-interest is on the line, this (if nothing else) should compel them to act.",0.5146636366844177,0.02056680992245674,0.46476954221725464,positive,0.4940968155860901
+49,2017-11-09 22:12:00,"""But the smart money, in my opinion, remains bullish that tax cuts/reform gets done this year, without implementation delays, and the market continues its record advance.",0.9271297454833984,0.021788787096738815,0.05108147859573364,positive,0.9053409695625305
+50,2017-11-09 22:12:00,"""Seeing how the markets came off of their lows by day's end underscores this optimism.""",0.8881109952926636,0.03354634344577789,0.07834265381097794,positive,0.8545646667480469
+51,2017-11-09 22:12:00,"-- Kevin Matras
+
+Believe it or not, this article is not available on the Zacks.com website.",0.014987454749643803,0.025065023452043533,0.9599475264549255,neutral,-0.01007756870239973
+52,2017-11-09 22:12:00,The commentary is a partial overview of the daily activity from Zacks' private recommendation services.,0.016782881692051888,0.011384058743715286,0.9718329906463623,neutral,0.005398822948336601
+53,2017-11-09 22:12:00,"If you would like to follow our Buy and Sell signals in real time, we've made a special arrangement for readers of this website.",0.12485583126544952,0.006284036207944155,0.868860125541687,neutral,0.11857179552316666
+54,2017-11-09 22:12:00,Starting today you can see all the recommendations from all of Zacks' portfolios absolutely free for 7 days.,0.028900759294629097,0.006299321074038744,0.9647998809814453,neutral,0.02260143868625164
+55,2017-11-09 22:12:00,Our services cover everything from value stocks and momentum trades to insider buying and positive earnings surprises (which we've predicted with an astonishing 80%+ accuracy).,0.05928244814276695,0.005809583701193333,0.9349080324172974,neutral,0.053472865372896194
+56,2017-11-09 22:12:00,"Click here to ""test drive"" Zacks Ultimate for FREE >>
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.00985747016966343,0.017653290182352066,0.9724892973899841,neutral,-0.007795820012688637

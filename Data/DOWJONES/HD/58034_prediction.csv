@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-06 03:00:00,"Since becoming General Electric (NYSE:) CEO in October 2018, Larry Culp has made the company a favorite of turnaround lovers.",0.315110981464386,0.016269046813249588,0.6686199307441711,neutral,0.2988419234752655
+1,2019-12-06 03:00:00,"If you picked up some shares one year ago, you’re sitting on a gain of 54%.",0.8600736856460571,0.018105803057551384,0.1218206062912941,positive,0.8419678807258606
+2,2019-12-06 03:00:00,But it’s all a matter of timing.,0.04069279879331589,0.01566053368151188,0.9436466097831726,neutral,0.02503226511180401
+3,2019-12-06 03:00:00,"If you bought the day Culp joined, you’re still down 14%.",0.0312183890491724,0.8970052003860474,0.07177642732858658,negative,-0.8657867908477783
+4,2019-12-06 03:00:00,"The glory days of Jeff Immelt, when this was a $30 stock and a dividend aristocrat, are gone forever.",0.040627989917993546,0.0280821043998003,0.9312899112701416,neutral,0.012545885518193245
+5,2019-12-06 03:00:00,"Culp has , leading to talk of a general “pension crisis” sweeping the world.",0.2019425928592682,0.5893908143043518,0.20866659283638,negative,-0.3874482214450836
+6,2019-12-06 03:00:00,"But Culp has also , made hard decisions on what to keep and let new hires make .",0.08290790021419525,0.09079807996749878,0.8262940049171448,neutral,-0.007890179753303528
+7,2019-12-06 03:00:00,"From here, everything depends on execution.",0.026345398277044296,0.008543825708329678,0.9651107788085938,neutral,0.017801571637392044
+8,2019-12-06 03:00:00,"Culp’s hardest decision may have been to let go to his former employer, Danaher (NYSE:).",0.06518454104661942,0.7233610153198242,0.21145440638065338,negative,-0.6581764817237854
+9,2019-12-06 03:00:00,"The cash is desperately needed to firm up the balance sheet, which still had $76 billion of debt on it, against a market capitalization of $94 billion, in September.",0.8760628700256348,0.02056060917675495,0.10337653011083603,positive,0.8555022478103638
+10,2019-12-06 03:00:00,"As I wrote in July, those numbers .",0.043460991233587265,0.02277946285903454,0.9337595105171204,neutral,0.020681528374552727
+11,2019-12-06 03:00:00,The company also has $74 billion of “other liabilities” — pensions and risks from old long-term care policies — to deal with.,0.02957664243876934,0.19851942360401154,0.771903932094574,neutral,-0.16894277930259705
+12,2019-12-06 03:00:00,The pension freeze helps with the former.,0.24991975724697113,0.23701299726963043,0.5130673050880432,neutral,0.012906759977340698
+13,2019-12-06 03:00:00,"The latter is a 25-year old legacy from former CEO Jack Welch, who took on re-insurance for long-term care policies before the cost of nursing care became apparent.",0.05458872765302658,0.019019262865185738,0.9263919591903687,neutral,0.03556946665048599
+14,2019-12-06 03:00:00,"Activists want Welch to , as well as Immelt, whom I consider the greatest destroyer of shareholder value the world has ever known.",0.12473373115062714,0.021271392703056335,0.8539948463439941,neutral,0.1034623384475708
+15,2019-12-06 03:00:00,It ain’t happening.,0.055056195706129074,0.09221472591161728,0.852729082107544,neutral,-0.037158530205488205
+16,2019-12-06 03:00:00,These moves have created a new tone around the company.,0.842827320098877,0.01937069557607174,0.13780198991298676,positive,0.8234566450119019
+17,2019-12-06 03:00:00,Product rollouts are now called and buzzwords like “citizen developer” are gaining traction.,0.6647864580154419,0.041255973279476166,0.2939576208591461,positive,0.6235305070877075
+18,2019-12-06 03:00:00,Some analysts are .,0.04641374573111534,0.034381940960884094,0.9192042946815491,neutral,0.012031804770231247
+19,2019-12-06 03:00:00,"Home Depot (NYSE:) co-founder Ken Langone says he likes General Electric again, saying Culp “is doing a hell of a job.”
+
+But this is only tone.",0.33502987027168274,0.039130471646785736,0.6258396506309509,neutral,0.2958993911743164
+20,2019-12-06 03:00:00,"General Electric under Culp remains much as it was under Immelt and his successor, John Flannery, an industrial machine company.",0.06627975404262543,0.13498403131961823,0.7987362146377563,neutral,-0.0687042772769928
+21,2019-12-06 03:00:00,"GE Power remains a drag on results, although the company now makes more from renewable energy equipment like wind turbines.",0.02251344360411167,0.531394898891449,0.4460916221141815,negative,-0.5088814496994019
+22,2019-12-06 03:00:00,Healthcare is mostly big machines.,0.01978137344121933,0.01041371002793312,0.9698049426078796,neutral,0.009367663413286209
+23,2019-12-06 03:00:00,"Boeing (NYSE:) remains a drag on GE Aviation, and GE Capital can no longer soften the blows.",0.027322174981236458,0.9286388158798218,0.04403909295797348,negative,-0.9013166427612305
+24,2019-12-06 03:00:00,"For the third quarter, General Electric reported a loss of nearly $6 billion, 69 cents per share, on .",0.02050846256315708,0.9209123253822327,0.058579228818416595,negative,-0.9004038572311401
+25,2019-12-06 03:00:00,Culp emphasized that losses from continuing operations were just 8 cents per share.,0.019409572705626488,0.943682849407196,0.03690760210156441,negative,-0.9242732524871826
+26,2019-12-06 03:00:00,He showed $650 million in industrial free cash flow.,0.1281919628381729,0.015174074098467827,0.8566339612007141,neutral,0.11301788687705994
+27,2019-12-06 03:00:00,"He also pointed to a backlog of orders that now totals $386 billion, mostly for jet engines and industrial turbines.",0.08136820048093796,0.23001942038536072,0.6886124014854431,neutral,-0.14865121245384216
+28,2019-12-06 03:00:00,"Since then the shares are up 9%, against a 2.5% gain for the average S&P 500 stock.",0.9489617347717285,0.023814821615815163,0.02722340263426304,positive,0.9251469373703003
+29,2019-12-06 03:00:00,Not everyone is convinced.,0.075749471783638,0.15419147908687592,0.7700591087341309,neutral,-0.07844200730323792
+30,2019-12-06 03:00:00,"JPMorgan Chase (NYSE:) analyst Stephen Tusa, who saw the Immelt disaster coming and may wear the label “GE Bear” to his grave, says General Electric is still missing targets set only in March.",0.05100518465042114,0.7789713740348816,0.17002344131469727,negative,-0.7279661893844604
+31,2019-12-06 03:00:00,He believes numbers look good only because of restructured spending.,0.821666955947876,0.026862869039177895,0.15147022902965546,positive,0.7948040962219238
+32,2019-12-06 03:00:00,General Electric remains an industrial goods company.,0.010733390226960182,0.009210602380335331,0.9800559878349304,neutral,0.0015227878466248512
+33,2019-12-06 03:00:00,Industrial goods are not a great business to be in.,0.013406793586909771,0.04677967354655266,0.939813494682312,neutral,-0.03337287902832031
+34,2019-12-06 03:00:00,The company continues to struggle with enormous debt.,0.03659771755337715,0.7560390830039978,0.20736323297023773,negative,-0.7194413542747498
+35,2019-12-06 03:00:00,The amount it will owe on those long-term care policies remains uncertain.,0.016101861372590065,0.057213012129068375,0.9266851544380188,neutral,-0.04111114889383316
+36,2019-12-06 03:00:00,"I continue to wish Culp well, but from the sidelines.",0.15261995792388916,0.03702421486377716,0.8103557825088501,neutral,0.115595743060112
+37,2019-12-06 03:00:00,"General Electric is, at best, a speculation.",0.02291148155927658,0.05013757571578026,0.926950991153717,neutral,-0.027226094156503677
+38,2019-12-06 03:00:00,"If you buy shares today, you’re betting it can generate big profits from industrial revenue, and that it can grow.",0.8617392778396606,0.012820666655898094,0.1254400908946991,positive,0.848918616771698
+39,2019-12-06 03:00:00,Hope is still not a plan.,0.07976796478033066,0.10981784760951996,0.81041419506073,neutral,-0.0300498828291893
+40,2019-12-06 03:00:00,is a financial and technology journalist.,0.04357776790857315,0.01966455765068531,0.9367576837539673,neutral,0.02391321025788784
+41,2019-12-06 03:00:00,"His latest book is Technology’s Big Bang: Yesterday, Today and Tomorrow with Moore’s Law, essays on technology available at the Amazon Kindle store.",0.046195872128009796,0.013179032132029533,0.9406251311302185,neutral,0.033016838133335114
+42,2019-12-06 03:00:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at .,0.053942885249853134,0.05513135716319084,0.8909257650375366,neutral,-0.0011884719133377075
+43,2019-12-06 03:00:00,As of this writing he owned shares in JPM.,0.015362732112407684,0.011810009367763996,0.9728273153305054,neutral,0.003552722744643688
+44,2019-12-06 03:00:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

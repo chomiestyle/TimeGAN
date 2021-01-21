@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-07-08 21:14:00,"Following a significant increase in April, consumer credit increased once again in May.",0.9358134269714355,0.01674433797597885,0.04744226485490799,positive,0.9190691113471985
+1,2014-07-08 21:14:00,Automobile purchases made up the largest slice of consumer borrowing.,0.035737045109272,0.009512310847640038,0.9547505974769592,neutral,0.026224734261631966
+2,2014-07-08 21:14:00,"But revolving credit also increased, which indicates that an improving labor market and stock market gains have boosted consumer confidence.",0.9515572190284729,0.020193908363580704,0.02824884094297886,positive,0.9313632845878601
+3,2014-07-08 21:14:00,"This has coincided with higher appliances and furniture sales, indicating an economic recovery.",0.942182183265686,0.032383281737565994,0.025434503331780434,positive,0.9097989201545715
+4,2014-07-08 21:14:00,"The Board of Governors of the Federal Reserve System reported yesterday that consumer credit increased by $19.6 billion in May, following a $26.1 billion increase in April.",0.9217402935028076,0.016897184774279594,0.06136244535446167,positive,0.9048430919647217
+5,2014-07-08 21:14:00,This increase in the indicator of potential future spending levels was more than the consensus estimate of an increase by $17.5 billion.,0.9398008584976196,0.021619457751512527,0.038579683750867844,positive,0.9181814193725586
+6,2014-07-08 21:14:00,Consumer credit increased at a seasonally adjusted annual rate of 7.50%.,0.7449881434440613,0.01865370385348797,0.23635812103748322,positive,0.7263344526290894
+7,2014-07-08 21:14:00,Non-revolving credit increased at an annual rate of 9.25%.,0.8987885117530823,0.01579340547323227,0.08541806787252426,positive,0.8829951286315918
+8,2014-07-08 21:14:00,Revolving credit rose at an annual rate of 2.50%.,0.930579662322998,0.01633872278034687,0.05308159440755844,positive,0.9142409563064575
+9,2014-07-08 21:14:00,The basis for the revival of home furnishings and building materials is the fact that housing data itself is on the positive side.,0.6292076706886292,0.014554668217897415,0.3562376797199249,positive,0.6146529912948608
+10,2014-07-08 21:14:00,"Sales of new single-family houses increased 18.6% from April's revised rate of 425,000 to a seasonally adjusted annual rate of 504,000 in May.",0.9478307962417603,0.02097041718661785,0.03119877725839615,positive,0.9268603920936584
+11,2014-07-08 21:14:00,New home sales for the month of May increased to the highest level in six years.,0.9459547996520996,0.019073134288191795,0.03497206047177315,positive,0.9268816709518433
+12,2014-07-08 21:14:00,Existing home sales rose 4.9% to a seasonally adjusted annual rate of 4.89 million in May from an upwardly-revised 4.66 million in April.,0.9521913528442383,0.02706139162182808,0.020747298374772072,positive,0.9251299500465393
+13,2014-07-08 21:14:00,This was also the fastest pace of increase in seven months.,0.9315786957740784,0.02007116563618183,0.04835020378232002,positive,0.9115075469017029
+14,2014-07-08 21:14:00,"The pending home sales index, a forward looking indicator based on contract signings, went up 6.1% to 103.9 in May.",0.9398618340492249,0.025488322600722313,0.0346498116850853,positive,0.914373517036438
+15,2014-07-08 21:14:00,"Further, May's 6.1% increase turned out to be the largest month-over-month gain since April 2010.",0.9498507380485535,0.02653755433857441,0.023611724376678467,positive,0.9233132004737854
+16,2014-07-08 21:14:00,It also touched the highest level in eight months.,0.7802802920341492,0.08827705681324005,0.1314426064491272,positive,0.6920032501220703
+17,2014-07-08 21:14:00,"The U.S. Department of Commerce reported that seasonally adjusted sales of retail and food services rose 0.3% in March, less than the previous month's gains of 0.5%.",0.058970749378204346,0.9303580522537231,0.010671124793589115,negative,-0.8713873028755188
+18,2014-07-08 21:14:00,This rise in retail sales in May was also less than the consensus estimate of an increase of 0.6%.,0.03683058172464371,0.9489925503730774,0.014176895841956139,negative,-0.9121619462966919
+19,2014-07-08 21:14:00,"Excluding motor vehicles sales, retail sales increased 0.1%, less than the consensus estimate of a 0.4% increase.",0.04980113357305527,0.9378203749656677,0.012378455139696598,negative,-0.8880192637443542
+20,2014-07-08 21:14:00,"However, April's numbers were revised upward from the earlier reported increase of 0.1% to an impressive 0.5%.",0.929598331451416,0.03339597210288048,0.03700568154454231,positive,0.8962023854255676
+21,2014-07-08 21:14:00,"Taken together with these new numbers, May data looks much stronger.",0.8490155339241028,0.026039522141218185,0.12494490295648575,positive,0.8229759931564331
+22,2014-07-08 21:14:00,"Apart from auto sales, building materials were the only other bright spot for retail sales in May.",0.17707747220993042,0.03592986986041069,0.786992609500885,neutral,0.14114759862422943
+23,2014-07-08 21:14:00,"Sales at stores like The Home Depot, Inc. ( HD ) and Lowe's Companies Inc. ( LOW ), which sell building materials, increased 1.1%.",0.9517718553543091,0.024548618122935295,0.023679502308368683,positive,0.927223265171051
+24,2014-07-08 21:14:00,"Such gains are usually witnessed in spring, when winter's chill recedes.",0.6812496781349182,0.03175697848200798,0.2869933545589447,positive,0.6494926810264587
+25,2014-07-08 21:14:00,"Nearly, every other sector suffered reverses.",0.04195175692439079,0.8623621463775635,0.09568604081869125,negative,-0.8204103708267212
+26,2014-07-08 21:14:00,Another significant development was the spurt in sales at home-furnishing and furniture stores.,0.9271553754806519,0.021047549322247505,0.05179697275161743,positive,0.9061078429222107
+27,2014-07-08 21:14:00,Sales touched a seasonally adjusted figure of $8.55 billion in May.,0.3421759009361267,0.03484019264578819,0.6229839324951172,neutral,0.3073357045650482
+28,2014-07-08 21:14:00,This is the highest monthly figure in six years.,0.7288490533828735,0.04864724725484848,0.22250373661518097,positive,0.6802018284797668
+29,2014-07-08 21:14:00,"An increase in expenditure on carpets, couches and similar products supports upbeat home sales data.",0.8891512751579285,0.05955594778060913,0.051292695105075836,positive,0.8295953273773193
+30,2014-07-08 21:14:00,This is also in keeping with the latest consumer credit numbers.,0.2260565310716629,0.012405723333358765,0.7615377306938171,neutral,0.21365080773830414
+31,2014-07-08 21:14:00,It implies that consumers were willing to spend on more expensive items after reducing their credit card bills for several years.,0.7597267627716064,0.04476124420762062,0.195512056350708,positive,0.7149655222892761
+32,2014-07-08 21:14:00,Such big-ticket items are often purchased on credit.,0.03582271933555603,0.010362822562456131,0.9538144469261169,neutral,0.0254598967730999
+33,2014-07-08 21:14:00,"Additionally, last month, home furnishings major Restoration Hardware Holdings, Inc. ( RH ) reported spectacular first quarter fiscal 2014 results.",0.43526044487953186,0.045517437160015106,0.5192221403121948,neutral,0.38974300026893616
+34,2014-07-08 21:14:00,The company's earnings of 18 cents per share grew threefold year over year.,0.9486209750175476,0.017682399600744247,0.03369650989770889,positive,0.9309386014938354
+35,2014-07-08 21:14:00,The bottom line was driven by a robust 22% surge in the company's net revenues of $366.3 million.,0.9565290808677673,0.019818348810076714,0.023652588948607445,positive,0.9367107152938843
+36,2014-07-08 21:14:00,"Data on retail sales, consumer credit and the housing sector all indicate that the environment for home furnishing companies is quite conducive.",0.3566439747810364,0.012192882597446442,0.6311631798744202,neutral,0.34445109963417053
+37,2014-07-08 21:14:00,"Below we present three stocks which possess the potential to grow appreciably in this environment, each of which also has a good Zacks Rank.",0.7203655242919922,0.011329848319292068,0.268304705619812,positive,0.7090356945991516
+38,2014-07-08 21:14:00,Kirkland's Inc. ( KIRK ) is a leading specialty retailer of home décor products in the United States.,0.49472296237945557,0.00963104423135519,0.4956459701061249,neutral,0.4850919246673584
+39,2014-07-08 21:14:00,"The company sells framed art, mirrors, candles, lamps, picture frames, accent rugs, garden accessories and artificial floral products.",0.018631651997566223,0.00621454231441021,0.9751538634300232,neutral,0.012417109683156013
+40,2014-07-08 21:14:00,The company's stores also offer holiday merchandise as well as throughout-the-year gifts.,0.0327296257019043,0.00500155333429575,0.9622687697410583,neutral,0.027728073298931122
+41,2014-07-08 21:14:00,"The company operates through its stores under the names of Kirkland's, Kirkland's Home, Kirkland's Home Outlet, Kirkland's Outlet and The Kirkland Collection.",0.013899088837206364,0.007919341325759888,0.9781815409660339,neutral,0.005979747511446476
+42,2014-07-08 21:14:00,The company also operates online through its website www.kirklands.com.,0.014177804812788963,0.008226518519222736,0.9775956869125366,neutral,0.005951286293566227
+43,2014-07-08 21:14:00,Kirkland's holds a Zacks Rank #2 (Buy) and has expected earnings growth of 22.40%.,0.9471264481544495,0.014880125410854816,0.037993356585502625,positive,0.9322463274002075
+44,2014-07-08 21:14:00,The forward price-to-earnings ratio (P/E) for the current financial year (F1) is 17.73.,0.024043941870331764,0.010488458909094334,0.9654675722122192,neutral,0.01355548296123743
+45,2014-07-08 21:14:00,"Tempur Sealy International Inc. ( TPX ) is involved in the development, manufacturing and marketing of bedding products primarily in North America and internationally.",0.03895280882716179,0.0045147850178182125,0.95653235912323,neutral,0.03443802520632744
+46,2014-07-08 21:14:00,"It provides mattresses, adjustable bases, pillows and other sleep and relaxation products.",0.02765882946550846,0.005306548438966274,0.9670346975326538,neutral,0.02235228195786476
+47,2014-07-08 21:14:00,"The company's brand portfolio includes Tempur, Tempur-Pedic, Sealy, Sealy Posturepedic, Optimum and Stearns & Foster.",0.029858551919460297,0.004421589896082878,0.9657198786735535,neutral,0.02543696202337742
+48,2014-07-08 21:14:00,"Tempur Sealy International, Inc., formerly known as Tempur-Pedic International Inc., is headquartered in Lexington, Kentucky.",0.019910866394639015,0.00673340167850256,0.9733557105064392,neutral,0.013177464716136456
+49,2014-07-08 21:14:00,Currently the company holds a Zacks Rank #2 (Buy) and has expected earnings growth of 16.90%.,0.9366610646247864,0.013578332029283047,0.04976062476634979,positive,0.923082709312439
+50,2014-07-08 21:14:00,It has a P/E (F1) of 21.53.,0.059094298630952835,0.007896398194134235,0.9330092668533325,neutral,0.051197901368141174
+51,2014-07-08 21:14:00,Williams-Sonoma Inc. ( WSM ) is aspecialty retailer of home products which uses multiple channels to reach its customers.,0.07322973012924194,0.004932592157274485,0.9218377470970154,neutral,0.0682971403002739
+52,2014-07-08 21:14:00,"The company sells its products through its own retail stores in the U.S., Canada and Puerto Rico
+
+It also has franchisees in certain countries in the Middle East.",0.024805480614304543,0.005674847401678562,0.9695196747779846,neutral,0.019130632281303406
+53,2014-07-08 21:14:00,The company also uses catalogs and the Internet to reach its customers.,0.04150082916021347,0.004869543947279453,0.9536296725273132,neutral,0.03663128614425659
+54,2014-07-08 21:14:00,"The retail segment sells its products using five merchandising concepts: Williams-Sonoma, Pottery Barn, Pottery Barn Kids, Rejuvenation and West Elm.",0.02938556857407093,0.0049852593801915646,0.9656291604042053,neutral,0.02440030872821808
+55,2014-07-08 21:14:00,"The direct-to-customer segment sells similar products utilizing seven merchandising concepts Williams-Sonoma, Pottery Barn, Pottery Barn Kids, PBteen, Rejuvenation, Mark and Graham and West Elm.",0.04334196448326111,0.004945071879774332,0.9517129063606262,neutral,0.038396891206502914
+56,2014-07-08 21:14:00,"Apart from a Zacks Rank #2 (Buy), Williams-Sonoma has expected earnings growth of 13.30%.",0.9447181820869446,0.014258751645684242,0.04102306813001633,positive,0.9304594397544861
+57,2014-07-08 21:14:00,It has a P/E (F1) of 22.85.,0.0729147419333458,0.00805431418120861,0.919031023979187,neutral,0.06486042588949203
+58,2014-07-08 21:14:00,"With growth expected to pick up in the second quarter, consumers are expected to have more spending dollars at their disposal.",0.8422289490699768,0.020229199901223183,0.13754186034202576,positive,0.821999728679657
+59,2014-07-08 21:14:00,"Combined with positive news on the jobs front, this makes these three home furnishing stocks excellent options for your portfolio.",0.8091717958450317,0.014806753024458885,0.1760214865207672,positive,0.7943650484085083
+60,2014-07-08 21:14:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+61,2014-07-08 21:14:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+62,2014-07-08 21:14:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+63,2014-07-08 21:14:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

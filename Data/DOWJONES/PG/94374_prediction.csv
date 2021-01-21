@@ -1,0 +1,23 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-12-17 02:01:00,By now you're probably aware of the fiscal cliff and what it could do to your dividend taxes .,0.05830775946378708,0.4299113154411316,0.5117809772491455,neutral,-0.3716035485267639
+1,2012-12-17 02:01:00,But most media sources have only discussed the dividend tax hike in platitudes rather than practical terms.,0.03233744576573372,0.1191883534193039,0.8484742045402527,neutral,-0.08685091137886047
+2,2012-12-17 02:01:00,"As an income investor myself, it would be nice to see an example or two of how fiscal cliff tax hikes could affect my dividends specifically.",0.04504312202334404,0.015064530074596405,0.9398923516273499,neutral,0.029978591948747635
+3,2012-12-17 02:01:00,"Since many of you are also income investors, I figured that would be a productive exercise.",0.21360523998737335,0.008481043390929699,0.7779137492179871,neutral,0.20512419939041138
+4,2012-12-17 02:01:00,"Currently, as you may or may not know, dividend income is taxed at 15%, on average.",0.01931748539209366,0.008043993264436722,0.9726384878158569,neutral,0.011273492127656937
+5,2012-12-17 02:01:00,"Should the fiscal cliff tax hikes go into full effect on January 1, those rates could rise to as high as 39.6%.",0.8823277950286865,0.020614825189113617,0.09705730527639389,positive,0.8617129921913147
+6,2012-12-17 02:01:00,So what does that mean in practical terms?,0.02542528323829174,0.01978651061654091,0.9547882080078125,neutral,0.005638772621750832
+7,2012-12-17 02:01:00,Let's use old dividend stalwart Johnson & Johnson ( JNJ ) as an example.,0.0347757562994957,0.016343453899025917,0.9488807916641235,neutral,0.01843230240046978
+8,2012-12-17 02:01:00,"Right now, JNJ pays its shareholders an annual dividend of $2.44 per share - a yield of 3.5%.",0.07243416458368301,0.014750846661627293,0.9128149747848511,neutral,0.057683318853378296
+9,2012-12-17 02:01:00,"Taxed at 15%, that amounts to a net annual dividend payment of $2.07 - or roughly nine cents less per quarter.",0.08744370937347412,0.031231509521603584,0.8813247680664062,neutral,0.056212201714515686
+10,2012-12-17 02:01:00,"Should the dividend tax rate rise to 39.6%, the net dividend payment for a JNJ shareholder suddenly drops to just over $1.47 per share annually.",0.02286956086754799,0.938936710357666,0.038193777203559875,negative,-0.9160671234130859
+11,2012-12-17 02:01:00,That's a full dollar less per share than what you thought you were getting as a Johnson & Johnson shareholder.,0.04283326864242554,0.6068416833877563,0.3503250181674957,negative,-0.5640084147453308
+12,2012-12-17 02:01:00,"Essentially, what originally was a very attractive 3.5% yield becomes a mere 2.1% yield.",0.04057728871703148,0.22680091857910156,0.7326218485832214,neutral,-0.18622362613677979
+13,2012-12-17 02:01:00,You can apply the same formula to any number of high-yielding dividend stocks .,0.036066338419914246,0.006129832938313484,0.9578038454055786,neutral,0.02993650548160076
+14,2012-12-17 02:01:00,Procter & Gamble ( PG ) would yield 1.9% instead of 3.2%.,0.08969701081514359,0.4203045964241028,0.48999840021133423,neutral,-0.3306075930595398
+15,2012-12-17 02:01:00,McDonald's ( MCD ) would yield 2.1% instead of 3.5%.,0.08190129697322845,0.3326813876628876,0.5854173302650452,neutral,-0.2507801055908203
+16,2012-12-17 02:01:00,AT&T ( T ) would yield 3.2% instead of 5.3%.,0.07439886033535004,0.39638084173202515,0.5292202830314636,neutral,-0.3219819664955139
+17,2012-12-17 02:01:00,You get the point.,0.09990943968296051,0.017609603703022003,0.8824809789657593,neutral,0.08229983597993851
+18,2012-12-17 02:01:00,The fiscal cliff will hit income investors where it hurts most.,0.07748282700777054,0.6761655211448669,0.24635164439678192,negative,-0.598682701587677
+19,2012-12-17 02:01:00,"Stocks that are currently considered ""high yield"" suddenly might not seem so attractive.",0.06768999248743057,0.24983954429626465,0.6824705004692078,neutral,-0.18214955925941467
+20,2012-12-17 02:01:00,Let's all hope that Congress gets a deal done soon - so that these dividend numbers are all just theoretical.,0.12833058834075928,0.014353243634104729,0.8573161363601685,neutral,0.1139773428440094
+21,2012-12-17 02:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-06-16 07:11:00,"In early trading on Tuesday, shares of UnitedHealth Group ( UNH ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.0%.",0.9431527256965637,0.02784031257033348,0.029006976634263992,positive,0.9153124094009399
+1,2015-06-16 07:11:00,"Year to date, UnitedHealth Group registers a 20.1% gain.",0.9523148536682129,0.01676960662007332,0.030915478244423866,positive,0.9355452656745911
+2,2015-06-16 07:11:00,"And the worst performing Dow component thus far on the day is Caterpillar ( CAT ), trading down 0.5%.",0.020848378539085388,0.9653435945510864,0.013808101415634155,negative,-0.9444952011108398
+3,2015-06-16 07:11:00,Caterpillar is lower by about 5.3% looking at the year to date performance.,0.020775895565748215,0.9658939242362976,0.01333017461001873,negative,-0.9451180100440979
+4,2015-06-16 07:11:00,"Two other components making moves today are General Electric ( GE ), trading down 0.4%, and Procter & Gamble ( PG ), trading up 1.1% on the day.",0.03640194982290268,0.9260480403900146,0.03755003958940506,negative,-0.8896461129188538
+5,2015-06-16 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

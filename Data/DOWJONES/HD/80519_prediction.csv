@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-20 10:18:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Microchip Technology Inc (Symbol: MCHP), where a total volume of 8,951 contracts has been traded thus far today, a contract volume which is representative of approximately 895,100 underlying shares (given that every 1 contract represents 100 underlying shares).",0.0477483868598938,0.011383011937141418,0.9408686757087708,neutral,0.03636537492275238
+1,2019-12-20 10:18:00,"That number works out to 43% of MCHP's average daily trading volume over the past month, of 2.1 million shares.",0.6743294596672058,0.01871625706553459,0.3069542646408081,positive,0.6556131839752197
+2,2019-12-20 10:18:00,"Especially high volume was seen for the $110 strike call option expiring January 17, 2020, with 5,469 contracts trading so far today, representing approximately 546,900 underlying shares of MCHP.",0.25982028245925903,0.011543083935976028,0.7286365628242493,neutral,0.2482772022485733
+3,2019-12-20 10:18:00,"Below is a chart showing MCHP's trailing twelve month trading history, with the $110 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) options are showing a volume of 26,443 contracts thus far today.",0.022234950214624405,0.042070627212524414,0.9356943964958191,neutral,-0.01983567699790001
+4,2019-12-20 10:18:00,"That number of contracts represents approximately 2.6 million underlying shares, working out to a sizeable 41.8% of HD's average daily trading volume over the past month, of 6.3 million shares.",0.1577182114124298,0.00986439734697342,0.832417368888855,neutral,0.147853821516037
+5,2019-12-20 10:18:00,"Especially high volume was seen for the $220 strike call option expiring December 20, 2019, with 3,396 contracts trading so far today, representing approximately 339,600 underlying shares of HD.",0.2287268191576004,0.010624504648149014,0.7606486082077026,neutral,0.2181023210287094
+6,2019-12-20 10:18:00,"Below is a chart showing HD's trailing twelve month trading history, with the $220 strike highlighted in orange:
+
+And Zoetis Inc (Symbol: ZTS) saw options trading volume of 8,180 contracts, representing approximately 818,000 underlying shares or approximately 41% of ZTS's average daily trading volume over the past month, of 2.0 million shares.",0.01836639642715454,0.012690025381743908,0.9689435958862305,neutral,0.005676371045410633
+7,2019-12-20 10:18:00,"Particularly high volume was seen for the $130 strike call option expiring December 20, 2019, with 1,650 contracts trading so far today, representing approximately 165,000 underlying shares of ZTS.",0.1970549374818802,0.011019616387784481,0.7919254302978516,neutral,0.18603532016277313
+8,2019-12-20 10:18:00,"Below is a chart showing ZTS's trailing twelve month trading history, with the $130 strike highlighted in orange:
+
+For the various different available expirations for MCHP options, HD options, or ZTS options, visit StockOptionsChannel.com.",0.01000621821731329,0.024635573849081993,0.9653582572937012,neutral,-0.014629355631768703
+9,2019-12-20 10:18:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

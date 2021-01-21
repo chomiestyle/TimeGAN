@@ -1,0 +1,83 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-06-26 21:26:00,These articles were originally posted on the Buzz & Banter where subscribers can follow over 30 professional traders as they share their ideas in real time.,0.03262287378311157,0.012040704488754272,0.9553364515304565,neutral,0.0205821692943573
+1,2014-06-26 21:26:00,Want access to the Buzz plus unlimited market commentary?,0.05293652415275574,0.012791905552148819,0.9342716336250305,neutral,0.04014461860060692
+2,2014-06-26 21:26:00,Click here to learn more about MVPRO .,0.020692240446805954,0.015925897285342216,0.963381826877594,neutral,0.0047663431614637375
+3,2014-06-26 21:26:00,"Here's a small sampling of the 120+ posts seen on the Buzz & Banter this week:
+
+FactSet just released its Dividend Quarterly report for the first quarter of 2014 , and it makes for a nice companion to the recent data posted on the Buzz & Banter regarding share buybacks [subscription required].",0.09456554055213928,0.020701773464679718,0.8847326636314392,neutral,0.07386376708745956
+4,2014-06-26 21:26:00,"- On a per-share basis, trailing 12-month payouts were up 12.5% year-over-year
+
+- The consumer discretionary sector is expected to grow dividends fastest in 2014 (+21.0%)
+
+- A total 425 S&P 500 (INDEXSP:.INX) companies pay dividends.",0.8875610828399658,0.04648367688059807,0.06595522910356522,positive,0.8410773873329163
+5,2014-06-26 21:26:00,"This is the highest level since 1995
+
+- The S&P 500 payout ratio grew by 30 basis points quarter-over-quarter to 31.9%, which is historically high excluding recession years.",0.9533793926239014,0.02060619555413723,0.026014387607574463,positive,0.9327731728553772
+6,2014-06-26 21:26:00,"(In recession years, earnings go down, pushing up the percentage of earnings that are paid out)
+
+- Total distributions (dividends and share repurchases) hit a record high of $249.1 billion in the first quarter -- surpassing the previous record set in the third quarter of 2007
+
+- Dividend stocks outperformed from November 2009 to 2011, but since 2012, non-payers have outperformed
+
+Below, you'll see a chart from the report showing the total level of shareholder distributions (both buybacks and dividends).",0.0415884293615818,0.8313573598861694,0.1270541548728943,negative,-0.7897689342498779
+7,2014-06-26 21:26:00,Keep in mind that companies aggressively buy back stock and raise dividend payouts when they have confidence in future cash flows.,0.42520320415496826,0.010732616297900677,0.5640642046928406,neutral,0.4144705832004547
+8,2014-06-26 21:26:00,And that confidence turns into overconfidence near tops.,0.12419464439153671,0.38012829422950745,0.49567702412605286,neutral,-0.25593364238739014
+9,2014-06-26 21:26:00,That's the normal situation.,0.03799581900238991,0.018125435337424278,0.943878710269928,neutral,0.01987038366496563
+10,2014-06-26 21:26:00,"This time, things feel a bit different because companies aren't just funding through cash flows -- selling bonds to buy back stock has become an increasingly popular financial engineering strategy.",0.09052877128124237,0.011399722658097744,0.8980714678764343,neutral,0.07912904769182205
+11,2014-06-26 21:26:00,"In recent years, companies like Apple ( AAPL ), Intel ( INTC ), and Home Depot ( HD ) have done this, and shareholders have definitely benefited.",0.8827071785926819,0.01410355418920517,0.10318922996520996,positive,0.8686036467552185
+12,2014-06-26 21:26:00,But it could result in a big mess if rates ever go up.,0.03623424470424652,0.8120058178901672,0.15175995230674744,negative,-0.7757715582847595
+13,2014-06-26 21:26:00,"It's not a here and now problem, but it's something to remember as the market hovers at all-time highs.",0.12559738755226135,0.03142661601305008,0.8429759740829468,neutral,0.09417077153921127
+14,2014-06-26 21:26:00,"I have been writing a lot about my late-cycle thesis, stating that outperformance should continue for what I deem the late-cycle leaders of consumer staples via Consumer Staples Select Sector SPDR ETF (NYSEARCA:XLP); energy via Energy Select Sector SPDR ETF (NYSEARCA:XLE); and industrials via Industrial Select Sector SPDR ETF (NYSEARCA:XLI).",0.019548431038856506,0.008355943486094475,0.9720956683158875,neutral,0.011192487552762032
+15,2014-06-26 21:26:00,"There has been a good run in all three, and at this point in the cycle, it is about time for a good shakeout.",0.7878161668777466,0.02324405498802662,0.18893977999687195,positive,0.7645720839500427
+16,2014-06-26 21:26:00,All three have recently hit overbought.,0.17450463771820068,0.21812249720096588,0.6073728799819946,neutral,-0.0436178594827652
+17,2014-06-26 21:26:00,"I think the three sectors are due for a good break here, and energy will check back towards its 50-day moving average and possibly see industrials break theirs.",0.47275781631469727,0.09481795132160187,0.43242424726486206,positive,0.3779398798942566
+18,2014-06-26 21:26:00,"Industrials are already failing to make new highs with the markets, so that divergence already seems to be playing out.",0.027767732739448547,0.8497729301452637,0.12245933711528778,negative,-0.8220052123069763
+19,2014-06-26 21:26:00,A July swoon in all three sectors would be just what the bulls need for a second-half run into year end.,0.292105108499527,0.3128580152988434,0.3950369358062744,neutral,-0.020752906799316406
+20,2014-06-26 21:26:00,"Below are charts of XLP, XLE, and XLI, respectively.",0.01523264404386282,0.009728825651109219,0.975038468837738,neutral,0.005503818392753601
+21,2014-06-26 21:26:00,"On April 4, the S&P 500 scored a Key Reversal Day, which perpetuated an 80-point give-back over six to seven sessions.",0.7977118492126465,0.09286154806613922,0.10942653566598892,positive,0.7048503160476685
+22,2014-06-26 21:26:00,"Today, Mr. Market seems to be shrugging both shoulders at Tuesday's S&P Key Reversal Day and at this morning's ugly first-quarter GDP revision.",0.03733048960566521,0.8944831490516663,0.06818642467260361,negative,-0.8571526408195496
+23,2014-06-26 21:26:00,"Is today simply a Pause Day prior to lower prices, or are there more bricks in the wall of worry?",0.16281738877296448,0.2855895161628723,0.5515930652618408,neutral,-0.12277212738990784
+24,2014-06-26 21:26:00,The following information is courtesy of Neil Azous at Rareview Macro .,0.01980459876358509,0.009222862310707569,0.9709725975990295,neutral,0.010581736452877522
+25,2014-06-26 21:26:00,"Quarterly Pension Rebalance Calls : Stocks are for sale, and bonds are being bought.",0.05438065528869629,0.04710362106561661,0.8985157012939453,neutral,0.007277034223079681
+26,2014-06-26 21:26:00,Below is commentary on pension rebalancing from three financial institutions.,0.01671525090932846,0.0074458131566643715,0.9758388996124268,neutral,0.00926943775266409
+27,2014-06-26 21:26:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+28,2014-06-26 21:26:00,"Goldman Sachs ( GS ): For the second quarter of 2014, equities outperformed fixed-income by +3.74%.",0.23199796676635742,0.750906765460968,0.017095249146223068,negative,-0.5189087986946106
+29,2014-06-26 21:26:00,"As a result, quarterly rebalancing flow estimates are -$7.67 billion in equities for sale.",0.029844898730516434,0.019282611086964607,0.9508724212646484,neutral,0.010562287643551826
+30,2014-06-26 21:26:00,"Also, for the month of June, the S&P 500 (INDEXSP:.INX) has outperformed US Treasury notes by +3.00%.",0.7204465866088867,0.25975337624549866,0.01980001851916313,positive,0.46069321036338806
+31,2014-06-26 21:26:00,"The S&P 500 total return has returned +2.16%, and the 10-year total return has been -0.84%.",0.36443623900413513,0.10579073429107666,0.5297730565071106,neutral,0.25864550471305847
+32,2014-06-26 21:26:00,This results in monthly estimated rebalancing flow of -$6.30 billion of equities for sale.,0.19182948768138885,0.015017461031675339,0.7931530475616455,neutral,0.17681202292442322
+33,2014-06-26 21:26:00,"Goldman Sachs saw one ""trigger"" event on June 9, with equities cumulatively outperforming fixed income by a 6% spread up to that date, leading to a net -$10.88 billion of equities for sale.",0.8696022033691406,0.09901388734579086,0.03138396888971329,positive,0.7705883383750916
+34,2014-06-26 21:26:00,Note that Goldman's assumption is that trigger rebalancing occurs at or around the time of event.,0.012840821407735348,0.012213097885251045,0.974946141242981,neutral,0.0006277235224843025
+35,2014-06-26 21:26:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+36,2014-06-26 21:26:00,"UBSAG ( UBS ): As has been the norm in the QE era, UBS expects US pensions to sell stocks and buy bonds during the second quarter quarter-end portfolio rebalancing.",0.16028708219528198,0.011739530600607395,0.8279733657836914,neutral,0.14854754507541656
+37,2014-06-26 21:26:00,UBS's model projects a moderate $19 to $22 billion of equity sales versus just under $10 billion of bond purchases.,0.5637929439544678,0.027572302147746086,0.4086347222328186,positive,0.5362206697463989
+38,2014-06-26 21:26:00,"Furthermore, within equity portfolios, UBS sees the bulk of trimming ($12 to $15 billion) in US large cap stocks.",0.2680009603500366,0.6425929069519043,0.0894060879945755,negative,-0.3745919466018677
+39,2014-06-26 21:26:00,"Small cap, developed markets, and emerging market portfolios should see only marginal flows.",0.034664250910282135,0.42282119393348694,0.5425145030021667,neutral,-0.3881569504737854
+40,2014-06-26 21:26:00,"On the fixed income side, UBS expects rebalancing purchases to affect mostly five to 10-year maturities.",0.020545076578855515,0.03427975997328758,0.9451751112937927,neutral,-0.013734683394432068
+41,2014-06-26 21:26:00,The 10-year area should outperform cash while flows are going through.,0.3683236241340637,0.5634195804595947,0.06825684756040573,negative,-0.195095956325531
+42,2014-06-26 21:26:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+43,2014-06-26 21:26:00,Societe Generale SA (EPA:GLE): The S&P 500 index has outperformed 10-year Treasuries by 3% month to date and 3.7% quarter to date.,0.20042948424816132,0.7867475748062134,0.01282291766256094,negative,-0.5863180756568909
+44,2014-06-26 21:26:00,SocGen's model estimates $20 billion in equity-selling and bond-buying pension rebalancing demand at month end.,0.08570266515016556,0.006583529058843851,0.907713770866394,neutral,0.07911913841962814
+45,2014-06-26 21:26:00,The model also estimated there was about $17 billion in equity-buying and bond-selling market flow during the equity market rally this month.,0.293789267539978,0.028858013451099396,0.6773527264595032,neutral,0.26493126153945923
+46,2014-06-26 21:26:00,I think this will weigh on equities through this coming Monday.,0.026581700891256332,0.021693842485547066,0.9517244696617126,neutral,0.004887858405709267
+47,2014-06-26 21:26:00,"I was on the phone yesterday with Eric Kaufman when he said, ""I drew two support trendlines for the S&P 500 a few days ago.",0.12110593169927597,0.0525730662047863,0.8263209462165833,neutral,0.06853286921977997
+48,2014-06-26 21:26:00,"One of them came in at Wednesday's intraday low of roughly 1,945.",0.06938519328832626,0.8200545907020569,0.11056020855903625,negative,-0.7506694197654724
+49,2014-06-26 21:26:00,"The other is at 1,939.",0.027996690943837166,0.06246529892086983,0.9095379710197449,neutral,-0.03446860611438751
+50,2014-06-26 21:26:00,"If that area gives way to the downside, you can kiss this rally goodbye.""",0.2725125253200531,0.19050443172454834,0.536983072757721,neutral,0.08200809359550476
+51,2014-06-26 21:26:00,"""Funny,"" I responded, ""For weeks I have suggested the 1940 - 1950 level for the S&P 500 should be the logical support level for any ensuing pullback attempt that should arrive after the S&P stalls in the 1950 - 1975 overhead resistance level so often mentioned in my comments.""",0.4241754114627838,0.0523211769759655,0.5235034227371216,neutral,0.3718542456626892
+52,2014-06-26 21:26:00,"Unsurprisingly, the past three sessions' intraday lows have been 1,944.69, 1,947.49, and 1,948.34, and each time that the S&P has dipped into the 1,940s, it has sprung back.",0.04636606574058533,0.8744019865989685,0.0792318657040596,negative,-0.8280359506607056
+53,2014-06-26 21:26:00,"Interestingly, in their search for a causa proxima, the media dredged up Iraq for Tuesday's Tumble, the negative 2.9% GDP report for Wednesday's Wilt, and Federal Reserve President James Bullard's comments for yesterday's (June 26) downside attempt.",0.08772512525320053,0.4006021022796631,0.5116727948188782,neutral,-0.31287696957588196
+54,2014-06-26 21:26:00,"So, where does that leave the market on a trading basis?",0.040828950703144073,0.047615859657526016,0.9115552306175232,neutral,-0.006786908954381943
+55,2014-06-26 21:26:00,"Well, as shown in yesterday's Morning Tack [subscription required], most of the S&P macro sectors remain overbought with the majority of stocks above their respective 10-day moving averages (DMAs), above their 50 DMAs, and above their 200 DMAs.",0.46567824482917786,0.3301265239715576,0.20419520139694214,positive,0.13555172085762024
+56,2014-06-26 21:26:00,"On a short-term basis trading, however, the NYSE McClellan Oscillator has corrected its overbought condition of mid-June and could result in another rally attempt.",0.6777011752128601,0.258209228515625,0.06408968567848206,positive,0.4194919466972351
+57,2014-06-26 21:26:00,"Yet, I do not trust any rally from here.",0.14817717671394348,0.14027555286884308,0.7115472555160522,neutral,0.007901623845100403
+58,2014-06-26 21:26:00,"My friend Jim Kennedy, of the Atlanta-based Divergence Analysis hedge fund, wrote the following yesterday:
+
+This ""trading break"" is still on, as prices bounced briefly from the 1938 target and now are showing some selling pressure again.",0.3777959942817688,0.13805243372917175,0.48415160179138184,neutral,0.23974356055259705
+59,2014-06-26 21:26:00,The important price level to watch is futures 1943 - 1937 (funny how this level keeps popping up).,0.02639082819223404,0.018316594883799553,0.9552926421165466,neutral,0.008074233308434486
+60,2014-06-26 21:26:00,"With all the outstanding tops/warnings present, this ""trading break"" could still be the beginning of something larger.",0.34562405943870544,0.020136758685112,0.634239137172699,neutral,0.32548731565475464
+61,2014-06-26 21:26:00,Our momentum screens show momentum tops have been given on every equity index.,0.15415816009044647,0.008724069222807884,0.8371177315711975,neutral,0.14543409645557404
+62,2014-06-26 21:26:00,The daily short-term indicator trend remains down now for 10 days and the weekly short-term trend is now up into next week.,0.031389325857162476,0.6757628917694092,0.29284772276878357,negative,-0.6443735361099243
+63,2014-06-26 21:26:00,"If the weekly short-term trend turns down, we will have lower targets.",0.0248685572296381,0.4894483983516693,0.48568302392959595,negative,-0.46457985043525696
+64,2014-06-26 21:26:00,Overall: we remain guarded.,0.12093381583690643,0.046463944017887115,0.832602322101593,neutral,0.07446987181901932
+65,2014-06-26 21:26:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

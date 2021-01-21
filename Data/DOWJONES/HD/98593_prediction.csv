@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-30 05:15:00,But which stock is the better buy today?,0.1212192252278328,0.055925432592630386,0.8228553533554077,neutral,0.06529378890991211
+1,2016-12-30 05:15:00,"That's a tough question to answer, especially because both represent ownership in top-notch companies.",0.04488631710410118,0.14255957305431366,0.812554121017456,neutral,-0.09767325222492218
+2,2016-12-30 05:15:00,"We'll do our level best to dig deeper below, evaluating each stock on three different variables.",0.04952870309352875,0.0060405186377465725,0.9444307684898376,neutral,0.04348818585276604
+3,2016-12-30 05:15:00,Cash on hand is important -- there's no way around it.,0.07920221239328384,0.020350588485598564,0.9004471302032471,neutral,0.05885162204504013
+4,2016-12-30 05:15:00,Tough times will come in the future for both Home Depot and Sherwin-Williams.,0.05536643788218498,0.7981207966804504,0.1465127319097519,negative,-0.742754340171814
+5,2016-12-30 05:15:00,There's no telling whether those times will be macro in nature or from self-inflicted wounds.,0.11439883708953857,0.09402615576982498,0.791575014591217,neutral,0.020372681319713593
+6,2016-12-30 05:15:00,"But when that time comes, companies that are cash-rich have options.",0.07033903896808624,0.01058369129896164,0.9190773367881775,neutral,0.0597553476691246
+7,2016-12-30 05:15:00,"They know they'll survive, and they can outspend rivals, keep paying their dividend, buy back stock on the cheap, and even make strategic acquisitions.",0.8260186314582825,0.014140321873128414,0.15984101593494415,positive,0.8118783235549927
+8,2016-12-30 05:15:00,Debt-heavy companies are in the opposite boat -- forced to narrow their focus just to make ends meet and avoid bankruptcy.,0.03821318596601486,0.6813634037971497,0.28042346239089966,negative,-0.6431502103805542
+9,2016-12-30 05:15:00,"Remembering that Home Depot is valued at over six times the size of Sherwin-Williams, here's how the two stack up in terms of financial fortitude.",0.11008186638355255,0.010354959405958652,0.8795632123947144,neutral,0.09972690790891647
+10,2016-12-30 05:15:00,"Relative to their size, these two show almost identical numbers, with one exception: debt.",0.05284970998764038,0.012792710214853287,0.9343575835227966,neutral,0.040056999772787094
+11,2016-12-30 05:15:00,"While Home Depot's free cash flow makes it unlikely that it would face a financial pinch during normal economic times, it may feel a squeeze if the home-improvement market sours.",0.04810599982738495,0.8536270260810852,0.09826697409152985,negative,-0.8055210113525391
+12,2016-12-30 05:15:00,"Sherwin-Williams, on the other hand, has a much more favorable cash-to-debt ratio.",0.85899817943573,0.017932625487446785,0.12306921184062958,positive,0.841065526008606
+13,2016-12-30 05:15:00,"For that reason, I'm siding with the latter for this variable.",0.08801954984664917,0.09934482723474503,0.8126356601715088,neutral,-0.011325277388095856
+14,2016-12-30 05:15:00,"If I were forced to make all of my investment decisions based on a single factor, this would be it.",0.01277918554842472,0.026631932705640793,0.9605889320373535,neutral,-0.013852747157216072
+15,2016-12-30 05:15:00,"A company's sustainable competitive advantage -- often called its ""moat"" by professional investors -- represents the thing that sets it apart from the competition.",0.14863190054893494,0.010287124663591385,0.841080904006958,neutral,0.13834477961063385
+16,2016-12-30 05:15:00,It is the special sauce that makes the company what it is.,0.05575573444366455,0.005834715906530619,0.9384095072746277,neutral,0.04992101714015007
+17,2016-12-30 05:15:00,"The biggest advantages for both of these companies are their scale, market share, and brand value.",0.5416967272758484,0.009932581335306168,0.44837066531181335,positive,0.5317641496658325
+18,2016-12-30 05:15:00,"Home Depot is the largest home-improvement store in America, coming in at 24% in the U.S.",0.3975250720977783,0.014603525400161743,0.5878713726997375,neutral,0.3829215466976166
+19,2016-12-30 05:15:00,It is part of a virtual duopoly with Lowe's in what is still a highly fragmented market.,0.03493397682905197,0.020821675658226013,0.9442443251609802,neutral,0.014112301170825958
+20,2016-12-30 05:15:00,"The company's scale allows it to bargain for lower prices that it can then pass through to customers, and it also helps make the company's brand very familiar to anyone who has work to do on their house.",0.7147336006164551,0.014441915787756443,0.27082449197769165,positive,0.7002916932106018
+21,2016-12-30 05:15:00,"Sherwin-Williams takes a slightly different approach, selling its products through company-owned stores, as well as home-improvement venues like Home Depot.",0.02130035124719143,0.010443202219903469,0.9682564735412598,neutral,0.01085714902728796
+22,2016-12-30 05:15:00,"The company's acquisition of Valspar (NYSE: VAL) also makes it one of the biggest global paint companies by market share, coming in at 12% globally.",0.921972393989563,0.015218958258628845,0.06280871480703354,positive,0.906753420829773
+23,2016-12-30 05:15:00,"Like Home Depot, this will help Sherwin-Williams get inputs for lower costs and pass those savings along to customers.",0.8148958683013916,0.011392072774469852,0.17371205985546112,positive,0.8035038113594055
+24,2016-12-30 05:15:00,"In the end, the moats at both of these companies are about as strong as they can be in an industry that relies heavily on scale and brand.",0.7412547469139099,0.015249020420014858,0.24349623918533325,positive,0.7260057330131531
+25,2016-12-30 05:15:00,"Finally, we have valuation.",0.22249005734920502,0.010374725796282291,0.7671352028846741,neutral,0.2121153324842453
+26,2016-12-30 05:15:00,"This is part art, part science -- and has just as much to do with an individual investor's comfort level than anything else.",0.04270203784108162,0.010917137376964092,0.9463808536529541,neutral,0.03178489953279495
+27,2016-12-30 05:15:00,Here are a number of metrics I consult when trying to evaluate a stock's valuation.,0.016278717666864395,0.0075354124419391155,0.9761858582496643,neutral,0.008743304759263992
+28,2016-12-30 05:15:00,These two really couldn't be any more similar.,0.11194595694541931,0.0715293362736702,0.8165247440338135,neutral,0.040416620671749115
+29,2016-12-30 05:15:00,"Trading for identical multiples on both earnings and free cash flow, Home Depot gets the edge.",0.6232067346572876,0.042494628578424454,0.33429867029190063,positive,0.580712080001831
+30,2016-12-30 05:15:00,The company is trading at about a 25% discount based on its earnings potential (PEG ratio).,0.054148636758327484,0.007884183898568153,0.9379671812057495,neutral,0.04626445472240448
+31,2016-12-30 05:15:00,"Both companies also offer healthy and sustainable dividends, but Home Depot's yield is significantly larger.",0.5275553464889526,0.11701393872499466,0.3554307222366333,positive,0.4105414152145386
+32,2016-12-30 05:15:00,"So there you have it: As I said, this is a competition between two very high-quality companies -- and it shows.",0.7263249158859253,0.02317460998892784,0.2505004107952118,positive,0.7031503319740295
+33,2016-12-30 05:15:00,"If I were forced to make a decision one way or another, it would probably be to side with Sherwin-Williams.",0.030453044921159744,0.05456170812249184,0.914985179901123,neutral,-0.024108663201332092
+34,2016-12-30 05:15:00,The company's acquisition of Valspar gives it the type of global market share that can expose it to emerging markets.,0.9182955622673035,0.012960185296833515,0.06874427199363708,positive,0.9053353667259216
+35,2016-12-30 05:15:00,That's simply not something that Home Depot has.,0.015002632513642311,0.06091951206326485,0.9240778684616089,neutral,-0.045916877686977386
+36,2016-12-30 05:15:00,But don't be mistaken: Both are high-quality holdings that are worthy of further investigation by interested investors.,0.22937187552452087,0.008036448620259762,0.7625916600227356,neutral,0.22133542597293854
+37,2016-12-30 05:15:00,"10 stocks we like better than Sherwin-Williams
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14209935069084167,0.02421962469816208,0.833681046962738,neutral,0.1178797259926796
+38,2016-12-30 05:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+39,2016-12-30 05:15:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Sherwin-Williams wasn't one of them!",0.19256238639354706,0.01376598421484232,0.7936716079711914,neutral,0.17879639565944672
+40,2016-12-30 05:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+41,2016-12-30 05:15:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+42,2016-12-30 05:15:00,Brian Stoffel has no position in any stocks mentioned.,0.011061043478548527,0.05123596638441086,0.9377029538154602,neutral,-0.040174923837184906
+43,2016-12-30 05:15:00,The Motley Fool recommends Home Depot and Sherwin-Williams.,0.028454240411520004,0.025956932455301285,0.9455888271331787,neutral,0.0024973079562187195
+44,2016-12-30 05:15:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+45,2016-12-30 05:15:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105840750038624,0.19063225388526917,positive,0.7791560292243958
+46,2016-12-30 05:15:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2016-12-30 05:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

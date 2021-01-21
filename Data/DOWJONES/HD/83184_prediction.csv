@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-27 08:34:00,"Like its rival Home Depot (NYSE: HD) did a week before, Lowe's (NYSE: LOW) just announced first-quarter earnings results that were hurt by a soft start to the critical spring selling season.",0.021872520446777344,0.9661357402801514,0.011991762556135654,negative,-0.944263219833374
+1,2018-05-27 08:34:00,The home improvement retailer suffered from a more significant slowdown than its larger peer as winter weather depressed demand for seasonal outdoor products.,0.019543681293725967,0.966203510761261,0.014252807013690472,negative,-0.9466598033905029
+2,2018-05-27 08:34:00,Yet management still affirmed its full-year forecast.,0.8549205660820007,0.020621469244360924,0.1244579404592514,positive,0.8342990875244141
+3,2018-05-27 08:34:00,More on that steady outlook in a moment.,0.12175731360912323,0.03911997750401497,0.8391227126121521,neutral,0.08263733983039856
+4,2018-05-27 08:34:00,"First, here's how the headline results stacked up against the prior-year period:
+
+What happened with Lowe's this quarter?",0.03694746643304825,0.0781194418668747,0.8849330544471741,neutral,-0.04117197543382645
+5,2018-05-27 08:34:00,"Sales growth slowed sharply, due mainly to weather challenges.",0.019340505823493004,0.9632813930511475,0.017378101125359535,negative,-0.9439408779144287
+6,2018-05-27 08:34:00,"Lowe's expenses also jumped, which led to lower operating profitability.",0.017491351813077927,0.9708563089370728,0.011652346700429916,negative,-0.9533649682998657
+7,2018-05-27 08:34:00,"The key highlights of the quarter included:
+• Comparable-store sales inched higher by 0.6%, which was well below management's full-year forecast and also trailed Home Depot's 4.2% increase .",0.9222447276115417,0.05565403401851654,0.022101273760199547,positive,0.866590678691864
+8,2018-05-27 08:34:00,Both retailers were impacted by unseasonably cold weather that lowered demand for items like gardening equipment.,0.01814517192542553,0.967610776424408,0.014243969693779945,negative,-0.9494656324386597
+9,2018-05-27 08:34:00,• Gross profit margin held steady at about 34.5% of sales.,0.8957202434539795,0.03606823831796646,0.06821148097515106,positive,0.8596519827842712
+10,2018-05-27 08:34:00,"Expenses rose at a faster pace than revenue did, though, which pushed operating margin down to 8.4% of sales from 9.3% a year ago.",0.020239027217030525,0.9708172082901001,0.008943748660385609,negative,-0.9505781531333923
+11,2018-05-27 08:34:00,"Home Depot's equivalent number also slipped but remained far above Lowe's, stopping at 13.5% for the quarter.",0.020577717572450638,0.964852511882782,0.014569781720638275,negative,-0.9442747831344604
+12,2018-05-27 08:34:00,• A one-time loss that was booked in the prior-year period sent reported earnings up by about 60%.,0.9476874470710754,0.03131935000419617,0.020993275567889214,positive,0.9163681268692017
+13,2018-05-27 08:34:00,"On an adjusted basis, profits rose 16%, mainly due to reduced taxes.",0.9583593010902405,0.022716527804732323,0.018924197182059288,positive,0.9356427788734436
+14,2018-05-27 08:34:00,"• Lowe's returned $1.09 billion to shareholders, split between $750 million of stock repurchase spending and $340 million of dividend payments.",0.10730645060539246,0.00952028576284647,0.8831732869148254,neutral,0.09778616577386856
+15,2018-05-27 08:34:00,"What management had to say
+
+Management said the sales slump was limited to seasonal products and didn't affect its other growth initiatives.",0.02806062437593937,0.7959096431732178,0.1760297566652298,negative,-0.7678490281105042
+16,2018-05-27 08:34:00,"""We drove solid performance in indoor categories,"" CEO Robert Niblock said in a press release, ""and continued to grow our sales to professional customers.""",0.9452686309814453,0.016064217314124107,0.03866707161068916,positive,0.9292044043540955
+17,2018-05-27 08:34:00,"However, he added, ""prolonged unfavorable weather across geographies led to a delayed spring selling season which impacted results in outdoor categories.""",0.021825674921274185,0.9541072249412537,0.024067090824246407,negative,-0.9322815537452698
+18,2018-05-27 08:34:00,Management noted that the slowdown ended as soon as the colder weather receded.,0.0712539553642273,0.1840302050113678,0.7447158098220825,neutral,-0.1127762496471405
+19,2018-05-27 08:34:00,"""Spring has arrived and we are encouraged by strong sales in the month of May,"" Niblock said.",0.9443934559822083,0.018608981743454933,0.03699750453233719,positive,0.9257844686508179
+20,2018-05-27 08:34:00,"Home Depot explained to investors last week that a delayed spring selling season typically just shifts sales into the second quarter, and so the retailer saw no need to reduce its 2018 outlook .",0.05457335710525513,0.7630007266998291,0.18242593109607697,negative,-0.708427369594574
+21,2018-05-27 08:34:00,"Lowe's affirmed its forecast, too, which calls for a modest slowdown to a 3.5% expansion pace from 4% in 2017.",0.871535062789917,0.09205909818410873,0.03640581667423248,positive,0.77947598695755
+22,2018-05-27 08:34:00,Home Depot is targeting a more robust 5% increase this year and its profitability target of 14.5% also outpaces Lowe's 9.5%.,0.9518641233444214,0.019094234332442284,0.029041705653071404,positive,0.9327698945999146
+23,2018-05-27 08:34:00,"Separately, Lowe's announced that Marvin Ellison, who previously oversaw U.S. sales operations at Home Depot before moving to J.C. Penney , will step in for the departing Niblock .",0.043571822345256805,0.11113373935222626,0.8452944159507751,neutral,-0.06756191700696945
+24,2018-05-27 08:34:00,"Executives said the new hire represents a ""great win"" for the business, given Ellison's deep experience previously working for Lowe's chief rival.",0.9213297367095947,0.01977275311946869,0.05889741703867912,positive,0.9015569686889648
+25,2018-05-27 08:34:00,"The new leader's main priority will be to close the market share gap with Home Depot while protecting, and hopefully expanding, profit margin.",0.9134487509727478,0.01553062628954649,0.07102057337760925,positive,0.8979181051254272
+26,2018-05-27 08:34:00,The change to a new CEO might also be an opportunity for Lowe's to reconsider its cautious capital return program and lift its dividend payout up from its current 35% target to something closer to Home Depot's 55%.,0.9359259605407715,0.01967407949268818,0.0443999357521534,positive,0.9162518978118896
+27,2018-05-27 08:34:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+28,2018-05-27 08:34:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+29,2018-05-27 08:34:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+30,2018-05-27 08:34:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2018-05-27 08:34:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+32,2018-05-27 08:34:00,"*Stock Advisor returns as of May 8, 2018
+
+Demitrios Kalogeropoulos owns shares of Home Depot.",0.0177837572991848,0.009795989841222763,0.9724202752113342,neutral,0.007987767457962036
+33,2018-05-27 08:34:00,The Motley Fool has the following options: short September 2018 $180 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013114538975059986,0.02937193214893341,0.9575135707855225,neutral,-0.016257394105196
+34,2018-05-27 08:34:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+35,2018-05-27 08:34:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2018-05-27 08:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,376 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-27 02:23:00,"Not too long ago, Splunk ( SPLK ) announced its Q4 FY '18 and full-year FY '18 results, and those results were generally received gleefully by analysts and investors alike.",0.8104246258735657,0.020116738975048065,0.16945862770080566,positive,0.790307879447937
+1,2018-04-27 02:23:00,"Jim Cramer, for example, hosted Splunk's CEO, Doug Merritt, on ""Mad Money"" and suggested that Splunk is still in the ""early innings"" in terms of growth.",0.2707000970840454,0.06004730984568596,0.6692526340484619,neutral,0.21065278351306915
+2,2018-04-27 02:23:00,"On March 27, 2018, the company held an Analyst Day to discuss its performance, forecast, and strategy moving forward.",0.1125962883234024,0.005814761854708195,0.8815889358520508,neutral,0.10678152740001678
+3,2018-04-27 02:23:00,"Broadly, the company laid out a revenue goal of $2 BB by FY '20, with non-GAAP operating margin growth along the way.",0.841425359249115,0.01189691573381424,0.14667768776416779,positive,0.8295284509658813
+4,2018-04-27 02:23:00,"Its underlying strategy - again, broadly speaking - revolves around a transition to subscription-based licensing, additional market penetration, sales coverage, and growing the company's cloud business.",0.8609514236450195,0.010882770642638206,0.12816579639911652,positive,0.8500686287879944
+5,2018-04-27 02:23:00,"In this article, I attack elements of Splunk's outlook and strategy based on irregularities/risks that I believe are exposed through an analysis of the earnings call discussion, the Analyst Day presentation/discussion, and the company's financial data.",0.009943277575075626,0.022897887974977493,0.967158854007721,neutral,-0.012954610399901867
+6,2018-04-27 02:23:00,The last article I published on Seeking Alpha - nearly eight months ago - discussed my reasoning against a Cisco ( CSCO ) acquisition of Splunk.,0.046195145696401596,0.08285027742385864,0.8709546327590942,neutral,-0.036655131727457047
+7,2018-04-27 02:23:00,"For reasons beyond the scope of this article, I actually hesitated to publish it.",0.03413700684905052,0.07106553018093109,0.8947974443435669,neutral,-0.03692852333188057
+8,2018-04-27 02:23:00,"Ultimately, I did publish, and it elicited, shall we say, a strong reaction.",0.8959411978721619,0.01616656221449375,0.08789224177598953,positive,0.8797746300697327
+9,2018-04-27 02:23:00,"With most sentiment around Splunk fervently bullish, I expect this article and its decidedly bearish tone might evoke a similar reaction.",0.3186206519603729,0.05197598785161972,0.6294033527374268,neutral,0.2666446566581726
+10,2018-04-27 02:23:00,So be it.,0.10139971971511841,0.023527299985289574,0.8750729560852051,neutral,0.07787241786718369
+11,2018-04-27 02:23:00,"I reiterate from the prior article that I don't believe Splunk is in its early innings of growth anymore, contrary to the position held by Mr. Cramer.",0.048010408878326416,0.09292122721672058,0.8590683341026306,neutral,-0.044910818338394165
+12,2018-04-27 02:23:00,"That view, coupled with the risks I discuss herein, led me to recommend that existing investors think carefully about their position.",0.1723659634590149,0.011954152956604958,0.8156799077987671,neutral,0.1604118049144745
+13,2018-04-27 02:23:00,"As this article became a bit longer than I originally expected, I divided it into numbered sections.",0.023762540891766548,0.01949838362634182,0.956739068031311,neutral,0.004264157265424728
+14,2018-04-27 02:23:00,"While the sections do relate to each other, some readers might consider ""moving between"" sections, as opposed to reading the article sequentially.",0.0198975820094347,0.032746005803346634,0.9473564028739929,neutral,-0.012848423793911934
+15,2018-04-27 02:23:00,"The article index is as follows:
+
+1.0 Overview and Index (i.e.",0.008653144352138042,0.016200996935367584,0.9751458168029785,neutral,-0.007547852583229542
+16,2018-04-27 02:23:00,what you're reading right now).,0.023291969671845436,0.01652110181748867,0.9601869583129883,neutral,0.006770867854356766
+17,2018-04-27 02:23:00,"2.0 A Quick Look At The Numbers
+
+3.0 Operating Margin Is...",0.04700601473450661,0.03670840337872505,0.9162855744361877,neutral,0.010297611355781555
+18,2018-04-27 02:23:00,Uh... What Now?,0.05207773670554161,0.08167664706707001,0.8662455677986145,neutral,-0.029598910361528397
+19,2018-04-27 02:23:00,"4.4 Summing Up The Risks Around Licensing Mix
+
+Finally, Splunk Annual Reports, which I reference, can be accessed here.",0.012655692175030708,0.00993033591657877,0.9774138927459717,neutral,0.0027253562584519386
+20,2018-04-27 02:23:00,"I'm also including, along with the article, Splunk's earnings call transcript and Analyst Day presentation, along with supporting financial data:
+
+2.0 A Quick Look At The Numbers
+
+Before we dive in, let's take a quick look at Splunk's Q4 '18/FY '18 performance as presented during its earnings call.",0.015958581119775772,0.011669903062283993,0.972371518611908,neutral,0.004288678057491779
+21,2018-04-27 02:23:00,"Splunk's fourth quarter revenue was $419.7 million, up 37% year over year, fiscal year revenue was $1,271 billion, up 34% year-over-year, and billings also increased healthily in both periods.",0.9569972157478333,0.018793171271681786,0.02420961670577526,positive,0.9382040500640869
+22,2018-04-27 02:23:00,"But GAAP operating loss for the quarter was $23.9 million, and GAAP operating loss for the full year is $259 million.",0.018358057364821434,0.9692869782447815,0.012354938313364983,negative,-0.9509289264678955
+23,2018-04-27 02:23:00,"• Total revenues were $419.7 million, up 37% year over year.",0.9478748440742493,0.017912311479449272,0.0342128723859787,positive,0.9299625158309937
+24,2018-04-27 02:23:00,"• Total billings were $622.8 million, up 44% year over year.",0.9536991715431213,0.01763051003217697,0.02867029793560505,positive,0.9360686540603638
+25,2018-04-27 02:23:00,• GAAP loss per share was $0.18.,0.019792115315794945,0.968062698841095,0.012145097367465496,negative,-0.9482705593109131
+26,2018-04-27 02:23:00,Non-GAAP income per share was $0.37.,0.028441444039344788,0.2118460237979889,0.7597125768661499,neutral,-0.1834045797586441
+27,2018-04-27 02:23:00,• Operating cash flow was $146.1 million with free cash flow of $139.5 million.,0.018728306517004967,0.025621432811021805,0.955650269985199,neutral,-0.006893126294016838
+28,2018-04-27 02:23:00,"• Total revenues were $1.271 billion, up 34% year over year.",0.9529697895050049,0.0181216299533844,0.028908608481287956,positive,0.9348481893539429
+29,2018-04-27 02:23:00,"• Total billings were $1.551 billion, up 38% year over year.",0.9509174823760986,0.016383571550250053,0.032698918133974075,positive,0.9345338940620422
+30,2018-04-27 02:23:00,• Operating cash flow was $262.9 with free cash flow of $242.4 million.,0.02030840329825878,0.03176217898726463,0.9479293823242188,neutral,-0.011453775689005852
+31,2018-04-27 02:23:00,"Splunk noted during its earnings call that ""for the full year, operating margin was 9.2% above our expectations due to the strength of our overall top line performance.""",0.6533854603767395,0.311415433883667,0.03519909456372261,positive,0.3419700264930725
+32,2018-04-27 02:23:00,"The company went on to say,
+
+I had originally planned to discuss operating margin toward the end of this article, but let us begin our analysis there.",0.014822116121649742,0.010180734097957611,0.9749971032142639,neutral,0.004641382023692131
+33,2018-04-27 02:23:00,"Splunk's non-GAAP (keyword is ""non-GAAP"") operating margin was an important topic of discussion during the Analyst Day.",0.029507452622056007,0.01572304032742977,0.9547695517539978,neutral,0.013784412294626236
+34,2018-04-27 02:23:00,"Before diving into the margin discussion, I'd like to reiterate another point I made in my last Seeking Alpha article discussing Splunk.",0.02821553871035576,0.031039107590913773,0.9407454133033752,neutral,-0.002823568880558014
+35,2018-04-27 02:23:00,I encourage readers to keep the point above in mind.,0.061552923172712326,0.007783489767462015,0.9306635856628418,neutral,0.05376943200826645
+36,2018-04-27 02:23:00,"Moving forward, the company, like most other software vendors selling subscription licenses, will report results under the new ASC 606 accounting standard vs. the ""old"" ASC 605 standard.",0.7626926898956299,0.069402776658535,0.1679045855998993,positive,0.6932899355888367
+37,2018-04-27 02:23:00,"Under this rule, software companies are able to recognize the full value of certain subscription licenses upfront.",0.038419030606746674,0.0066400677897036076,0.954940915107727,neutral,0.031778961420059204
+38,2018-04-27 02:23:00,"This is delineated in the slide below, presented during the Analyst Day:
+
+This accounting change impacts Splunk's reported income.",0.018802912905812263,0.7246111035346985,0.256585955619812,negative,-0.705808162689209
+39,2018-04-27 02:23:00,"For example, as per the slide below, under 606, total revenues for FY '17 decline from $950 to $944 MM, while revenues for FY '18 increase from $1,271 MM to $1,309 MM.",0.05781015008687973,0.9270257949829102,0.015164072625339031,negative,-0.8692156672477722
+40,2018-04-27 02:23:00,We also see that non-GAAP operating margin for FY '18 increases from 9% to 14% under 606.,0.9521908164024353,0.016764959320425987,0.031044134870171547,positive,0.935425877571106
+41,2018-04-27 02:23:00,"The purpose of this article is not to go into the intricacies of the new standard, although I urge readers to review the following for a good overview: ASC 606 & IFRS 15: How the new Revenue Standards will impact Subscription Companies - Zuora ).",0.01781589165329933,0.00797741673886776,0.9742066264152527,neutral,0.009838474914431572
+42,2018-04-27 02:23:00,"However, I do wish to highlight some irregularity in terms of how Splunk presented its operating margin results during the Analyst Day.",0.03356564790010452,0.5884333848953247,0.37800100445747375,negative,-0.5548677444458008
+43,2018-04-27 02:23:00,"The company presented this slide to highlight non-GAAP operating margin growth:
+
+Now, consider the data above in context with this slide:
+
+In the slide above, on the left, Splunk illustrates the operating margin improvement for FY '18 under 606 from 9.2% to 14.2%.",0.9032838940620422,0.04175763204693794,0.05495845153927803,positive,0.8615262508392334
+44,2018-04-27 02:23:00,"On the right, the company illustrates how it arrives at its forecasted operating margin of 11.5% for FY '19, again under 606.",0.8226960301399231,0.03872614726424217,0.13857771456241608,positive,0.7839698791503906
+45,2018-04-27 02:23:00,"But now, look back at the operating margin leverage slide where the company appears to show non-GAAP operating margin growth.",0.4970477819442749,0.2628687620162964,0.24008344113826752,positive,0.23417901992797852
+46,2018-04-27 02:23:00,The company has mixed results from 605 and 606 accounting standards to create this growth curve.,0.048824772238731384,0.8391675353050232,0.112007737159729,negative,-0.7903427481651306
+47,2018-04-27 02:23:00,"Specifically, in this slide, the 9.2% non-GAAP operating margin result for FY '18 is under 605, whereas the non-GAAP operating margin forecasts for FY '19 and FY '20 are under 606.",0.06551342457532883,0.4486534595489502,0.48583313822746277,neutral,-0.38314002752304077
+48,2018-04-27 02:23:00,This slide is misleading in my view.,0.02806246653199196,0.1484590470790863,0.8234784603118896,neutral,-0.12039658427238464
+49,2018-04-27 02:23:00,It's a bit like mixing GAAP and non-GAAP results together.,0.02610166370868683,0.008706526830792427,0.9651917815208435,neutral,0.0173951368778944
+50,2018-04-27 02:23:00,"In fact, if we normalize the last three data points in this slide under 606, we have the following (asterisk delineates forecast):
+
+So, non-GAAP operating margin is really not forecast to increase, it is decreasing between FY' 18 and FY '19 and actually roughly flat between FY '18 and FY '20.",0.03970036655664444,0.8732661008834839,0.08703353255987167,negative,-0.8335657119750977
+51,2018-04-27 02:23:00,"During the Analyst Day Q&A period, one of the analysts (Walter) pointed out that the company is staring at ""flat margins with the same profile of revenue,"" meaning the top-line goal of $2 BB by FY' 20 has remained steady over various Splunk forecasts.",0.2635727822780609,0.5923988223075867,0.14402838051319122,negative,-0.32882604002952576
+52,2018-04-27 02:23:00,"This analyst suggested that perhaps the ""missing link,"" in terms of why operating margin is flat, is the company's activity around reinvestment initiatives.",0.039424218237400055,0.5526952147483826,0.407880574464798,negative,-0.5132709741592407
+53,2018-04-27 02:23:00,"Dave Conte, Splunk Senior VP and CFO, replied as follows, which I transcribed from the Analyst Day webcast :
+
+Dave Conte's answer to the question seemed rather indirect to me.",0.031439777463674545,0.2141556739807129,0.754404604434967,neutral,-0.18271589279174805
+54,2018-04-27 02:23:00,"A simple answer would have been along the lines of ""Yes; operating margin is expected to be roughly flat between FY '18 and FY '20 due to reinvestment activity.""",0.16295166313648224,0.32459086179733276,0.5124574899673462,neutral,-0.16163919866085052
+55,2018-04-27 02:23:00,"Moreover, Dave Conte's answer does not explain why 605 and 606 accounting standards were mixed on the operating margin leverage slide, although, admittedly, he was not asked that specific question.",0.060001008212566376,0.7764300107955933,0.16356904804706573,negative,-0.7164289951324463
+56,2018-04-27 02:23:00,"Finally, it would have been helpful if his answer explained why the company has raised non-GAAP operating margin guidance for FY '20 from 12% to 14% (the 12% figure was presented in FY '17).",0.7879353761672974,0.020267469808459282,0.1917971670627594,positive,0.7676678895950317
+57,2018-04-27 02:23:00,"I'm concerned as to why the company appears to obfuscate margin performance on the operating margin leverage slide, in an effort to create the appearance of growth.",0.3295486271381378,0.1560385376214981,0.5144128203392029,neutral,0.1735100895166397
+58,2018-04-27 02:23:00,"Also, Splunk has provided through its own commentary some reasons to think that operating margins are at risk.",0.10994783043861389,0.4160028398036957,0.47404932975769043,neutral,-0.3060550093650818
+59,2018-04-27 02:23:00,"As we will discuss further in the article, Dave Conte has stated that he expects subscription license durations to ease down.",0.9106404185295105,0.03168616071343422,0.0576733760535717,positive,0.8789542317390442
+60,2018-04-27 02:23:00,"If that is so, an investor should wonder if that fact is in conflict with the increased guide for FY '20.",0.07185692340135574,0.3812005817890167,0.5469424724578857,neutral,-0.3093436658382416
+61,2018-04-27 02:23:00,"After all, the company has indicated they intend to reinvest the main expense benefit that they receive under 606 (i.e.",0.2043643742799759,0.010498388670384884,0.7851372361183167,neutral,0.19386598467826843
+62,2018-04-27 02:23:00,commission expense).,0.022012272849678993,0.06546729803085327,0.9125204682350159,neutral,-0.04345502704381943
+63,2018-04-27 02:23:00,"So, if you are reinvesting your main accounting benefit, and subscription contracts - which will dominate your license mix (we'll discuss this in detail in a moment) - are expected to be shorter in duration and therefore lower in value, where is the increased operating margin guide coming from for FY' 20?",0.037048812955617905,0.3517267405986786,0.6112244129180908,neutral,-0.3146779239177704
+64,2018-04-27 02:23:00,"I also would remind investors of Splunk's GAAP operating margin performance from FY' 2012 through FY' 2018:
+
+GAAP margin has been trending in the right direction over the last few years, but given the discussion on non-GAAP operating margin above, I'm concerned about a possible reversal.",0.7031614780426025,0.18094931542873383,0.11588915437459946,positive,0.5222121477127075
+65,2018-04-27 02:23:00,I reminded readers at the outset of this section that Splunk backs out its rather large stock-based compensation expense to generate non-GAAP results.,0.09148399531841278,0.284605473279953,0.6239105463027954,neutral,-0.19312147796154022
+66,2018-04-27 02:23:00,"In fairness, the company indicated during the Analyst Day that this expense is normalizing:
+
+While this may be so, it is the approach of backing out the expense, and not necessarily the expense itself that is concerning.",0.0845322236418724,0.014245107769966125,0.9012227058410645,neutral,0.07028711587190628
+67,2018-04-27 02:23:00,"Given the approach to calculating non-GAAP results and given how the non-GAAP operating margin figures were presented/discussed during the Analyst Day, I personally am led to believe that there may be substantial risk around future operating margin performance (both GAAP and non-GAAP).",0.09077674150466919,0.031112922355532646,0.8781102895736694,neutral,0.059663817286491394
+68,2018-04-27 02:23:00,"During the earnings call, Splunk noted that its ""largest tailwind is term license bookings.""",0.07428286969661713,0.08622738718986511,0.839489758014679,neutral,-0.011944517493247986
+69,2018-04-27 02:23:00,"By ""term license"", the company is referring to on-premise software licenses with a fixed duration (e.g.",0.009747589938342571,0.015823787078261375,0.974428653717041,neutral,-0.006076197139918804
+70,2018-04-27 02:23:00,"one year, two years, etc.",0.02361784130334854,0.011283490806818008,0.9650986790657043,neutral,0.012334350496530533
+71,2018-04-27 02:23:00,"), which of course is in contrast to a perpetual license that a customer owns forever.",0.028927430510520935,0.013766291551291943,0.9573063254356384,neutral,0.015161138959228992
+72,2018-04-27 02:23:00,"To be clear, Splunk also sells cloud-based licenses which also have a fixed duration but are (obviously) used in the cloud, and not on premise.",0.008808821439743042,0.019867878407239914,0.9713232517242432,neutral,-0.011059056967496872
+73,2018-04-27 02:23:00,"NOTE: Splunk often uses the word ""duration"" to reference its non-perpetual license types (term + cloud).",0.0091305086389184,0.012976773083209991,0.9778926968574524,neutral,-0.0038462644442915916
+74,2018-04-27 02:23:00,"I will use ""subscription"" in this section and throughout the article as an equivalent term.",0.015852991491556168,0.009106711484491825,0.9750403165817261,neutral,0.0067462800070643425
+75,2018-04-27 02:23:00,"Splunk is moving from a dominant perpetual license model to a dominant subscription license model, with term and cloud licenses expected to comprise 75% of bookings by FY 2020.",0.42419004440307617,0.008322329260408878,0.5674875974655151,neutral,0.41586771607398987
+76,2018-04-27 02:23:00,"This is not surprising, as the enterprise software industry in general is moving in the direction of subscription-licenses over perpetual licenses.",0.18391577899456024,0.009278564713895321,0.8068056106567383,neutral,0.17463721334934235
+77,2018-04-27 02:23:00,"However, let me inject a bit of personal anecdote here which is relevant to the discussion: No software company ""wants"" to move to subscription-based licensing over perpetual licenses if the latter was how they were previously selling.",0.04795967414975166,0.011057267896831036,0.9409830570220947,neutral,0.03690240532159805
+78,2018-04-27 02:23:00,They are doing it because they don't have a choice.,0.0652172788977623,0.29599443078041077,0.6387883424758911,neutral,-0.23077714443206787
+79,2018-04-27 02:23:00,"Analysts on the earnings call, as well as those participating during the Analyst Day, seemed to be generally pleased with Splunk's growing percentage of subscription-based licenses since none brought up any major objections/concerns.",0.8169088959693909,0.024983325973153114,0.1581077128648758,positive,0.7919255495071411
+80,2018-04-27 02:23:00,It's reasonable to assume that analysts believe Splunk will grow its subscription-license revenues at an increasing rate that exceeds the declining rate of perpetual licenses.,0.9431018233299255,0.013783200643956661,0.04311496019363403,positive,0.9293186068534851
+81,2018-04-27 02:23:00,"On the surface, revenue and sales data seem to support that belief.",0.29596060514450073,0.033608995378017426,0.6704303622245789,neutral,0.2623516023159027
+82,2018-04-27 02:23:00,"First, Splunk's top line has continued to grow at an impressive rate, and software license growth specifically has grown at a 44% CAGR since FY 2012.",0.9412251710891724,0.013557610101997852,0.04521726444363594,positive,0.9276675581932068
+83,2018-04-27 02:23:00,These trends have occurred as the license mix has been shifting.,0.09988521039485931,0.012429002672433853,0.8876858353614807,neutral,0.08745621144771576
+84,2018-04-27 02:23:00,"However, a deeper analysis exposes potential issues that analysts/investors may be overlooking and avoiding.",0.053915586322546005,0.04038018733263016,0.9057042002677917,neutral,0.013535398989915848
+85,2018-04-27 02:23:00,"Stating the obvious, customers like subscription-based licenses since they allow costs to be spread out over time (i.e.",0.021887274459004402,0.008737238124012947,0.969375491142273,neutral,0.013150036334991455
+86,2018-04-27 02:23:00,versus a single up-front payment for a perpetual license).,0.02759755589067936,0.01018934790045023,0.9622130393981934,neutral,0.017408207058906555
+87,2018-04-27 02:23:00,"Customers also like subscription-licenses from the standpoint of limiting their ""lock-in"" with any given vendor.",0.059618476778268814,0.0093763442710042,0.9310051798820496,neutral,0.05024213343858719
+88,2018-04-27 02:23:00,"Arguably, customers are less likely to leave a technology for which they have a perpetual license, given the nature of the license itself, as well as the (likely) large, upfront cost that they paid to acquire the license.",0.0376531220972538,0.5361141562461853,0.4262327253818512,negative,-0.4984610378742218
+89,2018-04-27 02:23:00,"Since subscription licenses are temporary by definition, customers may be more inclined, at the end of their license terms, to consider their options.",0.05282043665647507,0.04762930050492287,0.899550199508667,neutral,0.0051911361515522
+90,2018-04-27 02:23:00,"As I see it, herein lies the challenge for Splunk (and many other software companies) given the shift to more subscription-based licenses.",0.2570800483226776,0.024043560028076172,0.7188764214515686,neutral,0.23303648829460144
+91,2018-04-27 02:23:00,"The company's re-subscription rate ""may"" fall over time as competitors and new market entrants give customers pause before committing to another subscription period.",0.02329717017710209,0.9026055932044983,0.0740971788764,negative,-0.8793084025382996
+92,2018-04-27 02:23:00,"In its FY 2017 Annual Report on page 19, Splunk states:
+
+As mentioned above, customer preferences have shifted toward subscription-based licensing precisely because they do not want to be locked into technologies over multiple years.",0.11824524402618408,0.1095019057393074,0.7722529172897339,neutral,0.008743338286876678
+93,2018-04-27 02:23:00,"Perhaps executive management indirectly makes this point on the FY '18 Q4 earnings call where David Conte stated:
+
+He goes on to say:
+
+As best I can tell, Splunk does not provide data on their retention rates for subscription licenses.",0.014408892951905727,0.1686537116765976,0.8169373869895935,neutral,-0.1542448252439499
+94,2018-04-27 02:23:00,"But, the ""law of competition"" dictates that retention rates ""should"" decline over time.",0.02572709321975708,0.9128367304801941,0.061436209827661514,negative,-0.887109637260437
+95,2018-04-27 02:23:00,"Of course, by how much and how fast is difficult to answer.",0.03870723769068718,0.1269601732492447,0.8343325257301331,neutral,-0.08825293183326721
+96,2018-04-27 02:23:00,"From a top-line perspective, Splunk's growth in subscription revenue must obviously be greater than any declines due to subscriber loss.",0.8939043879508972,0.013420142233371735,0.09267538785934448,positive,0.8804842233657837
+97,2018-04-27 02:23:00,"Moreover, Splunk may come under pressure to renew customer subscriptions at an increasing frequency if subscription periods continue to ""ease down.""",0.3090614676475525,0.47066226601600647,0.22027629613876343,negative,-0.16160079836845398
+98,2018-04-27 02:23:00,"You might argue that the subscription period will eventually reach a ""bottom"" because Splunk simply will not write subscription contracts for less than a given duration (e.g.",0.01913168653845787,0.471780389547348,0.5090879201889038,neutral,-0.45264869928359985
+99,2018-04-27 02:23:00,one year).,0.022565718740224838,0.01880267634987831,0.9586315751075745,neutral,0.003763042390346527
+100,2018-04-27 02:23:00,I agree with that argument.,0.1916050761938095,0.03222997859120369,0.7761648893356323,neutral,0.15937510132789612
+101,2018-04-27 02:23:00,"However, let us again think about the possible effect of competitive pressures.",0.011966298334300518,0.019897930324077606,0.9681357741355896,neutral,-0.007931631989777088
+102,2018-04-27 02:23:00,If competitors opt to move into shorter-duration subscription contracts (e.g.,0.02970813401043415,0.011273911222815514,0.9590179920196533,neutral,0.018434222787618637
+103,2018-04-27 02:23:00,"month-to-month), Splunk may have no choice but to follow suit.",0.09742984175682068,0.014611735008656979,0.8879584074020386,neutral,0.08281810581684113
+104,2018-04-27 02:23:00,"Granted, what I have written above is speculative.",0.01618502475321293,0.011428031139075756,0.9723869562149048,neutral,0.004756993614137173
+105,2018-04-27 02:23:00,"But I'd argue that it is ""reasonably probable.""",0.06890315562486649,0.020662663504481316,0.9104342460632324,neutral,0.04824049025774002
+106,2018-04-27 02:23:00,I believe analysts and investors are assuming (incorrectly) that subscription-based revenue will continue to grow without any significant subscriber loss.,0.9222285151481628,0.013911428861320019,0.0638599768280983,positive,0.9083170890808105
+107,2018-04-27 02:23:00,"This is a risky assumption, to say the least, in the face of a highly volatile and competitive market.",0.06554272770881653,0.2434026002883911,0.6910547018051147,neutral,-0.17785987257957458
+108,2018-04-27 02:23:00,"To close this section, I note that not one analyst on the earnings call, or during the Analyst Day Q&A period, asked about subscription retention rates (historical or forecasted).",0.014828196726739407,0.08571982383728027,0.8994520306587219,neutral,-0.07089162617921829
+109,2018-04-27 02:23:00,Let's also think about the move to a subscription-dominant licensing model from a structural perspective.,0.08225180953741074,0.00526242284104228,0.9124858379364014,neutral,0.07698938995599747
+110,2018-04-27 02:23:00,"Splunk presently has a ""heavy"" direct sales force, with sales/marketing costs accounting for nearly 64% of total revenues in FY '18.",0.1048676073551178,0.02013758011162281,0.8749948740005493,neutral,0.08473002910614014
+111,2018-04-27 02:23:00,It may prove difficult to support that kind of sales model on a preponderance of short-duration contracts because of the potential variability in revenue.,0.039459433406591415,0.2380317896604538,0.7225087881088257,neutral,-0.19857235252857208
+112,2018-04-27 02:23:00,"If the revenue mix is going to favor shorter-duration subscription-based contracts moving forward, then Splunk will likely incur pressure on its current sales model.",0.04455181211233139,0.7601721882820129,0.1952759474515915,negative,-0.7156203985214233
+113,2018-04-27 02:23:00,"It would seem Doug Merritt, Splunk CEO and President, hinted at this point on the earnings call, again - without stating it directly, saying:
+
+As we see above, sales and marketing has been Splunk's largest operating expense.",0.026286721229553223,0.7465575933456421,0.2271556407213211,negative,-0.7202708721160889
+114,2018-04-27 02:23:00,Does Splunk need a direct sales model to survive?,0.1107742115855217,0.008927279151976109,0.8802984952926636,neutral,0.10184693336486816
+115,2018-04-27 02:23:00,"Presumably yes, unless they've enjoyed setting a match to piles of money over the last several years.",0.13525353372097015,0.08537468314170837,0.7793717980384827,neutral,0.04987885057926178
+116,2018-04-27 02:23:00,"Moreover, as will be discussed later in the article, Splunk intends to sharpen its focus on markets outside its core IT Operations (ITOM) and Security markets via sales coverage.",0.8400819301605225,0.012826686725020409,0.14709146320819855,positive,0.8272552490234375
+117,2018-04-27 02:23:00,"It seems reasonable, therefore, to assume that sales and marketing expenses will continue to be the largest operating expense moving forward.",0.02568790316581726,0.11497964709997177,0.8593324422836304,neutral,-0.08929174393415451
+118,2018-04-27 02:23:00,It should be pointed out that historically Splunk's ability to support such an expensive sales force has rested on a licensing mix that was dominated by perpetual licenses.,0.11844541132450104,0.009705955162644386,0.8718485832214355,neutral,0.1087394580245018
+119,2018-04-27 02:23:00,"So, the company's ability to maintain its current sales structure on a preponderance of subscription licenses is unclear and ""untested.""",0.06803619861602783,0.20405331254005432,0.7279105186462402,neutral,-0.1360171139240265
+120,2018-04-27 02:23:00,That's not to say that it cannot be done.,0.04797030985355377,0.1490427702665329,0.8029869794845581,neutral,-0.10107246041297913
+121,2018-04-27 02:23:00,"But, it is a significant risk.",0.03835782781243324,0.023697299882769585,0.9379448294639587,neutral,0.014660527929663658
+122,2018-04-27 02:23:00,"Let's revisit the slide that Splunk presented on Average Selling Price:
+
+It's an impressive chart, especially as average selling price has more than doubled since FY '12.",0.8024280071258545,0.016430756077170372,0.18114124238491058,positive,0.7859972715377808
+123,2018-04-27 02:23:00,"As the company implies in this slide (and states explicitly elsewhere), increased customer adoption over time is driving the growth in ASP.",0.8882424831390381,0.01247037760913372,0.09928716719150543,positive,0.8757721185684204
+124,2018-04-27 02:23:00,"Perhaps even more impressive is the chart displaying the number of deals over $1 million:
+
+Naturally, an abundance of large deal sizes helps to increase the overall ASP.",0.8244474530220032,0.015391280874609947,0.16016116738319397,positive,0.8090561628341675
+125,2018-04-27 02:23:00,"Evidently, Splunk believes the trend in ASP growth will continue in spite of the change in licensing mix.",0.914766788482666,0.01280017476528883,0.07243313640356064,positive,0.9019666314125061
+126,2018-04-27 02:23:00,"ASP is extremely important, as it is a key input into maintaining/growing operating margin.",0.6461923122406006,0.010900123044848442,0.342907577753067,positive,0.6352921724319458
+127,2018-04-27 02:23:00,Will Splunk's trend in ASP continue?,0.12584830820560455,0.009686463512480259,0.8644652366638184,neutral,0.11616184562444687
+128,2018-04-27 02:23:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+129,2018-04-27 02:23:00,The first problem lies with the ability for the company to continue driving enterprise adoption agreements (EAAs).,0.06904028356075287,0.38903510570526123,0.5419245958328247,neutral,-0.31999480724334717
+130,2018-04-27 02:23:00,"The company defines EAAs as follows in its FY '17 Annual Report:
+
+Per the last slide, Splunk has done a good job demonstrating growth in these types of contracts.",0.9274636507034302,0.01272259559482336,0.059813715517520905,positive,0.914741039276123
+131,2018-04-27 02:23:00,And the company might well continue this trend.,0.6703774929046631,0.010829289443790913,0.3187932074069977,positive,0.6595482230186462
+132,2018-04-27 02:23:00,"However, there are a couple potential issues with EAAs:
+• EAA contract volume can ""swing"" from one extreme to another year over year.",0.11894077807664871,0.27132460474967957,0.6097345948219299,neutral,-0.15238383412361145
+133,2018-04-27 02:23:00,"Often, companies can have blowout years with large numbers of enterprise agreements, and less-than-stellar years in between the blowout periods.",0.02539529651403427,0.8014476299285889,0.17315703630447388,negative,-0.7760523557662964
+134,2018-04-27 02:23:00,"This typically has to do with the multi-year nature of EAAs, as well as the fact that this type of agreement is usually suitable for only a subset of a company's customers.",0.045362647622823715,0.0065795355476439,0.9480578303337097,neutral,0.03878311067819595
+135,2018-04-27 02:23:00,"With regard to the multi-year aspect of EAAs, a customer who enters into a three-year EAA is, more than likely, not going to do another deal until that three-year period is expired.",0.02604600600898266,0.1559390127658844,0.8180149793624878,neutral,-0.1298930048942566
+136,2018-04-27 02:23:00,"With regard to the ""limited"" suitability of this kind of agreement, it is possible for a company to ""exhaust"" its EAA customer pool by simply selling such agreements to all available (typically large) customers.",0.029219361022114754,0.020555103197693825,0.9502255320549011,neutral,0.008664257824420929
+137,2018-04-27 02:23:00,• Recurrence is not guaranteed.,0.04142189398407936,0.06623020023107529,0.8923478722572327,neutral,-0.024808306246995926
+138,2018-04-27 02:23:00,Let's say that a customer's EAA lasts for three years.,0.013460738584399223,0.009365457110106945,0.9771738052368164,neutral,0.004095281474292278
+139,2018-04-27 02:23:00,"By the time the EAA is ready for renewal, the customer may have other, perhaps less costly, options to consider vs. renewing the EAA or entering into another kind of license agreement.",0.1848955899477005,0.013025892898440361,0.8020785450935364,neutral,0.171869695186615
+140,2018-04-27 02:23:00,"Of course, the idea of the EAA is to get the customer to deploy as much of the Splunk software as possible during the EAA period.",0.23648567497730255,0.006306360010057688,0.757207989692688,neutral,0.2301793098449707
+141,2018-04-27 02:23:00,"Even so, it is still possible for a customer to identify a competing technology during the EAA term and determine that it may be better for them to switch to that technology (for whatever reason).",0.13873283565044403,0.02202126383781433,0.8392459154129028,neutral,0.1167115718126297
+142,2018-04-27 02:23:00,A decline in EAA revenue volume will drag on ASP.,0.020852437242865562,0.9583645462989807,0.020783040672540665,negative,-0.9375120997428894
+143,2018-04-27 02:23:00,"In fact, Dave Conte acknowledged that ""bubbles"" are possible with EAAs in his presentation during the Analyst Day.",0.07562029361724854,0.03204498812556267,0.8923346400260925,neutral,0.04357530549168587
+144,2018-04-27 02:23:00,But he also indicated that he personally believed Splunk's EAA growth will continue.,0.867915689945221,0.012449420057237148,0.11963488161563873,positive,0.8554662466049194
+145,2018-04-27 02:23:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+146,2018-04-27 02:23:00,The second problem lies in the average value of subscription licenses.,0.02407653070986271,0.7075420022010803,0.2683815062046051,negative,-0.6834654808044434
+147,2018-04-27 02:23:00,"Average subscription license value will be less than the average perpetual license value, and Splunk noted during the Analyst Day that their financial models are built on the assumption that subscription licenses will be roughly two-thirds the size of a perpetual license.",0.016219254583120346,0.12212970852851868,0.8616510629653931,neutral,-0.10591045022010803
+148,2018-04-27 02:23:00,(I do leave open the possibility that there could be some unusually large subscription license sales.),0.06465961039066315,0.1096036434173584,0.8257367014884949,neutral,-0.04494403302669525
+149,2018-04-27 02:23:00,"If perpetual licenses become the smallest piece of the ""license pie,"" then, under one scenario, the average perpetual license deal size will have to increase to compensate to maintain ASP.",0.3999714255332947,0.03206351399421692,0.567965030670166,neutral,0.36790791153907776
+150,2018-04-27 02:23:00,"Simply, the dynamics of the new licensing mix may make it more challenging for Splunk to maintain, much less grow its ASP.",0.0904201790690422,0.2870059907436371,0.6225737929344177,neutral,-0.19658580422401428
+151,2018-04-27 02:23:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+152,2018-04-27 02:23:00,Competitive pressures are likely to drive down the average value of all license types (subscription and perpetual).,0.018780730664730072,0.9258202314376831,0.0553990975022316,negative,-0.9070395231246948
+153,2018-04-27 02:23:00,"Consider the following statement from Splunk's FY '17 Annual Report:
+
+These pricing and licensing moves suggest a reaction to competitive pressures, unless, of course, Splunk was feeling particularly generous in 2015.",0.11779829114675522,0.07662905752658844,0.8055726289749146,neutral,0.04116923362016678
+154,2018-04-27 02:23:00,These pressures will only get worse.,0.055934179574251175,0.2806016504764557,0.6634641885757446,neutral,-0.2246674746274948
+155,2018-04-27 02:23:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+156,2018-04-27 02:23:00,"Splunk had an unusually large number of ""mega-orders,"" larger than $10MM in FY '18:
+
+These ""mega-orders"" were not backed out when calculating ASP.",0.033539313822984695,0.017894476652145386,0.948566198348999,neutral,0.01564483717083931
+157,2018-04-27 02:23:00,"Arguably, the ASP for FY '18 is artificially high due to the influence of these very large orders, which obviously show great variation in terms of their number year over year in the slide above.",0.07609135657548904,0.0311152171343565,0.8927933573722839,neutral,0.044976137578487396
+158,2018-04-27 02:23:00,"As with EAAs, there's a certain subset of Splunk's overall customer base that can ""absorb"" such a large transaction.",0.2771548926830292,0.00782158225774765,0.7150235176086426,neutral,0.2693333029747009
+159,2018-04-27 02:23:00,"I have no idea how large that subset is, so perhaps Splunk has many more opportunities to sell such large deals.",0.40952742099761963,0.008903631940484047,0.5815689563751221,neutral,0.40062379837036133
+160,2018-04-27 02:23:00,An analyst (Jesse) inquired about the unusual number of large orders in FY '18 and asked why it happened and if investors should expect that kind of large order performance moving forward.,0.37780097126960754,0.06756430864334106,0.5546347498893738,neutral,0.3102366626262665
+161,2018-04-27 02:23:00,"Dave Conte replied that he could not say it was a ""new normal"" and offered no explanation as far as why so many large orders were processed in FY '18.",0.043284714221954346,0.3904426395893097,0.5662726759910583,neutral,-0.34715792536735535
+162,2018-04-27 02:23:00,"Accordingly, investors should be prepared for volatility in terms of the number of these transactions executed year over year.",0.11164847016334534,0.008297196589410305,0.8800542950630188,neutral,0.10335127264261246
+163,2018-04-27 02:23:00,"4.4 Summing Up the Risks Around Licensing Mix
+
+If we aggregate the main points of sections 4.1, 4.2, and 4.3, Splunk's top-line, operating margin, and actual operating structure (among other things) are at risk as the company shifts toward a subscription-dominant license model.",0.07262266427278519,0.05503810942173004,0.8723392486572266,neutral,0.017584554851055145
+164,2018-04-27 02:23:00,"Certainly, and contrary to everything I have presented in this section, the company could:
+• Drive high average subscription license values which more than compensate for any loss in perpetual revenue.",0.14176422357559204,0.018705401569604874,0.8395304083824158,neutral,0.12305882573127747
+165,2018-04-27 02:23:00,• Drive high volumes of subscription licenses which more than compensate for any loss in perpetual revenue.,0.46062251925468445,0.011254801414906979,0.52812260389328,neutral,0.4493677318096161
+166,2018-04-27 02:23:00,• Outperform in terms of perpetual license revenue despite the shift to subscription-based licenses.,0.7955775856971741,0.16644243896007538,0.037980008870363235,positive,0.6291351318359375
+167,2018-04-27 02:23:00,• Continue the growth trend in large and EAA deals.,0.9243670701980591,0.013004368171095848,0.0626286044716835,positive,0.9113627076148987
+168,2018-04-27 02:23:00,My main issue is that the licensing model risks carry a weight that's not reflected in analyst questions/discussions with Splunk.,0.015240843407809734,0.11880991607904434,0.865949273109436,neutral,-0.10356907546520233
+169,2018-04-27 02:23:00,"Yes, some analysts participating in the Analyst Day hinted at some licensing mix concerns, as discussed above.",0.08438563346862793,0.23907917737960815,0.6765351891517639,neutral,-0.15469354391098022
+170,2018-04-27 02:23:00,"But none truly challenged the company, which I think was a disservice to investors.",0.03815750405192375,0.849746584892273,0.11209586262702942,negative,-0.8115890622138977
+171,2018-04-27 02:23:00,Splunk repeatedly called attention to its total addressable market opportunity during the Analyst Day.,0.4537723958492279,0.0183407012373209,0.5278869271278381,neutral,0.43543168902397156
+172,2018-04-27 02:23:00,"Here is the slide presented:
+
+Almost every data-centric company has a slide like this.",0.03216155245900154,0.15493950247764587,0.8128989338874817,neutral,-0.12277795374393463
+173,2018-04-27 02:23:00,"The narrative is always the same:
+
+The rate of data growth is so high that our addressable market opportunity is expanding like crazy!",0.4161297380924225,0.013820281252264977,0.5700500011444092,neutral,0.40230944752693176
+174,2018-04-27 02:23:00,"This kind of thinking is misleading, and investors should be wise to it.",0.07951325178146362,0.09389258921146393,0.8265941143035889,neutral,-0.014379337430000305
+175,2018-04-27 02:23:00,"As any market expands, competition will intensify - barring a monopolistic opportunity, which Splunk does not have in any market.",0.10690568387508392,0.012527616694569588,0.8805667161941528,neutral,0.09437806904315948
+176,2018-04-27 02:23:00,"So, while the overall market size grows, the ""slice of the pie"" that any particular market participant can attack may actually be getting smaller.",0.05594727024435997,0.091062530875206,0.8529902696609497,neutral,-0.035115260630846024
+177,2018-04-27 02:23:00,"So, the slide above is really meaningless from an investor's standpoint without the context of a detailed competitive analysis.",0.016686784103512764,0.06989755481481552,0.9134156107902527,neutral,-0.053210772573947906
+178,2018-04-27 02:23:00,"It is notable - not in a good way - that Splunk did not offer any substantial discussion on competition during the Analyst Day, nor did any of the analysts challenge the company in regard to competitive pressures.",0.028174936771392822,0.22182928025722504,0.7499958276748657,neutral,-0.19365434348583221
+179,2018-04-27 02:23:00,Splunk calculates its current TAM by summing the estimated market size of the five main solution areas that the company is targeting.,0.022966187447309494,0.005822484847158194,0.9712113738059998,neutral,0.017143702134490013
+180,2018-04-27 02:23:00,Splunk also mentioned the size of these markets in the prior fiscal year (FY '17) to emphasize not just the sheer size of their TAM but the strong growth rate as well.,0.21927312016487122,0.009004431776702404,0.7717224955558777,neutral,0.21026869118213654
+181,2018-04-27 02:23:00,"The data presented from the Analyst Day is as follows:
+
+Within its two largest markets, IT Operations (ITOM) and Security, the company noted during the Analyst Day that it has only achieved 2% and 6% penetration, respectively.",0.02291692979633808,0.8785830140113831,0.098500095307827,negative,-0.8556661009788513
+182,2018-04-27 02:23:00,"(Assuming they mean that in terms of sales volume, then Splunk generated roughly $460 MM for IT Operations use cases and roughly $660 MM for Security.)",0.022788984701037407,0.01715957187116146,0.9600514769554138,neutral,0.005629412829875946
+183,2018-04-27 02:23:00,"All of this, according to Splunk, means the company has a massive opportunity in front of it.",0.6199798583984375,0.011217935010790825,0.36880218982696533,positive,0.6087619066238403
+184,2018-04-27 02:23:00,"But I'm confused by Splunk's strategy which is to ""play"" in all five markets of the table.",0.025508243590593338,0.013961792923510075,0.9605299830436707,neutral,0.011546450667083263
+185,2018-04-27 02:23:00,I come back to my comment about intensifying competition.,0.08929616957902908,0.03912356123328209,0.8715802431106567,neutral,0.050172608345746994
+186,2018-04-27 02:23:00,Let's look at Splunk's two largest markets of IT Operations (ITOM) and Security where - in their words - they have only just started to penetrate and capture market share.,0.5795674920082092,0.014404322020709515,0.4060281217098236,positive,0.5651631951332092
+187,2018-04-27 02:23:00,Splunk is hardly alone in either of these markets.,0.03630150109529495,0.012553638778626919,0.9511448740959167,neutral,0.02374786138534546
+188,2018-04-27 02:23:00,"While they are deservedly a leader in both areas, consider some of the other ""heavyweight"" players in both markets:
+
+As an investor, would you not expect that all of the companies above are going to continue to aggressively compete in these markets as they grow?",0.5140075087547302,0.011552375741302967,0.4744401276111603,positive,0.5024551153182983
+189,2018-04-27 02:23:00,Why would any of these companies willingly cede any ground/market share to Splunk?,0.01731059141457081,0.014630033634603024,0.9680593609809875,neutral,0.002680557779967785
+190,2018-04-27 02:23:00,And these companies are just the heavyweights.,0.04851293936371803,0.008715420961380005,0.9427716732025146,neutral,0.03979751840233803
+191,2018-04-27 02:23:00,There are any number of startups/niche players that want a bigger piece of the pie.,0.132576122879982,0.007707982789725065,0.8597158789634705,neutral,0.12486813962459564
+192,2018-04-27 02:23:00,"For example, for the Security space (specifically, the SIEM space where Splunk is a leader), here's Gartner's magic quadrant:
+
+There are quite a few niche players who presumably want to move ""up and to the right.""",0.08051128685474396,0.011106373742222786,0.9083824157714844,neutral,0.06940491497516632
+193,2018-04-27 02:23:00,"If Splunk has only penetrated the ITOM market at 2%, the Security market at 6%, has significant market size in both markets but also has significant competition in both markets, wouldn't it make sense to double down and focus on these markets?",0.17620447278022766,0.007816953584551811,0.8159785866737366,neutral,0.1683875173330307
+194,2018-04-27 02:23:00,"Moreover, both the ITOM and Security markets are changing from a technology perspective.",0.1966717392206192,0.00835269596427679,0.7949755191802979,neutral,0.18831904232501984
+195,2018-04-27 02:23:00,"As a (possibly oversimplified) example, security has moved from once-upon-a-time simple event capture/monitoring to complex activity analytics where software is tasked with interpreting the ""meaning"" of various system/network activity and data to detect threats.",0.09932073205709457,0.009076708927750587,0.8916025757789612,neutral,0.09024402499198914
+196,2018-04-27 02:23:00,"The latter is not easy to do and is why Splunk has made certain investments in the Security space over the last few years, including the recently announced acquisition of Phantom (an InQTel backed company).",0.26114165782928467,0.007545647211372852,0.73131263256073,neutral,0.2535960078239441
+197,2018-04-27 02:23:00,"I don't understand why Splunk would try to attack five markets, when:
+• The company has good momentum and is a leader in two of those markets.",0.7965540885925293,0.015434790402650833,0.18801109492778778,positive,0.7811192870140076
+198,2018-04-27 02:23:00,• The company claims that there is a lot of open ground in both those markets left to capture.,0.42558717727661133,0.011792432516813278,0.5626204013824463,neutral,0.41379475593566895
+199,2018-04-27 02:23:00,"• The company has finite resources, is undoubtedly going to face intensifying competition in its core markets, and will likely need to allocate a majority of its resources to keep pace with competitors in those markets.",0.8342819809913635,0.03953477740287781,0.12618321180343628,positive,0.7947472333908081
+200,2018-04-27 02:23:00,"One analyst (Michael) offered one question along this line of thinking during the Q&A section of the Analyst Data, asking ""why now"" in terms of emphasizing a focus on business analytics and IoT markets.",0.042207490652799606,0.016304517164826393,0.9414879679679871,neutral,0.025902973487973213
+201,2018-04-27 02:23:00,"Doug Merritt broadly responded that the company ""really hadn't put anyone on business analytics and IoT"" and that Splunk needs to ""put (its) money where (its) mouth is, and find repetitive patterns in those expansion areas.""",0.13877424597740173,0.027005556970834732,0.8342201709747314,neutral,0.1117686927318573
+202,2018-04-27 02:23:00,"In terms of business analytics, Splunk has had this market on its radar since its first year as a public company.",0.1810610294342041,0.006096402648836374,0.8128425478935242,neutral,0.17496462166309357
+203,2018-04-27 02:23:00,"The following is from the company's FY '13 Annual Report:
+
+So, here we are several years later, and the company is suggesting that business analytics hasn't been a focus, nor have they established a repeatable sales pattern for this market.",0.040202803909778595,0.030597399920225143,0.9291998147964478,neutral,0.009605403989553452
+204,2018-04-27 02:23:00,"If that's true, what makes Splunk think they can even be competitive in the business analytics market now?",0.2142379730939865,0.014164424501359463,0.7715976238250732,neutral,0.20007355511188507
+205,2018-04-27 02:23:00,"Business analytics is hardly a nascent market, and has become terribly saturated.",0.025256026536226273,0.8401479721069336,0.13459603488445282,negative,-0.8148919343948364
+206,2018-04-27 02:23:00,"Some of the major players include:
+
+The list above doesn't even consider players like Salesforce.com ( CRM ), which introduced its Wave Analytics offering not too long ago, and Amazon Web Services ( AMZN ), which contracted with Zoomdata (another InQTel backed company) to develop its QuickSight offering.",0.07297738641500473,0.00700699957087636,0.9200155735015869,neutral,0.06597038358449936
+207,2018-04-27 02:23:00,"Perhaps this saturation is reflected in Splunk's own data, as the TAM table shows flat growth in the business analytics market.",0.024463804438710213,0.9095187783241272,0.06601743400096893,negative,-0.8850549459457397
+208,2018-04-27 02:23:00,"So, why is Splunk targeting a market where:
+• They are late to the party.",0.018914448097348213,0.15063312649726868,0.8304524421691895,neutral,-0.1317186802625656
+209,2018-04-27 02:23:00,• It is essentially dominated by a handful of super-heavyweight players.,0.021729355677962303,0.01407166849821806,0.9641989469528198,neutral,0.007657687179744244
+210,2018-04-27 02:23:00,• It does not offer the same growth opportunity as core markets.,0.09658680111169815,0.23227983713150024,0.6711333394050598,neutral,-0.1356930434703827
+211,2018-04-27 02:23:00,• They have not yet found a repeatable sales pattern after several years.,0.519791305065155,0.05184241756796837,0.4283663034439087,positive,0.46794888377189636
+212,2018-04-27 02:23:00,It doesn't seem to make a lot of sense.,0.043277863413095474,0.3331398367881775,0.6235823631286621,neutral,-0.2898619771003723
+213,2018-04-27 02:23:00,"In regard to the IoT market, it is so nebulous right now that it is hard to know what it is, and what it isn't.",0.03518828749656677,0.5286359190940857,0.4361758232116699,negative,-0.4934476315975189
+214,2018-04-27 02:23:00,"Last year, I had written a Seeking Alpha article about General Electric ( GE ) where I pointed out the huge variations in IoT market size estimates.",0.02591479755938053,0.024325160309672356,0.9497600197792053,neutral,0.0015896372497081757
+215,2018-04-27 02:23:00,"I should note that GE, in fact, has a partnership with Splunk for its own IoT initiative.",0.5349753499031067,0.008980965241789818,0.45604366064071655,positive,0.5259943604469299
+216,2018-04-27 02:23:00,"There's little doubt that, as the sheer number of connected machines and devices grows, then the data volume they throw off will grow.",0.40276575088500977,0.011517261154949665,0.585716962814331,neutral,0.391248494386673
+217,2018-04-27 02:23:00,"But, to reiterate, it is somewhat difficult to quantify the opportunity here.",0.0245173629373312,0.05190848186612129,0.9235741496086121,neutral,-0.027391118928790092
+218,2018-04-27 02:23:00,"For example, edge computing is another buzzy buzzword these days, where machine/device data is not ""sent"" to a central store like Splunk for analysis but is rather analyzed/interpreted ""near"" the machine/device, or on the machine/device itself.",0.030278177931904793,0.033052701503038406,0.936669111251831,neutral,-0.0027745235711336136
+219,2018-04-27 02:23:00,"So, just because the volume of data is growing does not necessarily mean that all that data is going to be transmitted, stored, and analyzed in aggregate.",0.06003852188587189,0.006182487588375807,0.9337789416313171,neutral,0.05385603383183479
+220,2018-04-27 02:23:00,The broader point in my article on GE - which I think is also relevant here - was that the company (GE in that case) was throwing around (what I perceived as) ridiculous numbers in regard to their IoT market opportunity.,0.028307441622018814,0.8617057204246521,0.10998678207397461,negative,-0.8333982825279236
+221,2018-04-27 02:23:00,The application development market offers similar characteristics to the business analytics market in that it has achieved a certain level of maturity and features several heavyweight players.,0.32144641876220703,0.007641610689461231,0.670911967754364,neutral,0.3138048052787781
+222,2018-04-27 02:23:00,"With a combined $34 billion market opportunity in its core markets (using Splunk's own numbers), I'm at a loss why the company would even consider stretching its resources.",0.253200501203537,0.0399046428501606,0.7068948149681091,neutral,0.2132958620786667
+223,2018-04-27 02:23:00,"Think about this from the standpoint of research and development (R&D):
+
+The trend in Splunk's R&D spend relative to revenue is clear.",0.10409744828939438,0.019673898816108704,0.8762286305427551,neutral,0.08442354947328568
+224,2018-04-27 02:23:00,"Investors should ask themselves: How can the company effectively spread these limited R&D resources across five distinct markets, each of which demand specific R&D investment and are highly competitive?",0.14832009375095367,0.010875479318201542,0.840804398059845,neutral,0.1374446153640747
+225,2018-04-27 02:23:00,"As per Doug Merritt, the company intends to put resources on expansion markets.",0.6726126670837402,0.010700658895075321,0.3166866898536682,positive,0.6619120240211487
+226,2018-04-27 02:23:00,"Since the company clearly believes in a direct-sales-oriented approach for attacking markets, will Splunk hire more salespeople to focus on business analytics, application development, and IoT?",0.4923621416091919,0.011277049779891968,0.49636080861091614,neutral,0.4810850918292999
+227,2018-04-27 02:23:00,Where will the money come from for that?,0.053020402789115906,0.021019289270043373,0.92596036195755,neutral,0.03200111538171768
+228,2018-04-27 02:23:00,How will the company maintain its operating margin guidance if it expands sales?,0.4418196678161621,0.01560884714126587,0.542571485042572,neutral,0.42621082067489624
+229,2018-04-27 02:23:00,"I'm forced to ask: does Splunk have or foresee problems with its core markets (ITOM, Security), e.g.",0.02058248221874237,0.35447463393211365,0.6249428391456604,neutral,-0.33389216661453247
+230,2018-04-27 02:23:00,"saturation, intensifying competition, etc.?",0.031190749257802963,0.01597125083208084,0.9528379440307617,neutral,0.015219498425722122
+231,2018-04-27 02:23:00,"If so, that would be worrisome to say the least from an investor standpoint.",0.0371619313955307,0.8430995941162109,0.11973847448825836,negative,-0.805937647819519
+232,2018-04-27 02:23:00,Splunk touted its cloud business numerous times during the Analyst Day presentation and during the associated Q&A section.,0.030074777081608772,0.010829581879079342,0.9590955972671509,neutral,0.019245196133852005
+233,2018-04-27 02:23:00,"The company is relying on the cloud business to compensate for declining perpetual license revenue, and to also help it capture more customers.",0.7953093647956848,0.02368246205151081,0.18100818991661072,positive,0.771626889705658
+234,2018-04-27 02:23:00,Let's focus on the revenue aspect of this business first.,0.037207309156656265,0.005530618131160736,0.9572620391845703,neutral,0.03167669102549553
+235,2018-04-27 02:23:00,"Splunk estimates its cloud business will be generating $250 MM by FY '20:
+
+I have some doubts about this.",0.03618180379271507,0.29224681854248047,0.6715713739395142,neutral,-0.2560650110244751
+236,2018-04-27 02:23:00,"First of all, the company appears to be extrapolating a trend based on two major data points (i.e.",0.03169344365596771,0.019806787371635437,0.9484997987747192,neutral,0.011886656284332275
+237,2018-04-27 02:23:00,FY '17 and FY '18 performance).,0.010273483581840992,0.03833148628473282,0.9513950347900391,neutral,-0.0280580036342144
+238,2018-04-27 02:23:00,"So, their experience/history with significant revenues from their cloud business is limited, which - one would think - makes it difficult to forecast.",0.019780898466706276,0.43888500332832336,0.5413340926170349,neutral,-0.41910409927368164
+239,2018-04-27 02:23:00,"Further, think about one of the defining characteristics of cloud-based solutions:
+
+They tend to get cheaper over time .",0.11751105636358261,0.00706101069226861,0.8754279613494873,neutral,0.11045004427433014
+240,2018-04-27 02:23:00,"Did Amazon Web Services (AWS) become the 800,000 pound gorilla that it is by charging MORE for the various services it provides?",0.366519570350647,0.018359046429395676,0.6151214241981506,neutral,0.3481605350971222
+241,2018-04-27 02:23:00,"No, of course not.",0.07203315198421478,0.1765950620174408,0.7513717412948608,neutral,-0.10456191003322601
+242,2018-04-27 02:23:00,It captured share by dramatically under-cutting traditional IT solution providers.,0.05639024078845978,0.9255245327949524,0.018085211515426636,negative,-0.8691343069076538
+243,2018-04-27 02:23:00,"I remember signing up for AWS in the early days, when I'd receive - every couple weeks or so - an email detailing a continued price reduction of some particular AWS resource.",0.13066789507865906,0.5535491108894348,0.31578296422958374,negative,-0.42288121581077576
+244,2018-04-27 02:23:00,I seriously doubt Splunk will be able to maintain its pricing in the cloud.,0.46473994851112366,0.07396235316991806,0.46129775047302246,positive,0.390777587890625
+245,2018-04-27 02:23:00,"Investors should expect significant competition, because, after all, it is the ""easiest"" environment for competitors to enter due to such a low barrier to entry.",0.6520461440086365,0.014758175238966942,0.33319568634033203,positive,0.637287974357605
+246,2018-04-27 02:23:00,"Today, Splunk enjoys a strong relationship with AWS, but, let me pose another question to readers:
+
+Think about Splunk in terms of core capabilities: It is essentially a system for data collection, data storage/retrieval, data correlation, and data visualization.",0.13329890370368958,0.005804851185530424,0.8608962297439575,neutral,0.12749405205249786
+247,2018-04-27 02:23:00,"AWS has capabilities in all these areas, and more.",0.36479300260543823,0.007456404156982899,0.6277506351470947,neutral,0.3573366105556488
+248,2018-04-27 02:23:00,They have greater development resources than Splunk.,0.6601809859275818,0.015197688713669777,0.324621319770813,positive,0.6449832916259766
+249,2018-04-27 02:23:00,"So, again, why shouldn't they kill Splunk altogether?",0.10708194971084595,0.23015369474887848,0.6627643704414368,neutral,-0.12307174503803253
+250,2018-04-27 02:23:00,"Doug Merritt didn't exactly make this point on the Q4 earnings call, but he noted ""AWS' job is to continue to offer more and more services, both infrastructure and platform services, to the community.""",0.8016672134399414,0.012149148620665073,0.1861836314201355,positive,0.7895180583000183
+251,2018-04-27 02:23:00,"He goes on to correctly note ""and our job is to keep adding more value on top of those services so that people would still want to do business with Splunk in addition to, or with, AWS.",0.7321444153785706,0.013524703681468964,0.25433093309402466,positive,0.718619704246521
+252,2018-04-27 02:23:00,"And that's just - that's a game that we all know how to play in tech.""",0.10454752296209335,0.01976698823273182,0.875685453414917,neutral,0.08478053659200668
+253,2018-04-27 02:23:00,Mr. Merritt is 100% right in his comments.,0.24351245164871216,0.029872795566916466,0.7266147136688232,neutral,0.21363966166973114
+254,2018-04-27 02:23:00,"But, if I were an investor in Splunk, I would be deeply concerned that the company, which is telling me cloud is core to its future growth strategy, could be killed off by its biggest cloud partner.",0.022989381104707718,0.9254329204559326,0.051577627658843994,negative,-0.902443528175354
+255,2018-04-27 02:23:00,"Splunk's ""competitive moat"" around its cloud business does not look deep or wide.",0.030032817274332047,0.026924582198262215,0.9430425763130188,neutral,0.003108235076069832
+256,2018-04-27 02:23:00,"Naturally, if Splunk is forced to drop pricing in the cloud due to competitive pressures, then the company will have to sell more deals to make up the same amount of revenue.",0.042387012392282486,0.7285441756248474,0.2290688157081604,negative,-0.6861571669578552
+257,2018-04-27 02:23:00,"Splunk also is counting on the cloud business to help the company achieve its customer target of 20,000 by FY '20.",0.8965518474578857,0.012230003252625465,0.09121820330619812,positive,0.8843218684196472
+258,2018-04-27 02:23:00,"As we see below, the rate of growth in Splunk's customer count has decreased and flatlined somewhat:
+
+One analyst (Ramo - I'm not sure about the name spelling) commented about this during the Analyst Day Q&A stating that he was ""struggling"" with the fact that Splunk has been adding (more or less) 2,000 extra customers per year.",0.04057548940181732,0.879204511642456,0.0802200585603714,negative,-0.8386290073394775
+259,2018-04-27 02:23:00,"He specifically asked: ""What's the thing that's keeping that number where it is?",0.04541907086968422,0.11006864160299301,0.8445122838020325,neutral,-0.0646495670080185
+260,2018-04-27 02:23:00,Is it lead generation?,0.02543279156088829,0.014367375522851944,0.9601998329162598,neutral,0.011065416038036346
+261,2018-04-27 02:23:00,"What's the driver to bring that higher?""",0.3292904794216156,0.1537725329399109,0.5169369578361511,neutral,0.1755179464817047
+262,2018-04-27 02:23:00,"Splunk provided numerous answers to the question, but the answer relevant to this section came from Sendur Sellakumar who commented that Splunk looks at its partnership with AWS as a mechanism to capture new customers.",0.6442943215370178,0.012028380297124386,0.343677282333374,positive,0.6322659254074097
+263,2018-04-27 02:23:00,"Additionally, and discussed earlier during the Analyst Day, Mr. Sellakumar, remarked that one of the strategies to drive business growth with AWS is to have ""(Splunk) reps talk with their reps."" This strategy is logical, but not necessarily sustainable.",0.6078985333442688,0.0112367644906044,0.3808647394180298,positive,0.5966617465019226
+264,2018-04-27 02:23:00,It's entirely likely that the realized trend in new customer acquisition via AWS decreases over time for the reasons discussed above.,0.07542248070240021,0.07089366018772125,0.8536838293075562,neutral,0.004528820514678955
+265,2018-04-27 02:23:00,"I concede that such a dynamic may not happen in FY '19 or FY '20, but I think it is still probable.",0.025391941890120506,0.02130117453634739,0.9533069133758545,neutral,0.004090767353773117
+266,2018-04-27 02:23:00,"With respect to the approach of driving a strong relationship between the respective AWS and Splunk sales forces, this makes sense But, don't you think that every other AWS partner wants to do the same thing?",0.23720979690551758,0.010510935448110104,0.7522792220115662,neutral,0.2266988605260849
+267,2018-04-27 02:23:00,"As long as AWS remains ""king of the cloud,"" everybody will ""want a piece"" of their sales team to drive promotion and sales of their products/solutions.",0.36389052867889404,0.01001813355833292,0.6260913014411926,neutral,0.3538723886013031
+268,2018-04-27 02:23:00,"Splunk will be competing with many vendors for the ""mindshare"" of AWS reps.
+
+Splunk has painted a rosy picture of its cloud business.",0.8877331614494324,0.017460038885474205,0.09480678290128708,positive,0.8702731132507324
+269,2018-04-27 02:23:00,But I believe it is likely not to perform or grow with the strength or robustness that has been communicated.,0.10641704499721527,0.1667804718017578,0.7268024682998657,neutral,-0.06036342680454254
+270,2018-04-27 02:23:00,It may not be sustainable over the long term.,0.04725445806980133,0.5703999996185303,0.38234561681747437,negative,-0.5231455564498901
+271,2018-04-27 02:23:00,"Given all the risks I have pointed out in this article, I was curious to explore insider trading activity for Splunk.",0.05111486464738846,0.008652633987367153,0.940232515335083,neutral,0.04246222972869873
+272,2018-04-27 02:23:00,"In effect, I wondered if there were any patterns that might imply insiders are concerned about risk.",0.052419524639844894,0.11557082086801529,0.8320096731185913,neutral,-0.0631512999534607
+273,2018-04-27 02:23:00,"I looked at activity from April 2012 (the month Splunk stock first traded) through today, using data from openinsider.com .",0.023123331367969513,0.01036616787314415,0.966510534286499,neutral,0.012757163494825363
+274,2018-04-27 02:23:00,• No insider made an open market purchase of Splunk stock during the period analyzed.,0.01422874629497528,0.02105432003736496,0.964716911315918,neutral,-0.006825573742389679
+275,2018-04-27 02:23:00,"• Godfrey Sullivan, Splunk's Chairman and former CEO, has - via automatic dispositions - reduced his share count from approximately 2.77 million shares in April 2012 to about 253,000 shares as of March 14, 2018.",0.017202476039528847,0.9634491205215454,0.019348494708538055,negative,-0.9462466239929199
+276,2018-04-27 02:23:00,That represents a nearly 91% reduction in ownership.,0.018230577930808067,0.95252925157547,0.029240133240818977,negative,-0.9342986941337585
+277,2018-04-27 02:23:00,The total value of these dispositions is just over $357 million.,0.008935813792049885,0.02590656653046608,0.965157687664032,neutral,-0.01697075366973877
+278,2018-04-27 02:23:00,"In regard to the first bullet, we all know insiders usually acquire shares via grants/options.",0.02703385055065155,0.006585056893527508,0.9663810729980469,neutral,0.020448792725801468
+279,2018-04-27 02:23:00,"So, the fact that no insiders made any open exchange purchases might strike investors as a ""nothing to see here nothing-burger.""",0.04501974955201149,0.5470158457756042,0.40796440839767456,negative,-0.5019960999488831
+280,2018-04-27 02:23:00,"Still, if these insiders believe so strongly in the company's opportunity and prospects, one might expect to see at least some open market share purchases.",0.8062328100204468,0.013619685545563698,0.18014748394489288,positive,0.79261314868927
+281,2018-04-27 02:23:00,"In regard to the second bullet, it is obviously common for insiders to enter into predefined disposition plans.",0.017735494300723076,0.04042788967490196,0.9418365955352783,neutral,-0.022692395374178886
+282,2018-04-27 02:23:00,But that's not to say that an insider has to enter into a disposition plan.,0.033066827803850174,0.020976532250642776,0.9459565877914429,neutral,0.012090295553207397
+283,2018-04-27 02:23:00,"Again, assuming there's strong belief in the company's long-term opportunity, why enter into an aggressive disposition plan in the first place?",0.371194988489151,0.008534359745681286,0.6202706694602966,neutral,0.36266061663627625
+284,2018-04-27 02:23:00,"Splunk's stock price over the last 12 months has reflected an almost cult-like enthusiasm from investors and analysts:
+
+Frankly, it would not surprise me to see the stock continue to test new highs throughout the remainder of the calendar year.",0.8465960025787354,0.017109602689743042,0.13629435002803802,positive,0.8294863700866699
+285,2018-04-27 02:23:00,But I believe such price movements would be entirely disconnected from the underlying business and associated risks.,0.008980141021311283,0.03338612616062164,0.9576337337493896,neutral,-0.024405986070632935
+286,2018-04-27 02:23:00,I believe Splunk's market opportunity and ongoing operating structure may not be as viable as offered by the company and analysts alike.,0.0828152671456337,0.293538361787796,0.6236463189125061,neutral,-0.21072310209274292
+287,2018-04-27 02:23:00,"Further, many analysts, particularly those on the FY '18 earnings call and participating during the Splunk's Analyst Day, seem to lack a willingness to truly challenge the company on points discussed in this article.",0.05854028835892677,0.5067248344421387,0.4347348213195801,negative,-0.4481845498085022
+288,2018-04-27 02:23:00,"Consequently, major risks are not - in my view - being properly discussed and analyzed by the investment community.",0.012856152839958668,0.052381791174411774,0.9347620606422424,neutral,-0.03952563926577568
+289,2018-04-27 02:23:00,"Lastly, I'm troubled by the company's presentation of non-GAAP operating margin results during its Analyst Day which I felt was misleading.",0.026665033772587776,0.9252545237541199,0.04808047413825989,negative,-0.8985894918441772
+290,2018-04-27 02:23:00,It suggests to me that ongoing operating performance may be at risk.,0.09256966412067413,0.5645595788955688,0.3428707718849182,negative,-0.4719899296760559
+291,2018-04-27 02:23:00,"With current market conditions for the tech sector overwhelmingly bullish, a bearish voice is likely to be drowned out rather quickly.",0.0627879649400711,0.5902124047279358,0.3469996154308319,negative,-0.5274244546890259
+292,2018-04-27 02:23:00,"So, I expect much of what I have laid out here to be entirely ignored.",0.021590733900666237,0.04941999912261963,0.9289892911911011,neutral,-0.027829265221953392
+293,2018-04-27 02:23:00,"Nonetheless, for the small minority of Splunk investors looking beyond price momentum, I urge you to be cautious.",0.06414292752742767,0.01142516452819109,0.9244319796562195,neutral,0.05271776393055916
+294,2018-04-27 02:23:00,"See also Energy Recap: U.S. Nuclear Energy Industry Gets A Boost on seekingalpha.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01748843677341938,0.011464335955679417,0.9710472226142883,neutral,0.0060241008177399635

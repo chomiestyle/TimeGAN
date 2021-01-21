@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-08 21:49:00,"Colgate Palmolive‘s (NYSE: CL), share price has seen a steady rise over this year, primarily due to the company beating market consensus in revenue and earnings for Q4 2018 and Q1 2019.",0.9568862318992615,0.019408034160733223,0.02370569482445717,positive,0.9374781847000122
+1,2019-08-08 21:49:00,"But for Q2 2019, results declared recently by the company missed market consensus in revenue and earnings.",0.017845511436462402,0.9662168622016907,0.01593760773539543,negative,-0.9483713507652283
+2,2019-08-08 21:49:00,"Overall, on an average brokerage firms seem neutral on the stock, with an average price target of $70.7 per share.",0.028344929218292236,0.8958044648170471,0.07585064321756363,negative,-0.8674595355987549
+3,2019-08-08 21:49:00,"In this analysis, we look at how the top brokerage firms view Colgate-Palmolive stock, and how their price targets have changed over time.",0.02277909405529499,0.007770556956529617,0.9694502949714661,neutral,0.015008537098765373
+4,2019-08-08 21:49:00,"View our interactive dashboard analysis – Colgate-Palmolive Price Target: Are JPMorgan, Morgan Stanley, and Credit Suisse bearish on Colgate-Palmolive in 2019?",0.028162585571408272,0.24036037921905518,0.7314770221710205,neutral,-0.21219779551029205
+5,2019-08-08 21:49:00,"In addition, here is more Consumer Staples data.",0.011462293565273285,0.017314357683062553,0.9712234139442444,neutral,-0.0058520641177892685
+6,2019-08-08 21:49:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+7,2019-08-08 21:49:00,"Top Banks are mixed in their views: Morgan Stanley expects a bearish trend, while Credit Suisse and JP Morgan are bullish
+• JPMorgan is most bullish on Colgate-Palmolive (CL) with a $78 price target while Credit Suisse is also bullish with a target of $72.",0.028154728934168816,0.8150112628936768,0.1568339765071869,negative,-0.7868565320968628
+8,2019-08-08 21:49:00,"• Morgan Stanley, meanwhile is bearish on the stock with target of $62.",0.11316686123609543,0.7166727185249329,0.1701604574918747,negative,-0.6035058498382568
+9,2019-08-08 21:49:00,"• This implies an average price target of $70.70, just above CL’s current market price.",0.5304903388023376,0.019430864602327347,0.4500788152217865,positive,0.5110594630241394
+10,2019-08-08 21:49:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+11,2019-08-08 21:49:00,"Since March 2019, all 3 have increased their price targets for CL.",0.598666787147522,0.01132342591881752,0.3900097608566284,positive,0.5873433351516724
+12,2019-08-08 21:49:00,• The banks have generally increased Colgate-Palmolive’s price estimate through the year and the target price for 2 out of 3 banks compared here is above its current market price.,0.8918222784996033,0.0317603163421154,0.07641744613647461,positive,0.8600619435310364
+13,2019-08-08 21:49:00,• Morgan Stanley has increased its target price from $60 in January 2019 to $72 in July 2019.,0.8250718712806702,0.014323755167424679,0.16060443222522736,positive,0.8107481002807617
+14,2019-08-08 21:49:00,• JP Morgan has increased its target price from $51 in January 2019 to $78 in July 2019.,0.8588225245475769,0.014044119045138359,0.1271333396434784,positive,0.8447784185409546
+15,2019-08-08 21:49:00,• Credit Suisse has decreased its target price from $64 in January 2019 to $55 in March 2019 but raised it to $62 in July 2019.,0.03725645691156387,0.8234531879425049,0.13929039239883423,negative,-0.7861967086791992
+16,2019-08-08 21:49:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+17,2019-08-08 21:49:00,The multi-year view shows banks moving largely in-sync and the consensus target moves in a similar manner.,0.09513309597969055,0.01871854066848755,0.8861483335494995,neutral,0.076414555311203
+18,2019-08-08 21:49:00,"Only Credit Suisse has a lower target price than it had at the start of the year
+• The consensus target price (average of the first price target issued by each bank for that year) has moved similar to most of the banks compared in the timeline.",0.1326783299446106,0.2985914349555969,0.5687302350997925,neutral,-0.16591310501098633
+19,2019-08-08 21:49:00,• After Q1 2019 results most of them increased their target prices which were higher than their target in January 2019 except Credit Suisse.,0.7539134621620178,0.02664509229362011,0.2194415032863617,positive,0.727268397808075
+20,2019-08-08 21:49:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+21,2019-08-08 21:49:00,"Top 3 banks’ consensus target at start of year [SoY] correctly predicted the direction of end of year [EoY] stock price for 2017, but missed for 2018 and 2019 [SoY = Start of the Year ; EoY = End of the Year]
+• The average target price of all 3 banks correctly predicted the direction of Colgate-Palmolive’s stock price in 2017.",0.2586989402770996,0.1104217991232872,0.6308792233467102,neutral,0.1482771337032318
+22,2019-08-08 21:49:00,• But in 2018 the average consensus failed to predict the direction as Colgate-Palmolive’s share price fell.,0.019914964213967323,0.9524405598640442,0.027644488960504532,negative,-0.9325255751609802
+23,2019-08-08 21:49:00,5.,0.023618461564183235,0.016584821045398712,0.9597967267036438,neutral,0.007033640518784523
+24,2019-08-08 21:49:00,"The top 3 banks’ consensus prediction wasn’t always accurate, they also didn’t sync with Colgate-Palmolive’s reported Revenues and Profits which were nearly flat.",0.020885052159428596,0.904747486114502,0.07436744123697281,negative,-0.8838624358177185
+25,2019-08-08 21:49:00,• Average Target price at the beginning of the year has fluctuated a lot over the last 3 years.,0.023715924471616745,0.04062481224536896,0.9356592297554016,neutral,-0.016908887773752213
+26,2019-08-08 21:49:00,• The banks have failed to be in sync with the Colgate-Palmolive’s Revenue and Earnings over the years.,0.022691158577799797,0.9548388719558716,0.022470032796263695,negative,-0.932147741317749
+27,2019-08-08 21:49:00,6.,0.023339061066508293,0.016314266249537468,0.9603466987609863,neutral,0.007024794816970825
+28,2019-08-08 21:49:00,CL’s key fundamental multiples (price/sales and price/earnings) have moved in tandem with the S&P 500 Index in 2017 and 2018.,0.19039098918437958,0.012660520151257515,0.7969484925270081,neutral,0.1777304708957672
+29,2019-08-08 21:49:00,"However, for 2019, expected P/S and P/E are unlikely to move in line with the index
+• P/S has increased from 4.2 in 2017 to 4.8 in 2018, while P/E has increased from 22.5 in 2017 to 25 in 2018.",0.9297407269477844,0.018863383680582047,0.05139598250389099,positive,0.9108773469924927
+30,2019-08-08 21:49:00,"• FY 2019’s revenue and earnings are expected to remain nearly flat and P/S and P/E expected to fall slightly to 4.7 and 24.6 respectively, as on an average brokerage firms seem to have a moderate outlook for Colgate-Palmolive, with an average price target of $70.70 per share.",0.01664918288588524,0.9559749960899353,0.027375809848308563,negative,-0.9393258094787598
+31,2019-08-08 21:49:00,"• The top banks may not have accurately predicted Colgate-Palmolive’s stock price over recent years, though they have largely been correct in terms of direction in 2017.",0.06331789493560791,0.2819375693798065,0.654744565486908,neutral,-0.2186196744441986
+32,2019-08-08 21:49:00,The stock price saw some sharp movements in 2018 and 2019.,0.3331367075443268,0.046454381197690964,0.6204088926315308,neutral,0.2866823375225067
+33,2019-08-08 21:49:00,"• Overall, with top banks increasing their target price for Colgate-Palmolive post its Q1 2019 earnings release, it might bode well for the company’s stock and fundamentals.",0.9351316690444946,0.016389304772019386,0.0484791174530983,positive,0.9187423586845398
+34,2019-08-08 21:49:00,What’s behind Trefis?,0.0666777566075325,0.0670228824019432,0.8662993311882019,neutral,-0.00034512579441070557
+35,2019-08-08 21:49:00,"See How It’s Powering New Collaboration and What-Ifs
+
+For CFOs and Finance Teams | Product, R&D, and Marketing Teams
+
+Like our charts?",0.08136047422885895,0.007541710045188665,0.9110978245735168,neutral,0.07381876558065414
+36,2019-08-08 21:49:00,Explore example interactive dashboards and create your own.,0.05240172520279884,0.015089896507561207,0.9325084090232849,neutral,0.03731182962656021

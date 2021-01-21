@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-31 04:57:00,"There is do doubt that we are well into the age of Amazon.com, Inc. (NASDAQ: AMZN ).",0.15906570851802826,0.015265616588294506,0.8256686925888062,neutral,0.14380009472370148
+1,2017-07-31 04:57:00,"The debacle that it caused for traditional retailers isn't new, and in fact started a decade ago.",0.035519685596227646,0.4449720084667206,0.5195083022117615,neutral,-0.40945231914520264
+2,2017-07-31 04:57:00,"Most brick-and-retail stocks are but a fraction of what they once were … though there are exceptions, and Ulta Beauty Inc (NASDAQ: ULTA ) is one of them.",0.01232028566300869,0.014453492127358913,0.9732262492179871,neutral,-0.0021332064643502235
+3,2017-07-31 04:57:00,"Yes, ULTA stock is in the midst of a nasty 20% slide in just about two months.",0.0577981099486351,0.9063548445701599,0.03584708645939827,negative,-0.8485567569732666
+4,2017-07-31 04:57:00,"And that downturn is about to get worse on Monday, with Oppenheimer downgrading shares to ""Market Perform"" and dropping its price target to $270 from $330.",0.01948453113436699,0.9417765140533447,0.038738977164030075,negative,-0.9222919940948486
+5,2017-07-31 04:57:00,"However, shares are only down about 5% in the past few months … and up 50% since July 2015.",0.021011246368288994,0.9501425623893738,0.02884623035788536,negative,-0.9291313290596008
+6,2017-07-31 04:57:00,Many experts often refer to it as Amazon-proof thanks in part to its in-store services and best-in-class staff.,0.6295117735862732,0.02086658403277397,0.34962165355682373,positive,0.6086452007293701
+7,2017-07-31 04:57:00,"When a stock stands out as a winner in a sea of losers, I'm willing to sell downside risk for income against its support levels.",0.2090207189321518,0.03186776489019394,0.7591115236282349,neutral,0.17715296149253845
+8,2017-07-31 04:57:00,Key to this strategy is being willing to own shares at a lower price.,0.16576045751571655,0.02272891253232956,0.8115106225013733,neutral,0.1430315375328064
+9,2017-07-31 04:57:00,"I'm not one to buy and hope for a rally back from this dip, regardless of how deep it is already.",0.33674830198287964,0.09875429421663284,0.5644974112510681,neutral,0.2379940152168274
+10,2017-07-31 04:57:00,"So instead of buying shares, I will use options on ULTA stock to set up bullish trades to generate income out of thin air.",0.14542047679424286,0.00798171479254961,0.8465977907180786,neutral,0.13743875920772552
+11,2017-07-31 04:57:00,"The basic strategy: To go bullish on Ulta, I sell puts to someone whose opinion is different from mine.",0.027242077514529228,0.011413509026169777,0.9613444209098816,neutral,0.01582856848835945
+12,2017-07-31 04:57:00,I collect a premium for doing so.,0.10628343373537064,0.00907874945551157,0.8846377730369568,neutral,0.09720468521118164
+13,2017-07-31 04:57:00,"If I'm right and the stock stays above my strike price, I win and keep the whole premium as income.",0.20745624601840973,0.00955692958086729,0.7829868793487549,neutral,0.19789931178092957
+14,2017-07-31 04:57:00,"In essence, I just sold someone a losing lottery ticket.",0.10211915522813797,0.08766912668943405,0.810211718082428,neutral,0.014450028538703918
+15,2017-07-31 04:57:00,"If ULTA stock falls below the strike price, I must own shares at that price even if Ulta falls far below it.",0.023536376655101776,0.02578842081129551,0.9506752490997314,neutral,-0.002252044156193733
+16,2017-07-31 04:57:00,"Therefore, opening that trade will require cash margin to secure the risk with the broker.",0.12043019384145737,0.023566551506519318,0.8560032844543457,neutral,0.09686364233493805
+17,2017-07-31 04:57:00,But there are ways of mitigating such risk.,0.24395029246807098,0.01671917736530304,0.739330530166626,neutral,0.22723111510276794
+18,2017-07-31 04:57:00,"Instead of selling naked puts, I can sell a spread.",0.04063066467642784,0.007001128513365984,0.9523682594299316,neutral,0.033629536628723145
+19,2017-07-31 04:57:00,"There, in addition to selling the puts, I buy an equal number of them but lower.",0.061829064041376114,0.024378936737775803,0.9137920141220093,neutral,0.03745012730360031
+20,2017-07-31 04:57:00,This caps my risk and renders the risk of the trade more finite.,0.3415907621383667,0.034932639449834824,0.6234765648841858,neutral,0.3066581189632416
+21,2017-07-31 04:57:00,"Fundamentally, ULTA stock may be expensive relative to retailers like say Macy's Inc (NYSE: M ), but not when compared to relative champs.",0.12544961273670197,0.3172098994255066,0.5573405027389526,neutral,-0.19176028668880463
+22,2017-07-31 04:57:00,"As the saying goes, you get what you pay for.",0.07130306214094162,0.016538528725504875,0.9121583700180054,neutral,0.054764531552791595
+23,2017-07-31 04:57:00,And in this case - especially after a sizable correction - Ulta Beauty is far from bloated.,0.13166502118110657,0.6489490270614624,0.2193859964609146,negative,-0.5172840356826782
+24,2017-07-31 04:57:00,"Catching a falling knife is daunting to most investors, especially when that falling knife trades for three digits.",0.12453874945640564,0.18557527661323547,0.6898859739303589,neutral,-0.061036527156829834
+25,2017-07-31 04:57:00,That's why I use options.,0.05181700736284256,0.012040374800562859,0.9361425638198853,neutral,0.03977663069963455
+26,2017-07-31 04:57:00,"There I can build buffers and make room for error, so I can withstand a few bad days of price action.",0.5670016407966614,0.012088042683899403,0.4209103286266327,positive,0.5549135804176331
+27,2017-07-31 04:57:00,Not all falling knives are equal.,0.07251278311014175,0.04484372213482857,0.882643461227417,neutral,0.027669060975313187
+28,2017-07-31 04:57:00,Consider the long-term charts of ULTA versus long time losers like Macy's.,0.10729539394378662,0.026307040825486183,0.8663976192474365,neutral,0.08098835498094559
+29,2017-07-31 04:57:00,They are in different leagues.,0.048430122435092926,0.020812097936868668,0.9307577610015869,neutral,0.02761802449822426
+30,2017-07-31 04:57:00,"Thus, my trade idea on Ulta Beauty isn't a bet on retail, but instead an exciting spec play that has been working for years.",0.13655340671539307,0.007169684860855341,0.8562768697738647,neutral,0.12938372790813446
+31,2017-07-31 04:57:00,It's an opportunity to enter a hot stock.,0.6341865658760071,0.012484594248235226,0.3533288538455963,positive,0.6217019557952881
+32,2017-07-31 04:57:00,I am comfortable adding bullish risk under the assumption that markets in general are still bullish and that ULTA will continue to outperform.,0.7360392212867737,0.038998980075120926,0.22496183216571808,positive,0.6970402598381042
+33,2017-07-31 04:57:00,"Click to Enlarge The $245 per share is the bottom end of a long-term ascending channel, so this is still inside the normal price action of a long term slope.",0.05606662482023239,0.07306844741106033,0.8708649277687073,neutral,-0.017001822590827942
+34,2017-07-31 04:57:00,"They do go through bad jags which is normal, as long as the business opportunity remains the same as this does.",0.037366967648267746,0.03379403427243233,0.9288390278816223,neutral,0.0035729333758354187
+35,2017-07-31 04:57:00,The Bet: Sell the Jan 2018 $160 put and collect $3.,0.024234164506196976,0.017757117748260498,0.9580087065696716,neutral,0.006477046757936478
+36,2017-07-31 04:57:00,Here I have a 90% theoretical chance of success.,0.29784688353538513,0.011267643421888351,0.6908854246139526,neutral,0.2865792512893677
+37,2017-07-31 04:57:00,"But if the stock price continues to fall, I would accrue losses below $157.",0.0302322655916214,0.9031004309654236,0.06666725128889084,negative,-0.8728681802749634
+38,2017-07-31 04:57:00,"• Home Depot Inc (HD) Stock Is Battered and Broken
+
+The Alternate Trade: Sell the Jan $270/$265 credit put spread where I have about the same chances of success but with much less maximum risk.",0.137324258685112,0.15103177726268768,0.7116439342498779,neutral,-0.013707518577575684
+39,2017-07-31 04:57:00,"If I win, the spread would deliver 18% in yield.",0.48890426754951477,0.01307323481887579,0.49802252650260925,neutral,0.4758310317993164
+40,2017-07-31 04:57:00,Compare this with trying to catch the falling knife here without any room for error.,0.09156608581542969,0.06585360318422318,0.842580258846283,neutral,0.025712482631206512
+41,2017-07-31 04:57:00,"At least if this trade sours, I would be buying ULTA stock at 34% below current prices.",0.04210832342505455,0.10183380544185638,0.85605788230896,neutral,-0.059725482016801834
+42,2017-07-31 04:57:00,"Investing is not a guarantee of victory, so never risk more than you're willing to lose.",0.09252525866031647,0.018406381830573082,0.8890683650970459,neutral,0.07411887496709824
+43,2017-07-31 04:57:00,Learn how to generate income from options here .,0.14296753704547882,0.006578451953828335,0.8504540324211121,neutral,0.1363890916109085
+44,2017-07-31 04:57:00,Nicolas Chahine is the managing director of SellSpreads.com .,0.016307199373841286,0.009209631942212582,0.9744831323623657,neutral,0.007097567431628704
+45,2017-07-31 04:57:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+46,2017-07-31 04:57:00,You can follow him on Twitter at @racernic and stocktwits at @racernic .,0.04507094621658325,0.024598076939582825,0.9303309321403503,neutral,0.020472869277000427
+47,2017-07-31 04:57:00,"• Trade of the Day: Apple Inc. (AAPL) Stock Could Go Either Way
+• NVIDIA Corporation (NVDA): Welcome to the Era of AI
+
+The post Ulta Beauty Inc (ULTA) Stock Will Defy Oppenheimer, Run Higher Again appeared first on InvestorPlace .",0.6272644996643066,0.12833967804908752,0.24439585208892822,positive,0.4989248216152191
+48,2017-07-31 04:57:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-18 07:27:00,"In early trading on Wednesday, shares of Apple ( AAPL ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.0%.",0.9386468529701233,0.030749019235372543,0.030604226514697075,positive,0.9078978300094604
+1,2015-11-18 07:27:00,"Year to date, Apple registers a 6.1% gain.",0.9415438771247864,0.024596964940428734,0.03385912626981735,positive,0.9169468879699707
+2,2015-11-18 07:27:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 0.5%.",0.02130036987364292,0.9647478461265564,0.013951882719993591,negative,-0.943447470664978
+3,2015-11-18 07:27:00,Home Depot is showing a gain of 19.7% looking at the year to date performance.,0.9475662708282471,0.020818285644054413,0.031615421175956726,positive,0.9267479777336121
+4,2015-11-18 07:27:00,"Two other components making moves today are UnitedHealth Group ( UNH ), trading down 0.4%, and Chevron ( CVX ), trading up 1.5% on the day.",0.03653114289045334,0.9316010475158691,0.03186783194541931,negative,-0.8950698971748352
+5,2015-11-18 07:27:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

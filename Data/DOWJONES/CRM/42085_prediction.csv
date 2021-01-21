@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-26 02:36:00,It's been a crazy year for the Dow Jones Industrials (DJINDICES: ^DJI).,0.059839051216840744,0.44446706771850586,0.4956938326358795,neutral,-0.384628027677536
+1,2020-08-26 02:36:00,"The COVID-19 pandemic brought the average its first severe bear market in over a decade, and just as abruptly, the average bounced back.",0.6451618671417236,0.22308261692523956,0.1317555010318756,positive,0.42207926511764526
+2,2020-08-26 02:36:00,It's now getting close to reaching new record levels.,0.7774940729141235,0.02929176762700081,0.19321423768997192,positive,0.7482023239135742
+3,2020-08-26 02:36:00,"As if that weren't enough, S&P Dow Jones Indices decided to make major changes to the Industrial Average.",0.09524910897016525,0.021594732999801636,0.8831561803817749,neutral,0.07365437597036362
+4,2020-08-26 02:36:00,"Out are energy giant ExxonMobil (NYSE: XOM), stalwart pharmaceutical company Pfizer (NYSE: PFE), and defense contractor Raytheon Technologies (NYSE: RTX).",0.04079843685030937,0.029379284009337425,0.9298222661018372,neutral,0.011419152840971947
+5,2020-08-26 02:36:00,"In are software provider salesforce.com (NYSE: CRM), manufacturing company Honeywell (NYSE: HON), and biotech favorite Amgen (NASDAQ: AMGN).",0.020573295652866364,0.009835625998675823,0.9695910811424255,neutral,0.01073766965419054
+6,2020-08-26 02:36:00,The moves will have a substantial impact on the Dow overall.,0.4008294343948364,0.061889320611953735,0.5372812151908875,neutral,0.3389401137828827
+7,2020-08-26 02:36:00,"They'll reduce its exposure to energy and traditional pharmaceuticals in favor of tech and biotech, and will substitute the much-changed Raytheon with a former Dow component in Honeywell.",0.10856340080499649,0.006875877734273672,0.884560763835907,neutral,0.10168752074241638
+8,2020-08-26 02:36:00,Yet they'll also affect the other 27 stocks and their influence in the Dow.,0.022180352360010147,0.07544342428445816,0.9023761749267578,neutral,-0.05326307192444801
+9,2020-08-26 02:36:00,Here's how.,0.028453990817070007,0.014383205212652683,0.9571627974510193,neutral,0.014070785604417324
+10,2020-08-26 02:36:00,The Dow's methodology for calculating its value is highly unusual.,0.018574843183159828,0.028685910627245903,0.9527392387390137,neutral,-0.010111067444086075
+11,2020-08-26 02:36:00,"Rather than weighting components by market capitalization, the Dow simply takes the stock prices of its 30 constituent stocks and adds them together.",0.019953522831201553,0.006978306919336319,0.9730682373046875,neutral,0.012975215911865234
+12,2020-08-26 02:36:00,It then applies a factor known as the Dow divisor to ensure historical continuity.,0.07497008144855499,0.005420068744570017,0.9196099042892456,neutral,0.06955001503229141
+13,2020-08-26 02:36:00,That simple method is all it takes to come up with the current value of the Dow.,0.04762738198041916,0.009316905401647091,0.9430557489395142,neutral,0.03831047564744949
+14,2020-08-26 02:36:00,"That means that higher-priced stocks have more influence in the Dow, while lower-priced stocks have less.",0.10584113746881485,0.03811400383710861,0.8560448884963989,neutral,0.06772713363170624
+15,2020-08-26 02:36:00,"ExxonMobil, Pfizer, and Raytheon were among the lowest-priced stocks in the Dow.",0.022354530170559883,0.9298452138900757,0.047800250351428986,negative,-0.9074906706809998
+16,2020-08-26 02:36:00,That makes their exit less impactful than it would have been if S&P Dow Jones Indices had chosen higher-priced representatives of their respective industries.,0.05243341624736786,0.7896725535392761,0.15789395570755005,negative,-0.7372391223907471
+17,2020-08-26 02:36:00,"Chevron, for example, has more than double the weighting that Exxon has.",0.2612892687320709,0.009675588458776474,0.7290351390838623,neutral,0.25161367654800415
+18,2020-08-26 02:36:00,"All told, the roughly $140 in combined share price from the three exiting Dow stocks works out to just 3.5% of the total index.",0.07588270306587219,0.6574448347091675,0.2666724920272827,negative,-0.5815621614456177
+19,2020-08-26 02:36:00,"However, the three incoming stocks all trade at prices between $160 and $250 per share, adding up to nearly $630.",0.7961942553520203,0.027874894440174103,0.17593079805374146,positive,0.7683193683624268
+20,2020-08-26 02:36:00,"The boost will take the total of all 30 stocks from around $4,200 to $4,700, and the three new stocks will have more than 13% of the Dow's total weight.",0.89447021484375,0.016182102262973785,0.08934766799211502,positive,0.8782880902290344
+21,2020-08-26 02:36:00,"The other 27 stocks, conversely, will go from having 96.5% of the influence over the Dow to just over 86.5%.",0.0536094605922699,0.027177203446626663,0.9192132949829102,neutral,0.026432257145643234
+22,2020-08-26 02:36:00,"Much of that 10-percentage-point decline will go to Apple (NASDAQ: AAPL), because its per-share price is set to drop by roughly $375 after its 4-for-1 split is finalized.",0.017162486910820007,0.9623924493789673,0.020445138216018677,negative,-0.9452299475669861
+23,2020-08-26 02:36:00,"However, the remaining Dow stocks will also lose a portion of their weight in calculating the Dow.",0.031775567680597305,0.8779840469360352,0.0902404636144638,negative,-0.8462084531784058
+24,2020-08-26 02:36:00,The substitution of higher-priced stocks will also lead to a new Dow divisor.,0.1233423575758934,0.006475205533206463,0.8701823949813843,neutral,0.11686715483665466
+25,2020-08-26 02:36:00,"The current value of approximately 0.147 means that for every $1 a stock in the Dow gains or loses, it has a 6.78-point influence on the Dow itself.",0.08425162732601166,0.3743125796318054,0.541435718536377,neutral,-0.29006093740463257
+26,2020-08-26 02:36:00,"Higher-priced substitutes will tend to increase the divisor, while Apple's stock split will have a downward influence.",0.1624881625175476,0.14343497157096863,0.6940768361091614,neutral,0.01905319094657898
+27,2020-08-26 02:36:00,The net effect won't be certain until the end of trading on Aug. 28.,0.008409653790295124,0.024835174903273582,0.9667551517486572,neutral,-0.016425520181655884
+28,2020-08-26 02:36:00,"However, it's likely that the three new stocks will more than offset Apple's impact, leading to a slightly higher divisor and a slightly smaller point change per dollar of movement.",0.8841671943664551,0.037860799580812454,0.07797206193208694,positive,0.8463063836097717
+29,2020-08-26 02:36:00,"Get ready for a new Dow
+
+The blue chip stocks in the Dow Jones Industrials have always been among the cream of the crop of the American business world.",0.21971222758293152,0.02213347889482975,0.7581542730331421,neutral,0.19757874310016632
+30,2020-08-26 02:36:00,Changes inevitably happen not only to the companies directly affected but to the rest of the Dow as well.,0.015100606717169285,0.015927204862236977,0.9689721465110779,neutral,-0.0008265981450676918
+31,2020-08-26 02:36:00,"When the new Dow 30 opens for trading on Aug. 31, be ready to see what a new era for the average brings.",0.09116639941930771,0.007898367010056973,0.9009352326393127,neutral,0.08326803147792816
+32,2020-08-26 02:36:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+33,2020-08-26 02:36:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+34,2020-08-26 02:36:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them!",0.21481488645076752,0.013847383670508862,0.7713377475738525,neutral,0.20096750557422638
+35,2020-08-26 02:36:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+36,2020-08-26 02:36:00,Dan Caplinger owns shares of Apple.,0.022835472598671913,0.013721096329391003,0.9634434580802917,neutral,0.00911437626928091
+37,2020-08-26 02:36:00,The Motley Fool owns shares of and recommends Apple and Salesforce.com.,0.03965669125318527,0.03497915714979172,0.9253641366958618,neutral,0.004677534103393555
+38,2020-08-26 02:36:00,The Motley Fool recommends Amgen.,0.058421194553375244,0.05450756475329399,0.8870712518692017,neutral,0.003913629800081253
+39,2020-08-26 02:36:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

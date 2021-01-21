@@ -1,0 +1,602 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-26 01:00:00,Welcome to Salesforce fiscal 2021 second-quarter results conference call.,0.040483586490154266,0.010417028330266476,0.9490993618965149,neutral,0.030066557228565216
+1,2020-08-26 01:00:00,"My name is Josh, and I will be your operator today.",0.038121193647384644,0.006072715390473604,0.9558060765266418,neutral,0.03204847872257233
+2,2020-08-26 01:00:00,"[Operator instructions] I would now like to turn the conference over to your speaker, Mr. Evan Goldstein, senior vice president of investor relations.",0.05431677773594856,0.0076760780066251755,0.938007116317749,neutral,0.046640701591968536
+3,2020-08-26 01:00:00,"Thanks, Josh.",0.40217381715774536,0.05248371884226799,0.5453424453735352,neutral,0.34969010949134827
+4,2020-08-26 01:00:00,"Hello, everyone, and thanks for joining us for our fiscal '21 second-quarter results conference call.",0.26138973236083984,0.017949054017663002,0.7206612229347229,neutral,0.2434406727552414
+5,2020-08-26 01:00:00,"I'm Evan Goldstein, senior vice president of investor relations.",0.045419979840517044,0.006090615410357714,0.9484893679618835,neutral,0.03932936489582062
+6,2020-08-26 01:00:00,"Our results press release, SEC filings and a replay of today's call can be found on our IR website at www.salesforce.com/investor.",0.012183720245957375,0.011611598543822765,0.9762046933174133,neutral,0.0005721217021346092
+7,2020-08-26 01:00:00,"With me on the call today is Marc Benioff, chair and CEO; Mark Hawkins, president and CFO; Bret Taylor, president and COO; Gavin Patterson, president and chief revenue officer; and Amy Weaver, president and chief legal officer.",0.016237549483776093,0.009115852415561676,0.9746466279029846,neutral,0.0071216970682144165
+8,2020-08-26 01:00:00,"As a reminder, our commentary today will primarily be in non-GAAP terms.",0.012359119951725006,0.007755259517580271,0.9798856377601624,neutral,0.004603860434144735
+9,2020-08-26 01:00:00,Reconciliations between our GAAP and non-GAAP results and guidance can be found in our earnings press release.,0.013374646194279194,0.011521021835505962,0.9751043319702148,neutral,0.0018536243587732315
+10,2020-08-26 01:00:00,"Some of our comments today may contain forward-looking statements that are subject to risks, uncertainties and assumptions.",0.021459901705384254,0.007553069852292538,0.9709869623184204,neutral,0.013906831853091717
+11,2020-08-26 01:00:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+12,2020-08-26 01:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+13,2020-08-26 01:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+14,2020-08-26 01:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+15,2020-08-26 01:00:00,"In particular, our expectations around the impact of the COVID-19 pandemic on our business, results of operations and financial condition and that of our customers and partners are uncertainly subject to change.",0.015314403921365738,0.049422621726989746,0.93526291847229,neutral,-0.03410821780562401
+16,2020-08-26 01:00:00,"Should any of these materialize or should our assumptions prove to be incorrect, actual company results could differ materially from these forward-looking statements.",0.023209063336253166,0.13104355335235596,0.8457474112510681,neutral,-0.10783448815345764
+17,2020-08-26 01:00:00,"A description of these risks, uncertainties and assumptions and other factors that can affect our financial results is included in our SEC filings, including our most recent report on Form 10-K. With that, let me hand the call over to Marc.",0.013035696931183338,0.0077659934759140015,0.9791983366012573,neutral,0.005269703455269337
+18,2020-08-26 01:00:00,OK.,0.14715290069580078,0.02788318693637848,0.8249639272689819,neutral,0.1192697137594223
+19,2020-08-26 01:00:00,"Thanks so much, Evan, and we're thrilled to be on the call with you today, and this has been such a challenging time.",0.37703362107276917,0.14848145842552185,0.474484920501709,neutral,0.22855216264724731
+20,2020-08-26 01:00:00,Our hearts have been broken.,0.12500803172588348,0.27154403924942017,0.6034479141235352,neutral,-0.14653600752353668
+21,2020-08-26 01:00:00,We've heard so many stories of pain and distress across the world.,0.13686351478099823,0.02699337527155876,0.8361430764198303,neutral,0.10987013578414917
+22,2020-08-26 01:00:00,"And for us, this really -- this moment is actually quite humbling, quite bittersweet.",0.254289448261261,0.04071718454360962,0.7049933671951294,neutral,0.21357226371765137
+23,2020-08-26 01:00:00,"It reminds us that, at Salesforce, business is the greatest platform for change, that we're really here to be a great example of stakeholder capitalism, to really show how we're able to deliver a phenomenal return for our shareholders, as well as for our stakeholders.",0.8429571390151978,0.013759630732238293,0.1432832032442093,positive,0.8291975259780884
+24,2020-08-26 01:00:00,"And in many ways, this quarter really is a victory for stakeholder capitalism.",0.8570491075515747,0.01553929504007101,0.1274115890264511,positive,0.8415098190307617
+25,2020-08-26 01:00:00,It's been not only about our core values but also about our core products.,0.06292299181222916,0.0071872686967253685,0.9298897385597229,neutral,0.05573572218418121
+26,2020-08-26 01:00:00,"It's about showing how our Customer 360 has been a platform for change for so many of our customers, and I'm going to talk about that briefly before I turn it over to Mark, but also our company being a platform for change to the communities who have needed us most.",0.3658120036125183,0.009599369019269943,0.624588668346405,neutral,0.35621264576911926
+27,2020-08-26 01:00:00,And I'm thrilled to deliver such a great return to our shareholders and also to our stakeholders.,0.8718724846839905,0.01409202255308628,0.11403541266918182,positive,0.8577804565429688
+28,2020-08-26 01:00:00,"Certainly, when we look at this quarter with more than $5.15 billion in revenue and our highest operating margin ever, over 20%, or when we look at just simple aspects of our operational excellence like the 63% increase in seven-figure deals from a year ago, well, it really indicates to us one thing, which is that values really bring value.",0.5708518624305725,0.015139678493142128,0.41400840878486633,positive,0.5557121634483337
+29,2020-08-26 01:00:00,It reminds me of a story that we really started last quarter with AT&T.,0.1111869141459465,0.012640324421226978,0.8761727809906006,neutral,0.0985465869307518
+30,2020-08-26 01:00:00,"Now AT&T is an amazing company, a leader in the communications industry, and they have a tremendous visionary with Jeff McElfresh, who is the CEO of AT&T Wireless.",0.8200623393058777,0.01348650548607111,0.1664511263370514,positive,0.8065758347511292
+31,2020-08-26 01:00:00,"And I'll tell you, the thing that's interesting about AT&T is that they have a huge vision.",0.24346119165420532,0.007518748752772808,0.7490200400352478,neutral,0.23594243824481964
+32,2020-08-26 01:00:00,"And that vision is that every single customer touch point, whether it's their stores, whether it's their e-commerce, their app, whether it's getting a message from them, well, in each and single customer touch point, they want to know you as a customer.",0.0736532062292099,0.006216255482286215,0.9201304912567139,neutral,0.06743694841861725
+33,2020-08-26 01:00:00,They want to have a single source of truth.,0.06910326331853867,0.007427718956023455,0.9234690070152283,neutral,0.0616755448281765
+34,2020-08-26 01:00:00,"And that's the deal that we've signed, obviously, in February.",0.34778323769569397,0.013341483660042286,0.6388752460479736,neutral,0.33444175124168396
+35,2020-08-26 01:00:00,"And I was thrilled that this quarter, we've deployed now hundreds of stores and the first 35,000 users.",0.5234967470169067,0.011238460429012775,0.46526485681533813,positive,0.5122582912445068
+36,2020-08-26 01:00:00,"And so I'll tell you, at this moment in time, there's never been a time when we've had to go faster.",0.2677721083164215,0.04891018941998482,0.6833176612854004,neutral,0.218861922621727
+37,2020-08-26 01:00:00,"We've had to deliver customer success faster, and we've had to be there for our customers.",0.775696337223053,0.014633961953222752,0.20966976881027222,positive,0.7610623836517334
+38,2020-08-26 01:00:00,And I'm absolutely thrilled to deliver that success for AT&T.,0.8531107306480408,0.013259083032608032,0.13363021612167358,positive,0.8398516178131104
+39,2020-08-26 01:00:00,I also look at another incredible win in the quarter with PayPal.,0.9245216250419617,0.017515137791633606,0.05796324461698532,positive,0.9070065021514893
+40,2020-08-26 01:00:00,"This is a tremendous organization that's really at the right time, at the right place because we really need contactless payments.",0.5383026003837585,0.011410699225962162,0.4502866864204407,positive,0.5268918871879578
+41,2020-08-26 01:00:00,We all know that.,0.19628600776195526,0.014837460592389107,0.7888765335083008,neutral,0.1814485490322113
+42,2020-08-26 01:00:00,"So to see them have such great success with our sales cloud and our service cloud, to see their CEO, Dan Schulman, embrace us so deeply and our vision for having a one-on-one relationship with journeys, so powerful.",0.8376212120056152,0.014398660510778427,0.14798009395599365,positive,0.8232225775718689
+43,2020-08-26 01:00:00,Another incredible victory in the quarter has really been Work.com.,0.6037228107452393,0.019376499578356743,0.37690064311027527,positive,0.5843462944030762
+44,2020-08-26 01:00:00,"There's a product that -- I don't think there's a product that we've ever built faster, but it's never been more successful, more rapidly.",0.5330908894538879,0.014071027748286724,0.45283809304237366,positive,0.5190198421478271
+45,2020-08-26 01:00:00,"And you look at so many success stories, public sector organizations and enterprises because, today, in the middle of this pandemic, everyone needs contact tracing.",0.05855712294578552,0.07944507151842117,0.8619978427886963,neutral,-0.02088794857263565
+46,2020-08-26 01:00:00,They need shift scheduling.,0.08390557765960693,0.4415948688983917,0.47449952363967896,neutral,-0.3576892912387848
+47,2020-08-26 01:00:00,Everybody needs a workforce command center to try to bring everyone back safely.,0.37652453780174255,0.0581415519118309,0.565333902835846,neutral,0.31838297843933105
+48,2020-08-26 01:00:00,"Well, Work.com is delivering that.",0.12304699420928955,0.012079091742634773,0.8648738861083984,neutral,0.11096790432929993
+49,2020-08-26 01:00:00,"Just look at the results at the University of Kentucky, for example.",0.039369747042655945,0.025966545566916466,0.934663712978363,neutral,0.013403201475739479
+50,2020-08-26 01:00:00,"It's a difficult situation for a university to bring all these students back, and we're thrilled to partner with them with Work.com.",0.52494215965271,0.01236795261502266,0.4626898467540741,positive,0.5125741958618164
+51,2020-08-26 01:00:00,"And I look at so many other customers and so many other success stories during the quarter, whether it was TWC or VF Corp or great public sector wins like the Veterans Administration or the State of Rhode Island.",0.1768495887517929,0.009048539213836193,0.8141018748283386,neutral,0.16780105233192444
+52,2020-08-26 01:00:00,We look internationally at tremendous victories like Banco Bradesco.,0.8829675912857056,0.014430954121053219,0.10260141640901566,positive,0.868536651134491
+53,2020-08-26 01:00:00,"Just had a great conversation with their CEO, Octavio de Lazari.",0.23020292818546295,0.012549350969493389,0.7572476863861084,neutral,0.2176535725593567
+54,2020-08-26 01:00:00,Tremendous vision for the future of financial services and how customers are the most important things today to go faster for their bank.,0.46130844950675964,0.011345624923706055,0.5273458957672119,neutral,0.4499628245830536
+55,2020-08-26 01:00:00,"And ultimately, I guess, the most proud I was during the entire quarter was when we delivered an additional $20 million to our San Francisco and Oakland public schools, bringing our total contributions to $118 million to our public schools.",0.7617943286895752,0.012304906733334064,0.2259007841348648,positive,0.749489426612854
+56,2020-08-26 01:00:00,But one thing that's still important right now is their need to be able to enter into distant learning.,0.16451974213123322,0.013428952544927597,0.8220513463020325,neutral,0.15109078586101532
+57,2020-08-26 01:00:00,"So it's that IP that we've been able to do well and do good at the same time, that this has really been a victory for stakeholder capitalism to show that we can build a great company.",0.9331492781639099,0.01627509295940399,0.050575606524944305,positive,0.9168741703033447
+58,2020-08-26 01:00:00,"But we not only have great core values, we have great core products.",0.4317300021648407,0.008872337639331818,0.5593976974487305,neutral,0.4228576719760895
+59,2020-08-26 01:00:00,"So I just want to give my sincere thanks and gratitude to everyone who has such a great success during the quarter, our customers, our employees, our partners, all of our key stakeholders.",0.5616718530654907,0.013578344136476517,0.4247497618198395,positive,0.5480934977531433
+60,2020-08-26 01:00:00,"And with that, I'd like to turn it over to Mark.",0.08477771282196045,0.005808516871184111,0.909413754940033,neutral,0.07896919548511505
+61,2020-08-26 01:00:00,"Well, great.",0.25797462463378906,0.08900148421525955,0.6530238389968872,neutral,0.1689731478691101
+62,2020-08-26 01:00:00,"Thanks, Marc, and I hope everyone continues to be safe and well during this historic and challenging time.",0.7995131015777588,0.022263364866375923,0.1782236248254776,positive,0.7772497534751892
+63,2020-08-26 01:00:00,"As Marc described, this was an exceptional quarter for Salesforce.",0.9181413650512695,0.02150130644440651,0.06035728380084038,positive,0.8966400623321533
+64,2020-08-26 01:00:00,Both the company and our customers navigated the crisis better than our guidance assumed.,0.898710310459137,0.01693231798708439,0.0843573734164238,positive,0.8817780017852783
+65,2020-08-26 01:00:00,"While our performance in Q2 leaves us optimistic about the future, it is important to note that we remain mindful of how the pandemic may continue to impact our customers and our community.",0.4046960771083832,0.016624310985207558,0.578679621219635,neutral,0.38807177543640137
+66,2020-08-26 01:00:00,"Let me take you through some of the results for Q2, and I'll begin with the top-line commentary.",0.01691312901675701,0.007200566120445728,0.9758862853050232,neutral,0.009712562896311283
+67,2020-08-26 01:00:00,"Revenue was $5.15 billion, representing 29% year-over-year growth.",0.9081653356552124,0.014239156618714333,0.07759549468755722,positive,0.893926203250885
+68,2020-08-26 01:00:00,Q2 was the first time in which the company surpassed $5 billion in a single quarter.,0.848039448261261,0.014626740477979183,0.13733382523059845,positive,0.8334127068519592
+69,2020-08-26 01:00:00,Our revenue performance by cloud continued to demonstrate strength across the portfolio.,0.9491963386535645,0.015005831606686115,0.0357978381216526,positive,0.9341905117034912
+70,2020-08-26 01:00:00,Sales cloud grew 13%.,0.942362368106842,0.02449602633714676,0.03314162790775299,positive,0.9178663492202759
+71,2020-08-26 01:00:00,Service cloud grew 20%.,0.9340061545372009,0.01743728667497635,0.0485566146671772,positive,0.9165688753128052
+72,2020-08-26 01:00:00,"Platform and other grew 66% with Tableau contributing 41 points of that growth, and marketing and commerce grew 21%.",0.6278377771377563,0.014906182885169983,0.35725611448287964,positive,0.6129316091537476
+73,2020-08-26 01:00:00,"Additionally, we had a strong year-over-year performance by region in constant currency.",0.9424958825111389,0.014158005826175213,0.04334613308310509,positive,0.9283378720283508
+74,2020-08-26 01:00:00,Americas grew 28% with Tableau contributing 10 points of that growth.,0.6937286257743835,0.015129008330404758,0.29114240407943726,positive,0.6785995960235596
+75,2020-08-26 01:00:00,"EMEA grew 38% with Tableau contributing 13 points of that growth, and Asia Pac grew 23%.",0.756118893623352,0.013063091784715652,0.23081807792186737,positive,0.7430558204650879
+76,2020-08-26 01:00:00,"Before I detail the quarter's performance, please note that the following should be compared against the guidance assumptions we provided on the Q1 earnings call.",0.01829526014626026,0.01001211628317833,0.9716926217079163,neutral,0.008283143863081932
+77,2020-08-26 01:00:00,"Specifically, the outperformance in the quarter was driven by five factors: one, better new business generation, notably, we saw Q2 business consistent with historical trends; two, higher license revenue driven by new business performance; three, modestly better revenue attrition than expected; and four, achieve certain performance obligations within last quarter's large telecom transaction; and five, favorable foreign exchange.",0.9242488145828247,0.01818697899580002,0.0575641505420208,positive,0.9060618281364441
+78,2020-08-26 01:00:00,"Our remaining performance obligation representing all future revenue under contract ended Q2 at approximately $30.6 million, up 21% year-over-year.",0.9280852675437927,0.01708146184682846,0.054833296686410904,positive,0.911003828048706
+79,2020-08-26 01:00:00,"As a reminder, this metric includes both new business and renewal contracts.",0.06776762753725052,0.007432709448039532,0.9247996807098389,neutral,0.06033491715788841
+80,2020-08-26 01:00:00,"Current remaining performance obligation, or CRPO, which is all the future revenues under contract that is expected to be recognized as revenue in the next 12 months, was approximately $15.2 billion, up 26% year over year.",0.9432629346847534,0.017294814810156822,0.03944223374128342,positive,0.9259681105613708
+81,2020-08-26 01:00:00,"CRPO benefited from new business outperformance, favorable foreign exchange, strong renewal performance, and the inclusion of last quarter's large telecom transaction.",0.9515640735626221,0.015453916974365711,0.03298202529549599,positive,0.9361101388931274
+82,2020-08-26 01:00:00,"Q2 GAAP EPS was $2.85, and non-GAAP EPS was $1.44.",0.020992837846279144,0.02408944070339203,0.9549176692962646,neutral,-0.0030966028571128845
+83,2020-08-26 01:00:00,"The outperformance in the quarter was driven by higher revenue, as well as realized and unrealized gains on our strategic investment portfolio, notably due to the nCino IPO.",0.9375824332237244,0.031388070434331894,0.031029561534523964,positive,0.9061943888664246
+84,2020-08-26 01:00:00,These mark-to-market adjustments benefited GAAP EPS by approximately $0.55 and non-GAAP EPS by approximately $0.58.,0.9272180795669556,0.037319887429475784,0.03546195477247238,positive,0.8898981809616089
+85,2020-08-26 01:00:00,"GAAP EPS was also benefited by $2.17 as the company changed its international corporate structure, which included the consolidation of certain intangible properties, resulting in a $2 billion net tax benefit related to foreign deferred taxes.",0.9256178736686707,0.016905808821320534,0.05747639760375023,positive,0.9087120890617371
+86,2020-08-26 01:00:00,"Please note that this had no impact on non-GAAP EPS as the company utilizes a fixed long-term projected non-GAAP tax rate, which generally excludes the effects of discrete events.",0.011283144354820251,0.016932150349020958,0.9717847108840942,neutral,-0.0056490059942007065
+87,2020-08-26 01:00:00,Turning to cash flow.,0.09538036584854126,0.01608225330710411,0.8885374069213867,neutral,0.07929810881614685
+88,2020-08-26 01:00:00,"Our operating cash flow was $429 million in Q2, down 2% year over year.",0.018201544880867004,0.9717909097671509,0.010007492266595364,negative,-0.9535893797874451
+89,2020-08-26 01:00:00,"Capex for the quarter was $114 million, leading to a free cash flow defined as operating cash flow less CapEx of $315 million, up 22% year over year.",0.9572562575340271,0.02181943692266941,0.020924249663949013,positive,0.9354368448257446
+90,2020-08-26 01:00:00,Now turning to guidance for Q3 and fiscal '21.,0.011147082783281803,0.01207862887531519,0.976774275302887,neutral,-0.0009315460920333862
+91,2020-08-26 01:00:00,"Coming off of a strong Q2 result, we are pleased to be raising our full-year fiscal '21 revenue guidance to $20.7 billion to $20.8 billion, representing approximately 21% to 22% growth.",0.9531447887420654,0.016843894496560097,0.030011270195245743,positive,0.9363008737564087
+92,2020-08-26 01:00:00,This guidance includes approximately $100 million of revenue from our acquisition of Vlocity.,0.04298612102866173,0.005096993409097195,0.9519169330596924,neutral,0.03788912668824196
+93,2020-08-26 01:00:00,"For Q3, we expect our revenue to be $5.24 billion to $5.25 billion, representing approximately 16% growth.",0.9206505417823792,0.01364342961460352,0.06570594757795334,positive,0.907007098197937
+94,2020-08-26 01:00:00,"As a reminder, Q3 represents Tableau's fifth quarter at the company, and therefore, the year-on-year growth rate will be normalized.",0.9245110154151917,0.015463372692465782,0.06002558022737503,positive,0.9090476632118225
+95,2020-08-26 01:00:00,"While the demand trends were strong in Q2, we remain mindful on how the pandemic may continue to impact our customers and community.",0.4102647602558136,0.01555192656815052,0.5741832852363586,neutral,0.3947128355503082
+96,2020-08-26 01:00:00,"Therefore, our guidance assumes that the revenue attrition remains consistent with Q2's actual performance and assumes we deliver modest new business growth during the second half of fiscal '21.",0.5628921985626221,0.027268467471003532,0.40983933210372925,positive,0.5356237292289734
+97,2020-08-26 01:00:00,"We are taking this quarter by quarter as the pandemic is not over, and we are only halfway through the fiscal year.",0.033579908311367035,0.013473313301801682,0.9529468417167664,neutral,0.020106595009565353
+98,2020-08-26 01:00:00,"In that mind -- from that perspective, we will continue to evolve and reimagine our business to enhance our relevance and deliver the highest level of customer success and innovation.",0.878524124622345,0.011065052822232246,0.11041075736284256,positive,0.8674590587615967
+99,2020-08-26 01:00:00,"As we look out over the next 12 to 24 months, we realize it's important for us to make a strategic shift in investments today to better position our company for continued growth and customer success in this new, all-digital, work-from-anywhere environment.",0.9095823764801025,0.012769891880452633,0.07764770835638046,positive,0.8968124985694885
+100,2020-08-26 01:00:00,"As part of this, we'll be allocating resources to prepare the company for growth in strategic areas.",0.7260767221450806,0.009816933423280716,0.264106422662735,positive,0.716259777545929
+101,2020-08-26 01:00:00,This means we'll be redirecting some of our resources to fuel growth in areas that are no longer as aligned with the business priority will be now deemphasized.,0.12117261439561844,0.020956898108124733,0.8578705191612244,neutral,0.10021571815013885
+102,2020-08-26 01:00:00,"Furthermore, we intend to accelerate spend in go to market and product originally planned for next year and pull that into the second half of this year.",0.8670567870140076,0.01155354268848896,0.12138974666595459,positive,0.855503261089325
+103,2020-08-26 01:00:00,"These investments in growth are planned, and they will increase our expenses in the second half.",0.8964805603027344,0.0140001829713583,0.08951927721500397,positive,0.8824803829193115
+104,2020-08-26 01:00:00,"With that being said, after incorporating these and updating our revenue guidance, we're pleased to be able to raise our fiscal '21 non-GAAP operating margin guidance to a year-over-year improvement of 75 basis points.",0.957881510257721,0.020309654995799065,0.021808849647641182,positive,0.9375718832015991
+105,2020-08-26 01:00:00,"As a result, we are updating our fiscal '21 GAAP diluted EPS to be $3.12 to $3.14, while non-GAAP diluted EPS will be $3.72 to $3.74.",0.1805092990398407,0.010313336737453938,0.8091773986816406,neutral,0.17019596695899963
+106,2020-08-26 01:00:00,"For Q3, GAAP diluted EPS is expected to be $0.03 to $0.04, while non-GAAP diluted EPS will be $0.73 to $0.74.",0.019848663359880447,0.013187951408326626,0.9669634103775024,neutral,0.0066607119515538216
+107,2020-08-26 01:00:00,"As a reminder, our EPS guidance assumes no future contribution for mark-to-market accounting as required by ASU 2016-01.",0.015576469711959362,0.014817112125456333,0.9696063995361328,neutral,0.0007593575865030289
+108,2020-08-26 01:00:00,"For operating cash flow, we are raising the fiscal '21 guidance to 12% to 13% year-over-year growth.",0.9361869692802429,0.016546830534934998,0.047266241163015366,positive,0.9196401238441467
+109,2020-08-26 01:00:00,"We continue to expect capex to be approximately 3% of revenue in fiscal '21, resulting in a free cash flow growth rate of approximately 15% to 16% for the fiscal year.",0.8961201906204224,0.014495723880827427,0.0893840417265892,positive,0.8816244602203369
+110,2020-08-26 01:00:00,Operating cash flow is expected to be impacted by these incremental growth investments.,0.0851590484380722,0.3628292381763458,0.5520117282867432,neutral,-0.2776702046394348
+111,2020-08-26 01:00:00,We expect CRPO to grow approximately 19% year over year in the third quarter.,0.938652753829956,0.013268697075545788,0.04807863384485245,positive,0.9253840446472168
+112,2020-08-26 01:00:00,"And as a reminder, Q3 represents Tableau's fifth quarter at the company, and therefore, the year-on-year growth rate has now normalized.",0.9259931445121765,0.019931212067604065,0.05407558009028435,positive,0.9060619473457336
+113,2020-08-26 01:00:00,"To close, we delivered a landmark Q2 in the face of adversity and have set ourselves up for a strong second half of fiscal '21 and beyond.",0.9422619938850403,0.017249902710318565,0.04048813879489899,positive,0.9250121116638184
+114,2020-08-26 01:00:00,"We are proud of our ability to successfully lead through change, and above all, to continue to serve our stakeholders around the world.",0.8457832932472229,0.012735443189740181,0.14148131012916565,positive,0.8330478668212891
+115,2020-08-26 01:00:00,"I'd like to thank our employees, our customers, our partners, our community, and our shareholders for their continued support and wish each of you, your families and your firm, safety, and wellness.",0.4433234632015228,0.013832023367285728,0.5428445339202881,neutral,0.42949143052101135
+116,2020-08-26 01:00:00,"And with that, we'll open up the call for questions.",0.1039452999830246,0.01085587963461876,0.8851988315582275,neutral,0.09308941662311554
+117,2020-08-26 01:00:00,[Operator instructions] And your first question comes from Heather Bellini with Goldman Sachs.,0.02563166432082653,0.014138936065137386,0.9602293968200684,neutral,0.011492728255689144
+118,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+119,2020-08-26 01:00:00,Great.,0.3208116292953491,0.06538097560405731,0.6138074398040771,neutral,0.2554306387901306
+120,2020-08-26 01:00:00,"Thank you so much, gentlemen, for taking the question.",0.2693789601325989,0.0150062320753932,0.7156147956848145,neutral,0.2543727159500122
+121,2020-08-26 01:00:00,I appreciate it.,0.5109818577766418,0.02788597159087658,0.4611321687698364,positive,0.4830958843231201
+122,2020-08-26 01:00:00,"I was just wondering, Marc or Mark, if you could share with us a little bit how the progression of the quarter unfolded and just kind of what you're hearing from customers now.",0.0411410927772522,0.006802247371524572,0.9520566463470459,neutral,0.03433884680271149
+123,2020-08-26 01:00:00,"Obviously, you did much better than what your guidance expected.",0.8966546654701233,0.021120287477970123,0.082225002348423,positive,0.8755343556404114
+124,2020-08-26 01:00:00,"But if you were to put all this into Einstein, what -- how did it shape up versus what you were versus what you thought, again, just thinking about how the slope of the quarter might have progressed?",0.08988254517316818,0.05762588605284691,0.852491557598114,neutral,0.032256659120321274
+125,2020-08-26 01:00:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+126,2020-08-26 01:00:00,"Well, thanks, Heather, for that question.",0.2618558704853058,0.050235580652952194,0.6879085302352905,neutral,0.2116202861070633
+127,2020-08-26 01:00:00,"We started this quarter 54,000 remote employees working at home.",0.04563058540225029,0.03169068321585655,0.9226787686347961,neutral,0.013939902186393738
+128,2020-08-26 01:00:00,We knew that we had to make a number of changes.,0.18651191890239716,0.017181064933538437,0.7963070273399353,neutral,0.16933085024356842
+129,2020-08-26 01:00:00,"We knew that it was going to be critical for us to reshape our company, that this was a moment in time that you basically had to make a decision.",0.3363911509513855,0.013979440554976463,0.6496293544769287,neutral,0.3224117159843445
+130,2020-08-26 01:00:00,Are you going to keep things the way they were?,0.07638521492481232,0.06625896692276001,0.8573558330535889,neutral,0.010126248002052307
+131,2020-08-26 01:00:00,Or are you going to change?,0.09293479472398758,0.10287266969680786,0.8041925430297852,neutral,-0.009937874972820282
+132,2020-08-26 01:00:00,Or are you going to shift?,0.09352003037929535,0.13323184847831726,0.7732481360435486,neutral,-0.03971181809902191
+133,2020-08-26 01:00:00,"And we made a decision that we were going to change, and we were going to shift.",0.2679223120212555,0.01586845889687538,0.7162092328071594,neutral,0.2520538568496704
+134,2020-08-26 01:00:00,We shifted our operational values very aggressively.,0.7300527691841125,0.016203293576836586,0.25374385714530945,positive,0.7138494849205017
+135,2020-08-26 01:00:00,"And as we change those operational values, we started to see momentum build.",0.9106160998344421,0.013410928659141064,0.07597297430038452,positive,0.8972051739692688
+136,2020-08-26 01:00:00,"We called that out on the beginning of the call after Q1, where we saw pipeline starting to increase for the second quarter and the third quarter.",0.7913157939910889,0.017211664468050003,0.19147253036499023,positive,0.774104118347168
+137,2020-08-26 01:00:00,"And it really was that as we piled in and doubled down on these core operational values, we got much closer to our customers.",0.749647319316864,0.015186073258519173,0.23516665399074554,positive,0.73446124792099
+138,2020-08-26 01:00:00,"We understood that if we were going to succeed at a moment like this, we are going to have to be closer to our customer than ever before, that we're going to have to change a lot of aspects of the company.",0.3719339072704315,0.018594831228256226,0.6094712615013123,neutral,0.3533390760421753
+139,2020-08-26 01:00:00,"And as we made those adjustments, we saw the speed increase right up to the end of the quarter.",0.8677743673324585,0.013804871588945389,0.11842077225446701,positive,0.8539695143699646
+140,2020-08-26 01:00:00,And that was just really powerful.,0.23173591494560242,0.026361539959907532,0.7419025897979736,neutral,0.20537437498569489
+141,2020-08-26 01:00:00,"I mean, as I said, this moment is both humbling and bittersweet.",0.13799384236335754,0.022552723065018654,0.8394534587860107,neutral,0.11544112116098404
+142,2020-08-26 01:00:00,"This has been such a challenging time for us, for our families.",0.05428218096494675,0.6072626113891602,0.3384551405906677,negative,-0.5529804229736328
+143,2020-08-26 01:00:00,"And then to see these amazing results, it's just incredible.",0.42471227049827576,0.010774090886116028,0.5645136833190918,neutral,0.41393816471099854
+144,2020-08-26 01:00:00,"I mean, honestly, I just can't believe everything from just the delivery of all of our teams.",0.07529934495687485,0.03268052637577057,0.8920201063156128,neutral,0.04261881858110428
+145,2020-08-26 01:00:00,"The technology teams just did a fantastic job, the engineering team.",0.7921794652938843,0.016921231523156166,0.19089926779270172,positive,0.7752582430839539
+146,2020-08-26 01:00:00,"You look at what happened with Work.com, I mean, it's incredible, and it's been so important for so many businesses to get back to work safely.",0.6159545183181763,0.025181129574775696,0.35886433720588684,positive,0.5907734036445618
+147,2020-08-26 01:00:00,"But now that we brought it to schools to help schools get back to work safely as well, we're doing that in a paid fashion.",0.25971683859825134,0.00818698387593031,0.7320961356163025,neutral,0.25152984261512756
+148,2020-08-26 01:00:00,We're doing that in a nonprofit fashion.,0.0954943522810936,0.005339615046977997,0.8991660475730896,neutral,0.0901547372341156
+149,2020-08-26 01:00:00,So this is really a moment where I say values bring value.,0.18277160823345184,0.009003620594739914,0.8082247376441956,neutral,0.17376798391342163
+150,2020-08-26 01:00:00,"This is about us really paying attention, as I said, to our core products and our core values.",0.07942883670330048,0.006383455358445644,0.9141876697540283,neutral,0.07304538041353226
+151,2020-08-26 01:00:00,And that's really the accelerator.,0.09197092056274414,0.018096866086125374,0.8899322152137756,neutral,0.07387405633926392
+152,2020-08-26 01:00:00,"And when I look at some of the success stories that I went through, I mean, there's so many, but one that's been very powerful for our whole company is watching what Gina Raimondo has done at the state of Rhode Island.",0.14745567739009857,0.008087769150733948,0.8444564938545227,neutral,0.13936790823936462
+153,2020-08-26 01:00:00,She's even addressed the entire company.,0.06631136685609818,0.01169019378721714,0.9219983816146851,neutral,0.054621174931526184
+154,2020-08-26 01:00:00,"She's an amazing governor of this incredible state, and she came to us and said, ""We're going to make our state safe.""",0.7178208231925964,0.01993074081838131,0.2622483968734741,positive,0.6978901028633118
+155,2020-08-26 01:00:00,There's things that we're going to have to do.,0.07008694857358932,0.015314128249883652,0.9145989418029785,neutral,0.05477282032370567
+156,2020-08-26 01:00:00,"Of course, everybody is going to have to wear masks.",0.048954132944345474,0.12635178864002228,0.824694037437439,neutral,-0.0773976594209671
+157,2020-08-26 01:00:00,But we're going to have to increase our testing.,0.2539238929748535,0.018278099596500397,0.7277980446815491,neutral,0.23564580082893372
+158,2020-08-26 01:00:00,We're going to have to be doing tracing.,0.0876249372959137,0.07852589339017868,0.8338491916656494,neutral,0.009099043905735016
+159,2020-08-26 01:00:00,We're going to have to do the shift scheduling.,0.03986896201968193,0.4225958585739136,0.5375351905822754,neutral,-0.38272690773010254
+160,2020-08-26 01:00:00,I need a command center.,0.07494916766881943,0.02380870096385479,0.9012420773506165,neutral,0.05114046484231949
+161,2020-08-26 01:00:00,I need to do all these things.,0.08269628137350082,0.012319168075919151,0.9049845933914185,neutral,0.07037711143493652
+162,2020-08-26 01:00:00,And that our teams are able to deliver and help her and 35 other states and so many others.,0.8992719054222107,0.015370202250778675,0.08535781502723694,positive,0.8839017152786255
+163,2020-08-26 01:00:00,"That's very, very powerful for us because we all want to get back to how things were, but the reality is that's never going to happen.",0.08568935096263885,0.03579694777727127,0.878513753414154,neutral,0.049892403185367584
+164,2020-08-26 01:00:00,We're in a new world.,0.3728863298892975,0.013175750151276588,0.6139379143714905,neutral,0.35971057415008545
+165,2020-08-26 01:00:00,We're in an all-digital world with the work digitally.,0.08678244054317474,0.008039663545787334,0.9051779508590698,neutral,0.07874277979135513
+166,2020-08-26 01:00:00,We're living digitally.,0.08644767105579376,0.007233740761876106,0.9063185453414917,neutral,0.0792139321565628
+167,2020-08-26 01:00:00,"We're educating digitally, and that means we're going to have to make these adjustments.",0.15849144756793976,0.02393478713929653,0.8175737857818604,neutral,0.13455666601657867
+168,2020-08-26 01:00:00,"And, Bret, do you want to just talk about that and how the engineering organization has kind of responded?",0.037659525871276855,0.013249542564153671,0.9490909576416016,neutral,0.024409983307123184
+169,2020-08-26 01:00:00,"Yes, Marc.",0.18152667582035065,0.03739263862371445,0.7810806632041931,neutral,0.1441340446472168
+170,2020-08-26 01:00:00,"I mean, it's interesting.",0.09555002301931381,0.010518807917833328,0.8939311504364014,neutral,0.08503121137619019
+171,2020-08-26 01:00:00,You talked a lot about transformation and reshaping our company.,0.7094686627388,0.013165120966732502,0.27736613154411316,positive,0.6963035464286804
+172,2020-08-26 01:00:00,"We're just seeing that across our entire customer base, and you're seeing it in how our technologies are being applied, just doing incredible numbers.",0.44482019543647766,0.009809037670493126,0.5453708171844482,neutral,0.4350111484527588
+173,2020-08-26 01:00:00,"I think one that's very illustrative in the past six months, the use of messaging channels like text and WhatsApp, and Apple Chat has gone up 600%.",0.834036648273468,0.02473181113600731,0.14123153686523438,positive,0.8093048334121704
+174,2020-08-26 01:00:00,We saw an 89% year-over-year growth in our commerce cloud.,0.9277048707008362,0.015051222406327724,0.05724386125802994,positive,0.9126536250114441
+175,2020-08-26 01:00:00,"Probably a great example of a great customer story, I think, this really illustrates this is Sonos.",0.09417794644832611,0.006699161138385534,0.8991228938102722,neutral,0.08747878670692444
+176,2020-08-26 01:00:00,This is -- and the customer is Sonos.,0.02780149132013321,0.006545249838382006,0.9656533002853394,neutral,0.02125624194741249
+177,2020-08-26 01:00:00,I use it to play music at my house.,0.04418839141726494,0.010500308126211166,0.9453112483024597,neutral,0.03368808329105377
+178,2020-08-26 01:00:00,"Like so many developers of product, they had to go direct to consumer.",0.021702326834201813,0.018491949886083603,0.9598057270050049,neutral,0.00321037694811821
+179,2020-08-26 01:00:00,"They deployed our marketing cloud and our commerce cloud, And they saw an almost 300% year-over-year increase in direct-to-consumer revenues as a consequence.",0.9342834949493408,0.015165163204073906,0.05055130273103714,positive,0.919118344783783
+180,2020-08-26 01:00:00,"And I think it's been an incredible trying time for all of our employees, all of our communities and all of our customers.",0.6914761662483215,0.01956995204091072,0.28895384073257446,positive,0.6719062328338623
+181,2020-08-26 01:00:00,"But as you implied, there's also just incredible, sustainable, enduring shifts in consumer behavior like this digital commerce and this move to go direct to consumer.",0.4597247540950775,0.010447102598845959,0.5298281311988831,neutral,0.4492776393890381
+182,2020-08-26 01:00:00,And so it's a great privilege to be able to help our customers navigate this crisis.,0.6763010025024414,0.011645816266536713,0.3120531737804413,positive,0.6646552085876465
+183,2020-08-26 01:00:00,"And as you said, one of the key values we're trying to represent as a company is that agility to listen deeply to our customers like Gov.",0.3480793237686157,0.00936131551861763,0.642559289932251,neutral,0.3387179970741272
+184,2020-08-26 01:00:00,"Raimondo, like Sonos, and making sure that we're empowering all of them with the Customer 360 so they themselves can navigate this crisis successfully.",0.7438972592353821,0.01188533566892147,0.24421736598014832,positive,0.7320119142532349
+185,2020-08-26 01:00:00,Yes.,0.25458356738090515,0.0504973940551281,0.6949190497398376,neutral,0.20408616960048676
+186,2020-08-26 01:00:00,"I mean, we just had a tremendous meeting with Banco Bradesco with Octavio de Lazari.",0.3119094669818878,0.013503367081284523,0.6745871901512146,neutral,0.29840609431266785
+187,2020-08-26 01:00:00,We've also met with so many other customers.,0.4091093838214874,0.011693953536450863,0.5791966915130615,neutral,0.397415429353714
+188,2020-08-26 01:00:00,I met with one of your customers late last night in France.,0.06433037668466568,0.011511310003697872,0.9241582751274109,neutral,0.05281906574964523
+189,2020-08-26 01:00:00,"It was morning for them, a huge CTG company.",0.20583440363407135,0.030499402433633804,0.7636661529541016,neutral,0.17533500492572784
+190,2020-08-26 01:00:00,"I mean, we're seeing so much transformation with the customers and desire for speed.",0.641146719455719,0.01184613537043333,0.3470071256160736,positive,0.629300594329834
+191,2020-08-26 01:00:00,"And also, they're all paying attention to their ESGs as well and aligning from a position of stakeholder capitalism.",0.23384711146354675,0.009838123805820942,0.7563148140907288,neutral,0.22400899231433868
+192,2020-08-26 01:00:00,"Gavin, can you give us some illumination about what you're seeing from the customer base?",0.09032174944877625,0.008565826341509819,0.90111243724823,neutral,0.08175592124462128
+193,2020-08-26 01:00:00,"Well, I'd call out a couple of things, Marc.",0.07210245728492737,0.018287591636180878,0.9096099734306335,neutral,0.05381486564874649
+194,2020-08-26 01:00:00,One is -- and we did touch on this in the last call.,0.0709708034992218,0.009547506459057331,0.9194816946983337,neutral,0.061423297971487045
+195,2020-08-26 01:00:00,We saw confidence build week after week as we went through the quarter and the shock of closing down and moving business so that it would be managed remotely.,0.6029949188232422,0.0205741748213768,0.3764308989048004,positive,0.5824207663536072
+196,2020-08-26 01:00:00,"Once the first couple of weeks have been passed, we saw companies begin to realize that the digital transformation was an imperative that they just couldn't afford to put off any longer.",0.5438014268875122,0.030051764100790024,0.42614683508872986,positive,0.5137496590614319
+197,2020-08-26 01:00:00,So I think what we saw with our sales leaders is -- and the products that Bret and the team put together for us was we were relevant.,0.19277788698673248,0.008842900395393372,0.7983792424201965,neutral,0.1839349865913391
+198,2020-08-26 01:00:00,"That was the keyword, I would say.",0.08768145740032196,0.04044419899582863,0.8718743324279785,neutral,0.04723725840449333
+199,2020-08-26 01:00:00,"We were able to pivot very quickly, the very agile performance from the company.",0.9135783314704895,0.015989257022738457,0.07043232023715973,positive,0.8975890874862671
+200,2020-08-26 01:00:00,"And we were there to help our customers through these difficult periods, where they had to make decisions that would typically take weeks and months, sometimes in days.",0.2907274067401886,0.011356938630342484,0.6979156732559204,neutral,0.2793704569339752
+201,2020-08-26 01:00:00,So I think it demonstrates what a powerful proposition we have for customers that we can spin things up quickly like Work.com.,0.6455426812171936,0.010689043439924717,0.34376832842826843,positive,0.6348536610603333
+202,2020-08-26 01:00:00,"We can deploy the core cloud very quickly, and they'll deliver quickly for customers, which means they actually are relevant now.",0.7175284624099731,0.012481177225708961,0.26999035477638245,positive,0.7050473093986511
+203,2020-08-26 01:00:00,"It's probably as high, if not higher, than it's ever been.",0.4773918390274048,0.029410304501652718,0.49319785833358765,neutral,0.4479815363883972
+204,2020-08-26 01:00:00,And we had a great quarter.,0.8057029247283936,0.017166810110211372,0.1771303117275238,positive,0.7885361313819885
+205,2020-08-26 01:00:00,"There's no question about that, but I think it's tinged with a slight sense of the concept in which it's been achieved in.",0.16574816405773163,0.010440044105052948,0.8238118290901184,neutral,0.15530812740325928
+206,2020-08-26 01:00:00,"But there's real, I'd say, real confidence in the business.",0.5623973608016968,0.012546722777187824,0.42505592107772827,positive,0.5498506426811218
+207,2020-08-26 01:00:00,We're not getting carried away.,0.26848965883255005,0.022956909611821175,0.7085534334182739,neutral,0.24553275108337402
+208,2020-08-26 01:00:00,There's no question about that.,0.06426069140434265,0.020647326484322548,0.9150919914245605,neutral,0.04361336678266525
+209,2020-08-26 01:00:00,There's -- there are a lot of uncertainty as we look into the second half of the year.,0.024190517142415047,0.14487630128860474,0.8309332132339478,neutral,-0.12068578600883484
+210,2020-08-26 01:00:00,"But undoubtedly, what we offer is something that, increasingly, our customers really want.",0.1852569729089737,0.006317248102277517,0.8084258437156677,neutral,0.17893972992897034
+211,2020-08-26 01:00:00,"Well, thank you, Gavin, and welcome, by the way, to the team officially.",0.3136940598487854,0.015008852817118168,0.6712971329689026,neutral,0.2986851930618286
+212,2020-08-26 01:00:00,"I know you've been with us now for about a year, but now you're officially in the role of running as our chief revenue officer.",0.043139029294252396,0.009954874403774738,0.9469060897827148,neutral,0.03318415582180023
+213,2020-08-26 01:00:00,"We couldn't be more thrilled, and we're absolutely delighted to have you as part of the team.",0.6342103481292725,0.012617512606084347,0.3531721532344818,positive,0.6215928196907043
+214,2020-08-26 01:00:00,"Amy, we also saw a lot of action in the public sector.",0.6060420274734497,0.014431663788855076,0.3795262575149536,positive,0.5916103720664978
+215,2020-08-26 01:00:00,"I mentioned a few of them, but there are still many more stories.",0.04714181646704674,0.015196665190160275,0.9376615285873413,neutral,0.03194515034556389
+216,2020-08-26 01:00:00,Could you highlight a little bit about what we saw in public sector during the quarter?,0.015312458388507366,0.012094110250473022,0.9725934863090515,neutral,0.0032183481380343437
+217,2020-08-26 01:00:00,"You're on mute, Amy.",0.11261685192584991,0.21634869277477264,0.6710344552993774,neutral,-0.10373184084892273
+218,2020-08-26 01:00:00,It would not be a call if I did not forget to take myself off mute at some point.,0.07803205400705338,0.15035046637058258,0.7716174721717834,neutral,-0.0723184123635292
+219,2020-08-26 01:00:00,"I think the public sector has done a great success in both the first quarter and the second quarter, and it's that type of trust and collaboration that just keeps building.",0.8654726147651672,0.013172575272619724,0.12135489284992218,positive,0.8523000478744507
+220,2020-08-26 01:00:00,I have to give a real shout-out and his entire team.,0.13365232944488525,0.022937271744012833,0.8434104323387146,neutral,0.11071506142616272
+221,2020-08-26 01:00:00,"And some of the things that stood out to me were not just Rhode Island but really seeing the team mobilized in other states where we had to reach out, saying that we didn't know what to do.",0.062081992626190186,0.10547692328691483,0.8324410915374756,neutral,-0.04339493066072464
+222,2020-08-26 01:00:00,They were struggling.,0.13543666899204254,0.6356191635131836,0.22894424200057983,negative,-0.5001825094223022
+223,2020-08-26 01:00:00,"And within hours, they would have pulled together a team of professionals from across Salesforce and said, despite this situation to you, this isn't new to us.",0.4038814306259155,0.023200152441859245,0.5729184150695801,neutral,0.38068127632141113
+224,2020-08-26 01:00:00,"We know how to do this, we know how to deploy a team quickly and we can get in there and partner with you.",0.6413275003433228,0.011427093297243118,0.3472454249858856,positive,0.6299003958702087
+225,2020-08-26 01:00:00,And it is terrific to see.,0.210537850856781,0.008541440591216087,0.780920684337616,neutral,0.20199641585350037
+226,2020-08-26 01:00:00,And I thought it really shows us the value of the Salesforce and our focus on collaborating and partnering with governments around the world.,0.806988537311554,0.01178973913192749,0.18122172355651855,positive,0.7951987981796265
+227,2020-08-26 01:00:00,Very good.,0.564926028251648,0.017723431810736656,0.41735050082206726,positive,0.5472025871276855
+228,2020-08-26 01:00:00,All right.,0.19407503306865692,0.03288000077009201,0.773045003414154,neutral,0.1611950397491455
+229,2020-08-26 01:00:00,"Thank you so much, Heather.",0.37957242131233215,0.017902394756674767,0.6025252342224121,neutral,0.36167001724243164
+230,2020-08-26 01:00:00,Your next question comes from Alex Zukin with RBC.,0.028293725103139877,0.013424883596599102,0.9582814574241638,neutral,0.014868841506540775
+231,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+232,2020-08-26 01:00:00,"Hey, guys.",0.1975807100534439,0.039768707007169724,0.7626505494117737,neutral,0.1578119993209839
+233,2020-08-26 01:00:00,Thank you for taking my questions.,0.09431885927915573,0.01612783409655094,0.8895533084869385,neutral,0.07819102704524994
+234,2020-08-26 01:00:00,"I hope you're all safe and well, and congratulations on an absolutely stunning quarter.",0.83039790391922,0.02221010811626911,0.1473919153213501,positive,0.8081877827644348
+235,2020-08-26 01:00:00,"Marc, I guess, a lot of questions we get these days around the improvements in kind of week by week that Gavin just referenced around the confidence and the relevance.",0.03554543852806091,0.022236410528421402,0.9422181844711304,neutral,0.013309027999639511
+236,2020-08-26 01:00:00,"What can you tell us about your pipeline and your confidence in converting that pipeline, particularly in selling in this new digital world, where maybe a virtual Dreamforce or some -- how do you think about that?",0.21987038850784302,0.008936378173530102,0.7711932063102722,neutral,0.21093401312828064
+237,2020-08-26 01:00:00,And then how does that set the stage?,0.05508211627602577,0.0358138382434845,0.9091039896011353,neutral,0.019268278032541275
+238,2020-08-26 01:00:00,"If you think about the 2008 recession, you guys accelerated pretty meaningfully coming out of it.",0.09345440566539764,0.06456352025270462,0.8419821262359619,neutral,0.028890885412693024
+239,2020-08-26 01:00:00,"And based on that pipeline question, is there a scenario in 2021 given that increased relevance?",0.08860968053340912,0.01632298156619072,0.8950673341751099,neutral,0.0722866952419281
+240,2020-08-26 01:00:00,Is it possible to see a meaningful year of acceleration?,0.6296567916870117,0.027696523815393448,0.3426467180252075,positive,0.6019602417945862
+241,2020-08-26 01:00:00,Or are we just still too far from the end of this crisis?,0.11460873484611511,0.29567644000053406,0.5897148847579956,neutral,-0.18106770515441895
+242,2020-08-26 01:00:00,"Well, this is such a great question.",0.07749681919813156,0.05006295442581177,0.8724402189254761,neutral,0.027433864772319794
+243,2020-08-26 01:00:00,I really appreciate it.,0.4882742464542389,0.02492656372487545,0.4867991805076599,positive,0.4633476734161377
+244,2020-08-26 01:00:00,I guess this is the third major crisis or maybe fourth that I've been through as the CEO of Salesforce.,0.048362020403146744,0.3749780058860779,0.5766599774360657,neutral,-0.32661598920822144
+245,2020-08-26 01:00:00,"And in each crisis, things are different.",0.07002104818820953,0.017047487199306488,0.912931501865387,neutral,0.052973560988903046
+246,2020-08-26 01:00:00,"But one thing that isn't different is each one has been an accelerator in the future, that each crisis tends to bring us to the future faster.",0.14233331382274628,0.012110074982047081,0.8455566167831421,neutral,0.13022324442863464
+247,2020-08-26 01:00:00,And that appears to be what's happening here.,0.039036672562360764,0.01422880683094263,0.9467344880104065,neutral,0.024807866662740707
+248,2020-08-26 01:00:00,"Look, I'm speaking to you from my home.",0.08166203647851944,0.016577810049057007,0.9017602205276489,neutral,0.06508422642946243
+249,2020-08-26 01:00:00,Each of my executives are in their home.,0.022007688879966736,0.01269183587282896,0.9653005003929138,neutral,0.009315853007137775
+250,2020-08-26 01:00:00,"I'm looking to the screen that looks like the Brady Bunch with little video images of all of them, Gavin in London and Amy in San Francisco and so forth.",0.046757880598306656,0.05043530464172363,0.9028067588806152,neutral,-0.003677424043416977
+251,2020-08-26 01:00:00,And it's quite complicated that we're -- we see this continual advancement and acceleration.,0.7712476253509521,0.012107823975384235,0.2166445404291153,positive,0.7591397762298584
+252,2020-08-26 01:00:00,"But you have to, as a CEO, take a moment and ask yourself, ""How are you going to change?""",0.07516644150018692,0.04712386056780815,0.8777097463607788,neutral,0.02804258093237877
+253,2020-08-26 01:00:00,I kind of alluded to that.,0.1193055734038353,0.016166213899850845,0.864528238773346,neutral,0.10313935577869415
+254,2020-08-26 01:00:00,"And I think that your question about Dreamforce is so important because I can't tell you how many people I get on the phone with, well, what is Dreamforce?",0.019589003175497055,0.03146877512335777,0.9489421844482422,neutral,-0.011879771947860718
+255,2020-08-26 01:00:00,We're ready for Dreamforce.,0.3033261001110077,0.008680122904479504,0.6879938244819641,neutral,0.2946459650993347
+256,2020-08-26 01:00:00,But there is no Dreamforce in 2020.,0.03560834378004074,0.04679318889975548,0.9175984263420105,neutral,-0.011184845119714737
+257,2020-08-26 01:00:00,We know that.,0.1655806452035904,0.012389815412461758,0.8220294713973999,neutral,0.15319083631038666
+258,2020-08-26 01:00:00,"We're not all heading to San Francisco next month, where Metallica is not playing.",0.017194656655192375,0.05514614284038544,0.9276592135429382,neutral,-0.03795148432254791
+259,2020-08-26 01:00:00,We're not all going to be going in the keynote room.,0.02049923688173294,0.016743233427405357,0.9627574682235718,neutral,0.0037560034543275833
+260,2020-08-26 01:00:00,"And yes, we're grieving that.",0.1694607436656952,0.05234311521053314,0.7781961560249329,neutral,0.11711762845516205
+261,2020-08-26 01:00:00,There's a grief and there's a sadness that we're not all together.,0.09177946299314499,0.14862459897994995,0.7595959305763245,neutral,-0.05684513598680496
+262,2020-08-26 01:00:00,"We love being together as one Ohana, our employees, our customers, our investors.",0.25702473521232605,0.00781378336250782,0.7351614832878113,neutral,0.24921095371246338
+263,2020-08-26 01:00:00,We have a big investor day.,0.41935819387435913,0.01401613000780344,0.5666256546974182,neutral,0.40534207224845886
+264,2020-08-26 01:00:00,"We're all in a big room at the St. Regis Hotel, and Mark Hawkins is holding court with everyone.",0.09718826413154602,0.00866421777755022,0.8941475749015808,neutral,0.08852404356002808
+265,2020-08-26 01:00:00,"And there is no such thing this year, so it's sad.",0.051683731377124786,0.13630224764347076,0.8120139837265015,neutral,-0.08461851626634598
+266,2020-08-26 01:00:00,And will we all be back together again?,0.2050388902425766,0.019266949966549873,0.7756941914558411,neutral,0.18577194213867188
+267,2020-08-26 01:00:00,I hope so.,0.32561033964157104,0.03577497601509094,0.6386146545410156,neutral,0.2898353636264801
+268,2020-08-26 01:00:00,Am I sure?,0.13232512772083282,0.0777004212141037,0.7899745106697083,neutral,0.054624706506729126
+269,2020-08-26 01:00:00,I don't really know.,0.05184873566031456,0.04334408417344093,0.9048071503639221,neutral,0.008504651486873627
+270,2020-08-26 01:00:00,"I mean, this is my first pandemic.",0.05705970898270607,0.1735444962978363,0.7693957686424255,neutral,-0.11648479104042053
+271,2020-08-26 01:00:00,"I mean, we're in a global pandemic.",0.06543004512786865,0.3116423189640045,0.6229276061058044,neutral,-0.24621227383613586
+272,2020-08-26 01:00:00,We're dealing with a virus that is -- has a lot of unusual characteristics.,0.030675578862428665,0.014770682901144028,0.9545537829399109,neutral,0.015904895961284637
+273,2020-08-26 01:00:00,"So we've made changes at Salesforce that we now are advising our clients to make, how to get their employees to participate.",0.08163703233003616,0.009519475512206554,0.908843457698822,neutral,0.07211755961179733
+274,2020-08-26 01:00:00,"And we have 54,000 employees.",0.020429885014891624,0.008100931532680988,0.9714691638946533,neutral,0.012328953482210636
+275,2020-08-26 01:00:00,"For us to achieve these results, everybody has to be on the field and playing the game.",0.38471153378486633,0.011066775768995285,0.6042217016220093,neutral,0.37364476919174194
+276,2020-08-26 01:00:00,"We have to also give them the incentive to play, to train them, to keep them motivated.",0.5260646343231201,0.011412757448852062,0.46252262592315674,positive,0.514651894569397
+277,2020-08-26 01:00:00,I think I've mentioned this to you before.,0.08301635831594467,0.020815720781683922,0.8961678743362427,neutral,0.0622006356716156
+278,2020-08-26 01:00:00,"But every week since the pandemic has started -- we've had an all-hands call where we have all 54,000 people on a telephone call or Zoom, and we're talking to them around the world and giving them like a play by play for the week.",0.08707081526517868,0.012992131523787975,0.8999370336532593,neutral,0.07407868653535843
+279,2020-08-26 01:00:00,"That hasn't happened since we were like a 10-person company, a 100-person company.",0.04597853124141693,0.014939291402697563,0.9390822052955627,neutral,0.031039239838719368
+280,2020-08-26 01:00:00,That's what little start-ups do.,0.030479680746793747,0.008247910998761654,0.9612724184989929,neutral,0.02223176881670952
+281,2020-08-26 01:00:00,That's not what companies who are entering the Dow will do.,0.01216835342347622,0.01948925293982029,0.9683424234390259,neutral,-0.0073208995163440704
+282,2020-08-26 01:00:00,"That -- this is like, whoa, this is like a moment.",0.07758411020040512,0.028528930619359016,0.8938869833946228,neutral,0.049055181443691254
+283,2020-08-26 01:00:00,So we're reimagining our business.,0.11044179648160934,0.006116133648902178,0.8834421038627625,neutral,0.10432565957307816
+284,2020-08-26 01:00:00,"Also, we've had to reimagine our relevance.",0.08082055300474167,0.041605740785598755,0.8775737285614014,neutral,0.039214812219142914
+285,2020-08-26 01:00:00,That's why we built Work.com because we realize that our customers need us to show up to be relevant to them.,0.2781085968017578,0.008518151007592678,0.7133732438087463,neutral,0.26959043741226196
+286,2020-08-26 01:00:00,That's why we built Salesforce Anywhere because we realize our customers have to sell and service and market anywhere.,0.12078109383583069,0.00677575683221221,0.8724431395530701,neutral,0.11400533467531204
+287,2020-08-26 01:00:00,That's why we built the Leading Through Change program.,0.2553154230117798,0.007429636083543301,0.7372549772262573,neutral,0.2478857934474945
+288,2020-08-26 01:00:00,"You may have noticed, we put over 200 million people who are Leading Through Change far bigger than anything we've ever done with Dreamforce.",0.49723681807518005,0.012518653646111488,0.4902445673942566,positive,0.4847181737422943
+289,2020-08-26 01:00:00,I just watched the one that just happened.,0.048127561807632446,0.017217643558979034,0.9346547722816467,neutral,0.030909918248653412
+290,2020-08-26 01:00:00,It was amazing and many other things.,0.29760676622390747,0.014508271589875221,0.6878849864006042,neutral,0.2830984890460968
+291,2020-08-26 01:00:00,"It's another level of enablement, for example, like you know that a third of our employees are reporting mental health challenges.",0.12703853845596313,0.021535959094762802,0.8514254689216614,neutral,0.10550257563591003
+292,2020-08-26 01:00:00,I'm sure a number of people on this call are having mental health issues or know people who are having mental health issues in this pandemic.,0.02909107320010662,0.18639908730983734,0.7845097780227661,neutral,-0.15730801224708557
+293,2020-08-26 01:00:00,"That's why every day, we've been doing a B-Well Together call.",0.18714658915996552,0.024741288274526596,0.7881120443344116,neutral,0.16240529716014862
+294,2020-08-26 01:00:00,"If you go to YouTube, you'll find mental health resources.",0.056000370532274246,0.023532623425126076,0.9204670190811157,neutral,0.03246774524450302
+295,2020-08-26 01:00:00,We've never had to publish mental health resources before at this velocity and this scale.,0.03612160310149193,0.00800996646285057,0.9558684825897217,neutral,0.028111636638641357
+296,2020-08-26 01:00:00,It's amazing.,0.3704836964607239,0.011513378471136093,0.6180029511451721,neutral,0.3589703142642975
+297,2020-08-26 01:00:00,"Or I think I mentioned you, like, we bought 50 million pieces of personal protective equipment.",0.06321218609809875,0.0073918006382882595,0.9293960332870483,neutral,0.05582038685679436
+298,2020-08-26 01:00:00,We didn't know what personal protective equipment was.,0.018542788922786713,0.043056920170784,0.9384002685546875,neutral,-0.024514131247997284
+299,2020-08-26 01:00:00,It's amazing.,0.3704836964607239,0.011513378471136093,0.6180029511451721,neutral,0.3589703142642975
+300,2020-08-26 01:00:00,"We also retrained everyone with Trailhead to become a ranger, and we're doubling down on that, making sure that every employee is trained.",0.48948726058006287,0.012662152759730816,0.4978505074977875,neutral,0.47682511806488037
+301,2020-08-26 01:00:00,"You know that, Tableau, which, by the way, I don't know if we mentioned it, I mean, with such a genius CEO, Adam Selipsky, who runs that.",0.04355158284306526,0.017711391672492027,0.9387369751930237,neutral,0.025840191170573235
+302,2020-08-26 01:00:00,"And I think it's going to be the best acquisition ever done in the history of the software industry, most successful, certainly, and they built this incredible data hub.",0.8249199986457825,0.011963721364736557,0.16311635076999664,positive,0.8129562735557556
+303,2020-08-26 01:00:00,"If you haven't seen it, you should go to Tableau data hub, which you can find on public.tableau.com, which has amazing visualization of everything that's -- and I just mentioned to you that I just made a major management team presentation digitally in Europe.",0.08352559059858322,0.010535391047596931,0.905938982963562,neutral,0.07299020141363144
+304,2020-08-26 01:00:00,"I mean, we're constantly talking to our customers in new ways at scales we could never have imagined.",0.1102483794093132,0.013296857476234436,0.876454770565033,neutral,0.09695152193307877
+305,2020-08-26 01:00:00,"So it also gives us the ability to have accountability with our distribution organization, which is of scale.",0.5567029714584351,0.00984923169016838,0.43344777822494507,positive,0.5468537211418152
+306,2020-08-26 01:00:00,We're not a subscale organization.,0.019383985549211502,0.011085251346230507,0.9695307612419128,neutral,0.008298734202980995
+307,2020-08-26 01:00:00,We are a scaled enterprise software company.,0.08189807087182999,0.004955631215125322,0.9131462574005127,neutral,0.07694243639707565
+308,2020-08-26 01:00:00,"We are able to compete effectively, as evidenced by these numbers with any enterprise software company that's on the field today, and we're able to manage our distribution organization and go to market in ways that have a level of acuity that we did not have before.",0.8963363170623779,0.01204836554825306,0.09161531925201416,positive,0.88428795337677
+309,2020-08-26 01:00:00,"I mean, it's powerful.",0.1439448744058609,0.009407829493284225,0.846647322177887,neutral,0.13453704118728638
+310,2020-08-26 01:00:00,"When you add it all up, participation and enablement and relevance and the tactical plays and then the values that we apply, our core values, well, we're a different company.",0.039318960160017014,0.014199730940163136,0.9464812874794006,neutral,0.025119230151176453
+311,2020-08-26 01:00:00,This has changed us.,0.2857280969619751,0.018790021538734436,0.6954818367958069,neutral,0.26693809032440186
+312,2020-08-26 01:00:00,The pandemic has changed us.,0.08691942691802979,0.1916077733039856,0.7214728593826294,neutral,-0.10468834638595581
+313,2020-08-26 01:00:00,We're not the same that we were.,0.05949432775378227,0.0915035828948021,0.8490021228790283,neutral,-0.03200925514101982
+314,2020-08-26 01:00:00,These aren't even the same players on the call that we're talking to you at the beginning of all of this.,0.0226263627409935,0.03389663249254227,0.9434770345687866,neutral,-0.011270269751548767
+315,2020-08-26 01:00:00,So that's really amazing.,0.5563884973526001,0.015169312246143818,0.42844218015670776,positive,0.541219174861908
+316,2020-08-26 01:00:00,And I think that these results are evidence of that.,0.2999902367591858,0.0101209981366992,0.6898887753486633,neutral,0.2898692488670349
+317,2020-08-26 01:00:00,"And where we'll be a quarter from now or two quarters from now or a year from now or two years from now, we don't know.",0.015484225936233997,0.032691314816474915,0.9518244862556458,neutral,-0.017207089811563492
+318,2020-08-26 01:00:00,"But our intention is the same, which is we're helping our customers to connect with their customers in new ways.",0.5431699156761169,0.010071896016597748,0.4467581510543823,positive,0.533098042011261
+319,2020-08-26 01:00:00,We want to be the No.,0.1053839921951294,0.012626947835087776,0.8819891214370728,neutral,0.09275704622268677
+320,2020-08-26 01:00:00,1 CRM.,0.05606423690915108,0.03490474075078964,0.9090309739112854,neutral,0.021159496158361435
+321,2020-08-26 01:00:00,We're the No.,0.14618469774723053,0.04476930946111679,0.8090459704399109,neutral,0.10141538828611374
+322,2020-08-26 01:00:00,1 in analytics.,0.12442590296268463,0.04591561481356621,0.8296584486961365,neutral,0.07851028442382812
+323,2020-08-26 01:00:00,We're tightly focused.,0.09962096810340881,0.00860732700675726,0.8917717337608337,neutral,0.09101364016532898
+324,2020-08-26 01:00:00,"We're not all over the field like a lot of our competitors, by the way.",0.025681793689727783,0.015471372753381729,0.9588468670845032,neutral,0.010210420936346054
+325,2020-08-26 01:00:00,A lot of our competitors are everywhere.,0.06591515243053436,0.007542225997895002,0.9265425801277161,neutral,0.05837292596697807
+326,2020-08-26 01:00:00,They're in every market.,0.08103824406862259,0.006107546854764223,0.9128541946411133,neutral,0.07493069767951965
+327,2020-08-26 01:00:00,Some of them are in enterprise and consumer.,0.01833323761820793,0.007893410511314869,0.9737734198570251,neutral,0.010439827106893063
+328,2020-08-26 01:00:00,They're not just in CRM.,0.025911718606948853,0.008136927150189877,0.9659514427185059,neutral,0.0177747905254364
+329,2020-08-26 01:00:00,They're in CRM.,0.0410650372505188,0.010627570562064648,0.948307454586029,neutral,0.030437465757131577
+330,2020-08-26 01:00:00,They're in ERP.,0.052211154252290726,0.010181110352277756,0.9376077651977539,neutral,0.04203004390001297
+331,2020-08-26 01:00:00,They're public cloud.,0.04450300335884094,0.018899278715252876,0.9365976452827454,neutral,0.025603724643588066
+332,2020-08-26 01:00:00,"I mean, we're not -- we're singularly focused so that we can pick up a call, for example.",0.043711062520742416,0.017938585951924324,0.9383503198623657,neutral,0.025772476568818092
+333,2020-08-26 01:00:00,"Like we mentioned, like from a Dan Schulman at PayPal.",0.05529983341693878,0.014784052968025208,0.9299161434173584,neutral,0.040515780448913574
+334,2020-08-26 01:00:00,"And he says, I need sales cloud.",0.11998941749334335,0.12719377875328064,0.7528168559074402,neutral,-0.007204361259937286
+335,2020-08-26 01:00:00,I need service cloud.,0.12661564350128174,0.08930739015340805,0.7840769290924072,neutral,0.03730825334787369
+336,2020-08-26 01:00:00,I need to integrate everything together.,0.2111339271068573,0.010256626643240452,0.7786094546318054,neutral,0.20087729394435883
+337,2020-08-26 01:00:00,We're going to do that for him.,0.258800208568573,0.00798436626791954,0.7332154512405396,neutral,0.25081583857536316
+338,2020-08-26 01:00:00,"Or if we look at our success with CVS this quarter, we look at the tremendous -- their leadership team is incredible, just amazing executives, and how they come together was epic.",0.7000332474708557,0.015568413771688938,0.2843983471393585,positive,0.6844648122787476
+339,2020-08-26 01:00:00,So powerful.,0.5349357724189758,0.016307681798934937,0.44875654578208923,positive,0.5186281204223633
+340,2020-08-26 01:00:00,"But -- and their return-ready product and then the integration with Work.com, that's an imagination I will never had.",0.12471882998943329,0.013609712943434715,0.861671507358551,neutral,0.11110911518335342
+341,2020-08-26 01:00:00,And the vision of Jon Roberts and how he's been able to show how this pharmacy can actually be a key player in the pandemic.,0.4740074574947357,0.01085597462952137,0.5151365399360657,neutral,0.4631514847278595
+342,2020-08-26 01:00:00,"They're doing 100,000 tests a day.",0.0506938174366951,0.013674271292984486,0.9356318712234497,neutral,0.03701954707503319
+343,2020-08-26 01:00:00,This is awesome that they have to have each one of those tests.,0.2655791938304901,0.015072335489094257,0.7193484902381897,neutral,0.25050684809684753
+344,2020-08-26 01:00:00,"It's an on ramp for customer success, so we have to be there with a vision on how to help that happen.",0.43157029151916504,0.01062083337455988,0.5578088164329529,neutral,0.42094945907592773
+345,2020-08-26 01:00:00,And I guess another one that really is on my mind has been VF Corp.,0.020655712112784386,0.028771791607141495,0.9505724310874939,neutral,-0.008116079494357109
+346,2020-08-26 01:00:00,"I mean, I love Vans.",0.0646451786160469,0.009976604953408241,0.9253782033920288,neutral,0.054668575525283813
+347,2020-08-26 01:00:00,"I wear the North Face almost every day, the jacket, fleeces.",0.041211728006601334,0.01795579120516777,0.9408324360847473,neutral,0.023255936801433563
+348,2020-08-26 01:00:00,It's cold where I am.,0.07576611638069153,0.14410381019115448,0.7801300883293152,neutral,-0.06833769381046295
+349,2020-08-26 01:00:00,"And I'll tell you, and I think it's our largest commerce cloud deal ever, maybe not customer because we tend to talk about deals and then we forget about how big these other customers are getting, but it's a great company and they're doing amazing things.",0.6358757019042969,0.012819210067391396,0.3513050675392151,positive,0.6230564713478088
+350,2020-08-26 01:00:00,I also was especially impressed with how Under Armour flipped on our commerce cloud and flipped off the old technology this quarter.,0.684417724609375,0.013969997875392437,0.3016122877597809,positive,0.6704477071762085
+351,2020-08-26 01:00:00,That was really powerful.,0.3624367117881775,0.020864788442850113,0.6166985034942627,neutral,0.3415719270706177
+352,2020-08-26 01:00:00,"I mean, we have to act with a level of speed and capability with our customers who we've never been called on before.",0.4584774971008301,0.010678310878574848,0.5308442115783691,neutral,0.4477991759777069
+353,2020-08-26 01:00:00,"So look, it's continuing to unfold.",0.07449691742658615,0.00972659420222044,0.9157764911651611,neutral,0.06477032601833344
+354,2020-08-26 01:00:00,We all know that.,0.19628600776195526,0.014837460592389107,0.7888765335083008,neutral,0.1814485490322113
+355,2020-08-26 01:00:00,We're doing the best that we can.,0.43708279728889465,0.013322113081812859,0.5495951175689697,neutral,0.42376068234443665
+356,2020-08-26 01:00:00,Our hearts are with those who are going through serious challenges.,0.23749391734600067,0.010884851217269897,0.7516211867332458,neutral,0.22660906612873077
+357,2020-08-26 01:00:00,"So very much -- this is a moment that is very much humbling and bittersweet, and we'll just continue to focus on business as the greatest platform for change.",0.3112049400806427,0.01498381420969963,0.6738112568855286,neutral,0.29622113704681396
+358,2020-08-26 01:00:00,Our products have to be that platform for change.,0.16707424819469452,0.007010414265096188,0.8259153366088867,neutral,0.16006383299827576
+359,2020-08-26 01:00:00,Our values need to be the platform for change.,0.18947844207286835,0.007541123311966658,0.8029804229736328,neutral,0.1819373220205307
+360,2020-08-26 01:00:00,We know what role we play in our industry.,0.07577195018529892,0.005217506550252438,0.919010579586029,neutral,0.07055444270372391
+361,2020-08-26 01:00:00,"We know that we are a light, and that we have to continue to be that light, especially during these difficult times.",0.6126343011856079,0.01242272462695837,0.3749430477619171,positive,0.6002115607261658
+362,2020-08-26 01:00:00,Your next question comes from Taylor McGinnis with Deutsche Bank.,0.030402250587940216,0.015963485464453697,0.9536343216896057,neutral,0.014438765123486519
+363,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+364,2020-08-26 01:00:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+365,2020-08-26 01:00:00,"Thanks for taking my question, and congrats on the awesome quarter.",0.48723533749580383,0.04531664028763771,0.467447966337204,positive,0.4419187009334564
+366,2020-08-26 01:00:00,"So the raise in the full-year operating margin improvement guide of 75 basis points I thought was really solid, considering one that you guys are pulling forward some expenses to fuel growth and guiding to revenue growth in the mid-teens in the back half.",0.9360451102256775,0.020847298204898834,0.04310760274529457,positive,0.9151977896690369
+367,2020-08-26 01:00:00,So curious if you're able to break down the components driving that guide.,0.07546958327293396,0.01763264648616314,0.9068977236747742,neutral,0.05783693492412567
+368,2020-08-26 01:00:00,"Like how much is coming from T&E savings, perhaps, you saw in 2Q or you expect to see further down the line?",0.03435692563652992,0.011140182614326477,0.9545029401779175,neutral,0.023216743022203445
+369,2020-08-26 01:00:00,And wondering if you're able to quantify the pull forward of expenses.,0.13612349331378937,0.013822082430124283,0.8500543832778931,neutral,0.12230141460895538
+370,2020-08-26 01:00:00,Yes.,0.25458356738090515,0.0504973940551281,0.6949190497398376,neutral,0.20408616960048676
+371,2020-08-26 01:00:00,"Thank you, Taylor, for the question.",0.1738157868385315,0.02468327432870865,0.8015009164810181,neutral,0.14913251996040344
+372,2020-08-26 01:00:00,I appreciate that.,0.4375697374343872,0.032725200057029724,0.5297050476074219,neutral,0.4048445224761963
+373,2020-08-26 01:00:00,"We were very pleased to be making the raise of 75 basis points in the midst of everything, especially in the fact that we're further investing to really perpetuate this long-term success for our customer and serving all our stakeholders.",0.915166437625885,0.014276809059083462,0.07055670022964478,positive,0.9008896350860596
+374,2020-08-26 01:00:00,"So I think we're not prepared to quantify the specifics of that, but I think you've got it right.",0.10088510811328888,0.022737503051757812,0.8763774037361145,neutral,0.07814760506153107
+375,2020-08-26 01:00:00,"We're investing in growth areas, think about product, think about go to market, in particular.",0.12952402234077454,0.0054502664133906364,0.8650257587432861,neutral,0.12407375872135162
+376,2020-08-26 01:00:00,"In terms of the further acceleration in the investment, I think it's a good way to frame that.",0.4630115330219269,0.0111455749720335,0.5258429050445557,neutral,0.4518659710884094
+377,2020-08-26 01:00:00,"Of course, we're getting some genuine benefit as well.",0.7601654529571533,0.013344034552574158,0.22649049758911133,positive,0.746821403503418
+378,2020-08-26 01:00:00,"But again, our profit level is a choice, and that's an amazing thing about our business model.",0.5095416903495789,0.011138023808598518,0.4793202579021454,positive,0.4984036684036255
+379,2020-08-26 01:00:00,We're making a choice in terms of where we want to strategically invest.,0.11242583394050598,0.006018143147230148,0.8815560340881348,neutral,0.10640768706798553
+380,2020-08-26 01:00:00,"We've shown in Q2 how we can deliver what we deliver, which is a record operating margin, but we're also trying to balance growth and profit over the long play.",0.7964805364608765,0.014918998815119267,0.18860052525997162,positive,0.781561553478241
+381,2020-08-26 01:00:00,So that's our approach.,0.07232124358415604,0.006006021052598953,0.9216727018356323,neutral,0.06631521880626678
+382,2020-08-26 01:00:00,"I think you nailed it in terms of some of the things, and we're really pleased to be able to raise and make the investments.",0.8467384576797485,0.01242191530764103,0.14083968102931976,positive,0.8343165516853333
+383,2020-08-26 01:00:00,"I hope that helps, Taylor.",0.8205214142799377,0.021679146215319633,0.15779942274093628,positive,0.7988422513008118
+384,2020-08-26 01:00:00,Your next question comes from Phil Winslow with Wells Fargo.,0.03363333269953728,0.019217059016227722,0.9471496343612671,neutral,0.014416273683309555
+385,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+386,2020-08-26 01:00:00,"Hey, thanks.",0.2804774045944214,0.10732636600732803,0.6121962666511536,neutral,0.17315104603767395
+387,2020-08-26 01:00:00,"It was a great quarter, and congrats on really strong results.",0.8551262617111206,0.021235976368188858,0.12363782525062561,positive,0.8338902592658997
+388,2020-08-26 01:00:00,"I really want to drill down into some of the specific clouds, specifically service cloud.",0.037550266832113266,0.00897932704538107,0.9534704089164734,neutral,0.028570938855409622
+389,2020-08-26 01:00:00,That continues to deliver just really robust growth.,0.9293414950370789,0.014779766090214252,0.05587879568338394,positive,0.9145617485046387
+390,2020-08-26 01:00:00,"And obviously, last quarter became the biggest individual cloud, and that continues to stretch that gap.",0.3809340298175812,0.029222914949059486,0.5898430347442627,neutral,0.35171112418174744
+391,2020-08-26 01:00:00,Can you talk about some of the dynamics that you're seeing there in service cloud?,0.03432077914476395,0.01111221220344305,0.954567015171051,neutral,0.02320856600999832
+392,2020-08-26 01:00:00,And how do you think about the sustainability of this on a go-forward basis?,0.034715645015239716,0.007632907014340162,0.9576514363288879,neutral,0.027082737535238266
+393,2020-08-26 01:00:00,"Well, sure.",0.12194069474935532,0.0790860578417778,0.7989732623100281,neutral,0.042854636907577515
+394,2020-08-26 01:00:00,"Let me just touch on some of that at a very high level, and then let me ask Bret to comment as well.",0.04418441653251648,0.011025439016520977,0.9447901248931885,neutral,0.03315897658467293
+395,2020-08-26 01:00:00,But you're right.,0.16039471328258514,0.09724696725606918,0.7423583269119263,neutral,0.06314774602651596
+396,2020-08-26 01:00:00,Service cloud had a record Q2.,0.3721868395805359,0.01848440244793892,0.6093288064002991,neutral,0.3537024259567261
+397,2020-08-26 01:00:00,It continues to grow 20%.,0.923189640045166,0.01507533434778452,0.06173495575785637,positive,0.9081143140792847
+398,2020-08-26 01:00:00,I don't know.,0.05793334171175957,0.06351444125175476,0.8785521984100342,neutral,-0.0055810995399951935
+399,2020-08-26 01:00:00,The numbers are huge.,0.2575657069683075,0.011854533106088638,0.7305797338485718,neutral,0.24571117758750916
+400,2020-08-26 01:00:00,The revenues are huge.,0.22465242445468903,0.00807131826877594,0.7672762274742126,neutral,0.21658110618591309
+401,2020-08-26 01:00:00,The growth rate is huge.,0.45734116435050964,0.01310692261904478,0.5295519232749939,neutral,0.4442342519760132
+402,2020-08-26 01:00:00,It's now larger than sales cloud.,0.26961278915405273,0.025845011696219444,0.7045422196388245,neutral,0.24376778304576874
+403,2020-08-26 01:00:00,"It continues to grow on all fronts, including year-over-year revenue growth.",0.8992973566055298,0.012092076241970062,0.08861064165830612,positive,0.8872053027153015
+404,2020-08-26 01:00:00,You saw that new innovations.,0.20255963504314423,0.01002366654574871,0.7874166369438171,neutral,0.19253596663475037
+405,2020-08-26 01:00:00,The engineering team has done a fantastic job.,0.863137423992157,0.015191398561000824,0.12167123705148697,positive,0.847946047782898
+406,2020-08-26 01:00:00,"The products, that's amazing.",0.4772985577583313,0.01289334800094366,0.5098081231117249,neutral,0.46440520882606506
+407,2020-08-26 01:00:00,Vlocity has added a lot to service cloud.,0.8651812672615051,0.011898024007678032,0.1229206770658493,positive,0.8532832264900208
+408,2020-08-26 01:00:00,They have built a lot on service cloud as another layer of value on service cloud.,0.3484703302383423,0.009417465887963772,0.6421121954917908,neutral,0.33905285596847534
+409,2020-08-26 01:00:00,"And in the last six months, the use of messaging channels on the platform grew more than 600%.",0.9089441895484924,0.013618335127830505,0.07743749022483826,positive,0.8953258395195007
+410,2020-08-26 01:00:00,I think that Bret really illuminated that in a powerful way.,0.35678234696388245,0.013185285031795502,0.6300323009490967,neutral,0.34359705448150635
+411,2020-08-26 01:00:00,"This idea of box growing at 176%; cases logged per day, 33% quarter over quarter; conversations at nearly 19 million per day during the quarter.",0.21896857023239136,0.015597021207213402,0.7654343843460083,neutral,0.2033715546131134
+412,2020-08-26 01:00:00,"And it's a key part of every deal we do because when you're building a Customer 360 and you're building a single source of truth for your customer, the Service Cloud has to be part of it.",0.07382576912641525,0.006919581908732653,0.9192546606063843,neutral,0.06690618395805359
+413,2020-08-26 01:00:00,"There's plenty of companies that have customer service or help desk or service desk or whatever as the stoke isolated solutions, but that's not our vision.",0.015758944675326347,0.018207678571343422,0.966033399105072,neutral,-0.0024487338960170746
+414,2020-08-26 01:00:00,"Our vision is to be able to bring together a Customer 360 because, look, like we're AT&T.",0.4587182402610779,0.0091415299102664,0.5321402549743652,neutral,0.4495767056941986
+415,2020-08-26 01:00:00,"The salesperson in the store needs to be able to work with the field service, professional at home has to work with the service professional in the call center.",0.019376138225197792,0.11213044822216034,0.8684934377670288,neutral,-0.0927543118596077
+416,2020-08-26 01:00:00,It's all interrelated.,0.0646214410662651,0.007812069728970528,0.9275664687156677,neutral,0.05680937319993973
+417,2020-08-26 01:00:00,"And that's why PayPal, for example, is able to get done because its sales and service together -- by the way, combined with marketing, combined with all their other systems through MuleSoft, combined with analytics at Tableau.",0.40688860416412354,0.010216092690825462,0.5828953385353088,neutral,0.3966725170612335
+418,2020-08-26 01:00:00,"So anyway, Bret, would you like to comment here and it might illuminate your vision around that?",0.04327848181128502,0.015199068002402782,0.9415224194526672,neutral,0.028079412877559662
+419,2020-08-26 01:00:00,"Yes, Marc, I think you characterized it well.",0.23583745956420898,0.013926162384450436,0.7502363324165344,neutral,0.22191129624843597
+420,2020-08-26 01:00:00,"I mean, fundamentally, our customers are coming to us to build the Customer 360, that single source of truth for their customers.",0.29937928915023804,0.008354762569069862,0.6922659873962402,neutral,0.2910245358943939
+421,2020-08-26 01:00:00,"So that in the face of unprecedented change for their customers, they can transform their business.",0.8627054691314697,0.013869876973330975,0.12342465668916702,positive,0.8488355875015259
+422,2020-08-26 01:00:00,They can go digital.,0.05319521948695183,0.006910780444741249,0.9398939609527588,neutral,0.04628443717956543
+423,2020-08-26 01:00:00,They can integrate sales and service.,0.08415418118238449,0.005417334381490946,0.9104284644126892,neutral,0.07873684912919998
+424,2020-08-26 01:00:00,"It's really that single source of truth, and it's the anchor tenant of the Customer 360.",0.06186216324567795,0.010692567564547062,0.9274452924728394,neutral,0.05116959661245346
+425,2020-08-26 01:00:00,And I think that's where the momentum is coming from.,0.16617225110530853,0.010893112048506737,0.822934627532959,neutral,0.15527914464473724
+426,2020-08-26 01:00:00,"And when you look at the -- some of the deals Marc talked about like PayPal, it is really the anchor tenant of the value proposition of that Customer 360.",0.11866284161806107,0.0091300830245018,0.8722071051597595,neutral,0.10953275859355927
+427,2020-08-26 01:00:00,Another great example that Gavin mentioned in our last earnings call is Standard Bank.,0.0496855229139328,0.005825606174767017,0.9444888234138489,neutral,0.04385991767048836
+428,2020-08-26 01:00:00,"It's, again, a complete solution for the largest bank in Africa, and one of the things that I think is really powerful about that story is probably the most impactful calls I've done with Gavin in this past quarter was we were talking to their executive team, and the executive team all the way down is actually becoming rangers on Trailhead.",0.19505465030670166,0.09559836238622665,0.7093469500541687,neutral,0.099456287920475
+429,2020-08-26 01:00:00,They're using the service cloud and the Customer 360 as an opportunity to not just transform their technology but transform their culture to become customer-centric and really become a platform.,0.7098116278648376,0.011696165427565575,0.2784922420978546,positive,0.6981154680252075
+430,2020-08-26 01:00:00,"They're rolling out Trailhead to all 50,000 employees with the goal of achieving 20,000 rangers.",0.24791766703128815,0.007265174761414528,0.7448171377182007,neutral,0.24065248668193817
+431,2020-08-26 01:00:00,"And I really do think that this really illustrates the power of these stories around digital transformation, the power of customer service really being the centerpiece of that Customer 360 transformation.",0.15846607089042664,0.007839404046535492,0.8336944580078125,neutral,0.15062665939331055
+432,2020-08-26 01:00:00,Your next question comes from Walter Pritchard with Citi.,0.030016284435987473,0.02239113487303257,0.9475926160812378,neutral,0.007625149562954903
+433,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+434,2020-08-26 01:00:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+435,2020-08-26 01:00:00,Thanks.,0.17633011937141418,0.04143369942903519,0.7822362184524536,neutral,0.1348964273929596
+436,2020-08-26 01:00:00,Wondering -- similar question in that being on commerce cloud.,0.05588715150952339,0.09556321054697037,0.8485496044158936,neutral,-0.039676059037446976
+437,2020-08-26 01:00:00,"I know customers pay, to some degree, on GMV, and they have to come back and reup as volumes go up.",0.0685364231467247,0.04521724954247475,0.886246383190155,neutral,0.023319173604249954
+438,2020-08-26 01:00:00,"Can you help us understand how commerce cloud, just the impact of commerce cloud in the quarter, and how that's driving product sort of holistic sale across the portfolio?",0.05778729170560837,0.007241079118102789,0.9349715709686279,neutral,0.05054621398448944
+439,2020-08-26 01:00:00,"Bret, can you take that for us?",0.07049036771059036,0.017847398295998573,0.911662220954895,neutral,0.05264297127723694
+440,2020-08-26 01:00:00,"Yes, Marc.",0.18152667582035065,0.03739263862371445,0.7810806632041931,neutral,0.1441340446472168
+441,2020-08-26 01:00:00,"We saw over 100% year-over-year GMV growth this past quarter, and I think it really reflects the broad digitization of commerce.",0.7076044082641602,0.011697718873620033,0.2806977927684784,positive,0.6959066987037659
+442,2020-08-26 01:00:00,"And I think when I look at our commerce cloud and our differentiated value proposition, it's two things.",0.06793209165334702,0.008892538025975227,0.9231753349304199,neutral,0.05903955549001694
+443,2020-08-26 01:00:00,One is we do both B2C commerce and B2B commerce.,0.019373450428247452,0.006597427651286125,0.9740291833877563,neutral,0.012776022776961327
+444,2020-08-26 01:00:00,"And I think that when I talk to customers, it's really about all of their channels.",0.02453029341995716,0.013725119642913342,0.9617446660995483,neutral,0.01080517377704382
+445,2020-08-26 01:00:00,It's the direct-to-consumer channels.,0.02557559311389923,0.00716616353020072,0.9672582149505615,neutral,0.018409429118037224
+446,2020-08-26 01:00:00,It's their warehousing.,0.03360865265130997,0.009116857312619686,0.9572744965553284,neutral,0.024491794407367706
+447,2020-08-26 01:00:00,"It's their partnerships, and we're really the one platform that can do both.",0.3261370360851288,0.008364938199520111,0.6654980182647705,neutral,0.3177720904350281
+448,2020-08-26 01:00:00,The second thing is the integration of our commerce cloud with the rest of Customer 360.,0.05825158581137657,0.005123932380229235,0.9366244673728943,neutral,0.053127653896808624
+449,2020-08-26 01:00:00,"I think everyone in the call has experienced buy online, curbside pickup, right?",0.1359088122844696,0.02771746926009655,0.8363737463951111,neutral,0.1081913411617279
+450,2020-08-26 01:00:00,"We probably all experienced that, many of us for the first time.",0.375331848859787,0.014594447799026966,0.6100736856460571,neutral,0.3607374131679535
+451,2020-08-26 01:00:00,"When you think about the technology that facilitates that that's the integration of our commerce cloud, our order management solution, service cloud, and really that end-to-end customer experience.",0.09227075427770615,0.005817220080643892,0.9019120335578918,neutral,0.08645353466272354
+452,2020-08-26 01:00:00,So you're right that GMV is a good indicator of growth at the commerce cloud.,0.8155236840248108,0.014061049558222294,0.1704152673482895,positive,0.8014626502990723
+453,2020-08-26 01:00:00,"But I also want to be clear that our commerce cloud is really a part of a broad solution that we're providing to customers to really digitize their commerce experience, all the way from making that order through the end of that customer experience, whether you're picking it up on the curb or it's being delivered to your doorstep.",0.10695140808820724,0.006933900993317366,0.8861146569252014,neutral,0.10001751035451889
+454,2020-08-26 01:00:00,And those transformations have never been more important in this all-digital work-from-anywhere world.,0.31789126992225647,0.013764265924692154,0.6683444976806641,neutral,0.3041270077228546
+455,2020-08-26 01:00:00,Your next question comes from Kash Rangan with Bank of America.,0.04103086516261101,0.01897374726831913,0.9399953484535217,neutral,0.022057117894291878
+456,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+457,2020-08-26 01:00:00,Hi.,0.12520776689052582,0.05713552236557007,0.8176566958427429,neutral,0.06807224452495575
+458,2020-08-26 01:00:00,Thank you very much.,0.21456867456436157,0.014343257062137127,0.7710880041122437,neutral,0.20022541284561157
+459,2020-08-26 01:00:00,"It's absolutely spellbounding to see -- finding to see organic growth rate, this solid margin expansion, etc., and the leading indicators, RPO as well.",0.24363744258880615,0.010262612253427505,0.7460998892784119,neutral,0.23337483406066895
+460,2020-08-26 01:00:00,"My question for you, Marc, you sounded really excited about Tableau.",0.2545381486415863,0.02091708593070507,0.7245447635650635,neutral,0.23362106084823608
+461,2020-08-26 01:00:00,"You made a very profound statement that it could end up being the most impactful acquisition for certainly Salesforce, maybe in the software industry.",0.5168136954307556,0.014447062276303768,0.46873927116394043,positive,0.5023666620254517
+462,2020-08-26 01:00:00,"As you look at digital transformation, Customer 360, help us the picture of what a Tableau can do for Customer 360 and digital transformation for the industry, looking into 2021 and 2020.",0.06888357549905777,0.005974724423140287,0.9251417517662048,neutral,0.0629088506102562
+463,2020-08-26 01:00:00,"Well, I really appreciate that question because I'll tell you that we're so fortunate to be able to acquire Tableau last year.",0.8704574704170227,0.01322917826473713,0.11631334573030472,positive,0.8572282791137695
+464,2020-08-26 01:00:00,"It is one of the world's leading enterprise software companies, probably one of the most loved brands.",0.6830428242683411,0.012148750945925713,0.3048083782196045,positive,0.6708940863609314
+465,2020-08-26 01:00:00,"The ability to see and understand data, the ability to build these compelling visualizations like you see in the public domain like at public.tableau.com.",0.1527242660522461,0.006400322075933218,0.8408753871917725,neutral,0.14632394909858704
+466,2020-08-26 01:00:00,"But I think the parts that you don't really know are that when we talk to so many companies, they've gone wall to wall with Tableau.",0.036288321018218994,0.06621337682008743,0.8974983096122742,neutral,-0.02992505580186844
+467,2020-08-26 01:00:00,"And doing those types of deals, that's very exciting because Tableau is analytics for the rest of us.",0.3474281430244446,0.009484555572271347,0.6430872678756714,neutral,0.33794358372688293
+468,2020-08-26 01:00:00,"We are always in the analytics business, of course, either through sales cloud.",0.017919735983014107,0.005976052954792976,0.9761041402816772,neutral,0.01194368302822113
+469,2020-08-26 01:00:00,"We've had dashboards and reports, which were great, but very much about kind of they exist, this reporting out of Sales Cloud, or we had Einstein Analytics, which is incredible, but it's super advanced AI, highly programmatic and very enterprise class.",0.18536265194416046,0.00682985270395875,0.8078075647354126,neutral,0.17853279411792755
+470,2020-08-26 01:00:00,This is a capability that means that three companies can deploy analytics easily.,0.6373984217643738,0.011175759136676788,0.35142582654953003,positive,0.6262226700782776
+471,2020-08-26 01:00:00,"It's a simple, easy-to-use and easy-to-understand product.",0.1475815773010254,0.005889673251658678,0.8465287685394287,neutral,0.1416919082403183
+472,2020-08-26 01:00:00,I'm sure a lot of you use it.,0.08437629044055939,0.010711099952459335,0.9049126505851746,neutral,0.07366518676280975
+473,2020-08-26 01:00:00,"Plus you can build these amazing visualizations plus it has this incredible culture, this brand, this community.",0.2281011939048767,0.006937467493116856,0.764961302280426,neutral,0.22116371989250183
+474,2020-08-26 01:00:00,They call themselves the beta.SAM.,0.03248540312051773,0.026578553020954132,0.9409360885620117,neutral,0.005906850099563599
+475,2020-08-26 01:00:00,It's awesome.,0.3733629584312439,0.01241298858076334,0.6142240762710571,neutral,0.36094996333122253
+476,2020-08-26 01:00:00,And they are an incredible group.,0.476092666387558,0.010001355782151222,0.5139060020446777,neutral,0.4660913050174713
+477,2020-08-26 01:00:00,"And they also delivered a great quarter, which impacts us.",0.8610434532165527,0.026974020525813103,0.11198252439498901,positive,0.8340694308280945
+478,2020-08-26 01:00:00,Mark can talk about how that impacts us.,0.03807118535041809,0.011078350245952606,0.9508504271507263,neutral,0.026992835104465485
+479,2020-08-26 01:00:00,But let me tell you how it impacts me.,0.017727721482515335,0.02798408269882202,0.9542881846427917,neutral,-0.010256361216306686
+480,2020-08-26 01:00:00,"It's when I talk to somebody like Bob Moritz, who's the CEO of PwC, which was one of our largest deals in the quarter, but it's also what PwC says, that's going to be our new analytics platform.",0.11157278716564178,0.006167061626911163,0.8822601437568665,neutral,0.10540572553873062
+481,2020-08-26 01:00:00,"And so many conversations with so many companies who have made the decision that now that Tableau as part of Salesforce, they see how this has become part of our Customer 360 and there's a lot of new innovation, a lot of the exciting stuff coming for Tableau.",0.5787132978439331,0.010611329227685928,0.41067540645599365,positive,0.5681019425392151
+482,2020-08-26 01:00:00,And you'll see that with their incredible announcements that are coming.,0.3182408809661865,0.00916068535298109,0.6725984215736389,neutral,0.30908018350601196
+483,2020-08-26 01:00:00,"But Mark, can you just fill in?",0.05785335600376129,0.041999027132987976,0.9001476168632507,neutral,0.015854328870773315
+484,2020-08-26 01:00:00,How does it impact us on a financial basis?,0.01290943007916212,0.03518751263618469,0.9519031047821045,neutral,-0.022278081625699997
+485,2020-08-26 01:00:00,"Yes, Marc, I'm happy to do so.",0.679813802242279,0.017135849222540855,0.30305033922195435,positive,0.6626779437065125
+486,2020-08-26 01:00:00,And I also share the excitement about Tableau.,0.13866710662841797,0.00948867853730917,0.8518442511558533,neutral,0.12917843461036682
+487,2020-08-26 01:00:00,It's just such a great company that -- to serve our customers.,0.6971433758735657,0.0105458227917552,0.29231077432632446,positive,0.6865975260734558
+488,2020-08-26 01:00:00,One of the things it was nice this quarter is Tableau overperformed with their offering and their particular term license offering.,0.1374414712190628,0.7781527638435364,0.08440587669610977,negative,-0.6407113075256348
+489,2020-08-26 01:00:00,They had a number of really nice deals with the various customers who wanted to go even beyond 1 year.,0.5721953511238098,0.01436164602637291,0.413442999124527,positive,0.557833731174469
+490,2020-08-26 01:00:00,We call it multiyear.,0.04266733676195145,0.0047976854257285595,0.9525349736213684,neutral,0.0378696508705616
+491,2020-08-26 01:00:00,"And when that happens, that further helps us in the sense of the revenue recognition.",0.841182291507721,0.012179240584373474,0.14663845300674438,positive,0.8290030360221863
+492,2020-08-26 01:00:00,"And -- but all in all, it's all driven by people liking the product, wanting to invest not in just a year, but in a couple of years.",0.1072789803147316,0.006251470185816288,0.8864695429801941,neutral,0.10102751106023788
+493,2020-08-26 01:00:00,"And the more years out, Marc, the more -- we see that benefit in the top line.",0.6080407500267029,0.012643322348594666,0.37931591272354126,positive,0.595397412776947
+494,2020-08-26 01:00:00,But what also is exciting for us is how it integrates into digital transformation.,0.3309880495071411,0.00793074257671833,0.6610811948776245,neutral,0.32305729389190674
+495,2020-08-26 01:00:00,So it's been very positive.,0.7332954406738281,0.014916707761585712,0.25178787112236023,positive,0.7183787226676941
+496,2020-08-26 01:00:00,And it was a very nice performance for sure.,0.739989697933197,0.022667918354272842,0.23734240233898163,positive,0.7173217535018921
+497,2020-08-26 01:00:00,Congrats to the Tableau team who's listening in today.,0.36619988083839417,0.022229699417948723,0.611570417881012,neutral,0.3439701795578003
+498,2020-08-26 01:00:00,"And I'll also just say -- and I think, Mark, I'll comment here for a second.",0.054198332130908966,0.027859356254339218,0.9179423451423645,neutral,0.026338975876569748
+499,2020-08-26 01:00:00,MuleSoft.,0.04492397606372833,0.02265346609055996,0.9324225783348083,neutral,0.022270509973168373
+500,2020-08-26 01:00:00,We're two years in with MuleSoft.,0.0804891586303711,0.006610940210521221,0.912899911403656,neutral,0.0738782212138176
+501,2020-08-26 01:00:00,Here's another -- this has been a game changer for us because it's the heart and soul of Customer 360.,0.3816377520561218,0.01052169594913721,0.6078405380249023,neutral,0.371116042137146
+502,2020-08-26 01:00:00,"The ability to say to customers with authenticity, we're going to integrate everything for you and bring in all your legacy systems and put APIs on top of them and give you this tremendous capability.",0.5434034466743469,0.009455520659685135,0.44714102149009705,positive,0.5339479446411133
+503,2020-08-26 01:00:00,"These two companies together, this is a huge accelerator on our business that they're both working so well.",0.8825656175613403,0.015478824265301228,0.1019555851817131,positive,0.8670867681503296
+504,2020-08-26 01:00:00,"Mark, can you extend that thought?",0.1271628737449646,0.030927104875445366,0.8419100046157837,neutral,0.09623576700687408
+505,2020-08-26 01:00:00,Yes.,0.25458356738090515,0.0504973940551281,0.6949190497398376,neutral,0.20408616960048676
+506,2020-08-26 01:00:00,"Definitely, Marc.",0.2961929440498352,0.08014743030071259,0.6236595511436462,neutral,0.21604551374912262
+507,2020-08-26 01:00:00,"In fact, again, MuleSoft also was a contributor to our overperformance.",0.05282783508300781,0.7953686118125916,0.15180346369743347,negative,-0.7425407767295837
+508,2020-08-26 01:00:00,"Again, people love the product, Marc.",0.20410187542438507,0.011924093589186668,0.7839739918708801,neutral,0.19217778742313385
+509,2020-08-26 01:00:00,"I like the dialogue you mentioned with the VF Corporation, where they're buying multiple products, including MuleSoft, to get that 360 progress, if you will, of the customer.",0.15825283527374268,0.00881396234035492,0.832933247089386,neutral,0.14943887293338776
+510,2020-08-26 01:00:00,"And for MuleSoft, again, nice overperformance.",0.42650872468948364,0.39118435978889465,0.18230687081813812,positive,0.03532436490058899
+511,2020-08-26 01:00:00,"So all of our MuleSoft team members, congrats to you as well and your contribution to this result in Q2.",0.70880526304245,0.021069621667265892,0.2701251208782196,positive,0.6877356171607971
+512,2020-08-26 01:00:00,"And when they're, again, selling more term licenses, this again has a favorable effect on us, and most importantly, helps us solve problems that customers really need help with.",0.8851498961448669,0.013860056176781654,0.10099008679389954,positive,0.871289849281311
+513,2020-08-26 01:00:00,"And Marc, if I might just add, whether it's MuleSoft or Tableau or even our core products, one of the things that we certainly hear more and more is this whole notion -- and Gavin talked about digital imperative.",0.046492744237184525,0.014971120283007622,0.9385361671447754,neutral,0.03152162581682205
+514,2020-08-26 01:00:00,It is very clear that our products are becoming more and more mission critical.,0.4968408942222595,0.011501623317599297,0.49165746569633484,positive,0.48533928394317627
+515,2020-08-26 01:00:00,"MuleSoft, Marc, is adding to that.",0.20203228294849396,0.010650631040334702,0.7873170375823975,neutral,0.19138164818286896
+516,2020-08-26 01:00:00,"MuleSoft is adding to that 360 solution, and we're becoming more mission critical.",0.75482577085495,0.012425398454070091,0.23274889588356018,positive,0.7424003481864929
+517,2020-08-26 01:00:00,"And one of the effects, Marc, that, that had in this quarter is our attrition rate was better than we had expected.",0.8978530764579773,0.06394609808921814,0.038200851529836655,positive,0.8339070081710815
+518,2020-08-26 01:00:00,And that's in part because we're becoming more mission-critical W-I-T-H MuleSoft with the integration of 360 products and just the shareholder performance of MuleSoft and Tableau contributing to our results.,0.6949969530105591,0.013746916316449642,0.2912561595439911,positive,0.6812500357627869
+519,2020-08-26 01:00:00,Your next question comes from Raimo Lenschow with Barclays.,0.03625912964344025,0.02238984778523445,0.941351056098938,neutral,0.013869281858205795
+520,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+521,2020-08-26 01:00:00,"Hey, thanks for squeezing me in, and congrats from me as well.",0.556035041809082,0.09719311445951462,0.34677189588546753,positive,0.4588419198989868
+522,2020-08-26 01:00:00,A question for Marc and Gavin.,0.050526123493909836,0.02225511521100998,0.9272187352180481,neutral,0.028271008282899857
+523,2020-08-26 01:00:00,"In this new environment that we are living in, can you talk a little bit about what you're seeing in terms of customer engagement in terms of deal size that you kind of may be targeting?",0.06852653622627258,0.00736466608941555,0.9241088032722473,neutral,0.061161868274211884
+524,2020-08-26 01:00:00,"But then also, like, we talked earlier about Dreamforce being kind of more online, like, Dreamforce always was a big event for lead generation, etc.",0.05462566390633583,0.00867647398263216,0.9366978406906128,neutral,0.045949190855026245
+525,2020-08-26 01:00:00,Like how are you shifting that and that maybe kind of bring in a little bit of the comments about the go-to-market investments.,0.04226263239979744,0.01629234105348587,0.941444993019104,neutral,0.02597029134631157
+526,2020-08-26 01:00:00,"Bret, would you like to take that?",0.06034232676029205,0.018336964771151543,0.9213206768035889,neutral,0.04200536012649536
+527,2020-08-26 01:00:00,"Yes, sure.",0.0986340194940567,0.0576980784535408,0.8436679244041443,neutral,0.0409359410405159
+528,2020-08-26 01:00:00,So one thing that I think Marc talked a lot about is we're really focused on having a beginner's minds with our business.,0.11816981434822083,0.007057942450046539,0.8747721910476685,neutral,0.11111187189817429
+529,2020-08-26 01:00:00,"So as Marc mentioned, this is all of our first pandemic, and the way we're doing business is completely transformed.",0.22115075588226318,0.013149314559996128,0.7656999230384827,neutral,0.20800143480300903
+530,2020-08-26 01:00:00,All of our sales engagements happened via Zoom rather than being in person.,0.01631874591112137,0.010839484632015228,0.972841739654541,neutral,0.00547926127910614
+531,2020-08-26 01:00:00,And when I -- I talk to a lot of customers about their own digital transformation.,0.04988015815615654,0.007494692225009203,0.9426251649856567,neutral,0.042385466396808624
+532,2020-08-26 01:00:00,"I always try to guide them, don't translate your analog behaviors into digital media.",0.04888933524489403,0.02287217788398266,0.9282384514808655,neutral,0.02601715736091137
+533,2020-08-26 01:00:00,That's not a digital transformation.,0.06844789534807205,0.007767459377646446,0.9237846732139587,neutral,0.06068043410778046
+534,2020-08-26 01:00:00,That's a digital translation.,0.060737114399671555,0.010435633361339569,0.9288272857666016,neutral,0.050301481038331985
+535,2020-08-26 01:00:00,"And when we think of things like Dreamforce, as Marc said, I -- more than anyone else, I'm totally bummed out we're not going to be in San Francisco in October, November because it's one of my favorite times of the year.",0.03414269909262657,0.05192950740456581,0.9139277935028076,neutral,-0.01778680831193924
+536,2020-08-26 01:00:00,But we really feel like we've demonstrated over this past quarter our ability to reimagine the way we engage with our customers in completely new ways.,0.8169932961463928,0.011940076015889645,0.17106661200523376,positive,0.8050532341003418
+537,2020-08-26 01:00:00,"I think Marc had made a comment in the last earnings call that stuck with me, where he said, on one hand, we're all staring at these screens and it feels so impersonal.",0.049968745559453964,0.5557108521461487,0.39432039856910706,negative,-0.5057421326637268
+538,2020-08-26 01:00:00,"On the other hand, I'm staring into all of my colleagues and customers' living rooms, and it's oddly more personal at the same time.",0.03425254672765732,0.044104479253292084,0.9216429591178894,neutral,-0.009851932525634766
+539,2020-08-26 01:00:00,"So broadly, what I'd say is our ambition to transform our customers with the success of our technologies, our customer's success team, our distribution teams has not changed.",0.2855944037437439,0.00936222355812788,0.7050434350967407,neutral,0.27623218297958374
+540,2020-08-26 01:00:00,"And in fact, I think there's a broader imperative for digital transformation than there ever has been.",0.33951130509376526,0.009112928993999958,0.6513757109642029,neutral,0.3303983807563782
+541,2020-08-26 01:00:00,The way we're going to change -- engage with our customers has completely transformed.,0.39986729621887207,0.012592609040439129,0.5875400900840759,neutral,0.38727468252182007
+542,2020-08-26 01:00:00,"And I think as a company, we really think we developed over the past -- last quarter that mindset of a constantly transforming and reshaping ourselves to be able to meet our customers where they need to be met.",0.7627548575401306,0.0122571662068367,0.2249879390001297,positive,0.7504976987838745
+543,2020-08-26 01:00:00,And I think we have the ability to continue executing on that with humility that predicting the future right now is really hard.,0.58062744140625,0.020339850336313248,0.3990326523780823,positive,0.560287594795227
+544,2020-08-26 01:00:00,We're in the midst of an unprecedented environment.,0.10693437606096268,0.046667106449604034,0.8463984727859497,neutral,0.06026726961135864
+545,2020-08-26 01:00:00,But I think we've developed a lot of confidence internally at our ability to transform ourselves.,0.8672001957893372,0.013691578060388565,0.11910827457904816,positive,0.8535085916519165
+546,2020-08-26 01:00:00,Your next question comes from Sarah Hindlian-Bowler with Macquarie.,0.045410629361867905,0.03489730507135391,0.9196920990943909,neutral,0.010513324290513992
+547,2020-08-26 01:00:00,Please go ahead.,0.061143048107624054,0.022637274116277695,0.9162197113037109,neutral,0.03850577399134636
+548,2020-08-26 01:00:00,Great.,0.3208116292953491,0.06538097560405731,0.6138074398040771,neutral,0.2554306387901306
+549,2020-08-26 01:00:00,Thank you so much for taking my questions and squeezing me in.,0.3026058077812195,0.03334064781665802,0.6640534996986389,neutral,0.26926517486572266
+550,2020-08-26 01:00:00,"Marc, how do you feel about M&A today and all of the back and forth going on around TikTok?",0.017642978578805923,0.02383064292371273,0.9585263729095459,neutral,-0.006187664344906807
+551,2020-08-26 01:00:00,Do you think that M&A appetites are picking up or just the IPO market?,0.1697218120098114,0.0219588540494442,0.8083193302154541,neutral,0.1477629542350769
+552,2020-08-26 01:00:00,And then a more specific question on the quarter.,0.01735941879451275,0.020449703559279442,0.9621908664703369,neutral,-0.003090284764766693
+553,2020-08-26 01:00:00,"Look, the resilience here is really impressive, but so is margin delivery.",0.8020456433296204,0.018534429371356964,0.17941996455192566,positive,0.783511221408844
+554,2020-08-26 01:00:00,"And I understand the balance of growth and investments in the commentary made, but could these better margins be a bit of a new normal given work from home?",0.3938245177268982,0.02178194187581539,0.5843935608863831,neutral,0.37204256653785706
+555,2020-08-26 01:00:00,"And then just lastly, I wanted to say that it's really nice to see you being generous to your employees and still reward your other stakeholders, namely shareholders.",0.7419967651367188,0.01800273358821869,0.24000051617622375,positive,0.7239940166473389
+556,2020-08-26 01:00:00,"Well, thanks.",0.2373083084821701,0.0819176435470581,0.6807740330696106,neutral,0.155390664935112
+557,2020-08-26 01:00:00,"I mean, certainly, we're seeing a very interesting environment in the market, in M&A and IPO.",0.28203678131103516,0.00804845429956913,0.7099148035049438,neutral,0.2739883363246918
+558,2020-08-26 01:00:00,"And I think that for a company like Salesforce, we don't really see an M&A environment.",0.015475389547646046,0.026892060413956642,0.9576325416564941,neutral,-0.011416670866310596
+559,2020-08-26 01:00:00,These are not -- we're not in a moment.,0.051635969430208206,0.07516250014305115,0.8732015490531921,neutral,-0.02352653071284294
+560,2020-08-26 01:00:00,I honestly feel like we're very lucky that we were able to pick up MuleSoft and Tableau when we did because they were both public companies.,0.5797764658927917,0.011187917552888393,0.4090355634689331,positive,0.5685885548591614
+561,2020-08-26 01:00:00,"Today, you can do the math.",0.10922039300203323,0.023867899551987648,0.8669117093086243,neutral,0.08535249531269073
+562,2020-08-26 01:00:00,We would not have been able to buy them.,0.03206580877304077,0.19905926287174225,0.7688748836517334,neutral,-0.16699345409870148
+563,2020-08-26 01:00:00,"There's no way, no how.",0.07225176692008972,0.09498035162687302,0.8327678442001343,neutral,-0.022728584706783295
+564,2020-08-26 01:00:00,"It wouldn't have worked for us financially, so we're not in a good M&A environment.",0.03878249600529671,0.47211724519729614,0.4891001880168915,neutral,-0.43333473801612854
+565,2020-08-26 01:00:00,I just don't see it.,0.05358629673719406,0.17389178276062012,0.7725218534469604,neutral,-0.12030548602342606
+566,2020-08-26 01:00:00,Maybe things could change.,0.35511088371276855,0.025731680914759636,0.6191574335098267,neutral,0.32937920093536377
+567,2020-08-26 01:00:00,"Of course, things always are changing.",0.10048940777778625,0.015215100720524788,0.8842954635620117,neutral,0.08527430891990662
+568,2020-08-26 01:00:00,But I think this isn't part of our plan right now.,0.019264118745923042,0.07070491462945938,0.9100309610366821,neutral,-0.05144079774618149
+569,2020-08-26 01:00:00,We don't see that.,0.023933211341500282,0.06534578651189804,0.910720944404602,neutral,-0.04141257703304291
+570,2020-08-26 01:00:00,"We really see focusing on our business, focusing on these operational values, executing our business.",0.1962655484676361,0.0071284412406384945,0.7966059446334839,neutral,0.18913710117340088
+571,2020-08-26 01:00:00,"Look, we always maintain a beginner's mind.",0.06437485665082932,0.015686817467212677,0.9199383854866028,neutral,0.04868803918361664
+572,2020-08-26 01:00:00,You know that.,0.16991089284420013,0.017735594883561134,0.8123535513877869,neutral,0.15217529237270355
+573,2020-08-26 01:00:00,"But the reality is, right now, this is about our own execution.",0.029074471443891525,0.015680955722928047,0.9552445411682129,neutral,0.013393515720963478
+574,2020-08-26 01:00:00,"We've made these two major players to extend and complement our Customer 360, and that's what we're focused on.",0.8120023012161255,0.011518925428390503,0.17647884786128998,positive,0.8004833459854126
+575,2020-08-26 01:00:00,"Let me take the second part of that question, Marc, on the growth in investment and could the margins be the new normal.",0.0991818830370903,0.008191367611289024,0.8926267623901367,neutral,0.09099051356315613
+576,2020-08-26 01:00:00,Thank you for the question.,0.10163770616054535,0.015956265851855278,0.8824060559272766,neutral,0.08568143844604492
+577,2020-08-26 01:00:00,"So we always are mindful of -- we want, obviously, growth, number one.",0.29158318042755127,0.009580306708812714,0.6988364458084106,neutral,0.28200286626815796
+578,2020-08-26 01:00:00,We want to continue to expand our operating margins and deliver cash flow.,0.9257232546806335,0.012212148867547512,0.06206449866294861,positive,0.9135110974311829
+579,2020-08-26 01:00:00,"We know how critical those three are, financially speaking, and we're always trying to balance that.",0.2127813845872879,0.008194983005523682,0.7790235877037048,neutral,0.20458640158176422
+580,2020-08-26 01:00:00,"We're always making choices with the opportunities in front of us, and we are always reassessing that at the executive suite.",0.16693103313446045,0.008107657544314861,0.8249613642692566,neutral,0.15882337093353271
+581,2020-08-26 01:00:00,So we are pleased to be raising.,0.6413291096687317,0.01212101336568594,0.3465498983860016,positive,0.6292080879211426
+582,2020-08-26 01:00:00,We're always trying to be better.,0.5173854827880859,0.039297230541706085,0.4433172941207886,positive,0.47808825969696045
+583,2020-08-26 01:00:00,"We're always trying to keep an eye on that and going forward, but we think we have the right balance for this year, given the opportunity, given the total addressable market that we're so well-positioned for to serve our customer and the rest of our stakeholders.",0.835406482219696,0.01154201291501522,0.15305157005786896,positive,0.8238644599914551
+584,2020-08-26 01:00:00,"So if we think it's the right balance today, I take your point, and we're always assessing, and we're always trying to be better.",0.4829232692718506,0.034113314002752304,0.48296335339546204,neutral,0.448809951543808
+585,2020-08-26 01:00:00,That is all the time we have for questions.,0.0290718674659729,0.02895824983716011,0.9419698715209961,neutral,0.00011361762881278992
+586,2020-08-26 01:00:00,I'll turn the call back to Evan Goldstein for closing remarks.,0.02091168612241745,0.010262892581522465,0.9688254594802856,neutral,0.010648793540894985
+587,2020-08-26 01:00:00,Thank you for joining us on the call today.,0.15689261257648468,0.012041889131069183,0.8310654759407043,neutral,0.1448507308959961
+588,2020-08-26 01:00:00,"If you have any follow-up questions, please email us at investor@salesforce.com, and look forward to speaking with you on our Q3 results.",0.049452271312475204,0.008469606749713421,0.9420780539512634,neutral,0.04098266363143921
+589,2020-08-26 01:00:00,Thank you.,0.19963274896144867,0.015537066385149956,0.7848302125930786,neutral,0.18409568071365356
+590,2020-08-26 01:00:00,This article is a transcript of this conference call produced for The Motley Fool.,0.014506225474178791,0.009948289953172207,0.9755454659461975,neutral,0.004557935521006584
+591,2020-08-26 01:00:00,"While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript.",0.032834578305482864,0.649779736995697,0.31738564372062683,negative,-0.6169451475143433
+592,2020-08-26 01:00:00,"As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings.",0.05683249235153198,0.008310320787131786,0.934857189655304,neutral,0.04852217063307762
+593,2020-08-26 01:00:00,"Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.",0.013241369277238846,0.008264739066362381,0.9784939289093018,neutral,0.004976630210876465
+594,2020-08-26 01:00:00,Motley Fool Transcribing has no position in any of the stocks mentioned.,0.00812104344367981,0.03355870023369789,0.9583202004432678,neutral,-0.02543765679001808
+595,2020-08-26 01:00:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+596,2020-08-26 01:00:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

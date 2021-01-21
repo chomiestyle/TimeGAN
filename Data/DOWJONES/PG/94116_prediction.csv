@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-10-24 07:29:00,People think of Warren Buffett as the world's best value investor - which is obviously true.,0.2604219913482666,0.014074103906750679,0.7255038619041443,neutral,0.24634788930416107
+1,2013-10-24 07:29:00,But they completely forget that he's also a world-class trader.,0.05842483043670654,0.15968433022499084,0.7818908095359802,neutral,-0.1012594997882843
+2,2013-10-24 07:29:00,"If you want proof, just look at a handful of the moves Berkshire Hathaway (NYSE: BRK-B) made during the financial crisis back in 2008-2009.",0.02495432272553444,0.010288849472999573,0.9647568464279175,neutral,0.014665473252534866
+3,2013-10-24 07:29:00,The biggest example is his investment in Goldman-Sachs ( GS ) in 2008.,0.09171492606401443,0.007048819214105606,0.9012362360954285,neutral,0.08466610312461853
+4,2013-10-24 07:29:00,"If you read the details, it sounds like a completely different person than the slow-moving, deliberate ""my favorite holding period is forever"" value investor we're familiar with…
+
+First off, he sold significant amounts of his holdings in Johnson & Johnson ( JNJ ), Procter & Gamble ( PG ) and ConocoPhillips ( COPY ) to generate the capital to buy $14.5 billion in Goldman stock and warrants
+
+Berkshire invested in Goldman Sachs when every investor was fleeing Wall Street banks.",0.06323200464248657,0.0397070087492466,0.8970609307289124,neutral,0.023524995893239975
+5,2013-10-24 07:29:00,"As a result, he got a great deal since the stock had fallen over 50%.",0.5467365980148315,0.11539672315120697,0.33786672353744507,positive,0.4313398599624634
+6,2013-10-24 07:29:00,"This type of trade lines up exactly with one of Buffett's most oft-quoted sayings: "" Be fearful when others are greedy and greedy when others are fearful. """,0.1902608573436737,0.03463189676403999,0.7751073241233826,neutral,0.155628964304924
+7,2013-10-24 07:29:00,"Buffett made billions from his Goldman trade - and his entry point just happened to coincide with an all-time high in what is known as the Volatility Index - which also just so happens to measure investor fear…
+
+Last week I gave a presentation about the VIX, titled "" Using the VIX to Collect More Income from SPY, IWM and AAPL. """,0.12571042776107788,0.0093318410217762,0.8649576902389526,neutral,0.11637859046459198
+8,2013-10-24 07:29:00,Any investor can use the VIX - even if you're not an options trader.,0.07518257945775986,0.017263226211071014,0.9075542092323303,neutral,0.05791935324668884
+9,2013-10-24 07:29:00,"Before I tell you how, here's a little background into how the VIX came to be:
+
+Developed by the Chicago Board of Exchange in 1993, the CBOE Volatility Index or VIX is one of the most widely accepted methods to gauge stock market volatility.",0.06194828823208809,0.007850251160562038,0.9302014708518982,neutral,0.054098036140203476
+10,2013-10-24 07:29:00,The investor fear index moves higher when fear increases and lower when investors are complacent.,0.3237708806991577,0.22950372099876404,0.44672536849975586,neutral,0.09426715970039368
+11,2013-10-24 07:29:00,That's because when volatility is high investors are typically panicking.,0.04199061170220375,0.2932414710521698,0.6647679209709167,neutral,-0.25125086307525635
+12,2013-10-24 07:29:00,It leads to selling based on fear and quickly falling stock prices.,0.03694184869527817,0.6777716279029846,0.2852865159511566,negative,-0.6408298015594482
+13,2013-10-24 07:29:00,"As you can see in the chart below, there is no doubt that the uncertainty surrounding the government nonsense two weeks ago increased investor fear.",0.37882882356643677,0.26962924003601074,0.3515418767929077,positive,0.10919958353042603
+14,2013-10-24 07:29:00,"And again, there is no better way to see this than in the VIX.",0.10130860656499863,0.04768998548388481,0.8510014414787292,neutral,0.053618621081113815
+15,2013-10-24 07:29:00,The blue circle on the chart shows the spike on the VIX during the government shutdown.,0.18867313861846924,0.058160047978162766,0.7531668543815613,neutral,0.13051308691501617
+16,2013-10-24 07:29:00,"The short answer is that by using the VIX, you can gain an edge of fearful investors.",0.7856956124305725,0.017744218930602074,0.19656012952327728,positive,0.7679513692855835
+17,2013-10-24 07:29:00,Or you can see when investors are being greedy.,0.060995928943157196,0.057619720697402954,0.8813843131065369,neutral,0.003376208245754242
+18,2013-10-24 07:29:00,"It's important to note what's happening in the VIX right now, because it's AGAIN near all time lows.",0.07969430088996887,0.4946439266204834,0.42566177248954773,negative,-0.4149496257305145
+19,2013-10-24 07:29:00,"The last time we saw the VIX bumping along the bottom of its range like this was in 2007… and the time before that was in 1999, and then before that was in 1994.",0.028395244851708412,0.10148923099040985,0.8701155185699463,neutral,-0.07309398800134659
+20,2013-10-24 07:29:00,I don't have to tell you what happened in the months and years following those periods of historically low fear.,0.024122167378664017,0.013219596818089485,0.9626582860946655,neutral,0.010902570560574532
+21,2013-10-24 07:29:00,"If you're an options trader, you can use this type of low volatility to make money if/when the VIX rises.",0.05406330153346062,0.009103156626224518,0.9368335604667664,neutral,0.0449601449072361
+22,2013-10-24 07:29:00,"But if you're not, you should still keep an eye on the VIX.",0.07818744331598282,0.021646680310368538,0.900165855884552,neutral,0.05654076486825943
+23,2013-10-24 07:29:00,"We don't know if Warren Buffett uses it as an indicator for his trades, but big moves in the VIX certainly seem to line up with some of his most successful investments…
+
+At the very least, take a look at the VIX when you're about to make big buying or selling decisions.",0.14272883534431458,0.011726892553269863,0.8455442190170288,neutral,0.13100194931030273
+24,2013-10-24 07:29:00,"Be greedy when others are fearful, and visa versa.",0.08609091490507126,0.03779459744691849,0.8761144876480103,neutral,0.04829631745815277
+25,2013-10-24 07:29:00,Let the VIX be your guide.,0.07102401554584503,0.011978822760283947,0.9169971942901611,neutral,0.05904519185423851
+26,2013-10-24 07:29:00,"And if you're interested in using the VIX to make extra income with options, you should take a look at the presentation I made last Wednesday .",0.05106111615896225,0.006201454438269138,0.9427374601364136,neutral,0.044859662652015686
+27,2013-10-24 07:29:00,"Within the presentation I discuss in great detail, three specific examples of how I use the VIX to take advantage of fear in the market.",0.03332192078232765,0.006303177215158939,0.9603749513626099,neutral,0.027018744498491287
+28,2013-10-24 07:29:00,It's one of the most important aspects of selling options so if you wish to learn how to take advantage of fear in the market you don't want to miss my presentation.,0.04338410869240761,0.01388612762093544,0.9427297115325928,neutral,0.029497981071472168
+29,2013-10-24 07:29:00,Is the VIX an indicator that you're currently using?,0.043248165398836136,0.029071826487779617,0.9276800155639648,neutral,0.014176338911056519
+30,2013-10-24 07:29:00,Do you have questions about the VIX?,0.027913689613342285,0.04653025045990944,0.9255560636520386,neutral,-0.018616560846567154
+31,2013-10-24 07:29:00,I would love to hear from you.,0.2389359474182129,0.011740162968635559,0.749323844909668,neutral,0.22719578444957733
+32,2013-10-24 07:29:00,Please send me an email at andy.crowder@wyattresearch.com .,0.02355828881263733,0.025467144325375557,0.9509745240211487,neutral,-0.0019088555127382278
+33,2013-10-24 07:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

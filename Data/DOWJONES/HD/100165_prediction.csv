@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-08-26 00:22:00,"""It was an incredibly slow news day,"" noted Schaeffer's Senior Technical Strategist Ryan Detrick, CMT.",0.03046717867255211,0.9196125268936157,0.049920279532670975,negative,-0.8891453742980957
+1,2013-08-26 00:22:00,"""The bulls were in control, and then late-day worries regarding Syria sparked some selling.",0.70880526304245,0.07876676321029663,0.2124280035495758,positive,0.6300384998321533
+2,2013-08-26 00:22:00,"The end of August is usually a light volume, choppy mess.",0.028375398367643356,0.34096845984458923,0.6306561231613159,neutral,-0.3125930726528168
+3,2013-08-26 00:22:00,"Today was exactly that, and there's a good chance we'll see more days like this the rest of the week.""",0.6628248691558838,0.07775416970252991,0.2594209313392639,positive,0.5850707292556763
+4,2013-08-26 00:22:00,"Meanwhile, a disappointing durable goods report rubbed salt in the proverbial wounds, all of which led the Dow Jones Industrial Average (DJI) to finish firmly in the red.",0.42011043429374695,0.4740510880947113,0.10583846271038055,negative,-0.053940653800964355
+5,2013-08-26 00:22:00,"Continue reading for more on today's market, including :
+• Schaeffer's Senior Trading Analyst Bryan Sapp reminds traders to ""never short a dull market,"" and offers up a neutral spread strategy for Caterpillar ( CAT ).",0.10460886359214783,0.047155555337667465,0.8482356071472168,neutral,0.05745330825448036
+6,2013-08-26 00:22:00,"• The latest edition of The Week Ahead highlights upcoming events for an Internet company, a global delivery service, and an alternative energy firm.",0.05144278705120087,0.007782124448567629,0.9407750368118286,neutral,0.043660663068294525
+7,2013-08-26 00:22:00,• Bearish speculators took advantage of Bank of America's ( BAC ) relatively cheap option prices by scooping up short-term puts to wager on a downturn.,0.8748804926872253,0.038503460586071014,0.08661608397960663,positive,0.8363770246505737
+8,2013-08-26 00:22:00,"Durable goods orders declined in July, Amgen ( AMGN ) bought out one of its sector peers, and LinkedIn ( LNKD ) touched a new all-time peak.",0.03428950905799866,0.9481464624404907,0.017564035952091217,negative,-0.9138569831848145
+9,2013-08-26 00:22:00,"The Dow Jones Industrial Average (DJI - 14,946.46) was able to ward off data-induced losses for a large portion of the day, but dropped abruptly to an intraday low of 14,945.24 during the last hour of trading.",0.02281753532588482,0.9653650522232056,0.01181738544255495,negative,-0.9425475001335144
+10,2013-08-26 00:22:00,"By the close, the blue-chip barometer was off 64.1 points, or 0.4%.",0.021601514890789986,0.9663905501365662,0.012007875367999077,negative,-0.9447890520095825
+11,2013-08-26 00:22:00,"Home Depot ( HD ) led the four advancers with a 2.1% gain, while Procter & Gamble (PG) paced the 26 decliners with a loss of 1.8%.",0.433148056268692,0.42402923107147217,0.14282266795635223,positive,0.009118825197219849
+12,2013-08-26 00:22:00,"The S&P 500 Index (SPX - 1,656.78) also managed to trek higher throughout the first half of the day, before tumbling to a session low of 1,656.02 just ahead of the close.",0.08945755660533905,0.8785907626152039,0.03195169195532799,negative,-0.7891331911087036
+13,2013-08-26 00:22:00,"In the end, the index lost 6.7 points, or 0.4%.",0.018694525584578514,0.9709612131118774,0.01034421008080244,negative,-0.9522666931152344
+14,2013-08-26 00:22:00,"Meanwhile, the Nasdaq Composite (COMP - 3,657.57) edged 0.2 point, or 0.01%, lower.",0.023952146992087364,0.9649052023887634,0.011142665520310402,negative,-0.9409530758857727
+15,2013-08-26 00:22:00,"Elsewhere, the CBOE Market Volatility Index (VIX - 14.99) took the opposite path by trending lower in the morning, and then spiking to an intraday high of 15.01 later in the session.",0.28082892298698425,0.5903452038764954,0.12882590293884277,negative,-0.3095162808895111
+16,2013-08-26 00:22:00,"On the day, the ""fear gauge"" gained 1 point, or 7.2%.",0.9303218722343445,0.03284716606140137,0.036831047385931015,positive,0.8974747061729431
+17,2013-08-26 00:22:00,"""Today was more of the same, as blue chips trailed and tech stocks led,"" continued Detrick.",0.6909400820732117,0.028803076595067978,0.2802569270133972,positive,0.6621370315551758
+18,2013-08-26 00:22:00,"""The Dow has lagged significantly recently, but the Nasdaq is close to a new 52-week high.",0.7830778360366821,0.1433912217617035,0.07353091239929199,positive,0.6396865844726562
+19,2013-08-26 00:22:00,Small-caps have also held up better on the recent dip.,0.9122874140739441,0.05554995313286781,0.03216267377138138,positive,0.8567374348640442
+20,2013-08-26 00:22:00,"The big question is, who is right?""",0.08741439133882523,0.1503399908542633,0.7622455954551697,neutral,-0.06292559951543808
+21,2013-08-26 00:22:00,"3 Things to Know About Today's Market :
+• The Commerce Department said durable goods orders fell by 7.3% in July, which exceeded consensus estimates for a drop of just 4%.",0.020309923216700554,0.9711312055587769,0.00855887308716774,negative,-0.9508212804794312
+22,2013-08-26 00:22:00,This latest figure -- which reflects the largest monthly decline in almost a year -- comes on the heels a 3.9% increase in June.,0.06576589494943619,0.9093629717826843,0.024871189147233963,negative,-0.8435970544815063
+23,2013-08-26 00:22:00,"Excluding transportation, orders slipped by 0.6%.",0.019629107788205147,0.972388744354248,0.0079822251573205,negative,-0.9527596235275269
+24,2013-08-26 00:22:00,"(CNBC)
+• The Dallas Fed reported that its general business activity index rose to 5.0 this month, up from July's reading of 4.4.",0.9494704008102417,0.02458309568464756,0.0259464830160141,positive,0.9248872995376587
+25,2013-08-26 00:22:00,"Although a number of subindexes were sluggish last month, the latest figure was boosted by a surge in the employment index, which arrived at 11.2 -- its highest reading in 52 weeks.",0.9391996264457703,0.03232131525874138,0.028479015454649925,positive,0.9068782925605774
+26,2013-08-26 00:22:00,"(Nasdaq)
+• In M&A news, Amgen ( AMGN ) inked a deal to buy Onyx Pharmaceuticals (ONXX) for about $10.4 billion over the weekend.",0.8426963090896606,0.014037077315151691,0.14326655864715576,positive,0.8286592364311218
+27,2013-08-26 00:22:00,"The cash buyout values ONXX -- maker of Kyprolis, a blood cancer drug -- at approximately $125 per share, and is expected to be finalized in the beginning of the fourth quarter.",0.14964674413204193,0.005753365345299244,0.8445998430252075,neutral,0.14389337599277496
+28,2013-08-26 00:22:00,"(MarketWatch)
+• Near-term traders focused on AT&T's (T) October series of puts once again, with hopes for further losses.",0.07208815962076187,0.8969300985336304,0.03098176419734955,negative,-0.8248419165611267
+29,2013-08-26 00:22:00,"• Sentiment surrounding General Electric (GE) has been bullishly skewed lately, despite recent technical woes.",0.08996447175741196,0.8758006691932678,0.0342349037528038,negative,-0.7858362197875977
+30,2013-08-26 00:22:00,• Outperforming LinkedIn ( LNKD ) -- which tagged a new record high today -- continues to attract option bears.,0.916463315486908,0.05019588768482208,0.033340759575366974,positive,0.8662674427032471
+31,2013-08-26 00:22:00,"For a look at today's options movers and commodities activity, head to page 2.",0.011671511456370354,0.018261956050992012,0.9700665473937988,neutral,-0.006590444594621658
+32,2013-08-26 00:22:00,"Crude oil futures faltered today, following this morning's weaker-than-expected durable goods report.",0.023446382954716682,0.9655476212501526,0.0110061289742589,negative,-0.942101240158081
+33,2013-08-26 00:22:00,"By the time the closing bell rang, October-dated oil shaved off 50 cents, or 0.85%, to settle at $105.92 per barrel.",0.1266031712293625,0.8429542779922485,0.030442556366324425,negative,-0.7163510918617249
+34,2013-08-26 00:22:00,"Meanwhile, the same data weighed on gold futures, although the precious metal did manage to briefly ascend past $1,400 an ounce earlier in the day.",0.23602446913719177,0.6733334064483643,0.09064210951328278,negative,-0.4373089373111725
+35,2013-08-26 00:22:00,"Still, December-dated gold shed $2.70, or 0.2%, to finish at $1,393.10 an ounce.",0.021743837743997574,0.9681856036186218,0.010070604272186756,negative,-0.9464417695999146
+36,2013-08-26 00:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942188858985901,0.013680474832654,0.9763773083686829,neutral,-0.0037382859736680984
+37,2013-08-26 00:22:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200573846697807,0.9573419094085693,neutral,-0.02135336399078369

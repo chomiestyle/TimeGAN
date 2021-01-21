@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-24 12:25:00,"Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in McDonald's Corp (Symbol: MCD), where a total of 34,192 contracts have traded so far, representing approximately 3.4 million underlying shares.",0.4328450858592987,0.03179105371236801,0.5353638529777527,neutral,0.4010540246963501
+1,2020-03-24 12:25:00,That amounts to about 42.6% of MCD's average daily trading volume over the past month of 8.0 million shares.,0.020444193854928017,0.01087717991322279,0.9686786532402039,neutral,0.009567013941705227
+2,2020-03-24 12:25:00,"Particularly high volume was seen for the $160 strike call option expiring March 27, 2020, with 1,600 contracts trading so far today, representing approximately 160,000 underlying shares of MCD.",0.20223572850227356,0.010633178055286407,0.7871310710906982,neutral,0.19160255789756775
+3,2020-03-24 12:25:00,"Below is a chart showing MCD's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) saw options trading volume of 40,699 contracts, representing approximately 4.1 million underlying shares or approximately 41.1% of HD's average daily trading volume over the past month, of 9.9 million shares.",0.019667698070406914,0.013647515326738358,0.9666847586631775,neutral,0.006020182743668556
+4,2020-03-24 12:25:00,"Particularly high volume was seen for the $200 strike call option expiring April 17, 2020, with 3,681 contracts trading so far today, representing approximately 368,100 underlying shares of HD.",0.24080149829387665,0.01057357620447874,0.7486249208450317,neutral,0.23022791743278503
+5,2020-03-24 12:25:00,"Below is a chart showing HD's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+And Clovis Oncology Inc (Symbol: CLVS) saw options trading volume of 27,397 contracts, representing approximately 2.7 million underlying shares or approximately 40.6% of CLVS's average daily trading volume over the past month, of 6.7 million shares.",0.01859031617641449,0.012808731757104397,0.9686009287834167,neutral,0.005781584419310093
+6,2020-03-24 12:25:00,"Especially high volume was seen for the $7 strike call option expiring April 17, 2020, with 11,667 contracts trading so far today, representing approximately 1.2 million underlying shares of CLVS.",0.24231530725955963,0.010474009439349174,0.747210681438446,neutral,0.2318412959575653
+7,2020-03-24 12:25:00,"Below is a chart showing CLVS's trailing twelve month trading history, with the $7 strike highlighted in orange:
+
+For the various different available expirations for MCD options, HD options, or CLVS options, visit StockOptionsChannel.com.",0.009749854914844036,0.021558664739131927,0.9686915278434753,neutral,-0.011808809824287891
+8,2020-03-24 12:25:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

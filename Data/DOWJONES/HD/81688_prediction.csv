@@ -1,0 +1,30 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-18 01:35:00,"Stocks sailed into the long weekend with a big win, as a fresh batch of U.S.-China trade headlines fueled investors' appetite for risk -- and offset a negative earnings reaction for Netflix ( NFLX ).",0.8825739622116089,0.08112028986215591,0.03630572557449341,positive,0.8014536499977112
+1,2019-01-18 01:35:00,"The Dow added more than 300 points as trade-sensitive Caterpillar ( CAT ) climbed and oil major Chevron ( CVX ) surged on a big bull note , while the S&P 500 Index and Nasdaq each nabbed their highest daily closes in six weeks.",0.7983306646347046,0.09932652115821838,0.10234275460243225,positive,0.6990041732788086
+2,2019-01-18 01:35:00,"What's more, all three major indexes notched a fourth straight daily and weekly win.",0.880881667137146,0.030697345733642578,0.08842095732688904,positive,0.8501843214035034
+3,2019-01-18 01:35:00,"Looking ahead, the U.S. stock market will be closed on Monday for Martin Luther King Jr. Day.",0.04164803773164749,0.13566797971725464,0.8226839303970337,neutral,-0.09401994198560715
+4,2019-01-18 01:35:00,"Continue reading for more on today's market, including:
+• 2 reasons Fifth Third stock could struggle next week.",0.04407699033617973,0.8920699954032898,0.06385308504104614,negative,-0.847993016242981
+5,2019-01-18 01:35:00,"• Plus, behind Tiffany's volatile session; 2 drug stocks hit by FDA news; and Tesla's passing out pink slips.",0.11985526233911514,0.6472576260566711,0.23288708925247192,negative,-0.5274023413658142
+6,2019-01-18 01:35:00,"The Dow Jones Industrial Average (DJI - 24,706.35) closed near its session high, up 336.3 points, or 1.4%.",0.8941045999526978,0.06309500336647034,0.04280036687850952,positive,0.8310096263885498
+7,2019-01-18 01:35:00,"All 30 Dow stocks closed higher, led by a 2.7% gain for Home Depot ( HD ).",0.9395177364349365,0.02946806699037552,0.031014174222946167,positive,0.9100496768951416
+8,2019-01-18 01:35:00,Walt Disney ( DIS ) brought up the rear with its 0.02% advance.,0.6215254068374634,0.059132084250450134,0.31934255361557007,positive,0.562393307685852
+9,2019-01-18 01:35:00,"For the week, the Dow added 3%.",0.8680869340896606,0.03945348784327507,0.09245957434177399,positive,0.8286334276199341
+10,2019-01-18 01:35:00,"The S&P 500 Index (SPX - 2,670.71) added 34.8 points, or 1.3%, on the day, and 2.7% on the week.",0.9164641499519348,0.04240214452147484,0.041133683174848557,positive,0.8740620017051697
+11,2019-01-18 01:35:00,"The Nasdaq Composite (IXIC - 7,157.23) gained 72.8 points, or 1%, bringing its weekly win to 2.6%.",0.9459461569786072,0.026004230603575706,0.028049610555171967,positive,0.9199419021606445
+12,2019-01-18 01:35:00,"The Cboe Volatility Index (VIX - 17.80) shed 0.3 point, or 1.4%, marking its first close south of 18 since Dec. 3.",0.021624809131026268,0.9689658880233765,0.009409266524016857,negative,-0.9473410844802856
+13,2019-01-18 01:35:00,"Week-over-week, the market's ""fear gauge"" slumped 2.1%.",0.020714685320854187,0.9703219532966614,0.008963408879935741,negative,-0.949607253074646
+14,2019-01-18 01:35:00,• The University of Michigan's consumer sentiment index plunged to 90.7 in January from 98.3 in December -- well below the 97.5 analysts were expecting -- marking the lowest reading since the 2016 U.S. presidential election.,0.018995078280568123,0.9705052971839905,0.010499585419893265,negative,-0.9515101909637451
+15,2019-01-18 01:35:00,"Elsewhere on the economic front, industrial production rose 0.3% last month, as expected, while manufacturing output jumped by a larger-than-forecast 1.1%.",0.9433517456054688,0.030227094888687134,0.02642112225294113,positive,0.913124680519104
+16,2019-01-18 01:35:00,"( MarketWatch )
+• New York Fed President John Williams echoed the dovish tone taken by his central bank colleagues recently, saying ""the motto of 'data dependence' is more relevant than ever"" when it comes to raising interest rates.",0.4921983778476715,0.06599058210849762,0.44181108474731445,positive,0.4262077808380127
+17,2019-01-18 01:35:00,"Additionally, Williams -- a voting Federal Open Market Committee (FOMC) member -- noted, ""if the outlook deteriorates in a material way, we stand prepared to deploy all our policy tools as appropriate in support of the economy.""",0.7069425582885742,0.021400636062026024,0.27165675163269043,positive,0.6855419278144836
+18,2019-01-18 01:35:00,"( CNBC )
+• It was a wild day of trading for luxury retail stock Tiffany.",0.7153998017311096,0.03485787287354469,0.24974234402179718,positive,0.6805419325828552
+19,2019-01-18 01:35:00,• These 2 drug stocks slumped on Food and Drug Administration (FDA) news .,0.020201275125145912,0.9689362049102783,0.010862576775252819,negative,-0.9487349390983582
+20,2019-01-18 01:35:00,• Tesla sold off after the electric carmaker gave dismal guidance and said it's cutting jobs .,0.023442193865776062,0.9577992558479309,0.0187585037201643,negative,-0.9343570470809937
+21,2019-01-18 01:35:00,"February-dated crude futures rose $1.73, or 3,3%, to close at $53.80 per barrel after Baker Hughes reported a sharp drop in the U.S. oil-rig count.",0.773036003112793,0.18559880554676056,0.04136524721980095,positive,0.5874372124671936
+22,2019-01-18 01:35:00,"For the week, oil prices jumped 3.7%.",0.9181101322174072,0.029775824397802353,0.05211402848362923,positive,0.888334333896637
+23,2019-01-18 01:35:00,Gold prices dropped as a surging stock market and stronger dollar lessened the metal's appeal.,0.06542959064245224,0.88997483253479,0.04459551349282265,negative,-0.8245452642440796
+24,2019-01-18 01:35:00,"Gold for February delivery gave back $9.70, or 0.8%, to settle at $1,282.60 an ounce, bringing its weekly deficit to 0.5%.",0.6182078123092651,0.33855438232421875,0.04323790594935417,positive,0.2796534299850464
+25,2019-01-18 01:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

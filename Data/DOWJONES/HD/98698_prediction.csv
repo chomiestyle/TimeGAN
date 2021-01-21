@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-26 22:20:00,"Among the nation's largest companies, Home Depot stands out as one of the best in this regard.",0.8625938892364502,0.017137616872787476,0.12026847898960114,positive,0.8454562425613403
+1,2016-10-26 22:20:00,"Its ROIC places it at the top within the Dow, essentially tied with Apple and Boeing .",0.7148615121841431,0.02370717003941536,0.2614312767982483,positive,0.6911543607711792
+2,2016-10-26 22:20:00,"Like many of these giants, Home Depot has relied heavily on borrowing to increase shareholder returns.",0.7559428215026855,0.014066657051444054,0.22999057173728943,positive,0.7418761849403381
+3,2016-10-26 22:20:00,Long-term debt has risen to about $21 billion from $11 billion in the past five years.,0.9511788487434387,0.018573548644781113,0.030247634276747704,positive,0.9326053261756897
+4,2016-10-26 22:20:00,Its debt-to-equity ratio has surged from 60% to over 300% now.,0.9471079707145691,0.016687024384737015,0.03620500490069389,positive,0.9304209351539612
+5,2016-10-26 22:20:00,"Business efficiency has spiked over that time, though, suggesting that management has been putting the cash to good work.",0.932706356048584,0.022301768884062767,0.04499193653464317,positive,0.9104045629501343
+6,2016-10-26 22:20:00,Working capital is down even though the sales base has spiked.,0.015998171642422676,0.9657191038131714,0.018282778561115265,negative,-0.9497209191322327
+7,2016-10-26 22:20:00,And inventory turnover has improved to 4.9 times per year from 4.3 times in 2011.,0.9578904509544373,0.026965564116835594,0.015143955126404762,positive,0.9309248924255371
+8,2016-10-26 22:20:00,"Meanwhile, Home Depot's share count has plunged by 18% as management spent billions on stock buybacks .",0.019380630925297737,0.9693828821182251,0.011236530728638172,negative,-0.9500022530555725
+9,2016-10-26 22:20:00,"As a result, per-share earnings are up 121% even though net income rose by just 80%.",0.9541959762573242,0.02227577567100525,0.023528216406702995,positive,0.9319201707839966
+10,2016-10-26 22:20:00,Executives prioritize capital allocation as a key part of running the business.,0.03426816686987877,0.005662472918629646,0.9600693583488464,neutral,0.028605693951249123
+11,2016-10-26 22:20:00,"In fact, it's one of the retailer's three biggest initiatives.",0.4132985472679138,0.00934156496077776,0.5773598551750183,neutral,0.40395697951316833
+12,2016-10-26 22:20:00,"Home Depot advances its efficiency metrics, it says in its 10-K report, by ""building best-in-class competitive advantages in our information technology and supply chain to better ensure product availability to our customers while managing our costs.""",0.9406391978263855,0.015355577692389488,0.04400527477264404,positive,0.9252836108207703
+13,2016-10-26 22:20:00,"More gains are on the way
+
+Home Depot's latest logistics initiative is a network of rapid deployment centers that involves deep collaboration between the company, its suppliers, and its transportation providers.",0.8770538568496704,0.013353178277611732,0.10959289968013763,positive,0.8637006878852844
+14,2016-10-26 22:20:00,The strategy should yield a big reduction in the average time between when a product leaves a supplier and when it arrives on a Home Depot shelf.,0.09367908537387848,0.4905152916908264,0.41580572724342346,negative,-0.39683622121810913
+15,2016-10-26 22:20:00,"Inventory management may not be the most exciting thing Home Depot is working on , but it is the project that's most likely to keep capital returns churning higher.",0.8367969393730164,0.01676941104233265,0.14643359184265137,positive,0.8200275301933289
+16,2016-10-26 22:20:00,CEO Craig Menear and his executive team believe that there is plenty of room for ROIC to improve in the coming years.,0.9270966649055481,0.013058917596936226,0.059844501316547394,positive,0.9140377640724182
+17,2016-10-26 22:20:00,"They project achieving a whopping 35% by 2018, the same year that the company expects to pass $100 billion of annual sales while hitting a 15% operating margin.",0.9452475905418396,0.019958753138780594,0.0347936674952507,positive,0.9252888560295105
+18,2016-10-26 22:20:00,Debt will probably play an important role in that ROIC growth.,0.22985681891441345,0.007264384068548679,0.7628788352012634,neutral,0.22259242832660675
+19,2016-10-26 22:20:00,But investors have every reason to believe management will continue to make smart choices about where to best deploy those funds for their benefit.,0.6563103199005127,0.011616409756243229,0.33207330107688904,positive,0.644693911075592
+20,2016-10-26 22:20:00,"The world's biggest tech company forgot to show you something, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07462237030267715,0.16781271994113922,0.757564902305603,neutral,-0.09319034963846207
+21,2016-10-26 22:20:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+22,2016-10-26 22:20:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+23,2016-10-26 22:20:00,"Demitrios Kalogeropoulos owns shares of Apple, Home Depot, and Nike.",0.018589859828352928,0.008947513066232204,0.9724625945091248,neutral,0.009642346762120724
+24,2016-10-26 22:20:00,The Motley Fool owns shares of and recommends Apple and Nike.,0.03190268576145172,0.020892813801765442,0.9472045302391052,neutral,0.01100987195968628
+25,2016-10-26 22:20:00,The Motley Fool has the following Apple options: long January 2018 $90 calls and short January 2018 $95 calls.,0.018664952367544174,0.015798624604940414,0.9655364751815796,neutral,0.0028663277626037598
+26,2016-10-26 22:20:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+27,2016-10-26 22:20:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+28,2016-10-26 22:20:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+29,2016-10-26 22:20:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+30,2016-10-26 22:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

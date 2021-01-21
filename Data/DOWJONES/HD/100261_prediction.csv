@@ -1,0 +1,27 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-05-20 08:00:00,This article was written by Claire Gordon and originally appeared on AOL Jobs .,0.017305027693510056,0.014650962315499783,0.9680440425872803,neutral,0.002654065378010273
+1,2013-05-20 08:00:00,"Wal-Mart ( WMT ) tried to put a positive spin on its disappointing earnings report Thursday, which showed declining US sales.",0.11674311012029648,0.8508127331733704,0.03244419023394585,negative,-0.7340696454048157
+2,2013-05-20 08:00:00,But a survey released Friday contains another bad sign for America's wealthiest company and largest employer: Just 38% of employees think Wal-Mart's business outlook is good.,0.020295988768339157,0.9563087224960327,0.023395206779241562,negative,-0.9360127449035645
+3,2013-05-20 08:00:00,"The report from Glassdoor.com, the employment review website, looked at people's expectations for their employers for the coming six months.",0.04644588381052017,0.24968834221363068,0.7038658261299133,neutral,-0.2032424509525299
+4,2013-05-20 08:00:00,"Wal-Mart didn't perform significantly below average, but it got a lower score than other major US brands.",0.022540604695677757,0.9570451378822327,0.0204142015427351,negative,-0.934504508972168
+5,2013-05-20 08:00:00,"Forty-three percent of Target ( TGT ) workers gave their employer a positive outlook, and a solid majority of Home Depot ( HD ) and Whole Foods ( WFM ) workers (61% and 62%, respectively) said their companies were on the upswing.",0.8589683771133423,0.03198213875293732,0.10904940962791443,positive,0.8269862532615662
+6,2013-05-20 08:00:00,"Tech Companies at the Top and the Bottom
+
+The top five performers were all software or Internet companies: Google ( GOOG ), Qualcomm (QCOM), Yahoo (YHOO), SAP (SAP), and Amazon (AMZN).",0.10101568698883057,0.05457231402397156,0.8444119691848755,neutral,0.04644337296485901
+7,2013-05-20 08:00:00,But most of the worst performers were also in the tech space.,0.020954884588718414,0.9387656450271606,0.040279533714056015,negative,-0.9178107380867004
+8,2013-05-20 08:00:00,"Just 35% of Microsoft (MSFT) employees gave their company a positive outlook, as did 32% of workers at Hewlett-Packard (HPQ), 31% at Intel (INTC), and 22% at Dell (DELL).",0.21629664301872253,0.42685502767562866,0.3568483591079712,negative,-0.21055838465690613
+9,2013-05-20 08:00:00,"Why Wal-Mart Workers Are So Pessimistic
+
+On Glassdoor.com, Wal-Mart employees repeat the same complaints: poor communication from upper management, low pay, no merit-based raises, and favoritism that pummels morale.",0.02520875632762909,0.9545976519584656,0.02019360288977623,negative,-0.9293888807296753
+10,2013-05-20 08:00:00,"Many lower-level workers strike the same note as this sales associate from Dillon, SC: ""Not a job to make a career out of.""",0.04188331216573715,0.8363802433013916,0.12173645198345184,negative,-0.7944969534873962
+11,2013-05-20 08:00:00,"They also frequently cite staff shortages, an issue that Bloomberg News reported on earlier this year.",0.0216630008071661,0.9583083987236023,0.020028652623295784,negative,-0.9366453886032104
+12,2013-05-20 08:00:00,Customers wrote in complaining about poorly stocked shelves and missing inventory.,0.02372804284095764,0.9650713801383972,0.011200618930161,negative,-0.9413433074951172
+13,2013-05-20 08:00:00,Some said that they were driving farther to avoid their local Wal-Mart.,0.03914486616849899,0.9035851359367371,0.057269975543022156,negative,-0.8644402623176575
+14,2013-05-20 08:00:00,"In the past year, Wal-Mart's image has been tarnished by worker protests , bribery allegations and speculation over the conditions at its foreign-suppliers' factories.",0.024210529401898384,0.9601387977600098,0.015650644898414612,negative,-0.9359282851219177
+15,2013-05-20 08:00:00,"According to brand-consulting firm BAV Consulting, Wal-Mart's brand perception among college-educated adults plummeted 50% between 2011 and 2012, reported the Wall Street Journal .",0.02277613990008831,0.968024492263794,0.009199392981827259,negative,-0.9452483654022217
+16,2013-05-20 08:00:00,"To address some of these kinks in its image, Wal-Mart launched a new multimillion-dollar advertising campaign last month titled ""The Real Wal-Mart,"" emphasizing its commitment to veterans, job creation and charitable work.",0.5687077045440674,0.024335458874702454,0.40695691108703613,positive,0.5443722605705261
+17,2013-05-20 08:00:00,"Labor organizers didn't skip a beat, publishing their own website soon after with a less favorable portrayal of the mega-chain.",0.06080484390258789,0.534955620765686,0.40423956513404846,negative,-0.47415077686309814
+18,2013-05-20 08:00:00,"It's title: ""... Really Wal-Mart?""",0.02161070890724659,0.02987106703221798,0.9485182166099548,neutral,-0.00826035812497139
+19,2013-05-20 08:00:00,"'Undercover Boss' Reveals The 'Most Generous' CEO Of All
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.013235901482403278,0.027821285650134087,0.9589427709579468,neutral,-0.014585384167730808

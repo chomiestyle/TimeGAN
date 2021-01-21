@@ -1,0 +1,68 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-08-12 23:18:00,One popular form of dividend investing involves a group of stocks called dividend aristocrats.,0.03996313735842705,0.00768660893663764,0.9523503184318542,neutral,0.03227652981877327
+1,2018-08-12 23:18:00,Standards of what makes up a dividend aristocrat vary.,0.012787748128175735,0.01689838245511055,0.9703139066696167,neutral,-0.0041106343269348145
+2,2018-08-12 23:18:00,"However, most analysts define it by three criteria.",0.009650738909840584,0.010171081870794296,0.98017817735672,neutral,-0.0005203429609537125
+3,2018-08-12 23:18:00,"One, they must belong to the S&P 500 index .",0.022145221009850502,0.01193317025899887,0.9659215807914734,neutral,0.010212050750851631
+4,2018-08-12 23:18:00,"Two, they meet specific size and liquidity metrics.",0.1674647331237793,0.005902463104575872,0.8266328573226929,neutral,0.1615622639656067
+5,2018-08-12 23:18:00,"Three, and most importantly, they must have increased their dividend for 25 or more consecutive years.",0.7327134609222412,0.01969163306057453,0.2475949227809906,positive,0.7130218148231506
+6,2018-08-12 23:18:00,Such a status remains exclusive.,0.027842272073030472,0.007447500713169575,0.9647102355957031,neutral,0.02039477229118347
+7,2018-08-12 23:18:00,"Of the thousands of stocks that trade on American exchanges, only 53 stocks currently hold dividend aristocrat status.",0.012699121609330177,0.015135936439037323,0.9721649289131165,neutral,-0.0024368148297071457
+8,2018-08-12 23:18:00,"To understand how a dividend aristocrat functions, one must understand its traits.",0.044293034821748734,0.011117035523056984,0.9445898532867432,neutral,0.0331759974360466
+9,2018-08-12 23:18:00,Dividend aristocrats have some distinct benefits.,0.1006733626127243,0.008747845888137817,0.8905787467956543,neutral,0.09192551672458649
+10,2018-08-12 23:18:00,Only the most stable stocks fall into the dividend aristocrat category.,0.01314628031104803,0.023402487859129906,0.9634512066841125,neutral,-0.010256207548081875
+11,2018-08-12 23:18:00,Both earning and holding this status requires both long-term growth and stable profits.,0.5321225523948669,0.011224307119846344,0.4566531479358673,positive,0.5208982229232788
+12,2018-08-12 23:18:00,"Many investors would describe these stocks as ""boring.""",0.06063182279467583,0.45365968346595764,0.48570841550827026,neutral,-0.3930278718471527
+13,2018-08-12 23:18:00,The typical dividend aristocrat will trade at a price-earnings (PE) ratio in the teens.,0.020745914429426193,0.01112142764031887,0.9681326746940613,neutral,0.009624486789107323
+14,2018-08-12 23:18:00,Most will see revenue and earnings growth in the low-single-digits.,0.6788306832313538,0.011674136854708195,0.309495210647583,positive,0.6671565175056458
+15,2018-08-12 23:18:00,Such stocks rarely make the news.,0.04226480424404144,0.15736433863639832,0.8003708124160767,neutral,-0.11509953439235687
+16,2018-08-12 23:18:00,One such stock is industrial company Dover Corp (NYSE: DOV ).,0.016188962385058403,0.011232090182602406,0.9725789427757263,neutral,0.0049568722024559975
+17,2018-08-12 23:18:00,"It's possible that many investors who follow the likes of Amazon.com, Inc. (NASDAQ: AMZN ) or Tesla Inc (NASDAQ: TSLA ) have never heard of Dover.",0.015501399524509907,0.027247348800301552,0.957251250743866,neutral,-0.011745949275791645
+18,2018-08-12 23:18:00,"Yet, despite its low profile, Dover holds the record for the longest line of dividend increases.",0.665053129196167,0.02002132125198841,0.31492555141448975,positive,0.6450318098068237
+19,2018-08-12 23:18:00,It has raised its dividend each of the last 62 years.,0.6610349416732788,0.016226794570684433,0.32273826003074646,positive,0.6448081731796265
+20,2018-08-12 23:18:00,Some better-known companies also hold a dividend aristocrat status.,0.042271967977285385,0.012636855244636536,0.9450912475585938,neutral,0.02963511273264885
+21,2018-08-12 23:18:00,Procter & Gamble Co (NYSE: PG ) holds the second-longest streak at 61 years.,0.1619737595319748,0.03078162483870983,0.8072446584701538,neutral,0.1311921328306198
+22,2018-08-12 23:18:00,Johnson & Johnson (NYSE: JNJ ) stock has also seen 55 straight years of increases.,0.941157877445221,0.018897701054811478,0.03994441032409668,positive,0.9222601652145386
+23,2018-08-12 23:18:00,Both have been seen as low-growth but prudently managed companies for decades.,0.37214064598083496,0.010474739596247673,0.617384672164917,neutral,0.36166590452194214
+24,2018-08-12 23:18:00,"However, such a status does not come without some burden on the company.",0.0474320687353611,0.13698656857013702,0.8155813217163086,neutral,-0.08955450356006622
+25,2018-08-12 23:18:00,The streak of rising dividends places a lot of pressure on these firms to maintain the annual hikes.,0.2912200689315796,0.40517458319664,0.3036053776741028,negative,-0.11395451426506042
+26,2018-08-12 23:18:00,"From the company's point of view, the dividend aristocrat label serves as both a blessing and a curse.",0.05804000794887543,0.4503507912158966,0.4916091561317444,neutral,-0.3923107981681824
+27,2018-08-12 23:18:00,"The label engenders a feeling of stability and trust, pushing investors to buy and hold.",0.8311099410057068,0.021029721945524216,0.14786039292812347,positive,0.8100802302360535
+28,2018-08-12 23:18:00,"However, this trust comes with the underlying threat of massive selloffs should their streak end.",0.11610258370637894,0.28368130326271057,0.6002161502838135,neutral,-0.16757872700691223
+29,2018-08-12 23:18:00,"These stocks sometimes forfeit their status, especially during financial crises.",0.054510608315467834,0.4574914872646332,0.4879979193210602,neutral,-0.40298086404800415
+30,2018-08-12 23:18:00,"Still, companies will avoid breaking the streak if they can.",0.11941608786582947,0.1731361299753189,0.7074477672576904,neutral,-0.05372004210948944
+31,2018-08-12 23:18:00,Investors can benefit from such a scenario.,0.42446309328079224,0.010595008730888367,0.5649418234825134,neutral,0.4138680696487427
+32,2018-08-12 23:18:00,AT&T Inc. (NYSE: T ) serves as one example.,0.028480790555477142,0.012789265252649784,0.9587299227714539,neutral,0.015691526234149933
+33,2018-08-12 23:18:00,"Today, AT&T finds itself in the wireless service business.",0.30810514092445374,0.008742543868720531,0.6831523180007935,neutral,0.2993625998497009
+34,2018-08-12 23:18:00,"With few companies competing in this area and the high barriers to entry, success for AT&T is almost assured.",0.8594295978546143,0.015525280497968197,0.12504509091377258,positive,0.8439043164253235
+35,2018-08-12 23:18:00,"However, competition has driven profit margins to low levels.",0.01826946996152401,0.905911386013031,0.07581914961338043,negative,-0.8876419067382812
+36,2018-08-12 23:18:00,"Moreover, the need to upgrade to 5G technology compels AT&T to spend tens of billions of dollars to hold its market share in this business.",0.9005557894706726,0.014824315905570984,0.08461993932723999,positive,0.8857314586639404
+37,2018-08-12 23:18:00,AT&T must also spend to maintain its streak of dividend increases.,0.8414314389228821,0.02322995290160179,0.13533855974674225,positive,0.81820148229599
+38,2018-08-12 23:18:00,"Recent declines in the T stock price have pushed the dividend yield above 6%, more than three times the S&P 500 average.",0.885945737361908,0.07319577038288116,0.04085851088166237,positive,0.812749981880188
+39,2018-08-12 23:18:00,"Regardless of the high yield, keeping the annual dividend increases will likely prove less costly than losing its dividend aristocrat status.",0.6868957877159119,0.08889952301979065,0.22420470416545868,positive,0.5979962348937988
+40,2018-08-12 23:18:00,"Hence, investors should expect dividend increases to continue despite the high yield.",0.9343520402908325,0.016419632360339165,0.04922832176089287,positive,0.917932391166687
+41,2018-08-12 23:18:00,Investors should also look for possible future dividend aristocrats.,0.08088479936122894,0.013119865208864212,0.9059953093528748,neutral,0.06776493787765503
+42,2018-08-12 23:18:00,"For example, IBM (NYSE: IBM ) has paid a dividend every quarter since 1916.",0.035687047988176346,0.020391397178173065,0.9439215064048767,neutral,0.01529565081000328
+43,2018-08-12 23:18:00,"However, the company ran into trouble in 1993 that forced it to slash the dividend.",0.02121339924633503,0.9516451954841614,0.027141381055116653,negative,-0.9304317831993103
+44,2018-08-12 23:18:00,The company stabilized itself and began annual dividend increases in the late-1990s.,0.8877487778663635,0.013629350811243057,0.09862183779478073,positive,0.8741194009780884
+45,2018-08-12 23:18:00,"If it maintains this streak, IBM will become a dividend aristocrat in the next few years.",0.19193553924560547,0.019429348409175873,0.7886351346969604,neutral,0.172506183385849
+46,2018-08-12 23:18:00,"Also, dividend aristocrat philosophy might be catching on with relatively younger firms.",0.36504504084587097,0.018775267526507378,0.6161797046661377,neutral,0.34626978635787964
+47,2018-08-12 23:18:00,"Cisco Systems, Inc. (NASDAQ: CSCO ) scoffed at the idea of paying dividends in the 1990s.",0.1256762146949768,0.030293457210063934,0.8440303206443787,neutral,0.09538275748491287
+48,2018-08-12 23:18:00,"However, with the end of the tech boom and years of stagnation after, attitudes changed.",0.08202539384365082,0.08601347357034683,0.8319611549377441,neutral,-0.003988079726696014
+49,2018-08-12 23:18:00,"Today, Cisco not only pays a dividend, it also has increased quarterly payouts every year since 2011.",0.8429890871047974,0.015949690714478493,0.14106115698814392,positive,0.8270394206047058
+50,2018-08-12 23:18:00,"It has since become a stable, slow-growth business that rarely makes it into the headlines.",0.027540551498532295,0.46587395668029785,0.5065854787826538,neutral,-0.4383333921432495
+51,2018-08-12 23:18:00,"While CSCO stock may or may not gain dividend aristocrat status years from now, the company's behavior shows the influence of these stocks.",0.12153339385986328,0.009732445701956749,0.8687341213226318,neutral,0.11180094629526138
+52,2018-08-12 23:18:00,"Investors who understand the traits of a dividend aristocrat can earn high, long-term returns in these equities.",0.7075387239456177,0.015131323598325253,0.2773299217224121,positive,0.6924074292182922
+53,2018-08-12 23:18:00,"These stocks have served as the standard for stable, long-term growth for decades.",0.585015594959259,0.012123381718993187,0.40286099910736084,positive,0.5728921890258789
+54,2018-08-12 23:18:00,"Over time, the value of the stock depends heavily on maintaining the streak of dividend increases.",0.15652282536029816,0.008430077694356441,0.8350471258163452,neutral,0.14809274673461914
+55,2018-08-12 23:18:00,"Hence, only challenges that threaten the survival of a company will dissuade these firms from forfeiting the dividend aristocrat status.",0.07360781729221344,0.2815941274166107,0.6447980999946594,neutral,-0.20798631012439728
+56,2018-08-12 23:18:00,"To be sure, stock market investments, regardless of diversification, require some level of risk.",0.06697656214237213,0.005748527590185404,0.9272748827934265,neutral,0.061228033155202866
+57,2018-08-12 23:18:00,Individual stocks typically carry more risk.,0.0729251280426979,0.015820352360606194,0.9112545251846313,neutral,0.057104773819446564
+58,2018-08-12 23:18:00,"However, stable, slow-growth and the pressure to maintain a streak of dividend increases should motivate even the most risk-averse investors to buy a dividend aristocrat.",0.8436083197593689,0.026742998510599136,0.12964873015880585,positive,0.8168653249740601
+59,2018-08-12 23:18:00,"As of this writing, Will Healy did not hold a position in any of the aforementioned stocks.",0.007885388098657131,0.023561477661132812,0.9685531854629517,neutral,-0.015676088631153107
+60,2018-08-12 23:18:00,You canfollow Will on Twitterat @HealyWriting.,0.03988666087388992,0.048665404319763184,0.9114479422569275,neutral,-0.00877874344587326
+61,2018-08-12 23:18:00,"• The 9 Best Stocks to Buy for the Next Decade
+• 15 Stocks to Buy Ahead of the Fall Season
+• 7 3D-Printing Stocks to Buy As the Space Keeps Growing
+
+The post The Philosophy of Dividend Aristocrat Stocks appeared first on InvestorPlace .",0.11818085610866547,0.018126890063285828,0.8636922836303711,neutral,0.10005396604537964
+62,2018-08-12 23:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

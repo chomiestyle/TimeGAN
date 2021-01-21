@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-01-01 22:13:00,"For the last decade in this country, houses have been anything but safe.",0.1600884646177292,0.07566847652196884,0.7642430663108826,neutral,0.08441998809576035
+1,2012-01-01 22:13:00,"But now, after the most dramatic financial implosion since the Great Depression and many attempts by investors at calling a bottom, it appears that a turning point is finally at hand.",0.5646758675575256,0.07252702862024307,0.3627971112728119,positive,0.49214884638786316
+2,2012-01-01 22:13:00,My reasons for saying this are both technical and fundamental.,0.025180337950587273,0.007555765565484762,0.96726393699646,neutral,0.017624571919441223
+3,2012-01-01 22:13:00,"Technically, the entire ecosystem of companies is starting to outperform.",0.5027804374694824,0.3558517396450043,0.1413678228855133,positive,0.14692869782447815
+4,2012-01-01 22:13:00,"Homebuilders , names such as Lennar and D.R.",0.09419309347867966,0.04560210928320885,0.860204815864563,neutral,0.04859098419547081
+5,2012-01-01 22:13:00,"Horton, are up 30 percent in the last three months, according to researchLAB.",0.8824843764305115,0.023781538009643555,0.09373403340578079,positive,0.8587028384208679
+6,2012-01-01 22:13:00,"The two big home-improvement retailers , Lowe's and Home Depot, have climbed 29 percent.",0.8687165975570679,0.06438958644866943,0.0668938010931015,positive,0.8043270111083984
+7,2012-01-01 22:13:00,"And companies that supply the industry , such as Masco and USG, have gained 24 percent.",0.9323243498802185,0.02245209366083145,0.04522352293133736,positive,0.9098722338676453
+8,2012-01-01 22:13:00,"By comparison, the S&P 500 is up 6 percent in the same period.",0.9200469255447388,0.025874143466353416,0.0540788508951664,positive,0.8941727876663208
+9,2012-01-01 22:13:00,Other companies with a more tangential connection are also giving some interesting signals.,0.08539510518312454,0.02127554640173912,0.8933293223381042,neutral,0.06411956250667572
+10,2012-01-01 22:13:00,One are the mortgage insurers --firms such as MGIC Investments and Assured Guaranty.,0.030581803992390633,0.022644121199846268,0.9467741250991821,neutral,0.007937682792544365
+11,2012-01-01 22:13:00,"Also remember that hedge-fund manager Kyle Bass, who successfully bet against housing in 2007 and 2008, recently started buying MTG.",0.06914635747671127,0.0063925315625965595,0.9244610667228699,neutral,0.062753826379776
+12,2012-01-01 22:13:00,Bulk-material companies have also been turning around.,0.5431892275810242,0.078377865254879,0.37843286991119385,positive,0.4648113548755646
+13,2012-01-01 22:13:00,"Mexico's Cemex has more than doubled from its October lows, and Martin Marietta is attempting to merge with rival Vulcan Materials.",0.8303195238113403,0.07918987423181534,0.09049055725336075,positive,0.7511296272277832
+14,2012-01-01 22:13:00,"This industry is less directly tied to housing because of its links to commercial construction and highway building, but its recent improvement should not be ignored.",0.7909539937973022,0.02126968465745449,0.18777628242969513,positive,0.7696843147277832
+15,2012-01-01 22:13:00,"Then we have the fundamentals, which have been getting better for months now.",0.5919556617736816,0.019776618108153343,0.38826772570610046,positive,0.5721790194511414
+16,2012-01-01 22:13:00,"It seems that almost every report on the industry has been positive: housing starts yesterday, new home sales in November, and homebuilder sentiment in October.",0.42553380131721497,0.01901041902601719,0.55545574426651,neutral,0.40652337670326233
+17,2012-01-01 22:13:00,"The last existing home sales weren't as good as hoped, but they still rose.",0.9149588346481323,0.03120099939405918,0.053840089589357376,positive,0.8837578296661377
+18,2012-01-01 22:13:00,Most of the builders also showed improved orders the last time they issued quarterly results.,0.9337537288665771,0.03026263788342476,0.035983629524707794,positive,0.9034910798072815
+19,2012-01-01 22:13:00,Another key point is the housing sector has been in contraction much longer than most people realize.,0.05144616588950157,0.7383798360824585,0.21017403900623322,negative,-0.686933696269989
+20,2012-01-01 22:13:00,"Homebuilders didn't peak in 2008, but in mid-2005.",0.027657071128487587,0.031798020005226135,0.9405449032783508,neutral,-0.004140948876738548
+21,2012-01-01 22:13:00,The final two to three years of froth occurred mostly in mortgages amid a slowdown in actual construction.,0.02036316692829132,0.5992177724838257,0.3804190754890442,negative,-0.5788546204566956
+22,2012-01-01 22:13:00,But now finally in the third quarter we are starting to see a gradual improvement.,0.9031717777252197,0.013745016418397427,0.08308321982622147,positive,0.8894267678260803
+23,2012-01-01 22:13:00,"(See the Fed's Flow of Funds report , Table F.6, line 15.)",0.01263968925923109,0.016663670539855957,0.9706966280937195,neutral,-0.0040239812806248665
+24,2012-01-01 22:13:00,"The gains have occurred at the same time that mortgage debt shrinks and employment grudgingly improves, which tells me that there is real demand from real people with real jobs.",0.8877572417259216,0.020731156691908836,0.09151160717010498,positive,0.8670260906219482
+25,2012-01-01 22:13:00,It's the polar opposite of the situation five years ago.,0.03477702662348747,0.05539046972990036,0.9098324775695801,neutral,-0.020613443106412888
+26,2012-01-01 22:13:00,"Finally, there are two other sub-industries that have recently popped up on researchLAB that are worth noting:
+
+1.",0.016524704173207283,0.00988297164440155,0.9735923409461975,neutral,0.006641732528805733
+27,2012-01-01 22:13:00,"Railroad suppliers , such as American Railroad Industries and Greenbrier that make rail cars, showed amazing profit and revenue gains last earnings season.",0.9493383169174194,0.021181581541895866,0.029480116441845894,positive,0.9281567335128784
+28,2012-01-01 22:13:00,There is a secular boom underway in railroads as containerization lets them ship more kinds of products than before.,0.8601567149162292,0.014080064371228218,0.12576313316822052,positive,0.8460766673088074
+29,2012-01-01 22:13:00,"Add a rebound in the housing market to the mix, and it's one more reason to like the rails.",0.6240893602371216,0.031240452080965042,0.3446701765060425,positive,0.5928488969802856
+30,2012-01-01 22:13:00,"Given the stage of the cycle we're in, these suppliers will probably outperform the big railroad operators like CSX and Union Pacific for the next few quarters.",0.8707368969917297,0.029097001999616623,0.10016614198684692,positive,0.8416398763656616
+31,2012-01-01 22:13:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+32,2012-01-01 22:13:00,Workmen's comp is an interesting little industry.,0.04391244798898697,0.00943304318934679,0.9466545581817627,neutral,0.03447940573096275
+33,2012-01-01 22:13:00,"Two small companies, Employers Holdings and Amerisafe, have both been ripping higher in the last few months.",0.8136202096939087,0.10750723630189896,0.07887253165245056,positive,0.7061129808425903
+34,2012-01-01 22:13:00,"Earnings have been good, and they should benefit as more hiring improves.",0.9435809254646301,0.01929851621389389,0.03712065890431404,positive,0.924282431602478
+35,2012-01-01 22:13:00,"Bigger property insurance names, such as Chubb, Ace and Marsh & McLennan, have also been strong.",0.9029614925384521,0.018064212054014206,0.07897436618804932,positive,0.8848972916603088
+36,2012-01-01 22:13:00,"Insurance stocks don't get a lot of mention because most analysts don't understand them, and I admit I am in that boat.",0.035466887056827545,0.08974690735340118,0.8747861981391907,neutral,-0.05428002029657364
+37,2012-01-01 22:13:00,But the charts and recent performance seem to be telling us something.,0.135694682598114,0.019058451056480408,0.8452469110488892,neutral,0.1166362315416336
+38,2012-01-01 22:13:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

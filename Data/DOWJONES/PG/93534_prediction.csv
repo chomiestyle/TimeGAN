@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-04-06 07:22:00,"For a considerable period of time, the U.S. jobs market has been the economy's single most impressive sector.",0.3744170665740967,0.020898394286632538,0.6046845316886902,neutral,0.35351866483688354
+1,2015-04-06 07:22:00,"While other economic reports, including industrial production, durable orders and consumer spending, have been far from satisfactory, employment numbers have continued to improve.",0.9014962315559387,0.05261366441845894,0.04589013755321503,positive,0.8488825559616089
+2,2015-04-06 07:22:00,This had prompted the Fed Chair to say that a possible rate hike in June can't be ruled out.,0.200259268283844,0.42322033643722534,0.37652039527893066,negative,-0.22296106815338135
+3,2015-04-06 07:22:00,But Friday's jobs report may have ruled out that option.,0.05549406260251999,0.7411952614784241,0.20331062376499176,negative,-0.6857011914253235
+4,2015-04-06 07:22:00,"Only 126,000 jobs were added in March, nearly half of the number estimated by economists.",0.0688423290848732,0.862951934337616,0.06820576637983322,negative,-0.794109582901001
+5,2015-04-06 07:22:00,This is the lowest number of job additions since Dec 2013.,0.018316933885216713,0.9679107069969177,0.013772320002317429,negative,-0.9495937824249268
+6,2015-04-06 07:22:00,"Additionally, data for both January and February was revised downward, which means that 69,000 less jobs were added during these months taken together.",0.017818590626120567,0.9614999294281006,0.020681491121649742,negative,-0.9436813592910767
+7,2015-04-06 07:22:00,"Job additions also fell below 200,000, bringing to an end an unbroken run of 12 such successive monthly gains.",0.06328611820936203,0.9142870903015137,0.022426726296544075,negative,-0.851000964641571
+8,2015-04-06 07:22:00,"Following March numbers, hiring for the first quarter stands at 197,000.",0.05676797032356262,0.5037592649459839,0.43947282433509827,negative,-0.44699129462242126
+9,2015-04-06 07:22:00,This means that the decline in March is a cause for concern.,0.040811195969581604,0.7215640544891357,0.23762476444244385,negative,-0.6807528734207153
+10,2015-04-06 07:22:00,"Additionally, this compares unfavorably to the average of 289,000 job additions in last year's fourth quarter.",0.05017109960317612,0.9203673601150513,0.02946157567203045,negative,-0.8701962828636169
+11,2015-04-06 07:22:00,It seems that cheap oil and a strong dollar have combined to impede the recovery drastically.,0.04369063675403595,0.9096985459327698,0.04661073163151741,negative,-0.866007924079895
+12,2015-04-06 07:22:00,Caterpillar Inc. CAT has stated that the slump in oil will hit business this year.,0.0241815485060215,0.9008971452713013,0.07492135465145111,negative,-0.8767156004905701
+13,2015-04-06 07:22:00,"Meanwhile, The Procter & Gamble Company PG has warned that the rising dollar will hurt profits, since it makes goods relatively more costly.",0.023675547912716866,0.9617557525634766,0.01456874143332243,negative,-0.9380801916122437
+14,2015-04-06 07:22:00,The report substantially supports such statements with a reduction in hiring coming from sectors which produce goods.,0.06853895634412766,0.8972349166870117,0.03422611951828003,negative,-0.8286959528923035
+15,2015-04-06 07:22:00,"Hiring in mining has fallen by 11,000 in March.",0.017480656504631042,0.9726983308792114,0.009821014478802681,negative,-0.9552176594734192
+16,2015-04-06 07:22:00,This is probably because nearly half of the rigs remain idle following the decline in oil prices .,0.031328216195106506,0.7573724985122681,0.21129928529262543,negative,-0.7260442972183228
+17,2015-04-06 07:22:00,"Meanwhile, employment in construction and manufacturing declined by 1,000 each last month.",0.018161261454224586,0.9730544686317444,0.00878437701612711,negative,-0.9548932313919067
+18,2015-04-06 07:22:00,Is This Just a Blip?,0.07351873070001602,0.16776227951049805,0.7587189674377441,neutral,-0.09424354881048203
+19,2015-04-06 07:22:00,US Labor Secretary Thomas Perez conceded that March numbers were disappointing.,0.02182917110621929,0.9647279977798462,0.01344293262809515,negative,-0.9428988099098206
+20,2015-04-06 07:22:00,"However, he remained confident that the overall employment picture remained upbeat.",0.8164980411529541,0.036473922431468964,0.14702802896499634,positive,0.7800241112709045
+21,2015-04-06 07:22:00,"At first glance, several indicators immediately support such a conclusion.",0.18169663846492767,0.03486613184213638,0.7834372520446777,neutral,0.1468304991722107
+22,2015-04-06 07:22:00,Unemployment rate remains flat at 5.5%.,0.05919675529003143,0.16064505279064178,0.7801581621170044,neutral,-0.10144829750061035
+23,2015-04-06 07:22:00,"Additionally, a wider indicator of unemployment, which includes part time workers who would rather hold full-time jobs and discouraged workers, declined from 11% in February to 10.9%.",0.020774386823177338,0.9672700762748718,0.011955511756241322,negative,-0.9464957118034363
+24,2015-04-06 07:22:00,"However, this is still higher than the unemployment rate, indicating that underemployment, a legacy of the recession, is a lingering problem.",0.04376084730029106,0.9026284217834473,0.0536106713116169,negative,-0.8588675856590271
+25,2015-04-06 07:22:00,"Again, labor force participation has declined to 62.7%, the lowest level since 1978.",0.02053479291498661,0.969093918800354,0.010371294803917408,negative,-0.9485591053962708
+26,2015-04-06 07:22:00,This is primarily because a large number of baby boomers are close to retiring.,0.022688154131174088,0.0918591246008873,0.8854526877403259,neutral,-0.06917096674442291
+27,2015-04-06 07:22:00,Wage growth is another bright spot of this jobs report.,0.48945775628089905,0.04511089622974396,0.4654313325881958,positive,0.4443468451499939
+28,2015-04-06 07:22:00,Average hourly earnings have advanced by 7 cents for those employed by the private sector in March.,0.9398431777954102,0.03188403323292732,0.0282728411257267,positive,0.9079591631889343
+29,2015-04-06 07:22:00,"Additionally, hourly pay has increased 2.1% year-over-year.",0.9530289173126221,0.02520599588751793,0.021765204146504402,positive,0.9278229475021362
+30,2015-04-06 07:22:00,"But even Perez acknowledges that increase in wages ""remains the unfinished business of this recovery.""",0.6811493635177612,0.2024584263563156,0.11639221757650375,positive,0.4786909222602844
+31,2015-04-06 07:22:00,He emphasized that satisfactory wage increases for minimum wage employees was a cause for concern.,0.17737998068332672,0.6748239398002625,0.14779607951641083,negative,-0.4974439740180969
+32,2015-04-06 07:22:00,"One clear takeaway from this jobs report is that it could lead to further market volatility, even if it is only a one-off disappointment.",0.11311903595924377,0.73237544298172,0.15450556576251984,negative,-0.6192563772201538
+33,2015-04-06 07:22:00,This means it may be wise to stick to safer choices.,0.4345838725566864,0.026560328900814056,0.5388558506965637,neutral,0.40802353620529175
+34,2015-04-06 07:22:00,Healthcare continues to be one such safe play and its allure has increased in recent times.,0.7235963344573975,0.013537862338125706,0.26286575198173523,positive,0.7100584506988525
+35,2015-04-06 07:22:00,This is because Obamacare and older baby boomers have provided a wider market for the sector.,0.7259951233863831,0.012846872210502625,0.2611579895019531,positive,0.7131482362747192
+36,2015-04-06 07:22:00,"Also, healthcare has emerged as an excellent growth option this year.",0.937435507774353,0.015738634392619133,0.046825822442770004,positive,0.9216969013214111
+37,2015-04-06 07:22:00,"With year-to-date return of 5.3%, the Health Care Select Sector SPDR (XLV) is the highest performing sector of the S&P 500.",0.9074243307113647,0.020075442269444466,0.07250024378299713,positive,0.8873488903045654
+38,2015-04-06 07:22:00,"Below we present three stocks which will gain from these trends, each of which also has a good Zacks Rank.",0.8416473269462585,0.014404628425836563,0.14394809305667877,positive,0.8272426724433899
+39,2015-04-06 07:22:00,The attractiveness of these companies as an investment option at this stage is also confirmed by its Growth Style Score of 'A' or 'B'.,0.7952978014945984,0.011595026589930058,0.19310714304447174,positive,0.7837027907371521
+40,2015-04-06 07:22:00,"The Growth Style Score combines conventional growth metrics with a thorough analysis of the company's income statement, balance sheet and statements of cash flows to evaluate its financial health and the sustainability of its growth trajectory.",0.17142345011234283,0.007207166403532028,0.8213694095611572,neutral,0.1642162799835205
+41,2015-04-06 07:22:00,Back-tested results show that stocks with Growth Style Scores of A or B when combined with Zacks Rank of 1 or 2 offer the best upside potential.,0.8859907984733582,0.02532297931611538,0.08868621289730072,positive,0.8606678247451782
+42,2015-04-06 07:22:00,Horizon Pharma plcHZNP is a company specializing in biopharmaceuticals.,0.03669589012861252,0.004365395288914442,0.958938717842102,neutral,0.03233049437403679
+43,2015-04-06 07:22:00,It is a developer and marketer of products for unmet therapeutic requirements related to pain and inflammatory diseases.,0.10595715790987015,0.0048326896503567696,0.8892101645469666,neutral,0.10112446546554565
+44,2015-04-06 07:22:00,Horizon Pharma holds a Zacks Rank #1 (Strong Buy) and has a Growth Style Score of 'A.',0.8426277041435242,0.013841942884027958,0.14353036880493164,positive,0.82878577709198
+45,2015-04-06 07:22:00,The company has expected earnings growth of 64.5%.,0.937019407749176,0.014638484455645084,0.04834218695759773,positive,0.9223809242248535
+46,2015-04-06 07:22:00,The forward price-to-earnings ratio (P/E) for the current financial year (F1) is 19.73.,0.02300894632935524,0.01043572649359703,0.9665552973747253,neutral,0.01257321983575821
+47,2015-04-06 07:22:00,"RadNet, Inc.RDNT is a domestic market leader in providing high-quality, cost-effective diagnostic imaging services through a network of fully-owned and operated outpatient imaging centers.",0.8225677013397217,0.011795757338404655,0.16563652455806732,positive,0.8107719421386719
+48,2015-04-06 07:22:00,"Apart from a Zacks Rank #2 (Buy), RadNet has a Growth Style Score of 'A'.",0.8717607855796814,0.016667678952217102,0.1115715354681015,positive,0.8550931215286255
+49,2015-04-06 07:22:00,The company has expected earnings growth of 63.8% and has a P/E (F1) of 18.27x.,0.7834120392799377,0.012091490440070629,0.20449642837047577,positive,0.7713205218315125
+50,2015-04-06 07:22:00,"PRA Health Sciences, Inc.PRAH operates as a global contract research organization, providing outsourced clinical development services to the biotechnology and pharmaceutical industries.",0.1292010098695755,0.0055180699564516544,0.8652809262275696,neutral,0.12368293851613998
+51,2015-04-06 07:22:00,PRA Health Sciences holds a Zacks Rank #2 (Buy) and has a Growth Style Score of 'B'.,0.708406925201416,0.013986717909574509,0.2776063084602356,positive,0.6944202184677124
+52,2015-04-06 07:22:00,It has an expected earnings growth of 22.5% and has a P/E (F1) of 19.86x.,0.5281782746315002,0.010067974217236042,0.4617537558078766,positive,0.5181102752685547
+53,2015-04-06 07:22:00,Several analysts believe it is too soon to say whether the labor market may experience tough times.,0.05375250428915024,0.7887867093086243,0.1574607789516449,negative,-0.7350342273712158
+54,2015-04-06 07:22:00,"While the next two jobs reports will be closely watched, it is prudent to stick to safe options in the interim.",0.17675036191940308,0.01735784113407135,0.805891752243042,neutral,0.15939252078533173
+55,2015-04-06 07:22:00,This is why these stocks would make for a prudent choice.,0.29382508993148804,0.008735029958188534,0.6974398493766785,neutral,0.28509005904197693
+56,2015-04-06 07:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+57,2015-04-06 07:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+58,2015-04-06 07:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+59,2015-04-06 07:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

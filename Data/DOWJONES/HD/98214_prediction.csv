@@ -1,0 +1,15 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-06-23 00:45:00,Today's session closes with the NASDAQ Composite Index volume reaching the 10th place in the top ten list for this year.,0.8382886052131653,0.019724324345588684,0.14198705554008484,positive,0.8185642957687378
+1,2017-06-23 00:45:00,The last time the index closed above 2.63 billion shares was on Jun 08 2017.,0.05021871253848076,0.023187121376395226,0.9265941381454468,neutral,0.027031591162085533
+2,2017-06-23 00:45:00,The total shares traded for the NASDAQ was over 3.42 billion.,0.02865821309387684,0.006035143043845892,0.9653065800666809,neutral,0.02262306958436966
+3,2017-06-23 00:45:00,Advancers stocks led declining by 1.85 to 1 ratio.,0.027959588915109634,0.9582645893096924,0.01377581525593996,negative,-0.930305004119873
+4,2017-06-23 00:45:00,There were 1898 advancers and 1025 decliners for the day.,0.14252883195877075,0.18179526925086975,0.6756758689880371,neutral,-0.039266437292099
+5,2017-06-23 00:45:00,On the NASDAQ Stock Exchange 80 stocks reached a 52 week high and 17 those reaching lows totaled.,0.6526699066162109,0.14826026558876038,0.19906991720199585,positive,0.504409670829773
+6,2017-06-23 00:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+7,2017-06-23 00:45:00,The NASDAQ 100 index closed up .4% for the day; a total of 23.24 points.,0.9253734946250916,0.03488868474960327,0.03973771259188652,positive,0.8904848098754883
+8,2017-06-23 00:45:00,"The current value is 5,803.11.",0.01469008345156908,0.008148395456373692,0.9771614670753479,neutral,0.006541687995195389
+9,2017-06-23 00:45:00,NVIDIA Corporation ( NVDA ) had the largest percent change down (-2.87%) while Liberty Global plc ( LBTYK ) had the largest percent change gain rising 3.96%.,0.052973005920648575,0.780211865901947,0.16681508719921112,negative,-0.7272388339042664
+10,2017-06-23 00:45:00,The Dow Jones index closed down -.01% for the day; a total of -2.53 points.,0.01766921766102314,0.9710848927497864,0.011245868168771267,negative,-0.9534156918525696
+11,2017-06-23 00:45:00,"The current value is 21,394.76.",0.015493260696530342,0.007815948687493801,0.9766908288002014,neutral,0.007677312009036541
+12,2017-06-23 00:45:00,"Home Depot, Inc. (The) ( HD ) had the largest percent change down (-2.68%) while Visa Inc. ( V ) had the largest percent change gain rising 1.73%.",0.04382065683603287,0.8598470687866211,0.09633224457502365,negative,-0.8160263895988464
+13,2017-06-23 00:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-07-18 09:45:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 20,647 contracts has been traded thus far today, a contract volume which is representative of approximately 2.1 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04248055815696716,0.010973162017762661,0.9465462565422058,neutral,0.03150739520788193
+1,2019-07-18 09:45:00,"That number works out to 51% of HD's average daily trading volume over the past month, of 4.0 million shares.",0.6861866116523743,0.01650572568178177,0.2973076105117798,positive,0.6696808934211731
+2,2019-07-18 09:45:00,"Especially high volume was seen for the $217.50 strike put option expiring August 23, 2019, with 3,988 contracts trading so far today, representing approximately 398,800 underlying shares of HD.",0.23330377042293549,0.010089774616062641,0.7566064596176147,neutral,0.22321400046348572
+3,2019-07-18 09:45:00,"Below is a chart showing HD's trailing twelve month trading history, with the $217.50 strike highlighted in orange:
+
+Tyson Foods Inc (Symbol: TSN) options are showing a volume of 12,844 contracts thus far today.",0.023609215393662453,0.04371222108602524,0.9326785802841187,neutral,-0.020103005692362785
+4,2019-07-18 09:45:00,"That number of contracts represents approximately 1.3 million underlying shares, working out to a sizeable 46.9% of TSN's average daily trading volume over the past month, of 2.7 million shares.",0.11434711515903473,0.009442160837352276,0.8762106895446777,neutral,0.10490495711565018
+5,2019-07-18 09:45:00,"Especially high volume was seen for the $81 strike put option expiring July 19, 2019, with 4,868 contracts trading so far today, representing approximately 486,800 underlying shares of TSN.",0.2938578426837921,0.011111384257674217,0.6950307488441467,neutral,0.28274646401405334
+6,2019-07-18 09:45:00,"Below is a chart showing TSN's trailing twelve month trading history, with the $81 strike highlighted in orange:
+
+And FedEx Corp (Symbol: FDX) saw options trading volume of 12,750 contracts, representing approximately 1.3 million underlying shares or approximately 46.7% of FDX's average daily trading volume over the past month, of 2.7 million shares.",0.017491882666945457,0.013570397160947323,0.9689376950263977,neutral,0.003921485505998135
+7,2019-07-18 09:45:00,"Especially high volume was seen for the $210 strike put option expiring July 19, 2019, with 850 contracts trading so far today, representing approximately 85,000 underlying shares of FDX.",0.17475540935993195,0.008821423165500164,0.8164231181144714,neutral,0.1659339815378189
+8,2019-07-18 09:45:00,"Below is a chart showing FDX's trailing twelve month trading history, with the $210 strike highlighted in orange:
+
+For the various different available expirations for HD options, TSN options, or FDX options, visit StockOptionsChannel.com.",0.009953341446816921,0.025470906868577003,0.9645757675170898,neutral,-0.015517565421760082
+9,2019-07-18 09:45:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

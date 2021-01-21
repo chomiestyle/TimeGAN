@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-17 08:50:00,"The recent market decline has been particularly tough on tech stocks, and Netflix (NASDAQ: NFLX) has been no exception.",0.03226286545395851,0.898712158203125,0.06902488321065903,negative,-0.8664492964744568
+1,2018-11-17 08:50:00,"Since topping out in early July, the streaming giant has lost nearly a third of its value.",0.016660640016198158,0.9576976895332336,0.025641681626439095,negative,-0.9410370588302612
+2,2018-11-17 08:50:00,"The market's uncertainty continues, and given that reality, it might seem like an unlikely time to be calling for new all-time highs.",0.41191524267196655,0.09994089603424072,0.4881438612937927,neutral,0.31197434663772583
+3,2018-11-17 08:50:00,"However, that's exactly the case being made by one analyst who thinks investors should buy Netflix while it's down -- but not out.",0.1151551753282547,0.03160249441862106,0.8532423973083496,neutral,0.08355268090963364
+4,2018-11-17 08:50:00,He argues that Netflix shares could hit $531 -- 80% higher than they stand today.,0.8799844980239868,0.03389037027955055,0.08612514287233353,positive,0.8460941314697266
+5,2018-11-17 08:50:00,"Matthew Harrigan with Buckingham Research Group gave Netflix a rare double-upgrade, raising the stock from underperform to buy and raising his price target from $349 to $406.",0.9112628102302551,0.01719215139746666,0.07154502719640732,positive,0.8940706849098206
+6,2018-11-17 08:50:00,"While he had been less optimistic due to Netflix's ""elevated"" stock price, its recent weakness is the primary motivator behind his current enthusiasm.",0.21035511791706085,0.5194072723388672,0.27023765444755554,negative,-0.30905216932296753
+7,2018-11-17 08:50:00,"""We have always viewed Netflix as the continued top streaming category winner,"" he wrote in a note to investors.",0.8897790312767029,0.01722305454313755,0.09299784153699875,positive,0.8725559711456299
+8,2018-11-17 08:50:00,"Harrigan believes Netflix could raise prices by a little as 3.5% per year through the middle of the coming decade to achieve his price target -- but he also sees another, more intriguing possibility.",0.8610123991966248,0.014133675955235958,0.12485384941101074,positive,0.846878707408905
+9,2018-11-17 08:50:00,"""Netflix could plausibly deliver 5.1% annual price increases through 2025,"" he wrote.",0.9125853776931763,0.01270836591720581,0.07470621168613434,positive,0.8998770117759705
+10,2018-11-17 08:50:00,"""Management may be motivated to continue [to] defer some pricing realization to foster member growth momentum but we expect eventual price increases.""",0.9045294523239136,0.02291043847799301,0.0725601315498352,positive,0.8816190361976624
+11,2018-11-17 08:50:00,"At that rate, Harrigan thinks the stock could be worth as much as $531.",0.05594215169548988,0.0074080815538764,0.936649739742279,neutral,0.04853406921029091
+12,2018-11-17 08:50:00,"As viewing time increases, the price will follow
+
+As Netflix ramps up its original content spending, there will be more programming available for subscribers to watch.",0.48453259468078613,0.012243787758052349,0.5032235383987427,neutral,0.4722888171672821
+13,2018-11-17 08:50:00,"The more they watch, the more willing viewers will be able to endure future price increases.",0.7395428419113159,0.019496137276291847,0.2409609854221344,positive,0.7200466990470886
+14,2018-11-17 08:50:00,"""The Netflix growth flywheel is driven by subscriber growth enabling more programming spend that both attracts even more members and drives increased engagement with more new programming for current customers,"" Harrigan wrote.",0.9442765116691589,0.015078915283083916,0.04064449295401573,positive,0.9291976094245911
+15,2018-11-17 08:50:00,"""With Netflix currently charging only about 22 cents an hour for viewing, there appears to be nice upside in monetizing these viewing gains over time.""",0.8920544385910034,0.016366945579648018,0.09157862514257431,positive,0.8756874799728394
+16,2018-11-17 08:50:00,"Higher-priced tiers will add more to the bottom line
+
+Netflix currently has several tiers with higher price points than its lowest-priced ""basic"" tier at $7.99, which offers standard definition viewing and just one device per subscriber.",0.4078778326511383,0.013910392299294472,0.578211784362793,neutral,0.3939674496650696
+17,2018-11-17 08:50:00,"The ""standard"" tier is priced at $10.99, allowing two devices and high-definition viewing (HD) when available.",0.07696347683668137,0.005030311644077301,0.9180062413215637,neutral,0.07193316519260406
+18,2018-11-17 08:50:00,"The top ""premium"" tier costs $13.99 per month, allowing four devices per plan and HD and Ultra-HD when available.",0.049048811197280884,0.007538474630564451,0.943412721157074,neutral,0.041510336101055145
+19,2018-11-17 08:50:00,"As technology improves and customers upgrade to newer and better televisions, they will likely be more willing to upgrade to subscriber plans that offer higher resolution in order to obtain the best viewing experience.",0.863305389881134,0.013304304331541061,0.12339027225971222,positive,0.8500010967254639
+20,2018-11-17 08:50:00,It isn't all sunshine and roses...,0.03209974616765976,0.01232667826116085,0.9555736184120178,neutral,0.01977306790649891
+21,2018-11-17 08:50:00,"While pricing power could result in additional subscriber revenue, it may not work across the board.",0.45577272772789,0.15136127173900604,0.39286601543426514,positive,0.30441147089004517
+22,2018-11-17 08:50:00,"Harrigan believes Netflix's ability to effectively raise prices could be limited in certain geographic and socio-economic regions, and he surmises that as many as 30% of the company's future members might pay lower monthly subscription rates -- that could represent a 40% discount to what other viewers pay, on average.",0.12940604984760284,0.5687827467918396,0.30181121826171875,negative,-0.43937671184539795
+23,2018-11-17 08:50:00,"Netflix Chief Product Officer Greg Peters acknowledged during the company's third-quarter conference call that while the company is currently happy with its pricing strategy in markets like India, he signaled for the first time a willingness by Netflix to test prices:
+
+Could it work?",0.8448370099067688,0.02129437029361725,0.13386870920658112,positive,0.8235426545143127
+24,2018-11-17 08:50:00,"Maybe...
+
+Netflix has been pretty conservative about raising its prices since the customer revolt in Sept. 2011, after the company split its DVD-by-mail and streaming services and raised prices, in a move that cost Netflix 800,000 subscribers and caused the stock price to lose an incredible 77% in four months.",0.020781828090548515,0.956508994102478,0.022709164768457413,negative,-0.9357271790504456
+25,2018-11-17 08:50:00,"It would take price increases of less than $1 per tier, per year to achieve Harrigan's estimates, eventually resulting in prices of $11.32, $15.57, and $19.82 for its basic, standard, and premium price tiers, with subscription prices that are 42% higher within seven years.",0.7040258646011353,0.013089079409837723,0.2828851044178009,positive,0.690936803817749
+26,2018-11-17 08:50:00,"However, Netflix likely will continue to be conservative in its pricing strategy.",0.20737414062023163,0.013288299553096294,0.7793375849723816,neutral,0.19408583641052246
+27,2018-11-17 08:50:00,"This serves to illustrate that gradually, over time, a monthly Netflix subscription could cost considerably more than it does today, and Netflix could be earning significantly greater revenue -- much to the delight of its shareholders.",0.8533206582069397,0.02034839056432247,0.12633095681667328,positive,0.8329722881317139
+28,2018-11-17 08:50:00,"10 stocks we like better than Netflix
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.15727370977401733,0.026205146685242653,0.8165211081504822,neutral,0.13106855750083923
+29,2018-11-17 08:50:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+30,2018-11-17 08:50:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Netflix wasn't one of them!",0.23136192560195923,0.013119942508637905,0.7555180788040161,neutral,0.21824198961257935
+31,2018-11-17 08:50:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2018-11-17 08:50:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2018-11-17 08:50:00,Danny Vena owns shares of Netflix.,0.02129763923585415,0.011753283441066742,0.9669490456581116,neutral,0.009544355794787407
+34,2018-11-17 08:50:00,The Motley Fool owns shares of and recommends Netflix.,0.0400456003844738,0.017860988155007362,0.9420934319496155,neutral,0.02218461222946644
+35,2018-11-17 08:50:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2018-11-17 08:50:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

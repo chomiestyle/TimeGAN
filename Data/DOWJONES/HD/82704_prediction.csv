@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-08-14 06:16:00,Needed Distractions.,0.1705314666032791,0.2666991353034973,0.5627694129943848,neutral,-0.0961676687002182
+1,2018-08-14 06:16:00,"The Dow Jones Industrial Average looks set to end its four-day losing streak thanks to strong economic data out of the U.S. and Germany, and solid earnings from retailers like Home Depot (HD).",0.8688846826553345,0.09414516389369965,0.036970216780900955,positive,0.7747395038604736
+2,2018-08-14 06:16:00,"The Turkey situation-and the potential contagion from it -is not out of sight, but on Tuesday it appears out of mind.",0.03459847718477249,0.7191464304924011,0.2462550848722458,negative,-0.6845479607582092
+3,2018-08-14 06:16:00,"In today's Morning Movers, we...
+
+Earnings are back in focus, and that's pushed concerns about Turkey out of investor minds, at least for one day.",0.8239662051200867,0.061509061604738235,0.11452478170394897,positive,0.7624571323394775
+4,2018-08-14 06:16:00,"S&P 500 futures have risen 0.3%, while Dow Jones Industrial Average futures have advanced 69 points, or 0.3%.",0.9197755455970764,0.03203534707427025,0.04818913713097572,positive,0.8877401947975159
+5,2018-08-14 06:16:00,Nasdaq Composite futures have gained 0.3%.,0.9393001794815063,0.03445708006620407,0.026242684572935104,positive,0.9048430919647217
+6,2018-08-14 06:16:00,It's not that Turkey isn't still a problem.,0.03678175434470177,0.06869439780712128,0.8945239186286926,neutral,-0.03191264346241951
+7,2018-08-14 06:16:00,"Overnight, Turkey President Recep Tayyip Erdoğan called for a boycott of U.S. products, and appears to blame the U.S. for everything that's happened to the country.",0.07224971801042557,0.7834466099739075,0.14430367946624756,negative,-0.7111968994140625
+8,2018-08-14 06:16:00,"Still, nothing falls forever, and the Turkish lira has finally rallied against the dollar -it's up 5.3% as we write-bringing a little calm to the market.",0.8930522799491882,0.039228130131959915,0.06771963089704514,positive,0.8538241386413574
+9,2018-08-14 06:16:00,"""Investors' worries that t he situation in Turkey might spill over to Europe are dissipating for the time being and this change in sentiment will help stocks recover,"" writes Konstantinos Anthis, head of research at ADSS.",0.9070510864257812,0.03516009449958801,0.05778880789875984,positive,0.8718910217285156
+10,2018-08-14 06:16:00,"Just as important, however, are the earnings that are still trickling out.",0.20640744268894196,0.014533245004713535,0.7790593504905701,neutral,0.1918741911649704
+11,2018-08-14 06:16:00,"Home Depot (HD), Tapestry (TPR) and Advance Auto Parts (AAP) all reported their results this morning, and all three are trading higher following solid numbers.",0.91917884349823,0.022207925096154213,0.05861325562000275,positive,0.8969709277153015
+12,2018-08-14 06:16:00,"It continues the trend that we've seen all quarter long: U.S. corporate profits are really, really good, and provide something of a buffer despite overriding concerns Turkey, tariffs and other issues.",0.9121925234794617,0.016871945932507515,0.07093553990125656,positive,0.8953205943107605
+13,2018-08-14 06:16:00,"""I continue to believe the strength is being driven by the fundamental narrative I continue to highlight, most importantly strong corporate results in Q2 following Q1,"" writes Tigress Financial's Ivan Feinseth.",0.8619911074638367,0.0159397441893816,0.12206919491291046,positive,0.8460513353347778
+14,2018-08-14 06:16:00,"""Gains in stocks are further being driven by increases in dividends and share repurchases, positive trends in U.S. economic data, and a moderate-leaning-toward-accommodative Federal Reserve.""",0.9445449113845825,0.024330906569957733,0.031124286353588104,positive,0.9202139973640442
+15,2018-08-14 06:16:00,"And for now, that will have to be enough.",0.19216547906398773,0.15367956459522247,0.6541549563407898,neutral,0.03848591446876526
+16,2018-08-14 06:16:00,Advance Auto Parts (AAP) is up 6.2% to $153.84 after reporting second-quarter earnings.,0.9450749158859253,0.02677037939429283,0.028154749423265457,positive,0.9183045625686646
+17,2018-08-14 06:16:00,The auto parts retailer earned $1.97 a share on revenue of $2.33 billion.,0.23277834057807922,0.01188866700977087,0.7553330063819885,neutral,0.22088967263698578
+18,2018-08-14 06:16:00,Analysts were looking for earnings of $1.86 on revenue of $2.26 billion.,0.07132939994335175,0.01863771118223667,0.9100329279899597,neutral,0.05269169062376022
+19,2018-08-14 06:16:00,"For the full year, it sees revenue of $9.3 billion to $9.5 billion, compared with the $9.38 billion consensus estimate.",0.8924567699432373,0.047733791172504425,0.059809453785419464,positive,0.8447229862213135
+20,2018-08-14 06:16:00,HCA Healthcare (HCA) is up 0.9% to $129.79 after Barclays initiated coverage with a Buy rating.,0.9354342818260193,0.021234549582004547,0.04333122819662094,positive,0.914199709892273
+21,2018-08-14 06:16:00,Home Depot (HD) is up 2.3% to $198.64 after reporting second-quarter earnings.,0.936916172504425,0.029244927689433098,0.03383887931704521,positive,0.9076712727546692
+22,2018-08-14 06:16:00,The home improvement retailer earned $3.05 a share on revenue of $30.46 billion.,0.10235472023487091,0.008349990472197533,0.8892953395843506,neutral,0.09400472790002823
+23,2018-08-14 06:16:00,Analysts were looking for earnings of $2.85 on revenue of $30.04 billion.,0.05617915466427803,0.014326387085020542,0.9294945001602173,neutral,0.04185276851058006
+24,2018-08-14 06:16:00,"For the full year, it sees earnings of $9.42 on revenue of $108 billion.",0.15879234671592712,0.007292491849511862,0.8339151740074158,neutral,0.15149985253810883
+25,2018-08-14 06:16:00,Consensus calls for earnings of $9.46 on revenue of $107.9 billion.,0.19857968389987946,0.00781774427741766,0.7936025857925415,neutral,0.19076193869113922
+26,2018-08-14 06:16:00,Switch (SWCH) is down 23.8% to $10.65 after reporting second-quarter earnings.,0.017035914584994316,0.9674620628356934,0.015502061694860458,negative,-0.9504261612892151
+27,2018-08-14 06:16:00,The data center hosting firm earned two cents a share on revenue of $102.2 million.,0.38118916749954224,0.0390864722430706,0.5797243714332581,neutral,0.34210270643234253
+28,2018-08-14 06:16:00,Analysts were looking for earnings of four cents on revenue of $102.78 million.,0.1389847993850708,0.04111144691705704,0.8199037313461304,neutral,0.09787335246801376
+29,2018-08-14 06:16:00,"For the full year, it sees revenues of $405 million to $408 million, compared with the $428.29 million consensus estimate.",0.8782512545585632,0.05794775113463402,0.06380106508731842,positive,0.8203034996986389
+30,2018-08-14 06:16:00,Tapestry (TPR) is up 5.3% to $49.95 after reporting fourth-quarter earnings.,0.9477295279502869,0.0253473948687315,0.02692304737865925,positive,0.922382116317749
+31,2018-08-14 06:16:00,The Coach and Kate Spade parent company earned 60 cents a share on revenue of $1.48 billion.,0.09663879871368408,0.014307516627013683,0.8890536427497864,neutral,0.08233128488063812
+32,2018-08-14 06:16:00,Analysts were looking for earnings of 57 cents on revenue of $1.47 billion.,0.08412130177021027,0.036031559109687805,0.8798471689224243,neutral,0.04808974266052246
+33,2018-08-14 06:16:00,"For the full year, it sees EPS of $2.70 to $2.80, on revenue of $6.1 billion to $6.2 billion.",0.37091854214668274,0.016091790050268173,0.6129896640777588,neutral,0.35482674837112427
+34,2018-08-14 06:16:00,The consensus calls for earnings of $2.82 on revenue of $6.08 billion.,0.1908843070268631,0.007114748936146498,0.8020009398460388,neutral,0.18376955389976501
+35,2018-08-14 06:16:00,"- Teresa Rivas
+
+Sign up to Review & Preview, a new daily email from Barron's.",0.04702991619706154,0.01996985636651516,0.9330002665519714,neutral,0.02706005983054638
+36,2018-08-14 06:16:00,Every evening we'll review the news that moved markets during the day and look ahead to what it means for your portfolio in the morning.,0.038970764726400375,0.006853901781141758,0.9541753530502319,neutral,0.03211686387658119
+37,2018-08-14 06:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

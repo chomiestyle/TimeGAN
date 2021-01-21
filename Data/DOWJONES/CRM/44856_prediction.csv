@@ -1,0 +1,75 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-05 23:36:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2019-03-05 23:36:00,"Today's Research Daily features new research reports on 16 major stocks, including salesforce.com (CRM), Booking Holdings (BKNG) and VMware (VMW).",0.036512430757284164,0.007635166402906179,0.9558523297309875,neutral,0.028877263888716698
+2,2019-03-05 23:36:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2019-03-05 23:36:00,"You can see all of today's research reports here >>>
+
+Buy-ranked salesforce 's shares have gained +25.3% in the past year, outperforming the Zacks Computer Software industry, which has gained +15.9% over the same period.",0.9541683197021484,0.025194132700562477,0.020637599751353264,positive,0.9289742112159729
+4,2019-03-05 23:36:00,Salesforce's Q4 results benefited from strong growth across most of its business segments and deal wins in the international market.,0.9572858810424805,0.01801762916147709,0.024696437641978264,positive,0.9392682313919067
+5,2019-03-05 23:36:00,The Zacks analyst thinks the rapid adoption of its diverse cloud offerings given the growing demand for digital transformation remains the key catalyst.,0.8551538586616516,0.011464862152934074,0.13338127732276917,positive,0.8436890244483948
+6,2019-03-05 23:36:00,"Strengthening relationships with cloud companies like Amazon, Google and IBM are a positive.",0.9445743560791016,0.01650821976363659,0.03891744837164879,positive,0.9280661344528198
+7,2019-03-05 23:36:00,"Additionally, strategic acquisitions like MuleSoft, Datorama and Cloudcraze is helping it deliver strong growth.",0.9498485326766968,0.015312702395021915,0.03483882546424866,positive,0.934535801410675
+8,2019-03-05 23:36:00,The company is now aiming to achieve revenues of $26-$28 billion by fiscal 2023.,0.657745361328125,0.010049045085906982,0.3322056531906128,positive,0.647696316242218
+9,2019-03-05 23:36:00,"Nevertheless, stiff competition from Oracle and Microsoft is a concern.",0.08883485198020935,0.5656250715255737,0.3455400764942169,negative,-0.4767902195453644
+10,2019-03-05 23:36:00,Currency fluctuations remain a key headwind.,0.054715126752853394,0.5192199349403381,0.42606493830680847,negative,-0.46450480818748474
+11,2019-03-05 23:36:00,"Besides, increasing investments for international expansions and data centers is an overhang on near-term profitability.",0.8585397601127625,0.05987284332513809,0.08158736675977707,positive,0.7986668944358826
+12,2019-03-05 23:36:00,(You can read the full research report on salesforce here >>> ).,0.012213421985507011,0.013723894022405148,0.9740626215934753,neutral,-0.0015104720368981361
+13,2019-03-05 23:36:00,"Shares of Booking Holdings have declined -8.2% over the past six months, outperforming the Zacks Internet Commerce industry, which has lost -13.3% over the same period.",0.016931485384702682,0.9728718400001526,0.0101966243237257,negative,-0.9559403657913208
+14,2019-03-05 23:36:00,Booking Holdings reported strong fourth quarter results wherein both earnings and revenues have grown year over year on the back of improving gross bookings.,0.9596272110939026,0.018556326627731323,0.021816479042172432,positive,0.9410709142684937
+15,2019-03-05 23:36:00,"Moreover, solid growth in the booked room nights and strong momentum across global accommodation space contributed well to the gross bookings growth.",0.9488506317138672,0.01656152494251728,0.03458787128329277,positive,0.9322891235351562
+16,2019-03-05 23:36:00,"Further, robust agency model continued to aid the company's position in the international markets.",0.9467799067497253,0.015031658113002777,0.03818837180733681,positive,0.9317482709884644
+17,2019-03-05 23:36:00,"Also, strong efforts toward ramping up of merchant business were positives.",0.9363468885421753,0.018181659281253815,0.04547153413295746,positive,0.9181652069091797
+18,2019-03-05 23:36:00,The Zacks analyst thinks secular growth trend in the online travel booking market and growing mobile usage penetration are tailwinds.,0.042241815477609634,0.9310840368270874,0.02667410857975483,negative,-0.8888422250747681
+19,2019-03-05 23:36:00,"Moreover, the company's strong position in international markets, growth opportunities in the domestic market and good execution of marketing strategies are major positives.",0.8978233933448792,0.013260258361697197,0.08891643583774567,positive,0.884563148021698
+20,2019-03-05 23:36:00,"However, sluggishness in the rental car days poses risk.",0.050730083137750626,0.6241375803947449,0.3251323997974396,negative,-0.5734074711799622
+21,2019-03-05 23:36:00,"Also, macro headwinds, increasing advertising spend and occupancy tax-related litigation remain overhangs.",0.03412558510899544,0.8481318950653076,0.11774247884750366,negative,-0.8140063285827637
+22,2019-03-05 23:36:00,(You can read the full research report on Booking Holdings here >>> ).,0.01504320465028286,0.011723147705197334,0.9732335805892944,neutral,0.0033200569450855255
+23,2019-03-05 23:36:00,"VMware 's shares have gained +39% over the past one year, outperforming the Zacks Software industry which is up +15.9% over the same period.",0.9569276571273804,0.02444121241569519,0.018631137907505035,positive,0.9324864149093628
+24,2019-03-05 23:36:00,"The Zacks analyst thinks VMware is benefiting from robust performance of NSX, VeloCloud and vSAN product lines.",0.9503179788589478,0.01558526512235403,0.03409666195511818,positive,0.9347327351570129
+25,2019-03-05 23:36:00,The company has been consistently taking initiatives to diversify its product portfolio to include most of the IT infrastructure.,0.9023098945617676,0.011526853777468204,0.08616328239440918,positive,0.8907830119132996
+26,2019-03-05 23:36:00,VMware's dominance in software-defined data center (SDDC) along with expanding customer base in cloud driven by partnerships with the likes of IBM and AWS is positive.,0.9424565434455872,0.014450826682150364,0.04309258982539177,positive,0.9280056953430176
+27,2019-03-05 23:36:00,The company has significant growth opportunities from rapid deployment of 5G.,0.9109625816345215,0.012738429941236973,0.07629896700382233,positive,0.8982241749763489
+28,2019-03-05 23:36:00,"Moreover, continuing enterprise deal wins will drive growth in the long haul.",0.9419447779655457,0.016161924228072166,0.04189332574605942,positive,0.9257828593254089
+29,2019-03-05 23:36:00,"Nevertheless, VMware's margins are expected to remain under pressure due to heavy spending.",0.18764850497245789,0.7195147275924683,0.09283678978681564,negative,-0.531866192817688
+30,2019-03-05 23:36:00,Intensifying competition is also a concern.,0.028030410408973694,0.02791561745107174,0.9440540075302124,neutral,0.00011479295790195465
+31,2019-03-05 23:36:00,(You can read the full research report on VMware here >>> ).,0.014514247886836529,0.013968142680823803,0.9715176224708557,neutral,0.0005461052060127258
+32,2019-03-05 23:36:00,"Other noteworthy reports we are featuring today include Sanofi (SNY), Marriott (MAR) and HP Inc. (HPQ).",0.03226649388670921,0.0058624036610126495,0.9618711471557617,neutral,0.026404090225696564
+33,2019-03-05 23:36:00,Would you like to see the updated picks from our best market-beating strategies?,0.08969977498054504,0.007784608751535416,0.9025155901908875,neutral,0.08191516995429993
+34,2019-03-05 23:36:00,"From 2017 through 2018, while the S&P 500 gained +15.8%, five of our screens returned +38.0%, +61.3%, +61.6%, +68.1%, and +98.3%.",0.3736059069633484,0.031855713576078415,0.5945383310317993,neutral,0.34175020456314087
+35,2019-03-05 23:36:00,This outperformance has not just been a recent phenomenon.,0.07354382425546646,0.012619218789041042,0.9138368964195251,neutral,0.060924604535102844
+36,2019-03-05 23:36:00,"From 2000 - 2018, while the S&P averaged +4.8% per year, our top strategies averaged up to +56.2% per year.",0.059850405901670456,0.012692272663116455,0.9274572730064392,neutral,0.047158133238554
+37,2019-03-05 23:36:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+38,2019-03-05 23:36:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+39,2019-03-05 23:36:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+The Zacks analyst believes that Sanofi has many new products and pipeline candidates that can drive long-term growth.",0.7261450886726379,0.010600040666759014,0.26325488090515137,positive,0.7155450582504272
+40,2019-03-05 23:36:00,Weak diabetes sales and generic competition for many drugs are headwinds.,0.019318124279379845,0.9640512466430664,0.016630595549941063,negative,-0.9447331428527832
+41,2019-03-05 23:36:00,The Zacks analyst believes that Marriott's acquisition of Starwood has more than doubled its global presence which should continue to drive revenue growth amid a highly competitive environment.,0.9523531198501587,0.01585494913160801,0.03179193288087845,positive,0.9364981651306152
+42,2019-03-05 23:36:00,"Per the Zacks analyst, Moody's is poised for growth given its diverse revenue mix and low-risk product portfolio.",0.932783305644989,0.014079269021749496,0.053137440234422684,positive,0.9187040328979492
+43,2019-03-05 23:36:00,"Yet, inorganic growth efforts are likely to keep costs high, thus hurting bottom line.",0.023193104192614555,0.9596567153930664,0.017150161787867546,negative,-0.9364635944366455
+44,2019-03-05 23:36:00,"The Zacks analyst appreciates Southern Copper's focus on cost reduction and expansion actions, particularly in Peru given its prospects for copper.",0.9259246587753296,0.021940218284726143,0.052135169506073,positive,0.9039844274520874
+45,2019-03-05 23:36:00,"ONEOK (OKE) to Gain From Assets in Higher Produtive Regions
+
+Per the Zacks analyst, increased natural gas and natural gas liquids volumes in the STACK and SCOOP areas will boost ONEOK's future performance.",0.9567095041275024,0.01687398925423622,0.026416540145874023,positive,0.9398354887962341
+46,2019-03-05 23:36:00,Per the Zacks analyst Devon's consistent investment to develop its high margin domestic oil assets will continue to boost performance.,0.9578679203987122,0.01842612214386463,0.02370600588619709,positive,0.9394418001174927
+47,2019-03-05 23:36:00,"While Mosaic's debt load is a concern, the company should gain from synergies of the Vale Fertilizantes acquisition in 2019, according to the Zacks analyst.",0.9147127270698547,0.012506145052611828,0.07278112322092056,positive,0.9022065997123718
+48,2019-03-05 23:36:00,"Per the Zacks analyst, Arista is well poised to benefit from the expanding cloud networking market backed by strong demand for scalable infrastructure.",0.9384116530418396,0.013547294773161411,0.04804105684161186,positive,0.9248643517494202
+49,2019-03-05 23:36:00,The buyout of Metamako is another tailwind.,0.06231877580285072,0.5932244062423706,0.34445682168006897,negative,-0.5309056043624878
+50,2019-03-05 23:36:00,"The Zacks analyst is bullish about Bio-Rad seeing solid growth in North America, China and Asia Pacific.",0.9456138014793396,0.019276142120361328,0.03511006385087967,positive,0.9263376593589783
+51,2019-03-05 23:36:00,"Also, the company's receipt of FDA approval for the QXDx AutoDG ddPCR System buoys optimism.",0.9206492304801941,0.01963001862168312,0.05972078815102577,positive,0.9010192155838013
+52,2019-03-05 23:36:00,The Zacks analyst likes Clean Harbors' acquisition strategy to expand its business and enter new markets.,0.9165800213813782,0.013281658291816711,0.07013831287622452,positive,0.9032983779907227
+53,2019-03-05 23:36:00,Strategic capital investments with improved business efficiency is a positive.,0.9379689693450928,0.014998487196862698,0.04703262448310852,positive,0.9229704737663269
+54,2019-03-05 23:36:00,"Per the Zacks analyst, HP has been hit by a slump in PC shipments due to CPU shortages and tepid consumer demand.",0.0210624597966671,0.9692077040672302,0.009729805402457714,negative,-0.9481452703475952
+55,2019-03-05 23:36:00,"Also, price sensitivity among customers is an overhang on its Printing business.",0.023905381560325623,0.8379828333854675,0.13811177015304565,negative,-0.8140774369239807
+56,2019-03-05 23:36:00,"Per the Zacks analyst, B&G Foods is grappling with high freight costs which have been weighing on margins.",0.041049934923648834,0.9248414635658264,0.03410857170820236,negative,-0.8837915062904358
+57,2019-03-05 23:36:00,"Moreover, the company expects freight costs to remain a headwind in 2019.",0.039267946034669876,0.8959134817123413,0.06481863558292389,negative,-0.8566455245018005
+58,2019-03-05 23:36:00,"TiVo (TIVO) Gets Battered by Expiration of Time Warp Deal
+
+Per the Zacks analyst, loss of settlement deals for Legacy TiVo Time Warp IP that ended last year, is denting TiVo's top line.",0.020734891295433044,0.9668087363243103,0.012456430122256279,negative,-0.9460738301277161
+59,2019-03-05 23:36:00,Decline in sales of hardware and analog products is another overhang.,0.020064404234290123,0.9625294804573059,0.017406033352017403,negative,-0.94246506690979
+60,2019-03-05 23:36:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+61,2019-03-05 23:36:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+62,2019-03-05 23:36:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+63,2019-03-05 23:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

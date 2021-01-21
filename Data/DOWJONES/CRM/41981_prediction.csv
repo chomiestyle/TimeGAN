@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-02 09:49:00,Alteryx (NYSE:AYX) has become a prime example of how quickly things change in the software-as-a-service “SaaS” space.,0.11056128144264221,0.015079078264534473,0.8743596076965332,neutral,0.09548220038414001
+1,2020-10-02 09:49:00,"Just a year ago, Alteryx was one of the fastest growing SaaS companies out there, and shares were valued accordingly.",0.8859935402870178,0.013391172513365746,0.10061533004045486,positive,0.8726023435592651
+2,2020-10-02 09:49:00,"After a dreadful earnings report, however, Alteryx’s shares plummeted.",0.01985107734799385,0.9660385251045227,0.014110459946095943,negative,-0.946187436580658
+3,2020-10-02 09:49:00,So far there has been little sign of a recovery.,0.23047509789466858,0.4105498492717743,0.35897502303123474,negative,-0.1800747513771057
+4,2020-10-02 09:49:00,"In fact, Alteryx has been one of the worst-performing tech stocks in recent quarters.",0.019841767847537994,0.963597297668457,0.016560865566134453,negative,-0.9437555074691772
+5,2020-10-02 09:49:00,Shares went for $150 prior to Covid-19 and are at just $110 now.,0.021458745002746582,0.01665273681282997,0.9618885517120361,neutral,0.004806008189916611
+6,2020-10-02 09:49:00,"What went wrong, and are Alteryx’s problem’s fixable?",0.06531323492527008,0.28390833735466003,0.6507784128189087,neutral,-0.21859510242938995
+7,2020-10-02 09:49:00,"One point in Alteryx’s defense is that the company has on-premise business, and thus some of its sales were delayed or lost due to social distancing, whereas a cloud-only company would see an increase in sales.",0.021318607032299042,0.9510342478752136,0.027647139504551888,negative,-0.929715633392334
+8,2020-10-02 09:49:00,"However, that explanation is hardly enough to justify the drastic slowdown in Alteryx’s results and forward guidance.",0.019113944843411446,0.8696334958076477,0.11125261336565018,negative,-0.8505195379257202
+9,2020-10-02 09:49:00,There are bigger issues in play as well.,0.05047834664583206,0.055971741676330566,0.893549919128418,neutral,-0.005493395030498505
+10,2020-10-02 09:49:00,"A few quarters ago, Alteryx was the hottest thing in the data science and analytics space.",0.15802793204784393,0.012579023838043213,0.8293930292129517,neutral,0.14544890820980072
+11,2020-10-02 09:49:00,Alteryx’s pitch was that the company could turn ordinary office workers into data scientists.,0.23227471113204956,0.01616327092051506,0.7515619993209839,neutral,0.2161114364862442
+12,2020-10-02 09:49:00,"By creating smart easy-to-use tools with accessible user interfaces, Alteryx would bridge the gulf between simple spreadsheets and wickedly-complex code.",0.7304543256759644,0.015786992385983467,0.2537587285041809,positive,0.7146673202514648
+13,2020-10-02 09:49:00,"For awhile, it appeared this formula was working.",0.26026955246925354,0.016989266499876976,0.7227412462234497,neutral,0.243280291557312
+14,2020-10-02 09:49:00,Alteryx was enjoying revenue growth rates north of 60% along with rising profit margins and strong client retention numbers.,0.9544568657875061,0.01764528639614582,0.027897905558347702,positive,0.9368115663528442
+15,2020-10-02 09:49:00,"However, the wheels came off this past quarter.",0.10315082222223282,0.4128457009792328,0.4840034246444702,neutral,-0.30969488620758057
+16,2020-10-02 09:49:00,"Alteryx’s numbers from existing clients ticked down, new bookings slipped, and now Alteryx is guiding to just single-digit revenue growth in Q3 and potentially even a negative year-over-year number in Q4.",0.01758064329624176,0.9684531092643738,0.013966266997158527,negative,-0.9508724808692932
+17,2020-10-02 09:49:00,That’s simply disastrous for a SaaS company in 2020.,0.023234542459249496,0.9052770733833313,0.07148836553096771,negative,-0.8820425271987915
+18,2020-10-02 09:49:00,"To Alteryx’s credit, they have a history of guiding low and beating comfortably.",0.40633487701416016,0.10688062012195587,0.4867844879627228,neutral,0.2994542717933655
+19,2020-10-02 09:49:00,So there’s still a chance of the company doing a little better.,0.9067903757095337,0.019962571561336517,0.07324708998203278,positive,0.886827826499939
+20,2020-10-02 09:49:00,But things are not looking good at the moment.,0.043655600398778915,0.5847782492637634,0.37156617641448975,negative,-0.5411226749420166
+21,2020-10-02 09:49:00,Remember that disruption isn’t a one-way street.,0.07355102151632309,0.06125541403889656,0.8651935458183289,neutral,0.012295607477426529
+22,2020-10-02 09:49:00,Anything which can upend the existing market is likely to face substantial replacement risk of its own.,0.09444042295217514,0.02489366941154003,0.8806658983230591,neutral,0.06954675167798996
+23,2020-10-02 09:49:00,"Oftentimes, the easier it is to become the leader in something, the less likely it is that the lead will be durable.",0.0935940369963646,0.14465877413749695,0.7617471814155579,neutral,-0.051064737141132355
+24,2020-10-02 09:49:00,This concept has a name: The Lindy Effect.,0.07129838317632675,0.01623421534895897,0.9124674797058105,neutral,0.05506416782736778
+25,2020-10-02 09:49:00,"The theory states that the future life expectancy of certain ideas, stories, and technologies is proportional to their current age.",0.036087896674871445,0.009398829191923141,0.9545132517814636,neutral,0.026689067482948303
+26,2020-10-02 09:49:00,Every additional survival period implies a longer remaining life expectancy.,0.13443516194820404,0.009911889210343361,0.8556529879570007,neutral,0.12452327460050583
+27,2020-10-02 09:49:00,"Thus, the longer something has already been popular, the better its odds of staying relevant in the future.",0.7594056725502014,0.025661418214440346,0.2149328738451004,positive,0.7337442636489868
+28,2020-10-02 09:49:00,"For example, the Bible will still be widely studied in 100 years.",0.18306034803390503,0.009926694445312023,0.8070129752159119,neutral,0.17313365638256073
+29,2020-10-02 09:49:00,Harry Potter probably will not.,0.05808600038290024,0.10686857998371124,0.8350453972816467,neutral,-0.048782579600811005
+30,2020-10-02 09:49:00,Which brings us to the matter of Alteryx.,0.02812054008245468,0.015729127451777458,0.9561503529548645,neutral,0.012391412630677223
+31,2020-10-02 09:49:00,How long do we think that Alteryx’s platform will be one of the best solutions for data science?,0.6520647406578064,0.01319932471960783,0.3347359299659729,positive,0.6388654112815857
+32,2020-10-02 09:49:00,"When you buy a stock at 16x revenues, the answer had better be pretty long.",0.0730738714337349,0.027114953845739365,0.8998111486434937,neutral,0.04595891758799553
+33,2020-10-02 09:49:00,Because the company has to remain in business for a minimum of 16 years — and pay out 100% of revenues as profits to you — merely to return the price you paid up front.,0.024700386449694633,0.014665971510112286,0.9606335759162903,neutral,0.010034414939582348
+34,2020-10-02 09:49:00,"In most realistic scenarios, a company needs to survive even longer to generate decent returns for investors.",0.7461212277412415,0.015562042593955994,0.23831681907176971,positive,0.7305591702461243
+35,2020-10-02 09:49:00,"The math is less severe if a company is still growing rapidly, but growth has evaporated at Alteryx.",0.018842540681362152,0.9383115768432617,0.042845916002988815,negative,-0.9194690585136414
+36,2020-10-02 09:49:00,"Alteryx arguably doesn’t have the most feature-heavy product in its space, nor does it have the cheapest.",0.04608190432190895,0.016857638955116272,0.9370604157447815,neutral,0.02922426536679268
+37,2020-10-02 09:49:00,So it’s not inherently clear why this should be the winning product for the long-term.,0.23946164548397064,0.018220530822873116,0.742317795753479,neutral,0.22124111652374268
+38,2020-10-02 09:49:00,"And Alteryx was an overnight sensation, but that which arrives quickly can also burn out rapidly.",0.11753397434949875,0.04724222049117088,0.8352237939834595,neutral,0.07029175758361816
+39,2020-10-02 09:49:00,"Meanwhile, its rivals such as Excel and hard coding have decades of history built up now and thus have staying power.",0.6667600870132446,0.012277677655220032,0.32096225023269653,positive,0.6544824242591858
+40,2020-10-02 09:49:00,"Not surprisingly, once economic change hit this year, Alteryx’s prospects plummeted while more entrenched rivals held firm.",0.6810526251792908,0.19738098978996277,0.12156635522842407,positive,0.483671635389328
+41,2020-10-02 09:49:00,"That doesn’t mean Alteryx can’t be successful, but you have large players in the same space, such as Microsoft (NASDAQ:MSFT).",0.08792321383953094,0.018698014318943024,0.8933787941932678,neutral,0.06922519952058792
+42,2020-10-02 09:49:00,"There’s also new entrants with sexier alternative products such as Snowflake (NYSE:SNOW) and Tableau, which is now owned by Salesforce (NYSE:CRM).",0.5405194759368896,0.01428370364010334,0.44519683718681335,positive,0.5262357592582703
+43,2020-10-02 09:49:00,The idea that Alteryx is going to be the central storage ground for data — and where you process it from — doesn’t necessarily seem all that likely when you look at all the high-powered competition aiming at the same endpoint.,0.028761059045791626,0.02122356928884983,0.9500153660774231,neutral,0.007537489756941795
+44,2020-10-02 09:49:00,One of the worst situations an investor can get in is buying a formerly hot stock on the way down.,0.09221726655960083,0.6002973914146423,0.30748534202575684,negative,-0.5080801248550415
+45,2020-10-02 09:49:00,"It may seem “cheap” because we view it through the same lens it was previously trading at, but the fundamentals have shifted.",0.14542722702026367,0.03833451867103577,0.816238284111023,neutral,0.1070927083492279
+46,2020-10-02 09:49:00,"Otherwise, the stock probably wouldn’t be down 40-50% in the first place.",0.03073222003877163,0.8421925902366638,0.12707524001598358,negative,-0.8114603757858276
+47,2020-10-02 09:49:00,It’s one thing if all SaaS stocks drop sharply.,0.028441205620765686,0.8401398062705994,0.13141892850399017,negative,-0.8116986155509949
+48,2020-10-02 09:49:00,Then it’s just a sector correction.,0.04925656318664551,0.15781617164611816,0.7929273247718811,neutral,-0.10855960845947266
+49,2020-10-02 09:49:00,"But when something like an Alteryx bombs out while its peers keep making new all-time highs, that’s often an indication of structural business problems.",0.039468761533498764,0.8161693215370178,0.14436188340187073,negative,-0.7767005562782288
+50,2020-10-02 09:49:00,The stock should rally if insiders and tech experts think the growth story is intact.,0.896502673625946,0.019865412265062332,0.08363194018602371,positive,0.8766372799873352
+51,2020-10-02 09:49:00,"Instead, people have been hammering Alteryx’s stock into any rally since earnings.",0.0707201138138771,0.7035984396934509,0.22568145394325256,negative,-0.632878303527832
+52,2020-10-02 09:49:00,This is often indicative of a pattern where the experts in the name are steadily unloading to retail traders and generalists who arrive to the situation late hoping to find perceived value.,0.11160719394683838,0.07678747922182083,0.8116053342819214,neutral,0.03481971472501755
+53,2020-10-02 09:49:00,"It may sound contrary at first glance, but in general, you’re better off paying more for a company that is firing on all cylinders than buying a tech company that has started to miss expectations.",0.12496227025985718,0.22967442870140076,0.6453632712364197,neutral,-0.10471215844154358
+54,2020-10-02 09:49:00,Earnings misses often come in bunches.,0.042913131415843964,0.7128464579582214,0.2442403882741928,negative,-0.6699333190917969
+55,2020-10-02 09:49:00,"And there’s still a ton of potential downside for a stock, such as Alteryx, trading at 16x sales.",0.038065679371356964,0.865884006023407,0.09605035930871964,negative,-0.8278183341026306
+56,2020-10-02 09:49:00,"On the date of publication, Ian Bezek did not have (either directly or indirectly) any positions in the securities mentioned in this article.",0.008293923921883106,0.02580309845507145,0.9659030437469482,neutral,-0.01750917360186577
+57,2020-10-02 09:49:00,"Ian Bezek has written more than 1,000 articles for InvestorPlace.com and Seeking Alpha.",0.029498662799596786,0.011227809824049473,0.9592735171318054,neutral,0.01827085390686989
+58,2020-10-02 09:49:00,"He also worked as a Junior Analyst for Kerrisdale Capital, a $300 million New York City-based hedge fund.",0.0468146950006485,0.01314905658364296,0.9400362372398376,neutral,0.03366563841700554
+59,2020-10-02 09:49:00,You can reach him on Twitter at @irbezek.,0.05966216325759888,0.04006844758987427,0.9002693295478821,neutral,0.01959371566772461
+60,2020-10-02 09:49:00,"• Why Everyone Is Investing in 5G All WRONG
+• Revolutionary Tech Behind 5G Rollout Is Being Pioneered By This 1 Company
+
+The post Don’t Buy the Dip: Alteryx Stock Is in Real Trouble Now appeared first on InvestorPlace.",0.09460759162902832,0.5351125001907349,0.3702799081802368,negative,-0.44050490856170654

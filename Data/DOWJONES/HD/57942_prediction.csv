@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-01-16 07:11:00,"In early trading on Thursday, shares of Home Depot (HD) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.1%.",0.9360150694847107,0.033527906984090805,0.030457010492682457,positive,0.9024871587753296
+1,2020-01-16 07:11:00,"Year to date, Home Depot registers a 3.9% gain.",0.9432348012924194,0.024660862982273102,0.032104361802339554,positive,0.9185739159584045
+2,2020-01-16 07:11:00,"And the worst performing Dow component thus far on the day is Pfizer (PFE), trading down 0.4%.",0.020603271201252937,0.965377926826477,0.014018851332366467,negative,-0.9447746276855469
+3,2020-01-16 07:11:00,Pfizer is showing a gain of 3.4% looking at the year to date performance.,0.9438337087631226,0.017862694337964058,0.038303568959236145,positive,0.9259710311889648
+4,2020-01-16 07:11:00,"Two other components making moves today are Walgreens Boots Alliance (WBA), trading down 0.2%, and Apple (AAPL), trading up 1.0% on the day.",0.036483168601989746,0.9316936135292053,0.031823210418224335,negative,-0.8952104449272156

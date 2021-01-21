@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-07 09:02:00,Adobe (NASDAQ: ADBE) and Salesforce (NYSE: CRM) have very different origin stories.,0.030663834884762764,0.049176644533872604,0.9201594591140747,neutral,-0.01851280964910984
+1,2019-11-07 09:02:00,Adobe's roots are in selling technical software for creative professionals (i.e.,0.02395145781338215,0.0056425477378070354,0.9704060554504395,neutral,0.018308909609913826
+2,2019-11-07 09:02:00,Photoshop).,0.040169745683670044,0.034197065979242325,0.9256331920623779,neutral,0.005972679704427719
+3,2019-11-07 09:02:00,Salesforce's legacy is in software for customer relationship management (CRM) systems.,0.03934328258037567,0.005270631052553654,0.9553861021995544,neutral,0.03407265245914459
+4,2019-11-07 09:02:00,"Both companies have expanded into the large and growing market for enterprise marketing software and are using similar tactics, but which company is winning in this expanding software-as-a-service segment of the market?",0.30080732703208923,0.013768735341727734,0.6854239702224731,neutral,0.2870385944843292
+5,2019-11-07 09:02:00,"To take a step back, enterprise marketing software describes a wide field of solutions ranging from helping companies buy advertising to collecting data on customers.",0.07182938605546951,0.0068476274609565735,0.9213230013847351,neutral,0.06498175859451294
+6,2019-11-07 09:02:00,Salesforce has estimated the market size is at $31 billion and growing at a 14%-per-year rate.,0.5107887983322144,0.009627170860767365,0.4795840084552765,positive,0.5011616349220276
+7,2019-11-07 09:02:00,Adobe estimates the market as being as big as $53.2 billion and growing at a 34% rate.,0.5869220495223999,0.010711364448070526,0.40236660838127136,positive,0.5762106776237488
+8,2019-11-07 09:02:00,The estimates are different because the two companies are playing slightly different games.,0.031414322555065155,0.08750338852405548,0.8810822367668152,neutral,-0.056089065968990326
+9,2019-11-07 09:02:00,Salesforce's marketing software focuses on customer database analytics and campaign planning.,0.017214879393577576,0.006731810048222542,0.9760532975196838,neutral,0.010483069345355034
+10,2019-11-07 09:02:00,"Adobe does campaign planning and customer analytics, but it also has solutions for executing the purchase of advertising -- which is nearly a $20 billion market.",0.07146827131509781,0.00494860764592886,0.9235830903053284,neutral,0.06651966273784637
+11,2019-11-07 09:02:00,Salesforce has one big advantage when it comes to selling marketing software: It controls the largest CRM.,0.1884177327156067,0.007953662425279617,0.8036286234855652,neutral,0.18046407401561737
+12,2019-11-07 09:02:00,Companies around the world already store their customer data in Salesforce's software.,0.026667814701795578,0.009636669419705868,0.9636955261230469,neutral,0.017031144350767136
+13,2019-11-07 09:02:00,It's not a leap for those companies to extend the relationship and use the same provider to take that customer data and do more with it.,0.3022991120815277,0.008300705812871456,0.6894001364707947,neutral,0.2939984202384949
+14,2019-11-07 09:02:00,"And Salesforce has used this relationship to its advantage by aggressively cross-selling additional services, including the ability to better analyze the data, capture more data, create campaigns, and personalize advertising.",0.8659636378288269,0.012188518419861794,0.12184790521860123,positive,0.853775143623352
+15,2019-11-07 09:02:00,"Of course, Salesforce hasn't always had all of these additional capabilities in its existing software.",0.05580223724246025,0.006799384485930204,0.9373983144760132,neutral,0.04900285229086876
+16,2019-11-07 09:02:00,"To quickly add features, the company has made a number of targeted acquisitions over the years.",0.5599761009216309,0.008736035786569118,0.43128782510757446,positive,0.551240086555481
+17,2019-11-07 09:02:00,"As my colleague Brian Carey has pointed out, in recent years, Salesforce has made a number of interesting acquisitions:
+• Demandware -- An e-commerce solution acquired in 2016 for $2.8 billion
+• ExactTarget -- An email marketing tool acquired in 2013 for $2.5 billion
+• Krux -- An ad tech business acquired in 2016 for $742 million
+
+Balancing its ability to cross-sell with buying new capabilities has enabled Salesforce to steadily expand its solutions to its large CRM customer base while filling in product holes in the large marketing software market.",0.9393483400344849,0.012724462896585464,0.04792715236544609,positive,0.9266238808631897
+18,2019-11-07 09:02:00,"When Adobe started to get into the marketing software business a decade ago, it didn't have a large base of enterprise software customers to draw from.",0.02929619699716568,0.025302676483988762,0.9454011917114258,neutral,0.003993520513176918
+19,2019-11-07 09:02:00,"To this day, the company mostly sells software to designers and creative types who are not directly involved in creating campaigns or buying advertising.",0.010632690042257309,0.011726326309144497,0.9776409268379211,neutral,-0.001093636266887188
+20,2019-11-07 09:02:00,"However, Adobe does have two important things going for it:
+• Its management team knows how to build and run software businesses
+
+Using its substantial free cash flow and its skill set in building its software business, the company became an aggressive buyer of marketing and advertising software businesses.",0.8963512182235718,0.01327218022197485,0.0903765931725502,positive,0.8830790519714355
+21,2019-11-07 09:02:00,"Adobe has purchased a number of businesses, but because it maintained its healthy cash flow, it hasn't accumulated a debt-racked balance sheet.",0.1493007242679596,0.2863900065422058,0.564309298992157,neutral,-0.13708928227424622
+22,2019-11-07 09:02:00,"Over the past two years, Adobe has accelerated its acquisition binge, purchasing three software businesses for nearly $7 billion:
+• Magento -- an e-commerce shopping platform acquired for $1.6 billion in 2018
+
+Despite starting with fewer marketing solutions than Salesforce, Adobe has managed to develop a more complete marketing, advertising, and commerce software suite for enterprise clients.",0.832421600818634,0.011983875185251236,0.15559452772140503,positive,0.8204377293586731
+23,2019-11-07 09:02:00,"It can be argued that Adobe is ""winning"" because it has a broader coverage of marketing solutions that enable it to serve clients from the campaign planning stage all the way to the execution of that plan.",0.8447802662849426,0.013447894714772701,0.14177177846431732,positive,0.8313323855400085
+24,2019-11-07 09:02:00,"Salesforce, by contrast, is more focused on helping companies plan campaigns and has fewer tools for execution.",0.0220942460000515,0.15564079582691193,0.8222649693489075,neutral,-0.13354654610157013
+25,2019-11-07 09:02:00,"From a pure numbers perspective, Adobe's marketing software business produced $2.4 billion in fiscal 2018 revenue vs. Salesforce's $1.9 billion of marketing revenue.",0.41804933547973633,0.5224989056587219,0.05945181846618652,negative,-0.1044495701789856
+26,2019-11-07 09:02:00,"That being said, Salesforce's control of the largest CRM shouldn't be underestimated.",0.060009367763996124,0.029013197869062424,0.9109774231910706,neutral,0.0309961698949337
+27,2019-11-07 09:02:00,Both companies have built formidable enterprise marketing businesses over the past 20 years.,0.8364219665527344,0.014876458793878555,0.14870160818099976,positive,0.8215454816818237
+28,2019-11-07 09:02:00,"So, Adobe might be winning, but neither company is losing.",0.40274035930633545,0.09409280121326447,0.5031667947769165,neutral,0.3086475729942322
+29,2019-11-07 09:02:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+30,2019-11-07 09:02:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+31,2019-11-07 09:02:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+32,2019-11-07 09:02:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2019-11-07 09:02:00,Luis Sanchez owns shares of Adobe Systems.,0.015638509765267372,0.008465783670544624,0.9758957028388977,neutral,0.007172726094722748
+34,2019-11-07 09:02:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+35,2019-11-07 09:02:00,The Motley Fool recommends Adobe Systems.,0.04763439670205116,0.038375094532966614,0.9139905571937561,neutral,0.009259302169084549
+36,2019-11-07 09:02:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

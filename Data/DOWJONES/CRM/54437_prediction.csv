@@ -1,0 +1,29 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-02-28 23:40:00,Salesforce.com Inc. ( CRM ) has dropped sharply in the wake of its fourth-quarter earnings report .,0.01886056922376156,0.9723433256149292,0.008796075358986855,negative,-0.9534827470779419
+1,2011-02-28 23:40:00,"In fact, after setting a post-earnings peak of $148 on Feb. 25, the stock has plunged more than 13%.",0.019780565053224564,0.9643129110336304,0.015906520187854767,negative,-0.9445323348045349
+2,2011-02-28 23:40:00,"The shares are currently pulling back to potential support at their 32-week moving average, which is perched in the $125 region.",0.09815157204866409,0.8458852767944336,0.055963147431612015,negative,-0.7477337121963501
+3,2011-02-28 23:40:00,"With the stock suffering heavy losses, it should come as no surprise that CRM traders have taken a keen interest in put options.",0.3716203272342682,0.031033053994178772,0.5973466038703918,neutral,0.3405872583389282
+4,2011-02-28 23:40:00,"In fact, near-term put volume has swelled to some 8,200 contracts today, more than doubling the stock's average daily put volume.",0.9429686069488525,0.01742294803261757,0.03960846737027168,positive,0.9255456328392029
+5,2011-02-28 23:40:00,"The most active put has been the in-the-money March 130 strike, with more than 2,500 contracts crossing the tape so far.",0.08153457939624786,0.5405466556549072,0.3779187798500061,negative,-0.45901209115982056
+6,2011-02-28 23:40:00,"Taking a closer look at CRM's put volume, it appears that one trader has initiated a neutral-to-bullish put spread position.",0.3586696982383728,0.2028053253889084,0.4385249614715576,neutral,0.15586437284946442
+7,2011-02-28 23:40:00,"Specifically, a block of 90 CRM March 115 puts traded at the bid price of $0.69, or $69 per contract, on the NASDAQ OMX PHLX (PHLX) at about 9:31 a.m. At the same time, a block of 90 CRM March 105 puts crossed on the PHLX for the ask price of $0.29, or $29 per contract.",0.028245389461517334,0.04535819962620735,0.926396369934082,neutral,-0.017112810164690018
+8,2011-02-28 23:40:00,"Given this data, it would appear that we are looking at a short vertical put spread, more commonly known as a credit spread , on Salesforce.com.",0.02195119857788086,0.029292095452547073,0.9487566947937012,neutral,-0.007340896874666214
+9,2011-02-28 23:40:00,"This options strategy is also known as a short put spread, or a bull put spread.",0.0424344539642334,0.007421801332384348,0.9501436948776245,neutral,0.03501265123486519
+10,2011-02-28 23:40:00,"The trade breaks down like this: The trader pays $2,610 for 90 March 105 puts -- ($0.29 * 100) * 90 = $2,610.",0.04915740713477135,0.41681456565856934,0.5340279936790466,neutral,-0.3676571547985077
+11,2011-02-28 23:40:00,"Meanwhile, the trader receives a credit of $6,210 for selling 90 March 115 puts -- ($0.69 * 100) * 90 = $6,210.",0.43800145387649536,0.09482881426811218,0.46716973185539246,neutral,0.3431726396083832
+12,2011-02-28 23:40:00,"As a result, the trader has pocketed a net credit of $3,600 -- $6,210 - $2,610 = $3,600.",0.4258579909801483,0.18219123780727386,0.39195072650909424,positive,0.24366675317287445
+13,2011-02-28 23:40:00,"The breakdown for this credit spread is listed below:
+
+Breakeven for this trade is equal to the sold strike minus the credit received, or $114.60 -- $115 - $0.40 = $114.60.",0.02191634103655815,0.015546951442956924,0.962536633014679,neutral,0.006369389593601227
+14,2011-02-28 23:40:00,"The maximum gain is equal to the total premium received -- $3,600 -- while the maximum loss is limited to the difference between the March 115 put and March 105 put, minus the net credit received, and is reached if CRM trades at or below the purchased March 105 strike.",0.03332604840397835,0.02207295224070549,0.9446010589599609,neutral,0.011253096163272858
+15,2011-02-28 23:40:00,"In this case, the maximum loss is $9.60, or $960 per pair of contracts -- (115 - 105) - $0.40 = $9.60.",0.022407159209251404,0.9194951057434082,0.05809774994850159,negative,-0.8970879316329956
+16,2011-02-28 23:40:00,"Below is a chart for a visual representation:
+
+After the short vertical put spread has been established, increasing implied volatility is neutral to the overall position, as it lifts the value of both the sold option and the purchased option.",0.3482154607772827,0.025378189980983734,0.6264063119888306,neutral,0.3228372633457184
+17,2011-02-28 23:40:00,"At the time of the trade, implieds for the March 105 put arrived at 61.11%, while the implied volatility for the March 115 put rested at 50.11%.",0.032206691801548004,0.06930290162563324,0.8984903693199158,neutral,-0.037096209824085236
+18,2011-02-28 23:40:00,"CRM's one-month historical volatility was 37.21%, as of the close of trading on Monday.",0.02614726684987545,0.017091935500502586,0.956760823726654,neutral,0.009055331349372864
+19,2011-02-28 23:40:00,The winter 2011 issue of SENTIMENT magazine is now available here.,0.018214151263237,0.010171731933951378,0.9716140627861023,neutral,0.008042419329285622
+20,2011-02-28 23:40:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942193515598774,0.013680474832654,0.9763773083686829,neutral,-0.0037382813170552254
+21,2011-02-28 23:40:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652368888258934,0.03200574591755867,0.9573419094085693,neutral,-0.021353377029299736

@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-23 09:05:00,Mad Money host and former hedge fund manager Jim Cramer coined the FANG acronym back in 2013.,0.107723169028759,0.09592986851930618,0.7963470220565796,neutral,0.01179330050945282
+1,2018-03-23 09:05:00,"Since then, those four industry-leading tech stocks have been the face of a raging bull market.",0.10233715921640396,0.6401657462120056,0.25749707221984863,negative,-0.5378285646438599
+2,2018-03-23 09:05:00,But Cramer thinks there is a new group of stocks which could be bigger winners over the next five to ten years.,0.7922178506851196,0.016498399898409843,0.191283717751503,positive,0.7757194638252258
+3,2018-03-23 09:05:00,"He called those stocks the Cloud King stocks, and they are expected to benefit hugely in the long-term as the cloud revolution continues to play out.",0.909736156463623,0.01353536732494831,0.07672843337059021,positive,0.8962007761001587
+4,2018-03-23 09:05:00,I'm not a fan of all the Cloud King stocks.,0.022836383432149887,0.03201587498188019,0.9451477527618408,neutral,-0.009179491549730301
+5,2018-03-23 09:05:00,I think some of them might actually be eaten alive by competition.,0.0803074762225151,0.22960731387138367,0.6900851726531982,neutral,-0.14929983019828796
+6,2018-03-23 09:05:00,"But one of the Cloud King stocks that I do like is Salesforce.com, Inc. (NASDAQ: CRM ).",0.033297061920166016,0.010926797986030579,0.9557760953903198,neutral,0.022370263934135437
+7,2018-03-23 09:05:00,"Salesforce stock is up a blistering 175% over the past five years, thanks mostly to the cloud revolution.",0.9250049591064453,0.0212458074092865,0.053749244660139084,positive,0.9037591218948364
+8,2018-03-23 09:05:00,"But its nearly 7% off its recent highs, thanks to broad weakness in tech stocks.",0.027918027713894844,0.9598638415336609,0.012218198738992214,negative,-0.93194580078125
+9,2018-03-23 09:05:00,I'm not so sure Salesforce stock is a great buy just yet - tech stocks are really weak right now.,0.02963836118578911,0.8176019191741943,0.15275974571704865,negative,-0.7879635691642761
+10,2018-03-23 09:05:00,But it's getting to a point where I think long-term investors will be interested.,0.3946966230869293,0.013681523501873016,0.5916218757629395,neutral,0.3810150921344757
+11,2018-03-23 09:05:00,Salesforce stock could easily get to $150 and up over the next several years.,0.7395334839820862,0.017695099115371704,0.2427714765071869,positive,0.7218383550643921
+12,2018-03-23 09:05:00,Salesforce is truly at the heart of the cloud and data revolutions.,0.16867215931415558,0.0097776148468256,0.8215502500534058,neutral,0.15889453887939453
+13,2018-03-23 09:05:00,CRM leverages data and analytics to deliver robust cloud solutions to enterprises that want data-driven insights on their customers.,0.6395212411880493,0.010292955674231052,0.3501858115196228,positive,0.6292282938957214
+14,2018-03-23 09:05:00,"The volume of data globally is exploding higher right now, thanks to the mainstream emergence of the Internet-of-Things (IoT).",0.893905520439148,0.020902663469314575,0.08519182354211807,positive,0.8730028867721558
+15,2018-03-23 09:05:00,"The more valuable data there is floating around the world, the more companies turn to that data to provide insights.",0.11264321208000183,0.009868449531495571,0.877488374710083,neutral,0.10277476161718369
+16,2018-03-23 09:05:00,"Moreover, the more companies that digitize their businesses, the more they will turn toward cloud solutions.",0.4011431336402893,0.012463164515793324,0.5863937139511108,neutral,0.38867998123168945
+17,2018-03-23 09:05:00,"Thus, as the volume of data produced daily continues to explode higher and as businesses pivot to cloud-hosted solutions, demand for CRM's suite of products will grow.",0.9393365383148193,0.014656921848654747,0.04600650444626808,positive,0.9246796369552612
+18,2018-03-23 09:05:00,That is a robust growth narrative.,0.8878831267356873,0.014470730908215046,0.09764605015516281,positive,0.8734123706817627
+19,2018-03-23 09:05:00,The explosion of data and cloud-hosted solutions are two things that are very likely to continue over the next five to ten years.,0.156488299369812,0.00663656136021018,0.8368751406669617,neutral,0.1498517394065857
+20,2018-03-23 09:05:00,"Granted, there are a bunch of notable and legitimate competitors to Salesforce in this space .",0.08331145346164703,0.008131385780870914,0.908557116985321,neutral,0.0751800686120987
+21,2018-03-23 09:05:00,"But like Netflix, Inc. (NASDAQ: NFLX ), Salesforce's market-leading position has hardly been threatened by these competitors.",0.6524980068206787,0.08171636611223221,0.26578569412231445,positive,0.5707816481590271
+22,2018-03-23 09:05:00,Revenue growth at CRM has hardly slowed over the past several years - despite tougher laps and bigger competitors.,0.16840659081935883,0.7457860112190247,0.08580736070871353,negative,-0.5773794054985046
+23,2018-03-23 09:05:00,"Back in 2014, revenues grew by 33%.",0.9169439077377319,0.016138141974806786,0.06691794842481613,positive,0.9008057713508606
+24,2018-03-23 09:05:00,"In fiscal 2018, revenues grew by 25%.",0.936500608921051,0.016318505629897118,0.0471808984875679,positive,0.9201821088790894
+25,2018-03-23 09:05:00,"That is only 8 percentage points of revenue growth slowdown over four years, or just 2 percentage points per year.",0.031064186245203018,0.9085386395454407,0.0603971853852272,negative,-0.8774744272232056
+26,2018-03-23 09:05:00,"Considering revenue growth is in the 25%-plus range, that is a pretty remarkable track record for Salesforce stock.",0.887006938457489,0.0169483944773674,0.09604477882385254,positive,0.870058536529541
+27,2018-03-23 09:05:00,"That revenue growth should get a big bump this year, thanks to Salesforce's recent acquisition of Mulesoft Inc (NYSE: MULE ).",0.9399682879447937,0.015419919043779373,0.04461175948381424,positive,0.9245483875274658
+28,2018-03-23 09:05:00,"Many bears are gawking at the huge premium CRM paid for MULE, but the strategic fit makes a ton of sense.",0.5280823111534119,0.022607985883951187,0.4493096172809601,positive,0.505474328994751
+29,2018-03-23 09:05:00,Companies aren't going all cloud.,0.04085374251008034,0.054573267698287964,0.9045729637145996,neutral,-0.013719525188207626
+30,2018-03-23 09:05:00,"The most popular option in this transition is the hybrid cloud, which is a mix of cloud and on-premise solutions.",0.09209650754928589,0.004788100719451904,0.9031153917312622,neutral,0.08730840682983398
+31,2018-03-23 09:05:00,Mulesoft provides solutions which tie together those cloud and on-premise solutions.,0.0993310734629631,0.005021751392632723,0.8956471681594849,neutral,0.09430932253599167
+32,2018-03-23 09:05:00,"Essentially, they create data communication networks for the hybrid cloud.",0.06661336123943329,0.004765696823596954,0.9286209344863892,neutral,0.061847664415836334
+33,2018-03-23 09:05:00,"Because of its exposure to the hybrid cloud, Mulesoft grew revenues by around 60% last year.",0.9566812515258789,0.01757323555648327,0.02574554644525051,positive,0.9391080141067505
+34,2018-03-23 09:05:00,"Adding a big-growth hybrid cloud player into its portfolio gives Salesforce much-needed exposure to all parts of the cloud world, not just the pure cloud world.",0.8013165593147278,0.011548347771167755,0.18713513016700745,positive,0.7897682189941406
+35,2018-03-23 09:05:00,It also gives Salesforce a ton more data - and new customers.,0.6321988701820374,0.013711703941226006,0.3540893793106079,positive,0.6184871792793274
+36,2018-03-23 09:05:00,All of these things will turn into long-term benefits for CRM shareholders.,0.6526349186897278,0.01161032821983099,0.33575475215911865,positive,0.6410245895385742
+37,2018-03-23 09:05:00,This is a 20%-plus revenue growth company with solid margin drivers over the next five years.,0.9349027276039124,0.013980821706354618,0.05111641436815262,positive,0.9209219217300415
+38,2018-03-23 09:05:00,That should easily lead to 30% earnings growth per year.,0.9369410276412964,0.013937977142632008,0.04912106692790985,positive,0.923003077507019
+39,2018-03-23 09:05:00,That would put earnings in five years around $5 per share.,0.2867794632911682,0.018729401752352715,0.6944910883903503,neutral,0.26805007457733154
+40,2018-03-23 09:05:00,A market-average 25-times earnings multiple on that $5 earnings base gets you to a $125 stock in five years.,0.4420277178287506,0.028710609301924706,0.5292616486549377,neutral,0.41331711411476135
+41,2018-03-23 09:05:00,But Salesforce stock won't get a market average multiple.,0.08799760043621063,0.09212406724691391,0.819878339767456,neutral,-0.004126466810703278
+42,2018-03-23 09:05:00,It will get a big growth multiple.,0.7996846437454224,0.01466025598347187,0.18565504252910614,positive,0.7850244045257568
+43,2018-03-23 09:05:00,"As such, a 30-times multiple gets you to a $150 stock, while a 35-times multiple gets you to a $175.",0.10290122777223587,0.015626253560185432,0.8814725279808044,neutral,0.08727497607469559
+44,2018-03-23 09:05:00,"Either way, there is upside in a long-term window for Salesforce stock.",0.4271641969680786,0.06687701493501663,0.5059587955474854,neutral,0.3602871894836426
+45,2018-03-23 09:05:00,"At $120, the long-term return profile Salesforce stock isn't great.",0.08192720264196396,0.18616227805614471,0.7319105267524719,neutral,-0.10423507541418076
+46,2018-03-23 09:05:00,"But if the stock keeps falling to $110 and below, the return profile starts to look better and better.",0.6976271867752075,0.026716047897934914,0.27565672993659973,positive,0.6709111332893372
+47,2018-03-23 09:05:00,"Consequently, I'm watching Salesforce stock for now.",0.011953833512961864,0.01254964992403984,0.9754965305328369,neutral,-0.0005958164110779762
+48,2018-03-23 09:05:00,And I'll be a buyer if it keeps dropping alongside the rest of the tech sector.,0.2929587960243225,0.06915631145238876,0.6378848552703857,neutral,0.22380247712135315
+49,2018-03-23 09:05:00,"As of this writing, the author did not hold a position in any of the aforementioned securities.",0.008762550540268421,0.0224627573043108,0.9687746167182922,neutral,-0.013700206764042377
+50,2018-03-23 09:05:00,"• 7 High-Quality Dividends for 2018 and Beyond
+• 10 Dividend Aristocrats You Never Have to Worry About
+• The 10 Best Stocks to Invest In Right Now
+
+The post Salesforce.com, Inc. Has Upside in a Long-Term Window appeared first on InvestorPlace .",0.1991734653711319,0.016796359792351723,0.7840301990509033,neutral,0.18237709999084473
+51,2018-03-23 09:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

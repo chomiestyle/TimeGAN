@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-09-15,Costco and Home Depot stocks are on fire lately -- they've each soundly outperformed the S&P 500's 76% return over the last five years.,0.8046029806137085,0.1425340175628662,0.05286300927400589,positive,0.6620689630508423
+1,2015-09-15,Costco's bounce has a lot to do with a six-year streak of customer traffic gains that's stuffing its aisles with shoppers.,0.5394600629806519,0.06365051865577698,0.39688947796821594,positive,0.4758095443248749
+2,2015-09-15,The warehouse retailer's U.S. membership base has jumped to 42 million from 31 million in 2009.,0.9553708434104919,0.02095353975892067,0.023675620555877686,positive,0.9344173073768616
+3,2015-09-15,Those subscribers are shopping more frequently and spending more per visit than they ever have.,0.07763396203517914,0.06110550835728645,0.8612605333328247,neutral,0.016528453677892685
+4,2015-09-15,"Meanwhile, a steadily improving housing market has had the same traffic-juicing effect on Home Depot's business (transaction volume is 3.5% through the last two quarters).",0.6895551681518555,0.0391051210463047,0.2713397443294525,positive,0.6504500508308411
+5,2015-09-15,Investors have at the same time benefited from a massive profitability expansion: Operating margin has more than doubled from the 6% trough it hit in 2009 to reach a fresh all-time high.,0.957391083240509,0.01936294510960579,0.023245979100465775,positive,0.9380281567573547
+6,2015-09-15,So which of these ultra high-performing big-box stores makes the better investment today?,0.32939162850379944,0.026077229529619217,0.6445311903953552,neutral,0.3033143877983093
+7,2015-09-15,"Here are a few comparison points to get us started:
+
+Sales, profit margin, and sales growth are for last fiscal year.",0.020374968647956848,0.010146591812372208,0.9694784283638,neutral,0.01022837683558464
+8,2015-09-15,P/E and P/S ratio cover the trailing 12 months.,0.01277317013591528,0.011290082708001137,0.975936770439148,neutral,0.0014830874279141426
+9,2015-09-15,Sources: S&P Capital IQ data and company financial filings.,0.010608740150928497,0.014356047846376896,0.9750351905822754,neutral,-0.0037473076954483986
+10,2015-09-15,"Home Depot's operations are chugging along at record levels, but it's what management is doing with those gains that makes this stock such an attractive investment right now.",0.6610496044158936,0.013808473013341427,0.32514193654060364,positive,0.6472411155700684
+11,2015-09-15,"As mentioned above, profitability is at a new high, having leapt from 6% to 13% in the last five years.",0.9379059076309204,0.017125733196735382,0.04496833309531212,positive,0.9207801818847656
+12,2015-09-15,"Return on invested capital, at 25%, is also more than twice what it was in 2010.",0.8916968703269958,0.017893988639116287,0.09040915966033936,positive,0.873802900314331
+13,2015-09-15,And other key efficiency metrics are all pointing in the same direction.,0.38347870111465454,0.011280477046966553,0.6052408814430237,neutral,0.372198224067688
+14,2015-09-15,"To name just two more examples, working capital is down and inventory turnover has improved by 20% in the last five years.",0.022473307326436043,0.9665833711624146,0.010943317785859108,negative,-0.9441100358963013
+15,2015-09-15,But probably the single best efficiency metric to watch is cash flow.,0.2732315957546234,0.01143158320337534,0.715336799621582,neutral,0.26180002093315125
+16,2015-09-15,"Operating cash is at an $8 billion annual pace, up 20% in just the last two years.",0.9449976682662964,0.016569431871175766,0.038433026522397995,positive,0.9284282326698303
+17,2015-09-15,CEO Craig Menear and his executive team have made it clear that they want to send all of the excess cash to investors .,0.04096401110291481,0.04259191080927849,0.9164441227912903,neutral,-0.001627899706363678
+18,2015-09-15,The company returned $9.5 billion to shareholders in 2014 through share repurchase and dividends.,0.12269201129674911,0.005728427320718765,0.8715795278549194,neutral,0.11696358025074005
+19,2015-09-15,Costco's business doesn't have nearly same level of profitability as Home Depot's.,0.05015299841761589,0.3174186050891876,0.6324284076690674,neutral,-0.2672656178474426
+20,2015-09-15,But don't let its tiny 3% operating margin scare you off of this potential investment.,0.07114893198013306,0.1212424784898758,0.8076086044311523,neutral,-0.05009354650974274
+21,2015-09-15,"After all, membership subscriptions, not product sales, are Costco's main business.",0.013674596324563026,0.00913742184638977,0.977187991142273,neutral,0.004537174478173256
+22,2015-09-15,"And that business is booming: Total paying cardholders rose by 500,000 last quarter to reach 43.7 million.",0.9364202618598938,0.017224516719579697,0.04635529965162277,positive,0.9191957712173462
+23,2015-09-15,U.S. renewal rate by fiscal year.,0.016853852197527885,0.008238446898758411,0.9749076962471008,neutral,0.008615405298769474
+24,2015-09-15,Source: Costco financial filings.,0.00884091667830944,0.017877936363220215,0.9732811450958252,neutral,-0.009037019684910774
+25,2015-09-15,"Those members now kick in fee revenue that was up 7% year over year to $1.7 billion, or roughly three-quarters of the warehouser's entire operating profit.",0.9521456360816956,0.019209671765565872,0.028644653037190437,positive,0.9329359531402588
+26,2015-09-15,The best news for investors about that growing subscriber fee pool is that it is so predictable.,0.6522257328033447,0.015174112282693386,0.3326001763343811,positive,0.6370516419410706
+27,2015-09-15,"Thanks to a record-high 91% renewal rate, shareholders can count on a huge chunk of Costco's earnings streaming in like clockwork, whether the economy stays flat, dips, or surges in the years ahead.",0.6423133015632629,0.015199096873402596,0.3424876034259796,positive,0.6271141767501831
+28,2015-09-15,The biggest risk when buying a high-performing company like Costco or Home Depot is paying too much.,0.04797760769724846,0.5730698704719543,0.3789525032043457,negative,-0.5250922441482544
+29,2015-09-15,"Indeed, at over 20 times last year's earnings, both stocks are valued at a significant premium to the market.",0.6574251651763916,0.015049650333821774,0.32752525806427,positive,0.6423755288124084
+30,2015-09-15,"Still, on that basis, Home Depot and Costco are cheaper than they've been all year, so now could be a good time to start a position if you've been waiting on the sidelines.",0.3690337836742401,0.018038317561149597,0.6129279732704163,neutral,0.3509954810142517
+31,2015-09-15,Income investors might prefer Home Depot thanks to its hefty 2% dividend yield and fast-growing payout.,0.6245407462120056,0.017582761123776436,0.3578765094280243,positive,0.6069579720497131
+32,2015-09-15,"But if you're after profits you can rely on through major market swings, then Costco is your better bet.",0.17291176319122314,0.023640410974621773,0.8034478425979614,neutral,0.14927135407924652
+33,2015-09-15,"The world's biggest tech company forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07124034315347672,0.0912238135933876,0.8375357985496521,neutral,-0.01998347043991089
+34,2015-09-15,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+35,2015-09-15,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+36,2015-09-15,The article Better Big-Box Retailer Stock: Home Depot Inc. vs. Costco Wholesale Corporation originally appeared on Fool.com.,0.021208414807915688,0.02046663872897625,0.9583249092102051,neutral,0.0007417760789394379
+37,2015-09-15,Demitrios Kalogeropoulos owns shares of Costco Wholesale and Home Depot.,0.013740993104875088,0.009454747661948204,0.9768041968345642,neutral,0.004286245442926884
+38,2015-09-15,"The Motley Fool owns and recommends Costco Wholesale, and recommends Home Depot.",0.016071230173110962,0.015132356435060501,0.96879643201828,neutral,0.0009388737380504608
+39,2015-09-15,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+40,2015-09-15,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+41,2015-09-15,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+42,2015-09-15,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+43,2015-09-15,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+44,2015-09-15,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2015-09-15,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

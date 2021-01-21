@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-14 00:12:00,"In early trading on Tuesday, shares of Caterpillar ( CAT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.8%.",0.9378774762153625,0.03172987699508667,0.03039257787168026,positive,0.9061475992202759
+1,2014-10-14 00:12:00,"Year to date, Caterpillar registers a 2.8% gain.",0.9413660764694214,0.020833922550082207,0.037800051271915436,positive,0.9205321669578552
+2,2014-10-14 00:12:00,"And the worst performing Dow component thus far on the day is Johnson & Johnson ( JNJ ), trading down 1.9%.",0.02093864604830742,0.9652957320213318,0.013765672221779823,negative,-0.9443570971488953
+3,2014-10-14 00:12:00,Johnson & Johnson is showing a gain of 6.1% looking at the year to date performance.,0.9539552927017212,0.020177414640784264,0.025867244228720665,positive,0.9337778687477112
+4,2014-10-14 00:12:00,"Two other components making moves today are Home Depot ( HD ), trading down 1.6%, and Intel ( INTC ), trading up 1.5% on the day.",0.029393460601568222,0.940184473991394,0.030422070994973183,negative,-0.9107910394668579
+5,2014-10-14 00:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

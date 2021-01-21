@@ -1,0 +1,72 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-08-09 08:30:00,The truthwill make you sick.,0.14985539019107819,0.4209687411785126,0.42917585372924805,neutral,-0.2711133360862732
+1,2013-08-09 08:30:00,"Technically it's public knowledge, but I can tell you -- it's Congress' dirty little secret.",0.04497571289539337,0.0556776262819767,0.899346649646759,neutral,-0.010701913386583328
+2,2013-08-09 08:30:00,Congress is rich.,0.1883835643529892,0.01698673889040947,0.7946296334266663,neutral,0.17139682173728943
+3,2013-08-09 08:30:00,Unbelievably rich.,0.6573565006256104,0.015734592452645302,0.3269089162349701,positive,0.6416218876838684
+4,2013-08-09 08:30:00,"And until just recently,insider trading laws didn't apply to Congress.",0.03714936971664429,0.10999491065740585,0.8528557419776917,neutral,-0.07284554094076157
+5,2013-08-09 08:30:00,I don't know which is worse: The fact that insider trading was legal for some of our nation's wealthiest politicians... or that Congress refused to do anything about it for decades.,0.06558553129434586,0.4955388903617859,0.43887564539909363,negative,-0.42995336651802063
+6,2013-08-09 08:30:00,"""A few lawmakers proposed a bill that would prevent members and employees of Congress from trading securities based on nonpublic information they obtain.",0.0630020946264267,0.39680907130241394,0.5401888489723206,neutral,-0.33380699157714844
+7,2013-08-09 08:30:00,"The legislation has languished since 2006,"" according to TheWall Street Journal .",0.07598968595266342,0.22078076004981995,0.703229546546936,neutral,-0.14479106664657593
+8,2013-08-09 08:30:00,"That was, the legislation languished until ""60 Minutes"" -- one of the most respected investigative journalism programs on television -- dedicated a segment to theissue .",0.12361820787191391,0.07417213171720505,0.8022096157073975,neutral,0.04944607615470886
+9,2013-08-09 08:30:00,"Here's a portion of what they had to say...
+
+""In mid-September 2008, with the Dow Jones Industrial Average still above 10,000, Treasury Secretary Hank Paulson and Federal Reserve ChairmanBen Bernanke were holding closed-door briefings with congressional leaders and privately warning them that a global financial meltdown could occur within a few days.",0.11154799163341522,0.4699417054653168,0.4185102581977844,negative,-0.35839372873306274
+10,2013-08-09 08:30:00,"One of those attending was Alabama Rep. Spencer Bachus, then the ranking Republican member on the House Financial Services Committee and now its chairman.",0.09899382293224335,0.031213492155075073,0.8697926998138428,neutral,0.06778033077716827
+11,2013-08-09 08:30:00,"""While Congressman Bachus was publicly trying to keep theeconomy from cratering, he was privately betting that it would, buyingoption funds that would go up in value if themarket went down.",0.3113252818584442,0.07153349369764328,0.6171411871910095,neutral,0.23979178071022034
+12,2013-08-09 08:30:00,"He would make a variety of trades and profited at a time when most Americans were losing their shirts.""",0.13108934462070465,0.023868151009082794,0.8450424671173096,neutral,0.10722119361162186
+13,2013-08-09 08:30:00,And that was just one example.,0.09472263604402542,0.05566539987921715,0.8496119379997253,neutral,0.03905723616480827
+14,2013-08-09 08:30:00,"Also dug up by ""60 Minutes"":
+
+House Minority Leader Nancy Pelosi, D-Calif., and her husband have participated inmultiple exclusive IPOs -- including that of Visa ( V ) .",0.11337076872587204,0.06425446271896362,0.8223747611045837,neutral,0.04911630600690842
+15,2013-08-09 08:30:00,"According to one report, Pelosi purchased 5,000shares of Visa at theIPO price of $44.",0.03769582882523537,0.007660179864615202,0.9546440243721008,neutral,0.030035648494958878
+16,2013-08-09 08:30:00,"Just a couple of days later, when thestock was trading to theinvesting public, it traded at $64 per share.",0.0780264213681221,0.02831367962062359,0.8936598300933838,neutral,0.04971273988485336
+17,2013-08-09 08:30:00,"House Majority Leader John Boehner, R-Ohio, boughtstocks in health care companies days before the so-calledpublic option was pulled from the legislation.",0.13730821013450623,0.23907971382141113,0.6236120462417603,neutral,-0.10177150368690491
+18,2013-08-09 08:30:00,"The removal of the public option proved to be a boon for private health insurers, making a significant sum for Boehner'sinvestments .",0.9178675413131714,0.028721168637275696,0.05341126769781113,positive,0.8891463875770569
+19,2013-08-09 08:30:00,"The report from ""60 Minutes"" led to a frenzy.",0.19179017841815948,0.30889686942100525,0.49931299686431885,neutral,-0.11710669100284576
+20,2013-08-09 08:30:00,"And a few months after the story aired, the STOCK Act, which curbed insider trading by Congress, was signed into law.",0.4113486707210541,0.04060635715723038,0.5480449795722961,neutral,0.3707423210144043
+21,2013-08-09 08:30:00,But why was it delayed for so long?,0.08334352821111679,0.28156885504722595,0.6350876092910767,neutral,-0.19822531938552856
+22,2013-08-09 08:30:00,Apparently Congress was making too muchmoney off the lax rules to do anything about it.,0.06263101100921631,0.6823036074638367,0.2550654709339142,negative,-0.6196725964546204
+23,2013-08-09 08:30:00,"According to data from the Center for Responsive Politics, 249 of the 535 members of Congress are millionaires.",0.07883148640394211,0.027650011703372,0.8935185074806213,neutral,0.05118147283792496
+24,2013-08-09 08:30:00,That's 47%.,0.059481166303157806,0.011420143768191338,0.9290986657142639,neutral,0.04806102067232132
+25,2013-08-09 08:30:00,"For comparison, about 5% of American households are worth more than $1 million.",0.03819204121828079,0.017165016382932663,0.944642961025238,neutral,0.02102702483534813
+26,2013-08-09 08:30:00,"So much for representation ""by the people.""",0.23855768144130707,0.02843656949698925,0.7330057621002197,neutral,0.21012111008167267
+27,2013-08-09 08:30:00,And why on earth would Congress change rules that have obviously helped its members for decades?,0.1221940889954567,0.16425269842147827,0.7135531306266785,neutral,-0.042058609426021576
+28,2013-08-09 08:30:00,"Thankfully, the STOCK Act strengthened financial reporting requirements for members of Congress (along with some of their higher-paid aides).",0.8633783459663391,0.02565116062760353,0.11097060143947601,positive,0.8377271890640259
+29,2013-08-09 08:30:00,"Not only did it eliminate insider trading, but Congress must now disclose their trades within 45 days after they happen.",0.052221521735191345,0.017460651695728302,0.9303178191184998,neutral,0.03476087003946304
+30,2013-08-09 08:30:00,"That means we have an opportunity to see exactly what our ""representatives"" are buying.",0.23768623173236847,0.00798091571778059,0.7543328404426575,neutral,0.2297053188085556
+31,2013-08-09 08:30:00,And we need to know...,0.07922913879156113,0.013462984003126621,0.9073079228401184,neutral,0.06576615571975708
+32,2013-08-09 08:30:00,"In a study cited by Barron's, members of the House of Representatives beat investors like you and me by 55basis points a month.",0.6700718998908997,0.10926031321287155,0.2206677943468094,positive,0.5608115792274475
+33,2013-08-09 08:30:00,That comes out to an extra 6.8% peryear .,0.6761251091957092,0.023699115961790085,0.30017581582069397,positive,0.65242600440979
+34,2013-08-09 08:30:00,"I think Barron's said it best...
+
+""To give an indication of what House members' outperformance is worth, investing at the stock market's long-term total return of 10% wouldmean $10,000 would grow to $25,937 in 10 years.",0.5571879744529724,0.023440362885594368,0.41937166452407837,positive,0.5337476134300232
+35,2013-08-09 08:30:00,"But with their specialinvestment acumen, their 16.8% annual returns would leave them with $47,253 in 10 years.""",0.5526779294013977,0.06711538136005402,0.3802066743373871,positive,0.4855625629425049
+36,2013-08-09 08:30:00,"With that in mind, I decided to dive in and see just exactly what the most popular investments are with Congress...",0.0948384627699852,0.006450506392866373,0.8987110257148743,neutral,0.08838795870542526
+37,2013-08-09 08:30:00,"The 10 Most Popular Stocks In Congress
+
+I'll be honest -- the most popular stocks held by Congress aren't some super-secret investments.",0.022390777245163918,0.011467614211142063,0.9661416411399841,neutral,0.010923163034021854
+38,2013-08-09 08:30:00,They aren't exclusive investments owned only by those in Congress with some inside knowledge of a future breakthrough.,0.02822292409837246,0.007252450566738844,0.9645246863365173,neutral,0.020970473065972328
+39,2013-08-09 08:30:00,"Instead, they're large multinational corporations that make up the bulk of many average investors' portfolios.",0.013825559988617897,0.011964403092861176,0.9742100238800049,neutral,0.0018611568957567215
+40,2013-08-09 08:30:00,I won't keep you in suspense...,0.02856089361011982,0.029527094215154648,0.9419119954109192,neutral,-0.0009662006050348282
+41,2013-08-09 08:30:00,This data is provided by the Center for Responsive Politics.,0.02012696862220764,0.01072569191455841,0.9691473245620728,neutral,0.009401276707649231
+42,2013-08-09 08:30:00,"The most recent year available was 2011, before the STOCK Act passed.",0.027056891471147537,0.01571575179696083,0.9572272896766663,neutral,0.011341139674186707
+43,2013-08-09 08:30:00,"As I said, Barron's cited a study that suggests members of Congress post returns much better than average investors.",0.8147320747375488,0.026898706331849098,0.15836922824382782,positive,0.7878333926200867
+44,2013-08-09 08:30:00,"If their most popular holdings are similar to what many investors own, how is it that members of Congress can earn such higher returns?",0.24380777776241302,0.012789673171937466,0.7434025406837463,neutral,0.23101811110973358
+45,2013-08-09 08:30:00,"No one can say for sure, but my research is turning up a few clues.",0.05189948529005051,0.012259002774953842,0.9358415007591248,neutral,0.039640482515096664
+46,2013-08-09 08:30:00,"If you check out the 10 most popular stocks owned by members of Congress five years ago, eight of them are on the list today.",0.052605003118515015,0.015075660310685635,0.9323192834854126,neutral,0.037529341876506805
+47,2013-08-09 08:30:00,And the two not on the list are in the top 25 today.,0.1260666698217392,0.054743386805057526,0.8191899061203003,neutral,0.07132328301668167
+48,2013-08-09 08:30:00,So is it that members of Congress are just holding on to stocks longer?,0.10502022504806519,0.20427508652210236,0.6907047033309937,neutral,-0.09925486147403717
+49,2013-08-09 08:30:00,"That's what I think, but let me explain why...",0.032306503504514694,0.025879167020320892,0.9418143033981323,neutral,0.006427336484193802
+50,2013-08-09 08:30:00,"In 1940, the averageholding period for an investment was seven years, according to William Hutchings of the Financial News.",0.0189996138215065,0.02144167572259903,0.9595587253570557,neutral,-0.0024420619010925293
+51,2013-08-09 08:30:00,"By 2007, that period had shrunk to just five days.",0.0648563802242279,0.7277510166168213,0.20739254355430603,negative,-0.662894606590271
+52,2013-08-09 08:30:00,But you don't have to trade every day... or every week... or even every year to beat the market.,0.07713554054498672,0.011888752691447735,0.9109757542610168,neutral,0.06524679064750671
+53,2013-08-09 08:30:00,"In fact, your success actually increases the fewer trades you make and the longer you hold.",0.4838181436061859,0.021059585735201836,0.4951223134994507,neutral,0.4627585709095001
+54,2013-08-09 08:30:00,"A recent study by mega-investment firm Oppenheimer showed that the S&P 500index has NEVER suffered a loss in a 20-year period (measured in rolling monthly periods), dating all the way back to 1950.",0.28420767188072205,0.3703068196773529,0.3454854488372803,negative,-0.08609914779663086
+55,2013-08-09 08:30:00,"Of course, we all know you can't say the same for holding stocks for a year or two.",0.022403987124562263,0.02345309406518936,0.9541429281234741,neutral,-0.001049106940627098
+56,2013-08-09 08:30:00,"When you hold stocks for a short period of time, your odds of losing money are much, much higher.",0.23216144740581512,0.24660496413707733,0.5212335586547852,neutral,-0.014443516731262207
+57,2013-08-09 08:30:00,And you can lose a boatload of money in a hurry...,0.05516738072037697,0.6507817506790161,0.2940509021282196,negative,-0.5956143736839294
+58,2013-08-09 08:30:00,"In fact, in its worst one-year period, the S&P 500 dropped 44.8%.",0.019795386120676994,0.9702483415603638,0.009956184774637222,negative,-0.950452983379364
+59,2013-08-09 08:30:00,"No wonderWarren Buffett has always said his favorite holding period is ""forever.""",0.07811183482408524,0.04482721537351608,0.8770609498023987,neutral,0.03328461945056915
+60,2013-08-09 08:30:00,I think these shorter holding periods for average investors are hurting their returns.,0.020245261490345,0.9568971395492554,0.022857632488012314,negative,-0.936651885509491
+61,2013-08-09 08:30:00,"So yes, it appears members of Congress are buying many of the same well-known stocks as everyday investors, who are now holding for shorter periods than ever and hurting returns.",0.041738152503967285,0.8745038509368896,0.08375795930624008,negative,-0.8327656984329224
+62,2013-08-09 08:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

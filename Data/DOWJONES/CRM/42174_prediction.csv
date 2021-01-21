@@ -1,0 +1,37 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-04 09:54:00,"The Nasdaq was on track for its worst two-day fall since March on Friday as investors dumped heavyweight technology stocks, while concerns around a patchy economic recovery also hit the S&P 500 and the blue-chip Dow.",0.03468770161271095,0.9377687573432922,0.027543596923351288,negative,-0.9030810594558716
+1,2020-09-04 09:54:00,".N
+
+At 13:00 p.m.",0.04219961166381836,0.02261470817029476,0.9351856708526611,neutral,0.019584903493523598
+2,2020-09-04 09:54:00,"ET, the Dow Jones Industrial Average .DJI was down 1.22% at 27,946.24.",0.02076723426580429,0.9647654891014099,0.014467335306107998,negative,-0.9439982771873474
+3,2020-09-04 09:54:00,"The S&P 500 .SPX was down 1.57% at 3,400.76 and the Nasdaq Composite .IXIC was down 2.57% at 11,163.605.",0.01916593126952648,0.9654930233955383,0.015340978279709816,negative,-0.9463270902633667
+4,2020-09-04 09:54:00,"The top three S&P 500 .PG.INX percentage gainers: ** Unum Group <UNM.N>, up 6.9% ** Cooper Companies Inc <COO.N>, up 6.1% ** Lincoln National Corp <LNC.N>, up 5.5% The top three S&P 500 .PL.INX percentage losers: ** Paypal Holdings Inc <PYPL.O>, down 7.5% ** Salesforce.Com Inc <CRM.N>, down 5.5% ** Nvidia Corp <NVDA.O>, down 5.2% The top three NYSE .PG.N percentage gainers: ** Polymet Mining Corp <PLM.N>, up 93.6% ** FBL Financial Group Inc <FFG.N>, up 31.3% ** Build-A-Bear Workshop Inc <BBW.N>, up 12.6% The top three NYSE .PL.N percentage losers: ** Garret MotiOn Inc <GTX.N>, down 16.1% ** Hovnanian Enterprises Inc <HOV.N>, down 15.5% ** Vapotherm Inc <VAPO.N>, down 14.7% The top three Nasdaq .PG.O percentage gainers: ** Vivopower International Plc <VVPR.O>, up 58.6% ** National CineMedia Inc <NCMI.O>, up 28.4% ** Ebang International Holdings Inc <EBON.O>, up 20.3% The top three Nasdaq .PL.O percentage losers: ** Heritage Global Inc <HGBL.O>, down 17.5% ** Checkmate Pharmaceuticals Inc <CMPI.O>, down 17% ** Syros Pharmaceuticals Inc <SYRS.O>, down 16.8% ** Plug Power Inc PLUG.O: up 0.6%
+
+BUZZ-Shares up after D.E.",0.027181414887309074,0.9613086581230164,0.011509851552546024,negative,-0.9341272711753845
+5,2020-09-04 09:54:00,"Shaw discloses passive stake ** Broadcom Inc AVGO.O: up 3.1%
+
+BUZZ-Street View: Broadcom shows 'meaningful' growth ahead of 5G ramp-up cycle ** I-Mab IMAB.O: up 6.2% BUZZ-I-Mab, AbbVie up on licensing deal with Chinese firm's lead cancer drug ** AnPac Bio-Medical Science Co Ltd ANPC.O: up 13.9%
+
+BUZZ-Rises on positive data from cancer monitoring technology study ** DPW Holdings Inc DPW.A: up 16.8%
+
+BUZZ-Gains as unit expects orders for EV charger products from Q4 ** PolyMet Mining Corp PLM.N: up 92.6%
+
+BUZZ-Jumps as court finds no irregularities in NorthMet water permit issue ** Tesla Inc TSLA.O: down 0.6%
+
+BUZZ-Set to fall for fourth straight session; insiders offload stake ** Kensington Capital Acquisition KCAC.N: up 8.8%
+
+BUZZ-Jumping after huge gain on EV SPAC deal ** Apple Inc AAPL.O: down 2.3%
+
+BUZZ-Falls for third straight day as tech stocks bleed ** Seelos Therapeutics Inc SEEL.O: down 24.1%
+
+BUZZ-Rises as Germany expected to give 252 mln euros for making COVID-19 vaccine ** Domo Inc DOMO.O: up 8.1%
+
+BUZZ-Hits record high on upbeat forecast ** Cooper Companies Inc COO.N: up 6.5%
+
+BUZZ-Top S&P performer after Q3 results, forecast beat ** Wayfair Inc W.N: down 6.8%
+
+BUZZ-Falls as BofA downgrades on signs of sales deceleration ** Moderna Inc MRNA.O: down 5.0%
+
+BUZZ-Falls on possibility of slowing COVID-19 trial enrollment ** National Cinemedia Inc NCMI.O: up 28.4%
+
+BUZZ-Climbs on broker upgrade as films return to theatres ** Tilly's Inc TLYS.N: up 6.2%",0.9058839082717896,0.04340420290827751,0.05071191489696503,positive,0.8624796867370605

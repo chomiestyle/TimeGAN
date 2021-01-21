@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-07-20 07:16:00,"In early trading on Monday, shares of Apple ( AAPL ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.7%.",0.9392792582511902,0.030989741906523705,0.029731063172221184,positive,0.9082894921302795
+1,2015-07-20 07:16:00,"Year to date, Apple registers a 19.5% gain.",0.9404367208480835,0.02292594499886036,0.0366373285651207,positive,0.9175107479095459
+2,2015-07-20 07:16:00,"And the worst performing Dow component thus far on the day is Chemours ( CC ), trading down 2.1%.",0.020483804866671562,0.9651249051094055,0.014391218312084675,negative,-0.94464111328125
+3,2015-07-20 07:16:00,Chemours is lower by about 38.8% looking at the year to date performance.,0.019456762820482254,0.9648924469947815,0.015650760382413864,negative,-0.9454357028007507
+4,2015-07-20 07:16:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.9%, and Visa ( V ), trading up 1.4% on the day.",0.0364910326898098,0.9294029474258423,0.03410603851079941,negative,-0.8929119110107422
+5,2015-07-20 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

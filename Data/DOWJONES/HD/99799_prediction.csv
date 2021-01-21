@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-02 08:58:00,"In early trading on Thursday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.8%.",0.9351227879524231,0.03493671119213104,0.029940461739897728,positive,0.9001860618591309
+1,2014-10-02 08:58:00,"Year to date, Home Depot registers a 11.4% gain.",0.9464898705482483,0.021809380501508713,0.0317007452249527,positive,0.9246804714202881
+2,2014-10-02 08:58:00,"And the worst performing Dow component thus far on the day is Coca-Cola ( KO ), trading down 0.6%.",0.02146442048251629,0.9645103812217712,0.014025206677615643,negative,-0.943045973777771
+3,2014-10-02 08:58:00,Coca-Cola is showing a gain of 2.8% looking at the year to date performance.,0.9527242183685303,0.021606745198369026,0.02566913701593876,positive,0.9311174750328064
+4,2014-10-02 08:58:00,"Two other components making moves today are 3M ( MMM ), trading down 0.5%, and Wal-Mart Stores ( WMT ), trading up 0.5% on the day.",0.032431088387966156,0.9263709783554077,0.04119786620140076,negative,-0.8939399123191833
+5,2014-10-02 08:58:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

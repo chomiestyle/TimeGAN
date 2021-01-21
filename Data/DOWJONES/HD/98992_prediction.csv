@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-17 21:01:00,"Rival home improvement chains Lowe's Companies, Inc. ( LOW ) and Home Depot Inc ( HD ) each put up solid quarterly numbers this week.",0.9405693411827087,0.025491531938314438,0.03393914923071861,positive,0.915077805519104
+1,2016-05-17 21:01:00,"Lowe's reported this morning that earnings per share shot up 40% to $0.98 from $0.70 a year ago, and revenues were up a good 7.8%.",0.9561699628829956,0.022753680124878883,0.021076366305351257,positive,0.9334163069725037
+2,2016-05-17 21:01:00,Same-store sales were up 7.5%.,0.9400793313980103,0.026218025013804436,0.03370261937379837,positive,0.9138613343238831
+3,2016-05-17 21:01:00,"All told, a very good quarter, particularly given how sluggish economic growth has been - GDP grew at just 0.5% last quarter.",0.46753352880477905,0.33424997329711914,0.1982165277004242,positive,0.1332835555076599
+4,2016-05-17 21:01:00,This follows a day after Home Depot also reported better-than-expected earnings.,0.9219473600387573,0.0437941737473011,0.03425852581858635,positive,0.8781532049179077
+5,2016-05-17 21:01:00,"EPS came in at $1.44 per share, up 19% from last year, and revenues were up 9% to $22.76 billion.",0.9558616876602173,0.022151166573166847,0.021987050771713257,positive,0.933710515499115
+6,2016-05-17 21:01:00,The street had been expecting EPS of $1.36 and revenues of $22.39 billion.,0.12110847979784012,0.010653373785316944,0.8682381510734558,neutral,0.11045510321855545
+7,2016-05-17 21:01:00,"U.S. same-store sales were up 7.4%, and the amount spent per customer jumped to over $60 per trip, a number it hasn't seen since the go-go days of the pre-2008 housing bust.",0.9420481324195862,0.026457367464900017,0.031494494527578354,positive,0.915590763092041
+8,2016-05-17 21:01:00,"For two companies that are facing increasing competition from internet rivals like Amazon.com, Inc. ( AMZN ), this was a solid quarter all around.",0.9265596866607666,0.03227360174059868,0.04116668179631233,positive,0.8942860960960388
+9,2016-05-17 21:01:00,"But which of the two is the better stock, LOW or HD?",0.07842683792114258,0.045620448887348175,0.8759527802467346,neutral,0.0328063890337944
+10,2016-05-17 21:01:00,"One of my favorite valuation metrics is the cyclically adjusted price/earnings ratio (""CAPE"" or ""Shiller P/E"") because it smooths out the ups and downs of the economic cycle by using a 10-year average of earnings.",0.09367134422063828,0.006673293653875589,0.8996553421020508,neutral,0.08699805289506912
+11,2016-05-17 21:01:00,"Within any given 10-year period, you're likely to have a boom, a bust and everything in between.",0.15675468742847443,0.02601516619324684,0.8172301054000854,neutral,0.13073952496051788
+12,2016-05-17 21:01:00,"Looking at LOW and HD, we see two stocks that are actually quite pricey by this metric, though in line with one another.",0.1769753396511078,0.07893185317516327,0.7440927624702454,neutral,0.09804348647594452
+13,2016-05-17 21:01:00,Home Depot trades at a CAPE of 42.2 and LOW a CAPE of 39.3.,0.05785997211933136,0.28297188878059387,0.6591681241989136,neutral,-0.2251119166612625
+14,2016-05-17 21:01:00,"As a point of comparison, the S&P 500 trades at a CAPE of about 26.",0.0632132887840271,0.05031690374016762,0.886469841003418,neutral,0.012896385043859482
+15,2016-05-17 21:01:00,"Both LOW and HD have inflated CAPEs, though this is due in part to their earnings getting eviscerated during the 2008 meltdown and aftermath.",0.03692955523729324,0.8566973209381104,0.10637306421995163,negative,-0.8197677731513977
+16,2016-05-17 21:01:00,But the key takeaway here is that HD and LOW are being valued very similarly at current prices.,0.3476923406124115,0.012845213524997234,0.6394624710083008,neutral,0.3348471224308014
+17,2016-05-17 21:01:00,Neither would appear to be particularly cheap relative to the other.,0.17112822830677032,0.06572874635457993,0.7631430625915527,neutral,0.1053994819521904
+18,2016-05-17 21:01:00,Neither Lowe's nor Home Depot is a particularly high-yielding stock - LOW yields about 1.5% and HD about 2% - though both have been consistent dividend raisers over the years.,0.12033926695585251,0.02361893467605114,0.8560417890548706,neutral,0.09672033041715622
+19,2016-05-17 21:01:00,"Home Depot has raised its dividend every year since 2009, and its compound annual growth rate over the past five years is a stellar 22.5%.",0.8857187032699585,0.015588833950459957,0.09869255870580673,positive,0.8701298832893372
+20,2016-05-17 21:01:00,"Lowe's has raised its dividend every year since 1986 and over the past five years is a solid 20.6%, nearly as high as Home Depot.",0.9277555346488953,0.01797214150428772,0.054272305220365524,positive,0.9097833633422852
+21,2016-05-17 21:01:00,And it's not just dividends.,0.02119174599647522,0.008307326585054398,0.9705008864402771,neutral,0.012884419411420822
+22,2016-05-17 21:01:00,HD and LOW have repurchased an average of 5.3% and 7.6% of their respective shares outstanding per year over the past three years.,0.07349304854869843,0.008553517051041126,0.9179534316062927,neutral,0.06493952870368958
+23,2016-05-17 21:01:00,"So, both retailers are clearly committed to their shareholders.",0.5325549840927124,0.012834051623940468,0.4546109437942505,positive,0.5197209119796753
+24,2016-05-17 21:01:00,"Given the slightly higher yield and growth rate, I'm going to give the nod to Home Depot here, but it's a close race.",0.4006541073322296,0.03761466592550278,0.561731219291687,neutral,0.36303943395614624
+25,2016-05-17 21:01:00,"By most measures of profitability, Home Depot beats the pants off of Lowe's.",0.7840530872344971,0.09598106145858765,0.11996593326330185,positive,0.6880720257759094
+26,2016-05-17 21:01:00,"As seen in the chart above, HD consistently generates higher returns on equity and returns on assets than its smaller rival.",0.9254027009010315,0.02880633808672428,0.04579097777605057,positive,0.896596372127533
+27,2016-05-17 21:01:00,"Lowe's has narrowed the gap with Home Depot on gross margins, though HD's operating margins are consistently higher than those of Lowe's.",0.8325290679931641,0.13017043471336365,0.03730055317282677,positive,0.702358603477478
+28,2016-05-17 21:01:00,"So, by really any metric you want to use, Home Depot is a more profitable enterprise.",0.490568071603775,0.010114660486578941,0.4993172585964203,neutral,0.48045340180397034
+29,2016-05-17 21:01:00,"So, which of the two home improvement chains in the better buy?",0.0679718554019928,0.02602878212928772,0.9059993624687195,neutral,0.04194307327270508
+30,2016-05-17 21:01:00,I'd give a slight edge to Home Depot based on its higher levels of profitability.,0.679582417011261,0.01775108464062214,0.3026665151119232,positive,0.6618313193321228
+31,2016-05-17 21:01:00,"But frankly, if you like one you might as well like both.",0.08064308762550354,0.027259670197963715,0.8920972347259521,neutral,0.053383417427539825
+32,2016-05-17 21:01:00,The two stores essentially sink or swim together based on the same macro factors - namely the health of the U.S. consumer and the health of the housing market.,0.01883719675242901,0.08103151619434357,0.9001312851905823,neutral,-0.06219431757926941
+33,2016-05-17 21:01:00,"• Home Depot Inc (HD) Stock: The Bears Are in Charge
+
+I'm not wildly enthusiastic about the prospects for consumers these days.",0.047596048563718796,0.13020186126232147,0.8222020864486694,neutral,-0.08260580897331238
+34,2016-05-17 21:01:00,"Despite all efforts by the Fed, wages aren't rising in real terms and labor force participation is still pretty lackluster.",0.023324254900217056,0.9243409037590027,0.05233483761548996,negative,-0.9010166525840759
+35,2016-05-17 21:01:00,"But I do believe that, with interest rates as low as they are, the housing market should remain strong.",0.463619589805603,0.014422285370528698,0.5219581723213196,neutral,0.44919729232788086
+36,2016-05-17 21:01:00,"So, to the extent that consumers buy much of anything, it's reasonable to expect them to continue putting money into their houses.",0.06370710581541061,0.00840691663324833,0.9278860092163086,neutral,0.055300191044807434
+37,2016-05-17 21:01:00,"Charles Sizemore is the principal ofSizemore Capital , a wealth management firm in Dallas, Texas.",0.03373901546001434,0.007333934307098389,0.9589270949363708,neutral,0.026405081152915955
+38,2016-05-17 21:01:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+39,2016-05-17 21:01:00,"• 7 Bland Beauties That EVERY Investor Should Own
+• 7 Dividend Stocks You Can Hold With Your Eyes Closed
+
+The post Report Card: Home Depot Inc (HD) vs. Lowe's Companies, Inc. (LOW) appeared first on InvestorPlace .",0.10283438116312027,0.018011920154094696,0.8791536688804626,neutral,0.08482246100902557
+40,2016-05-17 21:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

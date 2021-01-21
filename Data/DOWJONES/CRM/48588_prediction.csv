@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-23 07:22:00,Markets gained traction on Tuesday following reports that the Trump administration had made significant progress on tax reforms.,0.9304644465446472,0.023891016840934753,0.04564445838332176,positive,0.9065734148025513
+1,2017-08-23 07:22:00,All three benchmarks posted their best one-day percentage increase for the week.,0.9298081398010254,0.031108202412724495,0.03908374905586243,positive,0.898699939250946
+2,2017-08-23 07:22:00,"Also, Trump's speech, during which he refused to withdraw U.S. troops from Afghanistan sent defense stocks higher, further boosting broader markets.",0.9439963102340698,0.023658428341150284,0.0323452427983284,positive,0.9203378558158875
+3,2017-08-23 07:22:00,"The Norwegian sovereign-fund, also world's biggest sovereign fund, increased its exposure to the global market.",0.9393002986907959,0.015179493464529514,0.04552025720477104,positive,0.9241207838058472
+4,2017-08-23 07:22:00,This news also boosted the sentiment and overall the markets finished higher.,0.9418994188308716,0.023966418579220772,0.03413420915603638,positive,0.9179329872131348
+5,2017-08-23 07:22:00,"The Dow Jones Industrial Average (DJIA) closed at 21,899.89, gaining 0.9% or 196.14 points.",0.924067497253418,0.04052220657467842,0.03541036695241928,positive,0.8835452795028687
+6,2017-08-23 07:22:00,"The S&P 500 Index (INX) increased 1% or 24.14 points to close at 2,452.51.",0.9388071298599243,0.023090258240699768,0.03810260072350502,positive,0.9157168865203857
+7,2017-08-23 07:22:00,"Meanwhile, the Nasdaq Composite Index (IXIC) closed at 6,297.48, increasing 84.35 points or about 1.4%.",0.9400731921195984,0.029684122651815414,0.030242685228586197,positive,0.9103890657424927
+8,2017-08-23 07:22:00,"Advancing issues outnumbered decliners on the NYSE by 1,955 to 847.",0.8837005496025085,0.05574839189648628,0.06055101379752159,positive,0.8279521465301514
+9,2017-08-23 07:22:00,"On the Nasdaq, decliners outnumbered advancers by a 1,965 to 855.",0.5343909859657288,0.41640231013298035,0.04920674115419388,positive,0.11798867583274841
+10,2017-08-23 07:22:00,"According to a report in Politico magazine, President Trump and his team have made considerable progress toward shaping tax reform plans.",0.8691834807395935,0.01650414615869522,0.1143123060464859,positive,0.8526793122291565
+11,2017-08-23 07:22:00,This report was received positively by the investors and broader markets gained.,0.9187464714050293,0.019887365400791168,0.06136619672179222,positive,0.8988590836524963
+12,2017-08-23 07:22:00,This also marks the GOP's movement beyond the six-paragraph framework laid out in July.,0.5082529783248901,0.019424881786108017,0.47232210636138916,positive,0.4888280928134918
+13,2017-08-23 07:22:00,"This development comes at the right time, just when the market is recovering from setbacks it suffered last week.",0.9245958924293518,0.019955286756157875,0.05544881522655487,positive,0.9046406149864197
+14,2017-08-23 07:22:00,"The tax reform team is led by Chief Economic Advisor Gary Cohn, U.S. Secretary of Treasury Steven Mnuchin, Senator Mitch McConnell, House Speaker Paul Ryan, Senate Finance Chair Orrin Hatch, and Ways & Means Committee Chair Kevin Brady.",0.11424315720796585,0.013411658816039562,0.8723451495170593,neutral,0.10083150118589401
+15,2017-08-23 07:22:00,"Together, they are also known asthe ""Big 6"".",0.1885402351617813,0.01772161014378071,0.7937381267547607,neutral,0.17081862688064575
+16,2017-08-23 07:22:00,"However, market watchers still remain skeptical of Trump administration's ability to push through the much awaited reforms.",0.5204924941062927,0.2401382476091385,0.23936928808689117,positive,0.28035426139831543
+17,2017-08-23 07:22:00,"This is because of the muddled domestic political scenario following the backlash the President faced after the Charlottesville incident, the investigation of a possible Russian involvement in 2016 elections and the divide within the Republican Party.",0.02632252685725689,0.8594987392425537,0.11417868733406067,negative,-0.8331761956214905
+18,2017-08-23 07:22:00,"In a primetime address on Monday, Trump announced that the U.S. would not be hasty in withdrawing troops from Afghanistan.",0.27985215187072754,0.4058939218521118,0.31425395607948303,negative,-0.12604176998138428
+19,2017-08-23 07:22:00,"He reasoned this would provide a chance for terrorists to almost instantly return to power, referring to the situation in Iraq post withdrawal of U.S. troops.",0.44396084547042847,0.13852457702159882,0.4175145626068115,positive,0.30543625354766846
+20,2017-08-23 07:22:00,"This statement also boosted investor sentiment after defense stocks gained traction, led by shares of Boeing BA which surged 1.7%.",0.9457325339317322,0.023575877770781517,0.03069159761071205,positive,0.9221566319465637
+21,2017-08-23 07:22:00,This resulted in the iShares U.S. Aerospace and Defense ETF (ITA) gaining 1.2%.,0.95615553855896,0.021148694679141045,0.02269572950899601,positive,0.935006856918335
+22,2017-08-23 07:22:00,The $970 billion Norwegian sovereign fund is slated to raise its equity holdings to 70% in a bid to increase its exposure to the global market.,0.9447054862976074,0.015037352219223976,0.04025712609291077,positive,0.929668128490448
+23,2017-08-23 07:22:00,World's biggest sovereign fund has returned almost 202 billion kroner or $26 billion in the second quarter.,0.5660742521286011,0.02302270196378231,0.41090303659439087,positive,0.543051540851593
+24,2017-08-23 07:22:00,This development also boosted the overall sentiment and led to broad based gains for the market.,0.9483939409255981,0.018728872761130333,0.032877158373594284,positive,0.9296650886535645
+25,2017-08-23 07:22:00,The market has suffered low trade volumes lately.,0.027714639902114868,0.9197578430175781,0.052527494728565216,negative,-0.8920432329177856
+26,2017-08-23 07:22:00,"At the day's close, 2.76 million shares were traded on NYSE and 1.59 billion shares were traded on Nasdaq.",0.028525732457637787,0.007424891926348209,0.9640493392944336,neutral,0.021100841462612152
+27,2017-08-23 07:22:00,The daily average volume for August for NYSE is 3.16 billion whereas that for Nasdaq is 1.84 billion.,0.021972855553030968,0.06250260025262833,0.9155245423316956,neutral,-0.04052974283695221
+28,2017-08-23 07:22:00,One of the reasons for such a lull is the reluctance of traders to make large bets ahead of the annual Jackson Hole Economic Policy Symposium to start this Thursday.,0.03136768937110901,0.8304183483123779,0.13821397721767426,negative,-0.7990506887435913
+29,2017-08-23 07:22:00,Investors have also been closely following the bond market ahead of the meeting to have the central bankers in attendance.,0.29665178060531616,0.021025555208325386,0.68232262134552,neutral,0.27562621235847473
+30,2017-08-23 07:22:00,"However, economists have clearly stated that it would be wrong to expect any major monetary policy related announcements.",0.03755505755543709,0.46339327096939087,0.49905169010162354,neutral,-0.4258382022380829
+31,2017-08-23 07:22:00,"U.S. telecom behemoth, Verizon Communications Inc. VZ , has restructured and modernized its unlimited wireless data plans, so as to reach out to customers' more diversified needs.",0.9069280028343201,0.014080621302127838,0.07899139821529388,positive,0.8928473591804504
+32,2017-08-23 07:22:00,"( Read More )
+
+The Clorox Company CLX announced the sale of its Aplicare skin antisepsis business to Medline Industries.",0.05999092385172844,0.007089108694344759,0.9329199194908142,neutral,0.05290181562304497
+33,2017-08-23 07:22:00,"( Read More )
+
+Continuing its earnings streak for the sixth quarter in a row, Salesforce.com Inc. CRM posted splendid second-quarter fiscal 2018 results, wherein the top and bottom lines not only fared better than the Zacks Consensus Estimate, but also came ahead of management's guided ranges.",0.9428769946098328,0.031034881249070168,0.026088109239935875,positive,0.9118421077728271
+34,2017-08-23 07:22:00,"( Read More )
+
+4 Surprising Tech Stocks to Keep an Eye on
+
+Tech stocks have been a major force behind the market's record highs, but picking the best ones to buy can be tough.",0.2728753983974457,0.16839256882667542,0.5587320327758789,neutral,0.10448282957077026
+35,2017-08-23 07:22:00,There's a simple way to invest in the success of the entire sector.,0.13914717733860016,0.005598959047347307,0.8552538752555847,neutral,0.13354821503162384
+36,2017-08-23 07:22:00,Zacks has just released a Special Report revealing one thing tech companies literally cannot function without.,0.051080845296382904,0.14518998563289642,0.8037291765213013,neutral,-0.09410914033651352
+37,2017-08-23 07:22:00,"More importantly, it reveals 4 top stocks set to skyrocket on increasing demand for these devices.",0.8940682411193848,0.04909573495388031,0.056836046278476715,positive,0.8449724912643433
+38,2017-08-23 07:22:00,I encourage you to get the report now - before the next wave of innovations really take off.,0.11704844236373901,0.008528749458491802,0.8744227886199951,neutral,0.10851969569921494
+39,2017-08-23 07:22:00,"See Stocks Now>>
+
+Want the latest recommendations from Zacks Investment Research?",0.02727334201335907,0.014688012190163136,0.9580385684967041,neutral,0.012585329823195934
+40,2017-08-23 07:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+41,2017-08-23 07:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+42,2017-08-23 07:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

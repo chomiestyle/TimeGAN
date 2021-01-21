@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-05 06:29:00,U.S. stock futures are circling unchanged this morning as traders try to find their footing after Monday's turbulent session.,0.12600620090961456,0.8057828545570374,0.06821103394031525,negative,-0.679776668548584
+1,2019-03-05 06:29:00,Yesterday morning's swoon marked the largest selloff we've seen in over a month.,0.23658494651317596,0.6360607147216797,0.12735433876514435,negative,-0.39947575330734253
+2,2019-03-05 06:29:00,"Overhead resistance at 2,800 on the S&P 500 is living up to its reputation as a formidable ceiling.",0.8162132501602173,0.06081627309322357,0.12297045439481735,positive,0.7553969621658325
+3,2019-03-05 06:29:00,"Ahead of the bell, futures on the Dow Jones Industrial Average are flat and S&P 500 futures are higher by 0.07%.",0.02552681230008602,0.9492955803871155,0.025177624076604843,negative,-0.9237687587738037
+4,2019-03-05 06:29:00,Nasdaq-100 futures have added 0.09%.,0.8693033456802368,0.05867285653948784,0.07202370464801788,positive,0.8106305003166199
+5,2019-03-05 06:29:00,Monday's scare lifted put volumes as traders took to the options market in search of downside protection.,0.8737612962722778,0.07302301377058029,0.05321565642952919,positive,0.8007382750511169
+6,2019-03-05 06:29:00,"Calls still ruled the session, but the ratio of puts to calls narrowed.",0.694769024848938,0.09331835806369781,0.2119126319885254,positive,0.6014506816864014
+7,2019-03-05 06:29:00,"Specifically, about 19.1 million calls and 17.9 million puts changed hands on the day.",0.03772043436765671,0.11759863793849945,0.844680905342102,neutral,-0.07987820357084274
+8,2019-03-05 06:29:00,The jump in put demand propelled the CBOE single-session equity put/call volume ratio to a new one-month high at 0.67.,0.9455845952033997,0.024787679314613342,0.029627779498696327,positive,0.9207969307899475
+9,2019-03-05 06:29:00,"Additionally, the 10-day moving average finally showed signs of life by rising to 0.60.",0.8492789268493652,0.028296999633312225,0.12242412567138672,positive,0.8209819197654724
+10,2019-03-05 06:29:00,"Here are three stocks whose options trading proved popular: Salesforce (NYSE: CRM ), Exxon Mobil (NYSE: XOM ) and Boeing (NYSE: BA )
+
+Salesforce's 2019 uptrend was put to the test after the close on Monday when the cloud software company reported earnings.",0.747422993183136,0.03298501297831535,0.21959196031093597,positive,0.7144379615783691
+11,2019-03-05 06:29:00,"For the fourth quarter, CRM earned 70 cents per share on revenue of $3.6 billion.",0.254867285490036,0.04481120407581329,0.7003214955329895,neutral,0.21005608141422272
+12,2019-03-05 06:29:00,"Both metrics beat the Street's expectations of 55 cents per share and $3.56 billion, respectively.",0.9222975373268127,0.027026092633605003,0.05067645385861397,positive,0.8952714204788208
+13,2019-03-05 06:29:00,"• 7 Chinese Stocks to Buy for the 2019 Rebound
+
+Unfortunately, traders found the company's forward guidance wanting and pushed its share price down 3.7% amid heavy profit-taking.",0.018574580550193787,0.9704403877258301,0.010984978638589382,negative,-0.9518657922744751
+14,2019-03-05 06:29:00,"As harrowing as the down candle appears, spectators should take the descent in stride.",0.2580978274345398,0.06621601432561874,0.6756861805915833,neutral,0.19188180565834045
+15,2019-03-05 06:29:00,CRM was up 20% year-to-date heading into the report and perched at record highs.,0.9418438076972961,0.021573815494775772,0.0365823395550251,positive,0.9202699661254883
+16,2019-03-05 06:29:00,"So, some profit taking is more than justified.",0.2695106565952301,0.0241360142827034,0.7063533067703247,neutral,0.2453746497631073
+17,2019-03-05 06:29:00,"Multiple support levels loom below so provided buyers step up and defend their turf, CRM's long-term trend will remain intact.",0.8438695669174194,0.014636150561273098,0.14149421453475952,positive,0.8292334079742432
+18,2019-03-05 06:29:00,"On the options trading front, calls dominated the session despite the drubbing.",0.736293613910675,0.04226584732532501,0.22144047915935516,positive,0.6940277814865112
+19,2019-03-05 06:29:00,"Activity rocketed to 599% of the average daily volume, with 202,758 total contracts traded.",0.9187877774238586,0.025432797148823738,0.05577930808067322,positive,0.8933549523353577
+20,2019-03-05 06:29:00,Calls accounted for 58% of the day's take.,0.027972901239991188,0.027046870440244675,0.9449802041053772,neutral,0.0009260307997465134
+21,2019-03-05 06:29:00,"Curiously, implied volatility rallied suggesting there is now more uncertainty after earnings than before.",0.569978654384613,0.35756173729896545,0.07245957851409912,positive,0.21241691708564758
+22,2019-03-05 06:29:00,"At 40%, the reading now sits at the 49th percentile of its one-year range.",0.4235578775405884,0.18683253228664398,0.38960954546928406,positive,0.2367253452539444
+23,2019-03-05 06:29:00,"After early weakness, Exxon Mobil shares powered their way back into positive territory by day's end.",0.929399847984314,0.03463858738541603,0.0359615720808506,positive,0.8947612643241882
+24,2019-03-05 06:29:00,The captain of crude notched its highest close in three months at $80.31.,0.8400605916976929,0.08875848352909088,0.07118097692728043,positive,0.7513021230697632
+25,2019-03-05 06:29:00,"With that, XOM stock is now up 17.8% year-to-date.",0.9452940225601196,0.017800278961658478,0.03690575435757637,positive,0.9274937510490417
+26,2019-03-05 06:29:00,"Energy stock bulls also scored a victory by pushing Exxon back above its 200-day moving average, signaling the continued improvement of its budding uptrend.",0.9302089214324951,0.03645787015557289,0.033333245664834976,positive,0.8937510251998901
+27,2019-03-05 06:29:00,"I didn't find much on the news front, so I'm chalking the groundswell in options trading as a byproduct of the volatile trading session.",0.04855268448591232,0.5449451804161072,0.4065021276473999,negative,-0.49639248847961426
+28,2019-03-05 06:29:00,Puts outpaced calls by a wide margin even as overall activity climbed to 246%.,0.9221845269203186,0.05010376498103142,0.02771173045039177,positive,0.8720807433128357
+29,2019-03-05 06:29:00,"By day's end, the total contracts traded stood at 107,437.",0.039721500128507614,0.025145607069134712,0.9351329207420349,neutral,0.014575893059372902
+30,2019-03-05 06:29:00,76% of the sum came from puts alone.,0.04091960936784744,0.005616564303636551,0.9534637928009033,neutral,0.03530304506421089
+31,2019-03-05 06:29:00,The uptick in demand pushed implied volatility up to 19% or the 17th percentile of its one-year range.,0.9388798475265503,0.026484038680791855,0.034636057913303375,positive,0.9123958349227905
+32,2019-03-05 06:29:00,"Premiums are now pricing in daily moves of 97 cents, or 1.2%.",0.49614182114601135,0.05035916715860367,0.4534989893436432,positive,0.4457826614379883
+33,2019-03-05 06:29:00,"The darling of the Dow finally stumbled yesterday, suffering one of its largest down days of the year.",0.02275487221777439,0.9613943696022034,0.015850696712732315,negative,-0.9386395215988159
+34,2019-03-05 06:29:00,"Still, Boeing is up 34.2% for 2019 making it one of the hottest blue-chip stocks on the board.",0.9315198063850403,0.025720244273543358,0.042759969830513,positive,0.9057995676994324
+35,2019-03-05 06:29:00,"If you're seeking a cause for the pause, look no further than the technical posture of BA stock.",0.02814248763024807,0.030786264687776566,0.9410713315010071,neutral,-0.002643777057528496
+36,2019-03-05 06:29:00,"The blistering pace it has set for 2019 is wholly unsustainable, and a pullback was inevitable.",0.04034736007452011,0.9047543406486511,0.05489831790328026,negative,-0.8644070029258728
+37,2019-03-05 06:29:00,The silver lining is that further downside will bring low-risk entries to spectators reticent to chase Boeing into the sky.,0.18397225439548492,0.4707452058792114,0.34528249502182007,negative,-0.2867729663848877
+38,2019-03-05 06:29:00,Yesterday's surge in options trading was enough to land BA atop the most-actives list.,0.8905893564224243,0.029485728591680527,0.07992492616176605,positive,0.8611036539077759
+39,2019-03-05 06:29:00,"Total activity climbed to 132% of the average daily volume, with 106,993 total contracts traded.",0.9477871060371399,0.020395616069436073,0.031817253679037094,positive,0.9273914694786072
+40,2019-03-05 06:29:00,Calls added 59% to the day's take.,0.7414440512657166,0.05261702090501785,0.2059389352798462,positive,0.6888270378112793
+41,2019-03-05 06:29:00,"Implied volatility is rising from the cellar, breathing new life into option premiums.",0.8965358734130859,0.02159113623201847,0.08187298476696014,positive,0.8749447464942932
+42,2019-03-05 06:29:00,"At 27%, the reading now sits at the 24th percentile of its one-year range.",0.35412314534187317,0.3157939910888672,0.33008289337158203,positive,0.03832915425300598
+43,2019-03-05 06:29:00,Premiums are pricing in daily moves of $7.33 or 1.7%.,0.470458060503006,0.06226078420877457,0.46728116273880005,positive,0.408197283744812
+44,2019-03-05 06:29:00,"As of this writing, Tyler Craig didn't hold a position in any of the aforementioned securities.",0.00991000421345234,0.02939334139227867,0.9606966376304626,neutral,-0.019483337178826332
+45,2019-03-05 06:29:00,Check out his recently releasedBear Market Survival Guideto learn how to defend your portfolio against market volatility.,0.1715017408132553,0.011290965601801872,0.8172073364257812,neutral,0.1602107733488083
+46,2019-03-05 06:29:00,"• 7 Best Energy Funds to Outperform the Market
+
+The post Tuesday's Vital Data: Salesforce, Boeing and Exxon Mobil appeared first on InvestorPlace .",0.5605027675628662,0.17602215707302094,0.26347509026527405,positive,0.3844805955886841
+47,2019-03-05 06:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

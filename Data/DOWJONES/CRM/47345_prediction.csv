@@ -1,0 +1,93 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-14 07:18:00,The technology sector has reigned supreme over the last year.,0.2768270969390869,0.016292918473482132,0.7068800330162048,neutral,0.2605341672897339
+1,2018-03-14 07:18:00,"With sectorwide returns of 24%, it outperformed the next best sector, industrial goods, by 10 percentage points.",0.8947291970252991,0.08014591038227081,0.02512487769126892,positive,0.8145833015441895
+2,2018-03-14 07:18:00,"But within tech, it's the rise of cloud computing that's stolen the spotlight.",0.26436787843704224,0.028933292254805565,0.7066988348960876,neutral,0.23543459177017212
+3,2018-03-14 07:18:00,"Cloud computing uses remote servers to store, deliver, and manage data and applications over the Internet.",0.02021050453186035,0.009868630208075047,0.9699208736419678,neutral,0.010341874323785305
+4,2018-03-14 07:18:00,It eliminates the need for local servers and oftentimes the cumbersome installation involving an IT department.,0.08645734190940857,0.06611567735671997,0.8474269509315491,neutral,0.0203416645526886
+5,2018-03-14 07:18:00,"Over the last year, the largest pure-play cloud companies have left the Nasdaq behind.",0.036452461034059525,0.7322070598602295,0.23134039342403412,negative,-0.6957545876502991
+6,2018-03-14 07:18:00,"The slowest-growing of that group has more than doubled the tech industry barometer; the fastest has quintupled the index's returns:
+
+So what's been driving cloud company stocks ever higher?",0.4035489857196808,0.1456708014011383,0.4507802724838257,neutral,0.2578781843185425
+7,2018-03-14 07:18:00,And can it continue?,0.16271886229515076,0.020793143659830093,0.8164880275726318,neutral,0.14192572236061096
+8,2018-03-14 07:18:00,Let's take a closer look.,0.0707448199391365,0.010706191882491112,0.9185489416122437,neutral,0.060038626194000244
+9,2018-03-14 07:18:00,"For starters, the wave of enthusiasm for tech stocks in general has provided a tailwind.",0.5398145914077759,0.17393758893013,0.28624778985977173,positive,0.3658770024776459
+10,2018-03-14 07:18:00,"Consider that today, the four largest companies in the world are all tech: Apple , Alphabet , Amazon , and Microsoft .",0.09081245213747025,0.01433610264211893,0.8948515057563782,neutral,0.07647635042667389
+11,2018-03-14 07:18:00,"Each of these is invested in the cloud, too, but largely through storage; none of them are pure cloud businesses.",0.013573678210377693,0.008755521848797798,0.9776707887649536,neutral,0.004818156361579895
+12,2018-03-14 07:18:00,This differs from the software-as-a-service companies that I would consider pure-play cloud companies.,0.031208928674459457,0.010183077305555344,0.9586080312728882,neutral,0.021025851368904114
+13,2018-03-14 07:18:00,"The biggest players solely focused on the cloud are the ones shown below, in order of market capitalization :
+
+There are three reasons these companies have seen their market caps balloon recently, and here's what they boil down to.",0.03600554168224335,0.0538165420293808,0.9101778864860535,neutral,-0.01781100034713745
+14,2018-03-14 07:18:00,Cloud companies have tremendous advantages over companies that make physical things or provide high-touch services.,0.6561246514320374,0.013577899895608425,0.33029744029045105,positive,0.6425467729568481
+15,2018-03-14 07:18:00,"When software is packaged as a service (SaaS), it can be rolled out to customers incredibly quickly.",0.14583367109298706,0.008793837390840054,0.8453725576400757,neutral,0.13703984022140503
+16,2018-03-14 07:18:00,It can require minimal direction interaction with users.,0.014764362946152687,0.010430196300148964,0.9748054146766663,neutral,0.004334166646003723
+17,2018-03-14 07:18:00,"Early on in the life of a SaaS company, sales growth rates of 70%, 80%, even up to 100% are not unheard of.",0.425964891910553,0.011545469984412193,0.5624896287918091,neutral,0.41441941261291504
+18,2018-03-14 07:18:00,"The cloud-based commerce platform Shopify , for example, has a five-year average annual sales growth rate of 95%.",0.914291501045227,0.014431220479309559,0.07127735018730164,positive,0.8998602628707886
+19,2018-03-14 07:18:00,Shopify provides a suite of products that helps primarily small-to-medium businesses connect potential customers to their merchandise online and through social media.,0.07758945971727371,0.004873504396528006,0.9175370335578918,neutral,0.07271595299243927
+20,2018-03-14 07:18:00,While we've witnessed these growth rates before -- like during the early 2000s for Salesforce -- what we're seeing for the first time is how sustainable some unusually high growth rates can be in the cloud.,0.1988721489906311,0.010203653015196323,0.7909241318702698,neutral,0.18866848945617676
+21,2018-03-14 07:18:00,Salesforce today is a 19-year-old company.,0.024581491947174072,0.015385610051453114,0.9600328803062439,neutral,0.009195881895720959
+22,2018-03-14 07:18:00,Yet its average annual sales growth rate over the last five years has been 30%.,0.28907129168510437,0.016231706365942955,0.6946970224380493,neutral,0.27283957600593567
+23,2018-03-14 07:18:00,"If that were to persist, sales would double in roughly 2.5 years.",0.8387638330459595,0.016692422330379486,0.14454366266727448,positive,0.8220714330673218
+24,2018-03-14 07:18:00,A $10 billion company like Salesforce doubling sales in less than a few years is hard to wrap your head around.,0.15877480804920197,0.09055677801370621,0.7506683468818665,neutral,0.06821803003549576
+25,2018-03-14 07:18:00,But Salesforce -- even at its size -- is all about speed.,0.07036224752664566,0.008082561194896698,0.9215551614761353,neutral,0.06227968633174896
+26,2018-03-14 07:18:00,It has a lock on big clients because it makes their sales teams more effective while minimizing IT upgrades.,0.7296658754348755,0.031239021569490433,0.2390950620174408,positive,0.6984268426895142
+27,2018-03-14 07:18:00,Salesforce's cloud creates a seamless connection between salespeople and key corporate decision-makers.,0.3658592104911804,0.011704223230481148,0.6224365830421448,neutral,0.3541549742221832
+28,2018-03-14 07:18:00,Its products can better anticipate needs though a data-driven feedback loop and introduce customers to new products as their businesses change.,0.7438956499099731,0.010838357731699944,0.24526596069335938,positive,0.7330573201179504
+29,2018-03-14 07:18:00,"This short cycle is unique to the cloud, it compounds over time, and it's a key reason the market's willing to pay up for shares.",0.502498984336853,0.013133464381098747,0.4843675494194031,positive,0.48936551809310913
+30,2018-03-14 07:18:00,Cloud businesses are capable of ramping up new users in a hurry.,0.6615747809410095,0.013792195357382298,0.32463300228118896,positive,0.647782564163208
+31,2018-03-14 07:18:00,And they're increasingly finding ways to ingrain these users with their products.,0.379061758518219,0.009962361305952072,0.6109759211540222,neutral,0.3690994083881378
+32,2018-03-14 07:18:00,"The type of user will depend on the cloud business: Salesforce tends to serve businesses, whereas a cloud business like Intuit 's serves individuals.",0.009596393443644047,0.015474454499781132,0.9749290943145752,neutral,-0.005878061056137085
+33,2018-03-14 07:18:00,"Users of all sizes can be more quickly integrated into an ecosystem in recent years due to the rise of one key tool: application programming interfacing, or ""APIs.""",0.6938697695732117,0.01240032073110342,0.29372987151145935,positive,0.6814694404602051
+34,2018-03-14 07:18:00,"If it sounds complex, it's not.",0.040892452001571655,0.0634525716304779,0.8956549763679504,neutral,-0.02256011962890625
+35,2018-03-14 07:18:00,What APIs do is facilitate communication between data sources and software.,0.030390627682209015,0.005299439653754234,0.9643098711967468,neutral,0.02509118802845478
+36,2018-03-14 07:18:00,"When software can rapidly be integrated, customers get more functionality.",0.5130600929260254,0.012812890112400055,0.47412699460983276,positive,0.5002471804618835
+37,2018-03-14 07:18:00,"It also allows the cloud business to collect more data on, say, your financial habits.",0.09247957915067673,0.006178454030305147,0.9013420343399048,neutral,0.08630112558603287
+38,2018-03-14 07:18:00,"As a result, two effects occur: the more users, the better the data; and the more integration, the more embedded the users become.",0.566165566444397,0.03288695961236954,0.4009474813938141,positive,0.5332785844802856
+39,2018-03-14 07:18:00,These things build on one another rapidly.,0.08775018155574799,0.010515213944017887,0.9017345905303955,neutral,0.07723496854305267
+40,2018-03-14 07:18:00,"This is how cloud companies build what investors call an "" economic moat "" at a pace we've never seen before.",0.3576607406139374,0.019582578912377357,0.6227567195892334,neutral,0.33807817101478577
+41,2018-03-14 07:18:00,"In this case, the economic moat consists of high switching costs and data-driven network effects.",0.044139761477708817,0.11651386320590973,0.8393463492393494,neutral,-0.07237410545349121
+42,2018-03-14 07:18:00,"Again, investors look at a cloud business and see how fast it's growing and that its business is becoming more durable by the day.",0.7734965085983276,0.014207523316144943,0.21229606866836548,positive,0.7592889666557312
+43,2018-03-14 07:18:00,Paying 10 times sales doesn't seem that ridiculous.,0.026302825659513474,0.07596557587385178,0.897731602191925,neutral,-0.0496627502143383
+44,2018-03-14 07:18:00,"Building on the above, growth of a single and highly functional product is not sufficient in this market.",0.05214647948741913,0.37959176301956177,0.5682617425918579,neutral,-0.32744526863098145
+45,2018-03-14 07:18:00,"Cloud companies are adding products in rapid-fire fashion -- building an ecosystem of products in a handful of years, a process that used to take decades.",0.45961353182792664,0.012254162691533566,0.5281323194503784,neutral,0.4473593831062317
+46,2018-03-14 07:18:00,Apple's ecosystem took years to create.,0.18319307267665863,0.016041185706853867,0.8007657527923584,neutral,0.16715188324451447
+47,2018-03-14 07:18:00,"The iPod came out in 2001, the iPhone debuted six years later, and then the iPad took another three years.",0.09832829236984253,0.008605106733739376,0.8930666446685791,neutral,0.08972318470478058
+48,2018-03-14 07:18:00,Building an ecosystem of physical products takes time.,0.15964752435684204,0.006380046252161264,0.8339723944664001,neutral,0.15326747298240662
+49,2018-03-14 07:18:00,"Of course, Apple is also a software company, so it was hooking users into its universe in that way, too.",0.1016039103269577,0.006033502519130707,0.8923625946044922,neutral,0.095570407807827
+50,2018-03-14 07:18:00,Cloud companies have proved that they can both acquire and build products rapidly.,0.7970708012580872,0.012299289926886559,0.1906299740076065,positive,0.7847715020179749
+51,2018-03-14 07:18:00,"And they can take a user from uninitiated to ingrained rapidly, too.",0.12266457080841064,0.011005436070263386,0.8663300275802612,neutral,0.11165913194417953
+52,2018-03-14 07:18:00,Think of a new Intuit customer going from Mint to QuickBooks Online to TurboTax (all Intuit products) in the course of a single tax season.,0.10087356716394424,0.007457963190972805,0.891668438911438,neutral,0.09341560304164886
+53,2018-03-14 07:18:00,"Salesforce can perform the same feat at an enterprise level, so its suite of $1-billion-plus clouds has now grown to four:
+
+Investors see the creation of an ecosystem and think of the success that companies like Alphabet and Apple have had with theirs.",0.530775785446167,0.012148969806730747,0.45707523822784424,positive,0.5186268091201782
+54,2018-03-14 07:18:00,"That's a long-term trend that makes the market salivate, only now it occurs at an even faster pace.",0.23695823550224304,0.061799194663763046,0.7012425065040588,neutral,0.1751590371131897
+55,2018-03-14 07:18:00,"The ascension of the cloud
+
+This is a unique time for companies running cloud-only businesses.",0.36641791462898254,0.008846483193337917,0.6247355937957764,neutral,0.35757142305374146
+56,2018-03-14 07:18:00,The first reason they're soaring is their growth rates -- primarily in new users and sales.,0.438202828168869,0.012369036674499512,0.5494281053543091,neutral,0.4258337914943695
+57,2018-03-14 07:18:00,"Earnings, in fact, are usually scarce early on in a cloud business's existence.",0.02045966498553753,0.8609852194786072,0.11855513602495193,negative,-0.8405255675315857
+58,2018-03-14 07:18:00,But their success will depend on the No.,0.11576994508504868,0.06576187163591385,0.8184681534767151,neutral,0.05000807344913483
+59,2018-03-14 07:18:00,2 and No.,0.09542549401521683,0.02877352014183998,0.8758009672164917,neutral,0.06665197014808655
+60,2018-03-14 07:18:00,3 reasons listed above.,0.011911069974303246,0.013711263425648212,0.9743776321411133,neutral,-0.0018001934513449669
+61,2018-03-14 07:18:00,Whether long-term investors should be willing to pay up for a given cloud business should come down to signs of an emerging economic moat.,0.20969316363334656,0.08051460981369019,0.7097922563552856,neutral,0.12917855381965637
+62,2018-03-14 07:18:00,High switching costs and network effects could be worth a premium.,0.14345213770866394,0.011121350340545177,0.8454265594482422,neutral,0.1323307901620865
+63,2018-03-14 07:18:00,Those companies without them could fall as quickly as they rise.,0.0357607863843441,0.7130066156387329,0.2512325346469879,negative,-0.6772458553314209
+64,2018-03-14 07:18:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+65,2018-03-14 07:18:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+66,2018-03-14 07:18:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+67,2018-03-14 07:18:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+68,2018-03-14 07:18:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+69,2018-03-14 07:18:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+70,2018-03-14 07:18:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+71,2018-03-14 07:18:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+72,2018-03-14 07:18:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+73,2018-03-14 07:18:00,"Isaac Pino, CPA owns shares of Microsoft and Shopify.",0.02187395840883255,0.011849374510347843,0.9662766456604004,neutral,0.010024583898484707
+74,2018-03-14 07:18:00,His clients may have positions in the stocks discussed.,0.027912892401218414,0.021565580740571022,0.9505215287208557,neutral,0.006347311660647392
+75,2018-03-14 07:18:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), Amazon, Apple, Atlassian, Shopify, and Workday.",0.023717109113931656,0.009661084040999413,0.9666218161582947,neutral,0.014056025072932243
+76,2018-03-14 07:18:00,The Motley Fool has the following options: long January 2020 $150 calls on Apple and short January 2020 $155 calls on Apple.,0.015124468132853508,0.041013702750205994,0.9438618421554565,neutral,-0.025889234617352486
+77,2018-03-14 07:18:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+78,2018-03-14 07:18:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+79,2018-03-14 07:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

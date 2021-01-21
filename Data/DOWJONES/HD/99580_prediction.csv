@@ -1,0 +1,38 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-04-30 01:44:00,"The NASDAQ 100 After Hours Indicator is up 3.11 to 4,417.36.",0.9001173973083496,0.037930939346551895,0.06195167079567909,positive,0.8621864318847656
+1,2015-04-30 01:44:00,"The total After hours volume is currently 51,650,510 shares traded.",0.014709856361150742,0.008447324857115746,0.9768427610397339,neutral,0.006262531504034996
+2,2015-04-30 01:44:00,"The following are the most active stocks for the after hours session :
+
+LinkedIn Corporation ( LNKD ) is -65.61 at $186.52, with 2,345,580 shares traded.",0.02416256070137024,0.048899270594120026,0.9269381761550903,neutral,-0.024736709892749786
+3,2015-04-30 01:44:00,"RTT News Reports: LinkedIn Q1 Loss Widens; Updates 2015 Guidance - Quick Facts
+
+PowerShares QQQ Trust, Series 1 ( QQQ ) is +0.1 at $107.73, with 1,751,555 shares traded.",0.08225932717323303,0.8360966444015503,0.08164399862289429,negative,-0.7538373470306396
+4,2015-04-30 01:44:00,This represents a 25.96% increase from its 52 Week Low.,0.9512233138084412,0.025698671117424965,0.02307805046439171,positive,0.9255246520042419
+5,2015-04-30 01:44:00,"Microsoft Corporation ( MSFT ) is -0.0025 at $48.64, with 1,545,168 shares traded.",0.03783375397324562,0.1555463671684265,0.8066198825836182,neutral,-0.11771261692047119
+6,2015-04-30 01:44:00,"Over the last four weeks they have had 4 up revisions for the earnings forecast, for the fiscal quarter ending Dec 2015.",0.06510642915964127,0.09009849280118942,0.8447950482368469,neutral,-0.024992063641548157
+7,2015-04-30 01:44:00,The consensus EPS forecast is $0.77.,0.03700600191950798,0.028206435963511467,0.9347875714302063,neutral,0.008799565955996513
+8,2015-04-30 01:44:00,MSFT's current last sale is 98.26% of the target price of $49.5.,0.022314541041851044,0.007957447320222855,0.9697279930114746,neutral,0.014357093721628189
+9,2015-04-30 01:44:00,"Gilead Sciences, Inc. ( GILD ) is +2.72 at $103.23, with 1,439,661 shares traded.",0.031779639422893524,0.015264632180333138,0.9529557228088379,neutral,0.016515007242560387
+10,2015-04-30 01:44:00,"RTT News Reports: Gilead Sciences Q1 Profit Rises - Quick Facts
+
+Apple Inc. ( AAPL ) is -0.05 at $125.10, with 1,407,858 shares traded.",0.12155765295028687,0.7543196678161621,0.12412263453006744,negative,-0.6327620148658752
+11,2015-04-30 01:44:00,"Over the last four weeks they have had 10 up revisions for the earnings forecast, for the fiscal quarter ending Jun 2015.",0.040603652596473694,0.06047659367322922,0.8989197611808777,neutral,-0.019872941076755524
+12,2015-04-30 01:44:00,The consensus EPS forecast is $1.74.,0.05192083492875099,0.024316009134054184,0.9237631559371948,neutral,0.027604825794696808
+13,2015-04-30 01:44:00,"As reported by Zacks, the current mean recommendation for AAPL is in the ""buy range"".",0.060467835515737534,0.011110465042293072,0.9284217357635498,neutral,0.04935736954212189
+14,2015-04-30 01:44:00,"Lowe's Companies, Inc. ( LOW ) is -0.03 at $68.83, with 1,341,128 shares traded.",0.033614907413721085,0.41822755336761475,0.5481575131416321,neutral,-0.38461264967918396
+15,2015-04-30 01:44:00,"As reported by Zacks, the current mean recommendation for LOW is in the ""buy range"".",0.03449297323822975,0.027300633490085602,0.9382063150405884,neutral,0.00719233974814415
+16,2015-04-30 01:44:00,"Home Depot, Inc. (The) ( HD ) is +0.9512 at $107.93, with 1,334,451 shares traded.",0.021601149812340736,0.04480316489934921,0.9335956573486328,neutral,-0.023202015087008476
+17,2015-04-30 01:44:00,HD's current last sale is 86.34% of the target price of $125.,0.02174762636423111,0.00723383529111743,0.9710185527801514,neutral,0.014513790607452393
+18,2015-04-30 01:44:00,"Novavax, Inc. ( NVAX ) is -0.0025 at $7.73, with 1,275,847 shares traded.NVAX is scheduled to provide an earnings report on 5/6/2015, for the fiscal quarter ending Mar2015.",0.01877078041434288,0.023284245282411575,0.957944929599762,neutral,-0.004513464868068695
+19,2015-04-30 01:44:00,"The consensus earnings per share forecast is -0.11 per share, which represents a -7 percent increase over the EPS one Year Ago
+
+Cypress Semiconductor Corporation ( CY ) is -0.0025 at $13.32, with 1,085,549 shares traded.",0.942502498626709,0.02477278932929039,0.03272469714283943,positive,0.9177297353744507
+20,2015-04-30 01:44:00,"RTT News Reports: Cypress Semiconductor Q1 15 Earnings Conference Call At 11:30 AM ET
+
+New Residential Investment Corp. ( NRZ ) is -0.0025 at $17.04, with 1,062,608 shares traded.",0.032867249101400375,0.06931891292333603,0.8978138566017151,neutral,-0.036451663821935654
+21,2015-04-30 01:44:00,"As reported by Zacks, the current mean recommendation for NRZ is in the ""buy range"".",0.0538199208676815,0.012809470295906067,0.9333706498146057,neutral,0.041010450571775436
+22,2015-04-30 01:44:00,"Bank of America Corporation ( BAC ) is +0.001 at $15.93, with 1,002,673 shares traded.",0.028618669137358665,0.017784912139177322,0.9535963535308838,neutral,0.010833756998181343
+23,2015-04-30 01:44:00,"As reported by Zacks, the current mean recommendation for BAC is in the ""buy range"".",0.05957688391208649,0.014443485997617245,0.9259796738624573,neutral,0.04513339698314667
+24,2015-04-30 01:44:00,"General Electric Company ( GE ) is +0.01 at $27.09, with 974,312 shares traded.",0.03320234641432762,0.056244540959596634,0.9105530977249146,neutral,-0.023042194545269012
+25,2015-04-30 01:44:00,"As reported by Zacks, the current mean recommendation for GE is in the ""buy range"".",0.05216149613261223,0.013024672865867615,0.9348138570785522,neutral,0.039136823266744614
+26,2015-04-30 01:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

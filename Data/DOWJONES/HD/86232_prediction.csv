@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-12 06:30:00,Home Depot (NYSE: HD) is the world's biggest home-improvement retailer.,0.24513302743434906,0.00768808089196682,0.7471789121627808,neutral,0.2374449521303177
+1,2017-08-12 06:30:00,It's also a cash-printing machine.,0.03221747279167175,0.008123966865241528,0.9596586227416992,neutral,0.02409350499510765
+2,2017-08-12 06:30:00,"Last year, the company generated $8 billion of earnings for a 14% improvement over the prior year.",0.9477918148040771,0.03441695496439934,0.017791185528039932,positive,0.9133748412132263
+3,2017-08-12 06:30:00,"Below, we'll look at the major sources of that market-leading profit growth.",0.06935645639896393,0.0059594097547233105,0.9246841669082642,neutral,0.06339704990386963
+4,2017-08-12 06:30:00,Most retailers count on an expanding store footprint to deliver a key portion of their sales gains.,0.8795628547668457,0.015350486151874065,0.10508675128221512,positive,0.8642123937606812
+5,2017-08-12 06:30:00,"Not Home Depot, though.",0.04472305253148079,0.0895533338189125,0.8657236099243164,neutral,-0.04483028128743172
+6,2017-08-12 06:30:00,The company has added just one warehouse in the core U.S. market since 2013.,0.01633116975426674,0.07060367614030838,0.9130651354789734,neutral,-0.05427250638604164
+7,2017-08-12 06:30:00,"Rival Lowe's (NYSE: LOW) , in contrast, launched 300 new stores over that time.",0.5911934971809387,0.016133036464452744,0.39267346262931824,positive,0.5750604867935181
+8,2017-08-12 06:30:00,The flat selling base puts all the pressure on existing locations to deliver revenue and earnings growth.,0.0966547504067421,0.5910049080848694,0.31234028935432434,negative,-0.4943501651287079
+9,2017-08-12 06:30:00,Yet Home Depot hasn't struggled at all in this area.,0.16579866409301758,0.3703623116016388,0.4638390839099884,neutral,-0.20456364750862122
+10,2017-08-12 06:30:00,"In fact, comparable-store sales spiked 6% higher last year while Lowe's expanded at a 4% pace.",0.9469576478004456,0.02418866753578186,0.02885366603732109,positive,0.9227689504623413
+11,2017-08-12 06:30:00,"Home Depot's market share gains continued into the early part of fiscal 2017, too, with comps up 6% compared to Lowe's 2%.",0.954531192779541,0.024884913116693497,0.02058388851583004,positive,0.9296462535858154
+12,2017-08-12 06:30:00,A slowdown in customer traffic growth is a caution sign that's just starting to show in recent results.,0.05341288074851036,0.8318141102790833,0.11477302759885788,negative,-0.778401255607605
+13,2017-08-12 06:30:00,Home Depot has so far made up for that slump by boosting its average spending.,0.946222722530365,0.020602315664291382,0.03317496180534363,positive,0.925620436668396
+14,2017-08-12 06:30:00,"Still, long-term gains will be harder to achieve if traffic keeps flattening or dips into negative territory.",0.029926417395472527,0.9382053017616272,0.03186824172735214,negative,-0.9082788825035095
+15,2017-08-12 06:30:00,Home Depot enjoys a dominant market position in the consumer side of the home-improvement industry that's comprised of homeowners who complete their own projects or pay the retailer for help with installation.,0.2572002112865448,0.007731527090072632,0.7350682616233826,neutral,0.24946868419647217
+16,2017-08-12 06:30:00,Its biggest growth wins lately have been in targeting professional renovators.,0.3305739760398865,0.008774260058999062,0.6606517434120178,neutral,0.32179972529411316
+17,2017-08-12 06:30:00,"Home Depot caters to this base through initiatives like a special loyalty program, attractive credit terms, and dedicated sales and service staff -- and through major acquisitions like its Interline Brands purchase in 2015.",0.7437199354171753,0.010055736638605595,0.24622437357902527,positive,0.7336642146110535
+18,2017-08-12 06:30:00,The extra care is paying solid dividends to the business.,0.8942630887031555,0.016560718417167664,0.089176245033741,positive,0.8777023553848267
+19,2017-08-12 06:30:00,Pro-heavy sales categories like lumber and commercial lighting routinely outpace the company average.,0.1976725459098816,0.13547943532466888,0.6668480038642883,neutral,0.06219311058521271
+20,2017-08-12 06:30:00,"Professional shoppers are helping pick up the slack caused by a slowing overall customer traffic pace, too.",0.2520557641983032,0.5491940975189209,0.1987501084804535,negative,-0.2971383333206177
+21,2017-08-12 06:30:00,"Big-ticket transactions, those totaling over $900 each, jumped 16% last quarter to push comps up 3.9% even though customer traffic growth was a weak 1.5%.",0.9380803108215332,0.03600862994790077,0.02591112069785595,positive,0.9020716547966003
+22,2017-08-12 06:30:00,Home Depot has a sharply different approach to its business than the positioning of major value-based retailers like Costco .,0.02518259547650814,0.8349413275718689,0.13987603783607483,negative,-0.809758722782135
+23,2017-08-12 06:30:00,"While the warehouse giant prides itself on delivering the lowest possible price for its customers, Home Depot instead prioritizes on what it calls ""product authority,"" which means it aims to attract customers using a unique inventory that includes innovative, and often exclusive, products and brands.",0.170131653547287,0.007402947638183832,0.8224654197692871,neutral,0.1627287119626999
+24,2017-08-12 06:30:00,A few recent examples include Ryobi-branded power tools and flat-panel LED lighting from Feit.,0.0680466815829277,0.005929876118898392,0.9260234236717224,neutral,0.06211680546402931
+25,2017-08-12 06:30:00,"By focusing on these kinds of products, Home Depot gains space to charge higher prices and deliver more technical installation services.",0.8996835350990295,0.013237752951681614,0.08707867562770844,positive,0.8864457607269287
+26,2017-08-12 06:30:00,That success has contributed to a stunning increase in profitability.,0.9521169066429138,0.016388515010476112,0.03149457275867462,positive,0.9357283711433411
+27,2017-08-12 06:30:00,Its 14% operating margin is 10 full percentage points higher than Costco's and far outpaces Lowe's 9%.,0.9439235329627991,0.023523690178990364,0.032552801072597504,positive,0.9203998446464539
+28,2017-08-12 06:30:00,Home Depot's management team believes it can continue boosting that figure to roughly 15% sometime in 2018 even as the company shoots past $100 billion of annual sales .,0.9417953491210938,0.017076004296541214,0.04112856462597847,positive,0.9247193336486816
+29,2017-08-12 06:30:00,That would translate into an almost 50% spike in operating income in just three years.,0.9344425201416016,0.017766332253813744,0.047791168093681335,positive,0.9166761636734009
+30,2017-08-12 06:30:00,"There are big risks to the company reaching those aggressive targets, including a housing industry retreat or a further slowdown in customer traffic.",0.07228559255599976,0.6895495653152466,0.23816484212875366,negative,-0.6172639727592468
+31,2017-08-12 06:30:00,"Yet Home Depot is currently on track to post another year of significantly improved market share, profitability, and cash returns to shareholders in 2017.",0.9562132954597473,0.018812263384461403,0.02497442439198494,positive,0.9374010562896729
+32,2017-08-12 06:30:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+33,2017-08-12 06:30:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+34,2017-08-12 06:30:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+35,2017-08-12 06:30:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+36,2017-08-12 06:30:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+37,2017-08-12 06:30:00,Demitrios Kalogeropoulos owns shares of Costco Wholesale and Home Depot.,0.013740993104875088,0.009454747661948204,0.9768041968345642,neutral,0.004286245442926884
+38,2017-08-12 06:30:00,The Motley Fool owns shares of and recommends Costco Wholesale.,0.030760951340198517,0.014412852004170418,0.9548261761665344,neutral,0.0163480993360281
+39,2017-08-12 06:30:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+40,2017-08-12 06:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+41,2017-08-12 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-18 07:10:00,"Benchmarks ended nearly unchanged on Tuesday amid upbeat retail earnings data, lingering terror concerns and drop in global oil prices .",0.3152100741863251,0.6199727654457092,0.0648171529173851,negative,-0.30476269125938416
+1,2015-11-18 07:10:00,Encouraging quarterly earnings results by Wal-Mart Stores and Home Depot boosted the broader markets.,0.9397015571594238,0.023056363686919212,0.037242040038108826,positive,0.9166451692581177
+2,2015-11-18 07:10:00,"However, all three major indexes erased most of their gains after a soccer match between Germany and Netherlands was called off on fears of bombing.",0.07303603738546371,0.8633434176445007,0.06362057477235794,negative,-0.7903074026107788
+3,2015-11-18 07:10:00,"Moreover, oil prices fell on oversupply concerns, which eventually had a negative impact on energy shares.",0.017658844590187073,0.967383623123169,0.014957545325160027,negative,-0.9497247934341431
+4,2015-11-18 07:10:00,"While the Dow and the Nasdaq managed to eke out gains, the S&P 500 settled in negative territory.",0.042470164597034454,0.9243592023849487,0.033170562237501144,negative,-0.8818890452384949
+5,2015-11-18 07:10:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article
+
+The Dow Jones Industrial Average (DJI) gained a meager 0.04% to close at 17,489.50.",0.25668326020240784,0.7083653807640076,0.03495137393474579,negative,-0.45168212056159973
+6,2015-11-18 07:10:00,"The Standard & Poor's 500 (S&P 500) lost 0.1% to close at 2,050.44.",0.022796448320150375,0.9677053689956665,0.009498230181634426,negative,-0.9449089169502258
+7,2015-11-18 07:10:00,"The tech-laden Nasdaq Composite Index closed at 4,986.02, advancing a scanty 0.03%.",0.05491373687982559,0.911070704460144,0.03401551768183708,negative,-0.8561569452285767
+8,2015-11-18 07:10:00,The fear-gauge CBOE Volatility Index (VIX) gained 3.7% to settle at 18.84.,0.9330276250839233,0.03141351789236069,0.0355587974190712,positive,0.9016141295433044
+9,2015-11-18 07:10:00,"A total of around 7.5 billion shares were traded on Tuesday, higher than the last 20-session average of 7.2 billion.",0.9322769045829773,0.018395312130451202,0.04932775720953941,positive,0.9138815999031067
+10,2015-11-18 07:10:00,Decliners outpaced advancing stocks on the NYSE.,0.7142589688301086,0.23320606350898743,0.05253498628735542,positive,0.4810529053211212
+11,2015-11-18 07:10:00,"For 62% stocks that declined, 36% advanced.",0.04564150795340538,0.45998796820640564,0.49437054991722107,neutral,-0.41434645652770996
+12,2015-11-18 07:10:00,"Benchmarks ventured into positive territory on Tuesday, boosted by strong quarterly earnings results by Wal-Mart Stores Inc. ( WMT ) and The Home Depot, Inc. ( HD ).",0.9468718767166138,0.026877567172050476,0.026250574737787247,positive,0.9199942946434021
+13,2015-11-18 07:10:00,Wal-Mart reported fiscal third quarter 2016 earnings per share of $1.03 that beat the Zacks Consensus Estimate of 97 cents.,0.9246138334274292,0.04090210795402527,0.034484054893255234,positive,0.8837116956710815
+14,2015-11-18 07:10:00,"However, revenues of $117.4 million slightly missed the Zacks Consensus Estimate of $117.9 million.",0.05144498869776726,0.9264389276504517,0.02211611531674862,negative,-0.8749939203262329
+15,2015-11-18 07:10:00,Shares of the retailer gained 3.5%.,0.9437852501869202,0.021890636533498764,0.034324027597904205,positive,0.9218946099281311
+16,2015-11-18 07:10:00,"Shares of Home Depot advanced 4.4% after the company posted third quarter earnings per share of $1.36, beating the Zacks Consensus Estimate of $1.32.",0.9464871883392334,0.027773618698120117,0.025739243254065514,positive,0.9187135696411133
+17,2015-11-18 07:10:00,"Revenues for the quarter came in at $21,819 million, ahead of the Zacks Consensus Estimate of $21,751 million.",0.7345435619354248,0.09591004252433777,0.16954638063907623,positive,0.6386334896087646
+18,2015-11-18 07:10:00,Encouraging quarterly results from the retailers eased fears of a possible slowdown in consumer-spending levels.,0.9175413250923157,0.03913315013051033,0.043325528502464294,positive,0.8784081935882568
+19,2015-11-18 07:10:00,"However, the major indexes struggled to hold on to their gains in late afternoon trade following news that a friendly soccer match between Germany and Netherlands was called off two hours before the start of play due to a possible terror threat.",0.03433678671717644,0.949195146560669,0.016468007117509842,negative,-0.914858341217041
+20,2015-11-18 07:10:00,The Hannover stadium hosting the soccer game was evacuated.,0.061096034944057465,0.8455663323402405,0.09333769232034683,negative,-0.7844703197479248
+21,2015-11-18 07:10:00,"Hannover police Chief Volker Kluwe said that ""We received a serious tip that an explosive attack was planned for the stadium"".",0.09795146435499191,0.7978145480155945,0.10423402488231659,negative,-0.699863076210022
+22,2015-11-18 07:10:00,"These developments came in four days after the terror attacks in Paris, in what is France's most deadly terror attack ever.",0.16807875037193298,0.449826717376709,0.3820945918560028,negative,-0.281747967004776
+23,2015-11-18 07:10:00,"Additionally, energy shares took a beating due to drop in oil prices.",0.053338199853897095,0.9200989007949829,0.026562891900539398,negative,-0.8667607307434082
+24,2015-11-18 07:10:00,Concerns about oversupply of oil were primarily responsible for dragging oil prices lower.,0.1889757215976715,0.7365099787712097,0.0745142325758934,negative,-0.5475342273712158
+25,2015-11-18 07:10:00,"Prices of WTI crude oil and Brent crude oil dropped 2.6% and 2.3% to $40.67 a barrel and $43.57 per barrel, respectively.",0.019564153626561165,0.970740556716919,0.009695284999907017,negative,-0.9511764049530029
+26,2015-11-18 07:10:00,"The Energy Select Sector SPDR (XLE) declined 1.1%, the second highest among the S&P 500 sectors.",0.1767667680978775,0.8054391741752625,0.017794061452150345,negative,-0.6286724209785461
+27,2015-11-18 07:10:00,"Key stocks from the energy sector including Chevron Corporation ( CVX ), ConocoPhillips ( COP ), Kinder Morgan, Inc. ( KMI ) and Occidental Petroleum Corporation ( OXY ) decreased 0.5%, 0.9%, 2.8% and 0.9%, respectively.",0.024586008861660957,0.9634775519371033,0.011936511844396591,negative,-0.9388915300369263
+28,2015-11-18 07:10:00,"Separately, the Utilities Select Sector SPDR (XLU) declined 1.8% and was the biggest loser among the S&P 500 sectors.",0.023936301469802856,0.9641464352607727,0.01191733032464981,negative,-0.9402101039886475
+29,2015-11-18 07:10:00,"Key stocks from the sector including PPL Corporation ( PPL ), Duke Energy Corporation ( DUK ), Edison International ( EIX ) and Southern Company ( SO ) decreased 1.9%, 2.8%, 1.9% and 1.4%, respectively.",0.0203813835978508,0.969187319278717,0.010431347414851189,negative,-0.9488059282302856
+30,2015-11-18 07:10:00,"Overall, 7 out of 12 sectors of the S&P 500 ended in the red, with the index also settling in negative territory.",0.02074255980551243,0.9587138295173645,0.020543646067380905,negative,-0.937971293926239
+31,2015-11-18 07:10:00,"On the other hand, the Dow and the Nasdaq ended nearly flat.",0.03851683810353279,0.8665584325790405,0.09492474794387817,negative,-0.8280416131019592
+32,2015-11-18 07:10:00,"In economic news, the Labor Department reported that Consumer Price Index (CPI) advanced 0.2% in October, in line with the consensus estimate.",0.9379813075065613,0.0302088875323534,0.031809788197278976,positive,0.907772421836853
+33,2015-11-18 07:10:00,This was preceded by a 0.2% decline in September.,0.20786264538764954,0.7620193958282471,0.03011791966855526,negative,-0.5541567802429199
+34,2015-11-18 07:10:00,"Core CPI, which excludes food and energy prices also gained 0.2% last month, in line with the consensus estimate.",0.9483106136322021,0.024687593802809715,0.02700166590511799,positive,0.9236230254173279
+35,2015-11-18 07:10:00,"Separately, the Board of Governors of the Federal Reserve System reported a decrease in industrial production.",0.018415171653032303,0.9669319987297058,0.014652824029326439,negative,-0.948516845703125
+36,2015-11-18 07:10:00,The report stated industrial production declined 0.2% in October after it slipped 0.2% in September.,0.018829939886927605,0.9720297455787659,0.009140344336628914,negative,-0.9531998038291931
+37,2015-11-18 07:10:00,This decline in industrial production in October was in contrast to the consensus expectation of it remaining unchanged.,0.03692416101694107,0.9370436668395996,0.026032092049717903,negative,-0.9001194834709167
+38,2015-11-18 07:10:00,"Separately, capacity utilization declined to 77.5%, in line with the consensus estimate.",0.016763482242822647,0.97333163022995,0.009904877282679081,negative,-0.9565681219100952
+39,2015-11-18 07:10:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+40,2015-11-18 07:10:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+41,2015-11-18 07:10:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+42,2015-11-18 07:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

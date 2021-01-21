@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-11 09:46:00,The fastest stock market decline in history has been followed up by one of the most rapid recoveries.,0.8379125595092773,0.054533328860998154,0.10755416750907898,positive,0.7833792567253113
+1,2020-06-11 09:46:00,"Rallying on economic re-openings and a better-than-expected jobs report, the S&P 500 has basically recovered all of its losses for the year, while the Nasdaq topped 10,000 for the first time ever.",0.8360426425933838,0.11052396893501282,0.05343335121870041,positive,0.7255187034606934
+2,2020-06-11 09:46:00,"Yet, investors need to be mindful of the potential risks ahead.",0.15724198520183563,0.01193217933177948,0.8308258056640625,neutral,0.14530980587005615
+3,2020-06-11 09:46:00,US stocks tumbled today due to new concerns that the U.S. may be experiencing a second-wave reinfection of Covid-19 cases in certain states.,0.028097882866859436,0.9598661065101624,0.012036013416945934,negative,-0.9317682385444641
+4,2020-06-11 09:46:00,"So, where does the market go from here?",0.04336667060852051,0.03235210105776787,0.9242811799049377,neutral,0.01101456955075264
+5,2020-06-11 09:46:00,One way to navigate all of the stock market uncertainty is to rely on a more comprehensive stock analysis.,0.1624198853969574,0.007179197855293751,0.8304009437561035,neutral,0.15524068474769592
+6,2020-06-11 09:46:00,"TipRanks offers a Smart Score metric that incorporates 8 unique market factors including analyst ratings and price targets, hedge fund activity, social media trends and other fundamental and technical factors to gauge a stock’s long-term growth prospects.",0.18907050788402557,0.006717666517943144,0.8042117953300476,neutral,0.18235284090042114
+7,2020-06-11 09:46:00,"After analyzing each factor, a single numerical score is generated, with 10 being the best possible result.",0.09069547057151794,0.009737708605825901,0.8995668292045593,neutral,0.08095776289701462
+8,2020-06-11 09:46:00,"Bearing this in mind, we used TipRanks database to find three stocks with a ‘Perfect 10’ Smart Score.",0.3072609305381775,0.03251659870147705,0.6602224111557007,neutral,0.27474433183670044
+9,2020-06-11 09:46:00,"We’ll see why these companies scored so highly, and what Wall Street’s analysts have to say about it.",0.1493881344795227,0.0075424714013934135,0.8430693745613098,neutral,0.14184565842151642
+10,2020-06-11 09:46:00,"The first “Perfect 10” stock on our list is Burlington Stores, formerly known as Burlington Coat Factory.",0.06127064675092697,0.009653528220951557,0.9290758371353149,neutral,0.05161711946129799
+11,2020-06-11 09:46:00,The company is an American national off-price department store retailer with 631 stores.,0.035751599818468094,0.0053914254531264305,0.9588569402694702,neutral,0.03036017343401909
+12,2020-06-11 09:46:00,Burlington’s first quarter operating results were decimated by the COVID-19 pandemic.,0.01969476230442524,0.9710206985473633,0.00928458757698536,negative,-0.9513259530067444
+13,2020-06-11 09:46:00,"All of the company’s stores were closed by March 22, and remained closed through the end of the first quarter.",0.01900429278612137,0.6563331484794617,0.32466253638267517,negative,-0.6373288631439209
+14,2020-06-11 09:46:00,Adding to its difficulties is its lack of an online presence.,0.01987450197339058,0.9167302250862122,0.06339520215988159,negative,-0.8968557119369507
+15,2020-06-11 09:46:00,"Sales for the first quarter ended May 2, 2020 dropped a dramatic 51% to $798 million.",0.018434466794133186,0.9729213714599609,0.008644144982099533,negative,-0.9544869065284729
+16,2020-06-11 09:46:00,"Net income came in at a loss of $334 million, or $5.09 per share, compared to $78 million, or $1.15 per share, in the first quarter of last year.",0.019939986988902092,0.9672467708587646,0.01281325239688158,negative,-0.9473068118095398
+17,2020-06-11 09:46:00,"Still, Burlington has a lot to cheer about.",0.413796067237854,0.01279863715171814,0.5734053254127502,neutral,0.40099743008613586
+18,2020-06-11 09:46:00,"The company re-opened about 400 stores by the end of May, which prompted an upward share price swing.",0.9115817546844482,0.04356789216399193,0.04485028609633446,positive,0.868013858795166
+19,2020-06-11 09:46:00,"Like several other players, Q1 was “tough” for Burlington, with store closures leading to a significant decrease in revenues and no e-commerce to offset it.",0.019108761101961136,0.9686957597732544,0.012195521965622902,negative,-0.9495869874954224
+20,2020-06-11 09:46:00,"However, Citi analyst Paul Lejuez thinks the space is set to gain from an increase in merchandise buying opportunities.",0.9467999935150146,0.016221242025494576,0.03697877749800682,positive,0.9305787682533264
+21,2020-06-11 09:46:00,"As a result, Lejuez raised the firm's price target on Burlington Stores to $250 from $205 and has a Buy rating on the shares.",0.8766990303993225,0.014241144992411137,0.10905978083610535,positive,0.8624578714370728
+22,2020-06-11 09:46:00,This target implies shares could surge 22% in the next year.,0.9465700387954712,0.018339769914746284,0.03509014472365379,positive,0.9282302856445312
+23,2020-06-11 09:46:00,"(To look at Lejuez’s track record, click here).",0.030664606019854546,0.011494479142129421,0.9578409194946289,neutral,0.0191701278090477
+24,2020-06-11 09:46:00,"The analyst consensus rating on BURL is a Strong Buy, based on 12 Buys and 2 Holds.",0.9446402788162231,0.01791524700820446,0.03744448348879814,positive,0.9267250299453735
+25,2020-06-11 09:46:00,"The stock has a $231.15 average price target, which suggests a 13% growth potential from the current price.",0.9196058511734009,0.013675481081008911,0.0667186751961708,positive,0.9059303998947144
+26,2020-06-11 09:46:00,"(See Burlington stock analysis on TipRanks)
+
+Next up is Home Depot.",0.028242815285921097,0.010808411054313183,0.9609487652778625,neutral,0.01743440330028534
+27,2020-06-11 09:46:00,The company is the world's largest home improvement retailer with $110.2 billion in sales in 2019.,0.3817909061908722,0.008967699483036995,0.6092414259910583,neutral,0.37282320857048035
+28,2020-06-11 09:46:00,"It operates 2,291 stores that sell various building materials, home improvement products, lawn and garden products, and décor products to both do-it-yourself and professional customers.",0.017206793650984764,0.006677644792944193,0.9761155247688293,neutral,0.010529149323701859
+29,2020-06-11 09:46:00,Home Depot has been performing remarkably well during the COVID-19 pandemic.,0.9487677812576294,0.018132079392671585,0.033100154250860214,positive,0.9306356906890869
+30,2020-06-11 09:46:00,People confined to their homes are keeping themselves busy with repair and home improvement projects.,0.05694485828280449,0.7846735715866089,0.15838155150413513,negative,-0.7277287244796753
+31,2020-06-11 09:46:00,"Sales in the first quarter of fiscal 2020 reached $28.3 billion, up 7.1% from the first quarter of fiscal 2019.",0.9565756320953369,0.02086092345416546,0.022563422098755836,positive,0.9357147216796875
+32,2020-06-11 09:46:00,The gains were driven by a 6.4% increase in comparable store sales.,0.948839545249939,0.02158510498702526,0.029575351625680923,positive,0.9272544384002686
+33,2020-06-11 09:46:00,"However, COVID-19 related expenses caused earnings to decrease slightly for the quarter.",0.02132263220846653,0.9665073156356812,0.012169989757239819,negative,-0.9451847076416016
+34,2020-06-11 09:46:00,The company’s strong operating performance amid COVID-19 has translated to a significantly better stock price performance than the broader market.,0.699373185634613,0.2519541382789612,0.04867272078990936,positive,0.44741904735565186
+35,2020-06-11 09:46:00,"Home Depot’s shares have climbed 28% over the last 52 weeks, compared with an 11% rise for the S&P 500.",0.9519240856170654,0.025267474353313446,0.022808486595749855,positive,0.9266566038131714
+36,2020-06-11 09:46:00,5-star Baird analyst Peter Benedict raised the firm's price target on Home Depot to $265 from $215 and has an Outperform (i.e.,0.9046474695205688,0.05230806767940521,0.04304445534944534,positive,0.8523393869400024
+37,2020-06-11 09:46:00,Buy) rating on the shares.,0.04129640758037567,0.005300518590956926,0.9534029960632324,neutral,0.03599588945508003
+38,2020-06-11 09:46:00,"(To look at Benedict’s track record, click here)
+
+According to Benedict, recent channel checks, Google Search Trends analysis, and accelerating industry sales data highlight stronger Q1 demand trends than originally expected.",0.9479537606239319,0.02991633303463459,0.02212982438504696,positive,0.9180374145507812
+39,2020-06-11 09:46:00,"Seasonal and outdoor-related categories have been particularly robust, while bigger ticket categories such as appliances have remained surprisingly resilient.",0.8591620326042175,0.017300589010119438,0.12353735417127609,positive,0.8418614268302917
+40,2020-06-11 09:46:00,"Turning now to the rest of the Street, Home Depot has a Moderate Buy analyst consensus rating.",0.47468429803848267,0.020894741639494896,0.5044209957122803,neutral,0.4537895619869232
+41,2020-06-11 09:46:00,"For the most part, other analysts echo Benedict’s positive sentiment, with 15 Buys and 7 Holds issued in the last three months.",0.7663754820823669,0.023051736876368523,0.21057277917861938,positive,0.7433237433433533
+42,2020-06-11 09:46:00,"(See Home Depot stock analysis on TipRanks)
+
+Last but definitely not least is Nike.",0.050066668540239334,0.037900619208812714,0.9120327234268188,neutral,0.01216604933142662
+43,2020-06-11 09:46:00,The COVID-19 pandemic has underscored the importance of a healthy lifestyle.,0.7152341604232788,0.01753731444478035,0.26722854375839233,positive,0.69769686460495
+44,2020-06-11 09:46:00,"This sentiment was recently echoed by Nike CEO John Donahoe who said, ""Even more so, consumers around the world are recognising the need for an active and healthy lifestyle and sport is now more meaningful than ever.”
+
+Nike was able to buck the negative sales trend affecting consumer goods companies and deliver positive sales during the COVID-19 crisis.",0.9483416080474854,0.01919429562985897,0.03246411681175232,positive,0.9291473031044006
+45,2020-06-11 09:46:00,Revenues increased 5% to $10.1 billion in the fiscal third quarter.,0.9511566162109375,0.016999324783682823,0.03184410557150841,positive,0.9341573119163513
+46,2020-06-11 09:46:00,The results were driven by online sales gains that more than offset sales losses due to store closures.,0.9431431889533997,0.03272290527820587,0.024133805185556412,positive,0.910420298576355
+47,2020-06-11 09:46:00,"The company’s share price has almost doubled since March when it hit a 52-week low of $62.80, posting an impressive 24% gain over the last year.",0.952555239200592,0.024248020723462105,0.02319684624671936,positive,0.9283072352409363
+48,2020-06-11 09:46:00,Cowen analyst John Kernan believes Nike’s expanding user base improves the connection with core consumers and offers a meaningful mix benefit to unit economics and gross margins.,0.9502936601638794,0.01650591939687729,0.03320039063692093,positive,0.9337877631187439
+49,2020-06-11 09:46:00,"To this end, Kernan bumped up the firm's price target on Nike to $110 from $85 and has an Outperform rating on the shares.",0.8854434490203857,0.06917251646518707,0.04538407921791077,positive,0.8162709474563599
+50,2020-06-11 09:46:00,His price target on Nike indicates 14% upside potential.,0.6804264187812805,0.02264321595430374,0.29693031311035156,positive,0.6577832102775574
+51,2020-06-11 09:46:00,"(To look at Kernan’s track record, click here).",0.026533467695116997,0.013933090493083,0.9595334529876709,neutral,0.012600377202033997
+52,2020-06-11 09:46:00,Wall Street agrees with Kernan’s view on Nike.,0.25341299176216125,0.023005664348602295,0.7235813140869141,neutral,0.23040732741355896
+53,2020-06-11 09:46:00,"Out of 22 analysts providing recommendations, there were 19 Buys and 3 Holds, so the analyst consensus rating is a Strong Buy.",0.9186034798622131,0.022882791236042976,0.05851367115974426,positive,0.8957206606864929
+54,2020-06-11 09:46:00,"(See Nike stock-price forecast on TipRanks)
+
+To find good ideas for stocks trading at attractive valuations, visit TipRanks’ Best Stocks to Buy, a newly launched tool that unites all of TipRanks’ equity insights.",0.3257433772087097,0.011527790687978268,0.6627288460731506,neutral,0.31421560049057007

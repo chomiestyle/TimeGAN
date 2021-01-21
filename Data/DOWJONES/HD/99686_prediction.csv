@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-12-31 09:03:00,"In early trading on Wednesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.1%.",0.9357293844223022,0.033825017511844635,0.030445637181401253,positive,0.9019043445587158
+1,2014-12-31 09:03:00,"Year to date, Home Depot registers a 28.1% gain.",0.9451631307601929,0.02140134945511818,0.03343561664223671,positive,0.923761785030365
+2,2014-12-31 09:03:00,"And the worst performing Dow component thus far on the day is Chevron ( CVX ), trading down 1.1%.",0.02061808481812477,0.9660634398460388,0.013318445533514023,negative,-0.9454453587532043
+3,2014-12-31 09:03:00,Chevron is lower by about 10.4% looking at the year to date performance.,0.021731603890657425,0.9663387537002563,0.011929594911634922,negative,-0.944607138633728
+4,2014-12-31 09:03:00,"Two other components making moves today are Exxon Mobil ( XOM ), trading down 0.7%, and Johnson & Johnson ( JNJ ), trading up 0.7% on the day.",0.03983660787343979,0.9248999953269958,0.035263366997241974,negative,-0.8850634098052979
+5,2014-12-31 09:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-07 07:13:00,"In early trading on Thursday, shares of Cisco Systems topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.4%.",0.9375630021095276,0.031904760748147964,0.030532192438840866,positive,0.9056582450866699
+1,2019-11-07 07:13:00,"Year to date, Cisco Systems registers a 12.9% gain.",0.9526640176773071,0.018944336101412773,0.028391625732183456,positive,0.9337196946144104
+2,2019-11-07 07:13:00,"And the worst performing Dow component thus far on the day is Procter & Gamble, trading down 0.4%.",0.020841827616095543,0.9646487832069397,0.014509334228932858,negative,-0.9438069462776184
+3,2019-11-07 07:13:00,Procter & Gamble is showing a gain of 30.4% looking at the year to date performance.,0.9479795098304749,0.018417326733469963,0.03360310196876526,positive,0.9295622110366821
+4,2019-11-07 07:13:00,"Two other components making moves today are Coca-Cola, trading down 0.4%, and JPMorgan Chase, trading up 1.4% on the day.",0.04992527887225151,0.8998831510543823,0.05019160360097885,negative,-0.8499578833580017

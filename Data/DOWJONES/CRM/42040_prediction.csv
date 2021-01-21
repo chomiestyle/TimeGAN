@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-26 09:14:00,The S&P 500 and the Nasdaq hit record highs on Wednesday as investors bought into technology stocks that have thrived during the COVID-19 pandemic following the upbeat quarterly results from Salesforce and HP Enterprise.,0.878044843673706,0.05407017096877098,0.06788499653339386,positive,0.8239746689796448
+1,2020-08-26 09:14:00,".N
+
+At 13:00 p.m.",0.04219961166381836,0.02261470817029476,0.9351856708526611,neutral,0.019584903493523598
+2,2020-08-26 09:14:00,"ET, the Dow Jones Industrial Average .DJI was up 0.12% at 28,282.13.",0.9136884212493896,0.038591451942920685,0.047720085829496384,positive,0.8750969767570496
+3,2020-08-26 09:14:00,"The S&P 500 .SPX was up 0.78% at 3,470.32 and the Nasdaq Composite .IXIC was up 1.38% at 11,625.248.",0.9021701216697693,0.03439394012093544,0.06343583762645721,positive,0.8677761554718018
+4,2020-08-26 09:14:00,"The top three S&P 500 .PG.INX percentage gainers: ** Salesforce.Com Inc <CRM.N>, up 26.9% ** Netflix Inc <NFLX.OQ>, up 10.3% ** Adobe Inc <ADBE.OQ>, up 7.3% The top three S&P 500 .PL.INX percentage losers: ** Norwegian Cruise Line Holdings <NCLH.N>, down 5.5% ** Consolidated Edison Inc <ED.N>, down 3.5% ** Vornado Realty Trust <VNO.N>, down 3.4% The top three NYSE .PG.N percentage gainers: ** Anaplan Inc <PLAN.N>, up 28.8% ** Salesforce.Com Inc <CRM.N>, up 26.9% ** Dick's Sporting Goods Inc <DKS.N>, up 14.6% The top three NYSE .PL.N percentage losers: ** Garret Motion Inc <GTX.N>, down 42% ** Phoenix Tree Holdiings Ltd <DNK.N>, down 17.2% ** Rex American Resources Corp <REX.N>, down 12.4% The top three Nasdaq .PG.O percentage gainers: ** Fluidigm Corp <FLDM.O>, up 38.3% ** Scworx Corp <WORX.O>, up 27.9% ** Fluent Inc FLNT.O, up 25.3% The top three Nasdaq .PL.O percentage losers: ** Xpresspa Group Inc <XSPA.O>, down 16.8% ** Orchard Therapeutics Plc <ORTX.O>, down 16% ** Pacific Ethanol Inc <PEIX.O>, down 14.6% ** Salesforce.com Inc CRM.N: up 26.9%
+
+BUZZ-Street View: Salesforce on cloud nine after blow-out quarter ** Medtronic Plc MDT.N: up 1.0%
+
+BUZZ-Street View: Medtronic's robust pipeline could be the answer ** Fluidigm Corp FLDM.O: up 38.3%
+
+BUZZ-Soars after COVID-19 test gets emergency approval ** Tesla Inc TSLA.O: up 4.5%
+
+BUZZ-Jefferies supercharges PT on battery-making potential ** Nordstrom Inc JWN.N: down 4.9%
+
+BUZZ-Falls on downbeat Q2; brokerage calls results 'relative anomaly' ** Urban Outfitters Inc URBN.O: up 20.2%
+
+BUZZ-Urban Outfitter jumps on surprise quarterly profit ** Express Inc EXPR.N: down 4.4%
+
+BUZZ-Falls as Q2 loss wider than expected ** XpresSpa Group Inc XSPA.O: down 16.8%
+
+BUZZ-Set for record high on Desktop Metal merger ** Dick's Sporting Goods Inc DKS.N: up 14.2%
+
+BUZZ-Dick's Sporting Goods rises on strong sales as more people pick up golf ** Anaplan Inc PLAN.N: up 28.8%
+
+BUZZ-Jumps on better-than-expected results, forecast ** Apple Inc AAPL.O: up 1.2%
+
+BUZZ-Wedbush raises PT to highest on Street ** Nio Inc NIO.N: up 13.3%
+
+BUZZ-Nio burning rubber as Morgan Stanley turns bullish ** First Solar FSLR.O: up 2.0%
+
+BUZZ-BofA raises price objective on capacity boost plans ** Intuit Inc INTU.O: up 2.1%
+
+BUZZ-Set for fifth straight record high on big Q4 beat ** Workday Inc WDAY.O: up 8.9%
+
+BUZZ-Gains; Jefferies raises PT ahead of results ** Autodesk Inc ADSK.O: down 1.2%
+
+BUZZ-Ticks lower on gloomy outlook ** Moderna Inc MRNA.O: up 5.8%
+
+BUZZ-Rises on positive potential COVID-19 vaccine trial data ** Pure Storage Inc PSTG.N: down 10.4%
+
+BUZZ-Gains on new Europe, U.S. patents ** CohBar Inc CWBR.O: down 32.2%
+
+BUZZ-Tumbles on discounted stock-and-warrant offering ** Garrett Motion Inc GTX.N: down 42.2%
+
+BUZZ-Down as co seeks to address balance sheet concerns ** Chico's FAS Inc CHS.N: up 16.0%
+
+BUZZ-Rises on expectations of improved cash flow in H2 ** K12 Inc LRN.N: down 10.2%
+
+BUZZ-Gains after co names new CFO ** Roku Inc ROKU.O: up 11.7%
+
+BUZZ-Jumps as Citi sees account growth, starts with 'buy' ** Marathon Patent Group Inc MARA.O: up 2.0%
+
+BUZZ-Bitcoin miner Marathon Patent rises on deal to buy peer Fastblock Mining ** Avid Bioservices CDMO.O: up 0.4%
+
+BUZZ-Gains on contract to help develop antiviral drug candidate ** Palo Alto Networks PANW.N: up 0.3%
+
+BUZZ-Rises as Deutsche Bank hikes PT to Street's highest ** Zoom Video Communications ZM.O: up 2.7%
+
+BUZZ-Zoom Video hits $300 mark for first time USN ** REX American Resources REX.N: down 14.1%
+
+BUZZ-Drops on Q2 loss vs year-ago profit as ethanol sales dive",0.022746294736862183,0.9660576581954956,0.011196059174835682,negative,-0.943311333656311

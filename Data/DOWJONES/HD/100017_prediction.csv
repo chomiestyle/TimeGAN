@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-02-25 09:35:00,"In early trading on Tuesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.5%.",0.9367852807044983,0.03240641951560974,0.03080829232931137,positive,0.9043788909912109
+1,2014-02-25 09:35:00,"Year to date, Home Depot has lost about 3.1% of its value.",0.01720130629837513,0.9526958465576172,0.03010277822613716,negative,-0.9354945421218872
+2,2014-02-25 09:35:00,"And the worst performing Dow component thus far on the day is Boeing ( BA ), trading down 1.3%.",0.021480796858668327,0.9655370116233826,0.01298213005065918,negative,-0.9440562129020691
+3,2014-02-25 09:35:00,Boeing is lower by about 6.3% looking at the year to date performance.,0.02238635905086994,0.9659156203269958,0.011697999201714993,negative,-0.9435292482376099
+4,2014-02-25 09:35:00,"Two other components making moves today are JPMorgan Chase ( JPM ), trading down 1.3%, and Verizon ( VZ ), trading up 0.3% on the day.",0.049495384097099304,0.9033471345901489,0.04715743288397789,negative,-0.8538517355918884
+5,2014-02-25 09:35:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

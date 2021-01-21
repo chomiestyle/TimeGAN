@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-15 07:16:00,"In early trading on Wednesday, shares of Procter & Gamble topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.4%.",0.9383586049079895,0.0312058012932539,0.030435584485530853,positive,0.9071528315544128
+1,2017-02-15 07:16:00,"Year to date, Procter & Gamble registers a 8.1% gain.",0.9460641741752625,0.01897498220205307,0.03496086969971657,positive,0.9270892143249512
+2,2017-02-15 07:16:00,"And the worst performing Dow component thus far on the day is Merck, trading down 0.8%.",0.021442780271172523,0.9647002816200256,0.01385700237005949,negative,-0.9432575106620789
+3,2017-02-15 07:16:00,Merck is showing a gain of 10.7% looking at the year to date performance.,0.9517236351966858,0.017904097214341164,0.030372293666005135,positive,0.9338195323944092
+4,2017-02-15 07:16:00,"Two other components making moves today are Verizon Communications, trading down 0.8%, and Apple, trading up 0.8% on the day.",0.04224696010351181,0.9146958589553833,0.04305719956755638,negative,-0.8724489212036133
+5,2017-02-15 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-10-27 07:00:00,Salesforce.com (NYSE: CRM) is a lead player in the business of selling cloud-based customer relationship management (CRM) solutions.,0.4162411093711853,0.007578784134238958,0.576180100440979,neutral,0.4086623191833496
+1,2019-10-27 07:00:00,And there's no denying that Salesforce has seen exceptional stock growth in the past three years.,0.9395480155944824,0.014683959074318409,0.04576805233955383,positive,0.9248640537261963
+2,2019-10-27 07:00:00,"Fiscal year 2018 marked the stock's most outstanding recent performance, reporting a revenue increase of 25%.",0.9545276761054993,0.01698964461684227,0.028482694178819656,positive,0.9375380277633667
+3,2019-10-27 07:00:00,Its stock surged by 45% in response.,0.9366962909698486,0.021287886425852776,0.04201582819223404,positive,0.9154084324836731
+4,2019-10-27 07:00:00,"The stock price maintained a steady, less exciting pace through 2019, when its revenue increased by 27% and the share price went up by 35%.",0.9400550127029419,0.01760779693722725,0.042337123304605484,positive,0.9224472045898438
+5,2019-10-27 07:00:00,"Since January 2019, however, the company's stock price held a fairly steady course between $130 and $160, a range below analyst projections, leading investors to wonder whether Salesforce had peaked.",0.169779434800148,0.616924524307251,0.21329598128795624,negative,-0.44714510440826416
+6,2019-10-27 07:00:00,"Here are three factors that could mean Salesforce's stock will soar in 2020:
+
+Salesforce's stock has stalled for much of 2019.",0.02910429798066616,0.9150509834289551,0.0558447428047657,negative,-0.8859466910362244
+7,2019-10-27 07:00:00,But there are significant indications that the plateau is temporary.,0.20386530458927155,0.19943703711032867,0.5966976284980774,neutral,0.004428267478942871
+8,2019-10-27 07:00:00,The following catalysts can propel the stock forward in the near future.,0.735029935836792,0.013953203335404396,0.25101685523986816,positive,0.7210767269134521
+9,2019-10-27 07:00:00,"The shift to the cloud
+
+Salesforce is a lead player in the cloud revolution.",0.46362829208374023,0.014156760647892952,0.522214949131012,neutral,0.44947153329849243
+10,2019-10-27 07:00:00,Yet estimates indicate that as much as 80% of enterprise operations are not on the cloud yet.,0.019544538110494614,0.15359444916248322,0.8268610835075378,neutral,-0.1340499073266983
+11,2019-10-27 07:00:00,"As more companies shift to the cloud, Salesforce's business can increase exponentially.",0.9071744680404663,0.01363329030573368,0.0791921615600586,positive,0.893541157245636
+12,2019-10-27 07:00:00,This is a term that deals with large data sets collected by enterprises and how they use the data to recognize patterns and create products and solutions for customers.,0.020442990586161613,0.007743213791400194,0.9718137383460999,neutral,0.012699777260422707
+13,2019-10-27 07:00:00,"Although there's a lot of buzz around ""big data,"" the fact is that many enterprises are just beginning their shift into using this field.",0.20496448874473572,0.010405043140053749,0.7846304178237915,neutral,0.19455944001674652
+14,2019-10-27 07:00:00,"As more companies interact with their consumer bases online, data collection and the need for data storage will increase.",0.6659488677978516,0.012879776768386364,0.321171373128891,positive,0.6530690789222717
+15,2019-10-27 07:00:00,And this is where Salesforce comes in with cloud services and tools to facilitate big data storage and processing.,0.10116389393806458,0.006006306502968073,0.8928297758102417,neutral,0.09515758603811264
+16,2019-10-27 07:00:00,"Additionally, the stock price plateau could simply be a case of investors taking the opportunity to catch their collective breath.",0.08025424927473068,0.5097799897193909,0.40996572375297546,negative,-0.4295257329940796
+17,2019-10-27 07:00:00,It's an accepted fact that Salesforce has been a disruptive player in the CRM space-hence the sense of excitement for 2018.,0.07286148518323898,0.6672698855400085,0.2598686218261719,negative,-0.594408392906189
+18,2019-10-27 07:00:00,A temporary pullback to understand more about the nature of this disruptive force and how it will evolve in the near future is a normal part of stock price growth.,0.12507131695747375,0.028759129345417023,0.8461695313453674,neutral,0.09631218761205673
+19,2019-10-27 07:00:00,"Salesforce's stock price may have slowed, but projected revenue growth for fiscal year 2020 remains strong.",0.8445111513137817,0.07326072454452515,0.08222806453704834,positive,0.7712504267692566
+20,2019-10-27 07:00:00,"Analysts' buy recommendations are based on confidence that Salesforce can sustain earnings above 20% through 2020, making the stock an attractive choice for long term investors.",0.8957163691520691,0.014475381001830101,0.08980822563171387,positive,0.881240963935852
+21,2019-10-27 07:00:00,The slower growth in 2019 offered opportunities for long-term investors to get in on Salesforce at a good price.,0.8568799495697021,0.024387015029788017,0.11873295903205872,positive,0.8324929475784302
+22,2019-10-27 07:00:00,The breather in Salesforce's stock price can provide the opportunity to find out more about the components that make up Salesforce.com's complete CRM solution.,0.3539977967739105,0.010362386703491211,0.6356397867202759,neutral,0.3436354100704193
+23,2019-10-27 07:00:00,"For example, software as a service (SaaS) companies know that their customers want an easy buying experience, and what makes them happier is easy access to responsive support.",0.19432607293128967,0.016302598640322685,0.7893713116645813,neutral,0.17802347242832184
+24,2019-10-27 07:00:00,"In August, Salesforce acquired ClickSoftware a company that specializes in mobile field service management for $1.35 billion.",0.11010952293872833,0.005831018090248108,0.884059488773346,neutral,0.10427850484848022
+25,2019-10-27 07:00:00,"Shortly prior to that deal, Salesforce made its biggest company purchase to date by acquiring data visualization company Tableau for $15.7 billion.",0.6843533515930176,0.011488440446555614,0.3041582703590393,positive,0.6728649139404297
+26,2019-10-27 07:00:00,Incorporating Tableau into the Salesforce service cloud is a key move to provide enterprise customers with the data visualization tools they need.,0.637515127658844,0.010404082015156746,0.352080762386322,positive,0.62711101770401
+27,2019-10-27 07:00:00,Salesforce's latest acquisitions offer some clear indications about its future intentions.,0.2052387297153473,0.006578458473086357,0.7881828546524048,neutral,0.19866026937961578
+28,2019-10-27 07:00:00,Cloud-based tools and big data are key elements in the digital enterprise -- the new way of doing business.,0.22145520150661469,0.00715211546048522,0.7713927030563354,neutral,0.21430309116840363
+29,2019-10-27 07:00:00,And a significant number of businesses are just beginning to shift their operations to the cloud.,0.43401795625686646,0.020829958841204643,0.5451520681381226,neutral,0.41318801045417786
+30,2019-10-27 07:00:00,Salesforce plans to be a leader offering solutions to make the shift go smoothly.,0.8412541747093201,0.014749093912541866,0.14399679005146027,positive,0.8265050649642944
+31,2019-10-27 07:00:00,And this is the foresight on the part of Salesforce that makes the stock a good buy.,0.6871607899665833,0.024413391947746277,0.2884258031845093,positive,0.6627473831176758
+32,2019-10-27 07:00:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+33,2019-10-27 07:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+34,2019-10-27 07:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+35,2019-10-27 07:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+36,2019-10-27 07:00:00,Lois Wachira has no position in any of the stocks mentioned.,0.008179916068911552,0.041220344603061676,0.950599730014801,neutral,-0.033040426671504974
+37,2019-10-27 07:00:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+38,2019-10-27 07:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

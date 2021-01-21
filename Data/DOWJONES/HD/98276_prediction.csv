@@ -1,0 +1,105 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-18 23:17:00,"The Dow traversed another tenuous week, marked by key earnings results and political developments which heightened investor concerns.",0.34408870339393616,0.584130048751831,0.07178131490945816,negative,-0.2400413453578949
+1,2017-05-18 23:17:00,Gains in energy and technology stocks helped the index gain on Monday.,0.9206686615943909,0.040081482380628586,0.03924977779388428,positive,0.8805871605873108
+2,2017-05-18 23:17:00,"However, the Dow inched lower on Tuesday following news that President Trump had shared sensitive information with Russian officials.",0.06896065920591354,0.9061686396598816,0.024870693683624268,negative,-0.8372079730033875
+3,2017-05-18 23:17:00,The index suffered grievous losses on Wednesday following reports of Trump's interference into the FBI probe regarding Mike Flynn's involvement with Russian sources.,0.02350224368274212,0.9667638540267944,0.009733901359140873,negative,-0.9432616233825684
+4,2017-05-18 23:17:00,Encouraging earnings from a key component helped the index end with gains on Thursday.,0.9252909421920776,0.04582252353429794,0.028886517509818077,positive,0.8794684410095215
+5,2017-05-18 23:17:00,"The Dow lost 0.1% last Friday, dragged down by declines in bank and retail stocks.",0.020318835973739624,0.9712288975715637,0.008452285081148148,negative,-0.9509100914001465
+6,2017-05-18 23:17:00,"Weaker than expected monthly inflation data raised concerns about the possibility of a future rate hike, which eventually affected banks.",0.03198576718568802,0.9378234148025513,0.030190808698534966,negative,-0.9058376550674438
+7,2017-05-18 23:17:00,"CPI increased by 0.2% while core CPI gained 0.1%, reversing a 0.1% decline in the previous month.",0.9460293650627136,0.027758730575442314,0.0262118149548769,positive,0.9182706475257874
+8,2017-05-18 23:17:00,"Consumer prices rose unadjusted 2.2% over last year, a decline from a 2.4% increase in March.",0.19604043662548065,0.7856144905090332,0.01834503561258316,negative,-0.5895740389823914
+9,2017-05-18 23:17:00,The blue-chip index lost 0.5% over last week.,0.019081082195043564,0.9724758863449097,0.008443023078143597,negative,-0.9533948302268982
+10,2017-05-18 23:17:00,"Last Tuesday, Trump discharged Director of the Federal Bureau of Investigation (FBI), James Comey from office.",0.13714081048965454,0.516211986541748,0.346647173166275,negative,-0.3790711760520935
+11,2017-05-18 23:17:00,"Comey was accused of injudiciously commenting that ""hundreds and thousands"" of Clinton's emails were forwarded by Clinton aide Huma Abedin to former Rep. Anthony Weiner's personal computer.",0.05634785443544388,0.7988967895507812,0.14475539326667786,negative,-0.742548942565918
+12,2017-05-18 23:17:00,Investors remained worried that such a dismissal could delay implementation of Trump administration's pro-growth agenda.,0.026710228994488716,0.9558183550834656,0.01747138984501362,negative,-0.9291081428527832
+13,2017-05-18 23:17:00,"The index advanced 0.4% on Monday, boosted by gains in energy and technology stocks.",0.9434561133384705,0.02502218633890152,0.031521689146757126,positive,0.9184339046478271
+14,2017-05-18 23:17:00,Energy shares moved north due to an uptick in oil prices after energy ministers from Saudi Arabia and Russia spoke about the need for extending output cuts.,0.8195455074310303,0.10963491350412369,0.07081963121891022,positive,0.7099105715751648
+15,2017-05-18 23:17:00,The energy ministers discussed the possibility of extending oil production cuts to the end of March next year in an attempt to stabilize the global crude market and reduce global oil inventories to their five-year average level.,0.602613091468811,0.19707463681697845,0.20031222701072693,positive,0.4055384397506714
+16,2017-05-18 23:17:00,"Meanwhile, Software security stocks moved higher following a cyber-attack on Friday that affected at least 200,000 computers across the world, as per EU law enforcement agency Europol estimates.",0.9088822603225708,0.05245659127831459,0.03866114839911461,positive,0.8564256429672241
+17,2017-05-18 23:17:00,Cybersecurity stocks gained on expectations that attacks were likely to continue into the current week.,0.9054919481277466,0.045451536774635315,0.04905649274587631,positive,0.8600404262542725
+18,2017-05-18 23:17:00,The index declined by 2.19 points on Tuesday amid heightened political uncertainty in the U.S following news that President Trump had shared sensitive information with Russian officials.,0.01889011263847351,0.9717203378677368,0.009389550425112247,negative,-0.9528301954269409
+19,2017-05-18 23:17:00,Energy shares declined following a report released by International Energy Agency (IEA).,0.01834220066666603,0.956048309803009,0.02560948021709919,negative,-0.9377061128616333
+20,2017-05-18 23:17:00,"Meanwhile, investors kept a close watch on the housing starts and the industrial production data released on Tuesday.",0.37547221779823303,0.03870082274079323,0.5858269333839417,neutral,0.3367713987827301
+21,2017-05-18 23:17:00,"While housing starts for April declined by 2.6%, industrial production recorded a growth of 1% in April, marking its largest increase since February 2014.",0.8934530019760132,0.07039666175842285,0.03615032881498337,positive,0.8230563402175903
+22,2017-05-18 23:17:00,The Dow lost 1.8% on Wednesday following reports of Trump's interference into the FBI probe regarding Mike Flynn's involvement with Russian sources.,0.024523619562387466,0.967026948928833,0.008449340239167213,negative,-0.9425033330917358
+23,2017-05-18 23:17:00,"This development raised concerns regarding the fate of Trump's pro-growth agenda, including tax cuts and deregulation policies.",0.12505194544792175,0.5824755430221558,0.2924724519252777,negative,-0.457423597574234
+24,2017-05-18 23:17:00,The Dow declined below its 50-day moving average for first time since April.,0.022917594760656357,0.9631403088569641,0.013942156918346882,negative,-0.9402227401733398
+25,2017-05-18 23:17:00,"Stocks finished in the green on Thursday, boosted by gains in technology shares and upbeat jobless claims data.",0.915805995464325,0.03851699456572533,0.04567703977227211,positive,0.8772889971733093
+26,2017-05-18 23:17:00,"Meanwhile, the Dow increased 0.3%, aided by gains made by Wal-Mart Stores Inc. WMT which moved northward following an encouraging earnings report.",0.9447049498558044,0.03202490508556366,0.023270055651664734,positive,0.9126800298690796
+27,2017-05-18 23:17:00,"However, the controversy relating to investigation into former National Security Adviser Mike Flynn's involvement with Russian sources kept investors cautious.",0.24385319650173187,0.6244214177131653,0.13172537088394165,negative,-0.3805682063102722
+28,2017-05-18 23:17:00,Wal-Mart 's first-quarter fiscal 2018 earnings of $1.00 per share beat the Zacks Consensus Estimate of 96 cents by 4.2% and increased 2.0% from the year-ago earnings of 98 cents on higher comps.,0.9554219841957092,0.02628859132528305,0.018289415165781975,positive,0.929133415222168
+29,2017-05-18 23:17:00,Earnings reached the top end of the guided range of 90 cents to $1.00 per share.,0.8828316330909729,0.018169352784752846,0.09899894893169403,positive,0.8646622896194458
+30,2017-05-18 23:17:00,Total revenue came in at $117.5 billion (including membership and other income).,0.03616509586572647,0.007305532693862915,0.956529438495636,neutral,0.028859563171863556
+31,2017-05-18 23:17:00,The figure fell short of the Zacks Consensus Estimate of $117.6 billion by 0.07% but increased 1.4% year over year.,0.11896230280399323,0.8614155054092407,0.01962214708328247,negative,-0.7424532175064087
+32,2017-05-18 23:17:00,Currency impacted sales by approximately $1.21 billion.,0.017172927036881447,0.9635391235351562,0.019288018345832825,negative,-0.9463661909103394
+33,2017-05-18 23:17:00,The decline in the International business was more than offset by growth in sales at Wal-Mart U.S and Sam's Club divisions.,0.13144363462924957,0.8493903279304504,0.0191660113632679,negative,-0.7179467082023621
+34,2017-05-18 23:17:00,Zacks Rank #3 (Hold) rated Wal-Mart expects U.S. comp sales growth in the range of 1.5−2.0% for the 13-week period ending Jul 28.,0.9321451187133789,0.014661749824881554,0.05319313332438469,positive,0.917483389377594
+35,2017-05-18 23:17:00,"Sam's Club comp sales, without the impact of fuel sales, are expected to increase 1-1.5%.",0.9545321464538574,0.020178187638521194,0.02528965286910534,positive,0.9343539476394653
+36,2017-05-18 23:17:00,The company expects adjusted earnings in the range of $1.00-$1.08 per share.,0.1705079972743988,0.008107220754027367,0.8213847875595093,neutral,0.16240078210830688
+37,2017-05-18 23:17:00,"(Read: Wal-Mart Tops Q1 Earnings on Higher Comps & Traffic )
+
+Cisco Systems Inc.CSCO reported third-quarter fiscal 2017 earnings (including stock-based compensation) of 54 cents per share, beating the Zacks Consensus Estimate by a penny.",0.8907931447029114,0.0904373750090599,0.018769411370158195,positive,0.8003557920455933
+38,2017-05-18 23:17:00,The stock has a Zacks Rank #4 (Sell).,0.30017873644828796,0.01963646523654461,0.6801848411560059,neutral,0.2805422842502594
+39,2017-05-18 23:17:00,"Excluding stock-based compensation, earnings increased 5.3% on a year-over-year basis to 60 cents, which was slightly better than management's guided range of 57-59 cents.",0.9569653272628784,0.024617306888103485,0.018417412415146828,positive,0.9323480129241943
+40,2017-05-18 23:17:00,The growth reflected benefits from operational efficiencies that boost operating margin in the quarter.,0.9539310336112976,0.018028423190116882,0.028040599077939987,positive,0.9359025955200195
+41,2017-05-18 23:17:00,Revenues declined 0.5% year over year to $11.94 billion but beat the Zacks Consensus Estimate of $11.89 billion.,0.017863599583506584,0.9726682305335999,0.00946812704205513,negative,-0.9548046588897705
+42,2017-05-18 23:17:00,Management had anticipated revenues to decline in the range of 2% or remain flat on a year-over-year basis.,0.016064826399087906,0.9694651961326599,0.014469985850155354,negative,-0.9534003734588623
+43,2017-05-18 23:17:00,"However, Cisco's fourth-quarter outlook was disappointing.",0.02005031332373619,0.9600623250007629,0.019887395203113556,negative,-0.9400120377540588
+44,2017-05-18 23:17:00,"For fourth-quarter fiscal 2017, revenues are expected to decline in the range of 6-4% on a year-over-year basis.",0.016330424696207047,0.9723391532897949,0.011330384761095047,negative,-0.9560087323188782
+45,2017-05-18 23:17:00,Non-GAAP earnings are anticipated to be in the range 60-62 cents per share.,0.021926185116171837,0.015052495524287224,0.9630212783813477,neutral,0.006873689591884613
+46,2017-05-18 23:17:00,The Zacks Consensus Estimate was pegged at 58 cents on revenue estimates of $12.52 billion.,0.09304779022932053,0.0882037803530693,0.818748414516449,neutral,0.004844009876251221
+47,2017-05-18 23:17:00,"(Read: Cisco Q3 Earnings Beat, Shares Fall on Dim View )
+
+The Home Depot Inc.HD posted fiscal first-quarter earnings of $1.67 per share, which escalated 16% from $1.44 in the year-ago quarter and beat the Zacks Consensus Estimate of $1.61.",0.9472405314445496,0.03731571510434151,0.015443668700754642,positive,0.9099248051643372
+48,2017-05-18 23:17:00,"Net sales advanced 4.9% to $23,887 million from $22,762 million in the year-ago quarter.",0.9554277658462524,0.025873389095067978,0.018698900938034058,positive,0.9295544028282166
+49,2017-05-18 23:17:00,"Moreover, the top line surpassed the Zacks Consensus Estimate of $23,745 million.",0.9120603799819946,0.017919354140758514,0.07002025097608566,positive,0.8941410183906555
+50,2017-05-18 23:17:00,"The company's overall comparable-store sales (comps) increased 5.5%, while comps in the U.S. grew 6%.",0.9572789669036865,0.019679958000779152,0.02304103411734104,positive,0.9375990033149719
+51,2017-05-18 23:17:00,"Following the robust fiscal first quarter performance, Home Depot raised earnings guidance for fiscal 2017 while it retained the sales view.",0.8572419285774231,0.023496169596910477,0.11926183849573135,positive,0.8337457776069641
+52,2017-05-18 23:17:00,The company projects both sales and comps to grow about 4.6% in fiscal 2017.,0.9167129397392273,0.01367550902068615,0.06961159408092499,positive,0.903037428855896
+53,2017-05-18 23:17:00,"The company now expects diluted earnings per share to increase nearly 11% to $7.15, including share repurchases.",0.9555367231369019,0.016735879704356194,0.027727503329515457,positive,0.9388008713722229
+54,2017-05-18 23:17:00,"Previously, the company had anticipated earnings per share growth of 10.5% to $7.13.",0.9463917016983032,0.016526123508810997,0.03708215057849884,positive,0.9298655986785889
+55,2017-05-18 23:17:00,The stock has a Zacks Rank #3.,0.2888851761817932,0.019806498661637306,0.691308319568634,neutral,0.26907867193222046
+56,2017-05-18 23:17:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+57,2017-05-18 23:17:00,Exxon Mobil CorporationXOM recently announced its intention to enter the retail fuel market of Mexico.,0.5468054413795471,0.009261512197554111,0.44393306970596313,positive,0.5375439524650574
+58,2017-05-18 23:17:00,"To this end, the company is likely to spend almost $300 million over the next 10 years.",0.5624198317527771,0.010306094773113728,0.42727404832839966,positive,0.5521137118339539
+59,2017-05-18 23:17:00,"The integrated energy company is anticipated to launch its first fuel service station in central Mexico, under the brand name 'Mobil,' in the second half of 2017.",0.3368641436100006,0.007257502060383558,0.6558783650398254,neutral,0.32960665225982666
+60,2017-05-18 23:17:00,"With this development, motorists in the country will now be able to avail Zacks Rank #3-rated Exxon Mobil's high-grade Synergy gasoline and diesel fuels.",0.9074299335479736,0.015134789049625397,0.07743538171052933,positive,0.8922951221466064
+61,2017-05-18 23:17:00,The event signifies the opening of Mexico's closed retail sales market after Pemex lost its monopoly following the reforms in 2013.,0.6565233469009399,0.024809883907437325,0.3186667561531067,positive,0.6317134499549866
+62,2017-05-18 23:17:00,"(Read: Exxon Mobil to Foray into the Mexican Fuel Market )
+
+JPMorgan Chase & Co.JPM is buying an office space in Dublin as part of its efforts to move jobs out of London post-Brexit.",0.696230947971344,0.07075107097625732,0.23301801085472107,positive,0.6254798769950867
+63,2017-05-18 23:17:00,This move confirms confidence in the Irish capital at a time when various cities of the European Union are competing to convince financial institutions with large bases in the U.K. to choose them over others to carry out activities previously performed in London.,0.9005759954452515,0.02556387521326542,0.07386007905006409,positive,0.8750120997428894
+64,2017-05-18 23:17:00,The stock has a Zacks Rank #3.,0.2888851761817932,0.019806498661637306,0.691308319568634,neutral,0.26907867193222046
+65,2017-05-18 23:17:00,"The new building, located in the Capital Dock development in Dublin, covers 130,000 square foot and its construction is expected to be completed by the end of 2018.",0.05117051303386688,0.004499450325965881,0.9443299770355225,neutral,0.046671062707901
+66,2017-05-18 23:17:00,"The building will be able to accommodate around 1,000 staff members, which is double the number of people already employed by JPMorgan in Dublin.",0.6817034482955933,0.01646086946129799,0.30183568596839905,positive,0.6652425527572632
+67,2017-05-18 23:17:00,"(Read: JPMorgan Buys Dublin Office to Move Jobs Post Brexit )
+
+Johnson & Johnson, Inc.JNJ discussed its future plans and showcased a strong pipeline of transformational medicines at a meeting held on May 17 with industry analysts.",0.8612551689147949,0.012014427222311497,0.12673044204711914,positive,0.8492407202720642
+68,2017-05-18 23:17:00,Johnson & Johnson intends to seek approval for 10 new products between 2017 and 2021.,0.5425825715065002,0.010228071361780167,0.4471893310546875,positive,0.532354474067688
+69,2017-05-18 23:17:00,The company said that each of these products have blockbuster potential.,0.31742924451828003,0.00689932843670249,0.675671398639679,neutral,0.3105299174785614
+70,2017-05-18 23:17:00,"Also, the company is targeting more than 50 line extensions of existing and new drugs.",0.49583813548088074,0.008053462952375412,0.49610841274261475,neutral,0.4877846837043762
+71,2017-05-18 23:17:00,"Meanwhile, Zacks Rank #3-rated Johnson & Johnson also said it expects approval and launch of its two pipeline candidates this year -- guselkumab for psoriasis and sirukumab for rheumatoid arthritis.",0.7662988901138306,0.011475484818220139,0.22222569584846497,positive,0.7548233866691589
+72,2017-05-18 23:17:00,"(Read: J&J Plans to Seek Approval for 10 New Drugs by 2021 )
+
+The table given below shows the price movements of the 10 largest components of the Dow, which is a price weighted index, over the last five days and during the last six months.",0.01509923953562975,0.020625315606594086,0.9642754197120667,neutral,-0.005526076070964336
+73,2017-05-18 23:17:00,"Over the last five trading days, the Dow has lost 1.1%.",0.019100045785307884,0.9703171253204346,0.010582879185676575,negative,-0.9512170553207397
+74,2017-05-18 23:17:00,"For the most part, the direction of stocks is being determined by political developments in recent weeks.",0.01578652113676071,0.028960812836885452,0.9552527070045471,neutral,-0.01317429170012474
+75,2017-05-18 23:17:00,"This week was no different, dogged by controversies over Russia's involvement with the Trump presidential campaign.",0.06276235729455948,0.8368564248085022,0.10038121789693832,negative,-0.7740940451622009
+76,2017-05-18 23:17:00,"Despite such a trend, investors will closely watch FOMC minutes as well home sales data scheduled for release next week.",0.054261356592178345,0.016524752601981163,0.92921382188797,neutral,0.03773660212755203
+77,2017-05-18 23:17:00,These reports are also likely to have a major impact on the fortunes of stocks in the week ahead.,0.1371675282716751,0.3246232867240906,0.5382091999053955,neutral,-0.18745575845241547
+78,2017-05-18 23:17:00,"While we are happy to share many articles like this on the website, our best recommendations and most in-depth research are not available to the public.",0.017078956589102745,0.12645746767520905,0.8564635515213013,neutral,-0.10937850922346115
+79,2017-05-18 23:17:00,"Starting today, for the next month, you can follow all Zacks' private buys and sells in real time.",0.021540144458413124,0.0068678162060678005,0.9715920090675354,neutral,0.014672327786684036
+80,2017-05-18 23:17:00,Our experts cover all kinds of trades… from value to momentum .,0.02819868177175522,0.0061000012792646885,0.9657013416290283,neutral,0.022098680958151817
+81,2017-05-18 23:17:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+82,2017-05-18 23:17:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+83,2017-05-18 23:17:00,from stocks under $10 to ETF and option moves .,0.0437336191534996,0.065303273499012,0.890963077545166,neutral,-0.02156965434551239
+84,2017-05-18 23:17:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+85,2017-05-18 23:17:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+86,2017-05-18 23:17:00,from stocks that corporate insiders are buying up to companies that are about to report positive earnings surprises.,0.13842779397964478,0.017181528732180595,0.8443906903266907,neutral,0.12124626338481903
+87,2017-05-18 23:17:00,You can even look inside exclusive portfolios that are normally closed to new investors.,0.03530820831656456,0.007948080077767372,0.9567436575889587,neutral,0.027360128238797188
+88,2017-05-18 23:17:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+89,2017-05-18 23:17:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+90,2017-05-18 23:17:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+91,2017-05-18 23:17:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

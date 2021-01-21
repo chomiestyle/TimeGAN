@@ -1,0 +1,36 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-05 02:45:00,"Home Depot (HD) closed at $186.39 in the latest trading session, marking a -0.02% move from the prior day.",0.8412647247314453,0.1369141936302185,0.0218210369348526,positive,0.7043505311012268
+1,2019-02-05 02:45:00,This move lagged the S&P 500's daily gain of 0.47%.,0.2691282629966736,0.703311026096344,0.02756066434085369,negative,-0.4341827630996704
+2,2019-02-05 02:45:00,"At the same time, the Dow added 0.68%, and the tech-heavy Nasdaq gained 0.74%.",0.9045969843864441,0.02801579050719738,0.06738720834255219,positive,0.8765811920166016
+3,2019-02-05 02:45:00,"Heading into today, shares of the home-improvement retailer had gained 5.3% over the past month, lagging the Retail-Wholesale sector's gain of 6.95% and the S&P 500's gain of 7.71% in that time.",0.9528675675392151,0.029346439987421036,0.017785893753170967,positive,0.923521101474762
+4,2019-02-05 02:45:00,Wall Street will be looking for positivity from HD as it approaches its nex t earnings report date.,0.23081982135772705,0.020891491323709488,0.7482886910438538,neutral,0.20992833375930786
+5,2019-02-05 02:45:00,"This is expected to be February 26, 2019.",0.010295902378857136,0.0076406048610806465,0.9820635318756104,neutral,0.0026552975177764893
+6,2019-02-05 02:45:00,"In tha t report , analysts expect HD to post earnings of $2.17 per share.",0.49085578322410583,0.017095506191253662,0.4920487105846405,neutral,0.4737602770328522
+7,2019-02-05 02:45:00,This would mark year-over-year growth of 28.4%.,0.9304606318473816,0.015373874455690384,0.05416547879576683,positive,0.9150867462158203
+8,2019-02-05 02:45:00,"Our most recent consensus estimate is calling for quarterly revenue of $26.58 billion, up 11.28% from the year-ago period.",0.9585354924201965,0.02064589224755764,0.020818674936890602,positive,0.937889575958252
+9,2019-02-05 02:45:00,Investors might also notice recent changes to analyst estimates for HD.,0.08174712210893631,0.04681228846311569,0.871440589427948,neutral,0.03493483364582062
+10,2019-02-05 02:45:00,These revisions help to show the ever-changing nature of near-term business trends.,0.2410762757062912,0.007664180360734463,0.7512595057487488,neutral,0.23341210186481476
+11,2019-02-05 02:45:00,"With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.",0.8764665722846985,0.01728433556854725,0.10624910145998001,positive,0.8591822385787964
+12,2019-02-05 02:45:00,Our research shows that these estimate changes are directly correlated with near-term stock prices.,0.042211804538965225,0.013062146492302418,0.9447260499000549,neutral,0.029149658977985382
+13,2019-02-05 02:45:00,"To benefit from this, we have developed the Zacks Rank, a proprietary model which takes these estimate changes into account and provides an actionable rating system.",0.275074303150177,0.006807107012718916,0.7181186079978943,neutral,0.2682671844959259
+14,2019-02-05 02:45:00,"The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988.",0.9196574687957764,0.02098225988447666,0.05936018005013466,positive,0.8986752033233643
+15,2019-02-05 02:45:00,"Over the past month, the Zacks Consensus EPS estimate has moved 0.3% lower.",0.023134909570217133,0.951904833316803,0.024960244074463844,negative,-0.9287699460983276
+16,2019-02-05 02:45:00,HD is currently a Zacks Rank #3 (Hold).,0.0129811717197299,0.017913008108735085,0.9691058397293091,neutral,-0.004931836389005184
+17,2019-02-05 02:45:00,"Investors should also note HD's current valuation metrics, including its Forward P/E ratio of 18.27.",0.18581867218017578,0.007907663471996784,0.8062736392021179,neutral,0.17791101336479187
+18,2019-02-05 02:45:00,"Its industry sports an average Forward P/E of 11.89, so we one might conclude that HD is trading at a premium comparatively.",0.19739510118961334,0.01948760449886322,0.7831172347068787,neutral,0.17790749669075012
+19,2019-02-05 02:45:00,"Also, we should mention that HD has a PEG ratio of 1.41.",0.04167243838310242,0.00672785472124815,0.951599657535553,neutral,0.03494458273053169
+20,2019-02-05 02:45:00,"This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate.",0.05599822849035263,0.006487204693257809,0.93751460313797,neutral,0.04951102286577225
+21,2019-02-05 02:45:00,The Building Products - Retail was holding an average PEG ratio of 1.11 at yesterday's closing price.,0.034437213093042374,0.013668717816472054,0.9518940448760986,neutral,0.02076849527657032
+22,2019-02-05 02:45:00,The Building Products - Retail industry is part of the Retail-Wholesale sector.,0.013527807779610157,0.007622756063938141,0.978849470615387,neutral,0.005905051715672016
+23,2019-02-05 02:45:00,"This industry currently has a Zacks Industry Rank of 91, which puts it in the top 36% of all 250+ industries.",0.27614882588386536,0.013388028368353844,0.7104631662368774,neutral,0.26276078820228577
+24,2019-02-05 02:45:00,The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors.,0.02312290668487549,0.011325368657708168,0.9655517339706421,neutral,0.01179753802716732
+25,2019-02-05 02:45:00,Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.,0.6436750292778015,0.3071485161781311,0.0491764210164547,positive,0.3365265130996704
+26,2019-02-05 02:45:00,"Be sure to follow all of these stock-moving metrics, and many more, on Zacks.com.",0.04053972661495209,0.0058993985876441,0.9535609483718872,neutral,0.03464032709598541
+27,2019-02-05 02:45:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+28,2019-02-05 02:45:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+29,2019-02-05 02:45:00,"Click to get this free report
+
+The Home Depot, Inc. (HD): Get Free Report
+
+To read this article on Zacks.com click here.",0.01242950651794672,0.026626206934452057,0.9609442353248596,neutral,-0.014196700416505337
+30,2019-02-05 02:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

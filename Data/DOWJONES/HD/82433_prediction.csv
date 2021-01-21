@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-10 07:13:00,"In early trading on Monday, shares of Nike ( NKE ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.1%.",0.940653920173645,0.029586629942059517,0.029759446159005165,positive,0.9110673069953918
+1,2018-09-10 07:13:00,"Year to date, Nike registers a 31.1% gain.",0.9408232569694519,0.019884033128619194,0.03929263353347778,positive,0.9209392070770264
+2,2018-09-10 07:13:00,"And the worst performing Dow component thus far on the day is Travelers Companies ( TRV ), trading down 1.9%.",0.020741425454616547,0.9664326310157776,0.012825919315218925,negative,-0.9456912279129028
+3,2018-09-10 07:13:00,Travelers Companies is lower by about 5.9% looking at the year to date performance.,0.019920799881219864,0.9650789499282837,0.015000163577497005,negative,-0.9451581239700317
+4,2018-09-10 07:13:00,"Two other components making moves today are UnitedHealth Group ( UNH ), trading down 1.5%, and Home Depot ( HD ), trading up 1.6% on the day.",0.029971672222018242,0.9364507794380188,0.033577654510736465,negative,-0.9064791202545166
+5,2018-09-10 07:13:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

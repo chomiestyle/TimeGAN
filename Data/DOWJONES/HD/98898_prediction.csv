@@ -1,0 +1,60 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-10 04:32:00,"With a 24% market share, Home Depot ( HD ) is the clear leader in the home improvement space in the U.S.",0.9110106825828552,0.015391591005027294,0.07359778136014938,positive,0.8956190943717957
+1,2016-07-10 04:32:00,"So, why have they only added a grand net of one store in the past five years?",0.11353352665901184,0.016691869124770164,0.869774580001831,neutral,0.09684165567159653
+2,2016-07-10 04:32:00,How did they grow revenues by nearly $10 billion between 2012 and 2014?,0.7729699015617371,0.015969719737768173,0.21106036007404327,positive,0.757000207901001
+3,2016-07-10 04:32:00,"We know that their China foray ended in complete failure, and Mexico has been doing fairly well, but the bulk of their revenue still comes from their home market.",0.10639886558055878,0.23005995154380798,0.6635411977767944,neutral,-0.1236610859632492
+4,2016-07-10 04:32:00,What we need to find out is how the company is able to keep growing the top line in a mature market without the additional store count that youAAAd expect to accompany that growth.,0.5920252799987793,0.010856346227228642,0.39711838960647583,positive,0.5811689496040344
+5,2016-07-10 04:32:00,Is that kind of growth really sustainable?,0.13762526214122772,0.016959121450781822,0.8454156517982483,neutral,0.12066613882780075
+6,2016-07-10 04:32:00,"Home Depot reported $22.8 billion in revenues for the first quarter of 2016, up 9% from the same quarter a year before.",0.9576324224472046,0.021254489198327065,0.021113131195306778,positive,0.9363779425621033
+7,2016-07-10 04:32:00,"In fact, it expects to do so well this fiscal year that it raised the guidance to 6.3% revenue growth.",0.9504297375679016,0.01786363124847412,0.03170653060078621,positive,0.9325661063194275
+8,2016-07-10 04:32:00,"Obviously, that top line is constantly moving up.",0.49272918701171875,0.030724721029400826,0.476546049118042,positive,0.4620044529438019
+9,2016-07-10 04:32:00,"More pertinent to this analysis, however, is the expansion in average ticket size and overall transactions.",0.7395848035812378,0.011192831210792065,0.24922235310077667,positive,0.7283919453620911
+10,2016-07-10 04:32:00,"On the ticket front, the company reported a 2.4% increase to $60.03; transactions have grown from 360.2 million to 374.8 million, a year over year increase of 4.1%.",0.9505642652511597,0.01641394942998886,0.033021826297044754,positive,0.9341503381729126
+11,2016-07-10 04:32:00,But the question is: How long can the company sustain such growth before it is forced to look at new opportunities?,0.2625369727611542,0.04002309590578079,0.6974399089813232,neutral,0.22251388430595398
+12,2016-07-10 04:32:00,"On the e-commerce front it faces competition from Amazon ( AMZN ) and other e-tailers, but the company's own online format is growing at an impressive 20% year over year.",0.9344877004623413,0.015428400598466396,0.05008390173316002,positive,0.9190592765808105
+13,2016-07-10 04:32:00,"ThereAAAs no real external threat to its e-commerce business as of now, and with plans to roll out the order management system by the end of this year, things are looking up there as well, with 2015 bringing in $4.7 billion from web sales - a billion dollars more than the year before.",0.9203046560287476,0.02226024493575096,0.057435065507888794,positive,0.8980444073677063
+14,2016-07-10 04:32:00,"Unfortunately, none of that can explain what the company said in its Letter to Shareholders for the fiscal 2015:
+
+AAAFiscal 2015 was another record setting year for The Home Depot.",0.5468227863311768,0.05690441653132439,0.39627277851104736,positive,0.48991838097572327
+15,2016-07-10 04:32:00,"Our sales, net earnings and customer satisfaction scores were the highest in Company history.",0.9111946225166321,0.015333548188209534,0.07347186654806137,positive,0.8958610892295837
+16,2016-07-10 04:32:00,"Sales grew $5.3 billion to $88.5 billion, an increase of 6.4 percent from fiscal 2014, with comparable store sales up 5.6 percent for the Company and 7.1 percent in the U.S.AAA
+
+WhatAAAs really driving its growth?",0.9214503765106201,0.01896766386926174,0.059581927955150604,positive,0.9024826884269714
+17,2016-07-10 04:32:00,The market itself.,0.06706000864505768,0.025523805990815163,0.9074161648750305,neutral,0.041536204516887665
+18,2016-07-10 04:32:00,The industry segment is largely dependent on existing and new home sales.,0.007816013880074024,0.012569314800202847,0.9796146750450134,neutral,-0.004753300920128822
+19,2016-07-10 04:32:00,"As long as those metrics keep growing, HD will grow on their backs.",0.5738775730133057,0.010779832489788532,0.41534268856048584,positive,0.5630977153778076
+20,2016-07-10 04:32:00,"As you can see, from a year ago until early this year, the median price of existing homes has been going down.",0.026770757511258125,0.8523882627487183,0.12084094434976578,negative,-0.8256174921989441
+21,2016-07-10 04:32:00,"This year, itAAAs showing a sharp increase.",0.9305081367492676,0.02097478322684765,0.048517145216464996,positive,0.9095333814620972
+22,2016-07-10 04:32:00,"When prices are low, demand is high; that, in turn, pushes up prices in a cyclic manner.",0.16944444179534912,0.011150010861456394,0.8194055557250977,neutral,0.1582944244146347
+23,2016-07-10 04:32:00,But how is that impacting the actual sales?,0.014782581478357315,0.06638003885746002,0.9188374280929565,neutral,-0.05159745737910271
+24,2016-07-10 04:32:00,Warning!,0.18697701394557953,0.20810140669345856,0.6049215197563171,neutral,-0.02112439274787903
+25,2016-07-10 04:32:00,GuruFocus has detected 1 Warning Sign with CASC.,0.03246251121163368,0.9205624461174011,0.04697500541806221,negative,-0.8880999088287354
+26,2016-07-10 04:32:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+27,2016-07-10 04:32:00,"The intrinsic value of CASC
+
+Warning!",0.07325205206871033,0.017720608040690422,0.9090273380279541,neutral,0.055531442165374756
+28,2016-07-10 04:32:00,GuruFocus has detected 1 Warning Sign with TTOO.,0.03942335024476051,0.8863548636436462,0.07422173768281937,negative,-0.846931517124176
+29,2016-07-10 04:32:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+30,2016-07-10 04:32:00,"The intrinsic value of TTOO
+
+Warning!",0.07711900025606155,0.07488451898097992,0.8479964137077332,neutral,0.0022344812750816345
+31,2016-07-10 04:32:00,GuruFocus has detected 1 Warning Sign with TTOO.,0.03942335024476051,0.8863548636436462,0.07422173768281937,negative,-0.846931517124176
+32,2016-07-10 04:32:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+33,2016-07-10 04:32:00,"The intrinsic value of PHS:WEB
+
+Warning!",0.07026103883981705,0.07835476100444794,0.851384162902832,neutral,-0.00809372216463089
+34,2016-07-10 04:32:00,GuruFocus has detected 1 Warning Sign with TTOO.,0.03942335024476051,0.8863548636436462,0.07422173768281937,negative,-0.846931517124176
+35,2016-07-10 04:32:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+36,2016-07-10 04:32:00,"The intrinsic value of ZTS
+
+Warning!",0.07995398342609406,0.029581693932414055,0.8904642462730408,neutral,0.05037228763103485
+37,2016-07-10 04:32:00,GuruFocus has detected 1 Warning Sign with TTOO.,0.03942335024476051,0.8863548636436462,0.07422173768281937,negative,-0.846931517124176
+38,2016-07-10 04:32:00,Click here to check it out.,0.05570128560066223,0.04801474139094353,0.8962839245796204,neutral,0.007686544209718704
+39,2016-07-10 04:32:00,"The intrinsic value of HD
+
+About GuruFocus: GuruFocus.com tracks the stocks picks and portfolio holdings of the world's best investors.",0.030134711414575577,0.007556060794740915,0.9623091816902161,neutral,0.02257865108549595
+40,2016-07-10 04:32:00,This value investing site offers stock screeners and valuation tools.,0.03417489305138588,0.006519665941596031,0.9593054056167603,neutral,0.02765522710978985
+41,2016-07-10 04:32:00,And publishes daily articles tracking the latest moves of the world's best investors.,0.03742823377251625,0.006741959135979414,0.9558297991752625,neutral,0.03068627417087555
+42,2016-07-10 04:32:00,GuruFocus also provides promising stock ideas in 3 monthly newsletters sent to Premium Members .,0.20221388339996338,0.007654124870896339,0.7901319265365601,neutral,0.1945597529411316
+43,2016-07-10 04:32:00,This article first appeared on GuruFocus .,0.018785500898957253,0.014738528989255428,0.9664759039878845,neutral,0.004046971909701824
+44,2016-07-10 04:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

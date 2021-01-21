@@ -1,0 +1,95 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-12-16 07:20:00,He wanted to change the way corporations conduct their business.,0.07688135653734207,0.010814191773533821,0.9123044013977051,neutral,0.0660671666264534
+1,2015-12-16 07:20:00,"After all, thousands and thousands of entrepreneurial techies are still piling into San Francisco apartments every year with big ideas on how to ""disrupt"" this sector or that sector.",0.13419780135154724,0.0952056273818016,0.7705965638160706,neutral,0.038992173969745636
+2,2015-12-16 07:20:00,And some of them are very successful.,0.5160292387008667,0.009786855429410934,0.47418394684791565,positive,0.5062423944473267
+3,2015-12-16 07:20:00,Just check out what Uber's done to the cab industry.,0.030329132452607155,0.022290026769042015,0.947380781173706,neutral,0.00803910568356514
+4,2015-12-16 07:20:00,"Marc's goal, however, was much bigger than most Silicon Valley dreams.",0.5004777908325195,0.014242255128920078,0.48527994751930237,positive,0.48623552918434143
+5,2015-12-16 07:20:00,He wanted to bring on the end of software as we know it.,0.0821535587310791,0.008133329451084137,0.909713089466095,neutral,0.07402022927999496
+6,2015-12-16 07:20:00,"The sector he established, Software-as-a-Service (SaaS), is now a growth machine.",0.7884394526481628,0.014468752779066563,0.19709181785583496,positive,0.7739707231521606
+7,2015-12-16 07:20:00,SaaS will hit $32.8 billion in sales in 2016.,0.8661593794822693,0.01603313721716404,0.11780747771263123,positive,0.8501262664794922
+8,2015-12-16 07:20:00,That's more than double the sector's $13.5 billion value just five years ago.,0.5092138051986694,0.01596052385866642,0.4748257100582123,positive,0.49325329065322876
+9,2015-12-16 07:20:00,"Marc believes his company, in the next few years, will be the first software firm for large enterprises to hit $10 billion in annual sales - meaning it owns a huge chunk of SaaS.",0.7620903849601746,0.012889516539871693,0.22502000629901886,positive,0.7492008805274963
+10,2015-12-16 07:20:00,And his company is far from done growing.,0.12958745658397675,0.07684919238090515,0.7935634255409241,neutral,0.052738264203071594
+11,2015-12-16 07:20:00,"As it builds up to that $10 billion, this tech stock is poised to climb 100% along the way.",0.9052817821502686,0.02143659070134163,0.07328159362077713,positive,0.8838452100753784
+12,2015-12-16 07:20:00,"Today I'll show you how it'll get there - and how you can double your money , too...",0.49425774812698364,0.011287637054920197,0.49445459246635437,neutral,0.48297011852264404
+13,2015-12-16 07:20:00,"If that $10 billion dream sounds excessive, I understand your skepticism.",0.06558246910572052,0.17676982283592224,0.757647693157196,neutral,-0.11118735373020172
+14,2015-12-16 07:20:00,"After all, it took Microsoft Corp. (Nasdaq: MSFT) 20 years to reach $10 billion in sales - and Oracle Corp. (NYSE: ORCL) 23 years.",0.4927175045013428,0.015569991432130337,0.49171245098114014,positive,0.47714751958847046
+15,2015-12-16 07:20:00,"But in the next fiscal year alone, sales at Salesforce.com Inc. (Nasdaq: CRM) should hit $8 billion.",0.7211343050003052,0.019021285697817802,0.25984448194503784,positive,0.7021130323410034
+16,2015-12-16 07:20:00,"To me, with that kind of pioneering spirit, growth, and goals, CEO Marc Benioff's company will clearly be the best cloud-computing investment for 2016 and beyond.",0.8835434317588806,0.013102857396006584,0.10335372388362885,positive,0.8704406023025513
+17,2015-12-16 07:20:00,"To show you how this company has become so successful, let me set the scene.",0.22370344400405884,0.007484089583158493,0.7688124775886536,neutral,0.21621935069561005
+18,2015-12-16 07:20:00,"From the dawn of the personal computer until just a few years ago, corporations and other large organizations usually got their software through so-called ""seat licenses.""",0.02886994183063507,0.016611728817224503,0.9545183777809143,neutral,0.012258213013410568
+19,2015-12-16 07:20:00,"In other words, they rented the software they needed - accounting, procurement, document management, sales tools... all that.",0.03918423131108284,0.007091140374541283,0.9537246227264404,neutral,0.03209309279918671
+20,2015-12-16 07:20:00,"However, they still took physical delivery of shrink-wrapped software.",0.029661430045962334,0.01408692728728056,0.9562516808509827,neutral,0.015574502758681774
+21,2015-12-16 07:20:00,"That meant millions of CDs had to be burned, packaged, and shipped all over the world.",0.0698123425245285,0.1249702051281929,0.805217444896698,neutral,-0.0551578626036644
+22,2015-12-16 07:20:00,"It was a cumbersome and costly process that, in many ways, impeded innovation.",0.0398753397166729,0.8458895683288574,0.11423511058092117,negative,-0.8060142397880554
+23,2015-12-16 07:20:00,"Software updates, because they had to be made on disc and then shipped out, often took years.",0.04220016673207283,0.10743866115808487,0.850361168384552,neutral,-0.06523849070072174
+24,2015-12-16 07:20:00,"Today, because of the mission Benioff set out with back in 1999, every major company in the United States performs at least some of its operations through cloud-computing centers that deliver applications and data via the Internet.",0.05810727924108505,0.005043701734393835,0.9368489980697632,neutral,0.05306357890367508
+25,2015-12-16 07:20:00,"The entire cloud-computing field is massive - Market Research Media forecasts annual compound growth of 30% through 2020, when the cloud industry will be worth $270 billion.",0.750995934009552,0.012000638991594315,0.23700344562530518,positive,0.7389953136444092
+26,2015-12-16 07:20:00,"The Best Cloud Investment of 2016
+
+Salesforce.com specializes in an area known as customer-relationship management ( CRM ).",0.5224514603614807,0.009785319678485394,0.4677632749080658,positive,0.5126661658287048
+27,2015-12-16 07:20:00,It develops sophisticated software tools that help sales representatives - the lifeblood of so many industries - to manage every aspect of how they interact with clients.,0.09944477677345276,0.005374855361878872,0.895180344581604,neutral,0.09406992048025131
+28,2015-12-16 07:20:00,It creates software that makes salespeople's jobs easier and more effective - and it does so with tools they can access anywhere.,0.2190070003271103,0.007048471365123987,0.7739444971084595,neutral,0.21195852756500244
+29,2015-12-16 07:20:00,The company launched its first on-demand CRM service on a subscription basis in February 2000.,0.14275242388248444,0.005315604619681835,0.8519319891929626,neutral,0.13743682205677032
+30,2015-12-16 07:20:00,It has added multiple cloud products along the way.,0.3356997072696686,0.007206947077065706,0.657093346118927,neutral,0.32849276065826416
+31,2015-12-16 07:20:00,"Today, cloud subscriptions account for 93% of sales, and 88% of Salesforce clients surveyed said they would recommend doing business with the firm.",0.09306171536445618,0.010313203558325768,0.8966250419616699,neutral,0.08274850994348526
+32,2015-12-16 07:20:00,I already told you that I think Salesforce is the best cloud investment out there.,0.6818875670433044,0.011216027662158012,0.306896448135376,positive,0.6706715226173401
+33,2015-12-16 07:20:00,"To see why, let's run it through the five filters of Your Tech Wealth Blueprint.",0.03404800221323967,0.010470977984368801,0.9554809927940369,neutral,0.023577023297548294
+34,2015-12-16 07:20:00,Benioff started Liberty Software to publish video games at age 15.,0.0997903123497963,0.005941555369645357,0.8942681550979614,neutral,0.09384875744581223
+35,2015-12-16 07:20:00,"After that stint as a prodigy, he was a programmer at Apple Inc. (Nasdaq: AAPL) and then a senior executive at Oracle.",0.05965632200241089,0.038715165108442307,0.9016284942626953,neutral,0.020941156893968582
+36,2015-12-16 07:20:00,"He's written three books, including ""Behind the Cloud,"" the story of how he pioneered the cloud and about Salesforce.com's success.",0.06627973914146423,0.007961037568747997,0.9257592558860779,neutral,0.05831870064139366
+37,2015-12-16 07:20:00,Benioff co-chaired the President's Information Technology Advisory Committee from 2003 to 2005.,0.04929303377866745,0.011534317396581173,0.939172625541687,neutral,0.0377587154507637
+38,2015-12-16 07:20:00,"Last year, Fortune ranked Salesforce first in software among the ""world's most admired companies.""",0.8177836537361145,0.020724741742014885,0.16149160265922546,positive,0.7970589399337769
+39,2015-12-16 07:20:00,"And Forbes has listed the firm as one of the ""world's most innovative companies"" for four years in a row.",0.799810528755188,0.023725783452391624,0.17646370828151703,positive,0.7760847210884094
+40,2015-12-16 07:20:00,Rule No.,0.03315247595310211,0.014290963299572468,0.9525564908981323,neutral,0.01886151358485222
+41,2015-12-16 07:20:00,"2: Separate the Signal from the Noise
+
+Both Salesforce and its high-profile CEO generate a lot of ink.",0.013711315579712391,0.03528280183672905,0.9510058760643005,neutral,-0.021571487188339233
+42,2015-12-16 07:20:00,"However, it's far from just a hype machine.",0.0413023866713047,0.01313825510442257,0.9455593228340149,neutral,0.028164131566882133
+43,2015-12-16 07:20:00,"The company commands 18.5% of its market, putting it in first place.",0.5291486978530884,0.014360242523252964,0.456491082906723,positive,0.5147884488105774
+44,2015-12-16 07:20:00,"Not only that, but the firm has long been a catalyst for the whole move to the cloud.",0.2540600597858429,0.014167217537760735,0.7317727208137512,neutral,0.239892840385437
+45,2015-12-16 07:20:00,"Over the years, Salesforce has forced its rivals - Microsoft and Oracle, especially - to shift services to the cloud.",0.028227848932147026,0.8959888815879822,0.07578332722187042,negative,-0.8677610158920288
+46,2015-12-16 07:20:00,But Benioff has stayed ahead of them all along.,0.17866520583629608,0.058480601757764816,0.7628542184829712,neutral,0.12018460035324097
+47,2015-12-16 07:20:00,Salesforce says that 97% of its top 100 clients now use more than one cloud service.,0.06788941472768784,0.00792213436216116,0.9241884350776672,neutral,0.0599672794342041
+48,2015-12-16 07:20:00,That compares with 76% as recently as 2013.,0.568755567073822,0.11668561398983002,0.31455883383750916,positive,0.4520699381828308
+49,2015-12-16 07:20:00,"Moreover, just three years ago, 46% of its customers used more than one Salesforce cloud platform.",0.05745309218764305,0.009264946915209293,0.9332819581031799,neutral,0.04818814620375633
+50,2015-12-16 07:20:00,The ratio has since increased by 63%.,0.9389748573303223,0.015911497175693512,0.045113664120435715,positive,0.923063337802887
+51,2015-12-16 07:20:00,"Over the past six fiscal years, the company has seen sales to its top 100 customers grow at 34% a year.",0.934312105178833,0.01435489859431982,0.05133294314146042,positive,0.9199572205543518
+52,2015-12-16 07:20:00,Sales to this group now stand at $1.2 billion for cumulative six-year gains of 466%.,0.9407291412353516,0.01822437345981598,0.04104647412896156,positive,0.9225047826766968
+53,2015-12-16 07:20:00,"Over the past three years, Salesforce has grown sales by an average 31%.",0.9432808756828308,0.018895069137215614,0.03782403841614723,positive,0.9243857860565186
+54,2015-12-16 07:20:00,"At that rate, sales are doubling roughly every two-and-a-half years.",0.699487566947937,0.018017737194895744,0.2824946641921997,positive,0.6814698576927185
+55,2015-12-16 07:20:00,"Meanwhile, Salesforce is picking up new clients regularly.",0.47555434703826904,0.02124430611729622,0.5032013654708862,neutral,0.45431002974510193
+56,2015-12-16 07:20:00,That's because its CRM cloud services help other firms increase their own growth rates .,0.7830208539962769,0.012591234408318996,0.2043878585100174,positive,0.7704296112060547
+57,2015-12-16 07:20:00,"In the third quarter, Salesforce grew earnings by 50% from a year ago.",0.9573251008987427,0.024097250774502754,0.018577734008431435,positive,0.9332278370857239
+58,2015-12-16 07:20:00,And that was based on a tough comparison - the previous fiscal year's third quarter was itself up 56%.,0.6716098189353943,0.2733697295188904,0.055020444095134735,positive,0.3982400894165039
+59,2015-12-16 07:20:00,Rule No.,0.03315247595310211,0.014290963299572468,0.9525564908981323,neutral,0.01886151358485222
+60,2015-12-16 07:20:00,"5: Target Stocks That Can Double Your Money
+
+After going through the firm's financials in detail, I'm projecting earnings per share will grow over the next five years by an average 21%.",0.92317795753479,0.013907344080507755,0.06291470676660538,positive,0.9092705845832825
+61,2015-12-16 07:20:00,I got that figure by knocking 65% off its recent earnings growth to be extra conservative.,0.2627175748348236,0.06126479059457779,0.6760176420211792,neutral,0.20145279169082642
+62,2015-12-16 07:20:00,Now we use the Doubling Calculator.,0.041990894824266434,0.011953335255384445,0.9460557103157043,neutral,0.03003755956888199
+63,2015-12-16 07:20:00,Divide the compound growth rate of 21 into the number 72.,0.02923116646707058,0.008660833351314068,0.9621080160140991,neutral,0.020570334047079086
+64,2015-12-16 07:20:00,"That tells me, if you're looking for triple-digit gains, you'll only need to hold onto the Salesforce shares you pick up now for about 3.4 years.",0.20003856718540192,0.02291402406990528,0.7770473957061768,neutral,0.17712454497814178
+65,2015-12-16 07:20:00,"Trading around $78.00, Salesforce has a market cap of $51.8 billion.",0.04776240140199661,0.006134171038866043,0.9461033940315247,neutral,0.04162823036313057
+66,2015-12-16 07:20:00,"Over the past year, it has gained 44.9%, compared to the S&P 500's increase of just 4.37%.",0.9524549841880798,0.030357269570231438,0.017187783494591713,positive,0.9220977425575256
+67,2015-12-16 07:20:00,"That means CRM has beaten the broad market by 1,027%.",0.9000744223594666,0.06584660708904266,0.034078966826200485,positive,0.8342278003692627
+68,2015-12-16 07:20:00,"And the stock is down about 2.18% in the past five days, giving you an ""on sale"" entry point.",0.01843733713030815,0.9584066867828369,0.023155925795435905,negative,-0.9399693608283997
+69,2015-12-16 07:20:00,"While all those young techies toil away on the next Uber, this is a Silicon Valley ""secret origin"" story that's paid off for investors for a long time now.",0.5558255910873413,0.023632759228348732,0.4205416738986969,positive,0.5321928262710571
+70,2015-12-16 07:20:00,"And as I just showed you, that success story is nowhere near done.",0.0825585126876831,0.10355063527822495,0.813890814781189,neutral,-0.02099212259054184
+71,2015-12-16 07:20:00,This is a stock that can really put you on the road to wealth in 2016 - and many years beyond.,0.6523950695991516,0.012477760203182697,0.33512717485427856,positive,0.6399173140525818
+72,2015-12-16 07:20:00,Follow us on Twitter@moneymorning or like us onFacebook.,0.04883831739425659,0.04304042458534241,0.9081212878227234,neutral,0.005797892808914185
+73,2015-12-16 07:20:00,"Auto Tech Is the Next Unstoppable Trend:When you visit a dealership these days, you're shopping for technology as much as you are a new car.",0.0949459969997406,0.019214274361729622,0.8858397006988525,neutral,0.07573172450065613
+74,2015-12-16 07:20:00,"It's the driving force behind the recent car-buying trend, and this firm stands at the forefront.",0.23197992146015167,0.007134004030376673,0.7608861327171326,neutral,0.22484591603279114
+75,2015-12-16 07:20:00,"In fact, its connected-car technology is already in25 million vehicles on the road today...
+
+To get full access to all Money Morning content including our latest Premium Report, ""How to Make 2015 Your Wealthiest Year Ever,"" click here
+
+About Money Morning: Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience - for free .",0.19375891983509064,0.009538082405924797,0.796703040599823,neutral,0.1842208355665207
+76,2015-12-16 07:20:00,"Our experts - who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV - deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions.",0.058452632278203964,0.006186621263623238,0.9353607296943665,neutral,0.05226600915193558
+77,2015-12-16 07:20:00,"Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors.",0.6242830157279968,0.010888726450502872,0.3648282587528229,positive,0.6133942604064941
+78,2015-12-16 07:20:00,Disclaimer: © 2016 Money Morning and Money Map Press.,0.012991356663405895,0.01064804196357727,0.976360559463501,neutral,0.0023433146998286247
+79,2015-12-16 07:20:00,All Rights Reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+80,2015-12-16 07:20:00,Protected by copyright of the United States and international treaties.,0.013325045816600323,0.007348872721195221,0.9793261289596558,neutral,0.005976173095405102
+81,2015-12-16 07:20:00,"Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning.",0.013790002092719078,0.02009131759405136,0.9661187529563904,neutral,-0.006301315501332283
+82,2015-12-16 07:20:00,"16 W. Madison St. Baltimore, MD, 21201.",0.04034261777997017,0.013275643810629845,0.9463818073272705,neutral,0.027066973969340324
+83,2015-12-16 07:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

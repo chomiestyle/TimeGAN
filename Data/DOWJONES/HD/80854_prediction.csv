@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-03 09:43:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Home Depot Inc (Symbol: HD), where a total volume of 51,927 contracts has been traded thus far today, a contract volume which is representative of approximately 5.2 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04343942180275917,0.010726618580520153,0.9458339810371399,neutral,0.03271280229091644
+1,2019-09-03 09:43:00,"That number works out to 112.1% of HD's average daily trading volume over the past month, of 4.6 million shares.",0.7813632488250732,0.021815888583660126,0.19682089984416962,positive,0.7595473527908325
+2,2019-09-03 09:43:00,"Especially high volume was seen for the $200 strike call option expiring September 20, 2019, with 4,049 contracts trading so far today, representing approximately 404,900 underlying shares of HD.",0.24158558249473572,0.010998173616826534,0.7474161982536316,neutral,0.2305874079465866
+3,2019-09-03 09:43:00,"Below is a chart showing HD's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+Wynn Resorts Ltd (Symbol: WYNN) saw options trading volume of 24,537 contracts, representing approximately 2.5 million underlying shares or approximately 94.8% of WYNN's average daily trading volume over the past month, of 2.6 million shares.",0.020421426743268967,0.01257060095667839,0.9670080542564392,neutral,0.007850825786590576
+4,2019-09-03 09:43:00,"Particularly high volume was seen for the $125 strike call option expiring September 20, 2019, with 2,403 contracts trading so far today, representing approximately 240,300 underlying shares of WYNN.",0.1836029440164566,0.010625237599015236,0.8057717680931091,neutral,0.17297770082950592
+5,2019-09-03 09:43:00,"Below is a chart showing WYNN's trailing twelve month trading history, with the $125 strike highlighted in orange:
+
+And Lam Research Corp (Symbol: LRCX) saw options trading volume of 11,116 contracts, representing approximately 1.1 million underlying shares or approximately 70.7% of LRCX's average daily trading volume over the past month, of 1.6 million shares.",0.01999874971807003,0.013998898677527905,0.966002345085144,neutral,0.005999851040542126
+6,2019-09-03 09:43:00,"Particularly high volume was seen for the $190 strike put option expiring November 15, 2019, with 3,485 contracts trading so far today, representing approximately 348,500 underlying shares of LRCX.",0.23279663920402527,0.010418271645903587,0.7567850947380066,neutral,0.22237837314605713
+7,2019-09-03 09:43:00,"Below is a chart showing LRCX's trailing twelve month trading history, with the $190 strike highlighted in orange:
+
+For the various different available expirations for HD options, WYNN options, or LRCX options, visit StockOptionsChannel.com.",0.009754084050655365,0.022966166958212852,0.9672797918319702,neutral,-0.013212082907557487
+8,2019-09-03 09:43:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

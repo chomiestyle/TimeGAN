@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-24 04:00:00,"Investing legend Peter Lynch coined the phrase ""buy what you know.""",0.06697080284357071,0.025023676455020905,0.9080055356025696,neutral,0.041947126388549805
+1,2017-05-24 04:00:00,Purchasing stock in companies whose products you're very familiar with makes it far more likely you'll understand the business dynamics -- and whether they're headed in the right direction.,0.12853069603443146,0.009081986732780933,0.8623873591423035,neutral,0.1194487065076828
+2,2017-05-24 04:00:00,"The two companies in today's match-up -- PepsiCo (NYSE: PEP) and Kimberly-Clark (NYSE: KMB) -- are parent companies to some of the most ubiquitous brands in American households: Pepsi soda, Lay's chips, Kleenex, and Huggies diapers.",0.2268526256084442,0.00959280040115118,0.7635546326637268,neutral,0.21725982427597046
+3,2017-05-24 04:00:00,"But between these two dividend-paying stalwarts, which is the better buy at today's prices?",0.1982956826686859,0.08280132710933685,0.7189030051231384,neutral,0.11549435555934906
+4,2017-05-24 04:00:00,That's impossible to say with 100% accuracy.,0.040673933923244476,0.07079979032278061,0.888526201248169,neutral,-0.030125856399536133
+5,2017-05-24 04:00:00,But there are three different lenses through which we can view the question -- and hopefully get a better idea for what we're buying.,0.12233543395996094,0.007624524645507336,0.8700400590896606,neutral,0.11471091210842133
+6,2017-05-24 04:00:00,"If I could go back in time and talk to my newbie-investing-self, I'd have one simple message: Focus most of your time and energy on an investment's sustainable competitive advantages.",0.14263179898262024,0.007518807891756296,0.8498494625091553,neutral,0.13511298596858978
+7,2017-05-24 04:00:00,"Often referred to as a ""moat,"" this represents what makes a company different from the competition.",0.06751690059900284,0.03265321999788284,0.8998298645019531,neutral,0.034863680601119995
+8,2017-05-24 04:00:00,"Often, a strong moat will keep customers coming back year after year, while the competition is held at bay for decades.",0.6013638973236084,0.11313536763191223,0.2855006754398346,positive,0.48822852969169617
+9,2017-05-24 04:00:00,"For both of these companies, the biggest moat is the strength of their brands.",0.6209022402763367,0.015078218653798103,0.3640195429325104,positive,0.6058239936828613
+10,2017-05-24 04:00:00,Pepsi is parent company to more than just the eponymous soda.,0.06814461946487427,0.005343757104128599,0.9265115857124329,neutral,0.06280086189508438
+11,2017-05-24 04:00:00,"It's portfolio includes 22 billion-dollar brands, including Gatorade, Cheetos, Aquafina, Lipton teas, and Quaker Foods.",0.05092952772974968,0.004470085725188255,0.9446004033088684,neutral,0.046459443867206573
+12,2017-05-24 04:00:00,"Forbes recently ranked Pepsi as the 29th strongest brand in the world, worth $19.4 billion.",0.7209769487380981,0.025934942066669464,0.2530880272388458,positive,0.6950420141220093
+13,2017-05-24 04:00:00,"Kimberly-Clark operates on a smaller scale, but unlike Pepsi, it's tops in its category.",0.24474729597568512,0.035803958773612976,0.7194487452507019,neutral,0.20894333720207214
+14,2017-05-24 04:00:00,The Kleenex brand-name alone is ubiquitous for any facial tissue.,0.05376635119318962,0.01771666295826435,0.9285169839859009,neutral,0.03604968637228012
+15,2017-05-24 04:00:00,"And the Huggies division of the company is big business, bringing in -- along with other personal-care products -- over $9 billion in sales last year.",0.8888104557991028,0.013822270557284355,0.0973672941327095,positive,0.8749881982803345
+16,2017-05-24 04:00:00,"While both of these companies have very strong brands, Pepsi and Kimberly-Clark have heavy competition from Coca-Cola and Procter & Gamble , respectively.",0.6897724270820618,0.05302354320883751,0.2572040259838104,positive,0.6367489099502563
+17,2017-05-24 04:00:00,"In the end, I'm going to give the edge to Kimberly-Clark for one simple reason: Pepsi's core products are in the cross-hairs of the global movement toward healthier eating; Kimberly-Clark's aren't.",0.18256422877311707,0.007739453576505184,0.8096963763237,neutral,0.1748247742652893
+18,2017-05-24 04:00:00,One of the key benefits of owning these stocks is the dividend payout.,0.48606550693511963,0.009985743090510368,0.5039487481117249,neutral,0.4760797619819641
+19,2017-05-24 04:00:00,"But while many investors would probably love to see each company endlessly increase its payout, there's something to be said for keeping a healthy cash stash on hand.",0.8480087518692017,0.01705176569521427,0.13493943214416504,positive,0.8309569954872131
+20,2017-05-24 04:00:00,That's because every company at one point or another will face difficult economic times.,0.050669629126787186,0.02571096643805504,0.9236193895339966,neutral,0.024958662688732147
+21,2017-05-24 04:00:00,"Those that have cash on hand when these times hit have options: Buy back shares on the cheap, grab market share from rivals by outspending them, or even make acquisitions.",0.1435287892818451,0.0075194272212684155,0.8489517569541931,neutral,0.1360093653202057
+22,2017-05-24 04:00:00,Those that are debt-heavy are in the opposite boat -- forced to cede market share in an attempt to stay solvent.,0.03199688717722893,0.8491044044494629,0.11889868229627609,negative,-0.8171074986457825
+23,2017-05-24 04:00:00,"In effect, such crises are actually good for financially healthy companies.",0.5246689319610596,0.023810861632227898,0.4515202045440674,positive,0.5008580684661865
+24,2017-05-24 04:00:00,"Keeping in mind that Pepsi is over three times the size of Kimberly-Clark, here's how the two stack up.",0.039645906537771225,0.010084835812449455,0.9502692222595215,neutral,0.02956107072532177
+25,2017-05-24 04:00:00,"While free cash flow and net income are on par with each other, relative to size, Pepsi has by far a better balance sheet, and far less debt relative to its cash position.",0.7872015833854675,0.03843064233660698,0.17436780035495758,positive,0.7487709522247314
+26,2017-05-24 04:00:00,That makes the winner easy to determine.,0.16818079352378845,0.03340980410575867,0.7984094023704529,neutral,0.13477098941802979
+27,2017-05-24 04:00:00,"Finally, we have valuation.",0.22249005734920502,0.010374725796282291,0.7671352028846741,neutral,0.2121153324842453
+28,2017-05-24 04:00:00,"While we don't have a one-size-fits-all metric to compare any two companies, we can use multiple data points to make an informed analysis.",0.06491739302873611,0.006485195364803076,0.9285973906517029,neutral,0.0584321990609169
+29,2017-05-24 04:00:00,"Neither one of these companies is in ""screaming buy"" territory, and neither appears to be unreasonably expensive.",0.0565156564116478,0.061467453837394714,0.8820168972015381,neutral,-0.004951797425746918
+30,2017-05-24 04:00:00,"That said, I'm giving the edge here to Kimberly-Clark.",0.1563529074192047,0.011972762644290924,0.8316742777824402,neutral,0.14438015222549438
+31,2017-05-24 04:00:00,"It's slightly cheaper on an earnings and free cash flow basis, has a slightly higher yield, and is using less of its free cash flow to pay the dividend -- meaning there's even more room for growth.",0.5611476302146912,0.041023172438144684,0.3978292644023895,positive,0.5201244354248047
+32,2017-05-24 04:00:00,So there you have it: Kimberly-Clark comes out ahead.,0.30180004239082336,0.02983899787068367,0.6683609485626221,neutral,0.2719610333442688
+33,2017-05-24 04:00:00,"While Pepsi has a stronger balance sheet, Kimberly-Clark has a wider moat because its core business isn't under assault from new trends.",0.8308362364768982,0.016333041712641716,0.15283070504665375,positive,0.8145031929016113
+34,2017-05-24 04:00:00,And it appears to be valued at a cheaper price.,0.4874570667743683,0.015868600457906723,0.4966742694377899,neutral,0.47158846259117126
+35,2017-05-24 04:00:00,"Having said that, both of these companies represent investments worthy of your own due diligence if you're hunting for stalwarts that offer solid dividends.",0.5228274464607239,0.015043062157928944,0.46212950348854065,positive,0.507784366607666
+36,2017-05-24 04:00:00,"10 stocks we like better than Kimberly-Clark
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14658477902412415,0.024875367060303688,0.8285398483276367,neutral,0.1217094138264656
+37,2017-05-24 04:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+38,2017-05-24 04:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Kimberly-Clark wasn't one of them!",0.23921875655651093,0.01543810311704874,0.7453432083129883,neutral,0.22378064692020416
+39,2017-05-24 04:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+40,2017-05-24 04:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+41,2017-05-24 04:00:00,"*Stock Advisor returns as of May 1, 2017
+
+Brian Stoffel has no position in any stocks mentioned.",0.010290899313986301,0.03407961502671242,0.9556294679641724,neutral,-0.02378871664404869
+42,2017-05-24 04:00:00,The Motley Fool owns shares of and recommends PepsiCo.,0.03501904010772705,0.01754802279174328,0.9474329352378845,neutral,0.017471017315983772
+43,2017-05-24 04:00:00,The Motley Fool recommends Kimberly-Clark.,0.04444798082113266,0.03484507277607918,0.9207069277763367,neutral,0.009602908045053482
+44,2017-05-24 04:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2017-05-24 04:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

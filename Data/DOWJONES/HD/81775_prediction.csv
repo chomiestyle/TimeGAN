@@ -1,0 +1,29 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-12-23 22:36:00,"Fresh off its worst week in 10 years, there was no Santa Claus rally for the Dow on Christmas Eve.",0.1099712997674942,0.6485617756843567,0.24146687984466553,negative,-0.5385904908180237
+1,2018-12-23 22:36:00,"The blue-chip index breached the 22,000 level for the first time since September 2017 during today's abbreviated, low-volume session, while the S&P narrowly avoided a close in bear-market territory.",0.6257100105285645,0.32668793201446533,0.04760205000638962,positive,0.2990220785140991
+2,2018-12-23 22:36:00,"Amid fresh turmoil sparked by Treasury Secretary Steven Mnuchin's unprompted outreach to bank CEOs , President Donald Trump took to Twitter to continue his recent attacks on the Fed, saying: ""The Fed is like a powerful golfer who can't score because he has no touch - he can't putt!""",0.14341454207897186,0.5127009749412537,0.34388452768325806,negative,-0.3692864179611206
+3,2018-12-23 22:36:00,"Continue reading for more on today's market, including:
+• Another major warning for stocks from the transport sector, via CEO Bernie Schaeffer.",0.3580402135848999,0.464275062084198,0.17768476903438568,negative,-0.1062348484992981
+4,2018-12-23 22:36:00,"• Plus, Tesla extends its pullback; a Chinese stock to avoid; and an Amazon rival poised to climb.",0.7396677732467651,0.14651192724704742,0.11382027715444565,positive,0.5931558609008789
+5,2018-12-23 22:36:00,"The Dow Jones Industrial Average (DJI - 21,792.20) ended 653.2 points lower, or 2.9%, at a new annual low.",0.022334149107336998,0.9661862850189209,0.011479600332677364,negative,-0.9438521265983582
+6,2018-12-23 22:36:00,All 30 Dow components finished in the red.,0.0816606879234314,0.01834905706346035,0.8999903202056885,neutral,0.0633116289973259
+7,2018-12-23 22:36:00,Home Depot ( HD ) incurred the least damage with a 1.5% drop.,0.020086506381630898,0.9624472856521606,0.017466221004724503,negative,-0.9423607587814331
+8,2018-12-23 22:36:00,Nike ( NKE ) paced the laggards with a 5.9% fall.,0.019831134006381035,0.9643392562866211,0.015829626470804214,negative,-0.9445081353187561
+9,2018-12-23 22:36:00,"The S&P 500 Index (SPX - 2,351.10) shed 65.5 points, or 2.7%, to settle at its own new annual low.",0.021818194538354874,0.969068169593811,0.00911368615925312,negative,-0.9472499489784241
+10,2018-12-23 22:36:00,The S&P is down 19.8% from its Sept. 20 closing high.,0.020022181794047356,0.9694878458976746,0.010489972308278084,negative,-0.9494656920433044
+11,2018-12-23 22:36:00,"The Nasdaq Composite (IXIC - 6,192.92) dove 140.1 points, or 2.2%, and earlier touched a new annual low of 6,190.17.",0.033770184963941574,0.9547933340072632,0.011436482891440392,negative,-0.9210231304168701
+12,2018-12-23 22:36:00,"The Cboe Volatility Index (VIX - 36.07) ended the day up 5.9 points, or 19.8%, for its highest close since Feb. 5.",0.9406461715698242,0.029711542651057243,0.029642345383763313,positive,0.9109346270561218
+13,2018-12-23 22:36:00,• Customs data released earlier today showed China imported zero soybeans from the U.S. in November for the first time since the trade war between the two global superpowers started.,0.6045511960983276,0.22721967101097107,0.1682291328907013,positive,0.37733152508735657
+14,2018-12-23 22:36:00,"China, the world's largest soybean consumer, instead relied on Brazil for imports in November.",0.04804140329360962,0.5300577878952026,0.42190083861351013,negative,-0.482016384601593
+15,2018-12-23 22:36:00,"( Reuters )
+• In a small dose of good news, the Chicago Fed's index of national economic activity rose by 0.2% in November to 0.22.",0.9455341696739197,0.03145963326096535,0.02300620637834072,positive,0.9140745401382446
+16,2018-12-23 22:36:00,"However, the index's three-month moving average decreased to 0.06.",0.03766055032610893,0.9291300773620605,0.03320934623479843,negative,-0.8914695382118225
+17,2018-12-23 22:36:00,"( MarketWatch )
+• It could be a strong start to the New Year for this Amazon rival .",0.9293280839920044,0.015974273905158043,0.05469759553670883,positive,0.9133538007736206
+18,2018-12-23 22:36:00,There are no earnings to report.,0.008751300163567066,0.05518125742673874,0.9360674619674683,neutral,-0.04642995819449425
+19,2018-12-23 22:36:00,"Oil futures extended their recent losses today, falling alongside stocks in today's risk-off session.",0.022041156888008118,0.9661589860916138,0.01179986260831356,negative,-0.9441178441047668
+20,2018-12-23 22:36:00,"February-dated crude futures settled down $3.06, or 6.7%, at $42.53 per barrel.",0.024352213367819786,0.9630878567695618,0.012559906579554081,negative,-0.9387356638908386
+21,2018-12-23 22:36:00,"Gold futures, on the other hand, climbed.",0.864208459854126,0.05102169141173363,0.0847698226571083,positive,0.813186764717102
+22,2018-12-23 22:36:00,The safe-haven asset got a boost from a weaker dollar and spiraling U.S. stocks.,0.9252244830131531,0.03394737467169762,0.04082809388637543,positive,0.8912771344184875
+23,2018-12-23 22:36:00,"February-dated gold futures added $13.70, or 1.1%, to settle at $1,271.80 an ounce.",0.8561788201332092,0.07389584183692932,0.06992535293102264,positive,0.7822829484939575
+24,2018-12-23 22:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

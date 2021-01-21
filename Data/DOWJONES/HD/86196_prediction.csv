@@ -1,0 +1,40 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-15 00:20:00,"Toward the end of trading Tuesday, the Dow traded up 0.11 percent to 22,018.06 while the NASDAQ gained 0.02 percent to 6,341.55.",0.897829532623291,0.04732790216803551,0.05484265461564064,positive,0.8505016565322876
+1,2017-08-15 00:20:00,"The S&P also rose, gaining 0.08 percent to 2,467.89.",0.9355009198188782,0.029352448880672455,0.03514662757515907,positive,0.9061484932899475
+2,2017-08-15 00:20:00,"In trading on Tuesday, cyclical consumer goods & services shares fell by 0.61 percent.",0.01964128576219082,0.9720423817634583,0.008316372521221638,negative,-0.9524011015892029
+3,2017-08-15 00:20:00,"Meanwhile, top losers in the sector included Dicks Sporting Goods Inc (NYSE: DKS ), down 22 percent, and Advance Auto Parts, Inc. (NYSE: AAP ) down 20 percent.",0.018515290692448616,0.9596890211105347,0.02179560996592045,negative,-0.9411737322807312
+4,2017-08-15 00:20:00,Home Depot Inc (NYSE: HD ) reported better-than-expected earnings for its second quarter and raised its full-year guidance.,0.948094367980957,0.025907320901751518,0.025998380035161972,positive,0.9221870303153992
+5,2017-08-15 00:20:00,Home Depot earned $2.25 per share in the second quarter on revenue of $28.1 billion.,0.15326927602291107,0.03086744248867035,0.8158632516860962,neutral,0.12240183353424072
+6,2017-08-15 00:20:00,Analysts were expecting the company to earn $2.21 per share on revenue of $27.8 billion.,0.5816749334335327,0.020701231434941292,0.39762377738952637,positive,0.5609737038612366
+7,2017-08-15 00:20:00,Comparable store sales in the U.S. rose 6.6 percent while comp sales for the whole company rose 6.3 percent.,0.935192883014679,0.02149270288646221,0.04331446811556816,positive,0.9137001633644104
+8,2017-08-15 00:20:00,"Looking forward, the company expects full-year 2017 sales to rise 5.3 percent versus 2016 and for comp sales to be up around 5.5 percent.",0.9524522423744202,0.0185010377317667,0.029046695679426193,positive,0.933951199054718
+9,2017-08-15 00:20:00,"Extreme Networks, Inc (NASDAQ: EXTR ) shares shot up 11 percent to $10.32 after the company reported better-than-expected results for its fourth quarter and issued a strong forecast for the current quarter.",0.946760356426239,0.02466961182653904,0.028569992631673813,positive,0.9220907688140869
+10,2017-08-15 00:20:00,"Shares of Interpace Diagnostics Group Inc (NASDAQ: IDXG ) got a boost, shooting up 28 percent to $1.06.",0.9345598220825195,0.022640597075223923,0.042799610644578934,positive,0.9119192361831665
+11,2017-08-15 00:20:00,Maxim Group initiated coverage on Interpace Diagnostics Group with a Buy rating.,0.6775639653205872,0.012203289195895195,0.3102326989173889,positive,0.665360689163208
+12,2017-08-15 00:20:00,"Crossroads Systems Inc (NASDAQ: CRDS ) shares were also up, gaining 21 percent to $2.64 as the company disclosed that it has filed a Chapter 11 case and a prepackaged Chapter 11 plan of reorganization.",0.9383330345153809,0.024758532643318176,0.03690846636891365,positive,0.9135745167732239
+13,2017-08-15 00:20:00,The company also reported that CRDS Investment LLC will invest $4 million in return for a 49.49 percent ownership of the company.,0.32379329204559326,0.007629020139575005,0.6685776710510254,neutral,0.3161642849445343
+14,2017-08-15 00:20:00,"Advance Auto Parts, Inc. (NYSE: AAP ) shares dropped 20 percent to $87.31 after the company reported weaker-than-expected profit for its second quarter.",0.018918734043836594,0.9712426066398621,0.009838652797043324,negative,-0.952323853969574
+15,2017-08-15 00:20:00,Shares of Dicks Sporting Goods Inc (NYSE: DKS ) were down 22 percent to $27.25 after the company reported downbeat earnings for its second quarter and lowered its FY17 guidance.,0.017740074545145035,0.9682067036628723,0.014053167775273323,negative,-0.9504666328430176
+16,2017-08-15 00:20:00,Stifel Nicolaus downgraded Dick's Sporting from Buy to Hold.,0.028721293434500694,0.7031019330024719,0.26817670464515686,negative,-0.6743806600570679
+17,2017-08-15 00:20:00,"TearLab Corp (NASDAQ: TEAR ) was down, falling around 23 percent to $1.67.",0.01552949845790863,0.9592841267585754,0.025186343118548393,negative,-0.9437546133995056
+18,2017-08-15 00:20:00,TearLab reported a Q2 loss of $3.9 million.,0.01739257201552391,0.8319928646087646,0.15061457455158234,negative,-0.8146002888679504
+19,2017-08-15 00:20:00,"In commodity news, oil traded up 0.02 percent to $47.60 while gold traded down 1.02 percent to $1,277.20.",0.7349017858505249,0.15810072422027588,0.10699743777513504,positive,0.576801061630249
+20,2017-08-15 00:20:00,"Silver traded down 2.79 percent Tuesday to $16.645, while copper fell 0.77 percent to $2.882.",0.02580317109823227,0.9592670202255249,0.014929799363017082,negative,-0.9334638714790344
+21,2017-08-15 00:20:00,European shares closed higher today.,0.9395115375518799,0.02290993370115757,0.0375785306096077,positive,0.9166015982627869
+22,2017-08-15 00:20:00,"The eurozone's STOXX 600 gained 0.09 percent, the Spanish Ibex Index rose 0.19 percent, while Italy's FTSE MIB Index surged 1.72 percent.",0.8911441564559937,0.04306467995047569,0.06579114496707916,positive,0.84807950258255
+23,2017-08-15 00:20:00,"Meanwhile the German DAX climbed 0.10 percent, and the French CAC 40 gained 0.36 percent while U.K. shares rose 0.41 percent.",0.9146236777305603,0.034662630409002304,0.050713688135147095,positive,0.8799610733985901
+24,2017-08-15 00:20:00,"U.S. retail sales rose 0.6 percent for July, versus economists' expectations for a 0.4 percent growth.",0.9355552792549133,0.0368349514901638,0.027609746903181076,positive,0.8987203240394592
+25,2017-08-15 00:20:00,"The Empire State manufacturing index climbed to 25.20 in August, versus prior reading of 9.80.",0.9418301582336426,0.034076329320669174,0.024093518033623695,positive,0.9077538251876831
+26,2017-08-15 00:20:00,Economists were expecting a reading of 10.00.,0.18237560987472534,0.20378898084163666,0.6138354539871216,neutral,-0.021413370966911316
+27,2017-08-15 00:20:00,"U.S. import prices rose 0.10 percent for July, versus economists' estimates for a 0.10 percent gain.",0.9320219159126282,0.03687552362680435,0.031102590262889862,positive,0.895146369934082
+28,2017-08-15 00:20:00,"U.S. business inventories gained 0.5 percent for June, beating economists' expectations for a 0.4 percent growth.",0.9374844431877136,0.03380168601870537,0.028713878244161606,positive,0.9036827683448792
+29,2017-08-15 00:20:00,"The NAHB housing market index rose to 68.00 in August, versus previous reading of 64.00.",0.9487640261650085,0.029473628848791122,0.021762335672974586,positive,0.9192904233932495
+30,2017-08-15 00:20:00,Economists projected a reading of 65.00.,0.1479261964559555,0.13093014061450958,0.7211436629295349,neutral,0.016996055841445923
+31,2017-08-15 00:20:00,© 2017 Benzinga.com.,0.024346332997083664,0.011830107308924198,0.9638234972953796,neutral,0.012516225688159466
+32,2017-08-15 00:20:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+33,2017-08-15 00:20:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+34,2017-08-15 00:20:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+35,2017-08-15 00:20:00,Gain access to a streaming platform with all the information you need to invest better today.,0.733318030834198,0.01428876630961895,0.2523931562900543,positive,0.7190292477607727
+36,2017-08-15 00:20:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296511463820934,0.01562010683119297,0.9740833640098572,neutral,-0.005323595367372036

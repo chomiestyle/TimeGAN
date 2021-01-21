@@ -1,0 +1,75 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-06-18 07:22:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-06-18 07:22:00,"Today's Research Daily features new research reports on 16 major stocks, including Microsoft (MSFT), Home Depot (HD) and Verizon (VZ).",0.04244844987988472,0.008855896070599556,0.9486956596374512,neutral,0.033592551946640015
+2,2018-06-18 07:22:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-06-18 07:22:00,"You can see all of today's research reports here >>>
+
+Microsoft 's shares have outperformed the Zacks Technology sector over the last year (up +41.3% versus +19.7%) Microsoft's solid Azure growth and strong adoption of Office 365 is a key catalyst in the near future.",0.9546289443969727,0.020612547174096107,0.024758508428931236,positive,0.9340164065361023
+4,2018-06-18 07:22:00,The company's unique position as a hybrid cloud solution provider is expected to drive server products and cloud services revenues.,0.8971968293190002,0.012254223227500916,0.09054897725582123,positive,0.8849425911903381
+5,2018-06-18 07:22:00,The company's strategic growth investments in cloud business and AI as well as stable PC market are positives.,0.923095703125,0.01417518500238657,0.06272907555103302,positive,0.9089205265045166
+6,2018-06-18 07:22:00,The Zacks analyst thinks Microsoft's strategic initiatives to enter the AR and VR market will be positives.,0.9080299735069275,0.013769113458693027,0.0782008171081543,positive,0.8942608833312988
+7,2018-06-18 07:22:00,"Further, LinkedIn's acquisition should help Microsoft to explore opportunities in its business software market and also strengthen its position in professional social media market.",0.9487566351890564,0.015618366189301014,0.035624969750642776,positive,0.9331382513046265
+8,2018-06-18 07:22:00,"However, Google's increasing foothold with its Android OS emerging and increasing customer addition for drives poses a serious threat to Microsoft.",0.07240520417690277,0.8877847790718079,0.03981001302599907,negative,-0.8153795599937439
+9,2018-06-18 07:22:00,"Also, Alphabet's lower-priced Chromebook and its dominant position in the Education Tech market add to its woes.",0.027033019810914993,0.9385769963264465,0.03438999876379967,negative,-0.9115439653396606
+10,2018-06-18 07:22:00,(You can read the full research report on Microsoft here >>> ).,0.015005932189524174,0.014952526427805424,0.9700415730476379,neutral,5.340576171875e-05
+11,2018-06-18 07:22:00,"Shares of Home Depot have gained +26.2% over the last year, outperforming the Zacks Retail Building Products industry's +22.3% increase.",0.9560997486114502,0.02666163630783558,0.017238687723875046,positive,0.9294381141662598
+12,2018-06-18 07:22:00,"The Zacks analyst thinks that this performance is attributed to its five-year long trend of beating earnings estimates, which continued in first-quarter fiscal 2018.",0.9022399187088013,0.036371659487485886,0.06138836219906807,positive,0.8658682703971863
+13,2018-06-18 07:22:00,Both the top and bottom line improved year over year in the first quarter.,0.9505194425582886,0.01895916275680065,0.030521336942911148,positive,0.9315602779388428
+14,2018-06-18 07:22:00,"Results gained from strength in core business as well as relentless focus on affording innovative products, boosting interconnected customer experience and driving productivity.",0.9371642470359802,0.014141994528472424,0.04869364947080612,positive,0.9230222702026367
+15,2018-06-18 07:22:00,Steady housing market recovery and strong customer demand also remain tailwinds.,0.5508856773376465,0.26062843203544617,0.18848590552806854,positive,0.2902572453022003
+16,2018-06-18 07:22:00,"Going into the fiscal second quarter, the company continues to witness strength in all lines of business in the first few weeks of May.",0.9497118592262268,0.017974695190787315,0.03231343999505043,positive,0.9317371845245361
+17,2018-06-18 07:22:00,"Consequently, it provided an optimistic view for fiscal 2018.",0.7959024906158447,0.02047986164689064,0.1836176961660385,positive,0.7754226326942444
+18,2018-06-18 07:22:00,"However, top line lagged estimates mainly due to colder-than-normal weather that led to softness in the spring season categories, particularly garden.",0.04058749973773956,0.9379122853279114,0.021500179544091225,negative,-0.897324800491333
+19,2018-06-18 07:22:00,This softness also resulted in a decline in comparable transactions.,0.04782455787062645,0.9278411269187927,0.024334296584129333,negative,-0.880016565322876
+20,2018-06-18 07:22:00,(You can read the full research report on Home Depot here >>> ).,0.012610534206032753,0.013505421578884125,0.973884105682373,neutral,-0.0008948873728513718
+21,2018-06-18 07:22:00,"Verizon 's shares have declined -0.6% over the last three months, outperforming the Zacks Wireless National industry's loss of -3.8% during the same period.",0.01807742938399315,0.9713059663772583,0.010616617277264595,negative,-0.9532285332679749
+22,2018-06-18 07:22:00,The Zacks analyst thinks Verizon's unlimited data plans have heated up the wireless industry and helped it gain additional postpaid customers.,0.9433157444000244,0.016555454581975937,0.04012887924909592,positive,0.9267603158950806
+23,2018-06-18 07:22:00,"The company's plan to launch 5G wireless broadband services in selected U.S. cities in 2018, in order to boost its market presence, remains well on track.",0.9272696375846863,0.014561561867594719,0.05816884711384773,positive,0.9127081036567688
+24,2018-06-18 07:22:00,Verizon expects growth in 2018 on the back of the expected savings from tax reform.,0.9411647319793701,0.015304330736398697,0.0435308963060379,positive,0.9258604049682617
+25,2018-06-18 07:22:00,"However, Verizon continues to struggle in a highly competitive and saturated wireless market.",0.06856254488229752,0.8275924921035767,0.10384493321180344,negative,-0.7590299248695374
+26,2018-06-18 07:22:00,"Losses in wireline access lines, higher marketing costs of promotional plans and competitive video market remain major impediments.",0.017080558463931084,0.9598684310913086,0.023050948977470398,negative,-0.9427878856658936
+27,2018-06-18 07:22:00,Verizon's wireline division is struggling with persistent losses in access lines owing to competitive pressure from VoIP service providers and aggressive triple-play offerings by cable companies.,0.021435383707284927,0.9644626975059509,0.014101939275860786,negative,-0.9430273175239563
+28,2018-06-18 07:22:00,All these are likely to weigh on the company's revenues and margins.,0.02379789762198925,0.12694983184337616,0.8492522239685059,neutral,-0.10315193235874176
+29,2018-06-18 07:22:00,(You can read the full research report on Verizon here >>> ).,0.013168459758162498,0.014029273763298988,0.9728022217750549,neutral,-0.0008608140051364899
+30,2018-06-18 07:22:00,"Other noteworthy reports we are featuring today include Adobe (ADBE), Devon Energy (DVN) and PPG Industries (PPG).",0.02704080380499363,0.005515684373676777,0.9674435257911682,neutral,0.021525118499994278
+31,2018-06-18 07:22:00,"It's hard to believe, even for us at Zacks.",0.08736173063516617,0.254048228263855,0.6585900187492371,neutral,-0.1666865050792694
+32,2018-06-18 07:22:00,"But while the market gained +21.9% in 2017, our top stock-picking screens have returned +115.0%, +109.3%, +104.9%, +98.6%, and +67.1%.",0.5075593590736389,0.04700726270675659,0.4454334080219269,positive,0.4605520963668823
+33,2018-06-18 07:22:00,And this outperformance has not just been a recent phenomenon.,0.07535909861326218,0.015217346139252186,0.9094235301017761,neutral,0.060141753405332565
+34,2018-06-18 07:22:00,Over the years it has been remarkably consistent.,0.6927107572555542,0.013971779495477676,0.29331743717193604,positive,0.6787389516830444
+35,2018-06-18 07:22:00,"From 2000 - 2017, the composite yearly average gain for these strategies has beaten the market more than 19X over.",0.7464389204978943,0.10755439102649689,0.14600670337677002,positive,0.6388845443725586
+36,2018-06-18 07:22:00,Maybe even more remarkable is the fact that we're willing to share their latest stocks with you without cost or obligation.,0.5744941830635071,0.01052891369909048,0.41497692465782166,positive,0.5639652609825134
+37,2018-06-18 07:22:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+38,2018-06-18 07:22:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trends and Earnings Preview reports.,0.023997269570827484,0.008975164964795113,0.9670275449752808,neutral,0.015022104606032372
+39,2018-06-18 07:22:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+With Adobe delivering strong Q2 results, the Zacks is positive about the company's strong creative cloud business.",0.9273988008499146,0.018995443359017372,0.05360564962029457,positive,0.9084033370018005
+40,2018-06-18 07:22:00,"However, lower end-market demand and exposure to Europe remain overhangs.",0.07882294058799744,0.5279042720794678,0.3932727575302124,negative,-0.44908133149147034
+41,2018-06-18 07:22:00,Per the Zacks analyst RenaissanceRe revenue is driven by premium growth in both its Casualty and Specialty plus Property segments.,0.914985179901123,0.012573429383337498,0.07244137674570084,positive,0.9024117588996887
+42,2018-06-18 07:22:00,Strong capital position enables business investment.,0.6461941599845886,0.010468509048223495,0.3433372676372528,positive,0.6357256770133972
+43,2018-06-18 07:22:00,"Per the Zacks analyst, widening its footprint by opening new stores and rollout of e-commerce engine for professional customers aid Advance Auto Parts.",0.9439836740493774,0.018067477270960808,0.037948790937662125,positive,0.9259161949157715
+44,2018-06-18 07:22:00,But huge capital expenditure is a headwind.,0.02767794579267502,0.8538129329681396,0.1185092106461525,negative,-0.826134979724884
+45,2018-06-18 07:22:00,"Per Zacks analyst, AutoZone is raising sales through increased focus on core businesses and store openings.",0.9433354735374451,0.01505864504724741,0.041605837643146515,positive,0.9282768368721008
+46,2018-06-18 07:22:00,"Per the Zacks analyst, Dollar Tree has long been recording positive comps, which is likely to grow low-single-digit in fiscal 2018.",0.9192081689834595,0.042406901717185974,0.038385044783353806,positive,0.8768012523651123
+47,2018-06-18 07:22:00,"Soft Margins a Woe for Campbell (CPB), Savings Plan to Help
+
+Per the Zacks analyst, cost inflation, increased promotions and supply chain hurdles will continue to weigh on Campbell's margins.",0.04645803943276405,0.9212554693222046,0.032286386936903,negative,-0.8747974038124084
+48,2018-06-18 07:22:00,"Per the Zacks analyst, Box's increasing number of paid customers continues to aid its adoption rate and top-line growth.",0.9444960951805115,0.014704618602991104,0.040799327194690704,positive,0.9297914505004883
+49,2018-06-18 07:22:00,Per the Zacks analyst increased domestic oil production will continue to boost Devon Energy's growth.,0.9506534934043884,0.01831936649978161,0.03102710470557213,positive,0.9323341250419617
+50,2018-06-18 07:22:00,"Also, ongoing investments in higher-margin U.S. oil production regions will boost its results.",0.9558386206626892,0.01934215985238552,0.024819273501634598,positive,0.9364964365959167
+51,2018-06-18 07:22:00,"Per the Zacks analyst, Apache's sharp focus on Alpine High Play along with its ambitious plans to enrich the region's midstream prowess are expected to generate top-tier returns for the company.",0.9459585547447205,0.015387388877570629,0.038654059171676636,positive,0.9305711388587952
+52,2018-06-18 07:22:00,"Lamar (LAMR) to Grow on Portfolio Upgradation and Expansion
+
+Per the Zacks analyst, Lamar's efforts to upgrade its portfolio will raise display occupancy and advertising rates.",0.9485449194908142,0.01643085852265358,0.03502416983246803,positive,0.9321140646934509
+53,2018-06-18 07:22:00,Strategic buyouts will also aid the company's long-term growth.,0.9291847944259644,0.013654523529112339,0.057160694152116776,positive,0.915530264377594
+54,2018-06-18 07:22:00,"Per the Zacks analyst, recent interest rate hikes may hinder Aqua America's ability to raise funds at a favorable rate.",0.044285207986831665,0.8942009210586548,0.06151381880044937,negative,-0.8499157428741455
+55,2018-06-18 07:22:00,"Also, severe weather conditions have increased its operating expenses lately.",0.042162589728832245,0.9362068176269531,0.02163049764931202,negative,-0.8940442204475403
+56,2018-06-18 07:22:00,The Zacks analyst is worried about PPG Industries' exposure to raw materials cost pressure.,0.03174176439642906,0.6491857171058655,0.31907251477241516,negative,-0.6174439787864685
+57,2018-06-18 07:22:00,"Raw material inflation is expected to continue through Q2, which may affect its margins.",0.026233820244669914,0.8841941356658936,0.08957205712795258,negative,-0.8579603433609009
+58,2018-06-18 07:22:00,"Per the Zacks analyst, Energizer has been grappling with waning margins since the last few quarters.",0.02390630729496479,0.9611456394195557,0.014948034659028053,negative,-0.9372393488883972
+59,2018-06-18 07:22:00,The trimmed fiscal 2018 gross margin guidance add to its woes.,0.02678290195763111,0.9587618112564087,0.014455280266702175,negative,-0.9319788813591003
+60,2018-06-18 07:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+61,2018-06-18 07:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+62,2018-06-18 07:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+63,2018-06-18 07:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

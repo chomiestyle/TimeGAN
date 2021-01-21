@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-16 06:43:00,Oracle Corporation (NYSE: ORCL ) announced its fiscal first-quarter earnings on Sept. 15 and immediately threw them into the spin cycle.,0.16554290056228638,0.04691087454557419,0.7875461578369141,neutral,0.11863202601671219
+1,2016-09-16 06:43:00,"ORCL stock is off a few percent this morning, but you'd never understand why through the company's eyes.",0.06338990479707718,0.7962283492088318,0.14038178324699402,negative,-0.7328384518623352
+2,2016-09-16 06:43:00,"According to its earnings release, GAAP revenues from Software as a Service (SaaS) and Platform as a Service (PaaS) were up a whopping 77% year-over-year, and Oracle's cloud is booming.",0.9557583332061768,0.019504815340042114,0.024736816063523293,positive,0.936253547668457
+3,2016-09-16 06:43:00,The Wall Street Journal even bought this line of malarkey .,0.15318813920021057,0.03501236438751221,0.8117994666099548,neutral,0.11817577481269836
+4,2016-09-16 06:43:00,"Then again, they like Donald Trump, too.",0.07896031439304352,0.019808903336524963,0.9012307524681091,neutral,0.059151411056518555
+5,2016-09-16 06:43:00,"In reality, the earnings were a swing and a miss.",0.05208985507488251,0.09591079503297806,0.8519992828369141,neutral,-0.04382093995809555
+6,2016-09-16 06:43:00,"Revenues of $8.6 billion were $100 million short of analyst expectations, and earnings of 55 cents per share were 3 cents short.",0.016902022063732147,0.9637065529823303,0.019391385838389397,negative,-0.9468045234680176
+7,2016-09-16 06:43:00,"This is business as usual at Oracle, although stock buyers (for once) weren't buying it.",0.045149847865104675,0.08624540269374847,0.8686047792434692,neutral,-0.0410955548286438
+8,2016-09-16 06:43:00,"For much of this decade, Oracle dismissed the cloud revolution and has since been playing catch-up, hoping its lock-in of big customer accounts with database applications would give it enough time to deliver what the market wanted.",0.7069870829582214,0.01718354970216751,0.2758293151855469,positive,0.6898035407066345
+9,2016-09-16 06:43:00,"• The Top 10 S&P 500 Dividend Stocks to Buy Now
+
+The key decision was the purchase of Sun Microsystems , announced in April 2009.",0.15534143149852753,0.00934534426778555,0.8353132009506226,neutral,0.14599609375
+10,2016-09-16 06:43:00,"Sun was a hardware company whose client-server systems ""powered the internet"" back in the day.",0.057614900171756744,0.012754331342875957,0.9296308159828186,neutral,0.04486056789755821
+11,2016-09-16 06:43:00,"Under its final CEO, Jonathan Schwartz, it had also become a powerful presence in open source, with Java, Open Office and MySQL among its crown jewels.",0.8523480892181396,0.01421558577567339,0.1334363967180252,positive,0.8381325006484985
+12,2016-09-16 06:43:00,"ORCL sought to make Sun's open source proprietary, and ignored what Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ) and Amazon.com, Inc. (NASDAQ: AMZN ) were doing with virtualization, distributed computing and commodity hardware - the cloud revolution that drove costs to the floor and made Sun data centers obsolete.",0.054217904806137085,0.19204352796077728,0.753738522529602,neutral,-0.1378256231546402
+13,2016-09-16 06:43:00,"While Oracle won some pyrrhic victories in court - notably against Google's Java Virtual Machine implementation in Android - it lost big in the court of public opinion, which began noticing founder Larry Ellison's conspicuous refusal to show his age (he is 71) and his stunning resemblance to the Guy Fawkes masks worn by members of the hacking group Anonymous.",0.38272157311439514,0.42211878299713135,0.19515959918498993,negative,-0.039397209882736206
+14,2016-09-16 06:43:00,"The response, under co-CEO Mark Hurd - formerly CEO of HP Inc (NYSE: HPQ ) - was to create an ""Oracle Cloud"" based on proprietary hardware and software, which I and others called ""faux cloud.""",0.05233841389417648,0.018455004319548607,0.9292066097259521,neutral,0.03388340771198273
+15,2016-09-16 06:43:00,"For many years, this worked due to ""lock-in,"" the extremely high cost of moving enterprise applications from Oracle onto lower-priced systems.",0.12440961599349976,0.026724867522716522,0.8488655090332031,neutral,0.09768474847078323
+16,2016-09-16 06:43:00,"One result was an on-again, off-again relationship with Salesforce.com Inc. (NYSE: CRM ) CEO Marc Benioff.",0.17382654547691345,0.022505585104227066,0.8036678433418274,neutral,0.15132096409797668
+17,2016-09-16 06:43:00,"Salesforce was built with Oracle database technology, but Benioff was determined to break away from that dependence.",0.284332811832428,0.02450658567249775,0.6911606192588806,neutral,0.2598262131214142
+18,2016-09-16 06:43:00,The two companies announced an alliance in 2013.,0.8030905723571777,0.015290011651813984,0.18161942064762115,positive,0.7878005504608154
+19,2016-09-16 06:43:00,Then Salesforce announced an alliance with Microsoft Corporation (NASDAQ: MSFT ) and its Azure cloud in 2014.,0.7879838347434998,0.010776379145681858,0.20123977959156036,positive,0.7772074341773987
+20,2016-09-16 06:43:00,"This year, Salesforce began calling Amazon Web Services its ""preferred public cloud infrastructure provider.""",0.7456275820732117,0.01399859506636858,0.24037376046180725,positive,0.7316290140151978
+21,2016-09-16 06:43:00,Oracle revenues peaked in fiscal 2014.,0.7322759628295898,0.02699156664311886,0.2407323718070984,positive,0.7052844166755676
+22,2016-09-16 06:43:00,So did net income.,0.021717745810747147,0.021254854276776314,0.9570273756980896,neutral,0.0004628915339708328
+23,2016-09-16 06:43:00,"Oracle began calling its platform a cloud and gradually moved toward delivering standard Infrastructure, Platform and Software services, using the same language as pure-play cloud companies.",0.21308688819408417,0.006404992658644915,0.7805081605911255,neutral,0.20668189227581024
+24,2016-09-16 06:43:00,"Oracle's message to customers has been like Trump's message to Republicans: They have no choice - they're invested in Oracle systems and they have to use its road map, regardless of the cost.",0.18038947880268097,0.03132181242108345,0.7882887125015259,neutral,0.14906767010688782
+25,2016-09-16 06:43:00,"Ellison predicted as recently as June that Oracle will be the first to hit $10 billion in revenue from SaaS and PaaS, beating Salesforce.com to that revenue level.",0.9081927537918091,0.02396843582391739,0.06783878058195114,positive,0.8842242956161499
+26,2016-09-16 06:43:00,"Trouble for ORCL stock holders is, even $10 billion is barely 25% of Oracle's total revenue.",0.020650984719395638,0.7112707495689392,0.2680782675743103,negative,-0.6906197667121887
+27,2016-09-16 06:43:00,"The rest of it comes from proprietary databases, hardware and services that are increasingly obsolete.",0.010774527676403522,0.05988023057579994,0.9293451905250549,neutral,-0.049105703830718994
+28,2016-09-16 06:43:00,"As with Donald Trump, for Oracle lovers, it doesn't matter.",0.018732523545622826,0.019968613982200623,0.9612988233566284,neutral,-0.001236090436577797
+29,2016-09-16 06:43:00,"Companies with ""yuuge"" information technology budgets have stayed with Oracle throughout this period, and are unlikely to abandon ship now.",0.07223931699991226,0.034447841346263885,0.8933128714561462,neutral,0.037791475653648376
+30,2016-09-16 06:43:00,"I fully expect nastygrams from Oracle, in reaction to this article, saying I have the story all wrong, even though I've covered it for a decade.",0.06090623140335083,0.6218178868293762,0.31727591156959534,negative,-0.5609116554260254
+31,2016-09-16 06:43:00,"• Apple Inc. (AAPL) Sales Are Skewing Toward the iPhone 7 Plus
+
+The question for investors: Will this mean growth, and earnings, and victory for Oracle's ""cloud vision"" in the marketplace?",0.5859490036964417,0.08188474923372269,0.3321661949157715,positive,0.5040642619132996
+32,2016-09-16 06:43:00,The signs from the latest earnings release point to no.,0.22041122615337372,0.33928585052490234,0.44030290842056274,neutral,-0.11887462437152863
+33,2016-09-16 06:43:00,"But Trump might win, too.",0.3980575203895569,0.06193533167243004,0.5400071740150452,neutral,0.33612218499183655
+34,2016-09-16 06:43:00,"Dana Blankenhornis a financial journalist who dabbles in fiction, his latest beingThe Reluctant Detective Travels in Time .",0.09491704404354095,0.06857886910438538,0.8365040421485901,neutral,0.02633817493915558
+35,2016-09-16 06:43:00,Write him at danablankenhorn@gmail.comor follow him on Twitter at @danablankenhorn .,0.04530028998851776,0.049376752227544785,0.9053230285644531,neutral,-0.004076462239027023
+36,2016-09-16 06:43:00,"As of this writing, he was long AMZN, GOOGL and MSFT.",0.02011878602206707,0.02035633847117424,0.9595248699188232,neutral,-0.0002375524491071701
+37,2016-09-16 06:43:00,"• The 10 Best ETFs on the Planet
+
+The post Why Oracle Corporation Is the Donald Trump of Tech (ORCL) appeared first on InvestorPlace .",0.27727484703063965,0.02925862744450569,0.6934665441513062,neutral,0.24801622331142426
+38,2016-09-16 06:43:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

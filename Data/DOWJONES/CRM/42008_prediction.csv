@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-03 06:11:00,"In early trading on Thursday, shares of American Express topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.9%.",0.9399174451828003,0.030293315649032593,0.029789209365844727,positive,0.9096240997314453
+1,2020-09-03 06:11:00,"Year to date, American Express has lost about 12.9% of its value.",0.01724373735487461,0.9408524036407471,0.04190381243824959,negative,-0.923608660697937
+2,2020-09-03 06:11:00,"And the worst performing Dow component thus far on the day is Apple, trading down 3.0%.",0.021214010193943977,0.9645717144012451,0.014214358292520046,negative,-0.9433577060699463
+3,2020-09-03 06:11:00,Apple is showing a gain of 73.7% looking at the year to date performance.,0.9500673413276672,0.01955951191484928,0.030373256653547287,positive,0.9305078387260437
+4,2020-09-03 06:11:00,"Two other components making moves today are Salesforce.com, trading down 2.9%, and JPMorgan Chase, trading up 2.7% on the day.",0.0258786678314209,0.9446893334388733,0.02943200059235096,negative,-0.9188106656074524

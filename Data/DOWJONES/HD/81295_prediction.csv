@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-15 07:29:00,"In early trading on Friday, shares of Intel Corp ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.0%.",0.9371745586395264,0.03262396156787872,0.03020143136382103,positive,0.9045506119728088
+1,2019-03-15 07:29:00,"Year to date, Intel Corp registers a 16.2% gain.",0.9459600448608398,0.020376909524202347,0.03366302698850632,positive,0.9255831241607666
+2,2019-03-15 07:29:00,"And the worst performing Dow component thus far on the day is Boeing ( BA ), trading down 1.0%.",0.021701976656913757,0.9654360413551331,0.012862006202340126,negative,-0.9437340497970581
+3,2019-03-15 07:29:00,Boeing is showing a gain of 14.6% looking at the year to date performance.,0.9541028738021851,0.021196739748120308,0.02470039762556553,positive,0.9329061508178711
+4,2019-03-15 07:29:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.6%, and Cisco Systems ( CSCO ), trading up 1.2% on the day.",0.02809489518404007,0.9429661631584167,0.028938909992575645,negative,-0.9148712754249573
+5,2019-03-15 07:29:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

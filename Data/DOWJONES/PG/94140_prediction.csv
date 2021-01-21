@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-09-30 01:20:00,"""The stock market started the day down quite a bit after a combination of political turmoil in Italy and here in the United States sent investors fleeing,"" said Schaeffer's Senior Equity Analyst Joe Bell, CMT.",0.039844609797000885,0.9387901425361633,0.02136523462831974,negative,-0.8989455103874207
+1,2013-09-30 01:20:00,"""There were several resignations within the Italian government today, and the U.S. government is fast approaching a shutdown deadline tonight.",0.02946281246840954,0.927763044834137,0.04277411475777626,negative,-0.8983002305030823
+2,2013-09-30 01:20:00,"With a lot of uncertainty on the horizon, it's not a surprise that participants looked to take some of their bets off the table.""",0.13954542577266693,0.7156805992126465,0.1447739154100418,negative,-0.5761351585388184
+3,2013-09-30 01:20:00,"Against this backdrop, the Dow Jones Industrial Average (DJI) suffered a triple-digit decline.",0.03171264007687569,0.956451416015625,0.011835984885692596,negative,-0.9247387647628784
+4,2013-09-30 01:20:00,"Continue reading for more on today's market, including :
+• In case you missed it: Our founder and CEO, Bernie Schaeffer, explained the ins and outs of the ""buy straddle"" strategy .",0.049748893827199936,0.00812818855047226,0.9421229362487793,neutral,0.041620705276727676
+5,2013-09-30 01:20:00,• A group of options players wagered on extended gains for General Electric ( GE ) by week's end.,0.9116327166557312,0.031160006299614906,0.05720731243491173,positive,0.880472719669342
+6,2013-09-30 01:20:00,"• Bullish traders pounced on this solar energy concern , and scooped up longer-term calls.",0.6813516616821289,0.057067207992076874,0.261581152677536,positive,0.6242844462394714
+7,2013-09-30 01:20:00,"The Senate rejected the House's proposed budget bill, the Chicago purchasing managers index (PMI) advanced in September, and Cisco Systems ( CSCO ) saw a rise in longer-term call volume.",0.8812127709388733,0.05172562971711159,0.06706162542104721,positive,0.829487144947052
+8,2013-09-30 01:20:00,"The Dow Jones Industrial Average (DJI - 15,129.67) plummeted right out of the gate, sinking to a session low of 15,086.71 within the first five minutes of trading.",0.024587182328104973,0.9532768130302429,0.022136062383651733,negative,-0.9286896586418152
+9,2013-09-30 01:20:00,"By the close, the index was down 128.6 points, or 0.8%.",0.020475536584854126,0.9669243097305298,0.012600129470229149,negative,-0.946448802947998
+10,2013-09-30 01:20:00,"For the quarter, however, the blue-chip bellwether gained 1.5%.",0.9304115176200867,0.0424230694770813,0.02716539427638054,positive,0.8879884481430054
+11,2013-09-30 01:20:00,"Cisco Systems ( CSCO ) led the two advancers with a gain of 0.4%, while Procter & Gamble ( PG ) paced the Dow's 28 laggards with a decline of 2.1%.",0.6635486483573914,0.3035176396369934,0.03293367102742195,positive,0.36003100872039795
+12,2013-09-30 01:20:00,"The S&P 500 Index (SPX - 1,681.55) followed a similar path, touching an intraday low of 1,674.99 in early trading, as well, and was off 10.2 points, or 0.6%, by the closing bell.",0.02198529802262783,0.965511679649353,0.012502933852374554,negative,-0.9435263872146606
+13,2013-09-30 01:20:00,"Meanwhile, the Nasdaq Composite (COMP - 3,771.48) shed 10.1 points, or 0.3%.",0.020743325352668762,0.9701149463653564,0.009141754359006882,negative,-0.9493716359138489
+14,2013-09-30 01:20:00,"On a quarterly basis, the indexes added 4.7% and 10.8%, respectively.",0.9053730368614197,0.028153784573078156,0.06647314876317978,positive,0.8772192597389221
+15,2013-09-30 01:20:00,"Elsewhere, the CBOE Market Volatility Index (VIX - 16.60) spiked to an intraday high of 17.49 at the start of the session, and finished 1.1 points, or 7.4%, higher.",0.9279188513755798,0.03253913298249245,0.03954203426837921,positive,0.8953797221183777
+16,2013-09-30 01:20:00,"Still, the ""fear gauge"" edged 1.5% lower for the quarter.",0.019541174173355103,0.9684877395629883,0.011971105821430683,negative,-0.9489465951919556
+17,2013-09-30 01:20:00,"""The small-caps really showed some life in the face of this sell-off,"" Bell continued.",0.9036396741867065,0.027860470116138458,0.06849993020296097,positive,0.8757792115211487
+18,2013-09-30 01:20:00,"""They finished well off their lows and continued to show strength during this market.",0.9377157092094421,0.022849522531032562,0.0394347719848156,positive,0.9148662090301514
+19,2013-09-30 01:20:00,"They have been leading for the past couple of months, which could bode well for a longer-term continuation of this major trend.""",0.9074229598045349,0.021470261737704277,0.07110677659511566,positive,0.8859527111053467
+20,2013-09-30 01:20:00,"3 Things to Know About Today's Market :
+• In the latest Washington drama update , the Senate rejected a budget bill proposed by the House of Representatives in a 54-46 vote, due to a provision that would have delayed the implementation of Obamacare.",0.03767810016870499,0.9330320954322815,0.029289834201335907,negative,-0.8953539729118347
+21,2013-09-30 01:20:00,The Senate then sent an emergency spending bill to the House.,0.296273410320282,0.12365199625492096,0.5800746083259583,neutral,0.17262141406536102
+22,2013-09-30 01:20:00,"If an agreement is not reached by midnight, a number of federal agencies will close for the first time in nearly two decades.",0.04620404914021492,0.7674071788787842,0.18638876080513,negative,-0.7212031483650208
+23,2013-09-30 01:20:00,"Waxing optimistic, President Barack Obama said he's ""not at all"" resigned to a shutdown.",0.1416085660457611,0.6079323291778564,0.2504591643810272,negative,-0.46632376313209534
+24,2013-09-30 01:20:00,"(CNBC)
+• The Chicago purchasing managers index (PMI) arrived at 55.7 in September, up from last month's reading of 53.0.",0.953570544719696,0.02386646531522274,0.02256297878921032,positive,0.9297040700912476
+25,2013-09-30 01:20:00,"Economists, on average, were expecting a reading of 54.0.",0.14318764209747314,0.20479950308799744,0.652012825012207,neutral,-0.06161186099052429
+26,2013-09-30 01:20:00,"Breaking the numbers down even further, new orders rose to their highest level since February, while the employment gauge dropped for a third consecutive month.",0.49965590238571167,0.4133152365684509,0.0870288535952568,positive,0.08634066581726074
+27,2013-09-30 01:20:00,"(MarketWatch)
+• Activist investor Carl Icahn met with Apple ( AAPL ) CEO Tim Cook today, with shareholders hoping the former will be able to convince the latter to expand the firm's buyback program.",0.9235827922821045,0.01938420534133911,0.057032953947782516,positive,0.9041985869407654
+28,2013-09-30 01:20:00,"Meanwhile, the tech giant -- which Icahn deemed a ""no brainer"" and notably undervalued -- unseated Coca-Cola ( KO ) as the world's most valuable brand of 2013.",0.7516384720802307,0.1318250298500061,0.11653648316860199,positive,0.6198134422302246
+29,2013-09-30 01:20:00,"(MarketWatch)
+• Uptrending LinkedIn (LNKD) scored a price-target hike at Macquarie ahead of this morning's opening bell.",0.9311407804489136,0.043213360011577606,0.025645937770605087,positive,0.8879274129867554
+30,2013-09-30 01:20:00,"• Longer-term option bulls flocked toward Cisco Systems ( CSCO ) , with a particular focus on the December series of calls.",0.7914023995399475,0.0271800234913826,0.18141764402389526,positive,0.7642223834991455
+31,2013-09-30 01:20:00,"• Following last week's news that the firm is going private, BlackBerry (BBRY) was on the bearish analyst radar once again.",0.422039270401001,0.40174952149391174,0.17621111869812012,positive,0.020289748907089233
+32,2013-09-30 01:20:00,• A new record high for Facebook (FB) lured front-month call buyers to the social media giant's options pits.,0.9195131659507751,0.030626365914940834,0.04986049234867096,positive,0.8888868093490601
+33,2013-09-30 01:20:00,• Achillion Pharmaceuticals' (ACHN) drug-related plunge triggered a spike in near- and longer-term put volume.,0.9160538911819458,0.056877169758081436,0.027068862691521645,positive,0.8591766953468323
+34,2013-09-30 01:20:00,"For a look at today's options movers and commodities activity, head to page 2.",0.011671511456370354,0.018261956050992012,0.9700665473937988,neutral,-0.006590444594621658
+35,2013-09-30 01:20:00,"Crude futures finished lower today, as anxieties over a potential government shutdown weighed on prices.",0.023472078144550323,0.9637725949287415,0.012755436822772026,negative,-0.9403005242347717
+36,2013-09-30 01:20:00,"By the close, November-dated oil declined 54 cents, or 0.5%, to end at $102.33 per barrel.",0.019098689779639244,0.9703033566474915,0.010597994551062584,negative,-0.9512046575546265
+37,2013-09-30 01:20:00,"For the quarter, however, crude gained 6%.",0.9398520588874817,0.03646218776702881,0.02368568815290928,positive,0.9033898711204529
+38,2013-09-30 01:20:00,"Likewise, gold futures also closed in the red on government uncertainties.",0.4246218204498291,0.49954676628112793,0.0758313536643982,negative,-0.07492494583129883
+39,2013-09-30 01:20:00,"Gold for December delivery fell $12.20, or 0.9%, to settle at $1,327 an ounce.",0.020478136837482452,0.9673800468444824,0.012141795828938484,negative,-0.9469019174575806
+40,2013-09-30 01:20:00,"Over the last three months, however, the precious metal advanced 8.4% -- its first quarterly gain of the year.",0.9524084329605103,0.024440109729766846,0.023151494562625885,positive,0.9279683232307434
+41,2013-09-30 01:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942188858985901,0.013680474832654,0.9763773083686829,neutral,-0.0037382859736680984
+42,2013-09-30 01:20:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200573846697807,0.9573419094085693,neutral,-0.02135336399078369

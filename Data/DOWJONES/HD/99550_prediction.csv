@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-13 07:11:00,"In early trading on Wednesday, shares of Intel ( INTC ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.8%.",0.9384700059890747,0.03256608173251152,0.02896389365196228,positive,0.9059039354324341
+1,2015-05-13 07:11:00,"Year to date, Intel has lost about 9.6% of its value.",0.017013655975461006,0.959313690662384,0.02367263101041317,negative,-0.942300021648407
+2,2015-05-13 07:11:00,"And the worst performing Dow component thus far on the day is DuPont ( DD ), trading down 5.9%.",0.021453343331813812,0.9638140797615051,0.014732648618519306,negative,-0.9423607587814331
+3,2015-05-13 07:11:00,DuPont is lower by about 5.4% looking at the year to date performance.,0.021177690476179123,0.9657065272331238,0.01311580277979374,negative,-0.9445288181304932
+4,2015-05-13 07:11:00,"Two other components making moves today are Home Depot ( HD ), trading down 0.2%, and Microsoft Corporation ( MSFT ), trading up 1.5% on the day.",0.03067471645772457,0.9394823908805847,0.0298429224640131,negative,-0.9088076949119568
+5,2015-05-13 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

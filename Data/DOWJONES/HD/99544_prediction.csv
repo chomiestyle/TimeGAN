@@ -1,0 +1,9 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-18 00:38:00,"The Dow Jones Industrial Average, S&P 500 and NASDAQ are higher on Monday afternoon.",0.6450815796852112,0.044386159628629684,0.3105323016643524,positive,0.6006954312324524
+1,2015-05-18 00:38:00,"Some of the most actively traded stocks include AT&T ( T ) up 1.84%, Apple ( AAPL ) up 1.25%, Bank of America ( BAC ) higher by 1.04%, and Vale ( VALE ) down 5.2%.",0.7700789570808411,0.09726928919553757,0.13265176117420197,positive,0.6728096604347229
+2,2015-05-18 00:38:00,"In overseas trading, Japan's Nikkei 225 Stock Average was up 0.80%, and the Hang Seng was down 0.83%.",0.5071603059768677,0.44667375087738037,0.04616594314575195,positive,0.060486555099487305
+3,2015-05-18 00:38:00,"In Europe, the FTSE 100 was higher, up 0.12% and the German DAX was up 1.29% today.",0.9343400001525879,0.03126120939850807,0.03439876064658165,positive,0.9030787944793701
+4,2015-05-18 00:38:00,"In economic news, Housing Starts is released tomorrow, Initial Claims on Thursday, and CPI on Friday.",0.014565471559762955,0.015726307407021523,0.9697082042694092,neutral,-0.0011608358472585678
+5,2015-05-18 00:38:00,"Some of the companies releasing earnings this week include: Home Depot ( HD ) on Tuesday, Hormel Foods (HRL) on Wednesday, Dollar Tree (DLTR) on Thursday, and Deere & Co. (DE) on Friday.",0.03743238002061844,0.019170435145497322,0.9433972239494324,neutral,0.018261944875121117
+6,2015-05-18 00:38:00,Join us on Friday for the Weekly Market Wrap and have a wonderful week.,0.3865365982055664,0.01265944167971611,0.6008039712905884,neutral,0.3738771677017212
+7,2015-05-18 00:38:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

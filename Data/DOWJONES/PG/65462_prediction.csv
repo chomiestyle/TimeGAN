@@ -1,0 +1,4 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-01-08 08:45:00,"The latest tally of analyst opinions from the major brokerage houses shows that among the 30 stocks making up the Dow Jones Industrial Average, Procter & Gamble Company (PG) is the #14 analyst pick.",0.2724839448928833,0.03590383380651474,0.6916122436523438,neutral,0.23658010363578796
+1,2020-01-08 08:45:00,"Procter & Gamble Company also comes in above the median of analyst picks among the broader S&P 500 index components, claiming the #186 spot out of 500.",0.8749072551727295,0.057086870074272156,0.06800583004951477,positive,0.8178203701972961
+2,2020-01-08 08:45:00,"Looking at the stock price movement year to date, Procter & Gamble Company (PG) is lower by about 1.8%.",0.018699664622545242,0.9625965356826782,0.01870386116206646,negative,-0.9438968896865845

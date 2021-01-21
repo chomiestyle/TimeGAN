@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-07 09:30:00,"Today, we are in the midst of a technological renaissance.",0.7058692574501038,0.01326003484427929,0.2808707654476166,positive,0.6926092505455017
+1,2016-09-07 09:30:00,"The power of a semiconductor (the heart of most of today's technological innovation) doubles every two years, according to Moore's Law.",0.17008724808692932,0.013269156217575073,0.8166435956954956,neutral,0.15681809186935425
+2,2016-09-07 09:30:00,"Elon Musk, the visionary behind Paypal Holdings Inc ( PYPL ), Tesla Motors Inc ( TSLA ), Space X and more, recently remarked in an interview that the average smartphone user arguably has more power than the president of the United States had 20 years ago.",0.36182335019111633,0.030985450372099876,0.6071912050247192,neutral,0.3308379054069519
+3,2016-09-07 09:30:00,"If you think about it for a second, you can see how he has a point.",0.0757937952876091,0.044886790215969086,0.879319429397583,neutral,0.030907005071640015
+4,2016-09-07 09:30:00,"You can answer any question, video conference or message practically anyone, anytime, anywhere - all in an instant.",0.026243405416607857,0.009733828715980053,0.9640227556228638,neutral,0.01650957763195038
+5,2016-09-07 09:30:00,Nearly every aspect of life is now digitized: from family photos and funny videos to medical records and bank statements.,0.057903558015823364,0.016934353858232498,0.925162136554718,neutral,0.040969204157590866
+6,2016-09-07 09:30:00,"And while the convenience of our daily lives has grown exponentially thanks to the advances of digital technologically, so have the potential threats against individual Americans.",0.65762859582901,0.01589169353246689,0.32647964358329773,positive,0.6417369246482849
+7,2016-09-07 09:30:00,"In 2014, the British insurance company Lloyds Banking Group PLC estimated that cyberattacks cost the world more than $400 billion.",0.11480680108070374,0.6539350152015686,0.23125822842121124,negative,-0.5391281843185425
+8,2016-09-07 09:30:00,"For reference, that's larger than the GDP of 170 individual countries.",0.334452360868454,0.014126342721283436,0.651421308517456,neutral,0.320326030254364
+9,2016-09-07 09:30:00,"[More from StreetAuthority.com: What We Can Learn From 'The Stock That Never Goes Down' ]
+
+That same year that report was released, Target Corporation ( TGT ), Home Depot Inc ( HD ) and JPMorgan Chase & Co. ( JPM ) all reported their systems had been corrupted, the leaking sensitive information of roughly 250 million customers.",0.03352675959467888,0.8805378079414368,0.08593542128801346,negative,-0.8470110297203064
+10,2016-09-07 09:30:00,The hacks cost the three companies a combined $1.2 billion in damages.,0.050187066197395325,0.8579251170158386,0.09188791364431381,negative,-0.8077380657196045
+11,2016-09-07 09:30:00,"Just a few weeks ago, we learned that the Democratic National Committee had been hacked.",0.05935406684875488,0.7740561962127686,0.16658972203731537,negative,-0.7147021293640137
+12,2016-09-07 09:30:00,Intelligence experts think the Russians are somehow behind it.,0.1259675770998001,0.2635178565979004,0.6105145812034607,neutral,-0.13755027949810028
+13,2016-09-07 09:30:00,"And it makes sense - Putin and his underlings have a longstanding commitment to cyber operations as a part of their so-called ""asymmetrical"" warfare strategy dating back to before its annexation of the Crimean peninsula in the Ukraine in 2014.",0.19128964841365814,0.020108286291360855,0.7886021137237549,neutral,0.17118136584758759
+14,2016-09-07 09:30:00,"Even more recently, hackers in Russia are suspected to have breached voter databases in Arizona and Illinois.",0.04454042389988899,0.9041172862052917,0.05134228244423866,negative,-0.8595768809318542
+15,2016-09-07 09:30:00,"According to this article , experts say ""there is serious concern"" that Russian intelligence agencies may be seeking to sow an air of uncertainty around the U.S. presidential election.",0.04490853101015091,0.8605043888092041,0.09458712488412857,negative,-0.8155958652496338
+16,2016-09-07 09:30:00,"And just days ago, the cloud-based data storage company Dropboxannounced that the email addresses and passwords of 68 million users from a breach dating back to 2012 were recently leaked online.",0.06635032594203949,0.6517269611358643,0.28192269802093506,negative,-0.5853766202926636
+17,2016-09-07 09:30:00,"Stopping Cybercrime Will Be The Next Big Thing
+
+This is only the beginning.",0.08191463351249695,0.014125478453934193,0.9039599299430847,neutral,0.06778915226459503
+18,2016-09-07 09:30:00,That same Lloyd's report from our original research estimates that dealing with global cybercrime will cost $2 trillion by 2019.,0.10611674189567566,0.03834325075149536,0.8555399775505066,neutral,0.0677734911441803
+19,2016-09-07 09:30:00,"[More from StreetAuthority.com: A Small-Cap Stock To Buy Right Now… ]
+
+So clearly, fighting against this threat is going to take a lot of money and brainpower.",0.5250377655029297,0.029745597392320633,0.44521668553352356,positive,0.49529215693473816
+20,2016-09-07 09:30:00,"That's why Cybersecurity Ventures, a market research firm for the industry, reports that large companies around the world are spending hundreds of millions of dollars to keep up with the threat.",0.25677186250686646,0.28158971667289734,0.461638480424881,neutral,-0.024817854166030884
+21,2016-09-07 09:30:00,"Financial powerhouse JP Morgan Chase, for example, has doubled its annual cybersecurity budget to $500 million.",0.8825130462646484,0.0217862781137228,0.09570066630840302,positive,0.8607267737388611
+22,2016-09-07 09:30:00,"Bank of America Corp ( BAC ), meanwhile, has stated that it has an ""unlimited"" budget when it comes to dealing with cybercrime.",0.11580982059240341,0.007860315963625908,0.8763298392295837,neutral,0.10794950276613235
+23,2016-09-07 09:30:00,But these large firms can't do it alone.,0.02769077755510807,0.08963333070278168,0.8826759457588196,neutral,-0.061942555010318756
+24,2016-09-07 09:30:00,"And besides, smaller companies and individuals are going to need protection, too.",0.08508575707674026,0.023502683266997337,0.891411542892456,neutral,0.06158307194709778
+25,2016-09-07 09:30:00,(Another fun fact: The 2016 Identity Fraud Study by Javelin Strategy & Research says $15 billion was stolen from 13.1 million U.S. consumers in 2015.),0.03661556541919708,0.16589577496051788,0.7974886894226074,neutral,-0.1292802095413208
+26,2016-09-07 09:30:00,"That's why Cybersecurity Ventures also expects the industry to skyrocket to a whopping $170 billion by 2020, up from an estimated $77 billion today.",0.9410977959632874,0.020005937665700912,0.03889627382159233,positive,0.9210918545722961
+27,2016-09-07 09:30:00,"Not only that, but it also expects $1 trillion to be spent on cybersecurity from 2017 to 2021 .",0.33730778098106384,0.00915559008717537,0.6535366177558899,neutral,0.3281521797180176
+28,2016-09-07 09:30:00,"Clearly, as this threat grows, so too will be the private sector's response to it.",0.06181512773036957,0.02617795392870903,0.9120069742202759,neutral,0.03563717380166054
+29,2016-09-07 09:30:00,And early investors into the cutting-edge companies in this space stand to make a fortune.,0.45980212092399597,0.016383569687604904,0.52381432056427,neutral,0.44341856241226196
+30,2016-09-07 09:30:00,"[More from StreetAuthority.com: A Grim Forecast For The American Consumer ]
+
+One way you can invest in this space today is by owning shares of the world's first cybersecurity exchange-traded fund: the PureFunds ISE Cybersecurity ETF ( HACK ).",0.208368182182312,0.007698149420320988,0.783933699131012,neutral,0.2006700336933136
+31,2016-09-07 09:30:00,"This fund holds some of the most innovative cyber-defense firms out there, from giants like Cisco Systems, Inc. ( CSCO ) to several lesser-known companies, like Proofpoint Inc ( PFPT ), one of the only pure-play cloud security companies on the market.",0.312056303024292,0.009877338074147701,0.6780663132667542,neutral,0.3021789789199829
+32,2016-09-07 09:30:00,"Bottom line, with demand steadily growing, it won't be long before the burgeoning cybersecurity industry explodes… making early investors huge gains in the process.",0.8365944027900696,0.024345621466636658,0.13905994594097137,positive,0.8122487664222717
+33,2016-09-07 09:30:00,"And while the threat is very real and concerning, there's also enormous potential for investors to profit from the companies working on the front lines in this space.",0.7599343061447144,0.018181422725319862,0.22188431024551392,positive,0.7417528629302979
+34,2016-09-07 09:30:00,"That's why StreetAuthority's newest market expert Genia Turanova explicitly mentioned cybersecurity as one of the major areas she intends to focus on now that she's at the helm of our premium aggressive growth letter, Game-Changing Stocks .",0.15483014285564423,0.008115014061331749,0.8370548486709595,neutral,0.14671513438224792
+35,2016-09-07 09:30:00,"If you're already a subscriber, then stay tuned.",0.05371350795030594,0.022436581552028656,0.9238499402999878,neutral,0.03127692639827728
+36,2016-09-07 09:30:00,"If not, then I encourage you to check out Genia's coverage of this space (as well as the rest of her fantastic research) by clicking here .",0.02985254116356373,0.012833266519010067,0.9573141932487488,neutral,0.017019275575876236
+37,2016-09-07 09:30:00,"StreetAuthority's mission is to help individual investors earn above-average profits by providing a source of independent, unbiased - and most of all, profitable - investing ideas.",0.48045191168785095,0.008700481615960598,0.5108476281166077,neutral,0.4717514216899872
+38,2016-09-07 09:30:00,"Unlike traditional publishers, StreetAuthority doesn't simply regurgitate the latest stock market news.",0.019370995461940765,0.006623322609812021,0.9740056395530701,neutral,0.012747673317790031
+39,2016-09-07 09:30:00,"Instead, we provide in-depth research, plus specific investment ideas and immediate action to take based on the latest market events.",0.04206685721874237,0.005557605531066656,0.952375590801239,neutral,0.036509253084659576
+40,2016-09-07 09:30:00,Visit us atStreetAuthority.com.,0.01922115497291088,0.021145740523934364,0.9596331119537354,neutral,-0.0019245855510234833
+41,2016-09-07 09:30:00,"• It's Time To Prepare For Another Rate Hike
+• Get Paid To Wait For A Market Pullback
+• 7 of the Worst Stocks on Wall Street
+• The 10 Best Small- and Mid-Cap Stocks to Buy Now
+
+The post Fighting Global Cybercrime Will Mean Big Business (HACK, PFPT) appeared first on InvestorPlace .",0.2313203513622284,0.1677129715681076,0.6009666323661804,neutral,0.06360737979412079
+42,2016-09-07 09:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

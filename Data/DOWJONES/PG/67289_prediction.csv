@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-12-20 22:36:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-12-20 22:36:00,"Today's Research Daily features new research reports on 16 major stocks, including Procter & Gamble (PG), Oracle (ORCL) and United Parcel Service (UPS).",0.04032989591360092,0.00803515687584877,0.95163494348526,neutral,0.03229473903775215
+2,2018-12-20 22:36:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-12-20 22:36:00,"You can see all of today's research reports here >>>
+
+Procter & Gamble 's shares outperformed the Zacks Soap and Cleaning Materials industry in the past three months, gaining +8% vs +1.6%.",0.8880891799926758,0.09397467970848083,0.017936082556843758,positive,0.7941144704818726
+4,2018-12-20 22:36:00,"The Zacks analyst thinks that this can be attributed to the company's robust earnings history, having outpaced estimates for 14 straight quarters when it reported first-quarter fiscal 2019.",0.9431882500648499,0.02271529845893383,0.034096408635377884,positive,0.9204729795455933
+5,2018-12-20 22:36:00,"Moreover, earnings grew year over year.",0.937173068523407,0.014557425864040852,0.04826955869793892,positive,0.922615647315979
+6,2018-12-20 22:36:00,"Also, sales beat estimates, though it remained flat due to adverse currency fluctuations - which acted as a major deterrent in the first quarter and is likely to remain a concern in the second quarter.",0.8965922594070435,0.07690588384866714,0.026501819491386414,positive,0.8196863532066345
+7,2018-12-20 22:36:00,"The company has been witnessing strained margins for last few quarters due to higher commodity and shipping costs, adverse currency, increased business investments and aggressive pricing from private-label products.",0.020109903067350388,0.9640193581581116,0.015870854258537292,negative,-0.9439094662666321
+8,2018-12-20 22:36:00,Soft baby care business is also a concern.,0.02541167661547661,0.40692827105522156,0.5676600933074951,neutral,-0.38151660561561584
+9,2018-12-20 22:36:00,"Nonetheless, the company is focused on improving productivity and cost savings to boost margins.",0.9458942413330078,0.01805465668439865,0.036051083356142044,positive,0.9278395771980286
+10,2018-12-20 22:36:00,"Its focus on product improvement, packaging and marketing initiatives is encouraging.",0.8172737956047058,0.010673531331121922,0.17205260694026947,positive,0.8066002726554871
+11,2018-12-20 22:36:00,(You can read the full research report on Procter & Gamble here >>> ).,0.013788774609565735,0.010992237366735935,0.9752189517021179,neutral,0.0027965372428297997
+12,2018-12-20 22:36:00,"Shares of Oracle have underperformed the Zacks Computer Software industry in the past year, losing -2.4% vs. +12.2%.",0.023832133039832115,0.9652723670005798,0.010895450599491596,negative,-0.941440224647522
+13,2018-12-20 22:36:00,"Oracle is one of the largest enterprise-grade database, middleware and application software providers.",0.33664730191230774,0.0076814680360257626,0.655671238899231,neutral,0.32896584272384644
+14,2018-12-20 22:36:00,"The Zacks analyst thinks the company is benefiting from strong adoption of its cloud-based solutions, comprising Fusion ERP and Fusion HCM, among others.",0.9468413591384888,0.01388276182115078,0.03927597776055336,positive,0.9329586029052734
+15,2018-12-20 22:36:00,Partnerships with the likes of Accenture are helping the company rapidly expand its cloud-base clientele.,0.9410977959632874,0.014663846231997013,0.04423832520842552,positive,0.9264339208602905
+16,2018-12-20 22:36:00,"Also, anticipated strong demand for the next-generation autonomous database supported by machine learning will boost competitive position against Amazon Web Services (AWS).",0.9566222429275513,0.01938953809440136,0.02398814633488655,positive,0.9372327327728271
+17,2018-12-20 22:36:00,"Nonetheless, stiff competition in the cloud market from dominant players is anticipated to limit margin expansion.",0.410734623670578,0.41967859864234924,0.16958676278591156,negative,-0.00894397497177124
+18,2018-12-20 22:36:00,"Further, lower hardware volumes are anticipated to hurt top-line growth consequently keeping margins under pressure.",0.018508754670619965,0.9680041670799255,0.013486983254551888,negative,-0.9494954347610474
+19,2018-12-20 22:36:00,"Additionally, integration risks from buyouts remain a concern.",0.034175850450992584,0.05379296839237213,0.9120311141014099,neutral,-0.019617117941379547
+20,2018-12-20 22:36:00,(You can read the full research report on Oracle here >>> ).,0.015157470479607582,0.014095799997448921,0.9707467555999756,neutral,0.0010616704821586609
+21,2018-12-20 22:36:00,"United Parcel Service 's shares have outperformed the Zacks Transportation - Air Freight and Cargo industry over the past year, losing -20.8% vs. -27.1%.",0.025851670652627945,0.962465226650238,0.01168305054306984,negative,-0.9366135597229004
+22,2018-12-20 22:36:00,United Parcel Service has been benefitting from strong e-commerce growth.,0.9467110633850098,0.015948088839650154,0.03734076768159866,positive,0.9307629466056824
+23,2018-12-20 22:36:00,The company anticipates cross-border e-commerce volume to grow by 28% over the next three years.,0.9533563256263733,0.01538692507892847,0.031256746500730515,positive,0.9379693865776062
+24,2018-12-20 22:36:00,"The company's transformation plan, unveiled in September 2018, is aimed at boosting its bottom line.",0.940203845500946,0.014432456344366074,0.0453636571764946,positive,0.9257714152336121
+25,2018-12-20 22:36:00,Approval of the deal by its freight workers is an added positive.,0.9248077869415283,0.018486415967345238,0.05670570582151413,positive,0.9063213467597961
+26,2018-12-20 22:36:00,The Zacks analyst is also impressed by UPS' efforts to reward its shareholders.,0.9255152940750122,0.017658933997154236,0.056825704872608185,positive,0.9078563451766968
+27,2018-12-20 22:36:00,UPS' bullish full-year forecast on free cash flow supports the possibility of a dividend hike in the near future.,0.9239540100097656,0.02508733607828617,0.05095867067575455,positive,0.8988666534423828
+28,2018-12-20 22:36:00,"However, the company's high capital expenditures are a cause for concern.",0.02561734803020954,0.828042209148407,0.1463404893875122,negative,-0.8024248480796814
+29,2018-12-20 22:36:00,UPS spent $4.5 billion as capital expenditure in the first nine months of 2018.,0.08050695806741714,0.00732057960703969,0.9121724367141724,neutral,0.07318637520074844
+30,2018-12-20 22:36:00,Trade-war related tensions and high debts pose further challenges to the company.,0.03921116515994072,0.9126274585723877,0.0481613352894783,negative,-0.8734163045883179
+31,2018-12-20 22:36:00,"In a year's time, the UPS stock has declined more than 20%.",0.0184300746768713,0.9691408276557922,0.01242914143949747,negative,-0.9507107734680176
+32,2018-12-20 22:36:00,(You can read the full research report on United Parcel Service here >>> ).,0.011825182475149632,0.014126838184893131,0.9740479588508606,neutral,-0.0023016557097434998
+33,2018-12-20 22:36:00,"Other noteworthy reports we are featuring today include Schlumberger (SLB), FedEx (FDX) and AstraZeneca (AZN).",0.036490797996520996,0.0054773325100541115,0.9580318331718445,neutral,0.03101346641778946
+34,2018-12-20 22:36:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+35,2018-12-20 22:36:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+36,2018-12-20 22:36:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+37,2018-12-20 22:36:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+38,2018-12-20 22:36:00,"See the pot trades we're targeting>>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.08856207132339478,0.007175061851739883,0.904262900352478,neutral,0.08138701319694519
+39,2018-12-20 22:36:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+40,2018-12-20 22:36:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+The Zacks analyst likes AstraZeneca's promising late-stage pipeline that includes immuno-oncology candidates.",0.7199811339378357,0.013067706488072872,0.26695114374160767,positive,0.706913411617279
+41,2018-12-20 22:36:00,Imfinzi is a key drug in the pipeline.,0.5964526534080505,0.011978847905993462,0.39156854152679443,positive,0.5844737887382507
+42,2018-12-20 22:36:00,"Per the Zacks analyst, organic growth remained a key strength at M&T Bank, as reflected by rising loans and deposits aiding revenue growth.",0.9419536590576172,0.01562976837158203,0.042416494339704514,positive,0.9263238906860352
+43,2018-12-20 22:36:00,"Per the Zacks analyst, the acquisitions of Loop Commerce and U.S. PayPal Credit financing program should aid its inorganic growth.",0.9403632283210754,0.013221153058111668,0.04641555994749069,positive,0.9271420836448669
+44,2018-12-20 22:36:00,"Per the Zacks analyst, continued strong demand across its businesses will aid International Paper's results despite the impact of elevated input and distribution costs.",0.9549655318260193,0.019002454355359077,0.026032034307718277,positive,0.9359630942344666
+45,2018-12-20 22:36:00,The Zacks analyst thinks that major sales building initiatives and synergies from Cheddar's acquisition are likely to boost Darden's topline growth.,0.9560692310333252,0.017450137063860893,0.026480568572878838,positive,0.938619077205658
+46,2018-12-20 22:36:00,"Per the Zacks analyst, asset under management inflows and inorganic growth strategy will support revenues.",0.9338899850845337,0.01599518395960331,0.05011478066444397,positive,0.9178947806358337
+47,2018-12-20 22:36:00,The Zacks analyst worries about Hill-Rom's declining international core revenue reflecting headwinds in Asia-Pacific and timing of a few capital projects.,0.018638169392943382,0.9678627848625183,0.013498992659151554,negative,-0.949224591255188
+48,2018-12-20 22:36:00,"Per the Zacks analyst, long-term investment plans, renewable generation and improving economic conditions will strengthen Xcel Energy's existing operations.",0.9523433446884155,0.016956036910414696,0.0307006798684597,positive,0.9353873133659363
+49,2018-12-20 22:36:00,"The Zacks analyst believes that solid demand for air travel has resulted in strong passenger revenues, which is aiding the company's top line.",0.9444239735603333,0.015624185092747211,0.039951879531145096,positive,0.9287998080253601
+50,2018-12-20 22:36:00,"Per the Zacks analyst, Ultragenyx's approved drugs are doing well.The company also boasts a strong pipeline.",0.9277297258377075,0.01385215763002634,0.05841813609004021,positive,0.913877546787262
+51,2018-12-20 22:36:00,"Per the Zacks analyst, lack of exposure to profitable U.S. shale plays will reduce the number of oilfield service contracts for Schlumberger.",0.0551738478243351,0.9250437021255493,0.019782431423664093,negative,-0.8698698282241821
+52,2018-12-20 22:36:00,"Weakness in the European economy and slowdown in trading activities in China, which compelled the company to slash fiscal 2019 earnings forecast, have made the Zacks analyst turn bearish on the stock.",0.018973175436258316,0.9615142345428467,0.019512534141540527,negative,-0.9425410628318787
+53,2018-12-20 22:36:00,"Per the Zacks analyst, J.M.",0.018249552696943283,0.032749585807323456,0.949000895023346,neutral,-0.014500033110380173
+54,2018-12-20 22:36:00,Smucker's earnings continue to bear the brunt of elevated freight expenses.,0.7591569423675537,0.14006800949573517,0.10077498108148575,positive,0.6190889477729797
+55,2018-12-20 22:36:00,"Moreover, the company expects freight cost headwinds to linger in fiscal 2019.",0.04553747922182083,0.9197800159454346,0.03468260169029236,negative,-0.8742425441741943
+56,2018-12-20 22:36:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+57,2018-12-20 22:36:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+58,2018-12-20 22:36:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+59,2018-12-20 22:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

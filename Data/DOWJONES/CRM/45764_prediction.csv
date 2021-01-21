@@ -1,0 +1,32 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-19 03:54:00,Shares of numerous tech stocks got clobbered today amid a broad market sell-off that hit the sector particularly hard.,0.03374074026942253,0.9434536695480347,0.02280551940202713,negative,-0.9097129106521606
+1,2018-11-19 03:54:00,"Over the weekend, Vice President Mike Pence said that the U.S. would not back down from its trade war with China, and it could even potentially double tariffs.",0.2804809808731079,0.6108729243278503,0.10864608734846115,negative,-0.33039194345474243
+2,2018-11-19 03:54:00,"""The United States, though, will not change course until China changes its ways,"" Pence said at the Asia Pacific Economic Cooperation (APEC) summit.",0.198891744017601,0.2645072340965271,0.5366010069847107,neutral,-0.06561549007892609
+3,2018-11-19 03:54:00,The Trump administration has already imposed tariffs on $250 billion worth of goods imported from China.,0.1297270953655243,0.5426910519599915,0.32758188247680664,negative,-0.41296395659446716
+4,2018-11-19 03:54:00,"Pence's comments contradicted those made by President Trump last week, when Trump said he may not impose more tariffs anytime soon.",0.10853447765111923,0.75715172290802,0.13431380689144135,negative,-0.6486172676086426
+5,2018-11-19 03:54:00,"Here are some stocks that sold off today:
+
+Generally speaking, many tech companies have their supply chains concentrated in China, exposing them to greater potential risk from the escalating trade tensions.",0.13775207102298737,0.1565144956111908,0.7057333588600159,neutral,-0.01876242458820343
+6,2018-11-19 03:54:00,"That may not necessarily apply to the enterprise software and cybersecurity companies listed above, but many of those companies are either unprofitable or trade at lofty earnings multiples, making them especially vulnerable to volatile swings as investors move toward less-risky assets.",0.04995157942175865,0.5010696649551392,0.4489787817001343,negative,-0.4511180818080902
+7,2018-11-19 03:54:00,"The broader tech sector was under heavy pressure today, with the tech-heavy Nasdaq Composite falling 3%, much worse than the S&P 500 's 1.7% decline.",0.02062872424721718,0.9695451259613037,0.009826188907027245,negative,-0.9489163756370544
+8,2018-11-19 03:54:00,"Apple (NASDAQ: AAPL) also contributed to the negative sentiment, following a report in TheWall Street Journal that the company was cutting production orders of its newest iPhones.",0.01788683980703354,0.9691261649131775,0.01298694871366024,negative,-0.9512393474578857
+9,2018-11-19 03:54:00,A separate report in the Journal regarding Facebook (NASDAQ: FB) alleged that CEO Mark Zuckerberg was pinning much of the blame around recent controversies on COO Sheryl Sandberg.,0.03215329349040985,0.9253343343734741,0.042512401938438416,negative,-0.8931810259819031
+10,2018-11-19 03:54:00,Shares of the social networking giant are trading at 52-week lows.,0.028378743678331375,0.9148766398429871,0.056744687259197235,negative,-0.8864979147911072
+11,2018-11-19 03:54:00,"Tech had been flying high this year before October, stretching earnings multiples despite concerns around slowing growth at some of the biggest tech giants.",0.8763282895088196,0.07342192530632019,0.05024971067905426,positive,0.8029063940048218
+12,2018-11-19 03:54:00,"Markets have been especially volatile since the beginning of October, and that volatility may continue through year end as continued uncertainty regarding tariffs weighs on investor sentiment.",0.07390802353620529,0.7928466796875,0.1332453489303589,negative,-0.7189386487007141
+13,2018-11-19 03:54:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1507294625043869,0.029832763597369194,0.8194377422332764,neutral,0.12089669704437256
+14,2018-11-19 03:54:00,"After all, the newsletter they have run for over a decade, the Motley Fool Stock Advisor, has tripled the market.",0.40675050020217896,0.06611427664756775,0.5271351933479309,neutral,0.3406362235546112
+15,2018-11-19 03:54:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+16,2018-11-19 03:54:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+17,2018-11-19 03:54:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+18,2018-11-19 03:54:00,The author(s) may have a position in any stocks mentioned.,0.01635848730802536,0.007312573958188295,0.9763289093971252,neutral,0.009045913815498352
+19,2018-11-19 03:54:00,"Evan Niu, CFA , owns shares of Apple and Facebook.",0.02889394946396351,0.023228583857417107,0.9478774070739746,neutral,0.005665365606546402
+20,2018-11-19 03:54:00,"The Motley Fool owns shares of and recommends Apple, Atlassian, Facebook, Salesforce.com, and Varonis Systems.",0.025506965816020966,0.016725219786167145,0.9577677845954895,neutral,0.00878174602985382
+21,2018-11-19 03:54:00,The Motley Fool has the following options: long January 2020 $150 calls on Apple and short January 2020 $155 calls on Apple.,0.015124468132853508,0.041013702750205994,0.9438618421554565,neutral,-0.025889234617352486
+22,2018-11-19 03:54:00,"The Motley Fool recommends CyberArk Software, New Relic, and Tableau Software.",0.027690300717949867,0.016386890783905983,0.9559228420257568,neutral,0.011303409934043884
+23,2018-11-19 03:54:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+24,2018-11-19 03:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

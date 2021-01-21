@@ -1,0 +1,13 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-12-10 01:45:00,"Monday's session closes with the NASDAQ Composite Index at 2,986.96.",0.06764204800128937,0.019332019612193108,0.9130259156227112,neutral,0.04831002652645111
+1,2012-12-10 01:45:00,The total shares traded for the NASDAQ was over 1.5 billion.,0.03518177196383476,0.005528090987354517,0.9592902064323425,neutral,0.029653681442141533
+2,2012-12-10 01:45:00,Advancers stocks led declining by 1.34 to 1 ratio.,0.028808465227484703,0.9572075605392456,0.013983909972012043,negative,-0.9283990859985352
+3,2012-12-10 01:45:00,There were 1417 advancers and 1056 decliners for the day.,0.16008871793746948,0.3425031304359436,0.4974081218242645,neutral,-0.18241441249847412
+4,2012-12-10 01:45:00,On the NASDAQ Stock Exchange 27 stocks reached a 52 week high and 12 those reaching lows totaled.,0.6615889668464661,0.14690439403057098,0.19150662422180176,positive,0.5146845579147339
+5,2012-12-10 01:45:00,"The most active, advancers, decliners, unusual volume and most active by dollar volume can be monitored intraday on the Most Active Stocks page.",0.015676377341151237,0.014207047410309315,0.9701166152954102,neutral,0.0014693299308419228
+6,2012-12-10 01:45:00,The NASDAQ 100 index closed up .27% for the day; a total of 7.03 points.,0.9175949692726135,0.038271673023700714,0.04413331300020218,positive,0.8793233036994934
+7,2012-12-10 01:45:00,"The current value is 2,647.57. priceline.com Incorporated ( PCLN ) had the largest percent change down (-5.03%) while Micron Technology, Inc. ( MU ) had the largest percent change gain rising 3.65%.",0.039065662771463394,0.8337897658348083,0.12714450061321259,negative,-0.7947241067886353
+8,2012-12-10 01:45:00,The Dow Jones index closed up .11% for the day; a total of 14.75 points.,0.9044628739356995,0.045629870146512985,0.049907244741916656,positive,0.8588330149650574
+9,2012-12-10 01:45:00,"The current value is 13,169.88.",0.014815706759691238,0.008288945071399212,0.9768953323364258,neutral,0.0065267616882920265
+10,2012-12-10 01:45:00,"Home Depot, Inc. (The) ( HD ) had the largest percent change down (-2.19%) while Cisco Systems, Inc. ( CSCO ) had the largest percent change gain rising 2.35%.",0.048751577734947205,0.8033967614173889,0.14785167574882507,negative,-0.7546451687812805
+11,2012-12-10 01:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

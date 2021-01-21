@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-14 07:24:00,"In early trading on Wednesday, shares of Nike topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.9%.",0.9408432245254517,0.03060157597064972,0.028555242344737053,positive,0.9102416634559631
+1,2018-11-14 07:24:00,"Year to date, Nike registers a 23.7% gain.",0.9393376111984253,0.020056502893567085,0.04060596600174904,positive,0.9192811250686646
+2,2018-11-14 07:24:00,"And the worst performing Dow component thus far on the day is UnitedHealth Group, trading down 0.5%.",0.020666975528001785,0.9643674492835999,0.01496556494385004,negative,-0.9437004923820496
+3,2018-11-14 07:24:00,UnitedHealth Group is showing a gain of 21.5% looking at the year to date performance.,0.9566550850868225,0.019047996029257774,0.024296890944242477,positive,0.9376071095466614
+4,2018-11-14 07:24:00,"Two other components making moves today are Procter & Gamble, trading down 0.4%, and Caterpillar, trading up 2.2% on the day.",0.03634294867515564,0.9094945192337036,0.054162539541721344,negative,-0.8731515407562256
+5,2018-11-14 07:24:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

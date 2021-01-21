@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-02 00:21:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in International Business Machines Corp (Symbol: IBM), where a total volume of 25,813 contracts has been traded thus far today, a contract volume which is representative of approximately 2.6 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.03182622417807579,0.011288239620625973,0.956885576248169,neutral,0.020537983626127243
+1,2018-04-02 00:21:00,"That number works out to 57.2% of IBM's average daily trading volume over the past month, of 4.5 million shares.",0.6120301485061646,0.024672919884324074,0.36329686641693115,positive,0.587357223033905
+2,2018-04-02 00:21:00,"Especially high volume was seen for the $160 strike call option expiring June 15, 2018 , with 3,508 contracts trading so far today, representing approximately 350,800 underlying shares of IBM.",0.3022781014442444,0.01307580154389143,0.6846460700035095,neutral,0.2892023026943207
+3,2018-04-02 00:21:00,"Below is a chart showing IBM's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) options are showing a volume of 29,093 contracts thus far today.",0.021700743585824966,0.03904716670513153,0.9392520785331726,neutral,-0.017346423119306564
+4,2018-04-02 00:21:00,"That number of contracts represents approximately 2.9 million underlying shares, working out to a sizeable 56.4% of HD's average daily trading volume over the past month, of 5.2 million shares.",0.14196309447288513,0.00944850780069828,0.8485883474349976,neutral,0.1325145810842514
+5,2018-04-02 00:21:00,"Particularly high volume was seen for the $180 strike call option expiring April 06, 2018 , with 1,259 contracts trading so far today, representing approximately 125,900 underlying shares of HD.",0.17978279292583466,0.010040655732154846,0.8101765513420105,neutral,0.1697421371936798
+6,2018-04-02 00:21:00,"Below is a chart showing HD's trailing twelve month trading history, with the $180 strike highlighted in orange:
+
+And j2 Global Inc (Symbol: JCOM) saw options trading volume of 2,664 contracts, representing approximately 266,400 underlying shares or approximately 56.3% of JCOM's average daily trading volume over the past month, of 472,800 shares.",0.019357750192284584,0.012121995911002159,0.9685202836990356,neutral,0.007235754281282425
+7,2018-04-02 00:21:00,"Especially high volume was seen for the $70 strike put option expiring May 18, 2018 , with 1,325 contracts trading so far today, representing approximately 132,500 underlying shares of JCOM.",0.30895596742630005,0.011783759109675884,0.6792603135108948,neutral,0.2971722185611725
+8,2018-04-02 00:21:00,"Below is a chart showing JCOM's trailing twelve month trading history, with the $70 strike highlighted in orange:
+
+For the various different available expirations for IBM options , HD options , or JCOM options , visit StockOptionsChannel.com.",0.01027984544634819,0.02434895560145378,0.9653711318969727,neutral,-0.01406911015510559
+9,2018-04-02 00:21:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

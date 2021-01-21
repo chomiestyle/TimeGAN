@@ -1,0 +1,105 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-15 14:20:05,"Chicago, IL – October 15, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog.",0.02020907960832119,0.012291133403778076,0.9674997329711914,neutral,0.007917946204543114
+1,2020-10-15 14:20:05,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2020-10-15 14:20:05,"Stocks recently featured in the blog include NIKE Inc. NKE, salesforce.com, inc. CRM, Walmart Inc. WMT, The Procter & Gamble Co. PG and 3M Co. MMM.",0.01719040609896183,0.014754869975149632,0.9680546522140503,neutral,0.0024355361238121986
+3,2020-10-15 14:20:05,"Here are highlights from Wednesday’s Analyst Blog:
+
+After September's turmoil, Wall Street has recovered to a great extent so far in October.",0.891538143157959,0.027568785473704338,0.08089303225278854,positive,0.8639693856239319
+4,2020-10-15 14:20:05,"The three major stock indexes — the Dow, the S&P 500 and the Nasdaq Composite — are up 3.2%, 4.4% and 6.2%, respectively, month to date.",0.9344204068183899,0.02626621164381504,0.03931332752108574,positive,0.9081541895866394
+5,2020-10-15 14:20:05,"However, markets are not out of the woods.",0.14813213050365448,0.07620085775852203,0.7756670713424683,neutral,0.07193127274513245
+6,2020-10-15 14:20:05,Four major factors are present that can flare up market volatility anytime.,0.043015215545892715,0.016065191477537155,0.9409196376800537,neutral,0.02695002406835556
+7,2020-10-15 14:20:05,"At this stage, it will be prudent to invest in Dow stocks with a favorable Zacks Rank that are likely to provide solid returns in the near term.",0.8169272541999817,0.012183143757283688,0.17088963091373444,positive,0.8047441244125366
+8,2020-10-15 14:20:05,U.S. Congress is yet to reach an amicable solution regarding the size and scope of the second round of coronavirus-aid package.,0.5427752733230591,0.21710078418254852,0.2401238977909088,positive,0.32567447423934937
+9,2020-10-15 14:20:05,The Democrats have settled for a $2.2 trillion stimulus while the White House has approved only $1.8 trillion.,0.32395002245903015,0.17424894869327545,0.5018010139465332,neutral,0.1497010737657547
+10,2020-10-15 14:20:05,"It is not clear whether a deal will arrive before the U.S. presidential election scheduled on Nov 3, though House speaker Nancy Pelosi said she is still hopeful of a deal.",0.4017718732357025,0.128138467669487,0.47008970379829407,neutral,0.2736334204673767
+11,2020-10-15 14:20:05,"Meanwhile, the Republic-controlled Senate leader Mitch McConnell's separate stimulus proposal worth just $500 billion has been rejected by President Donald Trump.",0.09570851922035217,0.7285621166229248,0.1757294237613678,negative,-0.632853627204895
+12,2020-10-15 14:20:05,The year 2020 is likely to remain coronavirus-stricken as the availability of a vaccine by the year-end looks unlikely.,0.0477679967880249,0.3237416446208954,0.6284903883934021,neutral,-0.2759736478328705
+13,2020-10-15 14:20:05,"On Oct 13, the FDA paused the late-stage clinical trials of Lilly's leading monoclonal antibody treatment for the coronavirus over potential safety concerns.",0.025382690131664276,0.9308778047561646,0.04373951256275177,negative,-0.9054951071739197
+14,2020-10-15 14:20:05,"On Oct 12, J&J announced that the company has halted clinical trials of its late-stage vaccine for the treatment of COVID-19 after a participant reported an “adverse event” the day before.",0.01831066608428955,0.9544713497161865,0.027217959985136986,negative,-0.936160683631897
+15,2020-10-15 14:20:05,The company's data and safety monitoring board will investigate the unexplained illness in detail.,0.021775061264634132,0.029809411615133286,0.9484155178070068,neutral,-0.008034350350499153
+16,2020-10-15 14:20:05,"Last month, AstraZeneca had halted late-stage clinical trials of its coronavirus vaccine on safety concerns.",0.01898670755326748,0.9566444158554077,0.02436891198158264,negative,-0.9376577138900757
+17,2020-10-15 14:20:05,The company was conducting clinical trials in association with Oxford University.,0.09465960413217545,0.007367165293544531,0.8979731798171997,neutral,0.08729244023561478
+18,2020-10-15 14:20:05,"However, the clinical trial has restarted in the U.K.",0.30793318152427673,0.015140342526137829,0.6769264340400696,neutral,0.29279282689094543
+19,2020-10-15 14:20:05,The U.S. presidential election is less than a month away.,0.16668850183486938,0.18146191537380219,0.6518495678901672,neutral,-0.0147734135389328
+20,2020-10-15 14:20:05,"Historically, stock markets have remained volatile during the month before the election.",0.03546847030520439,0.879643976688385,0.08488761633634567,negative,-0.8441755175590515
+21,2020-10-15 14:20:05,Market participants generally choose to hold cash instead of investing in risky assets like equities while assessing the economic and financial consequences of the election result.,0.10491249710321426,0.03793659433722496,0.8571508526802063,neutral,0.0669759064912796
+22,2020-10-15 14:20:05,The third-quarter 2020 earnings season has started this week.,0.06165679916739464,0.014147523790597916,0.9241956472396851,neutral,0.04750927537679672
+23,2020-10-15 14:20:05,"Despite negative expectations, the important fact is that overall projections have gradually improved since July, on the reopening of a large part of the U.S. economy.",0.9404467344284058,0.017687899991869926,0.04186534881591797,positive,0.9227588176727295
+24,2020-10-15 14:20:05,"However, if actual results come in worse than expected, or companies provide a weak guidance or fail to provide any guidance due to lack of business foresight, market participants' confidence will be adversely impacted.",0.018053235486149788,0.9557324647903442,0.026214366778731346,negative,-0.9376792311668396
+25,2020-10-15 14:20:05,We have narrowed down our search to five Dow stocks with strong short-term and long-term (3-5 years) growth potential.,0.12772981822490692,0.007589190267026424,0.86468106508255,neutral,0.12014062702655792
+26,2020-10-15 14:20:05,"All these stocks witnessed robust earnings estimate revisions in the last 7 to 60 days, indicating solid business prospects.",0.9515352249145508,0.01916445791721344,0.029300319030880928,positive,0.9323707818984985
+27,2020-10-15 14:20:05,Each of our picks carries either a Zacks Rank #1 (Strong Buy) or 2 (Buy).,0.15561443567276,0.008347852155566216,0.8360377550125122,neutral,0.14726658165454865
+28,2020-10-15 14:20:05,You can see the complete list of today’s Zacks #1 Rank stocks here.,0.03229916840791702,0.023273371160030365,0.944427490234375,neutral,0.009025797247886658
+29,2020-10-15 14:20:05,"NIKE Inc. is engaged in the business of designing, developing and marketing of athletic footwear, apparel, equipment and accessories, and services for men, women and children worldwide.",0.036322858184576035,0.004562704358249903,0.9591144919395447,neutral,0.03176015242934227
+30,2020-10-15 14:20:05,"Despite the volatile macroeconomic and geopolitical environment, NIKE expects to continue investing in key capabilities to aid digital transformation and deliver robust growth in fiscal 2021 (ending May 2021) and beyond.",0.9173406958580017,0.013241634704172611,0.06941764056682587,positive,0.9040990471839905
+31,2020-10-15 14:20:05,The Zacks Rank #1 company has an expected earnings growth rate of 73.8% for the current year.,0.9462989568710327,0.01583176851272583,0.03786933422088623,positive,0.9304671883583069
+32,2020-10-15 14:20:05,Its long-term growth rate is 16.7%.,0.3543199598789215,0.010829095728695393,0.6348509192466736,neutral,0.343490868806839
+33,2020-10-15 14:20:05,The Zacks Consensus Estimate for the current year has improved by 20.3% over the last 30 days.,0.9558844566345215,0.02297462522983551,0.021140888333320618,positive,0.9329098463058472
+34,2020-10-15 14:20:05,salesforce.com.inc.,0.01956607773900032,0.01588166505098343,0.9645522832870483,neutral,0.0036844126880168915
+35,2020-10-15 14:20:05,"is the leading provider of on-demand Customer Relationship Management software, which enables organizations to better manage critical operations such as sales force automation, customer service and support, marketing automation, document management, analytics and custom application development.",0.47517216205596924,0.00911265891045332,0.5157151818275452,neutral,0.46605950593948364
+36,2020-10-15 14:20:05,The Zacks Rank #1 company has an expected earnings growth rate of 25.1% for the current year (ending January 2021).,0.9440297484397888,0.015954766422510147,0.04001549258828163,positive,0.9280749559402466
+37,2020-10-15 14:20:05,Its long-term growth rate is 18%.,0.42759594321250916,0.010707446373999119,0.5616965889930725,neutral,0.4168885052204132
+38,2020-10-15 14:20:05,The Zacks Consensus Estimate for the current year has improved by 25.9% over the last 60 days.,0.9557234048843384,0.023322390392422676,0.0209541916847229,positive,0.9324010014533997
+39,2020-10-15 14:20:05,"Walmart Inc. operates retail stores, restaurants, discount stores, supermarkets, supercenters, hypermarkets, warehouse clubs, apparel stores, Sam’s Clubs, and NeighborhoodMarkets, as well as the websites, walmart.com and samsclub.com.",0.013155041262507439,0.008506616577506065,0.9783384203910828,neutral,0.004648424685001373
+40,2020-10-15 14:20:05,The Zacks Rank #2 company has an expected earnings growth rate of 8.5% for the current year (ending January 2021).,0.941660463809967,0.015878310427069664,0.04246121644973755,positive,0.9257821440696716
+41,2020-10-15 14:20:05,Its long-term growth rate is 5.6%.,0.3549501597881317,0.010530812665820122,0.6345190405845642,neutral,0.34441936016082764
+42,2020-10-15 14:20:05,The Zacks Consensus Estimate for the current year has improved 1.3% over the last 30 days.,0.9540093541145325,0.02283530682325363,0.023155314847826958,positive,0.9311740398406982
+43,2020-10-15 14:20:05,"The Procter & Gamble Co. provides branded consumer packaged goods to consumers in North and Latin America, Europe, the Asia Pacific, Greater China, India, the Middle East, and Africa.",0.04464941471815109,0.004546476062387228,0.9508041143417358,neutral,0.040102940052747726
+44,2020-10-15 14:20:05,"It operates in five segments: Beauty; Grooming, Health Care, Fabric & Home Care, and Baby, Feminine & Family Care.",0.02129743993282318,0.005823465064167976,0.9728790521621704,neutral,0.015473974868655205
+45,2020-10-15 14:20:05,The Zacks Rank #2 company has an expected earnings growth rate of 5.7% for the current year (ending June 2021).,0.9413283467292786,0.01577690802514553,0.042894814163446426,positive,0.9255514144897461
+46,2020-10-15 14:20:05,Its long-term growth rate is 6.5%.,0.3595774471759796,0.01046520471572876,0.6299573183059692,neutral,0.34911224246025085
+47,2020-10-15 14:20:05,The Zacks Consensus Estimate for the current year has improved 0.2% over the last 7 days.,0.949699878692627,0.026869388297200203,0.02343066781759262,positive,0.9228304624557495
+48,2020-10-15 14:20:05,"3M Co. develops, manufactures, and markets various diversified technology products worldwide.",0.0633912906050682,0.0042661395855247974,0.9323425889015198,neutral,0.0591251514852047
+49,2020-10-15 14:20:05,"It operates through four business segments: Safety and Industrial, Transportation and Electronics, Health Care, and Consumer.",0.016244366765022278,0.006353643257170916,0.9774019718170166,neutral,0.00989072397351265
+50,2020-10-15 14:20:05,The Zacks Rank #2 company has an expected earnings growth rate of 8.4% for next year.,0.9471630454063416,0.016260622069239616,0.036576367914676666,positive,0.9309024214744568
+51,2020-10-15 14:20:05,Its long-term growth rate is 9.5%.,0.3484167158603668,0.01056651771068573,0.6410167217254639,neutral,0.3378502130508423
+52,2020-10-15 14:20:05,The Zacks Consensus Estimate for the current year has improved 0.7% over the last 7 days.,0.951202392578125,0.02579805813729763,0.022999610751867294,positive,0.9254043102264404
+53,2020-10-15 14:20:05,Have You Seen Zacks’ 2020 Election Stock Report?,0.042083654552698135,0.06459441035985947,0.8933219313621521,neutral,-0.02251075580716133
+54,2020-10-15 14:20:05,The upcoming election could be a massive buying opportunity for savvy investors.,0.708969235420227,0.02123156376183033,0.2697991728782654,positive,0.6877376437187195
+55,2020-10-15 14:20:05,Trillions of dollars will shift into new market sectors after the election.,0.1621963530778885,0.009247470647096634,0.82855623960495,neutral,0.15294888615608215
+56,2020-10-15 14:20:05,"The question is, which sectors will soar for each candidate?",0.03403336554765701,0.017085494473576546,0.9488810896873474,neutral,0.016947871074080467
+57,2020-10-15 14:20:05,Zacks has put together a new special report to help readers like you target big profits.,0.17632099986076355,0.009073062799870968,0.8146058917045593,neutral,0.16724793612957
+58,2020-10-15 14:20:05,"The 2020 Election Stock Report reveals specific stocks you’ll want to own immediately after the results are announced – 6 if Trump wins, 6 if Biden wins.",0.026526274159550667,0.006991740316152573,0.9664819240570068,neutral,0.019534533843398094
+59,2020-10-15 14:20:05,"Past election reports have led investors to gains of +71%, +83%, even +185% in the following months.",0.9460766315460205,0.020473692566156387,0.033449698239564896,positive,0.925602912902832
+60,2020-10-15 14:20:05,This year’s picks could be even more lucrative.,0.5757070779800415,0.019833197817206383,0.404459685087204,positive,0.5558738708496094
+61,2020-10-15 14:20:05,"Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.01284766010940075,0.009404126554727554,0.9777481555938721,neutral,0.003443533554673195
+62,2020-10-15 14:20:05,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+63,2020-10-15 14:20:05,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+64,2020-10-15 14:20:05,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+65,2020-10-15 14:20:05,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+66,2020-10-15 14:20:05,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+67,2020-10-15 14:20:05,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+68,2020-10-15 14:20:05,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+69,2020-10-15 14:20:05,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+70,2020-10-15 14:20:05,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+71,2020-10-15 14:20:05,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+72,2020-10-15 14:20:05,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+73,2020-10-15 14:20:05,Visit https://www.zacks.com/performancefor information about the performance numbers displayed in this press release.,0.0104979258030653,0.01457673404365778,0.9749253988265991,neutral,-0.00407880824059248
+74,2020-10-15 14:20:05,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+75,2020-10-15 14:20:05,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+76,2020-10-15 14:20:05,"Click to get this free report
+
+ 
+
+NIKE, Inc. (NKE) : Free Stock Analysis Report
+
+ 
+
+Walmart Inc. (WMT) : Free Stock Analysis Report
+
+ 
+
+3M Company (MMM) : Free Stock Analysis Report
+
+ 
+
+salesforce.com, inc. (CRM) : Free Stock Analysis Report
+
+ 
+
+Procter Gamble Company The (PG) : Free Stock Analysis Report
+
+ 
+
+To read this article on Zacks.com click here.",0.01170267816632986,0.01697801798582077,0.971319317817688,neutral,-0.00527533981949091
+77,2020-10-15 14:20:05,Zacks Investment Research,0.04020046442747116,0.013417160138487816,0.9463823437690735,neutral,0.026783304288983345

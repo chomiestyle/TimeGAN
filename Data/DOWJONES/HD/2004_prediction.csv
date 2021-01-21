@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-02 11:05:33,"Home Depot HD named a new president and COO -- Edward Decker, who currently is its executive vice president of merchandising.",0.12758667767047882,0.012067249976098537,0.8603460788726807,neutral,0.11551942676305771
+1,2020-10-02 11:05:33,"Home Depot (HD) - Get Report named a new president and chief operating officer -- Edward Decker, who currently is its executive vice president of merchandising.",0.06622225046157837,0.011440271511673927,0.922337532043457,neutral,0.05478198081254959
+2,2020-10-02 11:05:33,"Decker, 57, earlier had held the post of senior vice president of retail finance, pricing analytics, and assortment planning at the Atlanta home-improvement chain.",0.034351468086242676,0.03258774057030678,0.9330607652664185,neutral,0.0017637275159358978
+3,2020-10-02 11:05:33,He joined Home Depot in 2000.,0.051002148538827896,0.013946710154414177,0.9350510835647583,neutral,0.03705544024705887
+4,2020-10-02 11:05:33,The president and COO positions are new at Home Depot.,0.017186490818858147,0.014133373275399208,0.9686800837516785,neutral,0.0030531175434589386
+5,2020-10-02 11:05:33,"Home Depot shares recently traded $276.56, down 0.4%, on a down day on Wall Street.",0.02069835178554058,0.9665569067001343,0.012744711712002754,negative,-0.9458585381507874
+6,2020-10-02 11:05:33,"The stock has advanced 55% over the past six months as consumers, locked down during the pandemic, put a lot into fixing up their homes.",0.9287823438644409,0.021177466958761215,0.05004020407795906,positive,0.9076048731803894
+7,2020-10-02 11:05:33,"In addition to Decker's appointment, Ann-Marie Campbell has been named executive vice president of U.S. stores and international operations.",0.0686490386724472,0.010321369394659996,0.9210296273231506,neutral,0.05832766741514206
+8,2020-10-02 11:05:33,"She adds responsibility for all operations, business functions and strategy for the Canada and Mexico businesses.",0.016197262331843376,0.009726572781801224,0.9740762114524841,neutral,0.006470689550042152
+9,2020-10-02 11:05:33,"And Jeff Kinnaird has been named executive vice president of merchandising, reporting to Decker.",0.051541320979595184,0.01237496081739664,0.9360837936401367,neutral,0.03916636109352112
+10,2020-10-02 11:05:33,He was previously president of Home Depot Canada.,0.02861291542649269,0.00797884538769722,0.9634081721305847,neutral,0.02063407003879547
+11,2020-10-02 11:05:33,"It “continues to benefit from a still stable housing market along with improvements in its merchandising and distribution network,” she wrote in a commentary last month.",0.9525474309921265,0.016245044767856598,0.031207488849759102,positive,0.9363023638725281
+12,2020-10-02 11:05:33,"“Its flexible distribution network will help elevate the firm's brand intangible asset, with faster time to delivery improving the do-it-yourself ... experience and market delivery centers catering to the pro business.",0.9393243789672852,0.014336638152599335,0.04633895307779312,positive,0.9249877333641052
+13,2020-10-02 11:05:33,"""The success of ongoing initiatives should set the operating margin back on an improving trajectory in 2022, as investments wind down.”
+
+Katz nonetheless sees the stock as overvalued, putting its fair value at $200.",0.8507870435714722,0.04378444701433182,0.10542847961187363,positive,0.807002604007721

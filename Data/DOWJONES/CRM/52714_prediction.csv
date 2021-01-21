@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-26 21:00:00,"salesforce.com reported better than expected quarterly earnings results last week, sending the stock soaring 7% on Friday.",0.9354739189147949,0.04249126836657524,0.022034810855984688,positive,0.8929826617240906
+1,2014-08-26 21:00:00,The jump to roughly $60 per share finally brings the stock up to the S&P 500 's performance for 2014 -- both upabout 8% year to date.,0.9353832006454468,0.030780471861362457,0.03383641317486763,positive,0.9046027064323425
+2,2014-08-26 21:00:00,"With the stock trading higher, it's a good time for a pulse check on this fast-growing cloud computing company.",0.5158821940422058,0.01872042566537857,0.4653974175453186,positive,0.49716177582740784
+3,2014-08-26 21:00:00,Here are five key takeaways from Salesforce's fiscal 2015 second-quarter earnings call that investors watching the company might find intriguing.,0.05330352112650871,0.01873561181128025,0.9279609322547913,neutral,0.03456790745258331
+4,2014-08-26 21:00:00,"While 71% of Saleforce's revenue today comes from its Americas segment, its Europe and Asia-Pacific segments could serve as key growth markets in the future.",0.5643042325973511,0.009556827135384083,0.42613890767097473,positive,0.5547474026679993
+5,2014-08-26 21:00:00,"Salesforce President and Vice Chairman Keith Block emphasized the importance of international markets in the company's growth goals: ""We're just beginning to scratch the surface on our international growth potential.""",0.7205473184585571,0.013420245610177517,0.26603251695632935,positive,0.7071270942687988
+6,2014-08-26 21:00:00,"Amid sluggish rates in international markets today, this comment was good news.",0.9208421111106873,0.020196670666337013,0.058961234986782074,positive,0.9006454348564148
+7,2014-08-26 21:00:00,Both Europe and the Asia-Pacific are recording slower revenue growth for the company than the Americas segment.,0.019361788406968117,0.9593891501426697,0.021249011158943176,negative,-0.9400273561477661
+8,2014-08-26 21:00:00,"During the second quarter, the two markets' year-over-year quarterly revenue was up 36% and 27%, respectively.",0.9550827145576477,0.019974270835518837,0.024943076074123383,positive,0.9351084232330322
+9,2014-08-26 21:00:00,"Comparatively, the company's Americas segment rose 39%.",0.954531192779541,0.019904062151908875,0.025564689189195633,positive,0.934627115726471
+10,2014-08-26 21:00:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+11,2014-08-26 21:00:00,"Europe could drive revenue growth in the near term
+
+Europe could particularly prove to be a growth catalyst for the company in the near term.",0.9050396680831909,0.01330450177192688,0.08165586739778519,positive,0.8917351961135864
+12,2014-08-26 21:00:00,"Noting accelerating revenue growth rates on a sequential basis, Salesforce CEO Marc Benioff cited a favorable cultural shift on the continent toward cloud customer relationship management, or CRM, services:""[W]e have just seen remarkable deal growth and sales in Europe over the last several years now is because ... they are now deeply committed and I believe earnestly adopting cloud in a whole new level.""",0.9142443537712097,0.013476560823619366,0.07227902114391327,positive,0.9007678031921387
+13,2014-08-26 21:00:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+14,2014-08-26 21:00:00,"An industry-specialized sales strategy looks like a winner
+
+As a proven strategy that has already been been implemented by other companies serving the enterprise markets with cloud strategies, it's no surprise that Salesforce's focus on catering to specific markets is working.",0.8589668273925781,0.013507265597581863,0.12752588093280792,positive,0.8454595804214478
+15,2014-08-26 21:00:00,The company's boldness and rapid execution with this strategy is evident by its efforts to build solutions for the nascent wearables categories.,0.8474931716918945,0.010911842808127403,0.14159490168094635,positive,0.8365813493728638
+16,2014-08-26 21:00:00,Salesforce is already the enterprise leader in the fast-growing category.,0.8557029366493225,0.015886232256889343,0.12841075658798218,positive,0.839816689491272
+17,2014-08-26 21:00:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+18,2014-08-26 21:00:00,"On track with our growth goals
+
+Given Salesforce's pricey valuation, it was good to see the company showing confidence in its growth story by boosting the quarterly and annual guidance and reaffirming that it's on track with its top-line goals.",0.9423335194587708,0.017863428220152855,0.03980312496423721,positive,0.924470067024231
+19,2014-08-26 21:00:00,"In less than a year, the company surpassed a $4 billion annual revenue run rate and went on to reach its $5 billion goal.",0.9109426140785217,0.016088025644421577,0.07296939194202423,positive,0.8948546051979065
+20,2014-08-26 21:00:00,"At this rate, the company could realistically hit an annual run rate of $10 billion in revenue in four years.",0.895808219909668,0.014792307280004025,0.08939948678016663,positive,0.8810158967971802
+21,2014-08-26 21:00:00,5.,0.023618461564183235,0.016584821045398712,0.9597967267036438,neutral,0.007033640518784523
+22,2014-08-26 21:00:00,"Profitability is on the way
+
+While Salesforce is still reporting generally accepted accounting principles losses on the income statement, investors are betting the company can scale its business enough in the future to reach profitability.",0.9433501362800598,0.018996462225914,0.03765340894460678,positive,0.9243536591529846
+23,2014-08-26 21:00:00,Benioff emphasized during the call that reaching profitability remains a priority and that progress is being madetoward that end.,0.8983237147331238,0.013907274231314659,0.0877690464258194,positive,0.8844164609909058
+24,2014-08-26 21:00:00,"""And while we delivered world class growth, we also our grew our operating margin, something we're deeply committed to,"" he said.",0.9328377842903137,0.01775137335062027,0.04941091313958168,positive,0.9150863885879517
+25,2014-08-26 21:00:00,"Overall, the quarterly report card gleaned from the earnings call for this hot growth stock revealed a company that continues to score straight As on underlying business performance.",0.8831295371055603,0.02327590622007847,0.09359455853700638,positive,0.8598536252975464
+26,2014-08-26 21:00:00,"Leaked: Apple's next smart device (warning, it may shock you)
+
+Apple recently recruited a secret-development ""dream team"" to guarantee its newest smart device was kept hidden from the public for as long as possible.",0.5011886358261108,0.02460174635052681,0.47420957684516907,positive,0.47658687829971313
+27,2014-08-26 21:00:00,"But the secret is out, and some early viewers are claiming its everyday impact could trump the iPod, iPhone, and the iPad.",0.1140253022313118,0.14586493372917175,0.7401097416877747,neutral,-0.031839631497859955
+28,2014-08-26 21:00:00,"In fact, ABI Research predicts 485 million of this type of device will be sold per year.",0.12390507012605667,0.005444846116006374,0.870650053024292,neutral,0.11846022307872772
+29,2014-08-26 21:00:00,But one small company makes Apple's gadget possible.,0.06444790959358215,0.09449975937604904,0.8410523533821106,neutral,-0.03005184978246689
+30,2014-08-26 21:00:00,And its stock price has nearly unlimited room to run for early in-the-know investors.,0.31984880566596985,0.017700059339404106,0.6624511480331421,neutral,0.3021487593650818
+31,2014-08-26 21:00:00,"To be one of them, and see Apple's newest smart gizmo, just click here !",0.11874427646398544,0.030425038188695908,0.850830614566803,neutral,0.08831924200057983
+32,2014-08-26 21:00:00,The article 5 Things salesforce.com's Management Wants You to Know originally appeared on Fool.com.,0.0130407540127635,0.010877597145736217,0.9760816693305969,neutral,0.0021631568670272827
+33,2014-08-26 21:00:00,Daniel Sparks owns shares of Apple.,0.02223740890622139,0.012015443295240402,0.9657471179962158,neutral,0.010221965610980988
+34,2014-08-26 21:00:00,The Motley Fool recommends Apple and Salesforce.com.,0.02552022784948349,0.029912548139691353,0.9445672035217285,neutral,-0.004392320290207863
+35,2014-08-26 21:00:00,The Motley Fool owns shares of Apple.,0.04145649075508118,0.024770189076662064,0.9337733387947083,neutral,0.016686301678419113
+36,2014-08-26 21:00:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+37,2014-08-26 21:00:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+38,2014-08-26 21:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2014-08-26 21:00:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+40,2014-08-26 21:00:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+41,2014-08-26 21:00:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+42,2014-08-26 21:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

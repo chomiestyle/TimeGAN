@@ -1,0 +1,90 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-03 21:40:00,The latest employment and wages numbers were released today and both look encouraging.,0.5112417936325073,0.040563106536865234,0.44819509983062744,positive,0.4706786870956421
+1,2017-08-03 21:40:00,While employment numbers have been strong for a while - unemployment now officially sits at 4.3% - the knock the jobs number has taken is that the ones being created are lower-paying jobs that don't really help revive the middle class.,0.037891656160354614,0.8806850910186768,0.08142321556806564,negative,-0.8427934646606445
+2,2017-08-03 21:40:00,"That said, wages have been stagnant.",0.02237073704600334,0.937743067741394,0.039886150509119034,negative,-0.9153723120689392
+3,2017-08-03 21:40:00,But today's numbers show that wages are on the rise.,0.6307211518287659,0.18752002716064453,0.18175877630710602,positive,0.44320112466812134
+4,2017-08-03 21:40:00,And that's a good thing for the broader economy.,0.6549485325813293,0.01836474984884262,0.3266867399215698,positive,0.6365838050842285
+5,2017-08-03 21:40:00,And one place we're seeing strength is in the tech sector.,0.6773085594177246,0.01424651313573122,0.30844494700431824,positive,0.6630620360374451
+6,2017-08-03 21:40:00,This is the sector least troubled by Washington's inability to get anything done.,0.056536369025707245,0.6828253269195557,0.2606382966041565,negative,-0.6262889504432678
+7,2017-08-03 21:40:00,It operates at the consumer and business level and is driving the global economy at this point.,0.10732505470514297,0.005927638616412878,0.8867473006248474,neutral,0.10139741748571396
+8,2017-08-03 21:40:00,"Following are seven blue-chip stocks that can still beat the Street, and they're worth your attention now.",0.18598493933677673,0.010522148571908474,0.8034929037094116,neutral,0.17546279728412628
+9,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Microsoft (MSFT)
+
+Microsoft Corporation (NASDAQ: MSFT ) looks like it's finally expanding its revenue base to include new markets.",0.9200945496559143,0.014243773184716702,0.06566169112920761,positive,0.9058507680892944
+10,2017-08-03 21:40:00,"This started with its Azure cloud storage network, which continues to grow at compelling rates.",0.7107186913490295,0.010189589112997055,0.2790916860103607,positive,0.7005290985107422
+11,2017-08-03 21:40:00,"It still remains a small part of the overall company's revenue, but its success and double- and triple-digit growth bodes well for the future.",0.7587389945983887,0.017915653064846992,0.22334536910057068,positive,0.7408233284950256
+12,2017-08-03 21:40:00,"MSFT also has launched its Dynamics 365, a suite of cloud-based customer relationship management (CRM) and enterprise resource planning (ERP) software for businesses.",0.2817656397819519,0.00665803300216794,0.7115762829780579,neutral,0.27510759234428406
+13,2017-08-03 21:40:00,And sales are off to a strong start.,0.9061788320541382,0.016264602541923523,0.07755657285451889,positive,0.8899142146110535
+14,2017-08-03 21:40:00,"Moving its most familiar Windows platform into the cloud has worked very well, as Office 365 sales continue to grow.",0.9246795773506165,0.013568596914410591,0.061751894652843475,positive,0.9111109972000122
+15,2017-08-03 21:40:00,"With Dynamics 365, it has a new suite of enterprise software and can compete in new markets with a complementary package to Office 365.",0.8478440642356873,0.012844827957451344,0.13931116461753845,positive,0.8349992632865906
+16,2017-08-03 21:40:00,This could be a great way to extend its standing with its traditional customer base.,0.9376791715621948,0.014448720030486584,0.047872211784124374,positive,0.9232304692268372
+17,2017-08-03 21:40:00,And the Dynamics 365 launch also starts to give us some insight on Microsoft's interest in LinkedIn.,0.2696491479873657,0.008929639123380184,0.7214212417602539,neutral,0.26071950793266296
+18,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Alibaba (BABA)
+
+Alibaba Group Holding Ltd (NASDAQ: BABA ) is essentially the Amazon.com, Inc. (NASDAQ: AMZN ) of China.",0.09940220415592194,0.006154985632747412,0.8944427967071533,neutral,0.09324721992015839
+19,2017-08-03 21:40:00,"And China, even in its ""weakened"" state is still growing in the 7% GDP range, compared to the U.S. GDP around 2.5%.",0.8831242322921753,0.05717197805643082,0.05970389395952225,positive,0.8259522318840027
+20,2017-08-03 21:40:00,"If you like Amazon, you should really like BABA.",0.10790672898292542,0.02557183988392353,0.8665213584899902,neutral,0.08233489096164703
+21,2017-08-03 21:40:00,"Right now, BABA has more than half a billion customers.",0.07340303808450699,0.006325149443000555,0.9202718138694763,neutral,0.0670778900384903
+22,2017-08-03 21:40:00,Amazon has around 375 million.,0.02190207690000534,0.009206816554069519,0.9688911437988281,neutral,0.012695260345935822
+23,2017-08-03 21:40:00,That gives you an idea of the might BABA brings to the table.,0.055546075105667114,0.010671102441847324,0.9337828159332275,neutral,0.044874973595142365
+24,2017-08-03 21:40:00,"Founder and CEO Jack Ma continues to expand the empire in similar fashion to Amazon leader Jeff Bezos, buying a major Chinese news outlet, expanding into groceries and growing its ad revenue.",0.8525174260139465,0.012392621487379074,0.1350899338722229,positive,0.840124785900116
+25,2017-08-03 21:40:00,"According to a recent article in InvestorPlace , BABA's fiscal 2017 sales represented 4.9% of China's GDP.",0.046472951769828796,0.014494422823190689,0.9390326738357544,neutral,0.03197852894663811
+26,2017-08-03 21:40:00,That's a company that is a solid choice for playing China's recovery.,0.7697341442108154,0.013791303150355816,0.21647457778453827,positive,0.7559428215026855
+27,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Visa (V)
+
+Visa Inc (NYSE: V ) is one of the leading innovators of the new electronic transaction age.",0.7681236863136292,0.012546349316835403,0.21932990849018097,positive,0.7555773258209229
+28,2017-08-03 21:40:00,"The most encouraging sign is after its pioneering work decades ago to become one of the world's leading credit card companies, it was flexible enough to see the move to electronic payments and take advantage of the opportunity.",0.8775725364685059,0.014126515947282314,0.10830090939998627,positive,0.8634459972381592
+29,2017-08-03 21:40:00,"It has now transitioned successfully into the 21 st century and has a huge amount of growth potential in emerging markets in South America, Africa and Asia.",0.9039685130119324,0.012211887165904045,0.08381964266300201,positive,0.8917566537857056
+30,2017-08-03 21:40:00,"As the developed economies revive, it will help expand the wealth in emerging markets and V will keep its blistering growth on track.",0.932024359703064,0.01847008243203163,0.04950564727187157,positive,0.9135542511940002
+31,2017-08-03 21:40:00,"Granted, V has a price-earnings ratio that looks like it belongs to a tech stock, but don't let that alone be your valuation gauge.",0.03928552195429802,0.0107207540422678,0.9499937295913696,neutral,0.02856476791203022
+32,2017-08-03 21:40:00,"The stock is up nearly 30% year to date, so that premium P/E doesn't look as intimidating.",0.8512222766876221,0.024907272309064865,0.12387048453092575,positive,0.8263149857521057
+33,2017-08-03 21:40:00,"And its path for growth is waxing, not waning.",0.6657634973526001,0.019852619618177414,0.3143838942050934,positive,0.6459108591079712
+34,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Nvidia (NVDA)
+
+Nvidia Corporation (NASDAQ: NVDA ) is one of the best placed companies in the markets today.",0.8917673826217651,0.015812840312719345,0.09241971373558044,positive,0.8759545683860779
+35,2017-08-03 21:40:00,Its visual computing chips and high-performance graphics boards are arguably the best in the industry.,0.7298951148986816,0.013236787170171738,0.25686806440353394,positive,0.716658353805542
+36,2017-08-03 21:40:00,"And at this watershed moment, where technology is allowing us to push the limits in artificial intelligence (autonomous vehicles, cybersecurity, healthcare) and connectivity (Internet of Things, real-time logistics, Big Data).",0.39446717500686646,0.027032116428017616,0.5785006880760193,neutral,0.3674350678920746
+37,2017-08-03 21:40:00,NVDA is at the core of these advancements.,0.22796620428562164,0.006759472191333771,0.7652743458747864,neutral,0.22120672464370728
+38,2017-08-03 21:40:00,And the stock has taken off.,0.060882776975631714,0.3927285075187683,0.5463886857032776,neutral,-0.3318457305431366
+39,2017-08-03 21:40:00,It's up 1136% in the past five years.,0.9371877312660217,0.018255120143294334,0.04455721005797386,positive,0.9189326167106628
+40,2017-08-03 21:40:00,That makes its P/E of 57 look like a bargain.,0.23076528310775757,0.05741935223340988,0.7118154168128967,neutral,0.1733459234237671
+41,2017-08-03 21:40:00,"And now that it has a market cap of $100 billion, it's no longer an acquisition target by bigger chipmakers.",0.13497759401798248,0.019255975261330605,0.8457664251327515,neutral,0.11572162061929703
+42,2017-08-03 21:40:00,It's a real competitor with the big players and its continuing to expand and partner with the best in its various sectors of interest.,0.8731218576431274,0.012202009558677673,0.11467618495225906,positive,0.8609198331832886
+43,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Netflix (NFLX)
+
+Netflix Inc (NASDAQ: NFLX ) has come a long way since its early days as a disruptor in the entertainment space by allowing subscribers to rent DVDs by mail.",0.2921842336654663,0.01543031819164753,0.6923854351043701,neutral,0.27675390243530273
+44,2017-08-03 21:40:00,"It seems a quaint business, given where NFLX and streaming video have ended up today.",0.01969861052930355,0.05379537120461464,0.9265060424804688,neutral,-0.03409676253795624
+45,2017-08-03 21:40:00,"NFLX has continued to be an industry disruptor, now with original programming and an expanding subscriber base beyond U.S. shores.",0.15393753349781036,0.4346729815006256,0.41138947010040283,negative,-0.28073543310165405
+46,2017-08-03 21:40:00,"Last month, NFLX announced second-quarter results and, much to its surprise, it had added 2 million more subscribers than even management predicted.",0.9175142645835876,0.01873236522078514,0.0637534037232399,positive,0.8987818956375122
+47,2017-08-03 21:40:00,NFLX was expecting subscriber growth for the quarter around 3.2 million - it came in at 5.2 million.,0.6649323105812073,0.022328322753310204,0.31273940205574036,positive,0.6426039934158325
+48,2017-08-03 21:40:00,"Now, the streaming service has more than 100 million members around the world.",0.18213814496994019,0.0077887652441859245,0.8100730776786804,neutral,0.17434938251972198
+49,2017-08-03 21:40:00,"Yes, its current P/E is a staggering 221, but its growth continues to prove that there is still plenty of blue sky for the stock.",0.8795044422149658,0.015191960148513317,0.10530359297990799,positive,0.864312469959259
+50,2017-08-03 21:40:00,NFLX is up 92% in the past 12 months and that kind of growth is not a fluke.,0.8950890302658081,0.015225962735712528,0.08968498557806015,positive,0.8798630833625793
+51,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: PayPal (PYPL)
+
+PayPal Holdings Inc (NASDAQ: PYPL ) was spun off from eBay Inc (NASDAQ EBAY ) in 2015 in an effort to allow PYPL to expand its operations beyond simply serving eBAY members.",0.44782939553260803,0.014947857707738876,0.5372227430343628,neutral,0.43288153409957886
+52,2017-08-03 21:40:00,"Now it is growing into its own e-commerce firm, offering financial services to B2C customers and getting into the credit markets.",0.7431254386901855,0.011247626505792141,0.24562698602676392,positive,0.7318778038024902
+53,2017-08-03 21:40:00,"Originally, most analysts speculated that some big internet firm would step in and buy PYPL to bolster the customer experience by having, essentially, an in-house bank to create frictionless transactions.",0.6739563345909119,0.01449195109307766,0.31155169010162354,positive,0.6594643592834473
+54,2017-08-03 21:40:00,"But now, it's obvious that PYPL is perfectly capable of standing on its own and taking on the old guard as well as the new guard in the e-commerce space.",0.5162627696990967,0.0156253594905138,0.4681118428707123,positive,0.500637412071228
+55,2017-08-03 21:40:00,It currently has operations in more than 40 countries.,0.06943199783563614,0.004378368146717548,0.926189661026001,neutral,0.06505362689495087
+56,2017-08-03 21:40:00,"And just last week, after beating earnings expectations yet again, PYPL revised its user growth and transactions volumes upward through the end of the year.",0.943608820438385,0.01866004429757595,0.03773120045661926,positive,0.9249487519264221
+57,2017-08-03 21:40:00,"With the stock up nearly 50% year-to-date, a P/E just slightly lower than that, and expanding growth, PYPL is firing on all cylinders.",0.8924965262413025,0.04701986908912659,0.060483530163764954,positive,0.8454766273498535
+58,2017-08-03 21:40:00,"Blue-Chip Stocks That Can Beat the Street: Applied Materials (AMAT)
+
+Applied Materials Inc (NASDAQ: AMAT ) has been around since 1967, so it knows a thing or two about the nature of the chip industry.",0.049711618572473526,0.0063669318333268166,0.9439214468002319,neutral,0.043344687670469284
+59,2017-08-03 21:40:00,"And right now, it's in the catbird seat as the next generation of semiconductor production ramps up.",0.3304285407066345,0.014101039618253708,0.6554704308509827,neutral,0.3163275122642517
+60,2017-08-03 21:40:00,Semiconductor stocks tend to be cyclical.,0.01269521564245224,0.05950770899653435,0.9277971386909485,neutral,-0.04681249335408211
+61,2017-08-03 21:40:00,They have multi-year growth markets and multi-year slow markets.,0.037636928260326385,0.008839774876832962,0.9535233378410339,neutral,0.028797153383493423
+62,2017-08-03 21:40:00,"As new technology demands - smartphones, tablets, mobile computing - expand, chipmakers and companies like AMAT, which makes the machines that build the chips, are the direct beneficiaries.",0.1345948427915573,0.012013762257993221,0.8533914089202881,neutral,0.12258107960224152
+63,2017-08-03 21:40:00,"As the technologies mature, demand slackens until the next tech cycle arrives.",0.026785951107740402,0.8892574906349182,0.08395659178495407,negative,-0.8624715209007263
+64,2017-08-03 21:40:00,"Right now, we're in the tech expansion phase and AMAT is a fundamental player on every level.",0.5510382056236267,0.010112169198691845,0.43884965777397156,positive,0.5409260392189026
+65,2017-08-03 21:40:00,"Up 33% year to date, it's still sitting at a P/E of 17, half its growth so far this year.",0.89324551820755,0.030097955837845802,0.0766565352678299,positive,0.8631475567817688
+66,2017-08-03 21:40:00,That disparity won't last long.,0.06761094182729721,0.12210723757743835,0.8102818131446838,neutral,-0.054496295750141144
+67,2017-08-03 21:40:00,Louis Navellier is a renowned growth investor.,0.533660352230072,0.011371090076863766,0.45496854186058044,positive,0.5222892761230469
+68,2017-08-03 21:40:00,"He is the editor of five investing newsletters: Blue Chip Growth , Emerging Growth, Ultimate Growth , Family Trust and Platinum Growth .",0.05003770440816879,0.0053718071430921555,0.9445905089378357,neutral,0.04466589540243149
+69,2017-08-03 21:40:00,"His most popular service, Blue Chip Growth, has a track record of beating the market 3:1 over the last 14 years.",0.5456966161727905,0.018717646598815918,0.43558576703071594,positive,0.5269789695739746
+70,2017-08-03 21:40:00,He uses a combination of quantitative and fundamental analysis to identify market-beating stocks.,0.044104330241680145,0.005041584838181734,0.9508541226387024,neutral,0.0390627458691597
+71,2017-08-03 21:40:00,"Mr. Navellier has made his proven formula accessible to investors via his free, online stock rating tool, PortfolioGrader.com .",0.14030127227306366,0.006860538851469755,0.8528382182121277,neutral,0.13344073295593262
+72,2017-08-03 21:40:00,Louis Navellier may hold some of the aforementioned securities in one or more of his newsletters.,0.012151041999459267,0.009621206670999527,0.9782277345657349,neutral,0.0025298353284597397
+73,2017-08-03 21:40:00,The post 7 Blue-Chip Stocks That Can Still Beat the Street appeared first on InvestorPlace .,0.38038530945777893,0.047361649572849274,0.5722530484199524,neutral,0.33302366733551025
+74,2017-08-03 21:40:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

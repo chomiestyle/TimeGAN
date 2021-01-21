@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-04-02 09:47:00,"In early trading on Wednesday, shares of United Technologies ( UTX ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.4%.",0.9410262107849121,0.02966870553791523,0.02930506505072117,positive,0.9113575220108032
+1,2014-04-02 09:47:00,"Year to date, United Technologies Corp. registers a 5.0% gain.",0.9508599042892456,0.019560404121875763,0.02957976795732975,positive,0.9312995076179504
+2,2014-04-02 09:47:00,"And the worst performing Dow component thus far on the day is Intel ( INTC ), trading down 0.9%.",0.02121162973344326,0.9651815295219421,0.013606834225356579,negative,-0.9439699053764343
+3,2014-04-02 09:47:00,Intel is lower by about 0.8% looking at the year to date performance.,0.021768812090158463,0.9661444425582886,0.012086805887520313,negative,-0.9443756341934204
+4,2014-04-02 09:47:00,"Two other components making moves today are Cisco Systems ( CSCO ), trading down 0.5%, and Home Depot ( HD ), trading up 0.8% on the day.",0.025020774453878403,0.9449466466903687,0.03003254532814026,negative,-0.9199258685112
+5,2014-04-02 09:47:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

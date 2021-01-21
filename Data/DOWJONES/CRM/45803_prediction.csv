@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-15 03:15:00,New York State Governor Andrew Cuomo and New York City Mayor Bill de Blasio are popping corks now that Amazon.com (AMZN) has selected New York City as the location for a second headquarters.,0.30921074748039246,0.05868925154209137,0.632099986076355,neutral,0.2505214810371399
+1,2018-11-15 03:15:00,"Arlington, Va., just outside of Washington D.C., was the other winner of the Amazon HQ sweepstakes.",0.5193145275115967,0.04995499178767204,0.4307304918766022,positive,0.46935954689979553
+2,2018-11-15 03:15:00,"The New York leaders touted $3.6 billion in direct investment, 107,000 jobs, $14 billion in state tax revenue and $13.5 billion in City tax revenue.",0.41494420170783997,0.01127712707966566,0.5737786889076233,neutral,0.40366706252098083
+3,2018-11-15 03:15:00,They believe those numbers work out to a return on investment ratio of 9:1.,0.8093273639678955,0.015267430804669857,0.17540517449378967,positive,0.7940599322319031
+4,2018-11-15 03:15:00,The investment here being forgone are state and local income taxes on Amazon's earnings.,0.0162286888808012,0.12608224153518677,0.8576890230178833,neutral,-0.10985355079174042
+5,2018-11-15 03:15:00,It seems the deal is universally positive for the New York economy.,0.8855942487716675,0.016880737617611885,0.09752507507801056,positive,0.8687134981155396
+6,2018-11-15 03:15:00,Or is it?,0.0953621119260788,0.0982147604227066,0.8064231276512146,neutral,-0.0028526484966278076
+7,2018-11-15 03:15:00,Harvard Assistant Professor of Business Administration Ethan Rouen co-wrote a paper this year that concluded corporate tax cuts increase income inequality.,0.3073250353336334,0.37067848443984985,0.3219965100288391,negative,-0.06335344910621643
+8,2018-11-15 03:15:00,Part of the reason appears to be that some of the tax benefits are retained by business owners.,0.020809130743145943,0.010270580649375916,0.9689203500747681,neutral,0.010538550093770027
+9,2018-11-15 03:15:00,"It's good for the shareholders, but they may not be part of the local community.",0.03949258476495743,0.043577853590250015,0.9169295430183411,neutral,-0.004085268825292587
+10,2018-11-15 03:15:00,"Also, the local benefits may not trickle down to all community members.",0.032723020762205124,0.2595234811306,0.7077534794807434,neutral,-0.22680045664310455
+11,2018-11-15 03:15:00,"And there is also an old joke that goes something like, ""Every time a tech company goes public, San Francisco real-estate prices go up.""",0.058287203311920166,0.11449072510004044,0.8272221088409424,neutral,-0.05620352178812027
+12,2018-11-15 03:15:00,It's funny because it's true.,0.12109071016311646,0.025802727788686752,0.8531065583229065,neutral,0.0952879786491394
+13,2018-11-15 03:15:00,The S&P CoreLogic Case-Shiller San Francisco Home Price NSA Index is up 23% from its pre-credit crisis peak.,0.948060154914856,0.02397923730313778,0.02796049416065216,positive,0.9240809082984924
+14,2018-11-15 03:15:00,Professor Rouen said to Barron's in an email that his team didn't look at housing-price impacts specifically in their paper.,0.031201956793665886,0.27098390460014343,0.6978141665458679,neutral,-0.2397819459438324
+15,2018-11-15 03:15:00,Income inequality has been a continuing problem in San Francisco.,0.025272220373153687,0.9467806220054626,0.02794715389609337,negative,-0.9215084314346313
+16,2018-11-15 03:15:00,Proposition C was a ballot issue this year that proposed raising taxes on companies with over $50 million in revenue to fund homeless services.,0.3391454517841339,0.04198836535215378,0.6188661456108093,neutral,0.29715707898139954
+17,2018-11-15 03:15:00,"It passed on Nov. 6 by a vote of 195,875 to 126,192.",0.3867066502571106,0.024860231205821037,0.5884330868721008,neutral,0.3618464171886444
+18,2018-11-15 03:15:00,Not all the businesses were upset with its passage.,0.04667694866657257,0.8532989025115967,0.10002414882183075,negative,-0.8066219687461853
+19,2018-11-15 03:15:00,Salesforce.com (CRM) Chairman and Co-CEO Marc Benioff has been a vocal advocate in favor of the new corporate tax.,0.4335908889770508,0.08955035358667374,0.4768586754798889,neutral,0.34404054284095764
+20,2018-11-15 03:15:00,"Apparently, not all CEOs seem to feel the same on the issue.",0.025773854926228523,0.12812773883342743,0.8460984230041504,neutral,-0.10235388576984406
+21,2018-11-15 03:15:00,Amazon halted expansion plans in Seattle because of a city council plan to charge large employers $500 per head to combat that city's homelessness problem.,0.023851677775382996,0.9329817891120911,0.04316648095846176,negative,-0.9091300964355469
+22,2018-11-15 03:15:00,"The city council passed a tax of $275 per head in May, but repealed it less than a month later.",0.06481949985027313,0.6562004685401917,0.278980016708374,negative,-0.5913809537887573
+23,2018-11-15 03:15:00,"Seattle Councilmember Lisa Herbold's office told Barron's in an email that the tax was repealed, in part, because ""to try to fight it and then lose would create a public mandate that would likely last for a generation, and would not build momentum but instead would jeopardize future efforts to pass progressive revenue options.""",0.07724985480308533,0.7768709063529968,0.14587919414043427,negative,-0.6996210813522339
+24,2018-11-15 03:15:00,Tax and accounting expert Robert Willens told Barron's in a phone interview that states and localities are always on the lookout for revenue.,0.10986217856407166,0.03095904365181923,0.8591787219047546,neutral,0.07890313863754272
+25,2018-11-15 03:15:00,Especially now that there is limited deductibility for state taxes on federal returns.,0.03184972703456879,0.04026765003800392,0.9278826117515564,neutral,-0.008417923003435135
+26,2018-11-15 03:15:00,That makes it tougher to raise taxes on residents.,0.05650470778346062,0.6667837500572205,0.2767115533351898,negative,-0.6102790236473083
+27,2018-11-15 03:15:00,"For example, states are being more aggressive with formulas that allocate a company's revenue to their state.",0.21223533153533936,0.014367485418915749,0.7733972072601318,neutral,0.19786784052848816
+28,2018-11-15 03:15:00,He suspects that the form of the head taxes may have been counterproductive.,0.03251037001609802,0.8511663675308228,0.11632324755191803,negative,-0.8186559677124023
+29,2018-11-15 03:15:00,"""[States and localities] don't always raise rates, they do things that are more subtle,"" said Willens
+
+Then in September, Amazon founder and CEO Jeff Bezos pledged $2 billion for homelessness and schools.",0.2538352906703949,0.03356267139315605,0.7126020193099976,neutral,0.22027261555194855
+30,2018-11-15 03:15:00,"Maybe instead of taxation, localities should try to sell their corporate residents on the reputational benefits of philanthropy?",0.14804087579250336,0.02381426841020584,0.8281448483467102,neutral,0.12422660738229752
+31,2018-11-15 03:15:00,"Perhaps, but in a separate interview Salesforce's Benioff said ""philanthropy can only go so far.""",0.10367513447999954,0.04805242270231247,0.8482723832130432,neutral,0.05562271177768707
+32,2018-11-15 03:15:00,"So, the public/private debate rages on.",0.047937702387571335,0.05673179030418396,0.895330548286438,neutral,-0.008794087916612625
+33,2018-11-15 03:15:00,"And, of course, there is academic debate as well with literature that supports corporate-tax breaks.",0.09172064810991287,0.10737305879592896,0.8009063005447388,neutral,-0.015652410686016083
+34,2018-11-15 03:15:00,"For example, the Federal Reserve wrote a paper in January 2018 that indicates lower corporate tax rates help innovation.",0.4339291453361511,0.24850323796272278,0.3175675570964813,positive,0.18542590737342834
+35,2018-11-15 03:15:00,So it's easy to see why New York is so excited.,0.09668081253767014,0.02413736842572689,0.8791818618774414,neutral,0.0725434422492981
+36,2018-11-15 03:15:00,9:1 is a tremendous return on investment.,0.8953860998153687,0.015417572110891342,0.0891963541507721,positive,0.879968523979187
+37,2018-11-15 03:15:00,"Still, it makes one wonder just why Amazon left so much on the table.",0.0384095162153244,0.16819950938224792,0.7933909296989441,neutral,-0.12978999316692352
+38,2018-11-15 03:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

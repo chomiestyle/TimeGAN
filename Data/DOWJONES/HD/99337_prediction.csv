@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-16 07:10:00,Benchmarks ended in the red on Friday following declines in retail and technology shares.,0.06839796155691147,0.9049867391586304,0.026615289971232414,negative,-0.8365887999534607
+1,2015-11-16 07:10:00,Discouraging earnings results from departmental stores including Nordstrom and J.C. Penney adversely affected investor sentiment.,0.01878855936229229,0.9685491323471069,0.01266222819685936,negative,-0.9497605562210083
+2,2015-11-16 07:10:00,Weaker-than-expected retail sales data also added to the dour mood.,0.027173710986971855,0.9457871317863464,0.02703915350139141,negative,-0.9186134338378906
+3,2015-11-16 07:10:00,"Meanwhile, Cisco's disappointing earnings and revenue forecast for the current quarter had a negative impact on technology shares.",0.019436754286289215,0.9678340554237366,0.012729158625006676,negative,-0.9483972787857056
+4,2015-11-16 07:10:00,Benchmarks snapped a six-week winning streak to end the week in the red on Friday.,0.8495049476623535,0.07088012993335724,0.07961500436067581,positive,0.7786248326301575
+5,2015-11-16 07:10:00,The major indexes also posted their largest weekly losses since the week ended Aug 21.,0.023755867034196854,0.9574909806251526,0.018753109499812126,negative,-0.9337351322174072
+6,2015-11-16 07:10:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article
+
+The Dow Jones Industrial Average (DJI) dropped 1.5%, or 254 points, to close at 17,065.00.",0.02605150267481804,0.9651843309402466,0.008764173835515976,negative,-0.939132809638977
+7,2015-11-16 07:10:00,"The Standard & Poor's 500 (S&P 500) lost 1.4% to close at 2,011.25.",0.021697167307138443,0.969244122505188,0.009058703668415546,negative,-0.9475469589233398
+8,2015-11-16 07:10:00,"The tech-laden Nasdaq Composite Index closed at 4,927.88, declining 1.5%.",0.02281659096479416,0.968248724937439,0.00893463660031557,negative,-0.9454321265220642
+9,2015-11-16 07:10:00,The fear-gauge CBOE Volatility Index (VIX) gained 9.3% to settle at 20.08.,0.9340794682502747,0.030483262613415718,0.035437364131212234,positive,0.9035962224006653
+10,2015-11-16 07:10:00,A total of around 4.2 billion shares were traded on Friday on NYSE.,0.04314005374908447,0.005806469824165106,0.9510534405708313,neutral,0.03733358532190323
+11,2015-11-16 07:10:00,Decliners outpaced advancing stocks on the NYSE.,0.7142589688301086,0.23320606350898743,0.05253498628735542,positive,0.4810529053211212
+12,2015-11-16 07:10:00,"For 60% stocks that declined, 37% advanced.",0.06391540169715881,0.2741171419620514,0.6619674563407898,neutral,-0.21020174026489258
+13,2015-11-16 07:10:00,Friday's losses dragged the S&P 500 below its 200-day moving average as the index moved into the negative zone for the year.,0.025496210902929306,0.9573269486427307,0.017176901921629906,negative,-0.9318307638168335
+14,2015-11-16 07:10:00,"Additionally, the Nasdaq closed below its 50-day moving average.",0.019755449146032333,0.9683684706687927,0.011876086704432964,negative,-0.9486130475997925
+15,2015-11-16 07:10:00,"The index also ended below its key level of 5,000 for the first time since Oct 22.",0.0191053356975317,0.9698636531829834,0.011030967347323895,negative,-0.9507583379745483
+16,2015-11-16 07:10:00,"Benchmarks fell sharply on Friday, weighed down by some weak retail earnings reports.",0.019713914021849632,0.9696481823921204,0.0106377974152565,negative,-0.9499342441558838
+17,2015-11-16 07:10:00,"Shares of Nordstrom Inc. ( JWN ) plunged almost 15% after the company reported third quarter earnings per share of 57 cents, way below the Zacks Consensus Estimate of 71 cents.",0.02056337334215641,0.9699615836143494,0.00947504211217165,negative,-0.9493982195854187
+18,2015-11-16 07:10:00,"Revenues of $3,328 million also missed the Zacks Consensus Estimate of $3,371 million.",0.01781931333243847,0.9673463702201843,0.014834290370345116,negative,-0.9495270848274231
+19,2015-11-16 07:10:00,"J. C. Penney Company, Inc.'s ( JCP ) shares plummeted 15.4% after the company posted third quarter loss per share of 47 cents.",0.021743139252066612,0.9690397381782532,0.009217160753905773,negative,-0.9472966194152832
+20,2015-11-16 07:10:00,"However, its third quarter loss was narrower than the Zacks Consensus Estimate of a loss of 58 cents per share.",0.03926866874098778,0.94746333360672,0.013268088921904564,negative,-0.9081946611404419
+21,2015-11-16 07:10:00,"Also, revenues of $2,897 million came in ahead of the Zacks Consensus Estimate of $2,864 million.",0.8893553614616394,0.04190608486533165,0.06873854249715805,positive,0.8474493026733398
+22,2015-11-16 07:10:00,"Including these results, 22 of the 43 retailers in the S&P 500 index have reported results.",0.0547143891453743,0.02834988199174404,0.9169356822967529,neutral,0.026364507153630257
+23,2015-11-16 07:10:00,Total earnings for these companies are up 7.8% on 11.1% higher revenues.,0.9542474746704102,0.02408740296959877,0.02166515588760376,positive,0.9301600456237793
+24,2015-11-16 07:10:00,"Of these companies, 59.1% beat EPS estimates and 45.5% came ahead of revenue estimates.",0.3461492657661438,0.03255181014537811,0.6212989091873169,neutral,0.3135974407196045
+25,2015-11-16 07:10:00,Weak retail sales data also dented investor sentiment.,0.025841841474175453,0.950226366519928,0.02393173798918724,negative,-0.9243845343589783
+26,2015-11-16 07:10:00,"U.S retail sales barely increased in October, held down mostly by lower spending in auto dealers, gas stations and grocery stores.",0.021974634379148483,0.9637553095817566,0.014270137064158916,negative,-0.941780686378479
+27,2015-11-16 07:10:00,The U.S. Department of Commerce reported that retail sales gained 0.1% in October after remaining unchanged in September.,0.9362207055091858,0.03927132487297058,0.02450793795287609,positive,0.8969494104385376
+28,2015-11-16 07:10:00,"However, the monthly gain missed the consensus estimate of 0.3% rise.",0.08932146430015564,0.8880382180213928,0.022640286013484,negative,-0.7987167835235596
+29,2015-11-16 07:10:00,"Excluding auto, sales in October improved 0.2%.",0.9548483490943909,0.02568533457815647,0.019466359168291092,positive,0.9291630387306213
+30,2015-11-16 07:10:00,"The Consumer Discretionary Select Sector SPDR (XLY) declined 2.6%, the highest among the S&P 500 sectors.",0.1454627364873886,0.8386601209640503,0.015877075493335724,negative,-0.6931973695755005
+31,2015-11-16 07:10:00,"Amazon.com, Inc. ( AMZN ), The Walt Disney Company ( DIS ), The Home Depot, Inc. ( HD ), Comcast Corporation ( CMCSA ) and McDonald's Corp. ( MCD ) decreased 3.5%, 1.2%, 3.1%, 2.1% and 1.9%, respectively.",0.023964950814843178,0.9625566601753235,0.013478398323059082,negative,-0.938591718673706
+32,2015-11-16 07:10:00,"Coming to other economic reports, the U.S. Bureau of Labor Statistics reported that the U.S. Producer Price Index (PPI) for finished goods decreased 0.4% in October, in contrast to the consensus estimate of an increase by 0.2%.",0.02019612491130829,0.9717093110084534,0.00809451937675476,negative,-0.9515131711959839
+33,2015-11-16 07:10:00,"In September, prices for finished goods declined 0.5%.",0.023648465052247047,0.9642671942710876,0.012084283865988255,negative,-0.9406187534332275
+34,2015-11-16 07:10:00,"Separately, the Thomson Reuters/University of Michigan's preliminary October consumer sentiment reading came in at 93.1.",0.1258840560913086,0.06990237534046173,0.8042135834693909,neutral,0.05598168075084686
+35,2015-11-16 07:10:00,The preliminary reading was higher than the consensus estimate of 91.2.,0.939872145652771,0.024821681901812553,0.03530612960457802,positive,0.9150504469871521
+36,2015-11-16 07:10:00,"Meanwhile, Cisco Systems, Inc.'s ( CSCO ) shares tanked 5.8% after its revenue and earnings guidance for the upcoming quarter fell short of analysts' expectations.",0.02319595217704773,0.967930793762207,0.008873248472809792,negative,-0.9447348117828369
+37,2015-11-16 07:10:00,"For the second quarter of fiscal 2016, Cisco expects its revenues to grow at flat to 2% range on a year-over-year basis, while its earnings per share are pegged between 53 cents to 55 cents.",0.8892660140991211,0.013282399624586105,0.09745162725448608,positive,0.8759835958480835
+38,2015-11-16 07:10:00,Cisco's forecast had a negative impact on technology shares.,0.019336624071002007,0.9631834030151367,0.017479903995990753,negative,-0.9438467621803284
+39,2015-11-16 07:10:00,The Technology Select Sector SPDR ETF (XLK) dropped almost 2% and was the second biggest loser among the S&P 500 companies.,0.018232721835374832,0.9704915881156921,0.011275659315288067,negative,-0.9522588849067688
+40,2015-11-16 07:10:00,"Key stocks from the sector including Apple Inc. ( AAPL ), Microsoft Corporation ( MSFT ), Facebook, Inc. ( FB ), Alphabet Inc. ( GOOGL ) and AT&T, Inc. ( T ) decreased 2.9%, 0.9%, 3.8%, 2.2% and 1.2%, respectively.",0.021305590867996216,0.967599630355835,0.011094726622104645,negative,-0.9462940692901611
+41,2015-11-16 07:10:00,"Overall, 11 out of 12 sectors of the S&P 500 ended in the red.",0.5027538537979126,0.22255562245845795,0.27469050884246826,positive,0.28019821643829346
+42,2015-11-16 07:10:00,"For the week, the S&P 500, the Dow and the Nasdaq declined 3.6%, 3.7% and 4.3%, respectively.",0.049093812704086304,0.9154011607170105,0.03550500050187111,negative,-0.8663073778152466
+43,2015-11-16 07:10:00,Benchmarks ended in negative territory for the week following a sell-off in retail and energy shares.,0.019061675295233727,0.9678226709365845,0.01311565563082695,negative,-0.948760986328125
+44,2015-11-16 07:10:00,"Declines in departmental stores including Macy's, Inc.'s ( M ) dampened investor sentiment.",0.14627499878406525,0.8070617318153381,0.046663202345371246,negative,-0.6607867479324341
+45,2015-11-16 07:10:00,"Energy shares were adversely affected due to decline in oil prices , which took a beating on oversupply concerns.",0.022540969774127007,0.9592114090919495,0.018247632309794426,negative,-0.9366704225540161
+46,2015-11-16 07:10:00,Rate hike fears and global growth worries fueled by China's economic situation also weighed on investor sentiment.,0.22742792963981628,0.38648924231529236,0.38608285784721375,negative,-0.15906131267547607
+47,2015-11-16 07:10:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+48,2015-11-16 07:10:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+49,2015-11-16 07:10:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+50,2015-11-16 07:10:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

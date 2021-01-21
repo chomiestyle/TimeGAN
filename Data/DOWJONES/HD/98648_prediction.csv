@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-18 07:17:00,"After dipping lower marginally on Wednesday, major U.S. benchmarks made rebounded yesterday to finish near record high levels.",0.8479964137077332,0.0883469507098198,0.06365661323070526,positive,0.7596494555473328
+1,2016-11-18 07:17:00,"Most of yesterday's gains came on the back of encouraging domestic economic data and Fed Chairwoman Janet Yellen's testimony, which indicated that a rate hike after next month's policy meeting is definitely on the table.",0.9081060886383057,0.030041469261050224,0.06185253709554672,positive,0.8780646324157715
+2,2016-11-18 07:17:00,"While rising rate-hike chances boosted financial stocks, consumer discretionary sector got a boost from robust economic data and encouraging earnings results.",0.9387840628623962,0.02405659109354019,0.03715936467051506,positive,0.9147274494171143
+3,2016-11-18 07:17:00,"For a look at the issues currently facing the markets, make sure to read today's Ahead of Wall Street article.",0.019620023667812347,0.013874631375074387,0.9665053486824036,neutral,0.005745392292737961
+4,2016-11-18 07:17:00,"The Dow Jones Industrial Average (DJI) increased 0.2%, to close at 18,903.82.",0.939528226852417,0.0263498704880476,0.0341218076646328,positive,0.9131783843040466
+5,2016-11-18 07:17:00,"The S&P 500 gained nearly 0.5% to close at 2,187.12.",0.911540150642395,0.044044628739356995,0.04441528394818306,positive,0.8674955368041992
+6,2016-11-18 07:17:00,"The tech-laden Nasdaq Composite Index closed at 5,333.97, rising 0.7%.",0.8965442776679993,0.0559074841439724,0.047548264265060425,positive,0.8406367897987366
+7,2016-11-18 07:17:00,"Meanwhile, the fear-gauge CBOE Volatility Index (VIX) declined 2.7% to settle at 13.35.",0.024224547669291496,0.9623393416404724,0.013436133041977882,negative,-0.9381148219108582
+8,2016-11-18 07:17:00,"A total of around 7.4 billion shares were traded on Thursday, lower than the last 20-session average of 7.9 billion shares.",0.01670013926923275,0.9682505130767822,0.015049236826598644,negative,-0.9515503644943237
+9,2016-11-18 07:17:00,Advancers outpaced declining stocks on the NYSE.,0.8880082368850708,0.08332879841327667,0.02866298519074917,positive,0.8046794533729553
+10,2016-11-18 07:17:00,"For 51% stocks that advanced, 46% declined.",0.029784567654132843,0.817492663860321,0.15272273123264313,negative,-0.7877081036567688
+11,2016-11-18 07:17:00,"In her testimony in front of the House-Senate Joint Economic Committee, Yellen indicated that the chances of a rate hike in the near term have increased significantly in recent times.",0.91191166639328,0.023066222667694092,0.06502220034599304,positive,0.8888454437255859
+12,2016-11-18 07:17:00,"She said that ""an increase could well become appropriate relatively soon"" as labor market continued to strengthen with significant pick up in wages and stable unemployment rate.",0.9302422404289246,0.01956910640001297,0.050188593566417694,positive,0.9106731414794922
+13,2016-11-18 07:17:00,"She also added that inflation is gradually progressing towards the Fed's 2% target and ""near-term risks to the outlook were roughly balanced"".",0.7926865220069885,0.02484108693897724,0.18247245252132416,positive,0.7678454518318176
+14,2016-11-18 07:17:00,This led December rate hike expectations to increase further as most of the traders are now betting on a rate increase next month.,0.879433274269104,0.037832845002412796,0.0827338844537735,positive,0.8416004180908203
+15,2016-11-18 07:17:00,"As per the FedWatch tool of CME Group, the expectations about a next month hike are currently around 90%.",0.21940366923809052,0.03295835480093956,0.7476379871368408,neutral,0.18644531071186066
+16,2016-11-18 07:17:00,This had a positive impact on the financial stocks.,0.8729544878005981,0.021170927211642265,0.10587458312511444,positive,0.8517835736274719
+17,2016-11-18 07:17:00,The Financial Select Sector SPDR ETF (XLF) rose 1.4% and emerged as the top performer among the broader S&P 500 sectors.,0.9537172317504883,0.02490255795419216,0.021380223333835602,positive,0.9288146495819092
+18,2016-11-18 07:17:00,"Key stocks from the sector including Bank of America Corporation ( BAC ), Wells Fargo & Company ( WFC ) and Citigroup Inc. ( C ) gained 1.7%, 1.6% and 1.5%, respectively.",0.9329125881195068,0.02549232542514801,0.04159512743353844,positive,0.90742027759552
+19,2016-11-18 07:17:00,"Separately, the Bureau of Labor Statistics (BLS) reported that the Consumer Price Index (CPI) rose at a pace of 0.4% last month, its highest increase in past six months, on the back of significant increase in gasoline prices.",0.9402843713760376,0.029276685789227486,0.03043890930712223,positive,0.9110077023506165
+20,2016-11-18 07:17:00,CPI also came ahead of the consensus estimate of 0.3% rise.,0.8658083081245422,0.057226963341236115,0.07696477323770523,positive,0.8085813522338867
+21,2016-11-18 07:17:00,"Meanwhile, core-CPI increased at slower rate of 0.1% in October.",0.8802646398544312,0.05016959831118584,0.06956576555967331,positive,0.8300950527191162
+22,2016-11-18 07:17:00,"Meanwhile, jobless claims for the week ending Nov 12 hit the 43-year low level of 235,000, significantly below the consensus estimate of 257,000.",0.02137136086821556,0.9682715535163879,0.010357202962040901,negative,-0.9469001889228821
+23,2016-11-18 07:17:00,"Moreover, the U.S. Department of Commerce reported that housing starts soared 25.5% from September to 1,323,000, hitting their highest level since Aug 2007.",0.938685417175293,0.023383475840091705,0.03793112561106682,positive,0.9153019189834595
+24,2016-11-18 07:17:00,"This was also higher than the consensus estimate of 1,161,000.",0.9241167902946472,0.029803311452269554,0.04607982933521271,positive,0.8943134546279907
+25,2016-11-18 07:17:00,"Also, building permits gained 0.3% and 4.6% from September and year-ago level, respectively, to 1,229,000, outpacing the consensus estimate of 1,202,000.",0.9517878890037537,0.029313892126083374,0.01889825239777565,positive,0.9224740266799927
+26,2016-11-18 07:17:00,"Encouraging housing data led shares of The Home Depot, Inc. ( HD ) to gain 2.9% and was one of the biggest gainers among the Dow components.",0.9497169852256775,0.02631142921745777,0.023971563205122948,positive,0.9234055280685425
+27,2016-11-18 07:17:00,"Additionally, shares of Best Buy Co., Inc. ( BBY ) surged 13.7% after reporting better-than-expected third quarter earnings results.",0.947539746761322,0.029217181727290154,0.023243045434355736,positive,0.9183225631713867
+28,2016-11-18 07:17:00,It was best gainer among the S&P 500 companies yesterday.,0.9280951023101807,0.0324876494705677,0.0394173189997673,positive,0.8956074714660645
+29,2016-11-18 07:17:00,"( Read More )
+
+Strong gains in Home Depot and Best Buy helped the Consumer Discretionary Select Sector SPDR (XLY) emerge as the second biggest gainer among the S&P 500 sectors and it closed 1.2% higher.",0.9422475099563599,0.03357808291912079,0.024174395948648453,positive,0.9086694121360779
+30,2016-11-18 07:17:00,"Other key stocks from the sector including Comcast Corporation ( CMCSA ), Amazon.com, Inc. ( AMZN ) and NIKE, Inc. ( NKE ) gained 1.5%, 1.3% and 1.8%, respectively.",0.9215804934501648,0.02575737237930298,0.05266212671995163,positive,0.8958231210708618
+31,2016-11-18 07:17:00,"While Best Buy holds a Zacks Rank #2 (Buy), Home Depot, Comcast, Amazon and NIKE carry a Zacks Rank #3 (Hold).",0.06158015504479408,0.017587652429938316,0.9208321571350098,neutral,0.043992504477500916
+32,2016-11-18 07:17:00,You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+33,2016-11-18 07:17:00,"After delivering a positive earnings surprise in the last quarter, The Gap Inc. ( GPS ) returned to its old trend of posting in-line earnings in third-quarter fiscal 2016.",0.9346129298210144,0.022349568083882332,0.04303758218884468,positive,0.9122633337974548
+34,2016-11-18 07:17:00,"( Read More )
+
+Tesoro Set to Snap Up Western Refining in $6.4 Billion Deal
+
+Downstream operator Tesoro Corp. ( TSO ) has agreed to acquire El Paso, TX-based fellow oil refiner Western Energy Inc. ( WNR ) for about $6.4 billion.",0.6227113604545593,0.01623547077178955,0.3610531985759735,positive,0.6064758896827698
+35,2016-11-18 07:17:00,"( Read More )
+
+Shares of Ross Stores Inc. ( ROST ) rose 3.4% in the after-hours trading session on Nov 17, after the company reported robust third-quarter fiscal 2016 results.",0.9524162411689758,0.023795083165168762,0.02378867380321026,positive,0.9286211729049683
+36,2016-11-18 07:17:00,"( Read More )
+
+Citigroup (C) to Sell Subprime Lending Unit in Canada
+
+Citigroup Inc. ( C ) entered into an agreement to sell CitiFinancial, its subprime lending unit in Canada, to an investor group led by private investment firm, JC Flowers and Värde Partners.",0.7803894877433777,0.014049796387553215,0.20556068420410156,positive,0.7663397192955017
+37,2016-11-18 07:17:00,"( Read More )
+
+Brazil's state-run energy giant Petroleo Brasileiro S.A. or Petrobras ( PBR ) recently announced its decision to divest Liquigás Distribuidora SA for $819 million.",0.05374286323785782,0.1459122598171234,0.8003448247909546,neutral,-0.0921693965792656
+38,2016-11-18 07:17:00,"( Read More )
+
+Today you can gain access to long-term trades with double and triple-digit profit potential rarely available to the public.",0.8037841320037842,0.01260899193584919,0.18360687792301178,positive,0.791175127029419
+39,2016-11-18 07:17:00,"Starting now, you can look inside our stocks under $10, home run and value stock portfolios, plus more.",0.026588696986436844,0.007702364586293697,0.9657089114189148,neutral,0.018886331468820572
+40,2016-11-18 07:17:00,Want a peek at this private information?,0.07614265382289886,0.04574284330010414,0.8781145215034485,neutral,0.030399810522794724
+41,2016-11-18 07:17:00,"Click here >>
+
+Want the latest recommendations from Zacks Investment Research?",0.026053117588162422,0.013497531414031982,0.9604493975639343,neutral,0.01255558617413044
+42,2016-11-18 07:17:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+43,2016-11-18 07:17:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+44,2016-11-18 07:17:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

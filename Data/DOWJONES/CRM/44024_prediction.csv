@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-08-23 06:44:00,"In early trading on Friday, shares of Salesforce.com (CRM) topped the list of the day's best performing components of the S&P 500 index, trading up 4.9%.",0.9422995448112488,0.02837487682700157,0.02932554855942726,positive,0.9139246940612793
+1,2019-08-23 06:44:00,"Year to date, Salesforce.com registers a 13.5% gain.",0.9534254670143127,0.019623268395662308,0.026951272040605545,positive,0.9338021874427795
+2,2019-08-23 06:44:00,"And the worst performing S&P 500 component thus far on the day is HP (HPQ), trading down 7.0%.",0.02071976475417614,0.9659029245376587,0.013377322815358639,negative,-0.9451831579208374
+3,2019-08-23 06:44:00,HP is lower by about 13.9% looking at the year to date performance.,0.02144336700439453,0.9664384126663208,0.0121181420981884,negative,-0.9449950456619263
+4,2019-08-23 06:44:00,"Two other components making moves today are Hasbro (HAS), trading down 6.5%, and Intuit (INTU), trading up 4.7% on the day.",0.026849910616874695,0.9389203190803528,0.034229665994644165,negative,-0.9120703935623169

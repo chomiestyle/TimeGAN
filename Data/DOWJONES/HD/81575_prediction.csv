@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-18 06:34:00,"If you do any kind of yard work at all, you know The Home Depot (NYSE: HD) and Scotts Miracle-Gro (NYSE: SMG) .",0.021624481305480003,0.01906842552125454,0.959307074546814,neutral,0.002556055784225464
+1,2019-02-18 06:34:00,"One sells you everything you need to keep your yard, and home, in pristine shape; the other provides Home Depot with a lot of the yard care products it sells.",0.1541174352169037,0.0069400956854224205,0.8389424085617065,neutral,0.1471773386001587
+2,2019-02-18 06:34:00,But which of these similar companies is the better investment option?,0.16105611622333527,0.021331876516342163,0.8176120519638062,neutral,0.1397242397069931
+3,2019-02-18 06:34:00,Home Depot has been hitting on all cylinders lately.,0.09925717860460281,0.0934310257434845,0.8073117733001709,neutral,0.005826152861118317
+4,2019-02-18 06:34:00,"For example, the pain of the deep 2007-to-2009 recession lasted until 2010.",0.08523602783679962,0.2290503829717636,0.6857135891914368,neutral,-0.143814355134964
+5,2019-02-18 06:34:00,"But sales started to tick higher again in 2011, and have increased each year since.",0.9359774589538574,0.018090030178427696,0.04593253508210182,positive,0.9178874492645264
+6,2019-02-18 06:34:00,"Earnings have been an even better story, increasing in 2010 and each year since.",0.9459027647972107,0.018628060817718506,0.03546927124261856,positive,0.9272747039794922
+7,2019-02-18 06:34:00,A big part of the earnings strength here can be attributed to a more than doubling of Home Depot's operating margins over that span.,0.9287055134773254,0.014967954717576504,0.05632656812667847,positive,0.9137375354766846
+8,2019-02-18 06:34:00,There's no question: This company is executing very well.,0.8128980398178101,0.013716587796807289,0.17338533699512482,positive,0.7991814613342285
+9,2019-02-18 06:34:00,"It goes even deeper than the numbers, too.",0.11755252629518509,0.02149922586977482,0.8609482645988464,neutral,0.09605330228805542
+10,2019-02-18 06:34:00,"For example, the so-called ""retail apocalypse"" has taken out many once-iconic names that couldn't adjust to the impact of online retail.",0.03911769390106201,0.8455427289009094,0.11533956974744797,negative,-0.8064250349998474
+11,2019-02-18 06:34:00,"However, Home Depot appears to have integrated this new avenue for reaching customers quite nicely into its business model.",0.8326614499092102,0.011730381287634373,0.1556081473827362,positive,0.820931077003479
+12,2019-02-18 06:34:00,"As Motley Fool's Matthew Cochrane recently noted , 60% of Home Depot's foot traffic starts with a visit to the company's website.",0.0169967133551836,0.023409461602568626,0.9595938324928284,neutral,-0.006412748247385025
+13,2019-02-18 06:34:00,"Also, 45% of online orders are picked up in the store and 85% of returns made at a physical location.",0.04405749589204788,0.01270571630448103,0.9432367086410522,neutral,0.03135177865624428
+14,2019-02-18 06:34:00,"Clearly, Home Depot has embraced the online threat and turned it into a growth platform.",0.9114509224891663,0.014909815974533558,0.07363918423652649,positive,0.8965411186218262
+15,2019-02-18 06:34:00,"There's more good news here, too, including the company's efforts to ensure its best customers, professionals, are well served.",0.8534442186355591,0.014319116249680519,0.13223671913146973,positive,0.8391250967979431
+16,2019-02-18 06:34:00,"But to head back to the big picture again, Home Depot thinks that it can continue to pull multiple levers, such as the two just noted, and grow revenues from roughly $101 billion in 2017 to as much as $120 billion in 2020.",0.9258649945259094,0.015056438744068146,0.05907858908176422,positive,0.9108085632324219
+17,2019-02-18 06:34:00,So the future looks pretty bright here.,0.3193804919719696,0.010719679296016693,0.6698998212814331,neutral,0.3086608052253723
+18,2019-02-18 06:34:00,What's not to like?,0.0711691603064537,0.059577953070402145,0.8692528605461121,neutral,0.01159120723605156
+19,2019-02-18 06:34:00,Valuation.,0.03743095323443413,0.015549423173069954,0.947019636631012,neutral,0.021881530061364174
+20,2019-02-18 06:34:00,Home Depot's price-to-sales ratio of nearly 2.1 is above its five-year average of roughly 1.9.,0.9183250069618225,0.021883158013224602,0.05979176610708237,positive,0.8964418768882751
+21,2019-02-18 06:34:00,"And the earnings growth that should come along with improving sales appears priced in, as well.",0.9131965637207031,0.015005658380687237,0.07179773598909378,positive,0.8981909155845642
+22,2019-02-18 06:34:00,"The company's price-to-earnings-to-growth ratio, or PEG ratio , of nearly 1.6 is basically in line with its five-year average.",0.5989416837692261,0.023837940767407417,0.37722042202949524,positive,0.575103759765625
+23,2019-02-18 06:34:00,"Wall Street, not surprisingly, knows how good a company Home Depot is.",0.41330912709236145,0.013140492141246796,0.5735504031181335,neutral,0.40016862750053406
+24,2019-02-18 06:34:00,Which is why some investors might be looking at Scotts Miracle-Gro as an alternative.,0.16133052110671997,0.03664291277527809,0.802026629447937,neutral,0.12468761205673218
+25,2019-02-18 06:34:00,"Scotts' stock price is down 30% from its highs in early 2018, which might prompt investors looking for a good deal to take a look.",0.017993222922086716,0.9686314463615417,0.013375299982726574,negative,-0.9506382346153259
+26,2019-02-18 06:34:00,"But that drop is actually suggesting that something is amiss at the lawn care products company, including weak sales and earnings results over the last few years.",0.019644908607006073,0.964009702205658,0.016345418989658356,negative,-0.9443647861480713
+27,2019-02-18 06:34:00,"So from a big-picture perspective, a fully valued Home Depot still appears to be the better choice here.",0.7179056406021118,0.024182291701436043,0.25791212916374207,positive,0.6937233209609985
+28,2019-02-18 06:34:00,But there's still one issue that might tempt investors to buy Scotts.,0.11310695111751556,0.028284471482038498,0.8586085438728333,neutral,0.08482247591018677
+29,2019-02-18 06:34:00,"The big news surrounding Scotts isn't in lawn care, it's in pot.",0.014736570417881012,0.011333535425364971,0.9739298820495605,neutral,0.003403034992516041
+30,2019-02-18 06:34:00,The company has moved quickly to establish a position in the hydroponic gardening segment.,0.9209407567977905,0.012857938185334206,0.06620126217603683,positive,0.9080828428268433
+31,2019-02-18 06:34:00,"Hydroponic systems have long been used to grow marijuana, even when it isn't legal to do so.",0.04000728949904442,0.018345922231674194,0.9416468143463135,neutral,0.021661367267370224
+32,2019-02-18 06:34:00,"With pot increasingly getting the stamp of approval, however, Scotts saw an opportunity to jump into a plant care segment that could help push its top line higher.",0.9330596923828125,0.01588108390569687,0.05105919763445854,positive,0.9171786308288574
+33,2019-02-18 06:34:00,Sales in its Hawthorne hydroponic division grew an incredible 84% in the fiscal first quarter!,0.9325905442237854,0.014987972564995289,0.052421458065509796,positive,0.9176025986671448
+34,2019-02-18 06:34:00,But don't get too excited; that was driven by acquisitions.,0.11366268247365952,0.014317848719656467,0.8720195293426514,neutral,0.09934483468532562
+35,2019-02-18 06:34:00,Which brings up the big problem with Scotts' hydroponic bet -- long-term debt has increased from roughly $700 million in 2014 to nearly $2.2 billion at the end of the fiscal first quarter.,0.8696064352989197,0.04049089178442955,0.08990264683961868,positive,0.8291155695915222
+36,2019-02-18 06:34:00,That's pushed the company debt up to a worrying 90% of the capital structure.,0.7113938331604004,0.08915728330612183,0.19944894313812256,positive,0.6222365498542786
+37,2019-02-18 06:34:00,"And the rapid expansion into hydroponics hasn't exactly been smooth sailing, with Scotts writing down the value of its investments there by nearly $100 million in the fiscal fourth quarter of 2018 amid weaker-than-expected sales results at some of its acquired businesses.",0.017019355669617653,0.9666267037391663,0.01635393686592579,negative,-0.9496073722839355
+38,2019-02-18 06:34:00,The steep stock drop at Scotts represents very real concerns about its big expansion plans.,0.020707905292510986,0.9577729105949402,0.02151924930512905,negative,-0.9370650053024292
+39,2019-02-18 06:34:00,"And for most investors, it would be better to err on the side of caution here and avoid Scotts shares.",0.055072054266929626,0.17981866002082825,0.7651093006134033,neutral,-0.12474660575389862
+40,2019-02-18 06:34:00,"Even if Hawthorne ends up a success, the company will still have to deal with all the debt it used to build the division.",0.05974398925900459,0.7325518131256104,0.20770424604415894,negative,-0.6728078126907349
+41,2019-02-18 06:34:00,"And if the hydroponic push doesn't pan out...then the company still has to deal with the debt, only from a position of weakness.",0.11169157922267914,0.3923221528530121,0.49598628282546997,neutral,-0.28063058853149414
+42,2019-02-18 06:34:00,"If you like the pot story here, sit on the sidelines until there's more concrete evidence of success.",0.1110696941614151,0.010981417261064053,0.8779489398002625,neutral,0.10008827596902847
+43,2019-02-18 06:34:00,( There are also less risky ways to play the marijuana space. ),0.0413542166352272,0.01618814468383789,0.9424576163291931,neutral,0.025166071951389313
+44,2019-02-18 06:34:00,"So, in a comparison between Home Depot and Scotts Miracle-Gro, Home Depot is the hands-down winner.",0.516821563243866,0.04510420933365822,0.4380742311477661,positive,0.47171735763549805
+45,2019-02-18 06:34:00,There's just too much risk involved in Scotts' aggressive push into the hydroponic space even if there's huge potential demand from the marijuana industry .,0.5896720886230469,0.01727445423603058,0.39305344223976135,positive,0.5723976492881775
+46,2019-02-18 06:34:00,"That said, Home Depot doesn't come cheap.",0.01571628265082836,0.06325215101242065,0.9210315346717834,neutral,-0.047535866498947144
+47,2019-02-18 06:34:00,"After a long string of solid results, investors are clearly aware of how well Home Depot is operating.",0.916546642780304,0.016676906496286392,0.06677643954753876,positive,0.8998697400093079
+48,2019-02-18 06:34:00,"In other words, bargain hunters should look elsewhere.",0.11340347677469254,0.0295968446880579,0.8569996953010559,neutral,0.08380663394927979
+49,2019-02-18 06:34:00,"But if you are willing to pay a fair price for a great company, then Home Depot looks worth a deep dive.",0.4697071611881256,0.019001754000782967,0.5112910866737366,neutral,0.4507054090499878
+50,2019-02-18 06:34:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+51,2019-02-18 06:34:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+52,2019-02-18 06:34:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+53,2019-02-18 06:34:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+54,2019-02-18 06:34:00,Reuben Gregg Brewer has no position in any of the stocks mentioned.,0.008390056900680065,0.026033494621515274,0.9655764698982239,neutral,-0.017643436789512634
+55,2019-02-18 06:34:00,The Motley Fool has the following options: long January 2020 $110 calls on Home Depot.,0.01927853748202324,0.08153337240219116,0.8991880416870117,neutral,-0.06225483492016792
+56,2019-02-18 06:34:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+57,2019-02-18 06:34:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+58,2019-02-18 06:34:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

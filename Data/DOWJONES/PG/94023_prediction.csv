@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-02-12 01:20:00,"""After the S&P 500 Index (SPX) gained more than 1% in three of the past four days, the markets rested today,"" noted Schaeffer's Senior Technical Strategist Ryan Detrick, CMT.",0.9050440192222595,0.04609091952443123,0.04886506125330925,positive,0.8589531183242798
+1,2014-02-12 01:20:00,"""It was a rather dull day, but after the run we've been on, that isn't bad.",0.07880156487226486,0.7287362813949585,0.19246214628219604,negative,-0.649934709072113
+2,2014-02-12 01:20:00,"A rest versus a big drop is healthy.""",0.6777397990226746,0.12423420697450638,0.19802598655223846,positive,0.5535055994987488
+3,2014-02-12 01:20:00,"The Dow Jones Industrial Average (DJI) peeked into positive territory early on, but settled with a modest loss at the closing bell.",0.06630920618772507,0.9074431657791138,0.026247654110193253,negative,-0.8411339521408081
+4,2014-02-12 01:20:00,"Continue reading for more on today's market, including
+• These three stocks hit new record highs, spurring notable action in their respective options pits.",0.8640593886375427,0.02600238472223282,0.10993821918964386,positive,0.8380569815635681
+5,2014-02-12 01:20:00,• More ways to bet on volatility!,0.17684385180473328,0.03152644261717796,0.7916297316551208,neutral,0.14531740546226501
+6,2014-02-12 01:20:00,Schaeffer's contributor Adam Warner has the details.,0.018267761915922165,0.014929704368114471,0.9668025374412537,neutral,0.0033380575478076935
+7,2014-02-12 01:20:00,• See how Goldman Sachs Group Inc ( GS ) reached out to the fairer sex .,0.21870051324367523,0.011125096119940281,0.7701743245124817,neutral,0.20757541060447693
+8,2014-02-12 01:20:00,• Plus ...,0.2006968855857849,0.015023539774119854,0.7842795848846436,neutral,0.18567334115505219
+9,2014-02-12 01:20:00,"The Procter & Gamble Company ( PG ) reduces its earnings outlook, data from China offers some solace, and Amazon.com, Inc. ( AMZN ) falters after a brokerage downgrade.",0.02088644914329052,0.9556920528411865,0.023421557620167732,negative,-0.9348056316375732
+10,2014-02-12 01:20:00,Trading Topic of the Week -- Learning to Trade Like the Pros Act like it's your job .,0.0528421513736248,0.03537794575095177,0.9117799401283264,neutral,0.017464205622673035
+11,2014-02-12 01:20:00,Don't expect to score big profits by dabbling.,0.031562689691782,0.010430190712213516,0.9580070972442627,neutral,0.02113249897956848
+12,2014-02-12 01:20:00,It's important to stay engaged with the market on a daily basis.,0.21935100853443146,0.010377571918070316,0.770271360874176,neutral,0.20897343754768372
+13,2014-02-12 01:20:00,"After another valiant attempt to topple 16,000 -- hitting 16,036.56 in early trading -- the Dow Jones Industrial Average (DJI - 15,963.94) settled 30.8 points, or 0.2%, lower.",0.024456515908241272,0.9597882628440857,0.01575522869825363,negative,-0.9353317618370056
+14,2014-02-12 01:20:00,"Caterpillar Inc.'s ( CAT ) 1.3% increase led the 16 Dow advancers, while The Procter & Gamble Company ( PG ) dropped 1.7%, pacing the 14 laggards.",0.6158491373062134,0.22394230961799622,0.1602085679769516,positive,0.39190682768821716
+15,2014-02-12 01:20:00,"The S&P 500 Index (SPX - 1,819.27) was little changed, settling with a loss of 0.5 point, or 0.03%.",0.02029811218380928,0.9621914029121399,0.01751040481030941,negative,-0.9418932795524597
+16,2014-02-12 01:20:00,"The Nasdaq Composite (COMP - 4,201.29) outperformed its peers, gaining 10.2 points, or 0.2%, on the day.",0.9181073307991028,0.06309676915407181,0.01879584789276123,positive,0.8550105690956116
+17,2014-02-12 01:20:00,"The CBOE Volatility Index (VIX - 14.30) also fell, giving back 0.2 point, or 1.5%.",0.021576177328824997,0.9645166993141174,0.013907098211348057,negative,-0.9429405331611633
+18,2014-02-12 01:20:00,"""Historically -- in terms of the markets --- the second year of the Presidential cycle has a rough January and bottoms in late January or early February,"" added Detrick.",0.04180038720369339,0.2742252051830292,0.6839743852615356,neutral,-0.23242482542991638
+19,2014-02-12 01:20:00,"""Considering this is the second year of the cycle, it is rather intriguing how well this year is playing out, based on history.""",0.4757750928401947,0.021736638620495796,0.5024882555007935,neutral,0.45403844118118286
+20,2014-02-12 01:20:00,"• Consumer-products giant The Procter & Gamble Company ( PG ) reduced its 2014 earnings and revenue outlook , due to stresses surrounding emerging market currencies.",0.0180666446685791,0.9719042778015137,0.010029030963778496,negative,-0.9538376331329346
+21,2014-02-12 01:20:00,"The Dow name now expects core earnings-per-share growth of 3%-5%, down from earlier estimates of up to 7%.",0.018174322322010994,0.9711913466453552,0.010634317994117737,negative,-0.953016996383667
+22,2014-02-12 01:20:00,"Sales are expected to be flat or rise up to 2%, versus a previous outlook for revenue growth of 1% to 2%.",0.295692503452301,0.6175965070724487,0.08671092242002487,negative,-0.3219040036201477
+23,2014-02-12 01:20:00,"(Reuters, via CNBC)
+• China announced better-than-expected export and import growth in January, assuaging concerns that the world's second-largest economy has its foot on the brakes.",0.9409914016723633,0.0383836030960083,0.02062501199543476,positive,0.902607798576355
+24,2014-02-12 01:20:00,"The country's trade surplus hit $31.9 billion last month, the widest January surplus in five years.",0.7877745628356934,0.15311680734157562,0.0591086782515049,positive,0.6346577405929565
+25,2014-02-12 01:20:00,"(Bloomberg)
+• One aggressive bear used short calls and long puts to place a longer-term bet against Advanced Micro Devices, Inc. ( AMD ) .",0.3081611692905426,0.1105404868721962,0.5812983512878418,neutral,0.197620689868927
+26,2014-02-12 01:20:00,"• Amazon.com, Inc. ( AMZN ) stumbled today, after being slapped with a downgrade and a $75 price-target reduction this morning.",0.02497311308979988,0.9640213251113892,0.011005531996488571,negative,-0.9390482306480408
+27,2014-02-12 01:20:00,• Is Sirius XM Holdings Inc. (SIRI) headed above years-old resistance at the $4 level?,0.6208046674728394,0.07259024679660797,0.3066050708293915,positive,0.5482144355773926
+28,2014-02-12 01:20:00,"For a look at today's options movers and commodities activity, head to page 2.",0.011671511456370354,0.018261956050992012,0.9700665473937988,neutral,-0.006590444594621658
+29,2014-02-12 01:20:00,"Crude oil headed back above the $100 mark on Wednesday, as oil watchers weighed an improved estimate for global energy demand against a larger-than-expected increase in supplies.",0.7976431250572205,0.1454802006483078,0.05687661096453667,positive,0.6521629095077515
+30,2014-02-12 01:20:00,"By the close, March-dated futures had added 43 cents, or 0.4%, to settle at $100.37 per barrel, the highest level since the end of 2013.",0.8713024258613586,0.08961101621389389,0.039086490869522095,positive,0.7816914319992065
+31,2014-02-12 01:20:00,"Gold futures continued to advance for the sixth straight session, but remained contained by the overhead $1,300 mark.",0.4874923825263977,0.31964775919914246,0.19285987317562103,positive,0.16784462332725525
+32,2014-02-12 01:20:00,"April-dated gold futures climbed $5.20, or 0.4%, to settle at $1,295 an ounce.",0.8907642960548401,0.05165288969874382,0.05758272111415863,positive,0.8391113877296448
+33,2014-02-12 01:20:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942193515598774,0.013680468313395977,0.9763773083686829,neutral,-0.003738274797797203
+34,2014-02-12 01:20:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200574591755867,0.9573419094085693,neutral,-0.02135337144136429

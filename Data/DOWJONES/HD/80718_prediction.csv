@@ -1,0 +1,91 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-01 08:08:00,One of the hardest things to do in the stock market is to time the bottom in a falling stock.,0.1002667173743248,0.3385731279850006,0.561160147190094,neutral,-0.23830640316009521
+1,2019-11-01 08:08:00,That’s because momentum is a very real thing.,0.12825840711593628,0.009663187898695469,0.8620783686637878,neutral,0.11859522014856339
+2,2019-11-01 08:08:00,"Stocks that have been trending higher, usually continue to trend higher.",0.5087332129478455,0.03327719867229462,0.45798957347869873,positive,0.47545599937438965
+3,2019-11-01 08:08:00,"Stocks that have been trending lower, usually continue to trend lower.",0.02640257216989994,0.798011302947998,0.17558610439300537,negative,-0.7716087102890015
+4,2019-11-01 08:08:00,But that doesn’t mean investors should completely avoid buying the dip in falling stocks.,0.08836651593446732,0.5059851408004761,0.40564829111099243,negative,-0.41761863231658936
+5,2019-11-01 08:08:00,Those can often turn into some of the most profitable trades.,0.17222313582897186,0.025413479655981064,0.802363395690918,neutral,0.1468096524477005
+6,2019-11-01 08:08:00,"Instead, it means investors should be very selective in buying dips and pay attention to the clues surrounding these falling stocks.",0.11070232838392258,0.020379485562443733,0.8689181804656982,neutral,0.09032284468412399
+7,2019-11-01 08:08:00,One such clue is insider activity.,0.07369869947433472,0.14609597623348236,0.780205249786377,neutral,-0.07239727675914764
+8,2019-11-01 08:08:00,"That is, investors should look for falling stocks which insiders are buying on the dip, since this show of confidence from insiders is usually a bullish sign that the worst is over and a bottom is close.",0.23460394144058228,0.4276956617832184,0.33770039677619934,negative,-0.1930917203426361
+9,2019-11-01 08:08:00,"With that in mind, let’s take a look at five cheap and falling stocks that insiders are buying the dip in, and see whether or not these stocks have actually bottomed.",0.06196260452270508,0.08426979929208755,0.8537675738334656,neutral,-0.022307194769382477
+10,2019-11-01 08:08:00,"Shares of cosmetics retailer Ulta (NASDAQ:) fell off a cliff in late August after the company reported ugly second-quarter numbers which missed revenue and profit estimates, and also included a cut to its full-year profit guide.",0.018136994913220406,0.9719815254211426,0.009881488978862762,negative,-0.9538445472717285
+11,2019-11-01 08:08:00,"In the wake of that big selloff, insiders have turned bullish.",0.08684302121400833,0.7988076210021973,0.11434939503669739,negative,-0.7119646072387695
+12,2019-11-01 08:08:00,"Specifically, there have been five open market purchases of ULTA stock since the post-earnings selloff, led by long-time board member Charles Heilbronn.",0.09909292310476303,0.010189940221607685,0.890717089176178,neutral,0.08890298008918762
+13,2019-11-01 08:08:00,This was the guy was on the way up — before the plunge.,0.21833650767803192,0.1228148564696312,0.6588485836982727,neutral,0.09552165120840073
+14,2019-11-01 08:08:00,"Thus, the fact that he’s buying the dip now is a bullish reversal sign.",0.664895236492157,0.10057422518730164,0.23453053832054138,positive,0.5643210411071777
+15,2019-11-01 08:08:00,"Indeed, Heilbronn is part of a broader reversal here.",0.7374581098556519,0.027523886412382126,0.23501797020435333,positive,0.7099342346191406
+16,2019-11-01 08:08:00,"Over the past three months, there have been zero insider sales of ULTA stock.",0.014896152541041374,0.060222964733839035,0.9248809218406677,neutral,-0.04532681405544281
+17,2019-11-01 08:08:00,"Compare that to the prior nine months, where there were 37 insider sale transactions.",0.04162117838859558,0.027773218229413033,0.9306055903434753,neutral,0.013847960159182549
+18,2019-11-01 08:08:00,"In other words, insiders aren’t selling anymore.",0.034288980066776276,0.21832194924354553,0.7473890781402588,neutral,-0.18403297662734985
+19,2019-11-01 08:08:00,Does that mean the worst is over for ULTA stock?,0.02883642353117466,0.29315000772476196,0.6780135631561279,neutral,-0.26431357860565186
+20,2019-11-01 08:08:00,I think so.,0.20592829585075378,0.026304421946406364,0.7677673101425171,neutral,0.17962387204170227
+21,2019-11-01 08:08:00,The post-Q2 selloff was overdone.,0.09578339010477066,0.8077172636985779,0.09649935364723206,negative,-0.7119338512420654
+22,2019-11-01 08:08:00,"Sure, the numbers weren’t great, and the growth narrative here is slowing.",0.02624800056219101,0.9154271483421326,0.058324895799160004,negative,-0.8891791701316833
+23,2019-11-01 08:08:00,"But, this is a still a very strong company, supported by secular cosmetics adoption tailwinds, healthy margins, direct retail expansion and a big unit growth runway.",0.9284572005271912,0.013802771456539631,0.057740069925785065,positive,0.9146544337272644
+24,2019-11-01 08:08:00,"In the long run, those strong growth drivers will power profits significantly higher.",0.9327211976051331,0.018959304317831993,0.048319533467292786,positive,0.9137619137763977
+25,2019-11-01 08:08:00,"As those profits trend higher, so will ULTA stock.",0.8529391288757324,0.015198918990790844,0.13186195492744446,positive,0.8377401828765869
+26,2019-11-01 08:08:00,"Struggling retailer The Tile Shop (NASDAQ:) recently reported really ugly third-quarter numbers in late October that included negative comparable-store sales growth, margin erosion, a net loss and a surprise delisting announcement.",0.01911712810397148,0.9683495759963989,0.012533255852758884,negative,-0.9492324590682983
+27,2019-11-01 08:08:00,"In response to the ugly print, TTS stock lost more than two-thirds of its value.",0.018531249836087227,0.9643951654434204,0.01707349717617035,negative,-0.9458639025688171
+28,2019-11-01 08:08:00,"In the wake of the huge selloff, though, insiders stepped up.",0.6982646584510803,0.03545478358864784,0.2662805914878845,positive,0.6628098487854004
+29,2019-11-01 08:08:00,"Board member Peter Jacullo bought roughly 2.4 million shares over the span of a few days, while the chief financial officer and chief accounting officer both acquired about 60,000 shares.",0.055153392255306244,0.006166277918964624,0.9386803507804871,neutral,0.04898711293935776
+30,2019-11-01 08:08:00,"In response to this vote of confidence from insiders, investors have bought the dip, too.",0.901802659034729,0.02532775327563286,0.07286958396434784,positive,0.876474916934967
+31,2019-11-01 08:08:00,"From its post-earnings lows, TTS stock is already up 90% — and it’s only been a few days.",0.9279173016548157,0.024182269349694252,0.04790038615465164,positive,0.9037350416183472
+32,2019-11-01 08:08:00,Will this rebound last?,0.18621112406253815,0.0244788508862257,0.7893099784851074,neutral,0.1617322713136673
+33,2019-11-01 08:08:00,It’s tough to say.,0.09494658559560776,0.15578223764896393,0.7492712140083313,neutral,-0.06083565205335617
+34,2019-11-01 08:08:00,At current levels TTS stock is certainly cheap.,0.5729811787605286,0.01426214911043644,0.41275671124458313,positive,0.5587190389633179
+35,2019-11-01 08:08:00,"But, revenues, margins and profits are all dropping.",0.017261609435081482,0.9661605954170227,0.016577910631895065,negative,-0.94889897108078
+36,2019-11-01 08:08:00,"Current fundamentals imply that they will keep dropping, as The Tile Shop finds itself as an undifferentiated retailer in a crowded building materials space that is rapidly consolidating around leaders like Home Depot (NYSE:) and Floor & Decor (NYSE:).",0.020576372742652893,0.9422244429588318,0.037199243903160095,negative,-0.9216480851173401
+37,2019-11-01 08:08:00,"As such, this insider-driven rebound in TTS stock may just be a head-fake.",0.06906531751155853,0.731214702129364,0.19971990585327148,negative,-0.6621493697166443
+38,2019-11-01 08:08:00,"Until the fundamentals turn around here, caution is warranted.",0.0766868069767952,0.022072069346904755,0.9012411236763,neutral,0.05461473762989044
+39,2019-11-01 08:08:00,Depressed department store operator Stage Stores (NYSE:) has been the recipient of significant insider buying over the past three months as the company has more aggressively pursued its discount-oriented turnaround plan.,0.9296699166297913,0.019465096294879913,0.05086488649249077,positive,0.9102048277854919
+40,2019-11-01 08:08:00,Here’s the story.,0.030166683718562126,0.01138600055128336,0.9584473371505737,neutral,0.018780682235956192
+41,2019-11-01 08:08:00,Stage Stores owns two types of stores — full-price stores and off-price stores.,0.014527603052556515,0.011869286186993122,0.9736030697822571,neutral,0.0026583168655633926
+42,2019-11-01 08:08:00,The full-price stores aren’t doing well.,0.020359277725219727,0.9348768591880798,0.044763851910829544,negative,-0.9145175814628601
+43,2019-11-01 08:08:00,The off-price stores are doing much better.,0.9037706851959229,0.024082181975245476,0.07214713841676712,positive,0.8796885013580322
+44,2019-11-01 08:08:00,"But, most of the company’s stores today are full-price stores.",0.014967783354222775,0.011111910454928875,0.9739202857017517,neutral,0.0038558728992938995
+45,2019-11-01 08:08:00,Management wants to change that.,0.09831324964761734,0.012673214077949524,0.8890135288238525,neutral,0.08564003556966782
+46,2019-11-01 08:08:00,They want to close some of those full-price stores and .,0.04518868401646614,0.35069599747657776,0.6041153073310852,neutral,-0.3055073022842407
+47,2019-11-01 08:08:00,"Thus, the big plan here is to turn Stage Stores into a mini TJX (NYSE:) or Ross Stores (NASDAQ:).",0.07187076658010483,0.005431980360299349,0.9226972460746765,neutral,0.06643878668546677
+48,2019-11-01 08:08:00,Will it work?,0.11026693135499954,0.025151077657938004,0.8645820021629333,neutral,0.08511584997177124
+49,2019-11-01 08:08:00,It could.,0.4138871133327484,0.027249302715063095,0.558863639831543,neutral,0.386637806892395
+50,2019-11-01 08:08:00,"And, if it does, SSI stock could turn into a multi-bagger in the long run.",0.07984697073698044,0.7638300061225891,0.15632306039333344,negative,-0.6839830279350281
+51,2019-11-01 08:08:00,Just look at the sales multiple on SSI.,0.014716866426169872,0.01639799401164055,0.9688851833343506,neutral,-0.0016811275854706764
+52,2019-11-01 08:08:00,It’s below 0.05.,0.07842987030744553,0.24773557484149933,0.6738345623016357,neutral,-0.1693057119846344
+53,2019-11-01 08:08:00,Now look at the sales multiples on TJX and ROST.,0.014306976459920406,0.014871965162456036,0.9708210229873657,neutral,-0.0005649887025356293
+54,2019-11-01 08:08:00,They are each north of 1.8.,0.03096921555697918,0.02452809549868107,0.9445026516914368,neutral,0.006441120058298111
+55,2019-11-01 08:08:00,Insiders clearly believe in the plan.,0.14987491071224213,0.013586394488811493,0.8365387320518494,neutral,0.13628852367401123
+56,2019-11-01 08:08:00,"Over the past three months, as the company has converted multiple full-price stores into off-price ones, there have been 10 open market insider purchases, and just one insider sale.",0.04283149540424347,0.1601354032754898,0.7970331311225891,neutral,-0.11730390787124634
+57,2019-11-01 08:08:00,Should you buy in too?,0.07882700115442276,0.020301837474107742,0.9008711576461792,neutral,0.05852516368031502
+58,2019-11-01 08:08:00,That depends on your risk appetite.,0.028577493503689766,0.008496948517858982,0.9629255533218384,neutral,0.02008054405450821
+59,2019-11-01 08:08:00,"The stock has come very far, very fast, so if the turnaround plan doesn’t work as hoped, the stock could fall a lot from here.",0.026416519656777382,0.9192060232162476,0.054377492517232895,negative,-0.8927894830703735
+60,2019-11-01 08:08:00,"At the same time, there’s also a bunch of upside potential in the event the turnaround does work.",0.5761415362358093,0.020999357104301453,0.4028591513633728,positive,0.5551421642303467
+61,2019-11-01 08:08:00,"It’s a typical high-risk, high-reward situation — and it’s tough to say which way the stock will go next.",0.046690091490745544,0.04095817729830742,0.9123517274856567,neutral,0.005731914192438126
+62,2019-11-01 08:08:00,"Shares of struggling video game retailer GameStop (NYSE:) have been in a secular decline for several years now, as revenues and profits have been wiped out by a shift from physical to digital video games.",0.017995934933423996,0.9687609672546387,0.013243033550679684,negative,-0.9507650136947632
+63,2019-11-01 08:08:00,"But, GME stock has essentially doubled since mid-August amid renewed optimism regarding the company’s growth prospects in 2020 and 2021.",0.9409252405166626,0.02295568957924843,0.03611910343170166,positive,0.9179695248603821
+64,2019-11-01 08:08:00,"Specifically, at the end of 2020, PlayStation and Xbox are set to unveil new generation video game consoles for the first time since 2013.",0.4474782943725586,0.010540402494370937,0.5419812798500061,neutral,0.4369378983974457
+65,2019-11-01 08:08:00,"That is supposed to create huge tailwinds throughout the entire video game industry, and those tailwinds should power meaningfully improved results at GameStop.",0.8754538893699646,0.0578034371137619,0.06674265116453171,positive,0.8176504373550415
+66,2019-11-01 08:08:00,"Ahead of this game-changing catalyst, investors and insiders alike are buying GME stock in bulk.",0.5647179484367371,0.022202495485544205,0.41307955980300903,positive,0.5425154566764832
+67,2019-11-01 08:08:00,"In September 2019, five different insiders executed six different open market purchases of GME stock — the first open market purchases by insiders since September 2016.",0.13321107625961304,0.014942089095711708,0.8518468737602234,neutral,0.11826898902654648
+68,2019-11-01 08:08:00,The big question now is will the big rebound in GME stock continue?,0.2577767074108124,0.028842592611908913,0.7133806943893433,neutral,0.22893410921096802
+69,2019-11-01 08:08:00,I think so.,0.20592829585075378,0.026304421946406364,0.7677673101425171,neutral,0.17962387204170227
+70,2019-11-01 08:08:00,"There’s a lot of optimism out there regarding the 2020 video game console upgrade cycle, and all this optimism will continue to translate into strong demand for GME stock.",0.9103134870529175,0.015317454934120178,0.07436905801296234,positive,0.8949960470199585
+71,2019-11-01 08:08:00,"A lot has gone wrong for global consumer staples giant Kraft Heinz (NASDAQ:) over the past few years, as an obsession with cost-cutting has come at the expense of growth.",0.028086567297577858,0.918092668056488,0.053820714354515076,negative,-0.8900061249732971
+72,2019-11-01 08:08:00,"But, one thing that has gone right over the past few months is that insiders are finally starting to buy the dip in beaten up KHC stock.",0.4900828003883362,0.2040461003780365,0.3058710992336273,positive,0.2860367000102997
+73,2019-11-01 08:08:00,"Over the past twelve months, KHC stock has dropped 40%.",0.019473519176244736,0.9712088704109192,0.009317675605416298,negative,-0.9517353773117065
+74,2019-11-01 08:08:00,"For the first nine months of that selloff, insiders refused to buy the dip.",0.06468282639980316,0.6374083161354065,0.29790881276130676,negative,-0.5727254748344421
+75,2019-11-01 08:08:00,There were zero insider purchases during that stretch.,0.02037072367966175,0.04888233169913292,0.9307469129562378,neutral,-0.02851160801947117
+76,2019-11-01 08:08:00,"But, over the past three months, insiders have fully embraced a “buy-the-dip” mentality.",0.7000226378440857,0.029441995546221733,0.2705354392528534,positive,0.6705806255340576
+77,2019-11-01 08:08:00,"During this stretch, there have been a whopping 22 insider purchases.",0.05958516150712967,0.0665445476770401,0.873870313167572,neutral,-0.006959386169910431
+78,2019-11-01 08:08:00,This insider vote of confidence has sparked life back into KHC stock.,0.9192795753479004,0.026159336790442467,0.0545610636472702,positive,0.8931202292442322
+79,2019-11-01 08:08:00,Most of the insider buying started in mid-August.,0.017845584079623222,0.009328068234026432,0.972826361656189,neutral,0.00851751584559679
+80,2019-11-01 08:08:00,"Since then, KHC stock is up 13%.",0.94815993309021,0.020704345777630806,0.031135698780417442,positive,0.9274556040763855
+81,2019-11-01 08:08:00,Will this newfound strength in KHC stock persist?,0.7296295762062073,0.028836030513048172,0.24153441190719604,positive,0.7007935643196106
+82,2019-11-01 08:08:00,It could.,0.4138871133327484,0.027249302715063095,0.558863639831543,neutral,0.386637806892395
+83,2019-11-01 08:08:00,"There’s a new management team here, and this new management team is less obsessed with cutting costs than its predecessors.",0.47462257742881775,0.021984227001667023,0.5033931732177734,neutral,0.4526383578777313
+84,2019-11-01 08:08:00,Instead it’s more obsessed with organic growth.,0.046026188880205154,0.014682517386972904,0.9392913579940796,neutral,0.031343672424554825
+85,2019-11-01 08:08:00,That’s the right mindset to adopt going forward.,0.2704918384552002,0.007976796478033066,0.721531331539154,neutral,0.26251503825187683
+86,2019-11-01 08:08:00,It should stabilize revenue growth and return the company to positive profit growth.,0.9492007493972778,0.016861647367477417,0.03393760323524475,positive,0.932339072227478
+87,2019-11-01 08:08:00,"If that happens, then KHC stock — which presently trades at just 12.6 times forward earnings — has plenty of room to run higher.",0.75639408826828,0.027895106002688408,0.2157108187675476,positive,0.7284989953041077
+88,2019-11-01 08:08:00,"As of this writing, Luke Lango was long ULTA, TJX and GME.",0.01137500535696745,0.0306236632168293,0.9580013155937195,neutral,-0.019248656928539276
+89,2019-11-01 08:08:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

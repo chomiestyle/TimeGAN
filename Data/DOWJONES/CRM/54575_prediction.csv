@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2010-05-21 03:47:00,"The Dow Jones Industrial Average ( DJIA ) plunged nearly 400 points on Thursday, bringing the blue-chip barometer perilously close to psychological support at the 10,000 level.",0.06456315517425537,0.8904442191123962,0.044992659240961075,negative,-0.8258810639381409
+1,2010-05-21 03:47:00,"Unfortunately there is no rest for the weary, as it appears that the DJIA may breach this round-number support level, with futures pointing toward a loss of about 51 points on the open.",0.022808393463492393,0.9630391001701355,0.014152470044791698,negative,-0.9402307271957397
+2,2010-05-21 03:47:00,"Meanwhile, S&P 500 Index ( SPX ) futures are indicating an opening loss of more than 7 points.",0.021783247590065002,0.9669277667999268,0.011288999579846859,negative,-0.945144534111023
+3,2010-05-21 03:47:00,"Such a move would put the SPX dangerously close to its February lows near 1,160.",0.029168618842959404,0.9444262981414795,0.02640507183969021,negative,-0.9152576923370361
+4,2010-05-21 03:47:00,"Below this, the SPX has little in the way of technical support until 1,030, its November 2009 low.",0.07910417020320892,0.5415109395980835,0.379384845495224,negative,-0.4624067544937134
+5,2010-05-21 03:47:00,"Finally, the CBOE Market Volatility Index ( VIX ) has soared more than 46% so far this week, as the fear index tagged yet another annual high on Thursday.",0.9404426217079163,0.02389523573219776,0.035662151873111725,positive,0.9165473580360413
+6,2010-05-21 03:47:00,"The VIX is now trading north of the 45 level, a region it has not seen since March 2009.",0.11502935737371445,0.16653408110141754,0.7184365391731262,neutral,-0.051504723727703094
+7,2010-05-21 03:47:00,"In earnings news, Aeropostale Inc. ( ARO ) is off about 2% in pre-market activity after the company posted first-quarter net income of $45.4 million, or 48 cents per share.",0.020062055438756943,0.9670711159706116,0.012866857461631298,negative,-0.9470090866088867
+8,2010-05-21 03:47:00,"Total net sales rose to $463.6 million, while same-store sales rose 8%.",0.9535242915153503,0.020864740014076233,0.025610994547605515,positive,0.9326595664024353
+9,2010-05-21 03:47:00,Analysts were expecting a profit of 46 cents per share.,0.10457609593868256,0.09381096065044403,0.8016129732131958,neutral,0.010765135288238525
+10,2010-05-21 03:47:00,"Brocade Communications Systems Inc. ( BRCD ) reported a second-quarter profit of $62.7 million, or 13 cents per share, excluding items, as revenue came in at $501 million.",0.1594967395067215,0.1256108582019806,0.7148923873901367,neutral,0.033885881304740906
+11,2010-05-21 03:47:00,Analysts had forecast earnings of 12 cents per share on $503 million in sales.,0.22124511003494263,0.022385813295841217,0.7563690543174744,neutral,0.198859304189682
+12,2010-05-21 03:47:00,BRCD shares have plummeted nearly 9% in pre-market trading following the report.,0.01939072087407112,0.9699897170066833,0.0106194531545043,negative,-0.9505990147590637
+13,2010-05-21 03:47:00,"Salesforce.com Inc. ( CRM ) shares have dropped about 4.5% in electronic trading after the company reported a first-quarter profit of $17.7 million, or 13 cents a share.",0.019489416852593422,0.9707255363464355,0.009785172529518604,negative,-0.9512361288070679
+14,2010-05-21 03:47:00,"Excluding items, the CRM earned 30 cents per share, in line with expectations.",0.8822066187858582,0.054692238569259644,0.06310112029314041,positive,0.8275144100189209
+15,2010-05-21 03:47:00,Revenue rose 24% to $376.8 million.,0.9555910229682922,0.020672772079706192,0.02373621053993702,positive,0.934918224811554
+16,2010-05-21 03:47:00,"Finally, Dell Inc. ( DELL ) is down about 3% in pre-market trading, as investors react to news that the company eared $441 million, or 22 cents per share, in the first quarter.",0.019881200045347214,0.9670032262802124,0.013115664012730122,negative,-0.9471220374107361
+17,2010-05-21 03:47:00,Revenue rose to $14.9 billion.,0.9379149079322815,0.016368838027119637,0.04571625217795372,positive,0.9215460419654846
+18,2010-05-21 03:47:00,"Adjusted income was 30 cents per share, edging past Wall Street's expectations for earnings of 26 cents per share on revenue of $14.3 billion.",0.9355669021606445,0.02824641764163971,0.036186642944812775,positive,0.907320499420166
+19,2010-05-21 03:47:00,"On the earnings front, AnnTaylor Stores Corp. ( ANN ) and Frontline Ltd. ( FRO ) are slated to release their quarterly earnings reports.",0.021142272278666496,0.02007129229605198,0.9587864875793457,neutral,0.0010709799826145172
+20,2010-05-21 03:47:00,Keep your browser at SchaeffersResearch.com for more news as it breaks.,0.02309834212064743,0.06109897419810295,0.9158027172088623,neutral,-0.03800063207745552
+21,2010-05-21 03:47:00,"Equity option activity on the Chicago Board Options Exchange ( CBOE ) saw 1,842,471 call contracts traded on Thursday, compared to 1,760,353 put contracts.",0.19632664322853088,0.7735576629638672,0.030115613713860512,negative,-0.5772310495376587
+22,2010-05-21 03:47:00,"The resultant single-session put/call ratio arrived at 0.96, while the 21-day moving average rose to 0.63.",0.8436233997344971,0.024407384917140007,0.13196927309036255,positive,0.8192160129547119
+23,2010-05-21 03:47:00,**The volume data shown above is from the Nasdaq and NYSE exchanges only.,0.010512563399970531,0.01637144386768341,0.9731159806251526,neutral,-0.005858880467712879
+24,2010-05-21 03:47:00,"It does not include regional volume activity, which means that other daily volume quotes you see may be higher.",0.016967685893177986,0.03772684931755066,0.9453055262565613,neutral,-0.020759163424372673
+25,2010-05-21 03:47:00,"**
+
+Every morning, our research staff analyzes the prior day and the overnight markets, and monitors the morning wires to give you an accurate preview of the day to come.",0.0207601897418499,0.0071182590909302235,0.97212153673172,neutral,0.013641931116580963
+26,2010-05-21 03:47:00,"If you enjoyed today's edition of Opening View, sign up here for free daily delivery, straight to your inbox, before the opening bell.",0.03924258053302765,0.015955906361341476,0.9448015093803406,neutral,0.023286674171686172
+27,2010-05-21 03:47:00,"Overseas trading is headed for steep weekly losses, as only one of the 10 foreign indexes that we follow is in positive territory this Friday morning.",0.06349693983793259,0.904293954372406,0.0322091318666935,negative,-0.8407970070838928
+28,2010-05-21 03:47:00,The cumulative average return on the collective stands at a loss of 1.10%.,0.01966133341193199,0.9597058296203613,0.020632917061448097,negative,-0.9400445222854614
+29,2010-05-21 03:47:00,"In Asia, stock markets suffered losses, as persistent worries over the euro zone debt crisis and its negative impact on the global economic recovery sent investors heading for the exits.",0.0355810672044754,0.9457131624221802,0.018705816939473152,negative,-0.910132110118866
+30,2010-05-21 03:47:00,"Turning to Europe, stocks are lower, with heightened concerns over euro zone sovereign debt and government spending and tougher financial industry regulations hurting sentiment.",0.02166193723678589,0.9636961817741394,0.014641929417848587,negative,-0.9420342445373535
+31,2010-05-21 03:47:00,Overseas market information comes to you courtesy of Schaeffer's Daily Bulletin .,0.033578258007764816,0.005984473042190075,0.9604372978210449,neutral,0.027593784034252167
+32,2010-05-21 03:47:00,"The U.S. Dollar Index pulled back sharply yesterday, as the euro rebounded from multi-year lows.",0.7436438798904419,0.18325260281562805,0.07310357689857483,positive,0.5603913068771362
+33,2010-05-21 03:47:00,"However, the dollar appears to be back on track this morning, with the index up 0.34% at 85.86.",0.9145204424858093,0.03562592342495918,0.04985363408923149,positive,0.8788945078849792
+34,2010-05-21 03:47:00,"The same cannot be said about oil and gold, however.",0.026260757818818092,0.06137774512171745,0.9123614430427551,neutral,-0.03511698544025421
+35,2010-05-21 03:47:00,"Crude futures are threatening to break below $70 per barrel this morning, with the July contract down 59 cents at $70.21 per barrel.",0.029063081368803978,0.9367319345474243,0.03420495614409447,negative,-0.9076688289642334
+36,2010-05-21 03:47:00,"Finally, gold futures are extending their recent losses, dropping $6.20 to $1,182.40 in London.",0.017942553386092186,0.9713149666786194,0.010742486454546452,negative,-0.9533724188804626
+37,2010-05-21 03:47:00,"For an explanation of how to use this information, check out our Education Center topics on Option Volume and Open Interest Configurations .",0.017477557063102722,0.00839079450815916,0.9741316437721252,neutral,0.009086762554943562
+38,2010-05-21 03:47:00,"Due to technical issues, the ""Unusual Put and Call Activity"" charts are unavailable today.",0.019828660413622856,0.36547544598579407,0.6146959066390991,neutral,-0.34564679861068726
+39,2010-05-21 03:47:00,We apologize for the inconvenience.,0.04901542887091637,0.06429144740104675,0.8866931200027466,neutral,-0.015276018530130386
+40,2010-05-21 03:47:00,"Click here for the new spring issue of SENTIMENT magazine
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009160042740404606,0.016924792900681496,0.973915159702301,neutral,-0.00776475016027689
+41,2010-05-21 03:47:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652368888258934,0.03200574591755867,0.9573419094085693,neutral,-0.021353377029299736

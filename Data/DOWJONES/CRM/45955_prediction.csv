@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-11 22:23:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Salesforce.com Inc (Symbol: CRM), where a total volume of 33,510 contracts has been traded thus far today, a contract volume which is representative of approximately 3.4 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.04473232477903366,0.010609685443341732,0.9446579813957214,neutral,0.034122638404369354
+1,2018-10-11 22:23:00,"That number works out to 52.8% of CRM's average daily trading volume over the past month, of 6.4 million shares.",0.6880678534507751,0.02027856558561325,0.2916536033153534,positive,0.6677892804145813
+2,2018-10-11 22:23:00,"Especially high volume was seen for the $125 strike put option expiring October 19, 2018 , with 2,400 contracts trading so far today, representing approximately 240,000 underlying shares of CRM.",0.3044082224369049,0.011976265348494053,0.6836155652999878,neutral,0.29243195056915283
+3,2018-10-11 22:23:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $125 strike highlighted in orange:
+
+TransDigm Group Inc (Symbol: TDG) options are showing a volume of 2,038 contracts thus far today.",0.023142892867326736,0.029480017721652985,0.94737708568573,neutral,-0.006337124854326248
+4,2018-10-11 22:23:00,"That number of contracts represents approximately 203,800 underlying shares, working out to a sizeable 51.2% of TDG's average daily trading volume over the past month, of 397,845 shares.",0.14542259275913239,0.00936845876276493,0.845209002494812,neutral,0.136054128408432
+5,2018-10-11 22:23:00,"Especially high volume was seen for the $290 strike put option expiring December 20, 2019 , with 608 contracts trading so far today, representing approximately 60,800 underlying shares of TDG.",0.1386394202709198,0.009836424142122269,0.8515241742134094,neutral,0.12880299985408783
+6,2018-10-11 22:23:00,"Below is a chart showing TDG's trailing twelve month trading history, with the $290 strike highlighted in orange:
+
+And PNC Financial Services Group (Symbol: PNC) options are showing a volume of 10,659 contracts thus far today.",0.01640664041042328,0.04218098893761635,0.9414123296737671,neutral,-0.02577434852719307
+7,2018-10-11 22:23:00,"That number of contracts represents approximately 1.1 million underlying shares, working out to a sizeable 49.8% of PNC's average daily trading volume over the past month, of 2.1 million shares.",0.1342363953590393,0.009063462726771832,0.8567001223564148,neutral,0.1251729279756546
+8,2018-10-11 22:23:00,"Particularly high volume was seen for the $123 strike call option expiring October 12, 2018 , with 581 contracts trading so far today, representing approximately 58,100 underlying shares of PNC.",0.2166641354560852,0.010370438918471336,0.7729654312133789,neutral,0.20629370212554932
+9,2018-10-11 22:23:00,"Below is a chart showing PNC's trailing twelve month trading history, with the $123 strike highlighted in orange:
+
+For the various different available expirations for CRM options , TDG options , or PNC options , visit StockOptionsChannel.com.",0.00977148674428463,0.02383272722363472,0.9663957357406616,neutral,-0.01406124047935009
+10,2018-10-11 22:23:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

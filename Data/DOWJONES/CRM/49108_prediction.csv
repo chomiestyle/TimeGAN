@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-16 00:37:00,"Explosive revenue growth proves athenahealth, Inc. (NASDAQ: ATHN) and Veeva Systems Inc. (NYSE: VEEV) can pull their target markets into the cloud fast enough to reward shareholders with impressive gains over the years.",0.9362592697143555,0.02320593222975731,0.04053477570414543,positive,0.9130533337593079
+1,2017-05-16 00:37:00,"More recently, though, Veeva's sales have been accelerating while athenahealth's have begun tapering off.",0.4906007647514343,0.38626351952552795,0.12313567101955414,positive,0.10433724522590637
+2,2017-05-16 00:37:00,"Veeva's recent success is reflected in a gain of about 38.4% this year, while disappointing sales growth in recent quarters has left athenahealth's stock price relatively flat over the same time frame.",0.18006987869739532,0.7554274797439575,0.06450264900922775,negative,-0.5753576159477234
+3,2017-05-16 00:37:00,"Should investors chase the high flyer, or try to swoop in for a bargain?",0.14310528337955475,0.08975867182016373,0.7671360373497009,neutral,0.05334661155939102
+4,2017-05-16 00:37:00,Let's look closer to see which stock is the better pick right now.,0.14508996903896332,0.015288393013179302,0.8396216630935669,neutral,0.12980157136917114
+5,2017-05-16 00:37:00,"The case for athenahealth, Inc.
+
+At a time when medical back-office task automation seemed out of reach for all but the largest provider networks, athenahealth burst on the scene with affordable solutions for the little guy.",0.5823908448219299,0.014409963972866535,0.4031992256641388,positive,0.5679808855056763
+6,2017-05-16 00:37:00,Government incentives to implement electronic health-record systems provided an extra tailwind that sent sales and the stock price soaring.,0.7687721252441406,0.13574834167957306,0.09547944366931915,positive,0.6330237984657288
+7,2017-05-16 00:37:00,"Unfortunately, recent sales growth hasn't been as thrilling as in past years.",0.7218171954154968,0.03139743581414223,0.24678531289100647,positive,0.6904197335243225
+8,2017-05-16 00:37:00,The market hammered the stock after the company reported first-quarter results that showed revenue increased just 11.4% year over year.,0.05047987028956413,0.929948627948761,0.019571537151932716,negative,-0.8794687390327454
+9,2017-05-16 00:37:00,Investors are especially concerned about the top-line slowdown because the company's operating margin has been squeezed paper thin in recent years.,0.03033250756561756,0.9483570456504822,0.021310346201062202,negative,-0.9180245399475098
+10,2017-05-16 00:37:00,"Now that the vast majority of U.S. physicians have electronic health-record systems, athenahealth must compete with bigger healthcare technology players on their home turf to continue growing.",0.9000155925750732,0.015150967054069042,0.08483340591192245,positive,0.8848646283149719
+11,2017-05-16 00:37:00,A top line that's soared to $1.11 billion shows the company's solutions are gaining popularity.,0.9053800702095032,0.015472573228180408,0.07914730161428452,positive,0.8899074792861938
+12,2017-05-16 00:37:00,"Unfortunately, gross profit rising slower than revenue suggests athenahealth must offer lower prices to compete with more established healthcare technology players.",0.09626078605651855,0.79265958070755,0.11107954382896423,negative,-0.6963987946510315
+13,2017-05-16 00:37:00,The effects of competition also appear closer toward the bottom line.,0.16217316687107086,0.03890354186296463,0.7989232540130615,neutral,0.12326962500810623
+14,2017-05-16 00:37:00,"Sales, general, and administrative spending has finally tapered off, but increasing investment into research and development is taking a large bite.",0.05539502203464508,0.834500789642334,0.1101042628288269,negative,-0.7791057825088501
+15,2017-05-16 00:37:00,"Investment should make athenahealth's products more competitive in the long run, but that's far from guaranteed.",0.8752511143684387,0.015048235654830933,0.10970056802034378,positive,0.8602029085159302
+16,2017-05-16 00:37:00,"Although margins are being squeezed at the moment, there are reasons to believe athenahealth's best days lie ahead.",0.8392488956451416,0.03165099769830704,0.129100039601326,positive,0.8075978755950928
+17,2017-05-16 00:37:00,It generally charges a percentage of total transactions completed with its software instead of large recurring fees.,0.014712351374328136,0.009978595189750195,0.9753090739250183,neutral,0.004733756184577942
+18,2017-05-16 00:37:00,"In an increasingly unpredictable U.S. healthcare market, providers appreciate the flexibility.",0.8090852499008179,0.015223784372210503,0.17569099366664886,positive,0.793861448764801
+19,2017-05-16 00:37:00,The case for Veeva Systems Inc.,0.04685454070568085,0.04641503840684891,0.9067304134368896,neutral,0.0004395022988319397
+20,2017-05-16 00:37:00,This company also owes its success to recognizing an underserved market.,0.8034509420394897,0.012728919275105,0.18382012844085693,positive,0.7907220125198364
+21,2017-05-16 00:37:00,"Several huge drugmakers, and plenty of smaller ones, were in dire need of the industry-specific customer relationship management (CRM) software Veeva.",0.18254081904888153,0.3202805519104004,0.4971785843372345,neutral,-0.13773973286151886
+22,2017-05-16 00:37:00,Providing the right solutions at the right time has made it the second-fastest software company to reach $500 million in annual revenue.,0.8926243782043457,0.01683361642062664,0.09054204076528549,positive,0.8757907748222351
+23,2017-05-16 00:37:00,"Among its 517 customers, you'll find the biotech giant Biogen , which uses Veeva's CRM tools to automate safety updates throughout its distributor network, and AstraZeneca , which claims the CRM helps its U.S. medical affairs team save 30% annually.",0.4212800860404968,0.015146529302001,0.56357342004776,neutral,0.4061335623264313
+24,2017-05-16 00:37:00,"Drugmakers have been pounding a path to Veeva's door, driving annual revenue up 1,776% over the past seven years to $544 million during fiscal 2017, which ended January.",0.945354700088501,0.019961601123213768,0.03468368947505951,positive,0.9253931045532227
+25,2017-05-16 00:37:00,"Unlike athenahealth's case, recent growth has been strong on the top and bottom lines.",0.9198703765869141,0.01457806397229433,0.06555157154798508,positive,0.9052923321723938
+26,2017-05-16 00:37:00,"During fiscal 2017, adjusted operating profit rose 47% over the previous year to reach $159 million.",0.9571817517280579,0.020155278965830803,0.02266300655901432,positive,0.9370265007019043
+27,2017-05-16 00:37:00,"As the proprietary Veeva Vault content management system (CMS) continues growing, it looks like more profits ahead.",0.9067606925964355,0.014750707894563675,0.07848864048719406,positive,0.892009973526001
+28,2017-05-16 00:37:00,"Portions of the company's commercial cloud CRM are built on the Salesforce1 platform, but Veeva owns the Veeva Vault CMS outright.",0.011571865528821945,0.010098586790263653,0.9783294796943665,neutral,0.0014732787385582924
+29,2017-05-16 00:37:00,"Higher-margin CMS revenue reached an annualized $220 million run rate during the fiscal fourth quarter, and could soon be the company's largest revenue stream.",0.9081463813781738,0.013871699571609497,0.07798194885253906,positive,0.8942747116088867
+30,2017-05-16 00:37:00,"Unfortunately, Veeva's explosive growth has attracted enough attention to drive the stock to a lofty valuation.",0.9313997626304626,0.020864592865109444,0.04773566499352455,positive,0.9105351567268372
+31,2017-05-16 00:37:00,"The stock, near its all-time high at the moment, has been trading at about 72 times this year's earnings estimates.",0.5283698439598083,0.043911442160606384,0.42771875858306885,positive,0.48445838689804077
+32,2017-05-16 00:37:00,Investors could realize big long-term gains if the company continues along its current growth trajectory.,0.9276939034461975,0.014543930068612099,0.057762227952480316,positive,0.9131499528884888
+33,2017-05-16 00:37:00,"If this rocket levels off, though, it could lead to steep losses.",0.04704548045992851,0.8504428267478943,0.1025116890668869,negative,-0.8033973574638367
+34,2017-05-16 00:37:00,"Although athenahealth stock has been beaten up recently, it still trades at about 60 times this year's earning estimates.",0.043924711644649506,0.9100140929222107,0.046061161905527115,negative,-0.866089403629303
+35,2017-05-16 00:37:00,"If the company can widen its razor-thin margins in the years ahead, the stock could provide impressive gains.",0.9505080580711365,0.022542228922247887,0.026949716731905937,positive,0.9279658198356628
+36,2017-05-16 00:37:00,"While I'm optimistic about the future for both companies, I'd rather bet on Veeva's ability to maintain its growth trajectory than athenahealth's ability to widen margins going forward.",0.9257374405860901,0.013913354836404324,0.06034925580024719,positive,0.911824107170105
+37,2017-05-16 00:37:00,That makes Veeva Systems the better stock pick right now.,0.5266483426094055,0.0344296358525753,0.43892204761505127,positive,0.4922187030315399
+38,2017-05-16 00:37:00,"10 stocks we like better than Veeva Systems
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12699975073337555,0.025114860385656357,0.8478853702545166,neutral,0.1018848866224289
+39,2017-05-16 00:37:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+40,2017-05-16 00:37:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Veeva Systems wasn't one of them!",0.2355690747499466,0.014962825924158096,0.7494681477546692,neutral,0.2206062525510788
+41,2017-05-16 00:37:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+42,2017-05-16 00:37:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+43,2017-05-16 00:37:00,"*Stock Advisor returns as of May 1, 2017
+
+Cory Renauer has no position in any stocks mentioned.",0.009749775752425194,0.0402345284819603,0.950015664100647,neutral,-0.030484752729535103
+44,2017-05-16 00:37:00,The Motley Fool owns shares of and recommends Biogen and Veeva Systems.,0.02756013534963131,0.013503040187060833,0.958936870098114,neutral,0.014057095162570477
+45,2017-05-16 00:37:00,The Motley Fool recommends athenahealth.,0.05617418512701988,0.03951521962881088,0.9043106436729431,neutral,0.016658965498209
+46,2017-05-16 00:37:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2017-05-16 00:37:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

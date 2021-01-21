@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-04 07:41:00,"In early trading on Thursday, shares of International Business Machines ( IBM ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.3%.",0.9383026957511902,0.03047393634915352,0.031223399564623833,positive,0.9078287482261658
+1,2016-02-04 07:41:00,"Year to date, International Business Machines has lost about 7.3% of its value.",0.01583412103354931,0.95413738489151,0.030028432607650757,negative,-0.9383032917976379
+2,2016-02-04 07:41:00,"And the worst performing Dow component thus far on the day is Nike ( NKE ), trading down 2.1%.",0.021141856908798218,0.9657956957817078,0.013062449172139168,negative,-0.9446538686752319
+3,2016-02-04 07:41:00,Nike is lower by about 2.2% looking at the year to date performance.,0.020364196971058846,0.9664362668991089,0.013199467211961746,negative,-0.9460720419883728
+4,2016-02-04 07:41:00,"Two other components making moves today are Home Depot ( HD ), trading down 2.0%, and Caterpillar ( CAT ), trading up 2.2% on the day.",0.030881734564900398,0.9340540766716003,0.0350642167031765,negative,-0.9031723141670227
+5,2016-02-04 07:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

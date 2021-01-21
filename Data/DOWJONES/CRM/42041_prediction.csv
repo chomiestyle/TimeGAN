@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-09-14 06:25:00,Covid 19 has weakened demand for oil resulting in declining production and prices.,0.0184626467525959,0.9683424234390259,0.013194968923926353,negative,-0.9498797655105591
+1,2020-09-14 06:25:00,"Hence, industry stalwarts such as Exxon Mobil (NYSE:XOM) have taken a beating.",0.04869121313095093,0.8703365325927734,0.08097228407859802,negative,-0.8216453194618225
+2,2020-09-14 06:25:00,"However, with a focus on cost-reduction, debt management, and dividend expansion, Exxon Mobil stock is still worth investing in.",0.6071328520774841,0.01005893386900425,0.38280820846557617,positive,0.5970739126205444
+3,2020-09-14 06:25:00,Second-quarter results were expectedly poor but highlighted the company’s priorities of streamlining its operations going forward.,0.061784204095602036,0.8312214016914368,0.10699443519115448,negative,-0.7694371938705444
+4,2020-09-14 06:25:00,"“The progress we’ve made to date gives us confidence that we will meet or exceed our cost-reduction targets for 2020 and provides a strong foundation for further efficiencies,” Exxon Mobil CEO Darren Woods said.",0.9465670585632324,0.01806955598294735,0.03536340221762657,positive,0.9284974932670593
+5,2020-09-14 06:25:00,"With the continued efficiencies of scale, producing costs will continue to drop, increasing profitability.",0.425232857465744,0.521254301071167,0.0535128116607666,negative,-0.09602144360542297
+6,2020-09-14 06:25:00,Exxon Mobil has been one of the high yielding dividend stocks in the energy sector.,0.7200915813446045,0.018320240080356598,0.2615882158279419,positive,0.7017713189125061
+7,2020-09-14 06:25:00,It currently has an impressive dividend yield of 8.9% and a five-year dividend growth rate of 4.6%.,0.9246570467948914,0.013238849118351936,0.06210410222411156,positive,0.9114181995391846
+8,2020-09-14 06:25:00,However dividend coverage is a matter of grave concern in the current scenario.,0.030201395973563194,0.27261605858802795,0.6971825957298279,neutral,-0.2424146682024002
+9,2020-09-14 06:25:00,"• 7 Sin Stocks to Buy Now as America Reopens
+
+Belt-tightening measures have pushed cash and cash equivalents to $13 billion in its most recent quarter.",0.9106819033622742,0.05004866048693657,0.03926937282085419,positive,0.8606332540512085
+10,2020-09-14 06:25:00,"Additionally, it also has access to a $12 billion credit line.",0.4523141086101532,0.009297871962189674,0.5383880734443665,neutral,0.4430162310600281
+11,2020-09-14 06:25:00,"However, its free cash flows of $1.7 billion net-off its capex fall short of its $3.7 billion dividend payments for the quarter.",0.02636812813580036,0.9553788900375366,0.018252959474921227,negative,-0.9290107488632202
+12,2020-09-14 06:25:00,"Therefore, dividends are underfunded by its cash flows this year.",0.023381805047392845,0.9484560489654541,0.02816215343773365,negative,-0.9250742197036743
+13,2020-09-14 06:25:00,"However, I suspect that Exxon would get close to funding its dividend with its firm commitment to its capital allocation priorities.",0.8859575986862183,0.013205324299633503,0.10083708167076111,positive,0.8727522492408752
+14,2020-09-14 06:25:00,"Capex will be slashed by 30% in 2020 and, with improvements in oil prices, things will get better.",0.8967604041099548,0.052365392446517944,0.05087418109178543,positive,0.8443950414657593
+15,2020-09-14 06:25:00,"Till then, the company would have to swallow the bitter pill of funding its dividend payouts from debt.",0.1221720352768898,0.41167178750038147,0.46615615487098694,neutral,-0.28949975967407227
+16,2020-09-14 06:25:00,"In April, it raised $9.5 billion in new debt to load up on cash.",0.8645129799842834,0.014483839273452759,0.1210031807422638,positive,0.8500291109085083
+17,2020-09-14 06:25:00,"Nevertheless, in the long run, the company will be in a much better position.",0.933737576007843,0.015926092863082886,0.05033634603023529,positive,0.9178115129470825
+18,2020-09-14 06:25:00,"The Problem with the S&P 500
+
+Exxon’s time is up on the Dow Jones Industrial Average, an index it entered over 90 years ago.",0.12205401808023453,0.21122071146965027,0.6667252779006958,neutral,-0.08916669338941574
+19,2020-09-14 06:25:00,S&P Global decided to remove XOM stock from the index and replace it with Salesforce.com (NYSE:CRM).,0.020267445594072342,0.41874393820762634,0.5609885454177856,neutral,-0.3984764814376831
+20,2020-09-14 06:25:00,Salesforce.com currently has a much larger market capitalization compared to XOM and is trading at a massive $255 per share.,0.536365270614624,0.015691854059696198,0.447942852973938,positive,0.520673394203186
+21,2020-09-14 06:25:00,"However, many consider S&P’s move to be reflective of how it’s skewed in favor of tech stocks.",0.20398014783859253,0.34571197628974915,0.4503078758716583,neutral,-0.14173182845115662
+22,2020-09-14 06:25:00,"The problem with indices, such as the S&P 500, is that they are constructed in a specific way.",0.020246809348464012,0.03671281039714813,0.9430403709411621,neutral,-0.01646600104868412
+23,2020-09-14 06:25:00,Sector weightage plays a huge role in the overall results of the index.,0.0591476745903492,0.006236851681023836,0.9346155524253845,neutral,0.05291082337498665
+24,2020-09-14 06:25:00,"In its early days, the sector weights for energy companies were significantly higher than other companies.",0.8338992595672607,0.02514084428548813,0.14095990359783173,positive,0.8087584376335144
+25,2020-09-14 06:25:00,"Today, the scenario has completely changed as IT companies make roughly 26% of the index, while energy comprises of only 3%.",0.06261197477579117,0.014088090509176254,0.9232999086380005,neutral,0.048523884266614914
+26,2020-09-14 06:25:00,This is why the S&P 500 index is not a reliable gauge to assess the strength of the economy.,0.056546650826931,0.4454653859138489,0.4979879558086395,neutral,-0.3889187276363373
+27,2020-09-14 06:25:00,"Tech stocks have done exceedingly well in the pandemic, while other industries have fallen off the proverbial cliff.",0.16806630790233612,0.7120251059532166,0.11990853399038315,negative,-0.5439587831497192
+28,2020-09-14 06:25:00,It wouldn’t be wrong to suggest that the index is undiversified and goes against its original purpose.,0.044490255415439606,0.4982832670211792,0.4572264552116394,negative,-0.4537930190563202
+29,2020-09-14 06:25:00,Shares of Exxon Mobil shed 38% of its value since the beginning of this crisis-stricken year.,0.017330825328826904,0.9705103039741516,0.012158899568021297,negative,-0.9531794786453247
+30,2020-09-14 06:25:00,"Moreover, it was removed from the Dow Jones Industrials after 92 years of being listed on the index.",0.0265980064868927,0.7558929920196533,0.21750904619693756,negative,-0.729295015335083
+31,2020-09-14 06:25:00,"On top of that, the weakened state of demand continues to widen losses for the company.",0.042257871478796005,0.9401915669441223,0.017550496384501457,negative,-0.8979337215423584
+32,2020-09-14 06:25:00,"All in all, things look rather terrible at this stage.",0.033785127103328705,0.6849191784858704,0.28129568696022034,negative,-0.6511340737342834
+33,2020-09-14 06:25:00,"Despite these challenges, I feel there are a lot of reasons why Exxon Mobil stock is worth investing in.",0.3995363414287567,0.008843541145324707,0.591620147228241,neutral,0.390692800283432
+34,2020-09-14 06:25:00,"For example, its debt to equity ratio is 0.38, which is significantly lower than most of its peers.",0.01708916574716568,0.9520665407180786,0.03084428608417511,negative,-0.9349773526191711
+35,2020-09-14 06:25:00,"Companies such as Royal Dutch Shell (NYSE:RDS.A,RDS.B) and BP (NYSE:BP) have a debt to equity ratio of 0.66 and 1.1, respectively.",0.0160246342420578,0.029153576120734215,0.9548218250274658,neutral,-0.013128941878676414
+36,2020-09-14 06:25:00,"As we advance, it appears that the focus will be on cost control and maximizing productivity by focusing on advantaged projects.",0.38650602102279663,0.008247742429375648,0.6052461862564087,neutral,0.37825828790664673
+37,2020-09-14 06:25:00,"It aims to cut operating expenses by 15%, respectively.",0.05780068412423134,0.9125155806541443,0.029683811590075493,negative,-0.8547148704528809
+38,2020-09-14 06:25:00,"Additionally, its dividend payouts remain a significant priority, which it hopes to finance purely from its free cash flows.",0.5246552228927612,0.008829236030578613,0.46651554107666016,positive,0.5158259868621826
+39,2020-09-14 06:25:00,"Exxon Mobil Stock is down 4% since its removal from the Dow Jones index, and it appears that investors have written it off.",0.019168879836797714,0.9680031538009644,0.012827994301915169,negative,-0.9488343000411987
+40,2020-09-14 06:25:00,"However, there’s a lot to look forward to with the company as it looks to re-invent itself.",0.38120633363723755,0.008676672354340553,0.6101169586181641,neutral,0.37252965569496155
+41,2020-09-14 06:25:00,"It hopes to operate as a low-cost producer, which focuses on maximizing productivity with its existing assets.",0.7457416653633118,0.009948362596333027,0.2443099021911621,positive,0.7357932925224304
+42,2020-09-14 06:25:00,Its removal by S&P illustrates everything that is wrong with how indices work today.,0.034805431962013245,0.829581618309021,0.13561303913593292,negative,-0.794776201248169
+43,2020-09-14 06:25:00,"Additionally, Exxon Mobil Stock is trading at a slight discount, so you should probably consider loading up on it.",0.08950439095497131,0.018321488052606583,0.8921740651130676,neutral,0.07118290662765503
+44,2020-09-14 06:25:00,"On the date of publication, Muslim Farooque did not have (either directly or indirectly) any positions in the securities mentioned in this article.",0.008313874714076519,0.024874163791537285,0.966812014579773,neutral,-0.01656029000878334
+45,2020-09-14 06:25:00,The post Buy the Dip in Exxon Mobil Stock Before It Climbs Back to $45 appeared first on InvestorPlace.,0.4238583743572235,0.2251015454530716,0.3510400652885437,positive,0.19875682890415192

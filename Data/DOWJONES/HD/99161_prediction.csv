@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-18 07:11:00,"In early trading on Thursday, shares of International Business Machines ( IBM ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 5.0%.",0.9388974905014038,0.02917265146970749,0.03192988038063049,positive,0.9097248315811157
+1,2016-02-18 07:11:00,"Year to date, International Business Machines has lost about 3.7% of its value.",0.015751421451568604,0.9528515934944153,0.031397003680467606,negative,-0.9371001720428467
+2,2016-02-18 07:11:00,"And the worst performing Dow component thus far on the day is Wal-Mart Stores ( WMT ), trading down 5.6%.",0.019972093403339386,0.9657031297683716,0.01432482898235321,negative,-0.9457310438156128
+3,2016-02-18 07:11:00,Wal-Mart Stores is showing a gain of 1.8% looking at the year to date performance.,0.9480669498443604,0.02540578506886959,0.026527348905801773,positive,0.9226611852645874
+4,2016-02-18 07:11:00,"Two other components making moves today are Home Depot ( HD ), trading down 1.0%, and Intel Corp ( INTC ), trading up 0.8% on the day.",0.02625378593802452,0.946549117565155,0.027197109535336494,negative,-0.9202953577041626
+5,2016-02-18 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

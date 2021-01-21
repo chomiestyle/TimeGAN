@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-30 23:25:00,"They say the first $100 billion is always the hardest, right?",0.0762280747294426,0.08407428860664368,0.8396976590156555,neutral,-0.00784621387720108
+1,2017-05-30 23:25:00,"With an impressive first quarter in the books, Home Depot (NYSE: HD) is now on track to reach $99 billion of annual revenue this year before it cracks 12 digits in 2018.",0.9065359830856323,0.017459528520703316,0.07600448280572891,positive,0.8890764713287354
+2,2017-05-30 23:25:00,That would mark a great run for a business that generated just $66 billion of revenue as recently as 2010.,0.8157559037208557,0.046719495207071304,0.13752461969852448,positive,0.7690364122390747
+3,2017-05-30 23:25:00,"I did it my way
+
+Home Depot hasn't relied on a fast-expanding store footprint to reach this milestone.",0.828852653503418,0.01512184552848339,0.1560254991054535,positive,0.8137308359146118
+4,2017-05-30 23:25:00,"In fact, while rival Lowe's (NYSE: LOW) has built 300 new warehouse locations in the U.S. since 2013, Home Depot has added none.",0.25882503390312195,0.016424015164375305,0.7247509360313416,neutral,0.24240101873874664
+5,2017-05-30 23:25:00,That's right -- no net new stores in three years.,0.03970646858215332,0.2278146743774414,0.7324788570404053,neutral,-0.18810820579528809
+6,2017-05-30 23:25:00,"Yet its revenue growth has edged Lowe's since 2012:
+
+The difference has been small, but steady, market-share gains.",0.9390420317649841,0.033782925456762314,0.027175046503543854,positive,0.9052591323852539
+7,2017-05-30 23:25:00,"Home Depot's comparable-store sales growth was 5.6% in each of the last two years, while its smaller rival logged 4.2% gains in 2016 and a 4.8% expansion in 2015.",0.9365102648735046,0.020295729860663414,0.04319404065608978,positive,0.9162145256996155
+8,2017-05-30 23:25:00,"Home Depot also benefited from an early investment into e-commerce that's helped push the sales channel up to 6% of sales, beating Costco (NASDAQ: COST) , one of just a few retailers already sitting in the $100 billion annual-revenue club.",0.947053849697113,0.023062754422426224,0.029883431270718575,positive,0.9239910840988159
+9,2017-05-30 23:25:00,"Home Depot isn't a value-based retailer like Costco, which prides itself on achieving pricing authority.",0.20667968690395355,0.013044965453445911,0.7802754044532776,neutral,0.19363471865653992
+10,2017-05-30 23:25:00,"Instead, it prioritizes what management calls ""product authority,"" or offering the best selection of innovative products for its mix of home remodelers and professional customers.",0.10092943906784058,0.0054410542361438274,0.8936294913291931,neutral,0.09548838436603546
+11,2017-05-30 23:25:00,"As a result, its 34% gross profit margin is more than double Costco's.",0.9284292459487915,0.02029932104051113,0.05127141252160072,positive,0.9081299304962158
+12,2017-05-30 23:25:00,This also helps explain how the home-improvement retailer could generate $13.4 billion of operating income last year -- compared to Costco's $3.6 billion -- despite a far lower sales base.,0.8657447099685669,0.048673033714294434,0.08558224886655807,positive,0.8170716762542725
+13,2017-05-30 23:25:00,"Growth at this size can be hard to achieve, especially without the benefit of major new geographic markets to conquer.",0.09857067465782166,0.393147736787796,0.5082815885543823,neutral,-0.29457706212997437
+14,2017-05-30 23:25:00,"Home Depot isn't currently planning such an expensive push, but it has recently made headway into new niches within its industry that are lifting its addressable market.",0.9277067184448242,0.015394030138850212,0.05689920485019684,positive,0.9123126864433289
+15,2017-05-30 23:25:00,"These include the pro segment, which management estimates at over $120 billion of annual sales.",0.05248226597905159,0.004686545114964247,0.9428312182426453,neutral,0.047795720398426056
+16,2017-05-30 23:25:00,"Pro customers have made outsized contributions to growth, lately.",0.022955618798732758,0.9054257869720459,0.07161858677864075,negative,-0.8824701905250549
+17,2017-05-30 23:25:00,"Customer-traffic growth slowed last year, for example, but overall comps still rose as these shoppers raised the company's average spending.",0.6540181040763855,0.2532581090927124,0.0927238017320633,positive,0.4007599949836731
+18,2017-05-30 23:25:00,"The happy trend carried on into 2017, too.",0.4768853485584259,0.014662806876003742,0.5084518194198608,neutral,0.46222254633903503
+19,2017-05-30 23:25:00,Big-ticket transactions that measured over $900 spiked 16% higher last quarter .,0.9295347929000854,0.030425922945141792,0.04003935307264328,positive,0.89910888671875
+20,2017-05-30 23:25:00,"Home Depot's acquisition of Interline Brands makes it a major player in the maintenance, repair, and operations segment that's worth over $50 billion a year.",0.8438971638679504,0.0120940450578928,0.14400869607925415,positive,0.8318031430244446
+21,2017-05-30 23:25:00,"Combined with the pro division and installation services, that's a total addressable market of more than $550 billion that the company can attack in the next decade.",0.3733225166797638,0.007796724326908588,0.6188807487487793,neutral,0.3655257821083069
+22,2017-05-30 23:25:00,Investors stand to be rewarded by growth into these businesses.,0.8467398881912231,0.012772094458341599,0.14048802852630615,positive,0.8339678049087524
+23,2017-05-30 23:25:00,"Operating margin is on track to hit a record 15% of sales by next year, and Home Depot is targeting big gains in its return on invested capital that already blows the competition away .",0.946664035320282,0.019809335470199585,0.033526621758937836,positive,0.9268547296524048
+24,2017-05-30 23:25:00,"Of course, a downturn in the housing market is always possible.",0.04702819511294365,0.6058403849601746,0.3471314013004303,negative,-0.5588122010231018
+25,2017-05-30 23:25:00,And the last one took a huge bite out of Home Depot's business.,0.07797910273075104,0.5298618078231812,0.392159104347229,negative,-0.4518827199935913
+26,2017-05-30 23:25:00,"But long-term metrics, including household-formation rates, home prices, and the average age of a housing stock, imply plenty of room for the industry to continue expanding nicely.",0.8812914490699768,0.013423679396510124,0.10528479516506195,positive,0.8678677678108215
+27,2017-05-30 23:25:00,That boost will likely benefit the market-share leader to a greater extent than its rivals.,0.9509565234184265,0.01761840097606182,0.03142514452338219,positive,0.9333381056785583
+28,2017-05-30 23:25:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+29,2017-05-30 23:25:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+30,2017-05-30 23:25:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+31,2017-05-30 23:25:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2017-05-30 23:25:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2017-05-30 23:25:00,"*Stock Advisor returns as of May 1, 2017
+
+Demitrios Kalogeropoulos owns shares of Costco Wholesale and Home Depot.",0.01673256605863571,0.008816294372081757,0.9744510650634766,neutral,0.007916271686553955
+34,2017-05-30 23:25:00,The Motley Fool owns shares of and recommends Costco Wholesale.,0.030760951340198517,0.014412852004170418,0.9548261761665344,neutral,0.0163480993360281
+35,2017-05-30 23:25:00,The Motley Fool recommends Home Depot and Lowe's.,0.02802175283432007,0.032823480665683746,0.9391547441482544,neutral,-0.004801727831363678
+36,2017-05-30 23:25:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+37,2017-05-30 23:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,32 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-10-25 09:43:00,"Midway through trading Friday, the Dow traded up 0.13 percent to 15,528.89 while the NASDAQ surged 0.06 percent to 3,931.43.",0.8622456192970276,0.05891776084899902,0.07883663475513458,positive,0.8033278584480286
+1,2013-10-25 09:43:00,"The S&P also rose, gaining 0.09 percent to 1,753.61.",0.936229407787323,0.02904779464006424,0.03472284600138664,positive,0.9071816205978394
+2,2013-10-25 09:43:00,Top Headline Procter & Gamble Co (NYSE: PG ) reported a 7.6 percent rise in its fiscal first-quarter earnings.,0.9528380632400513,0.024866756051778793,0.02229521982371807,positive,0.9279713034629822
+3,2013-10-25 09:43:00,"P&G's quarterly profit surged to $3.03 billion, or $1.04 per share, from $2.81 billion, or $0.96 per share, in the year-ago period.",0.953013002872467,0.02805219031870365,0.01893477700650692,positive,0.9249607920646667
+4,2013-10-25 09:43:00,"Excluding special items, its core earnings declined to $1.05 per share from $1.06 per share.",0.015538706444203854,0.970171332359314,0.014289925806224346,negative,-0.9546326398849487
+5,2013-10-25 09:43:00,Its sales rose 2.2 percent to $21.21 billion.,0.9317269325256348,0.018104273825883865,0.0501687228679657,positive,0.9136226773262024
+6,2013-10-25 09:43:00,"However, analysts were expecting earnings of $1.05 per share on sales of $21.04 billion.",0.2095929980278015,0.24020370841026306,0.5502033233642578,neutral,-0.030610710382461548
+7,2013-10-25 09:43:00,Equities Trading UP Zynga (NASDAQ: ZNGA ) shot up 10.33 percent to $3.90 after the company posted a narrower-than-expected third-quarter loss.,0.9274900555610657,0.04182770475745201,0.030682267621159554,positive,0.8856623768806458
+8,2013-10-25 09:43:00,"Shares of Microsoft (NASDAQ: MSFT ) got a boost, shooting up 5.50 percent to $35.58 on better-than-expected fiscal first-quarter results.",0.940161406993866,0.025766920298337936,0.034071680158376694,positive,0.9143944978713989
+9,2013-10-25 09:43:00,"Callaway Golf Co (NYSE: ELY ) was also up, gaining 17.62 percent to $8.54 after the company reported a narrower third-quarter loss and lifted its 2013 forecast.",0.9446766972541809,0.025612331926822662,0.029710961505770683,positive,0.9190643429756165
+10,2013-10-25 09:43:00,DA Davidson upgraded the stock from Neutral to Buy and lifted the price target from $7.50 to $11.00.,0.7995263338088989,0.01868479698896408,0.1817888468503952,positive,0.7808415293693542
+11,2013-10-25 09:43:00,Equities Trading DOWN Shares of Qlik Technologies (NASDAQ: QLIK ) were down 18.43 percent to $27.31 after the company reported downbeat Q3 revenue and lowered its full-year view.,0.018322153016924858,0.9699469804763794,0.011730819009244442,negative,-0.9516248106956482
+12,2013-10-25 09:43:00,ResMed (NYSE: RMD ) shares tumbled 12.45 percent to $49.30 after the company reported weaker-than-expected Q1 results.,0.019321244210004807,0.9698183536529541,0.01086039375513792,negative,-0.9504970908164978
+13,2013-10-25 09:43:00,"Synaptics (NASDAQ: SYNA ) was down, falling 13.71 percent to $45.77 after the company issued a downbeat Q2 revenue outlook.",0.017119403928518295,0.9717769622802734,0.011103555560112,negative,-0.9546575546264648
+14,2013-10-25 09:43:00,"Commodities In commodity news, oil traded up 0.62 percent to $97.71, while gold traded down 0.27 percent to $1,346.70.",0.729546070098877,0.16503886878490448,0.10541506856679916,positive,0.5645071864128113
+15,2013-10-25 09:43:00,"Silver traded down 1.32 percent Friday to $22.52, while copper rose 0.06 percent to $3.27.",0.032001130282878876,0.949601948261261,0.01839689165353775,negative,-0.9176008105278015
+16,2013-10-25 09:43:00,Euro zone European shares were mostly lower today.,0.017800621688365936,0.9572124481201172,0.024986952543258667,negative,-0.9394118189811707
+17,2013-10-25 09:43:00,"The Spanish Ibex Index fell 1.01 percent, while Italy's FTSE MIB Index tumbled 1.45 percent.",0.02683189883828163,0.9442293047904968,0.028938716277480125,negative,-0.9173973798751831
+18,2013-10-25 09:43:00,"Meanwhile, the German DAX climbed 0.06 percent and the French CAC 40 fell 0.08 percent while U.K. shares gained 0.12 percent.",0.6860355138778687,0.22433380782604218,0.0896306112408638,positive,0.4617016911506653
+19,2013-10-25 09:43:00,"Economics US durable-goods orders rose 3.7 percent in September, versus economists' expectations for a 2.3 percent gain.",0.9414936900138855,0.035660333931446075,0.022845923900604248,positive,0.90583336353302
+20,2013-10-25 09:43:00,"However, core durable-goods orders fell 0.1 percent in the month.",0.017773330211639404,0.9731109142303467,0.009115796536207199,negative,-0.9553375840187073
+21,2013-10-25 09:43:00,"The final reading of the Reuter's/University of Michigan's consumer sentiment index declined to 73.2 in October, versus a final reading of 77.5 in September.",0.017826735973358154,0.9727641344070435,0.009409219957888126,negative,-0.9549373984336853
+22,2013-10-25 09:43:00,"However, economists were projecting a final reading of 75.0.",0.3242892622947693,0.2657034397125244,0.4100072979927063,neutral,0.05858582258224487
+23,2013-10-25 09:43:00,"US wholesale inventories rose 0.50 percent in August, versus economists' expectations for a 0.30 percent gain.",0.9464977383613586,0.029059400781989098,0.024442823603749275,positive,0.9174383282661438
+24,2013-10-25 09:43:00,(c) 2013 Benzinga.com.,0.029000472277402878,0.021406440064311028,0.9495930075645447,neutral,0.00759403221309185
+25,2013-10-25 09:43:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+26,2013-10-25 09:43:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+27,2013-10-25 09:43:00,Free Trading Education - Check out the free events taking place on Marketfy this week.,0.016787968575954437,0.009906403720378876,0.9733056426048279,neutral,0.0068815648555755615
+28,2013-10-25 09:43:00,Spaces are limited.,0.021315770223736763,0.12138502299785614,0.8572991490364075,neutral,-0.10006925463676453
+29,2013-10-25 09:43:00,Sign up today.,0.043441057205200195,0.006623169407248497,0.9499357342720032,neutral,0.03681788593530655
+30,2013-10-25 09:43:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

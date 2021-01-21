@@ -1,0 +1,14 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-13 08:00:00,"Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel , one standout is the SPDR S&P Homebuilders ETF (Symbol: XHB) where we have detected an approximate $80.1 million dollar outflow -- that's a 5.8% decrease week over week (from 48,300,016 to 45,500,016).",0.11031903326511383,0.8579095005989075,0.031771402806043625,negative,-0.7475904822349548
+1,2014-10-13 08:00:00,"Among the largest underlying components of XHB, in trading today Home Depot Inc (Symbol: HD) is off about 1.2%, Lennar Corp. (Symbol: LEN) is down about 2%, and Bed, Bath & Beyond, Inc. (Symbol: BBBY) is lower by about 1.1%.",0.01763347163796425,0.9502851366996765,0.032081302255392075,negative,-0.9326516389846802
+2,2014-10-13 08:00:00,"The chart below shows the one year price performance of XHB, versus its 200 day moving average:
+
+Looking at the chart above, XHB's low point in its 52 week range is $28.23 per share, with $34.27 as the 52 week high point - that compares with a last trade of $28.25.",0.038145843893289566,0.8463289737701416,0.1155252531170845,negative,-0.8081831336021423
+3,2014-10-13 08:00:00,Comparing the most recent share price to the 200 day moving average can also be a useful technical analysis technique -- learn more about the 200 day moving average » .,0.06026585400104523,0.011035600677132607,0.9286985397338867,neutral,0.04923025518655777
+4,2014-10-13 08:00:00,"Exchange traded funds (ETFs) trade just like stocks, but instead of ''shares'' investors are actually buying and selling ''units''.",0.03485977277159691,0.01237787026911974,0.9527624249458313,neutral,0.022481903433799744
+5,2014-10-13 08:00:00,"These ''units'' can be traded back and forth just like stocks, but can also be created or destroyed to accommodate investor demand.",0.028670208528637886,0.009488466195762157,0.961841344833374,neutral,0.019181743264198303
+6,2014-10-13 08:00:00,"Each week we monitor the week-over-week change in shares outstanding data, to keep a lookout for those ETFs experiencing notable inflows (many new units created) or outflows (many old units destroyed).",0.03648180142045021,0.15966308116912842,0.8038551807403564,neutral,-0.1231812834739685
+7,2014-10-13 08:00:00,"Creation of new units will mean the underlying holdings of the ETF need to be purchased, while destruction of units involves selling underlying holdings, so large flows can also impact the individual components held within ETFs.",0.02820107340812683,0.13814212381839752,0.8336567878723145,neutral,-0.10994105041027069
+8,2014-10-13 08:00:00,"Click here to find out which 9 other ETFs experienced notable outflows »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.015584141947329044,0.02645939588546753,0.9579564332962036,neutral,-0.010875253938138485

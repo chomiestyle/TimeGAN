@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-18 06:22:00,The Dow reclaimed its ground lost to Brexit and continued to notch record highs last week.,0.8654849529266357,0.07408688962459564,0.060428161174058914,positive,0.7913980484008789
+1,2016-07-18 06:22:00,A number of domestic factors including upbeat economic data and JPMorgan Chase & Co.'s JPM solid earnings boosted the blue-chip index.,0.9204064011573792,0.025042979046702385,0.05455067381262779,positive,0.895363450050354
+2,2016-07-18 06:22:00,Expectations of further stimulus measures by the Bank of England (BOE) and Bank of Japan (BOJ) to reinvigorate their economies also improved investors' confidence.,0.9390344619750977,0.023135993629693985,0.03782951831817627,positive,0.9158984422683716
+3,2016-07-18 06:22:00,"Now, the index is tantalizingly close to the record territory of 20K, which seems to be an attainable target given the lack of options for investors other than the ones offered by blue-chip stocks.",0.7831635475158691,0.0643257200717926,0.15251068770885468,positive,0.7188378572463989
+4,2016-07-18 06:22:00,"Such stocks are fundamentally solid and offer juicy dividends, whereas bond yields are currently hitting fresh lows.",0.575166642665863,0.13427624106407166,0.2905571162700653,positive,0.4408904016017914
+5,2016-07-18 06:22:00,"Overseas companies aren't in good shape either, thanks to Brexit induced volatility and sluggish global economic growth.",0.02123134396970272,0.9449077844619751,0.033860769122838974,negative,-0.9236764311790466
+6,2016-07-18 06:22:00,"The Dow Jones industrial average hit a record high of 18,516.55, gaining 10.14 points or 0.05% on Friday.",0.8992347121238708,0.054624419659376144,0.04614085331559181,positive,0.8446102738380432
+7,2016-07-18 06:22:00,This feat was also repeated for four consecutive sessions.,0.840820848941803,0.021928589791059494,0.13725054264068604,positive,0.818892240524292
+8,2016-07-18 06:22:00,"So, what's driving the Dow higher with such regular precision?",0.16672202944755554,0.05929233878850937,0.7739856243133545,neutral,0.10742969065904617
+9,2016-07-18 06:22:00,"Dow edged to fresh records banking on strong U.S. retail sales, a sign of sturdy consumer spending levels this spring.",0.9229553937911987,0.04222739487886429,0.034817133098840714,positive,0.880728006362915
+10,2016-07-18 06:22:00,"According to the Commerce Department, sales at retail stores and restaurants advanced 0.6% in June from the prior month to a seasonally adjusted $456.98 billion (read: U.S. Retail Sales Jumped as Buyers Flexed Their Muscles ).",0.9527630805969238,0.024819862097501755,0.02241704612970352,positive,0.927943229675293
+11,2016-07-18 06:22:00,"But, it was June's robust jobs data that did the trick.",0.6419141292572021,0.03242550045251846,0.32566043734550476,positive,0.6094886064529419
+12,2016-07-18 06:22:00,"Other upbeat economic reports from manufacturing to service also indicated a healthier level of growth, while stronger-than-expected domestic earnings mostly led by JPMorgan also helped the index move north (read: JPMorgan Beats Q2 Earnings as Trading Income Rises ).",0.9257590174674988,0.03673052042722702,0.037510454654693604,positive,0.8890284895896912
+13,2016-07-18 06:22:00,Expectations of further stimulus measures by BOE and BOJ buoyed investors' sentiment.,0.9071750640869141,0.02579006552696228,0.06703480333089828,positive,0.8813849687576294
+14,2016-07-18 06:22:00,"While BOE said that most of its members are expecting a loosening of policy in August, Japan's Prime Minister Shinzo Abe is deliberating on the so-called helicopter money in order to stimulate economic growth.",0.3921668529510498,0.22408649325370789,0.3837466835975647,positive,0.16808035969734192
+15,2016-07-18 06:22:00,Dow hitting the 20K mark isn't a farfetched expectation.,0.2970413267612457,0.08184994757175446,0.6211087107658386,neutral,0.21519137918949127
+16,2016-07-18 06:22:00,"The index is just about 1,500 points away from the key physiological level.",0.07651782780885696,0.7107714414596558,0.21271075308322906,negative,-0.6342536211013794
+17,2016-07-18 06:22:00,"Thanks to the aforementioned factors, Dow climbing to that level is very much a possibility.",0.5434250831604004,0.02321809157729149,0.4333568215370178,positive,0.5202069878578186
+18,2016-07-18 06:22:00,Investors are also realizing that investing in blue-chip stocks is the best option.,0.7628646492958069,0.018861090764403343,0.21827422082424164,positive,0.7440035343170166
+19,2016-07-18 06:22:00,"As it is, Brexit uncertainties have made European stocks a risky affair at the moment.",0.05152036249637604,0.817955732345581,0.13052387535572052,negative,-0.7664353847503662
+20,2016-07-18 06:22:00,Britain's decision to leave the EU has dropped a bombshell on European firms from finance to technology.,0.12937815487384796,0.47210487723350525,0.3985169529914856,negative,-0.3427267074584961
+21,2016-07-18 06:22:00,Energy and big auto companies in Europe are also expected to fall a victim.,0.06038864329457283,0.7714173793792725,0.1681939661502838,negative,-0.7110287547111511
+22,2016-07-18 06:22:00,"(Read: Brexit Wins, But at what Cost to British Firms? )",0.11143988370895386,0.32988929748535156,0.5586708188056946,neutral,-0.2184494137763977
+23,2016-07-18 06:22:00,"While China's economy is still not out of the woods, the health of the emerging markets also remains a big concern.",0.07781608402729034,0.4318949282169342,0.49028897285461426,neutral,-0.35407882928848267
+24,2016-07-18 06:22:00,"So, are you thinking of investing in bonds?",0.04155859351158142,0.0086192786693573,0.949822187423706,neutral,0.03293931484222412
+25,2016-07-18 06:22:00,Such safe-haven assets aren't as lucrative as they used to be before due to the precipitous plunge in bond yields.,0.057419661432504654,0.46547362208366394,0.4771067500114441,neutral,-0.4080539643764496
+26,2016-07-18 06:22:00,"In this scenario, income seeking investors look for stocks that provide juicy dividends.",0.04217080399394035,0.014095689170062542,0.9437334537506104,neutral,0.028075113892555237
+27,2016-07-18 06:22:00,And almost all the blue-chip stocks boast a good dividend yield.,0.7325985431671143,0.014169763773679733,0.25323164463043213,positive,0.7184287905693054
+28,2016-07-18 06:22:00,"But, before we select such stocks let us have a look at those that moved the index to record highs (read: 4 Juicy Dividend Stocks for July ).",0.23867757618427277,0.015145903453230858,0.7461764812469482,neutral,0.22353167831897736
+29,2016-07-18 06:22:00,A handful of big names helped the Dow to move higher last week.,0.8172072768211365,0.04126017168164253,0.14153257012367249,positive,0.775947093963623
+30,2016-07-18 06:22:00,"Stocks such as McDonald's Corporation MCD , Home Depot Inc HD and UnitedHealth Group Inc UNH were the biggest drivers, with each one of them adding more than 100 points to the index since it touched its last record high on May 19, 2015.",0.7957139015197754,0.045521676540374756,0.15876446664333344,positive,0.7501922249794006
+31,2016-07-18 06:22:00,"McDonald's was powered by the successful launch of breakfast items, while low interest rates helped Home Depot to become the darling of the Dow.",0.8723205924034119,0.031563300639390945,0.09611613303422928,positive,0.8407573103904724
+32,2016-07-18 06:22:00,Defensive plays such as insurer UnitedHealth that pay stable dividends also gained.,0.8629530072212219,0.036462120711803436,0.10058484971523285,positive,0.8264908790588379
+33,2016-07-18 06:22:00,General Electric Company GE also contributed to the index's upward movement on the back of its aviation segment witnessing strong demand for new aircraft.,0.9295516610145569,0.02200739085674286,0.048440903425216675,positive,0.9075442552566528
+34,2016-07-18 06:22:00,"But, everything is not hunky-dory as big names such as Apple Inc. AAPL , Goldman Sachs Group Inc GS and Boeing Co BA were the laggards.",0.04536342993378639,0.29705992341041565,0.6575766205787659,neutral,-0.25169649720191956
+35,2016-07-18 06:22:00,"Slowing iPhone sales hurt Apple, turbulent trading environment weighed on Goldman and cheap fuels adversely affected Boeing.",0.019606199115514755,0.9662463665008545,0.014147462323307991,negative,-0.9466401934623718
+36,2016-07-18 06:22:00,"Nevertheless, as the Dow is positioned to hit the 20K mark, thanks to encouraging domestic economic reports and expectations that central banks around the world will come up with stimulus measures, investing in solid blue-chip stocks will be a prudent move.",0.9091649651527405,0.016919976100325584,0.0739150270819664,positive,0.8922449946403503
+37,2016-07-18 06:22:00,"To top it, we have selected such stocks that have a Zacks Rank #2 (Buy) and offer a healthy dividend yield.",0.7920136451721191,0.01194718200713396,0.1960391104221344,positive,0.7800664901733398
+38,2016-07-18 06:22:00,"Moreover, we have narrowed down our search with a VGM score of 'A' or 'B'.",0.19706366956233978,0.05813584476709366,0.7448005080223083,neutral,0.13892781734466553
+39,2016-07-18 06:22:00,"Here V stands for Value, G for Growth and M for Momentum and the score is a weighted combination of these three scores.",0.0525895357131958,0.007143006194382906,0.9402674436569214,neutral,0.04544652998447418
+40,2016-07-18 06:22:00,Such a score allows you to eliminate the negative aspects of stocks and select winners.,0.07226670533418655,0.02151334285736084,0.9062199592590332,neutral,0.050753362476825714
+41,2016-07-18 06:22:00,International Business Machines Corp.IBM provides information technology products and services worldwide.,0.027613092213869095,0.005410372279584408,0.9669764637947083,neutral,0.022202719002962112
+42,2016-07-18 06:22:00,IBM has a VGM score of 'A'.,0.2863626480102539,0.016290908679366112,0.6973464488983154,neutral,0.27007174491882324
+43,2016-07-18 06:22:00,IBM offers a dividend yield of 3.5%.,0.08121000230312347,0.005656687077134848,0.9131333231925964,neutral,0.07555331289768219
+44,2016-07-18 06:22:00,"IBM's year-to-date return is 16.1%, while it possesses a price-to-equity (PE) of 11.83, less than the industry average of 25.60.",0.02332291379570961,0.9474126696586609,0.029264425858855247,negative,-0.9240897297859192
+45,2016-07-18 06:22:00,"Intel CorporationINTC designs, manufactures, and sells integrated digital technology platforms worldwide.",0.05306469276547432,0.004475664347410202,0.9424596428871155,neutral,0.04858902841806412
+46,2016-07-18 06:22:00,INTC has a VGM score of 'A'.,0.49370279908180237,0.01770317740738392,0.48859405517578125,positive,0.4759996235370636
+47,2016-07-18 06:22:00,INTC offers a dividend yield of 2.97%.,0.06608223915100098,0.005486824084073305,0.92843097448349,neutral,0.06059541553258896
+48,2016-07-18 06:22:00,"INTC's year-to-date return is 1.8%, while it possesses a PE of 14.41, less than the industry average of 52.",0.02767009846866131,0.941070020198822,0.031259793788194656,negative,-0.9133999347686768
+49,2016-07-18 06:22:00,"Johnson & JohnsonJNJ researches and develops, manufactures, and sells various products in the health care field worldwide.",0.034323595464229584,0.004413423594087362,0.9612630605697632,neutral,0.029910171404480934
+50,2016-07-18 06:22:00,JNJ has a VGM score of 'B'.,0.6347669959068298,0.017212899401783943,0.348020076751709,positive,0.6175540685653687
+51,2016-07-18 06:22:00,JNJ offers a dividend yield of 2.60%.,0.09506963938474655,0.0062256851233541965,0.8987046480178833,neutral,0.08884395658969879
+52,2016-07-18 06:22:00,"JNJ's year-to-date return is 19.7%, while it possesses a PE of 18.64, less than the industry average of 19.4.",0.027032747864723206,0.9483972787857056,0.024569926783442497,negative,-0.9213645458221436
+53,2016-07-18 06:22:00,"Wal-Mart Stores, Inc.WMT operates retail stores in various formats worldwide.",0.015587149187922478,0.006354624405503273,0.9780582189559937,neutral,0.009232524782419205
+54,2016-07-18 06:22:00,WMT has a VGM score of 'A'.,0.47816231846809387,0.01787094585597515,0.503966748714447,neutral,0.46029138565063477
+55,2016-07-18 06:22:00,WMT offers a dividend yield of 2.71%.,0.07075915485620499,0.005591493099927902,0.9236493110656738,neutral,0.06516766548156738
+56,2016-07-18 06:22:00,"WMT's year-to-date return is 20.2%, while it possesses a PE of 17.27, less than the industry average of 19.7.",0.023192323744297028,0.9463446140289307,0.03046306222677231,negative,-0.9231522679328918
+57,2016-07-18 06:22:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+58,2016-07-18 06:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.020782245323061943,0.01460274774581194,0.9646149277687073,neutral,0.006179497577250004
+59,2016-07-18 06:22:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+60,2016-07-18 06:22:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+61,2016-07-18 06:22:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-01 06:30:00,"Global markets are, to say the least, not in a very happy phase with dim earnings, lower growth, recessionary fears, and to top it all, Brexit.",0.027763525024056435,0.8731619119644165,0.09907456487417221,negative,-0.8453983664512634
+1,2016-07-01 06:30:00,"Nonetheless, all is not lost as investment in certain blue chip stocks remain a reliable option amid the looming uncertainty.",0.8039106130599976,0.03916008397936821,0.15692929923534393,positive,0.7647505402565002
+2,2016-07-01 06:30:00,Blue chip stocks can usually be banked on when general market conditions are unfavorable.,0.1561156064271927,0.018617011606693268,0.8252674341201782,neutral,0.13749858736991882
+3,2016-07-01 06:30:00,The global market was already jittery on the issue of the U.K.'s exit from the European Union (EU).,0.05818837508559227,0.8576316237449646,0.08418003469705582,negative,-0.799443244934082
+4,2016-07-01 06:30:00,"Although most analysts predicted that the Brexit vote would be in favour of remain, the leave campaign shockingly won resulting in frantic sell-off across the globe.",0.23987585306167603,0.692149817943573,0.06797431409358978,negative,-0.452273964881897
+5,2016-07-01 06:30:00,All key stock market indexes suffered and the currency markets were in mayhem with the pound nose-diving against the U.S. dollar.,0.05974862724542618,0.8624212741851807,0.07783009111881256,negative,-0.8026726245880127
+6,2016-07-01 06:30:00,"Although market conditions have improved in the week following the results, uncertainty lingers with the recent news of Boris Johnson, the lead ""leave"" campaigner refusing to succeed British Prime Minister David Cameron, who announced his resignation after the vote.",0.560448944568634,0.2955895960330963,0.14396144449710846,positive,0.2648593485355377
+7,2016-07-01 06:30:00,Markets are also not very hopeful of a significant recovery.,0.0484929233789444,0.8136285543441772,0.13787855207920074,negative,-0.765135645866394
+8,2016-07-01 06:30:00,The overall weak sentiment was echoed by the Fed which delayed its rate hike yet again in its meeting mid last month.,0.024208398535847664,0.9545205235481262,0.021271031349897385,negative,-0.9303120970726013
+9,2016-07-01 06:30:00,"Additionally, oil prices , which was being speculated to touch $60 per barrel by the end of 2016 post a key OPEC meeting, remain weak.",0.023169193416833878,0.9509229063987732,0.025907956063747406,negative,-0.9277536869049072
+10,2016-07-01 06:30:00,China growth fears continue to nag and smaller economies stand to lose too with macroeconomic pressures shooting up.,0.03669995442032814,0.9185227155685425,0.044777367264032364,negative,-0.8818227648735046
+11,2016-07-01 06:30:00,"Blue chip stocks are the favorites when gloomy macros push investors away from high growth, risky stocks.",0.1400870680809021,0.26003795862197876,0.5998749136924744,neutral,-0.11995089054107666
+12,2016-07-01 06:30:00,"These stocks have strong cash piles, good dividend yields, generally steady earnings and long-performing management history.",0.8241531252861023,0.013659758493304253,0.1621870994567871,positive,0.8104933500289917
+13,2016-07-01 06:30:00,"Although more expensive than other stocks, investors are rewarded due to the lower risk component of these stocks.",0.8825093507766724,0.019509345293045044,0.09798136353492737,positive,0.8630000352859497
+14,2016-07-01 06:30:00,"Market sentiments are indeed reflected in the prices of these stocks, but their strong fundamentals and reliable performance make them a valuable pick.",0.8087031245231628,0.015332093462347984,0.1759648323059082,positive,0.7933710217475891
+15,2016-07-01 06:30:00,"We have selected four Blue chip stocks based on factors like dividend yield, VGM Score, Zacks Rank and market cap in addition to stock outlook.",0.06321757286787033,0.0048543610610067844,0.9319280982017517,neutral,0.058363210409879684
+16,2016-07-01 06:30:00,"As per our selection criteria, Stocks with VGM Scores of 'A' or 'B' along with a Zacks Rank #1 (Strong Buy) or 2 (Buy) have good prospects.",0.7924028635025024,0.013839803636074066,0.19375738501548767,positive,0.7785630822181702
+17,2016-07-01 06:30:00,"Wal-Mart Stores Inc.WMT is world's largest retailer headquartered in Bentonville, AR.",0.16981202363967896,0.007654515095055103,0.8225334286689758,neutral,0.16215750575065613
+18,2016-07-01 06:30:00,"The company has a global footprint and operates through its Wal-Mart Store segment, SAM's Club segment and International segment.",0.05947599187493324,0.004067252855747938,0.9364567399024963,neutral,0.05540873855352402
+19,2016-07-01 06:30:00,Consistent new efforts such as Wal-mart Pay to remain at par with industry changes display the company's prudence in business management.,0.8836095333099365,0.014223837293684483,0.10216663032770157,positive,0.8693857192993164
+20,2016-07-01 06:30:00,"P/E: 16.99 (as against 18.90 for the industry)
+
+Wal-mart has posted an earnings surprise in three of the last four quarters and the Zacks Consensus Estimate for earnings in the current quarter stands at $1.02.",0.576897144317627,0.3905329406261444,0.03256992995738983,positive,0.18636420369148254
+21,2016-07-01 06:30:00,"Intel CorporationINTC is market leading semiconductor chip maker and a digital technology platform provider based in Santa Clara, CA.",0.6092738509178162,0.010514880530536175,0.3802112638950348,positive,0.5987589955329895
+22,2016-07-01 06:30:00,The company provides products to most market giants and is viewed as a leading collaborator for its innovation efforts.,0.7859695553779602,0.011966238729655743,0.20206423103809357,positive,0.7740033268928528
+23,2016-07-01 06:30:00,"P/E: 13.18 (compared with 49 for the industry)
+
+Intel posted an earnings surprise in each of the last four quarters with an average beat of 11.53%.",0.829767644405365,0.14068381488323212,0.02954861707985401,positive,0.6890838146209717
+24,2016-07-01 06:30:00,The company has of one of the most commendable product portfolios in the industry.,0.7924498915672302,0.011881987564265728,0.19566814601421356,positive,0.7805678844451904
+25,2016-07-01 06:30:00,"Lowe's Companies Inc. ( LOW ) based in Mooresville, NC, is a leading retailer of home improvement products.",0.45817136764526367,0.009197138249874115,0.532631516456604,neutral,0.44897422194480896
+26,2016-07-01 06:30:00,The customer centric company has a portfolio of various home improvements products and services.,0.03390214964747429,0.004130960907787085,0.961966872215271,neutral,0.029771188274025917
+27,2016-07-01 06:30:00,"P/E: 19.30 (as against 17.40 for the industry)
+
+Lowes delivered earnings surprises in three of the last four quarters.",0.9062557816505432,0.0370277501642704,0.05671652406454086,positive,0.8692280054092407
+28,2016-07-01 06:30:00,"Going by the Zacks Consensus Estimate, the company is expected to witness a year-over-year earnings growth of 17.20% is expected for the current quarter and 22.46% in the current year.",0.9557309150695801,0.017631852999329567,0.026637140661478043,positive,0.9380990862846375
+29,2016-07-01 06:30:00,"The Home Depot Inc.HD is a leading home improvement retailer and provider of construction materials and services headquartered in Atlanta, GA.",0.2433122992515564,0.006801142357289791,0.7498865127563477,neutral,0.23651115596294403
+30,2016-07-01 06:30:00,The company's customer-focused approach makes it a valued brand with a commendable market share.,0.8912463784217834,0.013291708193719387,0.09546193480491638,positive,0.8779546618461609
+31,2016-07-01 06:30:00,"P/E: 20.29 (compared with 17.40 for the industry)
+
+Home Depot posted earning surprise in each the last four quarters with an average surprise of over 4%.",0.8300188779830933,0.09579809010028839,0.07418308407068253,positive,0.7342208027839661
+32,2016-07-01 06:30:00,The company's earnings are expected to grow 16.45% year over year as per Zacks Consensus Estimate.,0.9543766379356384,0.017015354707837105,0.028608031570911407,positive,0.9373612999916077
+33,2016-07-01 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+34,2016-07-01 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.020782245323061943,0.01460274774581194,0.9646149277687073,neutral,0.006179497577250004
+35,2016-07-01 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+36,2016-07-01 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+37,2016-07-01 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

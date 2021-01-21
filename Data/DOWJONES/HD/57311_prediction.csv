@@ -1,0 +1,307 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-04-13 05:51:00,"In this episode of Industry Focus: Wildcard, Dylan Lewis and Motley Fool contributor Dan Kline look at how the retail sector is doing amid the coronavirus crisis, with a particular focus on two companies that recently delighted investors.",0.07181280106306076,0.02935400977730751,0.8988332152366638,neutral,0.04245879128575325
+1,2020-04-13 05:51:00,They talk about how the stay-at-home situation is changing consumer behavior and what the future might hold.,0.05413713678717613,0.02909776195883751,0.9167650938034058,neutral,0.025039374828338623
+2,2020-04-13 05:51:00,"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",0.04401024803519249,0.02094588615000248,0.9350439310073853,neutral,0.02306436188519001
+3,2020-04-13 05:51:00,"To get started investing, check out our quick-start guide to investing in stocks.",0.07803143560886383,0.00962066650390625,0.9123478531837463,neutral,0.06841076910495758
+4,2020-04-13 05:51:00,A full transcript follows the video.,0.01917308010160923,0.010780171491205692,0.9700466990470886,neutral,0.008392908610403538
+5,2020-04-13 05:51:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have an investing tip, it can pay to listen.",0.14467975497245789,0.019747961312532425,0.8355723023414612,neutral,0.12493179738521576
+6,2020-04-13 05:51:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+7,2020-04-13 05:51:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+8,2020-04-13 05:51:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+9,2020-04-13 05:51:00,"This video was recorded on April 8, 2020.",0.018640754744410515,0.009498115628957748,0.9718611836433411,neutral,0.009142639115452766
+10,2020-04-13 05:51:00,"Dylan Lewis: It's Wednesday, April 8th, and we're talking about retailers that have thrived even as coronavirus has totally altered how we're living our everyday lives.",0.15045203268527985,0.04614759981632233,0.8034003973007202,neutral,0.10430443286895752
+11,2020-04-13 05:51:00,"I'm your host Dylan Lewis, and I'm joined by Fool.com's Dan Kline.",0.036733679473400116,0.01252621877938509,0.9507400989532471,neutral,0.0242074616253376
+12,2020-04-13 05:51:00,"Dan, how you doing, man?",0.18626530468463898,0.03469625115394592,0.7790384292602539,neutral,0.15156905353069305
+13,2020-04-13 05:51:00,Dan Kline: Thank you for sharing the day.,0.29068902134895325,0.037976957857608795,0.6713340282440186,neutral,0.25271207094192505
+14,2020-04-13 05:51:00,"[laughs] It's really blurred into one, long day, where maybe choice of food separates things.",0.06957241892814636,0.07313462346792221,0.8572929501533508,neutral,-0.0035622045397758484
+15,2020-04-13 05:51:00,It's Happy Passover.,0.14295214414596558,0.009360644035041332,0.8476872444152832,neutral,0.13359150290489197
+16,2020-04-13 05:51:00,Lewis: [laughs] I think every day is just kind of a weird blur of cotton shorts.,0.024349717423319817,0.07340065389871597,0.9022496342658997,neutral,-0.04905093461275101
+17,2020-04-13 05:51:00,That's kind of how I feel at this point.,0.08147363364696503,0.016740042716264725,0.9017862677574158,neutral,0.0647335946559906
+18,2020-04-13 05:51:00,"Kline: Yeah, I mean, I live in Florida anyway, where there are no seasons.",0.018381448462605476,0.035171497613191605,0.9464470148086548,neutral,-0.016790049150586128
+19,2020-04-13 05:51:00,"So, it's kind of hard to know when anything is, I'm often surprised by holidays because, you know, nothing changes to indicate them, but this is a new kind of bizarre.",0.045760415494441986,0.05488694831728935,0.8993526101112366,neutral,-0.009126532822847366
+20,2020-04-13 05:51:00,"Lewis: Yeah, Dan, I think Thanksgiving is really going to creep up on you this year.",0.09313985705375671,0.22971157729625702,0.6771485209465027,neutral,-0.1365717202425003
+21,2020-04-13 05:51:00,"[laughs]
+
+Lewis: You'll know, you'll know, it'll come.",0.18245382606983185,0.01450075302273035,0.8030454516410828,neutral,0.16795307397842407
+22,2020-04-13 05:51:00,"Dan, today we are talking about a couple of businesses that have done pretty well in spite of everything that is going on.",0.5918310284614563,0.019631221890449524,0.3885377049446106,positive,0.572199821472168
+23,2020-04-13 05:51:00,We're going to be specifically talking about retailers.,0.034830838441848755,0.00938164722174406,0.9557875394821167,neutral,0.02544919028878212
+24,2020-04-13 05:51:00,"And two names that have seemingly delighted investors over the last week, and that's, Wayfair (NYSE: W) and Chewy (NYSE: CHWY).",0.17433884739875793,0.012221249751746655,0.8134399056434631,neutral,0.162117600440979
+25,2020-04-13 05:51:00,"Wayfair, really the story here is earnings, and pleasantly surprising earnings for this company.",0.6881070137023926,0.022309353575110435,0.28958362340927124,positive,0.6657976508140564
+26,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+27,2020-04-13 05:51:00,They doubled in the first two months of the year.,0.8678354024887085,0.04006587341427803,0.09209868311882019,positive,0.8277695178985596
+28,2020-04-13 05:51:00,"And there's a major ""but"" there.",0.11692369729280472,0.2886843979358673,0.594391942024231,neutral,-0.1717607080936432
+29,2020-04-13 05:51:00,They've acknowledged that they're doing well due to coronavirus.,0.8651805520057678,0.016196809709072113,0.11862260848283768,positive,0.8489837646484375
+30,2020-04-13 05:51:00,"People are stuck at home, they need tables; and I think I've told you before, I ordered a desk and a bunch of other things, not from Wayfair, but we need to set up, sort of, a mobile office.",0.07454224675893784,0.015247320756316185,0.9102104902267456,neutral,0.0592949241399765
+31,2020-04-13 05:51:00,A lot of people have had to do that.,0.062258437275886536,0.2562110722064972,0.6815304756164551,neutral,-0.19395263493061066
+32,2020-04-13 05:51:00,"So, their fiscal year ended February 2nd.",0.023564156144857407,0.023731550201773643,0.9527043104171753,neutral,-0.00016739405691623688
+33,2020-04-13 05:51:00,They were trending up before this happened.,0.22416123747825623,0.01827249862253666,0.7575662136077881,neutral,0.20588873326778412
+34,2020-04-13 05:51:00,"And obviously, they are a port in the storm; a place people can order stuff they need without having to go to a store.",0.1996130645275116,0.014795799739658833,0.7855911254882812,neutral,0.18481726944446564
+35,2020-04-13 05:51:00,"So, sales are going to be strong, though, they did not offer guidance for the full year.",0.0758722573518753,0.2267301380634308,0.6973975896835327,neutral,-0.15085788071155548
+36,2020-04-13 05:51:00,"Lewis: And I think that's not all that surprising, you know, a lot of businesses are having a very tough time reading what's going on and understanding what their numbers might be looking like going forward.",0.03142034634947777,0.630095362663269,0.33848434686660767,negative,-0.598675012588501
+37,2020-04-13 05:51:00,"This is good news for Wayfair, because they've really kind of struggled to find their footing with growth.",0.7050666809082031,0.048139605671167374,0.2467937022447586,positive,0.6569270491600037
+38,2020-04-13 05:51:00,This was a very high growth business for a long period of time.,0.583580493927002,0.010489491745829582,0.4059300422668457,positive,0.5730910301208496
+39,2020-04-13 05:51:00,"An online retailer, seemingly really well focused for that next era of furniture buyers; all these millennials, you know, buying homes, outfitting homes and looking for something that was a little bit different than the standard brick-and-mortar experience, and they seemed really well positioned for that.",0.18760424852371216,0.009011533111333847,0.8033842444419861,neutral,0.178592711687088
+40,2020-04-13 05:51:00,"That said, growth has been kind of all over the place for this business.",0.6929675340652466,0.013643214479088783,0.293389230966568,positive,0.6793243288993835
+41,2020-04-13 05:51:00,And I think a lot of people are excited that there's some stability here.,0.6679877638816833,0.01772427186369896,0.3142879009246826,positive,0.6502634882926941
+42,2020-04-13 05:51:00,They found a floor.,0.19545863568782806,0.024539757519960403,0.7800016403198242,neutral,0.17091888189315796
+43,2020-04-13 05:51:00,"Kline: Yeah, I'm still a little wary of this business, because there's some furniture; I'll buy a desk that I didn't physically handle.",0.04585805535316467,0.07476650178432465,0.8793753981590271,neutral,-0.028908446431159973
+44,2020-04-13 05:51:00,You know what a desk does.,0.05109091103076935,0.022405235096812248,0.9265038967132568,neutral,0.0286856759339571
+45,2020-04-13 05:51:00,"Like, other than it might not be the height you like, you can adjust your chair, there's things you can do there.",0.0441046804189682,0.008146673440933228,0.9477486610412598,neutral,0.03595800697803497
+46,2020-04-13 05:51:00,I'm not sure I'd buy a couch or a bed or a kitchen table from Wayfair.,0.018527541309595108,0.015709521248936653,0.9657629132270813,neutral,0.002818020060658455
+47,2020-04-13 05:51:00,"I've bought some things from Wayfair, our pantry is from them.",0.049754105508327484,0.006143281701952219,0.9441026449203491,neutral,0.0436108224093914
+48,2020-04-13 05:51:00,And no possibility I could have put it together; I had to hire someone to do that.,0.08898316323757172,0.04782143980264664,0.8631954193115234,neutral,0.04116172343492508
+49,2020-04-13 05:51:00,"The quality is maybe a couple percentage points less than I thought it would be based on the picture, but it was like a $300 item; it wasn't a major expensive purchase like a couch would be.",0.04650969058275223,0.07249348610639572,0.8809968829154968,neutral,-0.025983795523643494
+50,2020-04-13 05:51:00,"So, I see a lot of upside here.",0.20345385372638702,0.017302077263593674,0.7792441248893738,neutral,0.18615177273750305
+51,2020-04-13 05:51:00,"I also would be wary, because once you buy a new desk and a new office chair and maybe a filing cabinet and a lamp or whatever else you might need, I don't know that that need is going to return any time soon.",0.04261047765612602,0.026703502982854843,0.9306859970092773,neutral,0.01590697467327118
+52,2020-04-13 05:51:00,"So, the positive side is, you're exposed to Wayfair, you have the app, you've used it, they have your credit card information.",0.0722433552145958,0.006293160375207663,0.9214634299278259,neutral,0.0659501925110817
+53,2020-04-13 05:51:00,That's a huge barrier for any digital business.,0.04631265252828598,0.13181090354919434,0.8218764662742615,neutral,-0.08549825102090836
+54,2020-04-13 05:51:00,But are you really going to return to them to buy a lazy-boy or any of the other major -- not the actual brand La-Z-Boy -- a reclining chair?,0.02963355742394924,0.022302847355604172,0.9480636119842529,neutral,0.00733071006834507
+55,2020-04-13 05:51:00,"Sorry, I should use the generic.",0.0947384387254715,0.13971833884716034,0.7655432224273682,neutral,-0.04497990012168884
+56,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+57,2020-04-13 05:51:00,I don't know if they actually sell La-Z-Boy.,0.010409723967313766,0.023580508306622505,0.966009795665741,neutral,-0.013170784339308739
+58,2020-04-13 05:51:00,The other thing I find difficult on Wayfair is their pricing is all over the place.,0.0326136089861393,0.5192062258720398,0.448180228471756,negative,-0.4865926206111908
+59,2020-04-13 05:51:00,"You can buy a $10,000 couch or a $300 couch.",0.02739059180021286,0.010140306316316128,0.9624690413475037,neutral,0.017250284552574158
+60,2020-04-13 05:51:00,"And generally, that's not the range in a furniture store.",0.04097864404320717,0.1840866655111313,0.774934709072113,neutral,-0.14310802519321442
+61,2020-04-13 05:51:00,It's not the greatest interface toward narrowing that down.,0.13806463778018951,0.033723101019859314,0.828212320804596,neutral,0.1043415367603302
+62,2020-04-13 05:51:00,"I mean, obviously, you can go lowest to highest and other things, but the experience of browsing, it's sort of like Amazon.",0.05495593324303627,0.013627958483994007,0.9314160943031311,neutral,0.04132797569036484
+63,2020-04-13 05:51:00,"Amazon is not a great place to browse bookshelves; even with recommendations and other things, and I find that to be true.",0.03436378762125969,0.09918363392353058,0.8664526343345642,neutral,-0.06481984257698059
+64,2020-04-13 05:51:00,"So, I do still see some red flags with Wayfair, but this will help them stabilize their business.",0.8905419111251831,0.025670403614640236,0.08378767222166061,positive,0.8648715019226074
+65,2020-04-13 05:51:00,Lewis: Yeah.,0.14877764880657196,0.07359814643859863,0.7776241898536682,neutral,0.07517950236797333
+66,2020-04-13 05:51:00,And I think the market reaction to their earnings results is largely just happiness that someone's doing well in the retail space.,0.6894766688346863,0.022317003458738327,0.2882063090801239,positive,0.6671596765518188
+67,2020-04-13 05:51:00,"[laughs] But what we saw was, and I think this is probably the quote that people are probably paying attention to, Wayfair said that, ""Since the pandemic shut down a big chunk of American life in mid-March, they have doubled its rate of nearly 20% from the first two months of 2020 in terms of growth.""",0.8577548265457153,0.0630151629447937,0.07923006266355515,positive,0.7947396636009216
+68,2020-04-13 05:51:00,"So, you can start to imagine what that growth rate might look like.",0.04198829084634781,0.012042028829455376,0.9459697604179382,neutral,0.029946262016892433
+69,2020-04-13 05:51:00,And to just kind of take a step back and understand where this business has been.,0.14003129303455353,0.014475373551249504,0.8454933762550354,neutral,0.12555591762065887
+70,2020-04-13 05:51:00,They were posting 40% year-over-year revenue growth not that long ago.,0.9232255220413208,0.016350265592336655,0.06042420119047165,positive,0.9068752527236938
+71,2020-04-13 05:51:00,"If you go back to the summer of 2019, that's what their business looked like.",0.03021209128201008,0.017064206302165985,0.9527236819267273,neutral,0.013147884979844093
+72,2020-04-13 05:51:00,And then things fell off a cliff.,0.15472540259361267,0.1687694489955902,0.6765051484107971,neutral,-0.014044046401977539
+73,2020-04-13 05:51:00,They dipped down into the 30s and now to the 20s.,0.10733137279748917,0.09414724260568619,0.7985213994979858,neutral,0.013184130191802979
+74,2020-04-13 05:51:00,"And so, anything that shows a reacceleration of growth for them, is going to get people really excited.",0.517697811126709,0.022670775651931763,0.45963141322135925,positive,0.4950270354747772
+75,2020-04-13 05:51:00,The stock shot up over 50% yesterday on this news.,0.9399787187576294,0.019140809774398804,0.040880538523197174,positive,0.9208378791809082
+76,2020-04-13 05:51:00,"So, I think it's probably a combination of people being thrilled that there's someone that's doing well.",0.37127625942230225,0.022343723103404045,0.606380045413971,neutral,0.34893253445625305
+77,2020-04-13 05:51:00,And I think this company is somewhat uniquely positioned to do well given all the circumstances.,0.8287166357040405,0.012544779106974602,0.15873856842517853,positive,0.8161718845367432
+78,2020-04-13 05:51:00,"But also that, you know, this was a kind of growth story retailer that had fallen on hard times and this might be them starting the engine again.",0.6302617788314819,0.0342099629342556,0.3355281949043274,positive,0.596051812171936
+79,2020-04-13 05:51:00,"Kline: Yeah, and this is also kind of a tipping point company.",0.3774816393852234,0.013856603763997555,0.6086617708206177,neutral,0.36362504959106445
+80,2020-04-13 05:51:00,"When you build these big digital operations that are designed to ship all over the country and work with multiple supply chain points, that's a lot of cost.",0.04125732183456421,0.01618286781013012,0.9425598382949829,neutral,0.02507445402443409
+81,2020-04-13 05:51:00,"At some point, your cost per sale starts to go down because you don't need to build new trucking.",0.09466414153575897,0.19088022410869598,0.7144556641578674,neutral,-0.09621608257293701
+82,2020-04-13 05:51:00,Your trucks are more full.,0.49578946828842163,0.017903150990605354,0.48630738258361816,positive,0.4778863191604614
+83,2020-04-13 05:51:00,"You know, if you deliver a full truck to my building; and I've seen that happen with Amazon vans, the entire van goes to my building and unloads, that's way more efficient than stopping five or six places.",0.16663199663162231,0.011328143067657948,0.8220399022102356,neutral,0.15530385076999664
+84,2020-04-13 05:51:00,"Obviously, furniture is big and a little bit tricky to deliver, but this is a scale business, the more customers you get, sort of, the better it goes.",0.14957299828529358,0.021530572324991226,0.8288964629173279,neutral,0.12804242968559265
+85,2020-04-13 05:51:00,"What's challenging about it is, if I buy something from Amazon, it's often a consumable.",0.017369253560900688,0.05356576293706894,0.9290650486946106,neutral,-0.0361965075135231
+86,2020-04-13 05:51:00,"So, if I buy a box of tea, my wife drinks the tea.",0.02714236080646515,0.03821944072842598,0.9346382021903992,neutral,-0.01107707992196083
+87,2020-04-13 05:51:00,Tea is gone.,0.09852949529886246,0.236026793718338,0.6654437780380249,neutral,-0.13749730587005615
+88,2020-04-13 05:51:00,I order some more tea.,0.1731358766555786,0.04409584775567055,0.7827682495117188,neutral,0.12904003262519836
+89,2020-04-13 05:51:00,I don't use up couches that fast.,0.04267722740769386,0.02345883660018444,0.9338638782501221,neutral,0.019218390807509422
+90,2020-04-13 05:51:00,"A bed might last ten years; I mean, I don't know, like, generally I bought a new bed at some point just because I felt like buying a new bed, not because the old bed wasn't working anymore, so.",0.04561992734670639,0.017558937892317772,0.9368211030960083,neutral,0.02806098945438862
+91,2020-04-13 05:51:00,"Like, my desk has lived in six different houses, and it was like a $200 IKEA desk that I feel is going to fall apart at any second, but.",0.038484327495098114,0.13833171129226685,0.8231840133666992,neutral,-0.09984738379716873
+92,2020-04-13 05:51:00,"So, there are some risks here that the next time people need something, they may forget that they bought something from Wayfair.",0.04933270812034607,0.1285487860441208,0.8221185207366943,neutral,-0.07921607792377472
+93,2020-04-13 05:51:00,"On the other hand, a company that spends a lot on marketing, you've all seen the commercials, that might be enough to just tip you over the edge to at least look at what they might have and see if they have a good option.",0.10717873275279999,0.014784635975956917,0.878036618232727,neutral,0.09239409863948822
+94,2020-04-13 05:51:00,"When I bought my pantry, there was no good option.",0.05022983253002167,0.09725970029830933,0.8525104522705078,neutral,-0.04702986776828766
+95,2020-04-13 05:51:00,"We went to a lot of different furniture stores and, like, the Home Depots and Lowe's had particle board kind of stuff, the City Furniture's of the world were very expensive: I don't know if that's a national chain, that might be a local chain.",0.020865831524133682,0.021419618278741837,0.9577144980430603,neutral,-0.0005537867546081543
+96,2020-04-13 05:51:00,Lewis: [laughs] Or it's not up here.,0.0293317548930645,0.07918403297662735,0.8914842009544373,neutral,-0.04985227808356285
+97,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+98,2020-04-13 05:51:00,IKEA.,0.07033189386129379,0.05907152220606804,0.8705965876579285,neutral,0.011260371655225754
+99,2020-04-13 05:51:00,"I feel like I've graduated from IKEA, that I can buy stuff at IKEA, you know like, little accessories or light bulbs or a lamp or something, but I'm not buying furniture at IKEA anymore.",0.04320652782917023,0.02427491545677185,0.9325186014175415,neutral,0.018931612372398376
+100,2020-04-13 05:51:00,"So, that's sort of where it is.",0.07796566188335419,0.02561608888208866,0.8964182734489441,neutral,0.052349574863910675
+101,2020-04-13 05:51:00,"You know, they are an option for people, they have more customers, but I'm not 100% convinced this will turn into long-term sustainable growth for them.",0.6173652410507202,0.014844004064798355,0.3677907884120941,positive,0.6025212407112122
+102,2020-04-13 05:51:00,Lewis: Yeah.,0.14877764880657196,0.07359814643859863,0.7776241898536682,neutral,0.07517950236797333
+103,2020-04-13 05:51:00,And I think that that's an interesting question.,0.08748215436935425,0.024842163547873497,0.8876757025718689,neutral,0.0626399889588356
+104,2020-04-13 05:51:00,"I mean, you look at what has caused them to reaccelerate, and I think there are kind of two different ways to look at this news, Dan, if you're thinking about whether or not this is sustainable for them.",0.02928902581334114,0.025121057406067848,0.9455899000167847,neutral,0.0041679684072732925
+105,2020-04-13 05:51:00,"And the first interpretation would be, OK, if folks are not able to go to stores, there are probably some regularly scheduled furniture purchases that they are making and Wayfair is a beneficiary of that.",0.02262081578373909,0.11335211247205734,0.8640270829200745,neutral,-0.09073129296302795
+106,2020-04-13 05:51:00,"And you know, it's awesome for them, it's a great chance to meet customers that maybe they wouldn't have met otherwise that would have instead gone to IKEA or Target or one of the many other places where you can get brick-and-mortar stuff.",0.44992589950561523,0.012052305974066257,0.5380218029022217,neutral,0.43787360191345215
+107,2020-04-13 05:51:00,"So, I think that lift that you're talking about right there is something that could be an ongoing benefit if they're able to take what might be one-time consumers and move them along and have them be repeat customers.",0.7701245546340942,0.011980540119111538,0.21789495646953583,positive,0.7581440210342407
+108,2020-04-13 05:51:00,"The other way to look at this is, you know, people are realizing that they're going to be home for an extended period of time and maybe they're just outfitting their home offices and making sure that they're in a position where they can work from home fairly comfortably.",0.14347633719444275,0.013471105135977268,0.8430525660514832,neutral,0.13000522553920746
+109,2020-04-13 05:51:00,And that we're seeing kind of a shock in sales and that things are going to kind of taper off after that.,0.04563911259174347,0.80878746509552,0.14557340741157532,negative,-0.7631483674049377
+110,2020-04-13 05:51:00,"Kline: Yeah, I mean, I do think there is going to be a short-term tapering, because you need to work from home.",0.08695252984762192,0.623786449432373,0.28926101326942444,negative,-0.5368339419364929
+111,2020-04-13 05:51:00,"Even if you're in a relatively secure industry, you're getting a paycheck, it doesn't seem likely to me that, like, two weeks after we're all let out of our house, you're going to go like, ""You know what I need, some new patio furniture.""",0.09570631384849548,0.019749483093619347,0.8845442533493042,neutral,0.07595682889223099
+112,2020-04-13 05:51:00,"Like, it feels like you're only going to replace things, as needed.",0.04756392166018486,0.0614158995449543,0.8910202383995056,neutral,-0.01385197788476944
+113,2020-04-13 05:51:00,"But again, let's look at the big picture.",0.03501410037279129,0.01029266882687807,0.9546932578086853,neutral,0.024721432477235794
+114,2020-04-13 05:51:00,"If their customer base, let's say they had, and I don't know the numbers, let's say they had 10 million people in their system that they had their credit card info that had purchased before.",0.01741771772503853,0.011354274116456509,0.9712280035018921,neutral,0.00606344360858202
+115,2020-04-13 05:51:00,And that's now turned into 18 million.,0.3000677227973938,0.03723752871155739,0.6626947522163391,neutral,0.2628301978111267
+116,2020-04-13 05:51:00,That lowers your marketing spend.,0.1352524757385254,0.20262271165847778,0.6621248722076416,neutral,-0.06737023591995239
+117,2020-04-13 05:51:00,"Because I know, I've bought from Wayfair, they send me an email and a lot of email, frankly.",0.030372105538845062,0.01089661568403244,0.9587312340736389,neutral,0.019475489854812622
+118,2020-04-13 05:51:00,"I'm not buying another pantry again any time soon, Wayfair, let's also be aware of that.",0.10348383337259293,0.027633413672447205,0.8688827753067017,neutral,0.07585041970014572
+119,2020-04-13 05:51:00,"But once they have that, they can sort of do what Starbucks does, they can direct behavior.",0.03403609246015549,0.007769755553454161,0.9581940770149231,neutral,0.02626633644104004
+120,2020-04-13 05:51:00,"So, they might see, ""Geesh, our patio furniture sales are really slow because the Spring has kind of been canceled, let's run a 20% off sale just to get it out of the warehouse.""",0.023464873433113098,0.8158629536628723,0.1606721729040146,negative,-0.7923980951309204
+121,2020-04-13 05:51:00,That is almost free to do compared to running television commercials.,0.08295679092407227,0.05279241129755974,0.8642507791519165,neutral,0.030164379626512527
+122,2020-04-13 05:51:00,"So, there should be a long-term lift, you just might not see that until it's six months, a year from now, when people are sort of making the normal decisions of, ""Hey, my kid is going to college, I need to buy some stuff,"" or maybe they can have my couch and I'll buy a new one or whatever it is.",0.07143356651067734,0.0371536947786808,0.8914127945899963,neutral,0.034279871731996536
+123,2020-04-13 05:51:00,"So, this is a positive, but -- and I'll say this about almost any company we're talking about, with the exception of Costco or Walmart -- don't look at the next few quarters and make your judgment.",0.017338111996650696,0.021056104451417923,0.9616057276725769,neutral,-0.003717992454767227
+124,2020-04-13 05:51:00,"Sort of, follow them, look at it, see if they're retaining some of the customers, but for the most part, based on the cycle of buying furniture, this is going to pay out in a year to three years as people have need for these big-ticket items.",0.28741517663002014,0.010425107553601265,0.7021597027778625,neutral,0.27699005603790283
+125,2020-04-13 05:51:00,"Lewis: Yeah, and I think, if you need a reminder of where this company has been, look at the five-year stock chart.",0.026599127799272537,0.02088102139532566,0.9525198340415955,neutral,0.0057181064039468765
+126,2020-04-13 05:51:00,"Even after that crazy 50% spike, we're still at about half the valuation that they were at less than a year ago, a little bit more than a year ago.",0.45577332377433777,0.025161204859614372,0.5190654993057251,neutral,0.43061211705207825
+127,2020-04-13 05:51:00,"And so, this is a business that had really high growth expectations that were built into it, that growth kind of halted, nice to see that it seems like they're getting back to that.",0.44195571541786194,0.026653137058019638,0.5313910841941833,neutral,0.415302574634552
+128,2020-04-13 05:51:00,"This is, you know, an externality that no one could have anticipated.",0.10421302169561386,0.028228608891367912,0.8675584197044373,neutral,0.0759844109416008
+129,2020-04-13 05:51:00,Nice to know that someone's doing well in the wake of all this.,0.8621402382850647,0.01965060830116272,0.11820914596319199,positive,0.8424896001815796
+130,2020-04-13 05:51:00,"But there are still a lot of folks, even with the spike that we saw recently, that are sitting on some losses with Wayfair and they still have a lot to figure out as a business.",0.09324098378419876,0.33016613125801086,0.5765929222106934,neutral,-0.2369251549243927
+131,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+132,2020-04-13 05:51:00,"And I still turn to the major red flag of all of the biggest ticket stuff that they sell, I have a hard time believing, people who have choices are going to buy them online.",0.05693112686276436,0.08449220657348633,0.8585766553878784,neutral,-0.02756107971072197
+133,2020-04-13 05:51:00,[laughs] I might be wrong.,0.13444508612155914,0.3683193624019623,0.49723559617996216,neutral,-0.23387427628040314
+134,2020-04-13 05:51:00,But have you ever tried to return a couch?,0.06424069404602051,0.11138862371444702,0.8243706822395325,neutral,-0.047147929668426514
+135,2020-04-13 05:51:00,That's not fun.,0.0761854276061058,0.3493635952472687,0.5744510293006897,neutral,-0.2731781601905823
+136,2020-04-13 05:51:00,"[laughs]
+
+Lewis: [laughs] No.",0.060543447732925415,0.2747655510902405,0.6646910309791565,neutral,-0.21422210335731506
+137,2020-04-13 05:51:00,And I'm sure Wayfair makes it more fun than Craigslist.,0.1518772542476654,0.0145726278424263,0.8335500955581665,neutral,0.1373046338558197
+138,2020-04-13 05:51:00,"[laughs]
+
+Kline: Oh, dear God!",0.1352483034133911,0.23745927214622498,0.6272924542427063,neutral,-0.10221096873283386
+139,2020-04-13 05:51:00,I bought one of those mattress in a box things that had like a 100-night guarantee.,0.06303077191114426,0.008912504650652409,0.9280567169189453,neutral,0.05411826819181442
+140,2020-04-13 05:51:00,"And that's the world's most meaningless guarantee, because there is simply no possibility you could get it.",0.1118001639842987,0.135797917842865,0.7524019479751587,neutral,-0.023997753858566284
+141,2020-04-13 05:51:00,"Like, it basically shows up in a shoebox and turns into a king size mattress.",0.05527891963720322,0.012997975572943687,0.9317231178283691,neutral,0.04228094220161438
+142,2020-04-13 05:51:00,I don't think all the king's horses and all the king's men could put that back together again.,0.08864697813987732,0.046596936881542206,0.8647561073303223,neutral,0.042050041258335114
+143,2020-04-13 05:51:00,"[laughs]
+
+Lewis: Well, you know, it's amazing though.",0.10168541222810745,0.025795087218284607,0.8725194334983826,neutral,0.07589032500982285
+144,2020-04-13 05:51:00,"I love that you just quoted that, Dan.",0.32615920901298523,0.023933159187436104,0.6499077081680298,neutral,0.3022260367870331
+145,2020-04-13 05:51:00,"What's amazing about that is, we did a breakdown of Casper on the show a little while ago, and 20% of their dollars in sales wind up going into returns and promotions.",0.025239603593945503,0.010011468082666397,0.9647489786148071,neutral,0.015228135511279106
+146,2020-04-13 05:51:00,"So, people are returning those.",0.17301535606384277,0.012973785400390625,0.8140108585357666,neutral,0.16004157066345215
+147,2020-04-13 05:51:00,"I don't know how they're getting them back in the box, but they are managing to return those.",0.5985796451568604,0.014811784029006958,0.3866086006164551,positive,0.5837678909301758
+148,2020-04-13 05:51:00,"Kline: That I find shocking, only because Casper has a reasonable amount of retail stores.",0.04827884957194328,0.02956491708755493,0.9221562147140503,neutral,0.01871393248438835
+149,2020-04-13 05:51:00,"So, if I was going to buy a Casper mattress, there's a Casper mattress, like, two miles away from me.",0.06479207426309586,0.0663965567946434,0.868811309337616,neutral,-0.0016044825315475464
+150,2020-04-13 05:51:00,I just go lay on it and then order it.,0.035230930894613266,0.01904289238154888,0.9457261562347412,neutral,0.016188038513064384
+151,2020-04-13 05:51:00,"[laughs]
+
+Lewis: Maybe that's how they're doing it, maybe they're going back to the brick-and-mortar.",0.047685716301202774,0.021986771374940872,0.9303275346755981,neutral,0.025698944926261902
+152,2020-04-13 05:51:00,"[laughs]
+
+Kline: Yeah, that seems like a smart way to cut your possibility of having to return it.",0.26845693588256836,0.13311417400836945,0.5984289050102234,neutral,0.1353427618741989
+153,2020-04-13 05:51:00,"Lewis: [laughs] We just name dropped a couple of online retailers, we're going to talk about one more before we wrap up the show, and that's Chewy.",0.03804423287510872,0.043351802974939346,0.9186039566993713,neutral,-0.0053075700998306274
+154,2020-04-13 05:51:00,"And this is the, kind of, online pet supply, think Petco, but online.",0.021475035697221756,0.009635267779231071,0.9688896536827087,neutral,0.011839767917990685
+155,2020-04-13 05:51:00,"And really kind of an interesting business, because this company has not been publicly traded all that long.",0.01750160939991474,0.011434984393417835,0.9710634350776672,neutral,0.006066625006496906
+156,2020-04-13 05:51:00,And a lot of people naturally connected the dots between Chewy and Pets.com at the height of the dot-com bubble.,0.09112489223480225,0.022145092487335205,0.8867300152778625,neutral,0.06897979974746704
+157,2020-04-13 05:51:00,And we're a little curious as to why this is the business that is going public now and seems to get a lot of attention.,0.03065638244152069,0.008988882414996624,0.9603546857833862,neutral,0.021667499095201492
+158,2020-04-13 05:51:00,"Dan, what do you make of them, broadly, before we start talking about some of the numbers for that?",0.02239488996565342,0.009547718800604343,0.9680573344230652,neutral,0.012847171165049076
+159,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+160,2020-04-13 05:51:00,"So, it's important to remind people that they're owned by PetSmart, in terms of the controlling interest of the stock.",0.02609880641102791,0.008399033918976784,0.965502142906189,neutral,0.017699772492051125
+161,2020-04-13 05:51:00,"So, some of why they went public is so PetSmart could cash-out some of the money it spent buying this.",0.29514554142951965,0.017160065472126007,0.6876944303512573,neutral,0.27798548340797424
+162,2020-04-13 05:51:00,"But this is a company, in a broad sense, everything I just told you about Wayfair, is not true for Chewy.",0.014749301597476006,0.04301324859261513,0.9422374367713928,neutral,-0.028263946995139122
+163,2020-04-13 05:51:00,Chewy sells pet food and toys and a lot of reusable consumables.,0.015983296558260918,0.008483769372105598,0.9755329489707947,neutral,0.007499527186155319
+164,2020-04-13 05:51:00,I think about 70% is food and other things that you regularly cycle.,0.014746206812560558,0.010058600455522537,0.9751952290534973,neutral,0.004687606357038021
+165,2020-04-13 05:51:00,"So, when they gain customers, and they're gaining customers now because Amazon sells all this stuff.",0.2926279604434967,0.010734695941209793,0.6966373324394226,neutral,0.281893253326416
+166,2020-04-13 05:51:00,"I have two cats, and Amazon actually carries my kitty litter and Chewy doesn't.",0.02926364727318287,0.03291994705796242,0.9378163814544678,neutral,-0.0036562997847795486
+167,2020-04-13 05:51:00,"Amusingly, my wife and I have inadvertently obtained 11 bags of kitty litter because we both ordered it on an extended cycle and both arrived.",0.17306798696517944,0.08021431416273117,0.7467176914215088,neutral,0.09285367280244827
+168,2020-04-13 05:51:00,"So, my house is just kitty litter everywhere.",0.06894595175981522,0.14781668782234192,0.7832373380661011,neutral,-0.0788707360625267
+169,2020-04-13 05:51:00,"[laughs]
+
+Lewis: [laughs] Well, you're stocked up for the next year, Dan.",0.48454901576042175,0.025557858869433403,0.48989319801330566,neutral,0.4589911699295044
+170,2020-04-13 05:51:00,"Kline: For like the next, like, six months.",0.019340766593813896,0.024107957258820534,0.9565512537956238,neutral,-0.004767190665006638
+171,2020-04-13 05:51:00,Yeah.,0.26731187105178833,0.08938504010438919,0.6433030962944031,neutral,0.17792683839797974
+172,2020-04-13 05:51:00,"So, Chewy, if you put in a pet food order on Chewy, even if previously you were buying from Amazon and Amazon is deprioritizing that item or isn't shipping it fast enough for you, there's every chance that as long as the prices stay reasonable, you're just going to continue that order on a subscription basis.",0.060564786195755005,0.052402570843696594,0.8870326280593872,neutral,0.00816221535205841
+173,2020-04-13 05:51:00,This isn't a couch that you buy and never have to buy again.,0.029594305902719498,0.012842216528952122,0.9575634002685547,neutral,0.01675209030508995
+174,2020-04-13 05:51:00,These are mostly things you're going to buy over-and-over.,0.030379122123122215,0.006745316553860903,0.9628756046295166,neutral,0.0236338060349226
+175,2020-04-13 05:51:00,"And once you're buying things, Chewy can market to you and say, ""Hey, you want to add something to your box?",0.06722800433635712,0.0319909006357193,0.9007811546325684,neutral,0.03523710370063782
+176,2020-04-13 05:51:00,"Like, you know, you want a sweater for your dog?",0.060499854385852814,0.03745131939649582,0.9020488858222961,neutral,0.023048534989356995
+177,2020-04-13 05:51:00,"You want a new dog bed?""",0.13342899084091187,0.059940941631793976,0.8066301345825195,neutral,0.07348804920911789
+178,2020-04-13 05:51:00,"You know, whatever it is.",0.05357525870203972,0.024106698110699654,0.9223180413246155,neutral,0.029468560591340065
+179,2020-04-13 05:51:00,"So, this growth is, in my opinion, dramatically more sustainable than what Wayfair is doing.",0.8813610672950745,0.013085972517728806,0.10555293411016464,positive,0.8682751059532166
+180,2020-04-13 05:51:00,This is going to change people's habits for how they buy these pet items.,0.06581517308950424,0.17996205389499664,0.7542228102684021,neutral,-0.1141468808054924
+181,2020-04-13 05:51:00,"This isn't, you know, getting your toilet paper at Dollar General that's half the quality and twice the price, this is getting what you buy anyway.",0.02598469704389572,0.01038892287760973,0.9636264443397522,neutral,0.015595774166285992
+182,2020-04-13 05:51:00,"And maybe it's a fraction more expensive in some cases, that has been my experience in buying a couple of things from Chewy, but it's well within the range.",0.0696040540933609,0.010012264363467693,0.9203836917877197,neutral,0.05959178879857063
+183,2020-04-13 05:51:00,"So, I think they're going to see, sort of, a long-term surge from this.",0.7287197113037109,0.014553830027580261,0.25672653317451477,positive,0.7141658663749695
+184,2020-04-13 05:51:00,"Lewis: So, to put some numbers to that.",0.04788968339562416,0.041990652680397034,0.9101195931434631,neutral,0.005899030715227127
+185,2020-04-13 05:51:00,"The company grew net sales by 40% to just under $5 billion for the full year, and looking at the quarter, in particular, $1.35 billion in sales, up about 35%.",0.9497066736221313,0.01897198148071766,0.03132137656211853,positive,0.9307346940040588
+186,2020-04-13 05:51:00,"Those are good growth rates, though, I think we need to note, Dan, the fiscal year ended before coronavirus really hit in the United States, it ended in early February.",0.04753493890166283,0.024076277390122414,0.928388774394989,neutral,0.023458661511540413
+187,2020-04-13 05:51:00,"Kline: Yeah, and they've said they're seeing a sales spike.",0.9163196682929993,0.03593943640589714,0.047740813344717026,positive,0.8803802132606506
+188,2020-04-13 05:51:00,"I imagine the sales spike is going to be pretty significant, because even people who previously ordered pet food online, they might supplement that by, ""Uh, I'm running out, it's another week until my delivery comes, maybe I'll just grab a bag and then I'll push back a delivery.""",0.2224552482366562,0.16439080238342285,0.6131539940834045,neutral,0.05806444585323334
+189,2020-04-13 05:51:00,People who're going to grocery stores aren't buying pet food if they can possibly avoid it.,0.05649353191256523,0.37742963433265686,0.5660768151283264,neutral,-0.3209361135959625
+190,2020-04-13 05:51:00,"Most people are having anything shipped they possibly can, if it's an easy two-day, quick turnaround type of delivery.",0.11585384607315063,0.013763489201664925,0.8703826665878296,neutral,0.10209035873413086
+191,2020-04-13 05:51:00,"So, they're going to see regular customers buy more.",0.19187031686306,0.010657167993485928,0.7974725365638733,neutral,0.1812131553888321
+192,2020-04-13 05:51:00,"There's also things like, in some places, like, you literally can't walk your dog.",0.04571403190493584,0.16848447918891907,0.7858014702796936,neutral,-0.12277044355869293
+193,2020-04-13 05:51:00,"So, people are having to buy ways to ""walk your dog inside,"" you know, and more toys and exercise things and all sorts of other pet stuff, medicines.",0.027689719572663307,0.06792552769184113,0.9043847322463989,neutral,-0.04023580998182297
+194,2020-04-13 05:51:00,This is going to show people what they sell; sort of the full breadth of what they could do.,0.0703134760260582,0.005765993148088455,0.9239205121994019,neutral,0.06454747915267944
+195,2020-04-13 05:51:00,"This might test their supply lines, though, they went out of their way in the earnings call to talk about how they're managing that and that it has not been a problem.",0.1822652667760849,0.3720741271972656,0.4456605911254883,neutral,-0.18980886042118073
+196,2020-04-13 05:51:00,"But this, absolutely, is saving them untold millions in marketing.",0.5074229836463928,0.07897699624300003,0.41359999775886536,positive,0.4284459948539734
+197,2020-04-13 05:51:00,"People were looking for ""how do I get pet food,"" you know, they're googling it and it's coming up.",0.0559430792927742,0.04315875470638275,0.9008981585502625,neutral,0.012784324586391449
+198,2020-04-13 05:51:00,"That is way cheaper than running commercials, though not as good a value as sponsoring this podcast, Chewy, if you happen to be listening.",0.19893422722816467,0.01994001679122448,0.7811257839202881,neutral,0.17899420857429504
+199,2020-04-13 05:51:00,"[laughs]
+
+Lewis: [laughs] That's a nice plug there, Dan, I appreciate it.",0.6244226098060608,0.06079835817217827,0.31477904319763184,positive,0.5636242628097534
+200,2020-04-13 05:51:00,"Kline: [laughs] Hey there was no ad read at the top of the show, so.",0.0335812009871006,0.10467852652072906,0.8617402911186218,neutral,-0.07109732925891876
+201,2020-04-13 05:51:00,"Lewis: Yeah, there we go, look at that, we just got to ask people for it.",0.13695476949214935,0.013628506101667881,0.8494166731834412,neutral,0.12332626432180405
+202,2020-04-13 05:51:00,"Yeah, I'm inclined to believe that what we're seeing with Chewy is probably more sustainable.",0.6101706027984619,0.01579427719116211,0.37403517961502075,positive,0.5943763256072998
+203,2020-04-13 05:51:00,And that they're probably a longer-term beneficiary of this trend than Wayfair.,0.278120219707489,0.02217749133706093,0.6997023224830627,neutral,0.2559427320957184
+204,2020-04-13 05:51:00,"I don't want to say trend, the current situation that people are living in, I think is probably a better way to put it.",0.03636445105075836,0.09250813722610474,0.8711274266242981,neutral,-0.056143686175346375
+205,2020-04-13 05:51:00,"And the main thing is that number you threw out there before, you know, 70% of their sales are consumables, specifically food and treats.",0.013343271799385548,0.015299055725336075,0.9713577032089233,neutral,-0.001955783925950527
+206,2020-04-13 05:51:00,"And so, those are not toys, these are things that pets are eating.",0.019199877977371216,0.023772701621055603,0.9570274949073792,neutral,-0.004572823643684387
+207,2020-04-13 05:51:00,"And, yeah, the reality is, you might want some item for your house and you might want a new couch, but if you have a couch, you can delay that purchase.",0.02754739485681057,0.10430151969194412,0.868151068687439,neutral,-0.0767541229724884
+208,2020-04-13 05:51:00,"If you're used to feeding your dog and you can't go outside, you're going to continue to be ordering from the place that makes it easy.",0.058269649744033813,0.037216514348983765,0.9045138359069824,neutral,0.02105313539505005
+209,2020-04-13 05:51:00,"Additionally, if you're buying a lot of pet food, especially dog food and you have larger dogs, it's really heavy, and getting that stuff delivered is something that once people start getting used to, they're probably going to stick around and continue to do.",0.08215221017599106,0.007944352924823761,0.9099034070968628,neutral,0.0742078572511673
+210,2020-04-13 05:51:00,"So, I think that that really works in their favor.",0.24780161678791046,0.012915238738059998,0.7392832040786743,neutral,0.23488637804985046
+211,2020-04-13 05:51:00,"And the other thing that I think is kind of interesting is, if you're thinking, kind of, prolonged downturn with coronavirus, the datapoint that I saw that kind of hammered things home for me was, this research done by Mintel -- they're a London-based research firm -- and they found that in 2018, 51% of pet care buyers that they surveyed would rather cut back spending on themselves rather than their pets.",0.06759633868932724,0.42697423696517944,0.5054294466972351,neutral,-0.3593778908252716
+212,2020-04-13 05:51:00,"And I know Emily Flippen, on past Industry Focus shows, has talked about how we're basically taking pets and turning them into children [laughs] and that we're --
+
+Kline: ... yeah, that's true until you have children.",0.05700841546058655,0.017288457602262497,0.9257031679153442,neutral,0.03971995785832405
+213,2020-04-13 05:51:00,"[laughs] I have two cats, I like them very much, they're less important now that I have a teenager.",0.043318260461091995,0.055969398468732834,0.9007123708724976,neutral,-0.012651138007640839
+214,2020-04-13 05:51:00,"Like, from the point he was born pretty much.",0.056164421141147614,0.014885162934660912,0.9289504289627075,neutral,0.04127925634384155
+215,2020-04-13 05:51:00,"Lewis: And there's a hierarchy there for sure, Dan, you know.",0.11788073927164078,0.038594603538513184,0.8435246348381042,neutral,0.0792861357331276
+216,2020-04-13 05:51:00,"[laughs] But the point that I'm trying to make is, and the research seems to back this up, is just that, people are willing to continue to spoil pets, people are willing to continue to buy treats for their pets as things maybe become a little bit tighter.",0.2526583671569824,0.017168540507555008,0.7301730513572693,neutral,0.2354898303747177
+217,2020-04-13 05:51:00,And they might even decide to do that instead of buying that next thing for themselves.,0.12066670507192612,0.07339951395988464,0.8059338331222534,neutral,0.04726719111204147
+218,2020-04-13 05:51:00,"Kline: Yeah, I also think there's another trend worth noting that's probably going to be good for Chewy.",0.49426859617233276,0.021337490528821945,0.4843938648700714,positive,0.4729311168193817
+219,2020-04-13 05:51:00,All of the available foster dogs here in Palm Beach County have been taken.,0.03766213357448578,0.783423125743866,0.17891474068164825,negative,-0.745760977268219
+220,2020-04-13 05:51:00,"Obviously, there was a need, some of the facilities couldn't run.",0.057709384709596634,0.6298142671585083,0.3124763071537018,negative,-0.5721048712730408
+221,2020-04-13 05:51:00,"A lot of people who foster a dog, that didn't have a dog, that took it in as something to do for this stay-at-home period, they're going to fall in love with that dog and keep the dog.",0.09738952666521072,0.018415141850709915,0.8841953277587891,neutral,0.07897438108921051
+222,2020-04-13 05:51:00,"So, the number of pet ownership, I actually feel like, maybe it's going to increase dramatically.",0.8830855488777161,0.013974394649267197,0.10293997824192047,positive,0.869111180305481
+223,2020-04-13 05:51:00,"And pets, unlike people -- like, if Dylan and I are going to a pizza place and it's closed, we'll just go to a different pizza place, it is not that big a deal.",0.02375069633126259,0.03712354227900505,0.9391258358955383,neutral,-0.013372845947742462
+224,2020-04-13 05:51:00,"If I try to feed my cat a different cat food, that does not go well, that could be a rough transition, if like your cat food stops being manufactured or something.",0.043553877621889114,0.6302468776702881,0.3261992037296295,negative,-0.5866929888725281
+225,2020-04-13 05:51:00,"Dogs are a little less picky, but there's often health reasons why you're serving a certain food.",0.06583768129348755,0.0755876675248146,0.8585746884346008,neutral,-0.009749986231327057
+226,2020-04-13 05:51:00,"And it can be frustrating to go to a grocery store and know that you need diet hairball control IAMS and they don't quite have that, and you can't get something else, you have to go to three other stores or order online or whatever it is.",0.044976603239774704,0.2970533072948456,0.6579700708389282,neutral,-0.2520767152309418
+227,2020-04-13 05:51:00,"So, this is really, like a pretty good service.",0.5148360729217529,0.012665055692195892,0.47249892354011536,positive,0.5021710395812988
+228,2020-04-13 05:51:00,"I equate it to me, we get water delivered, the water is not drinkable in my building, water is very heavy.",0.016808370128273964,0.029360229149460793,0.9538314342498779,neutral,-0.012551859021186829
+229,2020-04-13 05:51:00,"So, we get bottles of water delivered.",0.07361295074224472,0.006083167623728514,0.9203039407730103,neutral,0.06752978265285492
+230,2020-04-13 05:51:00,"And it is not overly expensive, but it's way more than buying it at the grocery store, but it's an amazing service because who wants to lug dog food or bottles of water or whatever it is.",0.22427868843078613,0.011171107180416584,0.7645502090454102,neutral,0.21310758590698242
+231,2020-04-13 05:51:00,"So, I think this will be sustainable growth and it will take some of this business away from Amazon.",0.5423448085784912,0.030653266236186028,0.427001953125,positive,0.5116915702819824
+232,2020-04-13 05:51:00,"Not an important part of Amazon's business in the greater scheme of things, but there was a lot of reason why Amazon customers would just buy this stuff there, and now they're Chewy customers, and they'll probably stay, at least some of them.",0.05508115142583847,0.0843714252114296,0.8605474829673767,neutral,-0.029290273785591125
+233,2020-04-13 05:51:00,"Lewis: So, if we're looking out a couple of years, Dan, Wayfair or Chewy, who do you like more in the situation?",0.0276817437261343,0.022260727360844612,0.9500575065612793,neutral,0.005421016365289688
+234,2020-04-13 05:51:00,"Kline: Yeah, I don't think there's a question, I think it's Chewy.",0.04385233670473099,0.13363319635391235,0.8225144743919373,neutral,-0.08978085964918137
+235,2020-04-13 05:51:00,"And there's very few companies that this, you know, horrible situation we're in was a blessing in disguise, but I don't know that Chewy necessarily made it without something like this happening.",0.07158393412828445,0.2232368439435959,0.7051792740821838,neutral,-0.15165290236473083
+236,2020-04-13 05:51:00,"Because the marketing spend to get people to switch from Amazon is so expensive and it's such a long-term play, you know, waiting for people to miss an order and have a need or whatever it is.",0.043180812150239944,0.20892247557640076,0.747896671295166,neutral,-0.1657416671514511
+237,2020-04-13 05:51:00,This jump-starts that to maybe sustainable levels.,0.8368434906005859,0.017018994316458702,0.146137535572052,positive,0.8198245167732239
+238,2020-04-13 05:51:00,"I mean, I haven't dug into their operating costs all that much, but once you have the supply chain, selling more is a really good way to get to profitability.",0.4785177409648895,0.01689000427722931,0.50459223985672,neutral,0.461627721786499
+239,2020-04-13 05:51:00,"Lewis: Yeah, I think both of these businesses are on to something.",0.25166621804237366,0.013180711306631565,0.735153079032898,neutral,0.23848550021648407
+240,2020-04-13 05:51:00,"And you know, they've found a nice space to operate in, they've clearly connected with customers.",0.7022626996040344,0.011945867910981178,0.28579142689704895,positive,0.6903168559074402
+241,2020-04-13 05:51:00,"Interestingly enough, both businesses have almost identical gross margins for the last 12 months, which I thought was kind of funny.",0.1449422538280487,0.06106974557042122,0.7939879894256592,neutral,0.08387251198291779
+242,2020-04-13 05:51:00,"I think the road ahead is probably a little bit easier for Chewy in some ways, there's a little bit more going for them right now.",0.3151617646217346,0.022119302302598953,0.6627189517021179,neutral,0.29304245114326477
+243,2020-04-13 05:51:00,"I've generally stayed away from retailers and online retailers, aside from the massive marketplace businesses, like Amazon and MercadoLibre, but I think of the two, Chewy is probably my pick.",0.03532031923532486,0.02484538033604622,0.9398343563079834,neutral,0.01047493889927864
+244,2020-04-13 05:51:00,Kline: Yeah.,0.17950224876403809,0.05111280828714371,0.7693848609924316,neutral,0.12838944792747498
+245,2020-04-13 05:51:00,"And in the next 18 months where, whatever the time period is, where a lot of people are going to be financially constrained.",0.022332873195409775,0.0880456492304802,0.8896214365959167,neutral,-0.06571277976036072
+246,2020-04-13 05:51:00,"Again, you can't not feed your pet, that's like a core rule of what you're supposed to do as a pet owner, feed them.",0.031697507947683334,0.04685572162270546,0.9214467406272888,neutral,-0.015158213675022125
+247,2020-04-13 05:51:00,Lewis: That's like the rule.,0.01920466125011444,0.02526271529495716,0.9555326700210571,neutral,-0.00605805404484272
+248,2020-04-13 05:51:00,"[laughs]
+
+Kline: [laughs] Yeah, you can't skip heart medicine or the other things pet needs.",0.051271308213472366,0.03420652449131012,0.9145221710205078,neutral,0.017064783722162247
+249,2020-04-13 05:51:00,"You know, Dylan, you just bought a house, but if you have to go buy -- and I did this, when we first bought a vacation home, I scrounged furniture on Facebook and other places, and I've since replaced some of it, but people can do that.",0.05952035263180733,0.053117796778678894,0.8873618841171265,neutral,0.006402555853128433
+250,2020-04-13 05:51:00,"You can get a cheap couch, you can't go to your neighbor and get cheap pet food or heart pills or if you can, that's very dangerous.",0.04833252727985382,0.40449395775794983,0.5471735596656799,neutral,-0.3561614155769348
+251,2020-04-13 05:51:00,"[laughs] So, don't do that.",0.04890616238117218,0.1478501409292221,0.8032436966896057,neutral,-0.09894397854804993
+252,2020-04-13 05:51:00,"So, yeah, I see Chewy as the short-term and long-term better play.",0.1833326667547226,0.018820127472281456,0.7978471517562866,neutral,0.1645125448703766
+253,2020-04-13 05:51:00,"Lewis: Yeah, I think it's nice to agree.",0.26228564977645874,0.04296357184648514,0.6947507262229919,neutral,0.2193220853805542
+254,2020-04-13 05:51:00,"And you know, I'd love to hear from folks on this one too.",0.12288358807563782,0.008708314038813114,0.8684081435203552,neutral,0.11417527496814728
+255,2020-04-13 05:51:00,"I know Wayfair is a company that has been discussed plenty, I know Chewy has been discussed plenty.",0.12132678925991058,0.010221199132502079,0.8684520125389099,neutral,0.11110559105873108
+256,2020-04-13 05:51:00,"Folks, if you have thoughts on this one, Wayfair versus Chewy, write into the show IndustryFocus@Fool.com and let us know.",0.03289475291967392,0.022037066519260406,0.9450681209564209,neutral,0.010857686400413513
+257,2020-04-13 05:51:00,"Dan, thanks so much for hopping on today's show.",0.3508981764316559,0.04075060039758682,0.6083512306213379,neutral,0.31014758348464966
+258,2020-04-13 05:51:00,"Kline: Hey, we're doing it again in a couple of minutes, so.",0.09035541117191315,0.050643954426050186,0.859000563621521,neutral,0.03971145674586296
+259,2020-04-13 05:51:00,"Lewis: Yeah, for members that have not already checked it out.",0.027007030323147774,0.018169358372688293,0.9548236727714539,neutral,0.00883767195045948
+260,2020-04-13 05:51:00,"We have our live chat going during the day, you can get over to that with LiveChat.Fool.com if you want to check that out.",0.03254245966672897,0.020712755620479584,0.9467448592185974,neutral,0.01182970404624939
+261,2020-04-13 05:51:00,"Sorry for nonmembers, it's behind the paywall.",0.05292413383722305,0.27661725878715515,0.6704586148262024,neutral,-0.2236931324005127
+262,2020-04-13 05:51:00,"But Dan and I are going to be doing a live Q&A later --
+
+Lewis: Reason to join, there you go.",0.11690541356801987,0.024739814922213554,0.8583548069000244,neutral,0.09216559678316116
+263,2020-04-13 05:51:00,"Kline: Really, any subscription gets you in, so, you know, join and tell them we sent you.",0.07383796572685242,0.0156260933727026,0.9105359315872192,neutral,0.05821187049150467
+264,2020-04-13 05:51:00,Lewis: Yeah.,0.14877764880657196,0.07359814643859863,0.7776241898536682,neutral,0.07517950236797333
+265,2020-04-13 05:51:00,"And you know I'm going to drop the vanity URL, why not, Dan, IF.Fool.com, if that's something you're interested in, we have a an offer for Stock Advisor there for nonmembers, if it's something that, you know, you're at home, you're interested in learn a little bit more about stocks and you've got some time on your hands.",0.0816730186343193,0.052320826798677444,0.8660061955451965,neutral,0.02935219183564186
+266,2020-04-13 05:51:00,"But, yeah, Dan, I'll see you on the live chat in a little bit.",0.06743689626455307,0.03253889083862305,0.9000241756439209,neutral,0.03489800542593002
+267,2020-04-13 05:51:00,Kline: I'll see you in a bit.,0.02641214057803154,0.042819611728191376,0.9307681918144226,neutral,-0.016407471150159836
+268,2020-04-13 05:51:00,"Lewis: I'm going to prepare some notes and have a little lunch, but I'll see you there soon.",0.031331662088632584,0.03960402309894562,0.9290642738342285,neutral,-0.008272361010313034
+269,2020-04-13 05:51:00,[laughs] Alright.,0.23918797075748444,0.030768636614084244,0.7300434708595276,neutral,0.2084193378686905
+270,2020-04-13 05:51:00,"As always, people on the program may own companies discussed on the show, and The Motley Fool may have formal recommendations for or against stocks mentioned, so don't buy or sell anything based solely on what you hear.",0.012173633091151714,0.017053179442882538,0.9707731604576111,neutral,-0.0048795463517308235
+271,2020-04-13 05:51:00,Thanks to Austin Morgan for all his work behind the glass today.,0.5097375512123108,0.019959667697548866,0.4703027606010437,positive,0.48977789282798767
+272,2020-04-13 05:51:00,"For Dan Kline, I'm Dylan Lewis, thanks for listening, and Fool on!",0.14324046671390533,0.03453300893306732,0.8222265243530273,neutral,0.10870745778083801
+273,2020-04-13 05:51:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+274,2020-04-13 05:51:00,"Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to its CEO, Mark Zuckerberg, is a member of The Motley Fool's board of directors.",0.02931261993944645,0.019226934760808945,0.9514604210853577,neutral,0.010085685178637505
+275,2020-04-13 05:51:00,Daniel B. Kline owns shares of Facebook and Starbucks.,0.020215019583702087,0.01239946112036705,0.9673855304718018,neutral,0.007815558463335037
+276,2020-04-13 05:51:00,"Dylan Lewis owns shares of Amazon, Facebook, and MercadoLibre.",0.022414058446884155,0.012213613837957382,0.9653723835945129,neutral,0.010200444608926773
+277,2020-04-13 05:51:00,"The Motley Fool owns shares of and recommends Amazon, Facebook, Home Depot, MercadoLibre, Starbucks, and Wayfair.",0.026554562151432037,0.018252572044730186,0.9551928639411926,neutral,0.008301990106701851
+278,2020-04-13 05:51:00,"The Motley Fool recommends Costco Wholesale and Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot, short January 2021 $210 calls on Home Depot, short January 2022 $1940 calls on Amazon, and long January 2022 $1920 calls on Amazon.",0.018155105412006378,0.02096293494105339,0.9608819484710693,neutral,-0.0028078295290470123
+279,2020-04-13 05:51:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

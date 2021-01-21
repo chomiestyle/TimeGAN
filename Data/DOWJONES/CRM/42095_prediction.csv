@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-25 15:16:00,"Looking at the sectors faring best as of midday Tuesday, shares of Healthcare companies are outperforming other sectors, higher by 0.5%.",0.7992977499961853,0.16693423688411713,0.033768102526664734,positive,0.632363498210907
+1,2020-08-25 15:16:00,"Within that group, Amgen Inc (Symbol: AMGN) and Regeneron Pharmaceuticals, Inc. (Symbol: REGN) are two large stocks leading the way, showing a gain of 5.8% and 3.2%, respectively.",0.954017698764801,0.024487266317009926,0.02149500884115696,positive,0.9295304417610168
+2,2020-08-25 15:16:00,"Among healthcare ETFs, one ETF following the sector is the Health Care Select Sector SPDR ETF (Symbol: XLV), which is up 0.6% on the day, and up 5.75% year-to-date.",0.9419060945510864,0.024129975587129593,0.03396400064229965,positive,0.9177761077880859
+3,2020-08-25 15:16:00,"Amgen Inc, meanwhile, is up 5.33% year-to-date, and Regeneron Pharmaceuticals, Inc. is up 63.41% year-to-date.",0.9177582859992981,0.025370657444000244,0.05687103047966957,positive,0.8923876285552979
+4,2020-08-25 15:16:00,"Combined, AMGN and REGN make up approximately 5.2% of the underlying holdings of XLV.",0.013599446974694729,0.007767316419631243,0.9786332249641418,neutral,0.005832130555063486
+5,2020-08-25 15:16:00,"The next best performing sector is the Technology & Communications sector, higher by 0.1%.",0.9266810417175293,0.039791859686374664,0.03352715075016022,positive,0.8868891596794128
+6,2020-08-25 15:16:00,"Among large Technology & Communications stocks, Salesforce.com Inc (Symbol: CRM) and Advanced Micro Devices Inc (Symbol: AMD) are the most notable, showing a gain of 4.4% and 2.7%, respectively.",0.9471806883811951,0.028576543554663658,0.02424285188317299,positive,0.9186041355133057
+7,2020-08-25 15:16:00,"One ETF closely tracking Technology & Communications stocks is the Technology Select Sector SPDR ETF (XLK), which is up 0.1% in midday trading, and up 30.57% on a year-to-date basis.",0.9448761940002441,0.021684639155864716,0.033439137041568756,positive,0.9231915473937988
+8,2020-08-25 15:16:00,"Salesforce.com Inc, meanwhile, is up 33.80% year-to-date, and Advanced Micro Devices Inc is up 86.12% year-to-date.",0.9263505339622498,0.026691056787967682,0.04695843532681465,positive,0.8996594548225403
+9,2020-08-25 15:16:00,"Combined, CRM and AMD make up approximately 3.7% of the underlying holdings of XLK.",0.014056726358830929,0.00789564661681652,0.9780476689338684,neutral,0.006161079742014408
+10,2020-08-25 15:16:00,"Comparing these stocks and ETFs on a trailing twelve month basis, below is a relative stock price performance chart, with each of the symbols shown in a different color as labeled in the legend at the bottom:
+
+Here's a snapshot of how the S&P 500 components within the various sectors are faring in afternoon trading on Tuesday.",0.0173103678971529,0.03388013318181038,0.9488095045089722,neutral,-0.01656976528465748
+11,2020-08-25 15:16:00,"As you can see, two sectors are up on the day, while six sectors are down.",0.07372409105300903,0.3878173232078552,0.5384585857391357,neutral,-0.3140932321548462
+12,2020-08-25 15:16:00,10 ETFs With Stocks That Insiders Are Buying »,0.12379235774278641,0.02210264466702938,0.8541050553321838,neutral,0.10168971121311188

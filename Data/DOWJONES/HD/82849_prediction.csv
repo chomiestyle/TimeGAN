@@ -1,0 +1,72 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-27 07:19:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-07-27 07:19:00,"Today's Research Daily features new research reports on 16 major stocks, including Amazon (AMZN), Facebook (FB) and Thermo Fisher (TMO).",0.04616662114858627,0.008452706038951874,0.9453807473182678,neutral,0.0377139151096344
+2,2018-07-27 07:19:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-07-27 07:19:00,"You can see all of today's research reports here >>>
+
+Amazon 's shares have outperformed the broader market year to date by a wide margin.",0.8735080361366272,0.08637818694114685,0.04011375084519386,positive,0.7871298789978027
+4,2018-07-27 07:19:00,(the stock is up +54.6% vs. the +6.6% gain for the S&P 500 as a whole).,0.9422648549079895,0.031003635376691818,0.02673153206706047,positive,0.9112612009048462
+5,2018-07-27 07:19:00,Amazon reported strong second-quarter earnings driven by robust performance from Amazon Web Services (AWS) and retail.,0.9531723856925964,0.017930667847394943,0.028896985575556755,positive,0.93524169921875
+6,2018-07-27 07:19:00,Advertising also had a strong growth in the quarter.,0.9441207051277161,0.018968401476740837,0.03691085800528526,positive,0.9251523017883301
+7,2018-07-27 07:19:00,"Moreover, retail continues to grow, driven by the Prime program, increasing engagement of Prime customers and solid third-party selection.",0.9324936866760254,0.013901735655963421,0.053604606539011,positive,0.9185919761657715
+8,2018-07-27 07:19:00,The Zacks analyst thinks Amazon is benefiting from an expanding AWS enterprise customer base.,0.9365227818489075,0.01406574435532093,0.049411479383707047,positive,0.9224570393562317
+9,2018-07-27 07:19:00,"Notably, AWS generates much higher margins than retail, positively impacting Amazon's profitability.",0.4281187653541565,0.503056526184082,0.06882474571466446,negative,-0.07493776082992554
+10,2018-07-27 07:19:00,"Additionally, Amazon's expanding distribution footprint bodes well for Prime.",0.9343521595001221,0.01437890250235796,0.05126890167593956,positive,0.9199732542037964
+11,2018-07-27 07:19:00,"However, an anticipated increase in fulfillment cost prior to the holiday season can put margins under pressure.",0.0794852077960968,0.884117066860199,0.03639768809080124,negative,-0.8046318292617798
+12,2018-07-27 07:19:00,"Moreover, intensifying competition in the cloud computing market from the likes of Microsoft Azure and Google cloud is a significant headwind.",0.021559830754995346,0.9497498869895935,0.028690287843346596,negative,-0.9281900525093079
+13,2018-07-27 07:19:00,(You can read the full research report on Amazon here >>> ).,0.017570074647665024,0.016651075333356857,0.9657788276672363,neutral,0.0009189993143081665
+14,2018-07-27 07:19:00,"Shares of Facebook have underperformed the S&P 500 index over the last three months, gaining +2.4% vs. +7.7%.",0.22820615768432617,0.7519179582595825,0.01987585611641407,negative,-0.5237118005752563
+15,2018-07-27 07:19:00,Facebook's second-quarter results were hurt by a slowing user base growth rate primarily due to the increased concerns over data privacy.,0.020664887502789497,0.9662691950798035,0.013065880164504051,negative,-0.9456043243408203
+16,2018-07-27 07:19:00,"Moreover, the company's cautious guidance hurt investor's confidence.",0.05753881856799126,0.9216414093971252,0.020819751545786858,negative,-0.8641026020050049
+17,2018-07-27 07:19:00,Facebook now expects expenses to increase at a faster rate as compared with revenues in 2019.,0.9154102206230164,0.014790620654821396,0.06979913264513016,positive,0.900619626045227
+18,2018-07-27 07:19:00,"Nevertheless, the Zacks analyst thinks the company's cautious guidance reflects conservatism.",0.10410192608833313,0.6641526818275452,0.23174531757831573,negative,-0.5600507259368896
+19,2018-07-27 07:19:00,"Although aggressive investments would definitely hurt profitability in the near term, the initiatives related to improving ad transparency, removal of fake accounts and curbing fake news are prudent to ensure healthy growth in the long haul.",0.9154466986656189,0.023977234959602356,0.060576070100069046,positive,0.8914694786071777
+20,2018-07-27 07:19:00,"Moreover, the aggressive spending on securing the platform would surely help in rebounding user growth, going forward.",0.9465369582176208,0.016276240348815918,0.03718682378530502,positive,0.9302607178688049
+21,2018-07-27 07:19:00,"However, slower Stories and Messenger monetization would hurt Facebook's top-line growth in the near term.",0.022169647738337517,0.9546322822570801,0.023198029026389122,negative,-0.9324626326560974
+22,2018-07-27 07:19:00,Increasing competition is also a concern.,0.2502148151397705,0.01323926541954279,0.7365459203720093,neutral,0.2369755506515503
+23,2018-07-27 07:19:00,(You can read the full research report on Facebook here >>> ).,0.01812765747308731,0.016815172508358955,0.9650571942329407,neutral,0.0013124849647283554
+24,2018-07-27 07:19:00,Thermo Fisher 's shares have outperformed the Zacks Medical Instruments industry over the last year (+33% vs. -5.9%).,0.5959377288818359,0.37714362144470215,0.026918653398752213,positive,0.2187941074371338
+25,2018-07-27 07:19:00,Thermo Fisher ended the second quarter on a promising note.,0.936719536781311,0.02418135106563568,0.03909914195537567,positive,0.9125381708145142
+26,2018-07-27 07:19:00,The Zacks analyst likes the company's solid international performance on strong growth in China.,0.9250250458717346,0.01898123510181904,0.055993739515542984,positive,0.9060438275337219
+27,2018-07-27 07:19:00,Thermo Fisher also saw strength in all end markets categorized either by customer type or geography.,0.7241320610046387,0.011761105619370937,0.264106810092926,positive,0.7123709321022034
+28,2018-07-27 07:19:00,A series of product launches along with major progress in precision medicine initiatives aided the company's performance.,0.9470958709716797,0.015359429642558098,0.037544697523117065,positive,0.9317364692687988
+29,2018-07-27 07:19:00,"Moreover, the Patheon buyout has been substantially adding an impetus to the company's value proposition for biopharma customers.",0.9270076155662537,0.014986183494329453,0.05800613388419151,positive,0.9120214581489563
+30,2018-07-27 07:19:00,"Also, Thermo Fisher's initiative to buy Gatan in order to boost electron microscopy suite buoys optimism.",0.8906750082969666,0.024321164935827255,0.0850038155913353,positive,0.8663538694381714
+31,2018-07-27 07:19:00,"On the flip side, in the reported quarter, Thermo Fisher's business segments were impacted by unfavorable business mix.",0.019256025552749634,0.9618116021156311,0.01893242448568344,negative,-0.9425555467605591
+32,2018-07-27 07:19:00,"Also, competitive headwinds and rising operating costs continue to pose a threat.",0.03147432580590248,0.9174156188964844,0.05111006274819374,negative,-0.8859412670135498
+33,2018-07-27 07:19:00,(You can read the full research report on Thermo Fisher here >>> ).,0.013103400357067585,0.01342511922121048,0.973471462726593,neutral,-0.00032171886414289474
+34,2018-07-27 07:19:00,"Other noteworthy reports we are featuring today include Home Depot (HD), Sherwin-Williams (SHW) and Progressive Corp (PGR).",0.035685423761606216,0.005660143215209246,0.9586544632911682,neutral,0.030025281012058258
+35,2018-07-27 07:19:00,"Zacks names 5 companies poised to ride a medical breakthrough that is targeting cures for leukemia, AIDS, muscular dystrophy, hemophilia, and other conditions.",0.7109310626983643,0.014803656376898289,0.274265319108963,positive,0.6961274147033691
+36,2018-07-27 07:19:00,New products in this field are already generating substantial revenue and even more wondrous treatments are in the pipeline.,0.8527401685714722,0.013783727772533894,0.1334761381149292,positive,0.8389564156532288
+37,2018-07-27 07:19:00,Early investors could realize exceptional profits.,0.8721199035644531,0.01637672632932663,0.11150334030389786,positive,0.8557431697845459
+38,2018-07-27 07:19:00,"Click here to see the 5 stocks >>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.12302824854850769,0.008328649215400219,0.8686431050300598,neutral,0.1146996021270752
+39,2018-07-27 07:19:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Preview reports.,0.025165576487779617,0.008906112052500248,0.9659282565116882,neutral,0.016259465366601944
+40,2018-07-27 07:19:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+The Zacks analyst thinks Sherwin-Williams should benefit from synergies of the Valspar acquisition and its focus on growth through expansion of retail operations at its core Americas Group segment.",0.9263210892677307,0.01275370642542839,0.060925282537937164,positive,0.9135673642158508
+41,2018-07-27 07:19:00,"Per the Zacks analyst, Progressive is set to grow on robust policies in force and retention ratio driving premiums higher given its multi-product portfolio and leadership especially in personal auto.",0.9474387764930725,0.016274480149149895,0.03628668561577797,positive,0.9311643242835999
+42,2018-07-27 07:19:00,"Per the Zacks analyst, Advanced Micro's release of Radeon RX Vega family of GPUs and alliance with companies like Baidu, Amazon, Tencent, Microsoft and JD.com will drive the top and bottom line.",0.8586341738700867,0.015293063595890999,0.1260727494955063,positive,0.8433411121368408
+43,2018-07-27 07:19:00,The Zacks analyst likes the growth in passenger revenues at United Continental.,0.9302854537963867,0.016293799504637718,0.0534207783639431,positive,0.9139916300773621
+44,2018-07-27 07:19:00,Its fleet modernization efforts are encouraging too.,0.9138649702072144,0.0143801374360919,0.07175491750240326,positive,0.8994848132133484
+45,2018-07-27 07:19:00,"Per the Zacks analyst, strong traction of Cintas' Uniform Rental & Facility Services segment should continue to drive its revenues.",0.940667986869812,0.014030448161065578,0.045301467180252075,positive,0.9266375303268433
+46,2018-07-27 07:19:00,"Per the Zacks analyst, TE Connectivity's strong performing transportation and Industrial solutions continue to drive its top-line growth.",0.9294285774230957,0.01364223100244999,0.056929104030132294,positive,0.9157863259315491
+47,2018-07-27 07:19:00,"The Zacks analyst believes that Hasbro's gaming subscription service, Hasbro Gaming Crate will aid profits.",0.9473994374275208,0.017755305394530296,0.03484528511762619,positive,0.9296441078186035
+48,2018-07-27 07:19:00,A. O. Smith (AOS) Gains From Solid Demand in China & U.S.,0.9469223618507385,0.027170799672603607,0.025906803086400032,positive,0.9197515845298767
+49,2018-07-27 07:19:00,"Per the Zacks analyst, A. O. Smith gains from strengthening demand for boilers and commercial water heaters in the United States.",0.9513450860977173,0.018675148487091064,0.02997969649732113,positive,0.9326699376106262
+50,2018-07-27 07:19:00,Product demand is also robust in China.,0.9330784678459167,0.015839597210288048,0.05108191445469856,positive,0.9172388911247253
+51,2018-07-27 07:19:00,The Zacks analyst thinks the company should gain from strong demand for steel across automotive and construction markets as well as expanded shipping capabilities through the Heartland acquisition.,0.9517711997032166,0.014905502088367939,0.0333232581615448,positive,0.9368656873703003
+52,2018-07-27 07:19:00,PACCAR's U.S. Class 8 truck retail sales are rising.,0.9496539831161499,0.01727413386106491,0.03307186812162399,positive,0.9323798418045044
+53,2018-07-27 07:19:00,"Per the Zacks analyst, demand for trucks is rising due to strong economic growth, high consumer spending and heightened construction activities.",0.9472668766975403,0.017197223380208015,0.035535864531993866,positive,0.930069625377655
+54,2018-07-27 07:19:00,"Per the Zacks analyst, Liberty's non-core office assets sale will have a dilutive impact on its near-term results.",0.04262250289320946,0.6172210574150085,0.3401564955711365,negative,-0.5745985507965088
+55,2018-07-27 07:19:00,"Also, high supply of industrial assets and protectionist trade policies are concerns.",0.04138156771659851,0.16376414895057678,0.7948542237281799,neutral,-0.12238258123397827
+56,2018-07-27 07:19:00,"Per the Zacks analyst, softness in chemicals, fertilizer, mulch and live goods in the garden segment have been hurting comps and sales.",0.019934430718421936,0.9677708745002747,0.01229465939104557,negative,-0.9478364586830139
+57,2018-07-27 07:19:00,This might weigh on the company's margins and profitability.,0.04770677536725998,0.22735290229320526,0.7249403595924377,neutral,-0.17964613437652588
+58,2018-07-27 07:19:00,"The Zacks analyst is concerned over Whiting Petroleum's considerable long-term debt load and unscheduled gas plant maintenance by a third-party operator, which will reduce second quarter volumes.",0.02070602774620056,0.9669354557991028,0.012358596548438072,negative,-0.9462294578552246
+59,2018-07-27 07:19:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+60,2018-07-27 07:19:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+61,2018-07-27 07:19:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+62,2018-07-27 07:19:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-08-09 07:48:00,We are finally winding down a rather solid second-quarter earnings season.,0.8410029411315918,0.045906100422143936,0.11309097707271576,positive,0.7950968146324158
+1,2018-08-09 07:48:00,"But despite the dwindling number of reports, there are still plenty of opportunities before the season comes to a close.",0.6087241172790527,0.03680512681603432,0.35447072982788086,positive,0.5719189643859863
+2,2018-08-09 07:48:00,One such opportunity is Home Depot (NYSE: HD ).,0.13422885537147522,0.012327698990702629,0.853443443775177,neutral,0.12190115451812744
+3,2018-08-09 07:48:00,Home Depot has been on an impressive run during the past couple of months.,0.9426150918006897,0.0171415526419878,0.04024334251880646,positive,0.9254735112190247
+4,2018-08-09 07:48:00,"Driven by a housing market that boomed in the first five months of the year, HD shares are up more than 16% since April.",0.9448966383934021,0.018654590472579002,0.03644874691963196,positive,0.9262420535087585
+5,2018-08-09 07:48:00,HD stock is even flirting with 52-week high territory and the psychologically important $200 region.,0.760459840297699,0.059023067355155945,0.18051710724830627,positive,0.7014367580413818
+6,2018-08-09 07:48:00,Next week's second-quarter earnings report could be the catalyst that sends HD stock back above $200.,0.7029090523719788,0.15664108097553253,0.1404499113559723,positive,0.5462679862976074
+7,2018-08-09 07:48:00,"Heading into the report, analysts are projecting earnings to rise more than 26% year-over-year to $2.84-per-share.",0.9562486410140991,0.019373206421732903,0.02437809482216835,positive,0.9368754625320435
+8,2018-08-09 07:48:00,Revenue is expected to rise 6.8% to $30.01 billion.,0.9510964751243591,0.016752367839217186,0.032151177525520325,positive,0.9343441128730774
+9,2018-08-09 07:48:00,"However, there is a caveat to this rosy backdrop.",0.2569800317287445,0.01796592026948929,0.7250540852546692,neutral,0.23901411890983582
+10,2018-08-09 07:48:00,The June new home sales data released last month.,0.021859632804989815,0.025931701064109802,0.9522086977958679,neutral,-0.0040720682591199875
+11,2018-08-09 07:48:00,"According to the Commerce Department, new home sales plunged 5.3% to an eight-month low.",0.023658063262701035,0.9647510647773743,0.011590876616537571,negative,-0.9410930275917053
+12,2018-08-09 07:48:00,"There are several factors behind this slowdown, including rising material costs due to tariffs and rising interest rates, which have pushed mortgage rates steadily higher.",0.3161637783050537,0.30041173100471497,0.3834244906902313,neutral,0.015752047300338745
+13,2018-08-09 07:48:00,"As I warned back in May , the end of the Fed's accomodative monetary policy is slowly killing the housing market.",0.05701572448015213,0.7643464207649231,0.1786378175020218,negative,-0.7073307037353516
+14,2018-08-09 07:48:00,"It started with home builders, and has slowly seeped into companies like Home Depot.",0.07548213750123978,0.007104112766683102,0.9174137115478516,neutral,0.0683780238032341
+15,2018-08-09 07:48:00,The dilemma for HD stock investors is that Home Depot will more than likely post better than expected earnings due to the lag between new home sales and the impact on home owners buying new home goods.,0.3826543986797333,0.5755695700645447,0.041775982826948166,negative,-0.1929151713848114
+16,2018-08-09 07:48:00,Guidance will likely be the big issue for HD stock.,0.03187383711338043,0.00909822154790163,0.9590279459953308,neutral,0.022775616496801376
+17,2018-08-09 07:48:00,This brings to mind the potential for $200 to act as a spoiler for any post-earnings Home Depot stock rally.,0.15286538004875183,0.43131470680236816,0.41581985354423523,negative,-0.27844932675361633
+18,2018-08-09 07:48:00,Will the market bear $200 for the stock?,0.0539047010242939,0.027547013014554977,0.9185482859611511,neutral,0.026357688009738922
+19,2018-08-09 07:48:00,Will guidance keep investors from pushing the shares any higher?,0.20307029783725739,0.22976170480251312,0.5671679973602295,neutral,-0.026691406965255737
+20,2018-08-09 07:48:00,Sentiment on HD stock is quite bullish right now.,0.5755594968795776,0.02281726896762848,0.4016231894493103,positive,0.5527422428131104
+21,2018-08-09 07:48:00,"According to Thomson/First Call, 24 of the 33 analysts following HD rate the shares a ""buy"" or better.",0.4990066885948181,0.05709461867809296,0.44389861822128296,positive,0.44191205501556396
+22,2018-08-09 07:48:00,The 12-month price target rests at $212.55.,0.07473179697990417,0.03603075072169304,0.8892374634742737,neutral,0.038701046258211136
+23,2018-08-09 07:48:00,"While there is little room for upgrades or price-target increases, both readings could be in danger of cuts if guidance falls flat.",0.04908217117190361,0.8975402116775513,0.0533776693046093,negative,-0.8484580516815186
+24,2018-08-09 07:48:00,"As for the options pits, August implied volatility is pricing in a 4.5% move for HD stock following earnings.",0.6602193713188171,0.1708681434392929,0.16891251504421234,positive,0.48935121297836304
+25,2018-08-09 07:48:00,This puts the upper bound at about $207 and the lower bound at $189.,0.037144050002098083,0.0649336650967598,0.8979222774505615,neutral,-0.027789615094661713
+26,2018-08-09 07:48:00,"Bear Put Spread: While Home Depot will likely beat quarterly expectations, guidance could fall flat given recent developments in the housing sector.",0.08157847821712494,0.8885185122489929,0.029902996495366096,negative,-0.8069400191307068
+27,2018-08-09 07:48:00,Any weakness here would confirm the pullback following the June housing report and lead to additional selling.,0.15347076952457428,0.6603415608406067,0.18618766963481903,negative,-0.5068708062171936
+28,2018-08-09 07:48:00,Traders looking to capitalize on a post earnings drop in Home Depot stock might want to consider a Sept $190/$195 bear put spread.,0.11135760694742203,0.23278900980949402,0.6558533906936646,neutral,-0.12143140286207199
+29,2018-08-09 07:48:00,"At last check, this spread was offered at $1.60, or $160-per-pair-of-contracts.",0.09234625846147537,0.024065712466835976,0.8835880160331726,neutral,0.06828054785728455
+30,2018-08-09 07:48:00,"Breakeven lies at $193.40, while a maximum profit of $3.40, or $340-per-pair-of-contracts - a potential 112% return - is possible if HD stock closes at or below $190 when September options expire.",0.7849123477935791,0.04528574272990227,0.16980192065238953,positive,0.7396265864372253
+31,2018-08-09 07:48:00,"Bull Call Spread: That said, the effect of June's weak home sales figures might not hit Home Depot's guidance just yet.",0.07400137931108475,0.5695860981941223,0.35641250014305115,negative,-0.49558472633361816
+32,2018-08-09 07:48:00,"With flat guidance, Home Depot stock could rally following solid quarterly numbers.",0.9480092525482178,0.02504757232964039,0.02694324217736721,positive,0.9229616522789001
+33,2018-08-09 07:48:00,Traders looking to side with the majority and bet bullish on HD stock might consider a Sept $200/$210 bull call spread.,0.17109298706054688,0.2475261241197586,0.5813808441162109,neutral,-0.07643313705921173
+34,2018-08-09 07:48:00,"At last check, this spread was offered at $3.03, or $303-per-pair-of-contracts.",0.08324087411165237,0.026459621265530586,0.8902994394302368,neutral,0.05678125470876694
+35,2018-08-09 07:48:00,"Breakeven lies at $203.03, while a maximum profit of $6.97, or $697-per-pair-of-contracts - a potential 130% return - is possible if HD stock closes at or above $210 when September options expire.",0.8551732301712036,0.025349775329232216,0.11947707831859589,positive,0.8298234343528748
+36,2018-08-09 07:48:00,"As of this writing, Joseph Hargett did not hold a position in any of the aforementioned securities.",0.00944534596055746,0.025743188336491585,0.9648114442825317,neutral,-0.0162978433072567
+37,2018-08-09 07:48:00,"• The 10 Best Stocks to Buy Right Now
+• 5 Retail Stocks Set to Steal the Show This Earnings Season
+• 3 Cybersecurity Stocks to Add to Your Buy List
+
+The post Is Home Depot Stock Bound to Crumble Soon?",0.08400219678878784,0.15351445972919464,0.7624832987785339,neutral,-0.0695122629404068
+38,2018-08-09 07:48:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+39,2018-08-09 07:48:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

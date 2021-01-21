@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-07 07:32:00,"In early trading on Wednesday, shares of Caterpillar topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.3%.",0.9374526143074036,0.03217710182070732,0.03037031926214695,positive,0.9052755236625671
+1,2016-09-07 07:32:00,"Year to date, Caterpillar registers a 22.4% gain.",0.9377045035362244,0.017410406842827797,0.044885098934173584,positive,0.9202941060066223
+2,2016-09-07 07:32:00,"And the worst performing Dow component thus far on the day is Home Depot, trading down 0.8%.",0.020961906760931015,0.9651300311088562,0.013908173888921738,negative,-0.9441681504249573
+3,2016-09-07 07:32:00,Home Depot is showing a gain of 0.6% looking at the year to date performance.,0.9438368082046509,0.0240909606218338,0.0320722870528698,positive,0.9197458624839783
+4,2016-09-07 07:32:00,"Two other components making moves today are McDonald's, trading down 0.6%, and Chevron, trading up 0.4% on the day.",0.033696793019771576,0.9277105927467346,0.03859264403581619,negative,-0.8940138220787048
+5,2016-09-07 07:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

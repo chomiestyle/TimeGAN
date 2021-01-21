@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-17 07:30:00,"Currently, Salesforce (NYSE:) is going from strength to strength in terms of its revenue and operating earnings.",0.7975979447364807,0.015516656450927258,0.18688537180423737,positive,0.7820813059806824
+1,2019-09-17 07:30:00,Its focus on helping business clients “digitally transform” themselves in all aspects of cloud marketing and analysis is working extremely well.,0.7681884169578552,0.011735864914953709,0.22007569670677185,positive,0.7564525604248047
+2,2019-09-17 07:30:00,But CRM stock is priced for perfection.,0.4435652792453766,0.017035067081451416,0.5393996238708496,neutral,0.42653021216392517
+3,2019-09-17 07:30:00,Salesforce has a market value of almost $135 billion.,0.06079120561480522,0.00437489990144968,0.9348339438438416,neutral,0.056416306644678116
+4,2019-09-17 07:30:00,"Stripping away all the hype about its sales growth, its actual free cash flow (“FCF”) was only $2.06 billion in the last six months ending in July.",0.030692104250192642,0.5149515271186829,0.4543563723564148,negative,-0.4842594265937805
+5,2019-09-17 07:30:00,So its valuation is 33 times annualized FCF.,0.05046195164322853,0.007833325304090977,0.9417047500610352,neutral,0.04262862727046013
+6,2019-09-17 07:30:00,"It’s also priced at 50 times future earnings per share, another high-flying valuation for CRM stock.",0.7355403900146484,0.01459287479519844,0.24986672401428223,positive,0.7209475040435791
+7,2019-09-17 07:30:00,"Now to be fair, free cash flow is up 26.5% year-over-year.",0.9490110874176025,0.017709577456116676,0.03327922150492668,positive,0.9313015341758728
+8,2019-09-17 07:30:00,This is a very respectable growth rate.,0.8537411093711853,0.01504368707537651,0.13121521472930908,positive,0.8386974334716797
+9,2019-09-17 07:30:00,But it has to continue to accelerate to justify these high valuation metrics.,0.8425309658050537,0.013225369155406952,0.14424365758895874,positive,0.8293055891990662
+10,2019-09-17 07:30:00,There is another reason why the market keeps CRM stock’s valuation so high.,0.1334131509065628,0.028811978176236153,0.8377748727798462,neutral,0.1046011745929718
+11,2019-09-17 07:30:00,"SaaS Revenue Gets Valued Higher In Stocks like Salesforce
+
+The market loves subscription revenue companies like CRM.",0.8811489939689636,0.026885956525802612,0.09196504950523376,positive,0.8542630672454834
+12,2019-09-17 07:30:00,About 94% of CRM’s revenue is Subscription-as-a-Service (“SaaS”).,0.014616217464208603,0.006407071370631456,0.9789767265319824,neutral,0.008209146559238434
+13,2019-09-17 07:30:00,These SaaS clients tend to be sticky.,0.07857774198055267,0.5109558701515198,0.41046640276908875,negative,-0.4323781132698059
+14,2019-09-17 07:30:00,It becomes a big hassle for a large company like Adobe (NASDAQ:) to switch out of Salesforce’s marketing system software.,0.02688666805624962,0.839298665523529,0.1338147521018982,negative,-0.8124120235443115
+15,2019-09-17 07:30:00,"When the renewal comes around for the software contract, the decision is usually “stay.”
+
+In fact, analysts and CRM itself use a special metric to measure this “stickiness.”
+
+Analysts use a non-GAAP accounting measure called “Remaining Performance Obligation” (“RPO”) to measure future sales growth.",0.05576370656490326,0.011007152497768402,0.9332290887832642,neutral,0.04475655406713486
+16,2019-09-17 07:30:00,This includes unbilled and non-accrued deferred revenue which will be billed within the next 12 months.,0.011935057118535042,0.008551375940442085,0.9795135855674744,neutral,0.0033836811780929565
+17,2019-09-17 07:30:00,"CRM calls this “current RPO.”
+
+This metric also includes as unbilled, non-accrued deferred revenue (“non-current RPO”) which won’t be billed within 12 months.",0.013059543445706367,0.019864261150360107,0.9670761227607727,neutral,-0.00680471770465374
+18,2019-09-17 07:30:00,This is effectively the remainder of the signed life of subscription contracts.,0.015076412819325924,0.011511571705341339,0.973412036895752,neutral,0.003564841113984585
+19,2019-09-17 07:30:00,This non-current RPO is a measure of how many years of built-in revenue (upon renewal) can be expected and later billed.,0.05019252747297287,0.005058209411799908,0.9447492361068726,neutral,0.04513431712985039
+20,2019-09-17 07:30:00,The total of current and non-current RPO equals total RPO.,0.026188859716057777,0.012011752463877201,0.9617993235588074,neutral,0.014177107252180576
+21,2019-09-17 07:30:00,Here’s what analysts love about Salesforce: its total RPO grew by 20% to $25.7 billion by the end of the second quarter (July).,0.9343650341033936,0.01493912935256958,0.050695717334747314,positive,0.919425904750824
+22,2019-09-17 07:30:00,CRM stock can count on $25 billion in future revenue if it does not bring in any new SaaS clients.,0.13157716393470764,0.0639066994190216,0.8045161366462708,neutral,0.06767046451568604
+23,2019-09-17 07:30:00,"In fact, CRM’s current RPO — i.e.",0.011745350435376167,0.015954265370965004,0.9723003506660461,neutral,-0.004208914935588837
+24,2019-09-17 07:30:00,the dollar amount of sales that can be expected over the next 12 months — is now $12.1 billion.,0.10124927014112473,0.008265314623713493,0.8904854655265808,neutral,0.09298395365476608
+25,2019-09-17 07:30:00,"Keep in mind that in Q2 CRM had $4 billion in sales, or $16 billion annualized.",0.02698696404695511,0.012293914332985878,0.960719108581543,neutral,0.01469304971396923
+26,2019-09-17 07:30:00,So three-fourths of the next fiscal years’ sales are already “in the bag” as current RPO.,0.04761306941509247,0.039961930364370346,0.9124249815940857,neutral,0.007651139050722122
+27,2019-09-17 07:30:00,Salesforce “bakes in” its growth with sticky subscription revenue.,0.887704610824585,0.02471446804702282,0.08758097141981125,positive,0.862990140914917
+28,2019-09-17 07:30:00,So growth is almost unavoidable.,0.12503735721111298,0.03804691880941391,0.8369157314300537,neutral,0.08699043840169907
+29,2019-09-17 07:30:00,CRM has to bring in only one-quarter of last year’s new client base.,0.08431841433048248,0.15813542902469635,0.7575461864471436,neutral,-0.07381701469421387
+30,2019-09-17 07:30:00,That would match the previous year’s growth rate in sales.,0.9009419083595276,0.01658591628074646,0.08247219771146774,positive,0.8843560218811035
+31,2019-09-17 07:30:00,That’s why the market is willing to place such a high valuation on the Salesforce stock.,0.616140604019165,0.015322267077863216,0.3685370981693268,positive,0.6008183360099792
+32,2019-09-17 07:30:00,So why am I recommending not buying CRM stock right now?,0.035863347351551056,0.03370540961623192,0.9304312467575073,neutral,0.0021579377353191376
+33,2019-09-17 07:30:00,"The Market Has a Love-Hate Relationship with CRM Stock
+
+The truth is that analysts hate high-flying names like Salesforce stock at market lows.",0.06415676325559616,0.5641295313835144,0.3717137575149536,negative,-0.49997276067733765
+34,2019-09-17 07:30:00,"For example, in 2018 CRM rose 55.5% at the peak of the “love” cycle.",0.9378451108932495,0.019732870161533356,0.04242194816470146,positive,0.9181122183799744
+35,2019-09-17 07:30:00,"But by the end of the year, it was up only 31.7% for the year.",0.7267369627952576,0.192778542637825,0.08048442751169205,positive,0.5339584350585938
+36,2019-09-17 07:30:00,This same love-hate thing happened this summer.,0.07586732506752014,0.03135067597031593,0.8927819728851318,neutral,0.04451664909720421
+37,2019-09-17 07:30:00,CRM stock fell from its high of $167.56 to a summer hate-low of $139 and change.,0.018220726400613785,0.9702385663986206,0.011540672741830349,negative,-0.9520178437232971
+38,2019-09-17 07:30:00,The market gets nervous about overpaying for the company’s expected growth.,0.052778713405132294,0.8348763585090637,0.11234494298696518,negative,-0.7820976376533508
+39,2019-09-17 07:30:00,You can see this in where analysts were negative at the end of last year on the stock right at its bottom.,0.03588047996163368,0.43459823727607727,0.5295212864875793,neutral,-0.3987177610397339
+40,2019-09-17 07:30:00,"Guidance for CRM Stock Is Attractive, But Be Wary of the Valuation
+
+Salesforce provided guidance for its Q3 and full fiscal year on CRM forecasted revenue growth of 26 to 27% and current RPO growth of 24-25%.",0.4815014898777008,0.1074276864528656,0.411070853471756,positive,0.3740738034248352
+41,2019-09-17 07:30:00,The problem is these numbers do not show growth that is accelerating.,0.028177501633763313,0.07004718482494354,0.9017753005027771,neutral,-0.04186968505382538
+42,2019-09-17 07:30:00,But CRM stock’s high-flying valuation assumes incrementally higher growth rates.,0.9347453713417053,0.016725922003388405,0.04852863773703575,positive,0.9180194735527039
+43,2019-09-17 07:30:00,Therefore I suspect CRM stock is vulnerable to any downdraft in the general market.,0.13986553251743317,0.6494107246398926,0.21072369813919067,negative,-0.5095452070236206
+44,2019-09-17 07:30:00,This is especially so if there is a possibility of a slow-down in corporate profits growth.,0.04360546916723251,0.6115151047706604,0.3448793292045593,negative,-0.5679096579551697
+45,2019-09-17 07:30:00,"In summary, pick your spot with CRM stock.",0.18446530401706696,0.01366459671407938,0.8018701076507568,neutral,0.17080070078372955
+46,2019-09-17 07:30:00,You can buy it at a cheaper price sometime in the future.,0.09815748780965805,0.008653690107166767,0.8931888341903687,neutral,0.08950379490852356
+47,2019-09-17 07:30:00,The market is valuing the expected growth at a high price right now.,0.7204665541648865,0.021854225546121597,0.2576792538166046,positive,0.6986123323440552
+48,2019-09-17 07:30:00,"As of this writing, Mark Hake, CFA does not hold a position in any of the aforementioned securities.",0.008884195238351822,0.02911541983485222,0.9620004296302795,neutral,-0.020231224596500397
+49,2019-09-17 07:30:00,Mark Hake runs the which you can review here.,0.02699424885213375,0.01779811829328537,0.9552076458930969,neutral,0.009196130558848381
+50,2019-09-17 07:30:00,The Guide focuses on high total yield value stocks and was launched on August 30.,0.038135286420583725,0.005021619610488415,0.9568430781364441,neutral,0.033113665878772736
+51,2019-09-17 07:30:00,"Subscribers during September receive a 20% discount, plus a two-week free trial.",0.030131520703434944,0.006587402429431677,0.9632810950279236,neutral,0.02354411780834198
+52,2019-09-17 07:30:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

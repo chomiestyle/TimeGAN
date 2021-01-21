@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-07 05:41:00,"Chicago, IL -March 7, 2019 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017736142501235008,0.008728144690394402,0.9735357165336609,neutral,0.009007997810840607
+1,2019-03-07 05:41:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2019-03-07 05:41:00,"Stocks recently featured in the blog include: salesforce.comCRM , Booking HoldingsBKNG , VMwareVMW , MarriottMAR and HP Inc.HPQ .",0.012514635920524597,0.012230833061039448,0.9752545356750488,neutral,0.0002838028594851494
+3,2019-03-07 05:41:00,"Here are highlights from Wednesday's Analyst Blog:
+
+The Zacks Research Daily presents the best research output of our analyst team.",0.2265114039182663,0.00957189779728651,0.7639166712760925,neutral,0.2169395089149475
+4,2019-03-07 05:41:00,"Today's Research Daily features new research reports on 16 major stocks, including salesforce.com, Booking Holdings and VMware.",0.035576123744249344,0.009224521927535534,0.9551993012428284,neutral,0.026351600885391235
+5,2019-03-07 05:41:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+6,2019-03-07 05:41:00,"You can see all of today's research reports here >>>
+
+Buy-ranked salesforce 's shares have gained +25.3% in the past year, outperforming the Zacks Computer Software industry, which has gained +15.9% over the same period.",0.9541683197021484,0.025194132700562477,0.020637599751353264,positive,0.9289742112159729
+7,2019-03-07 05:41:00,Salesforce's Q4 results benefited from strong growth across most of its business segments and deal wins in the international market.,0.9572858810424805,0.01801762916147709,0.024696437641978264,positive,0.9392682313919067
+8,2019-03-07 05:41:00,The Zacks analyst thinks the rapid adoption of its diverse cloud offerings given the growing demand for digital transformation remains the key catalyst.,0.8551538586616516,0.011464862152934074,0.13338127732276917,positive,0.8436890244483948
+9,2019-03-07 05:41:00,"Strengthening relationships with cloud companies like Amazon, Google and IBM are a positive.",0.9445743560791016,0.01650821976363659,0.03891744837164879,positive,0.9280661344528198
+10,2019-03-07 05:41:00,"Additionally, strategic acquisitions like MuleSoft, Datorama and Cloudcraze is helping it deliver strong growth.",0.9498485326766968,0.015312702395021915,0.03483882546424866,positive,0.934535801410675
+11,2019-03-07 05:41:00,The company is now aiming to achieve revenues of $26-$28 billion by fiscal 2023.,0.657745361328125,0.010049045085906982,0.3322056531906128,positive,0.647696316242218
+12,2019-03-07 05:41:00,"Nevertheless, stiff competition from Oracle and Microsoft is a concern.",0.08883485198020935,0.5656250715255737,0.3455400764942169,negative,-0.4767902195453644
+13,2019-03-07 05:41:00,Currency fluctuations remain a key headwind.,0.054715126752853394,0.5192199349403381,0.42606493830680847,negative,-0.46450480818748474
+14,2019-03-07 05:41:00,"Besides, increasing investments for international expansions and data centers is an overhang on near-term profitability.",0.8585397601127625,0.05987284332513809,0.08158736675977707,positive,0.7986668944358826
+15,2019-03-07 05:41:00,(You can read the full research report on salesforce here >>> ).,0.012213421985507011,0.013723894022405148,0.9740626215934753,neutral,-0.0015104720368981361
+16,2019-03-07 05:41:00,"Shares of Booking Holdings have declined -8.2% over the past six months, outperforming the Zacks Internet Commerce industry, which has lost -13.3% over the same period.",0.016931485384702682,0.9728718400001526,0.0101966243237257,negative,-0.9559403657913208
+17,2019-03-07 05:41:00,Booking Holdings reported strong fourth quarter results wherein both earnings and revenues have grown year over year on the back of improving gross bookings.,0.9596272110939026,0.018556326627731323,0.021816479042172432,positive,0.9410709142684937
+18,2019-03-07 05:41:00,"Moreover, solid growth in the booked room nights and strong momentum across global accommodation space contributed well to the gross bookings growth.",0.9488506317138672,0.01656152494251728,0.03458787128329277,positive,0.9322891235351562
+19,2019-03-07 05:41:00,"Further, robust agency model continued to aid the company's position in the international markets.",0.9467799067497253,0.015031658113002777,0.03818837180733681,positive,0.9317482709884644
+20,2019-03-07 05:41:00,"Also, strong efforts toward ramping up of merchant business were positives.",0.9363468885421753,0.018181659281253815,0.04547153413295746,positive,0.9181652069091797
+21,2019-03-07 05:41:00,The Zacks analyst thinks secular growth trend in the online travel booking market and growing mobile usage penetration are tailwinds.,0.042241815477609634,0.9310840368270874,0.02667410857975483,negative,-0.8888422250747681
+22,2019-03-07 05:41:00,"Moreover, the company's strong position in international markets, growth opportunities in the domestic market and good execution of marketing strategies are major positives.",0.8978233933448792,0.013260258361697197,0.08891643583774567,positive,0.884563148021698
+23,2019-03-07 05:41:00,"However, sluggishness in the rental car days poses risk.",0.050730083137750626,0.6241375803947449,0.3251323997974396,negative,-0.5734074711799622
+24,2019-03-07 05:41:00,"Also, macro headwinds, increasing advertising spend and occupancy tax-related litigation remain overhangs.",0.03412558510899544,0.8481318950653076,0.11774247884750366,negative,-0.8140063285827637
+25,2019-03-07 05:41:00,(You can read the full research report on Booking Holdings here >>> ).,0.01504320465028286,0.011723147705197334,0.9732335805892944,neutral,0.0033200569450855255
+26,2019-03-07 05:41:00,"VMware 's shares have gained +39% over the past one year, outperforming the Zacks Software industry which is up +15.9% over the same period.",0.9569276571273804,0.02444121241569519,0.018631137907505035,positive,0.9324864149093628
+27,2019-03-07 05:41:00,"The Zacks analyst thinks VMware is benefiting from robust performance of NSX, VeloCloud and vSAN product lines.",0.9503179788589478,0.01558526512235403,0.03409666195511818,positive,0.9347327351570129
+28,2019-03-07 05:41:00,The company has been consistently taking initiatives to diversify its product portfolio to include most of the IT infrastructure.,0.9023098945617676,0.011526853777468204,0.08616328239440918,positive,0.8907830119132996
+29,2019-03-07 05:41:00,VMware's dominance in software-defined data center (SDDC) along with expanding customer base in cloud driven by partnerships with the likes of IBM and AWS is positive.,0.9424565434455872,0.014450826682150364,0.04309258982539177,positive,0.9280056953430176
+30,2019-03-07 05:41:00,The company has significant growth opportunities from rapid deployment of 5G.,0.9109625816345215,0.012738429941236973,0.07629896700382233,positive,0.8982241749763489
+31,2019-03-07 05:41:00,"Moreover, continuing enterprise deal wins will drive growth in the long haul.",0.9419447779655457,0.016161924228072166,0.04189332574605942,positive,0.9257828593254089
+32,2019-03-07 05:41:00,"Nevertheless, VMware's margins are expected to remain under pressure due to heavy spending.",0.18764850497245789,0.7195147275924683,0.09283678978681564,negative,-0.531866192817688
+33,2019-03-07 05:41:00,Intensifying competition is also a concern.,0.028030410408973694,0.02791561745107174,0.9440540075302124,neutral,0.00011479295790195465
+34,2019-03-07 05:41:00,(You can read the full research report on VMware here >>> ).,0.014514247886836529,0.013968142680823803,0.9715176224708557,neutral,0.0005461052060127258
+35,2019-03-07 05:41:00,"Other noteworthy reports we are featuring today include Marriott and HP Inc.
+
+Would you like to see the updated picks from our best market-beating strategies?",0.05227040499448776,0.00659341923892498,0.9411361217498779,neutral,0.04567698389291763
+36,2019-03-07 05:41:00,"From 2017 through 2018, while the S&P 500 gained +15.8%, five of our screens returned +38.0%, +61.3%, +61.6%, +68.1%, and +98.3%.",0.3736059069633484,0.031855713576078415,0.5945383310317993,neutral,0.34175020456314087
+37,2019-03-07 05:41:00,This outperformance has not just been a recent phenomenon.,0.07354382425546646,0.012619218789041042,0.9138368964195251,neutral,0.060924604535102844
+38,2019-03-07 05:41:00,"From 2000 - 2018, while the S&P averaged +4.8% per year, our top strategies averaged up to +56.2% per year.",0.059850405901670456,0.012692272663116455,0.9274572730064392,neutral,0.047158133238554
+39,2019-03-07 05:41:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+40,2019-03-07 05:41:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+41,2019-03-07 05:41:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+42,2019-03-07 05:41:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+43,2019-03-07 05:41:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+44,2019-03-07 05:41:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+45,2019-03-07 05:41:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+46,2019-03-07 05:41:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+47,2019-03-07 05:41:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+48,2019-03-07 05:41:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+49,2019-03-07 05:41:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+50,2019-03-07 05:41:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+51,2019-03-07 05:41:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2019-03-07 05:41:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2019-03-07 05:41:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+54,2019-03-07 05:41:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

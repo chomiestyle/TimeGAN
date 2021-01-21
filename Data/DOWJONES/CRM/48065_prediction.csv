@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-21 23:32:00,"Among the underlying components of the S&P 500 index, we saw noteworthy options trading volume today in Salesforce.com Inc (Symbol: CRM), where a total of 62,998 contracts have traded so far, representing approximately 6.3 million underlying shares.",0.4429856836795807,0.029698241502046585,0.5273160934448242,neutral,0.4132874310016632
+1,2017-11-21 23:32:00,That amounts to about 131.4% of CRM's average daily trading volume over the past month of 4.8 million shares.,0.02124219574034214,0.009696584194898605,0.9690612554550171,neutral,0.011545611545443535
+2,2017-11-21 23:32:00,"Particularly high volume was seen for the $105 strike put option expiring November 24, 2017 , with 2,335 contracts trading so far today, representing approximately 233,500 underlying shares of CRM.",0.2362269014120102,0.010896088555455208,0.7528769969940186,neutral,0.22533081471920013
+3,2017-11-21 23:32:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $105 strike highlighted in orange:
+
+W.W. Grainger Inc. (Symbol: GWW) saw options trading volume of 8,848 contracts, representing approximately 884,800 underlying shares or approximately 81.6% of GWW's average daily trading volume over the past month, of 1.1 million shares.",0.019913792610168457,0.014140297658741474,0.9659459590911865,neutral,0.005773494951426983
+4,2017-11-21 23:32:00,"Especially high volume was seen for the $215 strike call option expiring December 01, 2017 , with 3,003 contracts trading so far today, representing approximately 300,300 underlying shares of GWW.",0.26193493604660034,0.012178213335573673,0.725886881351471,neutral,0.24975672364234924
+5,2017-11-21 23:32:00,"Below is a chart showing GWW's trailing twelve month trading history, with the $215 strike highlighted in orange:
+
+And Alphabet Inc (Symbol: GOOGL) options are showing a volume of 12,638 contracts thus far today.",0.02028491348028183,0.03826112672686577,0.9414539337158203,neutral,-0.01797621324658394
+6,2017-11-21 23:32:00,"That number of contracts represents approximately 1.3 million underlying shares, working out to a sizeable 80.5% of GOOGL's average daily trading volume over the past month, of 1.6 million shares.",0.18022385239601135,0.010042070411145687,0.8097341060638428,neutral,0.1701817810535431
+7,2017-11-21 23:32:00,"Especially high volume was seen for the $1050 strike call option expiring November 24, 2017 , with 1,134 contracts trading so far today, representing approximately 113,400 underlying shares of GOOGL.",0.23684068024158478,0.011330859735608101,0.7518284320831299,neutral,0.22550982236862183
+8,2017-11-21 23:32:00,"Below is a chart showing GOOGL's trailing twelve month trading history, with the $1050 strike highlighted in orange:
+
+For the various different available expirations for CRM options , GWW options , or GOOGL options , visit StockOptionsChannel.com.",0.010159079916775227,0.03630140423774719,0.9535394906997681,neutral,-0.02614232525229454
+9,2017-11-21 23:32:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-27 04:31:00,"Chicago, IL -November 27, 2018 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017971858382225037,0.00878903642296791,0.9732391238212585,neutral,0.009182821959257126
+1,2018-11-27 04:31:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2018-11-27 04:31:00,"Stocks recently featured in the blog include: JPMorganJPM , Procter & GamblePG , UnitedHealthUNH , McDonald'sMCD and Philip Morris InternationalPM .",0.01967643015086651,0.010755667462944984,0.9695678353309631,neutral,0.008920762687921524
+3,2018-11-27 04:31:00,"Here are highlights from Monday's Analyst Blog:
+
+The Zacks Research Daily presents the best research output of our analyst team.",0.24418438971042633,0.009908846579492092,0.7459067702293396,neutral,0.23427554965019226
+4,2018-11-27 04:31:00,"Today's Research Daily features new research reports on 16 major stocks, including JPMorgan, Procter & Gamble and UnitedHealth.",0.04425854980945587,0.009058202616870403,0.9466832876205444,neutral,0.035200346261262894
+5,2018-11-27 04:31:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+6,2018-11-27 04:31:00,JPMorgan 's shares have outperformed the Zacks Major Regional Banks industry over the past six months (-3.7% vs. -7.7%).,0.5249799489974976,0.44760221242904663,0.027417805045843124,positive,0.07737773656845093
+7,2018-11-27 04:31:00,"Also, the company has an impressive earnings surprise history, having surpassed the Zacks Consensus Estimate in each of the trailing four quarters.",0.9466402530670166,0.017345119267702103,0.03601465001702309,positive,0.9292951226234436
+8,2018-11-27 04:31:00,"Expansion into new markets, focus on strengthening the card business, rising rate environment and increasing loan demand will benefit the bank's financials.",0.9320235252380371,0.013556129299104214,0.05442036688327789,positive,0.9184674024581909
+9,2018-11-27 04:31:00,"Lower tax rates, strong balance sheet position and easing of stringent regulations are expected to offer some support.",0.881299614906311,0.022367212921380997,0.09633317589759827,positive,0.858932375907898
+10,2018-11-27 04:31:00,"However, dismal mortgage banking performance (as originations continue to decline) remains a major concern.",0.019403215497732162,0.9355024099349976,0.045094333589076996,negative,-0.9160991907119751
+11,2018-11-27 04:31:00,This is expected to hurt the bank's non-interest income growth to some extent.,0.025809738785028458,0.9338998794555664,0.04029039293527603,negative,-0.9080901145935059
+12,2018-11-27 04:31:00,"Procter & Gamble outperformed the Zacks Soap and Cleaning Materials industry in the past three months, gaining +9.7% vs +2.4%.",0.8831474781036377,0.09711766988039017,0.019734852015972137,positive,0.7860298156738281
+13,2018-11-27 04:31:00,"This can be attributed to the company's robust earnings history, having outpaced estimates for 14 straight quarters when it reported first-quarter fiscal 2019.",0.947566568851471,0.020973624661564827,0.031459830701351166,positive,0.9265929460525513
+14,2018-11-27 04:31:00,"Moreover, earnings grew year over year.",0.937173068523407,0.014557425864040852,0.04826955869793892,positive,0.922615647315979
+15,2018-11-27 04:31:00,"Also, sales beat estimates, though it remained flat due to adverse currency fluctuations - which acted as a major deterrent in the first quarter and is likely to remain a concern in the second quarter.",0.8965922594070435,0.07690588384866714,0.026501819491386414,positive,0.8196863532066345
+16,2018-11-27 04:31:00,"Also, the company has been witnessing strained margins for last few quarters due to higher commodity and shipping costs, adverse currency, increased business investments and aggressive pricing from private-label products.",0.020398756489157677,0.963674783706665,0.015926433727145195,negative,-0.943276047706604
+17,2018-11-27 04:31:00,Soft baby care business is also a concern.,0.02541167661547661,0.40692827105522156,0.5676600933074951,neutral,-0.38151660561561584
+18,2018-11-27 04:31:00,"Nevertheless, the company is focused on improving productivity and cost savings to boost margins.",0.9467639327049255,0.017949245870113373,0.03528672829270363,positive,0.928814709186554
+19,2018-11-27 04:31:00,"Its focus on product improvement, packaging and marketing initiatives is encouraging.",0.8172737956047058,0.010673531331121922,0.17205260694026947,positive,0.8066002726554871
+20,2018-11-27 04:31:00,Shares of Buy-ranked UnitedHealth have outperformed the Zacks Medical Insurance industry's rally in the past year (up +23.1% vs. +22.4%).,0.8679242730140686,0.10899069905281067,0.023085016757249832,positive,0.7589335441589355
+21,2018-11-27 04:31:00,The company's performance is being backed by higher revenues and strength in both segments - UnitedHealthcare and Optum - plus membership growth.,0.9527742266654968,0.016407711431384087,0.030818095430731773,positive,0.9363664984703064
+22,2018-11-27 04:31:00,The company's robust Government is also driving long-term growth.,0.8969560265541077,0.01384434849023819,0.08919955790042877,positive,0.8831116557121277
+23,2018-11-27 04:31:00,Its international business and strong capital position are the other positives.,0.6093369722366333,0.013430856168270111,0.3772321045398712,positive,0.595906138420105
+24,2018-11-27 04:31:00,The company's raised earnings guidance for 2018 should instill optimism among its investors.,0.9312787652015686,0.018932299688458443,0.04978898912668228,positive,0.9123464822769165
+25,2018-11-27 04:31:00,"However, the company is seeing membership decline in Commercial segment.",0.016687624156475067,0.9688716530799866,0.014440832659602165,negative,-0.9521840214729309
+26,2018-11-27 04:31:00,Two significant acquisitions would intensify the competition for UnitedHealth Group.,0.798410177230835,0.013397670350968838,0.1881922036409378,positive,0.7850124835968018
+27,2018-11-27 04:31:00,Other noteworthy reports we are featuring today include McDonald's and Philip Morris International.,0.029107607901096344,0.006483121775090694,0.9644092321395874,neutral,0.022624485194683075
+28,2018-11-27 04:31:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+29,2018-11-27 04:31:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+30,2018-11-27 04:31:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+31,2018-11-27 04:31:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+32,2018-11-27 04:31:00,"See the pot trades we're targeting>>
+
+Past performance is no guarantee of future results.",0.08467736095190048,0.0530620776116848,0.8622605800628662,neutral,0.03161528334021568
+33,2018-11-27 04:31:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+34,2018-11-27 04:31:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+35,2018-11-27 04:31:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+36,2018-11-27 04:31:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+37,2018-11-27 04:31:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+38,2018-11-27 04:31:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+39,2018-11-27 04:31:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+40,2018-11-27 04:31:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+41,2018-11-27 04:31:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+42,2018-11-27 04:31:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+43,2018-11-27 04:31:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+44,2018-11-27 04:31:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+45,2018-11-27 04:31:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+46,2018-11-27 04:31:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+47,2018-11-27 04:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

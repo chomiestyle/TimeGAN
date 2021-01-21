@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-18 10:47:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Salesforce.com Inc (Symbol: CRM), where a total volume of 30,028 contracts has been traded thus far today, a contract volume which is representative of approximately 3.0 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.051704879850149155,0.010602491907775402,0.9376926422119141,neutral,0.04110238701105118
+1,2019-09-18 10:47:00,"That number works out to 44% of CRM's average daily trading volume over the past month, of 6.8 million shares.",0.6767330169677734,0.01823366992175579,0.30503326654434204,positive,0.6584993600845337
+2,2019-09-18 10:47:00,"Particularly high volume was seen for the $155 strike call option expiring September 20, 2019, with 4,536 contracts trading so far today, representing approximately 453,600 underlying shares of CRM.",0.2679135799407959,0.011638740077614784,0.7204476594924927,neutral,0.25627484917640686
+3,2019-09-18 10:47:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $155 strike highlighted in orange:
+
+AT&T Inc (Symbol: T) saw options trading volume of 153,210 contracts, representing approximately 15.3 million underlying shares or approximately 43.6% of T's average daily trading volume over the past month, of 35.1 million shares.",0.020867254585027695,0.017438020557165146,0.9616947174072266,neutral,0.003429234027862549
+4,2019-09-18 10:47:00,"Particularly high volume was seen for the $39 strike call option expiring January 17, 2020, with 33,720 contracts trading so far today, representing approximately 3.4 million underlying shares of T. Below is a chart showing T's trailing twelve month trading history, with the $39 strike highlighted in orange:
+
+And Cboe Global Markets Inc (Symbol: CBOE) options are showing a volume of 2,416 contracts thus far today.",0.37511202692985535,0.03177280351519585,0.5931151509284973,neutral,0.3433392345905304
+5,2019-09-18 10:47:00,"That number of contracts represents approximately 241,600 underlying shares, working out to a sizeable 40.2% of CBOE's average daily trading volume over the past month, of 600,525 shares.",0.14809289574623108,0.01007711049169302,0.8418300151824951,neutral,0.13801579177379608
+6,2019-09-18 10:47:00,"Especially high volume was seen for the $112 strike put option expiring October 25, 2019, with 288 contracts trading so far today, representing approximately 28,800 underlying shares of CBOE.",0.1497754603624344,0.010539167560636997,0.8396853804588318,neutral,0.13923628628253937
+7,2019-09-18 10:47:00,"Below is a chart showing CBOE's trailing twelve month trading history, with the $112 strike highlighted in orange:
+
+For the various different available expirations for CRM options, T options, or CBOE options, visit StockOptionsChannel.com.",0.009855158627033234,0.028474146500229836,0.9616706371307373,neutral,-0.018618987873196602
+8,2019-09-18 10:47:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

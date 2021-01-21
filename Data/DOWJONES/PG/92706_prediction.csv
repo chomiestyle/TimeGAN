@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-20 09:42:00,"The Dow Jones Industrial Average and Nasdaq Composite set new record highs on Tuesday on gains in telecom and financial stocks, after Wall Street shrugged off recent geopolitical events and continued its march to 20,000 on the blue-chip index.",0.8301115036010742,0.09766893833875656,0.07221955060958862,positive,0.7324425578117371
+1,2016-12-20 09:42:00,"Buoyed by gains in oil futures and the financial markets' resilience to Monday's tragic events in Europe, the benchmark averages were higher for a second day as the Trump-rally powers on.",0.9196224808692932,0.038919515907764435,0.04145796597003937,positive,0.8807029724121094
+2,2016-12-20 09:42:00,"Ten of the eleven S&P 500 sectors were positive, while Dow advancers were leading decliners by a ratio of four to one.",0.8348052501678467,0.063621886074543,0.10157282650470734,positive,0.7711833715438843
+3,2016-12-20 09:42:00,Consumer staples were the exception with shares trading lower after General Mills ( GIS ) missed fiscal Q2 results and lowered sales guidance.,0.01760910451412201,0.9673299789428711,0.01506087463349104,negative,-0.9497208595275879
+4,2016-12-20 09:42:00,"As a result, Dow component stocks Proctor & Gamble ( PG ) and Coca-Cola ( KO ) were lower in sympathy.",0.018939360976219177,0.961463451385498,0.019597116857767105,negative,-0.9425240755081177
+5,2016-12-20 09:42:00,The Euro Stoxx 600 closed at its highest level this year on gains in the banking sector after the Italian government said it is preparing a EUR20 billion ($20.73 billion) bailout package for its struggling banks.,0.9152837991714478,0.05656449869275093,0.028151683509349823,positive,0.8587192893028259
+6,2016-12-20 09:42:00,Banking stocks in the UK were also higher on Lloyd's Banking Group's ( LYG ) acquisition of Bank of America's ( BAC ) UK credit card business for $2.4 billion.,0.9278583526611328,0.028413496911525726,0.04372803494334221,positive,0.8994448781013489
+7,2016-12-20 09:42:00,Crude oil was up $0.36 to $52.48 per barrel.,0.896804690361023,0.037620071321725845,0.0655752420425415,positive,0.8591846227645874
+8,2016-12-20 09:42:00,Natural gas was down $0.11 to $3.31 per 1 million BTU.,0.022190457209944725,0.9647542834281921,0.01305521558970213,negative,-0.9425638318061829
+9,2016-12-20 09:42:00,"Gold was down $10.10 to $1,132.50 an ounce, while silver was down $0.15 to $15.94 an ounce.",0.02329598180949688,0.9603695273399353,0.01633443310856819,negative,-0.9370735287666321
+10,2016-12-20 09:42:00,Copper was unchanged at $2.50 per pound.,0.11714620143175125,0.05644896626472473,0.8264048099517822,neutral,0.06069723516702652
+11,2016-12-20 09:42:00,"Among energy ETFs, the United States Oil Fund was up 0.87% to $11.61 with the United States Natural Gas Fund was down 3.01% to $8.31.",0.8666039109230042,0.0894695594906807,0.04392652213573456,positive,0.777134358882904
+12,2016-12-20 09:42:00,"Amongst precious-metal funds, the Market Vectors Gold Miners ETF was down 1.00% to 18.89 while SPDR Gold Shares were down 0.75% to $107.78.",0.0180041566491127,0.9697110652923584,0.012284756638109684,negative,-0.9517068862915039
+13,2016-12-20 09:42:00,The iShares Silver Trust was down 0.59% to $15.08.,0.01950928196310997,0.9627318382263184,0.017758894711732864,negative,-0.9432225823402405
+14,2016-12-20 09:42:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was up 28.06 points (+0.25%) to 11,156.78
+
+Dow Jones Industrial Index was up 68.93 points (+0.34%) to 19,950.62
+
+S&P 500 was up 6.08 points (+0.27%) to 2,268.64
+
+Nasdaq Composite Index was up 19.21 points (+0.35%) to 5,476.67
+
+FTSE 100 was up 26.80 points (+0.38%) to 7,043.96
+
+DAX was up 38.04 points (+0.33%) to 11,464.74
+
+CAC 40 was up 27.12 points (+0.56%) to 4,849.89
+
+Nikkei 225 was up 102.93 points (+0.53%) to 19,494.53
+
+Hang Seng Index was down 103.62 points (-0.47%) to 21,729.06
+
+Shanghai China Composite Index was down 15.21 points (-0.49%) to 3,102.88
+
+NYSE Energy Sector Index was up 16.47 points (+0.16%) to 11,583.82
+
+NYSE Financial Sector Index was up 33.43 points (+0.48%) to 7,038.92
+
+NYSE Healthcare Sector Index was down 1.34 points (-0.01%) to 11,907.80
+
+(+) AKBA (+22.93%) Partnering with Otsuka Pharmaceuticals to develop and commercialize vadadustat in the U.S.
+
+(+) ACAD (+9.75%) Achieved primary endpoint in reduction of psychosis versus placebo by NPI-NH
+
+(-) NPTN (-15.61%) Issued weak Q4 guidance and reported a deal to sell its Low Speed transceiver to APAT Optoelectronics for $26.4 million
+
+(-) FTK (-10.01%) Expects its consumer and industrial chemistry segment revenue to decline $2.5 million to $3.5 million
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.018138907849788666,0.879376232624054,0.10248488187789917,negative,-0.8612373471260071
+15,2016-12-20 09:42:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617113888263702,0.9722092151641846,neutral,-0.007443469949066639
+16,2016-12-20 09:42:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+17,2016-12-20 09:42:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492298677563667,0.9303174018859863,neutral,-0.04016338288784027

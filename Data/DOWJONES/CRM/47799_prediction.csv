@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-10 06:12:00,"While all tech companies have their eyes on the biggest tech show of the year, Customer Electronics Show (CES) 2018, Salesforce.com Inc.CRM is silently enhancing its capabilities through acquisitions.",0.942618727684021,0.014492001384496689,0.04288934916257858,positive,0.9281267523765564
+1,2018-01-10 06:12:00,"Though the company has not made any announcement regarding this, it was the to-be-acquired company - Attic Labs - which revealed this news on its website.",0.014909441582858562,0.01388013456016779,0.9712104797363281,neutral,0.001029307022690773
+2,2018-01-10 06:12:00,"However, financial terms of the deal have been kept under wraps.",0.02793378382921219,0.009432706981897354,0.9626335501670837,neutral,0.018501076847314835
+3,2018-01-10 06:12:00,Attic Labs was founded in 2015 by Aaron Boodman and Rafael Weinstein.,0.04076095670461655,0.005536187905818224,0.9537028074264526,neutral,0.03522476926445961
+4,2018-01-10 06:12:00,"According to Crunchbase, the start-up has raised $8.1 million Series A in 2016 from Greylock Partners and Harrison Metal.",0.36507752537727356,0.006934530101716518,0.6279879808425903,neutral,0.35814300179481506
+5,2018-01-10 06:12:00,"Attic Labs is known for its Noms tool, an open-source decentralized database, which helps users replicate information as well as edit them across multiple machines and consequently, easily sync the information.",0.10213728249073029,0.0062128216959536076,0.8916498422622681,neutral,0.09592445939779282
+6,2018-01-10 06:12:00,"Upon completion of the acquisition, Attic Labs' team will be integrated with Salesforce's Quip division.",0.19738717377185822,0.006185981445014477,0.7964268326759338,neutral,0.19120119512081146
+7,2018-01-10 06:12:00,"Quip is Salesforce's document-collaboration platform which was acquired in 2016, for a total consideration of $750 million.",0.07077191770076752,0.004439584910869598,0.9247884154319763,neutral,0.06633233278989792
+8,2018-01-10 06:12:00,"The division offers a similar platform like Alphabet's GOOGL Google Docs, which enables users to share and edit documents.",0.09605966508388519,0.006855473387986422,0.8970848321914673,neutral,0.08920419216156006
+9,2018-01-10 06:12:00,"Noms has much more advanced features than similar kind of tools, including Git.",0.4877532422542572,0.011360329575836658,0.5008864402770996,neutral,0.476392924785614
+10,2018-01-10 06:12:00,"Like Git, Noms also retain all previous versions and facilitate synchronization of all edited versions as per requirements.",0.06235954537987709,0.00514368386939168,0.9324967265129089,neutral,0.0572158619761467
+11,2018-01-10 06:12:00,"However, the main features which make it a superior tool are that it stores only structured data, not files or directories, and secondly, it supports very large data sets.",0.3020215630531311,0.009022541344165802,0.6889558434486389,neutral,0.2929990291595459
+12,2018-01-10 06:12:00,"Therefore, we believe the additional features embedded with Noms make it a feasible acquisition for Salesforce.",0.8867684602737427,0.012030430138111115,0.10120107233524323,positive,0.8747380375862122
+13,2018-01-10 06:12:00,"This buyout will enhance Salesforce's Quip division capabilities and the additional features may attract organizations to opt for this service, instead of Git.",0.9415218234062195,0.014605266973376274,0.043873004615306854,positive,0.9269165396690369
+14,2018-01-10 06:12:00,Acquisitions have always been one of Salesforce's key growth strategies.,0.32226699590682983,0.007055968511849642,0.6706770062446594,neutral,0.3152110278606415
+15,2018-01-10 06:12:00,"Although, the company remained almost silent throughout last year on the acquisition front (just one - Sequence), it may repeat the likes of 2016, when it bought 12 companies, this year to boost its capabilities, and grab newer and larger markets.",0.9282821416854858,0.014925816096365452,0.05679205060005188,positive,0.9133563041687012
+16,2018-01-10 06:12:00,We believe Salesforce's continued focus on expanding its business through strategic acquisitions and investments will drive growth over the long run.,0.9401265382766724,0.013917654752731323,0.0459558442234993,positive,0.9262088537216187
+17,2018-01-10 06:12:00,"Notably, Salesforce has returned 47.5% over the past year, significantly outperforming its industry 's gain of 38%.",0.9357947111129761,0.04403529688715935,0.020169982686638832,positive,0.8917593955993652
+18,2018-01-10 06:12:00,"Some better-ranked stocks in the broader technology sector are Broadcom Limited AVGO and Mellanox Technologies, Ltd. MLNX , both sporting a Zacks Rank #1 (Strong Buy).",0.881813108921051,0.04020586982369423,0.07798096537590027,positive,0.8416072130203247
+19,2018-01-10 06:12:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+20,2018-01-10 06:12:00,"Broadcom and Mellanox have expected long-term EPS growth rates of 13.8% and 16%, respectively.",0.7331984043121338,0.011183885857462883,0.25561773777008057,positive,0.7220145463943481
+21,2018-01-10 06:12:00,Looking for Stocks with Skyrocketing Upside?,0.09469357132911682,0.09826507419347763,0.807041347026825,neutral,-0.0035715028643608093
+22,2018-01-10 06:12:00,Zacks has just released a Special Report on the booming investment opportunities of legal marijuana.,0.41462862491607666,0.01087752915918827,0.5744938254356384,neutral,0.40375110507011414
+23,2018-01-10 06:12:00,"Ignited by new referendums and legislation, this industry is expected to blast from an already robust $6.7 billion to $20.2 billion in 2021.",0.8838319182395935,0.03136736899614334,0.08480073511600494,positive,0.8524645566940308
+24,2018-01-10 06:12:00,"Early investors stand to make a killing, but you have to be ready to act and know just where to look.",0.19955629110336304,0.018484661355614662,0.781959056854248,neutral,0.18107162415981293
+25,2018-01-10 06:12:00,"See the pot trades we're targeting>>
+
+Want the latest recommendations from Zacks Investment Research?",0.030783167108893394,0.01057474035769701,0.9586420655250549,neutral,0.02020842581987381
+26,2018-01-10 06:12:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+27,2018-01-10 06:12:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+28,2018-01-10 06:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

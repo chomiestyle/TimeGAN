@@ -1,0 +1,89 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-24 00:58:00,"The Fed minutes are pointing to a June rate hike, or at least a June gradual reduction of monetary accommodation.",0.39461439847946167,0.2656358480453491,0.3397497534751892,positive,0.12897855043411255
+1,2017-05-24 00:58:00,Could we get the Fed Funds rate above 1%?,0.37380364537239075,0.038660865277051926,0.587535560131073,neutral,0.3351427912712097
+2,2017-05-24 00:58:00,I say go for it.,0.07497978210449219,0.014790672808885574,0.910229504108429,neutral,0.06018910929560661
+3,2017-05-24 00:58:00,I have a fixed rate mortgage and am hopeful to earn more interest in my savings account.,0.7161098122596741,0.01521324086934328,0.2686769664287567,positive,0.7008965611457825
+4,2017-05-24 00:58:00,"But maybe some of you think the Fed should act in the interest of the broad economy, not just my interest.",0.13290190696716309,0.009056213311851025,0.8580418825149536,neutral,0.12384569644927979
+5,2017-05-24 00:58:00,"On that level, do you guys like to eyeball the yield curve ?",0.05367836728692055,0.02389521896839142,0.9224263429641724,neutral,0.02978314831852913
+6,2017-05-24 00:58:00,Here's today's curve in green vs. a year ago in blue.,0.13998766243457794,0.041148390620946884,0.8188639879226685,neutral,0.09883926808834076
+7,2017-05-24 00:58:00,I cycled back by years to see when the yield curve was last shaped like it is now.,0.06868555396795273,0.01727416180074215,0.9140402674674988,neutral,0.05141139030456543
+8,2017-05-24 00:58:00,"First I tried 2006 (in blue again), when things seemed fine, we were all feeling goo-
+
+- oh, oh no.",0.060433901846408844,0.23095960915088654,0.708606481552124,neutral,-0.1705256998538971
+9,2017-05-24 00:58:00,Hide under your desk!,0.1443479061126709,0.2537292540073395,0.601922869682312,neutral,-0.10938134789466858
+10,2017-05-24 00:58:00,That thing is flat as a board!,0.09956096112728119,0.12861809134483337,0.7718209028244019,neutral,-0.029057130217552185
+11,2017-05-24 00:58:00,"I'm amazed that everyone wasn't just a tad more worried in 2006 (For a real horror show, check the 2007 curve.",0.0777115449309349,0.11189229041337967,0.810396134853363,neutral,-0.03418074548244476
+12,2017-05-24 00:58:00,"I won't show it here, and make sure no children are in the room before you look).",0.01770639419555664,0.04883342236280441,0.9334601759910583,neutral,-0.031127028167247772
+13,2017-05-24 00:58:00,"Now, for the eye-test analogue to today's yield curve.",0.06543729454278946,0.01581265591084957,0.9187500476837158,neutral,0.04962463676929474
+14,2017-05-24 00:58:00,Our winner is 2005.,0.2000829428434372,0.008010169491171837,0.7919068932533264,neutral,0.1920727789402008
+15,2017-05-24 00:58:00,Doesn't that actually feel about right?,0.10456954687833786,0.06743808090686798,0.8279923796653748,neutral,0.03713146597146988
+16,2017-05-24 00:58:00,"Hard times could well be 2-3 years away, or further out than that.",0.1367514580488205,0.1850118637084961,0.678236722946167,neutral,-0.0482604056596756
+17,2017-05-24 00:58:00,"We have about the same relative inflation expectations across time horizons, only now asset return expectations are in the dirt.",0.03758518397808075,0.013873071409761906,0.9485417008399963,neutral,0.02371211349964142
+18,2017-05-24 00:58:00,"Compare 2017 with even a few years ago, when rates were hugging zero; at least today's curve is an actual curve.",0.09210667759180069,0.032068703323602676,0.8758246302604675,neutral,0.06003797426819801
+19,2017-05-24 00:58:00,"It's been a while, so I can see why people have a hard time adjusting.",0.031007500365376472,0.11472132802009583,0.8542711734771729,neutral,-0.0837138295173645
+20,2017-05-24 00:58:00,"But at a glance, we're working with something that looks reasonably healthy.",0.45643919706344604,0.014020545408129692,0.5295403003692627,neutral,0.4424186646938324
+21,2017-05-24 00:58:00,"This connects with the Fed's read on the situation: the economy is still growing, a little slower than it thought.",0.1080695316195488,0.6660033464431763,0.22592708468437195,negative,-0.5579338073730469
+22,2017-05-24 00:58:00,There is also some fiscal policy upside on the table.,0.10978011786937714,0.027597321197390556,0.8626226186752319,neutral,0.08218279480934143
+23,2017-05-24 00:58:00,The PCE inflation rate is bumping against that 2% mark.,0.6129930019378662,0.2281687706708908,0.15883822739124298,positive,0.3848242163658142
+24,2017-05-24 00:58:00,"Maybe things really are going well, though not as well as we all would like, and it's time to accept that.",0.6710844039916992,0.018822992220520973,0.31009259819984436,positive,0.6522614359855652
+25,2017-05-24 00:58:00,"See also: S&P hits a new high ( SPY ), but then again GE falls on Immelt caution ( GE ).",0.39639779925346375,0.5023720264434814,0.10123015195131302,negative,-0.1059742271900177
+26,2017-05-24 00:58:00,Amazon ( AMZN ) is opening one of its Books locations in New York City at Columbus Circle.,0.1030392050743103,0.007897304370999336,0.8890634775161743,neutral,0.09514190256595612
+27,2017-05-24 00:58:00,"There appears to be some symbolism associated with the move, which sets it up in the backyard of Penguin, Simon & Schuster, and other publishers, as The New York Times points out .",0.08229740709066391,0.0086731668561697,0.9090294241905212,neutral,0.07362423837184906
+28,2017-05-24 00:58:00,Does Amazon strike you as a company given to symbolic gestures?,0.046194951981306076,0.053040094673633575,0.9007649421691895,neutral,-0.006845142692327499
+29,2017-05-24 00:58:00,I'd think that market dominance has also been a factor in this decision.,0.08558528870344162,0.007985399104654789,0.9064292907714844,neutral,0.0775998905301094
+30,2017-05-24 00:58:00,"From MarketWatch :
+
+I would guess that Amazon's data competencies would give it an inventory management edge over competitors.",0.9141464233398438,0.018193891271948814,0.0676596462726593,positive,0.8959525227546692
+31,2017-05-24 00:58:00,And a flagship store in Midtown will put a nice brand awareness cherry on the sundae.,0.2853972613811493,0.022413885220885277,0.6921888589859009,neutral,0.26298338174819946
+32,2017-05-24 00:58:00,"On the other hand, books are tied to people's sense of self, and some portion of book buyers may continue to buck Amazon, refusing to think that their tastes and intellectual pursuits are deterministic and predictable by algorithms.",0.07488515228033066,0.4952359199523926,0.42987895011901855,negative,-0.4203507602214813
+33,2017-05-24 00:58:00,I could foresee a minority backlash against this move.,0.13579614460468292,0.5194315314292908,0.3447723388671875,negative,-0.38363540172576904
+34,2017-05-24 00:58:00,"Usually a more sophisticated decision process will win in the long run, as much value as we might see in serendipitous mom & pop store recommendations.",0.48826107382774353,0.01480936724692583,0.4969295561313629,neutral,0.47345170378685
+35,2017-05-24 00:58:00,There are a lot of people who think capitalism and art don't mix.,0.026831775903701782,0.06320207566022873,0.9099661707878113,neutral,-0.03637029975652695
+36,2017-05-24 00:58:00,I think I count myself among them despite overwhelming evidence to the contrary.,0.12904046475887299,0.0391380675137043,0.8318215012550354,neutral,0.08990240097045898
+37,2017-05-24 00:58:00,"Lowe's lower on earnings miss ( LOW ): At a glance, the long-term story seems OK.",0.12628182768821716,0.24669983983039856,0.6270183324813843,neutral,-0.1204180121421814
+38,2017-05-24 00:58:00,"Consistent EBIT margins around 7-9% over the past five years, revenue growth every year, including 10% growth from 2015 to 2016.",0.9160225987434387,0.013838369399309158,0.07013899087905884,positive,0.902184247970581
+39,2017-05-24 00:58:00,Net margins right around 5% - seems fine.,0.2777248024940491,0.08338533341884613,0.6388898491859436,neutral,0.19433946907520294
+40,2017-05-24 00:58:00,I do notice an asset turnover ratio that's declining over time.,0.04152349382638931,0.8972792625427246,0.061197225004434586,negative,-0.8557557463645935
+41,2017-05-24 00:58:00,I have revenue growing 29% over the past five years while total assets doubled in the same time period.,0.8952717185020447,0.013352605514228344,0.09137570112943649,positive,0.8819190859794617
+42,2017-05-24 00:58:00,"All that time, the company's been levering up; much of the asset growth is debt financed.",0.6513271927833557,0.012501461431384087,0.33617132902145386,positive,0.6388257145881653
+43,2017-05-24 00:58:00,"ROE looks to have improved only moderately, as net growth has only slightly outpaced total stockholders' equity.",0.8062658309936523,0.1464376598596573,0.04729655012488365,positive,0.6598281860351562
+44,2017-05-24 00:58:00,"Since there's a death-of-retail narrative going on, now, it's probably worth it to look at shorter-term trends.",0.038264818489551544,0.0171450637280941,0.9445900917053223,neutral,0.021119754761457443
+45,2017-05-24 00:58:00,Sales were actually up sequentially and year over year on a gross and comparable store basis.,0.8652658462524414,0.01989598013460636,0.114838145673275,positive,0.8453698754310608
+46,2017-05-24 00:58:00,"I like Lowe's, and I've had good customer experiences there.",0.3565700948238373,0.012586256489157677,0.6308436393737793,neutral,0.34398382902145386
+47,2017-05-24 00:58:00,"It seems like the company shoots for a more accessible customer experience than that offered by competitors, and it holds costs down by offering a more limited selection.",0.30395597219467163,0.04452357441186905,0.6515204310417175,neutral,0.2594324052333832
+48,2017-05-24 00:58:00,I like the business model and think there's a floor for Lowe's market share.,0.5707607865333557,0.01087162271142006,0.41836756467819214,positive,0.5598891377449036
+49,2017-05-24 00:58:00,The stock is in a long-term uptrend and at all-time highs.,0.6896294951438904,0.08702800422906876,0.22334246337413788,positive,0.6026014685630798
+50,2017-05-24 00:58:00,I'm not sure we learned that much about Lowe's on today's earnings.,0.01617206633090973,0.02378135360777378,0.960046648979187,neutral,-0.007609287276864052
+51,2017-05-24 00:58:00,"See also: Lowe's loses ground to Home Depot in Q1 ( HD ), Existing home sales miss expectations
+
+Tiffany beats by $0.04, misses on revenue (TIF): Veblen goods are interesting, and diamonds are among those the editors of the Veblen goods Wikipedia page have accepted as proper examples .",0.09514828771352768,0.5574836134910583,0.34736812114715576,negative,-0.4623353183269501
+52,2017-05-24 00:58:00,It's interesting to take a step back and think about what selling Veblen goods means for business.,0.09581094235181808,0.011078920215368271,0.8931100964546204,neutral,0.08473202586174011
+53,2017-05-24 00:58:00,Why not just raise prices?,0.14430497586727142,0.02885218895971775,0.8268427848815918,neutral,0.11545278877019882
+54,2017-05-24 00:58:00,"Of course business is nowhere near as neat as an ""all else equal"" economics definition makes us think, and Tiffany has experienced revenue declines the past couple years.",0.01829792931675911,0.9679632782936096,0.013738827779889107,negative,-0.949665367603302
+55,2017-05-24 00:58:00,"According to the transcript , e-commerce sales were unchanged but that management views the website as ""also delivering marketing communication that drives awareness and store traffic.""",0.06129791587591171,0.13286763429641724,0.8058344721794128,neutral,-0.07156971842050552
+56,2017-05-24 00:58:00,"Sounds like digital sales are not a huge piece of TIF's strategy at the moment (You can buy diamond rings on Amazon , by the way).",0.013322154060006142,0.01735854521393776,0.969319224357605,neutral,-0.004036391153931618
+57,2017-05-24 00:58:00,"I was also struck by this:
+
+I didn't know TIF was vertically integrated , at least at certain levels (I don't see evidence that it owns mines).",0.025912802666425705,0.018328316509723663,0.9557589292526245,neutral,0.007584486156702042
+58,2017-05-24 00:58:00,I guess it makes sense when you're running a prestige brand to oversee the steps further up the supply chain.,0.06912282854318619,0.011951948516070843,0.9189251661300659,neutral,0.05717087909579277
+59,2017-05-24 00:58:00,The stock took a dip on the report.,0.12414543330669403,0.6852553486824036,0.19059929251670837,negative,-0.5611099004745483
+60,2017-05-24 00:58:00,"It seems like the fundamentals are volatile as you might expect of a luxury retailer, so as with Lowe's, I can't read a ton into what we've seen today.",0.019914191216230392,0.1695978045463562,0.8104880452156067,neutral,-0.1496836096048355
+61,2017-05-24 00:58:00,"See also: More on Tiffany's Q1
+
+Advance Auto Parts misses by $0.58, misses on revenue (AAP): Despite getting zapped yesterday after AutoZone's report, AAP took another dip today on earnings.",0.14355134963989258,0.8299511075019836,0.026497505605220795,negative,-0.6863997578620911
+62,2017-05-24 00:58:00,"It does not look great - operating margins contracted, and same-store sales dropped.",0.017365191131830215,0.9732683897018433,0.009366357699036598,negative,-0.955903172492981
+63,2017-05-24 00:58:00,"I wasn't sure how to read this from the press release, attributed to CEO Tom Greco:
+
+Investments in the customer sound like money out the door while a gross productivity target sounds like a cost reduction.",0.29302239418029785,0.26034867763519287,0.4466289281845093,neutral,0.03267371654510498
+64,2017-05-24 00:58:00,There may be more on the transcript.,0.03505739942193031,0.04101046919822693,0.9239321351051331,neutral,-0.005953069776296616
+65,2017-05-24 00:58:00,"Deals and M&A in tech-land, and I'll leave you to sort through the implications.",0.014690671116113663,0.011856263503432274,0.9734530448913574,neutral,0.002834407612681389
+66,2017-05-24 00:58:00,• Eliot Brown (@eliotwb) with some car autopilot rankings .,0.06620333343744278,0.021403968334197998,0.9123927354812622,neutral,0.04479936510324478
+67,2017-05-24 00:58:00,Tesla's (TLSA) not at the top.,0.04017036780714989,0.0668075680732727,0.8930220603942871,neutral,-0.026637200266122818
+68,2017-05-24 00:58:00,• Anne Stevenson-Yang (@documenzi) has an observation about credit .,0.09703069925308228,0.02239523082971573,0.8805740475654602,neutral,0.07463546842336655
+69,2017-05-24 00:58:00,• Matthew Goldstein (@MattGoldstein26) has a note about the CBO budget score .,0.03780942037701607,0.05152478441596031,0.9106658101081848,neutral,-0.013715364038944244
+70,2017-05-24 00:58:00,"A lot happened today, and I got a little deep on the Fed minutes.",0.05752529203891754,0.050950147211551666,0.891524612903595,neutral,0.006575144827365875
+71,2017-05-24 00:58:00,See you tomorrow!,0.11018474400043488,0.08412741869688034,0.8056879043579102,neutral,0.026057325303554535
+72,2017-05-24 00:58:00,"To get this daily market recap as soon as it publishes, please click on my profile, hit the big, orange ""Follow"" button, and choose the real-time alerts option.",0.03752625733613968,0.02764541283249855,0.9348283410072327,neutral,0.009880844503641129
+73,2017-05-24 00:58:00,"See also Advance Auto Parts (AAP) Q1 2017 Results - Earnings Call Transcript on seekingalpha.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011432558298110962,0.016194092109799385,0.9723733067512512,neutral,-0.004761533811688423

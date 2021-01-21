@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-02-09 07:16:00,"In early trading on Tuesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.8%.",0.9372463822364807,0.032299067825078964,0.030454598367214203,positive,0.9049473404884338
+1,2016-02-09 07:16:00,"Year to date, Home Depot has lost about 13.0% of its value.",0.01710616797208786,0.9554348587989807,0.027459006756544113,negative,-0.9383286833763123
+2,2016-02-09 07:16:00,"And the worst performing Dow component thus far on the day is Wal-Mart Stores ( WMT ), trading down 1.4%.",0.02021711692214012,0.9661570191383362,0.01362590678036213,negative,-0.9459398984909058
+3,2016-02-09 07:16:00,Wal-Mart Stores is showing a gain of 7.6% looking at the year to date performance.,0.9482486844062805,0.02487317845225334,0.02687809430062771,positive,0.9233754873275757
+4,2016-02-09 07:16:00,"Two other components making moves today are Exxon Mobil ( XOM ), trading down 1.2%, and Visa ( V ), trading up 2.5% on the day.",0.030921809375286102,0.9363836646080017,0.03269445523619652,negative,-0.905461847782135
+5,2016-02-09 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

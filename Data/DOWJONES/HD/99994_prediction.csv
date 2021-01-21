@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-03-23 22:49:00,"Calamity is the Touchstone of a Brave Mind
+
+Some weeks ago, I opened a fortune cookie to read the following:
+
+I was unfamiliar with the phrase, so I Googled it, and found that the author was not Chinese (which is fine with me because fortune cookies aren't Chinese either) but was none other than the famous Stoic philosopher Lucius Annaeus Seneca, popularly known as Seneca.",0.09083950519561768,0.05557927489280701,0.8535812497138977,neutral,0.03526023030281067
+1,2014-03-23 22:49:00,"The quote comes from Seneca's Epistle XXIV, which deals with ""the misfortunes of good men in this world, and in the prosperity of the wicked.""",0.03381987661123276,0.034798514097929,0.9313816428184509,neutral,-0.0009786374866962433
+2,2014-03-23 22:49:00,"The relevant passage is this:
+
+""Prosperity shows a man but one part of human nature.",0.05337676405906677,0.01032999437302351,0.9362932443618774,neutral,0.04304676875472069
+3,2014-03-23 22:49:00,Nobody knows what such a man is good for; neither in truth does he understand himself for want of experiment.,0.06317275762557983,0.1723347306251526,0.7644925117492676,neutral,-0.10916197299957275
+4,2014-03-23 22:49:00,Temporal happiness is for weak and vulgar minds; but the subduing of public terrors is a work that is reserved for more generous spirits.,0.0467321053147316,0.03878923878073692,0.9144786596298218,neutral,0.007942866533994675
+5,2014-03-23 22:49:00,"Calamity is the touchstone of a brave mind, that resolves to live and die free, and master of itself.",0.3362771272659302,0.014698456041514874,0.6490244269371033,neutral,0.3215786814689636
+6,2014-03-23 22:49:00,"The combatant brings no mettle into the field, that was never bettered; he that has lost blood, and yet keeps his stomach; he that has been under his enemy, and worsted, and yet comes on again, and gathers heart from his misfortunes-that is the man of hope and courage.""",0.45766502618789673,0.1348051130771637,0.4075298309326172,positive,0.32285991311073303
+7,2014-03-23 22:49:00,"In short, the man who has never known adversity, and thus had no chance to demonstrate his character, is an unproven man, while the man who has survived misfortune and returned willingly to battle is the man we should honor and trust.",0.16159497201442719,0.031781867146492004,0.8066231608390808,neutral,0.12981310486793518
+8,2014-03-23 22:49:00,"Which brings me, as you may have suspected, to investing.",0.14019501209259033,0.01106772106140852,0.8487372994422913,neutral,0.12912729382514954
+9,2014-03-23 22:49:00,The past year has been relatively easy for investors.,0.2947278618812561,0.010299833491444588,0.6949723362922668,neutral,0.28442803025245667
+10,2014-03-23 22:49:00,The rising tide of a steady bull market has lifted most investors' boats.,0.7950484752655029,0.1003294438123703,0.10462215542793274,positive,0.6947190165519714
+11,2014-03-23 22:49:00,"I, for one, have enjoyed it very much.",0.23249264061450958,0.013211279176175594,0.754296064376831,neutral,0.2192813605070114
+12,2014-03-23 22:49:00,But I know that these boom times won't last.,0.02698042057454586,0.032082315534353256,0.9409372210502625,neutral,-0.005101894959807396
+13,2014-03-23 22:49:00,I know it because the 100-year chart on my office wall tells me so.,0.09262751042842865,0.018582213670015335,0.8887903094291687,neutral,0.07404530048370361
+14,2014-03-23 22:49:00,"And I know it because I remember, very clearly, the Crash of 1987 (blamed on computer traders), the bear market of 2000-2002 (which followed the Internet Stock Bubble) and the bear market of 2008-2009 (sparked by the subprime mortgage industry).",0.02811000496149063,0.02556614577770233,0.946323812007904,neutral,0.0025438591837882996
+15,2014-03-23 22:49:00,I also remember the smaller tough times in between.,0.03705736622214317,0.051335033029317856,0.9116076231002808,neutral,-0.014277666807174683
+16,2014-03-23 22:49:00,"So I know, as sure as I know the sun will rise tomorrow, that somewhere down the road, hard times will come again.",0.23128721117973328,0.07456643879413605,0.6941463351249695,neutral,0.15672077238559723
+17,2014-03-23 22:49:00,But knowing this does not make me fear the next bear market.,0.09758823364973068,0.16410112380981445,0.7383106350898743,neutral,-0.06651289016008377
+18,2014-03-23 22:49:00,Knowing this does not mean that I invest less aggressively than I did 30 years ago.,0.07436503469944,0.10900264233350754,0.8166323304176331,neutral,-0.034637607634067535
+19,2014-03-23 22:49:00,"Yes, the coming bear market-whenever it comes-will bloody investors.",0.29184257984161377,0.1231621652841568,0.5849952101707458,neutral,0.16868041455745697
+20,2014-03-23 22:49:00,But those who defend themselves properly will live to fight another day.,0.38938838243484497,0.0365537628531456,0.5740578174591064,neutral,0.3528346121311188
+21,2014-03-23 22:49:00,"More importantly, they will live to enjoy the bull market that follows.",0.2777095437049866,0.010747765190899372,0.7115426659584045,neutral,0.2669617831707001
+22,2014-03-23 22:49:00,"In short, he who ""comes on again, and gathers heart from his misfortunes"" is the one to emulate.",0.2533543109893799,0.019651859998703003,0.72699373960495,neutral,0.23370245099067688
+23,2014-03-23 22:49:00,"Among the Cabot stable of investment advisories, you'll fine many advisors who have done exactly that over their careers, and I think emulating them is very good philosophy indeed.",0.31160426139831543,0.008743197657167912,0.6796525716781616,neutral,0.3028610646724701
+24,2014-03-23 22:49:00,Note: this is the back of my fortune.,0.18971200287342072,0.015354077331721783,0.7949339151382446,neutral,0.17435792088508606
+25,2014-03-23 22:49:00,"But if you think there's any value in those ""lucky numbers,"" your prospects as an investor are questionable.",0.05272339656949043,0.29210662841796875,0.6551700234413147,neutral,-0.23938323557376862
+26,2014-03-23 22:49:00,"Moving on to specific stocks, one of greatest benefits of being a chart-reader is that it helps you discover new growth companies before most people know they exist.",0.14837628602981567,0.008117989636957645,0.8435057401657104,neutral,0.1402582973241806
+27,2014-03-23 22:49:00,"If they're in non-consumer fields like semiconductor design or oil exploration or drug development, there's not much you can do for research beyond reading reports.",0.016224287450313568,0.02537926286458969,0.9583964347839355,neutral,-0.009154975414276123
+28,2014-03-23 22:49:00,"But when they're in the consumer retail space, you can actually ""test-drive"" these companies, to see for yourself how they perform.",0.07285913825035095,0.006677843630313873,0.920462965965271,neutral,0.06618129462003708
+29,2014-03-23 22:49:00,"Historically, Cabot analysts had great success in numerous consumer stocks, including Apple ( AAPL ), Home Depot ( HD ), Coach ( COH ), Amazon.com ( AMZN ), Chipotle Mexican Grill (CMG), Green Mountain Coffee Roasters (GMCR), Buffalo Wild Wings (BWLD), Netflix (NFLX) and Tesla (TSLA).",0.3339903652667999,0.00782276876270771,0.6581868529319763,neutral,0.32616758346557617
+30,2014-03-23 22:49:00,"In the process, we've enjoyed test-driving their products and services.",0.6972576975822449,0.010113995522260666,0.29262831807136536,positive,0.6871436834335327
+31,2014-03-23 22:49:00,And now here's a new one to try.,0.1612338125705719,0.01952660083770752,0.819239616394043,neutral,0.14170721173286438
+32,2014-03-23 22:49:00,"It's Zulily ( ZU ) , an online retailer aimed primarily at mothers.",0.019244465976953506,0.006800636183470488,0.9739548563957214,neutral,0.012443829327821732
+33,2014-03-23 22:49:00,"Admittedly, there's nothing unusual about that.",0.041515544056892395,0.030634233728051186,0.9278502464294434,neutral,0.01088131032884121
+34,2014-03-23 22:49:00,"What makes Zulily unusual is its flash-sale model, in which limited quantities of goods are available for limited periods of time.",0.013249765150249004,0.020352132618427277,0.9663981199264526,neutral,-0.007102367468178272
+35,2014-03-23 22:49:00,"In fact, you can't even peruse the company's website without providing an email address.",0.033233337104320526,0.11293479800224304,0.8538318872451782,neutral,-0.07970146089792252
+36,2014-03-23 22:49:00,"And once you do provide it, you'll be targeted with offers for the company's merchandise, ideally tailored to exactly what you need (or want-sometimes, it's hard to know the difference).",0.09473036974668503,0.0068991160951554775,0.8983705043792725,neutral,0.08783125132322311
+37,2014-03-23 22:49:00,(I gave a fake email address so I could nose around.),0.05528372526168823,0.19613198935985565,0.7485843300819397,neutral,-0.14084826409816742
+38,2014-03-23 22:49:00,"Zulily offers about 50 to 60 new deals every day, lasting from one to three days.",0.09054500609636307,0.005696185398846865,0.9037588238716125,neutral,0.08484882116317749
+39,2014-03-23 22:49:00,"And prices during these sales are roughly 50% off list, so shoppers are trained to pay attention, in hopes of catching a bargain.",0.16898666322231293,0.040489912033081055,0.7905234694480896,neutral,0.12849675118923187
+40,2014-03-23 22:49:00,"In addition to clothing, the company offers shoes and accessories for women and their children as well as home furnishings.",0.022467289119958878,0.005644893739372492,0.9718878269195557,neutral,0.016822395846247673
+41,2014-03-23 22:49:00,"And now menswear is offered, too, so the company is expanding.",0.8147252798080444,0.01241790596395731,0.17285679280757904,positive,0.8023073673248291
+42,2014-03-23 22:49:00,And now there's a Zulily app so you can use your phone to stay in touch with latest deals!,0.1112702414393425,0.010413967072963715,0.878315806388855,neutral,0.10085627436637878
+43,2014-03-23 22:49:00,"Sales at the company increased by 132% in 2012 and 110% in 2013, so growth is very good.",0.951263427734375,0.01567750610411167,0.033059146255254745,positive,0.9355859160423279
+44,2014-03-23 22:49:00,"And the chart is attractive, too.",0.3646807372570038,0.0147738391533494,0.6205453872680664,neutral,0.34990689158439636
+45,2014-03-23 22:49:00,"ZU came public in November at 22, but never traded below 35.",0.05655253678560257,0.09322087466716766,0.850226640701294,neutral,-0.036668337881565094
+46,2014-03-23 22:49:00,"It built a nice base at that level, and then gapped higher in February when 2013 results were announced.",0.923672616481781,0.03457899019122124,0.04174842685461044,positive,0.8890936374664307
+47,2014-03-23 22:49:00,"Since then, it's been working on consolidating that gain, and the longer it trades calmly between 55 and 65, the greater the prospects for the next leg up.",0.8187540769577026,0.024184996262192726,0.15706098079681396,positive,0.7945690751075745
+48,2014-03-23 22:49:00,"So, you could just jump in and buy ZU here, but it would be smarter to become a regular reader of Cabot Market Letter, which profiled the stock last week, and which gives regular updates every week of all the stocks in its Model Portfolio.",0.05547095462679863,0.01461006235331297,0.9299190044403076,neutral,0.040860891342163086
+49,2014-03-23 22:49:00,"Analyst Mike Cintolo ""has lost blood, and yet keeps his stomach,"" so you can count on him to do the right thing in the long run.""",0.579118013381958,0.06494197249412537,0.35593995451927185,positive,0.5141760110855103
+50,2014-03-23 22:49:00,Seneca would be proud.,0.28250354528427124,0.016930991783738136,0.7005655169487,neutral,0.26557254791259766
+51,2014-03-23 22:49:00,"Yours in pursuit of wisdom and wealth,
+
+Chief Analyst of Cabot Stock of the Month
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011690255254507065,0.013001621700823307,0.9753081798553467,neutral,-0.0013113664463162422

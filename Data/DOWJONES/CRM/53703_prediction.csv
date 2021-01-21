@@ -1,0 +1,68 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-02-06 23:45:00,"Thirteen years ago, all my hair was dark.",0.09581600874662399,0.10445903986692429,0.7997249960899353,neutral,-0.008643031120300293
+1,2013-02-06 23:45:00,"Thirteen years ago, I could eat my wife's homemade chocolate cookies daily and not gain a pound.",0.13883811235427856,0.08769329637289047,0.7734686136245728,neutral,0.05114481598138809
+2,2013-02-06 23:45:00,And thirteen years ago was the last time investors were really excited about investing in the stock market.,0.09168445318937302,0.01941811479628086,0.8888974785804749,neutral,0.0722663402557373
+3,2013-02-06 23:45:00,"So it makes sense that even though the market has done THIS in the past 12 weeks …
+
+… no one is excited!",0.14758659899234772,0.09835025668144226,0.7540631294250488,neutral,0.04923634231090546
+4,2013-02-06 23:45:00,Because a lot of changes have occurred over the past 13 years.,0.18249191343784332,0.008934958837926388,0.8085731267929077,neutral,0.17355695366859436
+5,2013-02-06 23:45:00,The stock market has been so challenging over the past 13 years that investors have learned to treat these bursts of strength as selling opportunities.,0.5512784719467163,0.027791794389486313,0.4209297299385071,positive,0.5234866738319397
+6,2013-02-06 23:45:00,They've had all long-term bullishness conditioned out of them!,0.10524361580610275,0.17774119973182678,0.717015266418457,neutral,-0.07249758392572403
+7,2013-02-06 23:45:00,"Furthermore, because we've been through numerous economic trials in the past 13 years, almost everyone is less optimistic about the future.",0.03721199929714203,0.7572117447853088,0.20557630062103271,negative,-0.7199997305870056
+8,2013-02-06 23:45:00,So why is the market going up?,0.1398305743932724,0.09204443544149399,0.7681249380111694,neutral,0.04778613895177841
+9,2013-02-06 23:45:00,Because professional investors see opportunity.,0.22835806012153625,0.008871840313076973,0.7627700567245483,neutral,0.21948622167110443
+10,2013-02-06 23:45:00,Because professional investors see value.,0.09874103218317032,0.007761918939650059,0.8934970498085022,neutral,0.09097911417484283
+11,2013-02-06 23:45:00,And because professional investors know it's better to buy early than late.,0.10659771412611008,0.053529009222984314,0.8398732542991638,neutral,0.05306870490312576
+12,2013-02-06 23:45:00,"Some of these professionals have noted the market's recent ""Volume Thrust.""",0.8761950135231018,0.03016849234700203,0.09363650530576706,positive,0.8460265398025513
+13,2013-02-06 23:45:00,"Still others have noted a ""Blast-Off Indicator.""",0.19007974863052368,0.5092169642448425,0.3007032573223114,negative,-0.31913721561431885
+14,2013-02-06 23:45:00,The message from these three signals (and others) is clear.,0.12481015920639038,0.009949982166290283,0.8652398586273193,neutral,0.1148601770401001
+15,2013-02-06 23:45:00,"Money is pouring back into the market at an unexpectedly rapid rate, and it is likely to continue far longer than the vast majority of today's investors expect.",0.8045433759689331,0.024600062519311905,0.1708565056324005,positive,0.7799432873725891
+16,2013-02-06 23:45:00,"So I'm bullish, and I urge you to invest in great growth stocks now, before all your friends do.",0.5858756303787231,0.012814205139875412,0.4013102054595947,positive,0.5730614066123962
+17,2013-02-06 23:45:00,"In recent weeks, I've been writing a series called "" Ten Stocks to Hold Forever ,"" featuring 10 stocks, selected by Cabot editors, that you might choose to, well, ""hold forever.""",0.03755158558487892,0.00819151196628809,0.9542568922042847,neutral,0.029360074549913406
+18,2013-02-06 23:45:00,"The seventh stock is Salesforce.com ( CRM ) , and it was selected by Mike Cintolo, editor of Cabot Market Letter and Cabot Top Ten Trader.",0.10769031196832657,0.005248731933534145,0.8870609402656555,neutral,0.10244157910346985
+19,2013-02-06 23:45:00,"Unusually, Mike has not found an opportunity to do a large write-up on CRM; he only added the stock to his model portfolio in mid-December.",0.04610976576805115,0.2917725443840027,0.6621176600456238,neutral,-0.24566277861595154
+20,2013-02-06 23:45:00,The stock is up 7% since then.,0.945207953453064,0.020892800763249397,0.033899299800395966,positive,0.9243151545524597
+21,2013-02-06 23:45:00,"Just yesterday, however, he did write this:
+
+""Salesforce.com is off to a good start for us, leaping out of its two-year base this week on good volume.",0.9074835181236267,0.04294988885521889,0.049566589295864105,positive,0.8645336031913757
+22,2013-02-06 23:45:00,We've written about the company often during the past year; its various business software products boost productivity and are winning more and more big deals than ever before.,0.9202914834022522,0.016333501785993576,0.06337492167949677,positive,0.9039579629898071
+23,2013-02-06 23:45:00,"We see this as an institutional-quality stock with years of rapid growth ahead of it ... just the kind of name that big investors can pile into, especially if the economy picks up steam.",0.3650907874107361,0.007927726954221725,0.6269814372062683,neutral,0.35716307163238525
+24,2013-02-06 23:45:00,"We think you can buy some around here.""",0.6518710851669312,0.022007938474416733,0.326121062040329,positive,0.6298631429672241
+25,2013-02-06 23:45:00,"Salesforce, as most businesspeople know, provides applications that enable marketers and salespeople to organize their prospects, plan marketing campaigns, track their results and more.",0.03943386301398277,0.004960657097399235,0.9556055068969727,neutral,0.03447320684790611
+26,2013-02-06 23:45:00,It's useful in virtually all industries.,0.10688129812479019,0.005850094370543957,0.887268602848053,neutral,0.10103120654821396
+27,2013-02-06 23:45:00,"Previously labeled software-as-a-service, now it's a major player in the Cloud.",0.19701510667800903,0.007262964732944965,0.7957219481468201,neutral,0.18975214660167694
+28,2013-02-06 23:45:00,It works great on mobile devices.,0.43204548954963684,0.010960106737911701,0.5569944381713867,neutral,0.421085387468338
+29,2013-02-06 23:45:00,"And because users pay on a recurring basis, repeat business is especially high.",0.08358462899923325,0.011661700904369354,0.9047536253929138,neutral,0.07192292809486389
+30,2013-02-06 23:45:00,"The company had almost $3 billion in revenues in the past 12 months, and revenues are growing at a better-than-30% rate, fairly consistently.",0.9387229681015015,0.01462654210627079,0.04665039852261543,positive,0.924096405506134
+31,2013-02-06 23:45:00,"Earnings growth is less regular, because of investments and acquisitions, but it is clearly up.",0.8812537789344788,0.022829469293355942,0.09591672569513321,positive,0.8584243059158325
+32,2013-02-06 23:45:00,"In 2012, the company earned $1.40 a share.",0.05595657601952553,0.008830209262669086,0.9352132081985474,neutral,0.047126367688179016
+33,2013-02-06 23:45:00,"For 2013, analysts are estimating $1.52.",0.021224772557616234,0.013767829164862633,0.9650074243545532,neutral,0.007456943392753601
+34,2013-02-06 23:45:00,It's probably conservative.,0.03600604087114334,0.019153164699673653,0.9448407292366028,neutral,0.01685287617146969
+35,2013-02-06 23:45:00,"Finally, after-tax profit margins are healthy, ranging between 6% and 10% in recent years.",0.8490162491798401,0.016705911606550217,0.13427789509296417,positive,0.8323103189468384
+36,2013-02-06 23:45:00,"That's low for a software company, but it reflects both the investment in growth and the fact that revenues come in a steady stream rather than in big chunks.",0.04412320628762245,0.029245341196656227,0.9266313910484314,neutral,0.014877865090966225
+37,2013-02-06 23:45:00,"In sum, Salesforce is king of the hill in its industry, and there's no one on the horizon that looks capable of altering that, so profit growth looks exceptionally reliable.",0.848139762878418,0.015643995255231857,0.13621629774570465,positive,0.8324957489967346
+38,2013-02-06 23:45:00,And that's why you could hold CRM forever.,0.07413184642791748,0.009904850274324417,0.9159632921218872,neutral,0.06422699987888336
+39,2013-02-06 23:45:00,But you don't have to.,0.046733926981687546,0.034361787140369415,0.9189042448997498,neutral,0.01237213984131813
+40,2013-02-06 23:45:00,"In fact, I recommended CRM in Cabot Stock of the Month (the advisory I edit) back in August of 2009 when it was trading at 52.",0.050718385726213455,0.014658041298389435,0.9346235394477844,neutral,0.03606034442782402
+41,2013-02-06 23:45:00,"It did very well, and I recommended selling in September 2010 at 112 for profit of 113%.",0.5509629249572754,0.01923365704715252,0.4298034608364105,positive,0.5317292809486389
+42,2013-02-06 23:45:00,Those who held now have a profit of 227%.,0.028897784650325775,0.011076320894062519,0.9600258469581604,neutral,0.01782146468758583
+43,2013-02-06 23:45:00,"Finally, a word about valuation.",0.15604938566684723,0.056574948132038116,0.7873756289482117,neutral,0.09947443753480911
+44,2013-02-06 23:45:00,"CRM has a P/E ratio of 111, and that will seem high to some people.",0.20780815184116364,0.018112195655703545,0.7740796208381653,neutral,0.18969595432281494
+45,2013-02-06 23:45:00,"But back in October 2009, after I recommended CRM as the Cabot Stock of the Month , I received the following email from a Dr. Walker in North Dakota.",0.03995194658637047,0.016915181651711464,0.9431329369544983,neutral,0.023036764934659004
+46,2013-02-06 23:45:00,(It's amazing the stuff that my computer saves!),0.15402205288410187,0.016668155789375305,0.8293098211288452,neutral,0.13735389709472656
+47,2013-02-06 23:45:00,"""I was considering acquiring some new stock in Salesforce.com ( CRM ) as per the 'Stock of the Month' recommendation.",0.14712277054786682,0.007878327742218971,0.8449988961219788,neutral,0.1392444372177124
+48,2013-02-06 23:45:00,I noticed that the Price/Earnings ratio is rather high at 110.,0.18149662017822266,0.014769501984119415,0.8037338256835938,neutral,0.16672712564468384
+49,2013-02-06 23:45:00,"In my very beginners understanding, that seems to me a bit of a mini ""stock-bubble,"" where the price of the stock has far surpassed the company's actual/current earning power.",0.32338589429855347,0.04180146008729935,0.6348126530647278,neutral,0.2815844416618347
+50,2013-02-06 23:45:00,"I also do understand that this P/E ratio is a way of assessing ""value"" and that this high number means it is definitely NOT a 'blue chip stock.'",0.0893692821264267,0.021753273904323578,0.8888773918151855,neutral,0.06761600822210312
+51,2013-02-06 23:45:00,"Nevertheless, it gives me some cause for concern.""",0.486539363861084,0.17237479984760284,0.3410857915878296,positive,0.31416457891464233
+52,2013-02-06 23:45:00,"So here we are more than three years later, with CRM up 227%, and its P/E is virtually unchanged!",0.6619167923927307,0.025654666125774384,0.3124285042285919,positive,0.6362621188163757
+53,2013-02-06 23:45:00,"In general, it's a great reminder that P/E has little value for growth-oriented investors.",0.03708594664931297,0.7820497155189514,0.1808643639087677,negative,-0.7449637651443481
+54,2013-02-06 23:45:00,"Admittedly, CRM is different; One factor in its high P/E is the revenue structure.",0.027550745755434036,0.010553949512541294,0.9618952870368958,neutral,0.016996797174215317
+55,2013-02-06 23:45:00,"It makes earnings look lower now, but adds more certainty about the future.",0.3495878577232361,0.24850811064243317,0.40190401673316956,neutral,0.10107974708080292
+56,2013-02-06 23:45:00,"And that's not going to change, so there's no reason to worry about the P/E.",0.023349255323410034,0.03153844550251961,0.9451122879981995,neutral,-0.008189190179109573
+57,2013-02-06 23:45:00,"So I recommend investing in CRM for the short-term, and then contemplating holding for the really long-term.",0.04687151312828064,0.005367778241634369,0.9477607011795044,neutral,0.04150373488664627
+58,2013-02-06 23:45:00,"Yours in pursuit of wisdom and wealth,
+
+Editor of Cabot Stock of the Month
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011234963312745094,0.014774116687476635,0.9739909172058105,neutral,-0.0035391533747315407

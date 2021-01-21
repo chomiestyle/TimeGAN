@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-08 05:50:00,"Buying Home Depot (NYSE: HD) stock today will give you a 2.3% yield, or just a touch higher than the 2.1% you'd get with a Lowe's (NYSE: LOW) purchase.",0.7035967111587524,0.027142928913235664,0.2692602872848511,positive,0.6764537692070007
+1,2017-07-08 05:50:00,That's not an insignificant gap.,0.09395620226860046,0.019404355436563492,0.886639416217804,neutral,0.07455185055732727
+2,2017-07-08 05:50:00,"However, there are good reasons to prefer Lowe's as an income investment over its chief home-improvement rival, even after accounting for that lower yield.",0.4943752586841583,0.04736470803618431,0.45826005935668945,positive,0.4470105469226837
+3,2017-07-08 05:50:00,Lowe's has raised its dividend each year since it went public in 1961.,0.5470040440559387,0.014296838082373142,0.4386991262435913,positive,0.5327072143554688
+4,2017-07-08 05:50:00,"For investors keeping track, that marks 46 straight years of payout boosts -- easily enough to qualify the retailer as a Dividend Aristocrat.",0.9230840802192688,0.01988924667239189,0.05702665075659752,positive,0.9031948447227478
+5,2017-07-08 05:50:00,"In contrast, Home Depot isn't invited to that exclusive income club.",0.018517926335334778,0.05070297047495842,0.9307791590690613,neutral,-0.03218504413962364
+6,2017-07-08 05:50:00,The company paused its dividend for three years during the worst of the housing market crisis after sales slumped and profitability plummeted.,0.029890961945056915,0.9471633434295654,0.022945750504732132,negative,-0.9172723889350891
+7,2017-07-08 05:50:00,"Lowe's operations took a similar hit, but because management had been more conservative in its capital return plans it had slightly more resources available to continue that growth streak.",0.8949604034423828,0.028563939034938812,0.07647573202848434,positive,0.8663964867591858
+8,2017-07-08 05:50:00,"The unbroken streak has helped Lowe's dividend grow at a quicker clip over the last decade, up over 400% compared to Home Depot's roughly 300% boost.",0.954958975315094,0.018986491486430168,0.026054563000798225,positive,0.9359725117683411
+9,2017-07-08 05:50:00,"Lowe's aims to pay out just 35% of its annual earnings in dividends, compared to Home Depot's 55% goal .",0.06276237219572067,0.7771111726760864,0.1601264327764511,negative,-0.7143487930297852
+10,2017-07-08 05:50:00,"A major benefit of that conservative payout ratio, besides its built-in protection during market tumbles, is that it leaves room for growth.",0.8747144937515259,0.01289580762386322,0.11238975822925568,positive,0.8618186712265015
+11,2017-07-08 05:50:00,"There's not much short-term potential for this payout ratio rising, especially since Lowe's is busy shelling out on expanding its store base right now.",0.7736167907714844,0.04403216391801834,0.1823510080575943,positive,0.7295846343040466
+12,2017-07-08 05:50:00,"It plans to add 35 new locations this year, after all.",0.6593692898750305,0.011821304447948933,0.3288094401359558,positive,0.6475479602813721
+13,2017-07-08 05:50:00,"On the other hand, Home Depot's steady sales footprint likely played a big role in management's more aggressive payout target.",0.7475964426994324,0.014392931014299393,0.23801054060459137,positive,0.7332035303115845
+14,2017-07-08 05:50:00,"Lowe's is up to 2,129 home improvement stores, not far from the market leader's 2,278 warehouses.",0.31203892827033997,0.16517092287540436,0.5227901339530945,neutral,0.1468680053949356
+15,2017-07-08 05:50:00,"That makes it likely that at some point in the not-too-distant future, Lowe's will be close to full market coverage and can ease up on the physical expansion plans.",0.9298348426818848,0.014824915677309036,0.05534026026725769,positive,0.9150099158287048
+16,2017-07-08 05:50:00,A payout ratio that's closer to 50% of sales than 35% would be a natural consequence of that evolution.,0.2342170625925064,0.010549764148890972,0.7552332282066345,neutral,0.22366729378700256
+17,2017-07-08 05:50:00,Lowe's trails Home Depot -- by a wide margin in many cases -- in several key financial and operating efficiency metrics.,0.7130394577980042,0.018157152459025383,0.2688034474849701,positive,0.694882333278656
+18,2017-07-08 05:50:00,Its profit margin is 9% compared to Home Depot's 14%.,0.45690298080444336,0.4851875901222229,0.057909440249204636,negative,-0.02828460931777954
+19,2017-07-08 05:50:00,"Lowe's return on invested capital is less than half Home Depot's 30%, too.",0.033603884279727936,0.7665807008743286,0.19981540739536285,negative,-0.7329767942428589
+20,2017-07-08 05:50:00,And the retailer's comparable-store sales growth consistently lags that of its bigger rival.,0.15899401903152466,0.7994598746299744,0.04154606908559799,negative,-0.6404658555984497
+21,2017-07-08 05:50:00,"Last quarter, for example, its comps were roughly one third of the 6% that Home Depot managed.",0.017058055847883224,0.022553324699401855,0.9603886604309082,neutral,-0.005495268851518631
+22,2017-07-08 05:50:00,"To some extent, these gaps represent benefits of scale and size that Lowe's isn't likely to replicate any time soon.",0.4933975040912628,0.016616761684417725,0.48998576402664185,positive,0.4767807424068451
+23,2017-07-08 05:50:00,"After all, Home Depot is set to pass $100 billion of annual sales in the next year while Lowe's revenue base hovers around $70 billion.",0.6743214726448059,0.01774436980485916,0.3079342246055603,positive,0.6565771102905273
+24,2017-07-08 05:50:00,"Home Depot's management team is also unusually skilled at capital allocation, and so it would be a stretch be expect Lowe's to get its ROIC figure up to similarly stratospheric levels .",0.8213760256767273,0.01743173971772194,0.16119229793548584,positive,0.8039442896842957
+25,2017-07-08 05:50:00,"That said, the company is exposed to all of the same market trends that are lifting Home Depot's operations right now.",0.3189493417739868,0.024734141305088997,0.6563164591789246,neutral,0.29421520233154297
+26,2017-07-08 05:50:00,"Like its larger rival, Lowe's is well positioned to cash in from rising home prices, rebounding household formation rates, and higher retail spending on the part of professional contractors.",0.9439824819564819,0.018695952370762825,0.037321507930755615,positive,0.9252865314483643
+27,2017-07-08 05:50:00,"Thus, its business has a path toward improving its profitability and comps growth figures to at least bring them closer to the rates enjoyed by the market leader over time.",0.9508765339851379,0.017265314236283302,0.031858209520578384,positive,0.9336112141609192
+28,2017-07-08 05:50:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+29,2017-07-08 05:50:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+30,2017-07-08 05:50:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+31,2017-07-08 05:50:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2017-07-08 05:50:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2017-07-08 05:50:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+34,2017-07-08 05:50:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+35,2017-07-08 05:50:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2017-07-08 05:50:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

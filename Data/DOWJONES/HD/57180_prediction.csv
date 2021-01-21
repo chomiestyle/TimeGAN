@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-19 04:16:00,"The most recent housing market data was, frankly, just awful.",0.04079575836658478,0.8399129509925842,0.11929123848676682,negative,-0.7991172075271606
+1,2020-05-19 04:16:00,"Reports from the U.S. Census Bureau, the Department of Housing and Urban Development (HUD), and the National Association of Realtors (NAR) revealed updated data through the end of March 2020.",0.052051182836294174,0.009554272517561913,0.9383945465087891,neutral,0.04249691218137741
+2,2020-05-19 04:16:00,Sales were down.,0.01788167469203472,0.9641225934028625,0.017995817586779594,negative,-0.9462409019470215
+3,2020-05-19 04:16:00,Construction starts were down.,0.029681874439120293,0.9151535034179688,0.05516467243432999,negative,-0.8854716420173645
+4,2020-05-19 04:16:00,Consumer confidence was down.,0.031300902366638184,0.9145570397377014,0.05414200946688652,negative,-0.8832561373710632
+5,2020-05-19 04:16:00,The industry's outlook was ... up?,0.6094626784324646,0.03380965441465378,0.3567276895046234,positive,0.5756530165672302
+6,2020-05-19 04:16:00,"Yes, several real estate industry insiders think the conditions reflected in that ugly data may actually be good for homebuilders like D.R.",0.6558926105499268,0.12178388983011246,0.222323477268219,positive,0.5341086983680725
+7,2020-05-19 04:16:00,"Horton (NYSE: DHI) and PulteGroup (NYSE: PHM), as well as realtors like Zillow Group (NASDAQ: Z)(NASDAQ: ZG), and home improvement stores like Home Depot (NYSE: HD) and Lowe's (NYSE: LOW).",0.01225134264677763,0.01900535449385643,0.9687433242797852,neutral,-0.0067540118470788
+8,2020-05-19 04:16:00,Here's why that bad data is inspiring such confidence.,0.38955897092819214,0.05773759260773659,0.5527034401893616,neutral,0.33182138204574585
+9,2020-05-19 04:16:00,"First, here's the raw data from March, and the percentage change when compared to February -- which was a very strong month for home sales -- and March 2019:
+
+Data sources: NAR (PHSI), Census Bureau/HUD (all else).",0.025698071345686913,0.0282753799110651,0.946026623249054,neutral,-0.002577308565378189
+10,2020-05-19 04:16:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+11,2020-05-19 04:16:00,"Aside from a very small increase in housing starts, everything was down both sequentially and year over year.",0.025925932452082634,0.8208328485488892,0.15324124693870544,negative,-0.7949069142341614
+12,2020-05-19 04:16:00,"It's hard to remember now, but March started out as a relatively normal month.",0.06372503936290741,0.033934395760297775,0.9023405313491821,neutral,0.029790643602609634
+13,2020-05-19 04:16:00,"Sure, the broader markets peaked in late February, but trading was relatively normal until the stock market's epic one-day slide on March 11.",0.037307292222976685,0.11603958159685135,0.846653163433075,neutral,-0.07873228937387466
+14,2020-05-19 04:16:00,Many of the statewide stay-at-home orders didn't begin coming out until March 19.,0.02366938255727291,0.06682927906513214,0.909501314163208,neutral,-0.04315989464521408
+15,2020-05-19 04:16:00,"So we can expect the April data, which gets released in late May, to look even worse.",0.02087613195180893,0.9163788557052612,0.06274504959583282,negative,-0.8955027461051941
+16,2020-05-19 04:16:00,But housing industry stocks appear to be shrugging off this data.,0.032989341765642166,0.8695436716079712,0.09746696054935455,negative,-0.8365543484687805
+17,2020-05-19 04:16:00,All the stocks mentioned above are outperforming the broader market since late April when these numbers were released.,0.26833057403564453,0.6166209578514099,0.11504840850830078,negative,-0.3482903838157654
+18,2020-05-19 04:16:00,"Many insiders believe that while this data shows activity in the housing market has been brought to a screeching halt by the coronavirus, overall housing demand is still high.",0.22924675047397614,0.4568246006965637,0.31392866373062134,negative,-0.22757785022258759
+19,2020-05-19 04:16:00,They contend that the normally high level of spring sales has simply been pushed into the fall as opposed to eliminated altogether.,0.07569099962711334,0.5738904476165771,0.3504185378551483,negative,-0.498199462890625
+20,2020-05-19 04:16:00,Mortgage application data supplied by the Mortgage Bankers' Association seems to support this theory.,0.06354500353336334,0.0157734677195549,0.9206814765930176,neutral,0.04777153581380844
+21,2020-05-19 04:16:00,"After falling for five straight weeks in March and most of April, purchase applications (as opposed to refinancing applications) have increased every week for the past three weeks, spurred on by rock-bottom mortgage rates.",0.8776022791862488,0.0819706991314888,0.040427010506391525,positive,0.7956315875053406
+22,2020-05-19 04:16:00,"Optimists also point to consistently strong home prices, which indicate demand is still high.",0.8160861134529114,0.019462626427412033,0.1644512265920639,positive,0.7966234683990479
+23,2020-05-19 04:16:00,"In a press release, NAR Chief Economist Lawrence Yun said: ""Although the pandemic continues to be a major disruption in regards to the timing of home sales, home prices have been holding up well.",0.8177759051322937,0.13795234262943268,0.04427168518304825,positive,0.6798235774040222
+24,2020-05-19 04:16:00,"In fact, due to the ongoing housing shortage, home prices are likely to squeeze out a gain in 2020 to a new record high.""",0.7961231470108032,0.17120352387428284,0.032673295587301254,positive,0.6249196529388428
+25,2020-05-19 04:16:00,"Of course, high volumes of mortgage applications only convert to home sales if those applications are approved.",0.016452638432383537,0.014761557802557945,0.96878582239151,neutral,0.001691080629825592
+26,2020-05-19 04:16:00,There's some evidence that banks have tightened their lending standards due to the COVID-19 pandemic and new federal regulations expanding mortgage loan forbearance (the ability to skip or reduce payments while avoiding foreclosure).,0.40388309955596924,0.1907784640789032,0.4053384065628052,neutral,0.21310463547706604
+27,2020-05-19 04:16:00,"Another red flag for homebuilders, in particular, shows up in the NAR data when sales are broken out by home price.",0.04675769433379173,0.8739391565322876,0.07930321246385574,negative,-0.8271814584732056
+28,2020-05-19 04:16:00,"In March, every region of the country saw year-over-year growth in sales of existing homes priced between $250,000 and $1 million.",0.9069334268569946,0.016309557482600212,0.076757051050663,positive,0.8906238675117493
+29,2020-05-19 04:16:00,"For homes priced under $250,000, though, the picture was sharply different.",0.06893078237771988,0.1634998619556427,0.767569363117218,neutral,-0.09456907957792282
+30,2020-05-19 04:16:00,"Sales of homes priced between $100,000 and $250,000 fell in every region but the Midwest, while sales of homes priced below $100,000 fell by double-digit percentages across the board, in every region.",0.016144363209605217,0.9702423810958862,0.013613327406346798,negative,-0.9540980458259583
+31,2020-05-19 04:16:00,There wasn't a corresponding increase in overall new-home sales.,0.3969980478286743,0.059491731226444244,0.5435101985931396,neutral,0.33750632405281067
+32,2020-05-19 04:16:00,That suggests that first-time buyers looking for starter homes are at the very least putting their plans on hold and at worst are exiting the market in higher numbers than more affluent purchasers.,0.0374697670340538,0.8703233599662781,0.0922069177031517,negative,-0.8328536152839661
+33,2020-05-19 04:16:00,"Most homebuilders, including Horton and PulteGroup, have invested heavily in the starter home market, which up until now had been the hottest segment in the country.",0.3493494391441345,0.009854012168943882,0.6407965421676636,neutral,0.3394954204559326
+34,2020-05-19 04:16:00,These figures indicate that those investments might not pay off.,0.023397328332066536,0.9299823045730591,0.04662035405635834,negative,-0.9065849781036377
+35,2020-05-19 04:16:00,"Ultimately, whether the housing market sees a swift recovery or goes into a prolonged slump will depend on what happens with the coronavirus.",0.02794071100652218,0.06961317360401154,0.9024461507797241,neutral,-0.04167246073484421
+36,2020-05-19 04:16:00,"As most states begin to relax stay-at-home orders, if regular commerce resumes and a large proportion of unemployed workers get rehired quickly, expect a robust housing recovery.",0.9022378921508789,0.03302394971251488,0.06473822891712189,positive,0.8692139387130737
+37,2020-05-19 04:16:00,"But if things don't go according to those optimistic plans -- if there's a resurgence of COVID-19 cases and states need to go back into lockdown mode, for example, or if mass unemployment continues -- the housing market could be in for a long, hard slog, and housing industry stocks like D.R.",0.056242313235998154,0.6203818321228027,0.3233758807182312,negative,-0.5641395449638367
+38,2020-05-19 04:16:00,"Horton, PulteGroup, Zillow, Home Depot, and Lowe's will likely be hit hard.",0.03458825498819351,0.866098940372467,0.09931281208992004,negative,-0.8315106630325317
+39,2020-05-19 04:16:00,Smart investors should probably wait to see where things are headed before buying into this industry right now.,0.09890639036893845,0.011672386899590492,0.8894211649894714,neutral,0.0872340053319931
+40,2020-05-19 04:16:00,10 stocks we like better than D.R.,0.335976243019104,0.033093009144067764,0.6309307813644409,neutral,0.30288323760032654
+41,2020-05-19 04:16:00,"Horton
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11322760581970215,0.061582308262586594,0.8251901268959045,neutral,0.051645297557115555
+42,2020-05-19 04:16:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+43,2020-05-19 04:16:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and D.R.",0.3895934522151947,0.013033979572355747,0.5973725914955139,neutral,0.37655946612358093
+44,2020-05-19 04:16:00,Horton wasn't one of them!,0.11325851082801819,0.2197815477848053,0.6669598817825317,neutral,-0.10652303695678711
+45,2020-05-19 04:16:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+46,2020-05-19 04:16:00,John Bromels has no position in any of the stocks mentioned.,0.008775584399700165,0.04601343721151352,0.9452110528945923,neutral,-0.037237852811813354
+47,2020-05-19 04:16:00,"The Motley Fool owns shares of and recommends Home Depot, Zillow Group (A shares), and Zillow Group (C shares).",0.01550968922674656,0.010462791658937931,0.9740274548530579,neutral,0.005046897567808628
+48,2020-05-19 04:16:00,The Motley Fool recommends Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.02138189785182476,0.03290632367134094,0.9457117319107056,neutral,-0.011524425819516182
+49,2020-05-19 04:16:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

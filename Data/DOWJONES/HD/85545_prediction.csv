@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-23 23:30:00,Investors on the lookout for stocks that have the potential to offer the best growth as well as value investing may consider the growth at a reasonable price or GARP strategy.,0.23867931962013245,0.012072457000613213,0.7492482662200928,neutral,0.22660686075687408
+1,2017-10-23 23:30:00,This well-liked strategy helps investors gain exposure to stocks that have impressive growth prospects but are trading at a discount.,0.7701375484466553,0.014213494956493378,0.21564900875091553,positive,0.7559240460395813
+2,2017-10-23 23:30:00,"Unlike the blend strategy, a portfolio created on the GARP way of investing is expected to help find stocks that offer the best of both value and growth investing.",0.36654356122016907,0.0075813415460288525,0.6258751153945923,neutral,0.35896220803260803
+3,2017-10-23 23:30:00,The GARP approach prefers stocks that are priced below the market or any reasonable target determined by fundamental analysis.,0.016859592869877815,0.008689514361321926,0.9744508862495422,neutral,0.008170078508555889
+4,2017-10-23 23:30:00,"These stocks also have solid prospects in terms of cash flow, revenues, earnings per share (EPS), and so on.",0.8819684982299805,0.013875873759388924,0.10415556281805038,positive,0.8680925965309143
+5,2017-10-23 23:30:00,Strong earnings growth history and impressive earnings prospects are the main concepts that GARP investors borrow from the growth investing strategy.,0.4686301350593567,0.009013577364385128,0.5223563313484192,neutral,0.4596165716648102
+6,2017-10-23 23:30:00,"However, instead of super-normal growth rates, picking stocks with a more stable and reasonable growth rate is a preferred tactic of GARP investors.",0.16064926981925964,0.011466778814792633,0.8278839588165283,neutral,0.1491824984550476
+7,2017-10-23 23:30:00,"Hence, growth rates between 10% and 20% are considered ideal under the strategy.",0.6127417683601379,0.010810049250721931,0.3764481544494629,positive,0.6019316911697388
+8,2017-10-23 23:30:00,Another growth metric that is considered by both growth and GARP investors is return on equity (ROE).,0.19281472265720367,0.0066369990818202496,0.800548255443573,neutral,0.18617773056030273
+9,2017-10-23 23:30:00,GARP investors look for strong and higher ROE compared to the industry average to identify superior stocks.,0.8130380511283875,0.022370105609297752,0.16459181904792786,positive,0.7906679511070251
+10,2017-10-23 23:30:00,"Moreover, stocks with positive cash flow find precedence under the GARP plan.",0.8532999753952026,0.017511675134301186,0.12918829917907715,positive,0.8357883095741272
+11,2017-10-23 23:30:00,GARP investing gives priority to one of the popular value metrics - price-to-earnings (P/E) ratio.,0.1089087501168251,0.007054803892970085,0.8840364813804626,neutral,0.10185394436120987
+12,2017-10-23 23:30:00,"Though this investing style picks stocks with higher P/E ratios compared to value investors, it avoids companies with extremely high P/E ratios.",0.1615467667579651,0.01749853789806366,0.8209547400474548,neutral,0.14404822885990143
+13,2017-10-23 23:30:00,"Moreover, the price-to-book value (P/B) ratio is another value metric that is considered.",0.05996532738208771,0.006412792485207319,0.9336219429969788,neutral,0.0535525344312191
+14,2017-10-23 23:30:00,"Using the GARP principle, we have run a screen to identify stocks that should offer solid returns in the near term.",0.3562718629837036,0.00834182184189558,0.6353863477706909,neutral,0.34793004393577576
+15,2017-10-23 23:30:00,"Along with the criteria discussed in the above section, we have considered a favorable Zacks Rank #1 (Strong Buy) or 2 (Buy) .",0.3725638687610626,0.016006948426365852,0.6114292144775391,neutral,0.3565569221973419
+16,2017-10-23 23:30:00,Last 5-year EPS & projected 3-5 year EPS growth rates between 10% and 20% (Strong EPS growth history and prospects ensure improving business.),0.9269009232521057,0.014669779688119888,0.0584292933344841,positive,0.9122311472892761
+17,2017-10-23 23:30:00,ROE (over the past 12 months) greater than the industry average (Higher ROE compared to the industry average indicates superior stocks.),0.9191448092460632,0.03449561819434166,0.046359557658433914,positive,0.8846492171287537
+18,2017-10-23 23:30:00,P/E and P/B ratios less than M-industry average (P/E and P/B ratios less than that of the industry indicates that the stocks are undervalued.),0.028165973722934723,0.9410460591316223,0.03078794851899147,negative,-0.9128800630569458
+19,2017-10-23 23:30:00,"These few criteria have narrowed down the universe of over 7,700 stocks to only eight.",0.05407395213842392,0.04299565777182579,0.9029303789138794,neutral,0.01107829436659813
+20,2017-10-23 23:30:00,"Here are four stocks that made it through the screen:
+
+Los Angeles, CA-based CBRE Group Inc (NYSE: CBG ) operates as a commercial real estate services and investment company.",0.02553553506731987,0.006227345205843449,0.9682371020317078,neutral,0.019308190792798996
+21,2017-10-23 23:30:00,It has an average four-quarter positive earnings surprise of 18.71% and a Zacks Rank #1.,0.7382424473762512,0.033213384449481964,0.22854416072368622,positive,0.7050290703773499
+22,2017-10-23 23:30:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+23,2017-10-23 23:30:00,MSCI Inc. (NYSE: MSCI ) is a leading provider of investment decision support tools to investment institutions worldwide.,0.38978779315948486,0.007876318879425526,0.6023359298706055,neutral,0.3819114863872528
+24,2017-10-23 23:30:00,The company has an average four-quarter positive earnings surprise of 5.60% and a Zacks Rank #2.,0.7418846487998962,0.03419998288154602,0.22391532361507416,positive,0.7076846361160278
+25,2017-10-23 23:30:00,Home Depot Inc (NYSE: HD ) is the one of world's largest home improvement retailer.,0.3451290428638458,0.008470127359032631,0.6464008092880249,neutral,0.33665892481803894
+26,2017-10-23 23:30:00,The company has an average four-quarter positive earnings surprise of 3.77% and carries a Zacks Rank #2.,0.6109732985496521,0.02625293657183647,0.3627737760543823,positive,0.5847203731536865
+27,2017-10-23 23:30:00,Cintas Corporation (NASDAQ: CTAS ) is a provider of corporate identity uniforms through rental and sales programs as well as a provider of related business services.,0.05075373873114586,0.005396716762334108,0.943849503993988,neutral,0.04535702243447304
+28,2017-10-23 23:30:00,The company has an average four-quarter positive earnings surprise of 6.96% and carries a Zacks Rank #2.,0.6072583198547363,0.025705762207508087,0.36703595519065857,positive,0.5815525650978088
+29,2017-10-23 23:30:00,Get the rest of the stocks on the list and start putting this and other ideas to the test.,0.08288666605949402,0.008611055091023445,0.9085022211074829,neutral,0.07427561283111572
+30,2017-10-23 23:30:00,It can all be done with the Research Wizard stock picking and back testing software.,0.023799557238817215,0.007466862443834543,0.9687336087226868,neutral,0.01633269526064396
+31,2017-10-23 23:30:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+32,2017-10-23 23:30:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+33,2017-10-23 23:30:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+34,2017-10-23 23:30:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+35,2017-10-23 23:30:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+36,2017-10-23 23:30:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+37,2017-10-23 23:30:00,• Is it Time to Buy Regional Bank ETFs?,0.13599029183387756,0.008665138855576515,0.8553445935249329,neutral,0.1273251473903656
+38,2017-10-23 23:30:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+39,2017-10-23 23:30:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+40,2017-10-23 23:30:00,Disclosure: Performance information for Zacks' portfolios and strategies are available at:https://www.zacks.com/performance.,0.01448096428066492,0.00816013291478157,0.9773589372634888,neutral,0.00632083136588335
+41,2017-10-23 23:30:00,"Zacks Restaurant Recommendations: In addition to dining at these special places, you can feast on their stock shares.",0.043785810470581055,0.011856164783239365,0.9443580508232117,neutral,0.03192964568734169
+42,2017-10-23 23:30:00,A Zacks Special Report spotlights 5 recent IPOs to watch plus 2 stocks that offer immediate promise in a booming sector.,0.8554665446281433,0.022795524448156357,0.1217380091547966,positive,0.832671046257019
+43,2017-10-23 23:30:00,"Download it free »
+• 4 Key Upstream Energy Stocks to Buy Under $10 Now
+
+The post Invest in These Top 4 GARP Stocks Now appeared first on InvestorPlace .",0.10763181000947952,0.023716673254966736,0.8686515688896179,neutral,0.08391513675451279
+44,2017-10-23 23:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

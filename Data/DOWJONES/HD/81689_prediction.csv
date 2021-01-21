@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-18 00:51:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Microsoft Corporation (Symbol: MSFT), where a total volume of 188,162 contracts has been traded thus far today, a contract volume which is representative of approximately 18.8 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.03381441906094551,0.012530749663710594,0.9536548256874084,neutral,0.021283669397234917
+1,2019-01-18 00:51:00,"That number works out to 43.6% of MSFT's average daily trading volume over the past month, of 43.2 million shares.",0.6699421405792236,0.020566385239362717,0.30949151515960693,positive,0.6493757367134094
+2,2019-01-18 00:51:00,"Particularly high volume was seen for the $107 strike put option expiring January 18, 2019 , with 11,815 contracts trading so far today, representing approximately 1.2 million underlying shares of MSFT.",0.21955344080924988,0.010197429917752743,0.77024906873703,neutral,0.20935600996017456
+3,2019-01-18 00:51:00,"Below is a chart showing MSFT's trailing twelve month trading history, with the $107 strike highlighted in orange:
+
+Intel Corp (Symbol: INTC) options are showing a volume of 116,261 contracts thus far today.",0.027155540883541107,0.03598742187023163,0.9368571043014526,neutral,-0.008831880986690521
+4,2019-01-18 00:51:00,"That number of contracts represents approximately 11.6 million underlying shares, working out to a sizeable 43.5% of INTC's average daily trading volume over the past month, of 26.7 million shares.",0.12240671366453171,0.009361912496387959,0.8682313561439514,neutral,0.11304479837417603
+5,2019-01-18 00:51:00,"Particularly high volume was seen for the $52.50 strike call option expiring March 15, 2019 , with 20,669 contracts trading so far today, representing approximately 2.1 million underlying shares of INTC.",0.3014093041419983,0.011198138818144798,0.68739253282547,neutral,0.29021117091178894
+6,2019-01-18 00:51:00,"Below is a chart showing INTC's trailing twelve month trading history, with the $52.50 strike highlighted in orange:
+
+And Home Depot Inc (Symbol: HD) options are showing a volume of 22,855 contracts thus far today.",0.017083166167140007,0.043332669883966446,0.9395841360092163,neutral,-0.02624950371682644
+7,2019-01-18 00:51:00,"That number of contracts represents approximately 2.3 million underlying shares, working out to a sizeable 42.7% of HD's average daily trading volume over the past month, of 5.3 million shares.",0.15421506762504578,0.009850554168224335,0.8359343409538269,neutral,0.14436450600624084
+8,2019-01-18 00:51:00,"Especially high volume was seen for the $180 strike call option expiring January 18, 2019 , with 1,795 contracts trading so far today, representing approximately 179,500 underlying shares of HD.",0.2413090467453003,0.011131780222058296,0.747559130191803,neutral,0.23017726838588715
+9,2019-01-18 00:51:00,"Below is a chart showing HD's trailing twelve month trading history, with the $180 strike highlighted in orange:
+
+For the various different available expirations for MSFT options , INTC options , or HD options , visit StockOptionsChannel.com.",0.00971965491771698,0.022439192980527878,0.9678410887718201,neutral,-0.012719538062810898
+10,2019-01-18 00:51:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

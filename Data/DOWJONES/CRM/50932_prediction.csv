@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-08-15 07:16:00,"In early trading on Monday, shares of Xylem ( XYL ) topped the list of the day's best performing components of the S&P 500 index, trading up 2.8%.",0.9453988075256348,0.02806887961924076,0.02653220295906067,positive,0.9173299074172974
+1,2016-08-15 07:16:00,"Year to date, Xylem registers a 36.5% gain.",0.9430078268051147,0.01644558645784855,0.04054661840200424,positive,0.9265622496604919
+2,2016-08-15 07:16:00,"And the worst performing S&P 500 component thus far on the day is Salesforce.com ( CRM ), trading down 3.8%.",0.020906860008835793,0.9674617052078247,0.01163144875317812,negative,-0.9465548396110535
+3,2016-08-15 07:16:00,Salesforce.com is showing a gain of 0.2% looking at the year to date performance.,0.9518959522247314,0.024558136239647865,0.023545965552330017,positive,0.9273378252983093
+4,2016-08-15 07:16:00,"Two other components making moves today are Alliance Data Systems ( ADS ), trading down 2.6%, and Juniper Networks ( JNPR ), trading up 2.6% on the day.",0.03085407055914402,0.9414195418357849,0.027726391330361366,negative,-0.9105654954910278
+5,2016-08-15 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

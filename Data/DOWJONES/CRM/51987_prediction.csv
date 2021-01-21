@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-21 07:16:00,"In early trading on Friday, shares of Hewlett-Packard ( HPQ ) topped the list of the day's best performing components of the S&P 500 index, trading up 6.1%.",0.9386133551597595,0.03090258687734604,0.03048405423760414,positive,0.9077107906341553
+1,2015-08-21 07:16:00,"Year to date, Hewlett-Packard has lost about 27.7% of its value.",0.01681429333984852,0.9577134251594543,0.025472337380051613,negative,-0.940899133682251
+2,2015-08-21 07:16:00,"And the worst performing S&P 500 component thus far on the day is Intuit ( INTU ), trading down 11.5%.",0.020341869443655014,0.9664652347564697,0.013192903250455856,negative,-0.9461233615875244
+3,2015-08-21 07:16:00,Intuit is lower by about 1.2% looking at the year to date performance.,0.02075737714767456,0.965876579284668,0.013366049155592918,negative,-0.9451192021369934
+4,2015-08-21 07:16:00,"Two other components making moves today are Ross Stores ( ROST ), trading down 6.8%, and Salesforce.com ( CRM ), trading up 5.3% on the day.",0.023518456146121025,0.9521170258522034,0.024364490061998367,negative,-0.9285985827445984
+5,2015-08-21 07:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

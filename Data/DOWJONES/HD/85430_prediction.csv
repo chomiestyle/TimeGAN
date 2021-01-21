@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-03 07:15:00,"In early trading on Friday, shares of Apple topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.0%.",0.9338417649269104,0.03532310947775841,0.03083518147468567,positive,0.8985186815261841
+1,2017-11-03 07:15:00,"Year to date, Apple registers a 48.0% gain.",0.9366869926452637,0.024042200297117233,0.03927072882652283,positive,0.9126448035240173
+2,2017-11-03 07:15:00,"And the worst performing Dow component thus far on the day is Goldman Sachs Group, trading down 1.2%.",0.019672662019729614,0.96383136510849,0.016495926305651665,negative,-0.944158673286438
+3,2017-11-03 07:15:00,Goldman Sachs Group is showing a gain of 1.9% looking at the year to date performance.,0.9521017074584961,0.02067342959344387,0.027224838733673096,positive,0.9314282536506653
+4,2017-11-03 07:15:00,"Two other components making moves today are Dowdupont, trading down 1.0%, and Home Depot, trading up 1.1% on the day.",0.041249535977840424,0.9096484780311584,0.04910200089216232,negative,-0.8683989644050598
+5,2017-11-03 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

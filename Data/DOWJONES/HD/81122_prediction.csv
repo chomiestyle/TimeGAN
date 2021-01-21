@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-05-10 11:28:00,"Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Emerson Electric Co. (Symbol: EMR), where a total of 20,938 contracts have traded so far, representing approximately 2.1 million underlying shares.",0.38889917731285095,0.025393357500433922,0.5857074856758118,neutral,0.3635058104991913
+1,2019-05-10 11:28:00,That amounts to about 73.7% of EMR's average daily trading volume over the past month of 2.8 million shares.,0.02477535605430603,0.009479370899498463,0.965745210647583,neutral,0.015295985154807568
+2,2019-05-10 11:28:00,"Especially high volume was seen for the $68 strike call option expiring May 17, 2019, with 14,136 contracts trading so far today, representing approximately 1.4 million underlying shares of EMR.",0.2775678038597107,0.011471951380372047,0.7109602093696594,neutral,0.2660958468914032
+3,2019-05-10 11:28:00,"Below is a chart showing EMR's trailing twelve month trading history, with the $68 strike highlighted in orange:
+
+Home Depot Inc (Symbol: HD) saw options trading volume of 23,359 contracts, representing approximately 2.3 million underlying shares or approximately 71.1% of HD's average daily trading volume over the past month, of 3.3 million shares.",0.021391423419117928,0.012305611744523048,0.9663029313087463,neutral,0.00908581167459488
+4,2019-05-10 11:28:00,"Particularly high volume was seen for the $192.50 strike put option expiring May 10, 2019, with 1,205 contracts trading so far today, representing approximately 120,500 underlying shares of HD.",0.18626829981803894,0.009490150026977062,0.8042415976524353,neutral,0.1767781525850296
+5,2019-05-10 11:28:00,"Below is a chart showing HD's trailing twelve month trading history, with the $192.50 strike highlighted in orange:
+
+And Overstock.com Inc (Symbol: OSTK) saw options trading volume of 12,509 contracts, representing approximately 1.3 million underlying shares or approximately 70.6% of OSTK's average daily trading volume over the past month, of 1.8 million shares.",0.020137859508395195,0.012937401421368122,0.966924786567688,neutral,0.007200458087027073
+6,2019-05-10 11:28:00,"Particularly high volume was seen for the $15 strike call option expiring June 21, 2019, with 1,225 contracts trading so far today, representing approximately 122,500 underlying shares of OSTK.",0.28268688917160034,0.013001607730984688,0.7043114900588989,neutral,0.2696852684020996
+7,2019-05-10 11:28:00,"Below is a chart showing OSTK's trailing twelve month trading history, with the $15 strike highlighted in orange:
+
+For the various different available expirations for EMR options, HD options, or OSTK options, visit StockOptionsChannel.com.",0.00989171676337719,0.02556500770151615,0.9645432829856873,neutral,-0.015673290938138962
+8,2019-05-10 11:28:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-15 07:21:00,"In early trading on Tuesday, shares of Apple ( AAPL ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.1%.",0.9377272725105286,0.03189581632614136,0.030376899987459183,positive,0.9058314561843872
+1,2016-03-15 07:21:00,"Year to date, Apple has lost about 0.6% of its value.",0.01692623645067215,0.9610418081283569,0.022032015025615692,negative,-0.9441155791282654
+2,2016-03-15 07:21:00,"And the worst performing Dow component thus far on the day is Caterpillar ( CAT ), trading down 2.0%.",0.020512601360678673,0.9655795097351074,0.01390796434134245,negative,-0.9450669288635254
+3,2016-03-15 07:21:00,Caterpillar is showing a gain of 4.9% looking at the year to date performance.,0.9474703669548035,0.018679354339838028,0.03385026380419731,positive,0.9287909865379333
+4,2016-03-15 07:21:00,"Two other components making moves today are Chevron ( CVX ), trading down 1.9%, and Home Depot ( HD ), trading up 0.7% on the day.",0.026531986892223358,0.9463150501251221,0.02715291455388069,negative,-0.9197830557823181
+5,2016-03-15 07:21:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

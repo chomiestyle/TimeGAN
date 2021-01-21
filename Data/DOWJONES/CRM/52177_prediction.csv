@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-20 07:52:00,Salesforce CEO Marc Benioff seems to be most comfortable on stage.,0.07894086092710495,0.01820800080895424,0.9028511047363281,neutral,0.06073286011815071
+1,2015-05-20 07:52:00,Credit: Salesforce.com via Facebook.,0.013763549737632275,0.018725702539086342,0.9675107002258301,neutral,-0.004962152801454067
+2,2015-05-20 07:52:00,Shares of Salesforce.com stock were up 6.6% on Wednesday as of 7:59 p.m.,0.9454324245452881,0.01857546530663967,0.03599213436245918,positive,0.9268569350242615
+3,2015-05-20 07:52:00,"ET, as investors cheered a rare profit and strong results that topped estimates.",0.9375126361846924,0.02843707986176014,0.0340503454208374,positive,0.9090755581855774
+4,2015-05-20 07:52:00,"Here's a closer look at the final Q1 totals versus Wall Street's projections:
+
+Commenting on the results, CEO and co-founder Marc Benioff said in a press release:
+
+""Salesforce has surpassed the $6 billion annual revenue run rate faster than any other enterprise software company, and our current outlook puts us on track to reach a $7 billion revenue run rate later this year.",0.9176981449127197,0.014834756962954998,0.0674671083688736,positive,0.9028633832931519
+5,2015-05-20 07:52:00,"Our goal is to be the fastest to reach $10 billion in annual revenue.""",0.8323070406913757,0.014000260271131992,0.15369272232055664,positive,0.8183068037033081
+6,2015-05-20 07:52:00,"What went right: Long known for piling up losses, Salesforce ended the first quarter recording a one-penny profit by generally accepted accounting principles, or GAAP.",0.33314022421836853,0.4947897493839264,0.17207001149654388,negative,-0.16164952516555786
+7,2015-05-20 07:52:00,"The surprise gain aided cash flow from operations, which soared 54% year over year to $731 million.",0.9538015127182007,0.020608890801668167,0.025589531287550926,positive,0.9331926107406616
+8,2015-05-20 07:52:00,"Salesforce also seems to be improving its collections on contracted work, as accounts receivable jumped $300 million over last year's Q1.",0.953622043132782,0.020187897607684135,0.02619011513888836,positive,0.9334341287612915
+9,2015-05-20 07:52:00,"So long as cash flow growth outpaces revenue growth, investors will continue to reap the rewards.",0.8863242864608765,0.014191110618412495,0.09948459267616272,positive,0.872133195400238
+10,2015-05-20 07:52:00,What went wrong: There isn't much to complain about.,0.03728683292865753,0.5601881742477417,0.40252500772476196,negative,-0.5229013562202454
+11,2015-05-20 07:52:00,"If there's a troubling sign, it's in the gross margin, which declined 1.5 percentage points year over year as Salesforce failed to generate a meaningful profit from professional services.",0.023898877203464508,0.9657635688781738,0.010337580926716328,negative,-0.9418646693229675
+12,2015-05-20 07:52:00,"Overall revenue from consulting improved 33.2%, but not enough to cover the cost to deliver those services to clients.",0.831440269947052,0.14650747179985046,0.02205224148929119,positive,0.6849328279495239
+13,2015-05-20 07:52:00,"(Though, to be fair, the gap is tightening -- losses from services delivery fell to just $1.68 million, down from $3.89 million in last year's Q1.)",0.020526986569166183,0.9705519080162048,0.008921177126467228,negative,-0.9500249028205872
+14,2015-05-20 07:52:00,"What's next: Looking ahead, Salesforce forecast $1.59 billion to $1.6 billion in revenue and between $0.17 and $0.18 a share in profit after accounting for stock-based compensation and other non-cash charges.",0.17082631587982178,0.6016796231269836,0.2274940013885498,negative,-0.43085330724716187
+15,2015-05-20 07:52:00,"Analysts tracked by S&P Capital IQ have the company generating $1,587.66 million in revenue and $0.17 a share in adjusted profit, versus $1,318.55 million and $0.13 a share in last year's Q2.",0.3043651878833771,0.6648017168045044,0.030833130702376366,negative,-0.3604365289211273
+16,2015-05-20 07:52:00,"Longer term, analysts have Salesforce growing earnings by an average of 26.21% annually during the next three to five years.",0.949427604675293,0.017695782706141472,0.03287656605243683,positive,0.9317318201065063
+17,2015-05-20 07:52:00,"In the meantime, investors should keep a close eye on deferred versus unbilled deferred revenue.",0.29792213439941406,0.017342830076813698,0.6847350001335144,neutral,0.2805792987346649
+18,2015-05-20 07:52:00,"One speaks to sales collected but not yet recorded as revenue (deferred), while the other refers to contracted work (unbilled).",0.009506156668066978,0.03596816956996918,0.9545256495475769,neutral,-0.0264620129019022
+19,2015-05-20 07:52:00,"I'd much rather see billed deferred revenue grow faster, because contracts can always be changed or cancelled.",0.2631824016571045,0.030040789395570755,0.7067767977714539,neutral,0.23314161598682404
+20,2015-05-20 07:52:00,"Checks, on the other hand, get cashed.",0.0869070366024971,0.018777018412947655,0.8943160176277161,neutral,0.0681300163269043
+21,2015-05-20 07:52:00,"Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets and the coming revolution in technology.",0.06448464840650558,0.04560031369328499,0.8899150490760803,neutral,0.018884334713220596
+22,2015-05-20 07:52:00,And its stock price has nearly unlimited room to run for early in-the-know investors!,0.2101479172706604,0.016877148300409317,0.7729749083518982,neutral,0.19327077269554138
+23,2015-05-20 07:52:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+24,2015-05-20 07:52:00,"The article Salesforce.com, Inc. Stock Jumps on Surprise Profit originally appeared on Fool.com.",0.12694598734378815,0.10701841861009598,0.7660356163978577,neutral,0.01992756873369217
+25,2015-05-20 07:52:00,Tim Beyers sells new ideas every day.,0.04807496815919876,0.009228885173797607,0.9426961541175842,neutral,0.038846082985401154
+26,2015-05-20 07:52:00,You just got finished reading one!,0.12722580134868622,0.0472443625330925,0.8255298137664795,neutral,0.07998143881559372
+27,2015-05-20 07:52:00,He's also a member of theMotley Fool Rule Breakersstock-picking team and the Motley Fool Supernova Odyssey I mission and owned shares of Apple and Salesforce.com at the time of publication.,0.029838966205716133,0.010580970905721188,0.95958012342453,neutral,0.01925799623131752
+28,2015-05-20 07:52:00,"Check out Tim's web home and portfolio holdings or connect with him on Google+ , Tumblr , or Twitter, where he goes by @milehighfool .The Motley Fool recommends Apple, Facebook, and Salesforce.com.",0.03769367188215256,0.041525620967149734,0.9207807183265686,neutral,-0.003831949084997177
+29,2015-05-20 07:52:00,The Motley Fool owns shares of Apple and Facebook.,0.04140708968043327,0.03255084529519081,0.9260420799255371,neutral,0.008856244385242462
+30,2015-05-20 07:52:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+31,2015-05-20 07:52:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+32,2015-05-20 07:52:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+33,2015-05-20 07:52:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+34,2015-05-20 07:52:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+35,2015-05-20 07:52:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+36,2015-05-20 07:52:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

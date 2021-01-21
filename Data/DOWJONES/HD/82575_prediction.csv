@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-08-22 07:11:00,"In early trading on Wednesday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.2%.",0.9365809559822083,0.033089395612478256,0.030329735949635506,positive,0.9034915566444397
+1,2018-08-22 07:11:00,"Year to date, Home Depot registers a 6.9% gain.",0.9458367228507996,0.022945024073123932,0.031218206509947777,positive,0.9228916764259338
+2,2018-08-22 07:11:00,"And the worst performing Dow component thus far on the day is United Technologies ( UTX ), trading down 1.3%.",0.020705875009298325,0.965373694896698,0.013920371420681477,negative,-0.9446678161621094
+3,2018-08-22 07:11:00,United Technologies is showing a gain of 5.2% looking at the year to date performance.,0.9539604187011719,0.018665200099349022,0.027374306693673134,positive,0.9352952241897583
+4,2018-08-22 07:11:00,"Two other components making moves today are Verizon Communications ( VZ ), trading down 1.3%, and Exxon Mobil ( XOM ), trading up 0.9% on the day.",0.030419545248150826,0.9353260397911072,0.03425446152687073,negative,-0.9049065113067627
+5,2018-08-22 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

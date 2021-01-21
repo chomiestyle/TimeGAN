@@ -1,0 +1,100 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-11-21 08:54:00,"Over the next 12 months, almost 80% of companies who employ a chief information officer expect to increase their use of artificial intelligence and machine learning to further their corporate goals.",0.8104755282402039,0.012737818993628025,0.17678670585155487,positive,0.797737717628479
+1,2019-11-21 08:54:00,"According to Fortune, , and none expected to scale back their use of artificial intelligence.",0.07597853988409042,0.10961021482944489,0.8144112825393677,neutral,-0.03363167494535446
+2,2019-11-21 08:54:00,“As a whole there are massive opportunities to adopt new [A.I.],0.7555990815162659,0.014866539277136326,0.22953446209430695,positive,0.7407325506210327
+3,2019-11-21 08:54:00,"technologies,” Ronell Hugh, the product marketing lead for Adobe’s (NASDAQ:) Experience Platform, told Fortune.",0.06793396919965744,0.01533451210707426,0.9167315363883972,neutral,0.052599456161260605
+4,2019-11-21 08:54:00,"“Cloud infrastructure was a first step, now there is a lot of innovation in AI and how to use data in real-time for your business.”
+
+We’re not just talking about the Amazons (NASDAQ:) of the world.",0.18031242489814758,0.006962309125810862,0.8127252459526062,neutral,0.17335011065006256
+5,2019-11-21 08:54:00,"Companies, big and small, are using AI to provide an advantage over their competition.",0.683769702911377,0.013048022985458374,0.3031822741031647,positive,0.6707216501235962
+6,2019-11-21 08:54:00,"Interestingly, despite CIOs understanding that AI is a crucial way to help grow their businesses, they’re still failing to utilize all the tools available to them.",0.046141259372234344,0.8008650541305542,0.15299367904663086,negative,-0.7547237873077393
+7,2019-11-21 08:54:00,Here are seven companies using AI to outperform the market and their competition.,0.15161417424678802,0.026750272139906883,0.8216355443000793,neutral,0.12486390024423599
+8,2019-11-21 08:54:00,"In September, I compared Boston-based Wayfair (NYSE:) to San Francisco’s Splunk (NASDAQ:SPLK), a company whose Data-to-Everything platform helps clients turn their data into profitable business decisions.",0.31480684876441956,0.012864009477198124,0.6723291873931885,neutral,0.3019428253173828
+9,2019-11-21 08:54:00,"Both money-losing stocks, it was easy for me to decide which had .",0.14804965257644653,0.14712050557136536,0.7048298120498657,neutral,0.0009291470050811768
+10,2019-11-21 08:54:00,Splunk does.,0.08466740697622299,0.057789456099271774,0.8575431704521179,neutral,0.026877950876951218
+11,2019-11-21 08:54:00,That’s because it uses AI and machine learning to help businesses cut to the chase.,0.19054460525512695,0.02257603406906128,0.7868793606758118,neutral,0.16796857118606567
+12,2019-11-21 08:54:00,InvestorPlace’s Tom Taulli recently sat down with Splunk CEO Doug Merritt to discuss the company’s strategy.,0.0734483078122139,0.06121109798550606,0.8653405904769897,neutral,0.01223720982670784
+13,2019-11-21 08:54:00,"Merritt threw Taulli a curveball, suggesting that .",0.15013469755649567,0.2830442488193512,0.5668210387229919,neutral,-0.13290955126285553
+14,2019-11-21 08:54:00,"What Merritt was trying to point out is that many forms of artificial intelligence exist, but they don’t tie into one neat package.",0.020616665482521057,0.022840343415737152,0.9565429091453552,neutral,-0.002223677933216095
+15,2019-11-21 08:54:00,Splunk happens to focus on machine learning.,0.03455700725317001,0.01554789487272501,0.9498950839042664,neutral,0.019009113311767578
+16,2019-11-21 08:54:00,"Other companies, as Taulli suggests, focus on deep learning, natural language processing, and so many different forms of AI.",0.042768582701683044,0.005967946257442236,0.9512635469436646,neutral,0.03680063784122467
+17,2019-11-21 08:54:00,Merritt believes that all of these forms of AI could operate as one within 50-100 years.,0.1449582427740097,0.005728885531425476,0.8493128418922424,neutral,0.13922935724258423
+18,2019-11-21 08:54:00,"In the meantime, Splunk shareholders should be satisfied with what it’s doing to help customers like Nubank, a Latin American financial technology company, manage its reams of data in a simplified and efficient manner.",0.7659375667572021,0.012347083538770676,0.22171539068222046,positive,0.75359046459198
+19,2019-11-21 08:54:00,Splunk went public in 2012 at $17.,0.03248477354645729,0.005027818959206343,0.9624873995780945,neutral,0.02745695412158966
+20,2019-11-21 08:54:00,"Today, it’s trading over $120.",0.40269094705581665,0.014565368182957172,0.5827436447143555,neutral,0.38812556862831116
+21,2019-11-21 08:54:00,That’s all on the back of AI.,0.047094907611608505,0.05576236546039581,0.8971427083015442,neutral,-0.008667457848787308
+22,2019-11-21 08:54:00,Salesforce’s (NYSE:) customer relationship management software has made co-CEO Marc Benioff a very wealthy person.,0.6460903286933899,0.013690794818103313,0.3402188718318939,positive,0.6323995590209961
+23,2019-11-21 08:54:00,So wealthy that Benioff and his wife bought Time magazine in 2018 for $190 million.,0.08938228338956833,0.007796517573297024,0.9028211832046509,neutral,0.08158576488494873
+24,2019-11-21 08:54:00,"Salesforce’s Einstein, which is , allows its users to take data and turn it into valuable information.",0.05757877975702286,0.00995754823088646,0.9324636459350586,neutral,0.0476212315261364
+25,2019-11-21 08:54:00,"For example, you might want to go through all of the data points for all of your customers to help you decide which of them are the most reliable leads.",0.04425469785928726,0.009792136959731579,0.9459531903266907,neutral,0.03446255996823311
+26,2019-11-21 08:54:00,AI helps you do that.,0.08998943865299225,0.01119718886911869,0.8988133668899536,neutral,0.07879225164651871
+27,2019-11-21 08:54:00,"In June, Bank of America analyst John King suggested that Salesforce would continue to benefit from companies and industries adopting artificial intelligence.",0.6345354318618774,0.011133495718240738,0.35433104634284973,positive,0.623401939868927
+28,2019-11-21 08:54:00,"“Dynamic pricing — using algorithms to drive or support pricing decisions — is becoming a crucial and profit-enhancing step on many companies’ journey,” King said in a report to clients.",0.7940362691879272,0.013137444853782654,0.19282622635364532,positive,0.7808988094329834
+29,2019-11-21 08:54:00,"“Front office platform leader Salesforce is set to be a prime beneficiary of this trend, in our view.",0.3614509105682373,0.012642407789826393,0.6259067058563232,neutral,0.34880849719047546
+30,2019-11-21 08:54:00,"Its strength in CRM and AI, with Einstein, offers the most compelling platform in the industry.”
+
+And, if you’re like me, who believes that Benioff is in corporate America, all Salesforce stakeholders will win because of AI.",0.8054205179214478,0.013854867778718472,0.1807245910167694,positive,0.7915656566619873
+31,2019-11-21 08:54:00,Are you familiar with Belgian-based Materialise (NASDAQ:)?,0.01577632874250412,0.009242916479706764,0.9749807715415955,neutral,0.006533412262797356
+32,2019-11-21 08:54:00,"It is a provider of 3D printing, software and engineering services.",0.04023037105798721,0.0044993138872087,0.9552703499794006,neutral,0.035731058567762375
+33,2019-11-21 08:54:00,"In fiscal 2018, Materialise’s : software, medical and manufacturing generated 37.3 million euros, 52.3 million euros and 95 million euros, in respective sales.",0.037657953798770905,0.01783912628889084,0.9445028901100159,neutral,0.019818827509880066
+34,2019-11-21 08:54:00,That was 30% higher than in 2017.,0.9195409417152405,0.02496430277824402,0.055494774132966995,positive,0.8945766687393188
+35,2019-11-21 08:54:00,The company’s SurgiCase platform allows a doctor to upload a patient’s medical imaging data to a Materialise engineer.,0.06529941409826279,0.011738356202840805,0.9229622483253479,neutral,0.05356105789542198
+36,2019-11-21 08:54:00,That engineer can then use an AI algorithm to detect a surgeon’s pre-operative preferences based on their history.,0.026702314615249634,0.027592046186327934,0.9457057118415833,neutral,-0.0008897315710783005
+37,2019-11-21 08:54:00,"By using AI to come up with a surgical plan, surgeons can reduce the number of corrections that need to be made to the plan before surgery.",0.35851165652275085,0.11962376534938812,0.5218645930290222,neutral,0.23888789117336273
+38,2019-11-21 08:54:00,"“AI works by learning how to solve problems without being explicitly programmed on how to do so,” .",0.05496960133314133,0.027884874492883682,0.9171454906463623,neutral,0.027084726840257645
+39,2019-11-21 08:54:00,"“We saw this could be useful for planning total knee arthroplasties (TKA), in which sections of the knee joint are replaced by metal implants to help patients suffering from osteoarthritis.”
+
+As Materialise continues to grow around the world, not to mention become more profitable, shareholders will see its share price rise to $20 and beyond.",0.9225130081176758,0.01486373320221901,0.06262332946062088,positive,0.9076492786407471
+40,2019-11-21 08:54:00,You can thank AI later.,0.06978123635053635,0.016074687242507935,0.9141440391540527,neutral,0.05370654910802841
+41,2019-11-21 08:54:00,"Microsoft (NASDAQ:) announced Nov. 13 that Harry Shum, the head of the artificial intelligence and research group, was leaving the company.",0.027936158701777458,0.1944570243358612,0.7776068449020386,neutral,-0.1665208637714386
+42,2019-11-21 08:54:00,"If Satya Nadella wasn’t such a strong CEO, a move like this one could be interpreted as a setback for work in artificial intelligence and machine learning.",0.03374435380101204,0.919826328754425,0.04642937332391739,negative,-0.8860819935798645
+43,2019-11-21 08:54:00,"However, Nadella’s got Microsoft focused on growing a small number of initiatives at the company.",0.20472493767738342,0.00714790727943182,0.7881271839141846,neutral,0.19757702946662903
+44,2019-11-21 08:54:00,He’s not throwing Hail Mary’s like International Business Machine’s (NYSE:) Ginni Rometty.,0.04413473233580589,0.04923306778073311,0.9066321849822998,neutral,-0.005098335444927216
+45,2019-11-21 08:54:00,That suggests MSFT will be just fine after Shum leaves in February.,0.1577761322259903,0.12060298770666122,0.7216209173202515,neutral,0.03717314451932907
+46,2019-11-21 08:54:00,Wired recently discussed the company’s move to provide its Azure cloud customers with .,0.4372914433479309,0.007834476418793201,0.554874062538147,neutral,0.4294569790363312
+47,2019-11-21 08:54:00,The British company came to fame because its chips are said to be able to handle the speeds required to do AI computations.,0.7003642916679382,0.01497530099004507,0.28466033935546875,positive,0.68538898229599
+48,2019-11-21 08:54:00,"“They’ve done a good job making it programmable,” Moor Insights’ Karl Freund told Wired.",0.9058576822280884,0.01982562616467476,0.07431670278310776,positive,0.8860320448875427
+49,2019-11-21 08:54:00,"“Good performance in both training and inference is something they’ve always said they would do, but it is really, really hard.”
+
+Nadella believes that Microsoft Azure can be a leader in AI and machine learning.",0.8101546168327332,0.013497714884579182,0.17634767293930054,positive,0.7966569066047668
+50,2019-11-21 08:54:00,"If are any example, he might be on to something.",0.03702602535486221,0.028962094336748123,0.9340118765830994,neutral,0.00806393101811409
+51,2019-11-21 08:54:00,Twilio (NYSE:) reported third-quarter earnings on Oct. 30.,0.02465340681374073,0.01053710374981165,0.9648094177246094,neutral,0.014116303063929081
+52,2019-11-21 08:54:00,"While they were good, the company’s guidance for the fourth quarter didn’t quite meet analyst expectations, sending TWLO stock down 15% on the news.",0.021127760410308838,0.9674409627914429,0.011431321501731873,negative,-0.946313202381134
+53,2019-11-21 08:54:00,"It has since regained most of those losses, but is still well off its 52-week high of $151, a price it hit in late July.",0.5545244812965393,0.3484410047531128,0.09703447669744492,positive,0.2060834765434265
+54,2019-11-21 08:54:00,A couple of days before Twilio reported its earnings I suggested to take advantage of its post-earnings pop.,0.1644008308649063,0.01779071055352688,0.8178084492683411,neutral,0.14661012589931488
+55,2019-11-21 08:54:00,"In hindsight, we know such a pop didn’t occur.",0.06524546444416046,0.05788037180900574,0.8768741488456726,neutral,0.007365092635154724
+56,2019-11-21 08:54:00,One of the reasons for its failure to launch was its dollar-based net expansion rate.,0.048709940165281296,0.5274339914321899,0.42385610938072205,negative,-0.47872406244277954
+57,2019-11-21 08:54:00,Analysts were expecting 138% growth.,0.8380374312400818,0.016209231689572334,0.14575333893299103,positive,0.8218281865119934
+58,2019-11-21 08:54:00,Twilio delivered 132% growth.,0.9380154013633728,0.014591256156563759,0.047393299639225006,positive,0.9234241247177124
+59,2019-11-21 08:54:00,Long-term investors shouldn’t fret about the third-quarter results.,0.062098778784275055,0.2174297422170639,0.7204715013504028,neutral,-0.15533095598220825
+60,2019-11-21 08:54:00,"Long term, TWLO stock is a winner.",0.9196714162826538,0.016548093408346176,0.06378057599067688,positive,0.9031233191490173
+61,2019-11-21 08:54:00,A big reason why it will win has to do with artificial intelligence and the way it’s able to use bots and interactive voice response systems to help companies communicate with their customers more effectively.,0.5651951432228088,0.015036433935165405,0.41976842284202576,positive,0.5501587390899658
+62,2019-11-21 08:54:00,The number of industries that can benefit from Twilio’s application of AI is seemingly endless.,0.23784448206424713,0.009494512341916561,0.7526609897613525,neutral,0.228349968791008
+63,2019-11-21 08:54:00,That’s what makes .,0.057465389370918274,0.009427979588508606,0.9331066012382507,neutral,0.04803740978240967
+64,2019-11-21 08:54:00,"In a 2018 Wired article, Pinterest’s (NYSE:) former CTO Vanja Josifovski suggested that “at its core, [Pinterest] is a data and AI company.”
+
+Although Josifovski moved on in March 2019, I’m sure the social media platform’s relatively new head of engineering, Jeremy King, would agree with the sentiment.",0.10843326896429062,0.04344793036580086,0.848118782043457,neutral,0.06498533487319946
+65,2019-11-21 08:54:00,King formerly served as Walmart’s (NYSE:) CTO for U.S. businesses.,0.02564035728573799,0.008273418992757797,0.9660862684249878,neutral,0.017366938292980194
+66,2019-11-21 08:54:00,"“When you’re building or computer-vision technology, what you need is a giant corpus of data,” King told the Wall Street Journal in September.",0.09113991260528564,0.014372055418789387,0.8944880366325378,neutral,0.07676785439252853
+67,2019-11-21 08:54:00,"“Pinterest is the master of that.”
+
+Its AI technology can identify more than 2.5 million objects in photos, which means items become instantly ready for purchase.",0.1793735772371292,0.019539153203368187,0.8010873198509216,neutral,0.15983442962169647
+68,2019-11-21 08:54:00,That’s something you can’t put a price on.,0.09221049398183823,0.12169670313596725,0.7860927581787109,neutral,-0.02948620915412903
+69,2019-11-21 08:54:00,"As I said recently, it’s Pinterest’s AI capabilities that make .",0.06382054090499878,0.006042178254574537,0.9301373362541199,neutral,0.057778362184762955
+70,2019-11-21 08:54:00,Stitch Fix (NASDAQ:) has had a wild ride since its IPO in November 2017.,0.846644937992096,0.01522616297006607,0.1381288766860962,positive,0.8314187526702881
+71,2019-11-21 08:54:00,"Although it’s up almost 24% year-to-date, things could have been so much better for the online personal-styling service and clothing retailer.",0.9106623530387878,0.03176281601190567,0.057574816048145294,positive,0.8788995146751404
+72,2019-11-21 08:54:00,SFIX stock has traded over $30 on four different occasions over its 24 months as a public company.,0.08289217948913574,0.011727744713425636,0.9053800702095032,neutral,0.07116443663835526
+73,2019-11-21 08:54:00,"Most recently it hit that price in June, just six months after dropping below $18.",0.6579973697662354,0.16195793449878693,0.18004468083381653,positive,0.4960394501686096
+74,2019-11-21 08:54:00,"As I said, it’s been a crazy ride.",0.04613497480750084,0.11237919330596924,0.8414857983589172,neutral,-0.0662442147731781
+75,2019-11-21 08:54:00,"However, at the heart of that ride is a company built on artificial intelligence.",0.09421657025814056,0.010071556083858013,0.8957118988037109,neutral,0.08414501696825027
+76,2019-11-21 08:54:00,The company started with in 2012.,0.050850026309490204,0.007132501341402531,0.9420174360275269,neutral,0.04371752589941025
+77,2019-11-21 08:54:00,"Today, it’s got hundreds, and that’s what sets it apart from its competitors in the online curated fashion industry.",0.345827579498291,0.019376911222934723,0.6347954869270325,neutral,0.3264506757259369
+78,2019-11-21 08:54:00,"“There’s certainly a central aspect to the where … the goal isn’t to present clients with an unlimited selection of everything they could ever want … but to actually just share what they want,” Stitch Fix Chief Algorithms Officer Brad Klingenberg said.",0.13026636838912964,0.006316454615443945,0.8634171485900879,neutral,0.12394991517066956
+79,2019-11-21 08:54:00,"“And so I think this counter-trend to just limitless availability will show up in a few places.”
+
+And that’s the beauty of Stitch Fix.",0.262196809053421,0.03598783165216446,0.7018153667449951,neutral,0.22620898485183716
+80,2019-11-21 08:54:00,It’s not trying to replace the human stylist but to complement them.,0.08855254203081131,0.011250996962189674,0.9001964926719666,neutral,0.07730154693126678
+81,2019-11-21 08:54:00,This helps it deliver a superior customer service experience.,0.904798150062561,0.017176028341054916,0.07802589237689972,positive,0.8876221179962158
+82,2019-11-21 08:54:00,"Profitable and growing, AI will continue to help Stitch Fix maintain its edge over competition.",0.9208601713180542,0.014189448207616806,0.06495039910078049,positive,0.9066707491874695
+83,2019-11-21 08:54:00,At the time of this writing Will Ashworth did not hold a position in any of the aforementioned securities.,0.008413191884756088,0.021850833669304848,0.9697359800338745,neutral,-0.01343764178454876
+84,2019-11-21 08:54:00,The post appeared first on InvestorPlace.,0.06827232241630554,0.039909861981868744,0.8918178081512451,neutral,0.028362460434436798

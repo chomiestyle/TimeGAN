@@ -1,0 +1,61 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-11 05:16:00,Shares of financial-technology company Square (NYSE: SQ) have been absolutely slammed.,0.026630941778421402,0.933955192565918,0.039413873106241226,negative,-0.9073242545127869
+1,2018-10-11 05:16:00,"Since October 2, the stock has fallen nearly 30%, leaving shares below $70 as of market close on Thursday, Oct. 11.",0.016094639897346497,0.9695541858673096,0.014351201243698597,negative,-0.9534595608711243
+2,2018-10-11 05:16:00,"Just a few weeks ago, Square stock was all the rage.",0.08903271704912186,0.06573142856359482,0.8452358245849609,neutral,0.02330128848552704
+3,2018-10-11 05:16:00,"Several analysts set price targets on the stock for over $100 in September, with one price target as high as $125 .",0.33699682354927063,0.031221237033605576,0.6317819356918335,neutral,0.30577558279037476
+4,2018-10-11 05:16:00,"Further, the stock even briefly surpassed $100 late last month.",0.8313517570495605,0.05281911417841911,0.11582908779382706,positive,0.7785326242446899
+5,2018-10-11 05:16:00,"But after a sell-off of high-growth tech stocks and an announcement that the company's CFO is stepping down , shares are trading significantly lower than they were a few weeks ago.",0.018050258979201317,0.9652794003486633,0.016670340672135353,negative,-0.9472291469573975
+6,2018-10-11 05:16:00,Is this a buying opportunity?,0.11564367264509201,0.03514246642589569,0.8492138385772705,neutral,0.08050120621919632
+7,2018-10-11 05:16:00,I think so.,0.20592829585075378,0.026304421946406364,0.7677673101425171,neutral,0.17962387204170227
+8,2018-10-11 05:16:00,Here's why.,0.017657043412327766,0.015349880792200565,0.9669930934906006,neutral,0.002307162620127201
+9,2018-10-11 05:16:00,"First, it's worth going over the reasons Square stock is trading lower to see if those reasons are justified.",0.08024559915065765,0.192054882645607,0.7276995182037354,neutral,-0.11180928349494934
+10,2018-10-11 05:16:00,"The primary reason for the company's falling stock price recently has been an overall sell-off in the market, especially for high-growth tech stocks like Square.",0.021923642605543137,0.9637865424156189,0.014289876446127892,negative,-0.9418628811836243
+11,2018-10-11 05:16:00,A sell-off like this indicated investors believed the valuations of many of the hottest stocks on the Street were getting ahead of themselves.,0.7076066732406616,0.1583845168352127,0.13400880992412567,positive,0.5492221713066101
+12,2018-10-11 05:16:00,"Companies like Netflix , Amazon , and Facebook , for instance, have all seen their shares take a hit.",0.11665180325508118,0.7300156354904175,0.15333253145217896,negative,-0.6133638620376587
+13,2018-10-11 05:16:00,Square's valuation was undoubtedly becoming a little stretched at $100 per share.,0.051220569759607315,0.8078891634941101,0.1408902406692505,negative,-0.7566685676574707
+14,2018-10-11 05:16:00,The company's price-to-sales ratio was closing in on 15 -- well ahead of competitors like Salesforce.com (NYSE: CRM) and Intuit (NASDAQ: INTU) .,0.9262641072273254,0.023352937772870064,0.05038299411535263,positive,0.9029111862182617
+15,2018-10-11 05:16:00,But now Square's price-to-sales ratio of 10 puts it only at a slight premium to these same peers who both have price-to-sales ratios of about 9.,0.33075085282325745,0.05815531313419342,0.6110938191413879,neutral,0.27259552478790283
+16,2018-10-11 05:16:00,Square arguably deserves a higher price-to-sales ratio than Salesforce and Intuit.,0.7206893563270569,0.0548635870218277,0.2244470715522766,positive,0.6658257842063904
+17,2018-10-11 05:16:00,"Sure, Salesforce and Intuit do have one massive advantage over Square when it comes to profitability.",0.8052391409873962,0.018719790503382683,0.17604102194309235,positive,0.7865193486213684
+18,2018-10-11 05:16:00,Both are raking in significant earnings.,0.8526590466499329,0.027020830661058426,0.12032008171081543,positive,0.8256382346153259
+19,2018-10-11 05:16:00,"Salesforce has a net margin (earnings as a percentage of revenue) of about 6%, and Intuit has a net margin of 20%.",0.02133922651410103,0.012392968870699406,0.9662678837776184,neutral,0.008946257643401623
+20,2018-10-11 05:16:00,"Meanwhile, Square is still reporting losses (although losses as a percentage of revenue have been narrowing).",0.03206262364983559,0.9479936361312866,0.01994376815855503,negative,-0.915930986404419
+21,2018-10-11 05:16:00,But Square has a smaller market capitalization -- $28 billion versus Salesforce's $105 billion and Intuit's $52 billion market caps -- and it's growing much faster.,0.8048843741416931,0.02581893466413021,0.1692967414855957,positive,0.7790654301643372
+22,2018-10-11 05:16:00,"In other words, while Square's stock may have been getting a bit pricey, this sell-off seems to have gone too far.",0.058721303939819336,0.5548591017723083,0.3864195942878723,negative,-0.496137797832489
+23,2018-10-11 05:16:00,Square's scalable business model and rapid growth easily justify the stock's more conservative valuation multiples after its sharp decline.,0.8188506960868835,0.03577903285622597,0.1453702300786972,positive,0.7830716371536255
+24,2018-10-11 05:16:00,"Then, of course, there's Thursday's sell-off related to the company's announcement that its CFO, Sarah Friar, is stepping down.",0.02683647722005844,0.8199443817138672,0.15321917831897736,negative,-0.7931079268455505
+25,2018-10-11 05:16:00,"While it's common for stocks to drop when CFOs step down, there's nothing fishy about this change.",0.03531092405319214,0.6894636750221252,0.275225430727005,negative,-0.6541527509689331
+26,2018-10-11 05:16:00,"Friar has always wanted to lead her own company, according to CEO Jack Dorsey -- and that's exactly what Friar is doing.",0.061549339443445206,0.0070608025416731834,0.9313898086547852,neutral,0.05448853597044945
+27,2018-10-11 05:16:00,"Friar is becoming CEO at Nextdoor, a social network for neighbors and communities.",0.08122003078460693,0.015579376369714737,0.9032005667686462,neutral,0.0656406581401825
+28,2018-10-11 05:16:00,"After serving six years at Square amid a period of uncanny growth, it only makes sense that Friar is ready for a step up in her career.",0.7960314154624939,0.020302750170230865,0.18366576731204987,positive,0.7757286429405212
+29,2018-10-11 05:16:00,"Finally, it's worth going over Square's mind-boggling growth recently, as it's a step above the growth seen at most growth companies.",0.7793998122215271,0.02285328134894371,0.1977468580007553,positive,0.7565465569496155
+30,2018-10-11 05:16:00,"Not only has Square been growing at high rates, but its growth rates have been accelerating.",0.8982657194137573,0.01604420319199562,0.08569000661373138,positive,0.882221519947052
+31,2018-10-11 05:16:00,"Highlighting the company's impressive growth, Square's second-quarter revenue was up 48% year over year.",0.9581714272499084,0.020405568182468414,0.02142300456762314,positive,0.9377658367156982
+32,2018-10-11 05:16:00,But even more notable is the fact that this represented the company's fifth quarter in a row of accelerating revenue growth.,0.928175687789917,0.015451702289283276,0.05637258663773537,positive,0.912723958492279
+33,2018-10-11 05:16:00,"For some context, in the company's second quarter of 2017, Square's revenue increased a much less impressive 26% year over year.",0.8688685894012451,0.07245782762765884,0.05867363139986992,positive,0.7964107394218445
+34,2018-10-11 05:16:00,"Notably, this momentum far exceeds Salesforce's and Intuit's recent growth rates.",0.8726747035980225,0.01415554154664278,0.11316972970962524,positive,0.8585191369056702
+35,2018-10-11 05:16:00,"These two companies grew revenue by 27% and 17% year over year, respectively, in their most recently reported quarters.",0.9506103992462158,0.01897566020488739,0.030413974076509476,positive,0.9316347241401672
+36,2018-10-11 05:16:00,"Importantly, Square's scalable business model means its losses are narrowing amid this rapid growth.",0.9431334733963013,0.02002912200987339,0.03683747723698616,positive,0.9231043457984924
+37,2018-10-11 05:16:00,"In fact, Square is close to breakeven.",0.7896848917007446,0.04096859693527222,0.16934651136398315,positive,0.7487162947654724
+38,2018-10-11 05:16:00,The company's second-quarter net loss improved from a loss of $16 million in the year-ago quarter to just $6 million.,0.9469152092933655,0.028973059728741646,0.02411179430782795,positive,0.9179421663284302
+39,2018-10-11 05:16:00,"In the same quarter two years ago, Square's net loss was $27 million.",0.024974361062049866,0.789928674697876,0.18509694933891296,negative,-0.7649543285369873
+40,2018-10-11 05:16:00,"Looking ahead, there's good reason to expect Square's rapid revenue growth to continue for some time.",0.9031084775924683,0.012442836537957191,0.08444873243570328,positive,0.8906656503677368
+41,2018-10-11 05:16:00,"Namely, Square has been successfully attracting more large sellers to its platform.",0.9576572179794312,0.019258519634604454,0.023084286600351334,positive,0.9383987188339233
+42,2018-10-11 05:16:00,"With products catering to larger businesses, like its Square Register and Square for Restaurants platform , Square is seeing rapid adoption of its products and services by sellers with over $125,000 in annualized revenue -- and there's no sign of this trend slowing down.",0.819019079208374,0.01970444805920124,0.1612764298915863,positive,0.7993146181106567
+43,2018-10-11 05:16:00,"Taking into consideration Square's scalable business model and its mind-boggling growth, a 30% decline in Square's stock price in less than two weeks is likely an overreaction.",0.02194211632013321,0.958071768283844,0.019986122846603394,negative,-0.936129629611969
+44,2018-10-11 05:16:00,"For investors willing to hold for the long haul, this may be a good time to buy shares.",0.6526437997817993,0.03582633659243584,0.31152981519699097,positive,0.6168174743652344
+45,2018-10-11 05:16:00,"Find out why Squareis one of the 10 best stocks to buy now
+
+Motley Fool co-founders Tom and David Gardner have spent more than a decade beating the market.",0.2773803472518921,0.0721665620803833,0.6504530906677246,neutral,0.2052137851715088
+46,2018-10-11 05:16:00,"(In fact, the newsletter they run, Motley Fool Stock Advisor, has tripled the market!",0.1445317417383194,0.17377084493637085,0.6816973686218262,neutral,-0.029239103198051453
+47,2018-10-11 05:16:00,"*)
+
+Tom and David just revealed their ten top stock picks for investors to buy right now.",0.1150105744600296,0.010410101152956486,0.8745793104171753,neutral,0.10460047423839569
+48,2018-10-11 05:16:00,Square is on the list -- but there are nine others you may be overlooking.,0.04974285513162613,0.043105434626340866,0.9071516990661621,neutral,0.006637420505285263
+49,2018-10-11 05:16:00,Click here to get access to the full list!,0.04566172882914543,0.045436516404151917,0.9089017510414124,neutral,0.00022521242499351501
+50,2018-10-11 05:16:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+51,2018-10-11 05:16:00,Daniel Sparks owns shares of Square.,0.0167426448315382,0.00930097233504057,0.9739563465118408,neutral,0.007441672496497631
+52,2018-10-11 05:16:00,"The Motley Fool owns shares of and recommends Amazon, Facebook, Intuit, Netflix, Salesforce.com, and Square.",0.02566940151154995,0.014723801985383034,0.9596067667007446,neutral,0.010945599526166916
+53,2018-10-11 05:16:00,The Motley Fool has the following options: short January 2019 $80 calls on Square.,0.01625381037592888,0.11219972372055054,0.8715463876724243,neutral,-0.09594590961933136
+54,2018-10-11 05:16:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+55,2018-10-11 05:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

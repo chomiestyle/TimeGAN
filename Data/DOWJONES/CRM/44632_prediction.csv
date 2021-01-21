@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-04-09 04:55:00,This year is quickly becoming one where big names debut on the public markets.,0.30784812569618225,0.0174512080848217,0.6747006773948669,neutral,0.29039692878723145
+1,2019-04-09 04:55:00,"Lyft has already had its IPO, Uber will follow closely on its heels, and many are expecting Airbnb to go public soon as well.",0.30898404121398926,0.016179440543055534,0.6748365163803101,neutral,0.2928045988082886
+2,2019-04-09 04:55:00,Lost in the shuffle is a smaller video conferencing company that has a lot going for it.,0.02235766313970089,0.15335294604301453,0.8242893218994141,neutral,-0.13099528849124908
+3,2019-04-09 04:55:00,That company -- Zoom Video Communications -- intends to go public this month on the Nasdaq exchange with the ticker ZM.,0.0621170736849308,0.00432234862819314,0.9335606098175049,neutral,0.0577947236597538
+4,2019-04-09 04:55:00,"While there's no doubt the three aforementioned companies will get plenty of airtime over the coming months, savvy investors should keep an eye on this under-the-radar stock.",0.4136565327644348,0.015439254231750965,0.5709041953086853,neutral,0.3982172906398773
+5,2019-04-09 04:55:00,"But first the basics
+
+Eric Yuan was an engineering executive at Cisco, and consistently heard from clients that they were dissatisfied with their ability to conduct video conferencing.",0.03388611972332001,0.921536922454834,0.044576916843652725,negative,-0.8876507878303528
+6,2019-04-09 04:55:00,"That feedback led him to strike out on his own, forming Zoom in 2011 with a simple mission: ""to make video communications friction-less.""",0.24842116236686707,0.009518985636532307,0.7420598268508911,neutral,0.23890218138694763
+7,2019-04-09 04:55:00,"Now the company's CEO, Yuan has even said the company's ultimate goal is ""to make Zoom meetings better than in-person meetings.""",0.40639007091522217,0.016867348924279213,0.5767425894737244,neutral,0.3895227313041687
+8,2019-04-09 04:55:00,"That's a tall order, but -- as you'll see below -- one that customers are responding to.",0.5305131077766418,0.026645736768841743,0.44284120202064514,positive,0.5038673877716064
+9,2019-04-09 04:55:00,Today the company offers a myriad of tiered subscription plans that lets customers enjoy the benefits of video conferencing from the cloud.,0.26007935404777527,0.006439331918954849,0.7334813475608826,neutral,0.2536400258541107
+10,2019-04-09 04:55:00,"They include:
+• Basic: A free offering, this allows individuals to try out the tool on a limited basis.",0.021376831457018852,0.006354371085762978,0.97226881980896,neutral,0.015022460371255875
+11,2019-04-09 04:55:00,"• Pro: At $14.99 per month per host (a host is someone who organizes and runs a meeting), companies get more functionality, like longer meetings.",0.14930680394172668,0.00978621281683445,0.8409069776535034,neutral,0.1395205855369568
+12,2019-04-09 04:55:00,"• Business: Small- and medium-sized businesses pay $19.99 per month per host, with a minimum of 10 hosts.",0.01307152770459652,0.0211134385317564,0.9658150672912598,neutral,-0.008041910827159882
+13,2019-04-09 04:55:00,"In other words, this brings in $199.99 in subscription revenue per month for Zoom.",0.88773113489151,0.014946521259844303,0.09732237458229065,positive,0.8727846145629883
+14,2019-04-09 04:55:00,Clients' added functionality includes dedicated phone support and cloud recording transcripts.,0.039023250341415405,0.0051481593400239944,0.9558286070823669,neutral,0.03387509286403656
+15,2019-04-09 04:55:00,"• Enterprise: Primarily for larger companies, this plan is also $19.99 per month per user, but with a minimum of 50 hosts.",0.027238154783844948,0.00620340695604682,0.9665584564208984,neutral,0.02103474736213684
+16,2019-04-09 04:55:00,"Thus it brings in roughly $1,000 per month for Zoom.",0.5781267881393433,0.013571488671004772,0.4083017110824585,positive,0.564555287361145
+17,2019-04-09 04:55:00,Subscribers get unlimited storage and a dedicated customer service manager.,0.016948353499174118,0.007271850481629372,0.9757797718048096,neutral,0.009676503017544746
+18,2019-04-09 04:55:00,"Zoom also offers on-premise solutions that run $49.99 per month per room in which the video tools are located, and a mobile solution that runs $10 per month per user.",0.0342988446354866,0.005485573783516884,0.9602156281471252,neutral,0.02881327085196972
+19,2019-04-09 04:55:00,"With those basics out of the way, let's dive into the three things you must know before Zoom's IPO.",0.022585056722164154,0.008718380704522133,0.9686965346336365,neutral,0.013866676017642021
+20,2019-04-09 04:55:00,"Of course, none of this would matter if Zoom wasn't best in class.",0.04204370453953743,0.09682325273752213,0.8611330389976501,neutral,-0.054779548197984695
+21,2019-04-09 04:55:00,"But based on a bevvy on online reviews, the company is head-and-shoulders above the competition.",0.6701894402503967,0.04011392593383789,0.2896965742111206,positive,0.6300755143165588
+22,2019-04-09 04:55:00,"Perhaps that's why a number of potential competitors -- including Microsoft, Atlassian, Dropbox, Google, LinkedIn, Salesforce, and Slack -- have decided to partner with Zoom and integrate its offerings.",0.8086097240447998,0.011537839658558369,0.17985236644744873,positive,0.7970718741416931
+23,2019-04-09 04:55:00,Those votes of confidence help to better understand how the company has been able to grow sales so quickly.,0.9143338203430176,0.015639878809452057,0.07002626359462738,positive,0.8986939191818237
+24,2019-04-09 04:55:00,Chart by author.,0.035331763327121735,0.025842614471912384,0.9388256669044495,neutral,0.00948914885520935
+25,2019-04-09 04:55:00,Data source: SEC filings.,0.013144510798156261,0.02131684310734272,0.9655386209487915,neutral,-0.008172332309186459
+26,2019-04-09 04:55:00,All figures rounded to nearest million.,0.10972071439027786,0.07767529040575027,0.8126040101051331,neutral,0.03204542398452759
+27,2019-04-09 04:55:00,"For those keeping track at home: Over the past two years, revenue and cash from operations have both grown by about 133% per year.",0.9463359117507935,0.017429234459996223,0.03623487055301666,positive,0.9289066791534424
+28,2019-04-09 04:55:00,But there's even more evidence that Zoom is gaining a foothold.,0.8678107261657715,0.01943020708858967,0.11275912076234818,positive,0.8483805060386658
+29,2019-04-09 04:55:00,"The company measures the number of customers with over 10 employees, and the number of contracts worth over $100,000 annually in subscriptions.",0.02089444175362587,0.0077836583368480206,0.9713219404220581,neutral,0.013110782951116562
+30,2019-04-09 04:55:00,Here's how those figures have progressed.,0.030829573050141335,0.006624188739806414,0.9625462889671326,neutral,0.024205384775996208
+31,2019-04-09 04:55:00,The contracts from companies with 10+ employees accounted for 78% of the company's revenue last year.,0.06384319812059402,0.011117077432572842,0.9250397086143494,neutral,0.05272611975669861
+32,2019-04-09 04:55:00,"And within that subset, those 344 contracts worth over $100,000 annually contributed 30% of total revenue.",0.08825620263814926,0.009013806469738483,0.9027300477027893,neutral,0.07924239337444305
+33,2019-04-09 04:55:00,"Sales are one thing, but eventually a company has to turn a profit -- right?",0.20640987157821655,0.028491130098700523,0.7650989890098572,neutral,0.17791874706745148
+34,2019-04-09 04:55:00,The Software-as-a-Service (SaaS) business model has convinced Wall Street that it's OK to forgo profits in order to gain long-term market share.,0.9140278100967407,0.019428309053182602,0.0665438324213028,positive,0.8945994973182678
+35,2019-04-09 04:55:00,"That being said, without a plan for profitability, any stock can go to zero.",0.03550896793603897,0.6316047310829163,0.3328862488269806,negative,-0.5960957407951355
+36,2019-04-09 04:55:00,But with Zoom that shouldn't be as big of a concern.,0.048539407551288605,0.15090815722942352,0.8005524277687073,neutral,-0.10236874967813492
+37,2019-04-09 04:55:00,"The company generated net income of $7.6 million last year, and free cash flow of $23 million.",0.07050416618585587,0.007055032532662153,0.922440767288208,neutral,0.06344913691282272
+38,2019-04-09 04:55:00,"Zoom also has $176 million of cash and investments on its books, with zero long-term debt.",0.033690374344587326,0.0053166612051427364,0.9609929919242859,neutral,0.028373712673783302
+39,2019-04-09 04:55:00,We already know this cash balance will go even higher after the company collects cash from going public.,0.8853093385696411,0.015261655673384666,0.09942899644374847,positive,0.8700476884841919
+40,2019-04-09 04:55:00,It could go as high as $524 million after proceeds from the IPO are collected.,0.4444536566734314,0.014178059063851833,0.5413682460784912,neutral,0.4302755892276764
+41,2019-04-09 04:55:00,"It's also worth noting that, flush with cash from its IPO, the company may decide to invest aggressively in expanding both R&D and market share.",0.9266542196273804,0.014453187584877014,0.058892540633678436,positive,0.9122010469436646
+42,2019-04-09 04:55:00,This could temporarily push the company back into negative earnings and free cash flow.,0.02006990648806095,0.9628289937973022,0.01710113137960434,negative,-0.942759096622467
+43,2019-04-09 04:55:00,"With a greater cash cushion and a demonstrated ability to achieve profitability, though, that's a trade many long-term investors should consider worthwhile.",0.8683094382286072,0.014083048328757286,0.11760751157999039,positive,0.8542264103889465
+44,2019-04-09 04:55:00,"With this success, it's doubtful the competition won't come clamoring.",0.3352849781513214,0.14817781746387482,0.5165372490882874,neutral,0.1871071606874466
+45,2019-04-09 04:55:00,"That's why it's vital to investigate whether the company has any moat, or sustainable competitive advantage.",0.2094441056251526,0.008125263266265392,0.7824306488037109,neutral,0.20131884515285492
+46,2019-04-09 04:55:00,"I'll be the first to admit that, on the surface, I don't see anything that could stop a company from switching video conference providers at the drop of a hat.",0.11784147471189499,0.2821933329105377,0.5999651551246643,neutral,-0.16435185074806213
+47,2019-04-09 04:55:00,That would mean that Zoom would have to consistently offer up the best solution over time.,0.5176607370376587,0.03201059624552727,0.45032867789268494,positive,0.4856501519680023
+48,2019-04-09 04:55:00,"Having said that, there's evidence that a moat is forming.",0.3859191834926605,0.0644686371088028,0.5496121644973755,neutral,0.32145053148269653
+49,2019-04-09 04:55:00,"For starters, the company has an App marketplace that allows third-party app developers to build tools on top of Zoom's platform.",0.1394391506910324,0.005655243527144194,0.8549056053161621,neutral,0.13378390669822693
+50,2019-04-09 04:55:00,"Because Zoom has over 50,000 clients with more than 10 employees, it'll be a much more popular destination for app developers than a tiny start-up.",0.621647834777832,0.01241103745996952,0.3659411072731018,positive,0.6092367768287659
+51,2019-04-09 04:55:00,"These tools create incentives for more businesses to join the ecosystem, making Zoom even stronger.",0.9121508598327637,0.0165808517485857,0.07126829773187637,positive,0.8955699801445007
+52,2019-04-09 04:55:00,And then there's the company's net-dollar expansion rate (NDER).,0.613018810749054,0.011350689455866814,0.37563055753707886,positive,0.601668119430542
+53,2019-04-09 04:55:00,This simply takes the total amount of annual recurring (read: subscription) revenue from existing customers at the end of Year One and compares it to the amount of revenue those same customers paid in Year Two.,0.019498776644468307,0.008628016337752342,0.9718732237815857,neutral,0.010870760306715965
+54,2019-04-09 04:55:00,"By filtering out the effect of new customers, the NDER lets us know if customers are staying on board, and if they're adding more hosts and tools over time.",0.2160458266735077,0.008220646530389786,0.775733470916748,neutral,0.2078251838684082
+55,2019-04-09 04:55:00,"Zoom only started reporting NDER in 2018's second quarter, but the results are eye-opening.",0.1533905565738678,0.011754631996154785,0.8348548412322998,neutral,0.141635924577713
+56,2019-04-09 04:55:00,Here's what this means in plain English.,0.019442521035671234,0.014609305188059807,0.9659481644630432,neutral,0.004833215847611427
+57,2019-04-09 04:55:00,"Customers are not only sticking with Zoom (evidenced by an NDER of at least 100%), they are adding far more functionality year after year.",0.7687208652496338,0.013517884537577629,0.21776124835014343,positive,0.7552030086517334
+58,2019-04-09 04:55:00,"In fact, the average customer spends 40% more every year with Zoom.",0.1356552392244339,0.04327859729528427,0.82106614112854,neutral,0.09237664192914963
+59,2019-04-09 04:55:00,That means the tool is becoming more and more integrated within the culture and DNA of these companies.,0.6328602433204651,0.01142433937638998,0.35571542382240295,positive,0.6214358806610107
+60,2019-04-09 04:55:00,"Over time, that could also lead to a widening moat via high switching-costs.",0.837298572063446,0.02280447818338871,0.1398969292640686,positive,0.8144940733909607
+61,2019-04-09 04:55:00,I'm not one to buy stocks immediately following their IPO -- shares tend to be high-priced and extremely volatile.,0.029362313449382782,0.043710753321647644,0.9269269108772278,neutral,-0.014348439872264862
+62,2019-04-09 04:55:00,"That being said, I will be watching closely if/when the offering occurs later this month.",0.018712839111685753,0.007385259959846735,0.9739019274711609,neutral,0.011327579617500305
+63,2019-04-09 04:55:00,"If you're really interested in the stock following its offering, I would suggest buying a small amount to start, and adding to it over time as you see how wide Zoom's moat really is.",0.1163254901766777,0.005588894709944725,0.8780856132507324,neutral,0.11073659360408783
+64,2019-04-09 04:55:00,"10 stocks we like better than Walmart
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.1507294625043869,0.029832763597369194,0.8194377422332764,neutral,0.12089669704437256
+65,2019-04-09 04:55:00,"After all, the newsletter they have run for over a decade, the Motley Fool Stock Advisor, has quadrupled the market.",0.7298737168312073,0.04717077314853668,0.22295552492141724,positive,0.6827029585838318
+66,2019-04-09 04:55:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them!",0.1912095695734024,0.014741521328687668,0.7940489053726196,neutral,0.17646804451942444
+67,2019-04-09 04:55:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+68,2019-04-09 04:55:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+69,2019-04-09 04:55:00,"*Stock Advisor returns as of January 31, 2019
+
+The author(s) may have a position in any stocks mentioned.",0.01283709891140461,0.008258090354502201,0.9789047837257385,neutral,0.004579008556902409
+70,2019-04-09 04:55:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+71,2019-04-09 04:55:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+72,2019-04-09 04:55:00,"Brian Stoffel owns shares of Alphabet (A shares), Alphabet (C shares), and Atlassian.",0.015149476006627083,0.008369910530745983,0.9764806032180786,neutral,0.0067795654758811
+73,2019-04-09 04:55:00,"The Motley Fool owns shares of and recommends Alphabet (A shares), Alphabet (C shares), Atlassian, Microsoft, and Salesforce.com.",0.019133055582642555,0.012339906767010689,0.9685270190238953,neutral,0.0067931488156318665
+74,2019-04-09 04:55:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

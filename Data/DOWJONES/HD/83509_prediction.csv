@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-19 22:00:00,They each pay about the same annual yield that's just above the broader market's 2%.,0.13990487158298492,0.01850247010588646,0.8415926694869995,neutral,0.12140239775180817
+1,2018-04-19 22:00:00,And both Walmart (NYSE: WMT) and Home Depot (NYSE: HD) are successful retailers that dominate their respective niches.,0.6745058298110962,0.017580337822437286,0.30791381001472473,positive,0.6569254994392395
+2,2018-04-19 22:00:00,"However, one stock stands out as preferable for income investors seeking a strong, quickly growing dividend.",0.7271562218666077,0.018613222986459732,0.2542305290699005,positive,0.7085430026054382
+3,2018-04-19 22:00:00,"Below, we'll look at a few reasons Home Depot wins this dividend stock matchup.",0.17010334134101868,0.010880867950618267,0.8190158009529114,neutral,0.15922246873378754
+4,2018-04-19 22:00:00,Walmart has enjoyed a modest growth rebound lately but its expansion pace isn't in the same league as Home Depot's.,0.7544940114021301,0.052333321422338486,0.1931726485490799,positive,0.7021607160568237
+5,2018-04-19 22:00:00,"The retailing titan's comparable-store sales inched higher by 2% in 2017 to put it modestly ahead of rivals like Target and Kroger , which each grew comps by 1% during the period.",0.9538993239402771,0.025311576202511787,0.020789148285984993,positive,0.9285877346992493
+6,2018-04-19 22:00:00,"Home Depot's comps improved at a blistering 7% last year, which marked an acceleration over the prior year's 6% gain.",0.9566280245780945,0.02359817549586296,0.01977379247546196,positive,0.93302983045578
+7,2018-04-19 22:00:00,"The retailer isn't simply benefiting from an expanding home improvement industry, either.",0.5347492098808289,0.011041741818189621,0.45420902967453003,positive,0.5237074494361877
+8,2018-04-19 22:00:00,"Rival Lowe's grew comps by just 4% last year, which suggests continued success by the market leader at expanding its market share position .",0.9558193683624268,0.019190218299627304,0.02499045617878437,positive,0.9366291761398315
+9,2018-04-19 22:00:00,Home Depot also stands out both in its own industry and against Walmart when it comes to financial efficiency.,0.8185675144195557,0.03255392238497734,0.1488785296678543,positive,0.7860136032104492
+10,2018-04-19 22:00:00,"Operating margin recently passed 14.5% of sales , compared to 9% for Lowe's.",0.62479567527771,0.338738352060318,0.036465998739004135,positive,0.28605732321739197
+11,2018-04-19 22:00:00,"That core profitability figure is climbing, too, while Walmart's has dipped to 4% from 6% five years ago.",0.040249284356832504,0.9456891417503357,0.014061596244573593,negative,-0.9054398536682129
+12,2018-04-19 22:00:00,"The same trend holds for return on invested capital, which has soared to over 30% for Home Depot while shrinking to single digits for the king of retail.",0.9291713237762451,0.023021874949336052,0.047806769609451294,positive,0.9061494469642639
+13,2018-04-19 22:00:00,These financial wins translate into a very different earnings picture for the two companies.,0.25727084279060364,0.19368480145931244,0.5490443110466003,neutral,0.0635860413312912
+14,2018-04-19 22:00:00,"Home Depot has seen its net income haul spike to $8.6 billion last year, or 8.6% of sales, from $7 billion, or 7.9% of sales in 2015.",0.9497594833374023,0.032638370990753174,0.017602156847715378,positive,0.9171211123466492
+15,2018-04-19 22:00:00,"Walmart's comparable figure has declined to $13.6 billion, or 2.8% of sales, from $16.2 billion, or 3.3% of sales three years ago.",0.017051203176379204,0.9720349311828613,0.010913867503404617,negative,-0.9549837112426758
+16,2018-04-19 22:00:00,That declining earnings profile means that Walmart executives have fewer resources available to allocate toward annual payout hikes.,0.02176155149936676,0.94891756772995,0.029320932924747467,negative,-0.9271560311317444
+17,2018-04-19 22:00:00,"The retailer's dividend is eating up over 60% of annual profits right now, compared to less than 50% for Home Depot.",0.7941814064979553,0.12883837521076202,0.07698020339012146,positive,0.6653430461883545
+18,2018-04-19 22:00:00,"It's no surprise, then, that Home Depot's income growth far outpaces Walmart's lately.",0.8981242179870605,0.044549547135829926,0.05732625722885132,positive,0.8535746932029724
+19,2018-04-19 22:00:00,Walmart's management lifted the dividend by roughly 2% in each of the last three fiscal years.,0.9088345170021057,0.023711901158094406,0.067453533411026,positive,0.8851225972175598
+20,2018-04-19 22:00:00,"Home Depot's raise was 29% this year, 26% in 2017, and 17% in 2016.",0.7001357674598694,0.015151139348745346,0.28471308946609497,positive,0.6849846243858337
+21,2018-04-19 22:00:00,Investors who prize stability might prefer Walmart's dividend since that payout is supported by a larger sales base that doesn't rely on the cyclical housing industry.,0.6577678322792053,0.022431345656514168,0.31980082392692566,positive,0.6353364586830139
+22,2018-04-19 22:00:00,"That stability, after all, has translated into 44 consecutive years of annual dividend raises for Walmart.",0.8811493515968323,0.013660456985235214,0.10519017279148102,positive,0.8674889206886292
+23,2018-04-19 22:00:00,"Home Depot, on the other hand, had to suspend its increases during the worst of the housing market crash.",0.03141647204756737,0.833225667476654,0.13535785675048828,negative,-0.8018091917037964
+24,2018-04-19 22:00:00,"Yet its business has grown much stronger since the recession, and those gains should support this generous payout through the next cyclical downturn.",0.9417821168899536,0.0159956905990839,0.04222215712070465,positive,0.9257864356040955
+25,2018-04-19 22:00:00,"In the meantime, income investors have every reason to expect continued market-thumping sales and profit growth from Home Depot as the company extends its sales base beyond $100 billion to get closer to Walmart's $486 billion annual haul.",0.9460992813110352,0.016050206497311592,0.03785053640604019,positive,0.9300490617752075
+26,2018-04-19 22:00:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+27,2018-04-19 22:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+28,2018-04-19 22:00:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+29,2018-04-19 22:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+30,2018-04-19 22:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+31,2018-04-19 22:00:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+32,2018-04-19 22:00:00,The Motley Fool has the following options: short May 2018 $175 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.012950422242283821,0.029934365302324295,0.9571152329444885,neutral,-0.016983943060040474
+33,2018-04-19 22:00:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+34,2018-04-19 22:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+35,2018-04-19 22:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

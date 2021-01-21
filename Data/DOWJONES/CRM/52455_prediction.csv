@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-02-14 06:50:00,"Marc Andreessen, the co-founder of Netscape and famed venture capitalist who invested in Twitter , Facebook , Pinterest, and GrubHub in their early days, believes that bitcoin will beat Apple Pay in the long run.",0.8368765115737915,0.017886295914649963,0.14523720741271973,positive,0.8189902305603027
+1,2015-02-14 06:50:00,"Andreessen made this bold prediction during the Salesforce annual Dreamforce conference last October, stating that Bitcoin will ""have a big impact over 20 years,"" while Apple Pay would make a mark over ""the next three years.""",0.6533489227294922,0.015516017563641071,0.331135094165802,positive,0.6378328800201416
+2,2015-02-14 06:50:00,"Andreesen also believes that Apple Pay is merely ""consistent with the status quo,"" countering Apple CEO Tim Cook who described it as an ""entirely new"" payments platform.",0.13442979753017426,0.49317413568496704,0.3723960518836975,negative,-0.3587443232536316
+3,2015-02-14 06:50:00,"Andreessen's venture capital firm, Andreessen Horowitz, had invested approximately $50 million in bitcoin-related companies at the time.",0.07941147685050964,0.005811075679957867,0.9147774577140808,neutral,0.0736004039645195
+4,2015-02-14 06:50:00,"Since then, Coinbase became the first licensed U.S. bitcoin exchange, and the Winklevoss twins are reportedly close to launching their own exchange as well.",0.5083879828453064,0.009969131089746952,0.48164284229278564,positive,0.4984188377857208
+5,2015-02-14 06:50:00,"Is Andreessen right about the future of bitcoin, or is his comparison to Apple Pay misguided?",0.05894138291478157,0.2220112830400467,0.7190473675727844,neutral,-0.16306990385055542
+6,2015-02-14 06:50:00,"Why Andreessen might be right
+
+Bitcoin is a cryptocurrency, while Apple Pay is a mobile payment platform for regular currencies.",0.060159455984830856,0.06463585048913956,0.8752047419548035,neutral,-0.0044763945043087006
+7,2015-02-14 06:50:00,But both simplify payments into rapid digital transfers.,0.4445582330226898,0.013628395274281502,0.5418134331703186,neutral,0.43092983961105347
+8,2015-02-14 06:50:00,"Since Bitcoin can be sent without revealing personal information like a checking or credit card account, it is often considered ""anonymous"" (although it can still be traced back to the user's ""pseudonym"").",0.03182128816843033,0.2537764310836792,0.7144022583961487,neutral,-0.22195515036582947
+9,2015-02-14 06:50:00,"Although anonymous transactions are often associated with illegal ones, using an anonymized currency can also protect users from the data breaches that have recently crippled major retailers .",0.21356871724128723,0.42729058861732483,0.35914069414138794,negative,-0.2137218713760376
+10,2015-02-14 06:50:00,"Bitcoin is also the antithesis of fiat currencies, which have values set by the government, instead of being pinned to underlying assets like gold.",0.041523970663547516,0.030752848833799362,0.9277231097221375,neutral,0.010771121829748154
+11,2015-02-14 06:50:00,"Like a natural resource, there is a finite amount of bitcoins that can be digitally ""mined"" with an algorithm.",0.035565879195928574,0.010067058727145195,0.9543671011924744,neutral,0.02549882046878338
+12,2015-02-14 06:50:00,This means bitcoins could become more dependable than even major currencies like the Russian ruble.,0.6633736491203308,0.03330107405781746,0.30332526564598083,positive,0.6300725936889648
+13,2015-02-14 06:50:00,"Apple Pay is also ultimately limited to a single platform, iOS, while bitcoins can be transferred from nearly any Internet-connected device.",0.01502017118036747,0.011473966762423515,0.9735057950019836,neutral,0.0035462044179439545
+14,2015-02-14 06:50:00,"Apple Pay is also fenced in by the legal boundaries of financial institutions and retailers, but bitcoin can cross international borders with ease.",0.09221500903367996,0.033248379826545715,0.8745366334915161,neutral,0.05896662920713425
+15,2015-02-14 06:50:00,"Why Andreessen might be wrong
+
+As of this writing, a single bitcoin is worth $216 -- down from over $1,100 in December 2013 but sharply up from around $4 in December 2011.",0.06595053523778915,0.9146118760108948,0.019437609240412712,negative,-0.8486613631248474
+16,2015-02-14 06:50:00,That level of volatility makes it impossible to gauge their true value.,0.03586798906326294,0.3405252695083618,0.6236067414283752,neutral,-0.3046572804450989
+17,2015-02-14 06:50:00,"Back in 2010, a Florida programmer paid for two pizzas with 10,000 bitcoins -- that would be worth a whopping $2.16 million today.",0.17827419936656952,0.046661000698804855,0.7750647664070129,neutral,0.13161319494247437
+18,2015-02-14 06:50:00,"Licensed exchanges like Coinbase might stabilize the price, but unless the annual gains or losses cool down to the single digits, it is hard to see businesses accepting bitcoin as readily as Apple Pay.",0.5636626482009888,0.18135014176368713,0.2549871802330017,positive,0.38231250643730164
+19,2015-02-14 06:50:00,"Moreover, since retailers need to eventually convert bitcoin to local currencies, bitcoin ends up pinned to local currencies anyway.",0.4022078514099121,0.020658530294895172,0.5771336555480957,neutral,0.38154932856559753
+20,2015-02-14 06:50:00,"Apple Pay, while not as ""entirely new"" as Cook claims, still advances mobile payments to the next level by replacing cumbersome PIN codes with Touch ID on iPhones.",0.46250224113464355,0.014166958630084991,0.523330807685852,neutral,0.44833528995513916
+21,2015-02-14 06:50:00,"On the upcoming Apple Watch, the PIN code only needs to be entered once, then remains active as long as the watch is worn by a single user.",0.014006253331899643,0.014194815419614315,0.9717988967895508,neutral,-0.0001885620877146721
+22,2015-02-14 06:50:00,"That big difference, along with a rising market share and the 220,000 stores that have adopted Apple Pay, ensure that it will fare better than earlier efforts like Google Wallet or Softcard.",0.9348948001861572,0.018946819007396698,0.0461583286523819,positive,0.9159479737281799
+23,2015-02-14 06:50:00,Apple Pay on the iPhone and Apple Watch.,0.02328287437558174,0.032870106399059296,0.9438470005989075,neutral,-0.009587232023477554
+24,2015-02-14 06:50:00,"Source: Apple
+
+Apple Pay also offers a similar layer of anonymity as bitcoin, sending a token and dynamic number through the merchant network, instead of revealing credit card details.",0.03333848714828491,0.010488349944353104,0.9561731219291687,neutral,0.02285013720393181
+25,2015-02-14 06:50:00,"Add that to its Touch ID security, and Apple Pay arguably addresses data breach concerns just as well as bitcoin transfers.",0.3113882839679718,0.011276142671704292,0.6773355603218079,neutral,0.30011212825775146
+26,2015-02-14 06:50:00,"Why Apple wins by playing by the rules
+
+The ideology of bitcoin -- to declare independence from fiat currencies as a cryptocurrency without borders -- sounds revolutionary.",0.3232726454734802,0.021948928013443947,0.6547784209251404,neutral,0.30132371187210083
+27,2015-02-14 06:50:00,"Unfortunately, it is also prone to devastating hacks like Mt.",0.03508488088846207,0.7785292863845825,0.18638575077056885,negative,-0.7434443831443787
+28,2015-02-14 06:50:00,"Gox , remains extremely volatile, and ignores user habits and retailer needs.",0.012715385295450687,0.18148793280124664,0.8057966828346252,neutral,-0.16877254843711853
+29,2015-02-14 06:50:00,"By comparison, Apple Pay works by simplifying and securing mobile payments for users, addressing retailer needs, and inking partnerships with financial institutions.",0.4783216416835785,0.009232535026967525,0.5124458074569702,neutral,0.4690891206264496
+30,2015-02-14 06:50:00,"In my opinion, those steps will turn Apple Pay into a mainstream payment system as bitcoin remains a niche concept for hackers, programmers, and retailers seeking publicity .",0.5985908508300781,0.013009605929255486,0.38839951157569885,positive,0.5855812430381775
+31,2015-02-14 06:50:00,"Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets.",0.0451636016368866,0.12186315655708313,0.8329732418060303,neutral,-0.07669955492019653
+32,2015-02-14 06:50:00,And its stock price has nearly unlimited room to run for early-in-the-know investors.,0.33333271741867065,0.01437036320567131,0.6522969603538513,neutral,0.31896236538887024
+33,2015-02-14 06:50:00,"To be one of them, just click here !",0.08763899654150009,0.07616403698921204,0.836197018623352,neutral,0.011474959552288055
+34,2015-02-14 06:50:00,The article This Top Tech Investor Believes Bitcoins Will Beat Apple Pay originally appeared on Fool.com.,0.3182258605957031,0.013372293673455715,0.668401837348938,neutral,0.30485355854034424
+35,2015-02-14 06:50:00,Leo Sun owns shares of Apple and Facebook.,0.016346311196684837,0.010488470084965229,0.9731652140617371,neutral,0.005857841111719608
+36,2015-02-14 06:50:00,"The Motley Fool recommends Apple, Facebook, Google (A shares), Google (C shares), Salesforce.com, and Twitter.",0.028127377852797508,0.010457437485456467,0.96141517162323,neutral,0.01766994036734104
+37,2015-02-14 06:50:00,"The Motley Fool owns shares of Apple, Facebook, Google (A shares), Google (C shares), and Twitter.",0.017750585451722145,0.011668394319713116,0.9705809354782104,neutral,0.006082191132009029
+38,2015-02-14 06:50:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+39,2015-02-14 06:50:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+40,2015-02-14 06:50:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+41,2015-02-14 06:50:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+42,2015-02-14 06:50:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+43,2015-02-14 06:50:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+44,2015-02-14 06:50:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-01-21 05:17:00,"I've been following Zendesk (NYSE: ZEN) for years, and I felt a bit uneasy when the company announced plans to go beyond its core suite of customer support products and introduce a new ground-up customer relationship management (CRM) platform hosted in Amazon.com 's (NASDAQ: AMZN) cloud.",0.6557556986808777,0.010422613471746445,0.3338216245174408,positive,0.6453331112861633
+1,2019-01-21 05:17:00,But then I dug a little deeper and recognized something important: Zendesk has been moving up the CRM stack for years.,0.7691815495491028,0.012842575088143349,0.21797581017017365,positive,0.7563389539718628
+2,2019-01-21 05:17:00,"Its new effort, dubbed Zendesk Sunshine, isn't surprising at all.",0.2554950714111328,0.010801163502037525,0.7337037324905396,neutral,0.24469390511512756
+3,2019-01-21 05:17:00,But will the strategy work?,0.10043001919984818,0.017447838559746742,0.8821222186088562,neutral,0.08298218250274658
+4,2019-01-21 05:17:00,"Skeptics will say that salesforce.com (NYSE: CRM) dominates the market for CRM software, and they're right.",0.11271917819976807,0.022970613092184067,0.8643102645874023,neutral,0.0897485613822937
+5,2019-01-21 05:17:00,"But even with its leadership position, Salesforce still only occupies about 20% of the overall market, leaving plenty of room for challengers like HubSpot (NYSE: HUBS) and, naturally, Zendesk.",0.11781560629606247,0.21570801734924316,0.6664763689041138,neutral,-0.0978924110531807
+6,2019-01-21 05:17:00,There are two reasons to expect Zendesk to cash in.,0.060122448951005936,0.014372216537594795,0.9255053400993347,neutral,0.04575023055076599
+7,2019-01-21 05:17:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+8,2019-01-21 05:17:00,"The company already competes successfully...without really trying
+
+To be clear, Zendesk isn't anywhere near the top of the market in terms of overall revenue from CRM system sales.",0.3384402394294739,0.04676910117268562,0.6147906184196472,neutral,0.29167112708091736
+9,2019-01-21 05:17:00,"Sunshine may change that, but in the meantime, client adoption of multiple products for serving customers has made Zendesk one of the leading players in CRM for three years now, according to technology research firm Gartner .",0.8502272963523865,0.012944193556904793,0.1368284821510315,positive,0.8372830748558044
+10,2019-01-21 05:17:00,"With Sunshine, Zendesk promises a completely open experience that the company says makes it easier to tap into customer data wherever it may live and improve every aspect of the experience with your company.",0.8205010890960693,0.013542142696678638,0.16595667600631714,positive,0.8069589734077454
+11,2019-01-21 05:17:00,And Amazon is part of the Zendesk pitch.,0.04162165895104408,0.009493947960436344,0.9488844275474548,neutral,0.03212771192193031
+12,2019-01-21 05:17:00,"""Sunshine is natively built in the public cloud on Amazon Web Services, which means your developers get the freedom to build your customer apps or services the way they want,"" says Zendesk.",0.10693442821502686,0.005817681550979614,0.8872479200363159,neutral,0.10111674666404724
+13,2019-01-21 05:17:00,"""Data will flow more freely through the AWS services that developers already use.""",0.5477351546287537,0.009972644038498402,0.4422922134399414,positive,0.5377625226974487
+14,2019-01-21 05:17:00,Hooking developers with a friendly CRM experience that goes with the AWS they know could be remarkably enticing.,0.4954368472099304,0.012154475785791874,0.49240872263908386,positive,0.4832823574542999
+15,2019-01-21 05:17:00,But let's say it isn't.,0.04312416538596153,0.03399954363703728,0.9228762984275818,neutral,0.009124621748924255
+16,2019-01-21 05:17:00,Let's say instead that it just fills a niche as Zendesk has with the majority of its other products.,0.08700165152549744,0.00639904523268342,0.9065992832183838,neutral,0.08060260862112045
+17,2019-01-21 05:17:00,That in itself would be a big win.,0.8548811078071594,0.02758800983428955,0.11753085255622864,positive,0.8272930979728699
+18,2019-01-21 05:17:00,"Here's why: A quick check of S&P Global Market Intelligence shows that since 2014, Zendesk has made four small acquisitions totaling at least $72 million but probably less than $100 million.",0.1360624134540558,0.03256528079509735,0.8313723206520081,neutral,0.10349713265895844
+19,2019-01-21 05:17:00,(Terms of the company's September acquisition of Future Simple weren't disclosed.),0.011484449729323387,0.015853745862841606,0.9726617932319641,neutral,-0.004369296133518219
+20,2019-01-21 05:17:00,Zendesk has grown revenue more than $400 million -- roughly four times that total acquisition cost -- over that same period while also improving gross margin and cash flow.,0.956821620464325,0.01843424141407013,0.024744149297475815,positive,0.938387393951416
+21,2019-01-21 05:17:00,That's the beauty of growing (mostly) organically.,0.17017820477485657,0.0066996547393500805,0.8231221437454224,neutral,0.1634785532951355
+22,2019-01-21 05:17:00,"Finally, while it's an anecdotal point, here at The Motley Fool we've enjoyed enough benefits using Zendesk for different levels of service and support that we're rapidly bringing new elements of the platform to new parts of the company.",0.817711353302002,0.012143516913056374,0.1701451689004898,positive,0.8055678606033325
+23,2019-01-21 05:17:00,Will Sunshine be next?,0.08691477030515671,0.08411378413438797,0.8289715051651001,neutral,0.002800986170768738
+24,2019-01-21 05:17:00,"I've no idea, but I'm also not sure it matters.",0.04670458287000656,0.13300307095050812,0.8202923536300659,neutral,-0.08629848808050156
+25,2019-01-21 05:17:00,"The bigger point I'm making is that Zendesk has made an excellent business out of developing open, flexible, customizable software that lives in the cloud.",0.8577826023101807,0.011788787320256233,0.13042867183685303,positive,0.8459938168525696
+26,2019-01-21 05:17:00,"Sunshine continues that tradition, and should find its market just as every other product in the Zendesk suite has.",0.8302186131477356,0.012604833580553532,0.15717658400535583,positive,0.8176137804985046
+27,2019-01-21 05:17:00,"As an investor, I'm excited to see where it lands.",0.3215046525001526,0.009366615675389767,0.6691287159919739,neutral,0.31213805079460144
+28,2019-01-21 05:17:00,"10 stocks we like better than Zendesk
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14174219965934753,0.02142578735947609,0.8368319869041443,neutral,0.12031641602516174
+29,2019-01-21 05:17:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+30,2019-01-21 05:17:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now… and Zendesk wasn't one of them!",0.22948013246059418,0.01385857630521059,0.7566612958908081,neutral,0.21562156081199646
+31,2019-01-21 05:17:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+32,2019-01-21 05:17:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+33,2019-01-21 05:17:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+34,2019-01-21 05:17:00,Tim Beyers owns shares of HubSpot and Salesforce.com.,0.014911939390003681,0.011126363649964333,0.9739616513252258,neutral,0.0037855757400393486
+35,2019-01-21 05:17:00,"The Motley Fool owns shares of and recommends Amazon, HubSpot, Salesforce.com, and Zendesk.",0.03551000729203224,0.02072184719145298,0.9437682032585144,neutral,0.014788160100579262
+36,2019-01-21 05:17:00,The Motley Fool recommends Gartner.,0.06383483111858368,0.05472523346543312,0.8814399838447571,neutral,0.009109597653150558
+37,2019-01-21 05:17:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+38,2019-01-21 05:17:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

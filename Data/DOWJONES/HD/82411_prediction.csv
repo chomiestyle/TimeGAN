@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-12 05:31:00,"Chicago, IL -September 12, 2018 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01804744265973568,0.008769459091126919,0.9731831550598145,neutral,0.00927798356860876
+1,2018-09-12 05:31:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2018-09-12 05:31:00,"Stocks recently featured in the blog include: Allstate CorporationALL , U.S.",0.02121404930949211,0.10596876591444016,0.8728172183036804,neutral,-0.08475472033023834
+3,2018-09-12 05:31:00,"Concrete, Inc.USCR , Summit Materials, Inc.SUM , Home Depot, Inc.HD and Lowe's Companies, Inc.LOW .",0.011164985597133636,0.014654139056801796,0.9741808772087097,neutral,-0.0034891534596681595
+4,2018-09-12 05:31:00,"Here are highlights from Monday's Analyst Blog:
+
+Much like the residents on the East Coast, investors too are closely monitoring the path of Hurricane Florence, as it gets stronger and prepares to make landfall, starting Thursday.",0.07736183702945709,0.02062150463461876,0.9020166993141174,neutral,0.05674033239483833
+5,2018-09-12 05:31:00,"The storm has been assigned Category 4, which means winds could blow at a speed of 130 kilometers per hour, with severe threat to both property and lives.",0.07865271717309952,0.75275719165802,0.16859003901481628,negative,-0.6741044521331787
+6,2018-09-12 05:31:00,Hurricanes have in the past impacted markets and investors seem to be cautiously adjusting their portfolio ahead of the impending storm.,0.23604339361190796,0.07849831134080887,0.6854583024978638,neutral,0.1575450897216797
+7,2018-09-12 05:31:00,"This has resulted in a decline in shares of insurance companies, while home improvement stores, car rental and building supply companies have risen considerably over the last few days.",0.03855905309319496,0.9434348940849304,0.018006009981036186,negative,-0.9048758149147034
+8,2018-09-12 05:31:00,"Can Insurance Companies, Others Brave the Hurricane?",0.24885866045951843,0.022324632853269577,0.7288166880607605,neutral,0.22653402388095856
+9,2018-09-12 05:31:00,"The Atlantic Hurricane season, which runs between June and November, created havoc last year, causing damage worth more than $250 billion in the United States.",0.0622994638979435,0.8583261966705322,0.07937433570623398,negative,-0.7960267066955566
+10,2018-09-12 05:31:00,"Understandably, insurance companies tend to be negatively impacted by such natural calamities.",0.022674432024359703,0.4203397333621979,0.5569857954978943,neutral,-0.3976652920246124
+11,2018-09-12 05:31:00,"Knock on wood, if destruction is massive, insured losses could be high.",0.0438995361328125,0.8144199252128601,0.1416805386543274,negative,-0.7705203890800476
+12,2018-09-12 05:31:00,"On Sep 10, shares of insurance companies took a hit, as Hurricane Florence moved closer to make landfall.",0.24739676713943481,0.6284363865852356,0.12416686862707138,negative,-0.3810396194458008
+13,2018-09-12 05:31:00,Shares of The Allstate Corporation declined 2.2%.,0.020444316789507866,0.9611572027206421,0.018398510292172432,negative,-0.9407128691673279
+14,2018-09-12 05:31:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+15,2018-09-12 05:31:00,Another sector that is prone to hurricane havoc is transportation.,0.023156216368079185,0.09942691028118134,0.8774168491363525,neutral,-0.076270692050457
+16,2018-09-12 05:31:00,"Along with property, severe hurricanes could hamper rail and container activity too, thus paralyzing infrastructure for transportation.",0.0252440944314003,0.9547484517097473,0.020007409155368805,negative,-0.9295043349266052
+17,2018-09-12 05:31:00,Building supplies companies have a mixed effect from hurricanes.,0.023524627089500427,0.5040977001190186,0.47237762808799744,negative,-0.48057305812835693
+18,2018-09-12 05:31:00,Cement and concrete companies tend to get hit from hurricanes.,0.0305537860840559,0.8714978098869324,0.09794840961694717,negative,-0.8409440517425537
+19,2018-09-12 05:31:00,"Already, on Monday, shares of several cement and concrete companies along with heavy construction equipment suppliers plummeted.",0.021738117560744286,0.9600079655647278,0.018253959715366364,negative,-0.938269853591919
+20,2018-09-12 05:31:00,Shares of U.S.,0.14819231629371643,0.050468817353248596,0.8013389110565186,neutral,0.09772349894046783
+21,2018-09-12 05:31:00,"Concrete, Inc. declined 5%.",0.0841035321354866,0.8617798089981079,0.05411667004227638,negative,-0.7776762843132019
+22,2018-09-12 05:31:00,"Shares of Summit Materials, Inc. plummeted 7.9% after the company said that Hurricane Florence and adverse weather conditions could severely affect its business in several markets.",0.02039552852511406,0.9702362418174744,0.009368167258799076,negative,-0.9498407244682312
+23,2018-09-12 05:31:00,The massive damage caused by hurricanes increases demand in certain sectors.,0.8743273615837097,0.030718717724084854,0.09495395421981812,positive,0.8436086177825928
+24,2018-09-12 05:31:00,"Historically, post hurricanes, a spate of industries have gained.",0.3305356800556183,0.010577977634966373,0.6588863134384155,neutral,0.3199577033519745
+25,2018-09-12 05:31:00,"It has been observed that shares of home improvement retailers have substantially increased post hurricanes, on demand for homes.",0.9379419088363647,0.03305508941411972,0.02900301292538643,positive,0.9048868417739868
+26,2018-09-12 05:31:00,"Shares of The Home Depot, Inc. and Lowe's Companies, Inc. gained 2.2% and 2.6%, respectively.",0.9329750537872314,0.027739116922020912,0.03928587585687637,positive,0.9052359461784363
+27,2018-09-12 05:31:00,"Shares of both the companies increased during the 2017 Atlantic Hurricane season, with Home Depot gaining 16.3% during that period.",0.9529341459274292,0.018583666533231735,0.028482142835855484,positive,0.9343504905700684
+28,2018-09-12 05:31:00,It now needs to be seen if Hurricane Florence weakens or takes a more severe form over the next couple of days.,0.03175177797675133,0.14171655476093292,0.8265316486358643,neutral,-0.1099647730588913
+29,2018-09-12 05:31:00,"That said, the Atlantic Hurricane season over the years have made investors cautious, who closely monitor the storm and make adjustments to their portfolio, given that hurricanes have always impacted the markets.",0.049228403717279434,0.7805485725402832,0.17022304236888885,negative,-0.7313201427459717
+30,2018-09-12 05:31:00,"Zacks names 5 companies poised to ride a medical breakthrough that is targeting cures for leukemia, AIDS, muscular dystrophy, hemophilia, and other conditions.",0.7109310626983643,0.014803656376898289,0.274265319108963,positive,0.6961274147033691
+31,2018-09-12 05:31:00,New products in this field are already generating substantial revenue and even more wondrous treatments are in the pipeline.,0.8527401685714722,0.013783727772533894,0.1334761381149292,positive,0.8389564156532288
+32,2018-09-12 05:31:00,Early investors could realize exceptional profits.,0.8721199035644531,0.01637672632932663,0.11150334030389786,positive,0.8557431697845459
+33,2018-09-12 05:31:00,"Click here to see the 5 stocks >>
+
+Past performance is no guarantee of future results.",0.11937420070171356,0.08391451090574265,0.796711266040802,neutral,0.03545968979597092
+34,2018-09-12 05:31:00,Inherent in any investment is the potential for loss .,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+35,2018-09-12 05:31:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+36,2018-09-12 05:31:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+37,2018-09-12 05:31:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+38,2018-09-12 05:31:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+39,2018-09-12 05:31:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+40,2018-09-12 05:31:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+41,2018-09-12 05:31:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+42,2018-09-12 05:31:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+43,2018-09-12 05:31:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+44,2018-09-12 05:31:00,Visit http://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01104306522756815,0.014137434773147106,0.9748194813728333,neutral,-0.0030943695455789566
+45,2018-09-12 05:31:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+46,2018-09-12 05:31:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+47,2018-09-12 05:31:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+48,2018-09-12 05:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

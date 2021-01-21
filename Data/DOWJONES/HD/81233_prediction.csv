@@ -1,0 +1,82 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-25 09:19:00,"After significant hype from the mainstream media, Special Counsel Robert Mueller seemingly appeared on the verge of delivering an indictment on President Donald Trump.",0.28181299567222595,0.27969691157341003,0.4384900629520416,neutral,0.002116084098815918
+1,2019-03-25 09:19:00,"Instead, Mueller's report found no evidence tying Trump with Russian conspirators.",0.05884398892521858,0.7061527967453003,0.23500317335128784,negative,-0.6473088264465332
+2,2019-03-25 09:19:00,"That news disappointed many on the left, while simultaneously lifting prospects for Dow Jones Industrial Average and its component stocks.",0.4374885857105255,0.5031083226203918,0.05940307304263115,negative,-0.06561973690986633
+3,2019-03-25 09:19:00,"Although the Russia investigation, which has long dogged the Trump administration, has no direct impact on the markets, the latest news frees them from unnecessary shackles.",0.7258982062339783,0.08828742802143097,0.18581441044807434,positive,0.6376107931137085
+4,2019-03-25 09:19:00,"With the president now able to concentrate on important matters, he can theoretically resume making America great again.",0.6508684158325195,0.02863125316798687,0.32050031423568726,positive,0.6222371459007263
+5,2019-03-25 09:19:00,This has positive implications for thorny issues like the U.S.-China trade war.,0.5566225051879883,0.17139261960983276,0.27198490500450134,positive,0.3852298855781555
+6,2019-03-25 09:19:00,"If the White House achieves a breakthrough, we could see several Dow Jones stocks on the rise move even higher.",0.8664388656616211,0.02705833688378334,0.10650280117988586,positive,0.8393805027008057
+7,2019-03-25 09:19:00,"With China harnessing the world's second-biggest economy, Wall Street will appreciate any hint of progress.",0.8128911852836609,0.02208680659532547,0.16502197086811066,positive,0.790804386138916
+8,2019-03-25 09:19:00,"In addition, Mueller tacitly signed off on two more years of Trump.",0.6939643025398254,0.03241638466715813,0.27361926436424255,positive,0.6615478992462158
+9,2019-03-25 09:19:00,"Again, the majority of Americans probably felt like they got punched in the gut.",0.11973361670970917,0.3964897394180298,0.48377665877342224,neutral,-0.2767561078071594
+10,2019-03-25 09:19:00,"Still, we do have one bit of universal good news: we know exactly what to expect until November 2020.",0.3127000629901886,0.009638571180403233,0.6776614189147949,neutral,0.30306148529052734
+11,2019-03-25 09:19:00,"From a political standpoint, this is huge.",0.07677030563354492,0.014311077073216438,0.9089186191558838,neutral,0.06245923042297363
+12,2019-03-25 09:19:00,"Barring unusual circumstances, Trump's contentious policies such as tax or healthcare reform won't be immediately reversed.",0.116884745657444,0.12334306538105011,0.7597721815109253,neutral,-0.00645831972360611
+13,2019-03-25 09:19:00,This continuity is great for the markets as it represents one less variable.,0.5263493061065674,0.011660386808216572,0.4619902968406677,positive,0.5146889090538025
+14,2019-03-25 09:19:00,"So with that in mind, here are five Dow Jones stocks to track on your radar:
+
+Earlier this year, banking giant JPMorgan Chase (NYSE: JPM ) was one of the Dow Jones stocks on the rise.",0.19047898054122925,0.022579103708267212,0.7869418859481812,neutral,0.16789987683296204
+15,2019-03-25 09:19:00,"However, that quickly changed this month.",0.1670335978269577,0.04613259434700012,0.7868337631225586,neutral,0.12090100347995758
+16,2019-03-25 09:19:00,"Since mid-March, JPM stock has dropped more than 6%.",0.019171476364135742,0.9715170860290527,0.009311409667134285,negative,-0.952345609664917
+17,2019-03-25 09:19:00,"Geopolitical concerns such as icy U.S.-China relations, as well as possible trading-revenue declines have hurt prospects.",0.018960611894726753,0.9673954248428345,0.01364393811672926,negative,-0.9484348297119141
+18,2019-03-25 09:19:00,"But despite the troubles, JPM stock has a genuine chance of a Mueller-fueled rally.",0.9133753180503845,0.02689111977815628,0.059733565896749496,positive,0.8864842057228088
+19,2019-03-25 09:19:00,"For one thing, JPMorgan is an economic bellwether: what's good for the nation is usually good for its share price.",0.3365388512611389,0.021004706621170044,0.6424564719200134,neutral,0.31553414463996887
+20,2019-03-25 09:19:00,"Moreover, as a banking firm, JPM receives the most benefit from a stable platform.",0.8889901638031006,0.012865952216088772,0.0981438010931015,positive,0.8761242032051086
+21,2019-03-25 09:19:00,"As I alluded to earlier, it's probably not the kind of stability most people sought.",0.045659445226192474,0.18139874935150146,0.7729418277740479,neutral,-0.1357392966747284
+22,2019-03-25 09:19:00,"Nevertheless, we generally know what to expect: strange tweets, conservative policies, and the constant push to build the wall.",0.107634998857975,0.022368090227246284,0.869996964931488,neutral,0.08526691049337387
+23,2019-03-25 09:19:00,This predictability will at least make it easier for management to chart a path forward.,0.8329145312309265,0.012491138651967049,0.15459434688091278,positive,0.8204233646392822
+24,2019-03-25 09:19:00,"Most technology firms took a beating in the final quarter of last year, but not Intel (NASDAQ: INTC ).",0.03830510005354881,0.895629346370697,0.0660654753446579,negative,-0.8573242425918579
+25,2019-03-25 09:19:00,"No, INTC stock absorbed most of its pain earlier in 2018.",0.5748750567436218,0.13240249454975128,0.2927224636077881,positive,0.44247257709503174
+26,2019-03-25 09:19:00,"Although usually a safe bet, Intel faced many questions regarding production delays over its next-generation chips.",0.029562203213572502,0.8796754479408264,0.09076235443353653,negative,-0.8501132726669312
+27,2019-03-25 09:19:00,"Amid fierce competition, many stakeholders simply gave up.",0.07809479534626007,0.5311110615730286,0.39079415798187256,negative,-0.4530162811279297
+28,2019-03-25 09:19:00,"Further compounding the issue, the U.S.-China trade war acted as a massive headwind.",0.06541010737419128,0.8542879819869995,0.08030195534229279,negative,-0.7888778448104858
+29,2019-03-25 09:19:00,"As our own Dana Blankenhorn noted last year, Intel invested substantially in Chinese infrastructure.",0.8575450778007507,0.011648005805909634,0.13080693781375885,positive,0.8458970785140991
+30,2019-03-25 09:19:00,Any hit to that region will eventually translate to volatility in INTC stock.,0.11788776516914368,0.7228274345397949,0.159284770488739,negative,-0.6049396991729736
+31,2019-03-25 09:19:00,"• 5 Stocks To Buy for the Happiest Employees
+
+But this year, Intel is one of the top Dow Jones stocks on the move.",0.419583261013031,0.060411486774683,0.5200052261352539,neutral,0.3591717779636383
+32,2019-03-25 09:19:00,Shares are already up 17% since the January opener.,0.9396461248397827,0.021353235468268394,0.03900064155459404,positive,0.9182928800582886
+33,2019-03-25 09:19:00,"And with Trump no longer dealing with the Mueller investigation, he has time to wheel and deal.",0.3150091767311096,0.028700552880764008,0.6562902927398682,neutral,0.286308616399765
+34,2019-03-25 09:19:00,"Although not a guarantee, INTC suddenly looks like a much-healthier prospect.",0.8398615717887878,0.02355029806494713,0.1365882009267807,positive,0.8163112998008728
+35,2019-03-25 09:19:00,"If you're looking for stocks on the rise in the Dow, you really can't go wrong with Merck (NYSE: MRK ).",0.03129228577017784,0.029482828453183174,0.9392248392105103,neutral,0.001809457316994667
+36,2019-03-25 09:19:00,"Although the company's future is heavily tied to its cancer-fighting drug Keytruda, that hasn't stopped speculators.",0.3889766037464142,0.2955603003501892,0.3154630959033966,positive,0.09341630339622498
+37,2019-03-25 09:19:00,"Indeed, if you bought MRK stock during last year's doldrums, you're living large right now.",0.15984027087688446,0.02462848834693432,0.8155312538146973,neutral,0.135211780667305
+38,2019-03-25 09:19:00,"Better yet, Merck continues to ride its wave of momentum.",0.8695068359375,0.014002179726958275,0.11649096012115479,positive,0.8555046319961548
+39,2019-03-25 09:19:00,"On a year-to-date basis, MRK stock crossed into double-digit territory.",0.9323355555534363,0.02393280528485775,0.043731652200222015,positive,0.9084027409553528
+40,2019-03-25 09:19:00,"For bullish traders, they don't find this status surprising.",0.0584389790892601,0.08424872905015945,0.8573123216629028,neutral,-0.025809749960899353
+41,2019-03-25 09:19:00,"Merck maintains an enviable drug pipeline, which includes Januvia and Gardasil .",0.4949130415916443,0.00861875806003809,0.4964682161808014,neutral,0.4862942695617676
+42,2019-03-25 09:19:00,"Last year, they rang up $3.7 billion and $3.2 billion in sales, respectively.",0.7275389432907104,0.02002791501581669,0.2524331212043762,positive,0.7075110077857971
+43,2019-03-25 09:19:00,"Plus, President Trump's rants against former President Barack Obama's healthcare policies have previously shaken the Street.",0.09447671473026276,0.803017795085907,0.10250549018383026,negative,-0.7085410952568054
+44,2019-03-25 09:19:00,"Now that the Mueller investigation is out of the way, Trump has less distractions.",0.09188804030418396,0.09766989946365356,0.8104420304298401,neutral,-0.0057818591594696045
+45,2019-03-25 09:19:00,"Hopefully, he'll use this unshackling to promote positive changes for all Americans.",0.6775184869766235,0.020972086116671562,0.30150941014289856,positive,0.656546413898468
+46,2019-03-25 09:19:00,"And if not, at least we know what we're getting.",0.45252785086631775,0.011814388446509838,0.5356577634811401,neutral,0.44071346521377563
+47,2019-03-25 09:19:00,"Out of all the Dow Jones stocks on the rise, my current favorite is Home Depot (NYSE: HD ).",0.06491830945014954,0.008001107722520828,0.9270805716514587,neutral,0.05691720172762871
+48,2019-03-25 09:19:00,"Admittedly, HD stock is a bit of a cop-out.",0.09311516582965851,0.4591122567653656,0.4477725625038147,negative,-0.3659970760345459
+49,2019-03-25 09:19:00,"As a largely secular company - a leaking pipe doesn't stop based on economic conditions - HD is an ""everyman"" investment.",0.23491118848323822,0.009600833989679813,0.7554879188537598,neutral,0.22531035542488098
+50,2019-03-25 09:19:00,"No matter what, you can count on it.",0.30074355006217957,0.011205277405679226,0.688051164150238,neutral,0.28953826427459717
+51,2019-03-25 09:19:00,But that doesn't mean that Home Depot is immune to good news.,0.14976651966571808,0.07437209784984589,0.7758613228797913,neutral,0.07539442181587219
+52,2019-03-25 09:19:00,"Again, while most Americans may have been disappointed with the build-up to the Mueller non-announcement, it's a positive for HD.",0.7242925763130188,0.06307941675186157,0.21262799203395844,positive,0.6612131595611572
+53,2019-03-25 09:19:00,"Primarily, shares do well with a robust housing market.",0.8585636615753174,0.01650436595082283,0.12493205070495605,positive,0.842059314250946
+54,2019-03-25 09:19:00,"If Trump were indicted, that would create all kinds of havoc on our economy.",0.04754776880145073,0.631393551826477,0.3210587203502655,negative,-0.5838457942008972
+55,2019-03-25 09:19:00,"• 7 Reasons Why Apple Streaming Won't Move the Needle for Apple Stock
+
+At the same time, I like the fact that HD stock is a boring investment.",0.037848617881536484,0.15004225075244904,0.812109112739563,neutral,-0.11219362914562225
+56,2019-03-25 09:19:00,"Ultimately, it's very difficult to tell how the Street will respond to the Mueller investigation results.",0.02147037349641323,0.10768897086381912,0.8708406686782837,neutral,-0.08621859550476074
+57,2019-03-25 09:19:00,"Therefore, sitting on HD and collecting its 2.9% dividend yield isn't a bad approach!",0.051474884152412415,0.021956823766231537,0.9265682697296143,neutral,0.029518060386180878
+58,2019-03-25 09:19:00,"If you want some spice out of your Dow Jones stocks, Boeing (NYSE: BA ) is it.",0.06145510450005531,0.009552878327667713,0.928991973400116,neutral,0.051902227103710175
+59,2019-03-25 09:19:00,"Already under pressure from the Lion Air Flight 610 crash that killed all onboard, Boeing suffered another devastating blow: Ethiopian Airlines Flight 302 also went down under similar circumstances .",0.03571074828505516,0.9275861978530884,0.03670317307114601,negative,-0.8918754458427429
+60,2019-03-25 09:19:00,"Logically, BA stock tumbled badly in response.",0.04395405575633049,0.8587170243263245,0.09732897579669952,negative,-0.8147629499435425
+61,2019-03-25 09:19:00,"Moreover, the pain is far from over.",0.31000378727912903,0.08201181143522263,0.6079843640327454,neutral,0.2279919683933258
+62,2019-03-25 09:19:00,"By the looks of it, Boeing will incur significant legal costs.",0.025396406650543213,0.857081413269043,0.11752220243215561,negative,-0.8316850066184998
+63,2019-03-25 09:19:00,"In both crashes, the same airplane - the 737 Max 8 - was involved.",0.04007834941148758,0.7797918319702148,0.18012985587120056,negative,-0.7397134900093079
+64,2019-03-25 09:19:00,"Additionally, the company's anti-stalling system called MCAS apparently malfunctioned on the doomed flights.",0.021390026435256004,0.9616640210151672,0.016945982351899147,negative,-0.9402740001678467
+65,2019-03-25 09:19:00,"If you're heavily vested in BA stock, you may want to protect yourself.",0.057656388729810715,0.07306763529777527,0.8692759871482849,neutral,-0.015411246567964554
+66,2019-03-25 09:19:00,"But with a newly-energized President, Boeing could get its wings back.",0.7299301624298096,0.04385896399617195,0.22621087729930878,positive,0.6860712170600891
+67,2019-03-25 09:19:00,"That's because Trump is still Trump, and that means more saber-rattling.",0.17797847092151642,0.03867337852716446,0.7833481431007385,neutral,0.13930508494377136
+68,2019-03-25 09:19:00,"Such circumstances would lift the company's military and defense divisions, an obvious welcome change.",0.8211846947669983,0.022660691291093826,0.1561545431613922,positive,0.798524022102356
+69,2019-03-25 09:19:00,"As of this writing, Josh Enomoto did not hold a position in any of the aforementioned securities.",0.008661915548145771,0.025846285745501518,0.9654918313026428,neutral,-0.017184369266033173
+70,2019-03-25 09:19:00,"• 7 Reasons Why Apple Streaming Won't Move the Needle for Apple Stock
+• 7 A-Rated Stocks to Buy in the Second Quarter
+
+The post 5 Dow Jones Stocks for the End of Mueller's Investigation appeared first on InvestorPlace .",0.03271825611591339,0.059386540204286575,0.9078951478004456,neutral,-0.026668284088373184
+71,2019-03-25 09:19:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

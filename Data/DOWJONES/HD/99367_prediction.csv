@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-10-19,"Home Depot operates in a highly competitive industry where rivals fight for every sale through pricing, customer service, merchandise selection, and store location.",0.09718774259090424,0.08409617096185684,0.8187161087989807,neutral,0.013091571629047394
+1,2015-10-19,Yet the retailer seems to have a good handle on those varied challenges right now.,0.44995126128196716,0.013509620912373066,0.5365391373634338,neutral,0.4364416301250458
+2,2015-10-19,CEO Craig Menear and his executive team just raised their profit outlook after Home Depot posted a stellar 6% second-quarter sales boost .,0.9356140494346619,0.03183542564511299,0.03255051374435425,positive,0.903778612613678
+3,2015-10-19,Competition sits high on any retailer's list of worries.,0.12602201104164124,0.05056878924369812,0.8234091997146606,neutral,0.07545322179794312
+4,2015-10-19,But Home Depot's biggest risk -- its reliance on a steady housing market -- is completely outside of the company's control.,0.01789267174899578,0.10242382436990738,0.8796834945678711,neutral,-0.08453115075826645
+5,2015-10-19,"Here's how management describes the concern its latest annual report:
+
+Last decade's financial crisis provides an unusually clear view into how this risk can affect investors.",0.07702275365591049,0.01226501539349556,0.9107122421264648,neutral,0.06475773453712463
+6,2015-10-19,"As home prices sank and the market for residential investment collapsed in 2007 through 2009, Home Depot's earnings, profitability, and return on invested capital all dove by 40% or more.",0.03188975527882576,0.9551877975463867,0.012922456488013268,negative,-0.9232980608940125
+7,2015-10-19,"Management went for three years without raising the company's dividend, and the stock fell by as much as 50% as sales shrank from a high of $79 billion in 2007 to $71 billion in 2009.",0.017266271635890007,0.9700592756271362,0.012674467638134956,negative,-0.9527930021286011
+8,2015-10-19,Yet the market eventually turned positive again.,0.8394467234611511,0.021502600982785225,0.1390506625175476,positive,0.8179441094398499
+9,2015-10-19,"And when that happened, shareholders witnessed an astounding improvement in Home Depot's financial position.",0.9452157020568848,0.016168057918548584,0.03861626610159874,positive,0.9290476441383362
+10,2015-10-19,Annual earnings have more than doubled since 2010.,0.8843291401863098,0.014582207426428795,0.10108865797519684,positive,0.8697469234466553
+11,2015-10-19,Operating margin is up to 13% from the low of 7%.,0.9580028057098389,0.022893687710165977,0.019103534519672394,positive,0.9351091384887695
+12,2015-10-19,And return on invested capital has surged to 25% as sales passed $83 billion a year.,0.9535054564476013,0.019381467252969742,0.027113111689686775,positive,0.9341239929199219
+13,2015-10-19,Home Depot's dividend is 150% higher; its 2015 raise of 26% even beat last year's stellar 21% payout hike.,0.93863445520401,0.018637485802173615,0.04272807016968727,positive,0.919996976852417
+14,2015-10-19,"The stock has more than tripled in five years, compared to a 79% gain in the broader market.",0.9469315409660339,0.02217734418809414,0.03089114837348461,positive,0.9247542023658752
+15,2015-10-19,"While positive market forces created a nice tailwind these past five years, Home Depot's management team deserves credit for taking full advantage of the rebound.",0.9106493592262268,0.01524970680475235,0.07410096377134323,positive,0.8953996300697327
+16,2015-10-19,"After all, the retailer has significantly outperformed its national rival Lowe's on all the key metrics mentioned above.",0.9142342805862427,0.06072388216853142,0.025041844695806503,positive,0.8535103797912598
+17,2015-10-19,"The most dramatic difference can be seen in ROIC, which is a good measure of management's efficiency.",0.20074661076068878,0.019430305808782578,0.7798230648040771,neutral,0.1813163012266159
+18,2015-10-19,"Both company's ROIC's took similar hits during the housing crisis, but the rebound has all belonged to Home Depot.",0.23134499788284302,0.022803377360105515,0.7458516359329224,neutral,0.2085416167974472
+19,2015-10-19,The big-picture performance gap has carried on into the current fiscal year.,0.08592178672552109,0.8578675389289856,0.056210730224847794,negative,-0.7719457745552063
+20,2015-10-19,"Home Depot most recently posted a 4% gain in customer traffic for the second quarter, compared to Lowe's 1.2% improvement.",0.9336602687835693,0.04465116560459137,0.021688586100935936,positive,0.8890091180801392
+21,2015-10-19,"One of the best single metrics for tracking whether Home Depot has the wind at its back in the housing market is private residential fixed investment, which is a government statistic that shows the annual rate of spending on home improvement across the United States.",0.06036442890763283,0.012891536578536034,0.9267440438270569,neutral,0.04747289419174194
+22,2015-10-19,That figure peaked in 2006 at $900 billion before plummeting to below $400 billion at the bottom of the crisis.,0.18214718997478485,0.2221330851316452,0.5957196950912476,neutral,-0.03998589515686035
+23,2015-10-19,"The rebound has been marked by a steady improvement to the most recent $600 billion mark, which we haven't seen since 2007.",0.9506739377975464,0.018557028844952583,0.03076900914311409,positive,0.9321169257164001
+24,2015-10-19,What's most interesting about this chart is that Home Depot managed to set so many record financial and operating results despite the fact that we're far from the last peak in home improvement spending.,0.6976039409637451,0.03565360978245735,0.26674243807792664,positive,0.6619503498077393
+25,2015-10-19,That implies there are a lot of things that the management team is doing right -- beyond simply riding the ups and downs of the market.,0.5016038417816162,0.012462155893445015,0.4859340190887451,positive,0.48914167284965515
+26,2015-10-19,Good leadership doesn't protect shareholders from economic risks like a historic collapse in demand.,0.10056766867637634,0.3659009337425232,0.5335314273834229,neutral,-0.26533326506614685
+27,2015-10-19,"But it does raise the likelihood that their investment will pay off over the long term, so long as they can patiently wait out the storm.",0.8627243638038635,0.022864889353513718,0.11441075801849365,positive,0.8398594856262207
+28,2015-10-19,"The world's biggest tech company forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07124034315347672,0.0912238135933876,0.8375357985496521,neutral,-0.01998347043991089
+29,2015-10-19,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+30,2015-10-19,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+31,2015-10-19,The article This Is What Home Depot Inc.,0.02226371318101883,0.03635456785559654,0.9413816928863525,neutral,-0.014090854674577713
+32,2015-10-19,Thinks Is Its Biggest Business Risk originally appeared on Fool.com.,0.014300837181508541,0.01845918595790863,0.9672399759292603,neutral,-0.004158348776400089
+33,2015-10-19,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+34,2015-10-19,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+35,2015-10-19,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+36,2015-10-19,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+37,2015-10-19,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+38,2015-10-19,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+39,2015-10-19,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+40,2015-10-19,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+41,2015-10-19,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

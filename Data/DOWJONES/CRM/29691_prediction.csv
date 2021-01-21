@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-10-13 09:00:00,"Thousands of customers are delivering business initiatives 3x faster with reusable APIs and integrations
+
+SAN FRANCISCO, Oct. 13, 2020 /PRNewswire/ -- MuleSoft CONNECT:Now – MuleSoft, provider of the world's #1 integration and API platform, today announced that CIOs across industries are relying on MuleSoft's Anypoint Platform™ to accelerate digital transformation and deliver connected experiences, faster.",0.7845561504364014,0.012535730376839638,0.20290811359882355,positive,0.7720203995704651
+1,2020-10-13 09:00:00,"CIOs can enable their organizations to move even faster by spending up to maintaining integrations and APIs, while quadrupling the number of projects worked on over three years.",0.8583570122718811,0.015140932984650135,0.12650208175182343,positive,0.843216061592102
+2,2020-10-13 09:00:00,"As consumers become more reliant on digital channels, organizations are under pressure to deliver significant, time-sensitive projects faster than ever before to meet these new demands.",0.626950740814209,0.09788796305656433,0.2751612663269043,positive,0.5290627479553223
+3,2020-10-13 09:00:00,"With MuleSoft, CIOs are becoming enablers of innovation by shifting to a new IT operating model, where digital capabilities are turned into reusable APIs that are accessible for the entire organization to leverage and build new customer experiences.",0.7685850858688354,0.012321801856160164,0.2190932184457779,positive,0.756263256072998
+4,2020-10-13 09:00:00,"Using an API-led approach with MuleSoft, leading organizations are transforming into composable enterprises to become more agile and accelerate the speed of future project delivery:
+
+Speed up delivery of digital initiatives with reusable APIs and integrations
+• None Simon Bateman, CIO, Allica Bank: ""The SME community in the UK is profoundly underserved when it comes to banking.",0.11274906247854233,0.451090008020401,0.4361608922481537,negative,-0.3383409380912781
+5,2020-10-13 09:00:00,"At Allica, we're giving SMEs access to the modern, straightforward digital banking tools many have come to expect from their consumer bank.",0.5984930396080017,0.010088436305522919,0.3914185166358948,positive,0.5884045958518982
+6,2020-10-13 09:00:00,And then we're backing this up with the tailored and local advice that we know SMEs both want and need.,0.2803250253200531,0.00858752429485321,0.7110874056816101,neutral,0.2717375159263611
+7,2020-10-13 09:00:00,To have been able to build a bank capable of this in 12 months is staggering.,0.7924562096595764,0.015571434050798416,0.19197231531143188,positive,0.7768847942352295
+8,2020-10-13 09:00:00,"MuleSoft has been a vital partner to us on this journey, playing a central role as we develop a modern bank with integration at the heart.""",0.8531982898712158,0.012709852308034897,0.1340918391942978,positive,0.8404884338378906
+9,2020-10-13 09:00:00,"• None Simon Moorhead, CIO, Rail Delivery Group: ""While the rail industry is rich in data, it remains very fragmented.",0.041990093886852264,0.07629885524511337,0.8817110657691956,neutral,-0.03430876135826111
+10,2020-10-13 09:00:00,"Rail Delivery Group leverages MuleSoft to unlock the rich data we have across the rail industry to improve the customer experience and quickly spin up new services, such as our disruption information project.",0.8867543339729309,0.012374703772366047,0.10087098926305771,positive,0.8743796348571777
+11,2020-10-13 09:00:00,"Once we build APIs on top of core systems with MuleSoft, we have the ability to reuse them – providing us a faster way to integrate so that we can accelerate project delivery at scale.""",0.8504292964935303,0.012311862781643867,0.1372588723897934,positive,0.8381174206733704
+12,2020-10-13 09:00:00,"• None Yanna Winter, CIO, Generali: ""Going digital is no longer an option; it is the only way forward.",0.040399618446826935,0.020291322842240334,0.9393090009689331,neutral,0.0201082956045866
+13,2020-10-13 09:00:00,"MuleSoft's Anypoint Platform enables us to be agile and adapt to changing customer expectations by quickly delivering new insurance services, such as digital certificates of ownership.",0.7673959732055664,0.011229650117456913,0.22137445211410522,positive,0.7561663389205933
+14,2020-10-13 09:00:00,"We're able to move fast by applying an API-led approach with MuleSoft – we can serve seven different businesses with one IT team by composing existing APIs into new digital capabilities, faster.""",0.8548494577407837,0.014101069420576096,0.1310494989156723,positive,0.8407483696937561
+15,2020-10-13 09:00:00,"• None Kevin Jones, CIO, Indiana Department of Child Services: ""With MuleSoft, we've taken a strategic, platform approach to connectivity that not only across cities and countries, but also allows us to update fields as needed to capture new information.",0.8370523452758789,0.011260048486292362,0.15168757736682892,positive,0.8257923126220703
+16,2020-10-13 09:00:00,"This means that our caseworkers can focus on building a better childcare journey — ensuring the safety and well-being of every child.""",0.8586598038673401,0.018108395859599113,0.12323180586099625,positive,0.8405514359474182
+17,2020-10-13 09:00:00,"• None Michael Mathews, SVP & CIO, Deluxe: ""As a 105-year old company supporting more than small businesses, we needed a way to unlock and unify data quickly as part of our digital transformation.",0.8423558473587036,0.012419287115335464,0.14522483944892883,positive,0.8299365639686584
+18,2020-10-13 09:00:00,The only way to do that is through the reusable APIs that we're building with MuleSoft.,0.10501705855131149,0.005719882436096668,0.8892630934715271,neutral,0.0992971733212471
+19,2020-10-13 09:00:00,"With MuleSoft, we are able to seamlessly consolidate more than 52 ERP and financial systems, dozens of customer relationship management systems, and hundreds of marketing systems to deliver a connected customer experience.""",0.9104111194610596,0.013741212897002697,0.07584764063358307,positive,0.8966699242591858
+20,2020-10-13 09:00:00,"• None James Patterson, CIO, NSW Health Pathology: ""As the largest public pathology provider here in Australia, we rely on massive clinical and non-clinical IT infrastructure to essential health services.",0.7297654747962952,0.010910597629845142,0.2593238949775696,positive,0.7188549041748047
+21,2020-10-13 09:00:00,"MuleSoft's Anypoint Platform allows us to reliably, securely, and confidently transmit sensitive patient data to where it's needed.""",0.668036699295044,0.012222480960190296,0.31974083185195923,positive,0.6558142304420471
+22,2020-10-13 09:00:00,"With MuleSoft, organizations can unlock and unify data to improve operational efficiency, create new revenue channels, and deliver connected experiences, faster.",0.8806126713752747,0.014016411267220974,0.10537083446979523,positive,0.8665962815284729
+23,2020-10-13 09:00:00,"Learn how API-led connectivity serves as the engine for digital transformation
+• None Tune in as CIOs and industry leaders take the virtual stage to share their insights at .",0.15027675032615662,0.023671505972743034,0.8260517120361328,neutral,0.12660524249076843
+24,2020-10-13 09:00:00,"Learn more here:
+• None Hear candid commentary from tech leaders on what's working, what's not and best practices for your business in "" ,"" a webcast series giving you an inside look at how tech leaders are navigating the digital imperative.",0.05892568826675415,0.014429219998419285,0.9266451597213745,neutral,0.04449646919965744
+25,2020-10-13 09:00:00,"About Anypoint Platform
+
+MuleSoft's Anypoint Platform™ is the world's #1 integration and API platform.",0.68781578540802,0.01431120466440916,0.29787299036979675,positive,0.6735045909881592
+26,2020-10-13 09:00:00,"It uniquely allows organizations to use API-led connectivity to unlock their data, empower their business with productized APIs, and create connected experiences, faster.",0.6273548007011414,0.012250625528395176,0.36039453744888306,positive,0.6151041984558105
+27,2020-10-13 09:00:00,"Anypoint Platform is the only solution that offers a single, unified platform for and full lifecycle , both and in the cloud.",0.15166150033473969,0.0064024426974356174,0.8419360518455505,neutral,0.1452590525150299
+28,2020-10-13 09:00:00,"To learn more about Anypoint Platform, visit:
+
+About MuleSoft, a Salesforce company 
+
+MuleSoft, provider of the world's #1 integration and API platform, makes it easy to connect from any system – no matter where it resides – to create connected experiences, faster.",0.3781208097934723,0.012624875642359257,0.6092543005943298,neutral,0.3654959201812744
+29,2020-10-13 09:00:00,"Thousands of organizations across industries rely on MuleSoft to realize speed, agility and innovation at scale.",0.6228169202804565,0.01091453805565834,0.3662685453891754,positive,0.6119023561477661
+30,2020-10-13 09:00:00,"For more information, visit .",0.029679087921977043,0.013901108875870705,0.956419825553894,neutral,0.01577797904610634
+31,2020-10-13 09:00:00,"About Salesforce
+
+Salesforce is the global leader in Customer Relationship Management (CRM), bringing companies closer to their customers in the digital age.",0.8514475226402283,0.014108147472143173,0.13444437086582184,positive,0.8373394012451172
+32,2020-10-13 09:00:00,"Founded in 1999, Salesforce enables companies of every size and industry to take advantage of powerful technologies—cloud, mobile, social, internet of things, artificial intelligence, voice and blockchain—to create a 360-degree view of their customers.",0.14291365444660187,0.006027319468557835,0.8510590195655823,neutral,0.136886328458786
+33,2020-10-13 09:00:00,"For more information about Salesforce (NYSE: CRM), visit: .",0.012695644982159138,0.010876531712710857,0.9764278531074524,neutral,0.0018191132694482803
+34,2020-10-13 09:00:00,"MuleSoft is a registered trademark of MuleSoft, Inc., a Salesforce company.",0.013465100899338722,0.011887318454682827,0.9746476411819458,neutral,0.0015777824446558952
+35,2020-10-13 09:00:00,All other marks are those of respective owners.,0.014953247271478176,0.011367729865014553,0.9736790060997009,neutral,0.003585517406463623

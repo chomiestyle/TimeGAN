@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-19 05:48:00,"Lowe's Companies, Inc. ( LOW ) delivered some great earnings and, along with it, some vital information about the U.S. housing market.",0.8063046336174011,0.014891588129103184,0.1788036972284317,positive,0.7914130687713623
+1,2016-05-19 05:48:00,"That market, in turn, tells us a lot about the U.S. economy.",0.05236352980136871,0.00648232689127326,0.9411540627479553,neutral,0.045881204307079315
+2,2016-05-19 05:48:00,That's why I always watch the LOW stock earnings reports carefully.,0.02283560298383236,0.0172733087092638,0.9598910808563232,neutral,0.005562294274568558
+3,2016-05-19 05:48:00,"First, here are the most important numbers for LOW earnings.",0.011050378903746605,0.06817775964736938,0.9207718372344971,neutral,-0.05712737888097763
+4,2016-05-19 05:48:00,"Sales were up a very healthy 7.8% to $15.2 billion, up from $14.1 billion last year.",0.9553753137588501,0.02318524196743965,0.02143947407603264,positive,0.9321900606155396
+5,2016-05-19 05:48:00,"Yet those all-important comparable sales were the real star, up 7.3%.",0.91070556640625,0.027396347373723984,0.061898089945316315,positive,0.8833092451095581
+6,2016-05-19 05:48:00,The U.S. home improvement business itself had comps up 7.5%.,0.9158604145050049,0.04268387705087662,0.04145568236708641,positive,0.8731765151023865
+7,2016-05-19 05:48:00,You want to know how significant that is?,0.05471112206578255,0.028237389400601387,0.9170514345169067,neutral,0.02647373266518116
+8,2016-05-19 05:48:00,CNBC is reporting that this is the first time in 6 years that LOW comps beat HD comps.,0.7206401228904724,0.06815914809703827,0.21120072901248932,positive,0.652480959892273
+9,2016-05-19 05:48:00,"Gross margins dipped 43 basis points to 35.04%, but that's not something that concerns me when comps are so strong.",0.23269180953502655,0.6885396242141724,0.07876856625080109,negative,-0.4558477997779846
+10,2016-05-19 05:48:00,"Indeed, Selling, General and Administrative Expenses actually fell a bit, leading to total expenses being flat.",0.022937973961234093,0.9650478363037109,0.012014079838991165,negative,-0.9421098828315735
+11,2016-05-19 05:48:00,"Now, we have to be careful when looking at earnings per share, because LOW repurchased $1.2 billion in the quarter and that will inflate EPS.",0.0655452311038971,0.7835189700126648,0.1509358137845993,negative,-0.7179737091064453
+12,2016-05-19 05:48:00,So we look instead to net income and there we find … HOLY MACKERAL!,0.09718534350395203,0.10191285610198975,0.8009018301963806,neutral,-0.00472751259803772
+13,2016-05-19 05:48:00,"Net earnings increased from $673 million to $884 million, an increase of more than 30%!",0.9545493125915527,0.017745964229106903,0.02770477719604969,positive,0.9368033409118652
+14,2016-05-19 05:48:00,"The cash position for LOW stock increased dramatically to $4.56 billion, although much of that increase is because LOW stock drew down $4 billion in debt to $14.3 billion in total.",0.9309808015823364,0.03150526061654091,0.03751401603221893,positive,0.8994755148887634
+15,2016-05-19 05:48:00,"Free cash flow was delightful, coming in at right about $3 billion, up from $2.246 billion last year.",0.9514119029045105,0.0223526693880558,0.026235466822981834,positive,0.9290592074394226
+16,2016-05-19 05:48:00,A deeper dive shows that LOW stock benefited from professional customers more than regular consumers.,0.7869347333908081,0.09631561487913132,0.11674967408180237,positive,0.6906191110610962
+17,2016-05-19 05:48:00,"Coupled with the stellar results from Home Depot Inc ( HD ), this tells us that there's lots of activity in home improvement and in the world of professional repair.",0.7024306654930115,0.012429293245077133,0.2851400673389435,positive,0.690001368522644
+18,2016-05-19 05:48:00,"That is actually a key piece of information, because when times are bad, people don't call pros to fix stuff.",0.04311787709593773,0.08380375057458878,0.8730784058570862,neutral,-0.04068587347865105
+19,2016-05-19 05:48:00,"They try to fix it themselves, or they leave it for when they have more money to spend.",0.04380636289715767,0.051595766097307205,0.904597818851471,neutral,-0.007789403200149536
+20,2016-05-19 05:48:00,That's pretty good news for the economy.,0.7533596158027649,0.021729834377765656,0.22491060197353363,positive,0.7316297888755798
+21,2016-05-19 05:48:00,There's also some good news that isn't obvious at first glance.,0.17467233538627625,0.016785943880677223,0.8085417747497559,neutral,0.15788638591766357
+22,2016-05-19 05:48:00,"It would appear that Amazon.com, Inc. ( AMZN ) is having little or no impact on this sector.",0.013721058145165443,0.16447320580482483,0.8218057155609131,neutral,-0.15075214207172394
+23,2016-05-19 05:48:00,At last!,0.23334147036075592,0.0845477506518364,0.6821107864379883,neutral,0.14879372715950012
+24,2016-05-19 05:48:00,A sector immune from Amazon!,0.10977690666913986,0.37343451380729675,0.5167886018753052,neutral,-0.2636575996875763
+25,2016-05-19 05:48:00,Investors in home improvement should cheer this news.,0.7149813771247864,0.017502808943390846,0.26751577854156494,positive,0.6974785923957825
+26,2016-05-19 05:48:00,"• 7 Bland Beauties That EVERY Investor Should Own
+
+It tells us that consumers go with brand loyalty in home improvement, that online pricing is likely competitive and that the home improvement footprint is now so huge that people can go to stores that are nearby - and prefer to - rather than ordering from Amazon.",0.40416327118873596,0.01780303567647934,0.5780337452888489,neutral,0.386360228061676
+27,2016-05-19 05:48:00,It may be that people have questions that Lowe's and HD floor workers can help them with that Amazon cannot.,0.04082616791129112,0.304120808839798,0.6550530195236206,neutral,-0.26329463720321655
+28,2016-05-19 05:48:00,So what's the play?,0.0469847247004509,0.026158293709158897,0.9268569946289062,neutral,0.020826430991292
+29,2016-05-19 05:48:00,LOW stock trades at about 28x trailing twelve months earnings.,0.03773362934589386,0.39141911268234253,0.5708472728729248,neutral,-0.35368549823760986
+30,2016-05-19 05:48:00,"That's not necessarily expensive considering the 16% annualized growth rate, free cash flow and global brand name.",0.3268747329711914,0.015879346057772636,0.6572458744049072,neutral,0.3109953999519348
+31,2016-05-19 05:48:00,"I give a 10% premium each for FCF and brand name, which means the nominal PEG ratio is about 1.2.",0.059590913355350494,0.007128262892365456,0.9332808256149292,neutral,0.05246265232563019
+32,2016-05-19 05:48:00,"However, when working with growth stocks that are growing EPS at 15% or higher, I move away from nominal PEG ratios into growth PEG ratios, in which I'm willing to pay 1.5.",0.16428223252296448,0.02264014631509781,0.8130776286125183,neutral,0.14164209365844727
+33,2016-05-19 05:48:00,LOW stock falls in that range and I think it's a buy at these prices.,0.2758195102214813,0.021955011412501335,0.7022254467010498,neutral,0.25386449694633484
+34,2016-05-19 05:48:00,Lawrence Meyers did not hold a position in any of the aforementioned securities.,0.009165553376078606,0.026140429079532623,0.9646940231323242,neutral,-0.016974875703454018
+35,2016-05-19 05:48:00,"• 7 ""Cheap"" Stocks to Buy for Big Bucks 7 Dow Jones Stocks That Still Have Some Bite
+
+The post Lowe's Companies, Inc. (LOW) Knocks It Out of the Park appeared first on InvestorPlace .",0.23532995581626892,0.15831199288368225,0.6063580513000488,neutral,0.07701796293258667
+36,2016-05-19 05:48:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

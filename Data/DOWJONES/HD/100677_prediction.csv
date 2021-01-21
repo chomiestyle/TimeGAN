@@ -1,0 +1,10 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-02-23 07:00:00,"The Home Depot, Inc. (NYSE: HD ) - This home improvement retailer rose from $30 to over $39 following our last buy recommendation in the Trade of the Day on Sept. 14.",0.9462333917617798,0.01844317466020584,0.03532339259982109,positive,0.9277902245521545
+1,2011-02-23 07:00:00,"But the stock is now fundamentally overpriced, and commodity inflation could cut into future profits.",0.021110774949193,0.9493740200996399,0.029515299946069717,negative,-0.928263247013092
+2,2011-02-23 07:00:00,"S&P cut their rating to ""sell"" from ""hold,"" because compared to their competition, the stock is ""overpriced"" with ""weak growth prospects.""",0.02402951382100582,0.9445044994354248,0.03146599605679512,negative,-0.9204750061035156
+3,2011-02-23 07:00:00,"Technically, HD flashed a Collins-Bollinger Reversal (CBR) sell signal (our proprietary internal indicator) on Tuesday.",0.445595920085907,0.029306717216968536,0.5250973701477051,neutral,0.41628921031951904
+4,2011-02-23 07:00:00,"On the same day, the Moving Average Convergence/Divergence (MACD) registered a bear signal.",0.3759164810180664,0.5563322305679321,0.06775132566690445,negative,-0.18041574954986572
+5,2011-02-23 07:00:00,Traders should sell current short- and intermediate-term holdings or protect positions by writing options .,0.04863801226019859,0.017395921051502228,0.9339661002159119,neutral,0.031242091208696365
+6,2011-02-23 07:00:00,Short sellers may want to consider HD for a decline to $32-$34.,0.04872773960232735,0.8851510882377625,0.0661211609840393,negative,-0.8364233374595642
+7,2011-02-23 07:00:00,"If you have questions or comments for Sam Collins, please e-mail him at samailc@cox.net.",0.013622922822833061,0.019004449248313904,0.9673725962638855,neutral,-0.005381526425480843
+8,2011-02-23 07:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,6 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-09-17 07:14:00,"In early trading on Tuesday, shares of Coca-Cola topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.1%.",0.9344896674156189,0.035610586404800415,0.029899701476097107,positive,0.8988790512084961
+1,2019-09-17 07:14:00,"Year to date, Coca-Cola registers a 15.2% gain.",0.9462674260139465,0.02035572938621044,0.03337681666016579,positive,0.9259117245674133
+2,2019-09-17 07:14:00,"And the worst performing Dow component thus far on the day is MMM, trading down 1.5%.",0.021316343918442726,0.9649063348770142,0.013777359388768673,negative,-0.943589985370636
+3,2019-09-17 07:14:00,MMM is lower by about 12.3% looking at the year to date performance.,0.019358932971954346,0.9673865437507629,0.013254604302346706,negative,-0.9480276107788086
+4,2019-09-17 07:14:00,"Two other components making moves today are Dow, trading down 1.5%, and Procter & Gamble, trading up 1.1% on the day.",0.0407554991543293,0.89882493019104,0.060419630259275436,negative,-0.8580694198608398

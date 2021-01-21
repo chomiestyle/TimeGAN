@@ -1,0 +1,62 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-30 07:45:00,"In the past few months, numerous major retailers have seen their share prices undermined by concerns about competition from e-commerce juggernaut Amazon.com (NASDAQ: AMZN) .",0.023197708651423454,0.9676799178123474,0.00912238284945488,negative,-0.9444822072982788
+1,2017-07-30 07:45:00,Costco Wholesale (NASDAQ: COST) stock plunged after Amazon announced its intent to expand in the grocery business by buying Whole Foods .,0.026596233248710632,0.9526678323745728,0.02073589712381363,negative,-0.9260715842247009
+2,2017-07-30 07:45:00,Home Depot (NYSE: HD) stock fell earlier this month on the news that Sears Holdings would begin selling Kenmore appliances through Amazon.,0.01930490881204605,0.9692063331604004,0.011488658376038074,negative,-0.9499014019966125
+3,2017-07-30 07:45:00,"And while Macy's (NYSE: M) has been posting poor results lately, its stock price has plummeted in a manner out of proportion to its sales declines.",0.021975206211209297,0.964849054813385,0.013175759464502335,negative,-0.9428738355636597
+4,2017-07-30 07:45:00,The example of Best Buy (NYSE: BBY) shows that these fears may be overblown.,0.07139933854341507,0.14268726110458374,0.785913348197937,neutral,-0.07128792256116867
+5,2017-07-30 07:45:00,"Five years ago, it seemed to many people that Amazon would drive the big-box consumer-electronics giant out of business.",0.07984241098165512,0.4677659273147583,0.45239168405532837,negative,-0.3879235088825226
+6,2017-07-30 07:45:00,Yet Best Buy has found ways to survive and even thrive in the face of competition from Amazon.,0.9439074993133545,0.018861209973692894,0.037231218069791794,positive,0.9250462651252747
+7,2017-07-30 07:45:00,"Best Buy got knocked down -- but survived
+
+In 2012, Best Buy seemed as if it would become one of the first victims of Amazon's torrid growth.",0.07176820188760757,0.7398483753204346,0.18838344514369965,negative,-0.6680801510810852
+8,2017-07-30 07:45:00,During Best Buy's 2013 fiscal year -- which roughly corresponds to the 2012 calendar year -- comp sales fell 1.7% in the domestic market and plunged 7.5% in the international market.,0.017304733395576477,0.9740042686462402,0.00869092158973217,negative,-0.956699550151825
+9,2017-07-30 07:45:00,"Because of the tough competitive environment, Best Buy's adjusted operating margin declined to 3% in fiscal 2013 from 4.6% a year earlier.",0.01738947071135044,0.974264919757843,0.00834560114890337,negative,-0.9568754434585571
+10,2017-07-30 07:45:00,"As a result, adjusted EPS plunged from $3.61 to $2.62.",0.03285950422286987,0.9443021416664124,0.022838298231363297,negative,-0.9114426374435425
+11,2017-07-30 07:45:00,"These discouraging results caused Best Buy stock to crater, bottoming out around $11 -- down by about 75% from late 2010.",0.01661921665072441,0.9732986688613892,0.010082054883241653,negative,-0.9566794633865356
+12,2017-07-30 07:45:00,"Comp sales fell again in both the domestic and international markets during fiscal 2014, leading to another operating margin decline.",0.019087644293904305,0.9727262258529663,0.008186224848031998,negative,-0.9536385536193848
+13,2017-07-30 07:45:00,This seemed to confirm investors' dour outlook for Best Buy.,0.033628884702920914,0.9372426867485046,0.02912834659218788,negative,-0.903613805770874
+14,2017-07-30 07:45:00,"Indeed, the company's revenue has never recovered from these setbacks.",0.04907086864113808,0.8802173733711243,0.07071179896593094,negative,-0.8311464786529541
+15,2017-07-30 07:45:00,"Still, in the past few years, Best Buy has managed to stabilize its revenue and rebuild its operating margin.",0.9470062851905823,0.03075226955115795,0.0222415030002594,positive,0.9162540435791016
+16,2017-07-30 07:45:00,"As a result, the stock has soared, briefly hitting a new all-time high above $60 earlier this year.",0.9231491088867188,0.02377243898808956,0.053078439086675644,positive,0.8993766903877258
+17,2017-07-30 07:45:00,"How Best Buy came out alive
+
+Compared with the likes of Costco Wholesale, Home Depot, and even Macy's, Best Buy didn't have much going for it in competing with Amazon.",0.3305991291999817,0.12848082184791565,0.5409200191497803,neutral,0.20211830735206604
+18,2017-07-30 07:45:00,"Costco has unbeatable prices, because of its focus on selling huge quantities of a relatively small selection of items.",0.3337171673774719,0.010714909061789513,0.6555679440498352,neutral,0.32300224900245667
+19,2017-07-30 07:45:00,Home Depot and Costco both sell a lot of bulky items that are tough to sell online profitably.,0.02643727883696556,0.4917016923427582,0.48186102509498596,negative,-0.4652644097805023
+20,2017-07-30 07:45:00,"Meanwhile, Macy's and Home Depot both carry lots of items that customers want to see or try before they buy.",0.06251790374517441,0.009379693306982517,0.9281023740768433,neutral,0.053138211369514465
+21,2017-07-30 07:45:00,"By contrast, with the exception of its appliance business, Best Buy mainly sells products that are ideal for e-commerce disruption.",0.013116694986820221,0.014245318248867989,0.9726380109786987,neutral,-0.0011286232620477676
+22,2017-07-30 07:45:00,"Consumer-electronics products typically have a fairly high value relative to their size and weight, so shipping costs aren't prohibitive.",0.024494308978319168,0.010206833481788635,0.9652988314628601,neutral,0.014287475496530533
+23,2017-07-30 07:45:00,"Meanwhile, Amazon can often sell the same products Best Buy carries in its stores.",0.036876436322927475,0.011129114776849747,0.9519944787025452,neutral,0.02574732154607773
+24,2017-07-30 07:45:00,"Best Buy fought back by offering to match competitors' prices , including those of Amazon.",0.5189871788024902,0.18938377499580383,0.29162895679473877,positive,0.3296034038066864
+25,2017-07-30 07:45:00,"As a result, customers who wandered into a Best Buy store to look at merchandise no longer had any reason to order from Amazon rather than making a purchase then and there.",0.029336338862776756,0.739547073841095,0.23111657798290253,negative,-0.7102107405662537
+26,2017-07-30 07:45:00,Some analysts thought price-matching would destroy Best Buy's profit margin.,0.020067492499947548,0.9628622531890869,0.01707032136619091,negative,-0.9427947402000427
+27,2017-07-30 07:45:00,The company headed off that concern by implementing a broad-based cost-cutting program.,0.8483397364616394,0.018286436796188354,0.13337385654449463,positive,0.8300533294677734
+28,2017-07-30 07:45:00,It also pulled out of international markets where it was struggling.,0.024572795256972313,0.9484806060791016,0.026946600526571274,negative,-0.9239078164100647
+29,2017-07-30 07:45:00,"As a result, Best Buy's revenue has fallen below $40 billion, compared with more than $50 billion at its peak.",0.014852585271000862,0.9671308994293213,0.01801653765141964,negative,-0.9522783160209656
+30,2017-07-30 07:45:00,"Nevertheless, its operating margin rebounded to 4.7% last year -- the company's best result since fiscal 2011 -- driving strong earnings growth.",0.9585476517677307,0.02284170687198639,0.018610727041959763,positive,0.9357059597969055
+31,2017-07-30 07:45:00,Analysts expect further EPS growth this year and next year.,0.9088364839553833,0.014230558648705482,0.07693291455507278,positive,0.8946059346199036
+32,2017-07-30 07:45:00,"Between 2011 and 2016, Amazon.com nearly tripled its sales, from $48 billion to $136 billion.",0.8577477931976318,0.015338115394115448,0.12691405415534973,positive,0.8424096703529358
+33,2017-07-30 07:45:00,Revenue is still growing more than 20% annually despite Amazon's massive size.,0.8370831608772278,0.0208276379853487,0.1420891433954239,positive,0.816255509853363
+34,2017-07-30 07:45:00,"Amazon is thus capturing a huge proportion of the growth in retail sales, at least in the United States.",0.5717551112174988,0.011233300901949406,0.4170116186141968,positive,0.5605217814445496
+35,2017-07-30 07:45:00,This development will clearly affect a wide swath of the retail universe.,0.10958199203014374,0.006338347215205431,0.8840796947479248,neutral,0.1032436415553093
+36,2017-07-30 07:45:00,"Nevertheless, Best Buy's resurgence over the past five years shows there is hope for companies that lead their respective industries -- such as Costco Wholesale, Home Depot, and Macy's.",0.8974123597145081,0.015241118147969246,0.08734650164842606,positive,0.8821712136268616
+37,2017-07-30 07:45:00,"Home Depot and Costco are still generating strong comp sales growth, which suggests that they may be more immune to competition from Amazon than some investors believe.",0.9277293086051941,0.023180395364761353,0.04909038171172142,positive,0.9045488834381104
+38,2017-07-30 07:45:00,"But even if they do eventually face greater pressure on sales, Best Buy's example shows that they could continue to produce strong earnings by committing to keep costs down.",0.9300298690795898,0.018036527559161186,0.05193366855382919,positive,0.9119933247566223
+39,2017-07-30 07:45:00,"As for Macy's, many investors seem to think the department-store giant is doomed, because it's set to report a third straight year of declining sales in 2017.",0.01902940310537815,0.9597389698028564,0.021231546998023987,negative,-0.9407095909118652
+40,2017-07-30 07:45:00,"However, if Best Buy could come back from several years of falling sales and plunging margins, there's no reason Macy's can't do so as well.",0.026835186406970024,0.9292848706245422,0.0438799113035202,negative,-0.9024496674537659
+41,2017-07-30 07:45:00,"10 stocks we like better than Best Buy
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.11889905482530594,0.025050222873687744,0.8560507297515869,neutral,0.0938488319516182
+42,2017-07-30 07:45:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+43,2017-07-30 07:45:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Best Buy wasn't one of them!",0.2177349179983139,0.014008022844791412,0.7682570815086365,neutral,0.2037268877029419
+44,2017-07-30 07:45:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+45,2017-07-30 07:45:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+46,2017-07-30 07:45:00,"John Mackey, CEO of Whole Foods Market, is a member of The Motley Fool's board of directors.",0.022250624373555183,0.01732511818408966,0.9604243040084839,neutral,0.004925506189465523
+47,2017-07-30 07:45:00,Adam Levine-Weinberg owns shares of Macy's.,0.020850129425525665,0.0080594252794981,0.9710903763771057,neutral,0.012790704146027565
+48,2017-07-30 07:45:00,The Motley Fool owns shares of and recommends Amazon and Costco Wholesale.,0.027066737413406372,0.020428840070962906,0.9525043964385986,neutral,0.006637897342443466
+49,2017-07-30 07:45:00,The Motley Fool owns shares of Whole Foods Market.,0.027261659502983093,0.014340171590447426,0.958398163318634,neutral,0.012921487912535667
+50,2017-07-30 07:45:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+51,2017-07-30 07:45:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+52,2017-07-30 07:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

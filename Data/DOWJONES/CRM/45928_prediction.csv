@@ -1,0 +1,49 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-16 07:13:00,The chief benefits of open source go to the users.,0.059258267283439636,0.004767573904246092,0.9359741806983948,neutral,0.05449069291353226
+1,2018-10-16 07:13:00,The cloud is a product of open source.,0.025602024048566818,0.005633923690766096,0.9687640070915222,neutral,0.019968099892139435
+2,2018-10-16 07:13:00,"I've been writing those two sentences, repeatedly, for over a decade now, and they're as true today as they ever were.",0.16433192789554596,0.02484484389424324,0.8108232021331787,neutral,0.13948708772659302
+3,2018-10-16 07:13:00,Companies that fully embraced the economics of cloud have ridden it to glory.,0.7443847060203552,0.0169351976364851,0.23868006467819214,positive,0.7274495363235474
+4,2018-10-16 07:13:00,Few have done so as spectacularly as Adobe Systems (NASDAQ: ADBE ).,0.21481387317180634,0.03673418611288071,0.7484519481658936,neutral,0.17807969450950623
+5,2018-10-16 07:13:00,"By the standards of Silicon Valley it's old money, founded in 1982, its squat skyscraper a few blocks from the San Jose convention center.",0.05558188259601593,0.027860673144459724,0.9165574908256531,neutral,0.027721209451556206
+6,2018-10-16 07:13:00,John Warnock and Charles Geschke founded Adobe around PC tools like PostScript and Photoshop.,0.08381418138742447,0.011766448616981506,0.9044193625450134,neutral,0.07204773277044296
+7,2018-10-16 07:13:00,Shantanu Narayen re-invented the company by embracing the cloud and subscription as a service.,0.34330275654792786,0.01144828274846077,0.6452489495277405,neutral,0.3318544626235962
+8,2018-10-16 07:13:00,"Over the last five years the stock is up 342%, even with the recent tech wreck taking 13% out of the price.",0.9294643402099609,0.021059216931462288,0.04947642236948013,positive,0.9084051251411438
+9,2018-10-16 07:13:00,"Adobe said Oct. 15 it expects top-line growth of 20% next year, to $10.8 billion, well above previous analyst estimates , and the stock rose almost 6% in response .",0.9523137211799622,0.020079517737030983,0.027606666088104248,positive,0.9322342276573181
+10,2018-10-16 07:13:00,Both the recent fall and this rise are unsurprising.,0.06356816738843918,0.3478553295135498,0.5885764956474304,neutral,-0.28428715467453003
+11,2018-10-16 07:13:00,"Even at its October 15 close of $238, Adobe was selling at an eye-popping 49 times earnings.",0.34102144837379456,0.27971968054771423,0.379258930683136,neutral,0.06130176782608032
+12,2018-10-16 07:13:00,The October 16 gains will send that even higher.,0.8073921799659729,0.04261814057826996,0.14998961985111237,positive,0.7647740244865417
+13,2018-10-16 07:13:00,But when you've got Amazon.Com (NASDAQ: AMZN )-like growth it seems justified.,0.3203877806663513,0.01716490462422371,0.6624473333358765,neutral,0.3032228648662567
+14,2018-10-16 07:13:00,Adobe had $5.8 billion in revenue as recently as 2016.,0.10027016699314117,0.00544413598254323,0.8942856788635254,neutral,0.09482602775096893
+15,2018-10-16 07:13:00,"It's all about selling Adobe's software as a service, then expanding on that base.",0.2025558054447174,0.005793826188892126,0.7916503548622131,neutral,0.19676198065280914
+16,2018-10-16 07:13:00,"This is precisely what Salesforce.Com (NASDAQ: CRM ) has been doing, up in San Francisco, and increasingly the two companies are on a collision course.",0.04307865723967552,0.30314913392066956,0.6537721753120422,neutral,-0.26007047295570374
+17,2018-10-16 07:13:00,"Adobe last month bought Marketo, a marketing automation company, for $4.7 billion, which it will put together with Magento, bought for $1.6 billion, as part of its Adobe Experience Cloud.",0.16923338174819946,0.005126384552568197,0.8256402611732483,neutral,0.16410699486732483
+18,2018-10-16 07:13:00,The Experience cloud offers marketing tools that work while someone is on your Web site.,0.026277704164385796,0.01053341943770647,0.9631888270378113,neutral,0.01574428379535675
+19,2018-10-16 07:13:00,"It gives modern e-commerce the insight of a company's customer relationship stack, and points visitors down the sales funnel based on that data.",0.07254143804311752,0.018486231565475464,0.9089723825454712,neutral,0.05405520647764206
+20,2018-10-16 07:13:00,It turns pretty pictures into sales.,0.1309415102005005,0.00795170571655035,0.861106812953949,neutral,0.12298980355262756
+21,2018-10-16 07:13:00,"Customer relationship management is Salesforce's game, however, so expect more scrums among Salesforce, Adobe, and Microsoft (NASDAQ: MSFT ), along with SAP SE (NYSE: SAP ) and Oracle (NASDAQ: ORCL ).",0.06845006346702576,0.2504759728908539,0.6810739636421204,neutral,-0.18202590942382812
+22,2018-10-16 07:13:00,Adobe has an advantage because it's coming to the game from inside the virtual sales floor.,0.21496599912643433,0.008803999982774258,0.7762300372123718,neutral,0.2061620056629181
+23,2018-10-16 07:13:00,Adobe graphics tools are what make those sales floors pop.,0.12097616493701935,0.021835923194885254,0.8571879267692566,neutral,0.0991402417421341
+24,2018-10-16 07:13:00,"Adobe stock's problems, such as they are, are mainly about its past.",0.00997235719114542,0.04020295664668083,0.9498246312141418,neutral,-0.030230600386857986
+25,2018-10-16 07:13:00,"Specifically they involve Flash, its video player from the 1990s that it has said it will sunset in 2020 and no longer updates.",0.016215624287724495,0.021968644112348557,0.9618157744407654,neutral,-0.005753019824624062
+26,2018-10-16 07:13:00,"Browser makers like Alphabet (NASDAQ: GOOG , NASDAQ: GOOGL ) have responded by backing away from Flash , but it's still there, hiding on many PCs.",0.07717152684926987,0.5916404724121094,0.33118799328804016,negative,-0.5144689679145813
+27,2018-10-16 07:13:00,"Hackers have discovered this and created ""updates,"" often using Adobe's trade dress, containing malware, often cryptocurrency mining software .",0.0850343108177185,0.3963242769241333,0.5186414122581482,neutral,-0.3112899661064148
+28,2018-10-16 07:13:00,"It's distributed computing, one of the technologies that built the cloud, but gone rogue.",0.034924447536468506,0.08666316419839859,0.8784123659133911,neutral,-0.051738716661930084
+29,2018-10-16 07:13:00,"For those gray hairs, like me, who remember when Flash meant multimedia, multimedia meant something, and for whom SETI@Home was a thing, it's both maddening and a little sad.",0.07286565750837326,0.3326600193977356,0.5944743156433105,neutral,-0.25979435443878174
+30,2018-10-16 07:13:00,"For Adobe stock, however, it's all a distraction, and that's what investors need to know.",0.031116334721446037,0.019281648099422455,0.9496020674705505,neutral,0.011834686622023582
+31,2018-10-16 07:13:00,"Like all tech stocks, Adobe is subject to trends within the market and larger economy, hence its recent fall.",0.016858497634530067,0.9469088912010193,0.036232683807611465,negative,-0.9300503730773926
+32,2018-10-16 07:13:00,"But Narayen has made Adobe great again, by embracing cloud economics and subscription revenue, then expanding from the graphics niche into marketing and developing intimacy with customers.",0.8562623858451843,0.01230280939489603,0.1314348429441452,positive,0.8439595699310303
+33,2018-10-16 07:13:00,"So, when Adobe falls, as it did recently, young investors need to grab it like it's on sale.",0.12845049798488617,0.01673891954123974,0.8548106551170349,neutral,0.11171157658100128
+34,2018-10-16 07:13:00,Because it is.,0.17773953080177307,0.022798286750912666,0.7994621992111206,neutral,0.15494124591350555
+35,2018-10-16 07:13:00,But those low prices won't last.,0.0807558074593544,0.25790369510650635,0.6613404750823975,neutral,-0.17714789509773254
+36,2018-10-16 07:13:00,Buy now.,0.08102131634950638,0.00922075193375349,0.9097579717636108,neutral,0.07180056720972061
+37,2018-10-16 07:13:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+38,2018-10-16 07:13:00,"He is the author of a new mystery thriller, The Reluctant Detective Finds Her Family , available now at the Amazon Kindle store.",0.09786684811115265,0.025362975895404816,0.8767701387405396,neutral,0.07250387221574783
+39,2018-10-16 07:13:00,Write him at danablankenhorn@gmail.com or follow him on Twitter at @danablankenhorn .,0.042297497391700745,0.04123050346970558,0.9164719581604004,neutral,0.001066993921995163
+40,2018-10-16 07:13:00,As of this writing he owned shares in MSFT and AMZN.,0.013614670373499393,0.009388918988406658,0.9769963622093201,neutral,0.004225751385092735
+41,2018-10-16 07:13:00,"• 7 Stocks That Should Rally With Fresh Blood
+• Sears Is Dead, But These 5 Retail Stocks Offer Hope
+• 4 Top Marijuana Penny Stocks for the Rest of 2018
+• 3 Pot Stocks that Stand Out in the Crowd
+
+The post Adobe Stock Is Floating in the Sunny Skies of the Cloud appeared first on InvestorPlace .",0.24524438381195068,0.041338562965393066,0.7134170532226562,neutral,0.20390582084655762
+42,2018-10-16 07:13:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

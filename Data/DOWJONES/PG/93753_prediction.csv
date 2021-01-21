@@ -1,0 +1,64 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-26 06:15:00,"Even if you save as much money as you can and invest in solid companies and mutual funds, it's still crucial to make sure your portfolio is running as efficiently as possible.",0.6230708360671997,0.013948405161499977,0.36298075318336487,positive,0.6091224551200867
+1,2014-10-26 06:15:00,"With that in mind, here are three ways to reduce the amount of money leaving your account and to make sure you're focused on achieving the best possible long-term results.",0.13267731666564941,0.024756623432040215,0.8425660729408264,neutral,0.10792069137096405
+2,2014-10-26 06:15:00,How often do you trade?,0.04805603623390198,0.03831889107823372,0.9136251211166382,neutral,0.009737145155668259
+3,2014-10-26 06:15:00,"Or, more specifically, how long do you hold on to your stocks, on average?",0.0349193811416626,0.0197914931923151,0.9452890753746033,neutral,0.015127887949347496
+4,2014-10-26 06:15:00,"If your answer is less than a year, you may be costing yourself a lot of money in two areas.",0.03487860783934593,0.8901406526565552,0.07498077303171158,negative,-0.855262041091919
+5,2014-10-26 06:15:00,"First, as you probably know, every time you execute a trade you are charged a commission.",0.0291457399725914,0.03432769700884819,0.9365265369415283,neutral,-0.00518195703625679
+6,2014-10-26 06:15:00,"And because these commissions generally range between $7 and $10, they don't have a big impact on your bottom line individually.",0.016408497467637062,0.016589965671300888,0.9670015573501587,neutral,-0.000181468203663826
+7,2014-10-26 06:15:00,"However, if you trade too frequently, they can add up fast.",0.081817127764225,0.17200078070163727,0.7461820840835571,neutral,-0.09018365293741226
+8,2014-10-26 06:15:00,"If you were able to cut down your trading activity by just 10 trades per year, you could save yourself about $100 in commissions.",0.04967743903398514,0.8380382657051086,0.11228431761264801,negative,-0.7883608341217041
+9,2014-10-26 06:15:00,And the real story is the effect commissions have over longer stretches of time.,0.03822397068142891,0.019530165940523148,0.9422459006309509,neutral,0.01869380474090576
+10,2014-10-26 06:15:00,"An extra $100 invested every year can mean almost $6,000 more in your portfolio after 20 years, assuming your returns match the historical average of the S&P.",0.14267876744270325,0.010663650929927826,0.8466575741767883,neutral,0.13201510906219482
+11,2014-10-26 06:15:00,"Second, and perhaps most important, is that short-term capital gains (gains on investments held for less than a year) are taxed at a higher rate than long-term gains.",0.8020318746566772,0.02127029187977314,0.17669783532619476,positive,0.7807615995407104
+12,2014-10-26 06:15:00,"Short-term capital gains are taxed at the same rate as ordinary income, while there are special, lower rates for long-term gains.",0.02425413951277733,0.010018534027040005,0.9657273292541504,neutral,0.014235605485737324
+13,2014-10-26 06:15:00,"The actual difference depends on your tax bracket, but as you can see from the chart below, it can be substantial.",0.02903660386800766,0.013558289967477322,0.9574050903320312,neutral,0.015478313900530338
+14,2014-10-26 06:15:00,"For example, if you are in the 28% tax bracket and sell an investment after 11 months, earning a $10,000 profit, you can expect to pay $2,800 in capital gains taxes.",0.028607461601495743,0.03634936362504959,0.9350431561470032,neutral,-0.007741902023553848
+15,2014-10-26 06:15:00,"However, if you hold on to it for a year and a day, your capital gains tax will be $1,300 lower.",0.05047587677836418,0.28012871742248535,0.669395387172699,neutral,-0.22965283691883087
+16,2014-10-26 06:15:00,This can really add up over time.,0.1344889998435974,0.010574867017567158,0.8549361824989319,neutral,0.12391413003206253
+17,2014-10-26 06:15:00,Are fees eating into your investment returns?,0.07633140683174133,0.1950829178094864,0.7285857200622559,neutral,-0.11875151097774506
+18,2014-10-26 06:15:00,Do you prefer to take the guesswork out of investing and simply put your money into funds?,0.04690265655517578,0.023050082847476006,0.9300472736358643,neutral,0.023852573707699776
+19,2014-10-26 06:15:00,"There is nothing wrong with this approach, and it can actually work out better for you if you really don't have the time to research individual stocks.",0.1481822431087494,0.04296347498893738,0.8088542222976685,neutral,0.10521876811981201
+20,2014-10-26 06:15:00,"However, when you buy a fund, you are essentially paying someone (the fund's management) to do your investing for you.",0.018150413408875465,0.010241731069982052,0.9716079235076904,neutral,0.007908682338893414
+21,2014-10-26 06:15:00,"And different funds can charge very different fees, even if the investments they hold are virtually identical.",0.02901265025138855,0.02869497425854206,0.9422923922538757,neutral,0.00031767599284648895
+22,2014-10-26 06:15:00,"As a basic example, let's say I want to invest in the financial sector.",0.04741809889674187,0.004978597164154053,0.9476032853126526,neutral,0.042439501732587814
+23,2014-10-26 06:15:00,Two popular ETFs that track these stocks are the Financial Select Sector SPDR Fund and the iShares U.S. Financials ETF .,0.04196853190660477,0.005744277499616146,0.9522871375083923,neutral,0.036224253475666046
+24,2014-10-26 06:15:00,The holdings of these funds are very similar.,0.03438178077340126,0.005565332248806953,0.9600529074668884,neutral,0.028816448524594307
+25,2014-10-26 06:15:00,"However, they have significantly different expense ratios -- that is, the percentage of your holdings that goes toward operating the fund.",0.034710515290498734,0.011695400811731815,0.9535940885543823,neutral,0.023015115410089493
+26,2014-10-26 06:15:00,"The SPDR fund has an expense ratio of 0.17%, compared to 0.45% for the iShares fund.",0.3297290503978729,0.5961377024650574,0.07413319498300552,negative,-0.26640865206718445
+27,2014-10-26 06:15:00,"And while it doesn't sound like a big difference, the 0.28% in extra expenses can really affect your returns over time.",0.07934844493865967,0.05930482596158981,0.8613467812538147,neutral,0.020043618977069855
+28,2014-10-26 06:15:00,"Focus on the right kind of stocks
+
+Finally, if you do invest in individual stocks, make sure you are choosing the right kind for the long haul.",0.14921101927757263,0.006094719748944044,0.8446942567825317,neutral,0.143116295337677
+29,2014-10-26 06:15:00,"By choosing an assortment of high-quality dividend growth stocks, you can not only eliminate the need for frequent trading, but you can also produce steady, predictable growth that usually outperforms the rest of the market.",0.6201975345611572,0.012009133584797382,0.36779335141181946,positive,0.6081883907318115
+30,2014-10-26 06:15:00,"There are tons of good dividend stocks to choose from, but the best long-term investments are those with solid track records of increasing their payout every year.",0.7264162302017212,0.013582427054643631,0.2600013017654419,positive,0.712833821773529
+31,2014-10-26 06:15:00,"One group of stocks, known as the ""dividend aristocrats,"" have all increased their dividend for at least 25 consecutive years.",0.8570549488067627,0.02409334108233452,0.11885162442922592,positive,0.8329616189002991
+32,2014-10-26 06:15:00,And many of these companies have streaks much longer than that.,0.03175169229507446,0.04044683277606964,0.9278015494346619,neutral,-0.008695140480995178
+33,2014-10-26 06:15:00,"Three good examples are Altria Group , Johnson & Johnson , and Procter & Gamble , which have increased their dividends for 57, 51, and 44 consecutive years, respectively.",0.8755931854248047,0.0164999570697546,0.10790684819221497,positive,0.8590932488441467
+34,2014-10-26 06:15:00,"And just look at how much they have outperformed the S&P 500 over the past 20 years:
+
+Of course, these are just a few of the dividend aristocrats ; there are plenty to choose from.",0.12683303654193878,0.03041885979473591,0.8427480459213257,neutral,0.09641417860984802
+35,2014-10-26 06:15:00,"It's all about efficient growth
+
+The main takeaway is that running an efficient investment portfolio is almost as important as your investments themselves.",0.11692493408918381,0.00850047916173935,0.874574601650238,neutral,0.10842445492744446
+36,2014-10-26 06:15:00,"After all, average annual return of 9% isn't quite as good as it sounds if 2% goes right back out in the form of commissions, fees, and other expenses.",0.09146963804960251,0.08576352149248123,0.8227668404579163,neutral,0.005706116557121277
+37,2014-10-26 06:15:00,A great portfolio is one that essentially does all of the work for you at a bare minimum cost thanks to low expenses and high growth.,0.16926905512809753,0.006181798409670591,0.8245491981506348,neutral,0.16308726370334625
+38,2014-10-26 06:15:00,"And by choosing dividend growth stocks and low-cost funds, your portfolio could do just that.",0.18362069129943848,0.006182420998811722,0.8101969361305237,neutral,0.17743827402591705
+39,2014-10-26 06:15:00,"Top dividend stocks for the next decade
+
+As we've seen, dividend stocks simply crush their non-dividend-paying counterparts over the long term.",0.05170133709907532,0.6548465490341187,0.29345208406448364,negative,-0.6031452417373657
+40,2014-10-26 06:15:00,That's beyond dispute.,0.11145628988742828,0.02713225595653057,0.861411452293396,neutral,0.08432403206825256
+41,2014-10-26 06:15:00,"I've also said that a well-constructed dividend portfolio creates wealth steadily, while still allowing you to sleep like a baby.",0.6942538022994995,0.011267507448792458,0.29447871446609497,positive,0.682986319065094
+42,2014-10-26 06:15:00,"Knowing how valuable such a portfolio might be, our top analysts put together a report on a group of high-yielding stocks that should be in any income investor's portfolio.",0.08245469629764557,0.0054166438058018684,0.9121286273002625,neutral,0.07703804969787598
+43,2014-10-26 06:15:00,"To see our free report on these stocks, just click here .",0.015726452693343163,0.014490216039121151,0.9697833061218262,neutral,0.0012362366542220116
+44,2014-10-26 06:15:00,The article 3 Ways to Make a Mediocre Portfolio Great originally appeared on Fool.com.,0.02813698723912239,0.0336543433368206,0.9382086396217346,neutral,-0.005517356097698212
+45,2014-10-26 06:15:00,Matthew Frankel has no position in any stocks mentioned.,0.010626859962940216,0.04838044196367264,0.9409926533699036,neutral,-0.03775358200073242
+46,2014-10-26 06:15:00,The Motley Fool recommends Johnson & Johnson and Procter & Gamble.,0.026330091059207916,0.02261643297970295,0.9510534405708313,neutral,0.0037136580795049667
+47,2014-10-26 06:15:00,The Motley Fool owns shares of Johnson & Johnson.,0.024320147931575775,0.014108395203948021,0.961571455001831,neutral,0.010211752727627754
+48,2014-10-26 06:15:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+49,2014-10-26 06:15:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+50,2014-10-26 06:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+51,2014-10-26 06:15:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+52,2014-10-26 06:15:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+53,2014-10-26 06:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+54,2014-10-26 06:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

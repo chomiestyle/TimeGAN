@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-04 09:28:00,"Lately, Salesforce.com, Inc. (NYSE: CRM ) has been garnering some nice support from Wall Street analysts.",0.9223036170005798,0.03032301552593708,0.047373317182064056,positive,0.8919805884361267
+1,2017-01-04 09:28:00,"Morningstar has named the company a top pick for the new year because of the potential for improved margins and Wedbush has reaffirmed its ""outperform"" rating.",0.9465956091880798,0.021013977006077766,0.032390497624874115,positive,0.9255816340446472
+2,2017-01-04 09:28:00,"In fact, Wedbush increased its price target from $96 to $98.",0.8757596015930176,0.015215045772492886,0.10902528464794159,positive,0.8605445623397827
+3,2017-01-04 09:28:00,This assumes 36% upside.,0.050858527421951294,0.022069262340664864,0.9270721673965454,neutral,0.02878926508128643
+4,2017-01-04 09:28:00,"All this is certainly great, right?",0.33552858233451843,0.013679560273885727,0.6507918238639832,neutral,0.3218490183353424
+5,2017-01-04 09:28:00,Definitely.,0.37634411454200745,0.10225550085306168,0.5214003324508667,neutral,0.27408862113952637
+6,2017-01-04 09:28:00,"But unfortunately, CRM stock has still been mostly a laggard.",0.02038857899606228,0.9026870131492615,0.07692442834377289,negative,-0.8822984099388123
+7,2017-01-04 09:28:00,"Since reaching an all-time high in May, the shares have lost about 14%.",0.016721857711672783,0.968207836151123,0.015070266090333462,negative,-0.9514859914779663
+8,2017-01-04 09:28:00,"OK, so perhaps now is the time to take a look?",0.07921604812145233,0.046931713819503784,0.8738523125648499,neutral,0.03228433430194855
+9,2017-01-04 09:28:00,"Well, the fact is that the company is the pioneer of the fast-growing cloud industry.",0.4721544682979584,0.009417437948286533,0.5184281468391418,neutral,0.4627370238304138
+10,2017-01-04 09:28:00,And its customer relationship management platform continues to be standout - and something that is highly engaging.,0.8445770740509033,0.012390313670039177,0.14303255081176758,positive,0.832186758518219
+11,2017-01-04 09:28:00,CRM has continued to make investments in mobile as well as AI (artificial intelligence).,0.6756526827812195,0.008931757882237434,0.31541556119918823,positive,0.6667209267616272
+12,2017-01-04 09:28:00,"In Q3, the company posted a 25% increase in revenues to $2.14 billion and earnings rose by 14% to 24 cents a share.",0.9573372006416321,0.019017092883586884,0.02364569902420044,positive,0.9383201003074646
+13,2017-01-04 09:28:00,A key has been traction with large accounts.,0.42691168189048767,0.01846012845635414,0.5546281933784485,neutral,0.40845155715942383
+14,2017-01-04 09:28:00,"In the quarter, there was a record number of ""seven-figure-plus transactions.""",0.1110035702586174,0.020046373829245567,0.8689500093460083,neutral,0.09095719456672668
+15,2017-01-04 09:28:00,"• 7 Beaten-Down Tech Stocks to Buy With 50% Upside in 2017
+
+CRM CEO Marc Benioff also boasted that his company will reach a hefty $10 billion in revenues by 2018.",0.9182396531105042,0.024903489276766777,0.05685678869485855,positive,0.8933361768722534
+16,2017-01-04 09:28:00,Yet all this should not necessarily be a surprise since the cloud market appears to be in a long-term growth trend.,0.5053656697273254,0.01705201528966427,0.47758233547210693,positive,0.4883136451244354
+17,2017-01-04 09:28:00,"According to research from Morgan Stanley, the global spending in this category is expected to jump from $70 billion last year to $141 billion by 2019 .",0.9090790748596191,0.02637961134314537,0.06454138457775116,positive,0.8826994895935059
+18,2017-01-04 09:28:00,"Pumping up growth has not been cheap, as CRM has lost money during four of the past five years.",0.03003520891070366,0.9211019277572632,0.04886290058493614,negative,-0.8910667300224304
+19,2017-01-04 09:28:00,The company continues to spend substantial amounts on marketing and R&D.,0.22796009480953217,0.006735437083989382,0.7653045058250427,neutral,0.22122465074062347
+20,2017-01-04 09:28:00,"Oh, and then there is the aggressive M&A effort.",0.11500883847475052,0.008310725912451744,0.8766804337501526,neutral,0.10669811069965363
+21,2017-01-04 09:28:00,"For 2016, CRM pulled off 10 deals and some were fairly expensive.",0.0223324503749609,0.9438712000846863,0.03379632160067558,negative,-0.921538770198822
+22,2017-01-04 09:28:00,"The company paid $800 million for Krux , $750 million for Quip and $2.8 billion for Demandware .",0.03567671403288841,0.010467402637004852,0.9538558721542358,neutral,0.02520931139588356
+23,2017-01-04 09:28:00,"While dealmaking can help boost revenues and provide a broader product offering, there are certainly risks.",0.8619466423988342,0.03409251943230629,0.10396077483892441,positive,0.8278540968894958
+24,2017-01-04 09:28:00,"Let's face it, there are often complications with integration, having to meld diverse cultures.",0.04892013221979141,0.1945059448480606,0.7565739154815674,neutral,-0.1455858051776886
+25,2017-01-04 09:28:00,This gets even tougher when there are many deals.,0.053726520389318466,0.2427425980567932,0.7035308480262756,neutral,-0.18901607394218445
+26,2017-01-04 09:28:00,"Besides, there is the potential for a strategic mistake.",0.027999823912978172,0.8908931612968445,0.08110707253217697,negative,-0.8628933429718018
+27,2017-01-04 09:28:00,"Hey, CRM actually tried to buy Twitter Inc (NYSE: TWTR ), which probably would have been a blunder.",0.041090600192546844,0.6990875005722046,0.25982192158699036,negative,-0.6579968929290771
+28,2017-01-04 09:28:00,It was only after harsh reaction from investors that CRM bowed out.,0.054002974182367325,0.8087316751480103,0.1372654139995575,negative,-0.7547286748886108
+29,2017-01-04 09:28:00,But there should still be concerns since the company may be getting too fast-and-loose with its decisionmaking.,0.02617497183382511,0.8669455051422119,0.10687952488660812,negative,-0.8407705426216125
+30,2017-01-04 09:28:00,Is there really enough due diligence?,0.08952118456363678,0.02332991175353527,0.887148916721344,neutral,0.06619127094745636
+31,2017-01-04 09:28:00,"As I noted in a post for InvestorPlace.com : ""[T]he synergies are, well, elusive.",0.03268061950802803,0.02976161427795887,0.9375578165054321,neutral,0.0029190052300691605
+32,2017-01-04 09:28:00,Salesforce sells sophisticated cloud applications to businesses and Twitter is focused primarily on consumers - making money by selling advertising.,0.019410045817494392,0.007489336654543877,0.9731006026268005,neutral,0.011920709162950516
+33,2017-01-04 09:28:00,"… Seriously, why would CRM want to get involved with handling streaming of NFL games or presidential debates or dealing with cyber bullying?""",0.042862314730882645,0.2192191779613495,0.7379185557365417,neutral,-0.17635686695575714
+34,2017-01-04 09:28:00,Salesforce.com must deal with a competitive environment that is getting more intense.,0.10710638016462326,0.5346297025680542,0.35826388001441956,negative,-0.42752331495285034
+35,2017-01-04 09:28:00,There is not only pressure from fast-growing startups - some of which may come public this year - but also mega tech operators.,0.3573162853717804,0.04375005140900612,0.5989336371421814,neutral,0.3135662376880646
+36,2017-01-04 09:28:00,Microsoft Corporation (NASDAQ: MSFT ) has shown the benefits of having a serous cloud strategy.,0.7859731912612915,0.011440979316830635,0.20258581638336182,positive,0.7745321989059448
+37,2017-01-04 09:28:00,"No doubt, companies like SAP SE (ADR) (NYSE: SAP ), International Business Machines Corp. (NYSE: IBM ) and Oracle Corporation (NYSE: ORCL ) are taking note and making substantial investments.",0.7475311756134033,0.011706325225532055,0.24076248705387115,positive,0.7358248233795166
+38,2017-01-04 09:28:00,"Now, this is not to imply that Salesforce stock will somehow implode.",0.02220067009329796,0.0388500839471817,0.9389492273330688,neutral,-0.016649413853883743
+39,2017-01-04 09:28:00,"Again, the company has a solid technology platform and a substantial customer base.",0.7612779140472412,0.010934663936495781,0.22778747975826263,positive,0.7503432631492615
+40,2017-01-04 09:28:00,Yet it is still important to note that growth has been decelerating - and the M&A strategy is not guaranteed to reverse this.,0.3685969114303589,0.25265151262283325,0.3787515461444855,neutral,0.11594539880752563
+41,2017-01-04 09:28:00,"And yes, the valuation on CRM stock is fairly expensive, coming to a forward price-to-earnings multiple of 56X.",0.08655120432376862,0.012610179372131824,0.9008386135101318,neutral,0.07394102215766907
+42,2017-01-04 09:28:00,"In other words, it's probably best to hold off for now.",0.09005175530910492,0.10779022425413132,0.8021580576896667,neutral,-0.017738468945026398
+43,2017-01-04 09:28:00,Tom Taulli runs the InvestorPlace blog IPO Playbook and is a registered investment adviser representative (you can visit his site to learn more about his financial planning services).,0.023058801889419556,0.01008710265159607,0.9668540954589844,neutral,0.012971699237823486
+44,2017-01-04 09:28:00,"He is also the author of various books on investing like All About Commodities, All About Short Selling and High-Profit IPO Strategies.",0.04497005045413971,0.00730680488049984,0.9477230906486511,neutral,0.03766324371099472
+45,2017-01-04 09:28:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+46,2017-01-04 09:28:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+47,2017-01-04 09:28:00,"• The 10 Best Contrarian Stocks to Buy in the New Year
+• The 10 Best Stocks to Buy for 2017
+
+The post Is Salesforce.com, Inc. (CRM) Stock Cheap Enough Now?",0.1105775311589241,0.03521231934428215,0.8542100787162781,neutral,0.07536521553993225
+48,2017-01-04 09:28:00,appeared first on InvestorPlace .,0.06232493743300438,0.015836404636502266,0.921838641166687,neutral,0.046488530933856964
+49,2017-01-04 09:28:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

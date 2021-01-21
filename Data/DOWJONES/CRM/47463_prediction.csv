@@ -1,0 +1,71 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-02-28 09:21:00,"When it comes to Oracle Corporation (NYSE: ORCL ), there's one basic question.",0.012780698947608471,0.013892972841858864,0.9733263254165649,neutral,-0.001112273894250393
+1,2018-02-28 09:21:00,Is Oracle stock the next Microsoft Corporation (NASDAQ: MSFT ) ?,0.03596622496843338,0.01710471138358116,0.9469290971755981,neutral,0.01886151358485222
+2,2018-02-28 09:21:00,Or is it the next IBM?,0.10234228521585464,0.12603846192359924,0.7716192603111267,neutral,-0.0236961767077446
+3,2018-02-28 09:21:00,"The bull case for Oracle stock is largely based on it taking a path similar to that of Microsoft, albeit in the enterprise space.",0.389414519071579,0.009076189249753952,0.6015092730522156,neutral,0.3803383409976959
+4,2018-02-28 09:21:00,"Just a few years ago, Microsoft had been left for dead.",0.1096574142575264,0.3998742699623108,0.4904683232307434,neutral,-0.290216863155365
+5,2018-02-28 09:21:00,"It was a giant whose best days were behind it, and whose smaller, nimbler competitors were circling.",0.37224647402763367,0.07312331348657608,0.5546301603317261,neutral,0.2991231679916382
+6,2018-02-28 09:21:00,"But Microsoft has reasserted its dominance, played 'catch-up' in a few key areas (notably cloud) and MSFT stock has risen more than 240% over the past five years.",0.9337155818939209,0.01886880025267601,0.047415703535079956,positive,0.9148467779159546
+7,2018-02-28 09:21:00,The bear case is that Oracle's next few years will look like the last few at International Business Machines Corp. (NYSE: IBM ).,0.012164687737822533,0.035781193524599075,0.9520541429519653,neutral,-0.023616505786776543
+8,2018-02-28 09:21:00,The company simply hasn't been able to overcome secular changes to its business model.,0.18565712869167328,0.5878785848617554,0.22646422684192657,negative,-0.4022214412689209
+9,2018-02-28 09:21:00,"In a roaring market for tech, IBM stock is down more than 21% over the past five years - though including dividends investors roughly would have broken even over that time frame.",0.018163833767175674,0.9688207507133484,0.01301542203873396,negative,-0.9506568908691406
+10,2018-02-28 09:21:00,There's an argument for both sides.,0.1364133358001709,0.0825522243976593,0.7810344099998474,neutral,0.0538611114025116
+11,2018-02-28 09:21:00,"As often is the case, the results likely will fall somewhere in the middle.",0.03190627321600914,0.29638296365737915,0.671710729598999,neutral,-0.2644766867160797
+12,2018-02-28 09:21:00,"But at the current price just north of $50, it seems wisest to take the long view - and the long side - of Oracle stock.",0.03483825922012329,0.030041715130209923,0.9351199865341187,neutral,0.004796544089913368
+13,2018-02-28 09:21:00,"Why Oracle Stock is the Next IBM
+
+When it comes to ORCL, the clear concern is that the transition to cloud is leaving Oracle behind.",0.030726777389645576,0.32767900824546814,0.6415941715240479,neutral,-0.2969522178173065
+14,2018-02-28 09:21:00,"Similarly, the shift away from hardware has led IBM to struggle, with revenue dropping for 22 straight quarters before growth finally arrived in Q4 .",0.017883148044347763,0.9711336493492126,0.010983201675117016,negative,-0.953250527381897
+15,2018-02-28 09:21:00,Those concerns have pressured Oracle stock of late.,0.026850631460547447,0.9525830149650574,0.020566381514072418,negative,-0.9257323741912842
+16,2018-02-28 09:21:00,"I thought a fiscal first-quarter beat back in September made ORCL a buy - but analysts instead focused on concerning guidance relative to cloud sales, and ORCL stock fell.",0.019315822049975395,0.9576494693756104,0.023034723475575447,negative,-0.9383336305618286
+17,2018-02-28 09:21:00,InvestorPlace's Tom Taulli detailed the same pattern after the Q2 report in December.,0.055001143366098404,0.031771328300237656,0.9132275581359863,neutral,0.02322981506586075
+18,2018-02-28 09:21:00,Oracle's positioning relative to the cloud business is already a problem.,0.019747519865632057,0.9527134895324707,0.027538955211639404,negative,-0.9329659938812256
+19,2018-02-28 09:21:00,"Oracle already is behindAmazon.com, Inc. (NASDAQ: AMZN ) and Microsoft in as-a-service revenue.",0.2353690266609192,0.017293937504291534,0.7473370432853699,neutral,0.21807509660720825
+20,2018-02-28 09:21:00,It's even trailing IBM on that front.,0.27578458189964294,0.09378563612699509,0.630429744720459,neutral,0.18199893832206726
+21,2018-02-28 09:21:00,But that's not the only risk for Oracle stock.,0.028690967708826065,0.10156711935997009,0.8697419166564941,neutral,-0.07287615537643433
+22,2018-02-28 09:21:00,The risk is that cloud providers like Amazon are looking to undercut Oracle's database business.,0.0342521108686924,0.9400045275688171,0.0257433895021677,negative,-0.905752420425415
+23,2018-02-28 09:21:00,"So is relatively new competitor Mongodb Inc (NASDAQ: MDB ), whose 9x EV/revenue multiple suggests investors see some promise.",0.8723191022872925,0.01591789722442627,0.1117628961801529,positive,0.8564012050628662
+24,2018-02-28 09:21:00,Better artificial intelligence offerings only add to the pressure.,0.34230920672416687,0.13658562302589417,0.521105170249939,neutral,0.2057235836982727
+25,2018-02-28 09:21:00,The short version of the bear case here is that the world simply is moving away from Oracle.,0.05052446201443672,0.18783968687057495,0.7616358995437622,neutral,-0.13731522858142853
+26,2018-02-28 09:21:00,"Growth already is decelerating - revenue grew just 6% in Q2, for instance - and it will get slower still.",0.09455525875091553,0.6369423866271973,0.2685023844242096,negative,-0.5423871278762817
+27,2018-02-28 09:21:00,"In a worst-case scenario, sales could turn negative, as was the case at IBM for over five years.",0.019226355478167534,0.9606264233589172,0.020147133618593216,negative,-0.9414000511169434
+28,2018-02-28 09:21:00,"Why Oracle Stock Is The Next Microsoft
+
+The bull case for Oracle is that it still has time to meet its challenges - and that those challenges are overwrought.",0.467324435710907,0.0658731758594513,0.4668024778366089,positive,0.4014512598514557
+29,2018-02-28 09:21:00,"Soon after the New Year, ORCL stock slipped after a report that Amazon and s alesforce.com, inc. (NYSE: CRM ) were looking for alternative database providers for their own use.",0.019800100475549698,0.9654248952865601,0.0147749874740839,negative,-0.9456247687339783
+30,2018-02-28 09:21:00,But that fear had been directly addressed by no less than Oracle CEO Larry Ellison on the Q2 conference call the month before - and somewhat angrily so.,0.1015530526638031,0.6573057770729065,0.2411411553621292,negative,-0.5557527542114258
+31,2018-02-28 09:21:00,He pointed out that Amazon wasn't leaving - and nor was salesforce.com.,0.023653915151953697,0.6226676106452942,0.35367849469184875,negative,-0.5990136861801147
+32,2018-02-28 09:21:00,"""Our competitors, who have no reason to like us very much, continue to invest in, and run their entire business on, Oracle,"" he said in the Q&A.",0.10019887238740921,0.008027428761124611,0.8917736411094666,neutral,0.09217144548892975
+33,2018-02-28 09:21:00,"Even SAP SE (ADR) (NYSE: SAP ) has tried, and failed, to develop its own product.",0.037445057183504105,0.7711801528930664,0.1913747936487198,negative,-0.7337350845336914
+34,2018-02-28 09:21:00,"As for cloud concerns, Ellison argued that Oracle's cost of ownership was far less than that of Amazon.",0.03455192968249321,0.758788526058197,0.20665954053401947,negative,-0.7242366075515747
+35,2018-02-28 09:21:00,And revenues have grown nicely of late.,0.9366121292114258,0.016359763219952583,0.04702816531062126,positive,0.9202523827552795
+36,2018-02-28 09:21:00,"Cloud revenue rose 44% in Q2, and 51% in Q1.",0.9557814598083496,0.01733342558145523,0.026885192841291428,positive,0.9384480118751526
+37,2018-02-28 09:21:00,"And according to management at an event this month, very few existing customers have moved away from On-Premise - leaving a large base for growth going forward.",0.03398240730166435,0.29575231671333313,0.670265257358551,neutral,-0.2617699205875397
+38,2018-02-28 09:21:00,That base was a big driver of Microsoft's recent success.,0.44348686933517456,0.010328139178454876,0.5461849570274353,neutral,0.4331587255001068
+39,2018-02-28 09:21:00,"Shifting existing on-premise customers of, say, Office to Office 365 didn't just move revenue.",0.24560831487178802,0.0205718781799078,0.7338197827339172,neutral,0.22503644227981567
+40,2018-02-28 09:21:00,It grew revenue - and helped margins.,0.947881281375885,0.018870240077376366,0.0332484170794487,positive,0.9290110468864441
+41,2018-02-28 09:21:00,"If Oracle has the same opportunity in front of it, it too should be able to drive consistent growth over the next few years.",0.914413571357727,0.012585374526679516,0.07300107181072235,positive,0.9018281698226929
+42,2018-02-28 09:21:00,Which side is right?,0.08218211680650711,0.07706478983163834,0.8407530784606934,neutral,0.005117326974868774
+43,2018-02-28 09:21:00,"In the quickly changing tech world, it's too early to tell definitively.",0.05975945293903351,0.06900963187217712,0.871230959892273,neutral,-0.009250178933143616
+44,2018-02-28 09:21:00,"But with ORCL stock range bound since June, and looking reasonably cheap, it seems a wiser bet to take the bullish side.",0.29907241463661194,0.0404772125184536,0.6604503989219666,neutral,0.25859519839286804
+45,2018-02-28 09:21:00,"After all, Oracle doesn't need that much growth to support the current valuation.",0.2599620521068573,0.014513817615807056,0.7255241274833679,neutral,0.24544823169708252
+46,2018-02-28 09:21:00,"The forward P/E is 16x, and a tick lower when considering the company's $2+ per share in net cash.",0.02012782357633114,0.9280514717102051,0.0518207848072052,negative,-0.9079236388206482
+47,2018-02-28 09:21:00,"• 3 ETFs That Could Blow Up
+
+Oracle hasn't detailed its plans for tax reform, which wasn't a certainty as of the Q2 call.",0.0288527961820364,0.42774057388305664,0.5434066653251648,neutral,-0.3988877832889557
+48,2018-02-28 09:21:00,But the company held over $47 billion overseas as of the end of fiscal 2017.,0.012517687864601612,0.03167015314102173,0.9558121562004089,neutral,-0.01915246620774269
+49,2018-02-28 09:21:00,"That windfall isn't quite the same as what Apple Inc. (NASDAQ: AAPL ) will enjoy , but it does give Oracle a number of options to drive value against a $208 billion market capitalization.",0.8631681203842163,0.014687899500131607,0.12214396148920059,positive,0.848480224609375
+50,2018-02-28 09:21:00,"At a low earnings multiple, the market is pricing in a big possibility that growth here simply will come to an end.",0.11157703399658203,0.3074941337108612,0.5809288620948792,neutral,-0.19591709971427917
+51,2018-02-28 09:21:00,And that just looks too conservative.,0.03555668890476227,0.11735308915376663,0.8470901846885681,neutral,-0.08179640024900436
+52,2018-02-28 09:21:00,"If the question is whether Oracle is the next Microsoft or IBM, one part of the answer is that there's then a lot more upside than downside.",0.03761899098753929,0.024381574243307114,0.9379994869232178,neutral,0.013237416744232178
+53,2018-02-28 09:21:00,"In other words, Oracle looks more like Microsoft than IBM at the moment, and right now, ORCL is cheap enough to risk it.",0.10736359655857086,0.026026718318462372,0.8666096329689026,neutral,0.08133687824010849
+54,2018-02-28 09:21:00,Consistent growth and an expanding earnings multiple easily could get ORCL toward $70 (think $3.50 in FY20 EPS at a 20x multiple).,0.9352240562438965,0.01775406114757061,0.04702191427350044,positive,0.9174699783325195
+55,2018-02-28 09:21:00,Flattening growth suggests a stock price maybe into the 40s (12-13x $3+).,0.7336373329162598,0.12273813784122467,0.14362451434135437,positive,0.6108992099761963
+56,2018-02-28 09:21:00,"And something in the middle likely still drives some upside over time, with a 1.5% dividend yield likely to increase soon.",0.8878270387649536,0.023390144109725952,0.08878283202648163,positive,0.8644368648529053
+57,2018-02-28 09:21:00,"All told, there's enough here to take a flyer at the current price.",0.17896898090839386,0.01983065903186798,0.8012003898620605,neutral,0.15913832187652588
+58,2018-02-28 09:21:00,"As of this writing, Vince Martin has no positions in any securities mentioned.",0.00855496246367693,0.019866647198796272,0.9715784192085266,neutral,-0.011311684735119343
+59,2018-02-28 09:21:00,"• 10 Retirement Stocks That You Should Already Own
+
+The post Is Oracle Corporation the Next Microsoft?… Or the Next IBM?",0.04788088798522949,0.039506834000349045,0.91261225938797,neutral,0.008374053984880447
+60,2018-02-28 09:21:00,appeared first on InvestorPlace .,0.062324922531843185,0.015836404636502266,0.921838641166687,neutral,0.04648851603269577
+61,2018-02-28 09:21:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

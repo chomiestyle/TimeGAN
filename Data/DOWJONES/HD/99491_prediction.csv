@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-06-10 07:11:00,"In early trading on Wednesday, shares of International Business Machines ( IBM ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.5%.",0.9377115368843079,0.031049037352204323,0.03123951330780983,positive,0.9066625237464905
+1,2015-06-10 07:11:00,"Year to date, International Business Machines registers a 4.9% gain.",0.9528814554214478,0.022680189460515976,0.02443837560713291,positive,0.9302012920379639
+2,2015-06-10 07:11:00,"And the worst performing Dow component thus far on the day is UnitedHealth Group ( UNH ), trading down 0.0%.",0.021558865904808044,0.9652366042137146,0.013204491697251797,negative,-0.9436777234077454
+3,2015-06-10 07:11:00,UnitedHealth Group is showing a gain of 15.7% looking at the year to date performance.,0.9569793343544006,0.019125089049339294,0.023895608261227608,positive,0.9378542304039001
+4,2015-06-10 07:11:00,"Two other components making moves today are Home Depot ( HD ), trading up 0.1%, and Intel Corp ( INTC ), trading up 1.4% on the day.",0.8770617246627808,0.03859157860279083,0.0843467190861702,positive,0.8384701609611511
+5,2015-06-10 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,30 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-10 06:38:00,"Following the market opening Monday, the Dow traded up 0.6 percent to 26140 while the NASDAQ rose 1.43 percent to 7853.",0.891593873500824,0.03784441575407982,0.07056170701980591,positive,0.8537494540214539
+1,2019-06-10 06:38:00,"The S&P also rose, gaining 0.75 percent to 2,894.",0.935899019241333,0.02875535376369953,0.03534553572535515,positive,0.9071436524391174
+2,2019-06-10 06:38:00,Consumer discretionary shares rose 1.6 percent on Monday.,0.9215227961540222,0.0274351853877306,0.05104203522205353,positive,0.8940876126289368
+3,2019-06-10 06:38:00,"Meanwhile, top gainers in the sector included Universal Electronics Inc. (NASDAQ: UEIC), up 16 percent, and Shiloh Industries, Inc. (NASDAQ: SHLO), up 11 percent.",0.9121580719947815,0.025969406589865685,0.06187254190444946,positive,0.8861886858940125
+4,2019-06-10 06:38:00,"In trading on Monday, utilities shares fell by 1 percent.",0.017048902809619904,0.9722309708595276,0.01072023157030344,negative,-0.9551820755004883
+5,2019-06-10 06:38:00,"Salesforce.com, inc. (NYSE: CRM) is buying Tableau Software Inc (NYSE: DATA) for about $15.7 billion.",0.052660658955574036,0.0052022552117705345,0.9421371221542358,neutral,0.047458402812480927
+6,2019-06-10 06:38:00,"Each share of Tableau class A, B stock will be exchanged for $1.103 shares of Salesforce’s common stock.",0.04295067861676216,0.0065164146944880486,0.9505329132080078,neutral,0.03643426299095154
+7,2019-06-10 06:38:00,Tableau Software is an interactive data visualization software company and Salesforce is a cloud-based software company headquartered in San Francisco.,0.015265119262039661,0.00748026929795742,0.9772546291351318,neutral,0.007784849964082241
+8,2019-06-10 06:38:00,"Provention Bio, Inc. (NASDAQ: PRVB) shares shot up 330 percent to $18.71 after the company announced study results showing a single course of PRV-031 delayed type 1 diabetes onset in high-risk individuals by at least two years.",0.9276025891304016,0.02701079100370407,0.04538664594292641,positive,0.9005917906761169
+9,2019-06-10 06:38:00,"Shares of Vuzix Corporation (NASDAQ: VUZI) got a boost, shooting up 24 percent to $2.52.",0.9354897737503052,0.02234492264688015,0.04216528311371803,positive,0.9131448268890381
+10,2019-06-10 06:38:00,Vuzix and NNTC announced fully autonomous AI-Powered face recognition system integrated on smart glasses.,0.6591426730155945,0.01200283132493496,0.3288544714450836,positive,0.647139847278595
+11,2019-06-10 06:38:00,"Tableau Software, Inc. (NYSE: DATA) shares were also up, gaining 35 percent to $168.35 after Salesforce.com, inc. (NYSE: CRM) announced plans to buy the company for about $15.7 billion.",0.9400997757911682,0.023733751848340034,0.03616650775074959,positive,0.9163660407066345
+12,2019-06-10 06:38:00,"INSYS Therapeutics, Inc. (NASDAQ: INSY) shares tumbled 45 percent to $0.7154 following news the company initiated a court-supervised process to facilitate asset sales via Chapter 11 Bankruptcy.",0.027795681729912758,0.9570993185043335,0.015105098485946655,negative,-0.9293036460876465
+13,2019-06-10 06:38:00,"Shares of ReWalk Robotics Ltd. (NASDAQ: RWLK) were down 19 percent to $5.56 after the company announced a direct offering of ~833,000 shares at $6.60 per share for $5 million in gross proceeds.",0.019398141652345657,0.9506463408470154,0.029955541715025902,negative,-0.9312481880187988
+14,2019-06-10 06:38:00,"Concrete Pumping Holdings, Inc. (NASDAQ: BBCP) was down, falling 10 percent to $4.40 after the company reported Q2 EPS of $(0.35).",0.017603322863578796,0.9700784683227539,0.012318258173763752,negative,-0.9524751305580139
+15,2019-06-10 06:38:00,"In commodity news, oil traded up 0.3 percent to $54.15, while gold traded down 1.2 percent to $1,330.10.",0.7050188779830933,0.19871804118156433,0.0962631106376648,positive,0.5063008069992065
+16,2019-06-10 06:38:00,"Silver traded down 2.1 percent Monday to $14.715, while copper rose 0.5 percent to $2.6395.",0.05438544228672981,0.9199666380882263,0.02564791776239872,negative,-0.865581214427948
+17,2019-06-10 06:38:00,European shares were higher today.,0.9315414428710938,0.02079884335398674,0.04765976965427399,positive,0.9107425808906555
+18,2019-06-10 06:38:00,"The eurozone’s STOXX 600 rose 0.2 percent, the Spanish Ibex Index rose 0.5 percent, while Italy’s FTSE MIB Index rose 0.3 percent.",0.8612685799598694,0.04340143874287605,0.0953298807144165,positive,0.8178671598434448
+19,2019-06-10 06:38:00,"Meanwhile, the German DAX climbed 0.8 percent, and the French CAC 40 rose 0.3 percent while UK shares rose 0.5 percent.",0.9040965437889099,0.029330644756555557,0.06657280772924423,positive,0.8747658729553223
+20,2019-06-10 06:38:00,The Treasury is set to auction 3-and 6-month bills at 11:30 a.m.,0.027770135551691055,0.009768988005816936,0.9624608755111694,neutral,0.018001146614551544
+21,2019-06-10 06:38:00,ET.,0.04076192528009415,0.02084074728190899,0.9383973479270935,neutral,0.019921177998185158
+22,2019-06-10 06:38:00,The TD Ameritrade Investor Movement Index for May will be released at 12:30 p.m.,0.018222622573375702,0.009491157718002796,0.9722861647605896,neutral,0.008731464855372906
+23,2019-06-10 06:38:00,ET.,0.04076192528009415,0.02084074728190899,0.9383973479270935,neutral,0.019921177998185158
+24,2019-06-10 06:38:00,© 2019 Benzinga.com.,0.03041105344891548,0.013917741365730762,0.9556711316108704,neutral,0.016493313014507294
+25,2019-06-10 06:38:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+26,2019-06-10 06:38:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+27,2019-06-10 06:38:00,Get insight into trading platforms.,0.09101889282464981,0.006384154316037893,0.9025969505310059,neutral,0.08463473618030548
+28,2019-06-10 06:38:00,Compare the best online stock brokerages.,0.09776752442121506,0.020225191488862038,0.8820073008537292,neutral,0.07754233479499817

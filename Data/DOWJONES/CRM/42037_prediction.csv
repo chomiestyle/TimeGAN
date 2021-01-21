@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-26 10:36:00,"In afternoon trading on Wednesday, Technology & Communications stocks are the best performing sector, up 1.3%.",0.937608003616333,0.032696448266506195,0.029695631936192513,positive,0.9049115777015686
+1,2020-08-26 10:36:00,"Within that group, Salesforce.com Inc (Symbol: CRM) and Adobe Inc (Symbol: ADBE) are two of the day's stand-outs, showing a gain of 25.7% and 7.9%, respectively.",0.9397034049034119,0.038676973432302475,0.02161967009305954,positive,0.9010264277458191
+2,2020-08-26 10:36:00,"Among technology ETFs, one ETF following the sector is the Technology Select Sector SPDR ETF (Symbol: XLK), which is up 1.9% on the day, and up 33.60% year-to-date.",0.9423019886016846,0.02348427101969719,0.03421374410390854,positive,0.9188176989555359
+3,2020-08-26 10:36:00,"Salesforce.com Inc, meanwhile, is up 66.97% year-to-date, and Adobe Inc is up 58.46% year-to-date.",0.9234867095947266,0.027027301490306854,0.049485962837934494,positive,0.8964594006538391
+4,2020-08-26 10:36:00,"Combined, CRM and ADBE make up approximately 5.8% of the underlying holdings of XLK.",0.014739430509507656,0.007402289193123579,0.9778582453727722,neutral,0.007337141316384077
+5,2020-08-26 10:36:00,"The next best performing sector is the Materials sector, higher by 0.4%.",0.9293162822723389,0.03582136332988739,0.03486236557364464,positive,0.8934949040412903
+6,2020-08-26 10:36:00,"Among large Materials stocks, Freeport-McMoran Copper & Gold (Symbol: FCX) and International Flavors & Fragrances Inc. (Symbol: IFF) are the most notable, showing a gain of 2.9% and 2.1%, respectively.",0.9505683779716492,0.023937063291668892,0.02549457550048828,positive,0.9266313314437866
+7,2020-08-26 10:36:00,"One ETF closely tracking Materials stocks is the Materials Select Sector SPDR ETF (XLB), which is up 1.0% in midday trading, and up 4.08% on a year-to-date basis.",0.9462767243385315,0.021916808560490608,0.03180652856826782,positive,0.924359917640686
+8,2020-08-26 10:36:00,"Freeport-McMoran Copper & Gold, meanwhile, is up 13.76% year-to-date, and International Flavors & Fragrances Inc., is down 1.58% year-to-date.",0.033820655196905136,0.9293601512908936,0.036819200962781906,negative,-0.8955395221710205
+9,2020-08-26 10:36:00,"Combined, FCX and IFF make up approximately 5.0% of the underlying holdings of XLB.",0.015096439979970455,0.0073443008586764336,0.9775592684745789,neutral,0.007752139121294022
+10,2020-08-26 10:36:00,"Comparing these stocks and ETFs on a trailing twelve month basis, below is a relative stock price performance chart, with each of the symbols shown in a different color as labeled in the legend at the bottom:
+
+Here's a snapshot of how the S&P 500 components within the various sectors are faring in afternoon trading on Wednesday.",0.016667431220412254,0.032509539276361465,0.9508230686187744,neutral,-0.01584210805594921
+11,2020-08-26 10:36:00,"As you can see, four sectors are up on the day, while five sectors are down.",0.07839047908782959,0.1347297877073288,0.7868796586990356,neutral,-0.05633930861949921
+12,2020-08-26 10:36:00,10 ETFs With Stocks That Insiders Are Buying »,0.12379235774278641,0.02210264466702938,0.8541050553321838,neutral,0.10168971121311188

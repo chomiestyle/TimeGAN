@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-03 09:36:00,Buying a brick-and-mortar retailer is certainly a risky bet nowadays.,0.08437464386224747,0.08082855492830276,0.8347967863082886,neutral,0.003546088933944702
+1,2017-04-03 09:36:00,"Just look at GameStop Corp. (NYSE: GME ), which posted grim news in its latest quarterly report.",0.023256022483110428,0.9236339330673218,0.0531100369989872,negative,-0.9003779292106628
+2,2017-04-03 09:36:00,The stock lost nearly 14% on the news.,0.02080732397735119,0.9533981680870056,0.02579457126557827,negative,-0.9325908422470093
+3,2017-04-03 09:36:00,"The fact is that the ecommerce revolution - led by the fiercely competitive Amazon.com, Inc. (NASDAQ: AMZN ) - continues to take a brutal toll.",0.07461260259151459,0.6500019431114197,0.27538546919822693,negative,-0.5753893256187439
+4,2017-04-03 09:36:00,"And it seems like no retailer is immune, as seen with the problems with companies like Macy's Inc (NYSE: M ) and Target Corporation (NYSE: TGT ).",0.05243225023150444,0.6216650009155273,0.3259028196334839,negative,-0.5692327618598938
+5,2017-04-03 09:36:00,"According to data from the Commerce Department, department store sales dropped 6% last year whereas online sales rose by 11%.",0.016794536262750626,0.9735113382339478,0.009694134816527367,negative,-0.956716775894165
+6,2017-04-03 09:36:00,"Kind of grim, right?",0.1084357425570488,0.11852036416530609,0.7730439305305481,neutral,-0.010084621608257294
+7,2017-04-03 09:36:00,Sure is.,0.15092670917510986,0.02427324280142784,0.8248000144958496,neutral,0.12665346264839172
+8,2017-04-03 09:36:00,Yet this does not mean investors should completely avoid the sector.,0.04313698783516884,0.30677226185798645,0.650090754032135,neutral,-0.2636352777481079
+9,2017-04-03 09:36:00,"For the most part, there are still attractive opportunities, especially for companies that have natural synergies with a storefront presence.",0.7119624018669128,0.012771272100508213,0.2752663195133209,positive,0.699191153049469
+10,2017-04-03 09:36:00,A prime example of this: Home Depot Inc (NYSE: HD ).,0.029999185353517532,0.011138820089399815,0.9588620066642761,neutral,0.018860366195440292
+11,2017-04-03 09:36:00,"As seen with the latest quarter , there are few signs of any problems with the core business.",0.02888931892812252,0.8349593877792358,0.13615137338638306,negative,-0.80607008934021
+12,2017-04-03 09:36:00,"Same-store sales jumped 5.8% and profits came to $1.74 billion, or $1.44 per share, up from $1.47 billion, or $1.17 per share on a year-over-year basis.",0.9525860548019409,0.027346817776560783,0.020067166537046432,positive,0.9252392649650574
+13,2017-04-03 09:36:00,The company also authorized a $15 billion share buyback and raised the dividend by 29% on HD stock.,0.8875761032104492,0.01359623484313488,0.09882766008377075,positive,0.8739798665046692
+14,2017-04-03 09:36:00,"• 7 'Best of the Best' Stocks to Buy for the Second Quarter
+
+Of course, this standout performance has been fairly consistent.",0.817542552947998,0.03058026172220707,0.15187719464302063,positive,0.7869622707366943
+15,2017-04-03 09:36:00,Note that the company has beat or met earnings expectations for nine consecutive quarters.,0.9451496601104736,0.02242392674088478,0.032426390796899796,positive,0.9227257370948792
+16,2017-04-03 09:36:00,"So it should be no surprise that HD stock has been a winner, with a 100%-plus return over the past three years.",0.9330693483352661,0.017406774684786797,0.049523793160915375,positive,0.9156625866889954
+17,2017-04-03 09:36:00,"Going forward, the ecommerce revolution is likely to be a major catalyst for HD stock.",0.6538485884666443,0.01159268245100975,0.33455875515937805,positive,0.6422559022903442
+18,2017-04-03 09:36:00,"And yes, the company is already showing great traction with its investments.",0.9184200167655945,0.014074551872909069,0.06750545650720596,positive,0.9043454527854919
+19,2017-04-03 09:36:00,"Home Depot has nearly finished with the transformation of its main website, which has much better features for search as well as faster checkouts.",0.8184283971786499,0.014774143695831299,0.16679741442203522,positive,0.8036542534828186
+20,2017-04-03 09:36:00,"It has also refreshed its mobile app, allowing for dynamic estimates of arrival times.",0.9245255589485168,0.015725022181868553,0.059749361127614975,positive,0.9088005423545837
+21,2017-04-03 09:36:00,"All in all, the efforts are translating into solid financial results.",0.9209596514701843,0.014437933452427387,0.06460234522819519,positive,0.906521737575531
+22,2017-04-03 09:36:00,"In the latest quarter, ecommerce sales jumped by 19% on a year-over-year basis.",0.9542019963264465,0.01962948590517044,0.026168588548898697,positive,0.9345725178718567
+23,2017-04-03 09:36:00,Nearly 6% of total sales are from digital transactions.,0.017019199207425117,0.006896658800542355,0.9760841727256775,neutral,0.010122540406882763
+24,2017-04-03 09:36:00,"Then again, HD has some tremendous advantages that would be tough for a company like AMZN to replicate.",0.5361582040786743,0.02494237571954727,0.438899427652359,positive,0.5112158060073853
+25,2017-04-03 09:36:00,"One is the massive supply chain that can manage over 1 million SKUs, which are often large items.",0.060662027448415756,0.006994860712438822,0.9323431253433228,neutral,0.05366716533899307
+26,2017-04-03 09:36:00,"But of course, HD has the leverage of its footprint - about 2,278 locations - to allow customers for convenient pick-ups or deliveries.",0.49887606501579285,0.010243508033454418,0.49088039994239807,positive,0.48863255977630615
+27,2017-04-03 09:36:00,Note that 45% of online orders involve store visits.,0.013584145344793797,0.026809504255652428,0.9596063494682312,neutral,-0.013225358910858631
+28,2017-04-03 09:36:00,"HD calls this the ""interconnected retail strategy.""",0.15177564322948456,0.006043675821274519,0.8421806693077087,neutral,0.14573197066783905
+29,2017-04-03 09:36:00,"Oh, and the company has the benefit of strong cash flows, which are expected to hit about $11.3 billion this year.",0.9315834641456604,0.016080958768725395,0.052335578948259354,positive,0.9155024886131287
+30,2017-04-03 09:36:00,"In other words, Home Depot has more than enough resources to make aggressive investments in R&D and IT infrastructure as well as engage in aggressive marketing on digital channels like Pinterest and Facebook Inc (NASDAQ: FB ).",0.8758689165115356,0.011790864169597626,0.11234017461538315,positive,0.8640780448913574
+31,2017-04-03 09:36:00,"InvestorPlace.com's Richard Saintvilus recently set out the key factors for HD stock, writing: ""Unlike Macy's and Sears Holdings Corp (NASDAQ: SHLD ), which continue to suffer at the hands of Amazon.com, Inc., HD stock only has to worry about two things: Rival Lowe's Companies, Inc. (NYSE: LOW ) and the housing market.",0.03263101354241371,0.3935820758342743,0.5737869143486023,neutral,-0.3609510660171509
+32,2017-04-03 09:36:00,"That is, of course, until Amazon figures out it can package lumber and drywall with free two-day shipping.""",0.4137798845767975,0.010295184329152107,0.5759249329566956,neutral,0.4034847021102905
+33,2017-04-03 09:36:00,"• Why Qualcomm, Inc. (QCOM) Stock Can't Pick Itself Up Anytime Soon
+
+The good news for Home Depot stock is that the macro environment still looks healthy, even if there will likely be more increases in interest rates from the Federal Reserve.",0.8141892552375793,0.02547467313706875,0.16033613681793213,positive,0.788714587688446
+34,2017-04-03 09:36:00,"But more importantly, the company still has lots of runway left for growth.",0.6471307277679443,0.012855212204158306,0.3400140702724457,positive,0.634275496006012
+35,2017-04-03 09:36:00,"After all, HD has only about 15% of the market in the U.S. - with the total size at a whopping $550 billion.",0.016391607001423836,0.1679227352142334,0.8156856894493103,neutral,-0.1515311300754547
+36,2017-04-03 09:36:00,"Tom Taulli runs the InvestorPlace blogIPO Playbook and is the author of various books, including Taxes 2017: Saving A Bundle.",0.053270123898983,0.015630366280674934,0.931099534034729,neutral,0.03763975948095322
+37,2017-04-03 09:36:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+38,2017-04-03 09:36:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+39,2017-04-03 09:36:00,"• 7 'Best of the Best' Stocks to Buy for the Second Quarter
+• The 10 Cheapest Vanguard Funds on the Market
+• Apple Inc. (AAPL) Will Develop Its Own iPhone Graphics Chip
+
+The post Home Depot Inc (HD) Stock Is … An E-Commerce Play?",0.2087152749300003,0.06844238936901093,0.722842276096344,neutral,0.14027288556098938
+40,2017-04-03 09:36:00,appeared first on InvestorPlace .,0.062324922531843185,0.015836404636502266,0.921838641166687,neutral,0.04648851603269577
+41,2017-04-03 09:36:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

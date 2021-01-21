@@ -1,0 +1,47 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-12 06:16:00,"Investors all over the world have been discovering Chinese stocks this year, and why not?",0.1938263475894928,0.012609296478331089,0.7935643792152405,neutral,0.1812170445919037
+1,2017-12-12 06:16:00,"The leading Chinese tech companies, Alibaba , Tencent , Baidu , and JD.com have all been on incredible runs.",0.8933192491531372,0.023058578372001648,0.08362220227718353,positive,0.8702606558799744
+2,2017-12-12 06:16:00,The Chinese e-commerce industry is booming as much of the country's 1.3 billion citizens are now just entering the middle class and companies from outside China have had a hard time competing thanks to Chinese regluations.,0.08703939616680145,0.721649706363678,0.19131089746952057,negative,-0.6346102952957153
+3,2017-12-12 06:16:00,"However, there is a whole other part of the Chinese tech industry that is still underdeveloped: enterprise software, which is software used by businesses.",0.02248537726700306,0.10460667312145233,0.8729079365730286,neutral,-0.08212129771709442
+4,2017-12-12 06:16:00,But that may be about to change.,0.09506522864103317,0.10165563970804214,0.8032791614532471,neutral,-0.006590411067008972
+5,2017-12-12 06:16:00,"While the aforementioned Chinese tech giants are the equivalent of the American FANG stocks , China does not have an equivalent to Oracle or Salesforce as of yet.",0.01372505072504282,0.025518318638205528,0.9607565999031067,neutral,-0.011793267913162708
+6,2017-12-12 06:16:00,"In fact, according to Forrester , as reported by The Wall Street Journal , Chinese companies spent less than 10% of what U.S. companies spent on enterprise software in 2016, despite having four times the population.",0.017989324405789375,0.9117715954780579,0.07023908197879791,negative,-0.8937822580337524
+7,2017-12-12 06:16:00,Pundits see a rising opportunity as could computing makes for a more attractive option than piracy.,0.7778960466384888,0.03161261975765228,0.19049133360385895,positive,0.7462834119796753
+8,2017-12-12 06:16:00,"Moreover, subscription-based enterprise software companies can make for wonderful businesses, so whichever Chinese start-up eventually breaks through could well become the Chinese version of, say, Microsoft .",0.20892736315727234,0.009250830858945847,0.7818217873573303,neutral,0.1996765285730362
+9,2017-12-12 06:16:00,"A recent article by The Wall Street Journal [subscription required] highlighted one name that could potentially make waves in the future: ZhuiYi Technology Co.
+
+ZhuiYi was founded just a year and a half ago by a group of former Tencent computer programmers and it's already making waves in the field of chatbots.",0.1314171552658081,0.023217545822262764,0.8453652858734131,neutral,0.10819961130619049
+10,2017-12-12 06:16:00,"Software-based chatbots use artificial intelligence and natural language processing to answer basic (or even not-so-basic) questions from customers, essentially allowing businesses to replace or reduce the number of customer service representatives needed.",0.05073130875825882,0.6782212257385254,0.271047443151474,negative,-0.6274899244308472
+11,2017-12-12 06:16:00,"Chatbots could even move into a conversational advertising role in the future, based on whom they are speaking with, and what is being discussed.",0.06490213423967361,0.00610476266592741,0.9289931058883667,neutral,0.05879737064242363
+12,2017-12-12 06:16:00,"According to The Wall Street Journal , ZhuiYi's chatbot product, YiBot, won against IBM 's Watson for China Merchants Bank Co. recently.",0.9083425402641296,0.0545433945953846,0.03711409494280815,positive,0.8537991642951965
+13,2017-12-12 06:16:00,"ZhuiYi also counts Ctrip.com International , China's largest online travel site, and Didi Chuxing, China's largest ride-hailing service, as clients.",0.18837283551692963,0.006112390197813511,0.8055147528648376,neutral,0.1822604387998581
+14,2017-12-12 06:16:00,"So, for investors looking to familiarize themselves with the next big wave of Chinese tech companies before they go public, ZhuiYi is one to watch.",0.23551613092422485,0.01200749073177576,0.7524763345718384,neutral,0.22350864112377167
+15,2017-12-12 06:16:00,"Zhuiyi received $21 million in series B funding in November, according to The Wall Street Journal .",0.2468470335006714,0.0073792594484984875,0.7457736730575562,neutral,0.2394677698612213
+16,2017-12-12 06:16:00,That would be the company's second round of raising money from venture capitalists.,0.4275389313697815,0.009415587410330772,0.5630455017089844,neutral,0.418123334646225
+17,2017-12-12 06:16:00,"Of course, ZhuiYi is very young, and the aforementioned tech giants could start offering their own competing chatbots.",0.11830122768878937,0.008886495605111122,0.8728122115135193,neutral,0.1094147339463234
+18,2017-12-12 06:16:00,"These companies are already developing their cloud infrastructure services, with Alibaba's cloud revenues doubling year over year , so developing enterprise software, as both Amazon , and Microsoft do, could be a logical next step for these Chinese infrastructure giants.",0.7939385175704956,0.012616034597158432,0.19344548881053925,positive,0.7813224792480469
+19,2017-12-12 06:16:00,"However, after Microsoft's chatbot Tay went on a racist rampage in 2016, CEO Satya Nadella admitted, ""The complexity is too much.",0.042954087257385254,0.858139157295227,0.09890677779912949,negative,-0.8151850700378418
+20,2017-12-12 06:16:00,"We need to tame it [bots].""",0.10167963802814484,0.5616171360015869,0.33670327067375183,negative,-0.45993751287460327
+21,2017-12-12 06:16:00,"Microsoft's Chinese chatbot, XiaoBing, also went off the rails this summer, and was reportedly pulled by Tencent after it said, ""My China dream is to go to America.""",0.04608289524912834,0.8458249568939209,0.10809211432933807,negative,-0.7997420430183411
+22,2017-12-12 06:16:00,"So, it appears that chatbots are tricky, even for the largest enterprise software companies, to get right.",0.06837914884090424,0.14649982750415802,0.7851210236549377,neutral,-0.07812067866325378
+23,2017-12-12 06:16:00,"If ZhuiYi has figured out a way to build a high-performing bot for the Chinese market, the opportunity could be large indeed.",0.9002980589866638,0.014464684762060642,0.0852373018860817,positive,0.8858333826065063
+24,2017-12-12 06:16:00,Keep your eyes peeled on this space.,0.04763399809598923,0.008829998783767223,0.9435360431671143,neutral,0.03880399838089943
+25,2017-12-12 06:16:00,"10 stocks we like better than Wal-Mart
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.15246878564357758,0.0312394667416811,0.8162918090820312,neutral,0.12122932076454163
+26,2017-12-12 06:16:00,"After all, the newsletter they have run for over a decade, the Motley Fool Stock Advisor, has tripled the market.",0.40675050020217896,0.06611427664756775,0.5271351933479309,neutral,0.3406362235546112
+27,2017-12-12 06:16:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Wal-Mart wasn't one of them!",0.2065739929676056,0.015116268768906593,0.7783097624778748,neutral,0.19145771861076355
+28,2017-12-12 06:16:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+29,2017-12-12 06:16:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+30,2017-12-12 06:16:00,The author(s) may have a position in any stocks mentioned.,0.01635848730802536,0.007312573958188295,0.9763289093971252,neutral,0.009045913815498352
+31,2017-12-12 06:16:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+32,2017-12-12 06:16:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+33,2017-12-12 06:16:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+34,2017-12-12 06:16:00,"Billy Duberstein owns shares of Alibaba, Amazon, IBM, Tencent, and Microsoft.",0.02024652063846588,0.009631899185478687,0.9701215624809265,neutral,0.010614621452987194
+35,2017-12-12 06:16:00,"The Motley Fool owns shares of and recommends Amazon, Baidu, and JD.com.",0.034737762063741684,0.024299928918480873,0.9409623742103577,neutral,0.01043783314526081
+36,2017-12-12 06:16:00,The Motley Fool owns shares of Oracle.,0.03999162092804909,0.028421049937605858,0.9315873980522156,neutral,0.01157057099044323
+37,2017-12-12 06:16:00,The Motley Fool recommends Ctrip.com International and Salesforce.com.,0.019319243729114532,0.024325981736183167,0.9563547372817993,neutral,-0.005006738007068634
+38,2017-12-12 06:16:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+39,2017-12-12 06:16:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

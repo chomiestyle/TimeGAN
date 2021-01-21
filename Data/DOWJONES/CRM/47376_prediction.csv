@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-11 23:05:00,"Cloud storage start-up Dropbox filed its S-1 Registration Statement late last month , sharing details of its business with prospective investors for the first time.",0.11005731672048569,0.006608016788959503,0.8833346962928772,neutral,0.10344929993152618
+1,2018-03-11 23:05:00,"The company has just filed its first amended S-1 this morning, which includes a few important changes.",0.021212009713053703,0.00996579509228468,0.968822181224823,neutral,0.011246214620769024
+2,2018-03-11 23:05:00,It's common for initial S-1 filings to omit some information to be filled in at a later date.,0.014915638603270054,0.15527482330799103,0.8298095464706421,neutral,-0.14035917818546295
+3,2018-03-11 23:05:00,Here are three significant revelations from the filing.,0.01582745835185051,0.015022475272417068,0.9691500067710876,neutral,0.0008049830794334412
+4,2018-03-11 23:05:00,"For starters, Dropbox now expects its IPO to be priced at $16 to $18 per share and plans to sell 26.8 million Class A shares in the offering.",0.07056746631860733,0.004633888136595488,0.9247986674308777,neutral,0.06593357771635056
+5,2018-03-11 23:05:00,"Additionally, insiders and early investors will be selling 9.2 million shares.",0.017555827274918556,0.016406990587711334,0.9660371541976929,neutral,0.001148836687207222
+6,2018-03-11 23:05:00,"Underwriters will have an option to purchase up to 5.4 million more shares, depending on investor demand.",0.07801112532615662,0.004494588356465101,0.9174942970275879,neutral,0.07351654022932053
+7,2018-03-11 23:05:00,"With 393 million total shares outstanding (across all share classes) expected after the offering, that price range translates into a total valuation of $6.3 billion to $7.1 billion, which is notably below Dropbox's most recent private valuation.",0.12093943357467651,0.7101379632949829,0.1689225137233734,negative,-0.5891985297203064
+8,2018-03-11 23:05:00,"The company was valued at $10 billion in a 2014 funding round that raised $350 million, meaning the IPO will be a downround, which is when a company raises money at a lower valuation than the prior funding round.",0.07751341909170151,0.5312110185623169,0.3912754952907562,negative,-0.4536975920200348
+9,2018-03-11 23:05:00,Dropbox also discloses that tech giant salesforce.com (NYSE: CRM) has agreed to buy $100 million worth of stock in a private placement that will close immediately after the IPO.,0.4243415296077728,0.011228049173951149,0.5644304156303406,neutral,0.41311347484588623
+10,2018-03-11 23:05:00,"Through its venture arm Salesforce Ventures, Salesforce will buy the Class A shares at the same price as the IPO.",0.12164119631052017,0.0047884234227240086,0.8735703825950623,neutral,0.1168527752161026
+11,2018-03-11 23:05:00,"Based on the midpoint of the current expected range ($17), that would translate into 5.9 million shares.",0.06822843849658966,0.005903058685362339,0.925868570804596,neutral,0.062325380742549896
+12,2018-03-11 23:05:00,"Since it will be a private placement, Dropbox won't have to pay underwriting discounts or commissions like it will have to for the IPO, and the private placement is contingent upon the completion of the IPO, according to the filing.",0.027307355776429176,0.012853018008172512,0.9598396420478821,neutral,0.014454337768256664
+13,2018-03-11 23:05:00,"Salesforce in an important partner for Dropbox, integrating directly into its platform.",0.7403580546379089,0.011149655096232891,0.2484922707080841,positive,0.7292084097862244
+14,2018-03-11 23:05:00,"Just days ago, the companies announced they were expanding their strategic partnership to allow even deeper integration of their respective platforms.",0.9256969094276428,0.014767355285584927,0.059535663574934006,positive,0.9109295606613159
+15,2018-03-11 23:05:00,The amended filing also includes new details regarding how much stock insiders and early investors are planning to sell in the offering.,0.013535220175981522,0.011687668040394783,0.974777102470398,neutral,0.0018475521355867386
+16,2018-03-11 23:05:00,Co-founders Drew Houston and Arash Ferdowsi are each selling 2.3 million shares.,0.01821419782936573,0.007397455628961325,0.9743883609771729,neutral,0.010816741734743118
+17,2018-03-11 23:05:00,"These shares will come out of their Class B holdings, which automatically convert to Class A to be sold.",0.0346030555665493,0.005545885767787695,0.959851086139679,neutral,0.02905716933310032
+18,2018-03-11 23:05:00,"Early investor Hadi Partovi is planning on selling 3.5 million shares, which represents his entire position in the company.",0.03134489804506302,0.005864360835403204,0.9627907276153564,neutral,0.025480536743998528
+19,2018-03-11 23:05:00,"Former employees Sujay Jaswa, Aditya Agarwal, and Rian Hunter are selling approximately 950,000 shares combined.",0.009484075009822845,0.02971743606030941,0.9607985019683838,neutral,-0.020233361050486565
+20,2018-03-11 23:05:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+21,2018-03-11 23:05:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+22,2018-03-11 23:05:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+23,2018-03-11 23:05:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+24,2018-03-11 23:05:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+25,2018-03-11 23:05:00,"Evan Niu, CFA has no position in any of the stocks mentioned.",0.010995765216648579,0.07130078971385956,0.9177034497261047,neutral,-0.060305025428533554
+26,2018-03-11 23:05:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+27,2018-03-11 23:05:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+28,2018-03-11 23:05:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

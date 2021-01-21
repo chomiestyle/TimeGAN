@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-19 08:43:00,"Highly anticipated earnings reports from mega-retailers Walmart (NYSE: WMT) and Home Depot (NYSE: HD) came on Tuesday morning, but strong sales trends from both companies failed to drive a rally for the Dow Jones Industrial Average (DJINDICES: ^DJI).",0.20609360933303833,0.7597841620445251,0.03412226587533951,negative,-0.5536905527114868
+1,2020-05-19 08:43:00,The Dow was down about 0.1% at 11:50 a.m. EDT today.,0.019596295431256294,0.965216875076294,0.015186765231192112,negative,-0.945620596408844
+2,2020-05-19 08:43:00,"Walmart stock managed a small gain after the company reported revenue and earnings that easily beat expectations, while Home Depot shares slipped due to heavy costs related to the pandemic.",0.10095656663179398,0.8787174820899963,0.020325955003499985,negative,-0.777760922908783
+3,2020-05-19 08:43:00,Both retailers pulled their outlooks for the full year.,0.029268648475408554,0.7948651909828186,0.17586618661880493,negative,-0.7655965685844421
+4,2020-05-19 08:43:00,"While many retailers were hit hard by the pandemic during the first quarter, Walmart's place as the top seller of groceries in the U.S. led to some spectacular results.",0.9461090564727783,0.02141953445971012,0.03247133642435074,positive,0.924689531326294
+5,2020-05-19 08:43:00,"Total sales jumped 8.6% to $134.6 billion, handily beating analyst estimates by $3.7 billion.",0.9512655735015869,0.02507767826318741,0.023656779900193214,positive,0.9261878728866577
+6,2020-05-19 08:43:00,"Comparable-store sales in the U.S. soared 10%, driven by strong demand for food, consumables, and health and wellness products.",0.9499738216400146,0.020006917417049408,0.030019257217645645,positive,0.929966926574707
+7,2020-05-19 08:43:00,"The e-commerce business was on fire during the first quarter, posting 74% sales growth.",0.9383530616760254,0.022041060030460358,0.039605800062417984,positive,0.9163119792938232
+8,2020-05-19 08:43:00,"Grocery pickup and delivery was a key component of that growth, along with nongrocery products on Walmart.com.",0.23647841811180115,0.009166997857391834,0.7543545365333557,neutral,0.2273114174604416
+9,2020-05-19 08:43:00,"With the Walmart.com brand performing well, the company is discontinuing Jet.com.",0.04164469987154007,0.19823230803012848,0.7601230144500732,neutral,-0.1565876007080078
+10,2020-05-19 08:43:00,"Walmart acquired Jet in 2016 to accelerate its e-commerce efforts, although it's already been de-emphasizing the brand.",0.8211904168128967,0.01524942833930254,0.16356007754802704,positive,0.8059409856796265
+11,2020-05-19 08:43:00,"Walmart reported adjusted earnings per share of $1.18, up from $1.13 in the prior-year period and $0.09 better than analysts were expecting.",0.9544973969459534,0.02662472240626812,0.018877876922488213,positive,0.9278726577758789
+12,2020-05-19 08:43:00,The company said that costs related to the pandemic totaled nearly $900 million during the quarter.,0.09364939481019974,0.0329316221177578,0.8734190464019775,neutral,0.06071777269244194
+13,2020-05-19 08:43:00,"While Walmart's first-quarter results were exceptionally strong, it's unclear how long the bonanza will last.",0.7573443055152893,0.021467430517077446,0.2211882621049881,positive,0.7358768582344055
+14,2020-05-19 08:43:00,"Consumers stocked up on the essentials during the early stages of the pandemic, but that behavior is now likely fading as the economy begins to open back up.",0.1502002328634262,0.19015668332576752,0.6596431136131287,neutral,-0.03995645046234131
+15,2020-05-19 08:43:00,"Walmart withdrew its full-year guidance, as there are simply too many variables to accurately predict anything about the quarters ahead.",0.018772289156913757,0.9152330756187439,0.06599465012550354,negative,-0.896460771560669
+16,2020-05-19 08:43:00,"With the U.S. likely already in a recession, the severity and duration of which are unknown at this point, Walmart's results for the rest of the year are unlikely to match those of the first quarter.",0.03263857215642929,0.8515990376472473,0.11576232314109802,negative,-0.8189604878425598
+17,2020-05-19 08:43:00,But the company's focus on providing rock-bottom prices for consumers puts it in a better position to weather the storm than most other retailers.,0.9098830819129944,0.019857317209243774,0.07025962322950363,positive,0.8900257349014282
+18,2020-05-19 08:43:00,Shares of Walmart were up about 0.8% by late Tuesday morning.,0.9267797470092773,0.01971413753926754,0.053506046533584595,positive,0.9070656299591064
+19,2020-05-19 08:43:00,The stock is now just 3.7% below its 52-week high.,0.02379775606095791,0.9515737891197205,0.02462853491306305,negative,-0.927776038646698
+20,2020-05-19 08:43:00,"Home improvement retailer Home Depot saw solid demand in the first quarter, but earnings took a hit from the pandemic.",0.2552528977394104,0.7065364718437195,0.038210585713386536,negative,-0.4512835741043091
+21,2020-05-19 08:43:00,"Sales were up 7.1% to $28.3 billion, ahead of analyst estimates by $690 million.",0.9488690495491028,0.026345906779170036,0.024785006418824196,positive,0.9225231409072876
+22,2020-05-19 08:43:00,"Comps jumped 6.4%, with U.S. comps rising 7.5%.",0.9280351400375366,0.029307520017027855,0.0426572822034359,positive,0.8987275958061218
+23,2020-05-19 08:43:00,The bottom line was a different story.,0.03326386585831642,0.03135978430509567,0.9353764057159424,neutral,0.001904081553220749
+24,2020-05-19 08:43:00,"Home Depot took a $640 million after-tax hit due to its response to the pandemic, which included expanded paid time off for hourly employees, weekly bonuses, and extended dependent-care benefits.",0.06492339074611664,0.9060544371604919,0.02902224101126194,negative,-0.8411310315132141
+25,2020-05-19 08:43:00,"Earnings per share came in at $2.08, down from $2.27 in the prior-year period and $0.18 below analyst expectations.",0.01915954425930977,0.9715976715087891,0.009242878295481205,negative,-0.9524381160736084
+26,2020-05-19 08:43:00,"Like Walmart, Home Depot is suspending its guidance for the full year.",0.01587148942053318,0.8831633925437927,0.10096517205238342,negative,-0.8672919273376465
+27,2020-05-19 08:43:00,"The company said that sales trends were strong in the first two weeks of the fiscal second quarter, but uncertainty related to the pandemic required the guidance to be pulled.",0.06405451148748398,0.8370209336280823,0.09892455488443375,negative,-0.7729664444923401
+28,2020-05-19 08:43:00,"Home Depot may be experiencing a surge in demand from those stuck at home undertaking do-it-yourself projects, but how that demand will evolve during a deep recession is unclear.",0.6679227352142334,0.05409489572048187,0.27798235416412354,positive,0.6138278245925903
+29,2020-05-19 08:43:00,Home Depot stock was down 1.7% by late Tuesday morning.,0.018994253128767014,0.959291398525238,0.02171430177986622,negative,-0.9402971267700195
+30,2020-05-19 08:43:00,Shares are just 2.7% below their 52-week high.,0.020968394353985786,0.961039125919342,0.01799236796796322,negative,-0.9400707483291626
+31,2020-05-19 08:43:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+32,2020-05-19 08:43:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+33,2020-05-19 08:43:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+34,2020-05-19 08:43:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2020-05-19 08:43:00,Timothy Green has no position in any of the stocks mentioned.,0.010180004872381687,0.0389644093811512,0.9508556127548218,neutral,-0.028784405440092087
+36,2020-05-19 08:43:00,The Motley Fool owns shares of and recommends Home Depot and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.019543547183275223,0.019150106236338615,0.9613063335418701,neutral,0.00039344094693660736
+37,2020-05-19 08:43:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

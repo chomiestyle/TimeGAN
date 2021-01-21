@@ -1,0 +1,17 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-07-10 11:24:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Okta Inc (Symbol: OKTA), where a total volume of 9,680 contracts has been traded thus far today, a contract volume which is representative of approximately 968,000 underlying shares (given that every 1 contract represents 100 underlying shares).",0.03593754023313522,0.012420384213328362,0.9516420960426331,neutral,0.023517156019806862
+1,2019-07-10 11:24:00,"That number works out to 48.1% of OKTA's average daily trading volume over the past month, of 2.0 million shares.",0.6529574990272522,0.020163845270872116,0.3268786668777466,positive,0.632793664932251
+2,2019-07-10 11:24:00,"Particularly high volume was seen for the $100 strike put option expiring January 17, 2020, with 1,000 contracts trading so far today, representing approximately 100,000 underlying shares of OKTA.",0.18600261211395264,0.010241709649562836,0.8037557005882263,neutral,0.1757608950138092
+3,2019-07-10 11:24:00,"Below is a chart showing OKTA's trailing twelve month trading history, with the $100 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) saw options trading volume of 32,583 contracts, representing approximately 3.3 million underlying shares or approximately 48% of CRM's average daily trading volume over the past month, of 6.8 million shares.",0.02100379206240177,0.012388546019792557,0.9666076898574829,neutral,0.008615246042609215
+4,2019-07-10 11:24:00,"Especially high volume was seen for the $155 strike call option expiring July 12, 2019, with 3,627 contracts trading so far today, representing approximately 362,700 underlying shares of CRM.",0.28362300992012024,0.011989285238087177,0.7043877243995667,neutral,0.27163371443748474
+5,2019-07-10 11:24:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $155 strike highlighted in orange:
+
+And Autodesk Inc (Symbol: ADSK) options are showing a volume of 8,716 contracts thus far today.",0.01744159311056137,0.03876487910747528,0.943793535232544,neutral,-0.02132328599691391
+6,2019-07-10 11:24:00,"That number of contracts represents approximately 871,600 underlying shares, working out to a sizeable 46.8% of ADSK's average daily trading volume over the past month, of 1.9 million shares.",0.12169606238603592,0.009433277882635593,0.8688706159591675,neutral,0.1122627854347229
+7,2019-07-10 11:24:00,"Particularly high volume was seen for the $170 strike put option expiring July 12, 2019, with 735 contracts trading so far today, representing approximately 73,500 underlying shares of ADSK.",0.17253509163856506,0.00998549535870552,0.8174794316291809,neutral,0.16254960000514984
+8,2019-07-10 11:24:00,"Below is a chart showing ADSK's trailing twelve month trading history, with the $170 strike highlighted in orange:
+
+For the various different available expirations for OKTA options, CRM options, or ADSK options, visit StockOptionsChannel.com.",0.009750590659677982,0.028734976425766945,0.9615144729614258,neutral,-0.018984384834766388
+9,2019-07-10 11:24:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

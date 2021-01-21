@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-27 22:08:00,"Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel , we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",0.0258023664355278,0.0078038182109594345,0.9663938879966736,neutral,0.017998548224568367
+1,2018-05-27 22:08:00,"For the PowerShares S&P 500 ex-Rate Sensitive Low Volatility Portfolio ETF (Symbol: XRLV), we found that the implied analyst target price for the ETF based upon its underlying holdings is $37.69 per unit.",0.03334195539355278,0.00655029434710741,0.9601077437400818,neutral,0.026791661977767944
+2,2018-05-27 22:08:00,"With XRLV trading at a recent price near $34.21 per unit, that means that analysts see 10.19% upside for this ETF looking through to the average analyst targets of the underlying holdings.",0.7053106427192688,0.030221479013562202,0.26446789503097534,positive,0.6750891804695129
+3,2018-05-27 22:08:00,"Three of XRLV's underlying holdings with notable upside to their analyst target prices are AMETEK Inc (Symbol: AME), Exxon Mobil Corp (Symbol: XOM), and Home Depot Inc (Symbol: HD).",0.07801459729671478,0.008333356119692326,0.9136520624160767,neutral,0.06968124210834503
+4,2018-05-27 22:08:00,"Although AME has traded at a recent price of $75.09/share, the average analyst target is 13.32% higher at $85.09/share.",0.2575683295726776,0.05807356908917427,0.6843580603599548,neutral,0.19949476420879364
+5,2018-05-27 22:08:00,"Similarly, XOM has 12.06% upside from the recent share price of $78.71 if the average analyst target price of $88.20/share is reached, and analysts on average are expecting HD to reach a target price of $208.48/share, which is 11.57% above the recent price of $186.85.",0.894814133644104,0.0194243136793375,0.08576152473688126,positive,0.875389814376831
+6,2018-05-27 22:08:00,"Below is a twelve month price history chart comparing the stock performance of AME, XOM, and HD:
+
+Below is a summary table of the current analyst target prices discussed above:
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now?",0.02049843780696392,0.10753665119409561,0.8719649314880371,neutral,-0.08703821152448654
+7,2018-05-27 22:08:00,"Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments?",0.05164404958486557,0.013284869492053986,0.9350711107254028,neutral,0.038359180092811584
+8,2018-05-27 22:08:00,"A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past.",0.16977764666080475,0.0406530387699604,0.7895692586898804,neutral,0.12912461161613464
+9,2018-05-27 22:08:00,These are questions that require further investor research.,0.03949739784002304,0.026686131954193115,0.9338164925575256,neutral,0.012811265885829926
+10,2018-05-27 22:08:00,"10 ETFs With Most Upside To Analyst Targets »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010627641342580318,0.014856908470392227,0.9745154976844788,neutral,-0.004229267127811909

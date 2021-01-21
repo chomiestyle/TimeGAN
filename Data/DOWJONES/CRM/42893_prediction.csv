@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-05-14 12:42:00,"Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Avis Budget Group Inc (Symbol: CAR), where a total of 29,897 contracts have traded so far, representing approximately 3.0 million underlying shares.",0.5820965766906738,0.02665705978870392,0.3912462890148163,positive,0.5554395318031311
+1,2020-05-14 12:42:00,That amounts to about 45.3% of CAR's average daily trading volume over the past month of 6.6 million shares.,0.01979672536253929,0.011752068996429443,0.968451201915741,neutral,0.008044656366109848
+2,2020-05-14 12:42:00,"Particularly high volume was seen for the $8 strike put option expiring August 21, 2020, with 11,107 contracts trading so far today, representing approximately 1.1 million underlying shares of CAR.",0.19234371185302734,0.009105122648179531,0.7985511422157288,neutral,0.18323859572410583
+3,2020-05-14 12:42:00,"Below is a chart showing CAR's trailing twelve month trading history, with the $8 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) saw options trading volume of 29,279 contracts, representing approximately 2.9 million underlying shares or approximately 45% of CRM's average daily trading volume over the past month, of 6.5 million shares.",0.01896788366138935,0.015411337837576866,0.965620756149292,neutral,0.0035565458238124847
+4,2020-05-14 12:42:00,"Particularly high volume was seen for the $170 strike put option expiring May 15, 2020, with 3,161 contracts trading so far today, representing approximately 316,100 underlying shares of CRM.",0.18889519572257996,0.010145573876798153,0.8009592294692993,neutral,0.17874962091445923
+5,2020-05-14 12:42:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $170 strike highlighted in orange:
+
+And Adobe Inc (Symbol: ADBE) saw options trading volume of 12,875 contracts, representing approximately 1.3 million underlying shares or approximately 44.7% of ADBE's average daily trading volume over the past month, of 2.9 million shares.",0.01880628615617752,0.014210425317287445,0.9669832587242126,neutral,0.004595860838890076
+6,2020-05-14 12:42:00,"Especially high volume was seen for the $350 strike put option expiring May 15, 2020, with 718 contracts trading so far today, representing approximately 71,800 underlying shares of ADBE.",0.16037820279598236,0.009703468531370163,0.8299183249473572,neutral,0.1506747305393219
+7,2020-05-14 12:42:00,"Below is a chart showing ADBE's trailing twelve month trading history, with the $350 strike highlighted in orange:
+
+For the various different available expirations for CAR options, CRM options, or ADBE options, visit StockOptionsChannel.com.",0.009629858657717705,0.03073233552277088,0.9596378207206726,neutral,-0.021102476865053177
+8,2020-05-14 12:42:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

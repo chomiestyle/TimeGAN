@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-28 08:53:00,Markets are on edge.,0.31171104311943054,0.26971307396888733,0.4185759127140045,neutral,0.04199796915054321
+1,2018-11-28 08:53:00,"Even though the macro economy is still favorable for bulls, investors are shy about buying stocks up these days.",0.09187979996204376,0.24396663904190063,0.6641535758972168,neutral,-0.15208683907985687
+2,2018-11-28 08:53:00,"In the past three months, The Nasdaq PowerShares QQQ Trust (NASDAQ: QQQ ) is down 11% this on good earnings reports.",0.018920160830020905,0.9704288244247437,0.010651043616235256,negative,-0.951508641242981
+3,2018-11-28 08:53:00,The lack of buying resulted in an imbalance that favored the sellers who prevailed to launch another correction that has lingered since October.,0.06495527923107147,0.8899732828140259,0.045071445405483246,negative,-0.8250179886817932
+4,2018-11-28 08:53:00,"But Cisco (NASDAQ: CSCO ) stock has stood strong, while the mighty have fallen - Apple (NASDAQ: AAPL ) and Amazon (NADAQ: AMZN ) are down 20% in three months.",0.01868932880461216,0.967836320400238,0.013474277220666409,negative,-0.9491469860076904
+5,2018-11-28 08:53:00,Momentum stocks like Netflix (NASDAQ: NFLX ) and Facebook (NASDAQ: FB ) fell harder still.,0.05239075794816017,0.9105996489524841,0.037009596824645996,negative,-0.8582088947296143
+6,2018-11-28 08:53:00,"In contrast, CSCO stock is actually flattish for the same period and up 3.5% in a month.",0.9179033041000366,0.027195822447538376,0.05490098521113396,positive,0.8907074928283691
+7,2018-11-28 08:53:00,"Year-to-date, Cisco is still up 20%.",0.942889392375946,0.020227158442139626,0.03688346594572067,positive,0.9226622581481934
+8,2018-11-28 08:53:00,2018 hasn't been all gloom.,0.038771580904722214,0.01949753239750862,0.9417308568954468,neutral,0.019274048507213593
+9,2018-11-28 08:53:00,"We have had new highs in many mega-caps, but most have fallen far from them.",0.06914358586072922,0.7524985074996948,0.17835794389247894,negative,-0.683354914188385
+10,2018-11-28 08:53:00,Facebook (NASDAQ: FB ) is now 35% off its July highs.,0.021145474165678024,0.9573528170585632,0.021501664072275162,negative,-0.9362073540687561
+11,2018-11-28 08:53:00,"CSCO on the other hand held on pretty well, only down 6% from the highs that it set in October.",0.021786317229270935,0.9659201502799988,0.01229346077889204,negative,-0.9441338181495667
+12,2018-11-28 08:53:00,It hasn't been all smooth sailing though.,0.055803705006837845,0.01815207675099373,0.926044225692749,neutral,0.037651628255844116
+13,2018-11-28 08:53:00,The stock price action has been violent but within a range.,0.06922397017478943,0.7606094479560852,0.17016662657260895,negative,-0.6913855075836182
+14,2018-11-28 08:53:00,It has established a 10-month-old period of consolidation.,0.8852842450141907,0.019360195845365524,0.09535554051399231,positive,0.865924060344696
+15,2018-11-28 08:53:00,"This acts as strong support if the markets get tested again into 2019, so the bulls have a good base from which they can work upwards.",0.8489561676979065,0.012884099967777729,0.13815969228744507,positive,0.8360720872879028
+16,2018-11-28 08:53:00,"• 10 Tech Stocks to Buy Now for 2025
+
+This year, investors have been hostage to headlines about tariff wars between China and the United States.",0.13365063071250916,0.6703620553016663,0.1959872543811798,negative,-0.5367114543914795
+17,2018-11-28 08:53:00,"Soon enough and starting at the G20 meetings, we will have the start of a resolution to this conflict.",0.4647201597690582,0.020743928849697113,0.5145358443260193,neutral,0.4439762234687805
+18,2018-11-28 08:53:00,"If the rhetoric is favorable or if they kick the can down the road, stocks will have a relief rally and CSCO stock can continue on its way up.",0.8933646082878113,0.03692430630326271,0.0697110965847969,positive,0.8564403057098389
+19,2018-11-28 08:53:00,The upside is tempting.,0.18718931078910828,0.06624465435743332,0.7465660572052002,neutral,0.12094465643167496
+20,2018-11-28 08:53:00,The first target would be $48 per share.,0.03136434778571129,0.007822454907000065,0.9608131647109985,neutral,0.023541893810033798
+21,2018-11-28 08:53:00,Then above $49 the bulls can take it to $52 per share or higher in the next few months.,0.42644912004470825,0.0363500714302063,0.5372008085250854,neutral,0.39009904861450195
+22,2018-11-28 08:53:00,Another reason for the corrections this year has been the fear that the U.S. Federal Reserve will raise rates too fast next year and crimp the economy.,0.06598323583602905,0.8800359964370728,0.053980711847543716,negative,-0.8140527606010437
+23,2018-11-28 08:53:00,They have the opportunity to invert the yield curve which will make it difficult for banks to lend and that will restrict the flow of money in the economy.,0.05083665996789932,0.6758649945259094,0.27329838275909424,negative,-0.6250283122062683
+24,2018-11-28 08:53:00,The Federal Reserve controls the short-term rates which banks use to borrow money so they can lend long-term.,0.015478625893592834,0.015530555509030819,0.9689908623695374,neutral,-5.1929615437984467e-05
+25,2018-11-28 08:53:00,The inverted yield curve will make this a losing proposition for them so they won't lend.,0.025601746514439583,0.9328625798225403,0.04153573140501976,negative,-0.9072608351707458
+26,2018-11-28 08:53:00,The outlook for Cisco looks good.,0.762749969959259,0.013063879683613777,0.22418613731861115,positive,0.749686062335968
+27,2018-11-28 08:53:00,So far it has been making the turn into the new technology world with skill.,0.7228729724884033,0.013060315512120724,0.2640667259693146,positive,0.7098126411437988
+28,2018-11-28 08:53:00,"All tech now depends heavily on the cloud, and consensus is that this management team is doing a good job.",0.8817915916442871,0.01581658236682415,0.1023918017745018,positive,0.865975022315979
+29,2018-11-28 08:53:00,Fundamentally CSCO stock is relatively cheap as it sells at a 18 price to earnings ratio.,0.20048318803310394,0.008518525399267673,0.7909982800483704,neutral,0.19196465611457825
+30,2018-11-28 08:53:00,Compare that to Salesforce.com (NYSE: CRM ) which sells at 100 P/E.,0.026288211345672607,0.008328302763402462,0.9653834700584412,neutral,0.01795990765094757
+31,2018-11-28 08:53:00,"This is not to say that it cannot get cheaper, but at this level Cisco stock has little froth to lose.",0.08038950711488724,0.05250927805900574,0.86710125207901,neutral,0.0278802290558815
+32,2018-11-28 08:53:00,"So even if the markets decide to correct again, it will fall less than frothier stocks like CRM.",0.05181549862027168,0.9074211716651917,0.040763333439826965,negative,-0.8556056618690491
+33,2018-11-28 08:53:00,I am confident that the leaders of the world will soon come to terms over the current conflicts.,0.832901120185852,0.02777947299182415,0.13931943476200104,positive,0.805121660232544
+34,2018-11-28 08:53:00,Cooler heads will prevail because everybody has too much to lose.,0.18753747642040253,0.14539596438407898,0.6670665740966797,neutral,0.04214151203632355
+35,2018-11-28 08:53:00,U.S. Federal Reserve chairman Jerome Powell will not be purposeful in ruining the economy that they worked so hard to rescue back in 2008.,0.09940288960933685,0.48093318939208984,0.4196638762950897,negative,-0.3815302848815918
+36,2018-11-28 08:53:00,"Likewise presidents Donald Trump and Xi Jinping also have too much to lose, so they will come to terms with a boring deal that allows both sides to save face.",0.7204831838607788,0.09617350995540619,0.1833433210849762,positive,0.6243096590042114
+37,2018-11-28 08:53:00,All this can start to happen as early as today.,0.030704502016305923,0.009509176947176456,0.9597862958908081,neutral,0.02119532600045204
+38,2018-11-28 08:53:00,We will hear from Jerome Powell and traders will be glued to his tone.,0.0788409635424614,0.012227753177285194,0.908931314945221,neutral,0.06661321222782135
+39,2018-11-28 08:53:00,Then the G20 meetings can get stocks a second kick up.,0.5871877670288086,0.04618550464510918,0.36662667989730835,positive,0.5410022735595703
+40,2018-11-28 08:53:00,So in theory we should have a relief rally into year-end.,0.781274676322937,0.03371814265847206,0.185007244348526,positive,0.7475565075874329
+41,2018-11-28 08:53:00,Pundits call it a Santa Claus rally.,0.08326505869626999,0.3158179223537445,0.6009170413017273,neutral,-0.23255285620689392
+42,2018-11-28 08:53:00,"And if so, Cisco stock will be at the head of the pack.",0.13076715171337128,0.010815641842782497,0.858417272567749,neutral,0.1199515089392662
+43,2018-11-28 08:53:00,"If I am long it, I stay long.",0.09697108715772629,0.01783653348684311,0.8851923942565918,neutral,0.07913455367088318
+44,2018-11-28 08:53:00,"Otherwise, I could nibble long knowing that it would withstand a fall better than most stocks.",0.8117565512657166,0.0880516842007637,0.10019176453351974,positive,0.7237048745155334
+45,2018-11-28 08:53:00,This one fits the bill for fundamental investors.,0.06004411727190018,0.004783981014043093,0.935171902179718,neutral,0.05526013672351837
+46,2018-11-28 08:53:00,It has proven management in a good macroeconomic environment with solid technical support below.,0.932166337966919,0.01569870114326477,0.0521349236369133,positive,0.9164676666259766
+47,2018-11-28 08:53:00,This is a risk profile that fits most portfolios.,0.0681973248720169,0.004996353294700384,0.9268062710762024,neutral,0.06320097297430038
+48,2018-11-28 08:53:00,There are no guarantees these days because we are trading in headline mode and we are getting sporadic tweets that move markets.,0.0391644649207592,0.09043598920106888,0.870399534702301,neutral,-0.05127152428030968
+49,2018-11-28 08:53:00,"There may be a few between now and the G20 meetings, so I'm sure we will have our fair share of surprises.",0.1697801798582077,0.01018020510673523,0.8200395703315735,neutral,0.15959997475147247
+50,2018-11-28 08:53:00,But this thesis for CSCO stock is based on solid fundamentals so it's a calculated bet inside a binary short-term environment.,0.44212618470191956,0.015120076946914196,0.5427537560462952,neutral,0.4270060956478119
+51,2018-11-28 08:53:00,"So there is risk, but it is sane.",0.0722494050860405,0.02785569056868553,0.8998948931694031,neutral,0.044393714517354965
+52,2018-11-28 08:53:00,Click here for more of my market thesis and get an ongoing free copy of my weekly newsletters.,0.02293780818581581,0.013258793391287327,0.9638033509254456,neutral,0.009679014794528484
+53,2018-11-28 08:53:00,Nicolas Chahine is the managing director of SellSpreads.com .,0.016307199373841286,0.009209631942212582,0.9744831323623657,neutral,0.007097567431628704
+54,2018-11-28 08:53:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+55,2018-11-28 08:53:00,You can follow him as @racernic on Twitter and Stocktwits .,0.06448652595281601,0.04394840449094772,0.8915650248527527,neutral,0.020538121461868286
+56,2018-11-28 08:53:00,"• 7 Best Stock Charts Going Into 2019
+• 10 Stocks That Are Screaming Buys Right Now
+• 10 Triple-A Stocks to Buy for the Rest of 2018
+
+The post You Can Count on Cisco Stock for More Upside appeared first on InvestorPlace .",0.10599640756845474,0.024849247187376022,0.8691542744636536,neutral,0.08114716410636902
+57,2018-11-28 08:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

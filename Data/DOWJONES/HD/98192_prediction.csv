@@ -1,0 +1,66 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-07-12 02:02:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2017-07-12 02:02:00,"Today's Research Daily features new research reports on 16 major stocks, including Microsoft (MSFT), Wal-Mart (WMT) and Home Depot (HD).",0.03906429931521416,0.009561106562614441,0.9513746500015259,neutral,0.029503192752599716
+2,2017-07-12 02:02:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2017-07-12 02:02:00,"You can see all of today's research reports here >>>
+
+Buy rated Microsoft 's shares lagged the Zacks Tech sector through the fall, but have led the way over the last six months (up +11.7% versus +10.7%) on greater appreciation for the company's reorganization and repositioning.",0.9533529877662659,0.02267724648118019,0.02396983839571476,positive,0.930675745010376
+4,2017-07-12 02:02:00,"The Zacks analyst stresses that Microsoft is benefiting from continuing enterprise strength, strong Office 365 adoption and robust penetration of Azure (the company's cloud offering).",0.9471754431724548,0.015018461272120476,0.03780613839626312,positive,0.9321569800376892
+5,2017-07-12 02:02:00,The recently launched Azure Stack service that allows customers to use Azure from their own servers is likely to provide Microsoft with a competitive edge over its peers.,0.9401030540466309,0.01679976098239422,0.04309713840484619,positive,0.9233033061027527
+6,2017-07-12 02:02:00,"Further, the addition of LinkedIn has improved the company's presence in the social media market.",0.9507415890693665,0.015620103105902672,0.03363821655511856,positive,0.935121476650238
+7,2017-07-12 02:02:00,"All in all, the company has emerged as a leader in the cloud space that promises momentum on a number of fronts.",0.8844789266586304,0.013112128712236881,0.10240884125232697,positive,0.8713667988777161
+8,2017-07-12 02:02:00,(You can read the full research report on Microsoft here >>> ) .,0.015005932189524174,0.014952526427805424,0.9700415730476379,neutral,5.340576171875e-05
+9,2017-07-12 02:02:00,"Shares of Buy rated Wal-Mart have been strong performers lately, with the stock up +9.4% over the last six months, outperforming the S&P 500's +6.8% gain in the same time period.",0.9520841836929321,0.026046250015497208,0.021869545802474022,positive,0.9260379076004028
+10,2017-07-12 02:02:00,"The market's growing appreciation for the company's efforts to build e-commerce capabilities and strengthen the legacy business through improved and expanded product assortment, store cleanliness and an overall pleasant customer experience to drive traffic.",0.9361693263053894,0.015944233164191246,0.04788649454712868,positive,0.9202250838279724
+11,2017-07-12 02:02:00,The positive comps for the last 11 quarters backed by higher traffic are some of the more tangible outcomes of these efforts.,0.7962343096733093,0.013616448268294334,0.1901492029428482,positive,0.7826178669929504
+12,2017-07-12 02:02:00,"The company has been making steady investments in its business, both on the brick-and-mortar side as well as in the e-commerce platform.",0.8965038657188416,0.012225167825818062,0.09127096831798553,positive,0.8842787146568298
+13,2017-07-12 02:02:00,"These are necessary outlays for its long-term competitive positioning, but they nevertheless have bearing on near-term profitability.",0.8716679215431213,0.019296323880553246,0.10903570055961609,positive,0.8523715734481812
+14,2017-07-12 02:02:00,The stock's recent momentum and outperformance relative to others like Target (TGT) suggest that market participants are willing to be patient with management's plans.,0.8881150484085083,0.017663253471255302,0.09422166645526886,positive,0.870451807975769
+15,2017-07-12 02:02:00,(You can read the full research report on Wal-Mart here >>> ) .,0.012953503988683224,0.015396558679640293,0.9716500043869019,neutral,-0.0024430546909570694
+16,2017-07-12 02:02:00,"Buy rated Home Depot 's shares are up +11.5% over the last six months, outperforming the Zacks Retail sector (up +10.5%) and the broader market (S&P 500 up +6.8%) in that same time period.",0.9530549049377441,0.02365758642554283,0.023287488147616386,positive,0.9293973445892334
+17,2017-07-12 02:02:00,"Improving customer experience, solid execution and consistent housing market recovery helped the company post an earnings surprise in first-quarter fiscal 2017, retaining the four-year long trend of beating earnings estimates.",0.9499971866607666,0.028000472113490105,0.022002337500452995,positive,0.9219967126846313
+18,2017-07-12 02:02:00,"The company's relentless focus on offering innovative products, boosting interconnected customer experience and driving productivity seems to be paying off.",0.9154110550880432,0.014481095597147942,0.07010792195796967,positive,0.9009299874305725
+19,2017-07-12 02:02:00,"Moreover, the company raised earnings guidance for fiscal 2017 while retaining its sales view.",0.9255759716033936,0.017215212807059288,0.057208795100450516,positive,0.9083607792854309
+20,2017-07-12 02:02:00,"On the flip side, market participants can justifiably raise valuation concerns, particularly following the stock's stellar recent performance.",0.85821932554245,0.03673705831170082,0.1050436794757843,positive,0.821482241153717
+21,2017-07-12 02:02:00,(You can read the full research report on Home Depot here >>> ) .,0.012610534206032753,0.013505421578884125,0.973884105682373,neutral,-0.0008948873728513718
+22,2017-07-12 02:02:00,"Other noteworthy reports we are featuring today include Manulife (MFC), Marsh & McLennan (MMC) and General Dynamics (GD).",0.028498811647295952,0.005918243899941444,0.9655829668045044,neutral,0.022580567747354507
+23,2017-07-12 02:02:00,"It's hard to believe, even for us at Zacks.",0.08736173063516617,0.254048228263855,0.6585900187492371,neutral,-0.1666865050792694
+24,2017-07-12 02:02:00,"But while the market gained +18.8% from 2016 to Q1 2017, our top stock-picking screens have returned +157.0%, +128.0%, +97.8%, +94.7%, and 90.2% respectively.",0.7603421807289124,0.036448318511247635,0.20320957899093628,positive,0.7238938808441162
+25,2017-07-12 02:02:00,This outperformance has not just been a recent phenomenon.,0.07354382425546646,0.012619218789041042,0.9138368964195251,neutral,0.060924604535102844
+26,2017-07-12 02:02:00,Over the years it has been remarkably consistent.,0.6927107572555542,0.013971779495477676,0.29331743717193604,positive,0.6787389516830444
+27,2017-07-12 02:02:00,"From 2000 - Q1 2017, the composite yearly average gain for these strategies has beaten the market more than 11x over.",0.754240095615387,0.14411918818950653,0.10164069384336472,positive,0.6101208925247192
+28,2017-07-12 02:02:00,Maybe even more remarkable is the fact that we're willing to share their latest stocks with you without cost or obligation.,0.5744941830635071,0.01052891369909048,0.41497692465782166,positive,0.5639652609825134
+29,2017-07-12 02:02:00,"See them free>>
+
+Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.",0.12486874312162399,0.007631485816091299,0.8674997687339783,neutral,0.11723725497722626
+30,2017-07-12 02:02:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Preview reports.,0.025165576487779617,0.008906112052500248,0.9659282565116882,neutral,0.016259465366601944
+31,2017-07-12 02:02:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+Per the Zacks analyst, Stanley Black will gain from Newell Tools & Craftsman Brand buyouts and disposal of Mechanical Security business going forward.",0.24637696146965027,0.018952639773488045,0.7346704006195068,neutral,0.22742432355880737
+32,2017-07-12 02:02:00,Higher costs and forex woes remain issues.,0.0561470203101635,0.33440372347831726,0.6094492077827454,neutral,-0.27825671434402466
+33,2017-07-12 02:02:00,"Per the Zacks analyst, solid jet sales growth continues to boost General Dynamics' Aerospace segment expansion.",0.9575799107551575,0.01913943700492382,0.023280633613467216,positive,0.9384405016899109
+34,2017-07-12 02:02:00,Yet low demand for other products caused its total backlog to decline.,0.01569882594048977,0.9686065316200256,0.015694575384259224,negative,-0.9529076814651489
+35,2017-07-12 02:02:00,"Per the Zacks analyst, CBOE Holding continues to benefit from trading volume growth.",0.9561777114868164,0.01576205901801586,0.02806015871465206,positive,0.9404156804084778
+36,2017-07-12 02:02:00,"However, higher expenses are a concern.",0.047994282096624374,0.2765064835548401,0.6754992008209229,neutral,-0.22851219773292542
+37,2017-07-12 02:02:00,The Zacks analyst is impressed by the multiple deals inked by the company with the aim of expanding its presence.,0.8925541639328003,0.013824517838656902,0.09362129122018814,positive,0.8787296414375305
+38,2017-07-12 02:02:00,"The company's disappointing run at the box-office, however, raises concern.",0.022101636976003647,0.9618117809295654,0.01608661375939846,negative,-0.9397101402282715
+39,2017-07-12 02:02:00,"Per the Zacks analyst, though Intrexon depends largely on license and collaboration deals for revenues, its strong diversified pipeline will drive long term growth.",0.9027442336082458,0.012065693736076355,0.08519008010625839,positive,0.8906785249710083
+40,2017-07-12 02:02:00,The Zacks analyst believes that gradually stabilizing generic and brand market poise the company for growth.,0.9303150773048401,0.013356632553040981,0.05632833391427994,positive,0.9169584512710571
+41,2017-07-12 02:02:00,"Also, cost-savings efforts remain encouraging.",0.9276919364929199,0.015442639589309692,0.05686547979712486,positive,0.9122493267059326
+42,2017-07-12 02:02:00,"Per the Zacks analyst, Kellogg's cost savings from its Project K and zero-based budgeting (ZBB) plans have been supporting renovation, innovation and margins.",0.948648989200592,0.01747768558561802,0.033873300999403,positive,0.9311712980270386
+43,2017-07-12 02:02:00,"New Business Growth in Asia Continues to Aid Manulife (MFC)
+
+Per the Zacks analyst, new business growth at Manulife's Asia unit, mainly driven by improved product mix and scale benefits, will continue to boost the company's operational performance.",0.9581888318061829,0.017752766609191895,0.024058403447270393,positive,0.940436065196991
+44,2017-07-12 02:02:00,"Per the Zacks analyst, solid booking trends are likely to lead to revenue growth at Carnival.",0.9571588635444641,0.017484067007899284,0.025357019156217575,positive,0.9396747946739197
+45,2017-07-12 02:02:00,"Given burgeoning demand for cruise travel in 2017, the addition of new ships to its fleet also bodes well.",0.9187396764755249,0.01417620200663805,0.06708406656980515,positive,0.9045634865760803
+46,2017-07-12 02:02:00,"Per the covering analyst, SEI Investments is all set to further improve profitability, driven by strong asset inflows, global presence as well as innovative investment products and services.",0.9575687646865845,0.017209216952323914,0.02522203139960766,positive,0.9403595328330994
+47,2017-07-12 02:02:00,"The Zacks analyst believes that a drag in Chemical unit earnings on lower margins, together with the company's huge debt load will cause an underperformance in Phillips 66 shares.",0.02312428504228592,0.9627141952514648,0.014161611907184124,negative,-0.9395899176597595
+48,2017-07-12 02:02:00,The covering analyst is concerned about the decline in the company's new vehicle unit sales.,0.02297249063849449,0.9541890621185303,0.022838512435555458,negative,-0.9312165975570679
+49,2017-07-12 02:02:00,A weak oil industry is also hurting its sales in the key Texas and Oklahoma markets.,0.020294958725571632,0.9677046537399292,0.012000411748886108,negative,-0.9474096894264221
+50,2017-07-12 02:02:00,"Per the Zacks analyst, currency volatility due to huge international presence & high debt is a concern, low interest rates have dragged investment income & increased pension liability risk.",0.0664517730474472,0.8971669673919678,0.03638128191232681,negative,-0.8307151794433594
+51,2017-07-12 02:02:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+52,2017-07-12 02:02:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+53,2017-07-12 02:02:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+54,2017-07-12 02:02:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

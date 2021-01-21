@@ -1,0 +1,32 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-07-26 06:01:00,"In a letter published on TheStockAdvisors, Mike Cintolo of Cabot Market Letter announced three new stocks that Cabot has added to their portfolio: ROSE, CRM and SODA.",0.2131468802690506,0.006064155139029026,0.7807890176773071,neutral,0.20708271861076355
+1,2011-07-26 06:01:00,Cintolo prefaces the letter by saying that the Cabot team has an optimistic outlook on the stock market and companies’ second quarter earnings.,0.810584306716919,0.029025716707110405,0.1603899598121643,positive,0.7815585732460022
+2,2011-07-26 06:01:00,ROSE: Cintolo highlights Rosetta Resources’ rapid growth in natural gas (and other fuel) production over the past year and a half in addition to further production expansion this year.,0.936603844165802,0.013671359047293663,0.049724794924259186,positive,0.922932505607605
+3,2011-07-26 06:01:00,He also expects significant earnings per share and cash flow growth over the next year.,0.9366059303283691,0.013817967846989632,0.04957609623670578,positive,0.9227879643440247
+4,2011-07-26 06:01:00,"CRM: Cintolo describes Salesforce.com as “the favorite cloud computing stock among institutional investors,” which he attributes to its popular business software offerings.",0.38959959149360657,0.01312272809445858,0.5972776412963867,neutral,0.37647685408592224
+5,2011-07-26 06:01:00,"He is also enthusiastic about its improving metrics, including analyst surprises and strong cash flow.",0.9521685838699341,0.019539829343557358,0.028291551396250725,positive,0.9326287508010864
+6,2011-07-26 06:01:00,"SODA: Here, Cintolo expects SodaStream’s home carbonation system to become popular in the US following a concerted marketing campaign.",0.8079271912574768,0.011129799298942089,0.18094298243522644,positive,0.7967973947525024
+7,2011-07-26 06:01:00,"Once established, he foresees strong sales from its carbonation refills and flavored syrup.",0.9082761406898499,0.01163837406784296,0.08008547872304916,positive,0.8966377377510071
+8,2011-07-26 06:01:00,"For more information to help you with your own research, see our own list of tool links below.",0.025698337703943253,0.014226761646568775,0.9600748419761658,neutral,0.011471576057374477
+9,2011-07-26 06:01:00,"Analyze These Ideas (Tools Will Open In A New Window)
+
+1.",0.05112309381365776,0.006451200228184462,0.9424257278442383,neutral,0.04467189311981201
+10,2011-07-26 06:01:00,"Access a thorough description of all companies mentioned
+
+2.",0.016740402206778526,0.007461410481482744,0.9757981896400452,neutral,0.00927899219095707
+11,2011-07-26 06:01:00,"Compare analyst ratings for all stocks mentioned below
+
+1.",0.01416170783340931,0.01266548689454794,0.9731728434562683,neutral,0.00149622093886137
+12,2011-07-26 06:01:00,"Rosetta Resources, Inc. (ROSE): Independent Oil & Gas industry with a market cap of $3.01B.",0.05689183250069618,0.005471912212669849,0.9376362562179565,neutral,0.05141992121934891
+13,2011-07-26 06:01:00,"It is engaged in the exploration, development, production and acquisition of onshore oil and gas resources in the United States of America.",0.036529526114463806,0.004434256814420223,0.9590361714363098,neutral,0.03209526836872101
+14,2011-07-26 06:01:00,"Its operations are concentrated in South Texas, including its producing area in the Eagle Ford shale, the Sacramento Basin of California, and the Rockies, including the Southern Alberta Basin in Montana.",0.01755841262638569,0.0074967918917536736,0.9749447703361511,neutral,0.010061620734632015
+15,2011-07-26 06:01:00,"During the year ended December 31, 2010, the Company drilled 127 gross and 124 net wells.",0.06383256614208221,0.011281773447990417,0.9248856902122498,neutral,0.0525507926940918
+16,2011-07-26 06:01:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+17,2011-07-26 06:01:00,Salesforce.com (CRM): Application Software industry with a market cap of $20.04B.,0.0612092949450016,0.006845597177743912,0.9319450855255127,neutral,0.05436369776725769
+18,2011-07-26 06:01:00,It is a provider of enterprise cloud computing applications including customer and collaboration relationship management (CRM) service to businesses and a technology platform for customers and developers to build and run business applications.,0.08663345873355865,0.00445249630138278,0.9089140892028809,neutral,0.08218096196651459
+19,2011-07-26 06:01:00,"It markets its service to businesses on a subscription basis, primarily through its direct sales efforts and indirectly through partners.",0.030792178586125374,0.004434401169419289,0.9647733569145203,neutral,0.026357777416706085
+20,2011-07-26 06:01:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+21,2011-07-26 06:01:00,SodaStream International Ltd. (SODA): Packaging & Containers industry with a market cap of $1.35B.,0.04100588336586952,0.005272324196994305,0.953721821308136,neutral,0.03573355823755264
+22,2011-07-26 06:01:00,"It is engaged in developing, manufacturing and marketing home beverage carbonation systems and related products, which enable consumers to transform ordinary tap water into carbonated soft drinks and sparkling water.",0.06815286725759506,0.004121263977140188,0.9277259111404419,neutral,0.06403160095214844
+23,2011-07-26 06:01:00,"Its products include soda makers, CO2 refills, flavors and carbonation bottles.",0.022290052846074104,0.0056275855749845505,0.9720823764801025,neutral,0.016662467271089554
+24,2011-07-26 06:01:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

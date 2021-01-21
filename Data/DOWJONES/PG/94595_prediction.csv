@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-01-16 09:00:00,"""It takes 20 years to build a reputation and five minutes to ruin it.""",0.20202335715293884,0.30028003454208374,0.49769657850265503,neutral,-0.0982566773891449
+1,2012-01-16 09:00:00,"- Warren Buffett
+
+In business, reputation is everything.",0.06655631959438324,0.014024758711457253,0.9194189310073853,neutral,0.052531562745571136
+2,2012-01-16 09:00:00,"And each year, Fortune magazine attempts to quantify this by asking businesspeople and securities analysts which companies they admire the most.",0.057094547897577286,0.01572011597454548,0.9271852970123291,neutral,0.04137443006038666
+3,2012-01-16 09:00:00,It's interesting to see the shift in the list from pre-Great Recession to post-Great Recession.,0.0870465636253357,0.016030151396989822,0.896923303604126,neutral,0.07101641595363617
+4,2012-01-16 09:00:00,"In 2007, for instance, the top 3 most admired companies were General Electric, Starbucks and Toyota Motor.",0.2926178276538849,0.03862250968813896,0.6687596440315247,neutral,0.2539953291416168
+5,2012-01-16 09:00:00,"This year, they're 13th, 16th and 33rd, respectively.",0.106260284781456,0.027782367542386055,0.8659573197364807,neutral,0.07847791910171509
+6,2012-01-16 09:00:00,And a number of former sacrosanct financial institutions have fallen way down on the list.,0.03590216487646103,0.8266512155532837,0.1374465972185135,negative,-0.7907490730285645
+7,2012-01-16 09:00:00,"Meanwhile, tech companies have climbed in the rankings.",0.936299741268158,0.02598203346133232,0.037718288600444794,positive,0.9103177189826965
+8,2012-01-16 09:00:00,"Now the top 2 most admired companies (and 5 of the top 12) are tech companies, including #7 Amazon.com, which wasn't even in the top 50 just 5 years ago.",0.10491925477981567,0.05781170725822449,0.8372690081596375,neutral,0.047107547521591187
+9,2012-01-16 09:00:00,"Some companies have managed to stay in the top 20 before, during and after the financial crisis.",0.7539795637130737,0.027522148564457893,0.2184983342885971,positive,0.726457417011261
+10,2012-01-16 09:00:00,"And even better, because of concerns over global economic growth in 2012 and risks stemming from the Eurozone debt crisis, some of these wonderful businesses are currently trading at very reasonable prices .",0.5560873746871948,0.034241192042827606,0.40967145562171936,positive,0.5218461751937866
+11,2012-01-16 09:00:00,"For the long-term investor, this could be a great opportunity to generate strong returns by buying some of the most revered businesses in the world.",0.8878726363182068,0.015019409358501434,0.09710801392793655,positive,0.8728532195091248
+12,2012-01-16 09:00:00,"On the verge of bankruptcy 15 years ago, Apple has now topped the list of most admired companies for 4 years in a row.",0.7587291598320007,0.03497612476348877,0.2062947005033493,positive,0.723753035068512
+13,2012-01-16 09:00:00,And its reputation as a premium brand is spreading like wildfire in a market more than 4x the size of the U.S. - China.,0.7935191988945007,0.017809433862566948,0.18867135047912598,positive,0.7757097482681274
+14,2012-01-16 09:00:00,"The company is about as far from bankruptcy as possible now, with no debt and over $81 billion ($87/share) in cash and securities.",0.021070299670100212,0.07040984183549881,0.9085198044776917,neutral,-0.04933954030275345
+15,2012-01-16 09:00:00,"No doubt Berkshire's sterling reputation is an extension of its popular chairman and CEO, Warren Buffett.",0.4113851487636566,0.0158790722489357,0.5727357864379883,neutral,0.3955060839653015
+16,2012-01-16 09:00:00,"He almost ate his own words on reputation during the David Sokol/Lubrizol fiasco, but that seemed to blow over rather quickly.",0.05958074703812599,0.5317414402961731,0.4086777865886688,negative,-0.4721606969833374
+17,2012-01-16 09:00:00,The down-to-earth Oracle of Omaha is admired for living like a normal American.,0.1872115135192871,0.08517204970121384,0.7276164293289185,neutral,0.10203946381807327
+18,2012-01-16 09:00:00,"He lives in the Midwest in a nice (but not lavish) home, drives himself to work every day, and eats fast food.",0.06184257194399834,0.026498189195990562,0.9116592407226562,neutral,0.035344384610652924
+19,2012-01-16 09:00:00,And he's giving away the bulk of his fortune to charity when he dies.,0.02553684450685978,0.01714347116649151,0.9573197364807129,neutral,0.008393373340368271
+20,2012-01-16 09:00:00,Berkshire has managed to grow its book value by more than 20% per year for almost half a century.,0.9490641355514526,0.017178423702716827,0.033757470548152924,positive,0.9318857192993164
+21,2012-01-16 09:00:00,"Although Mr. Buffett has warned shareholders not to expect these kinds of returns in the future, the wide-moat company should still perform very well.",0.9217487573623657,0.015535172075033188,0.06271598488092422,positive,0.9062135815620422
+22,2012-01-16 09:00:00,"One of Google's philosophies is that ""You can make money without doing evil.""",0.05045715346932411,0.009101892821490765,0.9404409527778625,neutral,0.04135525971651077
+23,2012-01-16 09:00:00,A lot of companies might have similar mission statements.,0.04337378218770027,0.008931756019592285,0.9476945400238037,neutral,0.034442026168107986
+24,2012-01-16 09:00:00,And why not?,0.09794297069311142,0.08976064622402191,0.812296450138092,neutral,0.008182324469089508
+25,2012-01-16 09:00:00,It makes for good PR.,0.27025309205055237,0.0117885647341609,0.7179583311080933,neutral,0.258464515209198
+26,2012-01-16 09:00:00,"But for some reason, it seems like Google actually means it.",0.08334692567586899,0.016073673963546753,0.9005793929100037,neutral,0.06727325171232224
+27,2012-01-16 09:00:00,"Shares are trading around the same price as they were back in late 2007, when it earned $13.29 per share.",0.08526087552309036,0.02200363203883171,0.8927355408668518,neutral,0.06325724720954895
+28,2012-01-16 09:00:00,"But in 2012, it's expected to earn $38.22 per share.",0.042813390493392944,0.035231273621320724,0.9219553470611572,neutral,0.00758211687207222
+29,2012-01-16 09:00:00,Procter & Gamble has been around since 1837.,0.04467080160975456,0.00929249357432127,0.9460367560386658,neutral,0.03537830710411072
+30,2012-01-16 09:00:00,"It scores high for its innovation, people management, social responsibility and financial soundness.",0.866893470287323,0.014592946507036686,0.11851353198289871,positive,0.8523005247116089
+31,2012-01-16 09:00:00,"The company also owns some of the best-known household brands like Braun, Crest, Pampers, Tide, Dawn, Charmin, Gillette, and Pepto-Bismol, just to name a few.",0.0579906590282917,0.006009270437061787,0.9360001087188721,neutral,0.05198138952255249
+32,2012-01-16 09:00:00,And the company is expanding rapidly in the emerging markets.,0.9014342427253723,0.011994520202279091,0.08657131344079971,positive,0.8894397020339966
+33,2012-01-16 09:00:00,"P&G generates steady and consistent free cash flow, which it has been using to reward shareholders through higher dividends.",0.8873681426048279,0.013724434189498425,0.09890738129615784,positive,0.873643696308136
+34,2012-01-16 09:00:00,It currently yields a solid 3.2%.,0.2999372184276581,0.010189819149672985,0.6898729801177979,neutral,0.2897473871707916
+35,2012-01-16 09:00:00,Flying is neither fun for the traveler nor consistently profitable for the airline.,0.023893535137176514,0.036557890474796295,0.9395485520362854,neutral,-0.012664355337619781
+36,2012-01-16 09:00:00,So to see an airline anywhere on this list is saying something.,0.07869933545589447,0.016428353264927864,0.9048722982406616,neutral,0.062270984053611755
+37,2012-01-16 09:00:00,"Southwest is revered for its low cost, exceptional service and the fact that it doesn't nickel and dime its customers with fees (""Bags fly free"").",0.47290194034576416,0.01684323512017727,0.5102548003196716,neutral,0.45605871081352234
+38,2012-01-16 09:00:00,They say the fastest way to become a millionaire is to start as a billionaire and buy an airline.,0.19202354550361633,0.019528191536664963,0.7884482741355896,neutral,0.17249535024166107
+39,2012-01-16 09:00:00,But Southwest has been a much more consistent performer than most of its competitors.,0.9215222597122192,0.021752404049038887,0.05672527849674225,positive,0.8997698426246643
+40,2012-01-16 09:00:00,The stock has gotten beaten up lately over concerns about oil prices and slower economic growth.,0.026179669424891472,0.9542669653892517,0.019553285092115402,negative,-0.9280872941017151
+41,2012-01-16 09:00:00,But these fears may be overblown.,0.08041129261255264,0.34455031156539917,0.5750384330749512,neutral,-0.2641390264034271
+42,2012-01-16 09:00:00,"The company is expected to see strong EPS growth in 2012, and the acquisition of AirTran should provide Southwest with strong growth opportunities in the future.",0.9416542053222656,0.013875577598810196,0.04447019100189209,positive,0.9277786016464233
+43,2012-01-16 09:00:00,"Despite this, shares trade at just 11x forward earnings and 1.1x book value - near its Great Recession lows.",0.02991786040365696,0.7978773713111877,0.17220477759838104,negative,-0.7679595351219177
+44,2012-01-16 09:00:00,These 5 companies are consistently some of the most admired in the world.,0.8121806383132935,0.017144765704870224,0.17067454755306244,positive,0.7950358986854553
+45,2012-01-16 09:00:00,They also happen to be trading at very reasonable prices.,0.048699475824832916,0.008854549378156662,0.9424459934234619,neutral,0.039844926446676254
+46,2012-01-16 09:00:00,"For the long-term investor, this could be a great opportunity to generate strong returns owning some of America's most reputable businesses.",0.9125187397003174,0.015253819525241852,0.07222749292850494,positive,0.8972648978233337
+47,2012-01-16 09:00:00,Todd Bunton is the Growth & Income Stock Strategist for Zacks.com and Co-Editor with Steve Reitmeister of the Reitmeister Value Investor that snaps up discounted value stocks and sells them after the market realizes their true worth for long-term gains.,0.044732991605997086,0.01000404916703701,0.9452630281448364,neutral,0.034728944301605225
+48,2012-01-16 09:00:00,To read this article on Zacks.com click here.,0.017961200326681137,0.01924508437514305,0.9627937078475952,neutral,-0.001283884048461914
+49,2012-01-16 09:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

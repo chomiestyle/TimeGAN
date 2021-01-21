@@ -1,0 +1,137 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-04-17 04:20:00,"When Box ( BOX ) filed its long-awaited paperwork to become a public company, it caused a lot of talk about the financial health of the company, and the long-term viability of its business model.",0.08057256042957306,0.1607389897108078,0.7586884498596191,neutral,-0.08016642928123474
+1,2014-04-17 04:20:00,"At issue was how much money Box is spending compared to its revenue, particularly on sales and marketing.",0.07473371177911758,0.117044597864151,0.808221697807312,neutral,-0.04231088608503342
+2,2014-04-17 04:20:00,People began wondering: is founder and CEO Aaron Levie a quack or a modern-day genius?,0.07673521339893341,0.3777799904346466,0.5454847812652588,neutral,-0.301044762134552
+3,2014-04-17 04:20:00,"Let me be clear: he's a genius, and he's not the only one.",0.09980083256959915,0.026668865233659744,0.8735303282737732,neutral,0.07313196361064911
+4,2014-04-17 04:20:00,"I've known Levie for six years, ever since Box became an early customer of my company, Zuora, and his company's revenues were in the low single digits.",0.01934373378753662,0.02950352244079113,0.9511527419090271,neutral,-0.010159788653254509
+5,2014-04-17 04:20:00,"I've watched with great pleasure as Levie, co-founder Dylan Smith and the team have grown Box into the force that it is today.",0.7449731826782227,0.012105192057788372,0.24292166531085968,positive,0.7328680157661438
+6,2014-04-17 04:20:00,"He is the latest in a line of true entrepreneurs, laser-focused on making his vision of collaboration a reality.",0.35636454820632935,0.01557169295847416,0.6280637383460999,neutral,0.34079286456108093
+7,2014-04-17 04:20:00,"With over 34,000 paying companies across the globe including Bechtel, Eli Lilly ( LLY ), and Gap ( GPS ), it's obvious that companies see the value of Box and trust it to power their businesses.",0.490247905254364,0.011564914137125015,0.4981871545314789,neutral,0.4786829948425293
+8,2014-04-17 04:20:00,"But it's crazy to me that 10 years after the IPO of Salesforce.com ( CRM ) as the first public software-as-a-service (SaaS) company, Wall Street still doesn't understand the subscription business model.",0.03276281803846359,0.16800400614738464,0.7992331385612488,neutral,-0.13524118065834045
+9,2014-04-17 04:20:00,"The software industry has been on an inevitable path to subscriptions since 1999, when Salesforce was founded.",0.4841913878917694,0.009754293598234653,0.5060543417930603,neutral,0.47443708777427673
+10,2014-04-17 04:20:00,"Fast forward to today with Workday ( WDAY ), Adobe (ADBE), Box, Zendesk (ZEN) and others.",0.060199249535799026,0.005866226740181446,0.9339345097541809,neutral,0.054333023726940155
+11,2014-04-17 04:20:00,These companies have proven that a subscription model with recurring revenue is a different kind of business.,0.11180036514997482,0.009997893124818802,0.8782017827033997,neutral,0.10180246829986572
+12,2014-04-17 04:20:00,It's complex.,0.03881805017590523,0.02233145944774151,0.9388505220413208,neutral,0.01648659072816372
+13,2014-04-17 04:20:00,"Yet, when managed well, it's a healthy and financially attractive model that has disrupted some of the most established industries across the globe.",0.2848561108112335,0.33274298906326294,0.38240087032318115,neutral,-0.04788687825202942
+14,2014-04-17 04:20:00,Even giant software vendors like SAP (SAP) are now offering major products via subscription.,0.12191649526357651,0.007025016471743584,0.8710584044456482,neutral,0.11489147692918777
+15,2014-04-17 04:20:00,And I assure you this is just the beginning.,0.12068622559309006,0.008286986500024796,0.8710267543792725,neutral,0.11239923536777496
+16,2014-04-17 04:20:00,"Why then, is there such controversy about Box?",0.03114388883113861,0.08450450748205185,0.8843515515327454,neutral,-0.05336061865091324
+17,2014-04-17 04:20:00,"Forbes writer Kurt Marko recently questioned whether Box is a ""viable standalone business,"" pointing to the fact that operating expenses outweigh revenue and calling it ""the beginning of the end.""",0.044766128063201904,0.7553492188453674,0.19988462328910828,negative,-0.7105830907821655
+18,2014-04-17 04:20:00,"Erik Sherman with CBS News claimed that Box ""badly needs the money"" and that ""an IPO is necessary to bring in the capital needed for long-term viability.""",0.6686459183692932,0.08632578700780869,0.24502834677696228,positive,0.5823201537132263
+19,2014-04-17 04:20:00,"It's become apparent to me that there is a fundamental lack of understanding about the subscription business model, a term I call the ""Subscription Economy.""",0.0275752991437912,0.5254971981048584,0.4469274878501892,negative,-0.497921884059906
+20,2014-04-17 04:20:00,"In order to understand the true genius of Box, let's look at the four big differences between the subscription model and a traditional software business.",0.030705882236361504,0.021192695945501328,0.9481014013290405,neutral,0.009513186290860176
+21,2014-04-17 04:20:00,"The first thing to know is that for a subscription business, revenue is not revenue.",0.011006460525095463,0.016253801062703133,0.9727397561073303,neutral,-0.00524734053760767
+22,2014-04-17 04:20:00,It's the difference between a one-time payment and recurring payments.,0.031262073665857315,0.01924082450568676,0.9494970440864563,neutral,0.012021249160170555
+23,2014-04-17 04:20:00,"Just think about it - let's say you have two friends: Jack says he'll give you $10 just this once, and Jill says she'll give you $5 a year for each of the next 10 years.",0.06823848932981491,0.010011967271566391,0.921749472618103,neutral,0.05822652205824852
+24,2014-04-17 04:20:00,There is a big difference between the two - you know that Jill's deal is a better deal.,0.4761289954185486,0.025947123765945435,0.4979238510131836,neutral,0.45018187165260315
+25,2014-04-17 04:20:00,"That's why smart subscription businesses look at something called ARR, which stands for Annual Recurring Revenue, and consists of only the subscription revenue from customers for an ongoing service.",0.016272665932774544,0.008615672588348389,0.975111722946167,neutral,0.007656993344426155
+26,2014-04-17 04:20:00,"To get at ARR, subscription businesses take the value of their subscription contracts, normalize it to an annual amount, and add it all up.",0.04229195415973663,0.008056887425482273,0.9496511816978455,neutral,0.034235067665576935
+27,2014-04-17 04:20:00,"For a subscription business, more so than cash or revenue, ARR is the true indicator of your company's health.",0.06329397112131119,0.010509137064218521,0.9261969327926636,neutral,0.05278483405709267
+28,2014-04-17 04:20:00,"In fact, accounting systems do not differentiate between a dollar that recurs and a dollar that does not.",0.020447194576263428,0.06094825640320778,0.9186046123504639,neutral,-0.04050106182694435
+29,2014-04-17 04:20:00,Accounting systems today are built on the double entry standard created 500 years ago by Luca Pacioli to help Venetian merchants track the sale of spices.,0.18410345911979675,0.006494455970823765,0.8094021081924438,neutral,0.17760899662971497
+30,2014-04-17 04:20:00,"And in that system, a dollar is a dollar is a dollar.",0.07993367314338684,0.01452928502112627,0.9055370092391968,neutral,0.06540438532829285
+31,2014-04-17 04:20:00,"Fortunately, there's a simple way to approximate ARR from a standard income statement - just take the quarterly revenue, strip out non-recurring revenue such as setup fees or consulting fees, and multiply it by four.",0.02518421784043312,0.010686314664781094,0.9641294479370117,neutral,0.014497903175652027
+32,2014-04-17 04:20:00,That will give you a close estimate as to what the ARR was at the start of that quarter.,0.03314095735549927,0.008672085590660572,0.9581869840621948,neutral,0.02446887269616127
+33,2014-04-17 04:20:00,"(The sophisticated reader here will note that this doesn't tell you what ARR is at the end of the quarter, and it doesn't include revenue contributed from in-quarter bookings … but we'll leave that for another time).",0.007631267420947552,0.031169261783361435,0.9611994624137878,neutral,-0.02353799343109131
+34,2014-04-17 04:20:00,"In Workday's most recent filings, for example, the company reported $141 million in quarterly revenue, of which $110.7 million was subscription revenue.",0.01829453743994236,0.020767370238900185,0.9609380960464478,neutral,-0.0024728327989578247
+35,2014-04-17 04:20:00,"By taking the subscription revenue and multiplying it by four, you can see that Workday likely started out that quarter with about $443 million in ARR.",0.09269561618566513,0.011236174032092094,0.8960682153701782,neutral,0.08145944029092789
+36,2014-04-17 04:20:00,"We've performed the same calculations for Workday, ServiceNow (NOW), NetSuite (N) and Salesforce.com, below.",0.014454575255513191,0.010891003534197807,0.9746544361114502,neutral,0.003563571721315384
+37,2014-04-17 04:20:00,Now how about Box?,0.08502011001110077,0.06393387168645859,0.8510459661483765,neutral,0.02108623832464218
+38,2014-04-17 04:20:00,"Unfortunately, Box doesn't actually break down how much of its revenue comes from subscription versus that which comes from professional services.",0.03179139271378517,0.03880443423986435,0.9294041991233826,neutral,-0.007013041526079178
+39,2014-04-17 04:20:00,"We do know that professional services is less than 10% of the total revenue, otherwise it would need to present that separately from subscription revenue.",0.01653950847685337,0.1269838660955429,0.8564766645431519,neutral,-0.11044435948133469
+40,2014-04-17 04:20:00,We'll make an educated guess that Box's consulting revenue is in-line with Salesforce.com's and plug in 5%.,0.8583794236183167,0.023377951234579086,0.11824256926774979,positive,0.8350014686584473
+41,2014-04-17 04:20:00,"Based on that, we see that Box started its most recent quarter at $148 million ARR, double what they were at one year ago.",0.8752535581588745,0.028563642874360085,0.09618272632360458,positive,0.8466899394989014
+42,2014-04-17 04:20:00,That's pretty good growth.,0.7735427021980286,0.014548131264746189,0.21190910041332245,positive,0.7589945793151855
+43,2014-04-17 04:20:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+44,2014-04-17 04:20:00,"Well what do you know, it turns out cloud storage is not that expensive
+
+One common refrain I've heard from people is that Box's costs must be high, since they are storing all those files and have to purchase so many disks.",0.02681940235197544,0.15759596228599548,0.815584659576416,neutral,-0.1307765543460846
+45,2014-04-17 04:20:00,And they must be losing money because they give so much of storage per user.,0.020339494571089745,0.8904500007629395,0.08921046555042267,negative,-0.8701105117797852
+46,2014-04-17 04:20:00,A look at Box's gross margins shows a different tale.,0.03134765848517418,0.029103707522153854,0.939548671245575,neutral,0.0022439509630203247
+47,2014-04-17 04:20:00,"But first, let's do a quick Accounting 101 for the non-CPAs out there.",0.024035824462771416,0.007758673280477524,0.9682055115699768,neutral,0.016277151182293892
+48,2014-04-17 04:20:00,"In a SaaS company, there are really just three sources of costs: people, data center, and marketing.",0.011161898262798786,0.016733763739466667,0.9721043109893799,neutral,-0.005571865476667881
+49,2014-04-17 04:20:00,"In the income statement, the part of Box's S-1 filing causing the most comments, these costs are allocated into four key buckets:
+• Costs of revenue, otherwise known as costs of goods sold, which is how much you need to spend to actually provide the service.",0.01287985872477293,0.028903014957904816,0.9582170844078064,neutral,-0.01602315530180931
+50,2014-04-17 04:20:00,"In a SaaS company, this typically includes the data center, the hardware, the data center folks, customer support folks, etc.",0.010658307932317257,0.014123862609267235,0.9752178192138672,neutral,-0.003465554676949978
+51,2014-04-17 04:20:00,"• Research and development, this includes all the developers and product managers.",0.012519527226686478,0.008122384548187256,0.9793580174446106,neutral,0.004397142678499222
+52,2014-04-17 04:20:00,"• General and administrative, this includes primarily the finance and HR folks.",0.008613759651780128,0.013157835230231285,0.9782283902168274,neutral,-0.004544075578451157
+53,2014-04-17 04:20:00,"• Sales and marketing, this includes the sales and marketing departments and supporting personnel, and any money spent on marketing programs.",0.00811739917844534,0.013593306764960289,0.9782893061637878,neutral,-0.00547590758651495
+54,2014-04-17 04:20:00,"Take a look at what Box says goes into its costs of revenue:
+
+Now, most folks will take these cost buckets and map that to revenue to get a margin.",0.026458824053406715,0.014208746142685413,0.9593324065208435,neutral,0.012250077910721302
+55,2014-04-17 04:20:00,"Revenue minus costs of revenue, for example, is your gross margin.",0.026487134397029877,0.012448909692466259,0.9610639214515686,neutral,0.014038224704563618
+56,2014-04-17 04:20:00,We're going to do something different and compare these costs to ARR.,0.06769439578056335,0.007299829740077257,0.9250057339668274,neutral,0.060394566506147385
+57,2014-04-17 04:20:00,Why ARR?,0.06716497987508774,0.11708041280508041,0.8157546520233154,neutral,-0.049915432929992676
+58,2014-04-17 04:20:00,"Think about it - the great thing about ARR is that it's a forward-looking metric - ARR very closely approximates what you expect to make this upcoming quarter, compared to revenue which tells you what you already made last quarter.",0.5380769968032837,0.02813270501792431,0.43379032611846924,positive,0.5099443197250366
+59,2014-04-17 04:20:00,"If you are Levie and Smith, and you know what your ARR is at the start of the quarter, you can make some smart decisions on how you want to spend that money.",0.11218800395727158,0.00953116174787283,0.8782808780670166,neutral,0.10265684127807617
+60,2014-04-17 04:20:00,Comparing expenses to ARR better approximates how the executives in the company actually think and run their businesses.,0.058645959943532944,0.017630817368626595,0.9237232804298401,neutral,0.0410151407122612
+61,2014-04-17 04:20:00,"To do this accurately, you have to take out the cost of goods sold that are tied to the professional services, and you have to take out the stock option expenses that are reported in the filings.",0.0197847168892622,0.013687160797417164,0.9665281772613525,neutral,0.0060975560918450356
+62,2014-04-17 04:20:00,"That's why we call this a Gross Recurring Margin, vs. just a Gross Margin.",0.07404996454715729,0.020823225378990173,0.9051267504692078,neutral,0.053226739168167114
+63,2014-04-17 04:20:00,"Here are the numbers we calculated:
+
+Estimated ARR at the start of the quarter
+
+As you can see, Box's gross margins are in line with others in the SaaS industry.",0.6299733519554138,0.020251527428627014,0.34977513551712036,positive,0.609721839427948
+64,2014-04-17 04:20:00,It actually doesn't cost that much to offer storage in the cloud.,0.03053938038647175,0.015325667336583138,0.954135000705719,neutral,0.01521371304988861
+65,2014-04-17 04:20:00,At the heart of financial accounting is the concept of matching.,0.07438662648200989,0.0063719367608428,0.9192414879798889,neutral,0.06801468878984451
+66,2014-04-17 04:20:00,"When $1 is shown on the income statement, it shows the amount of cost of goods sold, sales and marketing, R&D and G&A (general and administrative) that went into making that one dollar.",0.01062275841832161,0.01841641031205654,0.970960795879364,neutral,-0.007793651893734932
+67,2014-04-17 04:20:00,"Unfortunately, the whole concept of matching starts to break down for subscription business models.",0.06054247170686722,0.3906261622905731,0.5488313436508179,neutral,-0.3300836980342865
+68,2014-04-17 04:20:00,"That's because ARR represents revenue acquired in previous periods, which are simply now renewing.",0.06295738369226456,0.007958278059959412,0.9290843605995178,neutral,0.054999105632305145
+69,2014-04-17 04:20:00,"Sure, you need to service the customer, so cost of goods and G&A is to service the customer and does match to the ARR.",0.0374571718275547,0.008485588245093822,0.9540572166442871,neutral,0.028971582651138306
+70,2014-04-17 04:20:00,How about R&D?,0.028705066069960594,0.009144775569438934,0.9621501564979553,neutral,0.01956029050052166
+71,2014-04-17 04:20:00,"Well, the traditional view says the products you are selling today are already done, and you are investing in research to create innovations that drive future sales.",0.17837049067020416,0.006534396205097437,0.815095067024231,neutral,0.17183609306812286
+72,2014-04-17 04:20:00,But here's the thing -- the customers of SaaS companies did not sign up for a static service that never gets better.,0.04389595985412598,0.1534852683544159,0.8026188015937805,neutral,-0.10958930850028992
+73,2014-04-17 04:20:00,"If you know something about SaaS companies, they are obsessed about keeping their customers happy, to keep them buying the service, and they invest in R&D against that goal.",0.08758445084095001,0.015895575284957886,0.8965199589729309,neutral,0.07168887555599213
+74,2014-04-17 04:20:00,"At Salesforce, we started naming releases with the seasons, for example the ""Winter 2013 release,"" to convey the constant rate we expected to add enhancements to the products.",0.2139342576265335,0.008131884969770908,0.7779337763786316,neutral,0.20580236613750458
+75,2014-04-17 04:20:00,That's why I like to think of R&D as being matched to ARR.,0.13710762560367584,0.006593069527298212,0.8562993407249451,neutral,0.13051456212997437
+76,2014-04-17 04:20:00,Sales and marketing is where it gets interesting.,0.031501222401857376,0.009695109911262989,0.9588037133216858,neutral,0.02180611342191696
+77,2014-04-17 04:20:00,"If your ARR represents today's revenue that you expect to recur, then your spend on sales & marketing is going towards growing ARR, to acquiring future revenue that is not yet in ARR.",0.28269076347351074,0.01298538874834776,0.7043238282203674,neutral,0.2697053849697113
+78,2014-04-17 04:20:00,"In other words, today's sales and marketing expenses are matched to future revenue.",0.38956567645072937,0.01289945188909769,0.5975348949432373,neutral,0.37666621804237366
+79,2014-04-17 04:20:00,"That's why we like to look at something we call Recurring Revenue Margin, which is your ARR minus your cost of sales, research and development, and G&A, but before the spend on sales and marketing.",0.01606825180351734,0.010312804952263832,0.9736189246177673,neutral,0.0057554468512535095
+80,2014-04-17 04:20:00,"Estimated ARR at the start of the quarter
+
+When you look at Box's business from a recurring revenue margin viewpoint, you see they are running a profitable business.",0.7445698380470276,0.017963925376534462,0.23746627569198608,positive,0.7266058921813965
+81,2014-04-17 04:20:00,"If Box stopped all sales and marketing today, it wouldn't grow any more, but it would have an intrinsic 20% margin business.",0.2181011438369751,0.0309156384319067,0.7509832382202148,neutral,0.18718551099300385
+82,2014-04-17 04:20:00,"Now, Box isn't as profitable as Salesforce or Netsuite, yet, but when you look at Box's recurring revenue margin over the last four quarters (below), the trend isn't bad.",0.1121370792388916,0.5417943000793457,0.3460686206817627,negative,-0.4296572208404541
+83,2014-04-17 04:20:00,"Estimated ARR at the start of the quarter
+
+You can see that Box and Workday are spending in research & development.",0.020302968099713326,0.032722439616918564,0.9469746351242065,neutral,-0.012419471517205238
+84,2014-04-17 04:20:00,Why is R&D spending so high?,0.03797424957156181,0.036797963082790375,0.9252277612686157,neutral,0.0011762864887714386
+85,2014-04-17 04:20:00,"I would speculate that this is Levie betting on the future -- Levie likely believes he has a big market that is growing fast, and he needs to invest in R&D with more features to outpace Dropbox or Microsoft's SharePoint product.",0.7032199501991272,0.012779787182807922,0.2840002775192261,positive,0.6904401779174805
+86,2014-04-17 04:20:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+87,2014-04-17 04:20:00,"The Genius of Going for Growth
+
+So what have we established so far?",0.13538125157356262,0.014341136440634727,0.8502776622772217,neutral,0.12104011327028275
+88,2014-04-17 04:20:00,"Subscription businesses really care about recurring revenue, which is measured by ARR.",0.03382178395986557,0.0076239025220274925,0.9585543274879456,neutral,0.026197880506515503
+89,2014-04-17 04:20:00,"On an ARR basis, Box is a fast-growing SaaS company today.",0.8955509662628174,0.013524994254112244,0.09092403203248978,positive,0.882025957107544
+90,2014-04-17 04:20:00,"On a gross margin basis, it doesn't cost Box too much to offer storage in the cloud, and on a recurring revenue margin basis, Box is building an inherently profitable business.",0.856769859790802,0.014053027145564556,0.1291770488023758,positive,0.8427168130874634
+91,2014-04-17 04:20:00,The last thing to look at is where all the controversy lies.,0.043798983097076416,0.12644214928150177,0.8297588229179382,neutral,-0.08264316618442535
+92,2014-04-17 04:20:00,"On his blog , Tomasz Tunguz notes that:
+
+Let's take that again.",0.038519665598869324,0.03495669737458229,0.9265236258506775,neutral,0.003562968224287033
+93,2014-04-17 04:20:00,"Box is spending more money on sales and marketing than it has revenues, 3 times more than its peer group, and over 50% more than the #2 spendthrift on the list.",0.5607694387435913,0.023894600570201874,0.4153359830379486,positive,0.5368748307228088
+94,2014-04-17 04:20:00,I see the Box billboard every day when I drive down Highway 101.,0.10083755850791931,0.03552815318107605,0.8636343479156494,neutral,0.06530940532684326
+95,2014-04-17 04:20:00,So what is Levie getting for all that money?,0.02448723092675209,0.01168077252805233,0.9638320207595825,neutral,0.01280645839869976
+96,2014-04-17 04:20:00,Let's take a look.,0.07313600927591324,0.016300303861498833,0.9105637073516846,neutral,0.05683570355176926
+97,2014-04-17 04:20:00,"Estimated ARR at the start of the quarter Estimated ARR at the end of the quarter
+
+In the quarter ending Oct. 31, 2013, Box spent $46 million in sales and marketing to grow ARR by $20 million, net of churn.",0.9500159025192261,0.018479926511645317,0.03150416538119316,positive,0.9315359592437744
+98,2014-04-17 04:20:00,That means he spent over $2 to acquire $1 of growth.,0.25308892130851746,0.009474976919591427,0.737436056137085,neutral,0.24361394345760345
+99,2014-04-17 04:20:00,"Compared to other public SaaS companies, that's on the high side, although if Box expects that $1 to recur for the next 5 or 10 years, that's still a pretty good deal.",0.3138795495033264,0.027674078941345215,0.6584463715553284,neutral,0.2862054705619812
+100,2014-04-17 04:20:00,"Has Levie built a house of cards, one that requires more and more money to fuel, but that ultimately will fall apart when the music stops?",0.06672310829162598,0.20635540783405304,0.7269214391708374,neutral,-0.13963229954242706
+101,2014-04-17 04:20:00,I don't think so.,0.06060289964079857,0.11016003787517548,0.8292369842529297,neutral,-0.04955713823437691
+102,2014-04-17 04:20:00,"I see a person who, by the age of 28, has convinced some pretty big names in the investment community to give him over $400 million dollars to go after a once-in-a-lifetime opportunity.",0.42260587215423584,0.014149031601846218,0.5632451176643372,neutral,0.40845683217048645
+103,2014-04-17 04:20:00,That's pretty amazing in and of itself.,0.5192268490791321,0.015394041314721107,0.4653790593147278,positive,0.5038328170776367
+104,2014-04-17 04:20:00,But that's not all.,0.05232883617281914,0.09158151596784592,0.8560895919799805,neutral,-0.03925267979502678
+105,2014-04-17 04:20:00,"Levie then built a business with strong fundamentals that is intrinsically profitable, if looked at in the right way.",0.762771725654602,0.010904964059591293,0.22632330656051636,positive,0.7518667578697205
+106,2014-04-17 04:20:00,"Finally, by recognizing that he's in a land grab in a fast growing market with multiple players, Levie is showing he has the courage to bet big and spend big to acquire as many customers as he can.",0.8241904377937317,0.014520719647407532,0.1612888127565384,positive,0.8096697330474854
+107,2014-04-17 04:20:00,"What if one day Levie decides that he's won, that he sees the market for cloud collaboration slowing, and he's the clear market share leader?",0.4716629683971405,0.12343356758356094,0.40490344166755676,positive,0.34822940826416016
+108,2014-04-17 04:20:00,"At that point, if he cuts R&D back down to 15%, and sales and marketing down to 15%, he'll have a 25% margin business.",0.032675329595804214,0.787993848323822,0.17933082580566406,negative,-0.7553185224533081
+109,2014-04-17 04:20:00,"If he's a $1 billion company at that point, that means he can throw off $250 million in cash.",0.05603513494133949,0.5483528971672058,0.3956120014190674,negative,-0.4923177659511566
+110,2014-04-17 04:20:00,"If he can grow that into a $10 billion company, he's throwing off $2.5 billion in cash.",0.11295004189014435,0.3260473906993866,0.5610025525093079,neutral,-0.21309734880924225
+111,2014-04-17 04:20:00,That's a great business.,0.48410266637802124,0.010203957557678223,0.5056933760643005,neutral,0.473898708820343
+112,2014-04-17 04:20:00,And that's the genius of Aaron Levie.,0.11527719348669052,0.012430980801582336,0.8722918033599854,neutral,0.10284621268510818
+113,2014-04-17 04:20:00,"Disclosure: I have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours.",0.010040860623121262,0.01954028382897377,0.9704188108444214,neutral,-0.009499423205852509
+114,2014-04-17 04:20:00,"See also 5 Dividend Growth Giants For Your Radar on seekingalpha.com
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011306943371891975,0.015275957994163036,0.9734171032905579,neutral,-0.003969014622271061

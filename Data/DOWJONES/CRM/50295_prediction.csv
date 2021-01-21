@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-10-10 07:15:00,"In early trading on Monday, shares of Mylan ( MYL ) topped the list of the day's best performing components of the S&P 500 index, trading up 8.8%.",0.9446396827697754,0.027605414390563965,0.027754925191402435,positive,0.9170342683792114
+1,2016-10-10 07:15:00,"Year to date, Mylan has lost about 27.7% of its value.",0.01660337671637535,0.9425522089004517,0.04084441810846329,negative,-0.9259488582611084
+2,2016-10-10 07:15:00,"And the worst performing S&P 500 component thus far on the day is Bristol-Myers Squibb ( BMY ), trading down 9.4%.",0.021864835172891617,0.9648100733757019,0.013325086794793606,negative,-0.9429452419281006
+3,2016-10-10 07:15:00,Bristol-Myers Squibb is lower by about 27.0% looking at the year to date performance.,0.019813185557723045,0.9645735621452332,0.015613258816301823,negative,-0.9447603821754456
+4,2016-10-10 07:15:00,"Two other components making moves today are Dover ( DOV ), trading down 4.6%, and Salesforce.com ( CRM ), trading up 5.7% on the day.",0.027673881500959396,0.9427123665809631,0.029613714665174484,negative,-0.9150384664535522
+5,2016-10-10 07:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

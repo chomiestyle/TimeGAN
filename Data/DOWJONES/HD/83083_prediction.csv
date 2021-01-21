@@ -1,0 +1,73 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-06-12 04:28:00,The likelihood of an interest rate hike by the Federal Reserve at the conclusion of its June 12-13 FOMC meeting is pretty high.,0.24840325117111206,0.079153873026371,0.6724429130554199,neutral,0.16924938559532166
+1,2018-06-12 04:28:00,"The Fed funds rate is expected to tick up 25 basis points, with another hike or two anticipated this year.",0.8678525686264038,0.03529565781354904,0.09685175120830536,positive,0.8325569033622742
+2,2018-06-12 04:28:00,"The possibility is backed by low unemployment, wage growth and rise in headline inflation.",0.7291255593299866,0.027910947799682617,0.24296346306800842,positive,0.701214611530304
+3,2018-06-12 04:28:00,"With the Fed set to raise rates, we expect financials, technology, home improvement suppliers and even gold to benefit.",0.7245277762413025,0.011858763173222542,0.2636134624481201,positive,0.7126690149307251
+4,2018-06-12 04:28:00,A blowout jobs report in May has raised the odds of a June rate hike.,0.581683874130249,0.25837215781211853,0.15994396805763245,positive,0.3233117163181305
+5,2018-06-12 04:28:00,"Around 223,000 new positions were created last month, which drove jobless rate down to levels around 50 years ago.",0.03594646602869034,0.9367733597755432,0.02728014998137951,negative,-0.9008268713951111
+6,2018-06-12 04:28:00,The number of job openings now exceeds the number of job seekers for the first time since 2000.,0.7188625335693359,0.2092668116092682,0.07187069207429886,positive,0.5095957517623901
+7,2018-06-12 04:28:00,"In such a tight labor market, corporates have to raise wages to restrict other companies from poaching their workers.",0.12549154460430145,0.7164626121520996,0.15804587304592133,negative,-0.590971052646637
+8,2018-06-12 04:28:00,"By the way, hourly pay went up 8 cents or 0.3% to $28.92 an hour last month.",0.9411584138870239,0.031550344079732895,0.027291245758533478,positive,0.9096080660820007
+9,2018-06-12 04:28:00,"In the last 12 months, wages rose to 2.7% after remaining at 2.6% for three months at a stretch.",0.9451340436935425,0.03006260097026825,0.024803297594189644,positive,0.915071427822113
+10,2018-06-12 04:28:00,Higher pay means that the cost of borrowing for both consumers and businesses is going to go up soon.,0.8241391777992249,0.04120399057865143,0.13465683162212372,positive,0.7829352021217346
+11,2018-06-12 04:28:00,"Higher inflation, in turn, leads to increased interest rates.",0.8058332204818726,0.025376759469509125,0.1687900871038437,positive,0.7804564833641052
+12,2018-06-12 04:28:00,"Minutes from the Fed's May 2 meeting had already shown that most of the policymakers have agreed that a strong economic outlook warranted a rate hike ""soon.""",0.6421580910682678,0.08636312186717987,0.2714788019657135,positive,0.5557949542999268
+13,2018-06-12 04:28:00,"The U.S. economy is firing on all fronts, with consumer spending rebounding, business investments remaining firm and net exports showing solid strength.",0.9354633688926697,0.02334008738398552,0.041196584701538086,positive,0.9121232628822327
+14,2018-06-12 04:28:00,"Thus, the annualized growth rate in the second quarter is expected at around 4%.",0.5392798185348511,0.01298113726079464,0.4477390646934509,positive,0.5262987017631531
+15,2018-06-12 04:28:00,Traders in the federal funds futures market are now pricing in a 94% chance of a quarter-point rate increase this month.,0.8455859422683716,0.04828812927007675,0.10612596571445465,positive,0.7972978353500366
+16,2018-06-12 04:28:00,"That's no surprise, given the encouraging economic outlook.",0.6335946321487427,0.019191835075616837,0.3472135066986084,positive,0.6144027709960938
+17,2018-06-12 04:28:00,Fed is also sticking to gradual rate hikes this year.,0.5693723559379578,0.037505876272916794,0.39312174916267395,positive,0.5318664908409119
+18,2018-06-12 04:28:00,"After all, concerns over trade disputes and strains in emerging markets remain.",0.2124919891357422,0.503963053226471,0.28354495763778687,negative,-0.29147106409072876
+19,2018-06-12 04:28:00,"The median estimates from economists see two more hikes this year, which matches the Fed's own projections back in March, per a recent Bloomberg survey.",0.4869617819786072,0.04748686030507088,0.46555131673812866,positive,0.4394749104976654
+20,2018-06-12 04:28:00,"With an overwhelming majority of observers seeing an imminent rate hike with more to follow this year, financials stands to gain.",0.8529811501502991,0.05795997008681297,0.08905886113643646,positive,0.7950211763381958
+21,2018-06-12 04:28:00,Banks are definitely the go-to rate trade.,0.08931000530719757,0.028352759778499603,0.8823372721672058,neutral,0.06095724552869797
+22,2018-06-12 04:28:00,"Higher interest rates will boost bank profits as they increase the spread between what banks earn by funding longer-term assets, such as loans, with shorter-term liabilities.",0.9421004056930542,0.01823171228170395,0.03966785594820976,positive,0.923868715763092
+23,2018-06-12 04:28:00,"Insurers, by the way, derive their investment income from investing premiums, which are received from policyholders in corporate and government bonds.",0.03548945114016533,0.005859684199094772,0.9586508274078369,neutral,0.029629766941070557
+24,2018-06-12 04:28:00,Yields and coupons on these bonds rise in response to a rise in interest rates.,0.8054789304733276,0.01816665753722191,0.17635448276996613,positive,0.7873122692108154
+25,2018-06-12 04:28:00,"This enables life insurers to invest their premiums at higher yields and earn more investment income, expanding their profit margins.",0.9404016137123108,0.016756556928157806,0.042841728776693344,positive,0.9236450791358948
+26,2018-06-12 04:28:00,"An increase in rates generally concurs during periods of economic strength and upbeat investor sentiments, which also bodes well for brokerage firms and asset managers.",0.7862911820411682,0.015866365283727646,0.19784240424633026,positive,0.7704248428344727
+27,2018-06-12 04:28:00,"Other than the broader financial sector, technology firms stand to gain from a rate hike.",0.8143252730369568,0.06169753894209862,0.1239771768450737,positive,0.7526277303695679
+28,2018-06-12 04:28:00,Interest rates correlate with an economy that is getting stronger day by day and that could easily boost the bottom lines of smartphone makers like Apple Inc. AAPL .,0.8983066082000732,0.01639447920024395,0.08529888093471527,positive,0.881912112236023
+29,2018-06-12 04:28:00,Rising rates may also compel would-be home buyers to stop searching for houses and instead look for improving their existing ones.,0.41823071241378784,0.2479231059551239,0.33384615182876587,positive,0.17030760645866394
+30,2018-06-12 04:28:00,"Thus, home improvement majors Lowe's Cos. LOW and Home Depot HD stand to gain.",0.9250884652137756,0.02965564653277397,0.04525596275925636,positive,0.8954328298568726
+31,2018-06-12 04:28:00,There is a popular belief that a rise in interest rates makes bonds more alluring and thus money flows out of gold.,0.5445410013198853,0.028973909094929695,0.4264851212501526,positive,0.5155670642852783
+32,2018-06-12 04:28:00,"But, a long-term trend shows that interest rates and gold prices don't have such a negative correlation.",0.04525167867541313,0.34264710545539856,0.6121012568473816,neutral,-0.2973954379558563
+33,2018-06-12 04:28:00,"Such a correlation over the past half century has been only 28%, which is not significant.",0.023962022736668587,0.10941290855407715,0.8666250109672546,neutral,-0.08545088768005371
+34,2018-06-12 04:28:00,And why not?,0.09794297069311142,0.08976064622402191,0.812296450138092,neutral,0.008182324469089508
+35,2018-06-12 04:28:00,The price of gold is not a function of interest rates.,0.016044575721025467,0.00973567645996809,0.974219799041748,neutral,0.006308899261057377
+36,2018-06-12 04:28:00,It is more of a function of supply and demand in the long term.,0.02288406901061535,0.006183399353176355,0.9709326028823853,neutral,0.01670067012310028
+37,2018-06-12 04:28:00,"Rising rates, in fact, at times turns out to be bullish for gold as it is simply bearish for stocks like utilities and home construction, to name a few.",0.07834138721227646,0.08194006979465485,0.8397184610366821,neutral,-0.0035986825823783875
+38,2018-06-12 04:28:00,"Given the aforesaid positives, we have selected five solid stocks from these areas that boast a solid Zacks Rank #1 (Strong Buy) or 2 (Buy).",0.7782527804374695,0.018205074593424797,0.203542098402977,positive,0.7600477337837219
+39,2018-06-12 04:28:00,National Bank Holdings CorporationNBHC is a bank holding company operating full-service banking centers located in Colorado and the greater Kansas City region.,0.026891501620411873,0.005372833926230669,0.9677357077598572,neutral,0.02151866815984249
+40,2018-06-12 04:28:00,NBHC currently has a Zacks Rank #1.,0.24625226855278015,0.018602849915623665,0.735144853591919,neutral,0.22764942049980164
+41,2018-06-12 04:28:00,"In the last 60 days, two earnings estimates moved north, while one moved south for the current year.",0.06552071869373322,0.3678385317325592,0.5666407942771912,neutral,-0.3023177981376648
+42,2018-06-12 04:28:00,The Zacks Consensus Estimate for earnings has moved 12.2% up in the same time frame.,0.9250112771987915,0.030322792008519173,0.04466595500707626,positive,0.8946884870529175
+43,2018-06-12 04:28:00,"Blue Hills Bancorp, Inc.BHBK operates as the bank holding company for Blue Hills Bank.",0.016435561701655388,0.006917172111570835,0.9766472578048706,neutral,0.009518389590084553
+44,2018-06-12 04:28:00,BHBK presently has a Zacks Rank #1.,0.2912554144859314,0.016834380105137825,0.6919102072715759,neutral,0.2744210362434387
+45,2018-06-12 04:28:00,"In the last 60 days, one earnings estimate moved up, while none moved down for the current year.",0.84149169921875,0.04437553137540817,0.11413272470235825,positive,0.7971161603927612
+46,2018-06-12 04:28:00,The Zacks Consensus Estimate for earnings has risen 10.8% in the same period.,0.9493808746337891,0.021612033247947693,0.029007144272327423,positive,0.9277688264846802
+47,2018-06-12 04:28:00,Loews CorporationL - a Zacks Rank #2 company - provides commercial property and casualty insurance.,0.0398717038333416,0.005481146741658449,0.9546471834182739,neutral,0.03439055755734444
+48,2018-06-12 04:28:00,"In the last 60 days, two earnings estimate moved north, while none moved south for the current year.",0.06879192590713501,0.30725163221359253,0.6239564418792725,neutral,-0.23845970630645752
+49,2018-06-12 04:28:00,The Zacks Consensus Estimate for earnings has moved 0.6% up in the same time frame.,0.9126735329627991,0.03610525280237198,0.05122124031186104,positive,0.8765682578086853
+50,2018-06-12 04:28:00,You can see the complete list of today's Zacks #1 Rank stocks here .,0.028663383796811104,0.01958855800330639,0.9517480134963989,neutral,0.009074825793504715
+51,2018-06-12 04:28:00,LPL Financial Holdings Inc.LPLA provides an integrated platform of brokerage and investment advisory services.,0.11660949140787125,0.004826952237635851,0.8785635232925415,neutral,0.11178253591060638
+52,2018-06-12 04:28:00,LPLA currently has a Zacks Rank #1.,0.17798472940921783,0.016589278355240822,0.8054259419441223,neutral,0.16139544546604156
+53,2018-06-12 04:28:00,"In the last 60 days, five earnings estimates moved north, while none moved south for the current year.",0.05618097260594368,0.18763697147369385,0.756182074546814,neutral,-0.13145600259304047
+54,2018-06-12 04:28:00,The Zacks Consensus Estimate for earnings has moved 27.2% up in the same time frame.,0.9274691343307495,0.03071267157793045,0.041818223893642426,positive,0.8967564702033997
+55,2018-06-12 04:28:00,"Northern Dynasty Minerals Ltd.NAK acquires, explores for, and develops mineral properties including gold in the United States.",0.06028137728571892,0.004343009553849697,0.9353756904602051,neutral,0.055938366800546646
+56,2018-06-12 04:28:00,NAK has a Zacks Rank #2.,0.2771070897579193,0.029520567506551743,0.6933723092079163,neutral,0.24758651852607727
+57,2018-06-12 04:28:00,"In the last 60 days, one earnings estimate moved north, while none moved south for the current year.",0.03733673691749573,0.15280506014823914,0.8098582625389099,neutral,-0.11546832323074341
+58,2018-06-12 04:28:00,The Zacks Consensus Estimate for earnings has moved 12% up in the same time period.,0.9337418675422668,0.027492882683873177,0.03876526281237602,positive,0.9062489867210388
+59,2018-06-12 04:28:00,More Stock News: This Is Bigger than the iPhone!,0.3262152671813965,0.02558426558971405,0.648200511932373,neutral,0.30063098669052124
+60,2018-06-12 04:28:00,It could become the mother of all technological revolutions.,0.3357715904712677,0.018597140908241272,0.6456312537193298,neutral,0.31717443466186523
+61,2018-06-12 04:28:00,"Apple sold a mere 1 billion iPhones in 10 years but a new breakthrough is expected to generate more than 27 billion devices in just 3 years, creating a $1.7 trillion market.",0.5349074602127075,0.016818122938275337,0.4482743740081787,positive,0.5180893540382385
+62,2018-06-12 04:28:00,Zacks has just released a Special Report that spotlights this fast-emerging phenomenon and 6 tickers for taking advantage of it.,0.21044442057609558,0.009386956691741943,0.7801685333251953,neutral,0.20105746388435364
+63,2018-06-12 04:28:00,"If you don't buy now, you may kick yourself in 2020.",0.08301617205142975,0.28448015451431274,0.6325036883354187,neutral,-0.201463982462883
+64,2018-06-12 04:28:00,"Click here for the 6 trades >>
+
+Want the latest recommendations from Zacks Investment Research?",0.02286970056593418,0.016098618507385254,0.9610316753387451,neutral,0.006771082058548927
+65,2018-06-12 04:28:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+66,2018-06-12 04:28:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+67,2018-06-12 04:28:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

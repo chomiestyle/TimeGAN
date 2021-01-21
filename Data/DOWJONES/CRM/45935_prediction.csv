@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-16 05:54:00,"There is no surprise that before an earnings season, every investor looks for stocks that can beat market expectation.",0.41929811239242554,0.01803463324904442,0.5626672506332397,neutral,0.4012634754180908
+1,2018-10-16 05:54:00,This is because investors always try to position themselves ahead of time and look to tap stocks that are high-quality in nature.,0.16610807180404663,0.009903754107654095,0.823988139629364,neutral,0.15620431303977966
+2,2018-10-16 05:54:00,Why Is a Positive Earnings Surprise So Important?,0.2771070599555969,0.024831192567944527,0.6980617642402649,neutral,0.25227585434913635
+3,2018-10-16 05:54:00,"Historically, stocks of companies with solid quarterly earnings (on a nominal basis) tank if they miss or merely meet market expectations.",0.035976774990558624,0.7455887198448181,0.21843452751636505,negative,-0.7096119523048401
+4,2018-10-16 05:54:00,"After all, a 20% earnings rise (though apparently looks good) doesn't tell you if earnings growth has been exhibiting a decelerating trend.",0.2974257469177246,0.1679258495569229,0.5346483588218689,neutral,0.1294998973608017
+5,2018-10-16 05:54:00,"Also, seasonal fluctuations come into play sometimes.",0.014714628458023071,0.035722166299819946,0.9495632648468018,neutral,-0.021007537841796875
+6,2018-10-16 05:54:00,"If a company's Q1 is seasonally weak and Q4 is strong, then it is likely to report a sequential earnings decline.",0.019521169364452362,0.9635093212127686,0.01696949265897274,negative,-0.9439881443977356
+7,2018-10-16 05:54:00,"In such cases, growth rates are misleading while judging the true health of a company.",0.033781200647354126,0.22421781718730927,0.742000937461853,neutral,-0.19043661653995514
+8,2018-10-16 05:54:00,"On the other hand, after much brainstorming and analysis of companies' financials and initiatives, Wall Street analysts project earnings of companies.",0.04844855144619942,0.013004089705646038,0.9385473728179932,neutral,0.035444460809230804
+9,2018-10-16 05:54:00,They in fact club their insights and a company's guidance when deriving an earnings estimate.,0.02580416202545166,0.007248395588248968,0.9669473767280579,neutral,0.018555765971541405
+10,2018-10-16 05:54:00,"Thus, outperforming that estimate is almost equivalent to beating the company's own expectation as well as the market perception.",0.8176035284996033,0.0399552620947361,0.14244124293327332,positive,0.7776482701301575
+11,2018-10-16 05:54:00,"And if the margin of earnings surprise is big, it typically drives the stock higher right after the release.",0.6466327905654907,0.042341332882642746,0.31102582812309265,positive,0.6042914390563965
+12,2018-10-16 05:54:00,"Thus, more than anything else, an earnings surprise can push a stock higher.",0.8071960210800171,0.08718205243349075,0.10562198609113693,positive,0.7200139760971069
+13,2018-10-16 05:54:00,How to Find Stocks that Can Beat?,0.18329989910125732,0.021144229918718338,0.7955558896064758,neutral,0.16215567290782928
+14,2018-10-16 05:54:00,"Now, finding stocks that have the potential to beat on the bottom line may be investors' dream but not an easy job.",0.31006890535354614,0.059241339564323425,0.630689799785614,neutral,0.2508275508880615
+15,2018-10-16 05:54:00,One way to do this is to look at the earnings surprise history of the company.,0.024750521406531334,0.007519806735217571,0.9677296876907349,neutral,0.017230715602636337
+16,2018-10-16 05:54:00,An impressive track in this regard generally acts as a catalyst in sending a stock higher.,0.8305662870407104,0.029099442064762115,0.14033430814743042,positive,0.8014668226242065
+17,2018-10-16 05:54:00,It indicates the company's ability to surpass estimates.,0.9398717284202576,0.014519955962896347,0.045608311891555786,positive,0.9253517985343933
+18,2018-10-16 05:54:00,And investors generally believe that the company will apply the same secret sauce to execute yet another earning beat in its next release.,0.7462456226348877,0.024158362299203873,0.2295960932970047,positive,0.7220872640609741
+19,2018-10-16 05:54:00,"In order to shortlist stocks that are likely to come up with an earnings surprise, we chose the followingas our primary screening parameters.",0.038084834814071655,0.006013008300215006,0.955902099609375,neutral,0.03207182511687279
+20,2018-10-16 05:54:00,Last EPS Surprise greater than or equal to 10% : Stocks delivering positive surprise in the last quarter tend to surprise again.,0.5356406569480896,0.1281002014875412,0.336259126663208,positive,0.4075404405593872
+21,2018-10-16 05:54:00,Average EPS Surprise in the last four quarters greater than 20% : We lifted the bar for outperformance slight higher by setting the average EPS surprise for the last four quarters at 20%.,0.6808368563652039,0.022899314761161804,0.29626381397247314,positive,0.6579375267028809
+22,2018-10-16 05:54:00,Average EPS Surprise in the last two quarters greater than 20% : This points to a more consistent surprise history and makes the case for another surprise even stronger.,0.8859981298446655,0.02510184608399868,0.08889999985694885,positive,0.8608962893486023
+23,2018-10-16 05:54:00,"In addition, we place a few other criteria that push up the chance of a surprise.",0.24905098974704742,0.010320281609892845,0.740628719329834,neutral,0.23873071372509003
+24,2018-10-16 05:54:00,Zacks Rank equal to 1 or 2: Only companies with a Strong Buy or Buy rating can get through.,0.12244664877653122,0.012895617634057999,0.8646577596664429,neutral,0.10955102741718292
+25,2018-10-16 05:54:00,"Earnings ESPgreater than zero: A stock needs to have both a positive Earnings ESP and a Zacks Rank of #1, 2 or 3 for an earnings beat to happen, as per our proven model.",0.6448885798454285,0.018101276829838753,0.33701011538505554,positive,0.6267873048782349
+26,2018-10-16 05:54:00,"In order to zero in on those that have long-term growth potential and high trading liquidity, we have added the following parameters too:
+
+Next 3-5 Years Estimated EPS Growth (Per Year) greater than 10%: Solid expected earnings growth exhibits the stock's long-term growth prospects.",0.8933071494102478,0.01318635605275631,0.09350649267435074,positive,0.8801208138465881
+27,2018-10-16 05:54:00,"Average 20-day Volume greater than 100,000: High trading volume implies that the stocks have adequate liquidity.",0.8110440373420715,0.017279596999287605,0.17167645692825317,positive,0.7937644124031067
+28,2018-10-16 05:54:00,"Just these few criteria narrows down the universe from over 7,700 stocks to around 16!",0.12164440751075745,0.020649945363402367,0.8577055931091309,neutral,0.10099446028470993
+29,2018-10-16 05:54:00,"Here are five of the 16 stocks that passed the screen:
+
+Callaway Golf Company (ELY) : The Zacks Rank #1 (Strong Buy) company is renowned for developing innovative products for golfers.",0.5025628805160522,0.010533418506383896,0.48690372705459595,positive,0.49202945828437805
+30,2018-10-16 05:54:00,It belongs to a top-ranked Zacks industry (top 12%).,0.1268928050994873,0.006509759463369846,0.8665974736213684,neutral,0.12038304656744003
+31,2018-10-16 05:54:00,"Herbalife LTD. (HLF) :This Zacks Rank #1global network marketing company offers a range of science-based weight management products, nutritional supplements and personal care products intended to support weight loss and a healthy lifestyle.",0.1289617270231247,0.00495541375130415,0.8660828471183777,neutral,0.12400631606578827
+32,2018-10-16 05:54:00,It hails from a top-ranked Zacks industry (top 15%).,0.14227713644504547,0.0064081596210598946,0.8513146638870239,neutral,0.13586898148059845
+33,2018-10-16 05:54:00,IAC/InterActiveCorp (IAC) : This is a leading media and Internet company.,0.6557821035385132,0.01040225476026535,0.33381563425064087,positive,0.6453798413276672
+34,2018-10-16 05:54:00,It has a Zacks Rank #1.,0.3674675524234772,0.022329019382596016,0.6102034449577332,neutral,0.3451385200023651
+35,2018-10-16 05:54:00,It belongs to a top-ranked Zacks industry (top 38%).,0.11890696734189987,0.0066561088897287846,0.8744369149208069,neutral,0.11225085705518723
+36,2018-10-16 05:54:00,Inogen Inc .,0.021290317177772522,0.020293496549129486,0.958416223526001,neutral,0.0009968206286430359
+37,2018-10-16 05:54:00,INGN : It is a medical technology company and carries a Zacks Rank #1.,0.09141277521848679,0.007364855147898197,0.9012223482131958,neutral,0.08404792100191116
+38,2018-10-16 05:54:00,It belongs to a top-ranked Zacks industry (top 32%).,0.12390929460525513,0.0063745854422450066,0.8697160482406616,neutral,0.11753471195697784
+39,2018-10-16 05:54:00,Salesforce.com Inc (CRM) : This Zacks Rank #1 company is the market and technology leader in on-demand business services.,0.8770460486412048,0.014607017859816551,0.10834693163633347,positive,0.8624390363693237
+40,2018-10-16 05:54:00,It belongs to a top-ranked Zacks industry (top 38%).,0.11890696734189987,0.0066561088897287846,0.8744369149208069,neutral,0.11225085705518723
+41,2018-10-16 05:54:00,You can get the rest of the stocks on this list by signing up now for your 2-week free trial to the Research Wizard and start using this screen in your own trading.,0.0749206468462944,0.006793504115194082,0.9182858467102051,neutral,0.06812714040279388
+42,2018-10-16 05:54:00,"Further, you can also create your own strategies and test them first before taking the investment plunge.",0.10761035978794098,0.0061170910485088825,0.8862725496292114,neutral,0.10149326920509338
+43,2018-10-16 05:54:00,The Research Wizard is a great place to begin.,0.20742648839950562,0.009130500257015228,0.783443033695221,neutral,0.1982959806919098
+44,2018-10-16 05:54:00,It's easy to use.,0.1274539977312088,0.007995017804205418,0.8645509481430054,neutral,0.11945898085832596
+45,2018-10-16 05:54:00,Everything is in plain language.,0.028300747275352478,0.02068278007209301,0.9510164260864258,neutral,0.007617967203259468
+46,2018-10-16 05:54:00,And it's very intuitive.,0.25123029947280884,0.011599363759160042,0.7371703386306763,neutral,0.23963093757629395
+47,2018-10-16 05:54:00,Start your Research Wizard trial today.,0.044511113315820694,0.007261833641678095,0.948227047920227,neutral,0.03724927827715874
+48,2018-10-16 05:54:00,"And the next time you read an economic report, open up the Research Wizard, plug your finds in, and see what gems come out.",0.04027906060218811,0.018189366906881332,0.9415315985679626,neutral,0.022089693695306778
+49,2018-10-16 05:54:00,Click here to sign up for a free trial to the Research Wizard today .,0.0566948726773262,0.022216657176613808,0.9210885167121887,neutral,0.034478217363357544
+50,2018-10-16 05:54:00,"Disclosure: Officers, directors and/or employees of Zacks Investment Research may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.",0.011023171246051788,0.019849004223942757,0.969127893447876,neutral,-0.008825832977890968
+51,2018-10-16 05:54:00,An affiliated investment advisory firm may own or have sold short securities and/or hold long and/or short positions in options that are mentioned in this material.,0.011446081101894379,0.010415039025247097,0.9781388640403748,neutral,0.0010310420766472816
+52,2018-10-16 05:54:00,"Disclosure: Performance information for Zacks' portfolios and strategies are available at:https://www.zacks.com/performance
+
+Want the latest recommendations from Zacks Investment Research?",0.012685063295066357,0.009534447453916073,0.9777805209159851,neutral,0.003150615841150284
+53,2018-10-16 05:54:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+54,2018-10-16 05:54:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+55,2018-10-16 05:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

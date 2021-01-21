@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-26 10:59:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in American Tower Corp (Symbol: AMT), where a total volume of 46,012 contracts has been traded thus far today, a contract volume which is representative of approximately 4.6 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05208754539489746,0.011000249534845352,0.9369122385978699,neutral,0.04108729586005211
+1,2019-12-26 10:59:00,"That number works out to 291.1% of AMT's average daily trading volume over the past month, of 1.6 million shares.",0.7597501873970032,0.022825486958026886,0.21742433309555054,positive,0.7369247078895569
+2,2019-12-26 10:59:00,"Especially high volume was seen for the $180 strike call option expiring January 17, 2020, with 11,005 contracts trading so far today, representing approximately 1.1 million underlying shares of AMT.",0.22442969679832458,0.010931725613772869,0.7646385431289673,neutral,0.21349796652793884
+3,2019-12-26 10:59:00,"Below is a chart showing AMT's trailing twelve month trading history, with the $180 strike highlighted in orange:
+
+Procter & Gamble Company (Symbol: PG) options are showing a volume of 66,629 contracts thus far today.",0.022926298901438713,0.030765164643526077,0.9463085532188416,neutral,-0.007838865742087364
+4,2019-12-26 10:59:00,"That number of contracts represents approximately 6.7 million underlying shares, working out to a sizeable 99.4% of PG's average daily trading volume over the past month, of 6.7 million shares.",0.1592615842819214,0.009522810578346252,0.8312156200408936,neutral,0.14973877370357513
+5,2019-12-26 10:59:00,"Especially high volume was seen for the $120 strike call option expiring January 15, 2021, with 29,943 contracts trading so far today, representing approximately 3.0 million underlying shares of PG.",0.19620493054389954,0.00961367879062891,0.7941814064979553,neutral,0.1865912526845932
+6,2019-12-26 10:59:00,"Below is a chart showing PG's trailing twelve month trading history, with the $120 strike highlighted in orange:
+
+And General Mills Inc (Symbol: GIS) options are showing a volume of 32,406 contracts thus far today.",0.017700793221592903,0.05837823078036308,0.9239209294319153,neutral,-0.04067743569612503
+7,2019-12-26 10:59:00,"That number of contracts represents approximately 3.2 million underlying shares, working out to a sizeable 82.5% of GIS's average daily trading volume over the past month, of 3.9 million shares.",0.16132493317127228,0.009465464390814304,0.8292096257209778,neutral,0.15185946226119995
+8,2019-12-26 10:59:00,"Particularly high volume was seen for the $50 strike call option expiring January 15, 2021, with 14,992 contracts trading so far today, representing approximately 1.5 million underlying shares of GIS.",0.2617139518260956,0.011040451005101204,0.7272456288337708,neutral,0.2506735026836395
+9,2019-12-26 10:59:00,"Below is a chart showing GIS's trailing twelve month trading history, with the $50 strike highlighted in orange:
+
+For the various different available expirations for AMT options, PG options, or GIS options, visit StockOptionsChannel.com.",0.010016080923378468,0.02814938873052597,0.9618344902992249,neutral,-0.018133308738470078
+10,2019-12-26 10:59:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631768465042114,0.0070797656662762165,0.9682884216308594,neutral,0.017552003264427185

@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-07 05:45:00,I bought and sold Apple (NASDAQ: AAPL) many times over the past several years.,0.06929749995470047,0.005154293961822987,0.9255481958389282,neutral,0.06414320319890976
+1,2018-04-07 05:45:00,"I made some decent profits, but I also learned a painful lesson -- that my profits would have been much higher if I had simply held the stock instead of trading it.",0.606673002243042,0.07768227905035019,0.3156447112560272,positive,0.5289907455444336
+2,2018-04-07 05:45:00,"That's why I recently started a brand new position in Apple, and I plan to hold the stock for at least five to ten years.",0.22577118873596191,0.006775686051696539,0.767453134059906,neutral,0.21899549663066864
+3,2018-04-07 05:45:00,Here are my top four reasons for doing so.,0.01885656639933586,0.015504196286201477,0.9656391739845276,neutral,0.003352370113134384
+4,2018-04-07 05:45:00,"Many tech investors, myself included, often can't see the forest for the trees with Apple.",0.07480539381504059,0.2286302000284195,0.6965643763542175,neutral,-0.1538248062133789
+5,2018-04-07 05:45:00,"We become so concerned about technical details, like the specs of the processor and camera, that we don't recognize that Apple is more of a consumer goods company than a tech one.",0.03147689253091812,0.4270867109298706,0.5414363741874695,neutral,-0.3956098258495331
+6,2018-04-07 05:45:00,"Warren Buffett, who famously avoided tech stocks for most of his career, repeatedly called Apple a consumer products maker.",0.10462874174118042,0.5351251363754272,0.36024612188339233,negative,-0.4304963946342468
+7,2018-04-07 05:45:00,"Speaking to CNBC in February, Buffett stated that Apple has ""an extraordinary consumer franchise"" and that the iPhone ""is a very sticky product.""",0.1882515698671341,0.4816545248031616,0.3300938308238983,negative,-0.2934029698371887
+8,2018-04-07 05:45:00,"When we think of Apple as a consumer goods company instead of a tech one, the stock looks incredibly cheap.",0.07491220533847809,0.02661057934165001,0.8984771966934204,neutral,0.04830162599682808
+9,2018-04-07 05:45:00,"Analysts expect Apple's revenue and earnings to rise 14% and 24%, respectively, this year.",0.9534620642662048,0.01734541356563568,0.029192442074418068,positive,0.936116635799408
+10,2018-04-07 05:45:00,Yet the stock trades at just 14 times forward earnings.,0.09506118297576904,0.07902075350284576,0.8259180784225464,neutral,0.01604042947292328
+11,2018-04-07 05:45:00,"That forward multiple looks ridiculous compared to other ""defensive"" consumer staples stocks.",0.06453025341033936,0.602169930934906,0.333299845457077,negative,-0.5376396775245667
+12,2018-04-07 05:45:00,"Procter & Gamble trades at 17 times forward earnings, but the analysts expect its earnings to grow just 7% this year.",0.8496763110160828,0.03956948593258858,0.11075419932603836,positive,0.8101068139076233
+13,2018-04-07 05:45:00,"Colgate-Palmolive trades at 22 times forward earnings, yet Wall Street expects its earnings to only rise 11% this year.",0.8352996110916138,0.04752868786454201,0.1171717718243599,positive,0.7877709269523621
+14,2018-04-07 05:45:00,"Last May, Buffett told CNBC that he compared Apple to furniture makers to gauge its true value.",0.29750755429267883,0.022534076124429703,0.6799583435058594,neutral,0.27497348189353943
+15,2018-04-07 05:45:00,"That comparison might seem absurd, but it makes a lot of sense.",0.1020299643278122,0.03263862803578377,0.8653313517570496,neutral,0.06939134001731873
+16,2018-04-07 05:45:00,"Like the furniture market, the smartphone market is a commoditized one.",0.027458231896162033,0.007661920040845871,0.9648799300193787,neutral,0.019796311855316162
+17,2018-04-07 05:45:00,"For example, a consumer can buy a sofa for $100, but there's still room for premium sofa makers to sell $2,000 sofas.",0.06318555772304535,0.009781585074961185,0.9270328283309937,neutral,0.05340397357940674
+18,2018-04-07 05:45:00,The maker of a $100 sofa would likely struggle more against its competitors in the low-end market.,0.08384231477975845,0.8854031562805176,0.03075454942882061,negative,-0.8015608191490173
+19,2018-04-07 05:45:00,"Meanwhile, the maker of the $2,000 sofa could dominate the high-end market with its reputation and brand strength.",0.8661459684371948,0.01422145590186119,0.11963251233100891,positive,0.8519245386123657
+20,2018-04-07 05:45:00,"""People want the product,"" Buffett stated.",0.2312432825565338,0.009800550527870655,0.7589561343193054,neutral,0.22144272923469543
+21,2018-04-07 05:45:00,"""They don't want the cheapest product.""",0.0950920358300209,0.44380316138267517,0.46110478043556213,neutral,-0.34871113300323486
+22,2018-04-07 05:45:00,The Oracle of Omaha is right.,0.21569393575191498,0.05644289031624794,0.7278631925582886,neutral,0.15925104916095734
+23,2018-04-07 05:45:00,"Last May, a Morgan Stanley study found that the iPhone had a retention rate of 92%, up from 86% a year earlier.",0.9491919279098511,0.02460390329360962,0.026204178109765053,positive,0.9245880246162415
+24,2018-04-07 05:45:00,Samsung retained just 77% of its customers.,0.027777744457125664,0.35073748230934143,0.6214847564697266,neutral,-0.3229597508907318
+25,2018-04-07 05:45:00,Apple's reputation as a luxury brand gives it the power to charge much higher prices than its competitors.,0.764032244682312,0.01774720288813114,0.21822062134742737,positive,0.7462850213050842
+26,2018-04-07 05:45:00,"That's how Apple -- which controls a fifth of the world's smartphone market (IDC) -- gobbled up 60% of its smartphone profits in the third quarter of 2017, according to Counterpoint Research.",0.8420751690864563,0.07362396270036697,0.08430088311433792,positive,0.7684512138366699
+27,2018-04-07 05:45:00,4.,0.02723013237118721,0.017433011904358864,0.9553368091583252,neutral,0.009797120466828346
+28,2018-04-07 05:45:00,"Apple will not live and die by the iPhone
+
+The bears usually claim that Apple's heavy reliance on the iPhone, which generated 70% of its revenues last quarter , is its Achilles' heel.",0.03281162306666374,0.8462833762168884,0.12090505659580231,negative,-0.8134717345237732
+29,2018-04-07 05:45:00,But that argument is flawed for three simple reasons.,0.0417497493326664,0.7393084168434143,0.2189418226480484,negative,-0.6975586414337158
+30,2018-04-07 05:45:00,"First, Apple still has room to raise prices to offset shipment declines.",0.9197361469268799,0.020574986934661865,0.05968886986374855,positive,0.899161159992218
+31,2018-04-07 05:45:00,"That's what it did last quarter, when its iPhone shipments slipped 1% annually but its revenues still rose 13%.",0.5118607878684998,0.4071607291698456,0.08097843825817108,positive,0.10470005869865417
+32,2018-04-07 05:45:00,"Second, Apple's Services unit -- which includes Apple Pay, Apple Music, AppleCare, iTunes, and other services -- is rapidly growing.",0.8310084342956543,0.011902663856744766,0.1570889800786972,positive,0.8191057443618774
+33,2018-04-07 05:45:00,Revenues from that business rose 18% annually and accounted for 10% of Apple's top line.,0.8773215413093567,0.01356769073754549,0.10911080241203308,positive,0.8637538552284241
+34,2018-04-07 05:45:00,Those services lock in Apple's customers and boost its revenues per user -- which could offset its slowing iPhone shipments.,0.9480662941932678,0.02224826067686081,0.029685460031032562,positive,0.9258180260658264
+35,2018-04-07 05:45:00,"Lastly, Apple plans to repatriate almost all of its overseas cash (over $250 billion) in the near future.",0.1020490825176239,0.018769191578030586,0.8791817426681519,neutral,0.08327989280223846
+36,2018-04-07 05:45:00,"Apple could apply that cash to buybacks, dividends, and domestic acquisitions -- which would make its stock cheaper, attract more income investors, and give it new ways to reduce its dependence on the iPhone.",0.9235061407089233,0.01621030829846859,0.06028355285525322,positive,0.907295823097229
+37,2018-04-07 05:45:00,Many investors seem to dismiss Apple as a slow-growth tech stock.,0.023685764521360397,0.8992006778717041,0.07711352407932281,negative,-0.8755149245262146
+38,2018-04-07 05:45:00,"However, I believe that it's a high-growth consumer goods stock that trades at a ridiculously low multiple.",0.03104441985487938,0.04024028405547142,0.9287152886390686,neutral,-0.009195864200592041
+39,2018-04-07 05:45:00,That's why I finally decided to buy Apple for the long term.,0.33052241802215576,0.008519155904650688,0.6609584093093872,neutral,0.3220032751560211
+40,2018-04-07 05:45:00,"10 stocks we like better than Apple
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.14817257225513458,0.027856221422553062,0.8239712119102478,neutral,0.12031634896993637
+41,2018-04-07 05:45:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+42,2018-04-07 05:45:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Apple wasn't one of them!",0.23931008577346802,0.01389764342457056,0.746792197227478,neutral,0.22541244328022003
+43,2018-04-07 05:45:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+44,2018-04-07 05:45:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+45,2018-04-07 05:45:00,Leo Sun owns shares of Apple.,0.017222953960299492,0.010481506586074829,0.9722955226898193,neutral,0.006741447374224663
+46,2018-04-07 05:45:00,The Motley Fool owns shares of and recommends Apple.,0.0575864277780056,0.0276399664580822,0.9147735834121704,neutral,0.0299464613199234
+47,2018-04-07 05:45:00,The Motley Fool has the following options: long January 2020 $150 calls on Apple and short January 2020 $155 calls on Apple.,0.015124468132853508,0.041013702750205994,0.9438618421554565,neutral,-0.025889234617352486
+48,2018-04-07 05:45:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+49,2018-04-07 05:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-02-27 06:30:00,Wall Street closed lower on Wednesday following mixed economic data and weak earnings result from a major retail store.,0.01956586353480816,0.9692713022232056,0.01116282120347023,negative,-0.9497054219245911
+1,2019-02-27 06:30:00,"Moreover, investors waited for congressional testimony of the Fed Chairman Jerome Powell.",0.19036541879177094,0.031477537006139755,0.7781570553779602,neutral,0.15888787806034088
+2,2019-02-27 06:30:00,All three major stock indexes ended in the red.,0.24372586607933044,0.33836641907691956,0.4179077446460724,neutral,-0.09464055299758911
+3,2019-02-27 06:30:00,"The Dow Jones Industrial Average (DJI) closed at 26,057.98, declining 0.1%.",0.024501873180270195,0.9654422402381897,0.010055874474346638,negative,-0.9409403800964355
+4,2019-02-27 06:30:00,"The S&P 500 Index (INX) decreased 0.1% to close at 2,793.90.",0.019770976155996323,0.970553457736969,0.009675558656454086,negative,-0.9507824778556824
+5,2019-02-27 06:30:00,"Meanwhile, the Nasdaq Composite Index (IXIC) closed at 7,549.30, losing 0.1%.",0.02098955027759075,0.9703571200370789,0.008653388358652592,negative,-0.9493675827980042
+6,2019-02-27 06:30:00,"A total of 7.05 billion shares were traded on Tuesday, lower than the last 20-session average of 7.3 billion shares.",0.01646779477596283,0.9684080481529236,0.01512416172772646,negative,-0.9519402384757996
+7,2019-02-27 06:30:00,Decliners outnumbered advancers on the NYSE by 1.29-to-1 ratio.,0.6695990562438965,0.26185959577560425,0.06854137778282166,positive,0.40773946046829224
+8,2019-02-27 06:30:00,"On the Nasdaq, decliners had an edge over advancers by 1.56-to-1 ratio.",0.895006537437439,0.03976112976670265,0.06523236632347107,positive,0.8552454113960266
+9,2019-02-27 06:30:00,The CBOE VIX increased 2.2% to close at 15.17.,0.9521188735961914,0.019849548116326332,0.028031598776578903,positive,0.9322693347930908
+10,2019-02-27 06:30:00,How Did the Benchmarks Perform?,0.05813434347510338,0.022671960294246674,0.9191937446594238,neutral,0.035462383180856705
+11,2019-02-27 06:30:00,The Dow ended in negative territory after a 2-day winning run.,0.023510506376624107,0.9573394060134888,0.019150055944919586,negative,-0.9338288903236389
+12,2019-02-27 06:30:00,"Notably, 18 stocks of the 30-stocks blue-chip index finished in the green while twelve ended in the red.",0.06373318284749985,0.045996420085430145,0.8902703523635864,neutral,0.017736762762069702
+13,2019-02-27 06:30:00,"The tech-heavy Nasdaq Composite finished in the red after two successive days of gains, due to weak performance by large-cap tech stocks.",0.03234163299202919,0.9537835121154785,0.01387492660433054,negative,-0.9214418530464172
+14,2019-02-27 06:30:00,"The S&P 500 closed in the red, reversing the two-day rally.",0.6833970546722412,0.1401127278804779,0.17649024724960327,positive,0.5432842969894409
+15,2019-02-27 06:30:00,The Materials Select Sector SPDR (XLB) lost 0.6%.,0.02111309953033924,0.9672499895095825,0.011636902578175068,negative,-0.9461368918418884
+16,2019-02-27 06:30:00,"Notably, seven out of 11 sectors of the benchmark index closed in the red while four ended in green.",0.17052097618579865,0.09152611345052719,0.7379528880119324,neutral,0.07899486273527145
+17,2019-02-27 06:30:00,"Conference Board's Consumer Confidence index for February surged to 131.4, its highest level in four months.",0.9270383715629578,0.035242222249507904,0.037719398736953735,positive,0.8917961716651917
+18,2019-02-27 06:30:00,The consensus estimate was 124.8.,0.03925872966647148,0.022341111674904823,0.9384002089500427,neutral,0.016917617991566658
+19,2019-02-27 06:30:00,"Moreover, the Future expectation index (which track consumer's expectations for next six months) jumped 103.4 from 89.4.",0.9484245181083679,0.02854386903345585,0.02303162030875683,positive,0.9198806285858154
+20,2019-02-27 06:30:00,"The Department of Commerce reported that the number of new homes under construction fell 11.2% in December to an annual rate of 1.078 million, from 1.214 million in November.",0.02020449936389923,0.9726839065551758,0.007111662998795509,negative,-0.9524794220924377
+21,2019-02-27 06:30:00,The consensus estimate was 1.253 million.,0.018535124137997627,0.0386127270758152,0.9428520798683167,neutral,-0.020077602937817574
+22,2019-02-27 06:30:00,This was the lowest level of housing starts since September 2016.,0.01839952915906906,0.9565325975418091,0.025067880749702454,negative,-0.9381330609321594
+23,2019-02-27 06:30:00,"As per the S&P CoreLogic Case-Shiller U.S. National Home Price Index, prices of homes have appreciated by 4.7% in December compared with 5.1% in November.",0.9300040602684021,0.04922289401292801,0.02077302522957325,positive,0.8807811737060547
+24,2019-02-27 06:30:00,This was the slowest pace of increase since August 2015.,0.02813088893890381,0.943123996257782,0.02874506451189518,negative,-0.9149931073188782
+25,2019-02-27 06:30:00,"However, the number of building permits increased in December by 0.3% to an annual pace of 1.326 million, higher than the consensus estimate of 1.281 million.",0.9526886343955994,0.020707866176962852,0.026603547856211662,positive,0.9319807887077332
+26,2019-02-27 06:30:00,The Home Depot Inc. HD posted better-than-expected earnings for fourth-quarter fiscal 2018.,0.8960636258125305,0.07839328795671463,0.025543170049786568,positive,0.8176703453063965
+27,2019-02-27 06:30:00,"However, the company's top line lagged the Zacks Consensus Estimate while comparable store sales (comps) growth was below analysts' expectations.",0.055401187390089035,0.905205488204956,0.039393335580825806,negative,-0.8498042821884155
+28,2019-02-27 06:30:00,Net sales grew 10.9% to $26.49 but lagged the Zacks Consensus Estimate of $26.56 billion.,0.9183323383331299,0.05481390655040741,0.026853688061237335,positive,0.8635184168815613
+29,2019-02-27 06:30:00,"Consequently, shares of Home Depot declined 0.9%.",0.018658554181456566,0.9702966213226318,0.011044882237911224,negative,-0.9516380429267883
+30,2019-02-27 06:30:00,( Read More ).,0.020853165537118912,0.014920148067176342,0.9642266631126404,neutral,0.00593301746994257
+31,2019-02-27 06:30:00,Home Depot carries a Zacks Rank #3 (Hold).,0.030894972383975983,0.01991945691406727,0.9491856098175049,neutral,0.010975515469908714
+32,2019-02-27 06:30:00,You can see the complete list of today's Zacks #1 RanK (Strong Buy) stocks here .,0.05316152796149254,0.01201231312006712,0.934826135635376,neutral,0.041149213910102844
+33,2019-02-27 06:30:00,"On Feb 25, in his testimony before the Senate Banking Committee, Fed Chair Jerome Powell said that while the U.S. economy is currently at good shape, it may face headwinds from economic slowdown in China, Japan and Eurozone.",0.18610917031764984,0.7193164229393005,0.09457431733608246,negative,-0.5332072377204895
+34,2019-02-27 06:30:00,"He added that while job market data and wage growth called for further rate hikes, some important economic indicators have softened in the last one month.",0.19508598744869232,0.6980847716331482,0.10682924836874008,negative,-0.5029987692832947
+35,2019-02-27 06:30:00,"Consequently, the Fed will maintain its dovish monetary stance at least for the time being.",0.17612069845199585,0.037070926278829575,0.7868083715438843,neutral,0.13904976844787598
+36,2019-02-27 06:30:00,"EOG Resources Inc. EOG delivered fourth-quarter 2018 adjusted earnings of $1.24 per share, which missed the Zacks Consensus Estimate of $1.34.",0.046695347875356674,0.9388958215713501,0.014408749528229237,negative,-0.8922004699707031
+37,2019-02-27 06:30:00,"( Read More )
+
+Is Your Investment Advisor Fumbling Your Financial Future?",0.06505937874317169,0.35970473289489746,0.575235903263092,neutral,-0.29464536905288696
+38,2019-02-27 06:30:00,"See how you can more effectively safeguard your retirement with a new Special Report, ""4 Warning Signs Your Investment Advisor Might Be Sabotaging Your Financial Future.""",0.12206042557954788,0.3581244647502899,0.5198151469230652,neutral,-0.23606404662132263
+39,2019-02-27 06:30:00,"Click to get it free >>
+
+Want the latest recommendations from Zacks Investment Research?",0.02621891163289547,0.014715027995407581,0.9590660333633423,neutral,0.011503883637487888
+40,2019-02-27 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069374665617943,0.007019795011729002,0.9422864317893982,neutral,0.04367395117878914
+41,2019-02-27 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+42,2019-02-27 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

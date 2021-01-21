@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-07-09 06:38:00,"In early trading on Monday, shares of Caterpillar ( CAT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.3%.",0.9389846324920654,0.030865997076034546,0.030149361118674278,positive,0.9081186056137085
+1,2018-07-09 06:38:00,"Year to date, Caterpillar has lost about 12.1% of its value.",0.01650232821702957,0.9549416899681091,0.028556065633893013,negative,-0.9384393692016602
+2,2018-07-09 06:38:00,"And the worst performing Dow component thus far on the day is Procter & Gamble Company ( PG ), trading down 1.8%.",0.021077312529087067,0.9644092321395874,0.014513508416712284,negative,-0.9433318972587585
+3,2018-07-09 06:38:00,Procter & Gamble Company is lower by about 15.2% looking at the year to date performance.,0.020379237830638885,0.9668669104576111,0.01275380328297615,negative,-0.9464876651763916
+4,2018-07-09 06:38:00,"Two other components making moves today are Cisco Systems ( CSCO ), trading down 0.5%, and JPMorgan Chase ( JPM ), trading up 2.2% on the day.",0.037007756531238556,0.9249403476715088,0.03805188834667206,negative,-0.8879325985908508
+5,2018-07-09 06:38:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

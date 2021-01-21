@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-26 11:24:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Nike (Symbol: NKE), where a total volume of 27,685 contracts has been traded thus far today, a contract volume which is representative of approximately 2.8 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.0514003224670887,0.011262848973274231,0.9373368620872498,neutral,0.04013747349381447
+1,2019-06-26 11:24:00,"That number works out to 42.5% of NKE's average daily trading volume over the past month, of 6.5 million shares.",0.7355919480323792,0.019975362345576286,0.24443268775939941,positive,0.7156165838241577
+2,2019-06-26 11:24:00,"Particularly high volume was seen for the $90 strike call option expiring July 19, 2019, with 3,784 contracts trading so far today, representing approximately 378,400 underlying shares of NKE.",0.34065356850624084,0.012850644066929817,0.6464958190917969,neutral,0.3278029263019562
+3,2019-06-26 11:24:00,"Below is a chart showing NKE's trailing twelve month trading history, with the $90 strike highlighted in orange:
+
+Uniti Group Inc (Symbol: UNIT) saw options trading volume of 11,369 contracts, representing approximately 1.1 million underlying shares or approximately 42.1% of UNIT's average daily trading volume over the past month, of 2.7 million shares.",0.021813053637742996,0.012974017299711704,0.9652129411697388,neutral,0.008839036338031292
+4,2019-06-26 11:24:00,"Especially high volume was seen for the $5 strike put option expiring August 16, 2019, with 3,172 contracts trading so far today, representing approximately 317,200 underlying shares of UNIT.",0.1773526966571808,0.010619441978633404,0.8120279312133789,neutral,0.1667332500219345
+5,2019-06-26 11:24:00,"Below is a chart showing UNIT's trailing twelve month trading history, with the $5 strike highlighted in orange:
+
+And Salesforce.com Inc (Symbol: CRM) saw options trading volume of 37,191 contracts, representing approximately 3.7 million underlying shares or approximately 41.9% of CRM's average daily trading volume over the past month, of 8.9 million shares.",0.021215977147221565,0.014952295459806919,0.9638317227363586,neutral,0.006263681687414646
+6,2019-06-26 11:24:00,"Particularly high volume was seen for the $160 strike call option expiring September 20, 2019, with 5,602 contracts trading so far today, representing approximately 560,200 underlying shares of CRM.",0.3426697850227356,0.012941086664795876,0.6443891525268555,neutral,0.3297286927700043
+7,2019-06-26 11:24:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+For the various different available expirations for NKE options, UNIT options, or CRM options, visit StockOptionsChannel.com.",0.009534673765301704,0.02789493463933468,0.9625703692436218,neutral,-0.018360260874032974
+8,2019-06-26 11:24:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

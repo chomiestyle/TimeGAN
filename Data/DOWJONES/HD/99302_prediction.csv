@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-23 07:31:00,"In early trading on Monday, shares of Home Depot ( HD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.2%.",0.9371333718299866,0.0323922298848629,0.030474429950118065,positive,0.9047411680221558
+1,2015-11-23 07:31:00,"Year to date, Home Depot registers a 25.5% gain.",0.9476624727249146,0.021558187901973724,0.030779344961047173,positive,0.9261043071746826
+2,2015-11-23 07:31:00,"And the worst performing Dow component thus far on the day is Pfizer ( PFE ), trading down 2.9%.",0.02007063664495945,0.9653090238571167,0.014620392583310604,negative,-0.9452384114265442
+3,2015-11-23 07:31:00,Pfizer is showing a gain of 0.3% looking at the year to date performance.,0.9412845373153687,0.020198846235871315,0.03851662203669548,positive,0.9210857152938843
+4,2015-11-23 07:31:00,"Two other components making moves today are Goldman Sachs Group ( GS ), trading down 0.5%, and Coca-Cola ( KO ), trading up 0.9% on the day.",0.03747483342885971,0.929639458656311,0.03288574516773224,negative,-0.8921646475791931
+5,2015-11-23 07:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

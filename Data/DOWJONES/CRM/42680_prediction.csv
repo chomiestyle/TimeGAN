@@ -1,0 +1,18 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-18 09:37:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Broadcom Inc (Symbol: AVGO), where a total volume of 47,021 contracts has been traded thus far today, a contract volume which is representative of approximately 4.7 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.05211823806166649,0.010793362744152546,0.9370883703231812,neutral,0.04132487624883652
+1,2020-06-18 09:37:00,"That number works out to 171.4% of AVGO's average daily trading volume over the past month, of 2.7 million shares.",0.7618269920349121,0.022417234256863594,0.21575582027435303,positive,0.7394097447395325
+2,2020-06-18 09:37:00,"Especially high volume was seen for the $325 strike call option expiring June 19, 2020, with 9,115 contracts trading so far today, representing approximately 911,500 underlying shares of AVGO.",0.24076108634471893,0.011843162588775158,0.7473956942558289,neutral,0.2289179265499115
+3,2020-06-18 09:37:00,"Below is a chart showing AVGO's trailing twelve month trading history, with the $325 strike highlighted in orange:
+
+Salesforce.com Inc (Symbol: CRM) options are showing a volume of 65,400 contracts thus far today.",0.019750239327549934,0.040110114961862564,0.9401395916938782,neutral,-0.02035987563431263
+4,2020-06-18 09:37:00,"That number of contracts represents approximately 6.5 million underlying shares, working out to a sizeable 93.2% of CRM's average daily trading volume over the past month, of 7.0 million shares.",0.13690024614334106,0.00991781335324049,0.8531819581985474,neutral,0.1269824355840683
+5,2020-06-18 09:37:00,"Especially high volume was seen for the $200 strike call option expiring July 17, 2020, with 13,039 contracts trading so far today, representing approximately 1.3 million underlying shares of CRM.",0.24450859427452087,0.011290485970675945,0.7442009449005127,neutral,0.23321810364723206
+6,2020-06-18 09:37:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $200 strike highlighted in orange:
+
+And Facebook Inc (Symbol: FB) options are showing a volume of 154,224 contracts thus far today.",0.02140834368765354,0.1057528704404831,0.8728388547897339,neutral,-0.0843445286154747
+7,2020-06-18 09:37:00,"That number of contracts represents approximately 15.4 million underlying shares, working out to a sizeable 61.3% of FB's average daily trading volume over the past month, of 25.2 million shares.",0.1245134025812149,0.009622796438634396,0.8658638000488281,neutral,0.11489060521125793
+8,2020-06-18 09:37:00,"Particularly high volume was seen for the $235 strike call option expiring June 19, 2020, with 11,388 contracts trading so far today, representing approximately 1.1 million underlying shares of FB.",0.21406462788581848,0.01100000087171793,0.7749353647232056,neutral,0.20306462049484253
+9,2020-06-18 09:37:00,"Below is a chart showing FB's trailing twelve month trading history, with the $235 strike highlighted in orange:
+
+For the various different available expirations for AVGO options, CRM options, or FB options, visit StockOptionsChannel.com.",0.009896406903862953,0.03261582925915718,0.9574878215789795,neutral,-0.022719422355294228
+10,2020-06-18 09:37:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631768465042114,0.0070797656662762165,0.9682884216308594,neutral,0.017552003264427185

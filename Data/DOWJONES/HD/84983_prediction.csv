@@ -1,0 +1,58 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-27 07:55:00,"Every day, Wall Street analysts upgrade some stocks, downgrade others, and ""initiate coverage"" on a few more.",0.41351959109306335,0.07745451480150223,0.5090259313583374,neutral,0.3360650837421417
+1,2017-11-27 07:55:00,But do these analysts even know what they're talking about?,0.034647148102521896,0.060044191777706146,0.9053086638450623,neutral,-0.02539704367518425
+2,2017-11-27 07:55:00,"Today, we're taking one high-profile Wall Street pick and putting it under the microscope...
+
+Black Friday has receded into the rearview mirror, but according to one Wall Street analyst, there's still time to grab one last bargain.",0.2825287878513336,0.03682602196931839,0.680645227432251,neutral,0.24570277333259583
+3,2017-11-27 07:55:00,"This morning, analysts at Raymond James announced they're upgrading shares of Lowe's (NYSE: LOW) to outperform and assigning the home improvement retailer's stock a new price target of $87.",0.8623552322387695,0.0233471542596817,0.11429758369922638,positive,0.839008092880249
+4,2017-11-27 07:55:00,Here are three things you need to know about that.,0.017404748126864433,0.010204117745161057,0.9723911285400391,neutral,0.007200630381703377
+5,2017-11-27 07:55:00,Lowe's reported its fiscal Q3 2017 earnings results last week.,0.11896844208240509,0.08100785315036774,0.8000237345695496,neutral,0.037960588932037354
+6,2017-11-27 07:55:00,Sales surged 6.5% year over year as its stores benefited from homeowners fixing hurricane-damaged homes in the storm-plagued third quarter of the year.,0.9510226845741272,0.026354148983955383,0.022623181343078613,positive,0.924668550491333
+7,2017-11-27 07:55:00,Profits more than doubled to $1.05 per diluted share -- a 144% jump.,0.9526845216751099,0.023231100291013718,0.024084430187940598,positive,0.929453432559967
+8,2017-11-27 07:55:00,"As my fellow Fool Demitrios Kalogeropoulos commented at the time, the biggest black mark against Lowe's last quarter was that its results didn't quite measure up to the even more superb numbers posted by Lowe's archrival, Home Depot (NYSE: HD) .",0.04504987597465515,0.9220119118690491,0.03293826803565025,negative,-0.8769620656967163
+9,2017-11-27 07:55:00,"Although Home Depot's profits didn't jump as much (because HD's Q3 2016 results weren't depressed as much by one-time charges), it did grow profits 10% year over year, and increased sales 8.1%, or 160 basis points better than Lowe's.",0.9565616846084595,0.02387716993689537,0.019561098888516426,positive,0.9326845407485962
+10,2017-11-27 07:55:00,Lowe's also posted a lower operating profit margin of just 9.2% on its Q3 sales -- nearly 6 percentage points below Home Depot's 15% margin.,0.020762158557772636,0.9656292796134949,0.013608532026410103,negative,-0.9448671340942383
+11,2017-11-27 07:55:00,2.,0.020992202684283257,0.01708322763442993,0.9619246125221252,neutral,0.003908975049853325
+12,2017-11-27 07:55:00,"What Raymond James said about that
+
+Nonetheless, Raymond James still found Lowe's results pretty impressive.",0.9154753684997559,0.022423328831791878,0.062101200222969055,positive,0.8930520415306091
+13,2017-11-27 07:55:00,"As related in an upgrade note reported by TheFly.com , Lowe's Q3 results constituted a beat and raise that augurs well for the stock's future performance.",0.9431887865066528,0.02237722836434841,0.03443404287099838,positive,0.9208115339279175
+14,2017-11-27 07:55:00,"Additionally, Raymond James argued that ""underlying industry indicators, combined with industry supplier commentary, remain supportive of the home improvement industry heading into 2018,"" says TheFly.com.",0.702398419380188,0.014330497942864895,0.28327110409736633,positive,0.6880679130554199
+15,2017-11-27 07:55:00,"Raymond James believes ""rising home prices and wages continue to support discretionary projects.""",0.8634825944900513,0.021222250536084175,0.11529520899057388,positive,0.8422603607177734
+16,2017-11-27 07:55:00,"According to a report by market analyst CoreLogic earlier this month, the average sales price of a home in the U.S. nationally increased 7% year over year in September.",0.9498611092567444,0.02185874432325363,0.028280168771743774,positive,0.9280023574829102
+17,2017-11-27 07:55:00,This was a slight improvement over the 6.9% year-over-year average price increase is recorded in August.,0.9310725331306458,0.03383038565516472,0.03509704768657684,positive,0.8972421288490295
+18,2017-11-27 07:55:00,"Furthermore, CoreLogic projects home prices will rise 4.7% over the next year.",0.9399672746658325,0.01790904998779297,0.04212373495101929,positive,0.9220582246780396
+19,2017-11-27 07:55:00,"Because homeowners can use the value of their houses as collateral to secure home equity lines of credit, rising home prices tend to support homeowner spending on home improvement.",0.7735326290130615,0.05542668327689171,0.17104069888591766,positive,0.7181059718132019
+20,2017-11-27 07:55:00,"In addition, the upward trend in home prices gives homeowners more confidence that investing in home improvements today will deliver a return on their investment upon their home's later sale.",0.9331181645393372,0.01765119470655918,0.049230627715587616,positive,0.9154669642448425
+21,2017-11-27 07:55:00,"The story with wages has been similar, if somewhat less optimistic.",0.1722455769777298,0.09302321821451187,0.7347311973571777,neutral,0.07922235876321793
+22,2017-11-27 07:55:00,"According to the U.S. Bureau of Labor Statistics, hourly wages of private employees in the U.S. grew 0.4% from October 2016 to October 2017.",0.5231245160102844,0.4164312779903412,0.0604441799223423,positive,0.10669323801994324
+23,2017-11-27 07:55:00,"October's rise was less than the 0.6% year-over-year increase seen in September, and the 0.7% year-over-year growth recorded in August.",0.029253266751766205,0.956189751625061,0.014556949958205223,negative,-0.9269365072250366
+24,2017-11-27 07:55:00,"Still, any growth is good, and has the potential to keep consumer spending afloat -- especially in conjunction with the gains in home values.",0.9394031167030334,0.01906782202422619,0.04152906686067581,positive,0.9203352928161621
+25,2017-11-27 07:55:00,"And one more thing: The Black Friday effect
+
+How is all this playing out in practice?",0.03215545415878296,0.026639660820364952,0.9412049055099487,neutral,0.005515793338418007
+26,2017-11-27 07:55:00,Early indications suggest that 2017 experienced a strong Black Friday selling season.,0.9312605857849121,0.02119262143969536,0.047546789050102234,positive,0.9100679755210876
+27,2017-11-27 07:55:00,Research firm ShopperTrak estimates that foot traffic -- shopper visits to brick-and-mortar stores -- declined less than 1% year over year on Black Friday.,0.02075863443315029,0.9703787565231323,0.008862546645104885,negative,-0.9496201276779175
+28,2017-11-27 07:55:00,"At the same time, Adobe 's research arm, Adobe Analytics, estimates that online sales this year jumped 17% year over year.",0.9467542171478271,0.020847054198384285,0.03239866718649864,positive,0.9259071350097656
+29,2017-11-27 07:55:00,"Given Lowe's strong presence on the web, it's likely that the mostly brick-and-mortar home improvement store still will have benefited from the solid sales seen online this season.",0.9469350576400757,0.021211501210927963,0.03185350447893143,positive,0.9257235527038574
+30,2017-11-27 07:55:00,"Is that enough to make the stock a buy, though?",0.3478931784629822,0.055856991559267044,0.5962498188018799,neutral,0.29203617572784424
+31,2017-11-27 07:55:00,"With a market capitalization of $65.8 billion, and net debt of $15.2 billion on its balance sheet, Lowe's sports a debt-adjusted market cap (or enterprise value ) of $81 billion.",0.046608537435531616,0.014054634608328342,0.9393367767333984,neutral,0.03255390375852585
+32,2017-11-27 07:55:00,"At that price, Lowe's stock doesn't seem an obvious bargain at a debt-adjusted price-to-earnings ratio of 22.8.",0.07054470479488373,0.12711985409259796,0.8023354411125183,neutral,-0.05657514929771423
+33,2017-11-27 07:55:00,"On the other hand, Lowe's generates significantly better free cash flow (FCF) than it reports as net earnings on its income statement.",0.9149447679519653,0.02864810638129711,0.05640716478228569,positive,0.8862966895103455
+34,2017-11-27 07:55:00,"With $4.6 billion in trailing free cash flow generated over the past 12 months, the stock costs only 17.6 times trailing FCF.",0.03998435661196709,0.23274265229701996,0.7272729873657227,neutral,-0.19275829195976257
+35,2017-11-27 07:55:00,"Analysts are projecting better than 13% long-term earnings growth for Lowe's stock, which pays a 2.1% dividend yield.",0.9487942457199097,0.020479364320635796,0.030726358294487,positive,0.9283148646354675
+36,2017-11-27 07:55:00,"That's still not a cheap price, but for a company of Lowe's caliber, I think it's a fair price to pay.",0.43018242716789246,0.012819139286875725,0.5569984316825867,neutral,0.4173632860183716
+37,2017-11-27 07:55:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+38,2017-11-27 07:55:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+39,2017-11-27 07:55:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+40,2017-11-27 07:55:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+41,2017-11-27 07:55:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+42,2017-11-27 07:55:00,Rich Smith has no position in any of the stocks mentioned.,0.011234370060265064,0.04501114785671234,0.9437544941902161,neutral,-0.03377677872776985
+43,2017-11-27 07:55:00,The Motley Fool has the following options: short January 2018 $170 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013423945754766464,0.026778826490044594,0.9597972631454468,neutral,-0.01335488073527813
+44,2017-11-27 07:55:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+45,2017-11-27 07:55:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+46,2017-11-27 07:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

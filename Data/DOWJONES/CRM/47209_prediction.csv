@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-23 04:46:00,"Salesforce.com (NYSE: CRM) , best known for its cloud-based relationship management software, recently announced its acquisition of small-tech outfit MuleSoft (NYSE: MULE) .",0.21853764355182648,0.00780969625338912,0.7736527323722839,neutral,0.21072794497013092
+1,2018-03-23 04:46:00,"While both companies provide software solutions for businesses, the similarities between the two seemingly end there.",0.10590627789497375,0.02187359519302845,0.8722201585769653,neutral,0.08403268456459045
+2,2018-03-23 04:46:00,"But this is hardly a random spending spree for Salesforce CEO Marc Benioff and company, as they continue their journey to become one of the largest technology companies in the world.",0.54453045129776,0.022665729746222496,0.43280380964279175,positive,0.5218647122383118
+3,2018-03-23 04:46:00,Salesforce is buying MuleSoft for $6.5 billion.,0.0722203478217125,0.005180133040994406,0.9225995540618896,neutral,0.06704021245241165
+4,2018-03-23 04:46:00,"MuleSoft, which just went public about a year ago, will end a short but bullish ride for shareholders.",0.7595744729042053,0.028138436377048492,0.21228714287281036,positive,0.731436014175415
+5,2018-03-23 04:46:00,"Shares were up over 90% from their debut price, and Salesforce is offering another 36% premium over their Mar.",0.9482857584953308,0.0201160479336977,0.031598176807165146,positive,0.9281697273254395
+6,2018-03-23 04:46:00,19 close.,0.05169358104467392,0.05150156468153,0.8968048691749573,neutral,0.0001920163631439209
+7,2018-03-23 04:46:00,"For every share of MuleSoft owned, investors will get $36 in cash and 0.0711 shares of Salesforce.",0.056827522814273834,0.006865169852972031,0.9363073706626892,neutral,0.049962352961301804
+8,2018-03-23 04:46:00,The companies expect the deal to close by this summer.,0.056305818259716034,0.009884735569357872,0.9338093996047974,neutral,0.04642108082771301
+9,2018-03-23 04:46:00,"MuleSoft's stated mission is ""to help organizations change and innovate faster by making it easy to connect the world's applications, data and devices.""",0.6481087803840637,0.010222513228654861,0.3416687548160553,positive,0.6378862857818604
+10,2018-03-23 04:46:00,"Through its Anypoint Platform service, the company helps businesses build application networks, integrating all of their apps and data into one connected location.",0.12680970132350922,0.005476816091686487,0.8677135109901428,neutral,0.12133288383483887
+11,2018-03-23 04:46:00,That's important because MuleSoft expects $800 billion to be spent on integration initiatives in 2018 alone.,0.2845146059989929,0.007289148401468992,0.708196222782135,neutral,0.27722546458244324
+12,2018-03-23 04:46:00,"According to its own studies, the average corporation has over a thousand apps in use, but less than a third of those are connected to one another.",0.013624428771436214,0.03321754187345505,0.9531579613685608,neutral,-0.01959311217069626
+13,2018-03-23 04:46:00,"As a result, over 80% of businesses surveyed say that revenue will be negatively affected in the next year if they fail to execute on digital transformation.",0.018833085894584656,0.9499847888946533,0.031182140111923218,negative,-0.9311516880989075
+14,2018-03-23 04:46:00,"MuleSoft's total revenue last year was only $296 million, though that was a 57% increase over 2016.",0.8625794649124146,0.04526209831237793,0.09215845912694931,positive,0.8173173666000366
+15,2018-03-23 04:46:00,"That's a small fraction of its total addressable market, but management said it's on track to reach $1 billion by 2021.",0.31604066491127014,0.0080949105322361,0.6758644580841064,neutral,0.30794575810432434
+16,2018-03-23 04:46:00,That helps explain why Salesforce would be interested in paying a whopping $6.5 billion for such a small company.,0.19189533591270447,0.06176237389445305,0.7463422417640686,neutral,0.13013295829296112
+17,2018-03-23 04:46:00,Salesforce has ambitious goals of its own.,0.20393243432044983,0.0061606718227267265,0.7899068593978882,neutral,0.19777175784111023
+18,2018-03-23 04:46:00,Benioff has long stated the company is on track to hit $20 billion in revenue in the next few years -- up from $10.5 billion in 2017.,0.9508079886436462,0.01898176036775112,0.030210239812731743,positive,0.9318262338638306
+19,2018-03-23 04:46:00,"More ambitious is a $60 billion revenue target by the year 2034, which would make it one of the largest technology companies in the world.",0.7314901351928711,0.01294065359979868,0.2555692791938782,positive,0.7185494899749756
+20,2018-03-23 04:46:00,"If Salesforce is to hit that target, new services other than relationship management will need to be added.",0.24249863624572754,0.007535846438258886,0.749965488910675,neutral,0.23496279120445251
+21,2018-03-23 04:46:00,"Thus the MuleSoft purchase, which will launch a new service in the Salesforce family called Integration Cloud.",0.292717307806015,0.006310596130788326,0.7009720802307129,neutral,0.2864067256450653
+22,2018-03-23 04:46:00,Salesforce isn't new to this strategy.,0.04120131582021713,0.010197281837463379,0.9486013650894165,neutral,0.031004033982753754
+23,2018-03-23 04:46:00,"For example, back in 2016 the company purchased Demandware for $2.8 billion to launch its e-commerce division.",0.15613675117492676,0.005576812196522951,0.8382863998413086,neutral,0.1505599319934845
+24,2018-03-23 04:46:00,"The company has had success with such strategies, cross-selling new services to existing customers and using its widening moat of offerings to round up new clients.",0.8894492983818054,0.012364983558654785,0.09818574041128159,positive,0.8770843148231506
+25,2018-03-23 04:46:00,"MuleSoft is its biggest move yet, though.",0.25219428539276123,0.0424477718770504,0.7053579092025757,neutral,0.20974650979042053
+26,2018-03-23 04:46:00,"It's ambitious, but Benioff and company have never backed down from daunting tasks.",0.24099907279014587,0.11348199844360352,0.645518958568573,neutral,0.12751707434654236
+27,2018-03-23 04:46:00,"To meet its lofty goals in the next decade and a half, Salesforce will need some help expanding its capabilities.",0.9275311231613159,0.014193173497915268,0.05827581137418747,positive,0.9133379459381104
+28,2018-03-23 04:46:00,"Integration services are growing fast, so the MuleSoft purchase could be a win for all parties involved.",0.9268121123313904,0.01968664675951004,0.053501229733228683,positive,0.9071254730224609
+29,2018-03-23 04:46:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+30,2018-03-23 04:46:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+31,2018-03-23 04:46:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+32,2018-03-23 04:46:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+33,2018-03-23 04:46:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+34,2018-03-23 04:46:00,Nicholas Rossolillo has no position in any of the stocks mentioned.,0.008563118055462837,0.040867652744054794,0.950569212436676,neutral,-0.03230453282594681
+35,2018-03-23 04:46:00,His clients have no positions in any of the stocks mentioned.,0.010580849833786488,0.05887201055884361,0.9305471181869507,neutral,-0.0482911616563797
+36,2018-03-23 04:46:00,The Motley Fool recommends MuleSoft and Salesforce.com.,0.019335860386490822,0.02697758376598358,0.9536865949630737,neutral,-0.00764172337949276
+37,2018-03-23 04:46:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+38,2018-03-23 04:46:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

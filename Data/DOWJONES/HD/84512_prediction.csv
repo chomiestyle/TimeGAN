@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-02 03:43:00,"Even though Home Depot Inc (NYSE: HD ) has been around since the late 1970s, the company seems more like a red-hot startup.",0.029040342196822166,0.026514975354075432,0.9444447159767151,neutral,0.0025253668427467346
+1,2018-01-02 03:43:00,Just look at the performance on Wall Street.,0.047898124903440475,0.01611388847231865,0.9359880089759827,neutral,0.031784236431121826
+2,2018-01-02 03:43:00,"For the year so far, HD stock is up a sizzling 42%.",0.9364174008369446,0.02160763554275036,0.041974980384111404,positive,0.9148097634315491
+3,2018-01-02 03:43:00,Note that this exceeds the returns for companies like Alphabet Inc (NASDAQ: GOOGL ) and Microsoft Corporation (NASDAQ: MSFT ).,0.6217620372772217,0.07964859157800674,0.2985893785953522,positive,0.5421134233474731
+4,2018-01-02 03:43:00,"But of course, the standout returns for HD stock have not been a temporary thing.",0.16632643342018127,0.042893726378679276,0.7907798290252686,neutral,0.1234327107667923
+5,2018-01-02 03:43:00,HD stock has been a great example of consistency.,0.7079180479049683,0.011554598808288574,0.28052735328674316,positive,0.6963634490966797
+6,2018-01-02 03:43:00,"During the past five years, the average return has come to about 27%.",0.4325389266014099,0.014894054271280766,0.5525670051574707,neutral,0.4176448583602905
+7,2018-01-02 03:43:00,Now it's true that there are some issues.,0.07387509942054749,0.12770329415798187,0.7984216213226318,neutral,-0.05382819473743439
+8,2018-01-02 03:43:00,"HD stock sports an expensive multiple, which is currently at 26.5 times earnings.",0.040845390409231186,0.034768104553222656,0.9243865013122559,neutral,0.00607728585600853
+9,2018-01-02 03:43:00,"By comparison, rival Lowe's Companies Inc. (NYSE: LOW ) trades at 22X.",0.03988533839583397,0.032093554735183716,0.9280210733413696,neutral,0.007791783660650253
+10,2018-01-02 03:43:00,"And as InvestorPlace.com writers like Vince Martin and Lawrence Meyers have pointed out, there are other potential land mines.",0.09507608413696289,0.22323496639728546,0.6816889643669128,neutral,-0.12815888226032257
+11,2018-01-02 03:43:00,"For example, Home Depot is in a cyclical business.",0.015158300288021564,0.053851816803216934,0.9309898614883423,neutral,-0.038693517446517944
+12,2018-01-02 03:43:00,"As seen during the financial crisis, there can be a serious impact on the stock price when the housing market implodes.",0.03137794882059097,0.7934598326683044,0.175162211060524,negative,-0.7620818614959717
+13,2018-01-02 03:43:00,"Granted, a repeat of this does seem kind of a stretch.",0.07505916059017181,0.08201052993535995,0.8429303169250488,neutral,-0.006951369345188141
+14,2018-01-02 03:43:00,"But then again, it is nonetheless a good bet that the Federal Reserve will continue to raise interest rates.",0.6921661496162415,0.03180455043911934,0.2760293185710907,positive,0.6603615880012512
+15,2018-01-02 03:43:00,This will put more pressure on housing purchases as well as spending on high-ticket items.,0.1709291934967041,0.6625626683235168,0.16650818288326263,negative,-0.49163347482681274
+16,2018-01-02 03:43:00,So what should investors do?,0.04763086885213852,0.027452299371361732,0.9249168038368225,neutral,0.020178569480776787
+17,2018-01-02 03:43:00,"Well, I think the bull case is still intact, as the company should benefit from several major trends.",0.806726336479187,0.011437627486884594,0.1818360686302185,positive,0.7952886819839478
+18,2018-01-02 03:43:00,Let's take a look.,0.07313600927591324,0.016300303861498833,0.9105637073516846,neutral,0.05683570355176926
+19,2018-01-02 03:43:00,"Home Depot is the world's largest home improvement retailer, with more than 2,200 stores in the U.S., Canada and Mexico.",0.17098817229270935,0.006718216463923454,0.8222936391830444,neutral,0.16426995396614075
+20,2018-01-02 03:43:00,"The scale means that the company can achieve a low-lost structure but also gain access to a wide assortment of products (there are over 35,000 products in each location).",0.5890138745307922,0.0088830990716815,0.402103066444397,positive,0.5801307559013367
+21,2018-01-02 03:43:00,Such advantages are extremely tough to replicate.,0.06993644684553146,0.12128059566020966,0.8087829947471619,neutral,-0.05134414881467819
+22,2018-01-02 03:43:00,"While Home Depot is not necessarily immune from Amazon.com, Inc. (NASDAQ: AMZN ) challenges, the company is still one of the best positioned to manage through the wrenching changes of the digital revolution.",0.7988467812538147,0.01716606877744198,0.18398714065551758,positive,0.781680703163147
+23,2018-01-02 03:43:00,"Let's face it, the typical weight of a product makes it often inconvenient for delivery.",0.03497356176376343,0.7550087571144104,0.2100176364183426,negative,-0.720035195350647
+24,2018-01-02 03:43:00,Home Depot also has the benefit of thousands of well-trained associates that can provide value-added advice on a broad range of topics.,0.44066929817199707,0.009182904846966267,0.5501478314399719,neutral,0.4314863979816437
+25,2018-01-02 03:43:00,Yet the company has not been a laggard with its online efforts either.,0.04071841016411781,0.785304605960846,0.17397700250148773,negative,-0.744586169719696
+26,2018-01-02 03:43:00,"Over the years, it has made significant investments in developing an omnichannel platform.",0.7857100963592529,0.00991691555827856,0.20437297224998474,positive,0.775793194770813
+27,2018-01-02 03:43:00,"In fact, Home Depot has recently indicated that it will spend an additional $5.4 billion on improving the systems over the next three years.",0.8447874784469604,0.012317412532866001,0.14289504289627075,positive,0.8324700593948364
+28,2018-01-02 03:43:00,Now another key part of the bull case is that the secular trends continue to look promising.,0.6261788606643677,0.013477143831551075,0.36034390330314636,positive,0.6127017140388489
+29,2018-01-02 03:43:00,"According to Edward Jones analyst Robin Diedrich, the market for HD stock is likely to grow at an impressive 10% per year for the long haul .",0.9379044771194458,0.014279086142778397,0.0478164404630661,positive,0.9236254096031189
+30,2018-01-02 03:43:00,"She notes:
+
+""[W]e expect home improvement spending to grow at an above-average rate versus retail sales overall, given improving expectations for new household formation, the reversing of pent-up demand caused during the recession, the replacement of the aging housing base, and lifestyle trends that favor more and larger kitchens and baths in the home.""",0.9136117100715637,0.014765137806534767,0.07162316143512726,positive,0.8988465666770935
+31,2018-01-02 03:43:00,And the runway is still significant for HD stock.,0.34822380542755127,0.01637246087193489,0.6354037523269653,neutral,0.3318513333797455
+32,2018-01-02 03:43:00,"Here' what CEO Craig Menear had to say :
+
+""We are investing not only to protect our position, but we are investing to leverage our scale.",0.6975142955780029,0.011829165741801262,0.2906564772129059,positive,0.6856851577758789
+33,2018-01-02 03:43:00,The products and services are still a small part of a $600 billion addressable market.,0.029748423025012016,0.010346143506467342,0.9599054455757141,neutral,0.01940228044986725
+34,2018-01-02 03:43:00,"Our market includes home improvement products and services and MRO or maintenance, repair and operations products.""",0.015484502539038658,0.008960293605923653,0.9755551815032959,neutral,0.0065242089331150055
+35,2018-01-02 03:43:00,"Even though HD stock is not cheap, the valuation is also not out of whack.",0.16289424896240234,0.02986038848757744,0.8072453737258911,neutral,0.1330338567495346
+36,2018-01-02 03:43:00,"Given that the company has a strong moat, steady growth and the benefit of secular tailwinds, there really should be a premium multiple.",0.5663086771965027,0.01987561769783497,0.4138157069683075,positive,0.5464330315589905
+37,2018-01-02 03:43:00,It is also helpful that HD has recently put in a plan for up to $15 billion in buybacks.,0.7048570513725281,0.011340724304318428,0.28380218148231506,positive,0.6935163140296936
+38,2018-01-02 03:43:00,"Going forward, it's probably not realistic to expect the same kinds of returns generated this year.",0.11008311063051224,0.015606838278472424,0.8743100762367249,neutral,0.09447627514600754
+39,2018-01-02 03:43:00,"However, even if the equities markets get rockier, which they inevitably will, Home Depot stock has a good chance of holding up, as investors will likely prefer those kinds of blue chip companies that have demonstrated durability.",0.8559442758560181,0.023727579042315483,0.12032818049192429,positive,0.8322166800498962
+40,2018-01-02 03:43:00,"Tom Taulli is the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04080922156572342,0.006492978427559137,0.9526978135108948,neutral,0.03431624174118042
+41,2018-01-02 03:43:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+42,2018-01-02 03:43:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+43,2018-01-02 03:43:00,"• 10 More Losers That Will Be Stocks to Buy in 2018
+• 10 Hot IPOs That You Could Buy in 2018
+
+The post The Bull Case for Home Depot Inc Stock Keeps Getting Better appeared first on InvestorPlace .",0.5395781397819519,0.06710638850927353,0.39331546425819397,positive,0.4724717438220978
+44,2018-01-02 03:43:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

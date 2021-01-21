@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2010-05-20 03:46:00,"The Dow Jones Industrial Average ( DJIA ) could be in trouble this morning, as the venerable average closed below short-term support in the 10,450 region.",0.026515144854784012,0.9550435543060303,0.018441347405314445,negative,-0.9285284280776978
+1,2010-05-20 03:46:00,"Furthermore, the Dow appears poised to open sharply lower this morning, with DJIA futures trading roughly 92 points below fair value.",0.020298540592193604,0.9570106267929077,0.02269080840051174,negative,-0.9367120862007141
+2,2010-05-20 03:46:00,"Such a plunge on the open would place the Dow near 10,350-10,300 - the average's lows for the week.",0.03079185262322426,0.9272490739822388,0.04195903614163399,negative,-0.8964571952819824
+3,2010-05-20 03:46:00,"Meanwhile, the S&P 500 Index ( SPX ) gave up key support at its 160-day moving average yesterday, testing support in the psychologically important 1,100 level in the process.",0.8898563385009766,0.06385470926761627,0.04628891870379448,positive,0.8260016441345215
+4,2010-05-20 03:46:00,"In pre-market trading, SPX futures are trading nearly 13 points below fair value, indicating that the index could be on its way to yet another test of the 1,100 region.",0.02843334898352623,0.9347715377807617,0.03679514303803444,negative,-0.9063382148742676
+5,2010-05-20 03:46:00,"Finally, the CBOE Market Volatility ( VIX ) index is up nearly 10% this week, despite its already elevated levels.",0.9442956447601318,0.022715739905834198,0.03298863768577576,positive,0.921579897403717
+6,2010-05-20 03:46:00,"The VIX took out the 35 area yesterday, and could make a run at 40 if the market follows pre-open indications.",0.5201891660690308,0.027578337118029594,0.4522325098514557,positive,0.4926108419895172
+7,2010-05-20 03:46:00,"In earnings news, Staples Inc., ( SPLS ) reported first-quarter net income of $188.8 million, or 26 cents per share.",0.21772560477256775,0.1674373745918274,0.6148370504379272,neutral,0.050288230180740356
+8,2010-05-20 03:46:00,"On an adjusted basis, earnings were 28 cents per share.",0.04113076627254486,0.031147504225373268,0.9277216792106628,neutral,0.009983262047171593
+9,2010-05-20 03:46:00,Wall Street was looking for a profit of 26 cents per share on $6.03 billion in sales.,0.3252406120300293,0.06937673687934875,0.6053826212882996,neutral,0.25586387515068054
+10,2010-05-20 03:46:00,"For the second quarter, Staples expects to earn 18 cents to 20 cents per share on an adjusted basis, with full-year earnings seen at $1.25 to $1.33 per share on the same basis.",0.6614168286323547,0.04297836124897003,0.2956048548221588,positive,0.6184384822845459
+11,2010-05-20 03:46:00,"Analysts are expecting second-quarter and full-year earnings of 20 cents per share and $1.33 per share, respectively.",0.44620195031166077,0.04038066789507866,0.5134173631668091,neutral,0.405821293592453
+12,2010-05-20 03:46:00,"Sears Holdings ( SHLD ) that its first-quarter profit fell to $16 million, or 14 cents per share, on promotional markdowns and reduced margins in home appliances.",0.017752066254615784,0.9736184477806091,0.008629499934613705,negative,-0.9558663964271545
+13,2010-05-20 03:46:00,Revenue was virtually flat at $10.05 billion.,0.014889057725667953,0.924401581287384,0.06070930138230324,negative,-0.9095125198364258
+14,2010-05-20 03:46:00,Comparable-store sales grew 1.7% at Kmart and 1.2% at Sears domestic.,0.93953937292099,0.03529326990246773,0.025167390704154968,positive,0.9042460918426514
+15,2010-05-20 03:46:00,"On an adjusted basis, Sears' profit would have been 16 cents per share.",0.02371290884912014,0.030751757323741913,0.9455353617668152,neutral,-0.007038848474621773
+16,2010-05-20 03:46:00,Analysts were expecting earnings of 12 cents per share on sales of $10.22 billion.,0.4445507526397705,0.02297302521765232,0.5324762463569641,neutral,0.42157772183418274
+17,2010-05-20 03:46:00,"Finally, Limited Brands Inc. ( LTD ) reported a first-quarter profit of $112.5 million, or 34 cents per share, with sales rising to $1.93 billion.",0.9362679719924927,0.01908189430832863,0.0446501262485981,positive,0.9171860814094543
+18,2010-05-20 03:46:00,"Excluding a one-time gain, earnings came to 25 cents per share.",0.6315593123435974,0.05147292837500572,0.3169677257537842,positive,0.5800864100456238
+19,2010-05-20 03:46:00,Analysts were looking for a profit of 19 cents per share on sales of $1.92 billion.,0.11648751050233841,0.06750883162021637,0.8160036206245422,neutral,0.04897867888212204
+20,2010-05-20 03:46:00,"In pre-market trading, LTD was last seen lower by 2%.",0.018276123329997063,0.9686605334281921,0.01306341215968132,negative,-0.9503844380378723
+21,2010-05-20 03:46:00,"On the earnings front, Dollar Tree Inc. ( DLTR ), GameStop Corp. ( GME ), Ross Stores Inc. ( ROST ), Tidewater Inc. ( TDW ), Aeropostale Inc. ( ARO ), Brocade Communications Systems Inc. ( BRCD ), Dell Inc. ( DELL ), salesforce.com inc. ( CRM ), and Marvell Technology Group Ltd. ( MRVL ) are slated to release their quarterly earnings reports.",0.028116043657064438,0.01855362020432949,0.9533303380012512,neutral,0.009562423452734947
+22,2010-05-20 03:46:00,Keep your browser at SchaeffersResearch.com for more news as it breaks.,0.02309834212064743,0.06109897419810295,0.9158027172088623,neutral,-0.03800063207745552
+23,2010-05-20 03:46:00,"Equity option activity on the Chicago Board Options Exchange ( CBOE ) saw 1,591,057 call contracts traded on Wednesday, compared to 1,302,425 put contracts.",0.2100503146648407,0.7551304697990417,0.03481914848089218,negative,-0.5450801849365234
+24,2010-05-20 03:46:00,"The resultant single-session put/call ratio arrived at 0.82, while the 21-day moving average rose to 0.61.",0.8382326364517212,0.02477159909904003,0.13699574768543243,positive,0.8134610652923584
+25,2010-05-20 03:46:00,**The volume data shown above is from the Nasdaq and NYSE exchanges only.,0.010512563399970531,0.01637144386768341,0.9731159806251526,neutral,-0.005858880467712879
+26,2010-05-20 03:46:00,"It does not include regional volume activity, which means that other daily volume quotes you see may be higher.",0.016967685893177986,0.03772684931755066,0.9453055262565613,neutral,-0.020759163424372673
+27,2010-05-20 03:46:00,"**
+
+Every morning, our research staff analyzes the prior day and the overnight markets, and monitors the morning wires to give you an accurate preview of the day to come.",0.0207601897418499,0.0071182590909302235,0.97212153673172,neutral,0.013641931116580963
+28,2010-05-20 03:46:00,"If you enjoyed today's edition of Opening View, sign up here for free daily delivery, straight to your inbox, before the opening bell.",0.03924258053302765,0.015955906361341476,0.9448015093803406,neutral,0.023286674171686172
+29,2010-05-20 03:46:00,"Overseas trading is in poor shape this morning, as only one of the 10 foreign indexes that we track is in positive territory.",0.020467618480324745,0.9506736993789673,0.02885865420103073,negative,-0.9302060604095459
+30,2010-05-20 03:46:00,The cumulative average return on the collective stands at a loss of 0.67%.,0.019415253773331642,0.9608092904090881,0.019775478169322014,negative,-0.941394031047821
+31,2010-05-20 03:46:00,"In Asia, stocks retreated as political divisions in Europe and fears of more market regulation kept investors nervous and pressured stocks.",0.09999551624059677,0.8462667465209961,0.053737811744213104,negative,-0.7462712526321411
+32,2010-05-20 03:46:00,"In Europe, banks shares experienced a modest bargain-hunting rally after the previous session's 3% drop, but the rebound was tempered by uncertainty over market regulation and high volatility.",0.8859153985977173,0.08413641154766083,0.029948215931653976,positive,0.8017789721488953
+33,2010-05-20 03:46:00,Overseas market information comes to you courtesy of Schaeffer's Daily Bulletin .,0.033578258007764816,0.005984473042190075,0.9604372978210449,neutral,0.027593784034252167
+34,2010-05-20 03:46:00,"Crude futures are making headlines this morning, with black gold falling to its lowest levels since February.",0.03501944616436958,0.9240227341651917,0.04095783457159996,negative,-0.8890032768249512
+35,2010-05-20 03:46:00,"Heading into the open, the July contract is down 59 cents at $71.89 per barrel.",0.021222980692982674,0.9656674265861511,0.013109593652188778,negative,-0.9444444179534912
+36,2010-05-20 03:46:00,Strength in the U.S. dollar has been at least partly responsible for crude's decline.,0.12222031503915787,0.838611900806427,0.03916774317622185,negative,-0.7163915634155273
+37,2010-05-20 03:46:00,"The U.S. Dollar Index is up only 0.24% at 86.60 this morning, but the index is trading less than one point away from an annual high - which was set early on Wednesday.",0.6998299956321716,0.2162054479122162,0.08396457880735397,positive,0.48362454771995544
+38,2010-05-20 03:46:00,"Finally, gold prices continue to drop sharply.",0.022271495312452316,0.9249356985092163,0.05279283598065376,negative,-0.9026641845703125
+39,2010-05-20 03:46:00,"The malleable metal gave up psychological support at the $1,200 level yesterday, and has fallen more $9 to hover at $1,183.80 an ounce in London this morning.",0.09733527898788452,0.8605210781097412,0.042143743485212326,negative,-0.7631857991218567
+40,2010-05-20 03:46:00,"For an explanation of how to use this information, check out our Education Center topics on Option Volume and Open Interest Configurations .",0.017477557063102722,0.00839079450815916,0.9741316437721252,neutral,0.009086762554943562
+41,2010-05-20 03:46:00,"Click here for the new spring issue of SENTIMENT magazine
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009160042740404606,0.016924792900681496,0.973915159702301,neutral,-0.00776475016027689
+42,2010-05-20 03:46:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200573846697807,0.9573419094085693,neutral,-0.02135336399078369

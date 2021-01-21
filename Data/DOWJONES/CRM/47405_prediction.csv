@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-06 22:47:00,Microsoft Corporation's (NASDAQ: MSFT ) stock chart for the past year is standout.,0.7480966448783875,0.015231507830321789,0.2366718202829361,positive,0.7328651547431946
+1,2018-03-06 22:47:00,The only blemish is the recent correction in February.,0.03488454595208168,0.5178653597831726,0.4472501277923584,negative,-0.4829808175563812
+2,2018-03-06 22:47:00,"Other than that, MSFT stock has been increasing at a steady pace, with the return coming to roughly 45%.",0.9250438213348389,0.014988589100539684,0.05996758118271828,positive,0.9100552201271057
+3,2018-03-06 22:47:00,But this is not a short-term thing.,0.018502963706851006,0.014454610645771027,0.9670424461364746,neutral,0.004048353061079979
+4,2018-03-06 22:47:00,"Since Satya Nadella came on board as CEO in February 2014, MSFT stock has jumped from $36 to $93 - putting the market cap at $717 billion.",0.9256307482719421,0.022926555946469307,0.05144266411662102,positive,0.9027041792869568
+5,2018-03-06 22:47:00,"OK then, what now?",0.05079424008727074,0.062362346798181534,0.8868433833122253,neutral,-0.011568106710910797
+6,2018-03-06 22:47:00,Is the bull case still intact for MSFT?,0.1951698660850525,0.022586368024349213,0.7822437286376953,neutral,0.17258349061012268
+7,2018-03-06 22:47:00,Or should investors get cautious?,0.13808932900428772,0.1637890636920929,0.6981216073036194,neutral,-0.025699734687805176
+8,2018-03-06 22:47:00,"Well, I still think there is upside.",0.12752573192119598,0.04787355288863182,0.8246007561683655,neutral,0.07965217530727386
+9,2018-03-06 22:47:00,"And yes, the key is Nadella, who has a powerful strategy that should help sustain the growth for the long haul.",0.8553723692893982,0.013706803321838379,0.13092078268527985,positive,0.8416655659675598
+10,2018-03-06 22:47:00,"• 10 Dividend-Payers to Own for Month-to-Month Income
+
+To put things into context, here's what he said when he took the helm four years ago:
+
+""Microsoft is one of those rare companies to have truly revolutionized the world through technology, and I couldn't be more honored to have been chosen to lead the company.",0.5732395052909851,0.01210576668381691,0.4146547317504883,positive,0.5611337423324585
+11,2018-03-06 22:47:00,"The opportunity ahead for Microsoft is vast, but to seize it, we must focus clearly, move faster and continue to transform.",0.8294211626052856,0.012466893531382084,0.15811191499233246,positive,0.8169542551040649
+12,2018-03-06 22:47:00,"A big part of my job is to accelerate our ability to bring innovative products to our customers more quickly.""",0.8049960136413574,0.01184004545211792,0.18316398561000824,positive,0.7931559681892395
+13,2018-03-06 22:47:00,A big part of this has been to retool the existing product line.,0.1524781584739685,0.006404102314263582,0.8411176800727844,neutral,0.1460740566253662
+14,2018-03-06 22:47:00,"For the most part, this has meant moving aggressively to the cloud.",0.21568240225315094,0.00986649002879858,0.7744510769844055,neutral,0.20581591129302979
+15,2018-03-06 22:47:00,"While this seems like a no-brainer, it's important to keep in mind that the process is not.",0.037014514207839966,0.030851423740386963,0.9321340322494507,neutral,0.006163090467453003
+16,2018-03-06 22:47:00,"For decades, MSFT operated on a model of installed software, primarily on PCs.",0.0408155657351017,0.004893421195447445,0.9542909860610962,neutral,0.03592214360833168
+17,2018-03-06 22:47:00,"In other words, Nadella had to make a cultural change with the company, which was definitely risky.",0.11645537614822388,0.08742550015449524,0.7961190938949585,neutral,0.029029875993728638
+18,2018-03-06 22:47:00,"But then again, MSFT had some inherent advantages as well, such as a powerful brand, tremendous resources, a massive customer base and thousands of talented engineers.",0.8295475244522095,0.013865225948393345,0.1565871685743332,positive,0.8156822919845581
+19,2018-03-06 22:47:00,So Nadella leveraged all of these.,0.05469304695725441,0.006942812353372574,0.9383642077445984,neutral,0.047750234603881836
+20,2018-03-06 22:47:00,The result of Nadella's work is that MSFT is now the No.,0.4043290317058563,0.02705492079257965,0.5686160326004028,neutral,0.3772740960121155
+21,2018-03-06 22:47:00,"2 player in the cloud industry, behind Amazon.com, Inc. (NASDAQ: AMZN ).",0.4142623245716095,0.019549811258912086,0.566187858581543,neutral,0.39471250772476196
+22,2018-03-06 22:47:00,"Consider the following from the latest earnings report:
+• Microsoft Azure's revenues spiked by a sizzling 98% - marking the 10th straight quarter of 90%+ growth.",0.9566110968589783,0.022087926045060158,0.021300943568348885,positive,0.9345231652259827
+23,2018-03-06 22:47:00,• Office 365's user base rose by 17.3% to 29.2 million and the revenues jumped by 42%.,0.9538598656654358,0.020787043496966362,0.025353102013468742,positive,0.9330728054046631
+24,2018-03-06 22:47:00,"• Microsoft Dynamics - which is a CRM platform that competes with salesforce.com, inc. (NYSE: CRM ) - posted a 67% increase in growth.",0.9574961066246033,0.018353233113884926,0.024150719866156578,positive,0.9391428828239441
+25,2018-03-06 22:47:00,"• LinkedIn, which Microsoft purchased for $26.5 billion, grew by 18.2% to $1.3 billion and generated an operating profit of $144 million.",0.9535754323005676,0.01634814776480198,0.030076323077082634,positive,0.9372273087501526
+26,2018-03-06 22:47:00,"Now it's true that MSFT stock is tied to the fortunes of the PC market, which has been declining over the years.",0.045883242040872574,0.5066263675689697,0.447490394115448,negative,-0.46074312925338745
+27,2018-03-06 22:47:00,"But the company has still found ways to deal with this, as seen with the strength of Windows 10.",0.8477148413658142,0.028181592002511024,0.1241036131978035,positive,0.8195332288742065
+28,2018-03-06 22:47:00,"During the latest quarter, the More Personal Computing division reported a 2% increase in revenues to $12.2 billion and operating income came to $2.5 billion.",0.9551341533660889,0.01724950037896633,0.027616353705525398,positive,0.9378846287727356
+29,2018-03-06 22:47:00,Another key for MSFT stock is that Nadella has been investing aggressively in next-generation technologies.,0.8311241269111633,0.011534955352544785,0.15734092891216278,positive,0.8195891976356506
+30,2018-03-06 22:47:00,"Just some of the areas include AI (Artificial Intelligence), AR (Augmented Reality), blockchain and quantum computing.",0.02336299419403076,0.007830371148884296,0.9688066244125366,neutral,0.015532623045146465
+31,2018-03-06 22:47:00,But MSFT is already getting traction from its efforts.,0.9131428003311157,0.01899552159011364,0.0678616315126419,positive,0.8941472768783569
+32,2018-03-06 22:47:00,"For example, the company has been implementing AI systems into Office 365, such as with language translation and voice input.",0.20604301989078522,0.007139973342418671,0.7868170142173767,neutral,0.19890305399894714
+33,2018-03-06 22:47:00,MSFT stock is not necessarily cheap.,0.03744247183203697,0.014467527158558369,0.9480899572372437,neutral,0.022974945604801178
+34,2018-03-06 22:47:00,Note that the forward price-to-earnings multiple is at 24X.,0.024669403210282326,0.008270499296486378,0.9670600891113281,neutral,0.016398902982473373
+35,2018-03-06 22:47:00,"Although, it is still in-line with various other mega tech operators like Alphabet Inc (NASDAQ: GOOGL ) and Facebook Inc (NASDAQ: FB ).",0.7567571997642517,0.015418429858982563,0.22782443463802338,positive,0.7413387894630432
+36,2018-03-06 22:47:00,"Besides, MSFT deserves a premium because of its barriers to entry, diverse revenue streams and tremendous resources (there is $142.8 billion in overseas accounts).",0.8453596830368042,0.014663749374449253,0.1399766355752945,positive,0.8306959271430969
+37,2018-03-06 22:47:00,"Of course, this is not to imply that the next 12 months will see 45%+ returns again.",0.09689299762248993,0.015325062908232212,0.8877819180488586,neutral,0.08156793564558029
+38,2018-03-06 22:47:00,This does not seem realistic.,0.024359852075576782,0.12862321734428406,0.8470168709754944,neutral,-0.10426336526870728
+39,2018-03-06 22:47:00,"But given the core advantages of MSFT, it seems reasonable that there should still be competitive gains.",0.9154126644134521,0.016951026394963264,0.06763634830713272,positive,0.898461639881134
+40,2018-03-06 22:47:00,"Tom Taulli is the author of High-Profit IPO Strategies , All About Commodities and All About Short Selling .",0.04080922156572342,0.006492978427559137,0.9526978135108948,neutral,0.03431624174118042
+41,2018-03-06 22:47:00,Follow him on Twitter at @ttaulli .,0.06780173629522324,0.05691603943705559,0.8752822279930115,neutral,0.010885696858167648
+42,2018-03-06 22:47:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+43,2018-03-06 22:47:00,"• 9 Stocks to Buy for Great Employee Pay and Benefits
+• 4 Top Marijuana Penny Stocks for the Rest of 2018
+• 5 Stellar Growth ETFs to Consider Right Now
+
+The post Microsoft Corporation Stock Still Looks Rock Solid appeared first on InvestorPlace .",0.793640673160553,0.03107376955449581,0.17528553307056427,positive,0.7625669240951538
+44,2018-03-06 22:47:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,308 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-29 07:12:00,"The consumer staples industry -- think toilet paper, toothpaste, and other things that will sell more or less regardless of how the economy is doing -- has been changing in the last decade.",0.04836726933717728,0.021727144718170166,0.9299056529998779,neutral,0.02664012461900711
+1,2016-07-29 07:12:00,"In this episode of Industry Focus: Consumer Goods , host Vincent Shen and guest analyst Rana Pritanjali talk about how technology has created a much more diversified consumer staples market.",0.7364290952682495,0.014038545079529285,0.2495322972536087,positive,0.7223905324935913
+2,2016-07-29 07:12:00,"Then, they discuss Unilever (NYSE: UL) , a consumer staples company that's been adapting particularly well to the changing market.",0.7674560546875,0.01397021021693945,0.21857371926307678,positive,0.7534858584403992
+3,2016-07-29 07:12:00,"Also, the pair examines earnings from Luxottica (NYSE: LUX) , the eyewear company behind Pearle Vision and Oakley (to name a few), and what makes Time Warner (NYSE: TWX) an appealing investment in a shifting entertainment market.",0.3681608736515045,0.011965409852564335,0.6198737025260925,neutral,0.35619544982910156
+4,2016-07-29 07:12:00,"The world's biggest tech company forgot to show you something, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07462237030267715,0.16781271994113922,0.757564902305603,neutral,-0.09319034963846207
+5,2016-07-29 07:12:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+6,2016-07-29 07:12:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+7,2016-07-29 07:12:00,"This podcast was recorded on July 25, 2016.",0.01524280197918415,0.011438846588134766,0.9733182787895203,neutral,0.003803955391049385
+8,2016-07-29 07:12:00,Vincent Shen: This episode of Industry Focus is brought to you by Rocket Mortgage by Quicken Loans.,0.05663497745990753,0.008837922476232052,0.9345270991325378,neutral,0.047797054052352905
+9,2016-07-29 07:12:00,"Rocket Mortgage brings the mortgage process into the 21st century with a fast, easy, and completely online process.",0.3089250922203064,0.008184129372239113,0.682890772819519,neutral,0.30074095726013184
+10,2016-07-29 07:12:00,Check out Rocket Mortgage today at quickenloans.com/fool .,0.034751612693071365,0.023219328373670578,0.9420291185379028,neutral,0.011532284319400787
+11,2016-07-29 07:12:00,"Welcome to Industry Focus , the podcast that dives into a different sector of the stock market each day.",0.05738868564367294,0.033050283789634705,0.9095609784126282,neutral,0.02433840185403824
+12,2016-07-29 07:12:00,"I'm your host, Vincent Shen.",0.09891108423471451,0.007937612012028694,0.8931513428688049,neutral,0.09097347408533096
+13,2016-07-29 07:12:00,"It's Monday, July 25th.",0.03481614962220192,0.011556238867342472,0.9536275863647461,neutral,0.023259911686182022
+14,2016-07-29 07:12:00,"We're pre-recording this episode partially due to a scheduling need with the studio here at Fool headquarters, also because I'm just really excited to have my guest today, Rana Pritanjali.",0.24158959090709686,0.0302394051104784,0.7281709909439087,neutral,0.2113501876592636
+15,2016-07-29 07:12:00,"Rana started at The Motley Fool as part of the Analyst Development Program in 2014, about half a year before I joined the company myself.",0.05788882076740265,0.00838122796267271,0.9337300062179565,neutral,0.049507591873407364
+16,2016-07-29 07:12:00,She's now part of the awesome Inside Value and Income Investor newsletter teams.,0.09611739963293076,0.010185123421251774,0.8936974406242371,neutral,0.08593227714300156
+17,2016-07-29 07:12:00,"Welcome to the show, Rana, how's it going?",0.21167780458927155,0.026369920000433922,0.7619522213935852,neutral,0.18530789017677307
+18,2016-07-29 07:12:00,"Rana Pritanjali: Thank you, thanks so much, Vincent.",0.5767396688461304,0.038803789764642715,0.384456604719162,positive,0.5379358530044556
+19,2016-07-29 07:12:00,I'm glad to be here.,0.42853108048439026,0.014599207788705826,0.5568697452545166,neutral,0.41393187642097473
+20,2016-07-29 07:12:00,"Shen: We were chatting earlier, I believe this is your first time on a podcast?",0.05692277476191521,0.025762565433979034,0.9173147082328796,neutral,0.031160209327936172
+21,2016-07-29 07:12:00,"So, what do you think so far?",0.02618916518986225,0.013140644878149033,0.9606702327728271,neutral,0.013048520311713219
+22,2016-07-29 07:12:00,Pritanjali: That's true.,0.1473366916179657,0.02890351600944996,0.8237597942352295,neutral,0.11843317747116089
+23,2016-07-29 07:12:00,You introduced very well.,0.5203195810317993,0.01728745549917221,0.46239298582077026,positive,0.5030321478843689
+24,2016-07-29 07:12:00,"Shen: (laughs) Thank you, I appreciate that.",0.4505262076854706,0.053442586213350296,0.4960312247276306,neutral,0.3970836102962494
+25,2016-07-29 07:12:00,I hope you're not too nervous.,0.10714136809110641,0.04493219405412674,0.8479263782501221,neutral,0.062209174036979675
+26,2016-07-29 07:12:00,I think you have a lot to share with our listeners today.,0.22244101762771606,0.00979544222354889,0.767763614654541,neutral,0.21264557540416718
+27,2016-07-29 07:12:00,"We're going to be touching on some earnings, and things like consumer staples, and the outlook for that industry overall.",0.04943789914250374,0.008767087012529373,0.9417950510978699,neutral,0.040670812129974365
+28,2016-07-29 07:12:00,I think you're going to do a great job.,0.8307860493659973,0.017803125083446503,0.1514107584953308,positive,0.8129829168319702
+29,2016-07-29 07:12:00,"Why don't we just jump right into it -- something you had mentioned to me in the conversation we had before the show was some of your views, before we jump into the earnings for the week, which was Unilever, the acquisition deal they went through.",0.03943247348070145,0.011402918957173824,0.949164628982544,neutral,0.028029553592205048
+30,2016-07-29 07:12:00,But that's around consumer staples.,0.01907656528055668,0.033928725868463516,0.9469947218894958,neutral,-0.014852160587906837
+31,2016-07-29 07:12:00,Pritanjali: Right.,0.1668214201927185,0.058977123349905014,0.7742014527320862,neutral,0.1078442931175232
+32,2016-07-29 07:12:00,"The consumer staples business, as we all know, is a steady business.",0.17267416417598724,0.007091089617460966,0.8202347159385681,neutral,0.165583074092865
+33,2016-07-29 07:12:00,"And think about it -- good or bad times, you're not going to stop brushing your teeth, or taking showers, for that matter.",0.03910578042268753,0.07986511290073395,0.8810291290283203,neutral,-0.04075933247804642
+34,2016-07-29 07:12:00,The business itself remains very resilient.,0.6246144771575928,0.012734954245388508,0.3626505732536316,positive,0.6118795275688171
+35,2016-07-29 07:12:00,What has changed over the years is the competitive dynamics of the business.,0.02653735876083374,0.011261825449764729,0.9622008204460144,neutral,0.015275533311069012
+36,2016-07-29 07:12:00,The first reason is the changing consumer taste.,0.0461682453751564,0.008578389883041382,0.945253312587738,neutral,0.03758985549211502
+37,2016-07-29 07:12:00,People are willing to try new products more than they used to be.,0.7063930630683899,0.013749233447015285,0.27985766530036926,positive,0.6926438212394714
+38,2016-07-29 07:12:00,The second and more important reason is technology.,0.04328560456633568,0.0096560288220644,0.9470583200454712,neutral,0.03362957388162613
+39,2016-07-29 07:12:00,"Because of technology, it has become easier for a new or smaller rival to enter into the space.",0.15976843237876892,0.022648541256785393,0.8175830245018005,neutral,0.13711988925933838
+40,2016-07-29 07:12:00,The entry barrier has lowered.,0.17879469692707062,0.22242271900177002,0.5987825989723206,neutral,-0.0436280220746994
+41,2016-07-29 07:12:00,"One example is, if you want to launch a new product, you have YouTube or Facebook to put your advertisement out.",0.033875469118356705,0.023436201736330986,0.9426882863044739,neutral,0.010439267382025719
+42,2016-07-29 07:12:00,There are multiple ways now to reach out to consumers.,0.18323302268981934,0.00801636092364788,0.8087506294250488,neutral,0.1752166599035263
+43,2016-07-29 07:12:00,"And those ways are cheaper, as compared to what they used to be.",0.6286861300468445,0.01616859808564186,0.35514527559280396,positive,0.6125175356864929
+44,2016-07-29 07:12:00,That's one part of technology.,0.04979914799332619,0.007739671505987644,0.9424612522125244,neutral,0.04205947741866112
+45,2016-07-29 07:12:00,"The other part is, you have Amazon Web Services.",0.02775482088327408,0.010534225963056087,0.9617109298706055,neutral,0.017220593988895416
+46,2016-07-29 07:12:00,"For a new e-commerce website, it's cheaper to put your website there.",0.0504593662917614,0.01886005327105522,0.930680513381958,neutral,0.03159931302070618
+47,2016-07-29 07:12:00,It's further added with Amazon 's distribution centers.,0.8646634221076965,0.014053219929337502,0.12128330022096634,positive,0.8506101965904236
+48,2016-07-29 07:12:00,You can easily distribute your products to people.,0.16811297833919525,0.006037933751940727,0.8258491158485413,neutral,0.16207504272460938
+49,2016-07-29 07:12:00,"Because of all of this, you can see the competitive dynamics have changed.",0.13404370844364166,0.02919958345592022,0.836756706237793,neutral,0.1048441231250763
+50,2016-07-29 07:12:00,"And for established players like Procter & Gamble (NYSE: PG) or Unilever, they have to change their strategy.",0.09287536144256592,0.023082787171006203,0.8840419054031372,neutral,0.06979257613420486
+51,2016-07-29 07:12:00,"They have to be nimbler, they have to be flexible, and to an extent, aggressive in their growth strategy.",0.7067446708679199,0.012289434671401978,0.2809658646583557,positive,0.6944552659988403
+52,2016-07-29 07:12:00,This is some change that I've seen in the consumer staples business over the last few years.,0.22230081260204315,0.014418228529393673,0.7632809281349182,neutral,0.2078825831413269
+53,2016-07-29 07:12:00,Shen: OK.,0.39331939816474915,0.05633602663874626,0.5503445863723755,neutral,0.3369833827018738
+54,2016-07-29 07:12:00,"Some of those things you mentioned with the competitive dynamics, I think they really flesh themselves out and make themselves very apparent with the recent earnings report that we had from Unilever.",0.4488622844219208,0.016077367588877678,0.5350603461265564,neutral,0.43278491497039795
+55,2016-07-29 07:12:00,"A few things I noticed, especially with, like you mentioned, smaller companies having an easier way to get started -- an announcement that they made, I think it was maybe the day before they released earnings, was with Dollar Shave Club, which we'll get to.",0.04808329790830612,0.011188735254108906,0.9407280087471008,neutral,0.03689456358551979
+56,2016-07-29 07:12:00,Anything jump out at you from the report?,0.08069578558206558,0.23204515874385834,0.6872590780258179,neutral,-0.15134936571121216
+57,2016-07-29 07:12:00,They reported on June 21st.,0.015861427411437035,0.02227146178483963,0.9618671536445618,neutral,-0.0064100343734025955
+58,2016-07-29 07:12:00,Their stock has been relatively flat since they reported.,0.026126530021429062,0.8270986080169678,0.1467747986316681,negative,-0.8009721040725708
+59,2016-07-29 07:12:00,"Anything jump out from the report that surprised you, or things you'd want to take note of?",0.04892846941947937,0.024083051830530167,0.9269884824752808,neutral,0.024845417588949203
+60,2016-07-29 07:12:00,"Pritanjali: I won't say it surprised me, but something I liked was their organic sales were up 4.7%.",0.9494597315788269,0.020381709560751915,0.03015853464603424,positive,0.9290780425071716
+61,2016-07-29 07:12:00,Organic sales are the sales that are coming from pricing and volume.,0.01834348402917385,0.0064323339611291885,0.9752241373062134,neutral,0.011911150068044662
+62,2016-07-29 07:12:00,This is the number from the last six months.,0.04561282694339752,0.04145865514874458,0.9129285216331482,neutral,0.004154171794652939
+63,2016-07-29 07:12:00,"For the quarter itself, the volume was up 1.8%.",0.9525993466377258,0.020090989768505096,0.02730964496731758,positive,0.9325083494186401
+64,2016-07-29 07:12:00,"I think, for consumer staples -- or, any business, for that matter -- the only sustainable way for a company to create value over the long-term, or to maintain its competitive advantage, is by growing its volume.",0.8867194652557373,0.012712962925434113,0.10056763142347336,positive,0.8740065097808838
+65,2016-07-29 07:12:00,So I prefer companies that are able to grow their volume quarter after quarter.,0.8005226254463196,0.011297589167952538,0.18817977607250214,positive,0.7892250418663025
+66,2016-07-29 07:12:00,"Shen: And not just build it off of price increases, for example.",0.1581573784351349,0.009048566222190857,0.8327940702438354,neutral,0.14910881221294403
+67,2016-07-29 07:12:00,"Pritanjali: Not only building out of price increases, but also by reducing their operating expenses.",0.9075365662574768,0.019882814958691597,0.07258069515228271,positive,0.8876537680625916
+68,2016-07-29 07:12:00,"Which is a good way to create value, but in order to be sustainable for a longer term, you have to grow your top line by growing your volume.",0.8298384547233582,0.013131278567016125,0.15703031420707703,positive,0.816707193851471
+69,2016-07-29 07:12:00,I like Unilever in that regard.,0.11505965143442154,0.006909658201038837,0.8780307173728943,neutral,0.10814999043941498
+70,2016-07-29 07:12:00,But the bigger news for Unilever from last week was that they acquired Dollar Shave Club for $1 billion.,0.11381914466619492,0.02429383248090744,0.8618870377540588,neutral,0.08952531218528748
+71,2016-07-29 07:12:00,"Pritanjali: For our audience who don't know about Dollar Shave Club, all you have to do is go to YouTube, type 'dollar shave club,' and you'll have the CEO advertising about their blades.",0.025865044444799423,0.04132142663002014,0.9328135251998901,neutral,-0.015456382185220718
+72,2016-07-29 07:12:00,Apparently they're very awesome.,0.20486217737197876,0.014539720490574837,0.7805981040000916,neutral,0.19032245874404907
+73,2016-07-29 07:12:00,Unilever paid $1 billion for that.,0.11708947271108627,0.007551837246865034,0.8753587007522583,neutral,0.10953763872385025
+74,2016-07-29 07:12:00,The company is expected to post $240 million of revenue this year.,0.5859530568122864,0.011178966611623764,0.40286797285079956,positive,0.5747740864753723
+75,2016-07-29 07:12:00,"So, approximately, the company has paid 4.2 times sales for Dollar Shave Club.",0.03355700895190239,0.01801617257297039,0.9484268426895142,neutral,0.015540836378932
+76,2016-07-29 07:12:00,Which seems a bit expensive.,0.06874275952577591,0.10552910715341568,0.8257281184196472,neutral,-0.03678634762763977
+77,2016-07-29 07:12:00,But if you look at the way Dollar Shave Club has grown over the last three to four years ...,0.24583278596401215,0.007980353198945522,0.7461869120597839,neutral,0.23785243928432465
+78,2016-07-29 07:12:00,"I think in 2012, they had $4 million in revenue.",0.07935760170221329,0.007519329898059368,0.9131230711936951,neutral,0.07183827459812164
+79,2016-07-29 07:12:00,"This year, they're supposed to post $240 million.",0.15423059463500977,0.010747415013611317,0.83502197265625,neutral,0.14348317682743073
+80,2016-07-29 07:12:00,That's a huge jump.,0.6863272786140442,0.018295960500836372,0.295376718044281,positive,0.6680313348770142
+81,2016-07-29 07:12:00,Shen: Unbelievable growth rate.,0.42673954367637634,0.047471560537815094,0.5257889032363892,neutral,0.37926799058914185
+82,2016-07-29 07:12:00,"Considering they only started in 2012, so, over about four years, they now, I think, have over 3 million members as part of their subscription model.",0.07904665917158127,0.004710609558969736,0.9162427186965942,neutral,0.07433605194091797
+83,2016-07-29 07:12:00,Shen: And I think that's a part of the reason why Unilever was so attracted to this deal.,0.4582788050174713,0.01251157931983471,0.5292096138000488,neutral,0.44576722383499146
+84,2016-07-29 07:12:00,It's a very unique business model with the subscriptions.,0.21041874587535858,0.006535526365041733,0.783045768737793,neutral,0.20388321578502655
+85,2016-07-29 07:12:00,"I think they offer, essentially, new razors for as cheap as $3 per month including shipping for the consumers.",0.09955447167158127,0.006194316782057285,0.8942511677742004,neutral,0.09336015582084656
+86,2016-07-29 07:12:00,It's basically changed that part of the industry.,0.08429921418428421,0.15290366113185883,0.7627971172332764,neutral,-0.06860444694757462
+87,2016-07-29 07:12:00,"I saw in a presentation that Unilever mentioned that, for male grooming, it's estimated to be a $42 billion market.",0.07237812876701355,0.005526822060346603,0.9220951199531555,neutral,0.06685130298137665
+88,2016-07-29 07:12:00,"This company is still a small piece of that, but they've definitely presented a bit of a conundrum for Procter & Gamble, for example, which is known for the Gillette brand of razors -- it's really impacted their business, as well.",0.03237009048461914,0.6195141673088074,0.3481157422065735,negative,-0.5871440768241882
+89,2016-07-29 07:12:00,Pritanjali: It has hurt their business.,0.02800944820046425,0.9527749419212341,0.019215619191527367,negative,-0.9247654676437378
+90,2016-07-29 07:12:00,"Maybe not in terms of value, because, as you mentioned, the blades which Dollar Shave Club sells, they're floor prices.",0.014077981933951378,0.014891806058585644,0.9710302352905273,neutral,-0.0008138241246342659
+91,2016-07-29 07:12:00,"But in terms of the number of people who are shaving using Dollar Shave Club's blades, that has increased.",0.45980218052864075,0.022789618000388145,0.5174081921577454,neutral,0.43701255321502686
+92,2016-07-29 07:12:00,"So, that way, they have taken share away from Gillette.",0.03495744243264198,0.016635382547974586,0.9484071135520935,neutral,0.018322059884667397
+93,2016-07-29 07:12:00,"Also, this strategy makes sense for Unilever, because Unilever has a massive presence in emerging markets.",0.7353329062461853,0.010698937810957432,0.25396817922592163,positive,0.7246339917182922
+94,2016-07-29 07:12:00,Around 60% of their revenue comes from emerging market.,0.0336374007165432,0.005441757384687662,0.9609208106994629,neutral,0.028195643797516823
+95,2016-07-29 07:12:00,"Dollar Shave Club sort of gives them an entry for them to explore their growth territory in the U.S., so they can figure out more ways to grow in the U.S. market.",0.7093510627746582,0.01332569308578968,0.27732324600219727,positive,0.6960253715515137
+96,2016-07-29 07:12:00,"So, I think that strategy makes a lot of sense.",0.31147822737693787,0.009052512235939503,0.6794692873954773,neutral,0.30242571234703064
+97,2016-07-29 07:12:00,"Shen: Do you think, just the fact that, for example, with Dollar Shave Club, they're able to offer those floor prices like you mentioned, that Unilever is interested in taking that abroad in emerging markets, where they might be more price-sensitive?",0.179294615983963,0.011722548864781857,0.808982789516449,neutral,0.16757206618785858
+98,2016-07-29 07:12:00,"Pritanjali: I think right now, the strategy is to grow Dollar Shave Club in the U.S. market itself, because their penetration is still very low, and there's a lot of scope of growth.",0.4917412996292114,0.02131206914782524,0.48694661259651184,positive,0.4704292416572571
+99,2016-07-29 07:12:00,Also Dollar Shave Club has started selling other stuff like gel and other male grooming products.,0.16166801750659943,0.010612819343805313,0.8277190923690796,neutral,0.1510552018880844
+100,2016-07-29 07:12:00,"So, there's a scope of growth there.",0.7167531847953796,0.011686187237501144,0.2715606093406677,positive,0.705066978931427
+101,2016-07-29 07:12:00,"Once you've attracted a consumer base, you can cross-sell stuff, and you can grow from there.",0.4212138056755066,0.009499995969235897,0.5692861676216125,neutral,0.4117138087749481
+102,2016-07-29 07:12:00,"I think, for now, they're looking at the U.S. market.",0.03812718391418457,0.010083298198878765,0.9517894983291626,neutral,0.02804388478398323
+103,2016-07-29 07:12:00,"The CEO of Unilever, Paul Polman, has said that if they will get more such acquisition deals, they are willing to explore that, because it's a way to learn about how technology can make a difference to a sector like consumer staples, which is known to be the steady one.",0.7373542785644531,0.014751894399523735,0.24789386987686157,positive,0.722602367401123
+104,2016-07-29 07:12:00,Shen: Yeah.,0.13799047470092773,0.05063272640109062,0.8113768100738525,neutral,0.08735774457454681
+105,2016-07-29 07:12:00,"Something else that really jumped out at me was potentially why the Unilever here would be willing to pay a little bit more for premium valuation for this company, is just the way that they have been so effective with their marketing.",0.44757479429244995,0.018308062106370926,0.5341171622276306,neutral,0.42926672101020813
+106,2016-07-29 07:12:00,"Like you mention, not only was social media, but with that ad that's on YouTube with the founder of Dollar Shave Club, I think it has over 20 million --
+
+Shen: So, that was very powerful.",0.41721534729003906,0.015277295373380184,0.5675073266029358,neutral,0.4019380509853363
+107,2016-07-29 07:12:00,"As a small company, surprisingly, they jumped into television commercials as well.",0.24035188555717468,0.012956846505403519,0.7466912865638733,neutral,0.22739504277706146
+108,2016-07-29 07:12:00,Quite surprising for a company their size.,0.109381303191185,0.02313038893043995,0.8674883246421814,neutral,0.0862509161233902
+109,2016-07-29 07:12:00,"And it was very effective, I think it just connected with a lot of their customers, who essentially didn't like the previous business model that they were forced to adopt into with the cartridge refills.",0.16422322392463684,0.2340618073940277,0.6017149686813354,neutral,-0.06983858346939087
+110,2016-07-29 07:12:00,Pritanjali: Right.,0.1668214201927185,0.058977123349905014,0.7742014527320862,neutral,0.1078442931175232
+111,2016-07-29 07:12:00,"This is the reason why Dollar Shave Club is not profitable yet, because they are spending a lot on advertising and marketing.",0.01951294206082821,0.44951528310775757,0.5309717655181885,neutral,-0.4300023317337036
+112,2016-07-29 07:12:00,"But, as I mentioned earlier, because of YouTube and Facebook, it has become easier to market your product.",0.2621103525161743,0.012307481840252876,0.7255821228027344,neutral,0.2498028725385666
+113,2016-07-29 07:12:00,It has become easier to reach out to customers.,0.2887820899486542,0.013441157527267933,0.697776734828949,neutral,0.2753409445285797
+114,2016-07-29 07:12:00,That has lowered the entry barrier.,0.7004493474960327,0.15010304749011993,0.14944759011268616,positive,0.550346314907074
+115,2016-07-29 07:12:00,"So, for a company like Procter & Gamble, they need to be a lot more aggressive, and keep their eyes and ears open for what's coming from where, and just think ahead of the competition.",0.1681598275899887,0.009605229832231998,0.8222349882125854,neutral,0.15855459868907928
+116,2016-07-29 07:12:00,"Shen: So, obviously, we have Unilever and Procter & Gamble, definitely two of the big names in this space, facing off against each other.",0.27045154571533203,0.035066161304712296,0.6944822669029236,neutral,0.23538538813591003
+117,2016-07-29 07:12:00,One thing in my research for these companies that I've noticed is that Unilever definitely has more of that exposure to emerging markets.,0.12570327520370483,0.008247986435890198,0.8660487532615662,neutral,0.11745528876781464
+118,2016-07-29 07:12:00,"And I think it's sustained, a little bit, the growth that they've been able to enjoy, whereas Procter & Gamble obviously has been going through its own reorganization efforts.",0.6116604208946228,0.012654183432459831,0.3756854236125946,positive,0.5990062355995178
+119,2016-07-29 07:12:00,"With these two companies, their outlooks, what do you think?",0.02774212323129177,0.007660537492483854,0.9645972847938538,neutral,0.02008158527314663
+120,2016-07-29 07:12:00,Is there anything that's jumping out at you?,0.06000765785574913,0.1155930683016777,0.8243992924690247,neutral,-0.055585410445928574
+121,2016-07-29 07:12:00,"Unilever, Procter & Gamble, brighter future?",0.07617027312517166,0.02463800273835659,0.8991917371749878,neutral,0.05153226852416992
+122,2016-07-29 07:12:00,"Pritanjali: Well, those two are very established companies, there's no doubt about that.",0.39754241704940796,0.011679809540510178,0.5907777547836304,neutral,0.3858626186847687
+123,2016-07-29 07:12:00,Procter & Gamble has No.,0.01882951334118843,0.020743858069181442,0.9604266285896301,neutral,-0.0019143447279930115
+124,2016-07-29 07:12:00,1 and No.,0.12017083168029785,0.027705064043402672,0.8521240949630737,neutral,0.09246576577425003
+125,2016-07-29 07:12:00,2 position in most of the categories in which they operate.,0.04471448063850403,0.007618390489369631,0.947667121887207,neutral,0.037096090614795685
+126,2016-07-29 07:12:00,That's there.,0.12360721081495285,0.019464973360300064,0.8569278120994568,neutral,0.10414223372936249
+127,2016-07-29 07:12:00,"They have Tide, Pamper, and such established brands.",0.10291028767824173,0.007419948000460863,0.8896697759628296,neutral,0.09549033641815186
+128,2016-07-29 07:12:00,That's there.,0.12360721081495285,0.019464973360300064,0.8569278120994568,neutral,0.10414223372936249
+129,2016-07-29 07:12:00,The thing I do not like about Procter & Gamble is that they have not been able to grow their volume.,0.08429455757141113,0.7245036959648132,0.19120176136493683,negative,-0.6402091383934021
+130,2016-07-29 07:12:00,"And as I told you, I think volume growth is important for a company to be sustainable over the long term.",0.7636831402778625,0.011090255342423916,0.22522656619548798,positive,0.7525928616523743
+131,2016-07-29 07:12:00,"They have a couple of efforts, which I appreciate.",0.7390248775482178,0.015266370959579945,0.24570877850055695,positive,0.7237585186958313
+132,2016-07-29 07:12:00,"For example, they have slimmed down their portfolio, so they can concentrate on the 20% which used to derive almost 80% of their operating profits.",0.039838969707489014,0.5972954034805298,0.3628656566143036,negative,-0.5574564337730408
+133,2016-07-29 07:12:00,That's one thing.,0.04600786417722702,0.015538697130978107,0.9384534358978271,neutral,0.030469167977571487
+134,2016-07-29 07:12:00,"They've also made their operations leaner, so they can increase their free cash flow margin, which is great.",0.9452276229858398,0.017231570556759834,0.03754076361656189,positive,0.927996039390564
+135,2016-07-29 07:12:00,"But, both of these companies are trading at a forward price to earnings multiple of 21.",0.06810305267572403,0.01007052045315504,0.9218264818191528,neutral,0.058032531291246414
+136,2016-07-29 07:12:00,This is when Unilever Limited has a better growth prospect.,0.9207566976547241,0.017095526680350304,0.06214778497815132,positive,0.9036611914634705
+137,2016-07-29 07:12:00,"In the last year, Unilever Limited has posted revenue up 4%, while Procter & Gamble has been struggling.",0.6216802000999451,0.35587242245674133,0.02244734950363636,positive,0.26580777764320374
+138,2016-07-29 07:12:00,I think their revenue growth was around 1%.,0.6492588520050049,0.013426903635263443,0.33731427788734436,positive,0.6358319520950317
+139,2016-07-29 07:12:00,And it's been so for the last two years.,0.1279807835817337,0.027801496908068657,0.8442177176475525,neutral,0.1001792848110199
+140,2016-07-29 07:12:00,This is the reason why we sold Procter & Gamble in Income Investor .,0.03373139724135399,0.006531525868922472,0.9597371220588684,neutral,0.027199871838092804
+141,2016-07-29 07:12:00,The company needs to really think out of the box in order to grow its volume.,0.6329894661903381,0.012581215240061283,0.3544292747974396,positive,0.6204082369804382
+142,2016-07-29 07:12:00,"If you look at Unilever Limited, they have a strong presence in emerging markets, which gives them more leeway to grow, because you have growth coming from rising income from people trying out premium products.",0.849186897277832,0.012938332743942738,0.13787473738193512,positive,0.8362485766410828
+143,2016-07-29 07:12:00,"As a person who was born and brought up in India, I can tell you that Unilever Limited does a very good job in reaching out to not just big cities, but the villages and Tier 3, Tier 4 towns.",0.729893684387207,0.01070617325603962,0.2594001293182373,positive,0.7191874980926514
+144,2016-07-29 07:12:00,"They're able to sell the product not just to medium- or high-income-group people, but also to low-income-group people.",0.4891652762889862,0.009079543873667717,0.5017551779747009,neutral,0.48008573055267334
+145,2016-07-29 07:12:00,They have a wide variety of products.,0.024440951645374298,0.004837220534682274,0.9707217812538147,neutral,0.019603731110692024
+146,2016-07-29 07:12:00,They really do a really good job in penetrating the local markets of emerging markets.,0.7664234638214111,0.012592966668307781,0.2209835946559906,positive,0.7538304924964905
+147,2016-07-29 07:12:00,Shen: That's really interesting direct experience for you.,0.5469710826873779,0.017743423581123352,0.43528541922569275,positive,0.5292276740074158
+148,2016-07-29 07:12:00,I wasn't aware of that.,0.045156266540288925,0.12630972266197205,0.828533947467804,neutral,-0.08115345239639282
+149,2016-07-29 07:12:00,"It touches, again, on Unilever's strength in some of those markets.",0.8537569046020508,0.01683301106095314,0.12941010296344757,positive,0.8369238972663879
+150,2016-07-29 07:12:00,Pritanjali: True.,0.3570205569267273,0.05469478294253349,0.5882846117019653,neutral,0.3023257851600647
+151,2016-07-29 07:12:00,"So yeah, between Procter & Gamble and Unilever Limited, I like Unilever more.",0.13342508673667908,0.008637591265141964,0.8579372763633728,neutral,0.12478749454021454
+152,2016-07-29 07:12:00,"Shen: The one thing too, that you mentioned, in terms of being more aggressive with growth, I also noticed somewhere in their presentation here ... let me see ... here it is.",0.11451103538274765,0.01697416417300701,0.8685148358345032,neutral,0.09753686934709549
+153,2016-07-29 07:12:00,"Just to give everyone an idea -- on the Procter & Gamble side, actually -- the difference, just to give you the dynamic: two-thirds of their revenue in North America and Europe, which are their more mature and established markets, while their developing markets like Latin America are just 10%.",0.04801835119724274,0.01321084052324295,0.9387707710266113,neutral,0.034807510673999786
+154,2016-07-29 07:12:00,"All of India, the Middle East, and Africa, or just 8%.",0.013316147960722446,0.031423505395650864,0.9552603363990784,neutral,-0.018107358366250992
+155,2016-07-29 07:12:00,"China is 8%, Asia is 8%.",0.017795877531170845,0.009234857745468616,0.9729692339897156,neutral,0.008561019785702229
+156,2016-07-29 07:12:00,"So, just a really big difference from Unilever.",0.2876753807067871,0.015964455902576447,0.696360170841217,neutral,0.27171093225479126
+157,2016-07-29 07:12:00,Pritanjali: Sure.,0.13243801891803741,0.03955503925681114,0.8280069828033447,neutral,0.09288297593593597
+158,2016-07-29 07:12:00,And this is the reason why Procter & Gamble has been struggling to grow its volume.,0.03551016002893448,0.8815683126449585,0.08292151242494583,negative,-0.8460581302642822
+159,2016-07-29 07:12:00,"40% comes from the U.S., which is a sort of mature market.",0.06341969966888428,0.005791973322629929,0.9307883381843567,neutral,0.05762772634625435
+160,2016-07-29 07:12:00,"Emerging markets contribute around 38% of revenue for Procter & Gamble, while for Unilever, it's 60%.",0.019097069278359413,0.011471063829958439,0.9694318175315857,neutral,0.007626005448400974
+161,2016-07-29 07:12:00,"They have a bigger audience to talk to, or to sell their products to.",0.24282747507095337,0.008680170401930809,0.7484923005104065,neutral,0.234147310256958
+162,2016-07-29 07:12:00,Shen: It's really great to hear your insight on the consumer staples with these two bigger companies.,0.37973231077194214,0.01159916166216135,0.6086685061454773,neutral,0.36813315749168396
+163,2016-07-29 07:12:00,"Next, I'd like to touch on one company that actually just reported today, which is Luxottica.",0.026753170415759087,0.006846594158560038,0.9664002060890198,neutral,0.019906576722860336
+164,2016-07-29 07:12:00,"Then, Time Warner, which will be previewing their earnings.",0.0241855476051569,0.008623573929071426,0.9671908617019653,neutral,0.015561973676085472
+165,2016-07-29 07:12:00,I think they report in early August.,0.012327072210609913,0.03143806383013725,0.9562349319458008,neutral,-0.019110992550849915
+166,2016-07-29 07:12:00,"But before we move on, I want you to thank Rocket Mortgage Quicken Loans for supporting the show.",0.3423963487148285,0.01068315003067255,0.6469205021858215,neutral,0.3317131996154785
+167,2016-07-29 07:12:00,"Listeners who have purchased a home in the past or are currently scoping out the market, like myself, actually, you understand how frustrating and time-consuming getting a mortgage can be.",0.04154666140675545,0.1459863930940628,0.8124669194221497,neutral,-0.10443973541259766
+168,2016-07-29 07:12:00,"Fortunately, Rocket Mortgage is bringing the mortgage approval process to the 21st century.",0.5638535022735596,0.009755047038197517,0.4263914227485657,positive,0.5540984272956848
+169,2016-07-29 07:12:00,"With Rocket Mortgage, you can easily share your bank statements and pay stubs at the touch of a button, helping you get approved in minutes for a custom mortgage solution that's tailored to your unique financial situation.",0.3419576585292816,0.010009104385972023,0.6480332612991333,neutral,0.33194854855537415
+170,2016-07-29 07:12:00,"It's fast, powerful, and completely online, so you can do all this from your smartphone or tablet.",0.08666098117828369,0.00619273167103529,0.9071463346481323,neutral,0.08046825230121613
+171,2016-07-29 07:12:00,"If you're looking to refinance your mortgage or buy a home, check out Rocket Mortgage today at quickenloans.com/fool.",0.042363446205854416,0.019012989476323128,0.9386235475540161,neutral,0.023350456729531288
+172,2016-07-29 07:12:00,"Equal housing lender, licensed in all 50 states, nmlsconsumeraccess.org, number 3030.",0.01723981462419033,0.007707681972533464,0.975052535533905,neutral,0.009532133117318153
+173,2016-07-29 07:12:00,"Moving on, as I mentioned, to Luxottica.",0.049613840878009796,0.005232483148574829,0.9451537132263184,neutral,0.04438135772943497
+174,2016-07-29 07:12:00,This is actually a company I don't think I've covered previously on Industry Focus .,0.030784927308559418,0.008180749602615833,0.9610342979431152,neutral,0.02260417863726616
+175,2016-07-29 07:12:00,"They reported earnings about two hours ago, now.",0.018244106322526932,0.012658067047595978,0.9690978527069092,neutral,0.005586039274930954
+176,2016-07-29 07:12:00,Shen: They make some very popular eyewear I think a lot of our listeners will be familiar with.,0.10479937493801117,0.00711270933970809,0.8880879878997803,neutral,0.09768666326999664
+177,2016-07-29 07:12:00,"Think Ray-Ban, Oakley, Oliver Peoples.",0.06190476194024086,0.040969643741846085,0.8971256017684937,neutral,0.020935118198394775
+178,2016-07-29 07:12:00,They also license with a ton of world-class names in the luxury fashion industry.,0.37609773874282837,0.019317124038934708,0.6045851707458496,neutral,0.35678061842918396
+179,2016-07-29 07:12:00,"Think Burberry, Chanel, Tiffany and more .",0.02493593469262123,0.011309556663036346,0.9637545347213745,neutral,0.013626378029584885
+180,2016-07-29 07:12:00,"Another really interesting part of their business is, they have this retail network, 7,200 stores worldwide.",0.07467550039291382,0.005761751905083656,0.9195627570152283,neutral,0.06891375035047531
+181,2016-07-29 07:12:00,"They have chains like LensCrafters, Pearle Vision, Sears Optical, Target Optical, Sunglass Hut.",0.02768535725772381,0.0074826194904744625,0.964832067489624,neutral,0.02020273730158806
+182,2016-07-29 07:12:00,"And on top of all that, they are also the home of EyeMed Vision Care, which is the second-largest vision benefits provider in the United States.",0.18048129975795746,0.007342649158090353,0.8121761083602905,neutral,0.17313864827156067
+183,2016-07-29 07:12:00,They serve almost 40 million people.,0.04137568920850754,0.0059955790638923645,0.9526287913322449,neutral,0.03538011014461517
+184,2016-07-29 07:12:00,Quick rundown.,0.30099162459373474,0.01969756744801998,0.6793107986450195,neutral,0.281294047832489
+185,2016-07-29 07:12:00,"I know they just reported, but did anything jump out at you from the report?",0.02734449878334999,0.09505920857191086,0.8775963187217712,neutral,-0.06771470606327057
+186,2016-07-29 07:12:00,"Pritanjali: First of all, you summed up Luxottica pretty well.",0.6624048352241516,0.014441103674471378,0.323154091835022,positive,0.6479637026786804
+187,2016-07-29 07:12:00,"Even though Luxottica is not so much known to everyone, their brands are.",0.055952973663806915,0.008277114480733871,0.9357698559761047,neutral,0.047675859183073044
+188,2016-07-29 07:12:00,Everybody knows about Ray-Ban and Oakley.,0.035037875175476074,0.009957964532077312,0.9550042152404785,neutral,0.025079909712076187
+189,2016-07-29 07:12:00,"I was just looking at their numbers, I haven't had a chance to look at the transcript.",0.029750412330031395,0.19024646282196045,0.7800031900405884,neutral,-0.1604960560798645
+190,2016-07-29 07:12:00,Core sales were up 1.6%.,0.9427109956741333,0.025398334488272667,0.03189070150256157,positive,0.9173126816749573
+191,2016-07-29 07:12:00,Operating income was up around 1.5%.,0.9513375163078308,0.019399797543883324,0.029262589290738106,positive,0.9319376945495605
+192,2016-07-29 07:12:00,"Which, I won't say that's great.",0.09751063585281372,0.06728725135326385,0.8352020978927612,neutral,0.030223384499549866
+193,2016-07-29 07:12:00,"I think, if I had to evaluate their results, they were sort of below my expectations.",0.030289126560091972,0.8186355829238892,0.15107537806034088,negative,-0.7883464694023132
+194,2016-07-29 07:12:00,And the company has lowered its forecast for the next half of the year.,0.01702858880162239,0.9505019187927246,0.03246954828500748,negative,-0.9334733486175537
+195,2016-07-29 07:12:00,"So now, they're projecting 2% to 3% of growth in revenue for the year, as compared to their earlier projections of 5% to 6% growth for the year.",0.8555633425712585,0.06023102253675461,0.08420563489198685,positive,0.7953323125839233
+196,2016-07-29 07:12:00,"Also, the company's long-term strategy is to grow their operating income 1.5 times revenue.",0.9393351674079895,0.014328259974718094,0.04633651673793793,positive,0.9250069260597229
+197,2016-07-29 07:12:00,"For this year, now, they're projecting 1 times revenue.",0.18772095441818237,0.008668459951877594,0.8036105632781982,neutral,0.17905250191688538
+198,2016-07-29 07:12:00,"Pritanjali: So, that's there.",0.0958590880036354,0.03692346066236496,0.8672174215316772,neutral,0.05893562734127045
+199,2016-07-29 07:12:00,"But, over the long term, I think that company has a lot of potential to do well.",0.889752984046936,0.012236839160323143,0.09801016002893448,positive,0.8775161504745483
+200,2016-07-29 07:12:00,The reason is that eyewear industry is a structurally growing market.,0.5459326505661011,0.010819558054208755,0.4432477056980133,positive,0.5351130962371826
+201,2016-07-29 07:12:00,"In the next five years, the industry is supposed to grow at 3.7%.",0.6999658346176147,0.012228605337440968,0.2878056466579437,positive,0.687737226486206
+202,2016-07-29 07:12:00,That makes sense.,0.15861138701438904,0.01709693670272827,0.8242917060852051,neutral,0.14151445031166077
+203,2016-07-29 07:12:00,"More and more people are using electronic devices, so they will go for eye checkups more, and there's going to be a need for the eyewear industry.",0.2328740656375885,0.035598281770944595,0.7315276265144348,neutral,0.1972757875919342
+204,2016-07-29 07:12:00,"Also, as we're having global warming, there're more and more people who are going to use sunglasses across the world.",0.07256201654672623,0.017586247995495796,0.9098517298698425,neutral,0.05497577041387558
+205,2016-07-29 07:12:00,"For these reasons, I think there's a way for the company to grow.",0.8313525915145874,0.010947919450700283,0.15769948065280914,positive,0.8204046487808228
+206,2016-07-29 07:12:00,And Luxottica's market share is 60% in the market in which they operate.,0.029143569990992546,0.005836348049342632,0.9650201201438904,neutral,0.02330722287297249
+207,2016-07-29 07:12:00,They're sort of a top player.,0.28628432750701904,0.010315845720469952,0.7033997774124146,neutral,0.2759684920310974
+208,2016-07-29 07:12:00,Pritanjali: They are.,0.12592510879039764,0.03322114422917366,0.8408538103103638,neutral,0.09270396828651428
+209,2016-07-29 07:12:00,"Also, the company is not a completely discretionary business, as we think of eyewear business is being.",0.01213852223008871,0.014483019709587097,0.9733784794807434,neutral,-0.0023444974794983864
+210,2016-07-29 07:12:00,"46% of revenue comes from prescription frames and lenses, while 54% comes from sunglasses and the luxury brand glasses.",0.015201486647129059,0.009918064810335636,0.9748803973197937,neutral,0.005283421836793423
+211,2016-07-29 07:12:00,That provides some sort of consumer staple side of the business.,0.04651445150375366,0.005841024685651064,0.9476445317268372,neutral,0.040673427283763885
+212,2016-07-29 07:12:00,"Good or bad times, if you need glasses, you will continue to need glasses.",0.05065736174583435,0.00951498281210661,0.9398276209831238,neutral,0.04114237800240517
+213,2016-07-29 07:12:00,That's there.,0.12360721081495285,0.019464973360300064,0.8569278120994568,neutral,0.10414223372936249
+214,2016-07-29 07:12:00,"Also, because the company is vertically integrated, it helps the company to launch the product quickly, and to understand the consumer well.",0.8215078711509705,0.011944446712732315,0.16654765605926514,positive,0.809563398361206
+215,2016-07-29 07:12:00,"Luxottica takes a lot of pride in the fact that the company is able to design, manufacture, and launch the product, all in the same day.",0.7545343637466431,0.012556739151477814,0.23290884494781494,positive,0.7419776320457458
+216,2016-07-29 07:12:00,They move their supply chain so quickly.,0.13616415858268738,0.011130142025649548,0.8527056574821472,neutral,0.12503401935100555
+217,2016-07-29 07:12:00,"That puts Luxottica ahead of competition, I would say, with such a huge market share, with a growing market.",0.9056571125984192,0.013322869315743446,0.08102007955312729,positive,0.8923342227935791
+218,2016-07-29 07:12:00,"And, as you said, they have a brand which resonates well with everybody.",0.4523545801639557,0.00964046735316515,0.538004994392395,neutral,0.442714124917984
+219,2016-07-29 07:12:00,Luxottica has a lot of scope of growth in the future.,0.7185966372489929,0.010234597139060497,0.2711687982082367,positive,0.7083620429039001
+220,2016-07-29 07:12:00,"Shen: Absolutely, Rana.",0.17909450829029083,0.031834676861763,0.7890708446502686,neutral,0.14725983142852783
+221,2016-07-29 07:12:00,I think the really important and cool thing about this company that you touched on was that vertical integration.,0.2968176305294037,0.008448358625173569,0.6947339773178101,neutral,0.2883692681789398
+222,2016-07-29 07:12:00,"I think they have six production facilities, or something along those lines.",0.040194373577833176,0.007999020628631115,0.9518066644668579,neutral,0.032195352017879486
+223,2016-07-29 07:12:00,"Three in Italy, one in China, I think one in the U.S. as well.",0.018920110538601875,0.01719902642071247,0.9638808965682983,neutral,0.0017210841178894043
+224,2016-07-29 07:12:00,"But being able to go for Ray-Ban, or Oakley, like you mentioned, from design to production -- and then they have this giant network of retailers --
+
+Shen: The distribution.",0.05654551461338997,0.00631705392152071,0.9371374845504761,neutral,0.050228461623191833
+225,2016-07-29 07:12:00,It's very powerful.,0.2775883376598358,0.01032528467476368,0.7120863795280457,neutral,0.2672630548477173
+226,2016-07-29 07:12:00,Pritanjali: Yeah.,0.17585133016109467,0.048729345202445984,0.7754193544387817,neutral,0.12712198495864868
+227,2016-07-29 07:12:00,"And since the manufacturing capabilities [are] so strong, even if a company like Chanel or Prada wants to manufacture its own glasses, they will tie up with Luxottica in order to do that.",0.5882089734077454,0.009747253730893135,0.4020438492298126,positive,0.5784617066383362
+228,2016-07-29 07:12:00,The company literally dominates this market.,0.1847614198923111,0.008763471618294716,0.8064751029014587,neutral,0.17599794268608093
+229,2016-07-29 07:12:00,"Shen: One point I would like to leave with listeners and people who are interested in Luxottica is the business is still very focused in Europe and North America, especially if you're looking at it in terms of it being more of a luxury brand.",0.057509053498506546,0.008987479843199253,0.9335035085678101,neutral,0.04852157458662987
+230,2016-07-29 07:12:00,"I think 79% of its sales in its last quarter that I have the financials for -- not yet for this most recent quarter, the one from today -- so, large runway for developing markets.",0.1749231517314911,0.012521062046289444,0.8125557899475098,neutral,0.16240209341049194
+231,2016-07-29 07:12:00,"Pritanjali: Oh, there is.",0.0906086191534996,0.039083082228899,0.8703082799911499,neutral,0.0515255369246006
+232,2016-07-29 07:12:00,And they are looking into that market.,0.10530717670917511,0.0065339007414877415,0.8881589770317078,neutral,0.0987732782959938
+233,2016-07-29 07:12:00,They have been tying up with local companies where they can use their own technology and their experience to launch their product into emerging markets.,0.7961530089378357,0.011792445555329323,0.19205455482006073,positive,0.7843605875968933
+234,2016-07-29 07:12:00,Definitely that's the case.,0.13665702939033508,0.0901775136590004,0.7731654047966003,neutral,0.046479515731334686
+235,2016-07-29 07:12:00,Shen: OK. We have a few more minutes here.,0.06653214991092682,0.049136511981487274,0.8843313455581665,neutral,0.017395637929439545
+236,2016-07-29 07:12:00,I wanted to wrap up on Time Warner.,0.06783187389373779,0.008403460495173931,0.9237646460533142,neutral,0.05942841246724129
+237,2016-07-29 07:12:00,They report earnings on August 3rd before the market opens.,0.025075258687138557,0.010338224470615387,0.9645865559577942,neutral,0.01473703421652317
+238,2016-07-29 07:12:00,There's been a lot of chatter in the investment community after Netflix took a beating in its latest report.,0.05603322014212608,0.8040838241577148,0.1398828774690628,negative,-0.7480506300926208
+239,2016-07-29 07:12:00,Dylan Lewis and Simon Erickson actually have a great show on this from July 23rd in Industry Focus .,0.22655342519283295,0.01452071126550436,0.7589258551597595,neutral,0.2120327204465866
+240,2016-07-29 07:12:00,"Time Warner, their three primary business segments are Turner, HBO, and Warner Brothers.",0.012913386337459087,0.007765993010252714,0.9793206453323364,neutral,0.005147393327206373
+241,2016-07-29 07:12:00,"Turner, think the TV networks.",0.0340200737118721,0.023800300434231758,0.9421796798706055,neutral,0.010219773277640343
+242,2016-07-29 07:12:00,"HBO, obviously, the premium service.",0.031034380197525024,0.006724613253027201,0.962240993976593,neutral,0.02430976741015911
+243,2016-07-29 07:12:00,"Then, you have Warner Brothers, which is some of the television shows and obviously the big blockbusters they produce.",0.02550266683101654,0.007541707716882229,0.9669556617736816,neutral,0.017960958182811737
+244,2016-07-29 07:12:00,"For me, personally, I was really excited.",0.2396133542060852,0.013419329188764095,0.7469673156738281,neutral,0.22619402408599854
+245,2016-07-29 07:12:00,I actually saw a lot of the Comic-Con trailers that came out for Warner Brothers movies like Justice League and things like that that came out over the weekend.,0.020376982167363167,0.014121219515800476,0.9655017852783203,neutral,0.006255762651562691
+246,2016-07-29 07:12:00,A lot of buzz around those.,0.1281314194202423,0.01649554632604122,0.8553730249404907,neutral,0.11163587123155594
+247,2016-07-29 07:12:00,"But I'd love to hear what you think investors should be looking for in this report, what to expect longer-term as well?",0.039962150156497955,0.006282952148467302,0.9537549018859863,neutral,0.03367919847369194
+248,2016-07-29 07:12:00,Pritanjali: Right.,0.1668214201927185,0.058977123349905014,0.7742014527320862,neutral,0.1078442931175232
+249,2016-07-29 07:12:00,"My investment thesis for Time Warner -- we own this company in Inside Value , and I own it myself, as well -- is, there is going to be a change, and the change is already happening, in the way consumers watch television and entertainment.",0.18813440203666687,0.008681313134729862,0.8031843304634094,neutral,0.17945308983325958
+250,2016-07-29 07:12:00,"But, in this whole entertainment ecosystem, good content providers are always going to win, and they're always going to have a dominant position in this ecosystem.",0.584736168384552,0.01177243608981371,0.40349140763282776,positive,0.5729637145996094
+251,2016-07-29 07:12:00,"For a company like Time Warner, which has HBO -- I think that's a very valuable asset for the company -- and they also own channels like CBS , CNN, Cartoon Network.",0.1945071816444397,0.00652840593829751,0.7989644408226013,neutral,0.18797877430915833
+252,2016-07-29 07:12:00,"They provide a whole family entertainment package where you have something for kids, something for adults.",0.06078715994954109,0.005274046678096056,0.93393874168396,neutral,0.05551311373710632
+253,2016-07-29 07:12:00,I think Time Warner is going to be dominant in the coming years.,0.3938693106174469,0.008825264871120453,0.5973053574562073,neutral,0.38504403829574585
+254,2016-07-29 07:12:00,The company is trading at a price-to-earnings of 16.,0.035530395805835724,0.005925050005316734,0.9585445523262024,neutral,0.02960534580051899
+255,2016-07-29 07:12:00,"A lot of pessimism has been priced into the stock, I would say.",0.04414437711238861,0.29707080125808716,0.6587848663330078,neutral,-0.25292640924453735
+256,2016-07-29 07:12:00,"If you look at Turner, they have three of the top ten ad-supported cable networks.",0.08391521126031876,0.009904363192617893,0.9061803817749023,neutral,0.07401084899902344
+257,2016-07-29 07:12:00,"If you decide to slim down your cable channels, and you decide to keep -- let's say, instead of having 100 channels, I just want to keep 15, or 10 for that matter, I think you will end up keeping channels that are owned by Time Warner.",0.018860476091504097,0.017819462344050407,0.9633200168609619,neutral,0.0010410137474536896
+258,2016-07-29 07:12:00,"Pritanjali: So, coming to earnings, a couple of things that I will look for are how the subscription growth is going on for HBO, what kind of subscription growth they're reporting.",0.023329561576247215,0.007193970028311014,0.9694764018058777,neutral,0.01613559201359749
+259,2016-07-29 07:12:00,They just showed their finale of Game of Thrones .,0.052717920392751694,0.011493774130940437,0.9357883334159851,neutral,0.04122414439916611
+260,2016-07-29 07:12:00,"Apparently, they had 8.9 million viewers, just for the finale, which is 10% higher than what they had in Season 5 finale last year.",0.8567747473716736,0.05509514361619949,0.08813003450632095,positive,0.8016796112060547
+261,2016-07-29 07:12:00,That's one thing.,0.04600786417722702,0.015538697130978107,0.9384534358978271,neutral,0.030469167977571487
+262,2016-07-29 07:12:00,"I'll also keep an eye on the churn rate, how traditional TV is going -- churn rate is how many people are cancelling their subscriptions.",0.013933056965470314,0.09219203889369965,0.8938748836517334,neutral,-0.07825898379087448
+263,2016-07-29 07:12:00,That's one thing.,0.04600786417722702,0.015538697130978107,0.9384534358978271,neutral,0.030469167977571487
+264,2016-07-29 07:12:00,"Another metric I like to look at are the engagement metrics, which show how many people are watching the top prime shows.",0.05265200883150101,0.006482088007032871,0.9408659338951111,neutral,0.04616992175579071
+265,2016-07-29 07:12:00,"I have the number for Game of Thrones , and similar numbers for other channels as well.",0.031234826892614365,0.008843240328133106,0.9599219560623169,neutral,0.022391587495803833
+266,2016-07-29 07:12:00,"Shen: With HBO, especially with Game of Thrones , they're obviously a very well-known network.",0.5597147345542908,0.011590062640607357,0.4286951422691345,positive,0.5481246709823608
+267,2016-07-29 07:12:00,"They've won so many awards for their content, especially at HBO.",0.7497155070304871,0.014510419219732285,0.23577407002449036,positive,0.7352051138877869
+268,2016-07-29 07:12:00,It's definitely a very powerful business.,0.2851589024066925,0.007397289853543043,0.7074438333511353,neutral,0.2777616083621979
+269,2016-07-29 07:12:00,"Some people, I think, are kind of nervous, because it only has a few more seasons, and HBO is on the hook to try and replace that.",0.057092420756816864,0.10198967903852463,0.8409179449081421,neutral,-0.044897258281707764
+270,2016-07-29 07:12:00,"But, I think at this point, they've generally proven themselves to be very savvy about keeping a pulse of what viewers are interested in, and keeping the stream of winners coming.",0.5648784041404724,0.01579352095723152,0.41932809352874756,positive,0.5490849018096924
+271,2016-07-29 07:12:00,"But, that is something that challenges all content providers, making sure that what they put out is popular with viewers.",0.12956169247627258,0.029658237472176552,0.8407800197601318,neutral,0.09990345686674118
+272,2016-07-29 07:12:00,Pritanjali: Yes.,0.17296470701694489,0.03759890794754028,0.789436399936676,neutral,0.1353657990694046
+273,2016-07-29 07:12:00,"And that's true for every content provider, as you said.",0.06662663072347641,0.0053521329537034035,0.928021252155304,neutral,0.06127449870109558
+274,2016-07-29 07:12:00,The strategy is to keep launching new products.,0.4047619104385376,0.008120276033878326,0.5871178507804871,neutral,0.39664164185523987
+275,2016-07-29 07:12:00,"Or, you could say new TV series.",0.05177338793873787,0.013175472617149353,0.9350510835647583,neutral,0.038597915321588516
+276,2016-07-29 07:12:00,This is where experience does matter.,0.051497682929039,0.008638488128781319,0.9398638010025024,neutral,0.04285919666290283
+277,2016-07-29 07:12:00,Time Warner has done a super job in coming up with series that resonate very well with its audience.,0.8319821357727051,0.012559314258396626,0.1554584801197052,positive,0.8194228410720825
+278,2016-07-29 07:12:00,I don't see the reason why that should change.,0.02003847062587738,0.03777778148651123,0.942183792591095,neutral,-0.01773931086063385
+279,2016-07-29 07:12:00,"The other reason was, initially, Time Warner was sort of apprehensive of cutting its ties with cable companies.",0.04595236852765083,0.6727388501167297,0.28130877017974854,negative,-0.626786470413208
+280,2016-07-29 07:12:00,"Now, Time Warner has become a lot more open about going to customers with its own apps, where you feed your CDs to customers.",0.2285127490758896,0.012736893258988857,0.7587504386901855,neutral,0.21577586233615875
+281,2016-07-29 07:12:00,"The consumer has an option to watch video as per their time, the way they want to consume the content.",0.021161243319511414,0.007852621376514435,0.9709861874580383,neutral,0.013308621942996979
+282,2016-07-29 07:12:00,Shen: OK. Any other thoughts for Time Warner going forward?,0.01971501111984253,0.011383582837879658,0.9689013957977295,neutral,0.008331428281962872
+283,2016-07-29 07:12:00,Pritanjali: No.,0.0869133397936821,0.0797126293182373,0.8333740234375,neutral,0.007200710475444794
+284,2016-07-29 07:12:00,"I think the company is doing exactly what it's supposed to do -- investing in the content, investing in technology, so that it is able to provide entertainment to consumers at their time and the way they want it.",0.3872602581977844,0.007997291162610054,0.6047424674034119,neutral,0.3792629539966583
+285,2016-07-29 07:12:00,Shen: Absolutely.,0.13329258561134338,0.01747337356209755,0.8492340445518494,neutral,0.11581921577453613
+286,2016-07-29 07:12:00,"OK. Just another reminder, if you're looking for those results, they're reporting August 3rd before market open.",0.029070135205984116,0.01619839482009411,0.9547315239906311,neutral,0.012871740385890007
+287,2016-07-29 07:12:00,"Thanks a lot, Rana, for joining us today!",0.5852083563804626,0.027090122923254967,0.38770148158073425,positive,0.5581182241439819
+288,2016-07-29 07:12:00,"Pritanjali: Thank you, I was glad to be here!",0.597090482711792,0.026327529922127724,0.3765820264816284,positive,0.5707629323005676
+289,2016-07-29 07:12:00,"Shen: Yeah, no problem.",0.06807758659124374,0.05257381871342659,0.879348635673523,neutral,0.015503767877817154
+290,2016-07-29 07:12:00,That's a wrap for us today.,0.4694126844406128,0.012655084952712059,0.5179322361946106,neutral,0.4567576050758362
+291,2016-07-29 07:12:00,"You can continue the conversation with us via Twitter @MFIndustryFocus, or send us any questions or comments via email to industryfocus@fool.com .",0.01836761273443699,0.015975207090377808,0.9656571745872498,neutral,0.002392405644059181
+292,2016-07-29 07:12:00,You can also enjoy the other great podcast from The Motley Fool by checking out fool.com/podcasts .,0.06338699162006378,0.02365698292851448,0.9129560589790344,neutral,0.0397300086915493
+293,2016-07-29 07:12:00,"As usual, people on the program may own companies discussed on the show, and The Motley Fool may have formal recommendations for or against stocks mentioned, so don't buy or sell anything based solely on what you hear during the program.",0.010494883172214031,0.019369659945368767,0.9701354503631592,neutral,-0.008874776773154736
+294,2016-07-29 07:12:00,"Thanks for listening, and Fool on!",0.17544347047805786,0.036996882408857346,0.7875596284866333,neutral,0.13844658434391022
+295,2016-07-29 07:12:00,Rana Pritanjali owns shares of Time Warner.,0.02231854386627674,0.011346978135406971,0.9663345217704773,neutral,0.01097156573086977
+296,2016-07-29 07:12:00,Vincent Shen has no position in any stocks mentioned.,0.00955797079950571,0.045803241431713104,0.9446387887001038,neutral,-0.03624527156352997
+297,2016-07-29 07:12:00,"The Motley Fool owns shares of and recommends Amazon.com, Facebook, Netflix, and Time Warner.",0.022738615050911903,0.01391502283513546,0.9633463621139526,neutral,0.008823592215776443
+298,2016-07-29 07:12:00,The Motley Fool recommends Procter and Gamble and Unilever.,0.02654576674103737,0.038525283336639404,0.9349289536476135,neutral,-0.011979516595602036
+299,2016-07-29 07:12:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+300,2016-07-29 07:12:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105840750038624,0.19063225388526917,positive,0.7791560292243958
+301,2016-07-29 07:12:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+302,2016-07-29 07:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

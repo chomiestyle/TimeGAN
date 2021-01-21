@@ -1,0 +1,48 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-13 00:33:00,Shares of Salesforce (NYSE: CRM) are surging again after the company told analysts it plans to grow to $60 billion in revenue from just $10 billion.,0.9448293447494507,0.028429927304387093,0.02674071118235588,positive,0.9163994193077087
+1,2018-01-13 00:33:00,"At that size, Salesforce would be over 50% bigger than Oracle (NYSE: ORCL) , a one-time investor and now chief sales rival.",0.5835285782814026,0.02143690548837185,0.3950344920158386,positive,0.5620916485786438
+2,2018-01-13 00:33:00,Longtime followers of Salesforce will remember that CEO and co-founder Marc Benioff worked at Oracle at one time.,0.02545895427465439,0.025724584236741066,0.9488164782524109,neutral,-0.00026562996208667755
+3,2018-01-13 00:33:00,Oracle co-founder Larry Ellison wisely invested in Benioff and his upstart company early on.,0.26926931738853455,0.02594883367419243,0.7047818303108215,neutral,0.24332047998905182
+4,2018-01-13 00:33:00,"For years, the companies were friendly.",0.5912777185440063,0.021395869553089142,0.38732635974884033,positive,0.5698818564414978
+5,2018-01-13 00:33:00,"But in 2011, Ellison canceled Benioff's scheduled keynote at the annual Oracle OpenWorld conference the day before it was to occur.",0.03674988076090813,0.6124858260154724,0.3507642447948456,negative,-0.5757359266281128
+6,2018-01-13 00:33:00,"The two have been rivals ever since, and now Benioff and team are saying they're on track to grow revenues sixfold in 16 years.",0.9252445101737976,0.019619205966591835,0.055136244744062424,positive,0.9056252837181091
+7,2018-01-13 00:33:00,"Before you commence with eye-rolling, look at the photo below and consider that, for the last two years, Salesforce has drawn over 171,000 attendees to its annual Dreamforce conference.",0.09396658837795258,0.009062969125807285,0.8969705104827881,neutral,0.08490362018346786
+8,2018-01-13 00:33:00,"Oracle's OpenWorld -- the same conference where Benioff was snubbed seven years ago -- drew 60,000 in October.",0.07635796815156937,0.6018141508102417,0.32182782888412476,negative,-0.5254561901092529
+9,2018-01-13 00:33:00,"Developers go where the money is, and there's a lot of money invested in Salesforce
+
+I know, conference attendance isn't exactly a perfect indicator, and Oracle still is nearly four times bigger than Salesforce today.",0.19130763411521912,0.02066393941640854,0.7880284190177917,neutral,0.17064368724822998
+10,2018-01-13 00:33:00,But what about tomorrow?,0.06250972300767899,0.07493898272514343,0.8625512719154358,neutral,-0.012429259717464447
+11,2018-01-13 00:33:00,"At the time of the snub, Oracle generated $35.622 billion in revenue in the fiscal year ended in May 2011.",0.024384135380387306,0.012071897275745869,0.9635439515113831,neutral,0.012312238104641438
+12,2018-01-13 00:33:00,"Salesforce sold just $1.657 billion worth of product in the fiscal year ended four months earlier, in January 2011.",0.019412174820899963,0.3678339719772339,0.6127538084983826,neutral,-0.3484218120574951
+13,2018-01-13 00:33:00,"In other words, at the time of Benioff's snub, Oracle was over 20 times larger than Salesforce.",0.28038519620895386,0.025215867906808853,0.6943989396095276,neutral,0.2551693320274353
+14,2018-01-13 00:33:00,That gap is now less than four times.,0.057651206851005554,0.09659687429666519,0.8457518815994263,neutral,-0.03894566744565964
+15,2018-01-13 00:33:00,Is it really so crazy to think Salesforce will be the bigger company in a few years?,0.058502163738012314,0.07129993289709091,0.8701979517936707,neutral,-0.012797769159078598
+16,2018-01-13 00:33:00,I don't think so.,0.06060289964079857,0.11016003787517548,0.8292369842529297,neutral,-0.04955713823437691
+17,2018-01-13 00:33:00,"Meanwhile, what the attendance figures tell me is that a lot of corporate developers -- trained coders who customize environments like Salesforce for the companies for which they work -- are interested in what Salesforce has to offer.",0.050665441900491714,0.006723430939018726,0.9426110982894897,neutral,0.04394201189279556
+18,2018-01-13 00:33:00,Fewer of them are interested in what Oracle has to offer.,0.02177150547504425,0.045460715889930725,0.9327677488327026,neutral,-0.023689210414886475
+19,2018-01-13 00:33:00,"Over time, that's likely to mean more licenses and revenue headed Salesforce's way, and the company already has $15.9 billion in booked business as of this writing.",0.755087673664093,0.01520137581974268,0.2297109216451645,positive,0.7398862838745117
+20,2018-01-13 00:33:00,Targeting $60 billion in annual sales by 2034 probably isn't much of a stretch.,0.027405885979533195,0.012206575833261013,0.9603875875473022,neutral,0.015199310146272182
+21,2018-01-13 00:33:00,What surprises me is that no one's talking about how Salesforce is admitting that its growth is about to slow by 80%.,0.03217805549502373,0.8523927927017212,0.11542917042970657,negative,-0.8202147483825684
+22,2018-01-13 00:33:00,"That's right, 80% .",0.19763624668121338,0.015160582028329372,0.7872031927108765,neutral,0.18247567117214203
+23,2018-01-13 00:33:00,Here's why: 16 years to six times growth is 11.8% annualized.,0.043473001569509506,0.009291788563132286,0.9472352266311646,neutral,0.03418121486902237
+24,2018-01-13 00:33:00,Salesforce grew 58.3% annualized in the 16 years prior.,0.9227715730667114,0.02780236303806305,0.0494261160492897,positive,0.8949692249298096
+25,2018-01-13 00:33:00,You know what?,0.08938020467758179,0.0907953754067421,0.8198244571685791,neutral,-0.0014151707291603088
+26,2018-01-13 00:33:00,Good.,0.5720788240432739,0.04357445240020752,0.38434672355651855,positive,0.5285043716430664
+27,2018-01-13 00:33:00,"Because if Salesforce makes good, it'll become one of the world's dominant suppliers of business software.",0.9010751843452454,0.013704866170883179,0.08521999418735504,positive,0.8873703479766846
+28,2018-01-13 00:33:00,Growth slows when you become dominant because there are fewer customers to sell to -- you've already cornered the market.,0.08898691087961197,0.20679570734500885,0.7042173743247986,neutral,-0.11780879646539688
+29,2018-01-13 00:33:00,That's what Ellison did at Oracle.,0.04215788468718529,0.0094086192548275,0.948433518409729,neutral,0.03274926543235779
+30,2018-01-13 00:33:00,"No one should be surprised to see Benioff, his one-time protege, achieve the same at Salesforce.",0.6932471394538879,0.0287519209086895,0.27800098061561584,positive,0.6644952297210693
+31,2018-01-13 00:33:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+32,2018-01-13 00:33:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+33,2018-01-13 00:33:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+34,2018-01-13 00:33:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+35,2018-01-13 00:33:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+36,2018-01-13 00:33:00,Tim Beyers owns shares of Salesforce.com.,0.01489010825753212,0.013046970590949059,0.972062885761261,neutral,0.0018431376665830612
+37,2018-01-13 00:33:00,The Motley Fool owns shares of Oracle.,0.03999162092804909,0.028421049937605858,0.9315873980522156,neutral,0.01157057099044323
+38,2018-01-13 00:33:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+39,2018-01-13 00:33:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+40,2018-01-13 00:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

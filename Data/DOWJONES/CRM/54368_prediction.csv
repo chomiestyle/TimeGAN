@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2011-06-28 05:01:00,VMware (NYSE:VMW) on Tuesday unveiled its new application platform vFabric 5 following a chain of acquisitions that include SpringSource and Digital Fuel.,0.43096286058425903,0.008483219891786575,0.5605539679527283,neutral,0.42247962951660156
+1,2011-06-28 05:01:00,VMware also acquired Socialcast and SlideRocket in the past two months.,0.03852357342839241,0.006358601152896881,0.9551178216934204,neutral,0.03216497227549553
+2,2011-06-28 05:01:00,"We currently have a $94.85 Trefis price estimate for VMware , about 5% above the current market price.",0.4474356472492218,0.014756222255527973,0.5378081798553467,neutral,0.4326794147491455
+3,2011-06-28 05:01:00,"Earlier in April this year, VMware announced the Cloud Foundry, an open source Platform-as-a-Service (PaaS) platform that supports public clouds and private clouds regardless of whether the underlying server runs VMware or not.",0.05692191794514656,0.004824545234441757,0.9382535815238953,neutral,0.0520973727107048
+4,2011-06-28 05:01:00,"This placed VMware in competition with other PaaS providers like Salesforce.com ( CRM ), Microsoft (NASDAQ:MSFT) and Rackspace.",0.08530399203300476,0.8631501793861389,0.05154584348201752,negative,-0.7778462171554565
+5,2011-06-28 05:01:00,vFabric 5 is an on-premise Java application platform designed to run atop VMware's vSphere hypervisor and virtualization-management software.,0.03972478583455086,0.007197181694209576,0.953078031539917,neutral,0.03252760320901871
+6,2011-06-28 05:01:00,It is a direct competitor to middleware software provided by IBM and Oracle products that help connect information in huge enterprises.,0.15732941031455994,0.014102880842983723,0.8285676836967468,neutral,0.1432265341281891
+7,2011-06-28 05:01:00,"In 2010, IBM generated nearly $25 billion in revenues through its middleware software offerings, which gives an idea of the size of the opportunity for VMware if it can penetrate this market.",0.6681364178657532,0.011065362021327019,0.32079818844795227,positive,0.657071053981781
+8,2011-06-28 05:01:00,"While VMware controls the virtualization of some 80% of servers worldwide, it is still very small player in the application platform market.",0.12654228508472443,0.01637219823896885,0.8570855259895325,neutral,0.11017008870840073
+9,2011-06-28 05:01:00,"As VMware expands its platform strategy, it will need a better way to integrate with public cloud services to integrate cloud and on-premise offerings.",0.8771323561668396,0.012617864646017551,0.11024979501962662,positive,0.8645144701004028
+10,2011-06-28 05:01:00,We currently estimate that Java Application Tools account for less than 1% of our price estimate for VMware .,0.015552842058241367,0.36487245559692383,0.6195747256278992,neutral,-0.34931960701942444
+11,2011-06-28 05:01:00,However this could change drastically as VMware expands into the application platform market over the years.,0.12551626563072205,0.010537815280258656,0.8639459013938904,neutral,0.11497844755649567
+12,2011-06-28 05:01:00,"See our full analysis for VMware
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009295460768043995,0.01713971607387066,0.9735648036003113,neutral,-0.007844255305826664

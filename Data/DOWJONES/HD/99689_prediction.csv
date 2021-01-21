@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-12-29 08:49:00,"In early trading on Monday, shares of Walt Disney ( DIS ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.7%.",0.9378894567489624,0.032764095813035965,0.029346495866775513,positive,0.9051253795623779
+1,2014-12-29 08:49:00,"Year to date, Walt Disney registers a 25.2% gain.",0.9362341165542603,0.019723061472177505,0.044042762368917465,positive,0.916511058807373
+2,2014-12-29 08:49:00,"And the worst performing Dow component thus far on the day is International Business Machines ( IBM ), trading down 1.1%.",0.020825251936912537,0.966038167476654,0.013136639259755611,negative,-0.9452129006385803
+3,2014-12-29 08:49:00,International Business Machines is lower by about 14.4% looking at the year to date performance.,0.020445184782147408,0.9670554995536804,0.012499341741204262,negative,-0.9466103315353394
+4,2014-12-29 08:49:00,"Two other components making moves today are Microsoft ( MSFT ), trading down 0.8%, and Home Depot ( HD ), trading up 0.7% on the day.",0.028924372047185898,0.9405578374862671,0.030517779290676117,negative,-0.9116334915161133
+5,2014-12-29 08:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

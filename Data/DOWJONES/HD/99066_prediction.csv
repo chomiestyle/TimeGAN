@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-04-18 07:12:00,"In early trading on Monday, shares of Walt Disney ( DIS ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.5%.",0.9398494958877563,0.030410906299948692,0.029739633202552795,positive,0.9094386100769043
+1,2016-04-18 07:12:00,"Year to date, Walt Disney has lost about 3.9% of its value.",0.01632293313741684,0.9463843703269958,0.037292737513780594,negative,-0.9300614595413208
+2,2016-04-18 07:12:00,"And the worst performing Dow component thus far on the day is Apple ( AAPL ), trading down 1.7%.",0.020642612129449844,0.9658604264259338,0.013496971689164639,negative,-0.9452177882194519
+3,2016-04-18 07:12:00,Apple is showing a gain of 2.6% looking at the year to date performance.,0.9500389099121094,0.019673466682434082,0.030287593603134155,positive,0.9303654432296753
+4,2016-04-18 07:12:00,"Two other components making moves today are DuPont ( DD ), trading down 0.5%, and Home Depot ( HD ), trading up 0.7% on the day.",0.03862025588750839,0.9143698215484619,0.0470099113881588,negative,-0.8757495880126953
+5,2016-04-18 07:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

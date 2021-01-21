@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-08-23 09:53:00,"Lowe's (NYSE: LOW) investors had modest expectations heading into this week's earnings report, given that the retailer has consistently trailed Home Depot (NYSE: HD) on key growth and profitability metrics.",0.8294384479522705,0.09397025406360626,0.07659125328063965,positive,0.7354682087898254
+1,2017-08-23 09:53:00,"That performance gap continued in the second quarter, and contributed to a reduced full-year earnings forecast.",0.018766192719340324,0.9660530686378479,0.015180720947682858,negative,-0.9472869038581848
+2,2017-08-23 09:53:00,More on that slipping outlook in a moment.,0.08583562076091766,0.21002346277236938,0.7041409015655518,neutral,-0.12418784201145172
+3,2017-08-23 09:53:00,"First, here's how the headline results stacked up against the prior-year period:
+
+What happened with Lowe's this quarter?",0.03694746643304825,0.0781194418668747,0.8849330544471741,neutral,-0.04117197543382645
+4,2017-08-23 09:53:00,Sales growth sped up from the prior quarter's disappointing pace.,0.9493500590324402,0.021662017330527306,0.028987880796194077,positive,0.9276880621910095
+5,2017-08-23 09:53:00,Lowe's also managed a solid boost in profit margin .,0.9488703608512878,0.02959977462887764,0.02152983844280243,positive,0.9192705750465393
+6,2017-08-23 09:53:00,"However, the broader results were below management's expectations and so the retailer lowered its full-year profit outlook while reducing its expansion plans.",0.016601430252194405,0.9658746719360352,0.017523881047964096,negative,-0.9492732286453247
+7,2017-08-23 09:53:00,"The key highlights of the third quarter:
+• Comparable-store sales improved 4.5% to mark a solid acceleration over the prior quarter's 2%.",0.9586920142173767,0.023837413638830185,0.01747053675353527,positive,0.9348546266555786
+8,2017-08-23 09:53:00,"That figure implies more market share losses to Home Depot, though, which grew comps by over 6% .",0.040773261338472366,0.9485476016998291,0.010679060593247414,negative,-0.9077743291854858
+9,2017-08-23 09:53:00,"• Expenses dropped, which lifted operating income to $2.4 billion, or 12.2% of sales, from $2.1 billion, or 11.2% of sales, a year ago.",0.04427356272935867,0.9472358822822571,0.008490655571222305,negative,-0.902962327003479
+10,2017-08-23 09:53:00,"• Net income spiked by over 20%, in part because of a one-time gain.",0.9561803936958313,0.023443540558218956,0.02037602849304676,positive,0.932736873626709
+11,2017-08-23 09:53:00,"Excluding that temporary factor, Lowe's earnings rose 15%.",0.9575008153915405,0.02018435299396515,0.02231486514210701,positive,0.9373164772987366
+12,2017-08-23 09:53:00,• The company sent $1.55 billion of cash back to investors through $1.25 billion of stock buybacks and $300 million of dividend payments.,0.6611351370811462,0.016311852261424065,0.32255300879478455,positive,0.6448233127593994
+13,2017-08-23 09:53:00,"What management had to say
+
+Executives focused their comments on the sales growth rebound between the first and second quarter.",0.175815150141716,0.02609960548579693,0.7980852723121643,neutral,0.14971554279327393
+14,2017-08-23 09:53:00,"""We are pleased with our improved comparable sales performance relative to last quarter, and the strong momentum we built throughout the second quarter,"" CEO Robert Niblock said in a press release.",0.9479972720146179,0.01713583618402481,0.03486690670251846,positive,0.9308614134788513
+15,2017-08-23 09:53:00,"That momentum included a particularly strong July, Niblock explained, during which comps spiked by 7.9%.",0.9496068954467773,0.024839751422405243,0.02555328980088234,positive,0.9247671365737915
+16,2017-08-23 09:53:00,"Still, management noted that results for the first half of the fiscal year didn't meet their expectations.",0.01920802891254425,0.9572397470474243,0.023552238941192627,negative,-0.9380317330360413
+17,2017-08-23 09:53:00,"""The team remains focused on making the necessary investments to improve the customer experience and drive sales,"" Niblock said.",0.9196409583091736,0.013049104250967503,0.06730987131595612,positive,0.9065918326377869
+18,2017-08-23 09:53:00,"These changes will include increased staffing at stores and longer operating hours at some locations, executives explained.",0.7177115678787231,0.046630486845970154,0.23565788567066193,positive,0.6710810661315918
+19,2017-08-23 09:53:00,Lowe's left its full-year comps forecast in place that calls for growth of 3.5%.,0.21823091804981232,0.1659146398305893,0.6158544421195984,neutral,0.05231627821922302
+20,2017-08-23 09:53:00,"That decision sets up a sharp contrast with Home Depot, which last week raised its comps target to 5.5% from 4.6%.",0.8643402457237244,0.06980794668197632,0.06585180759429932,positive,0.794532299041748
+21,2017-08-23 09:53:00,"In addition, Lowe's executives now expect to post a more modest uptick in operating margin this year due to the extra spending they'll allocate to staffing stores.",0.9420108795166016,0.022953586652874947,0.035035498440265656,positive,0.919057309627533
+22,2017-08-23 09:53:00,"This shift will result in earnings coming in at between $4.20 per share and $4.30 per share in 2017, the company estimates, down slightly from the $4.30-per-share target management issued in late May.",0.017349593341350555,0.9696165919303894,0.01303389947861433,negative,-0.9522669911384583
+23,2017-08-23 09:53:00,"Like Home Depot, Lowe's appears set to continue benefiting from the long-running rebound in the housing industry.",0.9456256031990051,0.016232864931225777,0.038141489028930664,positive,0.9293927550315857
+24,2017-08-23 09:53:00,Yet management's focus is shifting to speeding up comps growth to a rate that's not so far from the industry leader.,0.8023121356964111,0.016347229480743408,0.18134072422981262,positive,0.7859649062156677
+25,2017-08-23 09:53:00,"In support of that goal, Lowe's is willing to sacrifice a small amount of short-term profits.",0.5281128883361816,0.01692613586783409,0.45496097207069397,positive,0.5111867785453796
+26,2017-08-23 09:53:00,"It's also planning to reduce its expansion pace, with just 25 new stores set to launch this year, down from the 35 executives had originally targeted.",0.01523576956242323,0.9658582210540771,0.01890602335333824,negative,-0.9506224393844604
+27,2017-08-23 09:53:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+28,2017-08-23 09:53:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+29,2017-08-23 09:53:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.24663393199443817,0.01550506241619587,0.7378609776496887,neutral,0.23112887144088745
+30,2017-08-23 09:53:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2017-08-23 09:53:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+32,2017-08-23 09:53:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+33,2017-08-23 09:53:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+34,2017-08-23 09:53:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+35,2017-08-23 09:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,54 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-06 08:57:00,The stock market has been rangebound for a while.,0.13180115818977356,0.29462385177612305,0.5735750198364258,neutral,-0.1628226935863495
+1,2016-09-06 08:57:00,That's a strange thing to say when stocks are in record territory.,0.13275711238384247,0.3188321590423584,0.5484107136726379,neutral,-0.18607504665851593
+2,2016-09-06 08:57:00,"The default direction has been upward, and investors are unwilling to sell their long positions.",0.02496621385216713,0.9451780319213867,0.029855800792574883,negative,-0.9202117919921875
+3,2016-09-06 08:57:00,That's likely because they think central banks across the globe are willing and able to keep saving equity markets with loose monetary policy.,0.7453116774559021,0.027820933610200882,0.2268674224615097,positive,0.7174907326698303
+4,2016-09-06 08:57:00,"With the European Central Bank's commitment to its easing programs and the reluctance of the U.S. Federal Reserve to tighten, don't expect this to change in a big way in the future.",0.17378471791744232,0.030423255637288094,0.7957920432090759,neutral,0.14336146414279938
+5,2016-09-06 08:57:00,So the here and now is that quality tips are harder to find.,0.03871234878897667,0.494027704000473,0.46725994348526,negative,-0.45531535148620605
+6,2016-09-06 08:57:00,We're left trying to buy high and sell higher.,0.05247239023447037,0.0436587780714035,0.9038688540458679,neutral,0.008813612163066864
+7,2016-09-06 08:57:00,"• The 10 Best Cheap Stocks in the World
+
+Luckily, the options markets open up a few other ways to profit from upward-moving trends without being at risk at current prices.",0.6933565139770508,0.02264859341084957,0.2839949131011963,positive,0.6707079410552979
+8,2016-09-06 08:57:00,"Right now, I'm targeting three stocks we can trade with no cost to us.",0.08893979340791702,0.00493526179343462,0.9061248898506165,neutral,0.08400452882051468
+9,2016-09-06 08:57:00,"Stocks You Can Go Long for Free: Alphabet (GOOG, GOOGL)
+
+Click to Enlarge Alphabet Inc (NASDAQ: GOOG , NASDAQ: GOOGL ) is up a modest 3% year-to-date.",0.9391298890113831,0.019946957007050514,0.040923044085502625,positive,0.9191829562187195
+10,2016-09-06 08:57:00,"It hasn't captured headlines in a while, and it's fighting a few legal battles , but it's a solid company with a rosy outlook.",0.7918242812156677,0.015279719606041908,0.19289597868919373,positive,0.7765445709228516
+11,2016-09-06 08:57:00,Google dominates traditional search and is looking to also dominate in mobile and the cloud arenas.,0.6105064749717712,0.011920493096113205,0.3775731027126312,positive,0.5985859632492065
+12,2016-09-06 08:57:00,"Its video streams are likely to be a great source of future growth, too.",0.6293011903762817,0.010759781114757061,0.3599390685558319,positive,0.618541419506073
+13,2016-09-06 08:57:00,"So, unless management completely drops the proverbial ball, GOOGL should be a long-term buy.",0.12439002096652985,0.055697254836559296,0.8199127912521362,neutral,0.06869276612997055
+14,2016-09-06 08:57:00,The trade: Sell a GOOGL Nov $730/$725 credit put spread for 75 cents per contract.,0.1241018995642662,0.036723796278238297,0.8391743302345276,neutral,0.08737809956073761
+15,2016-09-06 08:57:00,"This has a 90% theoretical chance of success, and if successful, it will yield 18% on the money you risk.",0.2861160337924957,0.007490834686905146,0.7063931226730347,neutral,0.2786251902580261
+16,2016-09-06 08:57:00,We need Alphabet stock to stay above the sold strike price for the next 74 days.,0.4333244562149048,0.017677487805485725,0.5489980578422546,neutral,0.4156469702720642
+17,2016-09-06 08:57:00,"This trade is set with a price buffer of 9%, meaning GOOGL would have to fall 9% to reach my sold strike.",0.059205539524555206,0.7430549263954163,0.19773955643177032,negative,-0.6838493943214417
+18,2016-09-06 08:57:00,"Stocks You Can Go Long for Free: Facebook (FB)
+
+Click to Enlarge Unlike Alphabet, Facebook Inc (NASDAQ: FB ) is up more than 20% year-to-date.",0.9311686754226685,0.02611009031534195,0.0427212230861187,positive,0.9050585627555847
+19,2016-09-06 08:57:00,"Technically, it's trading at the upper end of its long-term range, making it a more challenging buy.",0.092154361307621,0.2904801666736603,0.6173654198646545,neutral,-0.19832581281661987
+20,2016-09-06 08:57:00,"Fundamentally, Facebook is a solid company with big upside potential.",0.8366684913635254,0.012912806123495102,0.15041878819465637,positive,0.82375568151474
+21,2016-09-06 08:57:00,"With more than a billion users, management would need to conjure up a serious gaffe to ruin its current momentum.",0.035593628883361816,0.8369885683059692,0.12741787731647491,negative,-0.8013949394226074
+22,2016-09-06 08:57:00,The trade: Sell a FB Nov $115/$110 credit put spread for 71 cents per contract.,0.09585550427436829,0.031596750020980835,0.8725477457046509,neutral,0.06425875425338745
+23,2016-09-06 08:57:00,We need FB stock to stay above $115 through November to win.,0.7301302552223206,0.016066184267401695,0.2538035213947296,positive,0.7140640616416931
+24,2016-09-06 08:57:00,This would represent a 17% yield on money risked.,0.18373389542102814,0.012225707992911339,0.8040403723716736,neutral,0.17150819301605225
+25,2016-09-06 08:57:00,I also have a 90% theoretical chance of success.,0.3740483522415161,0.010386726818978786,0.6155649423599243,neutral,0.36366161704063416
+26,2016-09-06 08:57:00,This Facebook trade is set with a 10% buffer from current price.,0.3283346891403198,0.05028115585446358,0.6213841438293457,neutral,0.27805352210998535
+27,2016-09-06 08:57:00,"Stocks You Can Go Long for Free: Salesforce.com (CRM)
+
+Click to Enlarge Year-to-date, Salesforce.com, Inc (NYSE: CRM ) is off 4%.",0.018813563510775566,0.9642483592033386,0.016938084736466408,negative,-0.9454348087310791
+28,2016-09-06 08:57:00,Most of the struggle came on its most recent earnings report .,0.04039894789457321,0.4549809992313385,0.5046200752258301,neutral,-0.4145820438861847
+29,2016-09-06 08:57:00,"Salesforce has been executing flawlessly for years, so this should be a minor setback.",0.05772600322961807,0.8882005214691162,0.05407346785068512,negative,-0.8304744958877563
+30,2016-09-06 08:57:00,"For this, I can use the options markets to bet long on CRM stock as it approaches the bottom of its long-term trendline.",0.11395113170146942,0.018988367170095444,0.8670604825019836,neutral,0.09496276080608368
+31,2016-09-06 08:57:00,The trade: Sell a CRM Nov $67.5/$65 credit put spread for 40 cents per contract.,0.05092984810471535,0.02348787523806095,0.9255822896957397,neutral,0.027441972866654396
+32,2016-09-06 08:57:00,To win I need CRM to stay above $67.5 through mid-November.,0.6469644904136658,0.018259994685649872,0.33477553725242615,positive,0.6287044882774353
+33,2016-09-06 08:57:00,"If successful, this would yield 18% on money risked.",0.4626121520996094,0.010652899742126465,0.5267349481582642,neutral,0.4519592523574829
+34,2016-09-06 08:57:00,This trade would leave me with a 10% buffer from current price.,0.41390886902809143,0.04278501495718956,0.5433061718940735,neutral,0.3711238503456116
+35,2016-09-06 08:57:00,I don't believe Salesforce will disappoint Wall Street in two consecutive earnings reports.,0.0720030814409256,0.7639750242233276,0.164021834731102,negative,-0.6919719576835632
+36,2016-09-06 08:57:00,I reiterate that the underlying assumption is that markets in general will be able to hold this level of recklessness.,0.3174615800380707,0.012085122987627983,0.6704532504081726,neutral,0.30537647008895874
+37,2016-09-06 08:57:00,"Should the markets correct before November, these trades should be easier to manage than buying the underlying stocks outright at these record-high levels.",0.4522375762462616,0.03267946466803551,0.5150829553604126,neutral,0.4195581078529358
+38,2016-09-06 08:57:00,I am not obliged to hold any of these trades through their expiration dates.,0.00858227163553238,0.019257809966802597,0.9721599817276001,neutral,-0.010675538331270218
+39,2016-09-06 08:57:00,I can close any of them at any time for partial gains or losses.,0.03067092038691044,0.007878377102315426,0.9614506363868713,neutral,0.022792544215917587
+40,2016-09-06 08:57:00,Nicolas Chahine is the managing director of SellSpreads.com .,0.016307199373841286,0.009209631942212582,0.9744831323623657,neutral,0.007097567431628704
+41,2016-09-06 08:57:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+42,2016-09-06 08:57:00,You can follow him on Twitter at @racernic and StockTwits at @racernic .,0.04507094621658325,0.024598076939582825,0.9303309321403503,neutral,0.020472869277000427
+43,2016-09-06 08:57:00,The post 3 Stocks You Can Go Long for Free - GOOGL FB CRM appeared first on InvestorPlace .,0.08238141983747482,0.02264195680618286,0.8949766159057617,neutral,0.05973946303129196
+44,2016-09-06 08:57:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

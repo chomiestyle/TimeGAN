@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-15 09:44:00,"In early trading on Wednesday, shares of Johnson & Johnson ( JNJ ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.6%.",0.9382970929145813,0.033530429005622864,0.028172452002763748,positive,0.9047666788101196
+1,2014-10-15 09:44:00,"Year to date, Johnson & Johnson registers a 6.6% gain.",0.9509638547897339,0.020206453278660774,0.028829721733927727,positive,0.9307574033737183
+2,2014-10-15 09:44:00,"And the worst performing Dow component thus far on the day is Home Depot ( HD ), trading down 2.2%.",0.02082998864352703,0.9648187756538391,0.014351326040923595,negative,-0.9439888000488281
+3,2014-10-15 09:44:00,Home Depot is showing a gain of 7.0% looking at the year to date performance.,0.9479321241378784,0.020242953673005104,0.03182489052414894,positive,0.9276891946792603
+4,2014-10-15 09:44:00,"Two other components making moves today are Intel ( INTC ), trading down 2.2%, and Cisco Systems ( CSCO ), trading up 0.3% on the day.",0.02694874256849289,0.9471607804298401,0.025890447199344635,negative,-0.9202120304107666
+5,2014-10-15 09:44:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

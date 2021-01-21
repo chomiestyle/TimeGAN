@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-10-15 05:25:00,"In what has proven to be a brutal environment for brick-and-mortar retailers, Home Depot (NYSE: HD) has shown itself to be the exception to the rule.",0.10021805763244629,0.5980889797210693,0.301692932844162,negative,-0.49787092208862305
+1,2017-10-15 05:25:00,"Not only has it survived in this challenging landscape, it's thrived.",0.9064275622367859,0.013847927562892437,0.0797244980931282,positive,0.8925796151161194
+2,2017-10-15 05:25:00,Case in point: Home Depot's latest quarterly numbers were quite good .,0.8808404207229614,0.020673101767897606,0.09848646819591522,positive,0.8601673245429993
+3,2017-10-15 05:25:00,"Net sales, earnings, and comparable-store sales all enjoyed robust growth, and unsurprisingly, the stock has also risen, easily outperforming the broad market in 2017.",0.9552860856056213,0.024821657687425613,0.01989227719604969,positive,0.9304644465446472
+4,2017-10-15 05:25:00,"While the company has had to do a number of things to stay on top of its game, one of the biggest secrets to its success in recent years has been its ability to attract the ""Pro"" customer.",0.8728907108306885,0.01912873238325119,0.10798057168722153,positive,0.8537619709968567
+5,2017-10-15 05:25:00,"Home Depot's professional customers, in comparison to DIY customers, will generally make many more purchases with a far higher average ticket size.",0.16326966881752014,0.0266063641756773,0.8101239204406738,neutral,0.1366633027791977
+6,2017-10-15 05:25:00,"In the company's presentation at the Oppenheimer Consumer Conference this past June, Edward Decker, Home Depot's Executive Vice President of Merchandising, stated that the Pro customer penetrated about 40% of the company's overall sales.",0.030990589410066605,0.009335051290690899,0.9596744179725647,neutral,0.02165553718805313
+7,2017-10-15 05:25:00,"While that is a huge number in and of itself, the Pro business is also growing much faster than the DIY customer segment.",0.847691535949707,0.01546193566173315,0.13684652745723724,positive,0.8322296142578125
+8,2017-10-15 05:25:00,"While the company doesn't give exact figures, in the company's 2017 first-quarter conference call, management said sales to Pro customers were growing twice as fast as DIY sales.",0.9269000887870789,0.018435753881931305,0.05466412380337715,positive,0.9084643125534058
+9,2017-10-15 05:25:00,"In the second-quarter conference call, management said that gap widened even further.",0.8236591815948486,0.09580903500318527,0.0805317759513855,positive,0.7278501391410828
+10,2017-10-15 05:25:00,"The company's big-ticket sales are also growing much faster than smaller transactions, another indication Pro sales are growing quickly.",0.9252656102180481,0.018668361008167267,0.05606601759791374,positive,0.9065972566604614
+11,2017-10-15 05:25:00,"In the second-quarter call, Decker said transactions over $900 grew by 12.4%.",0.9473274350166321,0.01626376248896122,0.036408815532922745,positive,0.9310636520385742
+12,2017-10-15 05:25:00,"These transactions now represent 22% of all Home Depot revenue and were driven, in part, by ""certain Pro heavy categories"".",0.04522625729441643,0.005558030214160681,0.9492156505584717,neutral,0.03966822847723961
+13,2017-10-15 05:25:00,"Meanwhile, transactions under $50 only grew 1.5% while representing 16% of the top line.",0.565700352191925,0.13565956056118011,0.2986399829387665,positive,0.43004077672958374
+14,2017-10-15 05:25:00,"Home Depot has worked hard to claim Pro market share, but first and foremost, management insists it's consistently offering a strong value to customers.",0.8569012880325317,0.015146114863455296,0.1279526650905609,positive,0.8417551517486572
+15,2017-10-15 05:25:00,"Decker said at the conference:
+
+Beyond value, Home Depot's management understands that Pros need greater service than the average customer, and the company is doing its best to leverage technology to meet this demand.",0.8751882910728455,0.011967100203037262,0.1128445714712143,positive,0.8632211685180664
+16,2017-10-15 05:25:00,"In Home Depot's app, contractors can now send an employee to pick up orders at the front desk, so they don't waste time running around looking for different items.",0.03396445885300636,0.031332921236753464,0.9347025752067566,neutral,0.002631537616252899
+17,2017-10-15 05:25:00,A beefed-up delivery system has also led to all store locations offering either two or four-hour delivery windows for a nominal fee.,0.5555619597434998,0.024259289726614952,0.42017871141433716,positive,0.5313026905059814
+18,2017-10-15 05:25:00,"Home Depot has found Pro customers more than willing to pay this premium, because so many are only on a job site on a given day for a certain amount of time.",0.44123899936676025,0.1453530341386795,0.4134080111980438,positive,0.29588598012924194
+19,2017-10-15 05:25:00,Another key to attracting Pro customers has been the Interline Brands acquisition .,0.7984871864318848,0.011797054670751095,0.18971574306488037,positive,0.7866901159286499
+20,2017-10-15 05:25:00,"Management has noted that while there is a great deal of overlap of products between Interline and Home Depot's core customers, these products could be packaged differently to meet each type of customer's needs better.",0.33082032203674316,0.013238774612545967,0.6559408903121948,neutral,0.31758153438568115
+21,2017-10-15 05:25:00,"For instance, if a hotel needed to replace 40 toilet flappers on one floor, it doesn't need each flapper to be individually packaged, while a DIY customer probably would only need one flapper complete with instructions.",0.023057427257299423,0.03251401335000992,0.944428563117981,neutral,-0.009456586092710495
+22,2017-10-15 05:25:00,"Home Depot gets with the PROgram
+
+With so much of its business coming from the Pro segment, Home Depot clearly understands how important capturing market share in this key customer demographic is to its future.",0.6516455411911011,0.010792633518576622,0.33756181597709656,positive,0.6408529281616211
+23,2017-10-15 05:25:00,"The company seems to be doing its part in attracting Pro customers, even offering them preferred parking areas for pickup, in addition to the essential tools they need to finish a job quickly and efficiently.",0.7347475290298462,0.01181586179882288,0.2534365952014923,positive,0.7229316830635071
+24,2017-10-15 05:25:00,"If Home Depot can target this segment and make them increasingly dependent on its products and services, investors should be confident in the company's ability to deliver market-beating returns in the years ahead.",0.9250315427780151,0.013534853234887123,0.06143360584974289,positive,0.9114966988563538
+25,2017-10-15 05:25:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+26,2017-10-15 05:25:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+27,2017-10-15 05:25:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+28,2017-10-15 05:25:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+29,2017-10-15 05:25:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+30,2017-10-15 05:25:00,Matthew Cochrane owns shares of Home Depot.,0.01717401295900345,0.012066550552845001,0.9707594513893127,neutral,0.005107462406158447
+31,2017-10-15 05:25:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+32,2017-10-15 05:25:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+33,2017-10-15 05:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

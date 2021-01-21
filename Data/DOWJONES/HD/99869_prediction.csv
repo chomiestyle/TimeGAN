@@ -1,0 +1,59 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-08-20 06:32:00,"Home Depot announced its second-quarter results on Tuesday, and the home improvement giant managed a big bounce from a lackluster performance during the winter.",0.9301358461380005,0.03484664484858513,0.035017531365156174,positive,0.8952891826629639
+1,2014-08-20 06:32:00,"Even though the Home Depot earnings announcement by itself helped send shares soaring, the stock's gains accelerated after the company's conference call.",0.9157838225364685,0.03720392286777496,0.047012265771627426,positive,0.8785799145698547
+2,2014-08-20 06:32:00,"In particular, CEO Frank Blake and his team of managers had some interesting things to say about Home Depot's results and its future.",0.09288997203111649,0.006675709038972855,0.9004343152046204,neutral,0.08621425926685333
+3,2014-08-20 06:32:00,Let's take a look at five choice excerpts from the conference call.,0.016146432608366013,0.016745267435908318,0.9671082496643066,neutral,-0.000598834827542305
+4,2014-08-20 06:32:00,"""We believe the housing market remains a modest tailwind for our business.""",0.3871113955974579,0.3507995903491974,0.26208898425102234,positive,0.0363118052482605
+5,2014-08-20 06:32:00,"-- CEO Frank Blake
+
+One of the biggest concerns that investors have had about Home Depot is that the recovery in home prices could come to an end.",0.030252730473876,0.840835690498352,0.128911554813385,negative,-0.8105829358100891
+6,2014-08-20 06:32:00,"With fears of rising interest rates in the near future, the impact of less affordable housing could make would-be homebuyers less able or willing to buy, and that in turn could hurt Home Depot's business in serving those new homeowners.",0.02088964357972145,0.9573836326599121,0.021726764738559723,negative,-0.936493992805481
+7,2014-08-20 06:32:00,Yet fearful investors forget just how well Home Depot navigated tough housing-market conditions during the early part of the economic recovery.,0.5419565439224243,0.2007785439491272,0.2572649121284485,positive,0.3411779999732971
+8,2014-08-20 06:32:00,"Even as home prices remained stubbornly weak, Home Depot focused on serving people who were locked into their homes by underwater mortgages, focusing on the needs of those doing remodeling and renovation projects to make the most of their existing homes rather than trading up.",0.046196818351745605,0.008457612246274948,0.9453455805778503,neutral,0.03773920610547066
+9,2014-08-20 06:32:00,"A strong housing market is positive for Home Depot, but it isn't the huge deal that some make it out to be.",0.0763438418507576,0.12638191878795624,0.7972742319107056,neutral,-0.05003807693719864
+10,2014-08-20 06:32:00,"""Roughly about a third of our online transactions culminate in a store, and that is split across both consumer and pro.""",0.01660304144024849,0.024666855111718178,0.9587300419807434,neutral,-0.008063813671469688
+11,2014-08-20 06:32:00,"-- Craig Menear, president, U.S. Retail division
+
+E-commerce has become an important part of the retail industry, but many believed that Home Depot would largely be immune because of the nature of the products it sells.",0.04819031432271004,0.02679552137851715,0.9250141382217407,neutral,0.021394792944192886
+12,2014-08-20 06:32:00,"It's a lot harder to deliver refrigerators and plywood than some of the smaller items that Home Depot sells, and therefore the home-improvement giant's strategy has been aimed more at providing necessary information online but encouraging interactions with local stores as well.",0.18313348293304443,0.018057262524962425,0.7988092303276062,neutral,0.16507622599601746
+13,2014-08-20 06:32:00,"That has the positive impact of preventing the perception that local store staff are competing against the e-commerce portal, and Menear's comments show the success of that strategy thus far.",0.930939257144928,0.01817791350185871,0.05088276043534279,positive,0.9127613306045532
+14,2014-08-20 06:32:00,"""As our large pro continues to recover, our pro is driving a larger ticket than the consumer basket on a consistent basis.""",0.9157249331474304,0.024895068258047104,0.05938005447387695,positive,0.890829861164093
+15,2014-08-20 06:32:00,"-- Menear
+
+A big part of Home Depot's strength is its dual focus on both do-it-yourself consumers and on the professional contractors and builders who serve them.",0.10956505686044693,0.006816076580435038,0.8836188316345215,neutral,0.10274898260831833
+16,2014-08-20 06:32:00,"One of the benefits that Home Depot gets from its model is that the two customer segments don't always rise and fall at the same time, and that can build some diversification into the company's revenue.",0.8319169282913208,0.014668719843029976,0.15341423451900482,positive,0.8172482252120972
+17,2014-08-20 06:32:00,"When consumers are hurting, they might tackle a home improvement job on their own, while during better times, they're more likely to hire a professional.",0.046884190291166306,0.12294159829616547,0.8301742076873779,neutral,-0.07605740427970886
+18,2014-08-20 06:32:00,"Home Depot's results show that we're in the better stage of its business cycle, and pro customers are driving more of its growth for now.",0.9201152324676514,0.01453933585435152,0.06534533947706223,positive,0.9055758714675903
+19,2014-08-20 06:32:00,"""We might also just call out services because they had such a terrific quarter.",0.773289680480957,0.05491776764392853,0.17179253697395325,positive,0.7183719277381897
+20,2014-08-20 06:32:00,"They comped twice the company average, and the average ticket within our services business is $1,500.""",0.2734961211681366,0.0344388373196125,0.6920650005340576,neutral,0.2390572875738144
+21,2014-08-20 06:32:00,"-- CFO Carol Tome
+
+Along the same lines as its better results from professionals, Home Depot has done a good job of building up its own services business.",0.9369860887527466,0.015347318723797798,0.047666601836681366,positive,0.9216387867927551
+22,2014-08-20 06:32:00,"Services make up only 4% of Home Depot's overall sales, but areas like installation of heating and air-conditioning systems, windows, and water heaters are potential growth catalysts.",0.12353178858757019,0.005690755322575569,0.870777428150177,neutral,0.11784103512763977
+23,2014-08-20 06:32:00,"In addition, customers are more likely to take on home-improvement projects if they know they can get help directly from the store.",0.3118540346622467,0.047910649329423904,0.6402353644371033,neutral,0.2639433741569519
+24,2014-08-20 06:32:00,"If Home Depot can help customers better navigate the fragmented contracting industry, it could also provide additional value for those frustrated with the hassle of finding a reputable plumber, electrician, or other specialist.",0.8985674381256104,0.015329277142882347,0.08610322326421738,positive,0.8832381367683411
+25,2014-08-20 06:32:00,"At the same time, though, Home Depot has to be careful not to end up as a competitor to its professional customer base, or else those pros will go elsewhere for the supplies they need.",0.09126129746437073,0.3413979411125183,0.5673407316207886,neutral,-0.2501366436481476
+26,2014-08-20 06:32:00,"""It's really strength across the store.""",0.4815765619277954,0.10063070058822632,0.41779273748397827,positive,0.3809458613395691
+27,2014-08-20 06:32:00,"-- Menear
+
+Many analysts were looking for the lawn and garden segment to drive growth during the key spring season, but they weren't sure how well other parts of Home Depot's business would do.",0.16471488773822784,0.01833203248679638,0.8169530630111694,neutral,0.14638285338878632
+28,2014-08-20 06:32:00,"Yet across geographies and business segments, Home Depot did well.",0.915274977684021,0.015740878880023956,0.06898417323827744,positive,0.8995341062545776
+29,2014-08-20 06:32:00,"New initiatives like its expansion of appliance offerings in 800 of its stores show the continuing demand for big-ticket items from consumers, and with so many different offerings, Home Depot's effort to be a one-stop shop for homeowners and professionals alike has paid off.",0.8795102834701538,0.014546351507306099,0.10594338923692703,positive,0.864963948726654
+30,2014-08-20 06:32:00,Home Depot's confidence in its future is a big reason why the stock soared after its earnings announcement.,0.9123214483261108,0.018868643790483475,0.06880990415811539,positive,0.8934528231620789
+31,2014-08-20 06:32:00,"If things continue to look as favorable in the future, then Home Depot stock has even more room to run in the months and years ahead.",0.8263559937477112,0.01585707813501358,0.1577869951725006,positive,0.8104988932609558
+32,2014-08-20 06:32:00,"The big war for your living room
+
+Home improvement retailers help you throughout the house, but cable companies are fighting for their place in your living room.",0.1105400025844574,0.11947324872016907,0.7699867486953735,neutral,-0.00893324613571167
+33,2014-08-20 06:32:00,"But cable is faltering, and there's $2.2 trillion out there up for grabs.",0.04867425560951233,0.4471578001976013,0.5041679739952087,neutral,-0.398483544588089
+34,2014-08-20 06:32:00,"When cable goes away, three companies are poised to benefit.",0.6050935387611389,0.014970622025430202,0.3799358010292053,positive,0.5901229381561279
+35,2014-08-20 06:32:00,Click here for their names.,0.051632627844810486,0.056396279484033585,0.8919710516929626,neutral,-0.004763651639223099
+36,2014-08-20 06:32:00,The article 5 Things Home Depot's Management Wants You to Know originally appeared on Fool.com.,0.01384500227868557,0.009276113472878933,0.976878821849823,neutral,0.004568888805806637
+37,2014-08-20 06:32:00,Dan Caplinger has no position in any stocks mentioned.,0.010743288323283195,0.037719108164310455,0.9515376091003418,neutral,-0.02697581984102726
+38,2014-08-20 06:32:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+39,2014-08-20 06:32:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+40,2014-08-20 06:32:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+41,2014-08-20 06:32:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+42,2014-08-20 06:32:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+43,2014-08-20 06:32:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+44,2014-08-20 06:32:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2014-08-20 06:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,42 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-07 06:49:00,"Yesterday, Salesforce.com Inc. CRM and Alphabet Inc. GOOGL announced a strategic partnership, according to which the two tech giants will integrate their software solutions and cloud-computing services.",0.9033803343772888,0.013056015595793724,0.08356360346078873,positive,0.8903242945671082
+1,2017-11-07 06:49:00,We believe the move is part of the companies' broader infrastructure expansion plans.,0.6626274585723877,0.01009566430002451,0.32727688550949097,positive,0.6525318026542664
+2,2017-11-07 06:49:00,"With this deal, the companies are trying to make their respective services more beneficial to customers.",0.7954055070877075,0.013051871210336685,0.19154268503189087,positive,0.7823536396026611
+3,2017-11-07 06:49:00,The main highlight of the deal includes the integration of Salesforce's marketing software with Alphabet's Google Analytics services.,0.44358739256858826,0.008248322643339634,0.5481642484664917,neutral,0.4353390634059906
+4,2017-11-07 06:49:00,These companies anticipate rolling out the integrated service in the first half of the next year.,0.2967027425765991,0.00782112218439579,0.6954761743545532,neutral,0.2888816297054291
+5,2017-11-07 06:49:00,The service will likely be offered for free to the clients.,0.024583913385868073,0.006160207092761993,0.9692558646202087,neutral,0.01842370629310608
+6,2017-11-07 06:49:00,The aforementioned integration will provide marketers access to Salesforce's customer data which can be moved into Google's data crunching services.,0.47445395588874817,0.008539613336324692,0.5170064568519592,neutral,0.4659143388271332
+7,2017-11-07 06:49:00,"This will provide marketers even deeper insights into consumer behaviour and patterns, thereby helping them create more personalized sites and ads.",0.7801125049591064,0.013980250805616379,0.20590727031230927,positive,0.7661322355270386
+8,2017-11-07 06:49:00,"Also, this will enable the marketers to help their clients enhance user engagement and sales conversion.",0.779133141040802,0.010833927430212498,0.21003293991088867,positive,0.7682992219924927
+9,2017-11-07 06:49:00,The other important part of the deal is pairing up of Salesforce's CRM platform with Google's G Suite.,0.5420936346054077,0.009501349180936813,0.44840508699417114,positive,0.5325922966003418
+10,2017-11-07 06:49:00,G Suite is an office software platform similar to Microsoft's MSFT Office 365.,0.05693436414003372,0.006992844864726067,0.936072826385498,neutral,0.049941517412662506
+11,2017-11-07 06:49:00,"Per the agreement, Salesforce clients who don't use G Suite currently will get this offering free for a year.",0.037080660462379456,0.007457300554960966,0.9554620385169983,neutral,0.029623359441757202
+12,2017-11-07 06:49:00,"Additionally, Salesforce has announced Google Cloud as its preferred cloud partner.",0.3924136161804199,0.007323091384023428,0.6002632975578308,neutral,0.38509052991867065
+13,2017-11-07 06:49:00,This implies it can use Google's global data centers for overseas expansion just like it uses Amazon's AMZN Amazon Web Services (AWS).,0.5356014370918274,0.010970513336360455,0.4534280598163605,positive,0.5246309041976929
+14,2017-11-07 06:49:00,What this Alliance Brings in for Salesforce?,0.10146618634462357,0.011325393803417683,0.8872084021568298,neutral,0.09014078974723816
+15,2017-11-07 06:49:00,The collaboration will provide Salesforce another platform apart from Amazon's AWS to sell its products.,0.7860656380653381,0.013046233914792538,0.20088806748390198,positive,0.7730194330215454
+16,2017-11-07 06:49:00,The worldwide presence of Google's data centers will enable the company to expand its footprint in overseas markets.,0.9418303370475769,0.014680145308375359,0.0434894859790802,positive,0.9271501898765564
+17,2017-11-07 06:49:00,"In addition to this, the enhanced offerings, including Google Analytics and G Suite, will lure enterprises to opt for Salesforce services, in turn bringing in additional revenues.",0.9336936473846436,0.015343760140240192,0.05096258968114853,positive,0.9183498620986938
+18,2017-11-07 06:49:00,"Notably, Salesforce stock has gained 49.6% year to date, substantially outperforming the 26.8% rally of the industry it belongs to.",0.9572110176086426,0.024773741140961647,0.01801522821187973,positive,0.9324373006820679
+19,2017-11-07 06:49:00,"Alphabet to Gain the Most
+
+Though the collaboration is beneficial for both companies, we believe Alphabet will gain the most.",0.9203734993934631,0.013694430701434612,0.0659320056438446,positive,0.906679093837738
+20,2017-11-07 06:49:00,We see the move as Alphabet's latest gambit to boost its market share in the lucrative cloud computing business.,0.943818211555481,0.015592556446790695,0.040589261800050735,positive,0.9282256364822388
+21,2017-11-07 06:49:00,The alliance has brought in a new big channel partner for Google Cloud at a time when Alphabet is striving to compete with arch rivals - AWS and Microsoft - in this space.,0.9197937250137329,0.016381418332457542,0.0638248398900032,positive,0.9034122824668884
+22,2017-11-07 06:49:00,"Notably, this is the second big partnership for Google Cloud in the past one month.",0.9038507342338562,0.016099901869893074,0.08004932850599289,positive,0.8877508044242859
+23,2017-11-07 06:49:00,"Last month, it entered into a cloud computing alliance with Cisco CSCO .",0.8854140043258667,0.012000375427305698,0.10258564352989197,positive,0.873413622379303
+24,2017-11-07 06:49:00,"Furthermore, the integration of G Suite with Salesforce's customer relationship services will help Alphabet accelerate the adoption of its office software platform.",0.9244509935379028,0.012924295850098133,0.0626247227191925,positive,0.9115266799926758
+25,2017-11-07 06:49:00,This will also help it compete against Microsoft Office 365 which is currently the largest office software-platform provider globally.,0.9273439645767212,0.017212919890880585,0.055443115532398224,positive,0.91013103723526
+26,2017-11-07 06:49:00,"Also, it is most likely that Salesforce's customers who will use G Suite free for a year will buy it in the next year as well.",0.15366265177726746,0.005996496882289648,0.8403409123420715,neutral,0.14766615629196167
+27,2017-11-07 06:49:00,"This, again, is encouraging since this will bolster the company's revenue base.",0.9483586549758911,0.015764061361551285,0.035877328366041183,positive,0.9325945973396301
+28,2017-11-07 06:49:00,"Shares of Alphabet have gained 31.6% year to date, significantly outperforming the industry 's 24.4% rally.",0.95585036277771,0.02658301778137684,0.017566608265042305,positive,0.9292673468589783
+29,2017-11-07 06:49:00,"While we share many recommendations and ideas with the public, certain moves are hidden from everyone but selected members of our portfolio services.",0.027977250516414642,0.014146026223897934,0.9578766822814941,neutral,0.013831224292516708
+30,2017-11-07 06:49:00,Would you like to peek behind the curtain today and view them?,0.06324400752782822,0.019832462072372437,0.9169235229492188,neutral,0.04341154545545578
+31,2017-11-07 06:49:00,"Starting now, for the next month, I invite you to follow all Zacks' private buys and sells in real time from value to momentum...from stocks under $10 to ETF to option movers...from insider trades to companies that are about to report positive earnings surprises (we've called them with 80%+ accuracy).",0.07045114785432816,0.007806677836924791,0.9217422008514404,neutral,0.06264446675777435
+32,2017-11-07 06:49:00,You can even look inside portfolios so exclusive that they are normally closed to new investors.,0.033622223883867264,0.020773902535438538,0.9456038475036621,neutral,0.012848321348428726
+33,2017-11-07 06:49:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+34,2017-11-07 06:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+35,2017-11-07 06:49:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+36,2017-11-07 06:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

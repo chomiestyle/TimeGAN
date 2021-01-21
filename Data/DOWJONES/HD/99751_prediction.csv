@@ -1,0 +1,51 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-21 22:11:00,"To find a good entry point in Lowe's for a long-term investment, you need to consider where the company and its earnings might be in 10 years and then discount that back to the present.",0.1256021410226822,0.013019399717450142,0.8613784313201904,neutral,0.1125827431678772
+1,2014-10-21 22:11:00,"With the stock at or near all-time highs, should you wait to buy in, or is it still undervalued?",0.13762745261192322,0.043367546051740646,0.819005012512207,neutral,0.09425990283489227
+2,2014-10-21 22:11:00,Let's see.,0.05224340781569481,0.014944644644856453,0.9328119158744812,neutral,0.03729876130819321
+3,2014-10-21 22:11:00,"Rewind a decade, and Lowe's was bringing in between $11 billion and $12 billion a year in revenue.",0.7473608255386353,0.01581575907766819,0.23682339489459991,positive,0.731545090675354
+4,2014-10-21 22:11:00,"Compare that to the fiscal year ending January 2015, when analysts estimate total revenue of between $55 and $56 billion.",0.053830258548259735,0.016095712780952454,0.9300739765167236,neutral,0.03773454576730728
+5,2014-10-21 22:11:00,Lowe's has grown quite a bit!,0.7041118741035461,0.014476990327239037,0.2814111113548279,positive,0.6896348595619202
+6,2014-10-21 22:11:00,"The problem is its costs, especially overhead, have grown nearly as much.",0.027246875688433647,0.9237041473388672,0.049049053341150284,negative,-0.8964572548866272
+7,2014-10-21 22:11:00,"A decade ago, Lowe's delivered a bit over $2 billion annually in earnings, and for the current fiscal year that figure is expected to be about $2.6 billion.",0.21297861635684967,0.014225883409380913,0.7727954387664795,neutral,0.1987527310848236
+8,2014-10-21 22:11:00,"Lowe's has done a great job of growing revenue, but not such a great job in turning extra sales into profit for shareholders.",0.8628178238868713,0.020269233733415604,0.11691302061080933,positive,0.8425486087799072
+9,2014-10-21 22:11:00,Compare that to home-improvement retail rival Home Depot .,0.14643001556396484,0.016332553699612617,0.8372374176979065,neutral,0.13009746372699738
+10,2014-10-21 22:11:00,Home Depot a decade ago had about $72 billion in annual sales and $4.5 billion in net income.,0.026161175221204758,0.008081456646323204,0.9657573699951172,neutral,0.018079718574881554
+11,2014-10-21 22:11:00,"Fast-forward to this year, and analysts expect roughly $6 billion in earnings on $82 billion in sales.",0.386037141084671,0.011298726312816143,0.6026641130447388,neutral,0.3747384250164032
+12,2014-10-21 22:11:00,"Home Depot hasn't grown nearly as fast as a percentage, but it was already quite large back then and has successfully leveraged its more modest 15% sales growth to 25% in income growth.",0.9480418562889099,0.015022612176835537,0.03693559020757675,positive,0.93301922082901
+13,2014-10-21 22:11:00,"By comparison, Lowe's 400% sales growth only resulted in a 30% increase in net income.",0.9272767305374146,0.01746203750371933,0.055261313915252686,positive,0.909814715385437
+14,2014-10-21 22:11:00,It seems like in any typical high-density area you can find a Lowe's and a Home Depot within driving distance.,0.051707442849874496,0.04493772238492966,0.903354823589325,neutral,0.0067697204649448395
+15,2014-10-21 22:11:00,"Take a peek at Google Maps, and you can see they both pretty much have the country covered.",0.05835123732686043,0.01642652601003647,0.9252222180366516,neutral,0.04192471131682396
+16,2014-10-21 22:11:00,"I'm sure there are pockets of opportunity here and there, especially as the population naturally rises and smaller chains or mom-and-pop competitors go bust, but the bulk of their growth is behind them.",0.2698192894458771,0.012159238569438457,0.7180214524269104,neutral,0.25766006112098694
+17,2014-10-21 22:11:00,"Maybe now as a more mature company, Lowe's can add $10 billion in sales going forward like Home Depot did over the past decade.",0.8670303821563721,0.012343792244791985,0.12062586098909378,positive,0.8546866178512573
+18,2014-10-21 22:11:00,There are some segments to be excited about.,0.0791068971157074,0.0077492184937000275,0.9131438732147217,neutral,0.07135768234729767
+19,2014-10-21 22:11:00,"Lowe's offers a semi-new service called ProServices, which focuses on commercial customers and has outpaced the rest of its business for the last 12 quarters.",0.8635122776031494,0.05502462387084961,0.08146309852600098,positive,0.8084876537322998
+20,2014-10-21 22:11:00,"While the company is shy on specifics, it was mentioned during the first quarter conference call this service is outperforming the rest of the company's same-store sales by a three-to-one margin.",0.3980051875114441,0.5681198835372925,0.033874914050102234,negative,-0.1701146960258484
+21,2014-10-21 22:11:00,Lowe's expects this segment to continue to outperform.,0.5259291529655457,0.40918225049972534,0.06488858908414841,positive,0.11674690246582031
+22,2014-10-21 22:11:00,But the real key for the company will be whether it is able to pass more of that revenue along to the bottom line through cost control.,0.740607500076294,0.012860216200351715,0.24653224647045135,positive,0.7277472615242004
+23,2014-10-21 22:11:00,"Unfortunately the company has been short on details on how it may lower costs other than the vague mention of ""value improvement"" which hasn't contributed much historically.",0.06840471178293228,0.30141681432724,0.6301784515380859,neutral,-0.2330121099948883
+24,2014-10-21 22:11:00,"As an example, gross profit margins for fiscal years 2011, 2012, and 2013 were 34.6%, 34.3%, and 34.6% respectively.",0.06343837082386017,0.17660754919052124,0.7599540948867798,neutral,-0.11316917836666107
+25,2014-10-21 22:11:00,"For the most recent quarter, it was again 34.6%.",0.24927937984466553,0.4269631505012512,0.3237574100494385,negative,-0.1776837706565857
+26,2014-10-21 22:11:00,"Profit margins have gotten nowhere, and they realistically need to improve for Lowe's going forward to perform fundamentally like Home Depot did in the past.",0.8904796838760376,0.05365760251879692,0.05586273595690727,positive,0.8368220925331116
+27,2014-10-21 22:11:00,"While there are certainly some encouraging signs and Lowe's a company is doing great, there seems to be better stock values out there unless Lowe's stock price falls enough a lot to make an investment more enticing.",0.7087870240211487,0.06710364669561386,0.22410932183265686,positive,0.6416833996772766
+28,2014-10-21 22:11:00,"You may be tempted to jump into Lowe's thinking it will follow the same path as Home Depot did, but there is much hard evidence to suggest that will happen.",0.054577410221099854,0.026064207777380943,0.9193583726882935,neutral,0.02851320244371891
+29,2014-10-21 22:11:00,"Your cable company is scared, but you can get rich
+
+You know cable's going away.",0.056032031774520874,0.2180590182542801,0.7259089350700378,neutral,-0.16202698647975922
+30,2014-10-21 22:11:00,But do you know how to profit?,0.04497845098376274,0.016060534864664078,0.9389609694480896,neutral,0.028917916119098663
+31,2014-10-21 22:11:00,There's $2.2 trillion out there to be had.,0.08099541068077087,0.010857539251446724,0.9081470370292664,neutral,0.0701378732919693
+32,2014-10-21 22:11:00,"Currently, cable grabs a big piece of it.",0.03662038967013359,0.011374885216355324,0.9520047307014465,neutral,0.025245504453778267
+33,2014-10-21 22:11:00,That won't last.,0.07244317978620529,0.18338163197040558,0.7441751956939697,neutral,-0.11093845218420029
+34,2014-10-21 22:11:00,"And when cable falters, three companies are poised to benefit.",0.7948075532913208,0.01823725737631321,0.18695518374443054,positive,0.7765703201293945
+35,2014-10-21 22:11:00,Click here for their names.,0.051632627844810486,0.056396279484033585,0.8919710516929626,neutral,-0.004763651639223099
+36,2014-10-21 22:11:00,"Hint: They're not Netflix, Google, and Apple.",0.016193514689803123,0.036641016602516174,0.9471654891967773,neutral,-0.02044750191271305
+37,2014-10-21 22:11:00,The article Is it Time to Buy Lowe's Companies Inc.'s Stock?,0.03854835033416748,0.00984378345310688,0.951607882976532,neutral,0.0287045668810606
+38,2014-10-21 22:11:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+39,2014-10-21 22:11:00,Nickey Friedman has no position in any stocks mentioned.,0.009959877468645573,0.048456091433763504,0.941584050655365,neutral,-0.038496214896440506
+40,2014-10-21 22:11:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+41,2014-10-21 22:11:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+42,2014-10-21 22:11:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+43,2014-10-21 22:11:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+44,2014-10-21 22:11:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+45,2014-10-21 22:11:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+46,2014-10-21 22:11:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2014-10-21 22:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-03-11 08:03:00,"If there's any mounting weakness in the housing industry, Home Depot (NYSE: HD) sure isn't seeing it.",0.031136540696024895,0.4051164388656616,0.563746988773346,neutral,-0.3739798963069916
+1,2017-03-11 08:03:00,The home improvement giant in late February announced surprisingly strong sales and profits while predicting solid growth in the year ahead.,0.9508549571037292,0.020127583295106888,0.02901741862297058,positive,0.9307273626327515
+2,2017-03-11 08:03:00,"Following the earnings report, CEO Craig Menear and his executive team held a conference call with analysts to add context to the blowout results .",0.2864929437637329,0.018565114587545395,0.6949419379234314,neutral,0.2679278254508972
+3,2017-03-11 08:03:00,Here are a few key quotes from that presentation.,0.014417104423046112,0.010470007546246052,0.9751129150390625,neutral,0.00394709687680006
+4,2017-03-11 08:03:00,Home Depot endured a slowdown in customer traffic growth in 2016 as transactions rose at a 3% pace compared to 4% in each of the last two years.,0.05931365117430687,0.9209301471710205,0.019756192341446877,negative,-0.8616164922714233
+5,2017-03-11 08:03:00,"However, sales at existing locations still rose at roughly the same market-thumping pace as they did in the prior year.",0.9375829100608826,0.0202633049339056,0.0421537347137928,positive,0.9173195958137512
+6,2017-03-11 08:03:00,"Comps were up 5.6% for the year, compared to 4.1% for rival Lowe's (NYSE: LOW) .",0.9446080923080444,0.037689678370952606,0.017702197656035423,positive,0.9069184064865112
+7,2017-03-11 08:03:00,Investors can thank the professional segment for that happy result.,0.5812624096870422,0.016407020390033722,0.402330607175827,positive,0.5648553967475891
+8,2017-03-11 08:03:00,"Large transactions, which Home Depot defines as those costing over $900, spiked 12% last quarter and helped push average spending higher by nearly 3%.",0.9454037547111511,0.021850399672985077,0.0327458456158638,positive,0.9235533475875854
+9,2017-03-11 08:03:00,"Pro sales, in categories like fencing, industrial lighting, and electrical wiring, grew at a faster pace than the rest of the company.",0.9353318810462952,0.015616696327924728,0.049051400274038315,positive,0.919715166091919
+10,2017-03-11 08:03:00,Home Depot aims to keep pushing deeper into this segment by adding tighter integration with its Interline brands purchase in 2017.,0.7029753923416138,0.01709318719804287,0.2799314856529236,positive,0.6858822107315063
+11,2017-03-11 08:03:00,Home Depot's e-commerce results stand out from rivals in two important ways.,0.8634446263313293,0.023140516132116318,0.11341480165719986,positive,0.8403041362762451
+12,2017-03-11 08:03:00,"First, it has succeeded in making the channel a major source of growth.",0.8991600871086121,0.013564525172114372,0.08727537840604782,positive,0.8855955600738525
+13,2017-03-11 08:03:00,"At almost 6% of sales, the digital business far exceeds other national retailers like Target (NYSE: TGT) , which counts just 4% of its business from online sources.",0.27147239446640015,0.030202828347682953,0.6983247399330139,neutral,0.2412695586681366
+14,2017-03-11 08:03:00,"Second, e-commerce success isn't hurting Home Depot's traditional retailing model.",0.05229463428258896,0.7090740203857422,0.23863129317760468,negative,-0.656779408454895
+15,2017-03-11 08:03:00,Target's profitability is declining because its online sales channel carries a significantly lower profit margin.,0.01737060956656933,0.9660279750823975,0.016601428389549255,negative,-0.9486573934555054
+16,2017-03-11 08:03:00,"In other words, every in-store purchase that it gives up to win a digital sale results in weaker operating results.",0.017838191241025925,0.9573594927787781,0.024802353233098984,negative,-0.939521312713623
+17,2017-03-11 08:03:00,"But Home Depot's profitability is holding steady, and in fact, its physical locations are staying extremely relevant for consumers.",0.9191284775733948,0.01588047854602337,0.06499107927083969,positive,0.9032480120658875
+18,2017-03-11 08:03:00,Almost half of all online orders involve a shopping trip to the local store.,0.014559381641447544,0.019579900428652763,0.9658607840538025,neutral,-0.005020518787205219
+19,2017-03-11 08:03:00,That success has given management confidence to push deeper into the channel through offerings like buy-online-ship-from-store -- without fearing costly cannibalization of its retailing segment.,0.9246317744255066,0.01595459133386612,0.0594136044383049,positive,0.9086771607398987
+20,2017-03-11 08:03:00,"The big-picture outlook for the home improvement industry is bright, with annual spending continuing to rebound from the $400 billion low it set in 2011 back toward the 2006 high of $900 billion.",0.9349126815795898,0.021730249747633934,0.04335702955722809,positive,0.9131824374198914
+21,2017-03-11 08:03:00,Lowe's is seeing the same reasons for optimism.,0.07897095382213593,0.016443302854895592,0.9045857191085815,neutral,0.06252764910459518
+22,2017-03-11 08:03:00,"Citing a ""favorable macroeconomic backdrop for home improvement,"" its management team forecast another year of hefty sales and profit gains in 2017.",0.9325229525566101,0.018024612218141556,0.04945249482989311,positive,0.9144983291625977
+23,2017-03-11 08:03:00,"Home Depot's opportunity is arguably bigger, given that the company has expanded its addressable market to include not just professional clients, but also a growing portion of the $50 billion maintenance, repair, and operations business.",0.8839494585990906,0.012575801461935043,0.10347481071949005,positive,0.8713736534118652
+24,2017-03-11 08:03:00,Steady gains in these categories are likely to produce another year of rising market share.,0.93545001745224,0.015647271648049355,0.04890276491641998,positive,0.919802725315094
+25,2017-03-11 08:03:00,"Home Depot's early read on the business forecasts a 4.6% comps improvement for the year, down slightly from 2016's 5.6%, but still solidly above Lowe's expected 4.1% increase.",0.024669252336025238,0.9660517573356628,0.009278957732021809,negative,-0.9413825273513794
+26,2017-03-11 08:03:00,"Longer term, the company targets passing $100 billion of annual sales by next year while producing roughly $15 billion of operating income.",0.46325117349624634,0.009200655855238438,0.5275481939315796,neutral,0.4540505111217499
+27,2017-03-11 08:03:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+28,2017-03-11 08:03:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+29,2017-03-11 08:03:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now...and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+30,2017-03-11 08:03:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2017-03-11 08:03:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+32,2017-03-11 08:03:00,Demitrios Kalogeropoulos owns shares of Home Depot.,0.01521337777376175,0.009916125796735287,0.9748705625534058,neutral,0.0052972519770264626
+33,2017-03-11 08:03:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+34,2017-03-11 08:03:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+35,2017-03-11 08:03:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

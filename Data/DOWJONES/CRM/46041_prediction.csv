@@ -1,0 +1,19 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-10-04 00:32:00,"Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Salesforce.com Inc (Symbol: CRM), where a total volume of 28,440 contracts has been traded thus far today, a contract volume which is representative of approximately 2.8 million underlying shares (given that every 1 contract represents 100 underlying shares).",0.03303765505552292,0.011414912529289722,0.9555474519729614,neutral,0.02162274345755577
+1,2018-10-04 00:32:00,"That number works out to 55% of CRM's average daily trading volume over the past month, of 5.2 million shares.",0.6227312088012695,0.017429005354642868,0.35983985662460327,positive,0.6053022146224976
+2,2018-10-04 00:32:00,"Particularly high volume was seen for the $150 strike put option expiring October 19, 2018 , with 6,491 contracts trading so far today, representing approximately 649,100 underlying shares of CRM.",0.2865270674228668,0.011871765367686749,0.7016011476516724,neutral,0.2746553122997284
+3,2018-10-04 00:32:00,"Below is a chart showing CRM's trailing twelve month trading history, with the $150 strike highlighted in orange:
+
+WD-40 Co (Symbol: WDFC) saw options trading volume of 328 contracts, representing approximately 32,800 underlying shares or approximately 52.6% of WDFC's average daily trading volume over the past month, of 62,340 shares.",0.022195929661393166,0.012421618215739727,0.96538245677948,neutral,0.009774311445653439
+4,2018-10-04 00:32:00,"Especially high volume was seen for the $140 strike put option expiring November 16, 2018 , with 126 contracts trading so far today, representing approximately 12,600 underlying shares of WDFC.",0.2171684354543686,0.011023891158401966,0.7718076705932617,neutral,0.2061445415019989
+5,2018-10-04 00:32:00,"Below is a chart showing WDFC's trailing twelve month trading history, with the $140 strike highlighted in orange:
+
+And LGI Homes, Inc. (Symbol: LGIH) options are showing a volume of 1,861 contracts thus far today.",0.018300717696547508,0.03176642954349518,0.9499328136444092,neutral,-0.01346571184694767
+6,2018-10-04 00:32:00,"That number of contracts represents approximately 186,100 underlying shares, working out to a sizeable 51.9% of LGIH's average daily trading volume over the past month, of 358,685 shares.",0.14924083650112152,0.009321278892457485,0.8414378762245178,neutral,0.13991956412792206
+7,2018-10-04 00:32:00,"Especially high volume was seen for the $40 strike put option expiring October 19, 2018 , with 753 contracts trading so far today, representing approximately 75,300 underlying shares of LGIH.",0.2418050616979599,0.010073906742036343,0.7481210231781006,neutral,0.23173116147518158
+8,2018-10-04 00:32:00,"Below is a chart showing LGIH's trailing twelve month trading history, with the $40 strike highlighted in orange:
+
+For the various different available expirations for CRM options , WDFC options , or LGIH options , visit StockOptionsChannel.com.",0.009439552202820778,0.02582576312124729,0.964734673500061,neutral,-0.016386210918426514
+9,2018-10-04 00:32:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437002293765545,0.9750319123268127,neutral,-0.00590596254914999

@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-01-23 05:09:00,Home Depot (NYSE: HD) and Target (NYSE: TGT) share the unenviable history of being victims of major security breaches that affected millions of their customers.,0.04043611139059067,0.8537035584449768,0.10586035996675491,negative,-0.8132674694061279
+1,2017-01-23 05:09:00,But the similarities don't end there: They are also both big-box retailers that many retirees consider investing in given their dividend payments and lengthy operating histories.,0.06910481303930283,0.019934259355068207,0.9109609127044678,neutral,0.04917055368423462
+2,2017-01-23 05:09:00,But which stock is the better buy today?,0.1212192252278328,0.055925432592630386,0.8228553533554077,neutral,0.06529378890991211
+3,2017-01-23 05:09:00,"There's no way to answer that question with 100% certainty, but there are three different approaches you can take, and each will help you make a more informed decision for your own retirement portfolio.",0.1539575308561325,0.0073469760827720165,0.8386954665184021,neutral,0.1466105580329895
+4,2017-01-23 05:09:00,I won't blame you if you prefer to see most of the cash a company generates returned back to your account via dividends and share buybacks.,0.030053067952394485,0.01569950021803379,0.9542474746704102,neutral,0.014353567734360695
+5,2017-01-23 05:09:00,"But there's something to be said for keeping a hefty pile of cash around, too.",0.2376534789800644,0.023913267999887466,0.738433301448822,neutral,0.21374021470546722
+6,2017-01-23 05:09:00,That's because every company will face tough times.,0.11266988515853882,0.035692933946847916,0.8516371250152588,neutral,0.0769769549369812
+7,2017-01-23 05:09:00,"Whether those times are company-specific or macro in their nature, the organizations that enter such periods with lots of cash and little debt often emerge stronger.",0.7262749671936035,0.030371829867362976,0.24335326254367828,positive,0.6959031224250793
+8,2017-01-23 05:09:00,"They can outspend rivals, continue paying dividends, buy back shares on the cheap, or even acquire competitors.",0.3026987612247467,0.007435958366841078,0.6898653507232666,neutral,0.29526281356811523
+9,2017-01-23 05:09:00,"Debt-heavy companies are in the opposite situation, forced to live and die by the whims of their creditors.",0.036801666021347046,0.75278240442276,0.2104160040616989,negative,-0.7159807682037354
+10,2017-01-23 05:09:00,Here's how Target and Home Depot stack up in terms of financial fortitude.,0.024852944537997246,0.009489677846431732,0.9656574130058289,neutral,0.015363266691565514
+11,2017-01-23 05:09:00,"To be honest, I'm not a fan of either company's balance sheet.",0.021115651354193687,0.036394152790308,0.9424902200698853,neutral,-0.015278501436114311
+12,2017-01-23 05:09:00,It's important to remember that Home Depot's valuation is over four times the size of Target's.,0.23559723794460297,0.009355150163173676,0.755047619342804,neutral,0.2262420952320099
+13,2017-01-23 05:09:00,"While Home Depot has a slightly better cash-to-debt ratio, both companies have significant liabilities.",0.42510995268821716,0.20252947509288788,0.37236061692237854,positive,0.22258047759532928
+14,2017-01-23 05:09:00,"While neither will have a tough time paying off these liabilities today, tough times could create a serious squeeze.",0.04783077910542488,0.8864147067070007,0.0657544806599617,negative,-0.8385839462280273
+15,2017-01-23 05:09:00,"Target appears to have superior cash flow, relative to its market cap.",0.9121803045272827,0.02997385710477829,0.05784587934613228,positive,0.8822064399719238
+16,2017-01-23 05:09:00,"Based on this alone, I'm willing to go with Target on this variable.",0.1279796063899994,0.007871652953326702,0.864148736000061,neutral,0.12010795623064041
+17,2017-01-23 05:09:00,"I've learned in my own investing career that there's nothing you should spend more time evaluating that a company's sustainable competitive advantage -- often referred to as a ""moat.""",0.2972961366176605,0.03134889528155327,0.6713549494743347,neutral,0.26594725251197815
+18,2017-01-23 05:09:00,"The simplest way to define a moat is that it's that special something that makes a company stand out from the crowd -- and keeps customers coming back year after year, decade after decade.",0.14553557336330414,0.013480358757078648,0.840984046459198,neutral,0.13205520808696747
+19,2017-01-23 05:09:00,Target's key moat is provided by its brand.,0.20723623037338257,0.006619455758482218,0.7861443161964417,neutral,0.2006167769432068
+20,2017-01-23 05:09:00,The company benefits from economies of scale -- but so do most of its biggest rivals.,0.7488828301429749,0.013439777307212353,0.2376774102449417,positive,0.7354430556297302
+21,2017-01-23 05:09:00,"To differentiate itself, Target has taken up a place for middle-income shoppers, sitting somewhere between Wal-Mart on the low end and pricier retailers on the other.",0.3231350779533386,0.012072397395968437,0.6647925972938538,neutral,0.31106269359588623
+22,2017-01-23 05:09:00,The problem is that these very same customers -- the middle tier -- are the ones that have been migrating in droves to e-commerce.,0.0518655925989151,0.3365752696990967,0.6115591526031494,neutral,-0.2847096920013428
+23,2017-01-23 05:09:00,Amazon.com has taken a huge chunk out of Target's potential business over the past decade.,0.04101892188191414,0.7150893807411194,0.2438916265964508,negative,-0.6740704774856567
+24,2017-01-23 05:09:00,"And while I don't see the company fading into oblivion, I don't see how it can offer anywhere near the convenience Amazon does.",0.09055005759000778,0.015989789739251137,0.8934601545333862,neutral,0.0745602697134018
+25,2017-01-23 05:09:00,"Home Depot, on the other hand, benefits from the fact that it offers home improvement goods that clients both (1) want to see, touch, and play with before purchasing, and (2) want to walk out of the store with and use immediately.",0.09589897841215134,0.005602714139968157,0.8984982371330261,neutral,0.09029626101255417
+26,2017-01-23 05:09:00,"As half of the American duopoly in this industry -- and owner of the largest market share -- the company has a leg up on Target, as its moat is demonstrably wider.",0.8905062675476074,0.019542507827281952,0.08995126187801361,positive,0.8709637522697449
+27,2017-01-23 05:09:00,"Finally, you can look at valuation.",0.056047700345516205,0.008905691094696522,0.9350466132164001,neutral,0.04714201018214226
+28,2017-01-23 05:09:00,"While this isn't an exact science, there are some straightforward metrics you can consult to give you an idea of how expensive each stock is.",0.04464658349752426,0.006416980642825365,0.9489364624023438,neutral,0.038229603320360184
+29,2017-01-23 05:09:00,"On the face of it, Target appears to be the much cheaper stock -- as it trades for lower earnings ratios and has a higher dividend.",0.09493042528629303,0.5108533501625061,0.39421623945236206,negative,-0.41592293977737427
+30,2017-01-23 05:09:00,But when it comes to the price/earnings-to-growth (PEG) ratio -- which takes the potential for future growth into consideration -- it appears that Home Depot is trading for a 27% discount.,0.6091348528862,0.05679377168416977,0.33407139778137207,positive,0.552341103553772
+31,2017-01-23 05:09:00,"That's because of the aforementioned moat: Analysts know that Home Depot still has pricing power and market share to grab, while Target has to deal with lagging sales in the face of a mammoth e-commerce threat.",0.4054984748363495,0.4196127951145172,0.1748887598514557,negative,-0.014114320278167725
+32,2017-01-23 05:09:00,"Given that fact, I think this category is essentially a tie.",0.07201395183801651,0.009201585315167904,0.918784499168396,neutral,0.06281236559152603
+33,2017-01-23 05:09:00,And the winner is...,0.32389628887176514,0.015403352677822113,0.6607003211975098,neutral,0.3084929287433624
+34,2017-01-23 05:09:00,So there you have it: It's a draw.,0.26272639632225037,0.05254168063402176,0.6847319602966309,neutral,0.2101847231388092
+35,2017-01-23 05:09:00,"If I absolutely had to choose one, I would definitely go with Home Depot.",0.09818233549594879,0.008810391649603844,0.8930073380470276,neutral,0.0893719419836998
+36,2017-01-23 05:09:00,"Don't get me wrong -- financial fortitude and valuation are both important, but at the end of the day, I think a company's moat reigns supreme.",0.12280457466840744,0.017246125265955925,0.8599493503570557,neutral,0.10555844753980637
+37,2017-01-23 05:09:00,"And on that measure, Home Depot definitely has the advantage.",0.6948282718658447,0.021347111091017723,0.2838246524333954,positive,0.6734811663627625
+38,2017-01-23 05:09:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+39,2017-01-23 05:09:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+40,2017-01-23 05:09:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+41,2017-01-23 05:09:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+42,2017-01-23 05:09:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+43,2017-01-23 05:09:00,Brian Stoffel owns shares of Amazon.com.,0.01912548579275608,0.013135011307895184,0.9677395224571228,neutral,0.005990474484860897
+44,2017-01-23 05:09:00,The Motley Fool owns shares of and recommends Amazon.com.,0.0404672771692276,0.027035051956772804,0.9324976205825806,neutral,0.013432225212454796
+45,2017-01-23 05:09:00,The Motley Fool recommends Home Depot.,0.05525984615087509,0.04559803009033203,0.8991421461105347,neutral,0.00966181606054306
+46,2017-01-23 05:09:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+47,2017-01-23 05:09:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

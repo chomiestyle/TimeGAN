@@ -1,0 +1,98 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-03-28 23:52:00,"Well, the first quarter of the year has been interesting, to say the least.",0.17094027996063232,0.01065324991941452,0.8184064626693726,neutral,0.1602870225906372
+1,2016-03-28 23:52:00,Markets kicked off 2016 on a steep downtrend and suffered the worst 10-day start to a year ever.,0.027290506288409233,0.9502757787704468,0.022433754056692123,negative,-0.9229852557182312
+2,2016-03-28 23:52:00,"The Dow Jones Industrial Average alone shed 1,437 points, or 8.2%, in those first 10 trading days.",0.021573226898908615,0.9687626957893372,0.009664040058851242,negative,-0.947189450263977
+3,2016-03-28 23:52:00,"Thankfully, the markets have since recovered.",0.784270703792572,0.08038359880447388,0.1353456825017929,positive,0.7038871049880981
+4,2016-03-28 23:52:00,"Rebounding oil prices , a relatively dovish Federal Reserve and some recent weakness in the dollar have helped stocks fight back to breakeven.",0.8610579371452332,0.10249479115009308,0.03644726425409317,positive,0.7585631608963013
+5,2016-03-28 23:52:00,It's safe to say that many investors are more confident than they were a month or two ago … but they still remain cautious.,0.24365957081317902,0.07833927869796753,0.6780011653900146,neutral,0.1653202921152115
+6,2016-03-28 23:52:00,"With a tumultuous Q1 now in the books, let's take a look at 10 of the best Dow Jones stocks to buy for Q2.",0.08746698498725891,0.009545015171170235,0.9029880166053772,neutral,0.07792197167873383
+7,2016-03-28 23:52:00,"Best Dow Jones Stocks to Buy: Cisco Systems, Inc. (CSCO)
+
+Investors should use the extremely bumpy environment we saw on Wall Street in the first three months of the year to inform their investment decisions in Q2.",0.14359886944293976,0.010527047328650951,0.8458741307258606,neutral,0.13307182490825653
+8,2016-03-28 23:52:00,I think financially sound large-cap value stocks will outperform other equity groups as investors become more risk-averse.,0.9084569811820984,0.026928318664431572,0.0646146684885025,positive,0.8815286755561829
+9,2016-03-28 23:52:00,"We've already seen this ""risk-off"" mentality play out as 10-year treasury yields fell from 2.24% to about 1.9% and the price of gold rallied above $1,200 an ounce in the first quarter.",0.05716947093605995,0.9097843170166016,0.033046264201402664,negative,-0.8526148200035095
+10,2016-03-28 23:52:00,"This trend should benefit Cisco Systems, Inc. ( CSCO ), whose 3.7% dividend is nearly two times the 10-year treasury yield.",0.8758013248443604,0.014637315645813942,0.10956141352653503,positive,0.8611640334129333
+11,2016-03-28 23:52:00,"In addition to its dividend, Cisco shares have the additional benefit of being reasonably priced at 13.9 times earnings.",0.2750681936740875,0.00994337722659111,0.7149884104728699,neutral,0.2651248276233673
+12,2016-03-28 23:52:00,"Strip out the $12/share in cash and Cisco trades at just 7.8 times earnings, making it one of the more compelling blue-chip stocks to buy today.",0.33312109112739563,0.3257550597190857,0.34112387895584106,neutral,0.0073660314083099365
+13,2016-03-28 23:52:00,"I consider Cisco a top-tier value stock at today's levels, but International Business Machines Corp. ( IBM ) isn't too shabby either.",0.04081219062209129,0.015072684735059738,0.9441151022911072,neutral,0.025739505887031555
+14,2016-03-28 23:52:00,You don't have to take my word for it; the most wildly successful value investor of all time is a believer: Warren Buffett.,0.11451610922813416,0.01515879575163126,0.8703250288963318,neutral,0.09935731440782547
+15,2016-03-28 23:52:00,"Buffett's Berkshire Hathaway Inc. ( BRK.A , BRK.B ) has an average purchase price for IBM stock around $170 per share, meaning you'll have a 14% head start on ol' Warren at today's levels.",0.10400263965129852,0.017721593379974365,0.8782758116722107,neutral,0.08628104627132416
+16,2016-03-28 23:52:00,"More importantly, IBM's ""strategic imperatives"" - cloud, analytics, mobile, social and security - are contributing more and more to Big Blue's business .",0.4724152088165283,0.009024351835250854,0.5185604095458984,neutral,0.46339085698127747
+17,2016-03-28 23:52:00,"• 10 Dividend Stocks to Buy for the Second Quarter
+
+Focusing on core areas of growth, it's also undervalued, and I think the market will start to realize that.",0.6483016610145569,0.11806613951921463,0.23363222181797028,positive,0.5302355289459229
+18,2016-03-28 23:52:00,"Buffett is a famous holder, and Watson has plenty of realistic (and revenue-generating) uses.",0.16979876160621643,0.006259665358811617,0.8239415884017944,neutral,0.1635390967130661
+19,2016-03-28 23:52:00,"Best Dow Jones Stocks to Buy: Home Depot Inc (HD)
+
+Home Depot Inc ( HD ) is another strong company in the Dow, and a nice seasonal play, too.",0.7046144604682922,0.022178741171956062,0.27320683002471924,positive,0.6824356913566589
+20,2016-03-28 23:52:00,"People should start spending more on touch-ups and remodeling in the spring and summer, when weather is nicer and people are more physically willing and able to make alterations to their home.",0.3899881839752197,0.015089758671820164,0.5949220657348633,neutral,0.37489843368530273
+21,2016-03-28 23:52:00,"Plus, the real estate market itself will heat up as the weather warms.",0.1046919897198677,0.011978540569543839,0.883329451084137,neutral,0.09271344542503357
+22,2016-03-28 23:52:00,"Analysts expect Home Depot to benefit, seeing sales growth of 6.1% in the current quarter, the first of fiscal 2017, which runs through April.",0.9564703106880188,0.017782358452677727,0.025747375562787056,positive,0.9386879801750183
+23,2016-03-28 23:52:00,"If Home Depot is able to execute, shares should do well after it reports earnings on May 17.",0.9279412031173706,0.02077469974756241,0.05128408223390579,positive,0.9071664810180664
+24,2016-03-28 23:52:00,"Hopefully, the contrast between Home Depot and Lowe's Companies, Inc. ( LOW ), which analysts expect will only see revenue growth of 4.4% in the quarter, becomes more clear.",0.4650254547595978,0.26433825492858887,0.27063626050949097,positive,0.2006871998310089
+25,2016-03-28 23:52:00,"Truthfully, there is no more quintessentially safe stock than Johnson & Johnson ( JNJ ), which first went public before the Second World War was over, in 1944.",0.14608147740364075,0.014048103243112564,0.8398703932762146,neutral,0.13203337788581848
+26,2016-03-28 23:52:00,"With diversified business segments that span the pharmaceutical, consumer and medical devices areas, investors can sleep easy knowing JNJ won't go down in a ball of flames tomorrow - or likely, ever.",0.2583507299423218,0.018604839220643044,0.7230443954467773,neutral,0.2397458851337433
+27,2016-03-28 23:52:00,"Although Apple Inc. ( AAPL ) and Alphabet Inc ( GOOG , GOOGL ) both have higher valuations than Microsoft Corporation ( MSFT ), Microsoft is considered a ""safer"" investment than either of its major tech rivals.",0.7921430468559265,0.058619577437639236,0.14923729002475739,positive,0.7335234880447388
+28,2016-03-28 23:52:00,"By whom, you ask?",0.03358372673392296,0.024763163179159164,0.9416530728340149,neutral,0.008820563554763794
+29,2016-03-28 23:52:00,"Oh, just a little credit ratings outfit named S&P.",0.040777936577796936,0.0369328036904335,0.922289252281189,neutral,0.003845132887363434
+30,2016-03-28 23:52:00,Microsoft is one of just three publicly traded companies with a pristine AAA credit rating - better than the U.S. government.,0.7755569219589233,0.023297129198908806,0.2011459767818451,positive,0.7522597908973694
+31,2016-03-28 23:52:00,The other two?,0.10621866583824158,0.15436866879463196,0.7394126057624817,neutral,-0.04815000295639038
+32,2016-03-28 23:52:00,"Johnson & Johnson, Microsoft's predecessor on this list, and Exxon Mobil Corporation ( XOM ), which may very well lose that honor in the next 40 days or so after being placed on negative credit watch by S&P.",0.022737907245755196,0.9346352219581604,0.04262685775756836,negative,-0.9118973016738892
+33,2016-03-28 23:52:00,"Microsoft's business is also changing for the better, as CEO Satya Nadella pivots forcefully and effectively into the cloud, an emerging, high-margin area in tech.",0.8528342247009277,0.017311982810497284,0.12985382974147797,positive,0.8355222344398499
+34,2016-03-28 23:52:00,The persistence and focus he brings is a welcome change in style from the slow-moving and off-base days of Steve Ballmer.,0.6375166177749634,0.023570958524942398,0.33891236782073975,positive,0.6139456629753113
+35,2016-03-28 23:52:00,"When CEO Steve Easterbrook was elevated to the top position at McDonald's Corporation ( MCD ) about a year ago, the iconic restaurant chain was in major trouble.",0.024337371811270714,0.924213707447052,0.05144893005490303,negative,-0.8998763561248779
+36,2016-03-28 23:52:00,"Same-store sales growth, which had been decelerating for years, actually began to go negative.",0.01939539425075054,0.9534964561462402,0.027108104899525642,negative,-0.9341010451316833
+37,2016-03-28 23:52:00,"The challenges were not trivial: Competition was fierce, infighting with franchisees caused problems and in 2015, for the first time in 45 years , McDonald's actually closed more U.S. locations than it opened.",0.03495800122618675,0.9346665740013123,0.030375463888049126,negative,-0.8997085690498352
+38,2016-03-28 23:52:00,Not pretty.,0.15320326387882233,0.17288300395011902,0.6739137172698975,neutral,-0.019679740071296692
+39,2016-03-28 23:52:00,"Today, MCD stock is up 27% in the last year, and currently sits near all-time highs.",0.9480841755867004,0.020575804635882378,0.03134002536535263,positive,0.9275083541870117
+40,2016-03-28 23:52:00,"Driven by initiatives that Easterbrook brought to the table - most notably All-Day Breakfast, which has been wildly popular - McDonald's has done a 180.",0.8389334678649902,0.018492238596081734,0.14257432520389557,positive,0.8204412460327148
+41,2016-03-28 23:52:00,"Global same-store sales rose 5% in the fourth quarter, and U.S. same-store sales jumped 5.7% .",0.9507501125335693,0.020328106358647346,0.02892174758017063,positive,0.9304220080375671
+42,2016-03-28 23:52:00,• 7 A-Rated Stocks to Buy and Hold for Q2 and Beyond!,0.26064062118530273,0.012555187568068504,0.7268041968345642,neutral,0.24808543920516968
+43,2016-03-28 23:52:00,"The Golden Arches are back on track, and with what looks to be the right leadership finally in place, MCD stock is a quality buy going into Q2.",0.8612601161003113,0.021989816799759865,0.11675006151199341,positive,0.839270293712616
+44,2016-03-28 23:52:00,"Best Dow Jones Stocks to Buy: 3M Co (MMM)
+
+Diversified industrial company 3M Co ( MMM ) is another steady-eddie-type stock that should benefit in a market increasingly hungry for sure things rather than high-risk, high-reward plays.",0.8185848593711853,0.01476872619241476,0.16664645075798035,positive,0.8038161396980286
+45,2016-03-28 23:52:00,"Already up 9% in 2016, MMM outperformed the S&P 500 by nearly 10 percentage points in the first quarter alone.",0.9039680361747742,0.07036685198545456,0.025665123015642166,positive,0.833601176738739
+46,2016-03-28 23:52:00,"As a global company, the recent stumble of the U.S. dollar is a net positive - and a major one at that - for 3M.",0.9179165363311768,0.02434549108147621,0.05773802474141121,positive,0.8935710191726685
+47,2016-03-28 23:52:00,"In 2015, 60% of all revenue came from outside the United States .",0.020663758739829063,0.0077219256199896336,0.9716143012046814,neutral,0.012941833585500717
+48,2016-03-28 23:52:00,"With over 20% of revenue coming from Europe, the Middle East and Africa, let's take a look at how the USD/EUR exchange rate affects 3M results.",0.02998773567378521,0.008645135909318924,0.961367130279541,neutral,0.021342599764466286
+49,2016-03-28 23:52:00,"At the beginning of 2016, the USD/EUR conversion rate was 0.92.",0.059231698513031006,0.017275333404541016,0.9234929084777832,neutral,0.04195636510848999
+50,2016-03-28 23:52:00,"Today, it's around 0.89.",0.17420798540115356,0.0712340921163559,0.7545579671859741,neutral,0.10297389328479767
+51,2016-03-28 23:52:00,"It may not sound like a huge change, but that's about a 3.3% swing.",0.2433623969554901,0.053368136286735535,0.7032694816589355,neutral,0.18999426066875458
+52,2016-03-28 23:52:00,"And since 3M reports revenues in dollars, the swing is better illustrated by looking at the EUR/USD ratio, which, due to being inverted, is even more amplified.",0.30365970730781555,0.22455711662769318,0.47178319096565247,neutral,0.07910259068012238
+53,2016-03-28 23:52:00,"At the start of the year, one Euro was worth $1.086; Monday, to the delight of MMM shareholders, it's worth $1.117.",0.12331932038068771,0.015140826813876629,0.861539900302887,neutral,0.10817849636077881
+54,2016-03-28 23:52:00,"Last quarter, currency headwinds hit 3M revenue to the tune of $448 million, or 5.8% .",0.7530245780944824,0.20675590634346008,0.040219567716121674,positive,0.5462687015533447
+55,2016-03-28 23:52:00,"That's nothing to sneeze at, and investors will be elated if 3M continues to be on the good side of currency moves.",0.8136968016624451,0.01855623535811901,0.16774693131446838,positive,0.7951405644416809
+56,2016-03-28 23:52:00,"Best Dow Jones Stocks to Buy: Caterpillar Inc. (CAT)
+
+While each and every single company in the Dow 30 would benefit from a falling U.S. dollar, some companies like 3M benefit more than their counterparts.",0.8284327387809753,0.047104865312576294,0.12446236610412598,positive,0.7813278436660767
+57,2016-03-28 23:52:00,"And while 3M's exposure to the strength of the greenback is extreme, Caterpillar Inc. ( CAT ) has perhaps the most to gain from a weakening dollar.",0.4616350531578064,0.027811910957098007,0.5105530619621277,neutral,0.4338231384754181
+58,2016-03-28 23:52:00,Caterpillar sees a double benefit from a weaker dollar.,0.7844165563583374,0.1427702009677887,0.0728132501244545,positive,0.6416463851928711
+59,2016-03-28 23:52:00,"Firstly, 59% of revenue comes from overseas, which would make reported revenues higher when converted back into U.S. dollars, as discussed with 3M.",0.8320308327674866,0.020328767597675323,0.1476404368877411,positive,0.8117020726203918
+60,2016-03-28 23:52:00,"• 7 Best Funds for a New Rollover IRA Portfolio
+
+But Caterpillar will also reap rewards as commodity prices - all else being equal - trend upwards, too.",0.9290053248405457,0.01855151169002056,0.05244307965040207,positive,0.9104537963867188
+61,2016-03-28 23:52:00,"Since commodities are priced in dollars, a weaker dollar means prices go up - in turn driving demand for Caterpillar's mining and drilling equipment.",0.4205646216869354,0.5085432529449463,0.07089217752218246,negative,-0.08797863125801086
+62,2016-03-28 23:52:00,"General Electric Company ( GE ), in my opinion, is getting stronger by the day.",0.7263560891151428,0.01575998216867447,0.2578839957714081,positive,0.7105960845947266
+63,2016-03-28 23:52:00,"Last year, it announced a massive asset divestiture in a move that has flooded the company with tens of billions of dollars in cash.",0.4471364915370941,0.08861920237541199,0.4642443358898163,neutral,0.35851728916168213
+64,2016-03-28 23:52:00,"Most importantly, GE is shedding its GE Capital assets - the financial segment of its business that nearly brought the company to ruins during the financial crisis.",0.021870002150535583,0.8825925588607788,0.0955374538898468,negative,-0.860722541809082
+65,2016-03-28 23:52:00,"By ridding itself of GE Capital, General Electric has done two things, both of which I love.",0.4578951299190521,0.017408106476068497,0.5246967673301697,neutral,0.4404870271682739
+66,2016-03-28 23:52:00,"Number one: It has refocused on its roots, and is looking a lot more like the industrial behemoth it once was.",0.48859888315200806,0.013779115863144398,0.49762198328971863,neutral,0.47481977939605713
+67,2016-03-28 23:52:00,A narrower focus should make the company more efficient and the results more predictable.,0.6677107214927673,0.011907771229743958,0.3203815221786499,positive,0.6558029651641846
+68,2016-03-28 23:52:00,Number two: GE stock has de-risked itself.,0.14898230135440826,0.4694916903972626,0.38152602314949036,negative,-0.3205093741416931
+69,2016-03-28 23:52:00,"Plus, the slimmer GE is flush with cash from selling off parts of itself.",0.8052399158477783,0.026872167363762856,0.1678878515958786,positive,0.7783677577972412
+70,2016-03-28 23:52:00,"In 2016, the company will return $26 billion to shareholders through stock buybacks and dividends, and between 2015 and 2018 CEO Jeff Immelt has vowed to return $100 billion to shareholders.",0.326089471578598,0.008246423676609993,0.6656640768051147,neutral,0.3178430497646332
+71,2016-03-28 23:52:00,"Best Dow Jones Stocks to Buy: Visa Inc (V)
+
+Finally, VisaInc ( V ) might not be a bad stock to pick up for the second quarter.",0.1987808346748352,0.2773507535457611,0.5238683819770813,neutral,-0.0785699188709259
+72,2016-03-28 23:52:00,"As the world's leading credit card and payment services company, there's quite a lot to like.",0.4993457496166229,0.009404930286109447,0.4912493824958801,positive,0.4899408221244812
+73,2016-03-28 23:52:00,"The barriers to entry in this industry are absolutely astronomical, ensuring Visa will be wetting its beak in the payments area for decades to come.",0.22699522972106934,0.11664366722106934,0.6563611626625061,neutral,0.1103515625
+74,2016-03-28 23:52:00,"But even though Visa is already ubiquitous across the globe, there's one major market it has never been able to penetrate: China.",0.23012898862361908,0.04827040061354637,0.7216005921363831,neutral,0.1818585842847824
+75,2016-03-28 23:52:00,"Due largely to pressure from the World Trade Organization, Visa is gaining access to the massive Chinese market; previously, China UnionPay enjoyed a government-enabled monopoly.",0.7861121892929077,0.023186517879366875,0.19070136547088623,positive,0.7629256844520569
+76,2016-03-28 23:52:00,"And, much to the chagrin of American Express Company ( AXP ), Visa is teaming with Costco Wholesale Corporation ( COST ) to become the retailer's only accepted credit card brand.",0.8682022094726562,0.01759844832122326,0.11419937014579773,positive,0.8506037592887878
+77,2016-03-28 23:52:00,"The exclusive deal is an extremely valuable partnership, and one that American Express enjoyed for the past 16 years.",0.8387776613235474,0.012469177134335041,0.14875315129756927,positive,0.8263084888458252
+78,2016-03-28 23:52:00,Visa will become the exclusive credit card brand of Costco beginning June 20 - towards the end of the second quarter.,0.06649551540613174,0.004503009375184774,0.9290014505386353,neutral,0.06199250742793083
+79,2016-03-28 23:52:00,"As of this writing, John Divine did not hold a position in any of the aforementioned securities.",0.008999169804155827,0.022541072219610214,0.9684597849845886,neutral,-0.013541902415454388
+80,2016-03-28 23:52:00,You can follow him on Twitter at@divinebizkidor email him at editor@investorplace.com.,0.051030270755290985,0.03627743199467659,0.9126923084259033,neutral,0.014752838760614395
+81,2016-03-28 23:52:00,The post 10 Stellar Dow Jones Stocks to Buy for Q2 appeared first on InvestorPlace .,0.0732095018029213,0.028151320293545723,0.8986392021179199,neutral,0.04505818337202072
+82,2016-03-28 23:52:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

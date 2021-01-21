@@ -1,0 +1,23 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-18 02:30:00,U.S. market indexes were higher on Monday.,0.9003486633300781,0.028036456555128098,0.07161480188369751,positive,0.8723121881484985
+1,2017-12-18 02:30:00,"The Dow Jones Industrial Average closed at 24,792.20 for a gain of 140.46 points or 0.57%.",0.9303644895553589,0.040698662400245667,0.02893690951168537,positive,0.8896658420562744
+2,2017-12-18 02:30:00,"The S&P 500 closed at 2,690.16 for a gain of 14.35 points or 0.54%.",0.932884156703949,0.041131336241960526,0.025984520092606544,positive,0.8917528390884399
+3,2017-12-18 02:30:00,"The Nasdaq Composite closed at 6,994.76 for a gain of 58.18 points or 0.84%.",0.941106379032135,0.03284715488553047,0.026046449318528175,positive,0.9082592129707336
+4,2017-12-18 02:30:00,The VIX Volatility Index was higher at 9.53 for a gain of 0.11 points or 1.17%.,0.944619357585907,0.026937326416373253,0.028443321585655212,positive,0.9176820516586304
+5,2017-12-18 02:30:00,"The Dow Jones and Nasdaq closed at new highs on Monday with the Dow Jones reporting its 70th record close for 2017, a new calendar year high.",0.6340889930725098,0.21223148703575134,0.1536795198917389,positive,0.4218575060367584
+6,2017-12-18 02:30:00,A positive outlook on tax reform helped stocks to gain.,0.9275442361831665,0.039295684546232224,0.03316006809473038,positive,0.8882485628128052
+7,2017-12-18 02:30:00,The Housing Market Index was the only leading economic report released on Monday.,0.018709909170866013,0.03090950846672058,0.9503805637359619,neutral,-0.012199599295854568
+8,2017-12-18 02:30:00,The Index increased five points to 74.,0.9227716326713562,0.02246534638106823,0.05476303771138191,positive,0.9003062844276428
+9,2017-12-18 02:30:00,"In the Dow Jones Industrial Average, the following stocks led gains:
+
+In the broad market, materials and consumer staples led gains.",0.9247780442237854,0.02631343901157379,0.048908475786447525,positive,0.8984646201133728
+10,2017-12-18 02:30:00,Technology was also higher with the S&P 500 Index gaining 0.88%.,0.92860347032547,0.03193201124668121,0.03946453332901001,positive,0.89667147397995
+11,2017-12-18 02:30:00,"In small-caps, the Russell 2000 Index closed at 1,548.92 for a gain of 18.50 points or 1.21%.",0.9395062327384949,0.03696189448237419,0.023531896993517876,positive,0.9025443196296692
+12,2017-12-18 02:30:00,The S&P 600 closed at 945.12 for a gain of 12.49 points or 1.34%.,0.9388657808303833,0.03285330906510353,0.028280923143029213,positive,0.9060124754905701
+13,2017-12-18 02:30:00,"The Dow Jones Small-Cap Growth TSM Index closed at 9,460.57 for a gain of 117.67 points or 1.26%.",0.9431726932525635,0.03313581272959709,0.023691488429903984,positive,0.9100368618965149
+14,2017-12-18 02:30:00,"The Dow Jones Small-Cap Value TSM Index closed at 10,320.45 for a gain of 111.88 points or 1.10%
+
+Other notable index closes included the S&P 400 Mid-Cap Index at 1,905.30 for a gain of 18.63 points or 0.99%; the S&P 100 Index at 1,192.22 for a gain of 5.54 points or 0.47%; the Russell 3000 Index at 1,591.96 for a gain of 9.88 points or 0.62%; the Russell 1000 Index at 1,490.06 for a gain of 8.55 points or 0.58%; and the Dow Jones U.S.",0.8578721880912781,0.05491422116756439,0.08721353858709335,positive,0.8029579520225525
+15,2017-12-18 02:30:00,Select Dividend Index at 709.02 for a gain of 2.64 points or 0.37%.,0.9373282790184021,0.03618938475847244,0.02648245170712471,positive,0.9011389017105103
+16,2017-12-18 02:30:00,This article first appeared on GuruFocus .,0.01878550462424755,0.01473853550851345,0.9664759039878845,neutral,0.0040469691157341
+17,2017-12-18 02:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

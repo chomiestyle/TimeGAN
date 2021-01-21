@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-20 09:56:00,Wall Street Stocks were higher at midday Tuesday with the energy sector compensating for lingering pressure on technology stocks.,0.9263070821762085,0.03426593542098999,0.039427027106285095,positive,0.8920411467552185
+1,2018-03-20 09:56:00,"While tech shares continued to lag slightly after Monday's free-fall, energy stocks firmed as potential trade restrictions on Venezuelan oil coupled with simmering tensions between Saudi Arabia and Iran drove oil futures to their highest levels in three weeks.",0.877427339553833,0.07539359480142593,0.047179073095321655,positive,0.8020337224006653
+2,2018-03-20 09:56:00,The major averages recovered after the Dow Jones Industrial Average rebounded off its 100-day moving average.,0.6235899329185486,0.22365756332874298,0.15275247395038605,positive,0.3999323844909668
+3,2018-03-20 09:56:00,"The gains were tempered, however, by expectations that the Federal Open Market Committee will raise rates 25 basis points on Wednesday in what is believed to be the first of three or four rate hikes this year.",0.8155280351638794,0.11015751212835312,0.07431446015834808,positive,0.7053705453872681
+4,2018-03-20 09:56:00,The FOMC began its two-day meeting on Tuesday.,0.07494695484638214,0.04295909032225609,0.8820939660072327,neutral,0.03198786452412605
+5,2018-03-20 09:56:00,"The beaten down tech sector is recovering modestly with the notable exceptions of Facebook ( FB ) and Oracle ( ORCL ) following news that Facebook was facing more criticism for its handling of user data, and downbeat cloud computing results from Oracle.",0.1654384583234787,0.776389479637146,0.0581720806658268,negative,-0.6109510064125061
+6,2018-03-20 09:56:00,"Oracle shares are at their lowest level in nearly six weeks, while Facebook was at a six-month low.",0.024720491841435432,0.945641815662384,0.02963762916624546,negative,-0.9209213256835938
+7,2018-03-20 09:56:00,"Losses have spilled into shares of Twitter ( TWTR ) and Snap ( SNAP ), both of which are down for four consecutive days.",0.019319092854857445,0.9565497040748596,0.024131180718541145,negative,-0.9372305870056152
+8,2018-03-20 09:56:00,Europe followed the lead of its US counterparts with solid gains in the major bourses.,0.9465599060058594,0.025530880317091942,0.027909161522984505,positive,0.9210290312767029
+9,2018-03-20 09:56:00,"Despite soft German ZEW confidence data, the Euro Stoxx 50 was up 0.54% at the close with metals leading advancers following Glencore's $1.7 billion acquisition of Rio Tinto's ( RIO ) Hail Creek and Valeria coal mines.",0.9353153109550476,0.03506823256611824,0.029616469517350197,positive,0.9002470970153809
+10,2018-03-20 09:56:00,Crude oil was up $1.52 to $63.58 per barrel.,0.9026603698730469,0.03541930764913559,0.06192030757665634,positive,0.8672410845756531
+11,2018-03-20 09:56:00,Natural gas rose $0.04 to $2.69 per 1 million BTU.,0.912188708782196,0.029463324695825577,0.05834795534610748,positive,0.8827253580093384
+12,2018-03-20 09:56:00,"Gold fell $5.50 to $1,312.40 an ounce, while silver was down $0.15 to $16.17 an ounce.",0.021604133769869804,0.9635957479476929,0.014800123870372772,negative,-0.9419916272163391
+13,2018-03-20 09:56:00,Copper slipped $0.03 to $3.05 per pound.,0.05461155250668526,0.9196986556053162,0.025689853355288506,negative,-0.86508709192276
+14,2018-03-20 09:56:00,"Among energy ETFs, the United States Oil Fund was up 2.62% to $12.88 with the United States Natural Gas Fund was up 1.33% to $22.42.",0.9397762417793274,0.02529916726052761,0.03492452949285507,positive,0.9144770503044128
+15,2018-03-20 09:56:00,"Among precious-metal funds, the Market Vectors Gold Miners ETF was down 1.01% to 21.21 while SPDR Gold Shares were down 0.30% to $124.49.",0.018056631088256836,0.9697497487068176,0.012193549424409866,negative,-0.9516931176185608
+16,2018-03-20 09:56:00,The iShares Silver Trust was down 0.85% to $15.25.,0.018979927524924278,0.9627874493598938,0.018232636153697968,negative,-0.9438075423240662
+17,2018-03-20 09:56:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was up 9.46 points (+0.07%) to 12,660.12
+
+Dow Jones Industrial Index was up 137.09 points (+0.02%) to 2,713.61
+
+S&P 500 was up 2.01 points (+0.07%) to 2,714.93
+
+Nasdaq Composite Index was up 14.32 points (+0.19%) to 7,359.14
+
+FTSE 100 was up 18.34 points (+0.26%) to 7,061.27
+
+DAX was up 90.31 points (+0.74%) to 12,307.33
+
+CAC 40 was up 29.59 points (+0.57%) to 5,252.43
+
+Nikkei 225 was down 99.93 points (-0.47%) to 21,380.97
+
+Hang Seng Index was up 36.17 points (+0.11%) to 31,549.93
+
+Shanghai China Composite Index was up 11.21 points (+0.34%) to 3,290.46
+
+NYSE Energy Sector Index was down 44.80 points (-0.42%) to 10,728.71
+
+NYSE Financial Sector Index was up 32.53 points (+0.39%) to 8,283.77
+
+NYSE Healthcare Sector Index was down 27.46 points (-0.19%) to 14,370.62
+
+(+) CRME (+25.34%) Agrees to sell Canadian business portfolio to Cipher Pharma for $19.5 mln
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.01434934139251709,0.015253678895533085,0.9703969359397888,neutral,-0.000904337503015995
+18,2018-03-20 09:56:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+19,2018-03-20 09:56:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+20,2018-03-20 09:56:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.054922934621572495,0.9303174018859863,neutral,-0.04016333073377609

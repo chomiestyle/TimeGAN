@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-05-05 22:25:00,"As the largest retailer in the world, Wal-Mart may seem to be a natural fit in the most populous country in the world, China.",0.6495792269706726,0.01995697058737278,0.330463707447052,positive,0.6296222805976868
+1,2015-05-05 22:25:00,"However, that has not been the case thus far.",0.026719728484749794,0.13440683484077454,0.8388734459877014,neutral,-0.10768710821866989
+2,2015-05-05 22:25:00,"Eighteen years after entering the Chinese market, Wal-Mart has about 400 stores in the region, less than 4% of its worldwide total.",0.017700988799333572,0.8822095990180969,0.10008947551250458,negative,-0.8645086288452148
+3,2015-05-05 22:25:00,The company has struggled to develop a meaningful foothold in this key growth market.,0.05581294000148773,0.8465169668197632,0.09767001122236252,negative,-0.7907040119171143
+4,2015-05-05 22:25:00,"Missteps over the years have forced the company to close stores and scale back ambitions of a network of superstores much like it has in the U.S.
+
+Now, Wal-Mart is refreshing its goals there with plans to open up 115 new stores by 2017.",0.6308308839797974,0.12188219279050827,0.24728696048259735,positive,0.5089486837387085
+5,2015-05-05 22:25:00,CEO Doug McMillon said the company does not want to become the biggest retailer in the country but the most trusted.,0.26398345828056335,0.1676797866821289,0.5683367848396301,neutral,0.09630367159843445
+6,2015-05-05 22:25:00,"The decision to expand comes at a time when China sales are flagging, down 0.7% overall for the most recent quarter and down 2.3% at stores open more than a year.",0.02189605124294758,0.9655978083610535,0.012506111524999142,negative,-0.9437017440795898
+7,2015-05-05 22:25:00,"With the core store format, U.S. superstores, approaching saturation, China is taking on increasing importance as a growth market.",0.8751577138900757,0.014104870148003101,0.11073741316795349,positive,0.8610528707504272
+8,2015-05-05 22:25:00,"Not all American brands have prospered in China
+
+While the Chinese are known for their fondness for Western brands, some have found more success than others.",0.52629554271698,0.022200535982847214,0.4515039324760437,positive,0.5040950179100037
+9,2015-05-05 22:25:00,Restaurant chains like Yum!,0.04349514842033386,0.03789078816771507,0.9186140298843384,neutral,0.00560436025261879
+10,2015-05-05 22:25:00,"Brands ' KFC and Starbucks have achieved major success, both benefiting from a premium brand image there.",0.9415727257728577,0.01731588877737522,0.041111402213573456,positive,0.9242568612098694
+11,2015-05-05 22:25:00,"Fashion labels like Nike have also found success, and recent performance from Apple has been strong.",0.9310222268104553,0.01973593980073929,0.0492418073117733,positive,0.9112862944602966
+12,2015-05-05 22:25:00,"However, American retailers have not necessarily enjoyed the same reception that American brands have.",0.24915985763072968,0.033562056720256805,0.7172781229019165,neutral,0.21559780836105347
+13,2015-05-05 22:25:00,"In many ways, brands have an easier sale to make than retailers as Chinese people are generally more trusting of Western products.",0.15479150414466858,0.2316427230834961,0.6135657429695129,neutral,-0.07685121893882751
+14,2015-05-05 22:25:00,"In recent years, there have been local food safety issues with tainted milk and unscrupulous beef and chicken suppliers.",0.034503526985645294,0.9351184368133545,0.030378010123968124,negative,-0.9006149172782898
+15,2015-05-05 22:25:00,"Similarly, western brands like General Motors are preferred over Chinese carmakers.",0.2865884304046631,0.026438739150762558,0.6869727969169617,neutral,0.26014968752861023
+16,2015-05-05 22:25:00,"Retailers, however, sell products rather than make them, which has not yielded the same advantage, and Wal-Mart is not the only American retailer to have struggled in the region.",0.03125643730163574,0.9456128478050232,0.023130811750888824,negative,-0.9143564105033875
+17,2015-05-05 22:25:00,"In 2012, Home Depot announced it would shutter its Chinese operations, closing all seven of its stores and pulling out of the country.",0.015275907702744007,0.9532740712165833,0.03145000338554382,negative,-0.9379981756210327
+18,2015-05-05 22:25:00,"The company found that its do-it-yourself home improvement culture did not fit well in China, where doing such work is not a point of pride the way it is in the U.S.
+
+Last year, Best Buy also made the same decision, selling its China division to a local real estate company and closing the book on the unsuccessful venture in order to focus on domestic operations.",0.03630765154957771,0.1189914345741272,0.8447008728981018,neutral,-0.08268378674983978
+19,2015-05-05 22:25:00,"Considering that Home Depot and Best Buy are two of the largest retail chains in the U.S. after Wal-Mart, recent history does not bode well for its growth.",0.031718313694000244,0.8148251175880432,0.1534566730260849,negative,-0.783106803894043
+20,2015-05-05 22:25:00,"Like those two chains, Wal-Mart may have approached the Chinese market with too much of an American mindset.",0.040158580988645554,0.7841348052024841,0.175706684589386,negative,-0.7439762353897095
+21,2015-05-05 22:25:00,"The company has lost market share to Chinese rivals such as Sun-Art, which seems to have borrowed the Wal-Mart business model and adapted it to China.",0.016603529453277588,0.9630670547485352,0.020329397171735764,negative,-0.9464635252952576
+22,2015-05-05 22:25:00,"For example, Sun-Art allows shoppers to purchase groceries in a style resembling traditional outdoor markets.",0.06612471491098404,0.008496572263538837,0.9253787398338318,neutral,0.057628143578767776
+23,2015-05-05 22:25:00,"The everyday low prices strategy has also not been much of a winner, and with just 400 stores, the company lacks the economies of scale it typically enjoys.",0.03413712605834007,0.7408578991889954,0.22500497102737427,negative,-0.706720769405365
+24,2015-05-05 22:25:00,"For investors, the best hope for success may be riding on the shoulders of new CEO Doug McMillon.",0.45076698064804077,0.04341389983892441,0.5058191418647766,neutral,0.40735307335853577
+25,2015-05-05 22:25:00,"McMillion has shown he is unafraid to break away from traditional company tactics by raising employee wages and taking a stand against an anti-gay rights law in Arkansas, the company's home state.",0.28967729210853577,0.46569228172302246,0.24463048577308655,negative,-0.1760149896144867
+26,2015-05-05 22:25:00,"E-commerce will play an important role in the turnaround strategy, and the company has shown it understands that with the acquisition of Yihaodian.com, a local online retail website.",0.9045153856277466,0.012568285688757896,0.08291636407375336,positive,0.8919470906257629
+27,2015-05-05 22:25:00,"If Wal-Mart can find the right mix of e-commerce, adaptation to Chinese tastes, and price leadership, it should be able to find some growth in the region.",0.9320936799049377,0.014529017731547356,0.05337731912732124,positive,0.9175646901130676
+28,2015-05-05 22:25:00,"However, with only 115 new stores planned, this is unlikely to be a major source of growth anytime soon.",0.44504719972610474,0.038791608065366745,0.5161611437797546,neutral,0.4062556028366089
+29,2015-05-05 22:25:00,"As other retailers have found, China is not necessarily the cure-all that American companies had hoped it would be,
+
+Apple forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering Apple's brand-new gadgets and the coming revolution in technology.",0.1295933723449707,0.06499270349740982,0.8054139018058777,neutral,0.06460066884756088
+30,2015-05-05 22:25:00,And its stock price has nearly unlimited room to run for early in-the-know investors!,0.2101479172706604,0.016877148300409317,0.7729749083518982,neutral,0.19327077269554138
+31,2015-05-05 22:25:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+32,2015-05-05 22:25:00,"The article Wal-Mart Stores, Inc. Plans to Expand in China -- Will It Move the Needle?",0.31248578429222107,0.01885196380317211,0.6686621904373169,neutral,0.2936338186264038
+33,2015-05-05 22:25:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+34,2015-05-05 22:25:00,"Jeremy Bowman owns shares of Apple, General Motors, and Nike.",0.020818229764699936,0.010693259537220001,0.9684885144233704,neutral,0.010124970227479935
+35,2015-05-05 22:25:00,"The Motley Fool recommends Apple, General Motors, Home Depot, Nike, and Starbucks.",0.021761052310466766,0.03139987215399742,0.9468390941619873,neutral,-0.009638819843530655
+36,2015-05-05 22:25:00,"The Motley Fool owns shares of Apple, Nike, and Starbucks.",0.02740398421883583,0.017690595239400864,0.9549053907394409,neutral,0.009713388979434967
+37,2015-05-05 22:25:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+38,2015-05-05 22:25:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+39,2015-05-05 22:25:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+40,2015-05-05 22:25:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+41,2015-05-05 22:25:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+42,2015-05-05 22:25:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+43,2015-05-05 22:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

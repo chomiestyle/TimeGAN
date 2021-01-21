@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-07 11:21:00,"Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Procter & Gamble Company (Symbol: PG), where a total of 27,633 contracts have traded so far, representing approximately 2.8 million underlying shares.",0.5066537857055664,0.029161915183067322,0.46418434381484985,positive,0.4774918556213379
+1,2019-06-07 11:21:00,That amounts to about 41.3% of PG's average daily trading volume over the past month of 6.7 million shares.,0.020259467884898186,0.010007400065660477,0.9697331786155701,neutral,0.010252067819237709
+2,2019-06-07 11:21:00,"Particularly high volume was seen for the $106 strike put option expiring June 14, 2019, with 3,346 contracts trading so far today, representing approximately 334,600 underlying shares of PG.",0.19146385788917542,0.009005113504827023,0.7995310425758362,neutral,0.18245874345302582
+3,2019-06-07 11:21:00,"Below is a chart showing PG's trailing twelve month trading history, with the $106 strike highlighted in orange:
+
+Edwards Lifesciences Corp (Symbol: EW) saw options trading volume of 4,598 contracts, representing approximately 459,800 underlying shares or approximately 41.3% of EW's average daily trading volume over the past month, of 1.1 million shares.",0.01756109483540058,0.013822313398122787,0.9686166048049927,neutral,0.003738781437277794
+4,2019-06-07 11:21:00,"Particularly high volume was seen for the $160 strike put option expiring June 21, 2019, with 1,362 contracts trading so far today, representing approximately 136,200 underlying shares of EW.",0.23804736137390137,0.010966707020998001,0.7509859800338745,neutral,0.22708065807819366
+5,2019-06-07 11:21:00,"Below is a chart showing EW's trailing twelve month trading history, with the $160 strike highlighted in orange:
+
+And American Express Co. (Symbol: AXP) saw options trading volume of 11,992 contracts, representing approximately 1.2 million underlying shares or approximately 40.4% of AXP's average daily trading volume over the past month, of 3.0 million shares.",0.01999785006046295,0.012453639879822731,0.9675485491752625,neutral,0.007544210180640221
+6,2019-06-07 11:21:00,"Particularly high volume was seen for the $119 strike put option expiring June 14, 2019, with 1,619 contracts trading so far today, representing approximately 161,900 underlying shares of AXP.",0.26600679755210876,0.011207499541342258,0.7227857708930969,neutral,0.2547993063926697
+7,2019-06-07 11:21:00,"Below is a chart showing AXP's trailing twelve month trading history, with the $119 strike highlighted in orange:
+
+For the various different available expirations for PG options, EW options, or AXP options, visit StockOptionsChannel.com.",0.009527350775897503,0.025580789893865585,0.9648919105529785,neutral,-0.016053438186645508
+8,2019-06-07 11:21:00,Today's Most Active Call & Put Options of the S&P 500 »,0.024631761014461517,0.007079772651195526,0.9682884216308594,neutral,0.01755198836326599

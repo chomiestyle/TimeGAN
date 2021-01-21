@@ -1,0 +1,12 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2012-05-31 08:32:00,"Nearing the halfway mark in today's session, here are the individual equity names with the most call and put buying on optionMONSTER's ActionTracker data system.",0.04984217882156372,0.02422216720879078,0.925935685634613,neutral,0.02562001161277294
+1,2012-05-31 08:32:00,"Facebook (FB): More than 6,000 July 27 puts were bought, mostly for $2.50 and $2.60, as investors looked for shares to push lower.",0.28728529810905457,0.2325061559677124,0.48020845651626587,neutral,0.05477914214134216
+2,2012-05-31 08:32:00,FB is down 4.47 percent to $26.93.,0.020635774359107018,0.9404075145721436,0.0389566645026207,negative,-0.9197717308998108
+3,2012-05-31 08:32:00,"Western Union (WU): Some 7,200 August 17 calls were bought for $0.55 as investors look for the money-transfer stock to climb.",0.6185075640678406,0.04727277532219887,0.3342196047306061,positive,0.5712347626686096
+4,2012-05-31 08:32:00,WU fell 1.56 percent to 16.37.,0.02459617145359516,0.9366411566734314,0.03876255825161934,negative,-0.9120450019836426
+5,2012-05-31 08:32:00,"Home Depot (HD): A block of 20,000 June 50 calls were sold for $0.60 and an equal number of June 49 puts were bought for $0.85.",0.041271332651376724,0.022215723991394043,0.9365129470825195,neutral,0.01905560865998268
+6,2012-05-31 08:32:00,The trade cost $0.25 and will profit from the home-improvement stock pushing below $48.75.,0.15015113353729248,0.6478124856948853,0.20203636586666107,negative,-0.4976613521575928
+7,2012-05-31 08:32:00,HD fell 0.78 percent to $49.32.,0.019909918308258057,0.9604319930076599,0.01965806446969509,negative,-0.9405220746994019
+8,2012-05-31 08:32:00,"Pfizer (PFE): A block of 10,000 June 21 puts was bought for $0.11, but volume was below open interest in the strike.",0.06000335142016411,0.6081780195236206,0.3318186402320862,negative,-0.5481746792793274
+9,2012-05-31 08:32:00,PFE fell 0.54 percent to $21.92.,0.019032949581742287,0.9660684466362,0.014898542314767838,negative,-0.9470354914665222
+10,2012-05-31 08:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

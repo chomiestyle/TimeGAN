@@ -1,0 +1,72 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-03-18 23:31:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2019-03-18 23:31:00,"Today's Research Daily features new research reports on 16 major stocks, including Home Depot (HD), Oracle (ORCL) and Union Pacific (UNP).",0.03914404287934303,0.008148664608597755,0.9527073502540588,neutral,0.030995378270745277
+2,2019-03-18 23:31:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2019-03-18 23:31:00,"You can see all of today's research reports here >>>
+
+Home Depot 's shares have gained +11.7% over past three months, underperforming the Zacks Retail Building Products industry's +13.1% increase.",0.9136250019073486,0.06493094563484192,0.021444067358970642,positive,0.8486940860748291
+4,2019-03-18 23:31:00,"Home Depot boasts a five-year long trend of beating earnings estimates, which continued in fourth-quarter fiscal 2018.",0.8829363584518433,0.06510354578495026,0.05196009948849678,positive,0.8178328275680542
+5,2019-03-18 23:31:00,"Despite a sales miss in the fiscal fourth quarter, the company has delivered positive sales surprise in eight out of the last 10 quarters.",0.9399886131286621,0.030040228739380836,0.0299711674451828,positive,0.9099484086036682
+6,2019-03-18 23:31:00,Results gained from strength in both Pro and DIY categories.,0.9386655688285828,0.02156785875558853,0.03976665064692497,positive,0.9170976877212524
+7,2019-03-18 23:31:00,"It also benefited from efforts to provide an interconnected shopping experience to customers, with localized and innovative products, and improved productivity.",0.9466636180877686,0.01687372848391533,0.0364626906812191,positive,0.9297899007797241
+8,2019-03-18 23:31:00,"The Zacks analyst thinks the Pro segment benefits from efforts to enhance service capabilities, including the new B2B website for the Pros.",0.9410557746887207,0.014114725403487682,0.044829532504081726,positive,0.9269410371780396
+9,2019-03-18 23:31:00,"Moreover, the company outlined a solid view for fiscal 2019 and reaffirmed long-term financial targets.",0.8383169770240784,0.013733294792473316,0.14794974029064178,positive,0.8245837092399597
+10,2019-03-18 23:31:00,"However, the company has suffered lower-than-expected sales and comps in the fiscal fourth quarter.",0.019856780767440796,0.9652641415596008,0.01487902831286192,negative,-0.9454073905944824
+11,2019-03-18 23:31:00,"Tough comparisons, hurricane-related sales gains in the prior year, and unfavorable winter weather hurt comps.",0.026059338822960854,0.9638234972953796,0.010117157362401485,negative,-0.9377641677856445
+12,2019-03-18 23:31:00,(You can read the full research report on Home Depot here >>> ).,0.012610534206032753,0.013505421578884125,0.973884105682373,neutral,-0.0008948873728513718
+13,2019-03-18 23:31:00,"Shares of Oracle have outperformed the Zacks Computer Software industry in the past six months, gaining +6% vs. +3.7%.",0.8781461715698242,0.10017602890729904,0.02167784422636032,positive,0.7779701352119446
+14,2019-03-18 23:31:00,Oracle report ed stellar third-quarter results.,0.9014577269554138,0.02650069259107113,0.07204150408506393,positive,0.8749570250511169
+15,2019-03-18 23:31:00,"The Zacks analyst thinks the company is benefiting from strong adoption of its cloud-based solutions, comprising Fusion ERP and Fusion HCM, among others.",0.9468413591384888,0.01388276182115078,0.03927597776055336,positive,0.9329586029052734
+16,2019-03-18 23:31:00,Partnerships with the likes of Accenture are helping the company rapidly expand its cloud-base clientele.,0.9410977959632874,0.014663846231997013,0.04423832520842552,positive,0.9264339208602905
+17,2019-03-18 23:31:00,"Also, anticipated strong demand for the next-generation autonomous database supported by machine learning will boost competitive position against Amazon Web Services (AWS).",0.9566222429275513,0.01938953809440136,0.02398814633488655,positive,0.9372327327728271
+18,2019-03-18 23:31:00,"Nevertheless, stiff competition in the cloud market from dominant players is anticipated to limit margin expansion.",0.5445724129676819,0.27893325686454773,0.17649434506893158,positive,0.26563915610313416
+19,2019-03-18 23:31:00,Lower hardware volumes are anticipated to hurt top-line growth consequently keeping margins under pressure.,0.018157709389925003,0.9689341187477112,0.012908129021525383,negative,-0.9507763981819153
+20,2019-03-18 23:31:00,"Also, integration risks from buyouts remain a concern.",0.03934728726744652,0.11870188266038895,0.8419508337974548,neutral,-0.07935459911823273
+21,2019-03-18 23:31:00,(You can read the full research report on Oracle here >>> ).,0.015157470479607582,0.014095799997448921,0.9707467555999756,neutral,0.0010616704821586609
+22,2019-03-18 23:31:00,Buy-ranked Union Pacific 's shares have outperformed the Zacks Rail industry (+1.4% vs. +0.8%) over the past six months.,0.6647284626960754,0.30866461992263794,0.026606958359479904,positive,0.3560638427734375
+23,2019-03-18 23:31:00,Union Pacific reported better-than-expected earnings per share and revenues in the fourth quarter of 2018.,0.880336344242096,0.0949031338095665,0.0247605349868536,positive,0.7854332327842712
+24,2019-03-18 23:31:00,Both the metrics also increased year over year.,0.9507870674133301,0.01743098720908165,0.031781937927007675,positive,0.9333561062812805
+25,2019-03-18 23:31:00,Higher freight revenues on the back of volume growth aided top-line growth.,0.9552081227302551,0.02020854875445366,0.024583378806710243,positive,0.9349995851516724
+26,2019-03-18 23:31:00,"For 2019, the company anticipates volumes to increase in the low single-digit range.",0.9305833578109741,0.013671698980033398,0.05574488639831543,positive,0.9169116616249084
+27,2019-03-18 23:31:00,The Zacks analyst thinks Union Pacific's efforts to reward its shareholders are encouraging.,0.9123720526695251,0.014719848521053791,0.07290817052125931,positive,0.8976522088050842
+28,2019-03-18 23:31:00,"Notably, the company has hiked dividends four times since November 2017.",0.7379688024520874,0.04083632677793503,0.2211948186159134,positive,0.6971324682235718
+29,2019-03-18 23:31:00,Improvement in operating ratio and low tax rates are added positives.,0.9299452304840088,0.019252676516771317,0.050802040845155716,positive,0.910692572593689
+30,2019-03-18 23:31:00,Its efforts to promote safety are noteworthy as well.,0.5269724726676941,0.01173764280974865,0.46128982305526733,positive,0.5152348279953003
+31,2019-03-18 23:31:00,"However, high debt levels and operating expenses are concerns.",0.024189379066228867,0.5118721127510071,0.46393847465515137,negative,-0.4876827299594879
+32,2019-03-18 23:31:00,Escalated capital expenditures are contributing to rise in costs.,0.2008001208305359,0.624377965927124,0.17482198774814606,negative,-0.42357784509658813
+33,2019-03-18 23:31:00,(You can read the full research report on Union Pacific here >>> ).,0.013071766123175621,0.014572015963494778,0.9723561406135559,neutral,-0.0015002498403191566
+34,2019-03-18 23:31:00,"Other noteworthy reports we are featuring today include Intuitive Baxter (BAX), Dollar General (DG) and Host Hotels (HST).",0.037443216890096664,0.005041477270424366,0.9575153589248657,neutral,0.03240174055099487
+35,2019-03-18 23:31:00,"In addition to the stocks discussed above, would you like to know about our 10 finest buy-and-holds for the year?",0.03372746706008911,0.00658794492483139,0.9596846103668213,neutral,0.02713952213525772
+36,2019-03-18 23:31:00,Who wouldn't?,0.11916464567184448,0.12444141507148743,0.7563939094543457,neutral,-0.005276769399642944
+37,2019-03-18 23:31:00,Our annual Top 10s have beaten the market with amazing regularity.,0.9010156393051147,0.028793025761842728,0.07019136101007462,positive,0.8722226023674011
+38,2019-03-18 23:31:00,"In 2018, while the market dropped -5.2%, the portfolio scored well into double-digits overall with individual stocks rising as high as +61.5%.",0.9253877997398376,0.0235113687813282,0.05110076814889908,positive,0.9018764495849609
+39,2019-03-18 23:31:00,"And from 2012-2017, while the market boomed +126.3, Zacks' Top 10s reached an even more sensational +181.9%.",0.5665760636329651,0.1592094749212265,0.2742144763469696,positive,0.4073665738105774
+40,2019-03-18 23:31:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+41,2019-03-18 23:31:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+42,2019-03-18 23:31:00,"If you want an email notification each time Sheraz publishes a new article, please c lick here>>>
+
+Per the Zacks analyst, Smucker's Ainsworth buyout is aiding top-line growth, as witnessed in third-quarter fiscal 2019.",0.9212474226951599,0.01584102399647236,0.06291159987449646,positive,0.9054064154624939
+43,2019-03-18 23:31:00,"However, rising SD&A expenses and high interest costs continue to pose threats.",0.058425161987543106,0.49755510687828064,0.44401970505714417,negative,-0.43912994861602783
+44,2019-03-18 23:31:00,"While Barrick faces challenges from higher production costs, it should gain from its actions to cut debt and synergies of the Randgold buyout, per the Zacks analyst.",0.9431154131889343,0.02680427022278309,0.030080311000347137,positive,0.9163111448287964
+45,2019-03-18 23:31:00,The addition of profitable Eagle Ford acres from WildHorse Resource acquisition will back Chesapeake's oil production.,0.9477255344390869,0.018458068370819092,0.03381640464067459,positive,0.9292674660682678
+46,2019-03-18 23:31:00,"However, rising drilling costs is a concern, per the Zacks analyst.",0.04389149323105812,0.39184972643852234,0.5642588138580322,neutral,-0.3479582369327545
+47,2019-03-18 23:31:00,The Zacks analyst likes the increase in passenger revenues on the back of strong demand for air travel.,0.9444987177848816,0.019936390221118927,0.03556487336754799,positive,0.9245623350143433
+48,2019-03-18 23:31:00,"Per the Zacks analyst, impressive performance of ITT's Motion Technologies segment, supported by solid automotive friction orders, fueled by strong OEM demand, should continue to drive its sales.",0.956317126750946,0.017114372923970222,0.026568474248051643,positive,0.9392027258872986
+49,2019-03-18 23:31:00,"Per the Zacks analyst, Nektar has collaborations with large pharma companies which provide significant amount in fees and a robust pipeline.",0.8765949606895447,0.011605240404605865,0.11179980635643005,positive,0.864989697933197
+50,2019-03-18 23:31:00,"Per the Zacks analyst, wide presence in the United States and strategic acquisitions are likely to boost Ferrellgas Partners' future growth.",0.9534845948219299,0.015633082017302513,0.030882317572832108,positive,0.9378514885902405
+51,2019-03-18 23:31:00,"Per the Zacks analyst, international opportunities and a diversified suite of trading products has led to high trading volumes driving revenues.",0.9081386923789978,0.014226461760699749,0.077634796500206,positive,0.8939122557640076
+52,2019-03-18 23:31:00,Strong balance sheet aids investment for growth.,0.8672030568122864,0.013596389442682266,0.11920055001974106,positive,0.853606641292572
+53,2019-03-18 23:31:00,"Per the Zacks analyst, Host Hotels is likely to gain from strategic portfolio-repositioning efforts aimed at reducing its international exposure and increasing focus on strategic U.S. markets.",0.9467915296554565,0.016797363758087158,0.0364110954105854,positive,0.9299941658973694
+54,2019-03-18 23:31:00,Baxter benefits from its Advanced Surgery unit.,0.11678417026996613,0.006727068684995174,0.8764887452125549,neutral,0.11005710065364838
+55,2019-03-18 23:31:00,"Baxter's surgical portfolio is expected to rake in huge profits on products like FLOSEAL Hemostatic Matrix, TISSEEL Fibrin Sealant among others.",0.9213552474975586,0.014818171039223671,0.06382657587528229,positive,0.9065370559692383
+56,2019-03-18 23:31:00,"Per the Zacks analyst, higher SG&A costs due to startup expenses and other investments may hurt margins.",0.022197850048542023,0.965526282787323,0.01227587927132845,negative,-0.9433284401893616
+57,2019-03-18 23:31:00,Dollar General expects operating margin to remain strained in the first half of fiscal 2019.,0.021973345428705215,0.9635297060012817,0.014496912248432636,negative,-0.9415563344955444
+58,2019-03-18 23:31:00,"Per the Zacks analyst, competition in the semiconductor space and resultant pricing pressure will continue to weigh on margins and profitability.",0.03851131349802017,0.8714130520820618,0.09007563441991806,negative,-0.8329017162322998
+59,2019-03-18 23:31:00,"Also, slowing demand in China could impact results.",0.01893487013876438,0.9549083113670349,0.026156727224588394,negative,-0.9359734654426575
+60,2019-03-18 23:31:00,"Per the Zacks analyst, revenues at Business Solutions have been under pressure from past many years, weighing on overall revenues.",0.02176402136683464,0.9573965668678284,0.020839476957917213,negative,-0.9356325268745422
+61,2019-03-18 23:31:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+62,2019-03-18 23:31:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+63,2019-03-18 23:31:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+64,2019-03-18 23:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

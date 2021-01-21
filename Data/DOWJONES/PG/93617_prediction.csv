@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-01-27 23:52:00,Shares of Procter & Gamble fell 4% yesterday on a disappointing earnings report.,0.018757063895463943,0.9708442687988281,0.010398725979030132,negative,-0.9520872235298157
+1,2015-01-27 23:52:00,The venerable consumer products giant said earnings sunk 31% as a stronger dollar weighed on sales abroad.,0.7908686995506287,0.19165664911270142,0.017474697902798653,positive,0.5992120504379272
+2,2015-01-27 23:52:00,"Currency fluctuations also caused the maker of everything from Tide detergent to Pampers diapers to lower its 2015 guidance, saying it expects a 5% decline in revenue and a 12% drop in earnings.",0.01693630777299404,0.9727154970169067,0.010348252952098846,negative,-0.9557791948318481
+3,2015-01-27 23:52:00,"P&G is one of the most respected companies on the market, and the stock is widely regarded as a must-have for income investors.",0.4542112946510315,0.019441643729805946,0.5263470411300659,neutral,0.4347696602344513
+4,2015-01-27 23:52:00,"A dividend aristocrat, the company has raised its dividend 58 years in a row, now offering a 2.9% yield.",0.9031611680984497,0.014884532429277897,0.08195435255765915,positive,0.8882766366004944
+5,2015-01-27 23:52:00,"The projected decline in earnings should cause some concern among investors, but further down the report, there is a much more frightening number -- for the second quarter in a row, volume sales were flat.",0.021828655153512955,0.9560164213180542,0.022155001759529114,negative,-0.9341877698898315
+6,2015-01-27 23:52:00,"Why volume growth is so important
+
+Consumer goods companies like Procter & Gamble have two ways of increasing sales.",0.5467427372932434,0.015743441879749298,0.4375138580799103,positive,0.5309993028640747
+7,2015-01-27 23:52:00,"They can either sell more units, lifting volume sales, or raise prices.",0.7518520951271057,0.01753682643175125,0.23061101138591766,positive,0.7343152761459351
+8,2015-01-27 23:52:00,Selling more units is by far the more desirable of the two as prices can only be raised so much.,0.37320587038993835,0.023858802393078804,0.6029353141784668,neutral,0.3493470549583435
+9,2015-01-27 23:52:00,"In the past quarter, P&G saw volume gains in just one of its five major segments, Fabric Care and Home Care.",0.9470728635787964,0.018287895247340202,0.03463926166296005,positive,0.928784966468811
+10,2015-01-27 23:52:00,"Not only is this a sign that Procter & Gamble is facing sales growth challenges in ways unrelated to currency translation, but it also means the company is losing market share to competitors.",0.0215778648853302,0.9635422229766846,0.01487996056675911,negative,-0.9419643878936768
+11,2015-01-27 23:52:00,"Though slowing growth in much of the world has grabbed headlines, the global economy is still expanding, and the U.S. is looking stronger than at any time since the recession.",0.9190616011619568,0.030596449971199036,0.050341956317424774,positive,0.888465166091919
+12,2015-01-27 23:52:00,"Consumer confidence is at levels not seen since 2007, and the unemployment rate has fallen below the Fed target of 6%.",0.019949492067098618,0.9604891538619995,0.019561223685741425,negative,-0.9405396580696106
+13,2015-01-27 23:52:00,"For the fourth quarter, sales were up 6.1% from the year before at health and personal care stores, a category that should be P&G's strongest in retail, and sales at food and beverage stores were up 3.2%.",0.9567449688911438,0.022807905450463295,0.020447013899683952,positive,0.9339370727539062
+14,2015-01-27 23:52:00,"Global GDP, meanwhile, was projected to grow 3.3% last year.",0.9400120973587036,0.019461967051029205,0.040525924414396286,positive,0.9205501079559326
+15,2015-01-27 23:52:00,"On both counts, it appears the domestic and global economy is outgrowing Procter & Gamble, which derives two-thirds of its sales from outside the U.S.
+
+Where is that share going?",0.3022998869419098,0.02825559489428997,0.6694445610046387,neutral,0.27404430508613586
+16,2015-01-27 23:52:00,"For the quarter, P&G said it held market share in Latin America, Europe, India, and the Middle East, but lost ground in China and Japan, where the market has become more promotional.",0.020330073311924934,0.9546694755554199,0.025000421330332756,negative,-0.9343394041061401
+17,2015-01-27 23:52:00,But market share concerns aren't new for the Crest-maker.,0.050717588514089584,0.6031424403190613,0.34613996744155884,negative,-0.5524248480796814
+18,2015-01-27 23:52:00,"The company lost share in more than half of its businesses in the first quarter of 2012, as it raised prices to absorb higher commodity costs.",0.015909550711512566,0.9694746136665344,0.01461584959179163,negative,-0.9535650610923767
+19,2015-01-27 23:52:00,Innovation has also slowed at a company once known for pioneering new product categories such as disposable diapers and teeth-cleaning Crest white strips.,0.021645577624440193,0.8869085311889648,0.09144594520330429,negative,-0.8652629256248474
+20,2015-01-27 23:52:00,"R&D spending has fallen from a peak in the late 1990s when the company dedicated nearly 5% of sales to research and development, much more than rivals.",0.015303773805499077,0.9704728126525879,0.014223417267203331,negative,-0.9551690220832825
+21,2015-01-27 23:52:00,"Today, however, P&G just sits in the middle of the pack.",0.038387056440114975,0.04100418463349342,0.9206087589263916,neutral,-0.0026171281933784485
+22,2015-01-27 23:52:00,"As a result, the company has lost share to competitors big and small alike.",0.017062388360500336,0.9677446484565735,0.015193017199635506,negative,-0.9506822824478149
+23,2015-01-27 23:52:00,"Unilever nearly doubled its share of the U.S. hair care market at P&G's expense, while start-ups like Hello oral care and 1-800-razors are grabbing share in their respective categories.",0.8851799368858337,0.0165617223829031,0.0982583537697792,positive,0.8686181902885437
+24,2015-01-27 23:52:00,"Get smaller to get bigger
+
+P&G's recent strategy has been to divest from non-core brands and narrow its portfolio down to 70 to 80 brands on which it can better focus.",0.21884819865226746,0.05831683427095413,0.7228349447250366,neutral,0.16053137183189392
+25,2015-01-27 23:52:00,"Recently, it sold Duracell to Berkshire Hathaway and the Camay and Zest soap brands to Unilever.",0.015932565554976463,0.012556846253573895,0.9715105891227722,neutral,0.003375719301402569
+26,2015-01-27 23:52:00,"With market share flagging, a better focus on core brands may be needed, but it's no guarantee of renewed growth.",0.8955578804016113,0.017927125096321106,0.08651497215032578,positive,0.8776307702064514
+27,2015-01-27 23:52:00,"Earnings growth has become largely dependent on share buybacks and cost-cutting, which aren't viable long-term growth strategies.",0.02401057817041874,0.666221559047699,0.30976784229278564,negative,-0.6422109603881836
+28,2015-01-27 23:52:00,P&G needs to find a way to innovate and grow organically once again.,0.8641394972801208,0.012003384530544281,0.12385724484920502,positive,0.8521361351013184
+29,2015-01-27 23:52:00,"Household products stocks like P&G, which tend to pay good dividends, have jumped as bond rates remain near record lows, but at a P/E of 24 times, the stock is pricey for a company with no unit growth and looks particularly vulnerable.",0.05239005386829376,0.8933364748954773,0.05427347868680954,negative,-0.8409464359283447
+30,2015-01-27 23:52:00,"If interest rates rise, investors may move out of slow-growth dividend stocks like the Gillette parent, leaving P&G with bigger problems than currency valuations.",0.022397512570023537,0.95697420835495,0.020628316327929497,negative,-0.934576690196991
+31,2015-01-27 23:52:00,"1 great stock to buy for 2015 and beyond
+
+2015 is shaping up to be another great year for stocks.",0.7091931104660034,0.01957509107887745,0.2712317407131195,positive,0.6896179914474487
+32,2015-01-27 23:52:00,"But if you want to make sure that 2015 is your best investing year ever, you need to know where to start.",0.19285500049591064,0.009844190441071987,0.7973007559776306,neutral,0.18301081657409668
+33,2015-01-27 23:52:00,That's why The Motley Fool's chief investment officer just published a brand-new research report that reveals his top stock for the year ahead.,0.13670983910560608,0.02149822935461998,0.8417919278144836,neutral,0.1152116060256958
+34,2015-01-27 23:52:00,To get the full story on this year's stock -- completely free -- simply click here .,0.020147698000073433,0.011273055337369442,0.9685792326927185,neutral,0.008874642662703991
+35,2015-01-27 23:52:00,The article One Number That Should Scare Procter & Gamble Investors originally appeared on Fool.com.,0.03811538591980934,0.07351204752922058,0.888372540473938,neutral,-0.03539666160941124
+36,2015-01-27 23:52:00,Jeremy Bowman has no position in any stocks mentioned.,0.011148006655275822,0.04919901862740517,0.9396529793739319,neutral,-0.03805101290345192
+37,2015-01-27 23:52:00,"The Motley Fool recommends Berkshire Hathaway, Procter & Gamble, and Unilever.",0.021378282457590103,0.023546205833554268,0.9550755620002747,neutral,-0.0021679233759641647
+38,2015-01-27 23:52:00,The Motley Fool owns shares of Berkshire Hathaway.,0.029125645756721497,0.020429976284503937,0.9504444003105164,neutral,0.00869566947221756
+39,2015-01-27 23:52:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+40,2015-01-27 23:52:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+41,2015-01-27 23:52:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+42,2015-01-27 23:52:00,"Copyright © 1995 - 2015 The Motley Fool, LLC.",0.02793366275727749,0.023041872307658195,0.949024498462677,neutral,0.004891790449619293
+43,2015-01-27 23:52:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+44,2015-01-27 23:52:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+45,2015-01-27 23:52:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-07-01 03:49:00,"We had learnt in school that ""A stitch in time saves nine.""",0.29461169242858887,0.045987825840711594,0.659400463104248,neutral,0.24862386286258698
+1,2016-07-01 03:49:00,It simply means that a timely action can prevent some serious loss later on.,0.42102307081222534,0.012342740781605244,0.5666341781616211,neutral,0.4086803197860718
+2,2016-07-01 03:49:00,How about applying the same principle to your portfolio?,0.060786351561546326,0.007088338024914265,0.9321253299713135,neutral,0.053698014467954636
+3,2016-07-01 03:49:00,It would be prudent to exit underperforming stocks to avoid hurting your portfolio's returns.,0.2886444330215454,0.02075956016778946,0.6905959844589233,neutral,0.26788488030433655
+4,2016-07-01 03:49:00,"Below, we will take a look at three retail stocks that no longer deserve a place in your portfolio.",0.023395545780658722,0.12240014970302582,0.8542043566703796,neutral,-0.0990046039223671
+5,2016-07-01 03:49:00,Why is it so?,0.0750500038266182,0.09487941861152649,0.8300704956054688,neutral,-0.019829414784908295
+6,2016-07-01 03:49:00,Let's analyze the stocks one by one.,0.02778591960668564,0.00754585163667798,0.9646682143211365,neutral,0.020240068435668945
+7,2016-07-01 03:49:00,"L Brands, Inc.LB : Let's find out why L Brands is out of favor now.",0.02377617359161377,0.36432701349258423,0.611896812915802,neutral,-0.34055083990097046
+8,2016-07-01 03:49:00,"This specialty retailer of women's intimate and other apparel, beauty and personal care products, carries a Zacks Rank #4 (Sell).",0.2742605209350586,0.015783384442329407,0.7099560499191284,neutral,0.2584771513938904
+9,2016-07-01 03:49:00,"Moreover, shares of the company have nosedived roughly 30% year to date.",0.1024855226278305,0.8601779937744141,0.037336453795433044,negative,-0.7576924562454224
+10,2016-07-01 03:49:00,"Though L Brands registered the third straight quarter of positive earnings surprise with its first-quarter fiscal 2016 results, it failed to check the decline in the bottom line.",0.15328136086463928,0.8240803480148315,0.022638291120529175,negative,-0.6707990169525146
+11,2016-07-01 03:49:00,"The year-over-year fall in adjusted earnings was primarily due to foreign currency headwinds, incremental interest expense and pre-opening costs for the flagship Victoria's Secret store.",0.01831839792430401,0.9689533710479736,0.012728181667625904,negative,-0.9506349563598633
+12,2016-07-01 03:49:00,"Consequently, L Brands lowered its fiscal 2016 earnings projection and provided a subdued outlook for the second quarter against the backdrop of its performance and short-term challenges.",0.015810241922736168,0.9654299020767212,0.018759895116090775,negative,-0.9496196508407593
+13,2016-07-01 03:49:00,"(Read: L Brands Tops Q1 Earnings, Stock Down on Tepid View ).",0.021069079637527466,0.9282010793685913,0.05072983354330063,negative,-0.9071320295333862
+14,2016-07-01 03:49:00,"The Zacks Consensus Estimate of $3.70 and $3.97 for fiscal 2016 and fiscal 2017 has dropped 39 cents and 52 cents, respectively, over the past 60 days.",0.017782390117645264,0.9678270220756531,0.014390644617378712,negative,-0.9500446319580078
+15,2016-07-01 03:49:00,"Moreover, the Zacks Consensus Estimate for the second quarter has decreased 14 cents to 56 cents over the same time frame.",0.01852956786751747,0.9705962538719177,0.010874179191887379,negative,-0.9520666599273682
+16,2016-07-01 03:49:00,"L BRANDS INC Price and Consensus | L BRANDS INC Quote
+
+Abercrombie & Fitch Co.ANF : Abercrombie is another stock that is no longer in investors' good books.",0.03157903626561165,0.5437573790550232,0.42466357350349426,negative,-0.512178361415863
+17,2016-07-01 03:49:00,Shares of this specialty retailer of casual apparel have lost roughly 34% year to date and there seems to be no catalyst to help it regain the lost momentum.,0.01920933835208416,0.9681641459465027,0.012626595795154572,negative,-0.9489548206329346
+18,2016-07-01 03:49:00,This is clearly evident from the stock's Zacks Rank #5 (Strong Sell).,0.8721168637275696,0.027939915657043457,0.09994319081306458,positive,0.8441769480705261
+19,2016-07-01 03:49:00,"After three straight quarters of positive earnings surprises, Abercrombie slipped to a loss in first-quarter fiscal 2016.",0.020167844370007515,0.9658107161521912,0.014021418057382107,negative,-0.94564288854599
+20,2016-07-01 03:49:00,"Also, the loss was wider than the Zacks Consensus Estimate.",0.11227695643901825,0.849235475063324,0.03848756477236748,negative,-0.7369585037231445
+21,2016-07-01 03:49:00,"Moreover, the company's sales missed expectations and fell year over year owing to soft traffic trends in international markets as well as its U.S. flagship and tourist stores.",0.017490597441792488,0.971869945526123,0.010639404878020287,negative,-0.9543793201446533
+22,2016-07-01 03:49:00,"Management expects the fiscal second quarter to remain challenging, which will result in lower comparable store sales and gross margin.",0.01910286769270897,0.9548730254173279,0.026024077087640762,negative,-0.9357701539993286
+23,2016-07-01 03:49:00,"(Read: Abercrombie Stock Down as Q1 Loss Misses Estimates )
+
+The Zacks Consensus Estimate of 87 cents and $1.11 for fiscal 2016 and fiscal 2017 has declined 31 cents and 32 cents, respectively, over the past 60 days.",0.018716726452112198,0.9691889882087708,0.012094256468117237,negative,-0.9504722356796265
+24,2016-07-01 03:49:00,"Moreover, the Zacks Consensus Estimate for the second quarter has decreased to a loss of 21 cents from earnings of 7 cents over the same time frame.",0.01742800697684288,0.970931887626648,0.011640042997896671,negative,-0.9535039067268372
+25,2016-07-01 03:49:00,Nordstrom Inc.JWN : Last but not least is Nordstrom that remains deeply entrenched in the bearish territory with its shares having plunged roughly 24% year to date.,0.040964480489492416,0.8889586925506592,0.07007686793804169,negative,-0.8479942083358765
+26,2016-07-01 03:49:00,"Nordstrom, which carries a Zacks Rank #5, commenced fiscal 2016 on a downbeat note, continuing with its disappointing performance in the first quarter, wherein both the top and bottom lines lagged estimates for the third time in a row.",0.030419792979955673,0.9587014317512512,0.010878735221922398,negative,-0.9282816648483276
+27,2016-07-01 03:49:00,"Earnings plunged sharply year over year, bearing the brunt of lower-than-anticipated sales and soft margins that stemmed from higher markdowns to efficiently align inventory with the existing trends.",0.020561330020427704,0.9701584577560425,0.009280289523303509,negative,-0.9495971202850342
+28,2016-07-01 03:49:00,These factors also led management to lower its earnings and sales projections for fiscal 2016.,0.01621178910136223,0.9549357295036316,0.02885252796113491,negative,-0.9387239217758179
+29,2016-07-01 03:49:00,"Moreover, a competitive retail landscape and consumers' cautionary approach while purchasing discretionary items, have been weighing on the stock's performance.",0.1136992797255516,0.6342642903327942,0.2520364224910736,negative,-0.5205650329589844
+30,2016-07-01 03:49:00,"(Read more: Nordstrom Cuts View on Q1 Earnings Miss; Stock Down )
+
+The Zacks Consensus Estimate of $2.55 and $2.87 for fiscal 2016 and fiscal 2017 has dropped 63 cents and 64 cents, respectively, over the past 60 days.",0.017828360199928284,0.9723333716392517,0.009838230907917023,negative,-0.9545050263404846
+31,2016-07-01 03:49:00,"Moreover, the Zacks Consensus Estimate for the second quarter has decreased 16 cents to 56 cents over the same time frame.",0.018810909241437912,0.9702712297439575,0.010917903855443,negative,-0.9514603018760681
+32,2016-07-01 03:49:00,"NORDSTROM INC Price and Consensus | NORDSTROM INC Quote
+
+With share price tumbling and estimates witnessing downward revisions, it may not be prudent to keep these stocks in your portfolio, at least for the time being.",0.0410221666097641,0.17700108885765076,0.7819766998291016,neutral,-0.13597892224788666
+33,2016-07-01 03:49:00,"Rather, you can shift your focus to better-ranked retail stocks that are backed by sound Zacks Consensus Estimate revision, a VGM Score of ""A"" and sturdy fundamentals.",0.8612952828407288,0.015581093728542328,0.12312360107898712,positive,0.8457142114639282
+34,2016-07-01 03:49:00,"These include:
+
+Dave & Buster's Entertainment, Inc.PLAY , which owns and operates entertainment and dining venues, and flaunts a Zacks Rank #1 (Strong Buy) with a VGM Score of ""A"".",0.3140241503715515,0.017687473446130753,0.6682883501052856,neutral,0.29633668065071106
+35,2016-07-01 03:49:00,"Home improvement retailer, The Home Depot, Inc.HD , which holds a Zacks Rank #2 (Buy) and a VGM Score of ""A"".",0.42904210090637207,0.034744396805763245,0.5362135171890259,neutral,0.39429771900177
+36,2016-07-01 03:49:00,"Operator of casual dining restaurants, BJ's Restaurants, Inc.BJRI , which carries a Zacks Rank #2 and a VGM Score of ""A"".",0.09832607209682465,0.014725854620337486,0.8869481086730957,neutral,0.08360021561384201
+37,2016-07-01 03:49:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+38,2016-07-01 03:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Want the latest recommendations from Zacks Investment Research?",0.020782245323061943,0.01460274774581194,0.9646149277687073,neutral,0.006179497577250004
+39,2016-07-01 03:49:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+40,2016-07-01 03:49:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.02068457007408142,0.033159855753183365,0.9461556077003479,neutral,-0.012475285679101944
+41,2016-07-01 03:49:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

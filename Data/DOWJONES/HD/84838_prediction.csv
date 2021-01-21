@@ -1,0 +1,57 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-04 09:38:00,"The Dow Jones Industrial Average and S&P 500 raced to new record highs on Monday after the Senate passed its version of pro-growth tax reform early Saturday morning, clearing the way for US corporations to pay lower federal taxes.",0.8386296033859253,0.06378208100795746,0.09758828580379486,positive,0.7748475074768066
+1,2017-12-04 09:38:00,"As a result, investors swapped tech stocks for shares of companies that stand the most to benefit from tax reform including Dow components Home Depot ( HD ), Disney ( DIS ) and General Electric ( GE ).",0.3684520125389099,0.23416393995285034,0.39738404750823975,neutral,0.13428807258605957
+2,2017-12-04 09:38:00,"The Nasdaq is underwater for a second straight day as the rotation from chipmakers and FAANG (Facebook, Apple, Amazon, Netflix, Alphabet) stocks causes the Nasdaq to underperform the Dow for a sixth consecutive day.",0.06389591842889786,0.9184852838516235,0.01761874370276928,negative,-0.8545893430709839
+3,2017-12-04 09:38:00,Economic data contributed to the buoyant tone on Wall Street as factory orders were not as soft as expected.,0.5809809565544128,0.2077374905347824,0.21128155291080475,positive,0.37324345111846924
+4,2017-12-04 09:38:00,"Orders were down 0.1% in October, but up 0.8% excluding a 4.2% drop in transportation-related orders.",0.022952767089009285,0.9674190878868103,0.00962811429053545,negative,-0.9444662928581238
+5,2017-12-04 09:38:00,"Additionally, September was revised upward from a healthy 1.4% increase to +1.7%, and durable goods orders for October were revised to -0.5% from -0.8%.",0.8943740725517273,0.04659077897667885,0.05903514474630356,positive,0.8477832674980164
+6,2017-12-04 09:38:00,"European markets were higher in concert with Wall Street, including the UK's FTSE-100, which despite volatility in sterling, closed with a constructive gain of 0.53%.",0.9398204684257507,0.03372003510594368,0.026459474116563797,positive,0.9061004519462585
+7,2017-12-04 09:38:00,Sterling was thrown around in a wide range Monday as Brexit negotiations seemed to end without a deal.,0.23285086452960968,0.671619713306427,0.09552948921918869,negative,-0.4387688636779785
+8,2017-12-04 09:38:00,"The currency snapped back, taking the FTSE off its high after British Prime Minister Theresa May gave assurances that talks will continue this week and will likely result in an agreement with the European Union.",0.8362918496131897,0.0951966717839241,0.06851145625114441,positive,0.7410951852798462
+9,2017-12-04 09:38:00,Crude oil was down $0.65 to $57.71 per barrel.,0.023685449734330177,0.9592477083206177,0.017066780477762222,negative,-0.935562252998352
+10,2017-12-04 09:38:00,Natural gas was down $0.08 to $2.98 per 1 million BTU.,0.021552085876464844,0.9652695059776306,0.013178427703678608,negative,-0.9437174201011658
+11,2017-12-04 09:38:00,"Gold was down $5.70 to $1,276.60 an ounce, while silver was down $0.06 to $16.32 an ounce.",0.022959379479289055,0.9616546630859375,0.015385893173515797,negative,-0.9386953115463257
+12,2017-12-04 09:38:00,Copper was up $0.003 to $3.10 per pound.,0.9163199663162231,0.03204838186502457,0.05163167789578438,positive,0.8842715620994568
+13,2017-12-04 09:38:00,"Among energy ETFs, the United States Oil Fund was down 0.94% to $11.56 with the United States Natural Gas Fund was down 2.54% to $5.94.",0.019315337762236595,0.9674662947654724,0.01321838703006506,negative,-0.9481509327888489
+14,2017-12-04 09:38:00,"Among precious-metal funds, the Market Vectors Gold Miners ETF was down 0.70% to 22.31 while SPDR Gold Shares were down 0.53% to $120.94.",0.018100854009389877,0.9698206186294556,0.01207849569618702,negative,-0.9517197608947754
+15,2017-12-04 09:38:00,The iShares Silver Trust was down 0.90% to $15.39.,0.019168684259057045,0.9631069898605347,0.01772436872124672,negative,-0.9439383149147034
+16,2017-12-04 09:38:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was up 97.24 points (+0.77%) to 12,711.81
+
+Dow Jones Industrial Index was up 223.07 points (+0.92%) to 24,454.66
+
+S&P 500 was up 14.15 points (+0.54%) to 2,656.49
+
+Nasdaq Composite Index was down 18.04 points (-0.26%) to 6,830.17
+
+FTSE 100 was up 38.48 points (+0.53%) to 7,338.97
+
+DAX was up 197.06 points (+1.53%) to 13,058.55
+
+CAC 40 was up 72.40 points (+1.36%) to 5,389.29
+
+Nikkei 225 was down 111.87 points (-0.49%) to 22,707.16
+
+Hang Seng Index was up 64.04 points (+0.22%) to 29,138.28
+
+Shanghai China Composite Index was up 7.25 points (+0.22%) to 3,310.37
+
+NYSE Energy Sector Index was up 109.40 points (+0.99%) to 11,198.24
+
+NYSE Financial Sector Index was up 82.80 points (+1.02%) to 8,193.04
+
+NYSE Healthcare Sector Index was down 35.40 points (-0.25%) to 14,267.60
+
+(+) BGC (+34.98%) To be acquired by Prysmian for $30 per share
+
+(+) APRN (+20.12%) Upgraded by Barclays to equal weight from underweight
+
+(+) CRNT (+11.11%) Received $66 million in orders for its IP-20 platform
+
+(-) RARX (-38.29%) Study shows certain patients unable to switch from Soliris
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.011212511919438839,0.05131641402840614,0.9374710321426392,neutral,-0.04010390117764473
+17,2017-12-04 09:38:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+18,2017-12-04 09:38:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+19,2017-12-04 09:38:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

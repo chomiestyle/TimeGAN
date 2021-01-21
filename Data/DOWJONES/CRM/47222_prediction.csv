@@ -1,0 +1,55 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-21 08:08:00,"Salesforce.com,Inc.",0.019262053072452545,0.011973260901868343,0.9687646627426147,neutral,0.007288792170584202
+1,2018-03-21 08:08:00,(NYSE: CRM ) stock was hammered overnight as investors complained it was overpaying for its latest acquisition.,0.026117678731679916,0.9631012678146362,0.010781063698232174,negative,-0.936983585357666
+2,2018-03-21 08:08:00,The target is Mulesoft Inc (NASDAQ: MULE ).,0.0290660560131073,0.005039279814809561,0.9658946990966797,neutral,0.02402677573263645
+3,2018-03-21 08:08:00,"MULE was under $24 per share on February 9, but is now trading above $44.",0.08303558826446533,0.12406256049871445,0.7929018139839172,neutral,-0.041026972234249115
+4,2018-03-21 08:08:00,"The integration-software company has accepted an offer from Salesforce of $6.5 billion, including debt.",0.7735260128974915,0.012486368417739868,0.21398763358592987,positive,0.7610396146774292
+5,2018-03-21 08:08:00,One complaint about the deal said that Salesforce is getting a mule for the price of a pedigreed horse .,0.05497751384973526,0.5963246822357178,0.3486977815628052,negative,-0.5413471460342407
+6,2018-03-21 08:08:00,Salesforce stock was down more than 2% after dipping as low as 5% in overnight trading.,0.017696276307106018,0.9707071781158447,0.011596523225307465,negative,-0.9530109167098999
+7,2018-03-21 08:08:00,"The Mulesoft deal is a great example of why you don't let Wall Street into software deals, why you leave them to the technologists.",0.07929516583681107,0.024244211614131927,0.8964606523513794,neutral,0.05505095422267914
+8,2018-03-21 08:08:00,"Salesforce paid full price for this acquisition, but it's not nearly as bad a deal as the market believes it to be.",0.16889218986034393,0.3687623143196106,0.4623454809188843,neutral,-0.19987012445926666
+9,2018-03-21 08:08:00,"Mulesoft went public only a year ago and had nearly tripled its revenue between 2015 and 2017, from $110 million to $296.5 million.",0.8970045447349548,0.015306408517062664,0.0876891016960144,positive,0.8816981315612793
+10,2018-03-21 08:08:00,"It wasn't yet making money, but it had achieved positive operating cash flow by late 2017.",0.9400695562362671,0.018241137266159058,0.04168936237692833,positive,0.9218283891677856
+11,2018-03-21 08:08:00,There was $200 million in cash and short-term investments on the balance sheet.,0.017665090039372444,0.012977479957044125,0.969357430934906,neutral,0.0046876100823283195
+12,2018-03-21 08:08:00,"Debt was minuscule, but starting to pile up.",0.12610910832881927,0.4742845892906189,0.39960628747940063,negative,-0.3481754660606384
+13,2018-03-21 08:08:00,"On the surface, that means CRM is paying about 22 times sales for the company, which is high.",0.06409647315740585,0.02082730084657669,0.9150761961936951,neutral,0.04326917231082916
+14,2018-03-21 08:08:00,"But what Salesforce is getting, in terms of software, matters more than the price relative to sales.",0.020507747307419777,0.012569055892527103,0.966923177242279,neutral,0.007938691414892673
+15,2018-03-21 08:08:00,"With this purchase, Salesforce is getting a hybrid cloud play .",0.5974493026733398,0.011747905984520912,0.390802800655365,positive,0.5857014060020447
+16,2018-03-21 08:08:00,"Mulesoft gets Salesforce into companies that are deploying cloud-like software on their premises, to protect their crown jewels.",0.10983341187238693,0.03129797428846359,0.8588685989379883,neutral,0.07853543758392334
+17,2018-03-21 08:08:00,"This is where ""legacy"" players were making their own cloud plays - companies like IBM (NYSE: IBM ) and Oracle Corporation (NASDAQ: ORCL ).",0.07683932781219482,0.013780839741230011,0.9093798398971558,neutral,0.06305848807096481
+18,2018-03-21 08:08:00,They were starting to gain traction.,0.6793938875198364,0.03645428642630577,0.2841518223285675,positive,0.6429396271705627
+19,2018-03-21 08:08:00,"Technologists call Mulesoft an ""API farmer,"" in that it lets engineers connect application program interfaces to one another, dragging legacy applications and their data into the cloud.",0.10177736729383469,0.030649002641439438,0.8675736784934998,neutral,0.07112836837768555
+20,2018-03-21 08:08:00,(Hence the name.),0.07407761365175247,0.01898745819926262,0.9069348573684692,neutral,0.05509015545248985
+21,2018-03-21 08:08:00,"The result, for Salesforce, will be a ""Salesforce Integration Cloud"" after the deal closes in July.",0.09554609656333923,0.006985565181821585,0.8974683284759521,neutral,0.08856052905321121
+22,2018-03-21 08:08:00,"Salesforce and Mulesoft were already partnering in this area, but Salesforce decided it could scale the effort faster by buying the company.",0.7279384732246399,0.015385647304356098,0.2566758692264557,positive,0.7125528454780579
+23,2018-03-21 08:08:00,The high price it paid guarantees the Mulesoft team stays together.,0.8826433420181274,0.02123439498245716,0.09612224996089935,positive,0.8614089488983154
+24,2018-03-21 08:08:00,That's the key.,0.1341848522424698,0.01005889568477869,0.8557562232017517,neutral,0.12412595748901367
+25,2018-03-21 08:08:00,Mulesoft is far from a finished product.,0.021364498883485794,0.12984351813793182,0.8487920165061951,neutral,-0.10847902297973633
+26,2018-03-21 08:08:00,So it needs to keep its team together.,0.5795592069625854,0.021044285967946053,0.39939653873443604,positive,0.5585148930549622
+27,2018-03-21 08:08:00,But it can grow faster if it has a jet engine of cash behind it rather than worrying about the next quarterly report.,0.7313635349273682,0.023227930068969727,0.2454085350036621,positive,0.7081356048583984
+28,2018-03-21 08:08:00,"The Risks for Salesforce and Salesforce Stock
+
+Early in the decade, it was widely expected that the ""hybrid cloud,"" connecting internal resources to cloud data centers, would develop quickly after big companies began buying cloud.",0.41305840015411377,0.00996445119380951,0.5769771337509155,neutral,0.40309393405914307
+29,2018-03-21 08:08:00,It didn't work out that way.,0.06720265001058578,0.08532223105430603,0.8474751114845276,neutral,-0.018119581043720245
+30,2018-03-21 08:08:00,Hybrid cloud is lagging the rest of the cloud market.,0.11605232954025269,0.5947284698486328,0.2892192304134369,negative,-0.4786761403083801
+31,2018-03-21 08:08:00,It's only now that enterprises are trying to connect their old legacy data and they're starting to understand what cloud can and can't do for them.,0.16595648229122162,0.014905900694429874,0.8191376328468323,neutral,0.15105058252811432
+32,2018-03-21 08:08:00,"(Note: they're connecting the legacy data, not just building an on-premises cloud machine.)",0.08572883903980255,0.006251766346395016,0.9080193638801575,neutral,0.07947707176208496
+33,2018-03-21 08:08:00,"That's where Mulesoft enters the picture, and that is also the opportunity for Salesforce.",0.175322026014328,0.007617651019245386,0.8170603513717651,neutral,0.16770437359809875
+34,2018-03-21 08:08:00,"While Salesforce first ran on Amazon.com, Inc. (NASDAQ: AMZN ), they have since made deals with Alphabet Inc (NASDAQ: GOOGL ) and Microsoft Corporation (NASDAQ: MSFT ).",0.06354209035634995,0.006574420724064112,0.9298834800720215,neutral,0.05696766823530197
+35,2018-03-21 08:08:00,"With Mulesoft, Salesforce can help old-line companies navigate these public cloud resources and connect their own internal efforts.",0.5092957019805908,0.010803980752825737,0.4799003303050995,positive,0.49849173426628113
+36,2018-03-21 08:08:00,"In fast-growing markets, companies reach for growth, not profit.",0.10252127796411514,0.012338395230472088,0.8851403594017029,neutral,0.09018288552761078
+37,2018-03-21 08:08:00,That's what Salesforce.com is doing here.,0.01799679361283779,0.013145857490599155,0.9688573479652405,neutral,0.004850936122238636
+38,2018-03-21 08:08:00,Keeping Salesforce stock going means maintaining a 20% growth rate even at a $10 billion run rate.,0.8409674167633057,0.01620573364198208,0.14282692968845367,positive,0.824761688709259
+39,2018-03-21 08:08:00,"Mulesoft will let Salesforce do that for years to come, if it keeps Mulesoft's key people happy.",0.5823349952697754,0.011792241595685482,0.4058727025985718,positive,0.5705427527427673
+40,2018-03-21 08:08:00,Overpaying keeps them happy.,0.1865762323141098,0.020294632762670517,0.7931291460990906,neutral,0.166281595826149
+41,2018-03-21 08:08:00,Dana Blankenhorn is a financial and technology journalist.,0.05020137131214142,0.025692585855722427,0.9241060614585876,neutral,0.02450878545641899
+42,2018-03-21 08:08:00,"He is the author of the historical mystery romance The Reluctant Detective Travels in Time , available now at the Amazon Kindle store.",0.06731477379798889,0.018257636576890945,0.914427638053894,neutral,0.049057137221097946
+43,2018-03-21 08:08:00,Write him at danablankenhorn@gmail.comor follow him on Twitter at @danablankenhorn .,0.04530028998851776,0.049376752227544785,0.9053230285644531,neutral,-0.004076462239027023
+44,2018-03-21 08:08:00,As of this writing he owned shares in AMZN and MSFT.,0.013603917323052883,0.009521841071546078,0.9768742918968201,neutral,0.004082076251506805
+45,2018-03-21 08:08:00,"• 10 Dividend Aristocrats You Never Have to Worry About
+• The 10 Best Stocks to Invest In Right Now
+• 3 Cloud King Stocks to Buy Now and Hold Forever
+
+The post No, Salesforce.com, Inc.",0.06184181571006775,0.01133779063820839,0.9268203973770142,neutral,0.05050402507185936
+46,2018-03-21 08:08:00,Isn't Overpaying for Mulesoft Inc appeared first on InvestorPlace .,0.17508819699287415,0.01897176168859005,0.8059400916099548,neutral,0.15611644089221954
+47,2018-03-21 08:08:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

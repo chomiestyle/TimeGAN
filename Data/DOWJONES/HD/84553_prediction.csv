@@ -1,0 +1,31 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-12-26 09:04:00,U.S. stock indexes started on a weak note and maintained it near midday Tuesday as semiconductor stocks and Apple dragged the market lower.,0.03247258812189102,0.9506113529205322,0.01691611483693123,negative,-0.9181387424468994
+1,2017-12-26 09:04:00,"[ibd-display-video id=3037819 width=50 float=left autostart=true] The Dow Jones industrial average was just below the break-even line, but the S&P 500 and the Nasdaq retreated 0.1% and 0.4% respectively.",0.05733460932970047,0.9082475304603577,0.03441779688000679,negative,-0.8509129285812378
+2,2017-12-26 09:04:00,The small cap Russell 2000 rose 0.1%.,0.9234679341316223,0.02132127434015274,0.055210866034030914,positive,0.9021466374397278
+3,2017-12-26 09:04:00,Volume in the stock market today was running lower vs. Friday's preholiday pace.,0.017847558483481407,0.9599884152412415,0.0221641194075346,negative,-0.9421408772468567
+4,2017-12-26 09:04:00,Chips had much to do with Tuesday's weakness.,0.06583821028470993,0.33676227927207947,0.5973994731903076,neutral,-0.27092406153678894
+5,2017-12-26 09:04:00,The Philadelphia semiconductor index dropped 1.3%.,0.020118452608585358,0.968407392501831,0.011474109254777431,negative,-0.9482889175415039
+6,2017-12-26 09:04:00,Three stocks in the Sox skidded 2% or more.,0.021136952564120293,0.9666973352432251,0.012165679596364498,negative,-0.9455603957176208
+7,2017-12-26 09:04:00,"They included Skyworks Solutions ( SWKS ), down 2%; Qorvo ( QRVO ), off 3%; and Micron Technology ( MU ), down about 5%.",0.016217079013586044,0.962091863155365,0.021691063418984413,negative,-0.945874810218811
+8,2017-12-26 09:04:00,"The three chip groups - chipmakers, chip designers and chip equipment makers - are trading 6% to 11% off highs made in November.",0.16353292763233185,0.7957916855812073,0.04067540168762207,negative,-0.6322587728500366
+9,2017-12-26 09:04:00,"Chips were leaders throughout most of 2017, but gave back some of their gains beginning in November.",0.7340134978294373,0.08562321215867996,0.180363267660141,positive,0.6483902931213379
+10,2017-12-26 09:04:00,Blue chips were up by a 2-1 ratio in the Dow Jones industrial average.,0.9138971567153931,0.028110308572649956,0.05799255520105362,positive,0.8857868313789368
+11,2017-12-26 09:04:00,"Leaders on the upside included Wal-Mart ( WMT ), Home Depot ( HD ) and Procter & Gamble (PG), each up roughly 1%.",0.7830010652542114,0.07016696035861969,0.14683197438716888,positive,0.7128341197967529
+12,2017-12-26 09:04:00,Only one stock in the Dow was moving in strong volume: Apple (AAPL) dropped about 2% in turnover 150% above average.,0.02083362638950348,0.960135281085968,0.019031094387173653,negative,-0.9393016695976257
+13,2017-12-26 09:04:00,"Early Tuesday, Bloomberg cited several analyst reports saying that demand for Apple's iPhone X is weakening.",0.02197251282632351,0.965745210647583,0.012282165698707104,negative,-0.9437726736068726
+14,2017-12-26 09:04:00,"In the IBD 50 , a list of the best stocks in fundamentals and technicals, Diamondback Energy (FANG) jumped 2% in strong volume.",0.9517104625701904,0.02480604685842991,0.023483429104089737,positive,0.9269044399261475
+15,2017-12-26 09:04:00,Diamondback is on track for its sixth consecutive up session.,0.7915863394737244,0.048718199133872986,0.15969553589820862,positive,0.7428681254386902
+16,2017-12-26 09:04:00,"The energy sector has shown some strength recently, posting the most new highs Thursday and Friday among 33 sectors.",0.9369515776634216,0.02195979282259941,0.04108862951397896,positive,0.9149917960166931
+17,2017-12-26 09:04:00,Jagged Peak (JAG) leapt 3.5% higher as it headed for its seventh daily gain in a row.,0.9347099661827087,0.03286325931549072,0.032426800578832626,positive,0.901846706867218
+18,2017-12-26 09:04:00,Crude oil rose 2% near midday Tuesday after a report of an attack on an oil pipeline in Libya.,0.9008896946907043,0.059159450232982635,0.03995078057050705,positive,0.8417302370071411
+19,2017-12-26 09:04:00,The S&P CoreLogic Case-Shiller home price index for October rolled in at 0.7% vs. the consensus view of 0.6%.,0.463602215051651,0.49326252937316895,0.04313519597053528,negative,-0.029660314321517944
+20,2017-12-26 09:04:00,The prior 0.5% reading was revised to 1%.,0.11097352206707001,0.340015709400177,0.5490107536315918,neutral,-0.229042187333107
+21,2017-12-26 09:04:00,"The Richmond Fed's manufacturing gauge for December read 20, which happened to be the lowest estimate in the range.",0.021868156269192696,0.948502242565155,0.02962958812713623,negative,-0.9266340732574463
+22,2017-12-26 09:04:00,The consensus view was for 23.,0.10662924498319626,0.15600210428237915,0.737368643283844,neutral,-0.04937285929918289
+23,2017-12-26 09:04:00,Readings above zero point to growth.,0.8847339153289795,0.020048238337039948,0.09521789103746414,positive,0.8646856546401978
+24,2017-12-26 09:04:00,"Meanwhile, the Dallas Fed's manufacturing gauge told a different story.",0.04465834051370621,0.3667692542076111,0.5885723829269409,neutral,-0.3221109211444855
+25,2017-12-26 09:04:00,"The December reading was 29.7, above every estimate in the range.",0.8798763155937195,0.034564532339572906,0.08555913716554642,positive,0.8453117609024048
+26,2017-12-26 09:04:00,The consensus view expected a reading of 20.,0.1775975078344345,0.025954898446798325,0.7964475750923157,neutral,0.1516426056623459
+27,2017-12-26 09:04:00,"Holiday Sales See Best Growth In 6 Years
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.022838423028588295,0.009742306545376778,0.9674193263053894,neutral,0.013096116483211517

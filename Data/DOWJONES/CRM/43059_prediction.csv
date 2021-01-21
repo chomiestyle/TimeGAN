@@ -1,0 +1,50 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-27 08:04:00,This article is a part of InvestorPlace.com’s Best ETFs for 2020 contest.,0.06326206028461456,0.007064907345920801,0.9296730160713196,neutral,0.0561971515417099
+1,2020-03-27 08:04:00,Dana Blankenhorn’s choice for the contest is the Global X Cloud Computing Fund (NASDAQ:CLOU).,0.11196771264076233,0.009926307946443558,0.8781059980392456,neutral,0.10204140841960907
+2,2020-03-27 08:04:00,"Since the start of 2020, the Global X Cloud Computing Fund (NASDAQ:CLOU) is down by 9%.",0.01808861829340458,0.9677978754043579,0.014113521203398705,negative,-0.9497092366218567
+3,2020-03-27 08:04:00,"In a market infected with fear thanks to the coronavirus from China, that counts as a win.",0.7376454472541809,0.1353348344564438,0.1270197331905365,positive,0.6023105978965759
+4,2020-03-27 08:04:00,CLOU had been outperforming the S&P 500 during January and February.,0.15813538432121277,0.822769820690155,0.019094837829470634,negative,-0.6646344661712646
+5,2020-03-27 08:04:00,The divergence has sharpened since things got serious on Feb. 19.,0.8216134905815125,0.06576426327228546,0.11262228339910507,positive,0.7558492422103882
+6,2020-03-27 08:04:00,"Since then, CLOU is down 18%, but the S&P is down 27%.",0.01912454515695572,0.9594769477844238,0.02139854058623314,negative,-0.9403523802757263
+7,2020-03-27 08:04:00,Is This Still One of the Best ETFs to Consider?,0.1431398242712021,0.010540952906012535,0.8463192582130432,neutral,0.132598876953125
+8,2020-03-27 08:04:00,CLOU is designed to track the INDXX USA Cloud Computing Index.,0.030545415356755257,0.0058107259683310986,0.9636437892913818,neutral,0.02473468892276287
+9,2020-03-27 08:04:00,This index encompasses companies that are actively involved in the cloud computing industry.,0.025029102340340614,0.006594214588403702,0.9683767557144165,neutral,0.018434887751936913
+10,2020-03-27 08:04:00,Most are applications sold as services.,0.01002486888319254,0.01142782624810934,0.9785473346710205,neutral,-0.0014029573649168015
+11,2020-03-27 08:04:00,"The largest holding of CLOU is Shopify (NYSE:SHOP), an e-commerce application that was one of the market’s best performers in 2018 and 2019.",0.8404878377914429,0.013970200903713703,0.1455419510602951,positive,0.826517641544342
+12,2020-03-27 08:04:00,Over the last three years it rose from less than $70 per share to a recent high of almost $600 before falling back to its present level of $415.,0.6118342280387878,0.1400415003299713,0.24812430143356323,positive,0.47179272770881653
+13,2020-03-27 08:04:00,"Other big application providers in the index are Netflix (NASDAQ:NFLX), Salesforce (NYSE:CRM) and Twilio (NYSE:TWLO), the latter of which embeds voice, video and text into other applications.",0.04693348705768585,0.006322524510324001,0.9467439651489258,neutral,0.040610961616039276
+14,2020-03-27 08:04:00,Many CLOU components provide services for other cloud companies.,0.028864102438092232,0.005625512450933456,0.965510368347168,neutral,0.023238589987158775
+15,2020-03-27 08:04:00,"An example is Zscaler (NASDAQ:ZS), a cloud security company whose shares are up 23% so far in 2020.",0.8934618830680847,0.016755668446421623,0.0897824838757515,positive,0.8767062425613403
+16,2020-03-27 08:04:00,"Zscaler has been warning about risks in the “shadow IoT” world, the laptops and phones used by workers at home.",0.05013994127511978,0.8074762225151062,0.14238378405570984,negative,-0.7573362588882446
+17,2020-03-27 08:04:00,"• 7 Small-Cap Stocks That Are Not Worth a Second Glance
+
+Not everything CLOU touches has turned to gold.",0.09741199016571045,0.16215530037879944,0.7404327392578125,neutral,-0.06474331021308899
+18,2020-03-27 08:04:00,"Among the losers so far are Paycom Software (NYSE:PAYC), which provides cloud-based human resources applications.",0.027519073337316513,0.7193180918693542,0.25316283106803894,negative,-0.6917990446090698
+19,2020-03-27 08:04:00,"Paycom has been hit hard as companies have moved to lay off workers, and the shares are down 20% so far in 2020.",0.01944860816001892,0.9698039293289185,0.010747400112450123,negative,-0.9503552913665771
+20,2020-03-27 08:04:00,"Akamai Technologies (NASDAQ:AKAM), originally created as a Content Delivery Network in 1998, now offers a host of security and connectivity solutions for carriers.",0.15828931331634521,0.005172585602849722,0.8365380764007568,neutral,0.15311673283576965
+21,2020-03-27 08:04:00,"Its software works inside the network, invisible to most users.",0.0235951729118824,0.04914276301860809,0.9272620677947998,neutral,-0.025547590106725693
+22,2020-03-27 08:04:00,Its customers include service providers as well as enterprises.,0.023104112595319748,0.004974951036274433,0.9719209671020508,neutral,0.01812916249036789
+23,2020-03-27 08:04:00,Akamai shares are up nearly 3% so far this year.,0.9473578333854675,0.01783783733844757,0.03480435535311699,positive,0.9295200109481812
+24,2020-03-27 08:04:00,"Another big holding is Digital Realty Trust (NYSE:DLR), a real estate investment trust (REIT) that owns data centers.",0.04914378747344017,0.005040665157139301,0.9458155035972595,neutral,0.044103123247623444
+25,2020-03-27 08:04:00,"These are the buildings, filled with computers and networking gear, through which enterprises connect with the cloud and clouds connect to each other.",0.030429674312472343,0.0099445516243577,0.959625780582428,neutral,0.02048512175679207
+26,2020-03-27 08:04:00,REITs are organized to build with debt and pay income back to shareholders.,0.0941341444849968,0.0054153199307620525,0.9004505276679993,neutral,0.08871882408857346
+27,2020-03-27 08:04:00,DLR’s dividend of $4.48 per share last year yielded 3.34%.,0.29617735743522644,0.1532142162322998,0.5506083965301514,neutral,0.14296314120292664
+28,2020-03-27 08:04:00,"Since the start of the year, DLR shares are up 13%.",0.9495670199394226,0.019832270219922066,0.030600715428590775,positive,0.9297347664833069
+29,2020-03-27 08:04:00,"Proofpoint (NASDAQ:PFPT) focuses on protecting e-mail, both the messages themselves and the mailboxes they rest in.",0.022871211171150208,0.0066959448158741,0.9704328775405884,neutral,0.016175266355276108
+30,2020-03-27 08:04:00,"This has become the most expensive problem in all of cybercrime, the company says.",0.09683714807033539,0.36043575406074524,0.5427271127700806,neutral,-0.26359862089157104
+31,2020-03-27 08:04:00,"Since the start of 2020, however, Proofpoint shares are down by 14%, because it has been delaying profits in favor of growth.",0.016514858230948448,0.9687424302101135,0.014742650091648102,negative,-0.9522275924682617
+32,2020-03-27 08:04:00,That’s an approach that is in bad taste right now.,0.03607551380991936,0.8821983337402344,0.08172613382339478,negative,-0.8461228013038635
+33,2020-03-27 08:04:00,I had no idea a global pandemic was around the corner when I chose to recommend CLOU late last year.,0.09886306524276733,0.03648589923977852,0.8646510243415833,neutral,0.062377166002988815
+34,2020-03-27 08:04:00,I was just looking to win the contest.,0.3807313144207001,0.013503193855285645,0.6057655215263367,neutral,0.36722812056541443
+35,2020-03-27 08:04:00,"It seemed to me that remote work, and cloud applications, were fated to grow fast.",0.7746148109436035,0.013300823047757149,0.2120843529701233,positive,0.7613139748573303
+36,2020-03-27 08:04:00,"Most CLOU holdings are growth companies, not dividend payers, and that aggressive approach will usually win.",0.4173004925251007,0.012058498337864876,0.5706409811973572,neutral,0.405241996049881
+37,2020-03-27 08:04:00,"As I wrote at the time, “To win a contest you must be bold.” Even by the end of 2019, the transition to the cloud was only 20% complete, according to International Business Machines (NYSE:IBM).",0.15973618626594543,0.035956185311079025,0.8043076395988464,neutral,0.12377999722957611
+38,2020-03-27 08:04:00,That puts cloud applications at the center of their growth curve.,0.7324985861778259,0.014426111243665218,0.25307539105415344,positive,0.7180724740028381
+39,2020-03-27 08:04:00,"Such companies have ample pricing power, limited competition and innovative solutions to offer.",0.1744600385427475,0.011455602012574673,0.8140842914581299,neutral,0.16300444304943085
+40,2020-03-27 08:04:00,The way to growth is always on the leading edge.,0.5796162486076355,0.01845814846456051,0.40192562341690063,positive,0.5611581206321716
+41,2020-03-27 08:04:00,"So, it seems, is the way to safety in a panic.",0.2387247234582901,0.09295578300952911,0.6683195233345032,neutral,0.145768940448761
+42,2020-03-27 08:04:00,Dana Blankenhorn has been a financial journalist since 1978.,0.036104414612054825,0.022198399528861046,0.9416971206665039,neutral,0.013906015083193779
+43,2020-03-27 08:04:00,"His latest book is Technology’s Big Bang: Yesterday, Today and Tomorrow with Moore’s Law, essays on technology available at the Amazon Kindle store.",0.046195872128009796,0.013179032132029533,0.9406251311302185,neutral,0.033016838133335114
+44,2020-03-27 08:04:00,Follow him on Twitter at @danablankenhorn.,0.0782877579331398,0.05151363089680672,0.8701985478401184,neutral,0.026774127036333084
+45,2020-03-27 08:04:00,As of this writing he owned shares in DLR.,0.014889816753566265,0.011246784590184689,0.9738633632659912,neutral,0.0036430321633815765
+46,2020-03-27 08:04:00,The post Best ETFs of 2020: The Global X Cloud Computing Fund Should Be a Winner appeared first on InvestorPlace.,0.5529157519340515,0.04405435919761658,0.4030299484729767,positive,0.5088614225387573

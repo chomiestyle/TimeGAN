@@ -1,0 +1,67 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-12-06 03:15:00,J.C. Penney (NYSE: JCP) has had a rough 2018.,0.03278166800737381,0.9331811666488647,0.03403715416789055,negative,-0.9003995060920715
+1,2018-12-06 03:15:00,"The stock is down 57% so far this year , and the company saw its CEO, Marvin Ellison, resign in June amid major skepticism about his turnaround plan.",0.018541743978857994,0.9637562036514282,0.017702030017971992,negative,-0.9452144503593445
+2,2018-12-06 03:15:00,"Ellison, who moved to take the helm at Lowe's had spent much of his career as an executive at Home Depot , spun his departure as a once-in-a-lifetime shot at a dream job.",0.1460849940776825,0.3334030508995056,0.5205119252204895,neutral,-0.18731805682182312
+3,2018-12-06 03:15:00,"Being CEO of the home improvement chain is a bigger job than running a department store, but it was hard not to see Ellison's departure as a leader jumping ship.",0.12477874755859375,0.3827894926071167,0.49243173003196716,neutral,-0.25801074504852295
+4,2018-12-06 03:15:00,"The department store drifted for months without a CEO, and several other executives left during that time as well, raising more questions about J.C. Penney's future.",0.021094301715493202,0.9494666457176208,0.02943902090191841,negative,-0.928372323513031
+5,2018-12-06 03:15:00,"In October, Jill Soltau, the former head of JoAnn Fabrics, was named the next CEO.",0.04442789778113365,0.013002351857721806,0.9425697922706604,neutral,0.03142554685473442
+6,2018-12-06 03:15:00,Soltau inherited a company that has tried to make the right moves to become a turnaround success like Macy's (NYSE: M) but has financial challenges that could lead it down the path of becoming a failed retailer like Sears (NASDAQOTH: SHLDQ) .,0.36481407284736633,0.3448227047920227,0.2903631925582886,positive,0.019991368055343628
+7,2018-12-06 03:15:00,J.C. Penney is at a critical point in its history.,0.6284946203231812,0.025381088256835938,0.3461242616176605,positive,0.6031135320663452
+8,2018-12-06 03:15:00,Image source: J.C. Penney.,0.01922055147588253,0.010046595707535744,0.9707328081130981,neutral,0.009173955768346786
+9,2018-12-06 03:15:00,Sales through three quarters of 2018 are down 5.9%.,0.0191087257117033,0.9703383445739746,0.010552850551903248,negative,-0.9512296319007874
+10,2018-12-06 03:15:00,That's not actually that bad considering the chain has been steadily closing stores.,0.021266765892505646,0.8894753456115723,0.08925794064998627,negative,-0.8682085871696472
+11,2018-12-06 03:15:00,"What's more ominous is that through nine months the company has lost $330 million, which is only slightly better than its loss of $360 million for the same nine-month period in 2017.",0.027979834005236626,0.9574005007743835,0.014619776979088783,negative,-0.9294206500053406
+12,2018-12-06 03:15:00,"In addition, results have been trending in the wrong direction.",0.020518865436315536,0.9481898546218872,0.031291231513023376,negative,-0.9276710152626038
+13,2018-12-06 03:15:00,Same-store sales fell by 5.4% in the third quarter after rising slightly by 0.2% (Q2) and by 0.3% (Q1) in the previous two quarters.,0.018649514764547348,0.9730544686317444,0.008295975625514984,negative,-0.9544049501419067
+14,2018-12-06 03:15:00,That significant of a change undermines hopes that the department store had started to turn a corner.,0.0954185351729393,0.793647050857544,0.11093438416719437,negative,-0.6982285380363464
+15,2018-12-06 03:15:00,What has J.C. Penney done to improve sales?,0.8117734789848328,0.021900340914726257,0.16632618010044098,positive,0.7898731231689453
+16,2018-12-06 03:15:00,"While Sears managed its slide by closing stores and issuing upbeat statements that weren't tied to reality, J.C. Penney has made aggressive changes in hopes of reversing its sales decline.",0.21654772758483887,0.6950187683105469,0.08843350410461426,negative,-0.478471040725708
+17,2018-12-06 03:15:00,"It did close some failing stores, but here are some of the ways J.C. Penney has tried to build sales:
+• Adding appliances to most of its stores to capitalize on Sears vacating many markets
+• Changing its women's apparel variety to better reflect what consumers want
+• Adding store-within-a-store concepts, including cosmetics retailer Sephora, and revamping salons to give consumers more reasons to visit
+• Adding toys to all of its stores to capitalize on the closure of Toys R Us
+• Moving to build omnichannel capabilities (which allows customers a seamless experience regardless if they're shopping online, on a mobile device, or in stores)
+
+The problem is that consumers have mostly shrugged off these changes.",0.04491710662841797,0.5154010653495789,0.4396817982196808,negative,-0.4704839587211609
+18,2018-12-06 03:15:00,"J.C. Penney has made a number of moves that seem to make sense, but they haven't always positively affected its business.",0.0919816642999649,0.02643994241952896,0.8815783858299255,neutral,0.06554172188043594
+19,2018-12-06 03:15:00,"Given its third-quarter stumble and its CEO change, J.C. Penney has revised its full-year sales guidance for 2018 to a low-single-digit drop rather than its first-quarter prediction of being flat to 2% up.",0.03737037628889084,0.9255831241607666,0.03704644739627838,negative,-0.8882127404212952
+20,2018-12-06 03:15:00,"Soltau, however, who took the job knowing how dire the situation was, remains upbeat.",0.19564200937747955,0.17400561273097992,0.6303523182868958,neutral,0.021636396646499634
+21,2018-12-06 03:15:00,"""In spite of our overall sales results, I am encouraged by the recent underlying trends in key businesses such as women's apparel, active, special sizes and fine jewelry,"" she said in the Q3 earnings release.",0.9244686365127563,0.01775486208498478,0.05777657404541969,positive,0.9067137837409973
+22,2018-12-06 03:15:00,"""We are making progress and taking the necessary steps to right-size our inventory positions to better support the brands and categories that are demonstrating profitable sales growth.""",0.9386779069900513,0.015921907499432564,0.04540020972490311,positive,0.922756016254425
+23,2018-12-06 03:15:00,It's possible that the decline of department stores such as Sears and J.C. Penney is not all about the mistakes they have made.,0.053934477269649506,0.49081140756607056,0.45525407791137695,negative,-0.43687692284584045
+24,2018-12-06 03:15:00,"Consumers may have moved on, and lower-end department stores may not have the potential customer bases they once did.",0.02515994943678379,0.7684823274612427,0.20635776221752167,negative,-0.7433223724365234
+25,2018-12-06 03:15:00,"Macy's, which has successfully turned around its business, serves a higher-end audience.",0.7204602360725403,0.011466438882052898,0.2680734097957611,positive,0.7089937925338745
+26,2018-12-06 03:15:00,Those customers came back when the company tweaked its business to make it more digital-friendly and adjusted its merchandising mix.,0.7458457350730896,0.016756320372223854,0.2373979687690735,positive,0.7290894389152527
+27,2018-12-06 03:15:00,The company also closed some poorly performing stores.,0.018011193722486496,0.9624748229980469,0.019513985142111778,negative,-0.9444636106491089
+28,2018-12-06 03:15:00,"Those changes worked for Macy's, which was never in as bad a position as J.C. Penney or Sears.",0.0975487157702446,0.6061595678329468,0.2962917685508728,negative,-0.5086108446121216
+29,2018-12-06 03:15:00,The difference is that Macy's customers appear to want to shop at the chain.,0.02244543470442295,0.04625401645898819,0.9313005805015564,neutral,-0.02380858175456524
+30,2018-12-06 03:15:00,J.C. Penney's audience has been falling since the Ron Johnson debacle .,0.01826377771794796,0.9693703055381775,0.012365806847810745,negative,-0.9511065483093262
+31,2018-12-06 03:15:00,"Soltau, however, believes there's a path to salvation.",0.45823103189468384,0.014047781005501747,0.5277211666107178,neutral,0.44418326020240784
+32,2018-12-06 03:15:00,"""While restoring [J.C. Penney] to sustained profitable growth will be a lengthy process, I understand the need for quick action,"" she said.",0.8113635182380676,0.017859702929854393,0.17077675461769104,positive,0.7935038208961487
+33,2018-12-06 03:15:00,"""My commitment is that we will make sound, strategic decisions backed by data, and will always be rooted in delivering on our customers' wants and expectations.",0.6614342331886292,0.010553824715316296,0.32801198959350586,positive,0.6508803963661194
+34,2018-12-06 03:15:00,We will act swiftly but thoughtfully as we move the business forward.,0.29087626934051514,0.007898818701505661,0.7012248635292053,neutral,0.28297746181488037
+35,2018-12-06 03:15:00,"While these things take time, the results we are reporting today only strengthen our sense of urgency and purpose.""",0.8562989830970764,0.019252777099609375,0.12444823980331421,positive,0.837046205997467
+36,2018-12-06 03:15:00,"Soltau mentioned the timeframe for a turnaround more than once, and that may be a not-so-coded message to creditors and vendors.",0.21141204237937927,0.15567021071910858,0.6329177618026733,neutral,0.05574183166027069
+37,2018-12-06 03:15:00,"J.C. Penney showed signs in the first half of the year that it might be able to stabilize but to make that happen, Soltau is going to need to be patient and convince stakeholders that things are moving in the right direction.",0.8700971007347107,0.01547067891806364,0.11443224549293518,positive,0.8546264171600342
+38,2018-12-06 03:15:00,That's something Sears was not able to do.,0.02686004713177681,0.40228450298309326,0.570855438709259,neutral,-0.37542444467544556
+39,2018-12-06 03:15:00,"Vendors became worried about being paid, which affected shipments, and you can't sell what you don't have.",0.023539148271083832,0.9491111636161804,0.02734973281621933,negative,-0.9255720376968384
+40,2018-12-06 03:15:00,"Soltau is a steady hand, and the fate of her company may depend on showing reasonable numbers for the fourth quarter of 2018 -- between flat and a decline of 2% -- and then building on that into the new year.",0.7437479496002197,0.10191571712493896,0.1543363630771637,positive,0.6418322324752808
+41,2018-12-06 03:15:00,The odds of that happening are very long.,0.07660578191280365,0.02645423449575901,0.8969399929046631,neutral,0.05015154927968979
+42,2018-12-06 03:15:00,Soltau has inherited a patient that may be too sick to save.,0.08652496337890625,0.7124568223953247,0.20101822912693024,negative,-0.6259318590164185
+43,2018-12-06 03:15:00,"After all, Ellison made many moves that seemed right on paper but did not work, and there aren't many levers left for the new CEO to pull.",0.051856812089681625,0.2145177274942398,0.7336254715919495,neutral,-0.16266091167926788
+44,2018-12-06 03:15:00,"It's not impossible, but time is limited and options are few.",0.05007700249552727,0.04911787062883377,0.9008051156997681,neutral,0.0009591318666934967
+45,2018-12-06 03:15:00,"10 stocks we like better than J.C. Penney
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13539747893810272,0.02797166258096695,0.8366308212280273,neutral,0.10742581635713577
+46,2018-12-06 03:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+47,2018-12-06 03:15:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and J.C. Penney wasn't one of them!",0.19478820264339447,0.015430506318807602,0.7897812724113464,neutral,0.17935769259929657
+48,2018-12-06 03:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+49,2018-12-06 03:15:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+50,2018-12-06 03:15:00,Daniel B. Kline has no position in any of the stocks mentioned.,0.008790641091763973,0.041518110781908035,0.9496912956237793,neutral,-0.03272746875882149
+51,2018-12-06 03:15:00,The Motley Fool has the following options: short February 2019 $185 calls on Home Depot and long January 2020 $110 calls on Home Depot.,0.013949581421911716,0.03693100064992905,0.9491194486618042,neutral,-0.022981420159339905
+52,2018-12-06 03:15:00,The Motley Fool recommends Home Depot and Lowe's.,0.028021767735481262,0.03282349929213524,0.9391547441482544,neutral,-0.0048017315566539764
+53,2018-12-06 03:15:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+54,2018-12-06 03:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

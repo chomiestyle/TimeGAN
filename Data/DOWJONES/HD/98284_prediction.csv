@@ -1,0 +1,284 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-17 23:00:00,"On this episode of Market Foolery , Chris Hill and Bill Barker dig into Home Depot 's (NYSE: HD) upbeat quarterly report as the company continues to deliver impressive growth without expanding its network of stores.",0.8996641635894775,0.03939550369977951,0.06094033271074295,positive,0.8602686524391174
+1,2017-05-17 23:00:00,"Meanwhile, Ford (NYSE: F) is planning steep job cuts, and massive technological disruption looms over the auto industry.",0.029987026005983353,0.9321104288101196,0.03790256008505821,negative,-0.9021233916282654
+2,2017-05-17 23:00:00,"10 stocks we like better than Wal-Mart
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.15246878564357758,0.0312394667416811,0.8162918090820312,neutral,0.12122932076454163
+3,2017-05-17 23:00:00,"After all, the newsletter they have run for over a decade, the Motley Fool Stock Advisor, has tripled the market.",0.40675050020217896,0.06611427664756775,0.5271351933479309,neutral,0.3406362235546112
+4,2017-05-17 23:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Wal-Mart wasn't one of them!",0.2065739929676056,0.015116268768906593,0.7783097624778748,neutral,0.19145771861076355
+5,2017-05-17 23:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+6,2017-05-17 23:00:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+7,2017-05-17 23:00:00,"*Stock Advisor returns as of May 1, 2017
+
+The author(s) may have a position in any stocks mentioned.",0.01289001852273941,0.00847523845732212,0.9786347150802612,neutral,0.00441478006541729
+8,2017-05-17 23:00:00,"This video was recorded on May 16, 2017.",0.013671266846358776,0.010291210375726223,0.9760375022888184,neutral,0.003380056470632553
+9,2017-05-17 23:00:00,"Chris Hill: It's Tuesday, May 16th.",0.016205646097660065,0.014645293354988098,0.9691490530967712,neutral,0.0015603527426719666
+10,2017-05-17 23:00:00,Welcome to Market Foolery .,0.13206103444099426,0.03427843004465103,0.8336604833602905,neutral,0.09778260439634323
+11,2017-05-17 23:00:00,I'm Chris Hill.,0.050329629331827164,0.007737692911177874,0.941932737827301,neutral,0.04259193688631058
+12,2017-05-17 23:00:00,"Joining me in studio today, from Motley Fool Funds , Bill Barker.",0.05489132180809975,0.019498737528920174,0.9256098866462708,neutral,0.035392582416534424
+13,2017-05-17 23:00:00,Thanks for being here!,0.43909233808517456,0.048665087670087814,0.5122426152229309,neutral,0.39042726159095764
+14,2017-05-17 23:00:00,Bill Barker: Thanks for having me!,0.41282352805137634,0.06418637186288834,0.5229901075363159,neutral,0.3486371636390686
+15,2017-05-17 23:00:00,Hill: We're just chugging along through the month of May.,0.05376320332288742,0.4185424745082855,0.5276943445205688,neutral,-0.3647792637348175
+16,2017-05-17 23:00:00,We have Memorial Day just around the corner.,0.052365489304065704,0.05253328010439873,0.8951012492179871,neutral,-0.00016779080033302307
+17,2017-05-17 23:00:00,But we're still getting it done with earnings.,0.47844409942626953,0.016505852341651917,0.5050500631332397,neutral,0.4619382619857788
+18,2017-05-17 23:00:00,Barker: Are you looking forward to Memorial Day?,0.05162167176604271,0.045142803341150284,0.9032354950904846,neutral,0.0064788684248924255
+19,2017-05-17 23:00:00,It's like two weeks away.,0.10526776313781738,0.423490971326828,0.47124120593070984,neutral,-0.3182232081890106
+20,2017-05-17 23:00:00,Hill: Who doesn't like Memorial Day weekend?,0.05159180983901024,0.14478999376296997,0.8036181926727295,neutral,-0.09319818019866943
+21,2017-05-17 23:00:00,Come on.,0.15142442286014557,0.026042012497782707,0.8225336074829102,neutral,0.1253824084997177
+22,2017-05-17 23:00:00,It's one more excuse to grill.,0.1949985921382904,0.03151695430278778,0.7734844088554382,neutral,0.16348163783550262
+23,2017-05-17 23:00:00,"We're going to dip into what's happening in the automotive industry, which is not great, and online publishing, but we have to start with Home Depot, which is the No.",0.028995677828788757,0.014336677268147469,0.9566676020622253,neutral,0.014659000560641289
+24,2017-05-17 23:00:00,"1 home improvement chain in America, and they proved why once again with their first quarter report.",0.9331516623497009,0.020318791270256042,0.04652952030301094,positive,0.9128328561782837
+25,2017-05-17 23:00:00,"Their profits were higher than expected, their same store sales were up 5.5%.",0.9508850574493408,0.022834453731775284,0.026280466467142105,positive,0.9280505776405334
+26,2017-05-17 23:00:00,Their average ticket order was up.,0.8581706881523132,0.022487791255116463,0.11934158205986023,positive,0.8356828689575195
+27,2017-05-17 23:00:00,Are they bulletproof right now?,0.08675836026668549,0.11389121413230896,0.7993504405021667,neutral,-0.027132853865623474
+28,2017-05-17 23:00:00,"Is there anything that this company is -- if you're a bear, if god forbid, you're one of those poor souls out there who says, ""I think I'm going to short Home Depot,"" do you have anything you can point to?",0.055618107318878174,0.08286667615175247,0.86151522397995,neutral,-0.027248568832874298
+29,2017-05-17 23:00:00,Because this is one of those quarters that makes you understand why the stock is hitting an all-time high today.,0.5493518114089966,0.03849894925951958,0.41214922070503235,positive,0.5108528733253479
+30,2017-05-17 23:00:00,"Barker: Yeah, I don't know what you have if you're a bear and you want to find fault here.",0.08018509298563004,0.3136625289916992,0.606152355670929,neutral,-0.23347744345664978
+31,2017-05-17 23:00:00,"The valuation isn't that high, and housing has a lot of room to go, probably, unless you have specific numbers that you're relying on that no one else is seeing, I don't know what you're seeing.",0.015053900890052319,0.02572830207645893,0.9592177867889404,neutral,-0.010674401186406612
+32,2017-05-17 23:00:00,The company is doing a very good job of simply growing what it has.,0.692967414855957,0.01084653940051794,0.29618608951568604,positive,0.6821208596229553
+33,2017-05-17 23:00:00,It's not really growing stores at all.,0.026662552729249,0.024409344419836998,0.9489281177520752,neutral,0.0022532083094120026
+34,2017-05-17 23:00:00,"It has about the same number of stores, depots, I suppose, rather than stores, open that it had five or six years ago.",0.02293473668396473,0.010380336083471775,0.9666849970817566,neutral,0.012554400600492954
+35,2017-05-17 23:00:00,"So its guidance for comps and total sales growth are the same, right now around the 5% area.",0.03328276053071022,0.009598209522664547,0.9571189880371094,neutral,0.0236845500767231
+36,2017-05-17 23:00:00,"Then, it's buying back some shares, and it's improving margins, and it's all wound up with a low-teens to mid-teens growth rate.",0.9202904105186462,0.015500345267355442,0.06420928239822388,positive,0.9047900438308716
+37,2017-05-17 23:00:00,"Hill: You mentioned the share count, it's come down pretty substantially.",0.023707611486315727,0.9328742027282715,0.04341817647218704,negative,-0.9091665744781494
+38,2017-05-17 23:00:00,I think it's almost been cut in half over the last 13 years or so.,0.07117924839258194,0.6076740026473999,0.32114675641059875,negative,-0.5364947319030762
+39,2017-05-17 23:00:00,"There's about 1.3 billion shares outstanding right now, in 2004, the stat I saw this morning, it was up around 2.7 billion.",0.552195131778717,0.01923476532101631,0.42857006192207336,positive,0.5329603552818298
+40,2017-05-17 23:00:00,"So it's really impressive that they are, on the one hand, methodically bringing down the share count, but they are also bringing that same day in and day out operational excellence to their stores themselves.",0.5788602828979492,0.02097507007420063,0.4001646339893341,positive,0.5578852295875549
+41,2017-05-17 23:00:00,"And as you said, they're not growing their store count, which makes me think that this is an incredibly disciplined management team.",0.4294081926345825,0.026847828179597855,0.5437439680099487,neutral,0.40256035327911377
+42,2017-05-17 23:00:00,"Barker: Right, the capital allocation equation here is, let's keep what we have, I'm sure they're closing down the store or two here or there, opening up one here or there.",0.026180876418948174,0.06674012541770935,0.9070790410041809,neutral,-0.04055924713611603
+43,2017-05-17 23:00:00,"But they aren't in the ""let's build another 100 stores across the country this year"" model that a lot of other places are, whether it's McDonald's or AutoZone or plenty of other things.",0.06651664525270462,0.0134250083938241,0.9200583696365356,neutral,0.053091637790203094
+44,2017-05-17 23:00:00,"And they are really about the only game in retail right now that's working, Home Depot and Lowe's .",0.037180569022893906,0.020664263516664505,0.9421551823616028,neutral,0.0165163055062294
+45,2017-05-17 23:00:00,"So, it is the housing market.",0.015061798505485058,0.014178906567394733,0.9707593321800232,neutral,0.0008828919380903244
+46,2017-05-17 23:00:00,Let's not give management all the credit.,0.018686683848500252,0.08190781623125076,0.8994055390357971,neutral,-0.06322113424539566
+47,2017-05-17 23:00:00,"We'll give them plenty of credit, but housing is a good place to be, and it is not getting disrupted on the retail side the way everything else is, including automotive parts.",0.09460630267858505,0.036573998630046844,0.8688197135925293,neutral,0.05803230404853821
+48,2017-05-17 23:00:00,"Automotive parts is a little bit better than clothing and books, things that have really been disrupted and are never coming back.",0.23443745076656342,0.03806004673242569,0.7275025248527527,neutral,0.19637739658355713
+49,2017-05-17 23:00:00,"But when you're going out on Sunday and fixing up your home, and you're going up to Home Depot or Lowe's, a local place, whatever --
+
+Barker: You're not waiting for Amazon for 48 hours to get you the stuff, because you're getting it right now.",0.04378427937626839,0.03312046825885773,0.9230952858924866,neutral,0.01066381111741066
+50,2017-05-17 23:00:00,"Actually, a lot of, 40% I think, of Home Depot's sales are to the professional contractor.",0.015318422578275204,0.009538204409182072,0.975143313407898,neutral,0.005780218169093132
+51,2017-05-17 23:00:00,That's also not being disrupted.,0.10881215333938599,0.036256641149520874,0.8549311757087708,neutral,0.07255551218986511
+52,2017-05-17 23:00:00,Hill: Yeah.,0.1429787576198578,0.07774379104375839,0.7792773842811584,neutral,0.0652349665760994
+53,2017-05-17 23:00:00,"And I think there's also something to the customer experience, in the same way that online shopping, regardless of what the online shopping destination is, they're hopefully providing greater convenience, I think that is, for a lot of people, part of the experience with Home Depot and Lowe's.",0.38932734727859497,0.011781672947108746,0.598891019821167,neutral,0.37754568457603455
+54,2017-05-17 23:00:00,"They actually like it, it's an excuse to get out of the house, I actually want to go and compare the paint samples, that sort of thing, and kill a little time doing things that way.",0.06507650762796402,0.023963933810591698,0.9109594821929932,neutral,0.04111257195472717
+55,2017-05-17 23:00:00,"Barker: I think it is, you're doing something.",0.3978973925113678,0.03516277298331261,0.5669398903846741,neutral,0.3627346158027649
+56,2017-05-17 23:00:00,"It feels like --
+
+Barker: It feels like, I'm on a mission, I'm going to make my house better, I'm not just buying stuff.",0.16332581639289856,0.013809197582304478,0.8228649497032166,neutral,0.14951661229133606
+57,2017-05-17 23:00:00,"Maybe this is revealing something about me, but it's not that, you buy stuff and then it sits around the house.",0.030147887766361237,0.023822585120797157,0.9460294842720032,neutral,0.006325302645564079
+58,2017-05-17 23:00:00,"At Home Depot, you're buying something and then you're implementing it.",0.047448404133319855,0.008428462781012058,0.9441231489181519,neutral,0.03901994228363037
+59,2017-05-17 23:00:00,Hill: Putting it to use.,0.13786062598228455,0.023868413642048836,0.8382710218429565,neutral,0.11399221420288086
+60,2017-05-17 23:00:00,"Barker: And then you're going to claim, later in the day, ""I did a lot of stuff today, so I deserve some credit.",0.4704177975654602,0.05263233557343483,0.4769498407840729,neutral,0.4177854657173157
+61,2017-05-17 23:00:00,"I went to the store, and not only did I buy something, but I actually put those light bulbs in.""",0.13237641751766205,0.022526148706674576,0.8450974225997925,neutral,0.10985027253627777
+62,2017-05-17 23:00:00,"Hill: Speaking of light bulbs, what percentage of trips to any sort of home improvement store --
+
+Hill: Wait for it.",0.024604933336377144,0.022319355979561806,0.953075647354126,neutral,0.002285577356815338
+63,2017-05-17 23:00:00,Would you say involve you bringing something to the store that you need to replace?,0.03347248584032059,0.035704731941223145,0.9308227300643921,neutral,-0.0022322461009025574
+64,2017-05-17 23:00:00,"That, you haven't written something down, you haven't memorized it, but you're actually bringing in the light bulb, you're bringing in the screw, and you walk in and you're basically looking for an employee, saying, ""See this thing I'm holding in my hand?",0.04290872812271118,0.06936261802911758,0.8877286911010742,neutral,-0.026453889906406403
+65,2017-05-17 23:00:00,"Where can I find another one just like this?""",0.16117428243160248,0.15761710703372955,0.6812085509300232,neutral,0.003557175397872925
+66,2017-05-17 23:00:00,What percentage?,0.07184366881847382,0.05661444738507271,0.8715418577194214,neutral,0.015229221433401108
+67,2017-05-17 23:00:00,"Barker: Of me, or everybody?",0.04965826869010925,0.09242688864469528,0.8579148054122925,neutral,-0.04276861995458603
+68,2017-05-17 23:00:00,"Hill: Oh, for me, it's at least, somewhere in the neighborhood of 50%.",0.04964239522814751,0.011621114797890186,0.9387365579605103,neutral,0.038021281361579895
+69,2017-05-17 23:00:00,"Barker: No, I'm in the category of stereotypical men who go in and I'm not asking for directions on anything, it does not matter how long it takes me.",0.014251159504055977,0.037444837391376495,0.9483039975166321,neutral,-0.02319367788732052
+70,2017-05-17 23:00:00,"It doesn't matter how many times I'm asked, ""Can I help you?""",0.01881537213921547,0.0271151065826416,0.9540695548057556,neutral,-0.008299734443426132
+71,2017-05-17 23:00:00,"No, I'm just looking, I'll find the specific screw that I'm looking for.",0.05230167880654335,0.01092609390616417,0.9367722272872925,neutral,0.04137558490037918
+72,2017-05-17 23:00:00,I'm not saying that's a good thing.,0.07672405987977982,0.09873262792825699,0.8245432376861572,neutral,-0.022008568048477173
+73,2017-05-17 23:00:00,"For you, it's much higher than zero?",0.11177375167608261,0.08334454894065857,0.8048816919326782,neutral,0.028429202735424042
+74,2017-05-17 23:00:00,Hill: It's much higher than zero.,0.20182502269744873,0.057582054287195206,0.7405929565429688,neutral,0.14424297213554382
+75,2017-05-17 23:00:00,"But that's also part of the Home Depot store, that's part of the turnaround for them, after Nardelli left, part of what management decided to do was, ""Let's actually be helpful, let's train staff, let's, maybe not overstaff, but let's make sure our stores are properly staffed, so that when people come in, we have people who can help them, who can find exactly what they're looking for, and then they're going to come back.""",0.20026451349258423,0.014175500720739365,0.7855600118637085,neutral,0.18608900904655457
+76,2017-05-17 23:00:00,And I think that's a big part of the turnaround for Home Depot.,0.7337678074836731,0.011921310797333717,0.2543109357357025,positive,0.7218465209007263
+77,2017-05-17 23:00:00,"Barker: It is working, for them to be getting pretty consistent 5% comp improvements year to year, I think the two year stack, the comp from a year ago plus the comp this year, it's more like 12% to 13% for Home Depot.",0.5067379474639893,0.018978042528033257,0.47428396344184875,positive,0.48775991797447205
+78,2017-05-17 23:00:00,"That's really impressive, in a time of very little inflation to be getting 12% more sales out of the same square footage over the last two years, adjusting for inflation, you're talking about 8% or something like that.",0.2809365689754486,0.012510660104453564,0.7065528035163879,neutral,0.26842591166496277
+79,2017-05-17 23:00:00,"They have got everything going very well right now, and the bear case is dependent on the housing market currently being overheated, which it does not yet appear to be.",0.07954037934541702,0.21112185716629028,0.7093377709388733,neutral,-0.13158148527145386
+80,2017-05-17 23:00:00,Hill: Let's move on to the automotive industry.,0.0683271735906601,0.008345683105289936,0.9233271479606628,neutral,0.059981491416692734
+81,2017-05-17 23:00:00,There are multiple reports out this morning that Ford Motor is planning to cut around 10% of its jobs around the world.,0.020648954436182976,0.9677831530570984,0.011567867361009121,negative,-0.9471341967582703
+82,2017-05-17 23:00:00,"Ford Motors has around 200,000 employees.",0.010510475374758244,0.027767417952418327,0.9617221355438232,neutral,-0.01725694164633751
+83,2017-05-17 23:00:00,"As of this taping, Ford has not confirmed this report.",0.01188985351473093,0.08920525014400482,0.8989049792289734,neutral,-0.07731539756059647
+84,2017-05-17 23:00:00,"But for the sake of this conversation, let's just assume these reports are accurate, and they are, in fact, looking to cut about 20,000 people from their workforce.",0.02306520566344261,0.9458704590797424,0.03106435015797615,negative,-0.9228052496910095
+85,2017-05-17 23:00:00,"When you look at their profit margins, when you look at the stock hovering around a five-year low, it kind of makes sense that they would take this approach.",0.042122457176446915,0.018854239955544472,0.9390233159065247,neutral,0.023268217220902443
+86,2017-05-17 23:00:00,"Barker: It does, they have to find savings somewhere, and employees are, more or less, always the most expensive part of your business.",0.047822631895542145,0.07236386835575104,0.8798134922981262,neutral,-0.024541236460208893
+87,2017-05-17 23:00:00,"The stories that are coming out, which, as you pointed out, are not yet confirmed, point to Ford looking to buy out employees rather than having layoffs, and reduce their costs over the long-term that way, by reducing pension obligations in particular, which is always an issue.",0.3644430637359619,0.18251773715019226,0.4530391991138458,neutral,0.18192532658576965
+88,2017-05-17 23:00:00,"So I think it is not going to be good times over the next decade or two for automotive workers, as much as this Administration would like to claim that it's going to be different.",0.09889847040176392,0.24801236391067505,0.653089165687561,neutral,-0.14911389350891113
+89,2017-05-17 23:00:00,Hill: Yeah.,0.1429787576198578,0.07774379104375839,0.7792773842811584,neutral,0.0652349665760994
+90,2017-05-17 23:00:00,"You forwarded a report to me from I think your colleague Nate Weisshaar down in Fool Funds about a recent conference having to do with, among other things, autonomous driving.",0.03310978785157204,0.04283273220062256,0.9240575432777405,neutral,-0.009722944349050522
+91,2017-05-17 23:00:00,"And one of the takeaways in this report appears to be that the timeframe for autonomous driving, when are self-driving cars coming, when is autonomous driving going to be much more mainstream?",0.05363982543349266,0.013746660202741623,0.9326135516166687,neutral,0.03989316523075104
+92,2017-05-17 23:00:00,"And the timeframe for the folks writing this report was, ""We went into this thing thinking 2025 to 2030.",0.016541078686714172,0.011868237517774105,0.9715906977653503,neutral,0.004672841168940067
+93,2017-05-17 23:00:00,That's roughly when we were thinking autonomous driving would come.,0.04662749543786049,0.010677176527678967,0.9426953196525574,neutral,0.03595031797885895
+94,2017-05-17 23:00:00,"And now that we've gone to this well-attended conference and listen to all of these presentations, our conclusion is it's going to be sooner than that, we think it's going to be 2020 to 2025.""",0.1740065962076187,0.016874318942427635,0.8091190457344055,neutral,0.15713228285312653
+95,2017-05-17 23:00:00,"And, I think to your point about tough times for auto makers, I think there are a bunch of factors that go into this, certainly pension obligations is one of them.",0.025211960077285767,0.011311876587569714,0.9634761214256287,neutral,0.013900083489716053
+96,2017-05-17 23:00:00,But I think the technology part of this is a big disruptor in the automotive industry.,0.024849314242601395,0.8101106286048889,0.1650400459766388,negative,-0.785261332988739
+97,2017-05-17 23:00:00,"And I have no idea where it's going, but it really does seem like ...",0.09093555063009262,0.035101618617773056,0.8739628195762634,neutral,0.055833932012319565
+98,2017-05-17 23:00:00,"I don't want to compare automotive companies to retailers, but I think in the same way that, I think Ron Gross made the point last week on Motley Fool Money that, when you look at the retail industry, the general retailers, the fact is, some of them just aren't going to make it.",0.03662896156311035,0.129608154296875,0.8337629437446594,neutral,-0.09297919273376465
+99,2017-05-17 23:00:00,"And that is, unfortunately for the people who work there, how capitalism works.",0.03021714836359024,0.08404427766799927,0.8857384920120239,neutral,-0.05382712930440903
+100,2017-05-17 23:00:00,And I think you could probably say the same thing about the automotive companies.,0.022789059206843376,0.026397420093417168,0.9508134722709656,neutral,-0.0036083608865737915
+101,2017-05-17 23:00:00,"Not in the next couple years, but certainly 10 to 20 years down the line, some of them just aren't going to make it.",0.03562544286251068,0.1250329166650772,0.8393416404724121,neutral,-0.08940747380256653
+102,2017-05-17 23:00:00,Barker: Let's give credit to the authors of this report that we're going to riff off of.,0.038288213312625885,0.0099197868257761,0.9517919421195984,neutral,0.028368426486849785
+103,2017-05-17 23:00:00,"ReThink X is the entity that produced this, and the specific authors are James Arbib and Tony Seba.",0.018952546641230583,0.007910363376140594,0.9731370806694031,neutral,0.011042183265089989
+104,2017-05-17 23:00:00,This was a very recent report.,0.036996278911828995,0.01430163811892271,0.9487020969390869,neutral,0.02269463986158371
+105,2017-05-17 23:00:00,"The authors' analysis is that this is going to be a much bigger disruption, really, even than retail.",0.04238531365990639,0.7404553294181824,0.21715933084487915,negative,-0.6980699896812439
+106,2017-05-17 23:00:00,You say you don't want to compare it to retail.,0.022925160825252533,0.04487648233771324,0.9321983456611633,neutral,-0.02195132151246071
+107,2017-05-17 23:00:00,"If you read this report and buy into it, or just entertain what might be, it's bigger than the change that has occurred yet to retail.",0.0855342447757721,0.012464835308492184,0.9020008444786072,neutral,0.07306940853595734
+108,2017-05-17 23:00:00,Amazon came around 20 years ago.,0.09511209279298782,0.009570722468197346,0.8953171968460083,neutral,0.08554136753082275
+109,2017-05-17 23:00:00,"Retail is suffering right now, but it still looks a lot like our retail experience 20 years ago.",0.02871457301080227,0.8247131705284119,0.14657218754291534,negative,-0.7959985733032227
+110,2017-05-17 23:00:00,"Maybe you're buying 5%, maybe 95%, of your stuff from Amazon.",0.033159054815769196,0.007848215289413929,0.9589927792549133,neutral,0.02531084045767784
+111,2017-05-17 23:00:00,"But as much as malls are in decline, they're pretty much all still there.",0.032986290752887726,0.36825770139694214,0.5987560153007507,neutral,-0.335271418094635
+112,2017-05-17 23:00:00,"This is projecting that once autonomous vehicles are approved, the adoption is going to be rapid, because you're going to be able to save somewhere up to 90% of your driving costs.",0.6738359332084656,0.013434618711471558,0.31272944808006287,positive,0.6604013442993164
+113,2017-05-17 23:00:00,"The report projects that 95% of miles by 2030, not that long from now, will be done by autonomous vehicles.",0.12106194347143173,0.00798476580530405,0.8709532618522644,neutral,0.11307717859745026
+114,2017-05-17 23:00:00,"Not necessarily 95% of the vehicles, but the actual miles covered, because the cars are these fleets of cars out there, and you will no longer need to own a car.",0.02251165360212326,0.013938112184405327,0.9635502696037292,neutral,0.008573541417717934
+115,2017-05-17 23:00:00,You're not using your car close to 100% of the day.,0.01664901338517666,0.08200081437826157,0.9013501405715942,neutral,-0.06535179913043976
+116,2017-05-17 23:00:00,"But with fleets of autonomous vehicles, they will be, once the electrical equation is improved, this is going to disrupt the oil industry and everything that services the oil industry, and oil prices are going to plummet, and the insurance rates are going to go down, and the cost of cars is going to go down.",0.03210897371172905,0.8318433165550232,0.13604778051376343,negative,-0.799734354019165
+117,2017-05-17 23:00:00,It's pretty comprehensive what the changes could be.,0.04056892916560173,0.007533319294452667,0.9518976807594299,neutral,0.03303560987114906
+118,2017-05-17 23:00:00,And this is two peoples' opinion about how it's going to go.,0.08773920685052872,0.014740437269210815,0.8975203037261963,neutral,0.0729987695813179
+119,2017-05-17 23:00:00,But we have seen some things disrupted far more than we ever expected them to be.,0.2042696475982666,0.07338564097881317,0.722344696521759,neutral,0.13088400661945343
+120,2017-05-17 23:00:00,"Hill: And to take the insurance piece of that, at the recent Berkshire Hathaway meeting, Buffett talked about self-driving cars.",0.050708070397377014,0.01897916942834854,0.9303127527236938,neutral,0.03172890096902847
+121,2017-05-17 23:00:00,"Buffett, there are plenty of things he will tell you he doesn't know a lot about, but he knows the insurance business, and he's looking out at self-driving cars and seeing, ""Oh, yeah, that's totally going to hammer Geico, and any other business that looks like Geico.""",0.05246148630976677,0.06523708999156952,0.8823014497756958,neutral,-0.01277560368180275
+122,2017-05-17 23:00:00,Barker: Yeah.,0.1393703818321228,0.09039900451898575,0.7702306509017944,neutral,0.048971377313137054
+123,2017-05-17 23:00:00,"If nobody in the family needs to be insured, and no cars need to be insured, that is going to decimate Geico.",0.026747476309537888,0.8604471683502197,0.11280527710914612,negative,-0.8336997032165527
+124,2017-05-17 23:00:00,"And the number of accidents and repairs, if the technology is brought to where people hope it will be, it's going to change a lot of things, or potentially could.",0.16160324215888977,0.01392716821283102,0.8244696259498596,neutral,0.14767608046531677
+125,2017-05-17 23:00:00,"So Ford, right now, is facing declining auto sales.",0.018123477697372437,0.9501886963844299,0.03168778866529465,negative,-0.9320652484893799
+126,2017-05-17 23:00:00,"I think the last four months have seen declining auto sales, not just for Ford but industrywide.",0.01978030428290367,0.9609699249267578,0.01924983784556389,negative,-0.9411896467208862
+127,2017-05-17 23:00:00,That is the first time that has been the case since 2009.,0.06672527641057968,0.4670630693435669,0.4662117063999176,negative,-0.4003377854824066
+128,2017-05-17 23:00:00,"Now, invoking 2009, first time blah blah since 2009, might make it seem like, ooh, there's panic that we should consider, and I'm not claiming that.",0.06567616760730743,0.11891157180070877,0.8154123425483704,neutral,-0.05323540419340134
+129,2017-05-17 23:00:00,"Actually, the profitability is pretty good right now, because people are, again, buying heavier and bigger cars and trucks, SUVs, given the price of oil and gas.",0.7980947494506836,0.016659099608659744,0.18524621427059174,positive,0.7814356684684753
+130,2017-05-17 23:00:00,So it is not terrible times.,0.067131906747818,0.03722503036260605,0.8956430554389954,neutral,0.029906876385211945
+131,2017-05-17 23:00:00,"But if you're looking out over the factors, and Ford is certainly concentrating on what the future will be for its industry, how it participates in whatever the future ends up being, it looks like you don't need as many employees.",0.01823468878865242,0.05212342366576195,0.9296419024467468,neutral,-0.03388873487710953
+132,2017-05-17 23:00:00,"Hill: Tronc is back in the news, the online publishing company with one of the worst names in the public markets, the parent company of the Chicago Tribune .",0.04062862694263458,0.8722934722900391,0.08707799017429352,negative,-0.8316648602485657
+133,2017-05-17 23:00:00,"Tronc has signed a non-binding financial agreement to buy, I think I'm pronouncing this correctly , Wrapports Holdings, which is the parent company of the Chicago Sun-Times .",0.6691315770149231,0.011243299581110477,0.3196251392364502,positive,0.6578882932662964
+134,2017-05-17 23:00:00,"So, the parent of the Chicago Tribune is looking to buy the parents of the Chicago Sun-Times , which begs the question, why in God's name would they do that?",0.02104942686855793,0.032695312052965164,0.9462552666664124,neutral,-0.011645885184407234
+135,2017-05-17 23:00:00,It's not like Tronc has big piles of money sitting around.,0.015465508215129375,0.026872949674725533,0.9576615691184998,neutral,-0.011407441459596157
+136,2017-05-17 23:00:00,Hill: Really?,0.05527737736701965,0.06551728397607803,0.8792053461074829,neutral,-0.01023990660905838
+137,2017-05-17 23:00:00,That's why?,0.05421026051044464,0.04037081450223923,0.905418872833252,neutral,0.013839446008205414
+138,2017-05-17 23:00:00,And they're so sure of this move that they took the bold step of signing a non-binding financial agreement?,0.736015796661377,0.01560963038355112,0.2483745962381363,positive,0.720406174659729
+139,2017-05-17 23:00:00,"This just strikes me as, among other things, sad.",0.05899817496538162,0.38689151406288147,0.5541102886199951,neutral,-0.32789334654808044
+140,2017-05-17 23:00:00,"Like, look, you want to go out and buy your rival newspaper?",0.03425450623035431,0.01853553205728531,0.9472099542617798,neutral,0.015718974173069
+141,2017-05-17 23:00:00,Go for it.,0.17431336641311646,0.021296635270118713,0.8043899536132812,neutral,0.15301673114299774
+142,2017-05-17 23:00:00,"Barker: I really feel like Tronc did something personally to you, your enmity toward them.",0.05584661290049553,0.8032264709472656,0.14092697203159332,negative,-0.7473798394203186
+143,2017-05-17 23:00:00,Hill: A lot of it has to do with the name.,0.014698361977934837,0.033151980489492416,0.9521496891975403,neutral,-0.01845361851155758
+144,2017-05-17 23:00:00,Barker: Most of it.,0.026666248217225075,0.026108046993613243,0.9472256898880005,neutral,0.0005582012236118317
+145,2017-05-17 23:00:00,Almost all.,0.10296526551246643,0.06497794389724731,0.8320568203926086,neutral,0.037987321615219116
+146,2017-05-17 23:00:00,Hill: Almost all of it has to do with the name.,0.01895657740533352,0.040741387754678726,0.9403020143508911,neutral,-0.021784810349345207
+147,2017-05-17 23:00:00,"Barker: Some 90% has to do with the name, because their crimes against you other than adopting the name Tronc are pretty limited, aren't they?",0.023514414206147194,0.13718605041503906,0.8392994999885559,neutral,-0.11367163807153702
+148,2017-05-17 23:00:00,Barker: The Chicago Bulls have taken out your Celtics a couple times over the years.,0.10679906606674194,0.34139207005500793,0.5518088936805725,neutral,-0.234593003988266
+149,2017-05-17 23:00:00,Hill: Not this year.,0.023311395198106766,0.058150604367256165,0.918537974357605,neutral,-0.0348392091691494
+150,2017-05-17 23:00:00,"Honestly, here's what bothers me: as someone who has spent his adult life in various realms of the media world --
+
+Barker: You're sort of an expert on the media.",0.04548544064164162,0.02264179289340973,0.9318727850914001,neutral,0.022843647748231888
+151,2017-05-17 23:00:00,"Hill: I wouldn't say I'm an expert, but --
+
+Barker: Listeners out there, by the way, this is the way to always put somebody on the defensive.",0.13153575360774994,0.0629497841000557,0.8055144548416138,neutral,0.06858596950769424
+152,2017-05-17 23:00:00,"When you're looking for advice, just go like, ""You're sort of an expert on ... "" And then immediately, people -- non-Donald Trump people -- disclaim their expertise on almost all topics that you would approach them about, claiming they're an expert.",0.05034186318516731,0.17023365199565887,0.7794245481491089,neutral,-0.11989179253578186
+153,2017-05-17 23:00:00,"Hill: Going back to Memorial Day weekend, which is coming up, this is absolutely a great move to pull at a barbecue or a party at some point, when you're standing with a group of people.",0.15688630938529968,0.012964203022420406,0.8301494717597961,neutral,0.1439221054315567
+154,2017-05-17 23:00:00,"Just like, ""Jim.",0.09968360513448715,0.07333091646432877,0.8269854784011841,neutral,0.026352688670158386
+155,2017-05-17 23:00:00,You're kind of an expert on biochemistry.,0.08484020829200745,0.011122666299343109,0.9040370583534241,neutral,0.07371754199266434
+156,2017-05-17 23:00:00,"Let me ask you a question.""",0.07272188365459442,0.0798247829079628,0.8474532961845398,neutral,-0.007102899253368378
+157,2017-05-17 23:00:00,And then just watch Jim's face.,0.069477379322052,0.042237021028995514,0.8882856369018555,neutral,0.027240358293056488
+158,2017-05-17 23:00:00,Barker: Even if it's their job.,0.06326042115688324,0.3141171336174011,0.6226224303245544,neutral,-0.2508566975593567
+159,2017-05-17 23:00:00,But you are sort of an expert on the media.,0.06835544109344482,0.014663119800388813,0.9169813990592957,neutral,0.053692322224378586
+160,2017-05-17 23:00:00,Barker: See?,0.06119045987725258,0.09348101913928986,0.8453285694122314,neutral,-0.03229055926203728
+161,2017-05-17 23:00:00,There you go.,0.17231260240077972,0.06141931191086769,0.7662680745124817,neutral,0.11089329421520233
+162,2017-05-17 23:00:00,"""Uh ... ""
+
+Hill: Expert, I wouldn't go that far.",0.061916451901197433,0.07349982857704163,0.8645837306976318,neutral,-0.011583376675844193
+163,2017-05-17 23:00:00,"Hill: Well that, yeah.",0.08877167850732803,0.07452091574668884,0.8367074728012085,neutral,0.01425076276063919
+164,2017-05-17 23:00:00,"But as I think we both know, just because you're fully employed in one job doesn't make you an expert on that job.",0.045362766832113266,0.05464258790016174,0.8999946713447571,neutral,-0.009279821068048477
+165,2017-05-17 23:00:00,Barker: That's what I'm saying.,0.05694811791181564,0.03176379203796387,0.9112880825996399,neutral,0.025184325873851776
+166,2017-05-17 23:00:00,"Hill: But in the case of Tronc , I guess I'm just bothered, among other things, beyond the name, I'm bothered because I am generally a fan of media.",0.0504109226167202,0.39442533254623413,0.5551638007164001,neutral,-0.34401440620422363
+167,2017-05-17 23:00:00,I appreciate when media is well done and well executed and well managed.,0.40168434381484985,0.010996324941515923,0.5873193144798279,neutral,0.39068803191185
+168,2017-05-17 23:00:00,"That's why it's great to see entities like The New York Times and The Washington Post pull off -- at least, they appear to be in the process of successful pulling off -- the transition from the printed newspaper business to the digital business.",0.5091793537139893,0.012022705748677254,0.47879791259765625,positive,0.49715664982795715
+169,2017-05-17 23:00:00,"The fact that Tronc is going about things in such a ham-handed way, I think, offends my sensibilities.",0.07406284660100937,0.33059731125831604,0.5953398942947388,neutral,-0.2565344572067261
+170,2017-05-17 23:00:00,"And again, have some guts.",0.32077229022979736,0.022083621472120285,0.6571441292762756,neutral,0.298688679933548
+171,2017-05-17 23:00:00,You want to buy your rival newspaper?,0.05519720911979675,0.019695855677127838,0.925106942653656,neutral,0.035501353442668915
+172,2017-05-17 23:00:00,Do that.,0.13970613479614258,0.014308229088783264,0.8459855914115906,neutral,0.12539790570735931
+173,2017-05-17 23:00:00,"But don't come to me with this weak, ""Well, we're going to sign this piece of paper, but we can get out of this, right?",0.140765979886055,0.14962542057037354,0.7096085548400879,neutral,-0.008859440684318542
+174,2017-05-17 23:00:00,It's non-binding?,0.02060915157198906,0.03274395689368248,0.9466468691825867,neutral,-0.01213480532169342
+175,2017-05-17 23:00:00,"Great, we'll do that.""",0.553810715675354,0.022251306101679802,0.42393797636032104,positive,0.531559407711029
+176,2017-05-17 23:00:00,Barker: Alright.,0.189204141497612,0.09385522454977036,0.7169405817985535,neutral,0.09534891694784164
+177,2017-05-17 23:00:00,I only brought it up today because I knew you would like to vent.,0.16542105376720428,0.04789942502975464,0.7866795659065247,neutral,0.11752162873744965
+178,2017-05-17 23:00:00,I don't have any real insights on what they're up to today.,0.016669176518917084,0.046505991369485855,0.9368248581886292,neutral,-0.02983681485056877
+179,2017-05-17 23:00:00,"In Philadelphia, we had the experience of the two major papers being all under one roof.",0.046594541519880295,0.008961400017142296,0.9444440603256226,neutral,0.03763314336538315
+180,2017-05-17 23:00:00,So it's not that unusual to me.,0.05470476672053337,0.02811417169868946,0.9171810746192932,neutral,0.02659059502184391
+181,2017-05-17 23:00:00,We'll see whether it works.,0.08618388324975967,0.00803716666996479,0.9057789444923401,neutral,0.07814671844244003
+182,2017-05-17 23:00:00,It may be the case that there just isn't room for two local papers in even a market as big as Chicago.,0.033174749463796616,0.13573354482650757,0.8310917615890503,neutral,-0.10255879163742065
+183,2017-05-17 23:00:00,New York still does it.,0.08898083120584488,0.010473178699612617,0.9005459547042847,neutral,0.07850765436887741
+184,2017-05-17 23:00:00,We'll see for how long.,0.03816938400268555,0.013331690803170204,0.9484989047050476,neutral,0.024837693199515343
+185,2017-05-17 23:00:00,But New York is kind of an entity unto itself.,0.03830057010054588,0.012989762239158154,0.9487096071243286,neutral,0.025310806930065155
+186,2017-05-17 23:00:00,The normal rules of economics don't always apply there.,0.03747454658150673,0.060235995799303055,0.9022895097732544,neutral,-0.022761449217796326
+187,2017-05-17 23:00:00,What's the No.,0.08841917663812637,0.14010800421237946,0.7714728116989136,neutral,-0.05168882757425308
+188,2017-05-17 23:00:00,2 paper in LA?,0.04841483756899834,0.08940640091896057,0.8621787428855896,neutral,-0.040991563349962234
+189,2017-05-17 23:00:00,I'm afraid I don't know it.,0.05692382901906967,0.0999748632311821,0.8431012630462646,neutral,-0.04305103421211243
+190,2017-05-17 23:00:00,"Hill: I believe it's the LA Daily News , but I was about to mention LA.",0.03166089579463005,0.08646602928638458,0.8818731307983398,neutral,-0.05480513349175453
+191,2017-05-17 23:00:00,"In New York City, you have the New York Times ,the New York Post, and Newsday .",0.039805665612220764,0.03167460113763809,0.9285197854042053,neutral,0.008131064474582672
+192,2017-05-17 23:00:00,The LA Times is so much bigger and more relevant than the Daily News -- sorry for anyone listening who may have some connection to the LA Daily News .,0.04752854257822037,0.08969737589359283,0.862774133682251,neutral,-0.04216883331537247
+193,2017-05-17 23:00:00,"But, you can live in New York City, and there are legitimate reasons to subscribe to all three of those newspapers.",0.02278808504343033,0.011763746850192547,0.9654481410980225,neutral,0.011024338193237782
+194,2017-05-17 23:00:00,"And I think, just from a smile standpoint, it's going to be a sad day if the New York Post ever goes under.",0.045494742691516876,0.5072634220123291,0.44724181294441223,negative,-0.4617686867713928
+195,2017-05-17 23:00:00,What's on the cover and the back cover of the New York Post ?,0.03287549689412117,0.024533357471227646,0.9425911903381348,neutral,0.008342139422893524
+196,2017-05-17 23:00:00,I always want to know that.,0.13483348488807678,0.013840197585523129,0.8513263463973999,neutral,0.12099328637123108
+197,2017-05-17 23:00:00,Barker: There's a lot of gold on those covers.,0.22189085185527802,0.012242868542671204,0.7658663392066956,neutral,0.2096479833126068
+198,2017-05-17 23:00:00,Barker: There was a good one today.,0.3669354319572449,0.10223933309316635,0.5308252573013306,neutral,0.2646960914134979
+199,2017-05-17 23:00:00,Barker: Yeah.,0.1393703818321228,0.09039900451898575,0.7702306509017944,neutral,0.048971377313137054
+200,2017-05-17 23:00:00,"It was Leaker-In-Chief, wasn't it?",0.07100988924503326,0.11615227162837982,0.8128377795219421,neutral,-0.04514238238334656
+201,2017-05-17 23:00:00,"Hill: Yes, or maybe that was yesterday.",0.018291959539055824,0.040424998849630356,0.9412830471992493,neutral,-0.02213303931057453
+202,2017-05-17 23:00:00,"Also, the back page at the Post , for anyone who's a sports fan, that's always a good one to check out.",0.06355602294206619,0.02033613994717598,0.9161078333854675,neutral,0.04321988299489021
+203,2017-05-17 23:00:00,"Before we wrap up, we were talking on yesterday's show about the Oreos contest that's being run by Mondelez .",0.02883766032755375,0.01078710425645113,0.9603752493858337,neutral,0.018050555139780045
+204,2017-05-17 23:00:00,"Sneak preview of coming attractions, for anyone who listens to Motley Fool Answers , which is one of our weekly podcasts here at the Fool, hosted by Alison Southwick and Robert Brokamp, next week's episode, I may be making a cameo, because Alison Southwick asked me about doing, possibly, a blind taste test around Oreos.",0.053838010877370834,0.05134759470820427,0.8948143720626831,neutral,0.002490416169166565
+205,2017-05-17 23:00:00,We'll see.,0.08396720886230469,0.010727162472903728,0.9053056240081787,neutral,0.07324004918336868
+206,2017-05-17 23:00:00,"I make no promises, but right now, that's a potential sneak preview of coming attractions.",0.12602227926254272,0.022130290046334267,0.8518474698066711,neutral,0.10389199107885361
+207,2017-05-17 23:00:00,"Speaking of Fool podcasts, today is David Gardner's birthday, co-founder here at The Motley Fool with his brother Tom, and host of Rule Breaker Investing .",0.061653658747673035,0.04296179860830307,0.8953845500946045,neutral,0.018691860139369965
+208,2017-05-17 23:00:00,"I would just say, for David's birthday, you should be subscribing to Rule Breaker Investing .",0.04433637857437134,0.016226530075073242,0.9394371509552002,neutral,0.028109848499298096
+209,2017-05-17 23:00:00,"One click of the button on Apple podcasts or Stitcher or wherever you listen to podcasts, one touch of a button and you could subscribe and get insights and observations on investing every week from David Gardner.",0.06771263480186462,0.025258593261241913,0.9070287346839905,neutral,0.04245404154062271
+210,2017-05-17 23:00:00,So check that out.,0.08100711554288864,0.033778589218854904,0.8852143287658691,neutral,0.04722852632403374
+211,2017-05-17 23:00:00,Are you going to enter the Oreos contest?,0.07430391013622284,0.01845448650419712,0.9072415828704834,neutral,0.05584942549467087
+212,2017-05-17 23:00:00,"Are you going to come up with one, or maybe consult with your children and submit something on behalf of the Barker family?",0.02995309978723526,0.01152760349214077,0.9585192799568176,neutral,0.01842549629509449
+213,2017-05-17 23:00:00,"Anyone can do it on Instagram or Twitter , just using the #myoreocreation.",0.058735717087984085,0.059395015239715576,0.8818693161010742,neutral,-0.0006592981517314911
+214,2017-05-17 23:00:00,"Barker: The winner is whoever comes up with the most absurd idea, is that correct?",0.07282555103302002,0.18456390500068665,0.7426105737686157,neutral,-0.11173835396766663
+215,2017-05-17 23:00:00,Hill: I don't know how they're picking the winner.,0.03249312564730644,0.04719097912311554,0.9203159213066101,neutral,-0.014697853475809097
+216,2017-05-17 23:00:00,"If they follow the playbook that Frito-Lay did with the potato chips, they will come up with a few finalists, produce those flavors, and then let people vote.",0.09104276448488235,0.00706106424331665,0.9018961191177368,neutral,0.0839817002415657
+217,2017-05-17 23:00:00,"I don't know that they're going to do that, but that seemed to work out pretty well for Pepsi Frito-Lay.",0.5596305727958679,0.01992163620889187,0.42044782638549805,positive,0.5397089123725891
+218,2017-05-17 23:00:00,"So, maybe they're just going to, on their own, decide, ""We want to try that flavor.""",0.09952812641859055,0.024899965152144432,0.8755719661712646,neutral,0.07462815940380096
+219,2017-05-17 23:00:00,Barker: What are you promoting?,0.034091606736183167,0.018010318279266357,0.9478980898857117,neutral,0.01608128845691681
+220,2017-05-17 23:00:00,Hill: Nice.,0.15018300712108612,0.0889628678560257,0.7608540654182434,neutral,0.061220139265060425
+221,2017-05-17 23:00:00,"Is it going to be, like in Willy Wonka, is it going to change flavor?",0.04342915862798691,0.013268155045807362,0.9433026909828186,neutral,0.03016100451350212
+222,2017-05-17 23:00:00,"Or is it, this little bite over here is turkey, this little bite is stuffing, and a little cranberry on the side?",0.03648986294865608,0.03488331660628319,0.9286267757415771,neutral,0.0016065463423728943
+223,2017-05-17 23:00:00,"Barker: I'm just an idea guy, I don't want to have to implement.",0.026823336258530617,0.041323404759168625,0.9318532347679138,neutral,-0.014500068500638008
+224,2017-05-17 23:00:00,The idea speaks for itself.,0.07556994259357452,0.009419106878340244,0.915010929107666,neutral,0.06615083664655685
+225,2017-05-17 23:00:00,Hill: There you go.,0.16476719081401825,0.06979148834943771,0.765441358089447,neutral,0.09497570246458054
+226,2017-05-17 23:00:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+227,2017-05-17 23:00:00,1 best selling cookie in America is Oreos.,0.12538743019104004,0.0342232771217823,0.8403893113136292,neutral,0.09116415679454803
+228,2017-05-17 23:00:00,No.,0.16272185742855072,0.12095019966363907,0.716327965259552,neutral,0.04177165776491165
+229,2017-05-17 23:00:00,"2 also produced by Nabisco, part of the Mondelez family, is Chips Ahoy.",0.12685957551002502,0.027621382847428322,0.8455190062522888,neutral,0.09923819452524185
+230,2017-05-17 23:00:00,And yet it seems like the Chips Ahoy people are pretty restrained.,0.10789277404546738,0.31856828927993774,0.5735389590263367,neutral,-0.21067550778388977
+231,2017-05-17 23:00:00,"They just go about their business, they're not going hog wild throwing out flavors willy nilly.",0.048744119703769684,0.04759519174695015,0.9036606550216675,neutral,0.0011489279568195343
+232,2017-05-17 23:00:00,"It seems like the Oreos people are drunk with power, which leads to this question -- do you think the Chips Ahoy division resents the Oreo division?",0.03280819579958916,0.07779193669557571,0.8893998861312866,neutral,-0.04498374089598656
+233,2017-05-17 23:00:00,Is there internal strife at Mondelez?,0.050325825810432434,0.7933410406112671,0.1563330888748169,negative,-0.7430152297019958
+234,2017-05-17 23:00:00,"Barker: I don't know, but maybe we could agitate here.",0.04774300381541252,0.03635464608669281,0.9159023761749268,neutral,0.011388357728719711
+235,2017-05-17 23:00:00,Maybe we could instigate some fight between them.,0.28596746921539307,0.0946868285536766,0.6193457245826721,neutral,0.19128063321113586
+236,2017-05-17 23:00:00,"I mean, the story out there is that the Oreos guys look down on the Chips Ahoy guys and consider them the B team.",0.062118928879499435,0.038872141391038895,0.8990089297294617,neutral,0.02324678748846054
+237,2017-05-17 23:00:00,That's what you hear.,0.06003301963210106,0.015618696808815002,0.9243482947349548,neutral,0.044414322823286057
+238,2017-05-17 23:00:00,"Hill: Look, if you had a winning streak the way Oreos has had for God knows how many years, of course at some point you're going to say, ""Oh, Chips Ahoy, that's adorable, that you're the second best-selling cookie in America.""",0.3126630485057831,0.0889197289943695,0.5984172224998474,neutral,0.22374331951141357
+239,2017-05-17 23:00:00,"Barker: Yeah, Chips Ahoy has just been playing defense for a long time now, according to the Oreos guys.",0.044987693428993225,0.02945084124803543,0.9255614876747131,neutral,0.015536852180957794
+240,2017-05-17 23:00:00,"Hill: Yeah, you talk to the Oreos people, and that's what they'll tell you.",0.024048583582043648,0.01686093397438526,0.9590904712677002,neutral,0.007187649607658386
+241,2017-05-17 23:00:00,We'll see.,0.08396720886230469,0.010727162472903728,0.9053056240081787,neutral,0.07324004918336868
+242,2017-05-17 23:00:00,"You can go to foolfunds.com and subscribe to Declarations, it's the free monthly newsletter from Bill Barker and his colleagues at Motley Fool Funds .",0.024495849385857582,0.0161602683365345,0.9593438506126404,neutral,0.008335581049323082
+243,2017-05-17 23:00:00,Any chance that the Oreos contest is going to make its way into the next issue of Declarations?,0.08681945502758026,0.04660407081246376,0.8665764927864075,neutral,0.0402153842151165
+244,2017-05-17 23:00:00,Can you work on that?,0.10804205387830734,0.023714406415820122,0.8682435750961304,neutral,0.08432764559984207
+245,2017-05-17 23:00:00,"Can you say, ""By the way, here's the Fool Funds submission,"" you can, obviously, have your own submission?",0.08637531101703644,0.057244472205638885,0.8563802242279053,neutral,0.029130838811397552
+246,2017-05-17 23:00:00,"Barker: Yeah, we can do whatever we like down there.",0.17046032845973969,0.012822266668081284,0.8167173862457275,neutral,0.1576380580663681
+247,2017-05-17 23:00:00,"[laughs] We could try, I guess.",0.15039166808128357,0.01217085774987936,0.8374375104904175,neutral,0.13822081685066223
+248,2017-05-17 23:00:00,"Hill: Bryan Hinmon is like Captain Jack Sparrow, he's running his own empire down there.",0.02616056054830551,0.01650044694542885,0.9573389887809753,neutral,0.009660113602876663
+249,2017-05-17 23:00:00,"Barker: The Oreos guys coming up to the Chips Ahoy guys, ""You're kind of an expert on boring cookies.""",0.08956243842840195,0.11984864622354507,0.790588915348053,neutral,-0.030286207795143127
+250,2017-05-17 23:00:00,"And the Chips Ahoy guys start cursing, fist fights break out a lot of the time, from what you hear.",0.06300361454486847,0.4347097873687744,0.5022866129875183,neutral,-0.37170618772506714
+251,2017-05-17 23:00:00,"Hill: I mean, some people are saying that.",0.051979660987854004,0.10998231917619705,0.8380380272865295,neutral,-0.05800265818834305
+252,2017-05-17 23:00:00,Hill: Thanks for being here!,0.44772404432296753,0.07987675070762634,0.47239920496940613,neutral,0.3678472936153412
+253,2017-05-17 23:00:00,"Hill: As always, people on the program may have interests in the stocks they talk about, and The Motley Fool may have formal recommendations for or against, so don't buy or sell stocks based solely on what you hear.",0.012709632515907288,0.015301940031349659,0.9719884395599365,neutral,-0.0025923075154423714
+254,2017-05-17 23:00:00,That's going to do it for this edition of Market Foolery .,0.13018590211868286,0.024790475144982338,0.8450236320495605,neutral,0.10539542883634567
+255,2017-05-17 23:00:00,The show is mixed by Dan Boyd.,0.054916974157094955,0.028008896857500076,0.9170740842819214,neutral,0.02690807729959488
+256,2017-05-17 23:00:00,I'm Chris Hill.,0.050329629331827164,0.007737692911177874,0.941932737827301,neutral,0.04259193688631058
+257,2017-05-17 23:00:00,Thanks for listening!,0.25801247358322144,0.07156457751989365,0.6704229116439819,neutral,0.1864478886127472
+258,2017-05-17 23:00:00,We'll see you tomorrow!,0.11879522353410721,0.04576205834746361,0.8354426622390747,neutral,0.0730331689119339
+259,2017-05-17 23:00:00,Bill Barker owns shares of Apple and Home Depot.,0.02196981944143772,0.014069683849811554,0.9639605283737183,neutral,0.007900135591626167
+260,2017-05-17 23:00:00,Chris Hill owns shares of Amazon.,0.02481010928750038,0.014518744312226772,0.9606711268424988,neutral,0.01029136497527361
+261,2017-05-17 23:00:00,"The Motley Fool owns shares of and recommends Amazon, Apple, Berkshire Hathaway (B shares), Ford, PepsiCo, and Twitter.",0.02634674683213234,0.019827507436275482,0.9538257122039795,neutral,0.006519239395856857
+262,2017-05-17 23:00:00,"The Motley Fool recommends AutoZone, Home Depot, Lowe's, and The New York Times.",0.030651535838842392,0.03063291497528553,0.9387155175209045,neutral,1.8620863556861877e-05
+263,2017-05-17 23:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+264,2017-05-17 23:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

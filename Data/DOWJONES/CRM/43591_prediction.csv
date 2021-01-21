@@ -1,0 +1,43 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-12-01 09:00:00,"Recently, leading software-as-a-service company Salesforce (NYSE: CRM) had its annual Dreamforce conference.",0.16176185011863708,0.011807894334197044,0.8264303207397461,neutral,0.1499539613723755
+1,2019-12-01 09:00:00,"At the event, management put forward some seemingly lofty goals, including a forecast to more than double Salesforce's revenue from $17 billion in 2020 to $35 billion in fiscal 2024.",0.8444889783859253,0.015354431234300137,0.14015653729438782,positive,0.8291345238685608
+2,2019-12-01 09:00:00,"(Of note: Salesforce's fiscal year ends in January, so fiscal years mostly encompass results from the preceding calendar year.)",0.012933322228491306,0.04470154643058777,0.9423651099205017,neutral,-0.03176822513341904
+3,2019-12-01 09:00:00,"Doubling revenue over four years equates to roughly 20% compound annual growth, which is highly impressive for a company as large as Salesforce.",0.9075897336006165,0.014955022372305393,0.07745525985956192,positive,0.8926346898078918
+4,2019-12-01 09:00:00,"However, there are a few big caveats you should realize about Salesforce's lofty revenue ambitions before you jump in.",0.27208927273750305,0.012559827417135239,0.715350866317749,neutral,0.2595294415950775
+5,2019-12-01 09:00:00,"Impressively, Salesforce's forecast excludes any of its trademark mergers and acquisitions.",0.011580857448279858,0.053411662578582764,0.9350075125694275,neutral,-0.04183080419898033
+6,2019-12-01 09:00:00,"That means one could think of Salesforce's growth over the next few years as totally ""organic.""",0.39550697803497314,0.009866898879408836,0.5946260690689087,neutral,0.38564008474349976
+7,2019-12-01 09:00:00,"However, calling this 20% growth ""organic"" is still a bit of a red herring.",0.09185601770877838,0.6800986528396606,0.22804534435272217,negative,-0.5882426500320435
+8,2019-12-01 09:00:00,"That's because, over the past 3 1/2 years, Salesforce has bought a lot of companies for a lot of money and stock:
+
+Data source: Salesforce annual and quarterly reports.",0.06980906426906586,0.006926395930349827,0.9232645630836487,neutral,0.0628826692700386
+9,2019-12-01 09:00:00,Table by author.,0.03732270002365112,0.034020233899354935,0.9286571145057678,neutral,0.0033024661242961884
+10,2019-12-01 09:00:00,"As you can see, Salesforce has shelled out a whopping $28.3 billion on more than 20 acquisitions over the past 3 1/2 years.",0.15246739983558655,0.012512590736150742,0.8350200653076172,neutral,0.1399548053741455
+11,2019-12-01 09:00:00,"In fact, the $16.5 billion just spent during this fiscal year -- which isn't over yet -- is almost the same amount as the revenue increase Salesforce is predicting by 2024.",0.35200026631355286,0.013641881756484509,0.6343578696250916,neutral,0.3383583724498749
+12,2019-12-01 09:00:00,"Considering that this is the software space, these acquisitions were not cheap.",0.07102864980697632,0.07743550837039948,0.8515357971191406,neutral,-0.006406858563423157
+13,2019-12-01 09:00:00,"While many of the acquisitions were very high-growth companies, most of the acquirees were relatively small compared to the prices paid.",0.1048274114727974,0.04528648778796196,0.8498861193656921,neutral,0.059540923684835434
+14,2019-12-01 09:00:00,"Here are some of the largest acquisitions and price-to-sales ratios paid for each:
+
+Notably, the two largest acquisitions were still quite expensive.",0.03073040209710598,0.14824309945106506,0.8210264444351196,neutral,-0.11751269549131393
+15,2019-12-01 09:00:00,Mulesoft was bought at a staggering 22 times sales.,0.5186152458190918,0.01524807047098875,0.466136634349823,positive,0.5033671855926514
+16,2019-12-01 09:00:00,"Tableau, the largest to date, was bought at 13 times sales.",0.28895047307014465,0.010171929374337196,0.7008775472640991,neutral,0.2787785530090332
+17,2019-12-01 09:00:00,Neither company was profitable at the time.,0.014957395382225513,0.06255846470594406,0.9224841594696045,neutral,-0.04760107025504112
+18,2019-12-01 09:00:00,"Obviously, there was a lot of sales growth baked into Salesforce's largest acquisitions.",0.803771436214447,0.012405725196003914,0.1838228553533554,positive,0.7913656830787659
+19,2019-12-01 09:00:00,"Thus, it would be highly suspect if Salesforce didn't grow a lot in the coming years as a result of these newly acquired assets.",0.21880388259887695,0.01599743217229843,0.7651986479759216,neutral,0.20280644297599792
+20,2019-12-01 09:00:00,"A different strategy in tech, but a good one?",0.2324645072221756,0.018242698162794113,0.74929279088974,neutral,0.2142218053340912
+21,2019-12-01 09:00:00,"No doubt, Salesforce's roll-up strategy could work if the company is able to plug each acquisition into the Salesforce system, cut costs, and accelerate revenue growth.",0.9376382827758789,0.01438003871589899,0.04798170551657677,positive,0.9232582449913025
+22,2019-12-01 09:00:00,"To its credit, the stock has done quite well during this tech bull market.",0.937487781047821,0.01776372268795967,0.04474853724241257,positive,0.9197240471839905
+23,2019-12-01 09:00:00,"However, Salesforce is far, far more acquisitive than most of the other large tech giants, especially relative to Salesforce's size.",0.3999517858028412,0.01947321556508541,0.5805749893188477,neutral,0.38047856092453003
+24,2019-12-01 09:00:00,That means Salesforce's growth shouldn't be viewed exactly the same way or of being the same quality as more mature companies.,0.05465283617377281,0.04430365189909935,0.9010435342788696,neutral,0.010349184274673462
+25,2019-12-01 09:00:00,"While Salesforce's revenue growth and ambitions are impressive, investors should realize that this is more expensive growth than that of its large-cap tech peers.",0.6672211289405823,0.056329526007175446,0.27644944190979004,positive,0.610891580581665
+26,2019-12-01 09:00:00,This is the reason investors should take Salesforce's lofty revenue goals with a grain of salt.,0.7257529497146606,0.02717098593711853,0.24707604944705963,positive,0.6985819339752197
+27,2019-12-01 09:00:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+28,2019-12-01 09:00:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+29,2019-12-01 09:00:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.20034073293209076,0.016208069398999214,0.7834511995315552,neutral,0.1841326653957367
+30,2019-12-01 09:00:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+31,2019-12-01 09:00:00,Billy Duberstein has no position in any of the stocks mentioned.,0.010155468247830868,0.04124909266829491,0.9485954642295837,neutral,-0.031093623489141464
+32,2019-12-01 09:00:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+33,2019-12-01 09:00:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

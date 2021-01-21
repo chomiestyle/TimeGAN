@@ -1,0 +1,34 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-03-19 23:34:00,"Toward the end of trading Tuesday, the Dow traded up 0.45 percent to 24,722.29 while the NASDAQ gained 0.15 percent to 7,355.20.",0.8911757469177246,0.05118179693818092,0.05764235183596611,positive,0.839993953704834
+1,2018-03-19 23:34:00,"The S&P also rose, gaining 0.08 percent to 2,715.02.",0.9371971487998962,0.028666382655501366,0.03413655608892441,positive,0.9085307717323303
+2,2018-03-19 23:34:00,"Tuesday afternoon, the energy shares gained 0.95 percent.",0.9285352230072021,0.02342316135764122,0.04804171621799469,positive,0.905112087726593
+3,2018-03-19 23:34:00,"Meanwhile, top gainers in the sector included Profire Energy, Inc. (NASDAQ: PFIE ), up 7 percent, and PBF Energy Inc. (NYSE: PBF ), up 5 percent.",0.9214684367179871,0.02225426211953163,0.05627734214067459,positive,0.8992141485214233
+4,2018-03-19 23:34:00,Oracle Corporation (NYSE: ORCL ) shares fell over 6 percent in after-hours trading despite reporting a third quarter earnings beat.,0.019781477749347687,0.9709365367889404,0.009282074868679047,negative,-0.9511550664901733
+5,2018-03-19 23:34:00,"Adjusted earnings came in at 83 cents per share, beating estimates by 11 cents.",0.9334945678710938,0.03757758066058159,0.028927840292453766,positive,0.8959169983863831
+6,2018-03-19 23:34:00,"Sales came in at $9.776 billion, versus estimates of $9.781 billion.",0.596513032913208,0.307402640581131,0.09608425199985504,positive,0.289110392332077
+7,2018-03-19 23:34:00,The company also reported that third quarter cloud SaaS sales were up 33 percent year-over-year.,0.9537140130996704,0.01954357884824276,0.026742469519376755,positive,0.9341704249382019
+8,2018-03-19 23:34:00,"Arena Pharmaceuticals, Inc. (NASDAQ: ARNA ) shares shot up 29 percent to $39.87 as the company reported topline Phase 2 results from an ongoing trial of etrasimod called OASIS after Monday's market close.",0.9378620982170105,0.01996094360947609,0.042176902294158936,positive,0.9179011583328247
+9,2018-03-19 23:34:00,"Shares of MuleSoft, Inc. (NYSE: MULE ) got a boost, shooting up 24 percent to $40.7852 after the company was named as a potential acquisition target.",0.9373727440834045,0.02293909341096878,0.03968815132975578,positive,0.9144336581230164
+10,2018-03-19 23:34:00,"Mulesoft, a provider of integration software for connecting applications, data and devices, is in advanced talks to be acquired by salesforce.com, inc. (NYSE: CRM ), Reuters reported.",0.1932283341884613,0.012655079364776611,0.7941166162490845,neutral,0.1805732548236847
+11,2018-03-19 23:34:00,"Marinus Pharmaceuticals, Inc. (NASDAQ: MRNS ) shares were also up, gaining 10 percent to $4.50.",0.9399734735488892,0.022019686177372932,0.03800692781805992,positive,0.9179537892341614
+12,2018-03-19 23:34:00,Mizuho initiated coverage on Marinus Pharmaceuticals with a Buy rating and a $13.00 price target.,0.6103435754776001,0.01057438738644123,0.379082053899765,positive,0.5997691750526428
+13,2018-03-19 23:34:00,"Proteostasis Therapeutics, Inc. (NASDAQ: PTI ) shares dropped 22 percent to $5.46 after reporting proposed public offering of common stock.",0.017125142738223076,0.9678013920783997,0.015073387883603573,negative,-0.9506762623786926
+14,2018-03-19 23:34:00,The company plans on offering and selling nine million shares of its common stock.,0.09111517667770386,0.004440765827894211,0.9044440388679504,neutral,0.08667440712451935
+15,2018-03-19 23:34:00,The stock is still up nearly 60 percent since March 9.,0.897682785987854,0.02788597159087658,0.07443119585514069,positive,0.8697968125343323
+16,2018-03-19 23:34:00,"Shares of Northern Oil and Gas, Inc (NYSE: NOG ) were down 19 percent to $1.873 after the company announced a $105 million offering.",0.019927574321627617,0.945774257183075,0.03429819270968437,negative,-0.9258466958999634
+17,2018-03-19 23:34:00,The company also raised FY18 production growth guidance.,0.8960564136505127,0.013725144788622856,0.0902184247970581,positive,0.8823312520980835
+18,2018-03-19 23:34:00,"Duluth Holdings Inc. (NASDAQ: DLTH ) was down, falling around 9 percent to $17.22.",0.01626584306359291,0.959534764289856,0.024199353531003,negative,-0.943268895149231
+19,2018-03-19 23:34:00,"Duluth posted upbeat results for its fourth quarter, but issued weak forecast for FY18.",0.025590604171156883,0.9506174921989441,0.023791899904608727,negative,-0.9250268936157227
+20,2018-03-19 23:34:00,"In commodity news, oil traded up 2.06 percent to $63.34 while gold traded down 0.43 percent to $1,312.10.",0.787236213684082,0.11487992107868195,0.09788387268781662,positive,0.6723563075065613
+21,2018-03-19 23:34:00,"Silver traded down 0.86 percent Tuesday to $16.185, while copper fell 1.36 percent to $3.04.",0.024224942550063133,0.9609605669975281,0.014814519323408604,negative,-0.9367356300354004
+22,2018-03-19 23:34:00,European shares closed higher today.,0.9395115375518799,0.02290993370115757,0.0375785306096077,positive,0.9166015982627869
+23,2018-03-19 23:34:00,"The eurozone's STOXX 600 gained 0.51 percent, the Spanish Ibex Index rose 0.18 percent, while Italy's FTSE MIB Index rose 0.73 percent.",0.8970524072647095,0.037596795707941055,0.06535075604915619,positive,0.8594555854797363
+24,2018-03-19 23:34:00,"Meanwhile the German DAX gained 0.74 percent, and the French CAC 40 climbed 0.57 percent while U.K. shares rose 0.26 percent.",0.9184997081756592,0.033210866153240204,0.04828942194581032,positive,0.8852888345718384
+25,2018-03-19 23:34:00,© 2018 Benzinga.com.,0.029845405369997025,0.013035476207733154,0.9571191072463989,neutral,0.01680992916226387
+26,2018-03-19 23:34:00,Benzinga does not provide investment advice.,0.009189262054860592,0.019420845434069633,0.9713898301124573,neutral,-0.010231583379209042
+27,2018-03-19 23:34:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+28,2018-03-19 23:34:00,Profit with More New & Research .,0.5799124836921692,0.026327962055802345,0.39375951886177063,positive,0.5535845160484314
+29,2018-03-19 23:34:00,Gain access to a streaming platform with all the information you need to invest better today.,0.7333180904388428,0.014288763515651226,0.2523931562900543,positive,0.7190293073654175
+30,2018-03-19 23:34:00,"Click here to start your 14 Day Trial of Benzinga Professional
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010296506807208061,0.015620114281773567,0.9740833640098572,neutral,-0.005323607474565506

@@ -1,0 +1,75 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-12 22:45:00,"Labor Day has passed, and that means everyone is coming back from summer vacation, reenrolling the kids in school and...turning their attention back to the stock market.",0.13091155886650085,0.12634903192520142,0.7427394390106201,neutral,0.0045625269412994385
+1,2016-09-12 22:45:00,"In honor of that, I'm making public the one stock that I plan to buy in September: customer-service cloud player Zendesk (NYSE: ZEN) .",0.053573496639728546,0.005378135479986668,0.9410483837127686,neutral,0.04819536209106445
+2,2016-09-12 22:45:00,The company has three variables that -- when present in other investments I've made -- have produced market-thumping returns.,0.3712042272090912,0.008752142079174519,0.6200436353683472,neutral,0.36245208978652954
+3,2016-09-12 22:45:00,Here's what I'm talking about....,0.02566237933933735,0.013436690904200077,0.9609009027481079,neutral,0.012225688435137272
+4,2016-09-12 22:45:00,"In its simplest form, all Zendesk really does is provide a platform for small and medium-sized businesses to track their interactions with customers.",0.03458601236343384,0.005588789004832506,0.9598251581192017,neutral,0.02899722382426262
+5,2016-09-12 22:45:00,"Additionally, it offers live-chat software to enable online interactions.",0.043957460671663284,0.004674695432186127,0.9513678550720215,neutral,0.03928276523947716
+6,2016-09-12 22:45:00,Imagine you have a problem with a product you bought from a local retailer.,0.05273653566837311,0.791866660118103,0.15539678931236267,negative,-0.7391301393508911
+7,2016-09-12 22:45:00,"When you call that retailer, the person on the phone (or on a live chat) pulls up your customer account and can see every single interaction you've had with the company.",0.021402282640337944,0.019103558734059334,0.9594941735267639,neutral,0.0022987239062786102
+8,2016-09-12 22:45:00,"Seems simple enough, right?",0.04853130877017975,0.01736493781208992,0.934103786945343,neutral,0.03116637095808983
+9,2016-09-12 22:45:00,"Well, here's the thing: Most small and medium-sized businesses are ignored by the big cloud players like Amazon , Alphabet , and Microsoft .",0.051651548594236374,0.46249130368232727,0.4858570694923401,neutral,-0.4108397662639618
+10,2016-09-12 22:45:00,That leaves salesforce.com (NYSE: CRM) as the top dog for small and medium-sized companies.,0.5996575355529785,0.018522577360272408,0.3818199634552002,positive,0.5811349749565125
+11,2016-09-12 22:45:00,But Zendesk has been able to specialize and focus on niche markets far better than Salesforce -- which makes sense as Salesforce is valued at 18 times Zendesk.,0.8934121131896973,0.014239167794585228,0.09234875440597534,positive,0.8791729211807251
+12,2016-09-12 22:45:00,"Simply put, Salesforce has bigger fish to fry.",0.14273212850093842,0.04451194033026695,0.8127558827400208,neutral,0.09822018444538116
+13,2016-09-12 22:45:00,A key differentiator between the two is the fact that Zendesk is far more customizable.,0.3945481777191162,0.028432216495275497,0.5770195722579956,neutral,0.3661159574985504
+14,2016-09-12 22:45:00,"Instead of adapting your company's needs to Salesforce's infrastructure, Zendesk is open-source.",0.062490690499544144,0.0050644055008888245,0.9324448704719543,neutral,0.05742628499865532
+15,2016-09-12 22:45:00,This allows the IT department at each individual company to write code to make Zendesk uniquely fit their company's needs.,0.0877220407128334,0.005384496878832579,0.9068934321403503,neutral,0.08233754336833954
+16,2016-09-12 22:45:00,That's a huge advantage in both design and scale.,0.5581005215644836,0.010475440882146358,0.4314240515232086,positive,0.5476250648498535
+17,2016-09-12 22:45:00,It also helps provide a serious moat for the company.,0.8905467987060547,0.019358430057764053,0.09009480476379395,positive,0.8711883425712585
+18,2016-09-12 22:45:00,Imagine what a headache it would be to rewrite all the code for a customer-service platform if you switched away from Zendesk.,0.038878701627254486,0.33683231472969055,0.6242889165878296,neutral,-0.29795360565185547
+19,2016-09-12 22:45:00,"Then, imagine having to transfer (or lose) all of the data that's been collected on that platform.",0.025526590645313263,0.14946988224983215,0.8250035643577576,neutral,-0.12394329160451889
+20,2016-09-12 22:45:00,"If this seems like confusing tech talk, let's put it this way: Switching away from Zendesk would be like writing an entire dissertation, and then losing all of it the night before it's due.",0.024479079991579056,0.2504560351371765,0.7250649333000183,neutral,-0.22597695887088776
+21,2016-09-12 22:45:00,You would have to go back and rewrite everything from the beginning.,0.06484886258840561,0.045278243720531464,0.8898728489875793,neutral,0.019570618867874146
+22,2016-09-12 22:45:00,"Big headache, right?",0.1388501226902008,0.18446627259254456,0.6766835451126099,neutral,-0.04561614990234375
+23,2016-09-12 22:45:00,"In the investing world, that's what we call high switching costs.",0.0597914457321167,0.011439350433647633,0.9287691712379456,neutral,0.04835209622979164
+24,2016-09-12 22:45:00,"Business momentum proves that it's winning over customers
+
+Zendesk has only been a publicly traded company for a little over two years.",0.767569899559021,0.023540683090686798,0.208889439702034,positive,0.7440292239189148
+25,2016-09-12 22:45:00,"But in that time, revenue has grown by an astounding 59% per year .",0.9378151893615723,0.01736123487353325,0.04482361674308777,positive,0.9204539656639099
+26,2016-09-12 22:45:00,That alone should be evidence of the company's popularity with small customers.,0.7268961071968079,0.014887586236000061,0.25821638107299805,positive,0.712008535861969
+27,2016-09-12 22:45:00,But two metrics that provide further granularity really have me excited.,0.6031760573387146,0.021473823115229607,0.37535008788108826,positive,0.5817022323608398
+28,2016-09-12 22:45:00,The first is a simple customer count.,0.01466214470565319,0.009588760323822498,0.975749135017395,neutral,0.005073384381830692
+29,2016-09-12 22:45:00,"When a company signs up to use Zendesk, it usually opens a number of accounts.",0.03155249357223511,0.007405769545584917,0.9610416889190674,neutral,0.024146724492311478
+30,2016-09-12 22:45:00,"This doesn't include every employee, only those who would benefit from having access to customer-service data.",0.01677415892481804,0.01169081311672926,0.9715349674224854,neutral,0.0050833458080887794
+31,2016-09-12 22:45:00,"Look at how these accounts have grown since going public:
+
+These are astounding numbers.",0.09612550586462021,0.01081143319606781,0.8930630087852478,neutral,0.0853140726685524
+32,2016-09-12 22:45:00,Live-chat and customer-service platform accounts have grown by 32% and 36% per year.,0.9508733749389648,0.016967404633760452,0.03215920925140381,positive,0.9339059591293335
+33,2016-09-12 22:45:00,This simply wouldn't be the case if Zendesk was providing an inferior or difficult solution.,0.05689495429396629,0.6068109273910522,0.3362940847873688,negative,-0.5499159693717957
+34,2016-09-12 22:45:00,"The second metric worth watching is something called ""dollar-based net expansion rate"" (DBNE).",0.11831725388765335,0.007911860011518002,0.8737708926200867,neutral,0.11040539294481277
+35,2016-09-12 22:45:00,"Simply put, this measures revenue growth Zendesk gets from its existing customer base.",0.3153369128704071,0.00832489412277937,0.6763381361961365,neutral,0.30701202154159546
+36,2016-09-12 22:45:00,"This growth comes via upgrading services, buying add-ons, and paying for more employees to have access to the platform.",0.8892582654953003,0.013448499143123627,0.09729322046041489,positive,0.8758097887039185
+37,2016-09-12 22:45:00,"Growth here is incredibly important for three reasons:
+• It represents the fact that customers see value in deepening their relationships with Zendesk.",0.7809094786643982,0.011099855415523052,0.2079906165599823,positive,0.7698096036911011
+38,2016-09-12 22:45:00,"• Less money is spent on acquiring these revenues, as they are coming from customers already using the platform.",0.02315177395939827,0.04646975174546242,0.9303784966468811,neutral,-0.023317977786064148
+39,2016-09-12 22:45:00,• And closely related to No.,0.02567773312330246,0.008959982544183731,0.9653622508049011,neutral,0.01671775057911873
+40,2016-09-12 22:45:00,"2, these are normally higher-margin sales.",0.025659088045358658,0.009336081333458424,0.9650048613548279,neutral,0.01632300764322281
+41,2016-09-12 22:45:00,"Here's how much such revenue has increased since going public:
+
+The chart itself might look boring, but look at what it represents: Revenue from existing customers has more than doubled each year for the company's entire public existence.",0.5259921550750732,0.016757776960730553,0.45725008845329285,positive,0.5092343688011169
+42,2016-09-12 22:45:00,"There's no way it can keep up this level of growth, but even coming in ahead of 50% in the coming year would be significant.",0.8841056227684021,0.019878702238202095,0.09601572155952454,positive,0.8642269372940063
+43,2016-09-12 22:45:00,"The softer variables are on the company's side
+
+Finally, I like to look for companies run by founders -- leaders who have significant skin in the game, and who are creating fantastic workplaces.",0.08340883255004883,0.007320706732571125,0.9092704057693481,neutral,0.07608812302350998
+44,2016-09-12 22:45:00,"Zendesk qualifies on all three counts:
+• Co-founders Mikkel Svane (CEO), Morten Primdahl (CTO), and Alexander Aghassipour (chief product officer) are all still with the company.",0.015216992236673832,0.017181964591145515,0.9676011204719543,neutral,-0.0019649723544716835
+45,2016-09-12 22:45:00,• Insiders together hold over 22% of shares outstanding.,0.04711775854229927,0.010079818777740002,0.9428024291992188,neutral,0.037037938833236694
+46,2016-09-12 22:45:00,"• The company has a 4.6 rating on Glassdoor, with 92% saying they'd recommend the company to a friend, and 96% approving of the job that Svane does.",0.6000293493270874,0.043430715799331665,0.35653993487358093,positive,0.5565986633300781
+47,2016-09-12 22:45:00,"Bears might point out that the company has yet to turn a profit, and is currently free-cash-flow negative.",0.022772617638111115,0.894701361656189,0.08252602070569992,negative,-0.8719287514686584
+48,2016-09-12 22:45:00,And they'd be right...but I think that misses the point.,0.05359262973070145,0.2699315547943115,0.6764757633209229,neutral,-0.21633893251419067
+49,2016-09-12 22:45:00,Zendesk is spending money now to (1) grab market share and (2) increase the moat surrounding its business.,0.9276842474937439,0.013454068452119827,0.058861635625362396,positive,0.9142301678657532
+50,2016-09-12 22:45:00,"Eventually, the expansion effort will slow, and that will allow far more money to drop to the bottom line.",0.04311592876911163,0.7333759665489197,0.2235080599784851,negative,-0.6902600526809692
+51,2016-09-12 22:45:00,"But if you don't invest now, I suspect that, by then, the rest of the investing world will have caught on, and you'll pay much more than today's $30 price tag.",0.14973635971546173,0.03158626705408096,0.8186773657798767,neutral,0.11815009266138077
+52,2016-09-12 22:45:00,"The world's biggest tech company forgot to show you something, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology.",0.07462237030267715,0.16781271994113922,0.757564902305603,neutral,-0.09319034963846207
+53,2016-09-12 22:45:00,And we think its stock price has nearly unlimited room to run for early in-the-know investors!,0.28927910327911377,0.013621804304420948,0.6970990896224976,neutral,0.2756572961807251
+54,2016-09-12 22:45:00,"To be one of them, just click here .",0.08918054401874542,0.07975278049707413,0.8310666680335999,neutral,0.009427763521671295
+55,2016-09-12 22:45:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+56,2016-09-12 22:45:00,"Brian Stoffel owns shares of, and The Motley Fool owns shares of and recommends, Alphabet (A and C shares) and Amazon.com.",0.013817834667861462,0.010560768656432629,0.9756213426589966,neutral,0.003257066011428833
+57,2016-09-12 22:45:00,"Brian Stoffel owns shares of, and The Motley Fool recommends, Zendesk.",0.02910597436130047,0.01703055016696453,0.9538634419441223,neutral,0.012075424194335938
+58,2016-09-12 22:45:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+59,2016-09-12 22:45:00,The Motley Fool owns shares of Microsoft.,0.04813051596283913,0.03696756437420845,0.9149019718170166,neutral,0.011162951588630676
+60,2016-09-12 22:45:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+61,2016-09-12 22:45:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+62,2016-09-12 22:45:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+63,2016-09-12 22:45:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

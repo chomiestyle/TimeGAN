@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-11-18 06:30:00,"Chicago, IL - November 18, 2016 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.017690638080239296,0.008845222182571888,0.9734641313552856,neutral,0.008845415897667408
+1,2016-11-18 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2016-11-18 06:30:00,"Stocks recently featured in the blog include Home Depot (NYSE: HD - Free Report ), TOTAL (NYSE: TOT - Free Report ), Pepsi (NYSE: PEP - Free Report ), Merck (NYSE: MRK - Free Report ), Target (NYSE: TGT - Free Report ) and Electronic Arts (NASDAQ: EA - Free Report ).",0.026762282475829124,0.012489848770201206,0.9607478976249695,neutral,0.014272433705627918
+3,2016-11-18 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2016-11-18 06:30:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2016-11-18 06:30:00,"Here are highlights from Thursday's Analyst Blog:
+
+Today's Research Daily features new research reports on 16 major stocks, including Home Depot (NYSE: HD - Free Report ), TOTAL (NYSE: TOT - Free Report ) and Pepsi (NYSE: PEP - Free Report ).",0.027653135359287262,0.009535911493003368,0.9628109931945801,neutral,0.01811722293496132
+6,2016-11-18 06:30:00,Home Depot 's shares have struggled this year.,0.022468576207756996,0.9632970094680786,0.014234522357583046,negative,-0.9408284425735474
+7,2016-11-18 06:30:00,The company reported better-than-expected top and bottom-line results for third-quarter fiscal 2016.,0.8761481046676636,0.0899810642004013,0.03387083858251572,positive,0.7861670255661011
+8,2016-11-18 06:30:00,"The analyst likes Home Depot's focus on developing merchandising tools, which, along with investment in building its interconnected capabilities is expected to boost its top line, and enhance market share.",0.9474795460700989,0.015217146836221218,0.03730326518416405,positive,0.9322624206542969
+9,2016-11-18 06:30:00,"The company is on track to achieve its long-term dividend payout, share repurchase and return on investment targets.",0.9084774255752563,0.012517848052084446,0.07900471985340118,positive,0.8959595561027527
+10,2016-11-18 06:30:00,"However, intense competition and a soft economic recovery may prove deterrents, pushing back home improvement projects.",0.0386219397187233,0.9349080324172974,0.026470093056559563,negative,-0.8962860703468323
+11,2016-11-18 06:30:00,(You can read the full research report on Home Depot here. ),0.019103119149804115,0.012710550799965858,0.9681862592697144,neutral,0.006392568349838257
+12,2016-11-18 06:30:00,TOTAL 's shares have shown significant weakness recently.,0.02123810350894928,0.958625316619873,0.020136570557951927,negative,-0.937387228012085
+13,2016-11-18 06:30:00,The company reported mixed results for the third quarter of 2016.,0.018318278715014458,0.9301565885543823,0.05152510106563568,negative,-0.9118382930755615
+14,2016-11-18 06:30:00,"However, the analyst likes the manner in which TOTAL has successfully lowered operating expenses as per management's plans.",0.9066810011863708,0.04766729474067688,0.045651715248823166,positive,0.8590136766433716
+15,2016-11-18 06:30:00,"Going forward, the company will continue to benefit from its upstream startups and cost management initiatives.",0.921368420124054,0.012810519896447659,0.06582104414701462,positive,0.9085578918457031
+16,2016-11-18 06:30:00,Strategic acquisitions and asset divestures will strengthen its portfolio.,0.945861279964447,0.015278701670467854,0.03885999694466591,positive,0.930582582950592
+17,2016-11-18 06:30:00,TOTAL's initiatives to increase clean energy assets through acquisitions will diversify its operations.,0.9325215816497803,0.013302016071975231,0.05417637899518013,positive,0.9192195534706116
+18,2016-11-18 06:30:00,"Meanwhile, fluctuating commodity prices, operations in some politically troubled regions and increasing competition could impact the company's profitability.",0.02648775838315487,0.8889905214309692,0.08452173322439194,negative,-0.8625027537345886
+19,2016-11-18 06:30:00,(You can read the full research report on TOTAL here. ),0.016179772093892097,0.011304325424134731,0.972515881061554,neutral,0.004875446669757366
+20,2016-11-18 06:30:00,Buy rated Pepsi shares have performed poorly this year.,0.021717481315135956,0.9654053449630737,0.012877103872597218,negative,-0.9436878561973572
+21,2016-11-18 06:30:00,"But the analyst emphasizes that Pepsi has been doing well on the back of significant innovation, continued momentum in Frito-Lay business, revenue management strategies, improved productivity and better market execution.",0.9568929672241211,0.017872149124741554,0.02523495815694332,positive,0.9390208125114441
+22,2016-11-18 06:30:00,"Moreover, Pepsi has been seeing higher volumes and profits in the North American segments due to an improving economy, better industry pricing dynamics and a consistency in positive innovation.",0.9541651606559753,0.01919664442539215,0.026638168841600418,positive,0.9349685311317444
+23,2016-11-18 06:30:00,"Pepsi' new product lineup, aggressive marketing efforts, productivity improvement and cost-saving initiatives should drive profits.",0.946140468120575,0.01564820110797882,0.03821132704615593,positive,0.9304922819137573
+24,2016-11-18 06:30:00,(You can read the full research report on Pepsihere. ),0.022580215707421303,0.009519882500171661,0.9678998589515686,neutral,0.013060333207249641
+25,2016-11-18 06:30:00,"Other noteworthy reports we are featuring today include Merck (NYSE: MRK - Free Report ), Target (NYSE: TGT - Free Report ) and Electronic Arts (NASDAQ: EA - Free Report ).",0.04582679644227028,0.005421207752078772,0.9487519860267639,neutral,0.04040559008717537
+26,2016-11-18 06:30:00,"While we share the above news with the public, our sensitive recommendations are hidden from everyone but selected members.",0.022958358749747276,0.03679662570357323,0.9402449727058411,neutral,-0.01383826695382595
+27,2016-11-18 06:30:00,Would you like to peek behind the curtain and view them?,0.06547963619232178,0.024546610191464424,0.9099738001823425,neutral,0.0409330278635025
+28,2016-11-18 06:30:00,"Starting today, for the next month, you can follow all Zacks' private buys and sells in real time from value to momentum .",0.02907448075711727,0.00626909825950861,0.964656412601471,neutral,0.022805381566286087
+29,2016-11-18 06:30:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+30,2016-11-18 06:30:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+31,2016-11-18 06:30:00,from stocks under $10 to ETF and option moves .,0.0437336191534996,0.065303273499012,0.890963077545166,neutral,-0.02156965434551239
+32,2016-11-18 06:30:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+33,2016-11-18 06:30:00,.,0.09904776513576508,0.044671978801488876,0.8562802672386169,neutral,0.0543757863342762
+34,2016-11-18 06:30:00,from insider trades to companies that are about to report positive earnings surprises (we've called them with 80%+ accuracy).,0.040366314351558685,0.009080166928470135,0.9505534768104553,neutral,0.031286146491765976
+35,2016-11-18 06:30:00,You can even look inside portfolios so exclusive that they are normally closed to new investors.,0.033622223883867264,0.020773902535438538,0.9456038475036621,neutral,0.012848321348428726
+36,2016-11-18 06:30:00,"Click here for Zacks' secret trades >>
+
+Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3745134174823761,0.01182437315583229,0.6136622428894043,neutral,0.3626890480518341
+37,2016-11-18 06:30:00,Get #1 Stock of the Day pick for free .,0.2226315140724182,0.024793583899736404,0.7525749206542969,neutral,0.1978379338979721
+38,2016-11-18 06:30:00,Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.,0.06386703997850418,0.004654404241591692,0.9314785599708557,neutral,0.059212636202573776
+39,2016-11-18 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+40,2016-11-18 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+41,2016-11-18 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+42,2016-11-18 06:30:00,"Strong Stocks that Should Be in the News
+
+Many are little publicized and fly under the Wall Street radar.",0.044983625411987305,0.5624399185180664,0.3925764560699463,negative,-0.5174562931060791
+43,2016-11-18 06:30:00,They're virtually unknown to the general public.,0.035764459520578384,0.0785161554813385,0.885719358921051,neutral,-0.04275169596076012
+44,2016-11-18 06:30:00,"Yet today's 220 Zacks Rank #1 ""Strong Buys"" were generated by the stock-picking system that has nearly tripled the market from 1988 through 2015.",0.6580293774604797,0.017276067286729813,0.32469451427459717,positive,0.6407533288002014
+45,2016-11-18 06:30:00,Its average gain has been a stellar +26% per year.,0.8422174453735352,0.0191669799387455,0.13861553370952606,positive,0.8230504393577576
+46,2016-11-18 06:30:00,See these high-potential stocks free >>.,0.12527841329574585,0.05778927728533745,0.8169323205947876,neutral,0.0674891322851181
+47,2016-11-18 06:30:00,"Get the full Report on HD - FREE
+
+Get the full Report on TOT - FREE
+
+Get the full Report on PEP - FREE
+
+Get the full Report on MRK - FREE
+
+Get the full Report on TGT - FREE
+
+Get the full Report on EA - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.01316407322883606,0.0091008385643363,0.9777350425720215,neutral,0.00406323466449976
+48,2016-11-18 06:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+49,2016-11-18 06:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+50,2016-11-18 06:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+51,2016-11-18 06:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+52,2016-11-18 06:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+53,2016-11-18 06:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+54,2016-11-18 06:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+55,2016-11-18 06:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+56,2016-11-18 06:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+57,2016-11-18 06:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+58,2016-11-18 06:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+59,2016-11-18 06:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+60,2016-11-18 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+61,2016-11-18 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+62,2016-11-18 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+63,2016-11-18 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

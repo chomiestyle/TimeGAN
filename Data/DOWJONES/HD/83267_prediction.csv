@@ -1,0 +1,45 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-05-15 08:49:00,Wall Street's major averages were all trading lower Tuesday after rekindled trade tensions and soft sales from Dow component stock Home Depot ( HD ) spooked investors and drove the Dow Jones Industrial Average into the red for the first time in nine days.,0.025507565587759018,0.9604854583740234,0.014006969518959522,negative,-0.9349778890609741
+1,2018-05-15 08:49:00,"Risk aversion was triggered overnight when Terry Branstad, U.S. ambassador to China and member of the trade delegation, conceded trade negotiations between the U.S. and China were not making meaningful progress, implying the Chinese were stalling by requesting specifics from the U.S. Panic selling during the overseas session was amplified by soft Chinese retail sales data, and later on the back of underwhelming German and European economic data.",0.06740754097700119,0.8873501420021057,0.04524240270256996,negative,-0.8199425935745239
+2,2018-05-15 08:49:00,"As the yield on the 10-year note passed over the 3.0% sell trigger, Dow futures hemorrhaged nearly 200 points at the open, led by losses in tech and health care stocks.",0.04052598401904106,0.9413944482803345,0.018079569563269615,negative,-0.9008684754371643
+3,2018-05-15 08:49:00,"U.S. economic data exacerbated the brittle tone on Wall Street as the pace of retail sales slowed in April to 0.3%, in-line with estimates but measurably below the revised 0.8% gain previously.",0.026426095515489578,0.9638124108314514,0.009761467576026917,negative,-0.9373863339424133
+4,2018-05-15 08:49:00,"Excluding sales of autos and also sales of autos and gas, retail sales were up 0.3%, below expectations and down from 0.4% growth in March.",0.019270118325948715,0.9720563292503357,0.008673560805618763,negative,-0.9527862071990967
+5,2018-05-15 08:49:00,"Business inventories were unchanged in March, missing the estimated gain of 0.2% and down from up 0.6% in February, while sales grew 0.5%.",0.02022487111389637,0.9693825244903564,0.010392649099230766,negative,-0.9491576552391052
+6,2018-05-15 08:49:00,The remaining data Tuesday was bullish but dwarfed by the pervading negative tone on Wall Street.,0.12033670395612717,0.8365811109542847,0.043082162737846375,negative,-0.7162443995475769
+7,2018-05-15 08:49:00,"The Empire State manufacturing index rose to 20.1 in May from 15.8 prior, while the May National Association of Home Builders housing market index rose 2 points to 70.",0.9406836032867432,0.028508612886071205,0.030807863920927048,positive,0.9121749997138977
+8,2018-05-15 08:49:00,Eurozone markets closed mostly higher with the notable exception of Germany which was weighed down by below consensus Q1 GDP data and a contraction in the ZEW economic sentiment index.,0.04563022777438164,0.8897647857666016,0.0646049976348877,negative,-0.8441345691680908
+9,2018-05-15 08:49:00,Crude oil was down $0.27 to $70.69 per barrel.,0.023372340947389603,0.9604275822639465,0.016200022771954536,negative,-0.937055230140686
+10,2018-05-15 08:49:00,Natural gas was up $0.01 to $2.85 per 1 million BTU.,0.9168065190315247,0.027847599238157272,0.05534591153264046,positive,0.8889589309692383
+11,2018-05-15 08:49:00,"Gold was down $26.70 to $1,291.30 an ounce, while silver was down $0.38 to $16.27 an ounce.",0.02313009649515152,0.9619466662406921,0.01492316648364067,negative,-0.9388165473937988
+12,2018-05-15 08:49:00,Copper was down $0.04 to $3.05 per pound.,0.019966483116149902,0.9646725058555603,0.01536092534661293,negative,-0.9447060227394104
+13,2018-05-15 08:49:00,"Among energy ETFs, the United States Oil Fund was down 0.49% to $14.31 with the United States Natural Gas Fund was up 0.44% to $23.23.",0.02060823328793049,0.9653341770172119,0.014057689346373081,negative,-0.9447259306907654
+14,2018-05-15 08:49:00,"Amongst precious-metal funds, the Market Vectors Gold Miners ETF was down 2.01% to 22.35 while SPDR Gold Shares were down 1.65% to $122.44.",0.017942126840353012,0.9696694016456604,0.012388511560857296,negative,-0.9517272710800171
+15,2018-05-15 08:49:00,The iShares Silver Trust was down 1.54% to $15.32.,0.019256219267845154,0.9629756212234497,0.01776817813515663,negative,-0.9437193870544434
+16,2018-05-15 08:49:00,"Here's where the markets stand at mid-day:
+
+NYSE Composite Index was down 50.92 points (-0.40%) to 12,721.40
+
+S&P 500 was down 19.80 points (-0.73%) to 2,710.20
+
+Nasdaq Composite Index was down 79.43 points (-1.07%) to 7,331.78
+
+FTSE 100 was up 12.00 points (+0.16%) to 7,722.98
+
+DAX was down 7.67 points (-0.06%) to 12,970.04
+
+CAC 40 was up 12.48 points (+0.23%) to 5,553.16
+
+Nikkei 225 was down 47.84 points (-0.21%) to 22,818.02
+
+NYSE Energy Sector Index was down 3.11 points (-0.03%) to 12,421.94
+
+NYSE Financial Sector Index was down 20.54 points (-0.25%) to 8,146.52
+
+NYSE Healthcare Sector Index was down 155.05 points (-1.07%) to 14,350.42
+
+(+) INO (+5.07%) HIV vaccine sustains durable memory responses one year after start of clinical trial
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.013739991933107376,0.010489638894796371,0.9757703542709351,neutral,0.0032503530383110046
+17,2018-05-15 08:49:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+18,2018-05-15 08:49:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+19,2018-05-15 08:49:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

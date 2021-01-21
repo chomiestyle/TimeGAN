@@ -1,0 +1,99 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-09-23 04:02:00,Every investor makes mistakes from time to time.,0.07567503303289413,0.18565326929092407,0.7386716604232788,neutral,-0.10997823625802994
+1,2018-09-23 04:02:00,It's simply part of the learning process.,0.03999381139874458,0.007734965067356825,0.9522712826728821,neutral,0.03225884586572647
+2,2018-09-23 04:02:00,That's why smart investors regularly look back at their investing history to find lessons that can help them avoid making the same mistakes in the future.,0.32345494627952576,0.02399381808936596,0.6525512337684631,neutral,0.29946112632751465
+3,2018-09-23 04:02:00,I recently went through this exercise and found it to be very informative.,0.21581514179706573,0.008108382113277912,0.7760764360427856,neutral,0.2077067643404007
+4,2018-09-23 04:02:00,Here's a look at my five biggest investing blunders and the key lessons that I've learned from each of them.,0.06750976294279099,0.013721833936870098,0.9187684059143066,neutral,0.05378792807459831
+5,2018-09-23 04:02:00,I didn't know much about investing when I started buying stocks in 2004.,0.034927546977996826,0.010213707573711872,0.9548587799072266,neutral,0.02471384033560753
+6,2018-09-23 04:02:00,"At the time I only had a few hundred dollars to work with, so I figured that penny stocks were the only way to go.",0.05502269044518471,0.022756149992346764,0.9222211241722107,neutral,0.03226654231548309
+7,2018-09-23 04:02:00,"My logic was that I could buy hundreds of shares of a stock so long as it traded for under $1, but only one or two shares if it traded for more than $100.",0.037249159067869186,0.010284822434186935,0.9524660110473633,neutral,0.02696433663368225
+8,2018-09-23 04:02:00,"Sadly, I couldn't tell you a thing about the companies that I purchased early on beyond their share price.",0.02276195026934147,0.01646929420530796,0.9607686996459961,neutral,0.006292656064033508
+9,2018-09-23 04:02:00,How much cash did they have in the bank?,0.030118145048618317,0.04445130378007889,0.9254305958747864,neutral,-0.014333158731460571
+10,2018-09-23 04:02:00,Was their management team trustworthy?,0.39868125319480896,0.027381883934140205,0.5739368796348572,neutral,0.3712993562221527
+11,2018-09-23 04:02:00,What was the addressable market opportunity for the products?,0.07028667628765106,0.012298456393182278,0.9174149036407471,neutral,0.05798821896314621
+12,2018-09-23 04:02:00,I couldn't answer any of these questions.,0.05832849442958832,0.3383060097694397,0.6033655405044556,neutral,-0.2799775004386902
+13,2018-09-23 04:02:00,The only thing I focused on was the share price.,0.018588837236166,0.024492716416716576,0.9569184184074402,neutral,-0.005903879180550575
+14,2018-09-23 04:02:00,You can imagine what happened next.,0.03476578742265701,0.02712559886276722,0.9381086826324463,neutral,0.007640188559889793
+15,2018-09-23 04:02:00,"Every single stock that I bought went down by at least 25%, some by much more.",0.021132463589310646,0.9093825817108154,0.06948486715555191,negative,-0.8882501125335693
+16,2018-09-23 04:02:00,I ended up calling it quits after a few months and sold them all.,0.03122011013329029,0.07178707420825958,0.8969928622245789,neutral,-0.04056696593761444
+17,2018-09-23 04:02:00,"I've since learned that it doesn't matter how many shares of a stock you own; what matters is how much capital you have invested in any given company, and the quality of the company you buy .",0.031567011028528214,0.006660298444330692,0.9617726802825928,neutral,0.024906713515520096
+18,2018-09-23 04:02:00,The price of a single share is irrelevant.,0.029059117659926414,0.04274092987179756,0.9281999468803406,neutral,-0.013681812211871147
+19,2018-09-23 04:02:00,"Thankfully, I've since learned this lesson so well that my portfolio is chock-full of many ""expensive"" companies that trade for more than $100 per share today, and it's devoid of those trading for less than $10.",0.05873662233352661,0.05894666537642479,0.8823167681694031,neutral,-0.0002100430428981781
+20,2018-09-23 04:02:00,"When I first learned about dividends , I became extremely excited.",0.194584459066391,0.008633949793875217,0.796781599521637,neutral,0.18595050275325775
+21,2018-09-23 04:02:00,I had no idea that some companies actually made cash payments to their shareholders.,0.01736714318394661,0.027683556079864502,0.9549493193626404,neutral,-0.010316412895917892
+22,2018-09-23 04:02:00,That fact caused me to search for the highest-yielding stocks I could find .,0.26172566413879395,0.024869762361049652,0.7134045958518982,neutral,0.2368558943271637
+23,2018-09-23 04:02:00,I began by using free online stock screeners to scan the market for companies with the highest yield possible.,0.04616168513894081,0.005272621288895607,0.948565661907196,neutral,0.040889061987400055
+24,2018-09-23 04:02:00,"I quickly found some businesses that offered up a dividend yield of 15%, 18%, and even 22%.",0.30155473947525024,0.011919520795345306,0.6865257620811462,neutral,0.28963521122932434
+25,2018-09-23 04:02:00,"Buying them was obviously a no-brainer decision, right?",0.08349236845970154,0.057342804968357086,0.859164834022522,neutral,0.026149563491344452
+26,2018-09-23 04:02:00,It turns out that my natural instincts were (once again) dead wrong.,0.10901815444231033,0.44336575269699097,0.4476161599159241,neutral,-0.33434760570526123
+27,2018-09-23 04:02:00,"Many of the stocks I purchased not only stopped paying their dividends, but their share prices went down, too!",0.04531102254986763,0.674579918384552,0.28010907769203186,negative,-0.6292688846588135
+28,2018-09-23 04:02:00,That was a double-whammy that taught me that an above-average dividend yield is actually a warning sign .,0.3684186637401581,0.30646854639053345,0.32511278986930847,positive,0.061950117349624634
+29,2018-09-23 04:02:00,"I no longer seek out dividend-paying stocks specifically, but when I do find one that interests me, I make sure to put it through a rigorous test to ensure that the dividend is sustainable and will continue to be paid.",0.2180173397064209,0.008419739082455635,0.7735629081726074,neutral,0.2095976024866104
+30,2018-09-23 04:02:00,"If it fails my test, I'm content to ignore it and move on.",0.06323743611574173,0.037265218794345856,0.8994973301887512,neutral,0.025972217321395874
+31,2018-09-23 04:02:00,"Many investors are familiar with the phrase ""buy low, sell high.""",0.053775396198034286,0.042289458215236664,0.9039351940155029,neutral,0.011485937982797623
+32,2018-09-23 04:02:00,"If you follow this maxim, then you can be tempted to sell your winning stocks quickly so you can ""lock in your gains.""",0.46950480341911316,0.018853778019547462,0.5116414427757263,neutral,0.45065101981163025
+33,2018-09-23 04:02:00,A look back at my own trading history shows that I followed this idea for far too long.,0.11119038611650467,0.13093791902065277,0.7578717470169067,neutral,-0.019747532904148102
+34,2018-09-23 04:02:00,I made a little bit of money on many stocks and quickly looked to cash in.,0.4406551718711853,0.014522451907396317,0.5448223352432251,neutral,0.4261327087879181
+35,2018-09-23 04:02:00,"I wound up selling Altria Group at $18, PayChex at $25, Insulet at $17, Microsoft at $24, Ebix at $20, and SodaStream at $43.",0.015876412391662598,0.010320604778826237,0.9738030433654785,neutral,0.005555807612836361
+36,2018-09-23 04:02:00,"If you've followed any of these businesses over the long term, you know that they are all currently trading far higher than the prices at which I sold them.",0.0979176014661789,0.016516270115971565,0.8855661153793335,neutral,0.08140133321285248
+37,2018-09-23 04:02:00,I'd be far richer today if I had simply decided to hang on.,0.3269226849079132,0.03807255998253822,0.6350047588348389,neutral,0.2888501286506653
+38,2018-09-23 04:02:00,The big lesson I learned is that winners tend to keep on winning .,0.3048136830329895,0.016495417803525925,0.6786909699440002,neutral,0.2883182764053345
+39,2018-09-23 04:02:00,Just because a stock has already gone up a lot doesn't mean it can't continue to soar.,0.27078717947006226,0.05271894484758377,0.6764938831329346,neutral,0.21806824207305908
+40,2018-09-23 04:02:00,That's why I've since become extremely reluctant to sell a great business even if I've already made a bundle.,0.05604841932654381,0.22544416785240173,0.7185074090957642,neutral,-0.16939574480056763
+41,2018-09-23 04:02:00,"I'd always heard that using options was a risky strategy, but after reading up on the subject, I found out that they can actually be used to reduce risk .",0.3596263825893402,0.01521093025803566,0.625162661075592,neutral,0.34441545605659485
+42,2018-09-23 04:02:00,"That fact excited me, so I started to dabble with them.",0.19956287741661072,0.01257266290485859,0.7878644466400146,neutral,0.18699021637439728
+43,2018-09-23 04:02:00,"Unfortunately, I had a lot of success with options early on, which caused me to get cocky.",0.3491412103176117,0.06347330659627914,0.5873854756355286,neutral,0.28566789627075195
+44,2018-09-23 04:02:00,I wound up making a bone-headed decision that came with a five-figure price tag.,0.35258015990257263,0.09088662266731262,0.5565332174301147,neutral,0.26169353723526
+45,2018-09-23 04:02:00,"In 2014, I become very interested in an energy pipeline company business called Kinder Morgan (NYSE: KMI) .",0.07333896309137344,0.004881818313151598,0.9217792749404907,neutral,0.06845714151859283
+46,2018-09-23 04:02:00,"I liked that the company made money by moving oil and gas from one place to another, and it didn't really matter what happened to the price of underlying commodities.",0.04428943991661072,0.007496031001210213,0.9482144713401794,neutral,0.036793410778045654
+47,2018-09-23 04:02:00,"The company's revenue was also protected by take-or-pay contracts, so I believed the business was very low-risk.",0.18537741899490356,0.008686725981533527,0.8059359192848206,neutral,0.1766906976699829
+48,2018-09-23 04:02:00,"What's more, management had a track record of value creation and was calling for 10% profit growth for the foreseeable future.",0.8485641479492188,0.011948682367801666,0.13948719203472137,positive,0.8366154432296753
+49,2018-09-23 04:02:00,I was so confident in Kinder Morgan's growth potential that I decided to leverage my returns by using a very bullish options strategy called a synthetic long in addition to my substantial ownership position.,0.7118225693702698,0.010618800297379494,0.27755871415138245,positive,0.7012037634849548
+50,2018-09-23 04:02:00,I figured I'd make a bundle as the stock slowly continued to rise.,0.7731113433837891,0.022712713107466698,0.20417599380016327,positive,0.7503986358642578
+51,2018-09-23 04:02:00,Anyone who follows the oil and gas space closely knows what happened next.,0.02203456126153469,0.020240511745214462,0.957724928855896,neutral,0.0017940495163202286
+52,2018-09-23 04:02:00,"The energy markets collapsed, and Kinder Morgan's customers suddenly couldn't pay their bills.",0.02753850817680359,0.9466559290885925,0.025805531069636345,negative,-0.9191174507141113
+53,2018-09-23 04:02:00,"It didn't matter that they had signed contracts with Kinder Morgan; what mattered was that they were hurting, badly.",0.08060027658939362,0.43878358602523804,0.48061615228652954,neutral,-0.3581833243370056
+54,2018-09-23 04:02:00,"Wall Street proceeded to freak out, and Kinder Morgan's stock sank like a stone.",0.11213629692792892,0.6445897221565247,0.24327406287193298,negative,-0.5324534177780151
+55,2018-09-23 04:02:00,My losses were magnified by the fact that I used options to supplement my stock position.,0.28866052627563477,0.1926962435245514,0.5186432003974915,neutral,0.09596428275108337
+56,2018-09-23 04:02:00,I'm still unwinding my bullish Kinder Morgan option position to this day.,0.3186841905117035,0.12796050310134888,0.55335533618927,neutral,0.19072368741035461
+57,2018-09-23 04:02:00,"As painful as this experience has been, I've learned my lesson: Avoid leverage at all costs, even when an investment is a ""sure thing.""",0.4462837874889374,0.027710314840078354,0.5260058641433716,neutral,0.4185734689235687
+58,2018-09-23 04:02:00,5.,0.023618461564183235,0.016584821045398712,0.9597967267036438,neutral,0.007033640518784523
+59,2018-09-23 04:02:00,"Getting scared away by valuation
+
+Of all the lessons I've learned, this one has been the most costly by far .",0.12701918184757233,0.4574296176433563,0.41555121541023254,negative,-0.3304104208946228
+60,2018-09-23 04:02:00,"In 2006, the company I was working for chose salesforce.com (NYSE: CRM) as our customer relationship management software vendor.",0.16802453994750977,0.0055832588113844395,0.8263921737670898,neutral,0.16244128346443176
+61,2018-09-23 04:02:00,"Our business quickly became heavily dependent on Salesforce.com for all of our marketing, customer support, and sales functions.",0.020917341113090515,0.6227328181266785,0.3563498556613922,negative,-0.6018154621124268
+62,2018-09-23 04:02:00,"In fact, if Salesforce.com ever went down, our commercial team would literally come to a standstill.",0.03771781176328659,0.726898729801178,0.23538349568843842,negative,-0.6891809105873108
+63,2018-09-23 04:02:00,I was so wowed by the company's platform and our dependence on it that I looked into buying shares.,0.26159054040908813,0.00841235276311636,0.7299971580505371,neutral,0.2531781792640686
+64,2018-09-23 04:02:00,"However, I quickly learned that the stock sported a P/E ratio of well over 100, so I immediately dismissed the company as ""too expensive.""",0.031319957226514816,0.7647648453712463,0.20391513407230377,negative,-0.73344486951828
+65,2018-09-23 04:02:00,"Here's what has happened to the company's stock since I decided to pass:
+
+If I had just held my nose and bought a few shares anyway, I'd be sitting on a 19-bagger -- and counting.",0.03653827682137489,0.07527540624141693,0.8881863355636597,neutral,-0.03873712942004204
+66,2018-09-23 04:02:00,That would have been enough to turn a small amount of money into life-changing wealth.,0.5691607594490051,0.018997998908162117,0.4118412137031555,positive,0.5501627326011658
+67,2018-09-23 04:02:00,"I'd love to say that I quickly learned my lesson, but sadly, I've made this mistake numerous times.",0.1765393316745758,0.46997618675231934,0.35348445177078247,negative,-0.29343685507774353
+68,2018-09-23 04:02:00,"I took a pass at buying some of the greatest businesses of our time -- think Amazon , Intuitive Surgical , Netflix , and Alphabet -- just because I didn't like the valuation at the time.",0.14502407610416412,0.05837327614426613,0.7966026067733765,neutral,0.0866508036851883
+69,2018-09-23 04:02:00,"Thankfully, Motley Fool co-founder David Gardner has since instilled in me that you need to ignore short-term valuation when you are buying great companies .",0.07114989310503006,0.06990942358970642,0.8589406609535217,neutral,0.001240469515323639
+70,2018-09-23 04:02:00,"I'm happy to report that I did end up learning this lesson in 2010, and I've since purchased all of the businesses listed above.",0.24110403656959534,0.006957616191357374,0.7519384026527405,neutral,0.23414641618728638
+71,2018-09-23 04:02:00,"In each case, I've already earned multibagger returns on my investments, but I'd be far richer today had I learned this lesson earlier.",0.850503146648407,0.019656045362353325,0.12984080612659454,positive,0.8308470845222473
+72,2018-09-23 04:02:00,"To keep myself from making these same mistakes twice, I've since developed an extensive checklist that I put all of my companies through before I make a buy or sell decision.",0.06675641238689423,0.008331581950187683,0.9249120354652405,neutral,0.05842483043670654
+73,2018-09-23 04:02:00,I also make use of an investing journal to document what I'm thinking and feeling before I make any serious decisions.,0.024139942601323128,0.007073903456330299,0.9687861800193787,neutral,0.01706603914499283
+74,2018-09-23 04:02:00,I've found that making use of both of these tools has greatly increased my accuracy rate and has enabled me to avoid making the same mistakes twice.,0.8703686594963074,0.013546458445489407,0.11608488112688065,positive,0.8568221926689148
+75,2018-09-23 04:02:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+76,2018-09-23 04:02:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+77,2018-09-23 04:02:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Salesforce.com wasn't one of them!",0.23128540813922882,0.016336174681782722,0.7523783445358276,neutral,0.21494923532009125
+78,2018-09-23 04:02:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+79,2018-09-23 04:02:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+80,2018-09-23 04:02:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+81,2018-09-23 04:02:00,"Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors.",0.022025013342499733,0.015809211879968643,0.9621658325195312,neutral,0.00621580146253109
+82,2018-09-23 04:02:00,Teresa Kersten is an employee of LinkedIn and is a member of The Motley Fool's board of directors.,0.01943996734917164,0.016307445243000984,0.9642525911331177,neutral,0.0031325221061706543
+83,2018-09-23 04:02:00,LinkedIn is owned by Microsoft.,0.012965702451765537,0.010095099918544292,0.9769392609596252,neutral,0.002870602533221245
+84,2018-09-23 04:02:00,"Brian Feroldi owns shares of Alphabet (A and C shares), Amazon, Intuitive Surgical, and Netflix and has the following options: short January 2020 $30 puts on Kinder Morgan and short January 2020 $27 puts on Kinder Morgan.",0.012369759380817413,0.018251527100801468,0.9693787097930908,neutral,-0.0058817677199840546
+85,2018-09-23 04:02:00,"The Motley Fool owns shares of and recommends Alphabet (A and C shares), Amazon, Intuitive Surgical, Kinder Morgan, Netflix, and Salesforce.com.",0.019850561395287514,0.008980851620435715,0.9711686372756958,neutral,0.010869709774851799
+86,2018-09-23 04:02:00,The Motley Fool owns shares of SodaStream.,0.02605585567653179,0.01597207970917225,0.9579720497131348,neutral,0.010083775967359543
+87,2018-09-23 04:02:00,The Motley Fool recommends Insulet.,0.06114206835627556,0.09550192207098007,0.8433560729026794,neutral,-0.034359853714704514
+88,2018-09-23 04:02:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+89,2018-09-23 04:02:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

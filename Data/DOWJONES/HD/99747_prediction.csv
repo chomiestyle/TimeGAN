@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-25 00:30:00,"Over the past 30 years, nearly every industry has been turned on its head by the rise of the Internet.",0.14358006417751312,0.11990594863891602,0.7365140318870544,neutral,0.023674115538597107
+1,2014-10-25 00:30:00,"From shopping to manufacturing to catching a taxi, consumers and businesses have enjoyed a revolution in service, productivity, and convenience.",0.5063303709030151,0.014903930947184563,0.47876569628715515,positive,0.4914264380931854
+2,2014-10-25 00:30:00,"For most people, applying for a loan still requires sitting down in front of a banker's desk in a physical office.",0.0481611043214798,0.07769975066184998,0.874139130115509,neutral,-0.029538646340370178
+3,2014-10-25 00:30:00,Those bankers still use the same credit reports and underwriting methods that have been in use for decades.,0.02348117157816887,0.007038244046270847,0.969480574131012,neutral,0.016442928463220596
+4,2014-10-25 00:30:00,Transferring money from one account to another still takes two or three days even though the transaction is all digital and in theory shouldn't take more than a few milliseconds.,0.04883021116256714,0.022974995896220207,0.9281948208808899,neutral,0.02585521526634693
+5,2014-10-25 00:30:00,"Legendary venture capitalist Marc Andreessen, backer of Uber, Twitter, Facebook, AirBNB, and more, recently sat down with Bloomberg Markets to discuss what he sees as a coming revolution in finance.",0.2082645148038864,0.03022565133869648,0.7615098357200623,neutral,0.17803886532783508
+6,2014-10-25 00:30:00,"""We have a chance to rebuild the system""
+
+To Andreessen, the financial crisis wasn't as much a crisis as it was an opportunity to rethink the way that we fundamentally manage finances in this country.",0.5612533092498779,0.019624538719654083,0.4191221594810486,positive,0.5416287779808044
+7,2014-10-25 00:30:00,Why does it take two or three days to transfer money from one bank to the other?,0.033285148441791534,0.03894186392426491,0.9277729988098145,neutral,-0.005656715482473373
+8,2014-10-25 00:30:00,Because the current Automated Clearing House ( ACH ) system was built that way.,0.0776032954454422,0.007601642515510321,0.9147949814796448,neutral,0.07000165432691574
+9,2014-10-25 00:30:00,Current payment processing companies like Visa and MasterCard routinely charge 2-3% or more for every transaction on their respective networks.,0.014784292317926884,0.02159026265144348,0.963625431060791,neutral,-0.006805970333516598
+10,2014-10-25 00:30:00,"In aggregate, that's billions of dollars in costs to individuals and small businesses every single year.",0.046795204281806946,0.17770957946777344,0.7754952311515808,neutral,-0.1309143751859665
+11,2014-10-25 00:30:00,Or consider the recent rash of credit card thefts at major U.S. retailers like Target or the Home Depot .,0.07157774269580841,0.3379844129085541,0.5904378294944763,neutral,-0.2664066553115845
+12,2014-10-25 00:30:00,Isn't there a better way to facilitate commerce and protect from identity theft in a robust and effective way?,0.6489008069038391,0.014594824984669685,0.33650436997413635,positive,0.6343059539794922
+13,2014-10-25 00:30:00,"To Andreessen, these problems point to a way to revolutionize the entire financial sector.",0.6124224066734314,0.016824547201395035,0.37075307965278625,positive,0.5955978631973267
+14,2014-10-25 00:30:00,"Building a new financial world around convenience, speed, costs, and security
+
+Andreessen has been a vocal proponent of and active investor in cutting edge cryptocurrencies like bitcoin.",0.6365222930908203,0.013757643289864063,0.3497200608253479,positive,0.6227646470069885
+15,2014-10-25 00:30:00,"These technologies have the potential to lower costs, increase speed, and even increase transaction speeds.",0.8667036294937134,0.013442869298160076,0.11985345184803009,positive,0.8532607555389404
+16,2014-10-25 00:30:00,Other non-currency technologies are also setting themselves up to disrupt (or even displace) conventional methods.,0.04494146630167961,0.7136760354042053,0.24138250946998596,negative,-0.6687345504760742
+17,2014-10-25 00:30:00,"Several start-ups are developing new credit scoring algorithms that include social media, search queries, and other behavioral data to supplement and enhance the existing FICO model that primarily relies on payment history.",0.7269249558448792,0.011668087914586067,0.26140689849853516,positive,0.7152568697929382
+18,2014-10-25 00:30:00,"He goes on to liken bitcoin to a technology ""from Mars,"" meaning that it is so fundamentally different to the traditional way of transacting in the economy that it has the potential to make current regulations, banks, and systems irrelevant or even obsolete.",0.12105774134397507,0.3550359010696411,0.5239063501358032,neutral,-0.23397815227508545
+19,2014-10-25 00:30:00,That threat to the existing players presents the largest challenge to Andreessen's vision.,0.04759260267019272,0.6118590831756592,0.34054824709892273,negative,-0.5642665028572083
+20,2014-10-25 00:30:00,"But despite the challenges, the upside is simply too great to ignore.",0.07441999763250351,0.04135151207447052,0.884228527545929,neutral,0.03306848555803299
+21,2014-10-25 00:30:00,"Beyond increasing convenience, lowering costs, and speeding up the system, Andreessen makes sure to point to improved security over today's centralized systems as well.",0.8967245817184448,0.014459886588156223,0.0888156145811081,positive,0.8822646737098694
+22,2014-10-25 00:30:00,"The reality of change in finance
+
+For Andreessen and other early stage investors, the payout for these investments is likely five years or more in the future.",0.28574469685554504,0.010928379371762276,0.7033268809318542,neutral,0.2748163044452667
+23,2014-10-25 00:30:00,To say that this is an uphill battle puts the challenge lightly.,0.2260618656873703,0.11901617050170898,0.6549219489097595,neutral,0.10704569518566132
+24,2014-10-25 00:30:00,"There is the enormity of the industry, the regulatory reality of banking in the U.S. today, and the lobbying power of today's banks and financial providers.",0.02680988982319832,0.016657821834087372,0.9565322399139404,neutral,0.010152067989110947
+25,2014-10-25 00:30:00,Those existing players will without question put up a ferocious fight to protect their own interests.,0.5817533731460571,0.023621713742613792,0.39462488889694214,positive,0.5581316351890564
+26,2014-10-25 00:30:00,"For consumers, though, the future looks bright.",0.42487427592277527,0.013707260601222515,0.5614184737205505,neutral,0.4111670255661011
+27,2014-10-25 00:30:00,"Even if Andreessen and his fellow venture capitalists fail to overturn and rebuild the American financial system, the pressure they are applying today will force the big banks to change, adapt, and, most importantly, improve.",0.8578915596008301,0.02240796945989132,0.11970047652721405,positive,0.8354836106300354
+28,2014-10-25 00:30:00,Will we all be using bitcoin and applying for loans via mobile phone in five years?,0.11322922259569168,0.007621319964528084,0.8791494965553284,neutral,0.10560790449380875
+29,2014-10-25 00:30:00,Only time will tell.,0.12268799543380737,0.013754542917013168,0.8635575175285339,neutral,0.1089334487915039
+30,2014-10-25 00:30:00,"But we can rest assured that change is coming, and that change will be a positive for consumers.",0.7974287867546082,0.014336719177663326,0.18823447823524475,positive,0.7830920815467834
+31,2014-10-25 00:30:00,"Warren Buffett: This new technology is a ""real threat""
+
+At the recent Berkshire Hathaway annual meeting, Warren Buffett admitted this emerging technology is threatening his biggest cash-cow.",0.05647590011358261,0.7879435420036316,0.155580535531044,negative,-0.7314676642417908
+32,2014-10-25 00:30:00,Buffett's fear can be your gain.,0.06237734481692314,0.05924034118652344,0.8783822655677795,neutral,0.003137003630399704
+33,2014-10-25 00:30:00,"Only a few investors are embracing this new market, which experts say will be worth over $2 trillion .",0.221978098154068,0.01124793291091919,0.7667739987373352,neutral,0.2107301652431488
+34,2014-10-25 00:30:00,"Find out how you can cash in on this technology before the crowd catches on, by jumping onto one company that could get you the biggest piece of the action.",0.2473381608724594,0.01118764840066433,0.7414742112159729,neutral,0.23615051805973053
+35,2014-10-25 00:30:00,Click here to access a free investor alert on the company we're calling the brains behind the technology.,0.024286804720759392,0.011967415921390057,0.9637457728385925,neutral,0.012319388799369335
+36,2014-10-25 00:30:00,The article The Future of Finance According to This Legendary Investor originally appeared on Fool.com.,0.022392649203538895,0.008398489095270634,0.969208836555481,neutral,0.013994160108268261
+37,2014-10-25 00:30:00,Jay Jenkins has no position in any stocks mentioned.,0.01150734443217516,0.04114304855465889,0.9473495483398438,neutral,-0.029635705053806305
+38,2014-10-25 00:30:00,"The Motley Fool recommends Home Depot, MasterCard, and Visa.",0.033403802663087845,0.028556443750858307,0.9380397200584412,neutral,0.004847358912229538
+39,2014-10-25 00:30:00,The Motley Fool owns shares of MasterCard and Visa.,0.036565281450748444,0.02882174402475357,0.934613049030304,neutral,0.007743537425994873
+40,2014-10-25 00:30:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+41,2014-10-25 00:30:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+42,2014-10-25 00:30:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+43,2014-10-25 00:30:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+44,2014-10-25 00:30:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+45,2014-10-25 00:30:00,The Motley Fool has a disclosure policy .,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778
+46,2014-10-25 00:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

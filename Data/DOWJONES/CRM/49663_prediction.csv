@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-02-06 06:58:00,"Salesforce.com, Inc. (NYSE: CRM ) has been on quite a run lately, with the stock up 17% since the beginning of the year.",0.9449827671051025,0.019589433446526527,0.035427819937467575,positive,0.9253933429718018
+1,2017-02-06 06:58:00,"Yet even given the torrid rally, large repeat call buying continues in CRM stock.",0.7480375170707703,0.08684566617012024,0.16511674225330353,positive,0.6611918210983276
+2,2017-02-06 06:58:00,Salesforce also is poised at a critical technical breakout level and has been the topic of takeover talk in the past.,0.7720469236373901,0.023924104869365692,0.20402900874614716,positive,0.7481228113174438
+3,2017-02-06 06:58:00,"Given all that, now might be the time to follow along with the big call buying and take a bullish position in Salesforce stock.",0.5852531790733337,0.049948543310165405,0.36479827761650085,positive,0.5353046655654907
+4,2017-02-06 06:58:00,"As an options analyst, I look to identify situations where unusual option activity is evident.",0.013073660433292389,0.014550773426890373,0.9723755717277527,neutral,-0.0014771129935979843
+5,2017-02-06 06:58:00,"Many times these big option trades are done by ""informed"" institutional buyers who may have insider-type knowledge.",0.03616298735141754,0.022349629551172256,0.9414873719215393,neutral,0.013813357800245285
+6,2017-02-06 06:58:00,They use calls to gain the potentially enormous leverage that options can provide in addition to their stock positions.,0.6248494982719421,0.011847805231809616,0.36330264806747437,positive,0.6130017042160034
+7,2017-02-06 06:58:00,"Over the past few weeks, there has been large, repeat call buying in CRM options.",0.6827802658081055,0.018947843462228775,0.29827189445495605,positive,0.663832426071167
+8,2017-02-06 06:58:00,"Some of the more notable trades are highlighted below:
+
+These four trades alone account for over 72,000 call contracts, which control over 7.2 million shares of CRM stock.",0.02490055374801159,0.007901622913777828,0.9671977758407593,neutral,0.016998931765556335
+9,2017-02-06 06:58:00,That's most assuredly not a small stake.,0.02559768036007881,0.01713075116276741,0.9572715759277344,neutral,0.008466929197311401
+10,2017-02-06 06:58:00,"• 9 Best Cheap Stocks to Buy Now Under $9.99
+
+From a technical standpoint, Salesforce is at a critical juncture.",0.4701186418533325,0.07047626376152039,0.4594050645828247,positive,0.39964237809181213
+11,2017-02-06 06:58:00,"As the chart shows, CRM stock is trying to break out past the crucial $80 level, which could lead to a further move to all-time highs in the stock.",0.8738120794296265,0.07025409489870071,0.055933877825737,positive,0.8035579919815063
+12,2017-02-06 06:58:00,Salesforce has has been the subject of takeover chatter in the past.,0.039273880422115326,0.6938823461532593,0.2668437957763672,negative,-0.6546084880828857
+13,2017-02-06 06:58:00,"Microsoft Corporation (NASDAQ: MSFT ) and Oracle Corporation (NYSE: ORCL ) have been potential rumored suitors , though obviously no deal has come to fruition yet.",0.08234182745218277,0.02669580467045307,0.8909624218940735,neutral,0.05564602464437485
+14,2017-02-06 06:58:00,The enormous call buying has also had a big effect on option prices.,0.23594461381435394,0.2713591456413269,0.4926963150501251,neutral,-0.03541453182697296
+15,2017-02-06 06:58:00,"Implied volatility (IV), which normally lessens as a stock rises, is now at the highest level over the past three months.",0.6700679659843445,0.018586890771985054,0.3113451600074768,positive,0.6514810919761658
+16,2017-02-06 06:58:00,Current IV levels of 36% percentile far exceed historic volatility (HV) levels of only the 6% percentile.,0.7476063370704651,0.051502276211977005,0.200891375541687,positive,0.6961040496826172
+17,2017-02-06 06:58:00,"With earnings not due out for another couple of weeks, it is highly unlikely the big-time call buying that is centered in April and May options is earnings-related.",0.03375403955578804,0.36472323536872864,0.60152268409729,neutral,-0.3309691846370697
+18,2017-02-06 06:58:00,"Since options prices (IV) are comparatively expensive, option selling strategies are favored.",0.11651431769132614,0.007028793450444937,0.8764568567276001,neutral,0.10948552191257477
+19,2017-02-06 06:58:00,"To position bullishly along with the big-time call buyers, selling out-of-the-money puts makes intuitive sense.",0.33095839619636536,0.016103843227028847,0.6529377698898315,neutral,0.31485456228256226
+20,2017-02-06 06:58:00,"How to Trade CRM Stock Here
+
+Sell the CRM May $75 puts at $3.50 to open
+
+Sell one put for each 100 shares of Salesforce stock you would be comfortable owning.",0.024062341079115868,0.00990799069404602,0.966029703617096,neutral,0.014154350385069847
+21,2017-02-06 06:58:00,The short $75 strike price is 6% below the $80.21 closing price of CRM.,0.029645055532455444,0.8449786901473999,0.12537626922130585,negative,-0.8153336048126221
+22,2017-02-06 06:58:00,"If Salesforce closes above $75 on May 19 expiration, you keep the $350 premium per put sold.",0.02144862338900566,0.06267956644296646,0.915871798992157,neutral,-0.0412309430539608
+23,2017-02-06 06:58:00,"If Salesforce closes below $75, you will be assigned the stock and end up buying shares at a net cost of $71.50.",0.019547000527381897,0.026883823797106743,0.9535691738128662,neutral,-0.007336823269724846
+24,2017-02-06 06:58:00,"To avoid assignment, close out the trade if CRM stock is below $75 near expiration.",0.015516821295022964,0.16523544490337372,0.8192477822303772,neutral,-0.14971862733364105
+25,2017-02-06 06:58:00,"As of this writing, Tim Biggam did not hold a position in any of the aforementioned securities.",0.00942474976181984,0.02902884967625141,0.9615464210510254,neutral,-0.019604099914431572
+26,2017-02-06 06:58:00,Anyone interested in finding out more about option-based strategies or for a free trial of the Delta Desk Research Report can email Tim at tbiggam@deltaderivatives.com.,0.0237114280462265,0.011578069999814034,0.9647104740142822,neutral,0.012133358046412468
+27,2017-02-06 06:58:00,"• Bank of America Corp (BAC) Stock Will Test Your Patience
+• The 5 Best Stocks to Buy for Big Emerging Markets Profits
+
+The post Get Bullish on Salesforce.com, Inc. (CRM) Stock Sooner Than Later appeared first on InvestorPlace .",0.5292834043502808,0.07718731462955475,0.3935292661190033,positive,0.4520961046218872
+28,2017-02-06 06:58:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

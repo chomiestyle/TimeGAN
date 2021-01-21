@@ -1,0 +1,56 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-21 02:43:00,U.S. equity markets are going through a rough patch.,0.030195040628314018,0.9129694700241089,0.05683555826544762,negative,-0.8827744126319885
+1,2017-11-21 02:43:00,There is a lot of political uncertainty as markets predict the odds of the timely passing of President Donald Trump's tax reform bill.,0.10929793119430542,0.3346478343009949,0.5560542941093445,neutral,-0.22534990310668945
+2,2017-11-21 02:43:00,This has increased the appeal of dividend investing (read: 5 Ways to Play Growing Dividends With ETFs ).,0.8627830147743225,0.014075057581067085,0.12314196676015854,positive,0.8487079739570618
+3,2017-11-21 02:43:00,There is increased uncertainty with regard to Trump's ability to pass the promised legislations relating to tax reform and deregulation.,0.1356150358915329,0.47799256443977356,0.38639238476753235,negative,-0.34237754344940186
+4,2017-11-21 02:43:00,"Although economic fundamentals have been strong, uncertainty over the tax reform has pushed markets lower.",0.071125328540802,0.8970864415168762,0.0317881777882576,negative,-0.8259611129760742
+5,2017-11-21 02:43:00,"Per Washington Post reports, Senate Republican leaders are weighing the impact of a one-year delay in reforms.",0.08001884818077087,0.510837733745575,0.4091433882713318,negative,-0.4308188855648041
+6,2017-11-21 02:43:00,"Although the House approved their version of the bill, there are significant differences in the bill from the Senate's version.",0.04725245013833046,0.7738218307495117,0.17892570793628693,negative,-0.7265693545341492
+7,2017-11-21 02:43:00,Markets are therefore worried that this could create hindrance in the timely passing of the legislation (read: House Passes Tax Bill: Likely ETF Winners & Losers ).,0.02941368706524372,0.918243408203125,0.052342887967824936,negative,-0.8888297080993652
+8,2017-11-21 02:43:00,Trump aims to cut down on stringent regulations to improve ease of doing business.,0.7272643446922302,0.07000568509101868,0.20273001492023468,positive,0.6572586297988892
+9,2017-11-21 02:43:00,He especially targets to cut a lot out of the Dodd Frank Act as he thinks it restricts business growth.,0.10761640965938568,0.7121044993400574,0.18027904629707336,negative,-0.6044880747795105
+10,2017-11-21 02:43:00,"However, there has been no major development in the space and markets are worried about his ability to pass his promised legislation.",0.056683409959077835,0.8313584327697754,0.11195819079875946,negative,-0.7746750116348267
+11,2017-11-21 02:43:00,Geopolitical risks have been on the rise.,0.4605468213558197,0.1919105499982834,0.3475426435470581,positive,0.2686362862586975
+12,2017-11-21 02:43:00,"Although the North Korean supreme has been relatively silent over the past few weeks, there has been other developments in the global markets that has been concerning investors.",0.03674988076090813,0.7989468574523926,0.16430333256721497,negative,-0.762196958065033
+13,2017-11-21 02:43:00,"Saudi Arabian crown prince Mohammed bin Salman looked at tightening his grip on power by ordering a crackdown with arrests of royals, ministers and investors.",0.25933822989463806,0.5147709846496582,0.22589074075222015,negative,-0.25543275475502014
+14,2017-11-21 02:43:00,"Moreover, Houthi forces in Yemen fired a missile toward Riyadh's international airport.",0.06061277911067009,0.8839805126190186,0.055406730622053146,negative,-0.823367714881897
+15,2017-11-21 02:43:00,The missile was intercepted midway and debris landed near the airport.,0.05035025253891945,0.8759298920631409,0.07371993362903595,negative,-0.8255796432495117
+16,2017-11-21 02:43:00,"""We see this as an act of war,"" the Saudi foreign minister, Adel Jubair, told CNN.",0.1333666890859604,0.5763224363327026,0.29031088948249817,negative,-0.44295573234558105
+17,2017-11-21 02:43:00,Saudi Arabia accused Iran of providing necessary support to the rebels.,0.20975513756275177,0.5755206942558289,0.21472416818141937,negative,-0.3657655715942383
+18,2017-11-21 02:43:00,Increased geopolitical risks have led to an increase in the price of oil and investors' appeal for safety.,0.8305317163467407,0.07252383232116699,0.09694445133209229,positive,0.7580078840255737
+19,2017-11-21 02:43:00,"In such a scenario, dividend-paying securities provide consistent income to investors.",0.39944833517074585,0.011650183238089085,0.5889014601707458,neutral,0.38779816031455994
+20,2017-11-21 02:43:00,"The uniqueness of these securities is their increase when political uncertainty weighs on markets, more so because apart from high dividend, these securities exhibit less volatility as they are stable and mature companies.",0.2931734025478363,0.013796488754451275,0.6930301189422607,neutral,0.27937692403793335
+21,2017-11-21 02:43:00,Let us now discuss a few ETFs focused on providing exposure to U.S. equities with relatively high dividend yields.,0.04410450533032417,0.004991412162780762,0.950904130935669,neutral,0.03911309316754341
+22,2017-11-21 02:43:00,"This fund seeks to provide exposure to U.S. companies providing high dividends, while maintaining a quality factor and utilizing constraints to minimize risk.",0.32216280698776245,0.0069829486310482025,0.6708542704582214,neutral,0.31517985463142395
+23,2017-11-21 02:43:00,It has AUM of $1.8 billion and charges a fee of 37 basis points a year.,0.013806009665131569,0.008847667835652828,0.9773462414741516,neutral,0.004958341829478741
+24,2017-11-21 02:43:00,"From a sector look, the fund has high exposures to Information Technology, Financials and Industrials with 21.0%, 12.0% and 12.0% allocation, respectively.",0.13984990119934082,0.006987682078033686,0.8531623482704163,neutral,0.13286222517490387
+25,2017-11-21 02:43:00,"The fund's top three holdings are Wells Fargo & Co WFC , Boeing Co BA and Apple Inc AAPL with 3.3%, 3.2% and 3.1% allocation, respectively.",0.040866680443286896,0.006455399561673403,0.9526779055595398,neutral,0.03441128134727478
+26,2017-11-21 02:43:00,"The fund has returned 11.3% in a year and 9.1% year to date (as of Nov 17, 2017).",0.0645502582192421,0.009722479619085789,0.9257272481918335,neutral,0.05482777953147888
+27,2017-11-21 02:43:00,It has a dividend yield of 2.8%.,0.03199061378836632,0.005815234966576099,0.9621942043304443,neutral,0.026175379753112793
+28,2017-11-21 02:43:00,"This fund seeks to provide exposure to large, established U.S. companies providing high dividends by applying quality screens.",0.26798027753829956,0.006039841566234827,0.7259798645973206,neutral,0.26194044947624207
+29,2017-11-21 02:43:00,It has AUM of $1.8 billion and charges a fee of 28 basis points a year.,0.014103839173913002,0.008585541509091854,0.9773106575012207,neutral,0.005518297664821148
+30,2017-11-21 02:43:00,"From a sector look, the fund has high exposures to Information Technology, Health Care and Industrials with 22.1%, 20.4% and 19.8% allocation, respectively (as of Nov 17, 2017).",0.09876598417758942,0.0058708591386675835,0.8953631520271301,neutral,0.09289512783288956
+31,2017-11-21 02:43:00,"The fund's top three holdings are Johnson & Johnson JNJ , Apple Inc and Microsoft Corporation MSFT with 6.1%, 4.5% and 4.0% allocation, respectively (as of Nov 17, 2017).",0.03022564761340618,0.006033770274370909,0.9637405872344971,neutral,0.024191876873373985
+32,2017-11-21 02:43:00,"The fund has returned 21.0% in a year and 18.8% year to date (as of Nov 17, 2017).",0.06662092357873917,0.00919697992503643,0.924182116985321,neutral,0.05742394179105759
+33,2017-11-21 02:43:00,It has a dividend yield of 1.6%.,0.03442126885056496,0.00521279638633132,0.960365891456604,neutral,0.02920847199857235
+34,2017-11-21 02:43:00,It currently has a Zacks ETF Rank #2 (Buy) with a Medium risk outlook.,0.35150083899497986,0.010804781690239906,0.6376943588256836,neutral,0.3406960666179657
+35,2017-11-21 02:43:00,This fund seeks to provide cheap exposure to U.S. companies providing high dividends.,0.49649035930633545,0.009208210743963718,0.494301438331604,positive,0.4872821569442749
+36,2017-11-21 02:43:00,It has AUM of $6.5 billion and charges a fee of 7 basis points a year.,0.014350193552672863,0.008463901467621326,0.977185845375061,neutral,0.0058862920850515366
+37,2017-11-21 02:43:00,"From a sector look, the fund has high exposures to Information Technology, Consumer Staples and Industrials with 21.5%, 21.5% and 15.2% allocation, respectively (as of Sep 30, 2017).",0.11529668420553207,0.0060111708007752895,0.8786922097206116,neutral,0.10928551107645035
+38,2017-11-21 02:43:00,"The fund's top three holdings are Intel Corp INTC , Microsoft Corporation and Home Depot Inc HD with 5.3%, 4.7% and 4.5% allocation, respectively (as of Nov 17, 2017).",0.03180873394012451,0.005791999865323305,0.9623993039131165,neutral,0.026016734540462494
+39,2017-11-21 02:43:00,"The fund has returned 14.9% in a year and 12.2% year to date (as of Nov 17, 2017).",0.05478941649198532,0.009098358452320099,0.9361121654510498,neutral,0.04569105803966522
+40,2017-11-21 02:43:00,It currently has a Zacks ETF Rank #3 (Hold) with a Medium risk outlook.,0.14276762306690216,0.008695075288414955,0.848537266254425,neutral,0.13407254219055176
+41,2017-11-21 02:43:00,Want key ETF info delivered straight to your inbox?,0.030542515218257904,0.028245834633708,0.9412116408348083,neutral,0.002296680584549904
+42,2017-11-21 02:43:00,"Zacks' free Fund Newsletter will brief you on top news and analysis, as well as top-performing ETFs, each week.",0.023141156882047653,0.006683881860226393,0.9701749682426453,neutral,0.016457274556159973
+43,2017-11-21 02:43:00,"Get it free >>
+
+Want the latest recommendations from Zacks Investment Research?",0.032103605568408966,0.013047012500464916,0.9548494219779968,neutral,0.019056592136621475
+44,2017-11-21 02:43:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+45,2017-11-21 02:43:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+46,2017-11-21 02:43:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+47,2017-11-21 02:43:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+48,2017-11-21 02:43:00,"Click to get this free report
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.00937547255307436,0.019015243276953697,0.9716092348098755,neutral,-0.009639770723879337

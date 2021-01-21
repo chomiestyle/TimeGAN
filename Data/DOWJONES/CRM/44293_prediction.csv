@@ -1,0 +1,30 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-10 13:10:00,"Stocks continued last week's rally on Monday, as investors were encouraged that tariffs on Mexico are off the table.",0.8526305556297302,0.07514147460460663,0.07222795486450195,positive,0.7774890661239624
+1,2019-06-10 13:10:00,The Dow Jones Industrial Average (DJINDICES: ^DJI) and the S&P 500 (SNPINDEX: ^GSPC) posted gains of less than 0.5%.,0.6848188638687134,0.2767135202884674,0.03846754506230354,positive,0.40810534358024597
+2,2019-06-10 13:10:00,"As for individual stocks, two mergers made headlines.",0.18459998071193695,0.09041798859834671,0.7249820828437805,neutral,0.09418199211359024
+3,2019-06-10 13:10:00,"United Technologies (NYSE: UTX) is combining with Raytheon (NYSE: RTN), and salesforce.com (NYSE: CRM) is buying Tableau Software (NYSE: DATA).",0.049088913947343826,0.005278818774968386,0.9456322193145752,neutral,0.04381009563803673
+4,2019-06-10 13:10:00,"United Technologies and Raytheon announced on Sunday that the two companies will merge in an all-stock deal, causing shares of Raytheon to rise 0.7% and those of United Technologies to fall 3.1%.",0.7267689108848572,0.22488689422607422,0.04834417998790741,positive,0.501882016658783
+5,2019-06-10 13:10:00,"Raytheon shareholders will receive 2.3348 shares of the combined company, to be called Raytheon Technologies, for every Raytheon share they own.",0.05399438738822937,0.005318328272551298,0.9406872987747192,neutral,0.048676058650016785
+6,2019-06-10 13:10:00,"The deal will bring together Raytheon's missile, air defense, and electronic warfare capabilities with United Technologies' Pratt and Whitney engines, avionics, and aerospace strengths.",0.9022029638290405,0.013278873637318611,0.08451817184686661,positive,0.8889240622520447
+7,2019-06-10 13:10:00,The new company will have combined pro forma 2019 sales of $74 billion and free cash flow of about $6 billion.,0.1694088727235794,0.00537207443267107,0.8252190947532654,neutral,0.1640367954969406
+8,2019-06-10 13:10:00,Management expects to cut $1 billion in annual expenses and grow free cash flow to $8 billion by 2021.,0.05440274998545647,0.9077001214027405,0.037897080183029175,negative,-0.8532973527908325
+9,2019-06-10 13:10:00,"United Technologies will have a lot of change happening simultaneously, as the company is still integrating its acquisition of Rockwell Collins while working on the divestiture of its Otis and Carrier businesses.",0.07752209156751633,0.010485215112566948,0.9119926691055298,neutral,0.06703687459230423
+10,2019-06-10 13:10:00,"But Raytheon is coming off a strong year, and its complementary strengths in defense could make the deal pay off with diversification and scale, despite the complexity of the transition in the short term.",0.9498233199119568,0.016350049525499344,0.0338265486061573,positive,0.9334732890129089
+11,2019-06-10 13:10:00,Shares of Tableau Software soared 33.7% after software-as-a-service giant Salesforce announced it's buying the company in an all-stock deal worth about $15 billion.,0.8883678317070007,0.016808612272143364,0.09482350200414658,positive,0.871559202671051
+12,2019-06-10 13:10:00,"Salesforce is exchanging 1.103 shares of its stock, which fell 5.3% today on the news, for each share of Tableau.",0.10811621695756912,0.36882200837135315,0.5230617523193359,neutral,-0.2607057988643646
+13,2019-06-10 13:10:00,"Tableau Software specializes in data analytics, tapping into various sources of data across an organization, allowing for multiple ways of analyzing and presenting it visually.",0.05400100350379944,0.005438914988189936,0.9405601024627686,neutral,0.04856208711862564
+14,2019-06-10 13:10:00,"Salesforce already has Einstein, analytics for sales and marketing based on artificial intelligence, but sees the combination of Einstein and Tableau delivering a more powerful analytic and visualization capability.",0.43260088562965393,0.01086005475372076,0.5565390586853027,neutral,0.4217408299446106
+15,2019-06-10 13:10:00,"The deal is expected to close around Oct. 1, and while Salesforce expects the move to increase fiscal 2020 revenue by $350 million to $400 million, Tableau operates at a loss, so the acquisition will ding profits in the short term.",0.0921449288725853,0.8851989507675171,0.02265608310699463,negative,-0.7930540442466736
+16,2019-06-10 13:10:00,"Salesforce anticipates the deal will take $0.37 to $0.39 off 2020 non-GAAP EPS, bringing it to $2.51 to $2.53.",0.7942017316818237,0.12481282651424408,0.08098549395799637,positive,0.6693888902664185
+17,2019-06-10 13:10:00,"Offer from The Motley Fool: The 10 best stocks to buy now
+
+Motley Fool co-founders Tom and David Gardner have spent more than a decade beating the market.",0.3577365279197693,0.079598069190979,0.5626654624938965,neutral,0.2781384587287903
+18,2019-06-10 13:10:00,"In fact, the newsletter they run, Motley Fool Stock Advisor, has quadrupled the S&P 500!",0.7928586602210999,0.03537354990839958,0.17176781594753265,positive,0.7574850916862488
+19,2019-06-10 13:10:00,"*
+
+Tom and David just revealed their ten top stock picks for investors to buy right now.",0.13930022716522217,0.010441468097269535,0.8502583503723145,neutral,0.1288587599992752
+20,2019-06-10 13:10:00,Click here to get access to the full list!,0.04566172882914543,0.045436516404151917,0.9089017510414124,neutral,0.00022521242499351501
+21,2019-06-10 13:10:00,Jim Crumly owns shares of Salesforce.com.,0.014794368296861649,0.013136177323758602,0.9720693826675415,neutral,0.0016581909731030464
+22,2019-06-10 13:10:00,The Motley Fool owns shares of and recommends Salesforce.com.,0.02858699858188629,0.023867284879088402,0.9475457072257996,neutral,0.00471971370279789
+23,2019-06-10 13:10:00,The Motley Fool recommends Tableau Software.,0.05811826512217522,0.036098770797252655,0.90578293800354,neutral,0.02201949432492256
+24,2019-06-10 13:10:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

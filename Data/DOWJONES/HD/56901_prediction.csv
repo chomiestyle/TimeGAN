@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-06-24 06:03:00,Most losses stem from obvious mistakes.,0.0505497083067894,0.6788772344589233,0.2705730199813843,negative,-0.6283275485038757
+1,2020-06-24 06:03:00,Chasing a stock after a giant rally is an obvious mistake — it leaves investors vulnerable to disappointment.,0.08437647670507431,0.7235323190689087,0.19209112226963043,negative,-0.6391558647155762
+2,2020-06-24 06:03:00,"American Airlines (NASDAQ:AAL) shot up, and many learned about this disappointment the hard way.",0.7738645076751709,0.028358856216073036,0.1977766454219818,positive,0.7455056309700012
+3,2020-06-24 06:03:00,"AAL stock has fallen this week, but its problems started a long time ago.",0.0402875691652298,0.9300540685653687,0.029658351093530655,negative,-0.8897665143013
+4,2020-06-24 06:03:00,"Much of this drama started in early June, when experts started calling for a rally.",0.11792054772377014,0.20681726932525635,0.6752622127532959,neutral,-0.0888967216014862
+5,2020-06-24 06:03:00,"Unfortunately, shares have fallen 40% from highs set on June 5.",0.017249852418899536,0.9727205634117126,0.010029612109065056,negative,-0.9554706811904907
+6,2020-06-24 06:03:00,That was around the time when CNBC began focusing on Robinhood investors and their quick profits on airline stocks.,0.0693947896361351,0.011031786911189556,0.9195734262466431,neutral,0.05836300179362297
+7,2020-06-24 06:03:00,"But these bullish investors overstayed their welcome, and profits turned into losses.",0.026737553998827934,0.9563453197479248,0.016917144879698753,negative,-0.9296077489852905
+8,2020-06-24 06:03:00,"There are simple rules investor must be willing to follow, and there aren’t any real shortcuts.",0.05128798633813858,0.01179917249828577,0.9369128346443176,neutral,0.039488814771175385
+9,2020-06-24 06:03:00,You must understand macroeconomics.,0.06780894100666046,0.010115225799381733,0.9220758676528931,neutral,0.0576937161386013
+10,2020-06-24 06:03:00,"Then, you must study a stock’s fundamentals.",0.029567474499344826,0.0072066569700837135,0.9632259011268616,neutral,0.022360816597938538
+11,2020-06-24 06:03:00,"Compare companies to their competitors — in this instance, Delta Air Lines (NYSE:DAL) and United Airlines (NASDAQ:UAL).",0.03686799108982086,0.029489442706108093,0.9336426258087158,neutral,0.0073785483837127686
+12,2020-06-24 06:03:00,"Lastly, I am a strong believer in the charts, so I never make a trade without studying levels and patterns.",0.05357689782977104,0.01111556589603424,0.9353075623512268,neutral,0.0424613319337368
+13,2020-06-24 06:03:00,Why do charts matter?,0.06781043857336044,0.0825350359082222,0.849654495716095,neutral,-0.014724597334861755
+14,2020-06-24 06:03:00,"Well, in an age where most trading is done by machines, the technical aspects ring truer than ever.",0.36769458651542664,0.03552793338894844,0.5967774987220764,neutral,0.3321666419506073
+15,2020-06-24 06:03:00,"Machines only trade based on history, and history is exactly what you see on the chart.",0.026678096503019333,0.010551001876592636,0.9627708792686462,neutral,0.016127094626426697
+16,2020-06-24 06:03:00,Understanding the price history also means you can predict potential pitfalls.,0.06517168134450912,0.0136054502800107,0.9212228059768677,neutral,0.051566231995821
+17,2020-06-24 06:03:00,"Things Are Tougher Than They Seem
+
+The big picture is terrible.",0.04080388322472572,0.8294126391410828,0.1297835260629654,negative,-0.788608729839325
+18,2020-06-24 06:03:00,"Millions of U.S. residents are out of work, but the stock market doesn’t care.",0.03706185519695282,0.8916842937469482,0.07125389575958252,negative,-0.8546224236488342
+19,2020-06-24 06:03:00,There’s even chatter of a second round of stimulus checks coming from the White House.,0.39270755648612976,0.06338401138782501,0.543908417224884,neutral,0.32932353019714355
+20,2020-06-24 06:03:00,"Meanwhile, there is underlying weakness for American Airlines.",0.028306355699896812,0.9513378739356995,0.020355790853500366,negative,-0.9230315089225769
+21,2020-06-24 06:03:00,The Transportation Security Administration traffic reports still show the daily airline throughput is down 78% year-over-year.,0.01887519285082817,0.9720682501792908,0.009056602604687214,negative,-0.9531930685043335
+22,2020-06-24 06:03:00,This is hardly supportive of the bull case.,0.06939209997653961,0.2126670926809311,0.7179408073425293,neutral,-0.14327499270439148
+23,2020-06-24 06:03:00,"• 10 Stocks to Watch in the Second Half
+
+Now that we have established that the environment is still hostile for airlines, we must look at what upside potential AAL stock has.",0.08391538262367249,0.0117876548320055,0.9042969942092896,neutral,0.07212772965431213
+24,2020-06-24 06:03:00,"I can report that, so far, it is packing its planes full.",0.33625897765159607,0.02606925740838051,0.6376717686653137,neutral,0.31018972396850586
+25,2020-06-24 06:03:00,It could be worse.,0.06914075464010239,0.5955910682678223,0.33526813983917236,negative,-0.5264503359794617
+26,2020-06-24 06:03:00,"I know this because my wife just flew to and from Texas, and both of her flights had zero empty seats.",0.023092646151781082,0.0436549186706543,0.9332524538040161,neutral,-0.020562272518873215
+27,2020-06-24 06:03:00,"Eventually, airlines will have to comply with new capacity rules.",0.20042380690574646,0.05639997497200966,0.743176281452179,neutral,0.1440238356590271
+28,2020-06-24 06:03:00,These rules will add to their burden.,0.10765881836414337,0.20359240472316742,0.6887487769126892,neutral,-0.09593358635902405
+29,2020-06-24 06:03:00,"This sounds ominous, but it is important to thoroughly stress test every bullish thesis.",0.13551343977451324,0.055018845945596695,0.8094677329063416,neutral,0.08049459755420685
+30,2020-06-24 06:03:00,"There Is Good News for AAL Stock
+
+I promise you that I am not a hater.",0.34607213735580444,0.0508439727127552,0.6030839085578918,neutral,0.29522815346717834
+31,2020-06-24 06:03:00,"In fact, I shared a bullish write-up on March 31 calling AAL stock a “bargain buy.” Even though I didn’t nail a perfect bottom, that trade saw shares nearly double.",0.8617311716079712,0.03750448301434517,0.10076437145471573,positive,0.8242266774177551
+32,2020-06-24 06:03:00,"Now, the stock is falling back into the clutches of those March levels.",0.07499762624502182,0.6838940382003784,0.24110832810401917,negative,-0.6088964343070984
+33,2020-06-24 06:03:00,"But, remember that it’s normal for a stock to revisit the base from which it rallied.",0.10517467558383942,0.012940358370542526,0.8818849921226501,neutral,0.09223431348800659
+34,2020-06-24 06:03:00,The rally that started June 4 was too steep to last.,0.12057370692491531,0.5245549082756042,0.35487133264541626,negative,-0.40398120880126953
+35,2020-06-24 06:03:00,"Now, ownership will transfer into better hands, which will help shares inch higher in a more sustainable way.",0.9413562417030334,0.01612642966210842,0.042517296969890594,positive,0.9252297878265381
+36,2020-06-24 06:03:00,Buying shares now makes a ton of sense — for both long-term and even mid-term investors.,0.2622060477733612,0.01903415657579899,0.7187597751617432,neutral,0.24317188560962677
+37,2020-06-24 06:03:00,I prefer selling puts or put spreads into the support area near $10 than bet on upside hopium.,0.052668217569589615,0.021182699128985405,0.9261490702629089,neutral,0.03148552030324936
+38,2020-06-24 06:03:00,"This way, I can generate profits without even needing a rally.",0.5412831902503967,0.010438894852995872,0.44827789068222046,positive,0.5308442711830139
+39,2020-06-24 06:03:00,"In fact, the stock can fall another 30% before I would lose money on this trade.",0.029548177495598793,0.8725483417510986,0.09790343791246414,negative,-0.8430001735687256
+40,2020-06-24 06:03:00,"Fret the New Normal for Crowd Economies
+
+Crowd economies are now at a severe disadvantage, and airlines are at the center of the problem.",0.036669474095106125,0.8958085775375366,0.06752197444438934,negative,-0.859139084815979
+41,2020-06-24 06:03:00,"Until we have a vaccine, many consumers won’t have the courage to fly.",0.06117774918675423,0.3091007471084595,0.629721462726593,neutral,-0.24792300164699554
+42,2020-06-24 06:03:00,And some won’t even visit brick-and-mortar retailers.,0.051919691264629364,0.7989612817764282,0.14911901950836182,negative,-0.7470415830612183
+43,2020-06-24 06:03:00,"I personally now avoid Home Depot (NYSE:HD) and Costco (NASDAQ:COST), even though I frequented those stores for fun prior to the novel coronavirus.",0.05002819374203682,0.14763237535953522,0.8023394346237183,neutral,-0.0976041853427887
+44,2020-06-24 06:03:00,"Things may have changed forever, but I am optimistic.",0.31351253390312195,0.01905502937734127,0.6674323678016663,neutral,0.29445749521255493
+45,2020-06-24 06:03:00,We may simply need time to heal.,0.35951682925224304,0.027014348655939102,0.6134688258171082,neutral,0.33250248432159424
+46,2020-06-24 06:03:00,Airlines will soon have to make big strategic decisions that will have consequences for their future success.,0.13937479257583618,0.08180247992277145,0.7788227796554565,neutral,0.05757231265306473
+47,2020-06-24 06:03:00,The bottom line is that they are on life support.,0.026175513863563538,0.01910295896232128,0.9547215104103088,neutral,0.007072554901242256
+48,2020-06-24 06:03:00,"They are taking on more debt, digging deeper holes just to have cash.",0.15532426536083221,0.23023349046707153,0.6144422888755798,neutral,-0.07490922510623932
+49,2020-06-24 06:03:00,"Yes, they need to do this to survive 2020.",0.463685005903244,0.017213210463523865,0.5191017985343933,neutral,0.44647181034088135
+50,2020-06-24 06:03:00,"But this means expecting sharp upside rallies is not logical, because it assumes an overnight change in the airline situation.",0.05097644776105881,0.452450692653656,0.4965728521347046,neutral,-0.4014742374420166
+51,2020-06-24 06:03:00,"At this point, such a change is impossible.",0.040982283651828766,0.08506723493337631,0.8739504218101501,neutral,-0.044084951281547546
+52,2020-06-24 06:03:00,Nicolas Chahine is the managing director of SellSpreads.com.,0.016307199373841286,0.009209631942212582,0.9744831323623657,neutral,0.007097567431628704
+53,2020-06-24 06:03:00,"As of this writing, he did not hold a position in any of the aforementioned securities.",0.009080321528017521,0.02340867556631565,0.9675110578536987,neutral,-0.01432835403829813
+54,2020-06-24 06:03:00,Join his live chat room for free here.,0.06231830641627312,0.03811138495802879,0.8995702862739563,neutral,0.024206921458244324
+55,2020-06-24 06:03:00,The post Buy American Airlines Stock Now for a Long-Term Recovery appeared first on InvestorPlace.,0.24287153780460358,0.06039533391594887,0.6967331171035767,neutral,0.182476207613945

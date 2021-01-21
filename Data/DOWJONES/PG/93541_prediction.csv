@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-03-30 09:48:00,"In early trading on Monday, shares of UnitedHealth Group ( UNH ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.8%.",0.944175660610199,0.0265745110809803,0.029249880462884903,positive,0.9176011681556702
+1,2015-03-30 09:48:00,"Year to date, UnitedHealth Group registers a 21.2% gain.",0.9503577351570129,0.016333993524312973,0.033308256417512894,positive,0.9340237379074097
+2,2015-03-30 09:48:00,"And the worst performing Dow component thus far on the day is Intel Corp ( INTC ), trading down 0.8%.",0.021086379885673523,0.9647063612937927,0.014207214117050171,negative,-0.943619966506958
+3,2015-03-30 09:48:00,Intel Corp is lower by about 12.5% looking at the year to date performance.,0.020962243899703026,0.9665822982788086,0.012455412186682224,negative,-0.945620059967041
+4,2015-03-30 09:48:00,"Two other components making moves today are Procter & Gamble ( PG ), trading up 0.2%, and JPMorgan Chase ( JPM ), trading up 2.8% on the day.",0.8653451800346375,0.036232173442840576,0.09842261672019958,positive,0.8291130065917969
+5,2015-03-30 09:48:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

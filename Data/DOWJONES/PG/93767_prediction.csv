@@ -1,0 +1,69 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2014-10-23 03:00:00,It's a bad week to be Warren Buffett.,0.04961753636598587,0.7165078520774841,0.2338745892047882,negative,-0.6668903231620789
+1,2014-10-23 03:00:00,The world's greatest investor is more than $2 billion in the hole this week after two of his favorite stocks got hammered.,0.20773530006408691,0.4335724115371704,0.35869234800338745,negative,-0.2258371114730835
+2,2014-10-23 03:00:00,"First, IBM shares tumbled 7% on Monday after the company ditched its earnings forecast for 2015 as revenue fell 4% in the quarter and earnings per share from continuing operations dropped nearly 10%.",0.019533194601535797,0.9719922542572021,0.008474544622004032,negative,-0.9524590373039246
+3,2014-10-23 03:00:00,"On Tuesday, Big Blue fell another 3.5%, costing Buffett's Berkshire Hathaway more than $1 billion in equity in just two days.",0.020585278049111366,0.9669983386993408,0.012416413985192776,negative,-0.9464130401611328
+4,2014-10-23 03:00:00,"The pain was far from over, however.",0.3041362762451172,0.18876728415489197,0.5070964694023132,neutral,0.11536899209022522
+5,2014-10-23 03:00:00,"On Tuesday, Coca-Cola had its worst day on the market in six years, falling 6% on a similarly dismal earnings report.",0.02053878828883171,0.969871997833252,0.00958920456469059,negative,-0.9493331909179688
+6,2014-10-23 03:00:00,"The beverage giant said profits fell 14% in the quarter in part due to negative currency translation, and revenue was flat as the company struggles to overcome the decline of soda consumption in North America and other key markets.",0.017310846596956253,0.9724221229553223,0.010267023928463459,negative,-0.9551112651824951
+7,2014-10-23 03:00:00,"Combined, the two earnings reports cost Buffett over $2 billion as Coke and IBM represent is second and fourth biggest holding by value, and are his biggest holdings of non-financial companies.",0.06919827312231064,0.7239717841148376,0.2068300098180771,negative,-0.6547735333442688
+8,2014-10-23 03:00:00,Is the Oracle of Omaha losing his touch?,0.12432000786066055,0.4439470171928406,0.43173301219940186,negative,-0.3196270167827606
+9,2014-10-23 03:00:00,"IBM and Coke are making headlines this week after their terrible quarters, but poor performance is nothing new from these companies.",0.021968284621834755,0.9477549195289612,0.030276773497462273,negative,-0.9257866144180298
+10,2014-10-23 03:00:00,Both of them have underperformed the S&P 500 substantially within the last five years as the chart below shows.,0.4559674561023712,0.4633959233760834,0.0806366503238678,negative,-0.007428467273712158
+11,2014-10-23 03:00:00,"In particular, IBM and Coke have missed on the S&P's surge over the last two years, and it's clear why.",0.07763208448886871,0.6567239165306091,0.26564398407936096,negative,-0.5790918469429016
+12,2014-10-23 03:00:00,There is no growth to be found.,0.013058123178780079,0.03300663083791733,0.9539352655410767,neutral,-0.019948508590459824
+13,2014-10-23 03:00:00,IBM has posted negative revenue growth in each of its last ten quarters as the company has spent profits on share buybacks and dividends and siphoned off lower-margin businesses.,0.018442237749695778,0.9670278429985046,0.014529798179864883,negative,-0.9485856294631958
+14,2014-10-23 03:00:00,"However, that strategy appears to have run out of gas as even sales in its key services and software segments are now declining.",0.016643522307276726,0.96120685338974,0.022149566560983658,negative,-0.9445633292198181
+15,2014-10-23 03:00:00,"Coke is in a similar hole, having seen flat revenue in its last six quarters.",0.023518046364188194,0.9576345682144165,0.018847458064556122,negative,-0.934116542339325
+16,2014-10-23 03:00:00,"While the company has been making investments in growing beverage makers like Keurig Green Mountain and Monster Beverage, and has promised to take significant cost-cutting measures, its core soda sales are falling due to legitimate health concerns about its product, a problem without an easy solution.",0.018060868605971336,0.9666998982429504,0.015239319764077663,negative,-0.9486390352249146
+17,2014-10-23 03:00:00,"It's not just IBM and Coke
+
+IBM and Coke aren't the Buffett stocks struggling.",0.028852730989456177,0.09622320532798767,0.8749241232872009,neutral,-0.0673704743385315
+18,2014-10-23 03:00:00,"His next two biggest holdings, Wal-Mart and Procter & Gamble , have also seen their growth eclipse of late.",0.8687735199928284,0.02376939170062542,0.10745704174041748,positive,0.845004141330719
+19,2014-10-23 03:00:00,"In August, Wal-Mart reduced its EPS forecast for the year from $5.10-$5.45 to $4.90-$5.15, and reported its fifth consecutive quarter of negative comparable sales.",0.01624213345348835,0.9688212871551514,0.014936530031263828,negative,-0.952579140663147
+20,2014-10-23 03:00:00,The world's biggest retailer is also dialing back its new construction next year as sales at its Superstores have been particularly weak.,0.01812179945409298,0.9658604264259338,0.016017712652683258,negative,-0.9477386474609375
+21,2014-10-23 03:00:00,"Having found success online and at its smaller Neighborhood Market-format stores, Wal-Mart is focusing on those categories.",0.16560353338718414,0.006158266682177782,0.8282382488250732,neutral,0.15944527089595795
+22,2014-10-23 03:00:00,But the weakness at the superstores spell trouble for the company and the stock as a whole.,0.022536737844347954,0.9595001935958862,0.017963001504540443,negative,-0.9369634389877319
+23,2014-10-23 03:00:00,"Like Wal-Mart and Coca-Cola, Procter & Gamble may also be a victim of its own success.",0.0400557704269886,0.7944974303245544,0.16544686257839203,negative,-0.7544416785240173
+24,2014-10-23 03:00:00,"The company has had as many as 24-billion-dollar brands underneath its households products, but growth has also been hard to find of late.",0.044682856649160385,0.2430083155632019,0.7123088240623474,neutral,-0.19832545518875122
+25,2014-10-23 03:00:00,The company recently decided to sell off many of its less valuable brands in an attempt to focus on its core products.,0.0795644000172615,0.0963495597243309,0.82408607006073,neutral,-0.016785159707069397
+26,2014-10-23 03:00:00,"Revenue growth has hovered around the zero mark for most of the last three years, and the company brought back formerly retired CEO A.G. Lafley a year ago to right the ship.",0.19765852391719818,0.20458388328552246,0.5977575778961182,neutral,-0.00692535936832428
+27,2014-10-23 03:00:00,Results thus far have been unimpressive as revenue has missed estimates in each of the last three quarters.,0.02173030748963356,0.9633976817131042,0.014872033149003983,negative,-0.941667377948761
+28,2014-10-23 03:00:00,Mature markets and online competition have made growth a lot tougher than it used to be.,0.04639309644699097,0.8703263998031616,0.08328045159578323,negative,-0.8239333033561707
+29,2014-10-23 03:00:00,"Perhaps, it's no surprise that Wal-Mart and P&G have also underperformed the S&P over the five years as the chart below shows:
+
+What they all have in common
+
+All four of the stocks above are classic Warren Buffett picks.",0.35360780358314514,0.07111186534166336,0.5752802491188049,neutral,0.2824959456920624
+30,2014-10-23 03:00:00,"Buffett likes companies that he can buy and hold for a long time, as well as companies that have an economic moat with businesses built on repeated purchases rather than big-ticket items.",0.06007929891347885,0.008587716147303581,0.9313329458236694,neutral,0.05149158090353012
+31,2014-10-23 03:00:00,"Buffett perhaps loves no stock more than Coca-Cola, having said he could not compete with the beverage giant even if he had $100 billion to do so.",0.07687440514564514,0.16012263298034668,0.7630029916763306,neutral,-0.08324822783470154
+32,2014-10-23 03:00:00,And Coca-Cola is typical of the companies above.,0.04048604890704155,0.005914560053497553,0.9535993933677673,neutral,0.034571487456560135
+33,2014-10-23 03:00:00,It no doubt enjoys a huge competitive advantage.,0.86604243516922,0.01514833327382803,0.118809275329113,positive,0.8508940935134888
+34,2014-10-23 03:00:00,"It's perhaps the most recognized brand around the world, has an unmatched distribution channel, and enjoys huge margins to boot.",0.8020176291465759,0.01346263475716114,0.1845197081565857,positive,0.7885549664497375
+35,2014-10-23 03:00:00,But Coke's strengths are turning into vulnerabilities as consumer demand changes.,0.03717726096510887,0.46344104409217834,0.4993817210197449,neutral,-0.4262637794017792
+36,2014-10-23 03:00:00,"Soda consumption is declining, and there is not a whole lot that Coke's management can do to change that.",0.03176829591393471,0.7149462103843689,0.2532854974269867,negative,-0.6831778883934021
+37,2014-10-23 03:00:00,"Wal-Mart, similarly is falling victim to changing shopping habits as online retail grows and Americans have moved from rural areas and suburbs into cities.",0.02461189776659012,0.8810592293739319,0.09432893991470337,negative,-0.8564473390579224
+38,2014-10-23 03:00:00,"All four of these companies are struggling to find growth, and without it, the stocks are destined to fall.",0.02246522530913353,0.9042187333106995,0.07331608980894089,negative,-0.8817535042762756
+39,2014-10-23 03:00:00,"Economic moats are powerful, but only as long as the industry is prosperous as they only protect a company from industry competitors.",0.24506910145282745,0.014743652194738388,0.7401871681213379,neutral,0.23032544553279877
+40,2014-10-23 03:00:00,"If consumer tastes change or the industry is disrupted, the biggest companies have the most to lose.",0.03214900568127632,0.7648618817329407,0.20298908650875092,negative,-0.7327128648757935
+41,2014-10-23 03:00:00,Coca-Cola and the other stocks above are learning this the hard way.,0.2047184854745865,0.014902564696967602,0.7803788781166077,neutral,0.1898159235715866
+42,2014-10-23 03:00:00,"Buffett remains the undisputed king of investors in our time, but when it comes to consumer-facing stocks, his strategy may need a reboot for the modern era.",0.3183926045894623,0.012397757731378078,0.6692095994949341,neutral,0.30599483847618103
+43,2014-10-23 03:00:00,"Warren Buffett: This new technology is a ""real threat""
+
+At the recent Berkshire Hathaway annual meeting, Warren Buffett admitted this emerging technology is threatening his biggest cash-cow.",0.05647590011358261,0.7879435420036316,0.155580535531044,negative,-0.7314676642417908
+44,2014-10-23 03:00:00,Buffett's fear can be your gain.,0.06237734481692314,0.05924034118652344,0.8783822655677795,neutral,0.003137003630399704
+45,2014-10-23 03:00:00,"Only a few investors are embracing this new market, which experts say will be worth over $2 trillion .",0.221978098154068,0.01124793291091919,0.7667739987373352,neutral,0.2107301652431488
+46,2014-10-23 03:00:00,"Find out how you can cash in on this technology before the crowd catches on, by jumping onto one company that could get you the biggest piece of the action.",0.2473381608724594,0.01118764840066433,0.7414742112159729,neutral,0.23615051805973053
+47,2014-10-23 03:00:00,Click here to access a free investor alert on the company we're calling the brains behind the technology.,0.024286804720759392,0.011967415921390057,0.9637457728385925,neutral,0.012319388799369335
+48,2014-10-23 03:00:00,The article Warren Buffett Lost Billions This Week -- Is He Losing His Touch?,0.06675388664007187,0.6874867677688599,0.24575932323932648,negative,-0.6207329034805298
+49,2014-10-23 03:00:00,originally appeared on Fool.com.,0.013903342187404633,0.013574473559856415,0.9725221991539001,neutral,0.0003288686275482178
+50,2014-10-23 03:00:00,Jeremy Bowman has no position in any stocks mentioned.,0.011148006655275822,0.04919901862740517,0.9396529793739319,neutral,-0.03805101290345192
+51,2014-10-23 03:00:00,"The Motley Fool recommends Berkshire Hathaway, Coca-Cola, Keurig Green Mountain, Monster Beverage, and Procter & Gamble.",0.01978486031293869,0.020207157358527184,0.9600079655647278,neutral,-0.00042229704558849335
+52,2014-10-23 03:00:00,"The Motley Fool owns shares of Berkshire Hathaway, International Business Machines, and Monster Beverage and has the following options: long January 2016 $37 calls on Coca-Cola and short January 2016 $37 puts on Coca-Cola.",0.01287519745528698,0.015188959427177906,0.9719358086585999,neutral,-0.0023137619718909264
+53,2014-10-23 03:00:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+54,2014-10-23 03:00:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+55,2014-10-23 03:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+56,2014-10-23 03:00:00,"Copyright © 1995 - 2014 The Motley Fool, LLC.",0.02662895992398262,0.023084871470928192,0.9502861499786377,neutral,0.003544088453054428
+57,2014-10-23 03:00:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+58,2014-10-23 03:00:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+59,2014-10-23 03:00:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

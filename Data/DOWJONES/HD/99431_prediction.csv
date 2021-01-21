@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-08-19 07:25:00,"In early trading on Wednesday, shares of McDonald's ( MCD ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 0.2%.",0.9382975101470947,0.03387153148651123,0.02783089131116867,positive,0.9044259786605835
+1,2015-08-19 07:25:00,"Year to date, McDonald's registers a 7.7% gain.",0.9502948522567749,0.02000727504491806,0.02969779074192047,positive,0.9302875995635986
+2,2015-08-19 07:25:00,"And the worst performing Dow component thus far on the day is UnitedHealth Group ( UNH ), trading down 1.8%.",0.020913004875183105,0.965418815612793,0.013668159954249859,negative,-0.9445058107376099
+3,2015-08-19 07:25:00,UnitedHealth Group is showing a gain of 22.0% looking at the year to date performance.,0.9560675024986267,0.01911860518157482,0.02481391467154026,positive,0.9369488954544067
+4,2015-08-19 07:25:00,"Two other components making moves today are Microsoft Corporation ( MSFT ), trading down 1.4%, and Home Depot ( HD ), trading up 0.2% on the day.",0.025903811678290367,0.9427847266197205,0.03131145238876343,negative,-0.9168809056282043
+5,2015-08-19 07:25:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

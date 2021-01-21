@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-04-16 07:01:00,Microsoft (NASDAQ: MSFT) and Salesforce.com (NYSE: CRM) are two of the most successful technology companies of all time.,0.6583144664764404,0.016259046271443367,0.3254264295101166,positive,0.6420553922653198
+1,2019-04-16 07:01:00,They dominate massive global markets.,0.13536524772644043,0.007585335988551378,0.8570494651794434,neutral,0.12777991592884064
+2,2019-04-16 07:01:00,"They're growing at incredible rates for businesses their size, and they've created fortunes for their longtime shareholders.",0.8495810031890869,0.012981448322534561,0.13743756711483002,positive,0.8365995287895203
+3,2019-04-16 07:01:00,But which of these stocks would be the best to add to your portfolio today?,0.09095890074968338,0.009266208857297897,0.8997749090194702,neutral,0.08169269561767578
+4,2019-04-16 07:01:00,"To find out, let's analyze Microsoft and Salesforce in four key areas: competitive position, financial strength, growth, and valuation.",0.02490866743028164,0.005719389766454697,0.9693719148635864,neutral,0.019189277663826942
+5,2019-04-16 07:01:00,"Salesforce is the global leader in customer relationship management software, with a market share greater than that of its three closest competitors combined.",0.8872478604316711,0.014315466396510601,0.09843660145998001,positive,0.8729323744773865
+6,2019-04-16 07:01:00,And it continues to widen its lead over its rivals.,0.9508338570594788,0.01839691586792469,0.030769232660531998,positive,0.9324369430541992
+7,2019-04-16 07:01:00,Salesforce is also expanding into massive new markets.,0.8127419352531433,0.012215038761496544,0.17504297196865082,positive,0.8005269169807434
+8,2019-04-16 07:01:00,"Its acquisition of MuleSoft made it a leader in the rapidly growing field of data integration, at a time when businesses are increasingly seeking to collect and analyze data from more sources than ever before.",0.8809480667114258,0.013897224329411983,0.10515464097261429,positive,0.86705082654953
+9,2019-04-16 07:01:00,"Like Salesforce, Microsoft dominates several of its core markets.",0.06697728484869003,0.005930173210799694,0.9270925521850586,neutral,0.061047110706567764
+10,2019-04-16 07:01:00,Office continues to command the lion's share of the business productivity market.,0.5193593502044678,0.012609448283910751,0.4680311679840088,positive,0.5067499279975891
+11,2019-04-16 07:01:00,"Windows remains the most popular desktop operating software on personal computers worldwide, though Apple, Alphabet, and others have gained share in recent years.",0.4053228795528412,0.020258868113160133,0.5744182467460632,neutral,0.3850640058517456
+12,2019-04-16 07:01:00,"Microsoft also has a rapidly growing cloud computing platform in Azure, though in this important area, it's a clear No.",0.1501791924238205,0.04359094798564911,0.806229829788208,neutral,0.10658824443817139
+13,2019-04-16 07:01:00,2 to Amazon.,0.04841082543134689,0.026454104110598564,0.9251351356506348,neutral,0.02195672132074833
+14,2019-04-16 07:01:00,"All told, both Salesforce and Microsoft possess powerful competitive advantages.",0.870347797870636,0.016620608046650887,0.11303157359361649,positive,0.8537271618843079
+15,2019-04-16 07:01:00,But I'd argue that Microsoft faces more significant competition from formidable rivals in several of its most important businesses.,0.6338385939598083,0.05976645275950432,0.30639490485191345,positive,0.5740721225738525
+16,2019-04-16 07:01:00,"Therefore, Salesforce has the edge here.",0.4629306495189667,0.01885312795639038,0.5182162523269653,neutral,0.4440775215625763
+17,2019-04-16 07:01:00,Let's now review some key financial metrics to see how these tech giants stack up.,0.06869662553071976,0.005410654004663229,0.9258926510810852,neutral,0.06328596919775009
+18,2019-04-16 07:01:00,Microsoft's revenue and cash flow production dwarf those of Salesforce.,0.13512282073497772,0.8171707391738892,0.04770643636584282,negative,-0.6820479035377502
+19,2019-04-16 07:01:00,"It also has $54.5 billion in net cash on its balance sheet, compared to $1.1 billion for the SaaS player.",0.6778613924980164,0.25210240483283997,0.07003621757030487,positive,0.4257589876651764
+20,2019-04-16 07:01:00,"Clearly, Microsoft has a substantial edge in terms of financial strength.",0.8968688249588013,0.014020239934325218,0.08911098539829254,positive,0.8828485608100891
+21,2019-04-16 07:01:00,"Microsoft may be more financially powerful, but Salesforce is expanding at more rapidly.",0.7278061509132385,0.013383802026510239,0.2588100731372833,positive,0.714422345161438
+22,2019-04-16 07:01:00,"Wall Street expects Microsoft's earnings to rise by 14.5% annually over the next five years, driven primarily by its Office 365 and Azure cloud services.",0.9537747502326965,0.016721444204449654,0.029503853991627693,positive,0.9370533227920532
+23,2019-04-16 07:01:00,"Salesforce, meanwhile, is projected to grow its profits by 28.5% annually during that period, fueled by its sales, service, and marketing cloud businesses -- as well as its game-changing MuleSoft acquisition.",0.9567248225212097,0.018230361863970757,0.025044772773981094,positive,0.9384944438934326
+24,2019-04-16 07:01:00,"Thus, Salesforce has a clear edge in term of expected earnings growth in the coming years.",0.9382303953170776,0.015218643471598625,0.046550966799259186,positive,0.9230117797851562
+25,2019-04-16 07:01:00,"Lastly, let's compare the two based on some common stock valuation metrics.",0.06705322116613388,0.005819814279675484,0.9271270036697388,neutral,0.061233408749103546
+26,2019-04-16 07:01:00,"By every measure, Salesforce's shares are significantly more expensive than those of Microsoft.",0.07120121270418167,0.3766534924507141,0.5521453022956848,neutral,-0.30545228719711304
+27,2019-04-16 07:01:00,"This is to be somewhat expected, considering Salesforce's higher projected earnings-growth rate.",0.7967095971107483,0.01965484581887722,0.18363556265830994,positive,0.7770547270774841
+28,2019-04-16 07:01:00,But even if that is factored in -- as the PEG ratio does -- Microsoft's stock still looks like the better bargain based on its price today.,0.5025709271430969,0.06379495561122894,0.43363410234451294,positive,0.4387759566307068
+29,2019-04-16 07:01:00,The better buy is...,0.300265371799469,0.02287042886018753,0.6768642067909241,neutral,0.27739495038986206
+30,2019-04-16 07:01:00,"Ultimately, you'll need to decide which of these factors is most important to you.",0.0486554279923439,0.009004366584122181,0.9423401951789856,neutral,0.039651062339544296
+31,2019-04-16 07:01:00,"Value-focused investors will likely appreciate Microsoft's greater financial strength and more attractively priced shares, while growth investors may prefer Salesforce's strong competitive position and superior pace of expansion.",0.935073733329773,0.017678277567029,0.04724803939461708,positive,0.9173954725265503
+32,2019-04-16 07:01:00,"Either way, you'll be buying an elite business that's well positioned to deliver handsome gains to investors in the years ahead.",0.8254340291023254,0.012490776367485523,0.16207513213157654,positive,0.8129432797431946
+33,2019-04-16 07:01:00,"10 stocks we like better than Microsoft
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.144730806350708,0.02607131190598011,0.829197883605957,neutral,0.11865949630737305
+34,2019-04-16 07:01:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+35,2019-04-16 07:01:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Microsoft wasn't one of them!",0.20279869437217712,0.013692434877157211,0.7835088968276978,neutral,0.18910625576972961
+36,2019-04-16 07:01:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+37,2019-04-16 07:01:00,"Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",0.020137198269367218,0.024020064622163773,0.9558427929878235,neutral,-0.0038828663527965546
+38,2019-04-16 07:01:00,Joe Tenebruso has no position in any of the stocks mentioned.,0.009518484584987164,0.049896471202373505,0.9405850768089294,neutral,-0.040377985686063766
+39,2019-04-16 07:01:00,The Motley Fool owns shares of and recommends Microsoft and Salesforce.com.,0.04631398245692253,0.046064529567956924,0.9076215028762817,neutral,0.0002494528889656067
+40,2019-04-16 07:01:00,The Motley Fool has a disclosure policy.,0.016547124832868576,0.017303891479969025,0.9661489725112915,neutral,-0.0007567666471004486

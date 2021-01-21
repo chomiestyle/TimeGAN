@@ -1,0 +1,53 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-30 07:58:00,Microsoft Corporation (NASDAQ: MSFT ) stock has been easy money for about 18 months now.,0.0841517224907875,0.01069035567343235,0.9051579236984253,neutral,0.0734613686800003
+1,2018-01-30 07:58:00,"MSFT stock has nearly doubled over that timeframe, and done so almost quietly.",0.8824203610420227,0.014532087370753288,0.10304758697748184,positive,0.8678882718086243
+2,2018-01-30 07:58:00,"After all, many of Microsoft's mega-cap tech peers have performed strongly as well but with a lot more noise.",0.9078372716903687,0.022922072559595108,0.06924062222242355,positive,0.8849151730537415
+3,2018-01-30 07:58:00,"Facebook Inc (NASDAQ: FB ) has dealt with "" fake news "" and, more recently, changes to its news feed.",0.044088900089263916,0.8598167896270752,0.09609431773424149,negative,-0.8157278895378113
+4,2018-01-30 07:58:00,Alibaba Group Holding Ltd (NYSE: BABA ) continues to face criticism of its accounting.,0.02494107559323311,0.9542986750602722,0.020760279148817062,negative,-0.9293575882911682
+5,2018-01-30 07:58:00,"Amazon.com, Inc. (NASDAQ: AMZN ) bought Whole Foods , and has been the poster child for a supposedly overbought market, with endless discussion of whether it's just too expensive even as it marches higher.",0.26243841648101807,0.10195734351873398,0.635604202747345,neutral,0.1604810655117035
+6,2018-01-30 07:58:00,But Microsoft really hasn't changed that much.,0.029798824340105057,0.05304361879825592,0.9171575307846069,neutral,-0.023244794458150864
+7,2018-01-30 07:58:00,It's shifting its core Windows and Office products to the 'cloud' from disc-based versions.,0.1275005340576172,0.009168444201350212,0.8633310794830322,neutral,0.11833208799362183
+8,2018-01-30 07:58:00,It's closing the gap on Amazon in cloud services.,0.7345870137214661,0.0410618782043457,0.22435112297534943,positive,0.6935251355171204
+9,2018-01-30 07:58:00,"Dynamics is threatening Salesforce.com, Inc. (NYSE: CRM ) in CRM software.",0.030908381566405296,0.8309038877487183,0.1381877362728119,negative,-0.799995481967926
+10,2018-01-30 07:58:00,"Modest, incremental improvements under CEO Satya Nadella have mostly done the trick.",0.7171187400817871,0.022815534844994545,0.2600657641887665,positive,0.6943032145500183
+11,2018-01-30 07:58:00,A steadily expanding earnings multiple has helped as well.,0.9480176568031311,0.01640123687684536,0.0355810709297657,positive,0.9316164255142212
+12,2018-01-30 07:58:00,"• 5 Tech Giants Set to Report Earnings (And Rattle the Market)
+
+It's not the sexiest story in the market.",0.2652831971645355,0.062233924865722656,0.6724829077720642,neutral,0.20304927229881287
+13,2018-01-30 07:58:00,"The company still has a "" second-place problem. """,0.021538442000746727,0.9440147876739502,0.034446727484464645,negative,-0.9224763512611389
+14,2018-01-30 07:58:00,"Yet while I was admittedly very slow to come around to the bull case for MSFT stock, I did so after a blowout Q1 report in November.",0.19403135776519775,0.2010575830936432,0.6049110293388367,neutral,-0.007026225328445435
+15,2018-01-30 07:58:00,"Heading into Q4 earnings on Wednesday afternoon, with MSFT stock 10%+ higher, I'm staying bullish.",0.823486328125,0.04517801105976105,0.13133563101291656,positive,0.7783083319664001
+16,2018-01-30 07:58:00,"MSFT isn't necessarily cheap anymore, and its gains are likely to moderate after a ~38% increase in 2017.",0.9062170386314392,0.03384498134255409,0.0599379725754261,positive,0.872372031211853
+17,2018-01-30 07:58:00,"But the story is working, even if it's doing so quietly.",0.33346235752105713,0.032816082239151,0.6337215900421143,neutral,0.30064627528190613
+18,2018-01-30 07:58:00,And there's no reason to see that changing in Wednesday's report.,0.016047993674874306,0.05526578798890114,0.9286862015724182,neutral,-0.03921779245138168
+19,2018-01-30 07:58:00,"Q2 Earnings Should Be Bullish for MSFT Stock
+
+Even with MSFT having gained of late, expectations don't look particularly high for the fiscal second quarter.",0.3029080629348755,0.4975854456424713,0.1995064616203308,negative,-0.19467738270759583
+20,2018-01-30 07:58:00,Wall Street consensus projects a 7.5% increase in EPS on the back off an 8.9% increase in revenue.,0.9514186978340149,0.020289799198508263,0.028291499242186546,positive,0.9311289191246033
+21,2018-01-30 07:58:00,Neither figure looks particularly onerous.,0.057559479027986526,0.09436474740505219,0.848075807094574,neutral,-0.03680526837706566
+22,2018-01-30 07:58:00,Q1 revenue increased 12% and EPS rose 17%.,0.9575350284576416,0.01750653237104416,0.02495846338570118,positive,0.9400284886360168
+23,2018-01-30 07:58:00,But there's little reason to see a deceleration in growth just three months later.,0.11406684666872025,0.23897455632686615,0.6469586491584778,neutral,-0.1249077096581459
+24,2018-01-30 07:58:00,The Azure cloud platform is hitting tougher comparisons.,0.23501773178577423,0.48958349227905273,0.27539873123168945,negative,-0.2545657753944397
+25,2018-01-30 07:58:00,"The 90% increase seen last quarter, which provided a likely 5-6 bump to overall top-line growth, should moderate in Q2.",0.9080879092216492,0.03190191835165024,0.060010213404893875,positive,0.8761860132217407
+26,2018-01-30 07:58:00,"But that's a likely 2-3 point impact at most, and elsewhere Microsoft's strategy isn't coming to an immediate end.",0.03225642070174217,0.130473330616951,0.8372702598571777,neutral,-0.09821690618991852
+27,2018-01-30 07:58:00,Dynamics rose 13% last quarter; Microsoft appears to be making consistent inroads there.,0.9513916969299316,0.017551567405462265,0.0310567244887352,positive,0.9338401556015015
+28,2018-01-30 07:58:00,The shift to Office 365 drove sales up 12%; that shift has years left to play out.,0.9417784214019775,0.029452672228217125,0.028768837451934814,positive,0.9123257398605347
+29,2018-01-30 07:58:00,"PC sales are weak, but Windows continues to outgrow the market and there, too, there's no reason to see a sharp change in trend.",0.08332506567239761,0.18398572504520416,0.7326891422271729,neutral,-0.10066065937280655
+30,2018-01-30 07:58:00,"From a high-level perspective, expectations simply look too low.",0.04215554520487785,0.21203233301639557,0.7458121180534363,neutral,-0.16987678408622742
+31,2018-01-30 07:58:00,"And given that Microsoft has easily beaten estimates regularly over the past few years, the obvious bet is that Q2 numbers will do the same.",0.8175865411758423,0.04008878394961357,0.14232470095157623,positive,0.7774977684020996
+32,2018-01-30 07:58:00,"That said, an earnings beat doesn't necessarily mean that a stock will rise.",0.36056503653526306,0.03789127618074417,0.601543664932251,neutral,0.3226737678050995
+33,2018-01-30 07:58:00,Forward-looking commentary on the conference call can have an impact.,0.020332135260105133,0.009893784299492836,0.969774067401886,neutral,0.010438350960612297
+34,2018-01-30 07:58:00,"Investors may be expecting a beat, limiting potential upside in MSFT stock even if numbers are above consensus.",0.0764508917927742,0.8690972328186035,0.054451946169137955,negative,-0.7926463484764099
+35,2018-01-30 07:58:00,"And truthfully, I'd be surprised to see a big move in MSFT coming out of earnings.",0.6350560784339905,0.018422212451696396,0.34652179479599,positive,0.6166338920593262
+36,2018-01-30 07:58:00,"Even one of the most bullish analysts on the stock, who slapped a potential trillion-dollar market cap on Microsoft stock, still sees it taking ~four years to get to that level.",0.3204166293144226,0.25292906165122986,0.4266543388366699,neutral,0.06748756766319275
+37,2018-01-30 07:58:00,"That implies roughly 13% annual gains, and MSFT already is up 10% this year.",0.9463300108909607,0.018884005025029182,0.03478594124317169,positive,0.9274460077285767
+38,2018-01-30 07:58:00,"But from a long-term standpoint, that's OK. Microsoft simply needs to keep the story here intact, and Q2 should be more than good enough on that front.",0.7342602610588074,0.01670946180820465,0.24903029203414917,positive,0.7175508141517639
+39,2018-01-30 07:58:00,"Microsoft used to look like a laggard, dependent largely on a declining PC and server business under pressure from smartphones and cloud adoption.",0.01977333426475525,0.8631008267402649,0.11712586879730225,negative,-0.843327522277832
+40,2018-01-30 07:58:00,That's just not the case anymore.,0.06356693059206009,0.1744619607925415,0.7619710564613342,neutral,-0.11089503020048141
+41,2018-01-30 07:58:00,Microsoft is adapting and has retaken its place as an innovative tech giant.,0.918063223361969,0.01891217939555645,0.0630246251821518,positive,0.8991510272026062
+42,2018-01-30 07:58:00,That's not going to change in a quarter and neither is the trajectory of Microsoft stock.,0.013762770220637321,0.033942971378564835,0.9522942900657654,neutral,-0.020180201157927513
+43,2018-01-30 07:58:00,"As of this writing, Vince Martin has no positions in any securities mentioned.",0.00855496246367693,0.019866647198796272,0.9715784192085266,neutral,-0.011311684735119343
+44,2018-01-30 07:58:00,"• 7 Stocks to Buy That Are Winning With Tech
+
+The post Microsoft Corporation Stock Looks Strong Heading into Earnings appeared first on InvestorPlace .",0.7017302513122559,0.05763784423470497,0.24063190817832947,positive,0.6440923810005188
+45,2018-01-30 07:58:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

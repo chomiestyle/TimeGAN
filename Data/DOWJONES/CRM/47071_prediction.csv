@@ -1,0 +1,16 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-04-30 23:54:00,"Microsoft (MSFT) could do with a large acquisition in the realm of cloud-computing software, according to Keith Bachman, a software analyst at BMO Capital.",0.707207441329956,0.01137460209429264,0.28141793608665466,positive,0.6958328485488892
+1,2018-04-30 23:54:00,"Bachman, who has an Outperform rating on Microsoft stock and a $109 price target, takes his cue from a report late yesterday by Bloomberg's Dina Bass and Emily Chang.",0.2024485468864441,0.13622011244297028,0.6613313555717468,neutral,0.06622843444347382
+2,2018-04-30 23:54:00,"The reporters cited remarks from an interview with Chairman John Thompson, who said if he could find another software deal of the sort the company got with LinkedIn, he would be ""all in.""",0.3024413585662842,0.014661422930657864,0.6828972101211548,neutral,0.28777992725372314
+3,2018-04-30 23:54:00,"Bachman notes Microsoft is weak in cloud apps such as those from Workday (WDAY) and Salesforce.com (CRM):
+
+We believe Microsoft 1) is relatively weak in terms of its SaaS/applications portfolio, relative to its revenues and capabilities and relative to leading market participants such as salesforce.com (CRM, $120.99, Outperform) and Workday (WDAY, $124.84, Market Perform), 2) can successfully grow into new areas leveraging both Dynamics and LinkedIn, and 3) feels emboldened by the perceived success of LinkedIn.",0.10765135288238525,0.7260326147079468,0.1663159728050232,negative,-0.6183812618255615
+4,2018-04-30 23:54:00,"He thinks the company intends to get tougher in closing the gap:
+
+Therefore, as we have stated in a variety of notes, including on March 8 in SaaS - New Growth Opportunity for MSFT, we believe that Microsoft will become more aggressive broadly speaking in SaaS/applications, both on an organic and inorganic basis.",0.8298041224479675,0.013282202184200287,0.156913623213768,positive,0.816521942615509
+5,2018-04-30 23:54:00,"In particular, we think Microsoft could extend into HCM areas, leveraging LinkedIn in capabilities such as training.",0.6011945605278015,0.009045351296663284,0.3897601068019867,positive,0.5921491980552673
+6,2018-04-30 23:54:00,We believe that the public comments mentioned above directionally support our views.,0.19712848961353302,0.014273402281105518,0.7885980606079102,neutral,0.18285508453845978
+7,2018-04-30 23:54:00,"Shares of Microsoft are up $1.18, or 1.2%, at $94.70.",0.9139978885650635,0.02719694748520851,0.058805063366889954,positive,0.8868009448051453
+8,2018-04-30 23:54:00,"Sign up to Review & Preview, a new daily email from Barron's.",0.02351737953722477,0.017931193113327026,0.9585514664649963,neutral,0.005586186423897743
+9,2018-04-30 23:54:00,Every evening we'll review the news that moved markets during the day and look ahead to what it means for your portfolio in the morning.,0.038970764726400375,0.006853901781141758,0.9541753530502319,neutral,0.03211686387658119
+10,2018-04-30 23:54:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

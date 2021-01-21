@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-11-17 07:11:00,"In early trading on Tuesday, shares of Wal-Mart Stores ( WMT ) topped the list of the day's best performing Dow Jones Industrial Average components, trading up 3.1%.",0.939651370048523,0.029895702376961708,0.03045288659632206,positive,0.9097556471824646
+1,2015-11-17 07:11:00,"Year to date, Wal-Mart Stores has lost about 30.5% of its value.",0.01696893572807312,0.9620422124862671,0.02098879963159561,negative,-0.9450732469558716
+2,2015-11-17 07:11:00,"And the worst performing Dow component thus far on the day is Nike ( NKE ), trading down 1.9%.",0.021350974217057228,0.9657274484634399,0.01292159128934145,negative,-0.9443764686584473
+3,2015-11-17 07:11:00,Nike is showing a gain of 25.9% looking at the year to date performance.,0.955886960029602,0.020160142332315445,0.023952903226017952,positive,0.9357268214225769
+4,2015-11-17 07:11:00,"Two other components making moves today are Caterpillar ( CAT ), trading down 1.0%, and Home Depot ( HD ), trading up 2.6% on the day.",0.02761932462453842,0.9374513626098633,0.03492938354611397,negative,-0.9098320603370667
+5,2015-11-17 07:11:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

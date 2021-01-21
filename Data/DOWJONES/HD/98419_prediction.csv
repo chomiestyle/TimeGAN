@@ -1,0 +1,86 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-04-03 06:30:00,Have you ever read something in the financial media and thought: is this even news?,0.0479792021214962,0.12108399718999863,0.830936849117279,neutral,-0.07310479879379272
+1,2017-04-03 06:30:00,I know.,0.2600197196006775,0.029500242322683334,0.7104800343513489,neutral,0.23051947355270386
+2,2017-04-03 06:30:00,"Every day, right?",0.05134742707014084,0.03279013931751251,0.9158623814582825,neutral,0.018557287752628326
+3,2017-04-03 06:30:00,"I had that feeling on March 21, when I read a Bloomberg story saying that one type of stock--dividend growers--outperforms all others as interest rates rise.",0.6224761605262756,0.06962495297193527,0.3078988790512085,positive,0.5528512001037598
+4,2017-04-03 06:30:00,"To back it up, Bloomberg and Goldman Sachs ( GS ) looked at the performance of 50 stocks the bank sees as likely to hike their payouts by an average of 12% this year.",0.8725416660308838,0.03387419506907463,0.0935841053724289,positive,0.8386674523353577
+5,2017-04-03 06:30:00,(I'll reveal--and rank--the 4 strongest names from this list in just a moment.),0.11752457171678543,0.013156452216207981,0.869318962097168,neutral,0.10436812043190002
+6,2017-04-03 06:30:00,The verdict?,0.14185595512390137,0.1383235901594162,0.7198204398155212,neutral,0.0035323649644851685
+7,2017-04-03 06:30:00,"The ""Goldman 50"" beat the market between the end of June 2016 and March 21 of this year--a period that saw the Fed drop two quarter-point rate hikes on us.",0.6334059238433838,0.15223264694213867,0.21436147391796112,positive,0.4811732769012451
+8,2017-04-03 06:30:00,It wasn't even close.,0.13837440311908722,0.30368664860725403,0.5579389333724976,neutral,-0.1653122454881668
+9,2017-04-03 06:30:00,"The dividend growers were up 10 points on the S&P 500 on March 21--and on March 15, they were up 11.9%, the widest spread in any 8.5-month period since the financial crisis.",0.9312178492546082,0.020578766241669655,0.04820339381694794,positive,0.9106391072273254
+10,2017-04-03 06:30:00,"Well, knock me over with a feather.",0.19126655161380768,0.16670569777488708,0.642027735710144,neutral,0.024560853838920593
+11,2017-04-03 06:30:00,"Fact is, Goldman and Bloomberg didn't have to cobble together 50 stocks to tell us dividend-growth addicts what we already know: dividend growers are practically guaranteed to outperform--not only when the Fed sends rates up, but in all market weather.",0.49505090713500977,0.03676477074623108,0.46818432211875916,positive,0.4582861363887787
+12,2017-04-03 06:30:00,There's already a pile of research that says so.,0.04509378597140312,0.033946484327316284,0.9209597706794739,neutral,0.011147301644086838
+13,2017-04-03 06:30:00,Like the study from ETF provider Realty Shares I told you about on March 24 .,0.027317069470882416,0.009586193598806858,0.9630967378616333,neutral,0.017730876803398132
+14,2017-04-03 06:30:00,"The company, which specializes in dividend funds , produced data starting way back on January 31, 1972 and ending where Goldman/Bloomberg pick up: at the end of June 2016.",0.031764138489961624,0.00749200489372015,0.9607438445091248,neutral,0.0242721326649189
+15,2017-04-03 06:30:00,The findings?,0.07952830940485,0.06172008067369461,0.858751654624939,neutral,0.017808228731155396
+16,2017-04-03 06:30:00,"See for yourself:
+
+By targeting stocks expected to hike their payouts double-digits, on average, this year, they've handed us a nice jumping-off point to start searching for the next great dividend growers.",0.8589722514152527,0.027027666568756104,0.11400008201599121,positive,0.8319445848464966
+17,2017-04-03 06:30:00,"Now it's up to us to take things further--and I'm going to do just that, grinding down the list with five filters I use to find top-quality dividend-growth stocks every day.",0.11657027155160904,0.03563258796930313,0.8477970957756042,neutral,0.08093768358230591
+18,2017-04-03 06:30:00,"• A respectable dividend yield: I want to see a dividend yield that at least beats the 1.9% the average S&P 500 stock pays (and the higher the better), so we'll set our bar at around 2.3%.",0.7118867039680481,0.014808408915996552,0.27330487966537476,positive,0.697078287601471
+19,2017-04-03 06:30:00,"• A reasonable payout ratio, or the percentage of trailing-twelve month earnings that went out to investors as dividends.",0.0521153099834919,0.006972072646021843,0.940912663936615,neutral,0.045143239200115204
+20,2017-04-03 06:30:00,I demand a ratio of 50% at most.,0.10601803660392761,0.005730966106057167,0.888251006603241,neutral,0.1002870723605156
+21,2017-04-03 06:30:00,• A price-to-earnings ratio below that of the market.,0.03838229551911354,0.3449473977088928,0.6166703104972839,neutral,-0.3065651059150696
+22,2017-04-03 06:30:00,"• Manageable debt, which is key to keeping payouts popping higher as rates do the same.",0.7253906726837158,0.01756713166832924,0.25704216957092285,positive,0.7078235149383545
+23,2017-04-03 06:30:00,"After running the Goldman 50 through that obstacle course, I've narrowed the list to four.",0.1682308465242386,0.04158199951052666,0.7901871800422668,neutral,0.12664884328842163
+24,2017-04-03 06:30:00,But going from here to a buy decision is still a big leap.,0.448020875453949,0.012905411422252655,0.5390737056732178,neutral,0.4351154565811157
+25,2017-04-03 06:30:00,"So let's dive deeper and rank these survivors, starting with ...
+
+Whirlpool ( WHR ) is certainly cheap, trading at 14.9 times trailing-twelve-month earnings, but that's because there are plenty of things that could trip up the appliance maker in the next few months.",0.4430006146430969,0.02946537733078003,0.527534008026123,neutral,0.4135352373123169
+26,2017-04-03 06:30:00,"One is the fact that it gets more than half its revenue from outside the US, so the strong greenback--which would get stronger with rising rates--is a headache.",0.03909497708082199,0.785559356212616,0.17534571886062622,negative,-0.7464643716812134
+27,2017-04-03 06:30:00,"In 2016, Whirlpool posted 2% revenue growth in constant currency, but exchange rates kept sales flat.",0.22101260721683502,0.6939470171928406,0.08504042774438858,negative,-0.47293442487716675
+28,2017-04-03 06:30:00,I think first-level investors are making too much of the impact a collapse of Sears Holdings ( SHLD ) could have on Whirlpool.,0.023009682074189186,0.8108991980552673,0.16609114408493042,negative,-0.7878895401954651
+29,2017-04-03 06:30:00,"But Sears still has about 20% of the US appliance market, so Whirlpool would take a hit, at least until growing retailers like Home Depot ( HD ) pick up the slack.",0.08503244072198868,0.06139487028121948,0.8535727262496948,neutral,0.023637570440769196
+30,2017-04-03 06:30:00,Sales would also get squeezed if rate hikes kneecap the housing market.,0.02493695355951786,0.9549744129180908,0.020088648423552513,negative,-0.9300374388694763
+31,2017-04-03 06:30:00,"Meantime, revenue is already starting to plateau:
+
+The company's payout ratio is just 33%, second lowest of our group, so the dividend is safe, but these risks could certainly weigh on payout growth.",0.06441885232925415,0.879744291305542,0.05583684518933296,negative,-0.8153254389762878
+32,2017-04-03 06:30:00,"And with a yield of just 2.3%, we're not exactly getting a bucket of cash to wait around and see what happens.",0.02089085802435875,0.055481456220149994,0.9236276745796204,neutral,-0.034590598195791245
+33,2017-04-03 06:30:00,"Which brings me to...
+
+Altria Group ( MO ) is proof that as much as folks love to complain about smoking, they're more than happy to own cigarette stocks.",0.16311584413051605,0.015154526568949223,0.8217296004295349,neutral,0.1479613184928894
+34,2017-04-03 06:30:00,That's because it pays off.,0.3285316824913025,0.016996104270219803,0.654472291469574,neutral,0.3115355670452118
+35,2017-04-03 06:30:00,"MO has been on a steady burn in the past five years, more than doubling up the market when you factor in dividends:
+
+So why isn't it further up my list?",0.2726587653160095,0.03411484509706497,0.6932263374328613,neutral,0.23854392766952515
+36,2017-04-03 06:30:00,"After all, it looks cheap, with a trailing-twelve-month P/E ratio of 10.0.",0.3548452854156494,0.016383787617087364,0.6287709474563599,neutral,0.3384614884853363
+37,2017-04-03 06:30:00,But that's because its earnings per share (EPS) were juiced by a big one-time gain on the sale of SABMiller to Anheuser-Busch InBev last year (Altria held 27% of SABMiller and now has a 10.5% stake in the merged brewer).,0.9000193476676941,0.041866734623909,0.058113858103752136,positive,0.8581526279449463
+38,2017-04-03 06:30:00,"On a forward basis, its P/E of 22.4 is well above its five-year average and the market's ratio of 18.3:
+
+Interpublic Group (IPG) yields 2.9%--below Altria--but its payout has been on a much stronger growth tear, having tripled in the past five years.",0.9523863196372986,0.026678288355469704,0.02093541994690895,positive,0.9257080554962158
+39,2017-04-03 06:30:00,That's come as the explosive growth of digital marketing has driven the advertising giant's revenue higher.,0.9258118271827698,0.029356736689805984,0.044831447303295135,positive,0.8964551091194153
+40,2017-04-03 06:30:00,"And check out how IPG's surging payout has lit up its share price:
+
+Right away, you'll see that the stock takes a nice jump up with every payout boost ... except the last two.",0.7093746066093445,0.01717955805361271,0.27344587445259094,positive,0.6921950578689575
+41,2017-04-03 06:30:00,"That tells me IPG's stock is due to catch up, and there are two things that could be the trigger: a ridiculously low valuation and management's share buybacks.",0.1050102561712265,0.4597063660621643,0.4352834224700928,negative,-0.3546960949897766
+42,2017-04-03 06:30:00,"Right now, IPG trades at 16.8 times trailing-twelve-month earnings, below its five-year average of 17.2 and the S&P 500.",0.02232462540268898,0.9584187269210815,0.019256670027971268,negative,-0.9360941052436829
+43,2017-04-03 06:30:00,"That's way too cheap for a company that's posted incredible EPS growth since the financial crisis:
+
+Management isn't stopping, with the board recently clearing it to buy back another $300 million worth of shares, which is roughly what it spent last year.",0.2636418044567108,0.18817643821239471,0.5481817126274109,neutral,0.0754653662443161
+44,2017-04-03 06:30:00,"With the stock looking cheap and more growth ahead, the timing couldn't be better.",0.3864245116710663,0.10500587522983551,0.508569598197937,neutral,0.2814186215400696
+45,2017-04-03 06:30:00,"Interpublic would be my favorite, if not for another stock with even faster dividend growth...
+
+Amgen (AMGN)' s payout is on fire, surging 219% in the past five years; the payout ratio is a miniscule 38.9% ... and revenue and EPS have been, well, off the charts:
+
+Finally, Amgen is cheap, with a P/E ratio of 15.9, compared to a five-year average of 18.3.",0.4906289577484131,0.1744757443666458,0.3348952829837799,positive,0.31615322828292847
+46,2017-04-03 06:30:00,"The company is in the doghouse after test results from its Repatha cholesterol drug disappointed investors, especially in light of its hefty $14,000 yearly price tag.",0.043702416121959686,0.9281684160232544,0.028129171580076218,negative,-0.8844659924507141
+47,2017-04-03 06:30:00,But Amgen goes a lot further than just one drug.,0.10510098189115524,0.00708970008417964,0.8878092765808105,neutral,0.09801128506660461
+48,2017-04-03 06:30:00,Its pipeline boasts 12 treatments in Phase III trials; its massive cash hoard sets it up for a big acquisition; it spends a high 17% of its revenue on R&D; and its current drugs delivered a decent 5% sales boost in 2016.,0.9388144016265869,0.01455305702984333,0.046632569283246994,positive,0.9242613315582275
+49,2017-04-03 06:30:00,"The Street has an average 12-month price target of $187 on the stock, despite the Repatha disappointment, which would translate into a 15% gain from today's level.",0.9415283203125,0.02098056674003601,0.037491101771593094,positive,0.9205477237701416
+50,2017-04-03 06:30:00,This is one case where I agree.,0.12259495258331299,0.032740268856287,0.8446647524833679,neutral,0.08985468745231628
+51,2017-04-03 06:30:00,"Forget a 3% Yield: Grab These 8% PayersBeforeThey Take Off
+
+These four are all strong companies, but why mess around with 3% payouts when you can nearly triple that right off the top--and still pocket dividend growth and double-digit gains too?",0.35223808884620667,0.03725454583764076,0.6105073690414429,neutral,0.3149835467338562
+52,2017-04-03 06:30:00,"I'm talking about a safe 8% payout, starting today.",0.5310791730880737,0.011346220970153809,0.4575745761394501,positive,0.5197329521179199
+53,2017-04-03 06:30:00,That's enough to best the market's average long-term gain (around 7% a year) in cash.,0.9526094198226929,0.023755934089422226,0.02363462932407856,positive,0.9288535118103027
+54,2017-04-03 06:30:00,"I know that sounds too good to be true, but I assure you it's the real deal.",0.16312921047210693,0.018615826964378357,0.8182550072669983,neutral,0.14451338350772858
+55,2017-04-03 06:30:00,Hundreds of Americans are collecting this safe 8.0% income stream--and watching their income and their nest eggs balloon higher--as I write this.,0.3588308095932007,0.01758144237101078,0.6235877275466919,neutral,0.34124937653541565
+56,2017-04-03 06:30:00,"They're doing it through the 6 investments in our new "" 8.0% No-Withdrawal Retirement Portfolio .""",0.09988996386528015,0.005599041469395161,0.8945109844207764,neutral,0.09429091960191727
+57,2017-04-03 06:30:00,"The best part is that as I write this, these solid dividend payers trade at 10% to 15% discounts to what they're really worth.",0.05517897382378578,0.018244490027427673,0.926576554775238,neutral,0.03693448379635811
+58,2017-04-03 06:30:00,But that won't last.,0.07322723418474197,0.2631753385066986,0.6635974049568176,neutral,-0.18994811177253723
+59,2017-04-03 06:30:00,"As more folks buy in, they'll start to move these off-the radar investments higher--and that gap will snap shut fast.",0.16550886631011963,0.18397833406925201,0.6505128145217896,neutral,-0.018469467759132385
+60,2017-04-03 06:30:00,Don't miss out.,0.12354487925767899,0.018453454598784447,0.858001708984375,neutral,0.10509142279624939
+61,2017-04-03 06:30:00,"Click here and I'll give you the names, tickers and my full research on these 6 terrific retirement picks right now .",0.02523862197995186,0.017999429255723953,0.9567620158195496,neutral,0.007239192724227905
+62,2017-04-03 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.01563790813088417,0.9741575717926025,neutral,-0.005433341488242149

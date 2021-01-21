@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-05-17 07:55:00,"When Pandora Media Inc ( P ) founder Tim Westergren returned as CEO in March, Pandora stock holders were rightly troubled after hopes for an outright sale of the company were quickly dashed.",0.029224475845694542,0.9451026320457458,0.02567286789417267,negative,-0.915878176689148
+1,2016-05-17 07:55:00,"Under previous CEO Brian McAndrews, a sale looked like the direction Pandora was headed.",0.2472929060459137,0.012280819937586784,0.740426242351532,neutral,0.23501208424568176
+2,2016-05-17 07:55:00,"Westergren (arguably a bit biased in favor of keeping his creation completely independent) made it clear he wanted to move in the other direction, largely by virtue of taking on huge debt to fund a major acquisition … enough to dissuade most would-be suitors.",0.5142865180969238,0.060596588999032974,0.4251168668270111,positive,0.45368993282318115
+3,2016-05-17 07:55:00,"Now, that swath of Pandora stock owners hoping the company would be bought out may end up getting their way after all.",0.2730238735675812,0.0644959956407547,0.6624801158905029,neutral,0.20852787792682648
+4,2016-05-17 07:55:00,Hedge manager and activist investor - a fund that happens to be the single biggest owner of Pandora stock - Keith Meister recently penned a litter to Pandora's board of directors urging them re-initiate the sale process now that it has become clear the online-radio's business and management isn't driving enough revenue and earnings.,0.10547681897878647,0.6946384310722351,0.19988465309143066,negative,-0.5891616344451904
+5,2016-05-17 07:55:00,"The only way to unlock the full value of P stock, he says, is by inviting potential buyers to bid on the company.",0.37872618436813354,0.010007292963564396,0.6112664937973022,neutral,0.3687188923358917
+6,2016-05-17 07:55:00,"The letter in question was aimed at Pandora's board, but was delivered publicly.",0.03560918569564819,0.35972481966018677,0.6046659350395203,neutral,-0.3241156339645386
+7,2016-05-17 07:55:00,"It read :
+
+""We have become increasingly concerned that the company may be pursuing a costly and uncertain business plan, without a thorough evaluation of all shareholder value-maximizing alternatives.",0.04279812052845955,0.8763136863708496,0.08088818192481995,negative,-0.8335155844688416
+8,2016-05-17 07:55:00,"For the reasons set forth below, we urge the company to immediately engage an independent investment bank with a fresh perspective and without any prior history of advising the company to advise on a value maximization process - including the execution of a sales process - and to evaluate the results against other options including the risk-adjusted value of continuing to operate on a standalone basis.""",0.3187267780303955,0.009567641653120518,0.6717056035995483,neutral,0.30915912985801697
+9,2016-05-17 07:55:00,"""Despite its many strengths, the company has been unable to date to translate its great product into a great business with an attractive public market valuation.""",0.10281965136528015,0.853145182132721,0.04403521120548248,negative,-0.7503255605697632
+10,2016-05-17 07:55:00,Most of the numbers support Meister's stance.,0.07695864886045456,0.03418434411287308,0.8888570666313171,neutral,0.04277430474758148
+11,2016-05-17 07:55:00,"Pandora Media has never been profitable as a publicly traded company, and more recently it has seen its user growth slow.",0.017723429948091507,0.89149010181427,0.09078647196292877,negative,-0.8737666606903076
+12,2016-05-17 07:55:00,"Indeed, last year the internet radio service lost almost half a million subscribers, while rivals such as Spotify and Apple Music have continued to add subscribers by the millions.",0.016313152387738228,0.9699707627296448,0.013716139830648899,negative,-0.9536576271057129
+13,2016-05-17 07:55:00,"At the same time, in October, Pandora spent a questionable $450 million for concert-ticket seller Ticketfly , and in November shelled out $75 million for Rdio just to shut it down.",0.040068209171295166,0.42686089873313904,0.5330709218978882,neutral,-0.38679268956184387
+14,2016-05-17 07:55:00,The practice of buying a competitor and then abandoning the brand name isn't unheard of.,0.030264802277088165,0.10254718363285065,0.867188036441803,neutral,-0.07228238135576248
+15,2016-05-17 07:55:00,"Pandora mostly wanted its technology, intellectual property, and customer list anyway, and intends to unveil a service more like Rdio in late 2016.",0.11034306138753891,0.005697185173630714,0.8839597105979919,neutral,0.10464587807655334
+16,2016-05-17 07:55:00,"The purchase of Rdio addresses one of the concerns often voiced by owners of P stock … its songs aren't on-demand on a per-song basis, but rather, a streaming audio feed like an actual radio broadcast.",0.02371911145746708,0.03123645670711994,0.9450443983078003,neutral,-0.0075173452496528625
+17,2016-05-17 07:55:00,"In the interim, though, Rdio customers are apt to migrate to more akin options like the aforementioned Apple Music and Spotify.",0.5051009654998779,0.011545826680958271,0.4833531975746155,positive,0.49355512857437134
+18,2016-05-17 07:55:00,"It's going to be tough for Pandora Media to win them back, making the maneuver too little and too late from some perspectives.",0.03142911568284035,0.7952859401702881,0.1732848733663559,negative,-0.763856828212738
+19,2016-05-17 07:55:00,"Regardless, the company is confident in the future it has planned for itself.",0.7951379418373108,0.013499107211828232,0.19136297702789307,positive,0.7816388607025146
+20,2016-05-17 07:55:00,"A statement from Pandora in response to Meister' letter explained:
+
+""Pandora has a profitable core business, combined with a strong balance sheet.",0.8947996497154236,0.012173736467957497,0.09302665293216705,positive,0.882625937461853
+21,2016-05-17 07:55:00,"We are confidently investing to fully capture the massive opportunity ahead of us.""",0.8842676877975464,0.016086695715785027,0.09964565932750702,positive,0.8681809902191162
+22,2016-05-17 07:55:00,"Meister's fund, Corvex, owns 22.7 million shares of P stock, or about 10% of the company.",0.017833493649959564,0.007408891338855028,0.9747576117515564,neutral,0.010424602776765823
+23,2016-05-17 07:55:00,"That's enough of a stake to replace at least some of Pandora's board, which at one point Meister intended to do.",0.062205273658037186,0.02018134854733944,0.9176133871078491,neutral,0.042023926973342896
+24,2016-05-17 07:55:00,"Since then he's backed off on that plan, perhaps anticipating Westergren would acquiesce rather than resist.",0.13010220229625702,0.6588252186775208,0.211072638630867,negative,-0.5287230014801025
+25,2016-05-17 07:55:00,"Meister could still play that hand anytime he wants to though, if need be.",0.08830714225769043,0.017322909086942673,0.8943699598312378,neutral,0.07098422944545746
+26,2016-05-17 07:55:00,"• 12 Stocks That Are Fit for a President
+
+With or without control of the board, though, Pandora Media investors are just glad to see some reason - any reason - to hold onto Pandora stock even if that means an eventual sale of the company.",0.25292980670928955,0.01546881627291441,0.7316012978553772,neutral,0.23746098577976227
+27,2016-05-17 07:55:00,"Many of them agree with Meister's assessment ""the company has been unable to date to translate its great product into a great business with an attractive public market valuation.""",0.046358972787857056,0.9097206592559814,0.043920353055000305,negative,-0.8633617162704468
+28,2016-05-17 07:55:00,"As of this writing, James Brumley did not hold a position in any of the aforementioned securities.",0.009174379520118237,0.0268092043697834,0.9640164375305176,neutral,-0.01763482391834259
+29,2016-05-17 07:55:00,"• Ignore the Senseless Selloff in Home Depot Inc (HD) Stock
+• The 10 Best Growth Stocks to Buy for Retirement
+
+The post Pandora Media Inc (P) Stock Gets a BIG Ray of Hope appeared first on InvestorPlace .",0.6159404516220093,0.06794746965169907,0.31611210107803345,positive,0.547993004322052
+30,2016-05-17 07:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

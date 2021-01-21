@@ -1,0 +1,52 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-11-08 06:31:00,"This week Salesforce (NYSE: CRM) is holding its 15th annual Dreamforce conference in San Francisco -- and expectations are high for its prized AI machine, Einstein.",0.7995544075965881,0.0199506264179945,0.1804949790239334,positive,0.7796037793159485
+1,2017-11-08 06:31:00,"The event organizers are expecting an estimated 170,000 people to swarm the Moscone Center for a slew of new product and partnership announcements, as well as updates on the business.",0.16535839438438416,0.02432379685342312,0.8103178143501282,neutral,0.14103460311889648
+2,2017-11-08 06:31:00,"This year's conference will include a number of A-list speakers, including former first lady Michelle Obama, actress Natalie Portman, actor Ashton Kutcher, and Dallas Mavericks owner Mark Cuban.",0.12263888120651245,0.011002035811543465,0.8663590550422668,neutral,0.11163684725761414
+3,2017-11-08 06:31:00,"In addition, guests can enjoy performances from Alicia Keys and Lenny Kravitz.",0.11823537945747375,0.010303634218871593,0.871461033821106,neutral,0.10793174803256989
+4,2017-11-08 06:31:00,Einstein is an AI platform made to enhance Salesforce's cloud products for its clients.,0.3987787663936615,0.008297592401504517,0.592923641204834,neutral,0.390481173992157
+5,2017-11-08 06:31:00,Einstein was first announced last September and was first displayed at last year's Dreamforce conference.,0.08269890397787094,0.0058913761749863625,0.9114097356796265,neutral,0.07680752873420715
+6,2017-11-08 06:31:00,Salesforce then announced in March that it was entering into a strategic partnership with IBM (NYSE: IBM) which has its own AI machine known as Watson.,0.8866975903511047,0.012130049988627434,0.10117236524820328,positive,0.8745675683021545
+7,2017-11-08 06:31:00,The two companies agreed that a combo of Einstein and Watson could provide more insightful analytics for businesses.,0.866948664188385,0.016300398856401443,0.11675091832876205,positive,0.8506482839584351
+8,2017-11-08 06:31:00,"Einstein is already used by Coca-Cola (NYSE: KO) for its inventory tracking capabilities that let the company know exactly when it needs to restock, as well as by Amazon (NASDAQ: AMZN) Web Services (AWS) to help it improve its lead-to-cash time.",0.6892223358154297,0.013622819446027279,0.29715481400489807,positive,0.6755995154380798
+9,2017-11-08 06:31:00,Einstein made a big entrance at last year's conference and expectations are high for the AI project.,0.7561807036399841,0.015511995181441307,0.22830726206302643,positive,0.7406687140464783
+10,2017-11-08 06:31:00,"Two executives who would know this better than most are Dan Degan, who worked for Salesforce for 12 years up until 2015, and Will Wu, who is in charge of his firm's strategy related to Salesforce.",0.023634307086467743,0.012360407039523125,0.9640052914619446,neutral,0.011273900046944618
+11,2017-11-08 06:31:00,Will Wu is the senior director of West Monroe Partners Customer Experience practice.,0.023142365738749504,0.00696972943842411,0.969887912273407,neutral,0.016172636300325394
+12,2017-11-08 06:31:00,Wu is an expert on customer relationship management (CRM) solutions built on Salesforce.com.,0.10716281086206436,0.006490534171462059,0.8863466382026672,neutral,0.10067227482795715
+13,2017-11-08 06:31:00,"Since this is the second year Einstein will be at Dreamforce, Wu is expecting Salesforce to give more details about how it will affect customers, rather than the vague description given last year when it was first introduced.",0.04305674135684967,0.012183057144284248,0.9447602033615112,neutral,0.030873684212565422
+14,2017-11-08 06:31:00,"""The biggest announcements at Dreamforce this year will likely be tied to Einstein, specifically relating to AI and augmented reality as there has been significant buzz in this area,"" Wu said.",0.3349927067756653,0.008654752746224403,0.6563525199890137,neutral,0.3263379633426666
+15,2017-11-08 06:31:00,"The announcements about Einstein will be sure to send ripple effects throughout the tech industry, he added.",0.3769247531890869,0.024388790130615234,0.5986864566802979,neutral,0.3525359630584717
+16,2017-11-08 06:31:00,"Dan Degan worked at Salesforce from 2002 to 2012, rising up to the leader of the sales organization for the Salesforce Marketing Cloud.",0.3487427234649658,0.013824807479977608,0.6374323964118958,neutral,0.33491790294647217
+17,2017-11-08 06:31:00,Degan has attended every Dreamforce conference.,0.0463697612285614,0.007216277066618204,0.9464139342308044,neutral,0.039153482764959335
+18,2017-11-08 06:31:00,"Since February 2017, he has led cloud platform SpringCM.",0.07903461158275604,0.006507836747914553,0.9144575595855713,neutral,0.07252677530050278
+19,2017-11-08 06:31:00,"The Dreamforce veteran said he is expecting updates on the ""exciting progress"" of Salesforce's AI experiment -- Einstein -- and its integrations with IBM's own AI project, Watson.",0.5490131378173828,0.010992510244250298,0.4399943947792053,positive,0.5380206108093262
+20,2017-11-08 06:31:00,"""AI is among the hottest topics in the tech and business community,"" he noted.",0.4228689670562744,0.020083069801330566,0.557047963142395,neutral,0.40278589725494385
+21,2017-11-08 06:31:00,What Einstein updates have been announced so far?,0.022926490753889084,0.015477536246180534,0.9615960121154785,neutral,0.0074489545077085495
+22,2017-11-08 06:31:00,"It's only day two of Dreamforce, but it's clear that Einstein's capabilities have significantly approved over the course of the last year.",0.865585207939148,0.013981779105961323,0.1204330325126648,positive,0.8516034483909607
+23,2017-11-08 06:31:00,"On Monday, Salesforce announced myEinstein, a machine learning platform that will allow admins and developers who don't know code to build custom AI apps on Salesforce.com with a few clicks.",0.14421530067920685,0.012635376304388046,0.8431493043899536,neutral,0.1315799206495285
+24,2017-11-08 06:31:00,This is an important draw for potential clients that want to build prediction tools and other AI tools but don't necessarily have the expertise to do so.,0.2017778903245926,0.008631782606244087,0.7895903587341309,neutral,0.19314610958099365
+25,2017-11-08 06:31:00,The myEinstein tool also brings two new features with it: Predictive capabilities with Einstein Prediction Builder and automated chatbots with Einstein Bots.,0.3225095272064209,0.008321334607899189,0.6691691279411316,neutral,0.3141881823539734
+26,2017-11-08 06:31:00,"The predictor tool uses data to predict customer decisions, such as how likely they are to churn.",0.022205032408237457,0.01151180174201727,0.9662832021713257,neutral,0.010693230666220188
+27,2017-11-08 06:31:00,The bots use data to answer basic customer questions in order to free up customer service agents to handle more pressing matters.,0.05127610266208649,0.02064366266131401,0.9280802011489868,neutral,0.030632440000772476
+28,2017-11-08 06:31:00,The two tools are currently in pilot and expected to be more widely available to clients in the summer of 2018.,0.22951814532279968,0.011235516518354416,0.759246289730072,neutral,0.21828262507915497
+29,2017-11-08 06:31:00,"Einstein is a machine to be watched
+
+Salesforce's AI machine was named after Albert Einstein for a reason: It's smart.",0.08580796420574188,0.01579265110194683,0.8983993530273438,neutral,0.0700153112411499
+30,2017-11-08 06:31:00,"Einstein already counts giants Amazon and Coca-Cola among its clients because Salesforce got a head start with its machine, developing it over the past four years.",0.5335569977760315,0.011007163673639297,0.4554358720779419,positive,0.5225498080253601
+31,2017-11-08 06:31:00,This is important for investors who want to take a stake in companies that are key players in the development of tomorrow's technologies.,0.2808576822280884,0.007628476247191429,0.7115138173103333,neutral,0.2732292115688324
+32,2017-11-08 06:31:00,"IDC estimates that the AI market will grow to more than $47 billion in 2020, up from $8 billion in 2016.",0.9488649964332581,0.016828089952468872,0.034306850284338,positive,0.9320368766784668
+33,2017-11-08 06:31:00,"If you want to stay ahead of the game, keep an eye on Salesforce -- and Einstein.",0.03068212792277336,0.01727800816297531,0.952039897441864,neutral,0.01340411975979805
+34,2017-11-08 06:31:00,"10 stocks we like better than Salesforce.com
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.12068876624107361,0.033474430441856384,0.8458368182182312,neutral,0.08721433579921722
+35,2017-11-08 06:31:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+36,2017-11-08 06:31:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now… and Salesforce.com wasn't one of them!",0.1955212950706482,0.015955757349729538,0.7885228991508484,neutral,0.17956553399562836
+37,2017-11-08 06:31:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+38,2017-11-08 06:31:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+39,2017-11-08 06:31:00,"John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors.",0.022716771811246872,0.017876893281936646,0.9594063758850098,neutral,0.0048398785293102264
+40,2017-11-08 06:31:00,Natalie Walters has no position in any of the stocks mentioned.,0.01067391224205494,0.04121990129351616,0.9481061697006226,neutral,-0.03054598905146122
+41,2017-11-08 06:31:00,The Motley Fool owns shares of and recommends Amazon.,0.05119821056723595,0.03092995285987854,0.9178718328475952,neutral,0.020268257707357407
+42,2017-11-08 06:31:00,The Motley Fool recommends Salesforce.com.,0.033904511481523514,0.0381915383040905,0.927903950214386,neutral,-0.004287026822566986
+43,2017-11-08 06:31:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+44,2017-11-08 06:31:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

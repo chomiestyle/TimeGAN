@@ -1,0 +1,44 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-12-13 03:12:00,"On the surface, do-it-yourself big-box rivals Home Depot (NYSE: HD) and Lowe's (NYSE: LOW) should rise and fall in tandem.",0.5332637429237366,0.2598617970943451,0.20687443017959595,positive,0.2734019458293915
+1,2016-12-13 03:12:00,"They both target the home improvement market, their stores are similarly designed, and they both appeal to the handyman.",0.06795094907283783,0.005640336778014898,0.9264087677001953,neutral,0.06231061369180679
+2,2016-12-13 03:12:00,"Yet a look at their third-quarter earnings shows markedly different results, with Home Depot handily beating expectations and Lowe's missing them, which forced it to cut its outlook for the year.",0.02206786349415779,0.9579628705978394,0.019969236105680466,negative,-0.9358950257301331
+3,2016-12-13 03:12:00,"If both retailers are similarly positioned, why did they take divergent paths?",0.036261819303035736,0.02261238545179367,0.9411258101463318,neutral,0.013649433851242065
+4,2016-12-13 03:12:00,Here's a closer look revealing how they're not quite two peas in a pod after all.,0.0812748447060585,0.06555207073688507,0.8531731367111206,neutral,0.01572277396917343
+5,2016-12-13 03:12:00,"It's clear that despite being of similar size by store footprint, Home Depot is doing better, producing more revenue, profits, and free cash flow for investors, leading to better returns.",0.9525551199913025,0.020678117871284485,0.02676682360470295,positive,0.9318770170211792
+6,2016-12-13 03:12:00,And the reason for the difference is in the details: Home Depot is geared more toward the professional contractor while Lowe's leans toward the DIY homeowner.,0.034531306475400925,0.028870735317468643,0.936598002910614,neutral,0.0056605711579322815
+7,2016-12-13 03:12:00,Certainly pro customers are critical to both retailers -- though each apparently defines what a pro is slightly differently -- and both report strong gains in their contractor business this year.,0.9456737041473389,0.02194957621395588,0.0323767326772213,positive,0.9237241148948669
+8,2016-12-13 03:12:00,"However, Home Depot has greater exposure to the pro market and having a greater share of higher-spending pro customers tilts the field in its favor.",0.8643582463264465,0.02307325042784214,0.11256852746009827,positive,0.841284990310669
+9,2016-12-13 03:12:00,"That's key because as the housing market continues its recovery, Home Depot is going to be benefiting more than its rival.",0.9406759738922119,0.01631838269531727,0.04300567880272865,positive,0.9243575930595398
+10,2016-12-13 03:12:00,"The Commerce Department says single-family housing construction surged in September, followed by an even bigger gain in October that pushed construction to a nine-year high.",0.9187358617782593,0.03127337247133255,0.049990713596343994,positive,0.8874624967575073
+11,2016-12-13 03:12:00,"In contrast, existing home sales have leveled off.",0.5903936624526978,0.3044064939022064,0.10519984364509583,positive,0.28598716855049133
+12,2016-12-13 03:12:00,"These macro shifts are demonstrated in each companies results, showing how changes in the markets the retailers' favor affects them.",0.04107936844229698,0.010836416855454445,0.9480841755867004,neutral,0.030242951586842537
+13,2016-12-13 03:12:00,"Sunny days are here again
+
+The two companies regional footprint is also a factor.",0.12845146656036377,0.014197109267115593,0.8573514819145203,neutral,0.11425435543060303
+14,2016-12-13 03:12:00,"Home Depot has a heavier presence in warmer regions than Lowe's, allowing for more work to occur for longer periods of time.",0.09656877815723419,0.1945553570985794,0.708875834941864,neutral,-0.09798657894134521
+15,2016-12-13 03:12:00,"For example, Home Depot has over 230 stores in California, while Lowe's has 111.",0.027717921882867813,0.01219019666314125,0.9600918889045715,neutral,0.015527725219726562
+16,2016-12-13 03:12:00,"When housing favors an area like that -- as it did in the third quarter, where permits for new houses surged 28% in the West -- Home Depot will shine more.",0.8230307698249817,0.025965264067053795,0.151003897190094,positive,0.7970654964447021
+17,2016-12-13 03:12:00,"Moreover, what the stores sell is telling, too.",0.07986074686050415,0.00856428686529398,0.9115749597549438,neutral,0.07129646092653275
+18,2016-12-13 03:12:00,"Lowe's, for example, realizes 11% of total annual sales from appliances and another 10% from fashion fixtures, while Home Depot sees just 7% from appliances.",0.016500486060976982,0.10458554327487946,0.878913938999176,neutral,-0.08808505535125732
+19,2016-12-13 03:12:00,"In fact, no department accounts for more than 10% of its revenue, while Lowe's generates almost 45% of its revenue from just four departments.",0.010650663636624813,0.02277427166700363,0.966575026512146,neutral,-0.012123608030378819
+20,2016-12-13 03:12:00,"That makes Lowe's much more susceptible to the whims of large purchases and discretionary expenditures, while cumulative smaller purchases for things like indoor gardening supplies comprise the biggest category at Home Depot.",0.03271849825978279,0.3452182114124298,0.6220632791519165,neutral,-0.3124997019767761
+21,2016-12-13 03:12:00,"Look at the top five product categories for each:
+
+While the above explains why Home Depot beat Lowe's in the third quarter and for much of the past year, both could face headwinds from the housing market.",0.06824462115764618,0.6044802665710449,0.3272751271724701,negative,-0.5362356305122375
+22,2016-12-13 03:12:00,"House prices are rising and the prospects for an increase in interest rates is high, meaning it may become more difficult for people to afford to buy a home.",0.11968425661325455,0.7199381589889526,0.1603776216506958,negative,-0.6002538800239563
+23,2016-12-13 03:12:00,"Given Home Depot's more diversified income, in the battle between the two big-box retailers, Home Depot may still be better positioned to survive a shakeout than Lowe's.",0.8059608340263367,0.1481497883796692,0.04588936269283295,positive,0.6578110456466675
+24,2016-12-13 03:12:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+25,2016-12-13 03:12:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+26,2016-12-13 03:12:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+27,2016-12-13 03:12:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+28,2016-12-13 03:12:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+29,2016-12-13 03:12:00,Rich Duprey has no position in any stocks mentioned.,0.010102692060172558,0.04873904585838318,0.9411582946777344,neutral,-0.038636352866888046
+30,2016-12-13 03:12:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+31,2016-12-13 03:12:00,Try any of our Foolish newsletter services free for 30 days .,0.02325451746582985,0.013860778883099556,0.9628846645355225,neutral,0.009393738582730293
+32,2016-12-13 03:12:00,"We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors.",0.7942618727684021,0.015105843544006348,0.19063223898410797,positive,0.7791560292243958
+33,2016-12-13 03:12:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+34,2016-12-13 03:12:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

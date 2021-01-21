@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-05-23 06:15:00,"In early trading on Tuesday, shares of Nike topped the list of the day's best performing Dow Jones Industrial Average components, trading up 1.7%.",0.9394540786743164,0.03133606165647507,0.029209932312369347,positive,0.9081180095672607
+1,2017-05-23 06:15:00,"Year to date, Nike registers a 3.2% gain.",0.9407103657722473,0.022682808339595795,0.03660674765706062,positive,0.9180275797843933
+2,2017-05-23 06:15:00,"And the worst performing Dow component thus far on the day is Goldman Sachs Group, trading down 0.6%.",0.020162884145975113,0.9636226892471313,0.016214357689023018,negative,-0.9434598088264465
+3,2017-05-23 06:15:00,Goldman Sachs Group is lower by about 10.3% looking at the year to date performance.,0.02059801295399666,0.9679982662200928,0.011403783224523067,negative,-0.9474002718925476
+4,2017-05-23 06:15:00,"Two other components making moves today are Home Depot, trading down 0.4%, and Coca-Cola, trading up 0.7% on the day.",0.03980952128767967,0.9226753115653992,0.03751508146524429,negative,-0.8828657865524292
+5,2017-05-23 06:15:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2015-09-14 06:30:00,"Chicago, IL - September 14, 2015 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.01740277372300625,0.009054562076926231,0.9735426306724548,neutral,0.008348211646080017
+1,2015-09-14 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2015-09-14 06:30:00,"Stocks recently featured in the blog include the AT&T, Inc. ( T ), Ford Motor Co. ( F ), Home Depot, Inc. ( HD ) and UnitedHealth Group Inc. ( UNH ).",0.021583858877420425,0.01204211451113224,0.9663740396499634,neutral,0.009541744366288185
+3,2015-09-14 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2015-09-14 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2015-09-14 06:30:00,"Here are highlights from Friday's Analyst Blog:
+
+Play It Safe with These 4 Blue-Chip Stocks
+
+So far in 2015, the market has been as mad as a hatter, setting the pulse racing of even the most ardent investor.",0.1451200693845749,0.2399451583623886,0.6149347424507141,neutral,-0.09482508897781372
+6,2015-09-14 06:30:00,"Concerns surrounding China's economy, fettered with heavy equity market losses, have triggered worldwide sell-offs.",0.024345634505152702,0.9573740363121033,0.01828029938042164,negative,-0.9330283999443054
+7,2015-09-14 06:30:00,"With financial markets across the globe pressing the panic button, U.S. equities have come under momentous pressure.",0.0795302763581276,0.7929221391677856,0.12754759192466736,negative,-0.7133918404579163
+8,2015-09-14 06:30:00,"Moreover, uncertainties shrouding the Fed's rate hike have kept the investors sweating bullets.",0.0943777784705162,0.7316532731056213,0.17396892607212067,negative,-0.6372755169868469
+9,2015-09-14 06:30:00,"Hence, China and the Fed rate hike are the two big questions looming over the investment space lately.",0.04550494626164436,0.08940688520669937,0.8650882244110107,neutral,-0.04390193894505501
+10,2015-09-14 06:30:00,"Though we will gain considerable idea about the Fed's decision after next week's FOMC meeting, the Chinese dilemma will likely take much longer to unfold.",0.04508324712514877,0.025262875482439995,0.9296538829803467,neutral,0.01982037164270878
+11,2015-09-14 06:30:00,"Taking into consideration such extreme precariousness, it is perhaps high time for investors to turn to the basic rules of investing:
+
+When the stock market is as tumultuous as this, it is only natural for investors to get perplexed about where to invest.",0.07535488158464432,0.036182988435029984,0.8884621262550354,neutral,0.039171893149614334
+12,2015-09-14 06:30:00,"Instead of getting lured by the high-flying small cap companies or falling for the ""so-called"" growth prospects of some, investors would do better off playing safe at the moment.",0.1537780910730362,0.12957841157913208,0.7166435718536377,neutral,0.024199679493904114
+13,2015-09-14 06:30:00,This is because the inherent volatility that such stocks possess might lead investors to lose money in the greed of making some quick bucks.,0.057314660400152206,0.5327256917953491,0.4099595844745636,negative,-0.4754110276699066
+14,2015-09-14 06:30:00,"Thus, we believe at this moment, investors should do well by seeking refuge in stable, reliable blue chip stocks that are usually in the limelight, given their penchant for steady growth and momentum in price.",0.8674558997154236,0.016725540161132812,0.11581853777170181,positive,0.8507303595542908
+15,2015-09-14 06:30:00,"Additionally, the security of long-term value in the form of solid value metrics (low P/Es) and solid outlooks of such stocks might just prove to be the icing on the cake.",0.5741469860076904,0.03576333075761795,0.3900897204875946,positive,0.5383836627006531
+16,2015-09-14 06:30:00,"Blue chips are large, well-known, reputable and financially sound corporations that have been around for a long time.",0.5458428859710693,0.009803522378206253,0.4443536102771759,positive,0.5360393524169922
+17,2015-09-14 06:30:00,"Also, more often than not, they dole out considerable dividends to shareholders and help them earn some extra bucks.",0.23171819746494293,0.012387202121317387,0.7558945417404175,neutral,0.21933099627494812
+18,2015-09-14 06:30:00,These stocks are less prone to risk since they tend to lose less overall value than a growth stock might in today's chaotic market conditions.,0.03439480438828468,0.6054459810256958,0.3601592183113098,negative,-0.5710511803627014
+19,2015-09-14 06:30:00,These stocks also have a steady earnings trend.,0.774960458278656,0.014578515663743019,0.21046103537082672,positive,0.7603819370269775
+20,2015-09-14 06:30:00,"Thus, blue chip companies provide security during phases of sluggish growth backed by their competent management teams and ability to generate consistent profits.",0.8448923230171204,0.013847216963768005,0.14126047492027283,positive,0.8310450911521912
+21,2015-09-14 06:30:00,"However, it is important to remember that all investing comes with risk.",0.04802138730883598,0.007787087932229042,0.9441915154457092,neutral,0.04023429751396179
+22,2015-09-14 06:30:00,"Though these blue chip stocks may not be crash proof and resilient to financial struggles, they are typically more mature, conventional and have more stable trading over the long haul and are thus better positioned to survive the economic downturns.",0.8427186608314514,0.015219906345009804,0.14206145703792572,positive,0.827498733997345
+23,2015-09-14 06:30:00,"With the help of our new Style Score System , we have zeroed in on these four blue chip stocks that look promising based on their encouraging Zacks Rank, favorable Value Style Score, market cap of over $50 billion, decent dividend yields and solid outlooks.",0.909791886806488,0.014325892552733421,0.07588218152523041,positive,0.8954659700393677
+24,2015-09-14 06:30:00,Our Value Style Score condenses all valuation metrics into one actionable score that helps investors steer clear of 'value traps' and identify stocks that are truly trading at a discount.,0.22246849536895752,0.008705231361091137,0.7688262462615967,neutral,0.2137632668018341
+25,2015-09-14 06:30:00,Back-tested results show that stocks with Style Scores of 'A' or 'B' when combined with a Zacks Rank #1 (Strong Buy) or 2 (Buy) offer the best upside potential.,0.8982820510864258,0.028680142015218735,0.07303772121667862,positive,0.8696019053459167
+26,2015-09-14 06:30:00,"Here we present four such stocks for your consideration that are nice options for any portfolio:
+
+AT&T provides telecommunications services in the U.S. and internationally.",0.047175973653793335,0.005197417922317982,0.9476266503334045,neutral,0.04197855666279793
+27,2015-09-14 06:30:00,"The company operates through two segments, Wireless and Wireline.",0.016626233235001564,0.0063746594823896885,0.9769991040229797,neutral,0.010251574218273163
+28,2015-09-14 06:30:00,"Recently, AT&T scaled up to the highest position in the U.S. pay-TV market with the acquisition of DIRECTV.",0.9376638531684875,0.01568324863910675,0.046652913093566895,positive,0.921980619430542
+29,2015-09-14 06:30:00,"In the U.S., the company's wireless network boasts the nation's strongest LTE signal and the most reliable 4G LTE network.",0.8628286123275757,0.015434113331139088,0.12173725664615631,positive,0.8473945260047913
+30,2015-09-14 06:30:00,"Additionally, AT&T offers the best global wireless coverage.",0.8995586037635803,0.015540902502834797,0.08490047603845596,positive,0.8840177059173584
+31,2015-09-14 06:30:00,"Moreover, over the last four quarters, this Zacks Rank #2 (Buy) company has delivered an average positive earnings surprise of 1.99%.",0.9375361204147339,0.021860241889953613,0.04060355946421623,positive,0.9156758785247803
+32,2015-09-14 06:30:00,"Further, analysts have become increasingly bullish on the company over the past two months, leading to a sharp spike of 4.8% in the Zacks Consensus Estimate for 2015 earnings, which now stands at $2.63 per share.",0.8811888098716736,0.08457496017217636,0.03423625975847244,positive,0.796613872051239
+33,2015-09-14 06:30:00,Ford is a Zacks Rank #2 company and has been in existence for over a century.,0.2655611038208008,0.010454796254634857,0.7239840626716614,neutral,0.2551063001155853
+34,2015-09-14 06:30:00,"Going forward, the positives for Ford include planned product launches, focus on the Asia-Pacific region, global expansion plans, efficient capital deployment, success of the One Ford plan and a solid long-term outlook.",0.934190034866333,0.014306340366601944,0.05150360241532326,positive,0.919883668422699
+35,2015-09-14 06:30:00,"It is also worth noting that in the last four quarters, the company has delivered an average positive earnings surprise of 17.70%.",0.9134348034858704,0.027794312685728073,0.05877092108130455,positive,0.8856405019760132
+36,2015-09-14 06:30:00,"Additionally, the company's estimate revisions have been moving north over the past two months, which has resulted in its 2015 Zacks Consensus Estimate for earnings climbing from $1.57 per share to $1.69.",0.946075439453125,0.020221000537276268,0.03370363265275955,positive,0.9258544445037842
+37,2015-09-14 06:30:00,The Home Depot is one of the world's largest home improvement retailers.,0.2914564907550812,0.008492037653923035,0.700051486492157,neutral,0.28296446800231934
+38,2015-09-14 06:30:00,The company markets and caters to a wide range of clients.,0.05253888666629791,0.004108989145606756,0.9433521628379822,neutral,0.04842989891767502
+39,2015-09-14 06:30:00,It is a hardware retailer that is synonymous with home improvement goods and services in the U.S.,0.07893292605876923,0.005508932285010815,0.9155580997467041,neutral,0.07342399656772614
+40,2015-09-14 06:30:00,This Zacks Rank #2 company is certainly a stable stock worth considering for your portfolio.,0.5122870206832886,0.010845040902495384,0.4768679141998291,positive,0.5014419555664062
+41,2015-09-14 06:30:00,"Notably, the company has been topping earnings expectations lately with the last four quarters averaging 3.90%.",0.9467900395393372,0.019955411553382874,0.033254511654376984,positive,0.9268346428871155
+42,2015-09-14 06:30:00,"Moreover, the company has been witnessing upward earnings estimate revisions.",0.825575053691864,0.09881065785884857,0.07561426609754562,positive,0.7267643809318542
+43,2015-09-14 06:30:00,"Over the past two months, current year estimates have risen from $5.24 per share to $5.29.",0.9266639947891235,0.01751616969704628,0.0558197908103466,positive,0.9091477990150452
+44,2015-09-14 06:30:00,"UnitedHealth Group, carrying a Zacks Rank #2, is a diversified health and well-being company.",0.2868988513946533,0.00685462448745966,0.7062464952468872,neutral,0.28004422783851624
+45,2015-09-14 06:30:00,The company is a top player in the medical sector and has been consistently gaining from strength in its Medicaid and Medicare businesses and improved international performance.,0.9503458738327026,0.015852387994527817,0.03380180522799492,positive,0.9344934821128845
+46,2015-09-14 06:30:00,"Over the last four quarters, the company recorded an average positive earnings surprise of 6.03%.",0.8498814105987549,0.03333833068609238,0.1167803630232811,positive,0.8165431022644043
+47,2015-09-14 06:30:00,"Moreover, the stock has been witnessing positive estimate revisions over the past two months, leading the Zacks Consensus Estimate to climb 1.1% to its present level of $6.33 a share for the current year.",0.9540998339653015,0.022448979318141937,0.023451169952750206,positive,0.9316508769989014
+48,2015-09-14 06:30:00,"Better Safe than Sorry
+
+Markets so far in 2015 have been rife with fluctuations and what's coming up next?",0.050884343683719635,0.03375975415110588,0.915355920791626,neutral,0.017124589532613754
+49,2015-09-14 06:30:00,"Well, your guess is as good as mine.",0.24960868060588837,0.015891632065176964,0.7344996929168701,neutral,0.23371705412864685
+50,2015-09-14 06:30:00,"This hard-hitting world of investing can take you to the top at one moment, and in the very next, can pull your spirits down.",0.18842162191867828,0.1832427978515625,0.6283355951309204,neutral,0.005178824067115784
+51,2015-09-14 06:30:00,"Thus, considering the current equity market landscape, we suggest shifting your attention toward the above-mentioned blue chip stocks.",0.0829080119729042,0.008722410537302494,0.9083696007728577,neutral,0.07418560236692429
+52,2015-09-14 06:30:00,These stocks are known to have survived quite a few challenges and market cycles and thus may prove to be a better investment at this juncture.,0.8988724946975708,0.014317216351628304,0.08681021630764008,positive,0.8845552802085876
+53,2015-09-14 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+54,2015-09-14 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report >>
+
+Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.",0.05650392174720764,0.005220244638621807,0.9382758140563965,neutral,0.05128367617726326
+55,2015-09-14 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+56,2015-09-14 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+57,2015-09-14 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+58,2015-09-14 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+59,2015-09-14 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+60,2015-09-14 06:30:00,Find out What is happening in the stock market today on zacks.com.,0.01665451191365719,0.01796547882258892,0.9653800129890442,neutral,-0.0013109669089317322
+61,2015-09-14 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+62,2015-09-14 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+63,2015-09-14 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+64,2015-09-14 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

@@ -1,0 +1,46 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-02-01 01:18:00,"Friday was all about jobs and the magical 14,000 level.",0.05233621597290039,0.13250048458576202,0.815163254737854,neutral,-0.08016426861286163
+1,2013-02-01 01:18:00,"For the first time in more than five years, the Dow Jones Industrial Average (DJI) finished above the mark it has been chasing in recent weeks.",0.77605140209198,0.15730442106723785,0.06664417684078217,positive,0.6187469959259033
+2,2013-02-01 01:18:00,"It got there with a push from a jobs report that may not have looked strong on the surface, but showed there was more job creation in the U.S. during the final two months of 2012 than originally thought.",0.7353857755661011,0.1275653839111328,0.1370488554239273,positive,0.6078203916549683
+3,2013-02-01 01:18:00,Friday also marked the fourth-straight week of increases for most of the major indices.,0.8412539958953857,0.025748630985617638,0.1329973191022873,positive,0.8155053853988647
+4,2013-02-01 01:18:00,"Continue reading for more on today's market, including :
+• CEO Bernie Schaeffer grades the five-year charts for gold, stocks, and bonds.",0.10919030755758286,0.02261575125157833,0.8681939244270325,neutral,0.08657455444335938
+5,2013-02-01 01:18:00,"• Senior Options Strategist Tony Venosa, CMT, breaks down a possible long trade on Salesforce.com ( CRM ).",0.04058641195297241,0.7321596741676331,0.22725388407707214,negative,-0.6915732622146606
+6,2013-02-01 01:18:00,"• Why Senior Trading Analyst Bryan Sapp says to "" respect the trend, yet mind your risk.""",0.07902469485998154,0.029358534142374992,0.8916167616844177,neutral,0.049666158854961395
+7,2013-02-01 01:18:00,"• Breaking through 14,000 to end the week strong, how major Super Bowl advertisers are doing in the markets, and a look at post-earnings speculation on Las Vegas Sands ( LVS ).",0.10059285163879395,0.017105353996157646,0.8823018074035645,neutral,0.08348749577999115
+8,2013-02-01 01:18:00,"Sparked by a mildly encouraging jobs report, the Dow Jones Industrial Average (DJI) surged to end the week strong, finishing at 14,009.79 after climbing 149 points, or about 1.1%.",0.9269053936004639,0.04018756002187729,0.032907091081142426,positive,0.8867178559303284
+9,2013-02-01 01:18:00,"It was the first time since Oct. 12, 2007 that the Dow closed above 14,000.",0.25510039925575256,0.2522495985031128,0.49265000224113464,neutral,0.0028508007526397705
+10,2013-02-01 01:18:00,"Almost the entire Dow gained on the day, with 28 companies advancing -- led by Bank of America ( BAC ), up 3.5%.",0.9183610081672668,0.02506745606660843,0.056571509689092636,positive,0.893293559551239
+11,2013-02-01 01:18:00,"Only two companies fell, with a disappointing earnings report pulling drug maker Merck ( MRK ) down 3.3%.",0.019719552248716354,0.9685560464859009,0.011724346317350864,negative,-0.9488365054130554
+12,2013-02-01 01:18:00,The Dow finished the week up 0.8%.,0.8714603185653687,0.07560509443283081,0.05293457582592964,positive,0.7958552241325378
+13,2013-02-01 01:18:00,"The S&P 500 Index (SPX) also closed higher, rising 15 points, or 1%, to close at 1,513.17 -- and was up 0.7% on the week.",0.9353466629981995,0.03124270774424076,0.033410556614398956,positive,0.9041039347648621
+14,2013-02-01 01:18:00,"The Nasdaq Composite (COMP) rose by 37 points (1.2%) to close at 3,179.10.",0.9429752826690674,0.022213079035282135,0.034811682999134064,positive,0.9207621812820435
+15,2013-02-01 01:18:00,"For the week, COMP added 0.9%.",0.8985575437545776,0.05765840411186218,0.043784063309431076,positive,0.8408991098403931
+16,2013-02-01 01:18:00,"The CBOE Volatility Index (VIX) finished at 12.90, down a little more than a point, or 9.7%.",0.020449602976441383,0.9678727984428406,0.011677596718072891,negative,-0.9474232196807861
+17,2013-02-01 01:18:00,The VIX broke its four-day streak of finishing north of 13.,0.826849102973938,0.06674238294363022,0.10640849173069,positive,0.7601067423820496
+18,2013-02-01 01:18:00,"Friday's downturn pushed the VIX into negative territory for the week, as it fell 0.08%.",0.02056252397596836,0.9698249101638794,0.009612622670829296,negative,-0.9492623805999756
+19,2013-02-01 01:18:00,"3 Things to Know About Today's Market :
+• The major stimulus to Friday's rally was the jobs report from the U.S. Labor Department.",0.5378956198692322,0.03867482393980026,0.4234295189380646,positive,0.4992207884788513
+20,2013-02-01 01:18:00,"The unemployment rate ticked up to 7.9%, while employers added 157,000 new positions, slightly short of economist estimates.",0.5034492015838623,0.44094839692115784,0.055602431297302246,positive,0.06250080466270447
+21,2013-02-01 01:18:00,"But the Labor Department also revised upward the number of jobs created in the final two months of 2012, showing an additional 127,000 jobs were added than previously thought.",0.3972957730293274,0.5247611999511719,0.07794305682182312,negative,-0.12746542692184448
+22,2013-02-01 01:18:00,"(Chicago Tribune)
+• U.S. markets aren't the only ones in a major rally: The Japanese Nikkei 225 stock index has risen in each of the last 12 weeks, something that hasn't happened since 1959.",0.9125443696975708,0.02995035983622074,0.057505253702402115,positive,0.8825939893722534
+23,2013-02-01 01:18:00,"(New York Times)
+• Detroit is off to a roaring start for 2013, with all three major U.S. carmakers reporting strong sales results in January.",0.9354717135429382,0.023173674941062927,0.041354574263095856,positive,0.9122980237007141
+24,2013-02-01 01:18:00,"(USA Today)
+• All the recent news buzz around Netflix, Inc. ( NFLX ) spurred double the normal options activity , with bears leading the way.",0.771494448184967,0.0573032982647419,0.17120225727558136,positive,0.7141911387443542
+25,2013-02-01 01:18:00,"• Bulls targeted Cisco Systems, Inc. (CSCO), continuing an overall optimistic outlook on the stock.",0.7922119498252869,0.020122472196817398,0.18766558170318604,positive,0.7720894813537598
+26,2013-02-01 01:18:00,"• Major Super Bowl advertisers such as Anheuser-Busch InBev (BUD), Ford Motor (F), and Coca-Cola (KO) can be interesting options plays as well.",0.15370537340641022,0.009236115962266922,0.8370585441589355,neutral,0.1444692611694336
+27,2013-02-01 01:18:00,• Traders were active but split on whether to be bullish or bearish toward computer chip maker NVIDIA Corporation (NVDA).,0.1049971804022789,0.7365575432777405,0.1584453135728836,negative,-0.6315603852272034
+28,2013-02-01 01:18:00,• Casino operator Las Vegas Sands Corp. ( LVS ) garnered a lot of attention from short-term bulls after a strong earnings report.,0.9442915916442871,0.022538213059306145,0.033170174807310104,positive,0.9217534065246582
+29,2013-02-01 01:18:00,"For a look at today's options movers and commodities activity, head to page 2.",0.011671511456370354,0.018261956050992012,0.9700665473937988,neutral,-0.006590444594621658
+30,2013-02-01 01:18:00,"Oil futures edged higher on Friday, with the March contract adding 28 cents, or 0.3%, to $97.77 per barrel.",0.8889702558517456,0.06771260499954224,0.043317049741744995,positive,0.8212576508522034
+31,2013-02-01 01:18:00,"Gold futures were in the black as well; April-dated gold rose $8.60, or 0.5%, to settle at $1670.60 per ounce.",0.8813347220420837,0.047834474593400955,0.0708308219909668,positive,0.8335002660751343
+32,2013-02-01 01:18:00,"For the week, oil gained 2% while gold added 0.8%.",0.926882803440094,0.033938582986593246,0.03917864337563515,positive,0.8929442167282104
+33,2013-02-01 01:18:00,"At the end of every market day, the staff at Schaeffer's Investment Research reviews the trading day in detail, covering major events and key market developments.",0.014267869293689728,0.00914048496633768,0.9765916466712952,neutral,0.005127384327352047
+34,2013-02-01 01:18:00,"Don't miss this critical, timely and insightful report.",0.05582868680357933,0.02586214244365692,0.9183091521263123,neutral,0.02996654435992241
+35,2013-02-01 01:18:00,"If you enjoyed today's edition of Market Recap, sign up here for free daily delivery straight to your inbox.",0.03876020014286041,0.017327366396784782,0.9439123868942261,neutral,0.02143283374607563
+36,2013-02-01 01:18:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+All Rights Reserved.",0.009942188858985901,0.013680474832654,0.9763773083686829,neutral,-0.0037382859736680984
+37,2013-02-01 01:18:00,Unauthorized reproduction of any SIR publication is strictly prohibited.,0.010652374476194382,0.03200573846697807,0.9573419094085693,neutral,-0.02135336399078369

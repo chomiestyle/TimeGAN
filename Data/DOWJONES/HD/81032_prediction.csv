@@ -1,0 +1,85 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2019-06-08 12:36:00,Home Depot (NYSE: HD) and General Electric (NYSE: GE) are two names investors will easily recognize.,0.09105116873979568,0.008142431266605854,0.9008063673973083,neutral,0.0829087346792221
+1,2019-06-08 12:36:00,"They are, however, in very different places today.",0.11249782145023346,0.12942539155483246,0.7580767869949341,neutral,-0.016927570104599
+2,2019-06-08 12:36:00,"Although the choice between buying one or the other is obvious for some investors, others will want to look very closely before making a selection, here.",0.03490704670548439,0.008701360784471035,0.9563915729522705,neutral,0.02620568498969078
+3,2019-06-08 12:36:00,"Which, if either, of these iconic names would fit best in your portfolio?",0.06406742334365845,0.008351040072739124,0.9275815486907959,neutral,0.0557163842022419
+4,2019-06-08 12:36:00,1.,0.029014499858021736,0.015284966677427292,0.9557005167007446,neutral,0.013729533180594444
+5,2019-06-08 12:36:00,What they do...,0.021829403936862946,0.01566266641020775,0.962507963180542,neutral,0.006166737526655197
+6,2019-06-08 12:36:00,The first thing to keep in mind is that Home Depot and General Electric have very different businesses.,0.023589780554175377,0.2455941140651703,0.7308160662651062,neutral,-0.22200433909893036
+7,2019-06-08 12:36:00,"Home Depot is a retailer that operates nearly 2,300 hardware stores in the United States serving professional and non-professional customers.",0.03316737338900566,0.00529388478025794,0.9615387320518494,neutral,0.027873488143086433
+8,2019-06-08 12:36:00,"General Electric is an industrial giant, with key operations in healthcare, aviation, power, and renewable energy.",0.18940362334251404,0.006210631690919399,0.8043857216835022,neutral,0.18319299817085266
+9,2019-06-08 12:36:00,"Through a large ownership interest in Baker Hughes, a GE Company, it also reaches into the oil and gas industries.",0.1403825283050537,0.004990884102880955,0.8546265959739685,neutral,0.13539163768291473
+10,2019-06-08 12:36:00,Both Home Depot and GE are cyclical stocks.,0.016257278621196747,0.14879444241523743,0.8349482417106628,neutral,-0.13253715634346008
+11,2019-06-08 12:36:00,"Home Depot's fortunes are tightly tied to the housing market, while GE's business is tied to the general business environment.",0.027966657653450966,0.00875344779342413,0.9632798433303833,neutral,0.01921321079134941
+12,2019-06-08 12:36:00,"Although this point isn't a win/lose issue, investors need to understand that the two companies operate in very different spaces.",0.14970116317272186,0.03949499875307083,0.8108038306236267,neutral,0.11020616441965103
+13,2019-06-08 12:36:00,"This seemingly simple issue could sway your decision, if, for example, you fear the long-term impact of the likely overblown hype surrounding the so-called ""retail apocalypse.""",0.051664575934410095,0.19256052374839783,0.7557749152183533,neutral,-0.14089594781398773
+14,2019-06-08 12:36:00,Home Depot has seen revenue and earnings grow in each of the past 10 years.,0.9394080638885498,0.01418642420321703,0.04640546441078186,positive,0.9252216219902039
+15,2019-06-08 12:36:00,"That's not overly surprising, given that the economy has been expanding (albeit slowly) over that entire span.",0.7157593965530396,0.015123730525374413,0.2691168785095215,positive,0.7006356716156006
+16,2019-06-08 12:36:00,"The period also excludes the deep 2007 to 2009 housing-led recession, which was a big headwind.",0.03312179446220398,0.13232187926769257,0.8345563411712646,neutral,-0.09920008480548859
+17,2019-06-08 12:36:00,"So, the past decade has seen some clear tailwinds, as the economy recovered from the severe recession, supporting Home Depot's business.",0.9307823777198792,0.025789594277739525,0.043428029865026474,positive,0.9049927592277527
+18,2019-06-08 12:36:00,The same can't be said for General Electric.,0.014930031262338161,0.08243366330862045,0.9026362895965576,neutral,-0.06750363111495972
+19,2019-06-08 12:36:00,"Despite a steadily improving economy, the company's foray into the financial space leading up to the 2007 to 2009 recession is still causing havoc.",0.028754496946930885,0.9207636713981628,0.05048178881406784,negative,-0.8920091986656189
+20,2019-06-08 12:36:00,"Although it has shifted away from this business, the process has been painful and slow.",0.024848351255059242,0.8971530795097351,0.07799865305423737,negative,-0.8723047375679016
+21,2019-06-08 12:36:00,"Now add in the changing landscape in the power space, where GE's power turbines have seen weak demand.",0.024302028119564056,0.7723606824874878,0.20333725214004517,negative,-0.7480586767196655
+22,2019-06-08 12:36:00,"And also the oil and gas sector, where oil prices are still well below 2014 peaks.",0.041147951036691666,0.11443736404180527,0.8444147109985352,neutral,-0.0732894092798233
+23,2019-06-08 12:36:00,"Simply put, General Electric has not done well over the past decade, with revenue lower today than it was 10 years ago, and earnings falling into the red lately as it continues to restructure its operations.",0.019627291709184647,0.9661237597465515,0.014248905703425407,negative,-0.9464964866638184
+24,2019-06-08 12:36:00,3.,0.02229742705821991,0.014547630213201046,0.9631549715995789,neutral,0.007749796845018864
+25,2019-06-08 12:36:00,Where are they going?,0.10685747861862183,0.15253090858459473,0.7406115531921387,neutral,-0.0456734299659729
+26,2019-06-08 12:36:00,"The future for Home Depot is likely to look a lot like the past, at least operationally.",0.16564206779003143,0.006324513349682093,0.828033447265625,neutral,0.15931755304336548
+27,2019-06-08 12:36:00,"While revenue and earnings will wax and wane over time with the economy and housing markets, it is, and intends to remain, a hardware store.",0.060451216995716095,0.009959078393876553,0.9295896887779236,neutral,0.05049213767051697
+28,2019-06-08 12:36:00,"It's working on its internet positioning (as is every other retailer out there), but nothing material should change at Home Depot.",0.06558949500322342,0.022823071107268333,0.9115874171257019,neutral,0.042766422033309937
+29,2019-06-08 12:36:00,"General Electric, on the other hand, has been going through a major overhaul, and the changes aren't nearly done yet.",0.3167007863521576,0.10166405886411667,0.5816351771354675,neutral,0.21503672003746033
+30,2019-06-08 12:36:00,It has been selling assets since the 2007 to 2009 recession.,0.016216212883591652,0.04018305242061615,0.9436007738113403,neutral,-0.023966839537024498
+31,2019-06-08 12:36:00,"It has bought some businesses along the way, too.",0.6265711784362793,0.01237575151026249,0.36105307936668396,positive,0.6141954064369202
+32,2019-06-08 12:36:00,"But nothing has steadied the ship, and now, after multiple leadership changes, it's back to jettisoning assets as it looks to raise cash to support its ongoing turnaround efforts.",0.7334231734275818,0.03057791106402874,0.2359989732503891,positive,0.7028452754020691
+33,2019-06-08 12:36:00,"Unless you can handle the uncertainty of owning a turnaround play, you simply don't want to invest in GE today.",0.023113401606678963,0.12529517710208893,0.8515914082527161,neutral,-0.10218177735805511
+34,2019-06-08 12:36:00,Home Depot and GE have changed places with regard to debt to assets over the past decade.,0.01900254748761654,0.04871697351336479,0.9322805404663086,neutral,-0.029714426025748253
+35,2019-06-08 12:36:00,"GE's figure has fallen from the 50% to 60% range down to the mid-30% area, while Home Depot's debt-to-assets ratio has increased from the mid-20% space to roughly 55%.",0.021711435168981552,0.959112823009491,0.01917576789855957,negative,-0.9374014139175415
+36,2019-06-08 12:36:00,"That's largely a function of GE trying to turn around its business by slimming down its finance arm, while Home Depot has been growing its business over time.",0.32543638348579407,0.03062286414206028,0.6439407467842102,neutral,0.29481351375579834
+37,2019-06-08 12:36:00,It is not a reason to avoid Home Depot.,0.023912355303764343,0.060711875557899475,0.9153757691383362,neutral,-0.03679952025413513
+38,2019-06-08 12:36:00,HD Debt to Assets (Quarterly) data by YCharts.,0.013133710250258446,0.03509543091058731,0.9517709016799927,neutral,-0.021961720660328865
+39,2019-06-08 12:36:00,"In fact, taking a look at how well each company covers its interest expenses helps paint a very different picture.",0.05079103261232376,0.011026015505194664,0.9381829500198364,neutral,0.03976501524448395
+40,2019-06-08 12:36:00,"GE, which is bleeding red ink today, does not cover its interest expenses.",0.01985330879688263,0.5416676998138428,0.4384789764881134,negative,-0.5218144059181213
+41,2019-06-08 12:36:00,"Meanwhile, Home Depot covers its interest expenses 15 times over.",0.04550407454371452,0.013540253974497318,0.9409556984901428,neutral,0.03196382150053978
+42,2019-06-08 12:36:00,"Although GE is clearly working to strengthen its financial foundation, it still has more work to do.",0.8686144948005676,0.015192743390798569,0.11619284003973007,positive,0.8534217476844788
+43,2019-06-08 12:36:00,Home Depot has been using its strong financial position and steady business wisely to expand.,0.9229670166969299,0.012736481614410877,0.06429647654294968,positive,0.9102305173873901
+44,2019-06-08 12:36:00,"Of the two, Home Depot's balance sheet appears in much better shape.",0.9272674918174744,0.021897029131650925,0.05083555728197098,positive,0.9053704738616943
+45,2019-06-08 12:36:00,Home Depot has increased its dividend every year for 10 consecutive years.,0.9073638916015625,0.019149575382471085,0.07348658889532089,positive,0.8882142901420593
+46,2019-06-08 12:36:00,"GE has cut its dividend multiple times and now only offers a token dividend of $0.04 per share per year, largely to ensure that institutional investors with a dividend mandate can still own the stock.",0.05150734633207321,0.6954045295715332,0.2530880570411682,negative,-0.6438971757888794
+47,2019-06-08 12:36:00,"With a yield of roughly 2.6% and a long history of dividend increases behind it, Home Depot is definitely a better pick for income investors.",0.7803707718849182,0.019119927659630775,0.20050932466983795,positive,0.7612508535385132
+48,2019-06-08 12:36:00,"That said, Home Depot's stock is also up nearly 700% over the past decade, easily besting the nearly 200% gain of the S&P 500 Index.",0.9490014314651489,0.021312355995178223,0.02968619577586651,positive,0.9276890754699707
+49,2019-06-08 12:36:00,"GE's stock is down nearly 30% over that span, essentially missing out on the entire bull market run following the 2007 to 2009 recession.",0.01937553845345974,0.967634379863739,0.012990170158445835,negative,-0.9482588171958923
+50,2019-06-08 12:36:00,"Clearly, Home Depot has been a much better investment overall.",0.8989445567131042,0.020576655864715576,0.0804787203669548,positive,0.8783679008483887
+51,2019-06-08 12:36:00,6.,0.023339061066508293,0.016314266249537468,0.9603466987609863,neutral,0.007024794816970825
+52,2019-06-08 12:36:00,Is there any value here?,0.06124407798051834,0.0344066359102726,0.9043492674827576,neutral,0.026837442070245743
+53,2019-06-08 12:36:00,"GE's stock price performance isn't surprising given its troubles, but it sets up a very different picture on the valuation front.",0.1749078929424286,0.021513093262910843,0.8035790324211121,neutral,0.15339480340480804
+54,2019-06-08 12:36:00,"Price to earnings isn't particularly meaningful, given that the industrial giant is losing money.",0.021279212087392807,0.7346929311752319,0.24402779340744019,negative,-0.7134137153625488
+55,2019-06-08 12:36:00,But price to sales is currently less than half its five-year average.,0.021056443452835083,0.8363243341445923,0.1426192820072174,negative,-0.8152679204940796
+56,2019-06-08 12:36:00,Price to book value and price to cash flow are roughly in line with their longer-term averages.,0.03268427774310112,0.013301655650138855,0.9540141224861145,neutral,0.019382622092962265
+57,2019-06-08 12:36:00,"There's still a lot of change taking shape at GE, so it's hard to make a solid call on valuation.",0.036542538553476334,0.43016430735588074,0.5332931280136108,neutral,-0.3936217725276947
+58,2019-06-08 12:36:00,"The extremely low price-to-sales ratio at least hints at the potential upside here, but that can only happen if the company's turnaround plan plays out as hoped.",0.2502268850803375,0.12710842490196228,0.6226646900177002,neutral,0.12311846017837524
+59,2019-06-08 12:36:00,Home Depot's massive stock gains coupled with its continued strong operating performance have left it with what could best be described as a fair valuation.,0.9111788868904114,0.022405048832297325,0.06641612946987152,positive,0.8887738585472107
+60,2019-06-08 12:36:00,"The P/S ratio is a little above its five-year average, but not by too much.",0.7799232006072998,0.07864191383123398,0.14143486320972443,positive,0.7012813091278076
+61,2019-06-08 12:36:00,"P/E and price to cash flow are both a little below their longer-term averages, but not by much.",0.018902013078331947,0.9410859942436218,0.04001200199127197,negative,-0.9221839904785156
+62,2019-06-08 12:36:00,(Price-to-book value isn't meaningful here because the company's stockholders' equity is negative.),0.02373676560819149,0.7609780430793762,0.21528521180152893,negative,-0.737241268157959
+63,2019-06-08 12:36:00,"Yes, Home Depot's stock has done very well, but so has the company.",0.9103020429611206,0.0190710611641407,0.07062692940235138,positive,0.8912310004234314
+64,2019-06-08 12:36:00,"It's not a steal, but it's not materially overpriced, either.",0.06127752363681793,0.019744087010622025,0.9189783334732056,neutral,0.04153343662619591
+65,2019-06-08 12:36:00,"The easy answer here is Home Depot, assuming you have to select between just these two stocks.",0.045397426933050156,0.023584725335240364,0.9310178756713867,neutral,0.02181270159780979
+66,2019-06-08 12:36:00,The only investors who should be touching GE today are those willing to take on the risks of a turnaround situation.,0.15724869072437286,0.019847111776471138,0.8229041695594788,neutral,0.13740158081054688
+67,2019-06-08 12:36:00,"There's huge potential, but only if GE can execute better than it has over the past decade.",0.8861504793167114,0.013443190604448318,0.10040626674890518,positive,0.8727073073387146
+68,2019-06-08 12:36:00,"That said, Home Depot isn't a screaming buy.",0.08922713249921799,0.04976893961429596,0.8610039353370667,neutral,0.03945819288492203
+69,2019-06-08 12:36:00,"Yes, it's a very well-run company, but Wall Street is well aware of its success.",0.6148946285247803,0.011513889767229557,0.37359148263931274,positive,0.6033807396888733
+70,2019-06-08 12:36:00,"For most, it's probably best to put Home Depot on a wish list and wait for the next economic downturn, when you'll likely be able to pick up shares on the cheap.",0.12640808522701263,0.024546250700950623,0.8490456342697144,neutral,0.10186183452606201
+71,2019-06-08 12:36:00,Note that the current economic expansion is one of the longest on record.,0.40265336632728577,0.011834913864731789,0.5855117440223694,neutral,0.39081844687461853
+72,2019-06-08 12:36:00,"In the end, neither GE nor Home Depot look like sure winners right now.",0.05430695787072182,0.14767944812774658,0.7980135679244995,neutral,-0.09337249398231506
+73,2019-06-08 12:36:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+74,2019-06-08 12:36:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.",0.8087436556816101,0.0373060368001461,0.15395022928714752,positive,0.7714376449584961
+75,2019-06-08 12:36:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.15982788801193237,0.014003484509885311,0.8261685967445374,neutral,0.1458244025707245
+76,2019-06-08 12:36:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+77,2019-06-08 12:36:00,Reuben Gregg Brewer has no position in any of the stocks mentioned.,0.008390056900680065,0.026033494621515274,0.9655764698982239,neutral,-0.017643436789512634
+78,2019-06-08 12:36:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+79,2019-06-08 12:36:00,The Motley Fool has a disclosure policy.,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271

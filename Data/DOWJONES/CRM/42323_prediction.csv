@@ -1,0 +1,41 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-08-25 07:43:00,The S&P 500 was little changed on Tuesday following a three-day rally as a drop in Apple shares overshadowed optimism from remarks made by U.S. and China officials in pledging firm commitment to a Phase One trade deal.,0.5005237460136414,0.4454611539840698,0.05401504412293434,positive,0.05506259202957153
+1,2020-08-25 07:43:00,".N
+
+At 11:30 a.m.",0.04424326494336128,0.027643466368317604,0.9281132817268372,neutral,0.01659979857504368
+2,2020-08-25 07:43:00,"ET, the Dow Jones Industrial Average .DJI was down 0.53% at 28,157.7.",0.020686723291873932,0.9648791551589966,0.014434191398322582,negative,-0.9441924095153809
+3,2020-08-25 07:43:00,"The S&P 500 .SPX was down 0.01% at 3,430.91 and the Nasdaq Composite .IXIC was up 0.15% at 11,397.203.",0.019981374964118004,0.9643035531044006,0.01571505516767502,negative,-0.9443221688270569
+4,2020-08-25 07:43:00,"The top three S&P 500 .PG.INX percentage gainers: ** Gap Inc <GPS.N>, up 8.7% ** J M Smucker Co <SJM.N>, up 7.8% ** Amgen Inc <AMGN.OQ>, up 4.8% The top three S&P 500 .PL.INX percentage losers: ** Best Buy Co Inc <BBY.N>, down 6.1% ** Carnival Corp <CCL.N>, down 4.3% ** United Airlines Holdings Inc <UAL.OQ>, down 4.1% The top three NYSE .PG.N percentage gainers: ** Phoenix Tree Holdings Ltd <DNK.N>, up 21.1% ** FTS International Inc <FTSI.N>, up 20.3% ** Onesmart International Education Group Ltd <ONE.N>, up 15% The top three NYSE .PL.N percentage losers: ** Velocity Financial Inc <VEL.N>, down 12.2% ** Portland General Electric Co <POR.N>, down 10.9% ** Camping World Holdings Inc <CWH.N>, down 8.7% The top three Nasdaq .PG.O percentage gainers: ** Vivopower International Plc <VVPR.O>, up 56.7% ** Sigma Labs Inc <SGLB.O>, up 47.8% ** Bigcommerce Holdings Inc <BIGC.O>, up 25.4% The top three Nasdaq .PL.O percentage losers: ** Sonnet Biotherapeutics Holdings <SONN.O>, down 21% ** YRC Worldwide Inc <YRCW.O>, down 19.3% ** Children's Place Inc <PLCE.O>, down 17.7% ** Starbucks Corp SBUX.O: up 2.9%
+
+BUZZ-Stifel expects shares to grind higher as sales recover ** Salesforce.com CRM.N: up 3.8%
+
+BUZZ-Set for record high; Honeywell, Amgen gain on Dow addition ** Viveve Medical Inc VIVE.O: up 88.7%
+
+BUZZ-Slips after Dow Jones drops oil giant following shake-up ** Medtronic Plc MDT.N: up 3.0%
+
+BUZZ-Rises as Q1 profit falls less than expected ** Best Buy Co BBY.N: down 6.1%
+
+BUZZ-Falls after sales growth warning ** J.M.",0.03375381976366043,0.9546459913253784,0.011600104160606861,negative,-0.9208921790122986
+5,2020-08-25 07:43:00,"Smucker Co SJM.N: up 7.8%
+
+BUZZ-Eyes best day in nearly 3 months on upbeat results, outlook ** Children's Place Inc PLCE.O: down 17.7%
+
+BUZZ-Drops after wider-than-expected Q2 loss ** ReneSola Ltd SOL.N: up 7.7%
+
+BUZZ-Rises on asset purchase in an all-stock deal ** Gap Inc GPS.N: up 8.7%
+
+BUZZ-Rises after Citi upgrades rating to 'buy' ** Ovid Therapeutics OVID.O: up 0.5%
+
+BUZZ-Cowen reinstates with ""outperform"" on firearms pure play ** Crocs Inc CROX.O: up 0.2%
+
+BUZZ-Rises on footwear deal with Vera Bradley ** Sarepta Therapeutics Inc SRPT.O: up 2.3%
+
+BUZZ-Rises as FDA accepts marketing application for muscle disorder drug ** Tiffany & Co TIF.N: down 2.9%
+
+BUZZ-Slides as LVMH reserves right to challenge new deal deadline ** Sigma Labs SGLB.O: up 47.8%
+
+BUZZ-Hits over 5-month high on contract with Mitsubishi Heavy Industries ** Apple Inc AAPL.O: down 1.4%
+
+BUZZ-Set to snap five-day winning streak ** Vital Farms Inc VITL.O: down 4.7%
+
+BUZZ-Vital Farms sags as initiations by IPO banks lean ""neutral"" ** Alphabet Inc GOOGL.O: up 1.3%",0.06311419606208801,0.9187077283859253,0.018178151920437813,negative,-0.8555935621261597

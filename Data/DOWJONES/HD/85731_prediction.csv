@@ -1,0 +1,63 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2017-09-28 04:55:00,"Shares of Home Depot (NYSE: HD) have been a great long-term investment, and they've soared about 20% so far this year.",0.9128273129463196,0.01397270429879427,0.07319997251033783,positive,0.8988546133041382
+1,2017-09-28 04:55:00,Investors in the home-improvement chain have no reason to be upset with that performance.,0.05270666256546974,0.38808169960975647,0.5592116117477417,neutral,-0.335375040769577
+2,2017-09-28 04:55:00,"But there are other stocks that have performed even better, and they could continue to outperform Home Depot in the coming years.",0.9371659755706787,0.02125077322125435,0.04158330336213112,positive,0.9159151911735535
+3,2017-09-28 04:55:00,"MercadoLibre (NASDAQ: MELI) , Illumina (NASDAQ: ILMN) , and Best Buy (NYSE: BBY) are some examples, identified by three of our Foolish investors.",0.031391680240631104,0.0062089841812849045,0.9623993635177612,neutral,0.0251826960593462
+4,2017-09-28 04:55:00,Here's what you need to know.,0.032294146716594696,0.007770355325192213,0.9599355459213257,neutral,0.024523790925741196
+5,2017-09-28 04:55:00,"Danny Vena(MercadoLibre): The Home Depot has provided investors with market-beating returns over the last decade, returning over 300%, compared to broader market gains of 60%.",0.9370821118354797,0.04352957755327225,0.019388314336538315,positive,0.8935525417327881
+6,2017-09-28 04:55:00,"During that same time, however, Latin American e-commerce leader MercadoLibre has returned over 800%, and the best may be yet to come.",0.9294687509536743,0.025813614949584007,0.04471760243177414,positive,0.9036551117897034
+7,2017-09-28 04:55:00,"MercadoLibre began as an auction site where buyers and sellers exchanged goods, but the company has evolved into a full-service e-commerce powerhouse, providing the platform and tools necessary to help businesses succeed.",0.7594879269599915,0.012346030212938786,0.22816601395606995,positive,0.7471418976783752
+8,2017-09-28 04:55:00,"The company still offers a consumer auction site, but also provides fixed-price goods from many of the largest retailers in Latin America.",0.06015605852007866,0.005311197135597467,0.9345327615737915,neutral,0.05484485998749733
+9,2017-09-28 04:55:00,"MercadoLibre helps sellers set up and manage their online store, while providing logistics, shipping, and payment options in a market where e-commerce is still in its infancy.",0.13208699226379395,0.00746451411396265,0.8604484796524048,neutral,0.12462247908115387
+10,2017-09-28 04:55:00,"In a region where shoppers don't typically have credit cards or even bank accounts, MercadoLibre's payment solution, MercadoPago, has outgrown its platform and is now used by a multitude of retailers, both on- and offline, while consumers even use the service to pay utility bills.",0.20450690388679504,0.022728586569428444,0.7727645635604858,neutral,0.18177831172943115
+11,2017-09-28 04:55:00,"MercadoLibre has been growing like gangbusters, and as the economy improves in Latin America, that growth could accelerate.",0.9281371235847473,0.015169949270784855,0.056692935526371,positive,0.9129671454429626
+12,2017-09-28 04:55:00,"In its most recent quarter , revenue grew to $316 million, up 58% over the prior-year quarter.",0.9576144814491272,0.018828414380550385,0.02355707623064518,positive,0.9387860894203186
+13,2017-09-28 04:55:00,"Registered users increased 21%, items sold jumped 63%, and payment transactions soared 63%, all year over year.",0.9392846822738647,0.018344955518841743,0.04237034171819687,positive,0.9209397435188293
+14,2017-09-28 04:55:00,"E-commerce in Latin America represents only 2.6% of retail sales, compared to 8.4% in the U.S., so there's still plenty of room for growth.",0.29437965154647827,0.31513336300849915,0.3904869854450226,neutral,-0.020753711462020874
+15,2017-09-28 04:55:00,"Ay, caramba!",0.2512282133102417,0.048748645931482315,0.7000231146812439,neutral,0.20247957110404968
+16,2017-09-28 04:55:00,"Success is in this company's DNA
+
+Keith Speights (Illumina): Home Depot and Illumina have at least a few things in common.",0.4165809452533722,0.009276769123971462,0.5741422772407532,neutral,0.40730416774749756
+17,2017-09-28 04:55:00,They're both tremendously successful companies with winning stocks.,0.81443190574646,0.013862702064216137,0.17170538008213043,positive,0.8005691766738892
+18,2017-09-28 04:55:00,They're both arguably the best at what they do.,0.5829773545265198,0.018743982538580894,0.3982786536216736,positive,0.5642333626747131
+19,2017-09-28 04:55:00,And they both sell equipment that make doing things much easier than in the past.,0.4207674264907837,0.020472902804613113,0.5587596893310547,neutral,0.4002945125102997
+20,2017-09-28 04:55:00,"Of course, there's a much longer list of differences between the two companies.",0.040971554815769196,0.18077974021434784,0.77824866771698,neutral,-0.13980817794799805
+21,2017-09-28 04:55:00,Illumina is a pioneer of genomic sequencing systems and has been a true game changer in the field.,0.6629117727279663,0.011307629756629467,0.32578057050704956,positive,0.6516041159629822
+22,2017-09-28 04:55:00,Consider that the initial mapping of the human genome performed by the Human Genome Project cost $2.7 billion.,0.047269877046346664,0.006678685080260038,0.9460514783859253,neutral,0.04059119150042534
+23,2017-09-28 04:55:00,"Illumina's sequencing systems cut the cost to roughly $1,000 to map.",0.5409372448921204,0.3141426146030426,0.14492014050483704,positive,0.22679463028907776
+24,2017-09-28 04:55:00,"The company's latest technology, NovaSeq, could eventually lower that price tag to $100.",0.3428969979286194,0.16002924740314484,0.497073769569397,neutral,0.18286775052547455
+25,2017-09-28 04:55:00,"As great as Home Depot stock has performed through the years, Illumina has done even better.",0.9364762902259827,0.016589751467108727,0.046933937817811966,positive,0.9198865294456482
+26,2017-09-28 04:55:00,"Over the last 10 years, Illumina stock is up nearly 690% compared to Home Depot's gains for just under 350%.",0.9532447457313538,0.020353153347969055,0.026402099058032036,positive,0.9328916072845459
+27,2017-09-28 04:55:00,"So far in 2017, Illumina stock is up over three times more than Home Depot stock.",0.9401705861091614,0.019086411222815514,0.04074300080537796,positive,0.9210841655731201
+28,2017-09-28 04:55:00,I think Illumina will continue to be a winner for three primary reasons.,0.4866166114807129,0.012155933305621147,0.5012273788452148,neutral,0.4744606912136078
+29,2017-09-28 04:55:00,"First, nearly two-thirds of the company's total revenue comes from recurring sources.",0.020885294303297997,0.006730394903570414,0.9723843336105347,neutral,0.01415489986538887
+30,2017-09-28 04:55:00,The reality is that Illumina doesn't have to sell too many new systems to grow its revenue and earnings.,0.36596399545669556,0.010635791346430779,0.6234002113342285,neutral,0.35532820224761963
+31,2017-09-28 04:55:00,"Second, the company will sell plenty of new systems anyway -- thanks to enormous potential for NovaSeq.",0.8678373694419861,0.013671661727130413,0.11849090456962585,positive,0.8541657328605652
+32,2017-09-28 04:55:00,"Third, Illumina is investing in research and development to stay on top.",0.5544058084487915,0.011200991459190845,0.4343932271003723,positive,0.5432048439979553
+33,2017-09-28 04:55:00,Success is in this company's DNA.,0.5778295993804932,0.009633373469114304,0.41253700852394104,positive,0.5681962370872498
+34,2017-09-28 04:55:00,"Tim Green(Best Buy): Home Depot shareholders have enjoyed market-beating returns this year, but Best Buy shareholders have done even better.",0.9290573000907898,0.04224215820431709,0.028700530529022217,positive,0.8868151307106018
+35,2017-09-28 04:55:00,"The consumer electronics retailer's stock has jumped 32% year to date, trouncing Home Depot's less impressive returns.",0.9055688977241516,0.06349408626556396,0.030937006697058678,positive,0.8420748114585876
+36,2017-09-28 04:55:00,Best Buy has proven over the past few years that it's capable of growing earnings despite competition from Amazon.com .,0.9495148658752441,0.01689044013619423,0.03359466418623924,positive,0.9326243996620178
+37,2017-09-28 04:55:00,"During the latest quarter, Best Buy's adjusted earnings per share surged 21% year over year, driven by a 5.4% rise in comparable sales.",0.9571635127067566,0.02170405350625515,0.02113238535821438,positive,0.9354594349861145
+38,2017-09-28 04:55:00,"A years-long effort to cut unnecessary costs has made Best Buy nimbler, and a focus on customer service and e-commerce has helped boost sales at a time when many retailers are struggling.",0.942681074142456,0.03362364321947098,0.02369520254433155,positive,0.9090574383735657
+39,2017-09-28 04:55:00,"Over the next three years , Best Buy expects to produce slow-but-steady sales growth along with annual EPS growth between 8% and 9%.",0.7587099671363831,0.02531052567064762,0.2159794569015503,positive,0.7333994507789612
+40,2017-09-28 04:55:00,"That may not sound all that impressive, but this is a brick-and-mortar consumer electronics retailer we're talking about.",0.08465669304132462,0.005850352346897125,0.9094929099082947,neutral,0.07880634069442749
+41,2017-09-28 04:55:00,Best Buy plans to drive this growth by intensifying its focus on smart home products and expanding its portfolio of services.,0.9223265647888184,0.013345403596758842,0.06432803720235825,positive,0.9089811444282532
+42,2017-09-28 04:55:00,"Retail turnarounds are tricky, but Best Buy has done all the right things over the past five years.",0.8586313128471375,0.013696415349841118,0.12767229974269867,positive,0.84493488073349
+43,2017-09-28 04:55:00,"With the stock trading for about 15 times trailing-12-month earnings, ignoring a cash-rich balance sheet, Best Buy still looks like a pretty good deal.",0.4424631595611572,0.022499211132526398,0.535037636756897,neutral,0.4199639558792114
+44,2017-09-28 04:55:00,"10 stocks we like better than Home Depot
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13954298198223114,0.027429746463894844,0.8330273032188416,neutral,0.11211323738098145
+45,2017-09-28 04:55:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor , has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+46,2017-09-28 04:55:00,"*
+
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Home Depot wasn't one of them!",0.18547073006629944,0.013867988251149654,0.8006612658500671,neutral,0.1716027408838272
+47,2017-09-28 04:55:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+48,2017-09-28 04:55:00,Click here to learn about these picks!,0.0694708302617073,0.055800698697566986,0.8747285008430481,neutral,0.01367013156414032
+49,2017-09-28 04:55:00,Danny Vena owns shares of Amazon and MercadoLibre.,0.016492241993546486,0.009574557654559612,0.9739331603050232,neutral,0.006917684338986874
+50,2017-09-28 04:55:00,Keith Speights has no position in any of the stocks mentioned.,0.009128669276833534,0.045183293521404266,0.9456880688667297,neutral,-0.03605462610721588
+51,2017-09-28 04:55:00,Timothy Green owns shares of Best Buy.,0.02156154252588749,0.01141909696161747,0.9670193791389465,neutral,0.01014244556427002
+52,2017-09-28 04:55:00,"The Motley Fool owns shares of and recommends Amazon, Illumina, and MercadoLibre.",0.03593205660581589,0.025612324476242065,0.9384556412696838,neutral,0.010319732129573822
+53,2017-09-28 04:55:00,The Motley Fool recommends Home Depot.,0.055259834975004196,0.045598018914461136,0.8991421461105347,neutral,0.00966181606054306
+54,2017-09-28 04:55:00,The Motley Fool has a disclosure policy .,0.016547108069062233,0.01730392687022686,0.9661489725112915,neutral,-0.0007568188011646271
+55,2017-09-28 04:55:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

@@ -1,0 +1,20 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-24 22:45:00,"Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in AutoZone, Inc. (Symbol: AZO), where a total volume of 2,024 contracts has been traded thus far today, a contract volume which is representative of approximately 202,400 underlying shares (given that every 1 contract represents 100 underlying shares).",0.042159855365753174,0.011203044094145298,0.9466371536254883,neutral,0.03095681220293045
+1,2018-01-24 22:45:00,"That number works out to 51.3% of AZO's average daily trading volume over the past month, of 394,920 shares.",0.6887130737304688,0.018551692366600037,0.29273515939712524,positive,0.6701613664627075
+2,2018-01-24 22:45:00,"Especially high volume was seen for the $785 strike call option expiring February 16, 2018 , with 181 contracts trading so far today, representing approximately 18,100 underlying shares of AZO.",0.16000783443450928,0.011042905040085316,0.8289492726325989,neutral,0.14896492660045624
+3,2018-01-24 22:45:00,"Below is a chart showing AZO's trailing twelve month trading history, with the $785 strike highlighted in orange:
+
+Procter & Gamble Company (Symbol: PG) options are showing a volume of 36,849 contracts thus far today.",0.01963075064122677,0.0323311910033226,0.9480381011962891,neutral,-0.012700440362095833
+4,2018-01-24 22:45:00,"That number of contracts represents approximately 3.7 million underlying shares, working out to a sizeable 49.2% of PG's average daily trading volume over the past month, of 7.5 million shares.",0.12667439877986908,0.009208913892507553,0.8641166687011719,neutral,0.11746548116207123
+5,2018-01-24 22:45:00,"Particularly high volume was seen for the $87.50 strike put option expiring March 16, 2018 , with 10,088 contracts trading so far today, representing approximately 1.0 million underlying shares of PG.",0.12677614390850067,0.007444038987159729,0.8657798171043396,neutral,0.11933210492134094
+6,2018-01-24 22:45:00,"Below is a chart showing PG's trailing twelve month trading history, with the $87.50 strike highlighted in orange:
+
+And Xilinx, Inc. (Symbol: XLNX) options are showing a volume of 10,691 contracts thus far today.",0.021063262596726418,0.030489880591630936,0.9484468102455139,neutral,-0.009426617994904518
+7,2018-01-24 22:45:00,"That number of contracts represents approximately 1.1 million underlying shares, working out to a sizeable 47.2% of XLNX's average daily trading volume over the past month, of 2.3 million shares.",0.12317460030317307,0.009403755888342857,0.8674216270446777,neutral,0.11377084255218506
+8,2018-01-24 22:45:00,"Particularly high volume was seen for the $72.50 strike call option expiring March 16, 2018 , with 1,094 contracts trading so far today, representing approximately 109,400 underlying shares of XLNX.",0.327656090259552,0.011221147142350674,0.6611227989196777,neutral,0.31643494963645935
+9,2018-01-24 22:45:00,"Below is a chart showing XLNX's trailing twelve month trading history, with the $72.50 strike highlighted in orange:
+
+For the various different available expirations for AZO options , PG options , or XLNX options , visit StockOptionsChannel.com.",0.010062849149107933,0.02607358992099762,0.9638636112213135,neutral,-0.016010740771889687
+10,2018-01-24 22:45:00,"Today's Most Active Call & Put Options of the S&P 500 »
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.009531039744615555,0.015437009744346142,0.9750319123268127,neutral,-0.005905969999730587

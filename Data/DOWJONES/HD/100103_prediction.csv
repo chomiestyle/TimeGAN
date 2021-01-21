@@ -1,0 +1,28 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2013-11-19 01:07:00,Stocks straddled the fence for nearly the entire day before getting a late day boost on news that JP Morgan ( JPM ) had agreed to a $13 billion settlement for its involvement in the mortgage-backed securities collapse of 2008.,0.8267960548400879,0.09490352123975754,0.0783003717660904,positive,0.7318925261497498
+1,2013-11-19 01:07:00,"The announcement, which came without an admission of guilt by JPM, nudged the Dow Jones Industrials briefly back to the plus side.",0.7483181357383728,0.09642451256513596,0.15525732934474945,positive,0.6518936157226562
+2,2013-11-19 01:07:00,The Dow was earlier underpinned by gains in Home Depot ( HD ) as well as strength in the financial and energy sector.,0.9407694935798645,0.03005373291671276,0.029176771640777588,positive,0.9107157588005066
+3,2013-11-19 01:07:00,"Gains again evaporated just before the close, ending a five-day winning streak for the Dow.",0.3348008394241333,0.5372679829597473,0.12793120741844177,negative,-0.202467143535614
+4,2013-11-19 01:07:00,"The S&P 500 and Nasdaq also closed in the red for the second straight day, the result of a sell-off in Best Buy ( BBY ) and Altera Corp ( ALTR ).",0.13125862181186676,0.8284372091293335,0.04030413553118706,negative,-0.6971786022186279
+5,2013-11-19 01:07:00,European stocks fell in reaction to a downward revision by the Organization for Economic Cooperation and Development to 2013 and 2014 global growth.,0.021324047818779945,0.9612681865692139,0.017407644540071487,negative,-0.9399441480636597
+6,2013-11-19 01:07:00,"Losses accumulated throughout the day, amplified by the sluggish tone in the U.S. and EU economic data that might discourage the European Central Bank from any further interest rate cuts.",0.028216511011123657,0.9607672691345215,0.011016217060387135,negative,-0.9325507879257202
+7,2013-11-19 01:07:00,"Here's where the markets stand at the close:
+
+Dow Jones Industrial Index was down 9, or 0.1%, at 15,967
+
+S&P 500 was down 3.7, or 0.2%, at 1,787
+
+Nasdaq Composite Index was down 17, or 0.4%, at 3,931
+
+AMRN, The CEO disclosed the purchase of more than 50,777 shares at an average price of $1.54 per share and two positive articles helped elevate the stock price.",0.8069618940353394,0.015297798439860344,0.17774029076099396,positive,0.7916641235351562
+8,2013-11-19 01:07:00,"SPEX, Spherix's CompuFill LLC subsidiary has entered into a settlement and license agreement with a leading technology company.",0.9079563617706299,0.04022791236639023,0.05181564763188362,positive,0.8677284717559814
+9,2013-11-19 01:07:00,"HZNP, Entered into note purchase agreements with investors to issue $150 million aggregate principle and agreed to buy the U.S. rights for Pozen Inc VIMOVO delayed-release tablets.",0.8631921410560608,0.011168894357979298,0.1256389319896698,positive,0.8520232439041138
+10,2013-11-19 01:07:00,"ONVO, Negative Seeking Alpha reporting that expected revenue generated from 3D liver array is overstated
+
+BBY, Despite better than expected Q3 earnings, Best Buy warned that a more competitive environment, especially from Wal-Mart, could hurt Q4 gross margin as the company seeks to compete on price.",0.02709897980093956,0.9600571393966675,0.012843884527683258,negative,-0.93295818567276
+11,2013-11-19 01:07:00,"LITB, Reported upbeat Q3 earnings, but the company expects Q4 net revenue to be between $75.0 million and $77.0 million, versus the consensus estimate of $83.0 million
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.016637008637189865,0.03564974665641785,0.9477132558822632,neutral,-0.01901273801922798
+12,2013-11-19 01:07:00,Copyright (C) 2016 MTNewswires.com.,0.010173643939197063,0.017617104575037956,0.9722092151641846,neutral,-0.007443460635840893
+13,2013-11-19 01:07:00,All rights reserved.,0.01556148286908865,0.01622452400624752,0.9682139754295349,neutral,-0.0006630411371588707
+14,2013-11-19 01:07:00,Unauthorized reproduction is strictly prohibited.,0.014759602025151253,0.05492300167679787,0.9303174018859863,neutral,-0.040163397789001465

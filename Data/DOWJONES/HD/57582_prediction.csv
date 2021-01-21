@@ -1,0 +1,71 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2020-03-11 07:15:00,Lowe's (NYSE: LOW) is one of the largest home improvement stores in the United States.,0.24405351281166077,0.007893936708569527,0.7480525374412537,neutral,0.2361595779657364
+1,2020-03-11 07:15:00,Scotts Miracle-Gro (NYSE: SMG) is one of the largest makers of lawn care products and is a key supplier to Lowe's.,0.4735431671142578,0.00921432115137577,0.5172424912452698,neutral,0.4643288552761078
+2,2020-03-11 07:15:00,"Both companies sell things that get used regularly and, in many cases, are necessities for proper maintenance and repair of homes, offices, and industrial facilities.",0.0261311586946249,0.011344167403876781,0.9625245928764343,neutral,0.01478699129074812
+3,2020-03-11 07:15:00,Is one a better option than the other today for investors seeking out companies with solid businesses in turbulent times?,0.7500091791152954,0.024736078456044197,0.22525477409362793,positive,0.725273072719574
+4,2020-03-11 07:15:00,Let's explore.,0.11155425012111664,0.009092580527067184,0.8793531656265259,neutral,0.10246166586875916
+5,2020-03-11 07:15:00,"Lowe's operates around 2,200 home improvement stores across the U.S. market.",0.023225244134664536,0.006619424559175968,0.9701552987098694,neutral,0.016605820506811142
+6,2020-03-11 07:15:00,"It is, however, the perennial second-place finisher to larger competitor Home Depot (NYSE: HD).",0.5391026139259338,0.30102235078811646,0.15987500548362732,positive,0.23808026313781738
+7,2020-03-11 07:15:00,"To put a number on that, Lowe's market cap is roughly $80 billion compared to Home Depot's nearly $250 billion, despite having roughly the same number of stores.",0.2588180601596832,0.3765595853328705,0.3646223247051239,negative,-0.11774152517318726
+8,2020-03-11 07:15:00,"Lowe's has been retrenching over the last couple of years, closing stores and focusing on cost-cutting.",0.019295018166303635,0.9083731174468994,0.07233181595802307,negative,-0.8890780806541443
+9,2020-03-11 07:15:00,The main goal is to rationalize the business and improve margins so they are more in line with those of its main rival.,0.9085613489151001,0.012810519896447659,0.0786280632019043,positive,0.8957508206367493
+10,2020-03-11 07:15:00,"That hasn't gone so well, with Lowe's operating margin of roughly 5.6% in 2019 still far behind Home Depot's 14.6%.",0.1336057484149933,0.8132685422897339,0.0531257688999176,negative,-0.679662823677063
+11,2020-03-11 07:15:00,"In general, Lowe's margins have been in the mid- to high-single digits, while Home Depot's have been in the teens for the last four years.",0.021790288388729095,0.03356700763106346,0.9446427226066589,neutral,-0.011776719242334366
+12,2020-03-11 07:15:00,"Clearly, Lowe's is not the best-run hardware store in America.",0.04370654374361038,0.7204135656356812,0.2358798235654831,negative,-0.6767070293426514
+13,2020-03-11 07:15:00,"Lowe's also makes greater use of leverage than Home Depot, with a financial-debt-to-equity ratio of 0.22 times compared to 0.13 times.",0.7324230074882507,0.032204244285821915,0.23537267744541168,positive,0.7002187371253967
+14,2020-03-11 07:15:00,"To be fair, both are very low figures, so there's no particular reason to worry about Lowe's financial health.",0.02041810192167759,0.3144216537475586,0.6651601791381836,neutral,-0.29400354623794556
+15,2020-03-11 07:15:00,"In fact, it covers its interest expenses a solid nine times over.",0.1816098392009735,0.011462165042757988,0.8069279789924622,neutral,0.17014767229557037
+16,2020-03-11 07:15:00,"However, it still isn't as strong as its peer.",0.21215596795082092,0.38970527052879333,0.39813876152038574,neutral,-0.1775493025779724
+17,2020-03-11 07:15:00,"That said, Lowe's has increased its dividend for 57 consecutive years, with an average annualized increase over the past decade of roughly 20%.",0.9500315189361572,0.017158396542072296,0.032810065895318985,positive,0.9328731298446655
+18,2020-03-11 07:15:00,The most recent increase was in the mid-teens.,0.07902827858924866,0.010773377493023872,0.9101983308792114,neutral,0.06825490295886993
+19,2020-03-11 07:15:00,"The stock's current dividend yield is around 2% (for reference, Home Depot's yield is around 2.5%).",0.018628790974617004,0.009488387033343315,0.9718827605247498,neutral,0.00914040394127369
+20,2020-03-11 07:15:00,"Home Depot's dividend has only been increased for a decade, though at a much faster clip.",0.839929461479187,0.016152217984199524,0.14391832053661346,positive,0.8237772583961487
+21,2020-03-11 07:15:00,"Still, for long-term investors seeking out a dividend growth stock, Lowe's offers an enticing dividend story that shows a clear dedication to shareholders.",0.8267421126365662,0.013242393732070923,0.16001549363136292,positive,0.8134996891021729
+22,2020-03-11 07:15:00,"Valuation-wise, neither Lowe's nor Home Depot stands out as cheap.",0.028219198808073997,0.2071300745010376,0.7646507024765015,neutral,-0.17891088128089905
+23,2020-03-11 07:15:00,"However, looking at price to forward earnings, which examines analyst estimates, Lowe's looks like a better deal.",0.5353342294692993,0.029049240052700043,0.4356165826320648,positive,0.5062850117683411
+24,2020-03-11 07:15:00,Its price-to-forward-earnings ratio of 16 is below its five-year average of 18.,0.022759800776839256,0.9451097846031189,0.03213034197688103,negative,-0.9223499894142151
+25,2020-03-11 07:15:00,Home Depot's ratio is above its five-year average.,0.8902275562286377,0.022316452115774155,0.08745599538087845,positive,0.8679111003875732
+26,2020-03-11 07:15:00,"Investors are expecting more from Home Depot, which, based on the recent performance of these two hardware stores, makes a great deal of sense.",0.5033479928970337,0.013989370316267014,0.4826626181602478,positive,0.4893586337566376
+27,2020-03-11 07:15:00,"Slow growth (for now) as a retail supplier
+
+How does Scotts Miracle-Gro fit into all of this?",0.044644422829151154,0.03660869225859642,0.918746829032898,neutral,0.008035730570554733
+28,2020-03-11 07:15:00,"For starters, it counts Lowe's and Home Depot as two of its largest customers, with Walmart rounding out the top three.",0.08273311704397202,0.00842734333127737,0.9088395237922668,neutral,0.07430577278137207
+29,2020-03-11 07:15:00,"Together this trio represents roughly 60% of Scotts' sales, though only Lowe's and Home Depot individually make up more than 10% of sales each.",0.017345771193504333,0.010667084716260433,0.9719871878623962,neutral,0.0066786864772439
+30,2020-03-11 07:15:00,"Basically, the two hardware stores are huge customers for Scotts Miracle-Gro products.",0.19452355802059174,0.008528511971235275,0.7969479560852051,neutral,0.18599504232406616
+31,2020-03-11 07:15:00,"Scotts' operating margins, meanwhile, have been in the mid-teens space in recent years.",0.4007038474082947,0.15299871563911438,0.44629740715026855,neutral,0.2477051317691803
+32,2020-03-11 07:15:00,"It has increased its dividend annually for a decade, with a 10-year average increase in the mid-teens, though more recent hikes have been in the mid-single-digit area.",0.931328296661377,0.01866193860769272,0.05000971257686615,positive,0.912666380405426
+33,2020-03-11 07:15:00,The yield of roughly 2% is in-line with Lowe's.,0.5091724991798401,0.016397928819060326,0.47442948818206787,positive,0.4927745759487152
+34,2020-03-11 07:15:00,"Although Scotts' doesn't stand out dividend-wise, it certainly doesn't fall materially behind.",0.24525251984596252,0.08845353126525879,0.6662939786911011,neutral,0.15679898858070374
+35,2020-03-11 07:15:00,"Where there's a bigger difference, however, is leverage.",0.0858939066529274,0.0346541628241539,0.8794519305229187,neutral,0.0512397438287735
+36,2020-03-11 07:15:00,"Scotts' financial debt-to-equity ratio is roughly 0.35 times, and it covers its interest expenses by roughly 6 times.",0.021728748455643654,0.010313574224710464,0.9679577350616455,neutral,0.01141517423093319
+37,2020-03-11 07:15:00,So its balance sheet isn't quite as strong as the two companies to which it is a key supplier.,0.11014259606599808,0.07606372982263565,0.8137936592102051,neutral,0.03407886624336243
+38,2020-03-11 07:15:00,"That said, at this point, Scotts' leverage is hardly a huge concern.",0.013006671331822872,0.0344969667494297,0.9524964094161987,neutral,-0.021490294486284256
+39,2020-03-11 07:15:00,"In fact, its financial position has greatly improved over the last year or so, since its financial debt to equity was closer to 0.7 times not too long ago.",0.9436221122741699,0.015666399151086807,0.04071146994829178,positive,0.927955687046051
+40,2020-03-11 07:15:00,"LOW Financial Debt to Equity (Quarterly) data by YCharts
+
+That brings up a key difference between Scotts, Lowe's, and Home Depot: All three are in relatively slow-growth industries that supply basic home improvement needs.",0.13414661586284637,0.13891537487506866,0.7269380688667297,neutral,-0.00476875901222229
+41,2020-03-11 07:15:00,"Scotts, however, has recently entered into the hydroponic space, selling the gear that is used to grow marijuana.",0.11005459725856781,0.0056023611687123775,0.8843430876731873,neutral,0.1044522374868393
+42,2020-03-11 07:15:00,(Leverage spiked to 0.7 times because of acquisition activity.),0.9353352785110474,0.03841886296868324,0.026245756074786186,positive,0.896916389465332
+43,2020-03-11 07:15:00,"This business, known as Hawthorne, made up around 20% of the company's sales in fiscal 2019.",0.023467542603611946,0.007296523079276085,0.969235897064209,neutral,0.01617101952433586
+44,2020-03-11 07:15:00,"With marijuana expected to be a high-growth market for years to come, this business gives Scotts something of a growth flare that Lowe's and Home Depot both lack.",0.8828008770942688,0.014989282935857773,0.10220979899168015,positive,0.8678116202354431
+45,2020-03-11 07:15:00,"Valuation-wise, however, Scotts' doesn't look any better than Lowe's or Home Depot -- notably, its price-to-forward-earnings ratio of nearly 23 times is above that of Home Depot.",0.8009674549102783,0.07230303436517715,0.12672947347164154,positive,0.7286643981933594
+46,2020-03-11 07:15:00,"Like the other two names here, Scotts' doesn't look particularly cheap today.",0.030450690537691116,0.45030394196510315,0.5192453861236572,neutral,-0.41985324025154114
+47,2020-03-11 07:15:00,Which is best?,0.07571999728679657,0.04861808195710182,0.8756619095802307,neutral,0.027101915329694748
+48,2020-03-11 07:15:00,"The unfortunate answer here is that, right now, neither Lowe's nor Scotts looks particularly compelling.",0.021844446659088135,0.19313311576843262,0.785022497177124,neutral,-0.17128866910934448
+49,2020-03-11 07:15:00,"Home Depot doesn't look any more attractive, either.",0.030445067211985588,0.3023182153701782,0.6672366857528687,neutral,-0.2718731462955475
+50,2020-03-11 07:15:00,"However, for those with a growth bent, Home Depot and Scotts look like the better options than Lowe's.",0.42899349331855774,0.024909304454922676,0.5460971593856812,neutral,0.404084175825119
+51,2020-03-11 07:15:00,"Home Depot is simply better run than its main rival, and Scotts has the marijuana angle to it.",0.5746709704399109,0.02440650388598442,0.4009225070476532,positive,0.5502644777297974
+52,2020-03-11 07:15:00,"But go in knowing that you will be paying at least full price, if not more, which materially reduces the desirability here as the broader market experiences increasing turbulence.",0.46332067251205444,0.18288637697696686,0.3537929952144623,positive,0.2804343104362488
+53,2020-03-11 07:15:00,"In fact, most investors should probably hold off on all three names, and instead, put Home Depot (if you are looking for a targeted home improvement investment) and Scotts (for the marijuana growth story) on their wish lists until either market turbulence subsides or their valuations get at least a little more compelling.",0.03958872705698013,0.10393280535936356,0.8564784526824951,neutral,-0.06434407830238342
+54,2020-03-11 07:15:00,"10 stocks we like better than Lowe's
+
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen.",0.13442713022232056,0.02426512911915779,0.8413077592849731,neutral,0.11016200482845306
+55,2020-03-11 07:15:00,"After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.",0.46925464272499084,0.07301506400108337,0.4577302634716034,positive,0.39623957872390747
+56,2020-03-11 07:15:00,"*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now... and Lowe's wasn't one of them!",0.2176574170589447,0.015440662391483784,0.7669019103050232,neutral,0.2022167593240738
+57,2020-03-11 07:15:00,That's right -- they think these 10 stocks are even better buys.,0.8146857619285583,0.02307075634598732,0.16224350035190582,positive,0.7916150093078613
+58,2020-03-11 07:15:00,Reuben Gregg Brewer has no position in any of the stocks mentioned.,0.008390056900680065,0.026033494621515274,0.9655764698982239,neutral,-0.017643436789512634
+59,2020-03-11 07:15:00,The Motley Fool owns shares of and recommends Home Depot and Scotts Miracle-Gro.,0.023683475330471992,0.016338568180799484,0.959977924823761,neutral,0.007344907149672508
+60,2020-03-11 07:15:00,The Motley Fool recommends Lowe's and recommends the following options: long January 2021 $120 calls on Home Depot and short January 2021 $210 calls on Home Depot.,0.02138189785182476,0.03290632367134094,0.9457117319107056,neutral,-0.011524425819516182
+61,2020-03-11 07:15:00,The Motley Fool has a disclosure policy.,0.016547100618481636,0.017303917557001114,0.9661489725112915,neutral,-0.0007568169385194778

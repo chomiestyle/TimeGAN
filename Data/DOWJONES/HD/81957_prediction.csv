@@ -1,0 +1,7 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-11-15 07:32:00,"In early trading on Thursday, shares of Cisco Systems topped the list of the day's best performing Dow Jones Industrial Average components, trading up 4.0%.",0.9384494423866272,0.03036671131849289,0.031183786690235138,positive,0.9080827236175537
+1,2018-11-15 07:32:00,"Year to date, Cisco Systems registers a 20.3% gain.",0.9531555771827698,0.01890937238931656,0.027935102581977844,positive,0.9342461824417114
+2,2018-11-15 07:32:00,"And the worst performing Dow component thus far on the day is Nike, trading down 2.2%.",0.02117675356566906,0.9651733040809631,0.013649927452206612,negative,-0.9439965486526489
+3,2018-11-15 07:32:00,Nike is showing a gain of 17.5% looking at the year to date performance.,0.9553750157356262,0.019995857030153275,0.02462916448712349,positive,0.935379147529602
+4,2018-11-15 07:32:00,"Two other components making moves today are Home Depot, trading down 2.0%, and JPMorgan Chase, trading up 0.9% on the day.",0.030307354405522346,0.9322940111160278,0.037398602813482285,negative,-0.9019866585731506
+5,2018-11-15 07:32:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

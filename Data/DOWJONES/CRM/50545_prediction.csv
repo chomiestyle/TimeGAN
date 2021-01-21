@@ -1,0 +1,80 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2016-09-27 06:30:00,"Chicago, IL - September 27, 2016 - Zacks.com announces the list of stocks featured in the Analyst Blog.",0.018068498000502586,0.00865324679762125,0.9732782244682312,neutral,0.009415251202881336
+1,2016-09-27 06:30:00,Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.,0.021041298285126686,0.011407552286982536,0.9675511121749878,neutral,0.00963374599814415
+2,2016-09-27 06:30:00,"Stocks recently featured in the blog include Intel (NASDAQ: INTC - Free Report ), Cisco (NASDAQ: CSCO - Free Report ), Salesforce (NYSE: CRM - Free Report ) and Alphabet (NASDAQ: GOOGL - Free Report ).",0.02862331084907055,0.011579908430576324,0.9597967267036438,neutral,0.017043402418494225
+3,2016-09-27 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+4,2016-09-27 06:30:00,Get #1Stock of the Day pick for free.,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+5,2016-09-27 06:30:00,"Here are highlights from Monday's Analyst Blog:
+
+Technology stocks didn't gain much last week, despite some important announcements, exciting new products and important collaborations.",0.3100220561027527,0.38069504499435425,0.3092828392982483,negative,-0.07067298889160156
+6,2016-09-27 06:30:00,"Last week was significant because Intel (NASDAQ: INTC - Free Report ) got a new CFO, Cisco (NASDAQ: CSCO - Free Report ) and Salesforce (NYSE: CRM - Free Report ) announced a cloud collaboration and Alphabet's (NASDAQ: GOOGL - Free Report ) Google went deeper into travel with its Trips app.",0.6516672968864441,0.0218810997903347,0.3264516294002533,positive,0.6297861933708191
+7,2016-09-27 06:30:00,"Here's a quick look at the top stories:
+
+Intel's new CFO is the clearest indicator thus far of where the company is headed strategically.",0.13690002262592316,0.019161969423294067,0.8439379930496216,neutral,0.11773805320262909
+8,2016-09-27 06:30:00,"Robert (Bob) Swan is the new man in and he will be making $850,000 as base salary, $1.2 million as annual bonus and $5.5 million as hiring bonus.",0.037569865584373474,0.018365895375609398,0.944064199924469,neutral,0.019203970208764076
+9,2016-09-27 06:30:00,"His new hire stock grant and annual equity award could each be worth as much as $9.5 million and $6.5 million, respectively.",0.09836748987436295,0.006357396487146616,0.8952751159667969,neutral,0.09201009571552277
+10,2016-09-27 06:30:00,"So the question is, why is Intel splurging this amount of money on the CFO when it has obviously been walloped by the sluggish PC market, inadequate returns to date from new areas of promise and competing fabs/foundries catching up with its manufacturing process lead?",0.045060109347105026,0.7496176362037659,0.2053222507238388,negative,-0.7045575380325317
+11,2016-09-27 06:30:00,These pressures also led it to significantly downsize its workforce.,0.03402293473482132,0.9326878190040588,0.03328924626111984,negative,-0.8986648917198181
+12,2016-09-27 06:30:00,If the man was experienced in chipmaking that would still kind of make sense.,0.12233144789934158,0.0417136587202549,0.8359548449516296,neutral,0.08061778545379639
+13,2016-09-27 06:30:00,"But his experience has been elsewhere, most significantly as CFO of eBay where he spent nine years and earlier, his 15 years at GE where he had senior finance roles like divisional CFO for GE Transportation Systems, GE Healthcare Europe and GE Lighting.",0.026356099173426628,0.012460648082196712,0.9611833095550537,neutral,0.013895451091229916
+14,2016-09-27 06:30:00,He was last a partner at private equity firm General Atlantic where he advised clients on strategic M&A matters and helped develop their finance functions with a special focus on the IT sector.,0.0793759748339653,0.0055814627557992935,0.9150425791740417,neutral,0.07379451394081116
+15,2016-09-27 06:30:00,The question is perhaps best answered when we take a look at some recent actions the company has taken.,0.025344420224428177,0.008244692347943783,0.9664108753204346,neutral,0.01709972694516182
+16,2016-09-27 06:30:00,"According to data from CB Insights, Intel Capital has been the biggest investor in ecommerce companies (mainly Storenvy, Snapdeal, Reebonz, 1MG Technologies) between 2010 and Aug 2016.",0.18249014019966125,0.00615629693493247,0.8113535642623901,neutral,0.17633384466171265
+17,2016-09-27 06:30:00,"It has surpassed investors like Google Capital which was #2, Tencent, which was #3, Alibaba at #6 and eBay at #9.",0.686973512172699,0.02071024850010872,0.2923162579536438,positive,0.6662632822990417
+18,2016-09-27 06:30:00,"Moreover, in January this year, Intel launched its retail IoT platform, which is a reference model combining a retail sensor, a gateway and the Intel Trusted Analytics Platform to deliver near-real-time intelligence for retailers in the hopes of speeding up their IoT adoption.",0.7885277271270752,0.01206230465322733,0.19940993189811707,positive,0.7764654159545898
+19,2016-09-27 06:30:00,"Bob Swan's background, contacts and expertise indicates that Intel is seeing some results from these efforts.",0.90788334608078,0.013839132152497768,0.07827753573656082,positive,0.8940442204475403
+20,2016-09-27 06:30:00,"Cisco and Salesforce have announced an agreement to share collaboration, IoT and customer service technologies in the cloud for the benefit of common customers and thereby boost sales of both companies.",0.9452950954437256,0.01589629426598549,0.038808614015579224,positive,0.929398775100708
+21,2016-09-27 06:30:00,Cisco Spark and WebEx solutions will be integrated into the Sales Cloud and Service Cloud through the Salesforce Lightning Framework by the second half of 2017.,0.14942850172519684,0.005232203286141157,0.845339298248291,neutral,0.1441963016986847
+22,2016-09-27 06:30:00,"The combination of Cisco Jasper and Salesforce's IoT cloud will help the deployment, management and monetization of a company's IoT devices within a similar timeframe.",0.4144018590450287,0.007922500371932983,0.5776756405830383,neutral,0.4064793586730957
+23,2016-09-27 06:30:00,"On the other hand, the Cisco Unified Contact Center Enterprise and Salesforce Service Cloud are integrated and available today.",0.12597514688968658,0.005749315023422241,0.86827552318573,neutral,0.12022583186626434
+24,2016-09-27 06:30:00,The world's largest organizer of Internet information has just decided to share a piece with us.,0.17111796140670776,0.00781350675970316,0.8210685849189758,neutral,0.16330444812774658
+25,2016-09-27 06:30:00,"The company has launched the new Trips app for Android and iOS that pulls out your reservations from your gmail (you need to sign in with your Google account, the one that has your reservations and travel details) and maps out the entire trip.",0.08766097575426102,0.007461682893335819,0.9048774242401123,neutral,0.08019929379224777
+26,2016-09-27 06:30:00,"This information, along with maps and routes connecting the places you're visiting can be downloaded for offline use in case you want to minimize data consumption because international data plans can be expensive.",0.027619898319244385,0.023346610367298126,0.9490335583686829,neutral,0.0042732879519462585
+27,2016-09-27 06:30:00,"If you're travelling to one of the 200+ cities Google has collected information on, you'll also be treated to editorial guides and personalized recommendations on points of interest, tourist attractions, restaurants, etc.",0.026710178703069687,0.010563072748482227,0.9627267718315125,neutral,0.016147106885910034
+28,2016-09-27 06:30:00,"Inside the app, Reservations organizes your flights, hotel information and rental car reservations.",0.017806755378842354,0.01551421731710434,0.9666790962219238,neutral,0.0022925380617380142
+29,2016-09-27 06:30:00,"Need to Know contains directions, local currency, emergency information, etc.",0.019637756049633026,0.009639149531722069,0.970723032951355,neutral,0.009998606517910957
+30,2016-09-27 06:30:00,Things to Do is the most interesting because it can build custom itineraries based on the length of your stay or your recorded preferences on any Google service.,0.02400720678269863,0.011176333762705326,0.9648164510726929,neutral,0.012830873019993305
+31,2016-09-27 06:30:00,"Or if you want a more focused trip, you can consider one of the specific guides on shopping, museums, or other interests, in which you can add or delete any other place you'd like to visit along the way.",0.03999277576804161,0.017776411026716232,0.942230761051178,neutral,0.02221636474132538
+32,2016-09-27 06:30:00,"If your data is turned on, the app will mention the hours any place of interest is open.",0.015610632486641407,0.018978679552674294,0.9654107093811035,neutral,-0.0033680470660328865
+33,2016-09-27 06:30:00,"Google's Trips app doesn't help you to buy services, its focus is on organizing tour trip information so you have it at your fingertips.",0.01328109111636877,0.025746570900082588,0.9609723091125488,neutral,-0.012465479783713818
+34,2016-09-27 06:30:00,"So in that sense it competes directly with TripAdvisor, but not so much with Priceline or Expedia, at least not yet.",0.22829468548297882,0.012975051999092102,0.7587302327156067,neutral,0.21531963348388672
+35,2016-09-27 06:30:00,"Today, Zacks is promoting its ''Buy'' stock recommendations.",0.3684377670288086,0.010614300146698952,0.6209479570388794,neutral,0.3578234612941742
+36,2016-09-27 06:30:00,Get #1Stock of the Day pick for free .,0.0864095613360405,0.03249066323041916,0.8810997605323792,neutral,0.05391889810562134
+37,2016-09-27 06:30:00,Zacks Equity Research provides the best of quantitative and qualitative analysis to help investors know what stocks to buy and which to sell for the long-term.,0.06386703997850418,0.004654404241591692,0.9314785599708557,neutral,0.059212636202573776
+38,2016-09-27 06:30:00,"Continuous coverage is provided for a universe of 1,150 publicly traded stocks.",0.036364275962114334,0.004866600502282381,0.9587691426277161,neutral,0.03149767592549324
+39,2016-09-27 06:30:00,Our analysts are organized by industry which gives them keen insights to developments that affect company profits and stock performance.,0.054108913987874985,0.005191051866859198,0.9407000541687012,neutral,0.04891786351799965
+40,2016-09-27 06:30:00,Recommendations and target prices are six-month time horizons.,0.013092893175780773,0.007127966266125441,0.9797791242599487,neutral,0.0059649269096553326
+41,2016-09-27 06:30:00,"Zacks ""Profit from the Pros"" e-mail newsletter provides highlights of the latest analysis from Zacks Equity Research.",0.027419384568929672,0.007709485478699207,0.9648711085319519,neutral,0.01970990002155304
+42,2016-09-27 06:30:00,Subscribe to this free newsletter today .,0.01819673366844654,0.007496170233935118,0.974307119846344,neutral,0.010700562968850136
+43,2016-09-27 06:30:00,"Zacks.com is a property of Zacks Investment Research, Inc., which was formed in 1978.",0.01612137258052826,0.0071211024187505245,0.9767575860023499,neutral,0.009000269696116447
+44,2016-09-27 06:30:00,"The later formation of the Zacks Rank, a proprietary stock picking system; continues to outperform the market by nearly a 3 to 1 margin.",0.9116206169128418,0.04347905144095421,0.0449003241956234,positive,0.8681415915489197
+45,2016-09-27 06:30:00,The best way to unlock the profitable stock recommendations and market insights of Zacks Investment Research is through our free daily email newsletter; Profit from the Pros.,0.07881949096918106,0.006378026679158211,0.9148024916648865,neutral,0.072441466152668
+46,2016-09-27 06:30:00,"In short, it's your steady flow of Profitable ideas GUARANTEED to be worth your time!",0.43368902802467346,0.012674679979681969,0.5536363124847412,neutral,0.42101433873176575
+47,2016-09-27 06:30:00,Register for your free subscription to Profit from the Pros .,0.027246445417404175,0.00914913509041071,0.9636043906211853,neutral,0.01809731125831604
+48,2016-09-27 06:30:00,"Get the full Report on INTC - FREE
+
+Get the full Report on CSCO - FREE
+
+Get the full Report on CRM - FREE
+
+Get the full Report on GOOGL - FREE
+
+Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.",0.013515659607946873,0.010054259561002254,0.9764299988746643,neutral,0.0034614000469446182
+49,2016-09-27 06:30:00,Past performance is no guarantee of future results.,0.023727279156446457,0.008731111884117126,0.9675416350364685,neutral,0.01499616727232933
+50,2016-09-27 06:30:00,Inherent in any investment is the potential for loss.,0.023265572264790535,0.09617827832698822,0.8805561661720276,neutral,-0.07291270792484283
+51,2016-09-27 06:30:00,"This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security.",0.011962415650486946,0.010706594213843346,0.9773310422897339,neutral,0.0012558214366436005
+52,2016-09-27 06:30:00,No recommendation or advice is being given as to whether any investment is suitable for a particular investor.,0.01822577603161335,0.008984367363154888,0.9727898240089417,neutral,0.009241408668458462
+53,2016-09-27 06:30:00,"It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable.",0.020858757197856903,0.007662615738809109,0.9714785814285278,neutral,0.013196141459047794
+54,2016-09-27 06:30:00,All information is current as of the date of herein and is subject to change without notice.,0.01124907098710537,0.013303965330123901,0.9754469990730286,neutral,-0.002054894343018532
+55,2016-09-27 06:30:00,Any views or opinions expressed may not reflect those of the firm as a whole.,0.008276145905256271,0.021656149998307228,0.9700676798820496,neutral,-0.013380004093050957
+56,2016-09-27 06:30:00,"Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.",0.009504852816462517,0.012596068903803825,0.9778990745544434,neutral,-0.0030912160873413086
+57,2016-09-27 06:30:00,These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs.,0.14585068821907043,0.02033580094575882,0.8338135480880737,neutral,0.1255148947238922
+58,2016-09-27 06:30:00,These are not the returns of actual portfolios of stocks.,0.010538044385612011,0.012450686655938625,0.9770112633705139,neutral,-0.0019126422703266144
+59,2016-09-27 06:30:00,The S&P 500 is an unmanaged index.,0.022511588409543037,0.0801919475197792,0.8972964882850647,neutral,-0.05768036097288132
+60,2016-09-27 06:30:00,Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.,0.01078665629029274,0.015373211354017258,0.9738401174545288,neutral,-0.004586555063724518
+61,2016-09-27 06:30:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+62,2016-09-27 06:30:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+63,2016-09-27 06:30:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+64,2016-09-27 06:30:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204561054706573,0.01563790813088417,0.9741575717926025,neutral,-0.005433347076177597

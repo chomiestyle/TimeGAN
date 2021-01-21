@@ -1,0 +1,65 @@
+,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
+0,2018-01-11 22:33:00,The Zacks Research Daily presents the best research output of our analyst team.,0.6325156092643738,0.012341027148067951,0.35514333844184875,positive,0.6201745867729187
+1,2018-01-11 22:33:00,"Today's Research Daily features new research reports on 16 major stocks, including Home Depot (HD), CVS Health (CVS) and Biogen (BIIB).",0.04426157847046852,0.0072823152877390385,0.9484561681747437,neutral,0.03697926178574562
+2,2018-01-11 22:33:00,These research reports have been hand-picked from the roughly 70 reports published by our analyst team today.,0.054846275597810745,0.007339245639741421,0.937814474105835,neutral,0.04750702902674675
+3,2018-01-11 22:33:00,"You can see all of today's research reports here >>>
+
+Home Depot 's shares have gained +44.2% over the last one year, compared with the +37.8% gain of the Zacks Retail Building Products industry, backed by its five-year long trend of beating earnings estimates.",0.9549513459205627,0.028083298355340958,0.0169653482735157,positive,0.9268680214881897
+4,2018-01-11 22:33:00,"The company delivered bottom-line beat in third-quarter fiscal 2017, while sales topped estimates for the fifth straight quarter.",0.9310442209243774,0.028892597183585167,0.04006313532590866,positive,0.9021516442298889
+5,2018-01-11 22:33:00,"Results gained from strength in core business as well as relentless focus on affording innovative products, boosting interconnected customer experience and driving productivity.",0.9371642470359802,0.014141994528472424,0.04869364947080612,positive,0.9230222702026367
+6,2018-01-11 22:33:00,Steady housing market recovery and strong customer demand also remained tailwinds.,0.41334089636802673,0.4791700541973114,0.10748894512653351,negative,-0.06582915782928467
+7,2018-01-11 22:33:00,"Home Depot raised top and bottom-line guidance for fiscal 2017, based on the solid year-to-date performance and anticipated gains from hurricane recovery activities.",0.8432254195213318,0.019581224769353867,0.13719335198402405,positive,0.82364422082901
+8,2018-01-11 22:33:00,"While hurricane-related activities aided comps growth, gross margins on such sales were significantly below average.",0.020050186663866043,0.9636198878288269,0.016329914331436157,negative,-0.9435697197914124
+9,2018-01-11 22:33:00,"This led to a decline in gross margin, which is likely to continue in fiscal 2017.",0.018560631200671196,0.968575656414032,0.012863771989941597,negative,-0.9500150084495544
+10,2018-01-11 22:33:00,"Moreover, competition from online retailers may impact performance.",0.03194781765341759,0.7816116809844971,0.1864406019449234,negative,-0.7496638894081116
+11,2018-01-11 22:33:00,(You can read the full research report on Home Depot here >>> ).,0.012610534206032753,0.013505421578884125,0.973884105682373,neutral,-0.0008948873728513718
+12,2018-01-11 22:33:00,Shares of CVS Health have outperformed the Zacks Drug Stores industry over the last six months gaining +1.4% vs. a decline of -2.3%.,0.5148248672485352,0.46261778473854065,0.022557364776730537,positive,0.05220708250999451
+13,2018-01-11 22:33:00,The company has been gaining on the back of strong Pharmacy Services segment that benefited from the upside in the Specialty Pharmacy.,0.9563586115837097,0.018449340015649796,0.025191960856318474,positive,0.9379092454910278
+14,2018-01-11 22:33:00,"The Zacks analyst is also encouraged to note that, despite a soft bottom-line scenario, the company reiterated its earnings outlook for 2017 indicating chances of recovery ahead.",0.9403064250946045,0.02315814420580864,0.03653545305132866,positive,0.9171482920646667
+15,2018-01-11 22:33:00,CVS Health's on-going strong 2018 PBM selling season is another upside.,0.7627326250076294,0.02868000976741314,0.2085873782634735,positive,0.7340525984764099
+16,2018-01-11 22:33:00,"Also, CVS Health's plan to acquire Aetna might change the Healthcare landscape in the United States.",0.5872417688369751,0.022108320146799088,0.3906499445438385,positive,0.5651334524154663
+17,2018-01-11 22:33:00,"On the flip side, the company has been suffering from softness in Retail/LTC business and a weak margin scenario.",0.02275834046304226,0.9587101340293884,0.01853158138692379,negative,-0.9359517693519592
+18,2018-01-11 22:33:00,(You can read the full research report on CVS Health here >>> ).,0.01250061672180891,0.012877383269369602,0.9746220707893372,neutral,-0.00037676654756069183
+19,2018-01-11 22:33:00,Biogen 's shares have outperformed the Zacks Biomedicals and Genetics industry over the last one year (+17.0% vs. +0.9%).,0.4327930808067322,0.543226420879364,0.023980556055903435,negative,-0.11043334007263184
+20,2018-01-11 22:33:00,Biogen has a strong position in the MS market.,0.761054515838623,0.010908580385148525,0.22803685069084167,positive,0.7501459121704102
+21,2018-01-11 22:33:00,"The Zacks analyst also likes its efforts to diversify beyond MS to other areas like Alzheimer's, Parkinson's, stroke, among others.",0.7859803438186646,0.011396436020731926,0.2026231437921524,positive,0.7745839357376099
+22,2018-01-11 22:33:00,"Meanwhile, Spinraza has witnessed strong patient uptake in the U.S. and internationally.",0.949787437915802,0.014126008376479149,0.03608658164739609,positive,0.9356614351272583
+23,2018-01-11 22:33:00,"However, Tecfidera is witnessing slight decline in U.S. patient demand due to increasing competition from oral medicines and a slowdown in the overall MS market.",0.016741326078772545,0.9692510366439819,0.014007645659148693,negative,-0.9525097012519836
+24,2018-01-11 22:33:00,"Meanwhile, the recent Ocrevus launch by Roche is beginning to have a negative impact on MS franchise sales in the U.S. At the call, the company said that seasonality and continued competitive pressure from Ocrevus' launch will hurt the performance of its MS franchise in Q4.",0.01895609311759472,0.9646577835083008,0.016386205330491066,negative,-0.9457017183303833
+25,2018-01-11 22:33:00,Estimate movement has been mixed ahead of Q4 earnings results.,0.038035109639167786,0.9041435718536377,0.0578213594853878,negative,-0.8661084771156311
+26,2018-01-11 22:33:00,The company has a positive record of earnings surprises in recent quarters.,0.9442597031593323,0.02228577248752117,0.03345456346869469,positive,0.9219739437103271
+27,2018-01-11 22:33:00,(You can read the full research report on Biogen here >>> ).,0.013879170641303062,0.012286399491131306,0.9738344550132751,neutral,0.0015927711501717567
+28,2018-01-11 22:33:00,"Other noteworthy reports we are featuring today include Raytheon (RTN), Alphabet (GOOGL) and Western Digital (WDC).",0.03681949898600578,0.0054509807378053665,0.9577295184135437,neutral,0.03136851638555527
+29,2018-01-11 22:33:00,"Zacks Editor-in-Chief Goes ""All In"" on This Stock
+
+Full disclosure, Kevin Matras now has more of his own money in one particular stock than in any other.",0.046605318784713745,0.02256212756037712,0.93083256483078,neutral,0.024043191224336624
+30,2018-01-11 22:33:00,He believes in its short-term profit potential and also in its prospects to more than double by 2019.,0.9215595126152039,0.014699761755764484,0.06374071538448334,positive,0.9068597555160522
+31,2018-01-11 22:33:00,Today he reveals and explains his surprising move in a new Special Report.,0.3703147768974304,0.012097598053514957,0.617587685585022,neutral,0.35821717977523804
+32,2018-01-11 22:33:00,Note: Sheraz Mian heads the Zacks Equity Research department and is a well-regarded expert of aggregate earnings.,0.1108352467417717,0.007436841260641813,0.881727933883667,neutral,0.1033984050154686
+33,2018-01-11 22:33:00,He is frequently quoted in the print and electronic media and publishes the weekly Earnings Trendsand Earnings Previewreports.,0.026142945513129234,0.011532393284142017,0.9623246192932129,neutral,0.014610552228987217
+34,2018-01-11 22:33:00,"If you want an email notification each time Sheraz publishes a new article, please click here>>>
+
+While Encana's strong focus on the Montney and Permian plays will drive production growth, the Zacks analyst is concerned about the firm's negative free cash flow over the past few quarters.",0.029950782656669617,0.9372789263725281,0.032770343124866486,negative,-0.9073281288146973
+35,2018-01-11 22:33:00,"Per a Zacks analyst, Nordson's Sonoscan acquisition will solidify its test and inspection business while Infiniti Dosing's PCP products buyout will expand the dispensing and dosing business.",0.923567533493042,0.013544228859245777,0.0628882572054863,positive,0.9100233316421509
+36,2018-01-11 22:33:00,"Per the Zacks analyst, new product additions will enhance the Western Digital's existing product portfolio and aid it in securing a strong foothold in the global SSD market.",0.951521098613739,0.015196375548839569,0.03328260779380798,positive,0.9363247156143188
+37,2018-01-11 22:33:00,"The Zacks analyst believes that Alphabet's focus on diversification artificial intelligence, Android OS and hardware is a positive.",0.7858090996742249,0.011584999039769173,0.2026059478521347,positive,0.7742241024971008
+38,2018-01-11 22:33:00,"Per the Zacks analyst, a number of profitable acquisitions like NetSpend, TransFirst along with its consistent focus on new product initiatives, technology modernization have driven top line growth.",0.9313205480575562,0.01350354589521885,0.05517596751451492,positive,0.9178169965744019
+39,2018-01-11 22:33:00,"Per the Zacks analyst, solid online and in-store traffic, alongside momentum at AE and Aerie brands should drive sales.",0.9545062780380249,0.019758835434913635,0.025734927505254745,positive,0.9347474575042725
+40,2018-01-11 22:33:00,"Per the Zacks analyst, E*TRADE 's efforts to enhance trading business by introduction of new brokerage products and services might support its growth.",0.9538611769676208,0.015282873995602131,0.030855990946292877,positive,0.9385783076286316
+41,2018-01-11 22:33:00,"Per the Zacks analyst, foreign military contracts continue to be a vital growth driver for Raytheon.",0.9117763042449951,0.013177018612623215,0.07504678517580032,positive,0.8985992670059204
+42,2018-01-11 22:33:00,Also the company has been witnessing strong demand for its varied kind of surveillance radars.,0.9353107810020447,0.014615423046052456,0.050073761492967606,positive,0.9206953644752502
+43,2018-01-11 22:33:00,Toyota is partnering with technology companies to raise its hold in the electric & self-driving cars market.,0.93573397397995,0.016731616109609604,0.047534313052892685,positive,0.91900235414505
+44,2018-01-11 22:33:00,"Per the Zacks analyst, this will help meet rising demand for multi-faceted transportation.",0.9269251823425293,0.014681179076433182,0.05839360132813454,positive,0.9122440218925476
+45,2018-01-11 22:33:00,The Zacks analyst is encouraged by Brinker's operational efficiencies like remodeling of outlets.,0.8352005481719971,0.014195564202964306,0.15060387551784515,positive,0.8210049867630005
+46,2018-01-11 22:33:00,Other sales boosting efforts like menu innovation and digital advancement should drive growth.,0.9128210544586182,0.014235819689929485,0.07294312864542007,positive,0.8985852599143982
+47,2018-01-11 22:33:00,"Per the Zacks analyst, rise in supply of residential housing assets in Mid-America Apartment's key markets will likely lower rent and occupancy growth.",0.031813882291316986,0.9447061419487,0.02348005212843418,negative,-0.9128922820091248
+48,2018-01-11 22:33:00,"Also, higher interest rates will hamper growth.",0.01909365877509117,0.9568413496017456,0.024064945057034492,negative,-0.9377477169036865
+49,2018-01-11 22:33:00,"Per the Zacks analyst, A. O. Smith is struggling with high selling, general & administrative expenses in China.",0.023168155923485756,0.9505413174629211,0.02629055269062519,negative,-0.9273731708526611
+50,2018-01-11 22:33:00,Continuous rise in steel prices and intensive competition also remain a concern.,0.06141986697912216,0.06387943029403687,0.8747007250785828,neutral,-0.0024595633149147034
+51,2018-01-11 22:33:00,"The Zacks analyst is concerned that Teva is facing significant challenges like generic competition for Copaxone, pricing erosion in the U.S. generics business and a massive debt load.",0.02852516807615757,0.9263160824775696,0.04515877366065979,negative,-0.8977909088134766
+52,2018-01-11 22:33:00,Want the latest recommendations from Zacks Investment Research?,0.03539300337433815,0.011573811061680317,0.9530332088470459,neutral,0.023819193243980408
+53,2018-01-11 22:33:00,"Today, you can download 7 Best Stocks for the Next 30 Days.",0.05069372057914734,0.007019792217761278,0.9422864317893982,neutral,0.04367392882704735
+54,2018-01-11 22:33:00,"Click to get this free report
+
+To read this article on Zacks.com click here.",0.020684564486145973,0.03315984085202217,0.9461556077003479,neutral,-0.012475276365876198
+55,2018-01-11 22:33:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555
