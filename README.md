@@ -1,0 +1,3 @@
+# TimeGAN
+Una investigación muy reciente y prometedora de Yoon, Jarrett y van der Schaar, presentada en NeurIPS en diciembre de 2019, presenta un marco novedoso de Red Adversarial Generativa de Series de Tiempo (TimeGAN) que tiene como objetivo dar cuenta de las correlaciones temporales mediante la combinación de capacitación supervisada y no supervisada.En este repositorio se presentan tanto la version original como las versiones adaptadas con datos originales a eleccion tanto del DOWJONES como de algunas cryptomonedas.
+En la implementacion de tensorflow 2 se puede ver una carpeta de resultados los cuales fueron realizados con diferentes variaciones y numeros de epocas.
