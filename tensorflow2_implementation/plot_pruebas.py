@@ -219,7 +219,7 @@ random_series = iter(tf.data.Dataset
 n_seq=5
 seq_len=20
 z_iter,x_iter,prev_iter,scaler,t_data=prepare_data(seq_len=seq_len,n_seq=n_seq)
-model_path_1= 'C:/Users/56979/PycharmProjects/TimeGAN/tensorflow2_implementation/TimeGAN_future2_noise_past13000/experiment_00/synthetic_data'
+model_path_1= '/tensorflow2_implementation/RESULTS/TimeGAN_future2_noise_past13000/experiment_00/synthetic_data'
 model_path_2= '/tensorflow2_implementation/past_noised_data/TimeGAN_future2_noise_past3000/experiment_00/synthetic_data'
 model_path_3= '/tensorflow2_implementation/past_noised_data/TimeGAN_future2_noise_past3000/experiment_00/synthetic_data'
 model_path_4= '/tensorflow2_implementation/past_noised_data/TimeGAN_future2_noise_past3000/experiment_00/synthetic_data'

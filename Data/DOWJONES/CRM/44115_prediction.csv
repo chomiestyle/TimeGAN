@@ -1,4 +1,0 @@
-,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
-0,2019-08-09 07:51:00,"The latest tally of analyst opinions from the major brokerage houses shows that among the components of the S&P 500 index, Salesforce.com (CRM) is now the #4 analyst pick, moving up by 1 spot.",0.918143093585968,0.035253413021564484,0.04660338908433914,positive,0.8828896880149841
-1,2019-08-09 07:51:00,"This rank is formed by averaging the analyst opinions for each component from each broker, and then ranking the 500 components by those average opinion values.",0.020923130214214325,0.007003938779234886,0.9720728993415833,neutral,0.013919191434979439
-2,2019-08-09 07:51:00,"Looking at the stock price movement year to date, Salesforce.com (CRM) is showing a gain of 3.6%.",0.955348014831543,0.021325543522834778,0.023326395079493523,positive,0.9340224862098694

@@ -1,7 +1,0 @@
-,datetime,sentence,positive,negative,neutral,global_sentiment,avg_sentiment
-0,2018-11-13 07:53:00,"In early trading on Tuesday, shares of Intel topped the list of the day's best performing Dow Jones Industrial Average components, trading up 2.1%.",0.9339063167572021,0.03578277677297592,0.030310869216918945,positive,0.898123562335968
-1,2018-11-13 07:53:00,"Year to date, Intel registers a 3.2% gain.",0.9497632384300232,0.022101301699876785,0.02813545987010002,positive,0.9276619553565979
-2,2018-11-13 07:53:00,"And the worst performing Dow component thus far on the day is Boeing, trading down 1.5%.",0.021202966570854187,0.965609610080719,0.013187466189265251,negative,-0.9444066286087036
-3,2018-11-13 07:53:00,Boeing is showing a gain of 19.3% looking at the year to date performance.,0.9541783928871155,0.021376892924308777,0.02444467507302761,positive,0.9328014850616455
-4,2018-11-13 07:53:00,"Two other components making moves today are Home Depot, trading down 1.4%, and Caterpillar, trading up 2.1% on the day.",0.027006514370441437,0.9345903396606445,0.03840310871601105,negative,-0.9075838327407837
-5,2018-11-13 07:53:00,"The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",0.010204566642642021,0.015637893229722977,0.9741575717926025,neutral,-0.0054333265870809555

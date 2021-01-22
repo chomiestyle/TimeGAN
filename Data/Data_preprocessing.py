@@ -197,7 +197,7 @@ def combine_price_and_sentiment(sentimentFrame, priceFrame):
     dataFrame['Compound_multiplied_row']=avg_mean
     dataFrame=dataFrame.set_index('Date')
     stock_name='HD'
-    save_dir='C:/Users/56979/PycharmProjects/TimeGAN/input'
+    save_dir= '/Data/input'
     file_name='results_{}_new.csv'.format(stock_name)
     save_file_path = f'{save_dir}/{file_name}'
     dataFrame.to_csv(save_file_path)
